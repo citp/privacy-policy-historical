@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zorotools.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106082347id_/https%3A//www.zoro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zorotools.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401175917id_/https%3A//www.zoro.com/privacy) for the most accurate reproduction.*
 
 # Zoro Privacy Policy
-
-## _Last modified: February, 2018_
 
 Our Privacy Policy applies to our websites and brands and any other website, mobile application, or other online service that links to this Policy (collectively, our “Service”). You can read the full version of the Privacy Policy and find a summary below.
 
@@ -20,7 +18,7 @@ This personal information is collected from you in many ways, which are describe
 
 We may link or combine information that we collect about you from various sources to help ensure a consistent user experience regardless of how you interact with us – online, in-branch, on mobile, or on social media.
 
-We use personal information to provide our Service; to fulfil your requests, process transactions and contact you; to send you personalized advertising and promotional content and materials; to analyse and improve our Service and our business; and for other reasons described more fully in our Privacy Policy. 
+We use personal information to provide our Service; to fulfil your requests, process transactions and contact you; to send you personalized advertising and promotional content and materials; to analyse and improve our Service and our business; and for other reasons described more fully in our Privacy Policy.
 
 To **Learn More** about the information we collect and how we use it, or see our full Policy.
 
@@ -54,7 +52,7 @@ Zoro Tools, Inc. (“Zoro,” “we,” “our,” or “us”) is committed to 
 
 This Privacy Policy applies to our websites and brands, and any other website, mobile application, or other online service that links to this Policy (collectively, our “Service”). 
 
-By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy and our [Terms of Service.](https://web.archive.org/web/20181106082347id_/https%3A//www.zoro.com/legal/)
+By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy and our [Terms of Service.](https://web.archive.org/legal)
 
 ### Click on the Links Below to Jump to Each Section:
 
@@ -67,6 +65,8 @@ We collect certain information automatically when you use the Service, such as i
 We may also collect information about you from third parties. 
 
 The categories of personal information we collect may include: 
+
+Keep reading to learn more about the information we collect and how we use it. 
 
 The list below sets out the categories of personal information we collect about you and how we use that information. 
 
@@ -119,7 +119,7 @@ If you choose not to provide personal information, we may not be able to provide
 
 **Cross-Context Information**. We may link or combine your activities and information collected from you on our websites and mobile apps with your in-branch purchases and information we receive from third parties, as well as information we collect automatically through tracking technologies. This allows us to provide you with a personalized experience regardless of how you interact with us – online, in-branch, on mobile or social media. 
 
-## 2\. Information Automatically Collected Through Cookies and Other Tracking Technology
+## 2\. Information Automatically Collected Through Cookies and Other Tracking Technology. 
 
 When you use our Service, visit our branches, read our emails, or otherwise engage with us through a computer or mobile device, we and our third party partners, automatically collect information about how you access and use the Service and information about the device you use to access the Service. 
 
@@ -161,7 +161,7 @@ Deleting cookies does not delete Local Storage Objects (LSOs) such as Flash obje
 
 **Do Not Track**. Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time. 
 
-## 3\. Third Party Data Collection and Interest Based Advertising 
+## 3\. Third Party Data Collection and Interest Based Advertising. 
 
 ### Interest Based Advertising
 
@@ -173,9 +173,11 @@ Our Service may include social media features, such as the Facebook Like button,
 
 We display targeted advertising to you through social media platforms, such as Facebook, Twitter, Google+ and others. These companies have interest-based advertising programs that allow us to direct advertisements to users who have shown interest in our Service while those users are on the social media platform, or to groups of other users who share similar traits, such as likely commercial interests and demographics. These advertisements are governed by the privacy policies of those social media companies that provide them. 
 
-### Interest Based Advertising
+  * Facebook. To learn more about your advertising preferences on Facebook, click [here](https://www.facebook.com/help/109378269482053). 
+  * Twitter. To learn more about privacy controls for personalized ads on Twitter, click [here](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads). 
+  * LinkedIn. To learn more about advertising preferences on LinkedIn, click [here](https://www.linkedin.com/psettings/advertising). 
 
-We participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your browsing history. We permit third party online advertising networks, social media companies and other third party services, to collect, information about your use of our websites and mobile apps over time so that they may play or display ads on our Service, on other websites, apps or services you may use, and on other devices you may use. Typically, though not always, the information used for interest-based advertising is collected through cookies or similar tracking technologies, which recognize the device you are using and collect information, including click stream information, browser type, time and date you visited the site and other information. We may share a common account identifier (such as an email address or user ID) with our third party advertising partners to help identify you across devices. We and our third party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. See Your Choices and Control Over Your Information, below, to learn more about how you may control interest-based advertising.
+
 
 ### Cross-Device Linking 
 
@@ -189,7 +191,15 @@ The following is a sample of the third party service partners we work with to pr
 
 We may also utilize certain forms of display advertising and other advanced features through Google Universal Analytics, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Doubleclick advertising cookie) or other third party cookies together to inform, optimize, and display ads based on your past visits to the Service. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at <https://google.com/ads/preferences> or by vising NAI’s online resources at <http://www.networkadvertising.org/choices>. 
 
-**Adobe Marketing Cloud Device Co-Op**. Zoro may participate in the Adobe Marketing Cloud Device Co-Op to better understand how you use our website and apps across the various devices you use, and to deliver tailored content and advertisements. Go to https://cross-device-privacy.adobe.com to learn more about how Adobe links your devices and to manage your choices relating to this linking of devices. 
+**Google Maps/Google Earth Additional Terms of Service**. We use Google Maps/Google Earth to help enhance your experience on our site or as you use the Service. Unless your browser is configured to prevent interaction these tools may automatically collect information about your location, including through IP address, GPS and other sensor data that may, for example, provide Google with information on nearby devices, WiFi access points and cell towers, in order to display relevant geographic information to you. This information is governed by the [Google Maps/Google Earth Additional Terms of Service](https://maps.google.com/help/terms_maps.html) and the [Google Privacy Policy](https://policies.google.com/privacy). For more information regarding Google’s currently available opt-outs, click here:<https://tools.google.com/dlpage/gaoptout/>
+
+**Google Advertising**. To learn more about your ad settings through Google, click [here](https://adssettings.google.com/). 
+
+**Adobe Marketing Cloud Device Co-Op**. Zoro may participate in the Adobe Marketing Cloud Device Co-Op to better understand how you use our website and apps across the various devices you use, and to deliver tailored content and advertisements. Go to [https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/) to learn more about how Adobe links your devices and to manage your choices relating to this linking of devices. 
+
+**Media Math**. To learn more about Media Math and/or how to opt-out of certain advertising, click [here](http://www.mediamath.com/ad-choices-opt-out/). 
+
+**Bing Ads**. To learn more about Bing Ads, click [here](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads). 
 
 ### User Experience Information 
 
@@ -237,11 +247,11 @@ We may also share information with others in an aggregated or otherwise anonymiz
 
 ## 5\. Your Choices and Control Over Your Information
 
-**Profile and data sharing settings** : You may update your profile information, such as your user name, address, or billing information, and may change some of your data sharing preferences on your Account Page. 
+**Profile and data sharing settings** : You may update your profile information, such as your user name, address, or billing information, and may change some of your data sharing preferences on your [Account Page](https://web.archive.org/sign-in/login/). 
 
 **How to control your email preferences** : You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
 
-**Modifying or deleting your information** : If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [zorodataprivacy@grainger.com](https://web.archive.org/web/20181106082347id_/https%3A//www.zoro.com/zorodataprivacy@grainger.com).We may not be able to modify or delete your information in all circumstances. 
+**Modifying or deleting your information** : If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [zorodataprivacy@grainger.com](https://web.archive.org/web/20190401175917id_/https%3A//www.zoro.com/zorodataprivacy@grainger.com).We may not be able to modify or delete your information in all circumstances. 
 
 **Geolocation and in-branch location** : You may control location tracking by adjusting your location services settings on your mobile device. We may continue to approximate your location based on your IP address when you access the Service through a computer or device.
 
@@ -269,11 +279,11 @@ Deleting cookies does not delete Local Storage Objects (LSOs) such as Flash obje
 
 **Keeping your information safe:** Security of your information is very important to us, and we have put in place safeguards to preserve the integrity and security of information we collect and that we share with our service providers. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-Zoro does not knowingly collect or solicit any information from anyone under the age of 13 on this Site. In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [zorodataprivacy@grainger.com](https://web.archive.org/web/20181106082347id_/https%3A//www.zoro.com/zorodataprivacy@grainger.com). 
+Zoro does not knowingly collect or solicit any information from anyone under the age of 13 on this Site. In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [zorodataprivacy@grainger.com](https://web.archive.org/web/20190401175917id_/https%3A//www.zoro.com/zorodataprivacy@grainger.com). 
 
 ## 8\. Your California Privacy Rights
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. You may make one request each year by emailing us at [zorodataprivacy@grainger.com](https://web.archive.org/web/20181106082347id_/https%3A//www.zoro.com/zorodataprivacy@grainger.com) or writing to us at 909 Asbury Dr, Buffalo Grove, IL 60089. 
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. You may make one request each year by emailing us at [zorodataprivacy@grainger.com](https://web.archive.org/web/20190401175917id_/https%3A//www.zoro.com/zorodataprivacy@grainger.com) or writing to us at 909 Asbury Dr, Buffalo Grove, IL 60089. 
 
 ## 9\. Links to Other Websites and Services
 
@@ -283,5 +293,5 @@ The Services may contain links to and from third party websites of our business 
 
 We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and you should review this page periodically. We will update the ‘last modified’ date at the bottom of this page when we post changes to this Policy. If you object to any changes, you may close your account. Continuing to use our Services after we publish changes to this Privacy Policy means that you are consenting to the changes.
 
-This privacy policy was last modified on February 14, 2018.  
-Effective date: February 14, 2018
+This privacy policy was last modified on Novermber 15, 2018.  
+Effective date: Novermber 15, 2018
