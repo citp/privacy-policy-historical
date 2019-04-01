@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthofblog.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827225716id_/http%3A//www.worthofblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthofblog.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401212210id_/https%3A//www.worthofblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -29,4 +29,4 @@ Worthofblogdotcom may collect and use Users personal information for the followi
 
 Worthofblogdotcom has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [worthofblog@gmail.com](mailto:worthofblog@gmail.com) or via our [contact page](http://www.worthofblog.com/contact/).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [worthofblog@gmail.com](mailto:worthofblog@gmail.com) or via our [contact page](https://www.worthofblog.com/contact/).
