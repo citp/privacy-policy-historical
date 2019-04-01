@@ -1,97 +1,191 @@
-> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208220935id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401024016id_/https%3A//www.emptymirrorbooks.com/privacy-policy-gdpr) for the most accurate reproduction.*
 
-# FTC Disclosure & Privacy Policy - Empty Mirror
+# Privacy Policy - Empty Mirror
 
-This page contains the required disclosures for the FTC and Amazon, as well as our privacy policy. 
+## Privacy Policy (compliant with the EU’s GDPR)
 
-### FTC Disclosure:
+is committed to safeguarding your privacy. Contact us at [quantahosting@gmail.com](mailto:quanahosting@gmail.com) if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you. 
 
-This website accepts banner advertising, as well as books, CDs, or other materials submitted for the purpose of a possible review. This promotional content will always be identified as such. Links on this site may include affiliate links, whereby which the owner of this website is paid a small commission when a purchase is made on the affiliate website.
+By using this site or/and our services, you consent to the Processing of your Personal Data as described in this Privacy Policy. 
 
-The owner(s) of this blog may be compensated to provide opinion on products and services. **Even though the owner(s) of this blog receives compensation for our posts or advertisements, we _always_ give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this website are _purely the writers’ own_.** Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+### Table of Contents
 
-### Amazon Disclosure
+  1. Definitions used in this Policy
+  2. Data protection principles we follow
+  3. What rights do you have regarding your Personal Data
+  4. What Personal Data we gather about you
+  5. How we use your Personal Data
+  6. Who else has access to your Personal Data
+  7. How we secure your data
+  8. Information about cookies
+  9. Contact information
 
-Empty Mirror is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](https://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=emptymirrorc-20).
 
-Visit [Amazon](https://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=emptymirrorc-20).
 
-### Privacy Policy:
+### Definitions
 
-  
-**What information do we collect?**
+**Personal Data**  – any information relating to an identified or identifiable natural person.  
+**Processing**  – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+**Data subject**  – a natural person whose Personal Data is being Processed.  
+**Child** – a natural person under 16 years of age.  
+**We/us** (either capitalized or not) – 
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, fill out a form.
+### Data Protection Principles
 
-When ordering merchandise or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, credit card information. You may, however, visit our site anonymously.
+We promise to follow the following data protection principles: 
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+  * Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request. 
+  * Processing is limited to the purpose. Our Processing activities fit the purpose for which Personal Data was gathered. 
+  * Processing is done with minimal data. We only gather and Process the minimal amount of Personal Data required for any purpose. 
+  * Processing is limited with a time period. We will not store your personal data for longer than needed. 
+  * We will do our best to ensure the accuracy of data. 
+  * We will do our best to ensure the integrity and confidentiality of data. 
 
-**What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+### Data Subject’s rights
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+The Data Subject has the following rights: 
 
-; To process transactions
+  1. Right to information – meaning you have to right to know whether your Personal Data is being processed; what data is gathered, from where it is obtained and why and by whom it is processed.
+  2. Right to access – meaning you have the right to access the data collected from/about you. This includes your right to request and obtain a copy of your Personal Data gathered.
+  3. Right to rectification – meaning you have the right to request rectification or erasure of your Personal Data that is inaccurate or incomplete.
+  4. Right to erasure – meaning in certain circumstances you can request for your Personal Data to be erased from our records.
+  5. Right to restrict processing – meaning where certain conditions apply, you have the right to restrict the Processing of your Personal Data.
+  6. Right to object to processing – meaning in certain cases you have the right to object to Processing of your Personal Data, for example in the case of direct marketing.
+  7. Right to object to automated Processing – meaning you have the right to object to automated Processing, including profiling; and not to be subject to a decision based solely on automated Processing. This right you can exercise whenever there is an outcome of the profiling that produces legal effects concerning or significantly affecting you.
+  8. Right to data portability – you have the right to obtain your Personal Data in a machine-readable format or if it is feasible, as a direct transfer from one Processor to another.
+  9. Right to lodge a complaint – in the event that we refuse your request under the Rights of Access, we will provide you with a reason as to why. If you are not satisfied with the way your request has been handled please contact us.
+  10. Right for the help of supervisory authority – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
+  11. Right to withdraw consent – you have the right withdraw any given consent for Processing of your Personal Data.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To send periodic emails
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+### Data we gather
 
-**How do we protect your information?**
+**Information you have provided us with**  
+This might be your e-mail address, name, home address etc – mainly information that is necessary for delivering you a product/service or to enhance your customer experience with us. We save the information you provide us with in order for you to comment or perform other activities on the website. This information includes, for example, your name and e-mail address. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+**Information automatically collected about you**  
+This includes information that is automatically stored by cookies and other session tools. For example, your IP address, your shopping history (if there is any) etc. This information is used to improve your customer experience. When you use our services or look at the contents of our website, your activities may be logged. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+**Information from our partners**  
+We gather information from our trusted partners with confirmation that they have legal grounds to share that information with us. This is either information you have provided them directly with or that they have gathered about you on other legal grounds. See the list of our partners here. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+**Publicly available information**  
+We might gather information about you that is publicly available. 
 
-**Do we use cookies?**
+### How we use your Personal Data
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+We use your Personal Data in order to: 
 
-We use cookies to help us remember and process the items in your shopping cart.
+  * provide our service to you. This includes for example registering your account; providing you with other products and services that you have requested; providing you with promotional items at your request and communicating with you in relation to those products and services; communicating and interacting with you; and notifying you of changes to any services.
+  * enhance your customer experience;
+  * fulfil an obligation under law or contract
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-**Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We use your Personal Data on legitimate grounds and/or with your Consent. 
 
-**Third party links**
+On the grounds of entering into a contract or fulfilling contractual obligations, we Process your Personal Data for the following purposes: 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * to identify you;
+  * to provide you a service or to send/offer you a product;
+  * to communicate either for sales or invoicing
 
-**California Online Privacy Protection Act Compliance**
+
+
+On the ground of legitimate interest, we Process your Personal Data for the following purposes: 
+
+  * to send you personalized offers* (from us and/or our carefully selected partners);
+  * to administer and analyse our client base (purchasing behaviour and history) in order to improve the quality, variety, and availability of products/ services offered/provided;
+  * to conduct questionnaires concerning client satisfaction
+
+
+
+As long as you have not informed us otherwise, we consider offering you products/services that are similar or same to your purchasing history/browsing behaviour to be our legitimate interest. 
+
+With your consent we Process your Personal Data for the following purposes: 
+
+  * to send you newsletters and campaign offers (from us and/or our carefully selected partners);
+  * for other purposes we have asked your consent for
+
+
+
+We Process your Personal Data in order to fulfill obligation rising from law and/or use your Personal Data for options provided by law. We reserve the right to anonymise Personal Data gathered and to use any such data. We will use data outside the scope of this Policy only when it is anonymised. We save your billing information and other information gathered about you for as long as needed for accounting purposes or other obligations deriving from law, but not longer than  **90 days**
+
+We might process your Personal Data for additional purposes that are not mentioned here, but are compatible with the original purpose for which the data was gathered. To do this, we will ensure that: 
+
+  * the link between purposes, context and nature of Personal Data is suitable for further Processing;
+  * the further Processing would not harm your interests and
+  * there would be appropriate safeguard for Processing.
+
+
+
+We will inform you of any further Processing and purposes. 
+
+### Who else can access your Personal Data
+
+We do not share your Personal Data with strangers. Personal Data about you is in some cases provided to our trusted partners in order to either make providing the service to you possible or to enhance your customer experience. We share your data with: 
+
+**Our processing partners:**
+
+  * **Google**
+
+
+
+**Our business partners:**
+
+  * **Amazon (affiliate sales)**
+
+
+
+We only work with Processing partners who are able to ensure adequate level of protection to your Personal Data. We disclose your Personal Data to third parties or public officials when we are legally obliged to do so. We might disclose your Personal Data to third parties if you have consented to it or if there are other legal grounds for it. 
+
+### How we secure your data
+
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We monitor our systems for possible vulnerabilities and attacks. 
+
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur. 
+
+If you have an account with us, note that you have to keep your username and password secret. 
+
+### Children
+
+We do not intend to collect or knowingly collect information from children. We do not target children with our services. 
+
+### Cookies and other technologies we use
+
+We use cookies and/or similar technologies to analyse customer behaviour, administer the website, track users’ movements, and to collect information about users. This is done in order to personalise and enhance your experience with us. 
+
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions. 
+
+**We use cookies for the following purposes:**
+
+  * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalised features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+  * Analytics cookies – these cookies are used to track the use and performance of our website and services
+  * Advertising cookies – these cookies are used to deliver advertisements that are relevant to you and to your interests. In addition, they are used to limit the number of times you see an advertisement. They are usually placed to the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organisations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+
+
+You can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/#!/) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+We use Google Analytics to measure traffic on our website. Google has their own Privacy Policy which you can review [here](https://support.google.com/analytics/answer/6004245). If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). 
+
+### Contact Information
+
+**Empty MIrror[contact](https://web.archive.org/get-in-touch%22)**
+
+### Changes to this Privacy Policy
+
+We reserve the right to make changes to this Privacy Policy.  
+Last modification was made May 2, 2018. 
+
+## California Online Privacy Protection Act Compliance
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+## Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Your Consent**
-
-By using our site, you consent to our [web site privacy policy](https://www.freeprivacypolicy.com/).
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 2/4/12
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-https://www.emptymirrorbooks.com/  
-
