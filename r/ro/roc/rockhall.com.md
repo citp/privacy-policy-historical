@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625104054id_/https%3A//www.rockhall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401081625id_/https%3A//www.rockhall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Rock & Roll Hall of Fame
 
@@ -53,7 +53,7 @@ When you register for an educational program or promotional package (for example
   
 _**Nonprofit Cultural Institutions**_
 
-We reserve the right to share your Information (excluding credit card numbers) with other nonprofit cultural institutions. If you do not want to have your Information used in this way, you may send an e-mail message containing your name, e-mail address and postal address to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f2b2021203b3c272e3d2a0f3d202c24272e232361203d28).
+We reserve the right to share your Information (excluding credit card numbers) with other nonprofit cultural institutions. If you do not want to have your Information used in this way, you may send an e-mail message containing your name, e-mail address and postal address to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8befe4e5e4fff8e3eaf9eecbf9e4e8e0e3eae7e7a5e4f9ec).
 
  _ **Additional Disclosures**_
 
@@ -72,7 +72,7 @@ If you no longer wish to receive marketing communications from or related to the
 
   * Follow the directions on the e-mail or direct mail communication you receive from us; 
   * Call 216-781-ROCK (7625) with your request and current contact information; 
-  * Send an e-mail with your request and current contact information to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#30604259465153497d515e5157554270425f535b58515c5c1e5f4257); or 
+  * Send an e-mail with your request and current contact information to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5d0d2f342b3c3e24103c333c3a382f1d2f323e36353c313173322f3a); or 
   * Send a letter with your request and current contact information to:  
 The Rock & Roll Hall of Fame  
 c/o General Counsel’s Office  
@@ -97,7 +97,7 @@ _**Your California Privacy Rights**_
 
 A business subject to California Civil Code section 1798.83 is required to disclose to its California customers, upon request, the identity of any third parties to whom the business has disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties’ direct marketing purposes.
 
-If you are a California resident and would like to make such a request, please send an email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a5a78637c6b6973476b646b6d6f784a78656961626b66662465786d).
+If you are a California resident and would like to make such a request, please send an email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1343617a6572706a5e727d7274766153617c70787b727f7f3d7c6174).
 
 _**Contact Us: Questions, Updating, Correcting and Changing Your Information**_
 
