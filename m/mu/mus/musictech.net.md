@@ -1,215 +1,200 @@
-> *The following text is extracted and transformed from the musictech.net privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123205401id_/http%3A//anthem-publishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictech.net privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401101639id_/https%3A//www.musictech.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Anthem Publishing
+# Privacy Policy - MusicTech
 
-Last Update: May 23rd, 2018
+https://www.musictech.net/ (“Website”) is owned and operated by BandLab Media (“we”, “our” and “us”), a subsidiary of [BandLab Technologies](https://bandlabtechnologies.com/).  Please read this Privacy Policy carefully before you use the Website or submit Personal Data to us because it affects your privacy.
 
-Jump to section:
+This Privacy Policy explains:
 
-  1. Privacy Summary
-  2. Information We Collect
-  3. How We Use The Information We Collect
-  4. How We Use The Information For Marketing
-  5. How We Share Information With Third Parties
-  6. Information Security
-  7. Accessing, Deleting Or Updating Your Information
-  8. Information Regarding Children
-  9. Accountability
+  * (a) what Information we may collect
+  * (b) how we may use your Information
+  * (c) with whom we may share your Information
+  * (d) how we store your Information
+  * (e) how we protect children’s privacy
+  * (f) the scope of this Privacy Policy
+  * (g) your choices about the Information we have collected
+  * (h) the changes we may make to this Privacy Policy
 
 
 
-## 1.    Privacy Summary
+Personal data (“Information”) in this Privacy Policy refers to data that can be used to identify an individual.
 
-The Data Controller, Anthem Publishing Ltd, a company registered in the United Kingdom (Registered No. 04542063 **)** at Suite 6 Piccadilly House, London Road, Bath, BA1 6PL, UK is committed to protecting your privacy in accordance with the Data Protection Act 1998 (the ‘Act’) and the General Data Protection Regulation (the ‘GDPR’). If you have any questions about this policy, the representative responsible for Data Protection, the Data Protection Officer, can be contacted by writing to the above address or alternatively by sending an email to data@anthem-publishing.com.
+Unless otherwise stated, the capitalized terms in this Privacy Policy are used in the same way as used in our Terms of Use.
 
-Anthem Publishing Ltd is an independent magazine publishing company. Our products and services include magazines, live events and websites. Our websites are:
+## **1\. Your acceptance**
 
-Anthem-publishing.com
+By using the Website, you consent to our processing of Information in accordance with this Privacy Policy. In particular, you understand and agree that the Information which we collect from you is necessary for us to operate the Website and to interact and communicate with you. If you do not agree with anything in this Privacy Policy, you should stop using the Website.
 
-Shop.anthem-publishing.com
+## **2\. Information we collect**
 
-Musictech.net
+### **A.   The following is Information which you provide to us directly:**
 
-Theguitarmagazine.com
+#### 2.1 Personal details about yourself
 
-Classicpopmag.com
+In using the Website, you may submit to us your email address when you sign up to our mailing list or when you contact us to make an enquiry.
 
-Vintagerockmag.com
+As you interact and communicate with us, you may also reveal to us other Information about yourself (e.g. your name, address, phone number etc.).
 
-Longlivevinyl.net
+### **B. Other Information which we receive when running the Website:**
 
-Countrymusicmag.com
+#### 2.2 Analytics Information
 
-Italytravelandlife.com
+We use third-party analytics tools to help us measure traffic and usage trends for the Website. These tools collect information sent by your device, including the web pages you visit, add-ons, and other information that assists us in improving the Website. We collect and use this analytics information with analytics information from other visitors so that it cannot reasonably be used to identify any particular individual visitor of the Website.
 
-Freefromheaven.com
+#### 2.3 Cookies and similar technologies
 
-Veganfoodandliving.com
+The Website contains “cookies”, clear gifs (also known as “web beacons” and “web bugs”), or similar technology. A cookie is a piece of data that is sent to your Internet browser, which will store the cookie on your computer if your browser is enabled to accept cookies. Web beacons assist in the delivery of cookies and the collection of non-personally identifiable information, such as “click path” and other data as described above.
 
-Foodheavenmag.com
+The Website uses cookies, clear gifs, frames, server log analysis and other technologies as they are developed to customize your experience with the Website. We use them to:
 
-Barefashion.co.uk
+(a) remember information about you so you do not have to keep giving it to us;
 
-Womensrunninguk.co.uk
+(b) help us understand how you and other visitors are using the Website;
 
-In order to operate the services we offer, we must ask you to provide us with information about yourself. This Privacy Policy describes the information we collect and how we use that information. We take the processing of your information very seriously and will use your information only in accordance with the terms of this Privacy Policy. For the purposes of this Privacy Policy, personal data is referred to as ‘information’ which means any information relating to an identified or identifiable natural person.
+(c) help us personalize the Website for you by remembering your preferences and settings; and
 
-Please note that we are not responsible for the privacy practices of other websites and we recommend that you check the privacy policy of any other websites you may visit. The inclusion of links to such websites does not imply any endorsement of the material on such sites nor any association with their owners or operators. If you have any complaints relating to such sites, please contact them directly.
+(d) find out if our emails have been read and if you have clicked a link in it.
 
-This Privacy Policy will be updated from time to time and all future changes will take effect as specified at the time of the update by posting a revised version of it on our website. Please check back regularly for the most current version of our Privacy Policy.
+Please note that not all cookies are deleted from your browser after you leave the Website or close your browser.
 
-Back to top
+To manage the Information being collected, you can access the “Settings” in your browser and adjust the “Cookies” settings to:
 
-## 2.    Information We Collect
+(a) erase cookies from your computer hard drive;
 
-To use some of our services, you must provide your name, address, email address and in some instances your company name, job title and telephone number. In order to make payments, you must provide credit card, debit card or bank account information. In some cases, we will direct you to one of our service providers who only act under our contractual instructions in order to collect this information from you and fulfil your order. We do not collect any special category data such as information on your racial or ethnic origins, political opinions, trade union affiliations, sexual life or criminal history.
+(b) block acceptance of all or some cookies; or
 
-Our websites use cookies (small data files placed on your computer or other device), web analytics and web logs to collect information about your use of our site, information about your computer such as your computer’s IP address and browser type, demographic data and, if you arrived at our site via a link from a third party site, the URL of the linking page. The data collected through cookies, web analytics and web logs may be transferred to third parties. For more information on how this website uses cookies, see our _cookie policy_.
+(c) receive a warning before a cookie is stored.
 
-When you access our services online using any device, we collect and store device data including but not limited to geolocation data to provide offers relevant to your region (using cookies). We also collect information such as which pages of our website you visit, IP addresses, the type of browser you use, details of the transactions you have made, time spent on the website, the type of device you are using, and the times you access our website.
+Please note, however, that if you block cookies, some portions of the Website may not function properly.
 
-If you enter a prize draw or competition you will need to provide certain personal information which will be used in accordance with the terms of the prize draw or competition. We will only send you marketing communications if you actively opt in to receive such messages. We will contact winners by email.
+#### 2.4 Log file information
 
-We will only keep your information for as long as is necessary for the purpose of providing you with the service you have requested from us or to meet specific anti-fraud and legal requirements. If you would like more information, please contact the Data Protection Officer.
+Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of the web page or app is downloaded to your browser or device.
 
-The provision of the information detailed above is a requirement necessary to provide our services. By providing your information and using our service you are entering a contract for the term of the service. If you object or are not willing to provide this information, please do not register or use these services.
+When you use the Website, our servers automatically record certain log file information, including your web request, Internet Protocol (“IP”) address, browser type, referring/exit pages and URLs, number of clicks and how you interact with links on the Website, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Mailing List Subscribers which then helps us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Website.
 
-Back to top
+#### 2.5 Device identifiers
 
-## 3.    How We Use The Information We Collect
+When you use a mobile device like a tablet or phone to access the Website, we may access, collect, monitor, store on your device, and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your mobile device that uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by us.
 
-Our primary purpose in collecting your information is to provide you with a service. You agree that we may use your personal information to:
+A device identifier may deliver information to us or to a third-party partner about how you browse and use the Website and may help us or others provide reports or personalized Content and ads. Some features of the Website may not function properly if use or availability of device identifiers is impaired or disabled.
 
-  * Provide the service to you
-  * Notify you about your service
-  * Carry out internal administration and analysis
-  * Monitor or improve the performance of, and products and services available through, our websites
+## **3\. How we use your Information**
 
+How we use your Information will depend on the nature of your interaction with the Website and with us. We need to have valid grounds to process your Information. Most times, we would seek your consent, like when you subscribe to our mailing list. Other times, when you reasonably expect us to use your Information, we will not ask for your consent, but only when it is legally permissible for us to do so (e.g. it is necessary for our performance of a contract or for us to comply with a legal obligation etc.).
 
+Generally, we collect and use Information for the following purposes:
 
-If you purchase or subscribe to one or more of our magazines, you will enter into a contract with us. This means that during the contractual period we will communicate with you about this contract. In this respect ‘performance of a contract’ is our legal basis for processing your data.
+(a) to remember information so that you do not have to re-enter it each time you use the Website;
 
-Similarly, advertiser data will be processed under ‘performance of a contract’ if the third party enters into a commercial contract ie. pays for advertising in our magazines and/or websites.
+(b) to provide personalized Content to you or other interest segment updates, personalized online advertisement or other forms of marketing, like emails about products, services and other information you might be interested in. We may also contact you for market research purposes;
 
-For client prospect data, we will use ‘Legitimate Interest’ as our legal basis for contacting prospective clients. An opt out for these types of communication will be offered on the channel used, for example, via email or telephone call.
+(c) to test, improve and monitor the Website, including diagnosing and fixing technology problems;
 
-Back to top
+(d) to provide you with features and other updates, respond to your feedback, answer your queries and to otherwise communicate with you;
 
-## 4.    How We Use The Information For Marketing
+(e) to monitor metrics such as site traffic and demographic patterns;
 
-We will only send you direct marketing communications in circumstances where we have your specific consent or where we believe we can demonstrate a legitimate interest.
+(f) to respond to your requests or queries; and
 
-When you sign up to any of our services, we ask for your consent to send you direct marketing communication over a variety of channels. We will honour your right to withdraw your consent at any time.
+(g) to comply with applicable rules, laws, regulations, codes of practice or guidelines issued by any legal or regulatory bodies which are binding on us.
 
-When you enquire about or request a service from us, we may rely on our legitimate business interests to send you marketing communications (via post, email or telephone). This relates to individual customers as well as clients eg, advertisers. These communications will always be related to our services and we believe will be of interest to you.  We will always provide you with the opportunity to opt-out of marketing communications when you provide your information to us.
+Apart from the above purposes, we may also notify you of other purposes for which we process your Information and seek your consent to such purposes (e.g. when you participate in a survey, provide feedback, enter a competition etc.).
 
-If you want to stop receiving direct marketing from us, you can use the unsubscribe mechanism on any email you receive, tell us when we call you, or alternatively you can contact the Data Protection Officer using the details available in the Privacy Summary.
+## **4\. Sharing of your Information**
 
-**Email Marketing**
+We will not rent or sell your Information to third parties without your consent, except as noted in this Privacy Policy.
 
-We use web beacons in our emails to track the success of our marketing campaigns. If you open an email from us, we can see which of the pages of our website you visited. Our web beacons communicate with our cookies on your computer and they can tell us when you have opened an email from us. We keep track of the emails that we send you. We also keep a record of what communications you have selected to receive or not to receive. We will only send you marketing emails if you have consented to receive these. You are able to access your preference centre from any marketing email that we send you and update your preferences through this mechanism. You may also unsubscribe by clicking on the ‘unsubscribe’ link in any of our emails to you.
+We will only share your Information in accordance with this Privacy Policy. We may share your Information with the following parties:
 
-**Data Profiling and Remarketing**
+(a) our related entities: These are businesses that are legally part of the same group of companies that we are part of, or that become part of that group.
 
-Periodically we conduct data profiling on the information we collect to better understand our customers in order to provide targeted communications which suit your needs. We rely on ‘legitimate interests’ as our lawful basis for processing this data.
+(b) our service providers: These are third-party contractors. We engage them to assist us in providing and managing aspects of the Website, such as developing the Website’s features and functionality, marketing, processing data or statistics, hosting the Website, providing server space, providing push notifications and email, and legal advice.
 
-Some of our websites use the Facebook pixel which allows us to analyse behaviour on our own websites and then remarket with relevant messages via Facebook. A Facebook pixel is code placed on our website. It helps track conversions from Facebook ads, optimize ads based on collected data, build targeted audiences for future ads, and remarket to qualified leads. We rely on ‘legitimate interests’ as our lawful basis for processing this data.
+Our main service providers are MailChimp for marketing automation and OneSignal for push notifications and email. Their privacy policies can be accessed at www.mailchimp.com/legal/privacy and www.onesignal.com/privacy_policy, respectively.
 
-We sometimes use Facebook to create lookalike audiences based on profiling our subscribers.
+(c) our third party advertisers: We may provide Information to third party advertisers so that they can notify you of events or products which may be of interest to you. For instance, you may be notified of an upcoming concert or product release.
 
-We also use the Google Display Network as a channel for remarketing to our users.
+(d) analytics services: We use third party analytics providers and products to obtain, compile and analyse Information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data), and may provide such Information to these analytics providers for the purpose of obtaining statistics and other information about how visitors are using and interacting with the Website.
 
-In order to serve adverts on our websites and report on their performance, we use an advertising management system. This system gathers information using IP addresses. This allows us to target adverts by geo-location and device in order to make adverts from third parties more relevant to the user.
+Our analytics provider is Google Analytics. More information on their privacy policy is available at www.google.com/policies/privacy/partners.
 
-We also serve targeted adverts for our own products based on user behaviour on our own websites.
+(e) We may remove parts of data that can identify you and share pseudonymized data with other parties. We may also combine your information with other information in a way that it is anonymized and no longer associated with you, and share that aggregated information.
 
-Legitimate interest is used as the lawful basis for data profiling and remarketing. However, if we target email data for this activity we will use opted in data where the user has consented to marketing.
+We require that all parties with whom we share Information to implement adequate levels of protection in order to protect such Information. We also require that these parties only process your Information strictly for purposes which we engage them for and consistent with the purposes that we have described in Section 3 (“How we use your Information”) or with other purposes for which your consent has been sought and obtained.
 
-If you wish to stop your information being used for data profiling and remarketing, please contact the Data Protection Officer.
+We may also share your Information with third parties in the following circumstances:
 
-Back to top
+(a) Change of control: If the ownership of our business changes or we undertake a reorganisation of our business, we may transfer your Information to the new owners so they can continue to operate the Website. The new owners may subsequently make changes to this Privacy Policy;
 
-## 5.    How We Share Information With Third Parties
+(b) If permitted or required by law: We may disclose Information if we believe that such disclosure is required or permitted by law (e.g. responding to requests from government authorities, or disclosure pursuant to court orders or other legal demands); and
 
-We will not sell or rent your information to third parties for their marketing purposes without your consent. However, just like most service providers, Anthem Publishing Ltd works with third parties who administer important functions for us that allow us to offer and enhance the services we provide. These providers are covered by an appropriate agreement. Sometimes it will be necessary for us to disclose information required for the specific purpose to them so that the services can be performed.
+(c) To protect interests: We may disclose Information if we determine it is necessary to enforce or protect our rights or the property or personal safety of the visitors of the Website (e.g. to enforce this Privacy Policy or our Terms of Use, or to prevent or take action against illegal activities, suspected fraud, or potential threats or breaches).
 
-We reserve the right to disclose to third parties your information to comply with applicable laws including but not limited to disclosure in accordance with the Act, the Regulation of Investigatory Powers Act 2000 and lawful authority requests, to safeguard the proper operation of our systems and to protect ourselves and the companies we work with.
+## **5\. How we store your Information**
 
-The third parties we work with are;
+We, our related entities, or service providers may transfer your Information to other countries in which our facilities or businesses are located, to be stored or processed. We will ensure that all entities located outside of Singapore to which we transfer information observe a standard of data protection which is comparable to that required under the Singapore Personal Data Protection Act 2012.
 
-  * Subscription bureau to fulfil orders and manage subscriber data
-  * Email Service Provider (ESP) for sending emails, organising and managing competitions, and managing user email preferences
-  * Survey platform for administering surveys or polls
-  * Google Analytics for website analysis and data analysis & profiling
-  * Google Adsense to serve interest-based adverts
-  * Payment processors (eg. PayPal and Sage Pay) for processing credit card payments
-  * Providers of digital versions of our products including Apple, Google, Amazon, Exact Editions, Zinio, Jellyfish Connect (Pocketmags and Magazinecloner), Readly and Ebsco
-  * Agent websites which sell our products on our behalf
-  * Conversion Rate Optimisation (CRO) agency working with our brand and ecommerce websites
-  * Magazine printers to print the magazines and sort subscriber data
-  * Mailing houses and postal services to fulfil subscription postage
-  * Telemarketing agency for subscription orders
-  * Events ticketing platforms to sell tickets to our events
+This includes the entities’ making of reasonable security arrangements to prevent unauthorized access, collection, use, disclosure, copying, modification, disposal or similar risk to your Information, and removing the Information as soon as it is reasonable to assume that its retention is no longer necessary.
 
+Currently, the country to which Information is transferred for the purpose of storage on cloud servers is the United States of America. We may update this list periodically to reflect any new locations where your Information may be stored.
 
+By using the Website, you acknowledge that the transfer of your Information to countries in which we, our related entities or service providers have facilities or businesses is necessary for us to operate the Website, and that we have provided you with a reasonable summary of how your Information would be protected when it is transferred out of Singapore.
 
-Back to top
+You consent to the transfer of information to the United States of America or to any other country in which we, our related entities, or service providers maintain facilities or businesses, and the processing of Information as described in this Privacy Policy.
 
-## 6.    Information Security
+## **6\. Children’s Privacy**
 
-Anthem Publishing Ltd is committed to handling your information with high standards of information security. We collect, store and process your information on servers primarily located in the United Kingdom. We use safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files and we authorise access to personal information only for those employees who require it to fulfil their job responsibilities. Our site uses industry standard Secure Sockets Layer (SSL) technology to allow for the encryption of information during transmissions to our servers. These security measures mean that we may occasionally have to ask you for proof of identity before we are able to disclose personal information to you.
+We do not knowingly collect Information from children under the age of 13 without parental consent. If you are a child under 13 years of age, you are not permitted to use the Website and should not send any information about yourself to us through the Website.
 
-Back to top
+Upon becoming aware that we have collected Information from any child, we will delete that Information.
 
-## 7.    Accessing, Deleting Or Updating Your Information
+If you are a parent or guardian and you believe that your child under the age of 13 years has provided us with information without your consent, please email us at privacy@bandlab.com and we will take reasonable steps to ensure that such information is deleted from our systems.
 
-**Accessing Your Information**
+## **7\. Third-party Sites**
 
-You can access the personal information you have provided us by making a Subject Access Request to the Data Protection Officer using the details available in the Privacy Summary. Upon receipt and following any necessary proof of identification checks, Subject Access Requests will be responded to within one calendar month.
+If you use a link to go from the Website to other websites, applications or platforms, this Privacy Policy does not apply to those other websites, applications or platforms. They have their own privacy policies and you should familiarize yourself with them before you permit them to access and process your Information.
 
-**Deleting Your Information**
+We are not responsible for and do not have control over any third-party websites, applications or platforms which you authorize to access or process your Information. If you are using a third-party website, application, you do so at your own risk.
 
-A request to have the personal information you have provided to us removed from our systems can be made to the Data Protection Officer using the details available in the Privacy Summary. Your information will be removed from our systems except in circumstances where we are required to retain this information for compliance with legal obligation or for future suppression purposes, where the minimal amount necessary will be retained in order to honour an individual’s right.
+## **8\. Managing your Information**
 
-**Updating Your Information**
+You can directly control your Information in the following ways:
 
-You can review the personal information you have provided to us and make any desired changes or rectifications at any time either online or by contacting the Data Protection Officer using the details available in the Privacy Summary.
+(a) Emails: If you do not wish to receive any more emails from us, please click the “unsubscribe” link in the email that we have sent to you;
 
-**The Right to Object**
+(b) Push Notifications: If you do not wish to receive notifications, you should adjust the “Notification” settings usually found in your browser’s “Settings” to block or remove the browser-based push notifications; and
 
-The GDPR gives individuals the right to object to the processing of their personal data in certain circumstances. Individuals have an absolute right to stop their data being used for direct marketing. An individual can make an objection verbally or in writing. We will respond to an objection within one calendar month.
+(c) Cookies: If you do not wish to permit us to collect your Information via cookies and similar technologies, you should adjust the “Cookie” settings usually found in your browser’s “Settings” to erase, block or restrict cookies.
 
-Back to top
+If you (i) wish to update or correct your Information, (ii) wish to request for information from us on what Information of yours we have and how we have used and shared your Information during the last one year before the date of your request, (iii) wish to restrict or withdraw your consent to our processing of your Information, (iv) wish us to transfer your Information to you or to someone else, (v) wish us to delete your Information, or (vi) have any questions, concerns or feedback on this Privacy Policy, please contact our Data Protection Officer in writing:
 
-## 8.    Information Regarding Children
+  * Ivan Chen at privacy@bandlab.com
 
-Children are not eligible to use any service we offer and we ask that minors (persons under the age of 18) do not submit any personal information to us.
 
-## 9.    Accountability
 
-We will process your personal data for the purposes set out in this policy. However, if you have any queries or requests in relation to Data Protection or this Privacy Policy please notify our Data Protection Officer using the details available in the Privacy Summary. Alternatively, if you have any concerns about our information rights practices that our Data Protection Officer was unable to address sufficiently, you may report these to our statutory authority, the Information Commissions Office: ico.org.uk.
+If you are a resident of the European Union using the Website, you have the following rights under the General Data Protection Regulations:
 
-Back to top
+(a) Right to be informed: This right means that when we ask you to provide us with your Information, we will give you details such as: what we are using it for, how and with whom it will be shared, and how you may contact us if you have any queries;
 
-**What are Cookies?**
+(b) Right to access: This right allows you to ask us for details of the Information we hold on you, e.g. what Information is being processed and for what reason, what Information is being transferred and to whom, what rights you have etc;
 
-Our websites may place small text files, called cookies, on your computer to distinguish you from other users of this website. These cookies monitor how you use this website so that we can make improvements, and are also used to give you the best user experience (for example by remembering your login details so that you do not have to enter them each time). Some cookies may also be placed by third parties, for example Facebook and Google, if you use their services via this website to monitor how you use their services and also to target relevant advertising to you when you visit other websites on which they advertise.
+(c) Right to rectification: This right allows you to ask us to correct anything that you think is wrong with the Information we have about you;
 
-In most cases, cookies do not contain personally identifiable data.
+(d) Right to erasure also known as the “right to be forgotten”: This right means you can ask us to delete your Information from our system;
 
-**What cookies may be placed?**
+(e) Right to restrict processing: This right allows you to ask us to only process your Information for those certain purposes that you specify;
 
-Our websites may use the following types of cookies:
+(f) Right to data portability: This is the right to ask us to send you your Information electronically. You may also ask us to transmit such Information to another party;
 
-  * Strictly necessary cookies (Type 1): these cookies are essential in order to enable you to move around this website and use its features, such as accessing secure areas of this website. Without these cookies, certain services you have asked for cannot be provided.
-  * Analytical/performance cookies (Type 2): these cookies allow us to recognise and count the number of visits to our websites and to see how visitors move around the websites when they are using it, so that we can improve how the websites work. These cookies do not collect personally identifiable information.
-  * Functionality cookies (Type 3): these cookies remember choices you make to improve your experience; for example, your user name, language or region.
-  * Targeting cookies (Type 4): these cookies are placed by third parties to collect information about your browsing habits when you elect to use their services, in order to make advertising relevant to you and your interests.
+(g) Right to object: This is your right to tell us to stop processing your Information;
 
+(h) Right not to be subject to automatic decision-making, including profiling: We sometimes use computers to study and analyze Information. We might do this so we can understand how you and other visitors are using the Website. This allows us to improve the Website and Content for better customer experience e.g. by providing personalized Content and marketing to you. For situations that may significantly impact you, you have the right to ask us not to do this; and
 
+(i) Right to complain, right to judicial remedy: If you feel your rights are breached, these rights allow you to make a complaint to the relevant authorities or to sue us in court.
 
-**How do I opt-out of cookies?**
+EU residents may exercise their rights above by writing to our Data Protection Officer at privacy@bandlab.com. The parent or guardian of a child resident in the European Union under the age of 13 years old or applicable age of consent, can request this on behalf of their child.
 
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). You should note that deleting certain cookies may prevent you from accessing certain parts of our websites and/or may affect your user experience.
+## **9\. Changes to this Privacy Policy**
 
-To opt out of being tracked by Google Analytics across all websites, and not just our websites, visit: <http://tools.google.com/dlpage/gaoptout>.
+We may change or update portions of this Privacy Policy at any time and without prior notice to you. Please review this Privacy Policy from time to time so you are aware of any changes or updates. We will indicate the effective date of the notice. Your continued use of the Website after any modification to this Privacy Policy constitutes your acceptance of such modification and your consent to our processing of Information in accordance with the modified Privacy Policy. If you do not agree with the modified Privacy Policy, you should cease using the Website.
