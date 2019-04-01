@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momsreview4you.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625154909id_/https%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momsreview4you.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401125149id_/https%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
 
 # A Sparkle of Genius Website Privacy Policy
 
@@ -82,3 +82,5 @@ This blog accepts forms of cash advertising, sponsorship, paid insertions or oth
  This blog does not contain any content which might present a conflict of interest.
 
 To get your own policy, go to http://www.disclosurepolicy.org
+
+2014-03-05
