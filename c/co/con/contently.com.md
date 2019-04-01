@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contently.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819234257id_/https%3A//contently.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contently.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401222421id_/https%3A//contently.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Contently
 
@@ -200,4 +200,4 @@ New York, NY 10012 USA
 Attn: Data Protection Officer  
 Email: [privacy@contently.com](mailto:privacy@contently.com)
 
-This website uses cookies to improve your experience. By continuing without changing your cookie settings, we assume you agree to this.Accept [Read More](https://contently.com/privacy-policy/)
+This website uses cookies to improve your experience. By continuing without changing your cookie settings, we assume you agree to this. Accept [Read More](https://contently.com/privacy-policy/)
