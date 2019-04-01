@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather.us privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227101627id_/https%3A//weather.us/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather.us privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401092258id_/https%3A//weather.us/site/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Weather.us
 
