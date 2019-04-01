@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecco.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202042756id_/http%3A//global.ecco.com/en/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecco.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401214450id_/https%3A//global.ecco.com/en/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # ECCO.com
 
