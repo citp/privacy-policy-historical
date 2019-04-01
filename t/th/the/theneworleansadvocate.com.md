@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theneworleansadvocate.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827234409id_/https%3A//www.theadvocate.com/new_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theneworleansadvocate.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401052219id_/https%3A//www.theadvocate.com/new_policy) for the most accurate reproduction.*
 
 # New Policy | theadvocate.com
 
