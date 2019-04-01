@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the able2know.org privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214121153id_/http%3A//able2know.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the able2know.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401022950id_/https%3A//able2know.org/about/privacy) for the most accurate reproduction.*
 
 # able2know - Privacy Policy
 
@@ -22,7 +22,7 @@ You may choose to provide us with personal information, such as when you e-mail 
 
 able2know uses cookies to allow users to have their computers remember their login information, preferences and other page details for them.
 
-Google may use cookies to serve ads based on your prior visits to able2know.org. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your based on your visits able2know.org and/or other sites on the Internet. You may opt out of the use of the Doubleclick cookie for interest based advertising by visiting <http://www.google.com/ads/preferences/>
+Google may use cookies to serve ads based on your prior visits to able2know.org. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your based on your visits able2know.org and/or other sites on the Internet. You may opt out of the use of the Doubleclick cookie for interest based advertising by visiting <https://www.google.com/ads/preferences/>
 
 ## V. Links to Other Sites
 
