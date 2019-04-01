@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asthebunnyhops.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231173827id_/https%3A//asthebunnyhops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asthebunnyhops.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401151351id_/https%3A//asthebunnyhops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms Of Use - As The Bunny Hops®
 
