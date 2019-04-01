@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twtd.co.uk privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527223319id_/https%3A//www.twtd.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twtd.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401065504id_/https%3A//www.twtd.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Ipswich Town | TWTD.co.uk
 
