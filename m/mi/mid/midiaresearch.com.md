@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midiaresearch.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115153830id_/http%3A//www.midiaresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midiaresearch.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401040632id_/http%3A//www.midiaresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MIDiA Research
 
@@ -193,15 +193,14 @@ and such processing is carried out by automated means, you have the right to rec
 
 13.1  This website is owned and operated by _MIDiA Research Ltd._
 
-13.2  We are registered in England and Wales under registration number _:_ 08981722, and our registered office is:  _Labs Atrium – Camden, The Stables Market, Chalk Farm Rd, Camden Town, London, NW1 8AH_
+13.2  We are registered in England and Wales under registration number _:_ 08981722, and our registered office is: _79-81 Borough Road,  
+London,_ _  SE1 1DN_
 
 13.3  Our principal place of business is at:  
-_  Labs Atrium – Camden,  
-The Stables Market,  
-Chalk Farm Rd,  
-Camden Town,  
+_79-81 Borough Road,  
 London,  
-NW1 8AH_
+SE1 1DN  
+_
 
 13.4  You can contact us:
 
@@ -215,4 +214,4 @@ NW1 8AH_
 
 **14.   Data protection officer**
 
-14.1  Our data protection officer’s contact details are: info@midiaresearch.com.
+14.1  Our data protection officer’s contact details are: dara@midiaresearch.com.
