@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aiche.org privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129013815id_/https%3A//www.aiche.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiche.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401084731id_/https%3A//www.aiche.org/about/privacy) for the most accurate reproduction.*
 
 # AIChE Site Privacy & Security Policy
-
-**AIChE's privacy policy has been updated effective May 25, 2018** [Learn more](https://web.archive.org/about/privacy)
 
 ## AIChE is committed to respecting and protecting your privacy
 
