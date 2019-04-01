@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suu.edu privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903105940id_/https%3A//www.suu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suu.edu privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401025047id_/https%3A//www.suu.edu/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Statement | SUU
 
@@ -52,4 +52,4 @@ Here's how to review or change your personal profile information (address, home 
 
 On the Web – Log into [mySUU](https://my.suu.edu/) and visit your profile
 
-In Person – Visit the [Registrar’s Office](https://web.archive.org/web/20180903105940id_/https://www.suu.edu/registrar/index.html) in the Sharwan Smith Center or the [Alumni Office](https://web.archive.org/web/20180903105940id_/https://www.suu.edu/alumni/index.html)
+In Person – Visit the [Registrar’s Office](https://web.archive.org/web/20190406014154id_/https://www.suu.edu/registrar/index.html) in the Sharwan Smith Center or the [Alumni Office](https://web.archive.org/web/20190406014154id_/https://www.suu.edu/alumni/index.html)
