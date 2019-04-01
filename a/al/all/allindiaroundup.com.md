@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allindiaroundup.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125060623id_/https%3A//allindiaroundup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiaroundup.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401192141id_/https%3A//allindiaroundup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy < All India Roundup
 
@@ -17,7 +17,7 @@ Like many other Web sites,  **www.allindiaroundup.com**  makes use of log file
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on  **www.allindiaroundup.com**.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to **www.allindiaroundup.com**  and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense
