@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiershiprugby.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606145903id_/http%3A//premiershiprugby.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiershiprugby.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401064225id_/https%3A//www.premiershiprugby.com/legal) for the most accurate reproduction.*
 
 # Legal Notice & Privacy Policy | Premiership Rugby
 
@@ -150,7 +150,7 @@ To make enquires and/or to exercise any of your rights in this Privacy Policy pl
 
 **10\. Cookies Policy**
 
-Our Cookies Policy is detailed below:
+In addition you agree that Premiership Rugby will use your aggregated and anonymised website analytics data for the purpose of delivering league wide benchmarks and audience insights. Our Cookies Policy is detailed below:
 
 10.1     EU Cookie directive
 
