@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223160210id_/https%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401050614id_/https%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Financial Mentor
-
-  
-We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/financialmentor.com).  
-
 
 Modification Date: June 18th, 2018
 
