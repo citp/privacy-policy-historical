@@ -1,83 +1,33 @@
-> *The following text is extracted and transformed from the upiq.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129063711id_/http%3A//www.upiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upiq.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401040751id_/https%3A//www.upiq.com/privacypolicy) for the most accurate reproduction.*
 
 # UPIQ - Privacy Policy
 
-### Privacy Policy
+### Last update: Apr 06, 2015 
 
-UPIQ.com takes your privacy seriously and is pleased to provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to and members of this site. Personal information is information that is personally identifiable like your name, email address, phone number, mailing address, etc. 
+At UPIQ, we are committed to protecting your privacy and to give you a secure online experience. In order to provide the best customer experience and generate relevant new content, we occasionally ask customers to provide us with some basic information. This privacy statement explains why we need the information and how collected data is used.
 
-By using this web site you consent to the following terms:   
- 
+### Information Collection 
 
-### Information Collection
+We will ask your (personal information) primarily to give you a superior Online experience by allowing us to contact you. Generally, this information is requested when you wish to subscribe to our e-mail newsletters/blogs or purchasing products/services. The personal information thus collected is often limited to name, e-mail address, billing address, and job title but may include other information when needed to fulfill your request or order. 
 
-UPIQ.com collects personal information when you use our travel services. For example, when you register with UPIQ.com, we ask for your name and email address.  
-UPIQ.com automatically receives and records information in our server logs from your browser, including your IP address, browser type, and the pages you request. This information does not necessarily enable us to personally identify you. 
+We may ask you to provide certain information about yourself by filling out and submitting an online request form. It is completely optional for you to engage in these activities. If you wish to engage in these activities, we may ask that you provide us personal information, such as your first and last name, billing address, e-mail address, employer, job title and department, telephone numbers and other personal information.
 
-UPIQ.com does not require that you enter any personal information to search on UPIQ.com, nor when being transferred to third-party websites.  
- 
+When ordering products, you may be asked to provide a credit card number. Depending upon the activity we may ask you for information, some mandatory and others voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to proceed with that activity. When you submit personal information to UPIQ through this Website, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which UPIQ and its affiliates and subsidiaries maintain offices. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of UPIQ. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties. 
 
-### Information Use
+### Use of Personal Information 
 
-UPIQ.com uses your personal information for the following purposes: 
+UPIQ collects your information in order to record and support your participation in the activities you select. If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. Your personal information is also used to keep you informed about product upgrades, special offers, and other products and services of UPIQ and selected third parties.
 
-• to verify your authorization to access certain features of the site,   
-• to fulfill your requests for products or services,   
-• to personalize and customize the content and relevant trip services that you are offered   
-• to contact you, e.g. if you have subscribed to a newsletter,   
-• to improve our services,   
-• to provide reporting.   
- 
+UPIQ will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on UPIQ or the site; (b) protect and defend the rights or property of UPIQ Website, and, (c) act in urgent circumstances to protect the personal safety of users of UPIQ, its Web sites, or the public.
 
-### Information Sharing and Disclosure
+UPIQ may collect information about the use of the Site, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. UPIQ may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.
 
-UPIQ.com does not rent, sell, or share personal information about you with other people or companies except (i) to provide products or services you have requested including, without limitation, products and services from third parties, (ii) when we have your permission, or (iii) under the following circumstances:
+### Security of Personal Information 
 
-• UPIQ.com may use third party vendors to assist us in providing our products or services and may transfer your personally identifiable information to such vendors who have entered into a contract with us that protects the confidentiality of your information and permits the vendor to use it only as necessary to fulfill its contract;   
-• In response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;   
-•  When we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of UPIQ.com 's Terms of Service, or as otherwise required by law;   
-• We may transfer information about you if UPIQ.com is acquired by or merged with another company. In this event, UPIQ.com will notify you by sending a notice to the email address specified in your UPIQ.com account before information about you becomes subject to a different privacy policy.  
- 
+UPIQ strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-### Cookies
+Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access.
 
-UPIQ.com sets and accesses cookies on your computer. A cookie is a small amount of data that UPIQ.com's servers transfer to your browser and that only UPIQ.com's servers can read. When you visit the site, the cookie captures specific session data to streamline your experience and, if you select to save your member name and password, UPIQ.com will save this information in a cookie so that you will not be required to sign in each time you visit the site. You may disable or delete cookies from within your Internet browser application by accessing the security or privacy settings. However, UPIQ.com requires you to have cookies enabled to access certain portions of the site. UPIQ.com may allow other companies that show advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their privacy policies, not this one. Other companies do not have access to UPIQ.com's cookies. 
+### Changes to this Statement 
 
-###   
-Links to Third Party Sites
-
-UPIQ.com provides links to third party websites, e.g. after a search; and may provide referrals to certain third parties' products or services. If you choose to visit a third party's web site or use its products or services, please be aware that this privacy policy will not govern your activities and any information you disclose to such third party. We strongly encourage you to read the privacy policies of the third party web sites that you visit.
-
-###   
-Confidentiality and Security
-
-We limit access to personal information about you to employees who we believe have a legitimate need to come into contact with that information to provide products or services to you or in order to do their jobs. UPIQ.com employs procedural and technical measures reasonably designed to protect your personal information from loss, misuse, unauthorized access or disclosure. Although we make good faith efforts to store the information collected in a secure operating environment that is not accessible to the public, we cannot guarantee complete security.   
- 
-
-### Community - Information Sharing among UPIQ.com Users 
-
-If you choose to include personally identifiable information in your comments, open text fields, or other areas of the web site intended for public viewing, other users will be able to view and use this information. We recommend against posting your email address and other personally identifiable information in this manner unless you are comfortable with the possibility of receiving unwanted contact. 
-
-When you save your trip in UPIQ.com's system, other users will be able to view your shared travel itinerary, unless you choose specifically not to share your travel plans (Private vs. Public trip). To ensure your privacy, UPIQ.com does not display your email address or contact information to users, unless you explicitly request us to do so. Please note that you   
- 
-
-### Accessing, Reviewing and Changing Your Personal Information 
-
-We will offer you the ability to access, review and change certain information via the Registration page. Upon your request, we will deactivate your account, and remove your personal information from active service. Your account will be deactivated as soon as reasonably possible based on your account activity. We will retain in our files and databases some personal information to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use and comply with legal requirements as permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request. 
-
-### Changes to this Privacy Policy
-
-UPIQ.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your UPIQ.com account or by placing a notice on our site. 
-
-If you have questions, please contact us:
-
-UPIQ Head Office  
-408 Market Street  
-San Francisco, CA 94111
-
-###   
-Team UPIQ  
-
-
-Last updated 23th Mars 2010.  
-
+UPIQ will update this privacy statement. For material changes to this Statement, UPIQ will notify you by placing prominent notices on the Web site
