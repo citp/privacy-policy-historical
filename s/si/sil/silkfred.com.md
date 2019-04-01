@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105606id_/https%3A//www.silkfred.com/privacy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401090017id_/https%3A//www.silkfred.com/privacy%23cookies) for the most accurate reproduction.*
 
-# SilkFred: Unique Women’s Clothing from 600+ Online Fashion Brands
+# Privacy | SilkFred
 
 ### May 2018
 
