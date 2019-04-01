@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225155648id_/http%3A//www.keurig.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401025019id_/http%3A//www.keurig.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: September 2014
+Last Updated: February 2019
 
-This Privacy Policy applies to the information Keurig Green Mountain, Inc., or its affiliates* (referred to in this policy as “we”, “us” or “our”) collect on Keurig.com, Keurig.ca, kgm.com, timothys.ca, vanhoutte.com, baristaprima.ca and any other websites, including mobile sites, that are owned and operated by us, that display this Privacy Policy. 
+This Privacy Policy applies to the information Keurig Green Mountain, Inc., its parent, Keurig Dr. Pepper, Inc., or its affiliates* (referred to in this policy as “we”, “us” or “our”) collect on Keurig.com, Keurig.ca, kgm.com, timothys.ca, vanhoutte.com, baristaprima.ca and any other websites, including mobile sites, that are owned and operated by us, that display this Privacy Policy. 
 
 This Privacy Policy describes: 
 
