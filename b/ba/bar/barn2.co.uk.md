@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barn2.co.uk privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120075534id_/https%3A//barn2.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barn2.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401172228id_/https%3A//barn2.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
