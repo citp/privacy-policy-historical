@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freightquote.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815085107id_/https%3A//www.freightquote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freightquote.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401065800id_/https%3A//www.freightquote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Freightquote
 
@@ -8,11 +8,11 @@
 
 ### Policy Effective Date
 
-This policy is effective as of February 19, 2014 and replaces any and all previous versions. 
+This policy is effective as of January 23, 2019 and replaces any and all previous versions.
 
 ### Scope and Application of Policy
 
-Freightquote.com, Inc. and its subsidiaries (collectively “Freightquote”) created this policy (the “Privacy Policy”) in order to demonstrate our commitment to privacy. The policy describes collection, use, storage, sharing and protection of your personal information for the Freightquote.com website and all related sites, applications, services and tools where this policy is referenced, regardless of how you access or use them, including mobile devices. 
+Freightquote.com, Inc. and its parent company for and on behalf of its subsidiaries (collectively “Freightquote”) created this policy (the “Privacy Policy”) in order to demonstrate our commitment to privacy. The policy describes collection, use, storage, sharing and protection of your personal information for the Freightquote.com website and all related sites, applications, services and tools where this policy is referenced, regardless of how you access or use them, including mobile devices.
 
 ### Consent
 
@@ -28,15 +28,15 @@ We may offer you the ability to connect with our sites, or use our applications,
 
 ### Collection of Personal Information
 
-We obtain personal information in order to provide you with the use of and access to our sites, applications, services and tools, and to help us personalize and improve your experience and the services we offer. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States. 
+We obtain personal information in order to provide you with the use of and access to our sites, applications, services and tools, and to help us personalize and improve your experience and the services we offer. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States.
 
-**Information we collect automatically** : When you visit our sites, use our applications, services and tools, or interact with our advertising or content, we automatically collect information sent to us by your computer, mobile device or other access device. This information includes, but is not limited to: 
+**Information we collect automatically** : When you visit our sites, use our applications, services and tools, or interact with our advertising or content, we automatically collect information sent to us by your computer, mobile device or other access device. This information includes, but is not limited to:
 
   * The Internet protocol (IP) address used to connect your computer to the Internet; standard web log information; login, email address and password; the type of device used to access our website and unique identification; computer and connection information, such as browser type, version, and time zone setting; geographic location and navigation information; the full Uniform Resource Locator (URL) clickstream to, through, and from our website; statistics to measure and collect session information; and other anonymous information through the use of cookies and web beacons.
 
 
 
-**Information you give us:** During the registration process, Freightquote requires users to give us contact information. If you register for an account with us, you give us your personal information, and you are not anonymous to us. We collect and store any information you enter on our sites or you provide to us in context of using our sites, applications, services or tools. This may include, but is not limited to: 
+**Information you give us** : During the registration process, Freightquote requires users to give us contact information. If you register for an account with us, you give us your personal information, and you are not anonymous to us. We collect and store any information you enter on our sites or you provide to us in context of using our sites, applications, services or tools. This may include, but is not limited to:
 
   * Name, physical and billing address; phone numbers; credit card information; shipment information, including shipping and receiving addresses; names and email addresses of people to whom shipments are being delivered or picked up; date and time of shipment; and shipping volumes, type of mode transport, and product descriptions.
 
@@ -46,29 +46,41 @@ We obtain personal information in order to provide you with the use of and acces
 
 ### Information Sharing and Registration with Social Media Websites
 
-Freightquote uses various social media sites to communicate about our business. We do not provide any customer data to these sites and will not publish any personal data from our customers on these sites. We do not gain access to your email address or have any access to your personal data while you use social media sites to interact with Freightquote. Any request for personal information or shipment data to help us assist a shipper on these sites will be done through one-on-one messaging. While using social media sites, you are subject to the terms and conditions of these sites. 
+Freightquote uses various social media sites to communicate about or advertise our business. We will not publish any personal data from our customers on these sites. We do not gain access to your email address or have any access to your personal data while you use social media sites to interact with Freightquote. Any request for personal information or shipment data to help us assist a shipper on these sites will be done through one-on-one messaging. While using social media sites, you are subject to the terms and conditions of these sites. 
 
 ### Use of Personal Information
 
 Our primary purpose in collecting personal information is to provide you with access to our sites and/or use of our services, applications and tools, provide you with requested customer service and relevant information about your account and our services, and to provide you with a safe, smooth, efficient and customized experience. 
 
-We may use your personal information to provide access information to our services and tools; to perform general account servicing such as address verification and confirmation of shipments tendered; to collect your shipment information in order to process your shipment and generate an electronic pickup with a freight carrier and to forward shipping documents to the shipping or receiving parties; to customize your address book to simplify and speed up the shipment booking process and to allow Freightquote to contact a stored address if a shipment tendered cannot be delivered; to deliver notification of service updates and explanation of services; to customize, measure and improve our services, content and advertising; to deliver targeted marketing and promotional offers based on your communication preferences; to contact you, either via email or telephone, to resolve disputes, collect fees and troubleshoot problems with your account or our sites, services, applications, or tools, or for other purposes as authorized by law; to provide you with other services requested by you as described when we collect the information. 
+We may use your personal information to provide access information to our services and tools; to perform general account servicing such as address verification and confirmation of shipments tendered; to collect your shipment information in order to process your shipment and generate an electronic pickup with a freight carrier and to forward shipping documents to the shipping or receiving parties; to customize your address book to simplify and speed up the shipment booking process and to allow Freightquote to contact a stored address if a shipment tendered cannot be delivered; to deliver notification of service updates and explanation of services; to customize, measure and improve our services, content and advertising; to deliver targeted marketing and promotional offers based on your communication preferences; to perform digital advertising, to contact you, either via email or telephone, to resolve disputes, collect fees and troubleshoot problems with your account or our sites, services, applications, or tools, or for other purposes as authorized by law; to provide you with other services requested by you as described when we collect the information.
 
 ### Communication Preferences
 
-By providing Freightquote with your contact information and registering to use our services, you agree to receive marketing communications by email, direct mail, and other marketing sources. Freightquote provides users the opportunity to unsubscribe from receiving marketing communications via email by calling 800.323.5441, by emailing [contactus@Freightquote.com](mailto:contactus@Freightquote.com), or by choosing to unsubscribe at the bottom of any Freightquote marketing email. 
+By providing Freightquote with your contact information and registering to use our services, you agree to receive marketing communications by email, direct mail, and other marketing sources. Freightquote provides users the opportunity to unsubscribe from receiving marketing communications via email by calling 800.323.5441, by emailing contactus@Freightquote.com, or by choosing to unsubscribe at the bottom of any Freightquote marketing email.
 
 ### Marketing, Advertising and Pop-Ups
 
 Freightquote does not sell advertising anywhere on our website. If you see advertising pop up messages while using our website, they are not being served by Freightquote and are in no way endorsed or encouraged by Freightquote. 
 
-Freightquote uses remarketing to advertise online. When you visit or interact with our sites, services, applications, email and other tools, we or our authorized service providers may use third party cookies (ex. Google) to show advertisements on websites across the Internet. Third party vendors, including Google, use cookies to serve ads based on someone’s past visits to [Freightquote.com](https://web.archive.org/). You may opt out third party vendor’s use of cookies by visiting [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/). 
+Freightquote uses remarketing and retargeting to advertise online. When you visit or interact with our sites, services, applications, email and other tools, we or our authorized service providers may use third party cookies (ex. Google) to show advertisements on websites across the Internet. Third party vendors, including, but not limited to, Google and social media sites, use cookies to serve ads based on someone’s past visits to [Freightquote.com](https://www.freightquote.com/). You may opt out third party vendor’s use of cookies by visiting [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/?c=1). 
 
-Some web browsers may transmit “do not track” signals to websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Freightquote does not currently take action in response to these signals. 
+For more information about how Google Analytics, Adobe Analytics, Hubspot, Facebook, and/or LinkedIn uses cookies, see the privacy resources for each identified below:
+
+Google Analytics - https://policies.google.com/technologies/partner-sites
+
+Adobe Analytics - https://marketing.adobe.com/resources/help/en_US/reference/c_Privacy_Overview.html
+
+Hubspot - https://legal.hubspot.com/privacy-policy
+
+Facebook - https://www.facebook.com/privacy/explanation
+
+LinkedIn - https://www.linkedin.com/legal/privacy-policy
+
+Some web browsers may transmit “do not track” signals to websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Freightquote does not currently take action in response to these signals. 
 
 ### Our Disclosure of Your Information
 
-We limit the disclosure of personal information to third parties to information required for shipment administration, including, but not limited to, shipping and receiving information, which we submit electronically to the freight carrier. 
+We limit the disclosure of personal information to third parties to information required for shipment administration, including, but not limited to, shipping and receiving information, which we submit electronically to the freight carrier. 
 
 In certain situations, we may disclose your personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone’s rights, property, or safety. Such information will be disclosed in accordance with this Privacy Policy and applicable laws and regulations. We may also share your personal information with: 
 
@@ -80,11 +92,11 @@ Credit bureaus, with which we may report information about your account, includi
 
 Other business entities, should we plan to merge with, acquire or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.) 
 
-We may engage other companies to perform certain functions on our behalf. Examples include sending direct and electronic mail, printing and mailing invoices, analyzing data and providing marketing analysis. Third parties performing these limited functions on our behalf shall have access to our user’s personal information as needed to perform these functions, but we do not permit them to use your personal information for other purposes. 
+We may engage other companies to perform certain functions on our behalf. Examples include sending direct and electronic mail, printing and mailing invoices, analyzing data and providing marketing analysis. Third parties performing these limited functions on our behalf shall have access to our user’s personal information as needed to perform these functions, but we do not permit them to use your personal information for other purposes.
 
 ### Information You Share on Freightquote
 
-If you access our sites from a shared computer, certain information about you, such as your account user information or shipment activity, may also be visible to other individuals who use the computer after you. We encourage you to properly log out and close your browser window to prevent others from accessing your personal information. 
+If you access our sites from a shared computer, certain information about you, such as your account user information or shipment activity, may also be visible to other individuals who use the computer after you. We encourage you to properly log out and close your browser window to prevent others from accessing your personal information.  
 
 ### How We Protect and Store Your Personal Information
 
@@ -96,17 +108,9 @@ We take steps to ensure that the personal information we collect is accurate and
 
 When you visit or interact with our sites, services, applications, messaging (such as email), and tools, we use cookies to help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our website. We may also record your password in a cookie. Please note that log-ins, passwords and any other account-related information included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information. 
 
-For more information about how Google Analytics, Adobe Analytics and/or Hubspot uses cookies, see the privacy resources for each identified below:
-
-Google Analytics - https://policies.google.com/technologies/partner-sites
-
-Adobe Analytics - https://marketing.adobe.com/resources/help/en_US/reference/c_Privacy_Overview.html
-
-Hubspot - https://legal.hubspot.com/privacy-policy
-
 ### No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. To report company-related spam or spoof emails to Freightquote, please forward the email to [report-spam@freightquote.com](mailto:report-spam@freightquote.com). You may not use our communication tools to send spam or otherwise send content that would violate our Terms and Conditions. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content. 
+We and our users do not tolerate spam. To report company-related spam or spoof emails to Freightquote, please forward the email to report-spam@freightquote.com. You may not use our communication tools to send spam or otherwise send content that would violate our Terms and Conditions. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content. 
 
 ### Accessing, Reviewing, and Changing Your Personal Information
 
@@ -135,16 +139,16 @@ Freightquote is committed to compliance with applicable privacy laws and is comm
 
 ### Our GDPR (General Data Protection Directive) Processing Principals
 
-If your rights and freedoms are protected under the European Union's Regulation (EU) 2016/679, we will only process your personal data if we established a legal basis for such processing.  We will only process your information to the extent that you consented to such processing, or if processing is required in the performance of a contractual obligation, for the purposes of legal obligation in which we must comply, for the vital interests of individuals, for public interest, or for a legitimate interest.  In addition, we will only process your personal data for the purpose it was originally collected, or unless you provide explicit consent to additional processing.  We will limit our processing of your personal data to such data that is proportionate to attain its purpose, we will retain your personal data so long as to attain the specific purposes for such data, except where required to retain longer in which we will duly inform you, and we will implement technical and organizational secrurity measures to protect your personal data from accidental loss, destruction, or damage.  
+If your rights and freedoms are protected under the European Union's Regulation (EU) 2016/679, we will only process your personal data if we established a legal basis for such processing.  We will only process your information to the extent that you consented to such processing, or if processing is required in the performance of a contractual obligation, for the purposes of legal obligation in which we must comply, for the vital interests of individuals, for public interest, or for a legitimate interest.  In addition, we will only process your personal data for the purpose it was originally collected, or unless you provide explicit consent to additional processing.  We will limit our processing of your personal data to such data that is proportionate to attain its purpose, we will retain your personal data so long as to attain the specific purposes for such data, except where required to retain longer in which we will duly inform you, and we will implement technical and organizational security measures to protect your personal data from accidental loss, destruction, or damage.  
 
 You have certain rights in accordance with the GDPR.  Specifically, your rights include:
 
-  * The right to receive information about your relationship with C.H. Robinson;
-  * The right to obtain our confirmation regarding whether your personal data is being processed:
+  * The right to receive information about your relationship with Freightquote;
+  * The right to obtain our confirmation regarding whether your personal data is being processed;
   * The right for us to inform you of your rights to have your personal data corrected, if inaccurate, and to be erased or "forgotten" upon completion of such processing or upon your valid request or withdrawal of consent;
-  * The right to restrict our processing of your personal data if the accuracy of such data is contested, or, if C.H. Robinson no longer needs your personal data for its original purpose;
+  * The right to restrict our processing of your personal data if the accuracy of such data is contested, or, if Freightquote no longer needs your personal data for its original purpose;
   * The right to receive copies of all your personal data in our possession in a structured, commonly used, and machine readable format;
-  * The right to transmit your personal data in our possession to another controller without hindrance from C.H. Robinson;
+  * The right to transmit your personal data in our possession to another controller without hindrance from Freightquote;
 
 
 
