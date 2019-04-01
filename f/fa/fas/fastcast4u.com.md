@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastcast4u.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819183330id_/https%3A//fastcast4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcast4u.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401025359id_/https%3A//fastcast4u.com/privacy) for the most accurate reproduction.*
 
-# FastCast4u | Privacy Policy
+# FastCast4u | Start Your own radio station with Us!
 
 Our Privacy Policy  
 In order to make our Privacy Policy simpler, more transparent, inform you about your rights and to comply with the General Data Protection Regulation (GDPR) 2016/679 (EU), we introduce this Privacy Policy as of May 25th, 2018.  
