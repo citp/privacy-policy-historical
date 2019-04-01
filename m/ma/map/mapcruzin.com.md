@@ -1,51 +1,43 @@
-> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928163338id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401181650id_/https%3A//mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
 
 # Cookies, Privacy, Disclaimer and fair use notice
 
 January 30, 2020 
 
-**Research:** [Right-to-Know or Left-to-Wonder](https://web.archive.org/right-to-know-issues.htm)  
-[RTK News](https://web.archive.org/index2.html) \- [RTK Resources](https://web.archive.org/right-to-know-issues2.htm) \- [Lost and Found](https://web.archive.org/mapcruzin-news-archive.htm)
+[](https://twitter.com/mapcruzin) [Follow on Twitter](https://twitter.com/mapcruzin)
 
-[](http://twitter.com/pollutionmaps) [Follow on Twitter](http://twitter.com/pollutionmaps)
-
-A Member of the  
-[Reimagination Network](http://www.reimagination.com/)
-
-**Didn't find what you are looking for?** [**Email me**](mailto:mike@mapcruzin.com?subject=Find%20it%20at%20MapCruzin) **and I'll find it for you.**
+**Didn't find what you are looking for?** [**Email me**](https://web.archive.org/cdn-cgi/l/email-protection#80ede9ebe5c0ede1f0e3f2f5fae9eeaee3efedbff3f5e2eae5e3f4bdc6e9eee4a0e9f4a0e1f4a0cde1f0c3f2f5fae9ee) **and I'll find it for you.**
 
 **Progressive Links**
 
-[Federation of American Scientists](http://www.fas.org/)
+[Federation of American Scientists](https://www.fas.org/)
 
-[Physicians for Social Responsibility](http://www.psr.org/)
+[Physicians for Social Responsibility](https://www.psr.org/)
 
-[Public Employees for Environmental Responsibility](http://www.peer.org/)
+[Public Employees for Environmental Responsibility](https://www.peer.org/)
 
-[Union of Concerned Scientists](http://www.ucsusa.org/)
+[Union of Concerned Scientists](https://www.ucsusa.org/)
 
-[Alternet](http://www.alternet.org/)
+[Alternet](https://www.alternet.org/)
 
-[Reader Supported News](http://readersupportednews.org/)
+[Reader Supported News](https://readersupportednews.org/)
 
-[Common Dreams](http://www.commondreams.org/)
+[Common Dreams](https://www.commondreams.org/)
 
-[Truthout](http://www.truth-out.org/)
+[Truthout](https://www.truth-out.org/)
 
-[Huffington Post](http://www.huffingtonpost.com/)
+[Huffington Post](https://www.huffingtonpost.com/)
 
-[Media Matters](http://www.mediamatters.org/)
+[Media Matters](https://www.mediamatters.org/)
 
-[Think Progress](http://thinkprogress.org/)
+[Think Progress](https://thinkprogress.org/)
 
-[Grist Environmental News](http://www.grist.org/)
+[Grist Environmental News](https://www.grist.org/)
 
-Have a question or comment? Post them at the [**MapCruzin Blog**](http://mapcruzin.blogspot.com/). 
-
-[**Climate Shift Blog**](http://climate-shift.blogspot.com/)
+[**Climate Shift Blog**](https://climate-shift.blogspot.com/)
 
 [**MapCruzin Consulting**](https://web.archive.org/aboutus.htm)  
-GIS and Google Maps Development, Website Creation and Hosting, Fast and Affordable. 
+Data Research and GIS Specialists. 
 
 [GIS Tutorials](https://web.archive.org/free-gis-tutorials/free-gis-tutorials.htm)
 
@@ -59,23 +51,23 @@ On This Page: Your Privacy \- Fair Use \- Disclaimer
 
 Sponsors
 
-##  **Privacy Policy for www.mapcruzin.com**
+##  **Privacy Policy for mapcruzin.com**
 
-This is our privacy policy. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [mike@mapcruzin.com](mailto:mike@mapcruzin.com?subject=MapCruzin%20Privacy%20Question). 
+This is our privacy policy. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d404446486d404c5d4e5f58574443034e4240125e584f47484e5910604c5d6e5f585744430d7d5f445b4c4e540d7c58485e59444243). 
 
-At www.mapcruzin.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by www.mapcruzin.com and how it is used. 
+At mapcruzin.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by mapcruzin.com and how it is used. 
 
 **Log Files**  
-Like many other Web sites, www.mapcruzin.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, mapcruzin.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
-www.mapcruzin.com does not use cookies. 
+mapcruzin.com does not use cookies. 
 
 DoubleClick DART Cookie 
 
-  * Google, as a third party vendor, uses cookies to serve ads on www.mapcruzin.com. 
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to www.mapcruzin.com and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>. 
+  * Google, as a third party vendor, uses cookies to serve ads on mapcruzin.com. 
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to mapcruzin.com and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html). 
 
 
 
@@ -85,23 +77,23 @@ Commission Junction
 Clickbank  
 Amazon 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.mapcruzin.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on mapcruzin.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-www.mapcruzin.com has no access to or control over these cookies that are used by third-party advertisers. 
+mapcruzin.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.mapcruzin.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. mapcruzin.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 Special Note About Google Advertising 
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
-About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Go here for more information: <http://www.google.com/privacy/ads/>. 
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Go here for more information: [http://www.google.com/privacy/ads/](https://www.google.com/privacy/ads/). 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [mike@mapcruzin.com](mailto:mike@mapcruzin.com?subject=MapCruzin%20Privacy%20Question). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#abc6c2c0ceebc6cadbc8d9ded1c2c585c8c4c694d8dec9c1cec8df96e6cadbe8d9ded1c2c58bfbd9c2ddcac8d28bfadeced8dfc2c4c5). 
 
-You can find additional information about your privacy online in [Appendix A of the NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time. 
+You can find additional information about your privacy online in [Appendix A of the NAI Self-Regulatory principles for publishers](https://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time. 
 
 Sponsors
 
@@ -127,14 +119,17 @@ Didn't find what you are looking for? We've been online since 1996 and have crea
 
 * * *
 
-MapCruzin.com is an independent firm specializing in the publication of educational and research resources. We created the first U.S. based interactive toxic chemical facility maps on the internet in 1996 and we have been online ever since. Learn more [about us](https://web.archive.org/aboutus.htm) and view some of our [projects](https://web.archive.org/projects/) and [services](https://web.archive.org/services.htm). 
+Michael R. Meuser  
+Data Research & GIS Specialist 
 
-If you have data, GIS project or custom shapefile needs [**send me an email**](mailto:mike@mapcruzin.com?subject=Consulting). 
+MapCruzin.com is an independent firm specializing in GIS project development and data research. We created the first U.S. based interactive toxic chemical facility maps on the internet in 1996 and we have been online ever since. Learn more [about us](https://web.archive.org/aboutus.htm) and our [services](https://web.archive.org/services.htm). 
 
-[Contact Us](mailto:mike@mapcruzin.com?subject=Thanks%20for%20contacting%20MapCruzin)
+Have a project in mind? If you have data, GIS project or custom shapefile needs [**contact Mike**](https://web.archive.org/cdn-cgi/l/email-protection#f5989c9e90b59894859687808f9c9bdb969a98ca8680979f909681c8b69a9b868099819c9b92). 
 
-[Report Broken Links](mailto:mike@mapcruzin.com?subject=Broken%20Link%20at%20MapCruzin)
+[Contact Us](https://web.archive.org/cdn-cgi/l/email-protection#224f4b4947624f4352415057584b4c0c414d4f1d515740484741561f764a434c495102444d5002414d4c564341564b4c45026f4352615057584b4c)
 
-[**Subscribe for Updates**](http://feedburner.google.com/fb/a/mailverify?uri=blogspot/mapcruzin&loc=en_US)
+[Report Broken Links](https://web.archive.org/cdn-cgi/l/email-protection#2c414547496c414d5c4f5e59564542024f4341135f594e46494f58116e5e434749420c604542470c4d580c614d5c6f5e59564542)
+
+[**Subscribe for Updates**](https://feedburner.google.com/fb/a/mailverify?uri=blogspot/mapcruzin&loc=en_US)
 
 | 
