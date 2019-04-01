@@ -1,149 +1,269 @@
-> *The following text is extracted and transformed from the royalalberthall.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130180012id_/https%3A//www.royalalberthall.com/extra/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalalberthall.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401031042id_/https%3A//www.royalalberthall.com/extra/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Royal Albert Hall
+# Privacy Policy | Royal Albert Hall — Royal Albert Hall
 
-### 1 INTRODUCTION
+**Fair Processing Notice / Privacy Policy**
 
-The Corporation of The Hall of Arts And Sciences, trading as the Royal Albert Hall, “Us”, “We”, “Our”) is the data controller of your Information for the purposes of the Data Protection Act 1998 (the “Act”). We are a registered charity with charity number 254543. We respect your privacy and we are committed to protecting your personal information as that term is defined in the Act (“Information”). We comply with the principles of the Act and aim to maintain consistently high levels of best practice in our processing of your Information. 
+Published: **22 May 2018**
 
-This Privacy Policy (“Policy”) is intended to inform you how we collect, use and disclose your personal data. This Policy is intended to assist you in making informed decisions about your Information when using our website or attending our venue. Please take a minute to read and understand the Policy.
+### Introduction
 
-By using our website and attending our venue you consent to our collection and use of your Information as described in this Policy. If we change our Policy and/or procedures, we will post those changes on our website to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of the website or attendance at our venue after this Policy has been amended shall be deemed to be your continued acceptance of this Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly. 
+This notice describes your rights as a visitor or customer of the Royal Albert Hall. It provides information about your rights relating to your personal information along with how we collect, use and share your data.
 
-Our connected charity, The Royal Albert Hall Trust (charity number 285111), may also use your Information under our instructions as a data processor and will do so in compliance with this Policy. 
+This privacy notice is to inform you how we collect, use and disclose your personal data.
 
-### 2 WHAT INFORMATION DO WE COLLECT?
+The Corporation of the Hall of Arts and Sciences, trading as the Royal Albert Hall, is committed to abiding by all laws and this includes the Data Protection Act 2018 which incorporates the EU General Data Protection Regulation (GDPR). We are registered with the Information Commissioner as a “data controller” and our registration number is Z8161896.
 
-All your Information will be held and used in accordance with the Act where applicable. 
+By using our website and attending our venue you consent to our collection and use of your Information as described in this notice. If we change our notice, policy and/or procedures, we will post those changes on our website to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of the website or attendance at our venue after this notice has been amended shall be deemed to be your continued acceptance of this notice, as amended. We encourage you to bookmark this Web page and review this notice regularly. 
 
-When you visit and use our website or attend events at our venue you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:
+Our connected charity, the Royal Albert Hall Trust (charity number 285111), and wholly owned subsidiary companies Royal Albert Hall Developments Limited (company registered number: 01539294) and Royal Albert Hall Concerts Limited (company registered number: 10664172) may also use your Information under our instructions as a data processor and will do so in compliance with this Policy.
 
-#####  2.1 Information you voluntarily provide to us 
+This notice contains links to more information on many of the topics listed and further external links if you wish to read further detail about personal data management. External links from these pages are not under the control of the Royal Albert Hall and whilst we have attempted to provide known safe links to the information you may seek, you click on these links at your own risk.
 
-We collect and maintain Information that you voluntarily submit to us during your use of our website or attendance at our events. For example:   
-• when you register on our website to purchase tickets or receive an e-newsletter or press release, you may provide us with certain Information including your name, email address, screen name , password, demographic information and financial details ;   
-• where our website contains a social networking function, you may create and add to your profile by providing Information about your interests;   
-• if you sign up to receive an e-newsletter, press release, enter a contest or participate in social networking activities, you may provide us with contact information (e.g., email, telephone and/or or physical address); and   
+### Who we are
+
+The Corporation of the Hall of Arts and Sciences, trading as the Royal Albert Hall, is a registered charity (charity number 254543) providing entertainment and access to arts, science and culture.
+
+We are registered with the UK Information Commissioner’s Office as a data controller and our registration number is Z8161896.
+
+Our head office address is the Royal Albert Hall, Kensington Gore, London, SW7 2AP
+
+If you need to contact someone to talk about personal data privacy you can contact our Data Protection Team at [mydata@royalalberthall.com](mailto:mydata@royalalberthall.com).
+
+### What is personal information?
+
+Personal information or personal data is data which identifies a person (you) from the information provided or if combined with other information that we may have access to.
+
+You can find out more about the legal definitions of personal data [here](https://gdpr-info.eu/art-4-gdpr/).
+
+In summary, personal data is:  
+• Name and address  
+• Mobile phone  
+• Date of birth  
+• Email address  
+• Bank account details  
+• An IP address
+
+In addition, there are “special categories” of personal data which means that the data, in law, is considered more sensitive, such as:  
+• Personal data related to your health  
+• Genetic data  
+• Religious beliefs
+
+Click [here](https://gdpr-info.eu/art-9-gdpr/) for a more complete list of this type of data.
+
+In the event that we need to collect personal data that falls into special categories, we will inform you at the time of collection why we require it. We will only use this type of information about you for the specific purpose for which it has been collected. If we wish to use the information for any other purposes, we will ask for your permission to do so unless there is a legal requirement for us to process your personal data.
+
+### What personal information do we collect?
+
+When you visit and use our website or attend events at our venue you may provide us with, or we may collect, your information such as your address, email address and other personal information that is required to provide you with a quality service. 
+
+We may collect your information in a number of ways.
+
+### Information you provide to us directly
+
+We collect and maintain information that you provide to us during your use of the website or attendance at events.   
+• when you register on our website to purchase tickets or receive an e-newsletter or press release, you may provide us with certain information including your name, email address, screen name, password, demographic information and some financial details;   
+• when you create an account you may add to your profile by providing Information about your interests;   
+• if you sign up to receive an e-newsletter, enter a contest or participate in social networking activities, you may provide us with contact information (e.g., email, telephone and/or or physical address); or   
 • you may provide us with Information in the course of email, customer support interactions and surveys.
 
-We may ask for different pieces of Information. You can choose not to provide us with certain Information, but this may stop you from gaining access to a service or limit the features that you can use on our website and the information we are able to send you. For more information, please see the “How We Use Your Information” section of the Policy below. 
+You have control over the information you provide to us, but you must understand that if you choose not to share some details with us, it may stop you from gaining access to a service or limit features that you can use on our website and the information we are able to send to you.
 
-##### 2.2 Information we collect through your use of our Website 
+You may provide your information to us via a number of routes.
 
-As you use our website, Information may also be passively collected by us through our use of cookies, pixels, beacons, log files and other technologies. This Information allows us to deliver more helpful information, services, tools and advertisements. Please see our Cookie Policy for more information. 
+The information you provide to us, may come from:  
+• Information you have provided whilst registering for, or buying a product  
+• Forms on the website or on paper which you have completed  
+• Information provided over the telephone  
+• Information you have provided via email correspondence with us
 
-##### 2.3 Information we receive from third parties 
+### Personal information we get from other sources
 
-We may also combine online and/or offline information received from third parties (including our connected charity The Royal Albert Hall Trust) with your Information. The third party information is used for a variety of purposes including to verify other Information about you (e.g., verify your mailing address to send you tickets or requested products) and to enhance the content we provide to you. 
+Usually we will collect information you have provided, but sometimes we get your personal information from third parties who provide us with the information of people who have given permission for their information to be shared, or from someone who believes you may be interested in hearing from us (word of mouth). We will always use such information responsibly and in accordance with your rights, and you will always be able to stop further contact from us if we contact you about offers and events. 
 
-### 3 HOW WE USE YOUR INFORMATION
+We may get your information from third parties, where your permission is given or there is a valid legal basis for obtaining it, from:  
+• Marketing companies, platforms and agencies – who provide lists of people with whom we may make contact to interest them in our products  
+• Financial institutions who provide information related to credit and payments  
+• From supporters and members whom you know and who believe you may be interested in hearing from us.
 
-We will use your Information in the ways described below and as described at the time that the Information is collected. 
+Where your personal data is used by us, and you have a choice e.g. receiving direct marketing, you will always be afforded the option of stopping further contact, “unsubscribe”, and controlling these consent options to your own satisfaction. 
 
-##### 3.1 To Provide our Services 
+We only use personal data gathered from other sources if it is legal to do so, and always with the intention of being responsible with that information. We may use such information to verify other information about you, for example to verify your email address to send you tickets or information which you have requested. If, however you believe that we have misused your personal data, please contact us and we will resolve your problem as swiftly as we can.
 
-In general, we use your Information as necessary or appropriate for our business purposes including to:  
+### Information we collect through our website
+
+When you use our website, information may be collected by us through our use of cookies, pixels, beacons, log file and other technologies. This information allows us to deliver more helpful information, services and advertisements. Our Cookie policy will give you more details. Click [here](https://www.royalalberthall.com/extra/cookies/) to see this policy.
+
+**Children under 13**
+
+Our Services are not directed to persons under 13 and we do not intentionally collect any information on children under 13 years of age. If you become aware that your child has provided us with personal information without your consent, please contact us at [mydata@royalalberthall.com](mailto:mydata@royalalberthall.com). 
+
+We will undertake to delete any details of such users where a parent or guardian has notified us that any such details have been obtained.
+
+### What we use your personal Information for
+
+We will use your personal information to provide you with services you have enquired about, or asked for. We will also use your information with your permission to let you know about offers and products (marketing). Wherever we collect personal data with marketing in mind, we will inform you and provide you with a choice to continue or stop being contacted for this purpose.
+
+We will use your personal information to fulfil any contract we have with you, which will usually be when you order tickets from us and have the expectation that we will use your information to ensure you receive the right tickets at the right time.
+
+Typically, we will use your information as necessary and as appropriate for our business purposes, including:  
 • administer your account where you have opened an account with us;   
 • register you and provide you access to the website;  
-• respond to inquiries or requests that you direct to us;   
+• respond to enquiries or requests that you direct to us;   
 • fulfil your requests for tickets, e-newsletters or products we sell;   
 • send communications and administrative emails about the website, or our events;  
-• personalise and better tailor the features, performance and support of the website for your use; and  
-• analyse, benchmark and conduct research on user data and user interactions with the website and our venue.
+• send service messages to request feedback on customer experience  
+• personalise and better tailor the features, performance and support of the website for your use;   
+• analyse, benchmark and conduct research on user data and user interactions with the website and our venue.  
+• based on the frequency of your visits and other personal information you provide, we may promote our [Friends & Patrons Schemes](https://www.royalalberthall.com/support/join-us/) to you or ask you for additional philanthropic support for our work  
+• respond to applicants for job vacancies 
 
-##### 3.2 Marketing
+### Marketing
 
-Where you have provided us with the appropriate consents, or where the Act entitles us to do so, we may send you marketing materials about upcoming events. In addition, where you have provided us with the appropriate consents, we may also pass your Information to our connected charity or other selected third parties for marketing purposes. 
+We may use your information for contacting you about events and services where we have permission to do so and where the law allows this communication to take place.
 
-However, be assured that we understand the irritations of unsolicited communications and we are fully committed to ensuring the rights and obligations set out in the Act and the Privacy and Electronic Communications Regulations 2003 are respected. 
+Where you have provided permission, we may also pass your information to our connected charity, our subsidiary companies or other careful selected third parties for marketing purposes. You have control of this process and may change your permissions as you wish.
 
-##### 3.3 Behavioural Advertising 
+We are well aware of the irritations of unsolicited marketing communications and are committed to ensuring that your rights and our obligations are fully respected at all times.
 
-We believe that advertising is more interesting to you when it is relevant. Accordingly, where you have consented for us to do so we may customise the advertisements that you see based upon:   
+You may wish to know more about email marketing and your personal information, and the Information Commissioner provides guidance in this area, [here](https://ico.org.uk/for-the-public/).
+
+### Other advertising
+
+We believe that advertising is more interesting to you when it is relevant. Where you have given permission for us to do so, we may customise the advertising that you see based upon your personal information.
+
+We may use personal information for this purpose including:  
 • the Information you voluntarily provide to us;   
 • geographic location information, which we may determine through your IP address, from your mobile device, or other ways;   
 • data we receive from third parties; or  
-• your visits to our website or your use of our services (commonly referred to as “Behavioural Advertising”). Please see our Cookie Policy below for further information. 
+• your visits to our website or your use of our services (commonly referred to as “Behavioural Advertising”) via the use of cookies.
 
-We may also share with certain social media websites such as Facebook unique identifiers (“Hashed Data”) allocated to you. This is so that we can together provide you with customised content when you visit social media sites and so we can provide other visitors to those social media sites with customised advertising.
+You can control how cookies are used via your browser. See our [Cookie Policy](https://www.royalalberthall.com/extra/cookies/) for more information.
 
-Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties’ use of cookies or web beacons or what they do with the information they collect. 
+### Who do we share your personal data with?
 
-You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our [Cookie Policy](https://www.royalalberthall.com/extra/cookies/)for more details of how to delete cookies.
+There are some organisations with which we work where we must share your personal details to provide the services you require. 
 
-After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.
+We may disclose your personal information if we are under a duty to disclose or share your information to comply with any legal obligation or in order to enforce or apply or fulfil our terms and conditions and other agreements or protect the rights, property, or safety of our customers, our group companies or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. 
 
-### 4 CAN I FIND OUT WHAT PERSONAL INFORMATION THE ROYAL ALBERT HALL HOLDS ON ME?
+Where your personal data must be shared for us to provide you with a service, then we make sure that our partners have the right controls in place to use your information responsibly and under our control. 
 
-Under the Act you have the right to request a copy of the Information that we hold about you. There will be an administration fee of £10 associated with this request and it will require two pieces of identification to prove your identity . Please make a written application to the Customer Services Team, Royal Albert Hall, Kensington Gore, London, SW7 2AP .
+Partners who may see your information include:  
+• Promoters  
+• Artist Management   
+• Agents  
+• Courier companies  
+• Catering suppliers  
+• Recruitment software for applicant tracking  
+• Medical partners – in the event of an accident or incident you are involved in  
+• Payment providers (which take your bank card details and process payments)
 
-If any of the Information that we hold about you is incorrect, you can either:  
-• [Contact Us;](https://www.royalalberthall.com/your-visit/contact-us/) or  
-• change your details in the My Account section or  
-• contact the customer services team on 0845 401 5045 who will update your details as soon as practically possible.
+It is important for us that you understand who your information may be shared with and the seriousness with which we take the confidentiality of your personal data. If you have questions about such uses of your personal data, we will be happy to tell you more.
 
-### 5 HOW WE DISCLOSE YOUR INFORMATION TO THIRD PARTIES
+We may also share your information with third parties involved in promotions or competitions you may enter who may be the suppliers of prizes and to properly and fairly administer such promotions.
 
-We may share your Information with third parties as specifically approved by you or under the circumstances described below. 
+We will not share your personal data unless there is a valid legal reason or need to do so.
 
-#####  5.1 Disclosure for legal reasons 
+### Storage and security of personal information
 
-We may disclose your Information if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply or fulfil our terms and conditions and other agreements or protect the rights, property, or safety of our customers, our group companies or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. 
+Your personal information is kept secure at all times and we use the latest technology to ensure that all our data is kept confidential, especially personal information that we hold.
 
-We use a number of third party organisations to help provide a professional service to our customers (i.e. payment providers and website designers). These organisations act as data processors and are strictly controlled in how they may/may not use your Information and we remain responsible for the protection of your Information.
+Your information may be kept in a number of places, all of which comply with data protection requirements. We use cloud providers and online application providers to help us run our business and information we manage may be transferred and store to destinations outside of the UK and Europe. All reasonable steps are taken to ensure that your personal information is managed and secured appropriately, at all times. Confidentiality agreements, contracts and sharing agreements are all documents we use to ensure that partners, suppliers and third parties are all managing your personal data responsibly, transparently, fairly and within the law.
 
-##### 5.2 Promotions and Sponsors 
+All transfers of personal information regardless of destination will comply with the law, at all times. 
 
-Some or all of the Information collected during a promotion, contest or poll (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed and consented to by you at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfilment needs or a co-sponsor who may use your Information to administer the Promotion or for their marketing purposes, but only in conformance with your consent. We are not responsible for their privacy policy or practices. 
+### How long we keep your personal Information for
 
-When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion.
+We will keep your personal data for a length of time that is in line with our need to identify you and to provide goods or services to you. If you are a customer, then we will keep personal information about you for our legitimate business purposes, such as ensuring we can identify you in the case of a complaint, to identify payments and within our finance systems for auditing and accounting purposes. We will also keep the personal information you have provided for marketing purposes for a period of time that allows us to contact you with offers, if you have agreed to be contacted, and to ensure that we do not contact you inadvertently if you have refused marketing contact.
 
-##### 5.3 Changes to the Charity
+We will only keep your personal data for as long as there is a legitimate requirement to do so.
 
-In the event we go through a business transition such as a restructure, merger, acquisition by another company or charity, or sale of all or a portion of our assets, your Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy. 
+### How do I request what information you hold on me?
 
-##### 5.4 Message Boards and Chats
+You have the right to request a copy of the Information that we hold about you. We may require additional verification depending on the nature of your request.
 
-We may make message boards, chat rooms, and other interactive forums available as part of our services. You should be aware that any Information which you post to these interactive forums or otherwise choose to make publicly available, may be disclosed and available to all users who have access to that portion of our website or services. By using these interactive forums, you agree that we are not responsible for any Information that you disclose or communicate in such forums, and any disclosures you make are at your own risk. 
+Please make a written application preferably by email to: [mydata@royalalberthall.com](mailto:mydata@royalalberthall.com) or you can write to: My Data Team, Royal Albert Hall, Kensington Gore, London, SW7 2AP.
 
-### 6 UPDATING AND CONTROL OF YOUR INFORMATION
+If any of the Information that we hold about you is incorrect, you can either contact us via the details on the website, change the details yourself in the “My Account” section of the website or contact our customer services team on 0845 401 5045 who will update your details as soon as practically possible.
 
-There are a number of ways in which you can control the collection, use, and sharing of your Information and update your Information and preferences. 
+### Friends & Patrons
 
-##### 6.1 Opting-Out on Receipt of Marketing Communications
+If you sign up to our Friends & Patrons scheme, we may use your personal information (including your name, contact details, booking and transaction history) to fulfil your orders, provide customer service and Friends & Patrons benefits and for our own analysis purposes so that we can find new supporters and offer benefits that are right for you. We may share your personal information with other organisations for these purposes, with your permission. We require that such organisations meet our standards for handling data, and that it is only used for the agreed purpose. We will not otherwise share your personal information as a Friend or Patron with any third-party organisations.
 
-When you receive marketing communications or e-newsletters from us you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the marketing e-mail or newsletter. 
+We will not assume permission for marketing purposes unless this is expressly granted when you sign up to use our services. You can withdraw your consent to us using your data in this way at any time by contacting the Friends & Patrons team on 020 7070 4444 or by emailing [friends@royalalberthall.com](mailto:friends@royalalberthall.com) or [patrons@royalalberthall.com](mailto:patrons@royalalberthall.com).
 
-##### 6.2 Preference Services
+### Royal Albert Hall as a Charity
 
-The Telephone Preference Service (TPS) and the Mailing Preference Service (MPS) allow you to choose to opt out of unsolicited marketing contact by us and any third parties. However, if you are registered on either preference service, we will assume that any subsequent consent to receiving marketing communications given to us via our website or other means of data capture indicates, for the time being, your consent to receive marketing communications in accordance with your consent. 
+We do not receive any annual government funding so we rely on donations to support investment in our building and the expansion of our Education & Outreach programme.
 
-##### 6.3 Contacting Us
+You can opt in to receive information about supporting the Royal Albert Hall when you register on our website or by logging in to your account and updating your preferences. You can also tell our Box Office team or one of the Philanthropy team over the phone or in person.
 
-If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences by contacting us using the [Contact Us](https://www.royalalberthall.com/\[sitetree_link,id=\]) section or by updating your preferences in the My Account section.
+We will keep you up to date on the different ways that you can support the Royal Albert Hall, such as philanthropic donations, joining the Friends & Patrons Scheme or through our Legacy scheme. We will also send you information on relevant campaigns, how you can make a difference and invitations to supporter events.
 
-Please note that:  
-• even if you delete Information, we may retain your Information in conformance with our data retention policy; and  
-• we are not responsible for updating or removing your Information contained in the lists or databases of third parties who have been provided with Information as permitted by this Policy. 
+Based on the frequency of your visits and other personal information you provide, we may promote our Friends & Patrons Schemes to you or ask you for additional philanthropic support for our work. We do not use wealth screening companies to analyse our data.
 
-### 7 THIRD PARTY LINKS AND SERVICES
+We want to ensure communications to our existing and future supporters are personal and relevant so that we can continue to deliver unforgettable experiences for everyone and cost-effectiveness for the charity. We may analyse our database and the personal information you have provided and add publicly available information to create a profile of interests so that we can better understand your interests and tailor any invitations or communication. This will include geographic and demographic information, full name, postal address, past donations and ability to support us, ticket history and information in the public realm e.g. Companies House, Charity Commission, professional biographies, Directorships, articles/newspapers and Social Media profiles. The more personal the contact, the faster we are able to raise funds to support the Royal Albert Hall charity. 
 
-Please remember that when you use a link to go from our website to another website or you request a service from a third party, our Policy no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to information collected by us through our website or services and does not apply to these third party websites and third party service providers.
+We know that our donors would expect us to have an understanding of who they are and gauged their level of interest in the Hall before approaching them. To meet this expectation, we research existing and potential supporters by analysing our database. This research will include audience members’ ticket history, address and previous donations as well as publicly available information (including newspaper articles, listed Directorships, social media profiles and biographies on employers’ websites).
 
-### 8 WHERE WE STORE YOUR INFORMATION
+If you do not wish us to process your information in this way, you have the right to opt out and can do so by contacting the Philanthropy team on 020 7070 4444 or [philanthropy@royalalberthall.com](mailto:philanthropy@royalalberthall.com). 
 
-The Information that we collect from you may be transferred to and stored at a destination outside the European Economic Area. Your Information may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting Information to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Information is treated securely and in accordance with this Policy and the Act. 
+### What are your rights?
 
-### 9 SECURITY OF YOUR INFORMATION
+Under data protection legislation from the UK and Europe, you have rights over how your personal data is used. The main rights related to your personal data are listed below, but there are others which you may like to find out more about by looking up the Data Protection Act 2018 or the General Data Protection Regulation. 
 
-We follow appropriate security procedures in the storage and disclosure of your Information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, unfortunately, the transmission of information via the Internet is not completely secure. So, we cannot ensure the security of your Information transmitted by you to us via the internet. Any such transmission is at your own risk and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of your Information, except to the extent we are required to accept such responsibility by the Act. Once we have received your Information we will use security procedures and features to prevent unauthorised access to it. 
+**The right of transparency (right to be informed)**
 
-### 10 Friends & Patrons
+You have a right to be informed about the collection and use of your personal data. We have an obligation to be transparent and provide you with this information freely and that it is easily understood. This notice serves to provide information on collection and use of personal data, and you may contact us if you want to know more about any aspect of how we handle your personal information. More information on this right is available [here](https://gdpr-info.eu/art-12-gdpr/).
 
-If you sign up to our Friends & Patrons scheme, we may use your personal information (including your name, contact details, booking and transaction history) to fulfil your orders, provide customer service and Friends & Patrons benefits and for our own analysis purposes so that we can find new supporters and offer benefits that are right for you. We may share your personal information with other organisations for these purposes. We require that such organisations meet our standards for handling data, and that it is only used for the agreed purpose. We will not otherwise share your personal information as a Friend or Patron with any third party organisations.
+**The right of access to your information**
 
-We will not assume permission for marketing purposes unless this is expressly granted when you sign up to use our services. You can withdraw your consent to us using your data in this way at any time by contacting the Friends & Patrons team on 020 7070 4444 or [friends@royalalberthall.com](mailto:friends@royalalberthall.com). 
+You have a right to have access to the information we hold about you and to verify that we are using your personal data lawfully. If asked we will provide confirmation of what personal data we hold, provide a copy of the data, and inform you of any other rights you may have. You can find out more about what you are entitled to request by clicking [here](https://gdpr-info.eu/art-15-gdpr/).
 
-### 11 HOW TO CONTACT US
+If you would like to make such a request, please see the section above titled _“How do I request what information you hold on me?”_
 
-If you have any questions regarding privacy or this Policy, you may [contact us.](https://www.royalalberthall.com/your-visit/contact-us/)
+**The right of rectification**
+
+You have the right to have any information held about you which is inaccurate to be rectified. If you believe that we have inaccurate information, for example a misspelt name, then please contact us and we will do our utmost to sort it for you. More about rectification [here](https://gdpr-info.eu/art-16-gdpr/).
+
+**The right to be forgotten (the right to erasure)**
+
+You have, subject to certain conditions being met, the right to be forgotten. Where we can, we will remove all your details from our systems subject to being able to do so reasonably, and where no other legal or legitimate reason exists to keep your personal data. For example, if you owe money to us via an account, we would expect this to be cleared before we considered erasure of your details. Please look [here](https://gdpr-info.eu/art-17-gdpr/) for more information on this right.
+
+**The right to restrict processing of your personal data**
+
+In some cases, you may require us to hold your data but not process it, this may be relevant if you believe inaccuracies have not been corrected and further processing would cause issues for you as an individual. More information on this right can be found [here](https://gdpr-info.eu/art-18-gdpr/).
+
+**The right to data portability**
+
+Personal data portability, means that on request we will give you the information we hold about you in a form that can easily be used by other systems. This is most likely to be a spreadsheet file so that you may pass this information on to other organisations with which you would like to share the data. It may not always be possible to give you everything about you in this format, but we will always strive to provide what we can for you. 
+
+Click [here](https://gdpr-info.eu/art-20-gdpr/) for more information.
+
+**The right to object**
+
+You have a right to object to how personal data about you are processed, in some instances. You may object to us processing your personal data for our “legitimate interests”, to stop direct marketing and processing your personal data for research or statistical purposes. 
+
+Whilst we do have legitimate interests under which we process data and we do send marketing messages out to those that want them, we do not undertake research or statistical reporting.
+
+Unless we can demonstrate compelling reasons for continuing to process your personal data, which we will explain to you, if relevant, when you object, then we will always endeavour to comply with your wishes. 
+
+You may find out more about this right, [here](https://gdpr-info.eu/art-21-gdpr/).
+
+**The right to stop automated individual decision making, including profiling**
+
+Should we wish to carry out any automated decision making or profiling of you, using your personal data, then we will abide by the law and only do this where it is necessary to do so, or we have your consent. 
+
+Any decisions made automatically about you will be made obvious to you, where they have a direct effect on you. You will always have the ability to contact us and query these activities and request that they stop or have human intervention.
+
+We aim to be transparent and open about this type of data processing so that you can feel assured that your data is safe, kept confidential and always used lawfully and fairly.
+
+Details about this right can be found [here](https://gdpr-info.eu/art-22-gdpr/).
+
+**The right to complain**
+
+You have a right to complain to the regulator in the country in which you reside or where you believe any misuse of your data has taken place. The UK Information Commissioner’s Office can be contacted directly if you believe that we have failed to address your concerns.
+
+Their information may be found at [www.ico.org.uk](https://ico.org.uk/).
+
+This privacy notice will be amended from time to time, any changes will be reflected here. 
