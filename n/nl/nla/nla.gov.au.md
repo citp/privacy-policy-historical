@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904004137id_/https%3A//www.nla.gov.au/about-this-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401045601id_/https%3A//www.nla.gov.au/about-this-site/privacy) for the most accurate reproduction.*
 
 # Privacy | National Library of Australia
 
@@ -6,22 +6,24 @@ The purpose of this statement is to let users of this website know what informat
 
 This statement has been prepared in accordance with the Federal Privacy Commissioner's Guidelines for Federal and ACT Government World Wide Websites.
 
-Find out more in our [Privacy Policy](https://web.archive.org/policy-and-planning/privacy-policy "Privacy Policy").
+Find out more in our [Privacy Policy](https://www.nla.gov.au/policy-and-planning/privacy-policy).
 
-## Recording your visit
+Please see the [Trove Privacy Statement](https://trove.nla.gov.au/general/privacy) for information on how the Library manages privacy and personal information relating to Trove users, and library material available through Trove.
 
-When you look at this website, we make a record of your visit and log the following information for statistical purposes:
+Recording your visit
+
+When you look at NLA websites, we make a record of your visit and log the following information for statistical purposes:
 
   * your server address
   * your top level domain name (for example .com, .gov, .au, .uk)
   * date and time of your visit to the site
   * pages you accessed and documents you downloaded
   * the previous site you visited
-  * type of browser you used
+  * type of browser you used.
 
 
 
-No attempt will be made to identify individual users or their browsing activities except in the event that it is reasonably necessary for the enforcement of criminal law. In the case of the latter, we will comply with the Privacy Principles of the _Privacy Act 1988_ (Cth) regarding the limits and protocols associated with disclosure of personal information.
+No attempt will be made to identify individual users or their browsing activities except in the event that it is reasonably necessary for the enforcement of criminal law. In the case of the latter, we will comply with the Australian Privacy Principles in the  _Privacy Act 1988  _(Cth) regarding the limits and protocols associated with disclosure of personal information.
 
 Some sites use 'cookies' to track a particular user's access to a site. Cookies are not used on this site to gather information about users interactions with this website with two exceptions:
 
@@ -34,7 +36,7 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 ## Recording your email address
 
-We will only record your email address if you send us a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. We will not use your email address for any other purpose, and will not disclose it, without your consent.
+We will only record your email address if you communicate with us. It will only be used for the purpose for which you have provided it (for example, in relation to the administration of Trove or another Library service). Your email address will only be used or disclosed for another purpose with your consent, if authorised or required by law, or otherwise in accordance with the  _Privacy Act 1988  _(Cth). 
 
 ## Collecting personal information
 
@@ -42,7 +44,7 @@ From time to time we will use electronic forms on this site to gather personal i
 
 We will not collect or solicit personal information via this site which would be unlawful, unnecessary or unrelated to the functions or activities of the Library, or unfair or unreasonably intrusive.
 
-Because there are risks associated with using the internet as a transmission medium, when we use electronic forms to collect information we will also provide you with other options for providing the information - for example, a paper form and mailing address and a telephone contact.
+Because there are risks associated with using the internet as a transmission medium, when we use electronic forms to collect information, where practicable, we will also provide you with other options for providing the information - for example, a paper form and mailing address and a telephone contact.
 
 Credit card details collected via electronic forms on this site are encrypted for transmission using secure server technologies and are only made accessible to staff members authorised to complete the transaction.
 
