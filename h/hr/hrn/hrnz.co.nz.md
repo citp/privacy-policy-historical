@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrnz.co.nz privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231135433id_/https%3A//www.hrnz.co.nz/industry-information/hrnz-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrnz.co.nz privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401114457id_/https%3A//www.hrnz.co.nz/industry-information/hrnz-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harness Racing New Zealand
 
