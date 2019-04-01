@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2018-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180531075630id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401022501id_/https%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connectify
 
-**EFFECTIVE DATE 10/18/2009; UPDATED 5/22/2018**
+**EFFECTIVE DATE 10/18/2009; UPDATED 5/31/2018**
 
 Connectify, Inc. (“Connectify,” “we,” “us”) respects your privacy and as such we strive to collect the minimal amount of information necessary to operate our service. This Privacy Policy explains the type of information we collect through our website at connectify.me (the “Site”) and the Connectify Hotspot application, and how we use this information to provide outstanding value to you.
 
 If you have any questions about this Privacy Policy, you should contact us at [privacy@connectify.me](mailto:privacy@connectify.me).
 
-#### How do you Protect the Privacy of my Connectify Sessions?  
-
+#### How do you Protect the Privacy of my Connectify Sessions? 
 
 We do not log IP addresses, sites, or data that you send or receive through the Connectify Hotspot application. 
 
@@ -70,10 +69,6 @@ Except as described below, we will not disclose your personal information to out
 
 Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of the Service to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google’s privacy policy [here](https://policies.google.com/privacy?hl=en).
 
-**Raygun**
-
-This Service uses Raygun for error and exception tracking. In the event you encounter an error while using the Service a message will be sent to Raygun with information pertaining to the error. Information collected will include your IP address, and email address (if provided). If you do not wish to share this information, you may turn it off from inside the application by going to the “Help Menu”, selecting “Privacy”, and then turning off the “Crash Reports” setting.
-
 #### Additional Rights
 
 Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to Information, as well as to seek to update, delete or correct this Information.
@@ -94,14 +89,9 @@ Your personal data is stored by Connectify on its servers, and on the servers of
 
 #### Data Protection Authority
 
-Subject to applicable law, you also have the right to (i) restrict Connectify’s use of your personal data and (ii) lodge a complaint with your local data protection authority or the Irish Data Protection Commissioner, which Connectify has designated as its lead supervisory authority in the European Union. If you are a resident of the European Economic Area and believe we maintain your Personal Data within the scope of the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority: 
+Subject to applicable law, you also have the right to (i) restrict Connectify's use of your personal data and (ii) lodge a complaint with your local data protection authority or the Irish Data Protection Commissioner, which Connectify has designated as its lead supervisory authority in the European Union. If you are a resident of the European Economic Area and believe we maintain your Personal Data within the scope of the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority: 
 
-Irish Data Protection Commissioner  
-Office of the Data Protection Commissioner  
-Canal House, Station Road, Portarlington, Co. Laois, R32 AP23, Ireland  
-Phone +353 57 868 4757  
-Fax: +353 57 868 4757  
-Email: [info@dataprotection.ie](https://web.archive.org/web/20180531075630id_/http://www.connectify.me/privacy-policy/info@dataprotection.ie)
+Irish Data Protection Commissioner Office of the Data Protection Commissioner Canal House, Station Road, Portarlington, Co. Laois, R32 AP23, Ireland Phone +353 57 868 4757 Fax: +353 57 868 4757 Email: [info@dataprotection.ie](https://web.archive.org/web/20190401022501id_/https://www.connectify.me/privacy-policy/info@dataprotection.ie)
 
 #### Changes to Our Privacy Policy
 
@@ -109,15 +99,4 @@ If this policy is updated, we will post changes on this page and update the Priv
 
 ####  Contacting Us 
 
-If there are any questions regarding this privacy policy you may contact Connectify:  
-For Privacy Questions:  
-[privacy@connectify.me](https://web.archive.org/web/20180531075630id_/http://www.connectify.me/privacy-policy/privacy@connectify.me)
-
-For Other Questions:  
-support@connectify.me
-
-By Mail:  
-1429 Walnut St  
-Suite 201  
-Philadelphia, PA 19102  
-USA
+If there are any questions regarding this privacy policy you may contact Connectify: For Privacy Questions: [privacy@connectify.me](https://web.archive.org/web/20190401022501id_/https://www.connectify.me/privacy-policy/privacy@connectify.me) For Other Questions: support@connectify.me By Mail: 1429 Walnut St Suite 201 Philadelphia, PA 19102 USA
