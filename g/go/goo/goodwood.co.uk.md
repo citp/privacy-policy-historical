@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the goodwood.co.uk privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815092629id_/https%3A//www.goodwood.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodwood.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401050204id_/https%3A//www.goodwood.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Goodwood - Privacy Policy
 
 Goodwood knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes Goodwood’s privacy policy; please read it in order to understand what we do with your information.
 
-**By visiting Goodwood.com or accessing and using our services, you are accepting and consenting to the practices described in this Privacy Notice and our[Cookie Policy.](https://web.archive.org/link/417191c4f3924d1998dd82c4f93386b3.aspx)**
+**By visiting Goodwood.com or accessing and using our services, you are accepting and consenting to the practices described in this Privacy Notice and our[Cookie Policy.](https://web.archive.org/terms-and-conditions/privacy-policy/cookies/)**
 
 ### Purpose of this privacy notice
 
 This privacy notice aims to give you information on how the Goodwood Group collects and processes your personal data.
 
-This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the policy [here](https://web.archive.org/link/97d9c0cdcd7d4496a89d0df1ec718640.aspx). Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively, you can download a pdf version of the policy [here](https://web.archive.org/globalassets/goodwood-estate/terms--conditions/privacy-policy/goodwood---privacy-policy.pdf). Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
 
 The Goodwood Group is made up of different legal entities, details of which can be found here. This privacy notice is issued on behalf of the each of those companies so when we mention “Goodwood”, "we", "us" or "our" in this privacy notice, we are referring to the relevant company in the Goodwood Group responsible for processing your data and that particular company is the controller of your data.  The Goodwood Estate Company Limited is responsible for this website.
 
@@ -95,7 +95,7 @@ The Goodwood Group does not intentionally or knowingly process personal informat
 
 When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details or applicable data as defined by law have been collected.
 
-Where we collect data relating to children we have a separate privacy notice which can be accessed here
+Where we collect data relating to children we have a separate privacy notice which can be accessed [here](https://web.archive.org/globalassets/goodwood-estate/terms--conditions/privacy-policy/goodwood-group-childrens-privacy-policy.pdf)
 
 We use different methods to collect data from and about you including through: 
 
@@ -608,8 +608,22 @@ Marketing and Communications Data 
 
 (a)To develop our products/services and grow our business  
   
+To manage our relationship with volunteers who take part in our events
+
+| 
+
+Identity Data
+
+Contact Data
+
+| (a) Our legal duty; 
+
+(b) Necessary for our legitimate interests
+
+| (a) To enable us to operate a successful event  
+  
 **MARKETING  
-** We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established a privacy centre where you can view and make certain decisions about your personal data use. Privacy Centre link
+** We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have created a **[communication preference centre](https://web.archive.org/member/?ReturnUrl=/member/preferences/)**  where you can view and make certain decisions about your personal data use. You will need to be logged in to update this information.
 
 **PROMOTIONAL OFFERS FROM US  
 ** We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
@@ -659,7 +673,7 @@ List of non-affiliated companies: BMW (UK) Limited (trading as Mini); BMW AG; Te
 
 List of third party service providers:
 
-Service providers acting as processors who provide IT and system administration services, marketing and data analysis services and payroll administration: 2826, 2 Circles, Addvance IT, Advanced One, AFD, All Regional Jobs, Amadeus, Ascom, Assa Abloy, August, Autotask, Campbells, Chattels Database, Clearswift, Copyright, CRM, Darktrace, Dahsboard, Deliver Events, Delphi, Digital Air, Dionach, DMB, Dotmailer, Enghous, Esperus, Exterity, Facebook, Full Story, Great Plains, Gorkana, Hopewiser, Idox Imagen, Intelligent Golf, Intelligenz, Intellispa, Kitchen Cut, Lakeview, Live Bookings, MS Dynamics, Nevalee, Nouveau, Odyssys, PCI Pal, Premier, Preva, Pro Agenda, Protel, Qual, Reckon, Red Atlas, Review Pro, Safety Media, Safty Media, Sage, SagePay, Scotcomms, Sharper Light, Shiftboard, Specops, Sports Booker,  Talent, Think Group, Thinking Software, Tiger, Timico, Trillium, Verifone, Viewdata, Weston Digital, Wrike, XN Protel, You Tube, Zananet and Zenner.
+Service providers acting as processors who provide IT and system administration services, marketing and data analysis services and payroll administration: 2826, 2 Circles, Addvance IT, Advanced One, AFD, All Regional Jobs, Amadeus, Ascom, Assa Abloy, August, Autotask, Campbells, Chattels Database, Clearswift, Copyright, CRM, Darktrace, Dahsboard, Deliver Events, Delphi, Digital Air, Dionach, DMB, Dotmailer, Enghous, Esperus, Exterity, Facebook, Full Story, Great Plains, Gorkana, Hopewiser, Idox Imagen, Intelligent Golf, Intelligenz, Intellispa, Kitchen Cut, Lakeview, Live Bookings, MS Dynamics, Nevalee, Nouveau, Odyssys, PCI Pal, Premier, Preva, Pro Agenda, Protel, Qual, Reckon, Red Atlas, Review Pro, Safety Media, Safty Media, Sage, SagePay, Scotcomms, Sharper Light, Shiftboard, Specops, Sports Booker,  Talent, Think Group, Thinking Software, The Racing Manager, Tiger, Timico, Trillium, Verifone, Viewdata, Weston Digital, Wrike, XN Protel, You Tube, Zananet and Zenner.
 
 Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors, pension providers, health insurance providers and insurers who provide consultancy, banking, legal, insurance and accounting services including Natwest Bank Plc, Savills PLC, Food Alert; Sutton Winson Limited, Goodwood’s underwriting insurers, Smith & Williamson; Hartley Fowler; Clarke Willmott LLP; DLA Piper LLP; Macfarlanes LLP; Blake Morgan LLP and Scottish Widows.
 
