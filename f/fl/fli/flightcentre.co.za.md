@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flightcentre.co.za privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901150503id_/http%3A//www.flightcentre.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.co.za privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401043717id_/https%3A//www.flightcentre.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Centre South Africa
 
-This Privacy Policy ("Policy") explains in general terms how Flight Centre (South Africa) (Pty) Ltd (Reg No 1994/000253/07) and its subsidiaries, related bodies corporate and franchisees, including but not limited to Flight Centre, Student Flights, Travel Associates and Discount Cruises (collectively referred to in this document as "Flight Centre”, "we" "our" or "us") protects the privacy of your personal information.  We are firmly committed to protecting the privacy and confidentiality of personal information and maintain various physical, electronic and procedural safeguards to protect personal information in our care. 
+This Privacy Policy ("Policy") explains in general terms how Flight Centre (South Africa) (Pty) Ltd (Reg No 1994/000253/07) and its subsidiaries, related bodies corporate and franchisees, including but not limited to Flight Centre (collectively referred to in this document as "Flight Centre”, "we" "our" or "us") protects the privacy of your personal information.  We are firmly committed to protecting the privacy and confidentiality of personal information and maintain various physical, electronic and procedural safeguards to protect personal information in our care. 
 
 By providing personal information to us (or allowing another person to do so on your behalf), you agree that this Policy will apply to how we handle your personal information and you consent to us collecting, using and disclosing your personal information as detailed in this Policy.  If you do not agree with any part of this Policy, you must not provide your personal information to us and this may affect the services we can provide to you.
 
@@ -139,7 +139,7 @@ Our website may contain links to third party sites over which we have no control
 
 ### Feedback / Complaints / Contact
 
-If you have any enquiries, comments or complaints about this Policy or our handling of your personal information, please contact your consultant or email us [customer.relations@flightcentre.co.za](mailto:customer.relations@flightcentre.co.za).  We will respond to any complaints received as soon as practicable. 
+If you have any enquiries, comments or complaints about this Policy or our handling of your personal information, please contact your consultant or email us [customercare@flightcentre.co.za](mailto:customer.relations@flightcentre.co.za).  We will respond to any complaints received as soon as practicable. 
 
 ### Changes to our Policy
 
