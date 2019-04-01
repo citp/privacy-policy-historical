@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donaldson.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125221938id_/https%3A//www.donaldson.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donaldson.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401164820id_/https%3A//www.donaldson.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
