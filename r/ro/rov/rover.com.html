@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the rover.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231183630id_/https%3A//www.rover.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rover.com privacy policy that was archived on 2019-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190401161202id_/https%3A//www.rover.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en"><head>
+<!DOCTYPE html><html lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en-us"><head>
         <meta charset="utf-8">
         <title>Privacy Policy | Rover.com Dog Boarding</title>
 
@@ -37,7 +37,7 @@
 
         <link href="https://plus.google.com/112961095158363556342" rel="publisher">
         
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
         
 
         
@@ -58,12 +58,18 @@
         <link rel="shortcut icon" href="/static/new_design/images/favicon.1352439e5c9f.png?v=2">
         <link rel="apple-touch-icon" sizes="152x152" href="/static/icons/rover-favicon.47651b11d3be.png">
 
+        <!-- Preconnect to required third-party scripts to improve performance https://developers.google.com/web/fundamentals/performance/resource-prioritization#preconnect-->
+        <link rel="preconnect" href="http://rover.sjv.io">
+        <link rel="preconnect" href="https://connect.facebook.net">
+        <link rel="preconnect" href="https://inputs.alooma.com">
+        <link rel="preconnect" href="https://stats.g.doubleclick.net">
+
         <!-- The purpose of this block is to be overridden in files that have phased out use of these monolithic globals. -->
         
             
-            <link type="text/css" href="/static/dist/header.ecbbd3e763dc461af74271f8572cd043.css" rel="stylesheet">
-            <link type="text/css" href="/static/dist/application.ebda1452aa9df9b0ac49dbd8986439b7.css" rel="stylesheet">
-            <link type="text/css" href="/static/dist/vendor.8dec7f3d30588307b2b21c0ed2f86566.css" rel="stylesheet">
+            <link type="text/css" href="/static/dist/header.f1032e86cf46806a2ecb4a7b35121839.css" rel="stylesheet">
+            <link type="text/css" href="/static/dist/application.dfd80ebd3b53012e9c7379529b410c18.css" rel="stylesheet">
+            <link type="text/css" href="/static/dist/vendor.f024d5ee928b038b6c00a688aaf47103.css" rel="stylesheet">
             <link type="text/css" href="/static/dist/common.e9ad6f411dd8836b7e226673de589d34.css" rel="stylesheet">
         
 
@@ -74,7 +80,7 @@
         
 
         
-        <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T7QFMT"></script><script type="text/javascript" async="" src="//cdn.alooma.com/libs/alooma-latest.min.js"></script><script>
+        <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T7QFMT"></script><script type="text/javascript" async="" src="//cdn.alooma.com/libs/alooma-latest.min.js"></script><script>
             var Rover = Rover || {};
             Rover.perf = {
                 start: Date.now()
@@ -98,9 +104,7 @@
             Rover.views = Rover.views || {};
             Rover.userAgent = {};
 
-            
-                Rover.context.branchKey = 'key_live_aimy7xWhcDz0GVxOIYoBTmilvybwmZNx';
-            
+            Rover.context.branchKey = JSON.parse('\u0022key_live_aimy7xWhcDz0GVxOIYoBTmilvybwmZNx\u0022');
 
             var next_url = encodeURIComponent(window.location.pathname + window.location.search);
             Rover.urls = {
@@ -115,7 +119,7 @@
                 inbox: '/account/inbox/',
                 calendar: '/account/calendar/',
                 settings: '/account/profile/settings/',
-                configuration: '/api/v3/configuration/',
+                configuration: '/api/v4/configuration/',
                 logout: '/logout/?next=' + next_url,
                 signin: '/account/continue/?action=sign_in&next=' + next_url,
                 signup: '/account/continue/?next=' + next_url,
@@ -127,28 +131,28 @@
                 validateZipcode: '/ajax/auth/validate-zipcode/',
                 validatePassword: '/ajax/auth/validate-password/',
                 hidePhotoUrl: '/members/toggle-stay-image-public/api/',
-                petListAPI: '/api/v3/pets/',
-                breedList: '/api/v3/breeds/',
-                assignmentPricing: '/api/v3/assignment/pricing/',
-                assignmentConfiguration: '/api/v3/assignment/configuration/',
-                inquiries: '/api/v3/assignment/inquiries/',
-                recurringInquiries: '/api/v3/assignment/recurring-inquiries/',
+                petListAPI: '/api/v4/pets/',
+                breedList: '/api/v4/breeds/',
+                assignmentPricing: '/api/v4/assignment/pricing/',
+                assignmentConfiguration: '/api/v4/assignment/configuration/',
+                inquiries: '/api/v4/assignment/inquiries/',
+                recurringInquiries: '/api/v4/assignment/recurring-inquiries/',
                 rebook: '/account/?rebook=1#rebook',
                 search: '/search/',
                 hasDogs: '/account/edit/has-dogs/',
-                conversationCreationUrl: '/api/v3/conversations/',
-                recurringBillingCreationUrl: '/api/v3/recurring-relationships/',
+                conversationCreationUrl: '/api/v4/conversations/',
+                recurringBillingCreationUrl: '/api/v4/recurring-relationships/',
                 contactConfirmationFromConversationUrl: '/services/contact-confirmation/',
                 accountProfileRates: '/account/profile/rates/',
                 guarantee: '/guarantee/',
-                phoneListAPI: '/api/v3/phones/',
-                imageUploadAuthorize: '/api/v3/images/upload/authorize/',
-                blockingModalAPI: '/api/v3/blocking-modal/',
+                phoneListAPI: '/api/v4/phones/',
+                imageUploadAuthorize: '/api/v4/images/upload/authorize/',
+                blockingModalAPI: '/api/v4/blocking-modal/',
                 app: '/app/',
                 referAFriend: '/refer/' ,
                 becomeASitter: '/become-a-sitter/',
-                providerArchivedReasons: '/api/v3/conversations/provider-archived-reasons/',
-                notificationsList: '/api/v3/announcements/notifications/'
+                providerArchivedReasons: '/api/v4/conversations/provider-archived-reasons/',
+                notificationsList: '/api/v4/announcements/notifications/'
             };
 
             Rover.settings = Rover.settings || {};
@@ -166,8 +170,15 @@
 
         // TODO figure out a better solution in https://roverdotcom.atlassian.net/browse/DEV-21088
         Rover.context.countryCode = 'US';
+        Rover.context.continentCode = 'NA';
+        Rover.context.customerSupportPhone = '888\u002D453\u002D7889';
         Rover.context.ccTLD       = 'US';
+        Rover.context.firstDayOfWeek = '0';
         Rover.context.language = 'en\u002Dus';
+        if (Rover.context.language === 'pi-r8') {
+            // Use our "pseudotranslation" language instead of pi-r8 for the frontend
+            Rover.context.language = 'en-pseudo';
+        }
         Rover.context.supportsMobileApp = true;
         Rover.context.supportsReferral = true;
         Rover.context.weight_unit = 'lbs';
@@ -175,10 +186,8 @@
         Rover.context.weight_conversion_enabled = false;
         Rover.context.weightConversion = false;
         
-        Rover.context.frontendTranslationEnabled = false
+        Rover.context.frontendTranslationEnabled = false;
         Rover.context.personReferralCampaign = '';
-
-        Rover.context.appInstallBannerUpdates = false
 
         Rover.facebook = {
                 appId: '268750723145812',
@@ -204,6 +213,10 @@
             Rover.flags.repeatSearchExperiment = JSON.parse('\u0022\u0022');
             Rover.flags.rolloutRepeatSitterRates = JSON.parse('\u0022\u0022');
             Rover.flags.basDiscoverabilityExperiment = JSON.parse('false');
+            Rover.flags.rolloutInternationalSignup = JSON.parse('false');
+
+            
+
         </script>
         
 
@@ -243,7 +256,7 @@
 
     
     
-<!-- start Alooma --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.alooma=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="alooma";c.people=c.people||[];c.toString=function(b){var a="alooma";"alooma"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_custom_event track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" "); for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof ALOOMA_CUSTOM_LIB_URL?ALOOMA_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.alooma.com/libs/alooma-latest.min.js".match(/^\/\//)?"https://cdn.alooma.com/libs/alooma-latest.min.js":"//cdn.alooma.com/libs/alooma-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.alooma||[]);alooma.init("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnROYW1lIjoicm92ZXIiLCJpbnB1dExhYmVsIjoiV2ViQXBwX0pTIiwiaW5wdXRUeXBlIjoiSlNTREsifQ.ftZKM9hqSsOM4gchkmUUZeasTbULCnkZT8o_IZzk2t0", {"cookie_name": "rover_alooma", "api_host":"https://inputs.alooma.com"});</script><!-- end Alooma -->
+<!-- start Alooma --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.alooma=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="alooma";c.people=c.people||[];c.toString=function(b){var a="alooma";"alooma"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_custom_event track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" "); for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof ALOOMA_CUSTOM_LIB_URL?ALOOMA_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.alooma.com/libs/alooma-latest.min.js".match(/^\/\//)?"https://cdn.alooma.com/libs/alooma-latest.min.js":"//cdn.alooma.com/libs/alooma-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.alooma||[]);alooma.init("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnROYW1lIjoicm92ZXIiLCJpbnB1dExhYmVsIjoiV2ViQXBwX0pTIiwiaW5wdXRUeXBlIjoiSlNTREsifQ.ftZKM9hqSsOM4gchkmUUZeasTbULCnkZT8o_IZzk2t0", {"cookie_name": "rover_alooma", "api_host":"https://inputs.alooma.com", "truncate": 512});</script><!-- end Alooma -->
 
 <script type="text/javascript">
    (function() {
@@ -251,11 +264,11 @@
        window.Rover.alooma = window.Rover.alooma || {};
        window.Rover.gtm = window.Rover.gtm || {};
 
-       window.Rover.alooma.json = JSON.parse('{\u0022environment\u0022: \u0022production\u0022, \u0022common_identifier\u0022: \u002223c87984\u002Df70e\u002D420a\u002Dad83\u002D0d1b25ebb6f2\u0022, \u0022is_bot\u0022: true, \u0022user_agent\u0022: \u0022Mozilla/5.0 (compatible\u003B archive.org_bot +http://archive.org/details/archive.org_bot)\u0022, \u0022session_id\u0022: \u00227KcTp7CWfMubUEBS9vc7UB\u0022}');
+       window.Rover.alooma.json = JSON.parse('{\u0022environment\u0022: \u0022production\u0022, \u0022common_identifier\u0022: \u0022dce7b778\u002D1d4e\u002D4d57\u002Da0a7\u002Da8290d326ccd\u0022, \u0022is_bot\u0022: true, \u0022user_agent\u0022: \u0022Mozilla/5.0 (compatible\u003B archive.org_bot +http://archive.org/details/archive.org_bot)\u0022, \u0022session_id\u0022: \u0022LfFxpYcLLcUJvaT7FDMCj8\u0022}');
 
        var d = new Date();
        alooma.register({timezone_offset: d.getTimezoneOffset()});
-       alooma.register(JSON.parse('{\u0022environment\u0022: \u0022production\u0022, \u0022common_identifier\u0022: \u002223c87984\u002Df70e\u002D420a\u002Dad83\u002D0d1b25ebb6f2\u0022, \u0022is_bot\u0022: true, \u0022user_agent\u0022: \u0022Mozilla/5.0 (compatible\u003B archive.org_bot +http://archive.org/details/archive.org_bot)\u0022, \u0022session_id\u0022: \u00227KcTp7CWfMubUEBS9vc7UB\u0022}'));
+       alooma.register(JSON.parse('{\u0022environment\u0022: \u0022production\u0022, \u0022common_identifier\u0022: \u0022dce7b778\u002D1d4e\u002D4d57\u002Da0a7\u002Da8290d326ccd\u0022, \u0022is_bot\u0022: true, \u0022user_agent\u0022: \u0022Mozilla/5.0 (compatible\u003B archive.org_bot +http://archive.org/details/archive.org_bot)\u0022, \u0022session_id\u0022: \u0022LfFxpYcLLcUJvaT7FDMCj8\u0022}'));
 
        
            alooma.register({pageCategory: "uncategorized"});
@@ -274,6 +287,26 @@
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-T7QFMT');</script>
 
+    
+
+
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '483039988545433', {
+    em: '',
+    fn: '',
+    ln: '',
+    ph: ''
+  });
+</script>
+
 
 
 
@@ -289,11 +322,6 @@
             'pageCategory': "uncategorized",
         
         'event': 'dataLayer-loaded'
-    });
-
-    dataLayer.push({
-        event: 'identify'
-        
     });
 
     dataLayer.push({
@@ -349,22 +377,13 @@
 
             
                 
-<script>
-    (function(R) {
-        R.context = R.context || {};
-        R.context.header = {
-            showReactNotificationsCenter:  true ,
-            notificationsCenterIconsEnabled:  true 
-        }
-    })(window.Rover = window.Rover || {})
-</script>
 
 <div class="new-design js-new-design navbar-container js-navbar-container" itemscope="" itemtype="http://schema.org/Organization">
     
     <meta content="Rover.com" itemprop="name">
     <link href="https://www.rover.com/" itemprop="url">
     <link href="http://en.wikipedia.org/wiki/Rover.com" itemprop="sameas">
-    <header class="navbar navbar-default header js-header-navbar" data-qa-id="home-header-navbar" role="navigation">
+    <header class="navbar navbar-default header js-header-navbar" data-qa-id="navbar-container" role="navigation">
         <div class="navbar-wrapper">
             <div class="container navbar-container">
                 <div class="navbar-header">
@@ -379,6 +398,10 @@
                     <a class="navbar-brand" href="/?ref=header">
                         <i class="rover-icon rover-icon-logo-rover link-icon"></i>
                     </a>
+
+                    
+
+
                     
                 </div>
 
@@ -399,21 +422,26 @@
 
                         
                         <li class="hide js-list-more-services">
-                            <a href="/account/profile/services/?bep=event%3D%2Bnavigation-list-more-services%2B&amp;ref=header"><i class="rover-icon rover-icon-in-heart link-icon"></i>List More Services</a>
+                          <a href="/account/profile/services/?bep=event%3D%2Bnavigation-list-more-services%2B&amp;ref=header"><i class="rover-icon rover-icon-in-heart link-icon"></i>List More Services</a>
                         </li>
                          
                         <li class="js-give-twenty-get-twenty js-header-referral authenticated-user hide visible-lg visible-md">
-                            <a class="js-referral-cta" id="owner-referral-header" href="/refer/?bep=event%3D%2Bnavigation-give-20-get-20%2B&amp;source=header_feb"><i class="rover-icon rover-icon-in-chat link-icon"></i>Give $20, Get $20</a>
+                          <a class="js-referral-cta" id="owner-referral-header" href="/refer/?bep=event%3D%2Bnavigation-give-20-get-20%2B&amp;source=header_feb"><i class="rover-icon rover-icon-in-chat link-icon"></i>Give $20, Get $20</a>
                         </li>
                         <li class="js-invite-a-friend js-header-referral authenticated-user hide visible-lg visible-md">
-                            <a class="js-referral-cta" id="sitter-referral-header" href="/refer/?bep=event%3D%2Bnavigation-give-20-get-20%2B&amp;source=header_feb"><i class="rover-icon rover-icon-in-chat link-icon"></i>Invite a Friend</a>
+                          <a class="js-referral-cta" id="sitter-referral-header" href="/refer/?bep=event%3D%2Bnavigation-give-20-get-20%2B&amp;source=header_feb"><i class="rover-icon rover-icon-in-chat link-icon"></i>Invite a Friend</a>
                         </li>
                           
                         <li class="js-anonymous-user show-our-services-trigger">
-                            <a href="#" class="js-show-our-services" data-track-event="" data-event="navigation-our-services" data-qa-id="home-navbar-links-our-services" data-event-type="click"><i class="rover-icon rover-icon-in-paw link-icon"></i>Our Services</a>
+                          <a href="#" class="js-show-our-services" data-track-event="" data-event="navigation-our-services" data-qa-id="home-navbar-links-our-services" data-event-type="click"><i class="rover-icon rover-icon-in-paw link-icon"></i>Our Services</a>
 
                             <div class="our-services--list visible-xs">
                                 
+
+
+
+
+
 <ul class="row">
     
 
@@ -461,12 +489,18 @@
                         </li>
                          
                     </ul>
+
+                    
+
+
                     
                     
-                        <ul class="nav navbar-nav navbar-right js-anonymous-header">
+                        <ul class="nav navbar-nav navbar-right js-anonymous-header anonymous-header">
                             <li><a href="/account/continue/?bep=event%3Dnavigation-sign-up&amp;ref=header&amp;next=/privacy/" data-qa-id="home-navbar-links-sign-up">Sign Up</a></li>
                             <li><a href="/account/continue/?bep=event%3Dnavigation-sign-in&amp;ref=header&amp;action=sign_in&amp;next=/privacy/" data-qa-id="home-navbar-links-sign-in">Sign In</a></li>
-                            <li><a href="/help/?ref=header" target="_blank" data-track-event="" data-event-type="click" data-event="navigation-help" data-qa-id="home-navbar-links-help"><i class="rover-icon rover-icon-in-question-circle link-icon"></i>Help</a></li>
+                            <li><a href="/help/?ref=header" target="_blank" data-track-event="" data-event-type="click" data-event="navigation-help" data-qa-id="home-navbar-links-help"><i class="rover-icon rover-icon-in-question-circle link-icon"></i>
+                                <span class="">Help</span>
+                            </a></li>
                         
                         </ul>
                     
@@ -479,6 +513,11 @@
         <div class="our-services--dropdown js-our-services--dropdown hidden-xs" data-qa-id="home-services-bar">
             <div class="container">
                 
+
+
+
+
+
 <ul class="row">
     
 
@@ -541,9 +580,8 @@
 
             <div class="container">
                 
-                    <div class="new-design js-alerts-container">
-    
-</div>
+                    <div class="new-design js-alerts-container alerts-container"></div>
+
 
                 
             </div>
@@ -821,8 +859,10 @@
 
     <h5>Account Information</h5>
 
+    
+    
     <p>
-        You may request to update, correct or delete information about you at any time by logging into your online account. If you cannot do so from your account, you may visit our <a href="https://support.rover.com/">US Help Center</a> or our <a href="https://support-uk.rover.com/">UK Help Center</a>, or call us at 1-888-453-7889 (U.S.) or +44 808 281 2524 (U.K.). If you wish to deactivate your account, please call us at 1-888-453-7889 (U.S) or +44 808 281 2524 (U.K.). We may decline requests that are unreasonable, excessive, prohibited by law, could adversely affect the privacy or other rights of another person, where we are unable to authenticate you as the person to whom the information relates, or are not required to be honored by applicable law. We may also retain cached or archived copies of information about you for a certain period of time.
+        You may request to update, correct or delete information about you at any time by logging into your online account. If you cannot do so from your account, you may visit our <a href="https://support.rover.com/">US Help Center</a> or our <a href="https://support-uk.rover.com/">UK Help Center</a>, or call us at 1-888-453-7889 (U.S.) or +44-8082-812524 (U.K.). If you wish to deactivate your account, please call us at 1-888-453-7889 (U.S) or +44-8082-812524 (U.K.). We may decline requests that are unreasonable, excessive, prohibited by law, could adversely affect the privacy or other rights of another person, where we are unable to authenticate you as the person to whom the information relates, or are not required to be honored by applicable law. We may also retain cached or archived copies of information about you for a certain period of time.
     </p>
 
     <h5>Location Information</h5>
@@ -897,7 +937,7 @@
 
     <ul>
         <li>
-            By phone: 1-888-453-7889 (U.S.) or +44 808 281 2524 (U.K.)
+            By phone: 1-888-453-7889 (U.S.) or +44-8082-812524 (U.K.)
         </li>
 
         <li>
@@ -936,8 +976,6 @@
 <div class="new-design js-new-design">
     <div class="footer">
         <div class="container">
-            <hr class="margin-bottom-x8 visible-xs">
-
             
             <div class="row">
                 <div class="col-xs-12">
@@ -956,261 +994,41 @@
             </div>
             
 
-            <div class="row visible-xs margin-bottom-x8">
-                
-                <div class="col-xs-12">
-                    <div class="row">
-                        <div class="col-xs-6">
+            
+                <div class="footer-links-wrapper">
+                    <div class="footer-links">
+                        <div class="learn-more-links">
                             <h4>Learn More</h4>
                             <ul class="footer-list">
-                                <li><a href="https://www.rover.com/blog/?ref=footer">Read Our Blog</a></li>
-                                <li><a href="/community/questions/">Rover Q&amp;A Community</a></li>
-                                <li><a href="https://store.rover.com/?ref=footer">Rover Store</a></li>
+                                <div>
+                                    <li><a href="https://www.rover.com/blog/?ref=footer">Read Our Blog</a></li>
+                                    
+                                        <li><a href="/community/questions/">Rover Q&amp;A Community</a></li>
+                                    
+                                    <li><a href="https://store.rover.com/?ref=footer">Rover Store</a></li>
+                                    <li><a href="/guarantee/">Rover Guarantee</a></li>
+                                </div>
+                                <div>
+                                    <li><a href="/safety/">Safety</a></li>
+                                    
+                                        <li><a href="/sit-a-dog-save-a-life/?ref=footer">Sit a Dog, Save a Life</a></li>
+                                    
+                                    
+                                    <li class="visible-xs"><a href="/help/?ref=footer" target="_blank">Help Center</a></li>
+                                </div>
                             </ul>
                         </div>
-                        <div class="col-xs-6">
-                            <h4>&nbsp;</h4>
-                            <ul class="footer-list">
-                                <li><a href="/guarantee/">Rover Guarantee</a></li>
-                                <li><a href="/safety/">Safety</a></li>
-                                <li><a href="/sit-a-dog-save-a-life/?ref=footer">Sit a Dog, Save a Life</a></li>
-                                <li><a href="/help/?ref=footer" target="_blank">Help Center</a></li>
-                                
-                            </ul>
-                        </div>
-                        <div class="col-xs-6">
-                            <h4>About Rover</h4>
-                            <ul class="footer-list">
-                                <li><a href="/about-us/?ref=footer">About Us</a></li>
-                                <li><a href="/help/?ref=footer">Contact Us</a></li>
-                                <li><a href="/joining-forces/?ref=footer">Joining Forces</a></li>
-                                <li><a href="/app/?ref=footer">Get the App</a></li>
-                                <li><a href="https://www.rover.com/blog/press?ref=footer">Press</a></li>
-                                <li><a href="/rover-cam/?ref=footer">RoverCam</a></li>
-                                <li><a href="/careers/?ref=footer&amp;lever-origin=applied&amp;lever-source=Site_Footer">Careers</a></li>                            </ul>
-                        </div>
-                        <div class="col-xs-6">
-                            <h4>&nbsp;</h4>
-                            <ul class="footer-list">
-                                <li><a href="/partners/?ref=footer">Partners</a></li>
-                                <li><a href="/privacy/?ref=footer">Privacy Policy</a></li>
-                                <li><a href="/tos/cookies/?ref=footer">Cookie Policy</a></li>
-                                <li><a href="/tos/?ref=footer">Terms of Service</a></li>
-                                <li><a href="/privacy/?ref=footer#advertising-and-analytics-services">Interest-Based Ads</a></li>
-                                <li><a href="/uk/">Rover UK</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    
-
-<div class="row padding-h-x0">
-    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-        <h5 class="email-footer-text">Get cute puppies in your inbox</h5>
-        <div class="js-email-capture-footer-form-failure hidden">
-            <p class="margin-top-x1 margin-bottom-x1 text-tertiary">
-                Please enter a valid email address.
-            </p>
-        </div>
-        <div class="js-email-capture-footer-form-initial">
-            <form class="js-email-capture-form form-inline" action="/newsletter-signup/" method="POST">
-                <label for="email" class="sr-only">Email: </label>
-                <input class="form-control footer-email-input" type="email" name="email" placeholder="Email Address" data-track-event="" data-event-type="click" data-event="newsletter-submit" required="">
-                <button class="rover-btn rover-btn-primary margin-left-x2 float-right" type="submit">Submit</button>
-                
-                <p class="help-text emphasis text-left small-text padding-left-x1 margin-top-x2">
-                    By providing my e-mail address, I consent to receive marketing communications from Rover.com and its affiliates. <a href="/privacy/" class="text-nowrap">Privacy Policy</a>
-                </p>
-            </form>
-            
-        </div>
-        <div class="js-email-capture-footer-form-thanks hidden">
-            <p class="margin-top-x5 margin-bottom-x1 text-primary">
-                <i class="rover-icon rover-icon-checked rover-icon-lg"></i>
-                Success! Thanks for subscribing!
-            </p>
-        </div>
-        <div class="footer-links-wrapper margin-top-x5">
-        <div class="social-footer-links padding-right-x2">
-            <a target="_blank" class="margin-right-x1" href="https://www.facebook.com/RoverDotCom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;facebook&quot; }">
-                <div class="social-footer-sprite social-footer-sprite-facebook sprite img-circle"></div>
-            </a>
-            <a target="_blank" class="margin-right-x1" href="https://www.instagram.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;instagram&quot; }">
-                <div class="social-footer-sprite social-footer-sprite-instagram sprite img-circle"></div>
-            </a>
-            <a target="_blank" class="margin-right-x1" href="https://twitter.com/RoverDotCom" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;twitter&quot; }">
-                <div class="social-footer-sprite social-footer-sprite-twitter sprite img-circle"></div>
-            </a>
-            <a target="_blank" class="margin-right-x1" href="https://www.pinterest.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;pinterest&quot; }">
-                <div class="social-footer-sprite social-footer-sprite-pinterest sprite img-circle"></div>
-            </a>
-        </div>
-        <div class="blog-footer-links text-center margin-left-x2">
-            <div class="our-blog small-text text-muted margin-v-x1">visit our blog</div>
-            <a target="_blank" href="https://www.rover.com/blog/?ref=footer">
-                <div class="blog-footer-sprite blog-footer-sprite-daily-treat sprite"></div>
-            </a>
-        </div>
-        </div>
-    </div>
-</div>
-
-                    <div class="row visible-xs col-xs-12 margin-bottom-x2 margin-top-x4">
-                        
-                            
-
-<h4>Top Rover Cities</h4>
-<div class="row city-footer">
-    
-    
-        
-            
-
-
-
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
-        <ul class="footer-list footer-cities">
-            
-                <li><a href="/atlanta--ga--dog-boarding/">Atlanta</a></li>
-            
-                <li><a href="/austin--tx--dog-boarding/">Austin</a></li>
-            
-                <li><a href="/baltimore--md--dog-boarding/">Baltimore</a></li>
-            
-                <li><a href="/boston--ma--dog-boarding/">Boston</a></li>
-            
-                <li><a href="/ca/calgary--ab--dog-boarding/">Calgary</a></li>
-            
-                <li><a href="/charlotte--nc--dog-boarding/">Charlotte</a></li>
-            
-                <li><a href="/chicago--il--dog-boarding/">Chicago</a></li>
-            
-                <li><a href="/cincinnati--oh--dog-boarding/">Cincinnati</a></li>
-            
-                <li><a href="/cleveland--oh--dog-boarding/">Cleveland</a></li>
-            
-                <li><a href="/columbus--oh--dog-boarding/">Columbus</a></li>
-            
-                <li><a href="/dallas--tx--dog-boarding/">Dallas</a></li>
-            
-                <li><a href="/denver--co--dog-boarding/">Denver</a></li>
-            
-                <li><a href="/ca/edmonton--ab--dog-boarding/">Edmonton</a></li>
-            
-                <li><a href="/fort-worth--tx--dog-boarding/">Fort Worth</a></li>
-            
-                <li><a href="/houston--tx--dog-boarding/">Houston</a></li>
-            
-                <li><a href="/indianapolis--in--dog-boarding/">Indianapolis</a></li>
-            
-                <li><a href="/jacksonville--fl--dog-boarding/">Jacksonville</a></li>
-            
-                <li><a href="/kansas-city--mo--dog-boarding/">Kansas City</a></li>
-            
-                <li><a href="/las-vegas--nv--dog-boarding/">Las Vegas</a></li>
-            
-                <li><a href="/lexington--ky--dog-boarding/">Lexington</a></li>
-            
-                <li><a href="/los-angeles--ca--dog-boarding/">Los Angeles</a></li>
-            
-                <li><a href="/madison--al--dog-boarding/">Madison</a></li>
-            
-                <li><a href="/miami--fl--dog-boarding/">Miami</a></li>
-            
-                <li><a href="/milwaukee--wi--dog-boarding/">Milwaukee</a></li>
-            
-        </ul>
-    </div>
-
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
-        <ul class="footer-list footer-cities">
-            
-                <li><a href="/minneapolis--mn--dog-boarding/">Minneapolis</a></li>
-            
-                <li><a href="/ca/mississauga--on--dog-boarding/">Mississauga</a></li>
-            
-                <li><a href="/new-york-city--ny--dog-boarding/">New York City</a></li>
-            
-                <li><a href="/oakland--ca--dog-boarding/">Oakland</a></li>
-            
-                <li><a href="/orlando--fl--dog-boarding/">Orlando</a></li>
-            
-                <li><a href="/ca/ottawa--on--dog-boarding/">Ottawa</a></li>
-            
-                <li><a href="/philadelphia--pa--dog-boarding/">Philadelphia</a></li>
-            
-                <li><a href="/phoenix--az--dog-boarding/">Phoenix</a></li>
-            
-                <li><a href="/portland--or--dog-boarding/">Portland</a></li>
-            
-                <li><a href="/richmond--va--dog-boarding/">Richmond</a></li>
-            
-                <li><a href="/sacramento--ca--dog-boarding/">Sacramento</a></li>
-            
-                <li><a href="/st-louis--mo--dog-boarding/">Saint Louis</a></li>
-            
-                <li><a href="/salt-lake-city--ut--dog-boarding/">Salt Lake City</a></li>
-            
-                <li><a href="/san-antonio--tx--dog-boarding/">San Antonio</a></li>
-            
-                <li><a href="/san-diego--ca--dog-boarding/">San Diego</a></li>
-            
-                <li><a href="/san-jose--ca--dog-boarding/">San Jose</a></li>
-            
-                <li><a href="/seattle--wa--dog-boarding/">Seattle</a></li>
-            
-                <li><a href="/tampa--fl--dog-boarding/">Tampa</a></li>
-            
-                <li><a href="/ca/toronto--on--dog-boarding/">Toronto</a></li>
-            
-                <li><a href="/tucson--az--dog-boarding/">Tucson</a></li>
-            
-                <li><a href="/washington--dc--dog-boarding/">Washington, D.C.</a></li>
-            
-                <li><a href="/ca/winnipeg--mb--dog-boarding/">Winnipeg</a></li>
-            
-                <li><a href="/us/top-dog-boarding-cities/">More cities</a></li>
-            
-                <li><a href="/us/top-dog-boarding-neighborhoods/">Neighborhoods</a></li>
-            
-        </ul>
-    </div>
-
-
-        
-    
-</div>
-
-                        
-                    </div>
-                </div>
-                
-            </div>
-
-            <div class="row hidden-xs">
-                
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-4 col-sm-4">
-                            <h4>Learn More</h4>
-                            <ul class="footer-list">
-                                <li><a href="https://www.rover.com/blog/?ref=footer">Read Our Blog</a></li>
-                                <li><a href="/community/questions/">Rover Q&amp;A Community</a></li>
-                                <li><a href="https://store.rover.com/?ref=footer">Rover Store</a></li>
-                                <li><a href="/guarantee/">Rover Guarantee</a></li>
-                                <li><a href="/safety/">Safety</a></li>
-                                <li><a href="/sit-a-dog-save-a-life/?ref=footer">Sit a Dog, Save a Life</a></li>
-                                
-                            </ul>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="help-links hidden-xs">
                             <h4>Need Help?</h4>
                             <ul class="footer-list">
                                 <li><a href="/help/?ref=footer" target="_blank">Help Center</a></li>
                             </ul>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-4">
-                            <h4>About Rover</h4>
-                            <ul class="footer-list">
+                    </div>
+                    <div class="about-rover-links">
+                        <h4>About Rover</h4>
+                        <ul class="footer-list">
+                            <div>
                                 <li><a href="/about-us/?ref=footer">About Us</a></li>
                                 <li><a href="/help/?ref=footer">Contact Us</a></li>
                                 <li><a href="/joining-forces/?ref=footer">Joining Forces</a></li>
@@ -1218,82 +1036,155 @@
                                 <li><a href="https://www.rover.com/blog/press?ref=footer">Press</a></li>
                                 <li><a href="/rover-cam/?ref=footer">RoverCam</a></li>
                                 <li><a href="/careers/?ref=footer&amp;lever-origin=applied&amp;lever-source=Site_Footer">Careers</a></li>
+                            </div>
+                            <div>
                                 <li><a href="/partners/?ref=footer">Partners</a></li>
                                 <li><a href="/privacy/?ref=footer">Privacy Policy</a></li>
                                 <li><a href="/tos/cookies/?ref=footer">Cookie Policy</a></li>
                                 <li><a href="/tos/?ref=footer">Terms of Service</a></li>
                                 <li><a href="/privacy/?ref=footer#advertising-and-analytics-services">Interest-Based Ads</a></li>
                                 <li><a href="/uk/">Rover UK</a></li>
-                            </ul>
-                        </div>
+                            </div>
+                        </ul>
                     </div>
-                    
-
-<div class="row padding-h-x0">
-    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-        <h5 class="email-footer-text">Get cute puppies in your inbox</h5>
-        <div class="js-email-capture-footer-form-failure hidden">
-            <p class="margin-top-x1 margin-bottom-x1 text-tertiary">
-                Please enter a valid email address.
-            </p>
-        </div>
-        <div class="js-email-capture-footer-form-initial">
-            <form class="js-email-capture-form form-inline" action="/newsletter-signup/" method="POST">
-                <label for="email" class="sr-only">Email: </label>
-                <input class="form-control footer-email-input" type="email" name="email" placeholder="Email Address" data-track-event="" data-event-type="click" data-event="newsletter-submit" required="">
-                <button class="rover-btn rover-btn-primary margin-left-x2 float-right" type="submit">Submit</button>
-                
-                <p class="help-text emphasis text-left small-text padding-left-x1 margin-top-x2">
-                    By providing my e-mail address, I consent to receive marketing communications from Rover.com and its affiliates. <a href="/privacy/" class="text-nowrap">Privacy Policy</a>
-                </p>
-            </form>
-            
-        </div>
-        <div class="js-email-capture-footer-form-thanks hidden">
-            <p class="margin-top-x5 margin-bottom-x1 text-primary">
-                <i class="rover-icon rover-icon-checked rover-icon-lg"></i>
-                Success! Thanks for subscribing!
-            </p>
-        </div>
-        <div class="footer-links-wrapper margin-top-x5">
-        <div class="social-footer-links padding-right-x2">
-            <a target="_blank" class="margin-right-x1" href="https://www.facebook.com/RoverDotCom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;facebook&quot; }">
-                <div class="social-footer-sprite social-footer-sprite-facebook sprite img-circle"></div>
-            </a>
-            <a target="_blank" class="margin-right-x1" href="https://www.instagram.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;instagram&quot; }">
-                <div class="social-footer-sprite social-footer-sprite-instagram sprite img-circle"></div>
-            </a>
-            <a target="_blank" class="margin-right-x1" href="https://twitter.com/RoverDotCom" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;twitter&quot; }">
-                <div class="social-footer-sprite social-footer-sprite-twitter sprite img-circle"></div>
-            </a>
-            <a target="_blank" class="margin-right-x1" href="https://www.pinterest.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;pinterest&quot; }">
-                <div class="social-footer-sprite social-footer-sprite-pinterest sprite img-circle"></div>
-            </a>
-        </div>
-        <div class="blog-footer-links text-center margin-left-x2">
-            <div class="our-blog small-text text-muted margin-v-x1">visit our blog</div>
-            <a target="_blank" href="https://www.rover.com/blog/?ref=footer">
-                <div class="blog-footer-sprite blog-footer-sprite-daily-treat sprite"></div>
-            </a>
-        </div>
-        </div>
-    </div>
-</div>
-
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    
+                    <div class="top-cities-links visible-xs">
+                        
+                            
 
 <h4>Top Rover Cities</h4>
-<div class="row city-footer">
-    
+
+
     
         
+
+
+
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+        <ul class="footer-list footer-cities">
             
+                <li><a href="/atlanta--ga--dog-boarding/">Atlanta</a></li>
+            
+                <li><a href="/austin--tx--dog-boarding/">Austin</a></li>
+            
+                <li><a href="/baltimore--md--dog-boarding/">Baltimore</a></li>
+            
+                <li><a href="/boston--ma--dog-boarding/">Boston</a></li>
+            
+                <li><a href="/ca/calgary--ab--dog-boarding/">Calgary</a></li>
+            
+                <li><a href="/charlotte--nc--dog-boarding/">Charlotte</a></li>
+            
+                <li><a href="/chicago--il--dog-boarding/">Chicago</a></li>
+            
+                <li><a href="/cincinnati--oh--dog-boarding/">Cincinnati</a></li>
+            
+                <li><a href="/cleveland--oh--dog-boarding/">Cleveland</a></li>
+            
+                <li><a href="/columbus--oh--dog-boarding/">Columbus</a></li>
+            
+                <li><a href="/dallas--tx--dog-boarding/">Dallas</a></li>
+            
+                <li><a href="/denver--co--dog-boarding/">Denver</a></li>
+            
+                <li><a href="/ca/edmonton--ab--dog-boarding/">Edmonton</a></li>
+            
+                <li><a href="/fort-worth--tx--dog-boarding/">Fort Worth</a></li>
+            
+                <li><a href="/houston--tx--dog-boarding/">Houston</a></li>
+            
+                <li><a href="/indianapolis--in--dog-boarding/">Indianapolis</a></li>
+            
+                <li><a href="/jacksonville--fl--dog-boarding/">Jacksonville</a></li>
+            
+                <li><a href="/kansas-city--mo--dog-boarding/">Kansas City</a></li>
+            
+                <li><a href="/las-vegas--nv--dog-boarding/">Las Vegas</a></li>
+            
+                <li><a href="/lexington--ky--dog-boarding/">Lexington</a></li>
+            
+                <li><a href="/los-angeles--ca--dog-boarding/">Los Angeles</a></li>
+            
+                <li><a href="/madison--al--dog-boarding/">Madison</a></li>
+            
+                <li><a href="/miami--fl--dog-boarding/">Miami</a></li>
+            
+                <li><a href="/milwaukee--wi--dog-boarding/">Milwaukee</a></li>
+            
+        </ul>
+    </div>
+
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+        <ul class="footer-list footer-cities">
+            
+                <li><a href="/minneapolis--mn--dog-boarding/">Minneapolis</a></li>
+            
+                <li><a href="/ca/mississauga--on--dog-boarding/">Mississauga</a></li>
+            
+                <li><a href="/new-york-city--ny--dog-boarding/">New York City</a></li>
+            
+                <li><a href="/oakland--ca--dog-boarding/">Oakland</a></li>
+            
+                <li><a href="/orlando--fl--dog-boarding/">Orlando</a></li>
+            
+                <li><a href="/ca/ottawa--on--dog-boarding/">Ottawa</a></li>
+            
+                <li><a href="/philadelphia--pa--dog-boarding/">Philadelphia</a></li>
+            
+                <li><a href="/phoenix--az--dog-boarding/">Phoenix</a></li>
+            
+                <li><a href="/portland--or--dog-boarding/">Portland</a></li>
+            
+                <li><a href="/richmond--va--dog-boarding/">Richmond</a></li>
+            
+                <li><a href="/sacramento--ca--dog-boarding/">Sacramento</a></li>
+            
+                <li><a href="/st-louis--mo--dog-boarding/">Saint Louis</a></li>
+            
+                <li><a href="/salt-lake-city--ut--dog-boarding/">Salt Lake City</a></li>
+            
+                <li><a href="/san-antonio--tx--dog-boarding/">San Antonio</a></li>
+            
+                <li><a href="/san-diego--ca--dog-boarding/">San Diego</a></li>
+            
+                <li><a href="/san-jose--ca--dog-boarding/">San Jose</a></li>
+            
+                <li><a href="/seattle--wa--dog-boarding/">Seattle</a></li>
+            
+                <li><a href="/tampa--fl--dog-boarding/">Tampa</a></li>
+            
+                <li><a href="/ca/toronto--on--dog-boarding/">Toronto</a></li>
+            
+                <li><a href="/tucson--az--dog-boarding/">Tucson</a></li>
+            
+                <li><a href="/washington--dc--dog-boarding/">Washington, D.C.</a></li>
+            
+                <li><a href="/ca/winnipeg--mb--dog-boarding/">Winnipeg</a></li>
+            
+                <li><a href="/us/top-dog-boarding-cities/">More cities</a></li>
+            
+                <li><a href="/us/top-dog-boarding-neighborhoods/">Neighborhoods</a></li>
+            
+        </ul>
+    </div>
+
+
+    
+
+
+                        
+                    </div>
+                     <div class="top-cities-links hidden-xs">
+                        
+
+<h4>Top Rover Cities</h4>
+
+
+    
+        
 
 
 
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
         <ul class="footer-list footer-cities">
             
                 <li><a href="/atlanta--ga--dog-boarding/">Atlanta</a></li>
@@ -1331,7 +1222,7 @@
         </ul>
     </div>
 
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
         <ul class="footer-list footer-cities">
             
                 <li><a href="/jacksonville--fl--dog-boarding/">Jacksonville</a></li>
@@ -1369,7 +1260,7 @@
         </ul>
     </div>
 
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
         <ul class="footer-list footer-cities">
             
                 <li><a href="/portland--or--dog-boarding/">Portland</a></li>
@@ -1408,21 +1299,69 @@
     </div>
 
 
-        
     
+
+
+                    </div>
+                </div>
+                
+
+<div class="marketing-footer">
+    <div class="marketing-email-capture">
+        <h4>Get cute puppies in your inbox</h4>
+        <div class="js-email-capture-footer-form-failure hidden">
+            <p class="text-tertiary">
+                Please enter a valid email address.
+            </p>
+        </div>
+        <div class="js-email-capture-footer-form-initial">
+            <form class="js-email-capture-form form-inline" action="/newsletter-signup/" method="POST">
+                <label for="email" class="sr-only">Email: </label>
+                <input class="form-control footer-email-input" type="email" name="email" placeholder="Email Address" data-track-event="" data-event-type="click" data-event="newsletter-submit" required="">
+                <button class="rover-btn rover-btn-primary margin-left-x2 float-right" type="submit">Submit</button>
+            </form>
+            
+        </div>
+        <div class="js-email-capture-footer-form-thanks hidden">
+            <p class="text-primary">
+                <i class="rover-icon rover-icon-checked rover-icon-lg"></i>
+                Success! Thanks for subscribing!
+            </p>
+        </div>
+        
+        <p class="help-text text-left small-text padding-left-x1 margin-top-x3">
+            By providing my e-mail address, I consent to receive marketing communications from Rover.com and its affiliates. <a href="/privacy/" class="text-nowrap">Privacy Policy</a>
+        </p>
+    </div>
+    <div class="marketing-social">
+        <div class="blog-footer-links text-center">
+            <a target="_blank" class="our-blog" href="https://www.rover.com/blog/?ref=footer">
+                <div class="small-text text-muted">visit our blog</div>
+                <img class="blog-footer-sprite blog-footer-sprite-daily-treat sprite" src="/static/new_design/images/homepage/dog-people.4d5446d83b79.jpg" alt="The dog people">
+            </a>
+        </div>
+        <div class="social-footer-links">
+            <a target="_blank" href="https://www.facebook.com/RoverDotCom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;facebook&quot; }">
+                <i class="rover-icon rover-icon-facebook-footer"></i>
+            </a>
+            <a target="_blank" href="https://www.instagram.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;instagram&quot; }">
+                <i class="rover-icon rover-icon-instagram-footer"></i>
+            </a>
+            <a target="_blank" href="https://twitter.com/RoverDotCom" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;twitter&quot; }">
+                <i class="rover-icon rover-icon-twitter-footer"></i>
+            </a>
+            <a target="_blank" href="https://www.pinterest.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;pinterest&quot; }">
+                <i class="rover-icon rover-icon-pinterest-footer"></i>
+            </a>
+        </div>
+    </div>
 </div>
 
-                </div>
             
-            </div>
-
         </div>
         <div class="footer-copyright-and-address">
-            
-            <p class="copyright">
-                © 2018 Rover.com. All Rights Reserved.
-            </p>
-            <p class="small-text text-center">2101 4th Ave #400 | Seattle, WA | 98121</p>
+            <span class="copyright">2019 Rover.com. All Rights Reserved.</span>
+            <span> 2101 4th Ave #400 | Seattle, WA | 98121</span>
         </div>
     </div>
 </div>
@@ -1437,10 +1376,10 @@
 
 
         
-            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/header/logged_in_user']='<li class="visible-xs"><a href="{{urlInbox}}">Inbox</a>\n<li class="visible-xs"><a href="{{urlDashboard}}">Dashboard</a></li>\n{{#isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n    <li class="visible-xs"><a href="{{urlCalendar}}">Calendar</a></li>\n{{/isSitter}}\n{{#hasDog}}\n    <li class="visible-xs"><a href="{{urlDogPhotos}}">Photos</a></li>\n{{/hasDog}}\n{{^isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n{{/isSitter}}\n{{#urlNotifications}}\n    <li class="visible-xs"><a href="{{urlNotifications}}">Settings</a></li>\n{{/urlNotifications}}\n\n<li class="dropdown hidden-xs">\n    <a href="#" class="dropdown-toggle dropdown-with-avatar" data-toggle="dropdown" data-qa-id="home-buttons-user-dropdown">\n        <img src="{{smallPhotoUrl}}" class="avatar js-rover-avatar link-icon"> {{firstName}} <b class="caret"></b>\n    </a>\n\n    <ul class="dropdown-menu no-round" data-qa-id="home-dropdowns-user-pages">\n        <li data-view="performance-metrics__glanceview" class="performance-metrics performance-metrics__glanceview flex flex-dir-column flex-just-between padding-top-x4 padding-bottom-x2 rover-loading pointer"></li>\n\n        <li><a href="{{urlDashboard}}" data-qa-id="home-buttons-user-menu-dashboard">Dashboard</a></li>\n\n        {{#performanceMetricsEnabled}}\n            <li>\n                <a href="{{urlProfile}}"\n                    data-track-event  data-event-type="click" data-event="sitterscores-glance-view-scores-displayed" data-event-merge=\'{"origin": "profile-link"}\'>\n                Profile\n                </a>\n            </li>\n        {{/performanceMetricsEnabled}}\n        {{^performanceMetricsEnabled}}\n            <li><a href="{{urlProfile}}" data-qa-id="home-buttons-user-menu-profile">Profile</a></li>\n        {{/performanceMetricsEnabled}}\n\n        <li><a href="{{urlInbox}}" data-qa-id="home-buttons-user-menu-inbox">Inbox</a></li>\n\n        {{#isSitter}}\n            <li><a href="{{urlCalendar}}">Calendar</a></li>\n        {{/isSitter}}\n\n        {{#urlNotifications}}\n            <li><a href="{{urlNotifications}}" data-qa-id="home-buttons-user-menu-settings">Settings</a></li>\n        {{/urlNotifications}}\n\n        {{#hasDog}}\n            <li><a href="{{urlDogPhotos}}" data-qa-id="home-buttons-user-menu-photos">Photos</a></li>\n        {{/hasDog}}\n        <li class="divider"></li>\n        <li><a href="{{urlLogout}}">Log out</a></li>\n    </ul>\n</li>\n\n{{#showReactNotificationsCenter}}\n    <li id="react-notifications-center"></li>\n{{/showReactNotificationsCenter}}\n\n<li class="hidden-xs"><a href="{{urlInbox}}" data-qa-id="home-buttons-inbox"><span class="rover-icon rover-icon-in-envelope link-icon"></span>({{unreadMessageCount}})</a></li>\n\n<li><a href="{{urlHelp}}" target="_blank" data-track-event data-event-type="click" data-event="navigation-help"><span class="rover-icon rover-icon-in-question-circle link-icon"></span>Help</a></li>\n\n{{#showBecomeASitter}}\n<li>\n    <a\n        class="js-become-a-sitter js-anonymous-user{{^isMobile}} rover-btn rover-btn-primary become-a-sitter-cta{{/isMobile}}"\n        href="{{urlBecomeASitter}}"\n        data-qa-id="home-navbar-links-become-a-sitter"\n    >\n    Become a Sitter\n    </a>\n</li>\n{{/showBecomeASitter}}\n\n<li class="visible-xs"><a href="{{urlLogout}}">Log out</a></li>\n\n{{#showReferralLink}}\n    <li class="divider visible-xs"></li>\n    <li class="visible-xs padding-x2">\n        <a class="js-referral-cta" id="owner-mobile-web-referral" href="{{urlReferAFriend}}">\n        <span class="padding-h-x2 text-primary">\n            <img class="padding-right-x4 vertical-align-bottom" src="{{staticSvgPresent}}"/>\n            <span class="heavy-text large-text">Give $20, Get $20</span>\n            <i class="rover-icon rover-icon-2x rover-icon-in-right pull-right menu-in-right"></i>\n        </span>\n        </a>\n    </li>\n{{/showReferralLink}}\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/header/logged_in_user']='<li class="visible-xs"><a href="{{urlInbox}}">Inbox</a>\n<li class="visible-xs"><a href="{{urlDashboard}}">Dashboard</a></li>\n{{#isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n    <li class="visible-xs"><a href="{{urlCalendar}}">Calendar</a></li>\n{{/isSitter}}\n{{#hasDog}}\n    <li class="visible-xs"><a href="{{urlDogPhotos}}">Photos</a></li>\n{{/hasDog}}\n{{^isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n{{/isSitter}}\n{{#urlNotifications}}\n    <li class="visible-xs"><a href="{{urlNotifications}}">Settings</a></li>\n{{/urlNotifications}}\n\n<li class="dropdown hidden-xs">\n    <a href="#" class="dropdown-toggle dropdown-with-avatar" data-toggle="dropdown" data-qa-id="navbar-dropdown-menu">\n        <img src="{{smallPhotoUrl}}" class="avatar js-rover-avatar link-icon"> {{firstName}} <b class="caret"></b>\n    </a>\n\n    <ul class="dropdown-menu no-round" data-qa-id="navbar-dropdown-menu-container">\n        <li data-view="performance-metrics__glanceview" class="performance-metrics performance-metrics__glanceview flex flex-dir-column flex-just-between padding-top-x4 padding-bottom-x2 rover-loading pointer"></li>\n\n        <li><a href="{{urlDashboard}}" data-qa-id="navbar-link-dashboard">Dashboard</a></li>\n\n        {{#performanceMetricsEnabled}}\n            <li>\n                <a href="{{urlProfile}}"\n                    data-track-event  data-event-type="click" data-event="sitterscores-glance-view-scores-displayed" data-event-merge=\'{"origin": "profile-link"}\'>\n                Profile\n                </a>\n            </li>\n        {{/performanceMetricsEnabled}}\n        {{^performanceMetricsEnabled}}\n            <li><a href="{{urlProfile}}" data-qa-id="navbar-link-profile">Profile</a></li>\n        {{/performanceMetricsEnabled}}\n\n        <li><a href="{{urlInbox}}" data-qa-id="navbar-link-inbox">Inbox</a></li>\n\n        {{#isSitter}}\n            <li><a href="{{urlCalendar}}">Calendar</a></li>\n        {{/isSitter}}\n\n        {{#urlNotifications}}\n            <li><a href="{{urlNotifications}}" data-qa-id="navbar-link-settings">Settings</a></li>\n        {{/urlNotifications}}\n\n        {{#hasDog}}\n            <li><a href="{{urlDogPhotos}}" data-qa-id="navbar-link-photos">Photos</a></li>\n        {{/hasDog}}\n        <li class="divider"></li>\n        <li><a href="{{urlLogout}}">Log out</a></li>\n    </ul>\n</li>\n\n<li id="react-notifications-center"></li>\n\n<li class="hidden-xs"><a href="{{urlInbox}}" data-qa-id="navbar-link-navbar-inbox"><span class="rover-icon rover-icon-in-envelope link-icon"></span>({{unreadMessageCount}})</a></li>\n\n<li><a href="{{urlHelp}}" target="_blank" data-track-event data-event-type="click" data-event="navigation-help"><span class="rover-icon rover-icon-in-question-circle link-icon"></span>Help</a></li>\n\n{{#showBecomeASitter}}\n<li>\n    <a\n        class="js-become-a-sitter js-anonymous-user{{^isMobile}} rover-btn rover-btn-primary become-a-sitter-cta{{/isMobile}}"\n        href="{{urlBecomeASitter}}"\n        data-qa-id="home-navbar-links-become-a-sitter"\n    >\n    Become a Sitter\n    </a>\n</li>\n{{/showBecomeASitter}}\n\n<li class="visible-xs"><a href="{{urlLogout}}">Log out</a></li>\n\n{{#showReferralLink}}\n    <li class="divider visible-xs"></li>\n    <li class="visible-xs padding-x2">\n        <a class="js-referral-cta" id="owner-mobile-web-referral" href="{{urlReferAFriend}}">\n        <span class="padding-h-x2 text-primary">\n            <img class="padding-right-x4 vertical-align-bottom" src="{{staticSvgPresent}}"/>\n            <span class="heavy-text large-text">Give $20, Get $20</span>\n            <i class="rover-icon rover-icon-2x rover-icon-in-right pull-right menu-in-right"></i>\n        </span>\n        </a>\n    </li>\n{{/showReferralLink}}\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/alert']='<div class="alert alert-{{severity}} padded fade in js-alert">{{#showHideButton}}<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>{{/showHideButton}}{{message}}</div>\n';</script>
-            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/modal_sharing_buttons']='<div class="pull-left margin-left-x4 margin-bottom-x2 clearfix">\n    <div class="mfp-caption-display js-caption-display">{{caption}}</div>\n</div>\n\n<div class="text-right pull-left margin-left-x4 clearfix">\n    <div class="js-sharing-wrapper" data-image-to-share="{{imageToShare}}" data-image-thumbnail="{{imageThumbnail}}" data-url-to-share="{{urlToShare}}" data-content-type="{{contentType}}" data-object-id="{{objectId}}" data-campaign="{{campaign}}" data-share-location="{{shareLocation}}" data-tracking-content="{{trackingContent}}">\n\n        {{#hideable}}\n            <button class="btn btn-default btn-sm hide-photo-button js-hide-photo" data-object-id="{{objectId}}" data-hidden="{{hidden}}" data-loading-text="Loading..." data-hide-text="Hide photo" data-unhide-text="Unhide photo">\n                {{^hidden}}Hide photo{{/hidden}}{{#hidden}}Unhide photo{{/hidden}}\n            </button>\n        {{/hideable}}\n\n        <button class="button-as-link js-social-share-photo-button" data-network="facebook" title="Share on Facebook">\n            <span class="social-share-icon-wrapper facebook-share-outer">\n                <span class="table-row auto-centered">\n                    <span class="table-cell rover-icon rover-icon-in-facebook text-contrast rover-icon-2x"></span>\n                </span>\n            </span>\n        </button>\n\n        <button class="button-as-link js-social-share-photo-button" data-network="pinterest" title="Share on Pinterest">\n            <span class="social-share-icon-wrapper pinterest-share-outer">\n                <span class="table-row auto-centered">\n                    <span class="table-cell rover-icon rover-icon-in-pinterest text-contrast rover-icon-2x"></span>\n                </span>\n            </span>\n        </button>\n    </div>\n</div>\n';</script>
-            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/facebook_share_form']='<input type="hidden" name="imageToShare" value="{{imageToShare}}"/>\n<input type="hidden" name="urlToShare" value="{{urlToShare}}"/>\n<input type="hidden" name="contentType" value="{{contentType}}"/>\n<input type="hidden" name="objectId" value="{{objectId}}"/>\n<input type="hidden" name="shareLocation" value="{{shareLocation}}"/>\n\n<div class="row js-connect-facebook-wrapper">\n    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">\n        <div class="alert alert-danger js-need-connect-to-share hide">\n            In order to share this photo on Facebook, <br/> we need permission to post it on your behalf. <br/> <button class="rover-btn rover-btn-facebook js-connect-facebook" data-loading-text="Connecting..." data-hide-on-success="true" data-connect-location="photo_share"><span class="rover-icon rover-icon-in-facebook rover-icon-lg btn-left-icon"></span> Connect with Facebook</button>\n        </div>\n        <div class="alert alert-danger js-need-to-log-in hide">\n            In order to share this photo on Facebook, please <a href="{{signinUrl}}" class="alert-link">log in</a> to your Rover account\n        </div>\n    </div>\n</div>\n\n<div class="form-group">\n    <div class="row">\n        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">\n            <img src="{{imageThumb}}" class="js-share-image-thumb" height="80" width="80"/>\n        </div>\n        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-8">\n            <textarea class="form-control js-sharing-copy" rows="4" placeholder="Caption"></textarea>\n        </div>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/modal_sharing_buttons']='<div class="pull-left margin-left-x4 margin-bottom-x2 clearfix">\n    <div class="mfp-caption-display js-caption-display">{{caption}}</div>\n</div>\n\n<div class="text-right pull-left margin-left-x4 clearfix">\n    <div class="js-sharing-wrapper" data-image-to-share="{{imageToShare}}" data-image-thumbnail="{{imageThumbnail}}" data-url-to-share="{{urlToShare}}" data-content-type="{{contentType}}" data-object-id="{{objectId}}" data-campaign="{{campaign}}" data-share-location="{{shareLocation}}" data-tracking-content="{{trackingContent}}">\n\n        {{#hideable}}\n            <button class="btn btn-default btn-sm hide-photo-button js-hide-photo" data-object-id="{{objectId}}" data-hidden="{{hidden}}" data-loading-text="Loading..." data-hide-text="Hide photo" data-unhide-text="Unhide photo">\n                {{^hidden}}Hide photo{{/hidden}}{{#hidden}}Unhide photo{{/hidden}}\n            </button>\n        {{/hideable}}\n\n        <button class="button-as-link js-social-share-photo-button" data-network="pinterest" title="Share on Pinterest">\n            <span class="social-share-icon-wrapper pinterest-share-outer">\n                <span class="table-row auto-centered">\n                    <span class="table-cell rover-icon rover-icon-in-pinterest text-contrast rover-icon-2x"></span>\n                </span>\n            </span>\n        </button>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/facebook_share_form']='<input type="hidden" name="imageToShare" value="{{imageToShare}}"/>\n<input type="hidden" name="urlToShare" value="{{urlToShare}}"/>\n<input type="hidden" name="contentType" value="{{contentType}}"/>\n<input type="hidden" name="objectId" value="{{objectId}}"/>\n<input type="hidden" name="shareLocation" value="{{shareLocation}}"/>\n\n<div class="row js-connect-facebook-wrapper">\n    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">\n        <div class="alert alert-danger js-need-connect-to-share hide">\n        </div>\n        <div class="alert alert-danger js-need-to-log-in hide">\n            In order to share this photo on Facebook, please <a href="{{signinUrl}}" class="alert-link">log in</a> to your Rover account\n        </div>\n    </div>\n</div>\n\n<div class="form-group">\n    <div class="row">\n        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">\n            <img src="{{imageThumb}}" class="js-share-image-thumb" height="80" width="80"/>\n        </div>\n        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-8">\n            <textarea class="form-control js-sharing-copy" rows="4" placeholder="Caption"></textarea>\n        </div>\n    </div>\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/pinterest_share_link']='https://www.pinterest.com/pin/create/button/?url={{url}}&media={{imageUrl}}\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/modal']='<div class="new-design">\n    <div class="js-rover-modal rover-modal {{#animate}}fade{{/animate}} {{classes}}" tabindex="-1" role="dialog" aria-hidden="true" {{&attrs}} data-qa-id="modal-element-modal">\n        <div class="js-modal-dialog modal-dialog {{ dialogClasses }}">\n            <div class="modal-content js-modal-content">\n                {{#title}}\n                    <div class="modal-header js-modal-header">\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal" data-qa-id="modal-button-close">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-times-close rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                        <h3 class="modal-title js-modal-title" data-qa-id="title-search-modal">{{title}}</h3>\n                    </div>\n                {{/title}}\n                <div class="modal-body {{^padding}}no-padding{{/padding}} js-modal-body">\n                    {{^title}}\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-times-close rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                    {{/title}}\n                    <div class="modal-inner-body js-modal-inner-body">\n                        {{&content}}\n                    </div>\n                </div>\n                {{#showFooter}}\n                    <div class="modal-footer js-modal-footer">\n                        {{#showExtraButton}}\n                        <button type="button" class="rover-btn rover-btn-{{extraType}} pull-left js-modal-extra-action">\n                            {{#extraIcon}}<i class="fa {{extraIcon}}"></i>{{/extraIcon}}\n                            {{extraText}}\n                        </button>\n                        {{/showExtraButton}}\n\n                        {{^disableCancel}}\n                            {{#cancelText}}\n                                <button type="button" class="button-as-link js-modal-cancel margin-right-x2 text-muted" data-dismiss="modal">{{cancelText}}</button>\n                            {{/cancelText}}\n                        {{/disableCancel}}\n                        <button type="button" class="rover-btn rover-btn-{{okType}} js-modal-primary-action" data-qa-id="modal-button-submit">\n                            {{#okIcon}}<i class="fa {{okIcon}}"></i>{{/okIcon}}\n                            {{okText}}\n                        </button>\n                    </div>\n                {{/showFooter}}\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/cta_popover']='<div class="popover rover-popover rover-popover-{{ popoverId }}" role="tooltip">\n    <div class="arrow"></div>\n    <div class="popover-content"></div>\n</div>\n';</script>
@@ -1448,7 +1387,6 @@
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/media_gallery/image']='<div class="rover-gallery-slide">\n    <a class="rsImg" href="{{src}}"></a>\n    {{#caption}}\n        <div class="rsCaption">\n            {{.}}\n        </div>\n    {{/caption}}\n    {{#unsafeHtmlCaption}}\n        {{! Only use unsafeHtmlCaption if you KNOW any user input in the caption has been escaped. }}\n        {{! See initializeGalleries in application.js for correct usage - note that it renders HTML via another Mustache template, with the user-entered caption in double brackets. }}\n        <div class="rsCaption">\n            {{{.}}}\n        </div>\n    {{/unsafeHtmlCaption}}\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/media_gallery/video']='<div class="rover-gallery-slide video" data-video-backup-src="{{ backupSrc }}">\n    <a class="rsImg" data-rsVideo="{{ src }}" href="{{ thumbnail }}"></a>\n    {{#caption}}\n        <div class="rsCaption">\n            {{{caption}}}\n        </div>\n    {{/caption}}\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/account_profile/performance_metrics/performance_metrics_glanceview']='{{#activePerformanceMetric}}\n<p class="margin-x0 text-center">{{ service_type.name }}</p>\n\n\n<div class="performance-metrics__glanceview__cards flex flex-dir-column flex-align-start margin-v-x1">\n    {{#activePerformanceMetric.bookingScoreBlocked}}\n    <!-- Locked State -->\n    <div class="performance-metrics__glanceview__card__blocked margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text text-muted margin-x0 margin-right-x2">\n            <h4 class="performance-metrics__glanceview__card__score-num overall-performance heavy-text padding-x2 margin-x0">\n                NA<i class="rover-icon rover-icon-lock"></i>\n            </h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">Booking Score</p>\n        </aside>\n    </div>\n    {{/activePerformanceMetric.bookingScoreBlocked}}\n\n    {{^activePerformanceMetric.bookingScoreBlocked}}\n    {{#booking_score}}\n    <div class="performance-metrics__glanceview__card margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text margin-x0 margin-right-x2 margin-bottom-x1">\n            <h4 class="\n                performance-metrics__glanceview__card__score-num overall-performance semibold-text padding-x2 margin-x0\n                {{^conditionalType.med_low}}{{performance_level}}-score{{/conditionalType.med_low}}\n                {{#conditionalType.med_low}}med-low-score{{/conditionalType.med_low}}\n            ">{{ value }}</h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">{{ title }}</p>\n            <p class="margin-x0">{{ caption }}</p>\n        </aside>\n    </div>\n    {{/booking_score}}\n    {{/activePerformanceMetric.bookingScoreBlocked}}\n\n    {{#activePerformanceMetric.repeatScoreBlocked}}\n    <!-- Locked State -->\n    <div class="performance-metrics__glanceview__card__blocked margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text text-muted margin-x0 margin-right-x2">\n            <h4 class="performance-metrics__glanceview__card__score-num overall-performance heavy-text padding-x2 margin-x0">\n                NA<i class="rover-icon rover-icon-lock"></i>\n            </h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">Repeat Score</p>\n        </aside>\n    </div>\n    {{/activePerformanceMetric.repeatScoreBlocked}}\n\n    {{^activePerformanceMetric.repeatScoreBlocked}}\n    {{#repeat_score}}\n    <div class="performance-metrics__glanceview__card margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text margin-x0 margin-right-x2 margin-bottom-x1">\n            <h4 class="\n                performance-metrics__glanceview__card__score-num overall-performance semibold-text padding-x2 margin-x0\n                {{^conditionalType.med_low}}{{performance_level}}-score{{/conditionalType.med_low}}\n                {{#conditionalType.med_low}}med-low-score{{/conditionalType.med_low}}\n            ">{{ value }}</h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">{{ title }}</p>\n            <p class="margin-x0">{{ caption }}</p>\n        </aside>\n    </div>\n    {{/repeat_score}}\n    {{/activePerformanceMetric.repeatScoreBlocked}}\n</div>\n\n<a class="margin-x0 padding-x0 text-center" href="{{performanceMetricsUrl}}"\n    data-track-event  data-event-type="click" data-event="sitterscores-navigate-to-scores" data-event-merge=\'{"origin": "glanceview-link"}\'>\n    View Performance Scores\n</a>\n{{/activePerformanceMetric}}\n';</script>
-            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/services/pricing_field']='{{#proposedStay.total_price}}\nPrice:\n<span>\n   ${{proposedStay.total_price}}\n</span>\n{{/proposedStay.total_price}}\n{{^proposedStay.total_price}}\n<i class="rover-icon rover-icon-in-spinner fr-spin"></i> <em>calculating...</em>\n{{/proposedStay.total_price}}\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/stays/rebook']='<div class="rover-modal js-rebook-modal rebook-modal">\n    <div class="modal-dialog">\n        <div class="modal-content">\n            <div class="modal-body" style="max-height: none">\n                <h3 class="margin-top-x0">\n                    New Stay for {{requester.short_name}}\n                </h3>\n                <p class="nopadding">\n                    Use this feature to book with past customers or providers when they contact you outside of Rover.\n                    Please do not send unsolicited requests.\n                </p>\n                <div class="row js-service-selection service-select-buttons">\n                    {{#services}}\n                        <div class="col-xs-6 col-sm-{{col_sm}} padding-bottom-x5 col-lopad-xs col-lopad-sm col-lopad-md col-lopad-lg">\n                            <div class="rover-button text-center js-stay-type-btn js-stickit-data-value padding-x1" data-slug="{{slug}}">\n                                <a>\n                                    <div class="hidden-xs">\n                                        <i class="rover-icon rover-icon-{{service_type.icon}} rover-icon-2x"></i>\n                                    </div>\n                                    <div>\n                                        <div>\n                                            {{top_name}}<br />\n                                            {{bottom_name}}\n                                        </div>\n                                    </div>\n                                </a>\n                            </div>\n                        </div>\n                    {{/services}}\n                </div>\n                <form class="rebook-form js-rebook-form" action="{{action}}" role="form" method="POST">\n                    <ul class="pet-list list-inline margin-bottom-x4">\n                        <li>Dog(s):</li>\n                        {{#pets}}\n                            <li class="pet">\n                                <label class="checkbox-inline">\n                                    <input class="js-dog-checkbox js-checkbox-bind-to-list js-validate-element" type="checkbox" name="pets" value="{{url}}" checked="checked" data-rule-required="true" data-msg-required="Please include at least one pet in the conversation.">{{name}}{{^last}}, {{/last}}\n                                </label>\n                            </li>\n                        {{/pets}}\n                    </ul>\n\n                    <div class="form-group stay-duration margined">\n                        <div class="js-dates-for-service"></div>\n                    </div>\n                    <div class="js-pricing margin-bottom-x4 form-group hidden">\n                        Price: <em>Select dates to calculate price</em>\n                    </div>\n                    <div class="form-group">\n                        <label class="control-label">Message</label>\n                        <textarea name="content" class="form-control content" rows="3">\nHi {{receiver.first_name}},\nI\'ve created a new stay for the dates we discussed. Looking forward to it!\n-{{sender.first_name}}</textarea>\n                    </div>\n                    {{#needsPhoneNumber}}\n                    <div class="form-group">\n                        <label class="control-label">Phone Number</label>\n                        <input type="text" name="phone_number" class="phone-number-input form-control js-phone-number-input" data-rule-required="true">\n                    </div>\n                    {{/needsPhoneNumber}}\n                    <input type="hidden" name="provider" value="{{provider.url}}">\n                    <input type="hidden" name="service" value="{{service_url}}">\n                    <input type="hidden" name="requester" value="{{requester.url}}">\n                    <input type="hidden" name="sender" value="{{sender.url}}">\n                    <div class="form-group">\n                        <button class="rover-btn rover-btn-primary margin-right-x2 pull-left js-submit-rebook-request"\n                                data-loading-text="Creating request...">Create stay request</button>\n                        <span>You can adjust the dates, dogs, and price on the Message page before you finalize your booking</span>\n                    </div>\n                    <div class="form-group">\n                        <button type="button" class="rover-btn rover-btn-default js-cancel">Cancel</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/stays/extend']='<div class="rover-modal js-rebook-modal rebook-modal">\n    <div class="modal-dialog">\n        <div class="modal-content">\n            <div class="modal-body" style="max-height: none">\n                <h3 class="margin-top-x0">\n                    Extend stay with {{provider.short_name}}\n                </h3>\n                <p class="nopadding">\n                    Use this feature to extend the dates of this Rover stay. Once you create the request the booking process is the same as the original request\n                </p>\n                <div class="row js-service-selection service-select-buttons">\n                    {{#services}}\n                        <div class="col-xs-6 col-sm-{{col_sm}} padding-bottom-x5 col-lopad-xs col-lopad-sm col-lopad-md col-lopad-lg">\n                            <div class="rover-button text-center js-stay-type-btn js-stickit-data-value padding-x1" data-slug="{{slug}}">\n                                <a>\n                                    <div class="hidden-xs">\n                                        <i class="rover-icon rover-icon-{{service_type.icon}} rover-icon-2x"></i>\n                                    </div>\n                                    <div>\n                                        <div>\n                                            {{top_name}}<br />\n                                            {{bottom_name}}\n                                        </div>\n                                    </div>\n                                </a>\n                            </div>\n                        </div>\n                    {{/services}}\n                </div>\n                <form class="js-auto-disable-form rebook-form js-rebook-form" action="{{action}}" role="form" method="POST">\n                    <ul class="pet-list list-inline margin-bottom-x4">\n                        <li>Dog(s):</li>\n                        {{#pets}}\n                            <li class="pet">\n                                {{name}}{{^last}}, {{/last}}\n                                <input type="hidden" name="pets" value="{{url}}" />\n                            </li>\n                        {{/pets}}\n                    </ul>\n\n                    <div class="form-group stay-duration margined">\n                        <div class="js-dates-for-service"></div>\n                    </div>\n                    <div class="js-pricing margin-bottom-x4 form-group hidden">\n                        Price: <em>Select dates to calculate price</em>\n                    </div>\n                    <div class="form-group">\n                        <label class="control-label">Message</label>\n                        <textarea name="content" class="form-control content" rows="3">\nHi {{receiver.first_name}},\nI\'ve extended this stay for the dates we discussed. Looking forward to it!\n-{{sender.first_name}}</textarea>\n                    </div>\n                    <input type="hidden" name="provider" value="{{provider.url}}">\n                    <input type="hidden" name="service" value="{{service_url}}">\n                    <input type="hidden" name="requester" value="{{requester.url}}">\n                    <input type="hidden" name="sender" value="{{sender.url}}">\n                    <input type="hidden" name="extended_stay_conversation" value="1">\n                    <input type="hidden" name="original_conversation" value="{{conversation.url}}">\n                    <div class="form-group">\n                        <button class="rover-btn rover-btn-primary margin-right-x2 pull-left js-submit-rebook-request" data-loading-text="Creating request...">Extend stay request</button>\n                        <span>You can adjust the dates, dogs, and price on the Message page before you finalize your booking</span>\n                    </div>\n                    <div class="form-group">\n                        <button type="button" class="rover-btn rover-btn-default js-cancel">Cancel</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/dogs']='{{#dogs}}\n    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-4">\n        <label for="dog-{{id}}" class="dog-label checkbox-inline"><input type="checkbox" value="{{id}}" name="pet" id="dog-{{id}}" checked="checked"> {{name}}</label>\n    </div>\n{{/dogs}}\n';</script>
@@ -1460,12 +1398,14 @@
     Rover.mustacheTemplates = Mustache.TEMPLATES;
 </script>
 
-        <script type="text/javascript" src="/static/dist/manifest.1b6ef08c473121cf.js"></script>
+        <script type="text/javascript" src="/static/dist/manifest.1b9c11324613a67b.js"></script>
         
-            <script type="text/javascript" src="/static/dist/jquery.82dd60a4bc2b4933.js"></script>
-            <script type="text/javascript" src="/static/dist/header.40a208c02678f303.js"></script>
-            <script type="text/javascript" src="/static/dist/vendor.6b45d0a29ab90e47.js"></script>
-            <script type="text/javascript" src="/static/dist/application_js.1478ce78c3a0c101.js"></script>
+        <script type="text/javascript" src="/static/dist/translations_en_us.b8aa791e3477c815.js"></script>
+        
+            <script type="text/javascript" src="/static/dist/jquery.e785735a088f20fa.js"></script>
+            <script type="text/javascript" src="/static/dist/header.3c6c30b49b39fbbc.js"></script>
+            <script type="text/javascript" src="/static/dist/vendor.f1d6d6aba3b13875.js"></script>
+            <script type="text/javascript" src="/static/dist/application_js.2fdc21fe25d4be9a.js"></script>
         
 
         <!-- polyfills:
@@ -1482,19 +1422,31 @@
     window.Intl = undefined; // disable the potential partial built-in Intl
     // this is the only way to load and run this script synchronously
     // Chrome will block loading script through document.write on slow network but we would not run this code in Chrome
-    document.write('<script src="/static/dist/polyfills/intl/en_US.2d654c1ffd0db9e4.js"><\/script>');
+    document.write('<script src="/static/dist/polyfills/intl/en_US.801b2aa898015e4e.js"><\/script>');
   }
+</script>
+
+         
+<script>
+    try {
+        const formData = new FormData();
+        formData.entries();
+    } catch (err) {
+        const script = document.createElement("script");
+        script.setAttribute("src", "/static/dist/polyfills/form-data.07aae253b6f1629b.js");
+        document.body.appendChild(script);
+    }
 </script>
 
 
         
-            <script type="text/javascript" src="/static/dist/jobs_blurb.f585313c4e056030.js"></script>
+            <script type="text/javascript" src="/static/dist/jobs_blurb.ae1b61fcbb887b49.js"></script>
         
 
 
         
-            <script type="text/javascript" src="/static/dist/common.a0aa90e2abb620a0.js"></script>
-            <script type="text/javascript" src="/static/dist/application.0e6c2587ce5bcbb6.js"></script>
+            <script type="text/javascript" src="/static/dist/common.46b902f3967ca355.js"></script>
+            <script type="text/javascript" src="/static/dist/application.683adbe4baa46524.js"></script>
         
 
         
@@ -1535,6 +1487,9 @@
 </div>
 
         
+
+        
+
 
         
             
