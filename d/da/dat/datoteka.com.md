@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datoteka.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129063230id_/http%3A//www.datoteka.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datoteka.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401031514id_/http%3A//www.datoteka.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
