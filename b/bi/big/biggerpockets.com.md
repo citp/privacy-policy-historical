@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228235544id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerpockets.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401112013id_/https%3A//www.biggerpockets.com/privacy) for the most accurate reproduction.*
 
 # BiggerPockets Privacy Policy
 
@@ -6,7 +6,7 @@
 
 _Effective Date: August 12, 2015 (Updated 8/12/15)_
 
-Thank you for using this service, which is owned and operated by BiggerPockets, Inc. (“BiggerPockets,” “we,” “us,” and “our”) owns and operates this website (this “Site”). This Online Privacy Policy (this “Policy”) describes the information we collect from or about you through the BiggerPockets-owned websites and mobile apps on which it is posted (collectively referred to as this "site"). It also describes how we use and share that information and some of the steps we take to protect your privacy. 
+Thank you for using this service, which is owned and operated by BiggerPockets, LLC. (“BiggerPockets,” “we,” “us,” and “our”) owns and operates this website (this “Site”). This Online Privacy Policy (this “Policy”) describes the information we collect from or about you through the BiggerPockets-owned websites and mobile apps on which it is posted (collectively referred to as this "site"). It also describes how we use and share that information and some of the steps we take to protect your privacy. 
 
 ### Scope of This Policy
 
