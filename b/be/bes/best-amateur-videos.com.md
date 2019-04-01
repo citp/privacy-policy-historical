@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029150827id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401111428id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
 
 # CCBill Consumer Privacy Policy
 
 ## Instructions
 
-CCBill, LLC ("CCBill") needs to gather and use certain information about individuals. This information can include customers, suppliers, business contact, employees and other people the organization has a relationship with or may need to contact. This policy describes how this personal data must be collected, handled and stored to meet the company’s data protection standards – and to comply with the law.
+CCBill, LLC ("CCBill") needs to gather and use certain information about individuals. This information can include customers, suppliers, business contacts, employees and other people the organization has a relationship with or may need to contact. This policy describes how this personal data must be collected, handled and stored to meet the company’s data protection standards – and to comply with the law.
 
 ## Why this Policy Exists
 
@@ -19,7 +19,7 @@ This data protection policy ensures CCBill:
 
 ## The General Data Protection Regulation
 
-The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC and was designed to harmonize data privacy laws across Europe, to protect and empower all EU citizens’ data privacy and to reshape the way organizations across the region approach data privacy. The GDPR aims primarily to give control back to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
+The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC and was designed to harmonize data privacy laws across Europe, to protect EU citizens’ data privacy and to reshape the way organizations across the world approach data privacy. The GDPR aims primarily to give control back to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
 
 ## What is "Personal Data"?
 
@@ -51,7 +51,7 @@ Being on our website does not automatically result in sharing data on these soci
 
 4\. Information Security
 
-CCBill cares to ensure the security of personal data.  When CCBill collects information about you, we also make sure that your information is protected from unauthorized access, loss, manipulation, falsification, destruction or unauthorized disclosure. This is done through appropriate technical measures.
+When CCBill collects information about you, we also make sure that your information is protected from unauthorized access, loss, manipulation, falsification, destruction or unauthorized disclosure. This is done through appropriate technical measures.
 
 5\. Access to Information
 
@@ -59,15 +59,15 @@ You have the right to request access to the information we have on you. You can 
 
 6\. Information Correction & Deletion
 
-If you believe that the information we have about you is incorrect, you are welcome to contact us so we can update it and keep your data accurate. Any data that is no longer needed for the purposes specified in Information Collection and Use will be deleted.
+If you believe that the information we have about you is incorrect, you are welcome to contact us so we can update it and keep your data accurate. Any data that is no longer needed for the purposes specified in Information Collection and Use or for any Regulatory Reporting purposes will be deleted.
 
-If at any point you wish for CCBill to delete information about you, you can simply contact us.
+If you have any queries about the personal data that CCBill stores, you can simply contact us at [dpo@ccbill.com](mailto:dpo@ccbill.com).
 
 7\. When this Privacy Policy applies
 
 This Privacy Policy is applicable to the services offered by CCBill directly via our website. Our website may contain links to other websites. Once redirected to another website, this Policy is no longer applicable.
 
-This version of the Privacy Policy is effective from February 2018.
+This version of the Privacy Policy is effective from January 2019.
 
 8\. Do We Share Personal Data?
 
@@ -97,7 +97,7 @@ CCBill may share your Personal Data (name, address and email) with unaffiliated 
 
 9\. Changes
 
-We reserve the right to change this Privacy Policy. We constantly review our Privacy Policy and strive towards making it better. CCBill will not reduce your rights stated in this Policy without asking for explicit prior consent to the changes. All changes to our Privacy Policy will be available on this website. You can access the previous versions of this Policy here.
+We reserve the right to change this Privacy Policy. We constantly review our Privacy Policy and strive towards making it better. CCBill will not reduce your rights stated in this Policy without asking for explicit prior consent to the changes. All changes to our Privacy Policy will be available on this website. You can access the previous versions of this Policy [here](https://www.ccbill.com/gdpr/gdpr_v1.html).
 
 10\. To Sum Up
 
