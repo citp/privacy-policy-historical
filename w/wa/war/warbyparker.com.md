@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828221833id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warbyparker.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402002057id_/https%3A//www.warbyparker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warby Parker
 
 ## Privacy Policy
 
-## Effective Date: June 29, 2018
+## Effective Date: November 5, 2018
 
 At Warby Parker, we’re all about helping you see things a little more clearly. And we believe that you have a right to know what information we collect from you and how we protect your privacy. So we’ve created this Privacy Policy to let you know what to expect when you interact with us. This Privacy Policy applies to your use of our retail locations, as well as any of our websites, website features, and mobile applications (each, an “App”) that contain a link to this Privacy Policy (together the retail locations, our websites, and Apps are referred to as the “Services”). 
 
@@ -68,7 +68,7 @@ When you make a purchase, we ask you to provide payment information, which may i
     *  _Prescription Check App._ When you use the Prescription Check App, we may collect information about your mobile device, such as IP address, device information, and unique device identifiers, and we may derive your approximate location from your IP address. When you permit the Prescription Check App to access your location through your mobile device settings, we may collect the precise location of your device when the Prescription Check App is running in the foreground or background. Your location information is necessary to confirm your location while using the Prescription Check App, so we can be sure that your results are reviewed by an Eye Doctor licensed in your state.
   *  **Information from cookies and other technologies.** Like most websites, our Services may incorporate technology such as “pixel tags”, “web beacons”, and “cookies” that allow us and our service providers to collect information about your actions on our Services. Our service providers may collect information about your online activities over time and across different online services. Cookies (not to be confused with the sugary morsel) are small files that web servers may place on your computer when you visit a website. You may be able to set your web browser to reject cookies entirely or require that it request permission from you before accepting each new cookie. You can also delete cookies from your web browser once you leave a website.
 
-  *  **Information from in-store technologies.** We may also collect information when you are visiting our stores. Like most retailers, we have in-store video cameras that, in addition to serving a security function, help us understand customer behavior within our physical spaces. Our service providers may also collect information about your mobile device from other tracking technologies while you are near or in our stores to help us better understand our customers and how they use our Services.
+  *  **Information from in-store technologies.** We may also collect information when you are visiting our stores. Like most retailers, we have in-store video surveillance for security, fraud, and loss prevention purposes. In addition, we analyze videos to help us understand customer behavior and retail traffic within our physical spaces. Our service providers may also collect information about your mobile device from other tracking technologies while you are near or in our stores to help us better understand our customers and how they use our Services.
 
 
 
@@ -97,7 +97,8 @@ When you make a purchase, we ask you to provide payment information, which may i
   * to measure your [pupillary distance](https://www.warbyparker.com/eyewear-a-z#p-pupillaryDistance) and [segment height](https://www.warbyparker.com/eyewear-a-z#s-segmentHeight), and to gather other optical information
   * to map and measure your facial features
   * to address certain problems or concerns you may have with your glasses 
-  * to help us better understand how our frames fit our customers
+  * to help better understand how our frames fit our customers and provide frame recommendations
+  * to provide, personalize, and improve our products and our Service
 
 
 
