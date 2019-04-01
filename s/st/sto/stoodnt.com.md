@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stoodnt.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129161030id_/https%3A//www.stoodnt.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoodnt.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401093506id_/https%3A//www.stoodnt.com/legal/privacy) for the most accurate reproduction.*
 
 # Stoodnt
 
