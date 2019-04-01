@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonpay.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231143432id_/https%3A//bonpay.com/legal/%231486565702096-6b8b2eb5-540a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonpay.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401122312id_/https%3A//bonpay.com/legal/%231486565702096-6b8b2eb5-540a) for the most accurate reproduction.*
 
 # Policies and Terms of Service - Bonpay - Bonpay
 
