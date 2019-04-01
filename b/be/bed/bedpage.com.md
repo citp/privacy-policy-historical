@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the bedpage.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202003524id_/http%3A//www.bedpage.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedpage.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401162543id_/https%3A//www.bedpage.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Alternative to bedpage | bedpage
-
-## Privacy
+# Privacy Policy - bedpage.com
 
 **Privacy Policy  
-Last Revised: _September 26, 2016_**  
+Last Revised: September 26, 2016**  
 bedpage.com and its affiliates (collectively, the "Site") respect your privacy. Listed here is our Privacy Policy for this Site:   
 **Acceptance of Privacy Policy**  
 Each time you access, use, post, submit a post or reply, or see the Site, you signify your acceptance of the then-current Privacy Policy. If you may not accept this Privacy Policy, you are not authorized to utilize the Site and must discontinue utilization of the Site immediately.   
@@ -13,14 +11,14 @@ Each time you access, use, post, submit a post or reply, or see the Site, you si
 We collect personal information regarding you when you engage in commerce transactions on the Site, utilize the Site's products or services, request information or materials, create or update account information, place orders or make purchases, communicate around, or visit the Site. The private information we collect and store about you might include without limitation your first and last name, current email address, credit or debit card number, telephone numbers, billing and shipping information, order history, and other non-public information regarding you.   
 We may use the information we collect to:
 
-  * Provide superior services;
-  * Stop you apprised of information and developments that you might find of interest;
-  * Alert one to new features, terms, content, products or services;
-  * Contact you relating to your posts, replies, and/or account information;
-  * Process and react to your inquires;
-  * Improve the Site;
-  * Administer, monitor and control utilization of the Site, including posts, replies, and account information; and
-  * Enforce the [Terms of Use](http://www.bedpage.com/TermsOfUse) (collectively, the "Activities").
+  1. Provide superior services;
+  2. Stop you apprised of information and developments that you might find of interest;
+  3. Alert one to new features, terms, content, products or services;
+  4. Contact you relating to your posts, replies, and/or account information;
+  5. Process and react to your inquires;
+  6. Improve the Site;
+  7. Administer, monitor and control utilization of the Site, including posts, replies, and account information; and
+  8. Enforce the [Terms of Use](https://www.bedpage.com/TermsOfUse) (collectively, the "Activities").
 
  
 
@@ -38,7 +36,7 @@ Advertisers and third parties also may collect information regarding your activi
 **Communication from the Site/Opt-Out**  
 From time to time, we might send you information with announcements and updates in regards to the Site and your account. You might elect to opt-out of ongoing e-mail communication from us, such as for instance newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. with a simple "opt out" procedure. You'll need only answer the communication with the phrase "unsubscribe" (without the quotation marks) within the body of your e-mail response and your name will be removed from that mailing list. However, in the event that you opt-out of receiving our announcements and updates about your account, you could no longer have use of areas restricted to account members.   
 **Correction/Update of Personal Information**   
-If your own personal information changes, you could review/correct/update your own personal information previously provided at any time by sending us a message at [support@bedpage.com](mailto:support@bedpage.com).You may also have your own personal profile data deleted from our database by sending us a message to [support@bedpage.com](mailto:support@bedpage.com).However, when you have your own personal profile data deleted from our database, you could forfeit entrance rights to areas restricted to account members and certain benefits for account members.   
+If your own personal information changes, you could review/correct/update your own personal information previously provided at any time by sending us a message at **support(@)bedpage.com**.You may also have your own personal profile data deleted from our database by sending us a message to **support(@)bedpage.com**.However, when you have your own personal profile data deleted from our database, you could forfeit entrance rights to areas restricted to account members and certain benefits for account members.   
 **Contact Us:**   
 Email: [Contact us](https://web.archive.org/Contact)   
 **Children**   
@@ -53,4 +51,4 @@ On our Site, you could have the chance to follow along with a link to other site
 The Privacy Policy might be revised from time to time as we add new features and services, as laws change, and as industry privacy and security best practices evolve. We display a highly effective date on top of the left corner of the Privacy Policy so that it is likely to be easier for you really to know when there has been a change. Accordingly, you should check the Privacy Policy on a regular basis for the most current privacy practices. Each time you access, use or look at Site, you signify your acceptance of the then-current changes to the Privacy Policy signing up to your personal information collected by us on and from the effective date of such changes.   
 Any changes in the Privacy Policy can take effect upon posting and apply simply to information collected from you on and after Last Revised date, unless we provide notice or have other communications with you.   
 **More Questions?**   
-When you yourself have any questions about this Privacy Policy, e-mail them to [abuse@bedpage.com](mailto:abuse@backpage.com), and make sure to indicate the precise site you're visiting and the type of one's question or concern. 
+When you yourself have any questions about this Privacy Policy, e-mail them to **abuse(@)bedpage.com** , and make sure to indicate the precise site you're visiting and the type of one's question or concern. 
