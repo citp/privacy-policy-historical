@@ -1,104 +1,215 @@
-> *The following text is extracted and transformed from the davidsonmorris.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032152id_/http%3A//www.davidsonmorris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsonmorris.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401102320id_/https%3A//www.davidsonmorris.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - DavidsonMorris - Immigration Solicitors
+# Privacy Notice - DavidsonMorris - Immigration Solicitors
 
-DavidsonMorris’s privacy policy is as follows:
+DavidsonMorris is committed to protecting your privacy. We take our responsibilities for the security of your personal data seriously.
 
-**Privacy**
+This Notice (together with our terms of use and any other documents referred to within) explains the personal data we collect about you, how and why we use it, who we disclose it to, and how we protect your privacy. This notice does not form part of our client agreement with you.
 
-We are committed to protecting and respecting your privacy.
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-This policy (together with our terms of use and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+ **1\. Who is responsible for your personal data**  
+For the purpose of the Data Protection Act 1998 (the “Act”), EU General Data Protection Regulation (“GDPR”), PCI-DSS, and European data protection legislation, the data controller is DavidsonMorris. We control the ways your personal data are collected and the purposes for which your personal data are used by DavidsonMorris.
 
-For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is DavidsonMorris Ltd of 33 Queen Street, London, EC4R 1AP.
+Our Privacy Notice applies to the personal data that DavidsonMorris collects and uses.
 
-**Information we may collect from you**
+References in this Privacy Notice to DavidsonMorris, “we”, “us” or “our” mean DavidsonMorris Limited, a company registered in England and Wales under company number 6183275 and whose registered office is at The News Building 3 London Bridge Street London SE1 9SG.
 
-We may collect and process the following data about you:
+ **2\. Purpose and lawful basis for processing your data**  
+We process your personal data for the following purposes:
 
-Information that you provide by filling in forms on our site at www.davidsonmorris.com ( **our site** ).  This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site;
+1\. To carry out our obligations arising from any contracts entered into between you and us.  
+2\. To comply with legal and regulatory obligations.  
+3\. For the establishment, exercise or defence of legal claims or proceedings.  
+4\. For legitimate business purposes:  
+a. To ensure that content from www.davidsonmorris.com (“our website”) is presented in the most effective manner for you and for your device.  
+b. To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.  
+c. To allow you to participate in interactive features of our service, when you choose to do so.  
+d. To notify you about changes to our service.
 
-If you contact us, we may keep a record of that correspondence;
+These purposes allow DavidsonMorris to seek your consent to process your data for communication, education and marketing purposes (GDPR 1).
 
-We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them; and
+Without your explicit consent, DavidsonMorris will not process your data for these purposes.
 
-Details of your visits to our site including, but not limited to, traffic data, location data, and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+The purpose and lawful basis for processing your data may change from time to time, where this Notice will be updated.
 
-**IP addresses and Cookies**
+ **3\. Consent**  
+Your consent will be an explicit action from 25th May 2018.
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+Because of the need for consent we will not use defaulted opt-in checkboxes or include your personal data for communication and marketing purposes where you have asked only for communications relating to service delivery or in the performance of contractual obligations.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer.  Cookies contain information that is transferred to your computer’s hard drive.  They help us to improve our site and to deliver a better and more personalised service. They enable us to:
+The length of time we retain your personal data will depend on any legal obligations we have, the nature of any contracts we have in place with you, the existence of your consent or our legitimate interests as a business.
 
-  * Estimate our audience size and usage pattern;
+We will retain your personal data for as long as we need it in order to fulfil our purposes as set out in this Privacy Notice or in order to comply with the law.
 
+We will not contact you if you have withdrawn consent, but you can grant or withdraw your consent at any time by [contacting us](https://www.davidsonmorris.com/contact-us/).
 
-  * Store information about your preferences, and so allow us to customise our site according to your individual interests;
+We will also include the opportunity to unsubscribe or withdraw consent on all marketing emails.
 
+ **4\. Personal data we collect about you**  
+When using the term “personal data” in our Privacy Notice, we mean information that relates to you and allows us to identify you, either directly or in combination with other information that we may hold.
 
-  * Speed up your searches; and
+We collect some personal data from you, for example when you use our website, or use our services or contact us. We may collect and process the following categories of information about you:
 
+a) Name and surname and your contact details (email address, telephone number and postal address): When you purchase our services or enquire about our services  
+b) Personal information which may include special categories of data: Provided to us or generated by us in the course or providing services to you:
 
-  * Recognise you when you return to our site.
+I. Date of birth, gender and/or age, your nationality and/or citizenship status  
+II. National Insurance number  
+III. Bank account details and tax status information  
+IV. Copies of passports and visas  
+V. Photographs  
+VI. Client engagement information  
+VII. Career history including work/engagement/project/employment records, project details, job titles, work history, working hours, holidays, training records and professional memberships  
+VIII. Details of the professional projects/engagements you are or have been involved in  
+IX. Health information including mental health  
+X. Details of your assets and beneficiaries  
+XI. Your marital status, family, lifestyle or social circumstances and other affairs, if relevant to the business relationship  
+XII. Information about criminal convictions or offences
 
+c) Identification and background information: Provided by you or collected as part of our business acceptance processes.  
+d) Information about your transactions, including your payment details: When you make payment for our services.  
+e) The communications you exchange with us: When you contact DavidsonMorris or you are contacted by us.  
+f) Technical information, such as information from your visits to our website or in relation to materials and communications we send to you electronically: When you navigate on our website or interact with our communications.  
+g) Information you provide to us for the purposes of attending meetings and events, including access and dietary requirements: When you register to attend our events  
+h) Your social media account ID: When you interact with us on social media or when we target social media posts.  
+i) Your posts and messages on social media directed to us: When you interact with us on social media.  
+j) Your feedback: When you reply to our requests for feedback or participate in our client surveys.  
+k) Any other information relating to you which you may provide to us.
 
+ _ **Change of purpose**_  
+We will only use your personal data for those situations listed above, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+Please note that we may process your personal data without your knowledge or consent, where this is required or permitted by law.
 
-To view details on how to restrict the use of cookies please visit our cookies information page
+ _ **Sensitive personal data**  
+_ Information that could reveal your racial or ethnic origin, physical or mental health, religious beliefs or alleged commission or conviction of criminal offences is considered “sensitive personal data” under the UK Data Protection Act 1998 and other data protection laws, which we do not collect via our website.
 
-**Where we store your personal data**
+ **5\. How and why we use your personal data**  
+We use your personal data for the following purposes:
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”).  In particular, if necessary, we may pass your information between our offices in the UK and our business partners in Europe.  The Data we collect may therefore be processed by staff operating outside the EEA who work for us.  By submitting your personal data, you agree to this transfer, storing or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+ **a) To perform our services**  
+We use your information to perform our services in relation to your instruction or enquiry:  
+I. To make a decision about whether we take you on as a client  
+II. Determining the terms of our client agreement with you  
+III. Keeping you up to date and reporting to you  
+IV. To advise you  
+V. To create a client profile on our database  
+VI. Making arrangements for the termination of any client relationship
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site you are responsible for keeping this password confidential.  We ask you not to share a password with anyone.
+ **b) To communicate with you and manage our relationship with you**  
+We will need to contact you by email and/or telephone in the course of delivering our service to meet our contractual obligations. We may also need to contact you for administrative or operational reasons.
 
-Unfortunately, the transmission of information via the internet is not completely secure.  Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.  Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+Please be aware that these communications are not made for marketing purposes and as such, you will continue to receive them even if you opt-out from receiving marketing communications.
 
-**Uses made of the information**
+We may also use your personal data if we contact you after you have sent us a request, filled in a web-form through our website or contacted us on social media.
 
-We use information held about you in the following ways:
+Your opinion is very important to us, so we may send you an email to seek your feedback.
 
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer;
+We will use the communications you exchange with us and the feedback you may provide in order to manage our relationship with you as our client and to improve our services and experiences for clients.
 
+ **c) To personalise and improve your customer experience  
+**We may use your personal data in order to tailor our services to your needs and preferences and to provide you with a personalised client experience.
 
-  * To provide you with information or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
+We may also collect information on how you use our website, which pages of our website you visit most, which services you search for to understand what you like. We may use this information to tailor the content and offers that you see on our website and, if you have agreed to receiving marketing communications, to send you relevant messages that we think you will like.
 
+ **d) To inform you about our news and offers that you may like   **  
+We may send you marketing communications, if you have indicated that you are happy to receive these and you explicitly agree to receive such communications. You can also request us to send you marketing communications through managing your preferences in your account.
 
-  * To carry out our obligations arising from any contracts entered into between you and us;
+If you are happy to receive marketing communications, we will provide you with news from us such as new products that you may be interested in or services that you may like.
 
+Please note that we do not share your contact details and other personal data with other companies for marketing purposes, unless we have obtained your consent to do so.
 
-  * To allow you to participate in interactive features of our service, when you choose to do so; and
+If you do not want to receive marketing communications from us, you can simply tell us so by clicking the relevant box on our preference form.
 
+You can also choose to opt out from receiving marketing communications at any time, by clicking on the relevant unsubscribe link at the bottom of any marketing related email you may receive from us.
 
-  * To notify you about changes to our service.
+If you prefer, you can express your preference to not receive marketing communications by emailing us, info@davidsonmorris.com, calling us (020 7494 0118) or by using our website [contact form](https://www.davidsonmorris.com/contact-us/). We ask that you allow 28 working days to complete any unsubscribe request.
 
+ **e) To improve our services, fulfil our administrative purposes and protect our business interests  **  
+The business purposes for which we will use your information include accounting, billing and audit, credit or other payment card verification, fraud screening, security and legal purposes, statistical and marketing analysis, systems testing, maintenance and development such as:
 
+I. Business management and planning  
+II. Dealing with legal disputes involving you and/or our employees  
+III. Updating client records  
+IV. To monitor and keep records of our communications with you and our staff  
+V. For market research and analysis and developing statistics
 
-**Disclosure of your information**
+ **f) To comply with our legal obligations**  
+For example, our obligations for accounting and auditing of our business to comply with any obligations under employment law and to provide your information to local police agencies.
 
-We may disclose your personal information to third parties:
+ **6\. How long do we retain personal data for?**  
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-  * In the event that we sell, buy or merge any business or assets, in which case we may disclose your personal data to the prospective seller, buyer or owner of such business or assets;
+In some circumstances we may anonymise your personal data so that it can no longer be associated with you, in which case we may use such information without further notice to you.
 
+Once you are no longer a client, we will retain your personal data in accordance with our data retention policy and applicable laws and regulations.
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements or to protect the rights, property, or safety of, our clients, or others.  This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+ **7\. Requesting access to your data**  
+You have a right to request access to the personal data that we hold about you. This could include information relating to service purchases.
 
+If you have questions in relation to your personal data, please [contact us](https://www.davidsonmorris.com/contact-us/).
 
+ **8\. Your Right to be Forgotten**  
+You have a right to be forgotten and have data erased and / or stop being processed where the personal data is no longer necessary for the purpose of collection, you withdraw consent, when you object to the processing or to comply with a legal obligation.
 
-**Links with other websites**
+We will not erase your records as we need to maintain your transactional data for our legal obligations to the local tax and revenue authorities. The records will be anonymised to overwrite your personal data with fictional names, addresses and emails, making it impossible to restore a single client.
 
-Our site may, from time to time, contain links to and from third parties’ websites.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+We have a number of security and governance protections in place that will be excluded from your right to be forgotten:
 
-**Your rights to access personal information**
+• Encrypted system backups, held for up to 10 years.  
+• Our anti-spam and email gateway. We maintain email archiving for security reasons, and your info may be kept in this archive. Access to this gateway is limited to named data controllers for DavidsonMorris.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.  Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you.
+If you have questions in relation to your personal data, please [contact us](https://www.davidsonmorris.com/contact-us/).
 
-**Changes to our privacy policy**
+ **9\. Right to restrict processing**  
+You have a right for your personal data to be stored but not processed. This is achieved through the withdrawal of consent.
 
-Any changes we make to our privacy policy in the future will be posted on this page, you should check the policy each time you access our site.
+If you have questions in relation to your personal data, please [contact us](https://www.davidsonmorris.com/contact-us/).
 
-**Contact** **  
-**
+ **10\. Security of your personal data**  
+We are committed to taking appropriate technical and organisational measures to protect your personal data against unauthorised or unlawful processing and against accidental loss, destruction or damage to personal data. When you provide your personal data through our website or systems, this information is transmitted across the internet securely using high-grade encryption.
 
-Please contact us if you have any questions, comments or requests regarding
+The information that you provide to us will be held in our systems, which are located on our premises or those of an appointed third party. We may also allow access to your information by other third parties who act for us for the purposes described in this Privacy Notice or for other purposes approved by you.
+
+We are based in the UK, but the data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA“). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+We will retain your personal data for as long as we need it in order to fulfil our purposes set out in this Privacy Notice or in order to comply with the law.
+
+ **11\. Cookies and other tracking technologies**  
+In order to improve our services, to provide you with more relevant content and to analyse how visitors use our website, we may use technologies, such as cookies or tracking software. Please be aware that in most cases we will not be able to identify you from the information we collect using these technologies.
+
+You can delete cookies if you wish; while certain cookies are necessary for viewing and navigating on our website, most of the features will be still accessible without cookies. For more information on how we use cookies and how you can remove them, read our Cookies Notice.
+
+ **12\. Sharing your personal data**  
+We may share your personal information with certain trusted third parties in accordance with contractual arrangements in place with them, including:
+
+• Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006  
+• Our professional advisers and auditors  
+• Suppliers to whom we outsource certain support services such as word processing, translation, photocopying and document review  
+• IT service providers  
+• Third parties engaged in the course of the services we provide to clients and with their prior consent  
+• Third parties involved in hosting or organising events or seminars
+
+Where necessary, or for the reasons set out in this Notice, personal information may also be shared with regulatory authorities, courts, tribunals, government agencies and law enforcement agencies.  While it is unlikely, we may be required to disclose your information to comply with legal or regulatory requirements. We will use reasonable endeavours to notify you before we do this, unless we are legally restricted from doing so.
+
+We may disclose your personal information to third parties in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets, and if DavidsonMorris Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+
+DavidsonMorris may use social media sites such as Facebook, LinkedIn and Twitter.  If you use these services, you should review their privacy Notice for more information on how they deal with your personal information.
+
+We do not sell, rent or otherwise make personal information commercially available to any third party, except with your prior permission.
+
+Through our website we provide links to third party websites which are subject to separate Privacy Polices. Please be aware that this Privacy Notice does not apply to such websites and DavidsonMorris is not responsible for your information that third parties may collect through these websites.
+
+ **13\. Data Protection Officer**  
+We have not appointed a DPO to oversee compliance with this Privacy Notice. If you have any questions about this Privacy Notice or how we handle your personal data, please contact your usual contact at our office. You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues.
+
+ **14\. Updates to our privacy notice**  
+We may make changes to this Privacy Notice from time to time. We will publish on our website any new version of this Notice.
+
+ **15\. Contact information**  
+Please [contact us](https://www.davidsonmorris.com/contact-us/) with any questions, comments and requests regarding this Privacy Notice.
