@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918000040id_/https%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401200843id_/https%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
 
-# 
+# Devex Privacy Statement – Devex
 
 This is the official privacy statement that applies to Devex. Devex will hereafter be referred to as "Company", "we", "us", or "our". We take your privacy seriously and are committed to keeping our users’ information safe.
 
-Devex complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Devex has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Devex’s certification, please visit <http://www.export.gov/safeharbor/>.
+Devex complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Devex has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Devex’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 **Information Collected**
 
@@ -34,12 +34,12 @@ You can log in to our site using sign-in services such as Facebook Connect or Li
 
 **Cookies**
 
-We use ‘cookie’ technology to collect data regarding your visits to our website. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: 
+We use ‘cookie’ technology to collect data regarding your visits to our website. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including:
 
   * Keeping count of your return visits to our or our advertisers’ or partners’ websites
   * Accumulating and reporting aggregate, statistical information in connection with the Company
-  * Determining which features users and registered users like best and 
-  * Saving your user identification or other information so you don’t have to re-enter it each time you visit the website. 
+  * Determining which features users and registered users like best and
+  * Saving your user identification or other information so you don’t have to re-enter it each time you visit the website.
 
 
 
@@ -69,7 +69,7 @@ We will make your personally identifiable information available to other compani
   * We hire third-party vendors to provide specialized services such as customer support; e-mail message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your personally identifiable information to these companies for their own, permanent use.
   * You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that third party’s list of people to whom they may not send e-mails.
   * When required by law, such as when we respond to subpoenas, court orders, or legal process.
-  * We believe that your actions violate applicable laws, our Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others. 
+  * We believe that your actions violate applicable laws, our Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
   * In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our affiliates.
 
 
@@ -84,7 +84,7 @@ We provide you with the option of posting your personal profile including your s
 
 **Opt-in and Opt-out**
 
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view certain content and use certain services offered by our website without registering. We also give users the following options 
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view certain content and use certain services offered by our website without registering. We also give users the following options
 
   * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us and
   * Opting not to provide certain personal information when registering for a website, provided, however, that you may not be able to use some of our services without providing us with certain information.
@@ -93,15 +93,15 @@ Users who would rather not provide any of the user data requested by our registr
 
 **Updating Personal Profile Information**
 
-We allow you to change, correct or remove from public view your personal profile at any time. To do so, simply log into your Devex.com account, go to your account profile, and select the options for editing the information you have submitted. 
+We allow you to change, correct or remove from public view your personal profile at any time. To do so, simply log into your Devex.com account, go to your account profile, and select the options for editing the information you have submitted.
 
-We will respond to your request to access within 5-10 business days. 
+We will respond to your request to access within 5-10 business days.
 
 **Use of Subscriber Names for Promotional Marketing**
 
-Devex promotes its services, in part, by listing and posting subscribers' PII on the website and promotional materials. Such listing does not constitute an endorsement of any companies’ business, services or experience, and is limited to general information purposes only. 
+Devex promotes its services, in part, by listing and posting subscribers' PII on the website and promotional materials. Such listing does not constitute an endorsement of any companies’ business, services or experience, and is limited to general information purposes only.
 
-We do obtain the subscribers consent via email prior to posting the testimonial to post their name along with their testimonial. 
+We do obtain the subscribers consent via email prior to posting the testimonial to post their name along with their testimonial.
 
 **Security Policy**
 
@@ -111,16 +111,20 @@ When you enter sensitive information (such as a credit card number) on our order
 
 We also limit access to the website by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.
 
+[**General Data Protection Regulation (GDPR) Compliance**](https://web.archive.org/hc/en-us/articles/360003292934-General-Data-Protection-Regulation-GDPR-)
+
+At Devex, we take your data protection seriously and we have taken measures to ensure we are GDPR compliant. To learn more, please visit this page: [Click Here](https://bit.ly/2TbXO8W)
+
 **Privacy Policy Changes**
 
-Devex is committed to ensuring the most secure and private operating environment for all users of the Company’s website. We will post any amendments or revisions of our privacy policy here so that you will always know what information we gather, how we might use that information, and how we protect you and your organization’s privacy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+Devex is committed to ensuring the most secure and private operating environment for all users of the Company’s website. We will post any amendments or revisions of our privacy policy here so that you will always know what information we gather, how we might use that information, and how we protect you and your organization’s privacy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-If at any time you have questions or concerns about our privacy policy please feel free to email us at [info@devex.com](mailto:info@devex.com) or call +1 202.249.9222 to speak to one of our representatives. 
+If at any time you have questions or concerns about our privacy policy please feel free to email us at [info@devex.com](mailto:info@devex.com) or call +1 202.249.9222 to speak to one of our representatives.
 
-Thank you for using our services. We’ll keep working hard to earn your business, and your loyalty. 
+Thank you for using our services. We’ll keep working hard to earn your business, and your loyalty.
 
-This privacy statement was last modified on December 3, 2014 and is effective immediately. 
+This privacy statement was last modified on December 3, 2014 and is effective immediately. 
 
-Devex   
-Corporate Headquarters: 1341 Connecticut Avenue, NW Washington, DC 20036 USA   
+Devex   
+Corporate Headquarters: 1341 Connecticut Avenue, NW Washington, DC 20036 USA   
 +1 (202) 249-9222
