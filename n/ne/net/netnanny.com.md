@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129170538id_/https%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401020554id_/https%3A//www.netnanny.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Net Nanny
 
