@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928030140id_/https%3A//www.nec.com/en/global/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401061418id_/https%3A//www.nec.com/en/global/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | NEC
 
-Last Updated: September 18, 2018  
+Last Updated: February 21, 2019  
 NEC Corporation
 
 NEC believes that data privacy and protection are important issues.
@@ -37,8 +37,8 @@ Overseas Transfer of the Personal Data
 
 NEC manages and operates this inquiry site in Japan.
 
-  * Your personal data will be sent to Japan and/or Singapore upon your visit.
-  * The European Commission does not recognize Japan as providing adequate protection of personal data.
+  * Your personal data will be sent to Japan when you agree to the submission of personal data entered into forms such as for contacts and inquiries.
+  * As of January 23rd, 2019, Japan has been recognized by the European Commission as providing adequate protection of personal data.
   * NEC manages the personal data with which it is entrusted through the appropriate implementation of security measures such as access identification and authentication, restrictions on access, authority management, record-keeping, protection against illegal software, and safe procedures for transferring and transmitting data.
 
 
@@ -74,7 +74,7 @@ Non-existence of Decision-making Based Solely on Automated Processing
 
 The access log for this website undergoes analysis, however, we do not make decisions that might affect you based solely on automated processing of the personal data that you provide, including profiling, in order to analyze or predict your likes and dislikes or personal behavior.
 
-If you are under the age of 16, please make your visit ONLY AFTER obtaining consent given or authorized by the holder of parental responsibility over you.
+If you are under the age of 16, please make sure you provide your personal data to NEC ONLY AFTER obtaining consent given or authorized by the holder of parental responsibility over you.
 
 Security of Processing the Personal Data
 
@@ -107,10 +107,15 @@ On NEC's Websites, there are pages where a tool is generally used to perform sta
 ## About our privacy practices
 
   1. NEC obtains, uses and provides personal information properly based on Japanese Industrial Standard's "Personal Information Protection Management Systems - Requirements (JISQ 15001:2006)". NEC assigns a person in charge of protecting personal information at each of its relevant divisions, taking account of its organizational structure. Among other things, NEC takes appropriate measures not to handle personal information other than for the specified purposes.
+
   2. NEC abides by the laws, regulations and guidelines of Japan pertaining to the protection of personal information.
+
   3. NEC makes efforts to implement, through the adoption of necessary and appropriate security measures, the security control of personal information handled by NEC, including protection from disclosure, loss or damage.
+
   4. NEC appropriately responds to complaints and requests for consultation with respect to NEC's handling of personal information and its personal information protection management system. Please contact the designated person or place for inquiries.
+
   5. NEC makes efforts to continuously improve its personal information protection management system, including this policy.
+
 
 
 
