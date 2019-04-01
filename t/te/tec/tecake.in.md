@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecake.in privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226194727id_/https%3A//tecake.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecake.in privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401110012id_/https%3A//tecake.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
