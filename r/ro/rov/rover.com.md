@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231183630id_/https%3A//www.rover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401161202id_/https%3A//www.rover.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rover.com Dog Boarding
 
@@ -105,7 +105,7 @@ We retain information for as long as necessary to provide the products and fulfi
 
 ##### Account Information
 
-You may request to update, correct or delete information about you at any time by logging into your online account. If you cannot do so from your account, you may visit our [US Help Center](https://support.rover.com/) or our [UK Help Center](https://support-uk.rover.com/), or call us at 1-888-453-7889 (U.S.) or +44 808 281 2524 (U.K.). If you wish to deactivate your account, please call us at 1-888-453-7889 (U.S) or +44 808 281 2524 (U.K.). We may decline requests that are unreasonable, excessive, prohibited by law, could adversely affect the privacy or other rights of another person, where we are unable to authenticate you as the person to whom the information relates, or are not required to be honored by applicable law. We may also retain cached or archived copies of information about you for a certain period of time. 
+You may request to update, correct or delete information about you at any time by logging into your online account. If you cannot do so from your account, you may visit our [US Help Center](https://support.rover.com/) or our [UK Help Center](https://support-uk.rover.com/), or call us at 1-888-453-7889 (U.S.) or +44-8082-812524 (U.K.). If you wish to deactivate your account, please call us at 1-888-453-7889 (U.S) or +44-8082-812524 (U.K.). We may decline requests that are unreasonable, excessive, prohibited by law, could adversely affect the privacy or other rights of another person, where we are unable to authenticate you as the person to whom the information relates, or are not required to be honored by applicable law. We may also retain cached or archived copies of information about you for a certain period of time. 
 
 ##### Location Information
 
@@ -139,7 +139,7 @@ If the processing of information about you is subject to European Union data pro
 
 If you have any questions, concerns, or complaints about this Privacy Statement,please contact us: 
 
-  * By phone: 1-888-453-7889 (U.S.) or +44 808 281 2524 (U.K.) 
+  * By phone: 1-888-453-7889 (U.S.) or +44-8082-812524 (U.K.) 
   * By e-mail: [privacy@rover.com](mailto:privacy@rover.com)
   * By mail: 2101 4th Avenue, Suite 400, Attn: Privacy, Seattle, WA 98121, U.S.A. 
 
