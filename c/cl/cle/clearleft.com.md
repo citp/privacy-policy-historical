@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearleft.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218151546id_/https%3A//clearleft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearleft.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401150622id_/https%3A//clearleft.com/privacy) for the most accurate reproduction.*
 
 # Strategic Design & Innovation Consultancy | Clearleft
 
