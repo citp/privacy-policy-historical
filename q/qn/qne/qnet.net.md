@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624211547id_/http%3A//www.qnet.net/en/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401140324id_/https%3A//www.qnet.net/en/footer/privacy_policy) for the most accurate reproduction.*
 
 # QNET Direct Selling Company | Privacy Policy
 
@@ -8,8 +8,6 @@
 **  
 Effective:  18 January 2018   
 Updated: January 2018**
-
-**
 
 **
 
@@ -69,11 +67,11 @@ The use of third party cookies is not covered by our privacy statement.
 
 We employ or our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the full stop at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-  ** _Tracking Technologies_**
+**Tracking Technologies**
 
 Qnet and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-We partner with a third party to [display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [ **here**](http://preferences-mgr.truste.com/) (http://preferences-mgr.truste.com/) [or if located in the European Union click [**here**](http://www.youronlinechoices.eu/) (http://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
+We partner with a third party to [display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [ here](http://preferences-mgr.truste.com/) (http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/) (http://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
 
 **Mobile Analytics**
 
@@ -118,5 +116,3 @@ Units G-L, 21/F, MG Tower
 **Fax:**  +852 2802 0981
 
 **Email:  ** [global.support@qnet.net](mailto:global.support@qnet.net)
-
-**
