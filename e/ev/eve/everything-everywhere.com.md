@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the everything-everywhere.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105909id_/https%3A//everything-everywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everything-everywhere.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401090300id_/https%3A//everything-everywhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Last Updated on April 15, 2018
 
 Everything Everywhere believes very strongly in keeping your personal information confidential. The following policy describes what information we collect and how it is used and shared.
 
