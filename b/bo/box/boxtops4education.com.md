@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022070111id_/https%3A//www.boxtops4education.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401135657id_/https%3A//www.boxtops4education.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - boxtops4education
 
