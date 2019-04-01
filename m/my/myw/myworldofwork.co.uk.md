@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myworldofwork.co.uk privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021045154id_/https%3A//www.myworldofwork.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myworldofwork.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401160735id_/https%3A//www.myworldofwork.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | My World of Work
 
@@ -46,6 +46,7 @@ We use your data to undertake a number of activities:
   * for all other purposes consistent with the proper performance of our operations and business
   * to contact you for your views on our services.
   * provide you with effective careers advice
+  * If you have made use of the Skillsbuilder tool through the My World of Work younger offer, your teacher will have access to the data contained within the activity sheets and any content you have uploaded as evidence of your skill(s). This is so you can keep a record of the skills activities you were working on and discuss these with your teacher.
 
 
 
