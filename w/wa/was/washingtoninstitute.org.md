@@ -1,24 +1,55 @@
-> *The following text is extracted and transformed from the washingtoninstitute.org privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921080016id_/https%3A//www.washingtoninstitute.org/support/donor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtoninstitute.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401103334id_/https%3A//www.washingtoninstitute.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Donor Privacy Policy - The Washington Institute for Near East Policy
+# Privacy Policy - The Washington Institute for Near East Policy
 
-  
-This site is owned and operated by The Washington Institute for Near East Policy. The Institute holds the privacy of its users and donors in the utmost respect. Because we gather certain types of personal information, we feel you should have full access to the terms and conditions surrounding its capture and use, which is disclosed by this privacy statement.
+###  1\. General Policy
 
-We collect personal data through our email subscription, event registration, and online donation services. We only collect this information when users submit it voluntarily. If a user prefers not to submit such information online, they may contact The Washington Institute to determine an appropriate offline channel to transmit this information.
+The policy of the Washington Institute for Near East Policy (the “Institute”) is to respect and protect the privacy of our users. To fulfill this policy, the Institute agrees to exercise reasonable precautions to maintain the confidentiality of information provided by you in connection with accessing and using this website (the “Site”) or otherwise provided by you to the Institute. The Institute also agrees to post prominently and in plain language its specific privacy policies. The Institute does not collect personal information about individuals except when specifically and knowingly provided by such individuals and does not share personal information with any third parties except in the limited circumstances described in this Privacy Policy. 
 
-**Under no circumstances does The Washington Institute divulge—sell, trade, or share—any information about an individual user or donor to a third party or send donor mailings on behalf of other organizations.**
+###  2\. Collection and Use of Personal Information
 
-From these services, we may collect your first name, last name, and email address, company, position, secondary email address, address, city, state, zip code, and phone numbers (home, work, or mobile). We may collect event-specific information pertaining to your attendance, meal preferences, and guests. We may collect the name and email of a spouse, contributor, or foundation that you provide to receive recognition for a gift. When you contribute online, we ask that you verify your status as a U.S. citizen or representative of a U.S. entity to ensure that the Institute’s fundraising practices support our dedication to promoting American interests.
+The Institute uses the Site to share scholarship concerning U.S. interests in the Middle East with U.S. policymakers and members of the U.S. public, to provide a means for individuals to register to attend events, to raise funds to support its activities from U.S. citizens, and to otherwise promote its events and other services to U.S. citizens.
 
-All the above information is collected to help us tailor our content and personalize your experience. We may use this information to send you Institute emails or mailings, updates on our programs, and scholar activities. You may opt-out of these communications at any time.
+To access certain portions of the site, you may be asked to provide personal information such as name, address, e-mail address, telephone number, and employment information. We may also collect event-specific information pertaining to your attendance, meal preferences, and guests. We may collect the name and email of a spouse, contributor, or foundation that you provide to receive recognition for a gift.  And when you contribute online, we ask that you verify your status as a U.S. citizen or representative of a U.S. entity in order to comply with the Institute’s fundraising rules, which support our mission of promoting American interests. 
 
-If you submit payment for an event through [Cvent ](http://cvent.com/)(our online event registration software) or donate online using the form powered by [Wufoo](http://wufoo.com/) (online form builder), we also collect payment information, credit card numbers, and billing addresses. This information is collected to process your payment and is not stored by the Institute.
+All of the above information is collected to help us tailor our content and personalize your experience. We may use this information to send you Institute emails or mailings, updates on our programs, and scholarly activities, and we may share your personal information with third-party vendors as necessary for such activities. Such vendors are contractually prohibited from using or sharing your personal data for any other purpose. [You may opt-out of communications](https://www.washingtoninstitute.org/unsubscribe) from the Institute at any time. 
 
-The Washington Institute does not knowingly collect information from children. If we request this information in the future, we will notify you in advance, and you may provide this information only if you so elect to do so.
+If you submit payment for an event through our online event registration software or donate online using the form provided, we also collect payment information, credit card numbers, and billing addresses.
 
-See our Web Privacy and Use Policy for details on information collected during web browsing and site terms of use.
+In addition to your personal information, the Institute may also collect standard Web server traffic pattern information generated by your use of the Site. General traffic, site usage, and length-of-stay information may be collected and stored in log files for the purpose of improving the user experience. This type of information is shared externally only on an aggregated basis.
 
-##  Security and Enforcement
+By using and submitting information through the Site, you consent to the Institute’s processing of your personal data in a manner consistent with this Privacy Policy.
 
-The Washington Institute protects your personal information from loss, misuse, alteration, or unauthorized disclosure by encrypting the data which you provide us with current encryption tools, including HTTPS (Hyper Text Transfer Protocol Secure) and SSL (Secure Socket Layer) protocols and by requiring employees with access to personal data to comply with our privacy policy. We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+###  3\. Additional Disclosure to Protect People or Property or As Required by Law.
+
+In addition to the disclosures otherwise permitted by this privacy policy, the Institute may disclose personal information if we have a good-faith belief that doing so is required by a subpoena or other judicial or administrative order or otherwise required by law. Additionally, the Institute may disclose personal information where we, in good faith, deem it appropriate or necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of the Institute, any individual, or the general public; maintain and protect the security and integrity of our services or infrastructure; protect ourselves and our services from fraudulent, abusive, or unlawful uses; investigate and defend ourselves against third-party claims or allegations; or assist government enforcement agencies.
+
+###  4\. Cookies
+
+Visitors should be aware that non-personal information and data may be automatically collected on the Site through the use of “cookies.” Cookies are small text files stored as text on a computer hard drive. Web sites can use cookies to recognize repeat visitors, facilitate the visitor's ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. The Institute uses cookie technology to improve visitors’ online experience and facilitate their visit within our site.
+
+If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. You can choose to prevent the Institute from establishing a unique user-ID. We recommend that you visit any of the commonly available [Cookie FAQs](https://us.norton.com/internetsecurity-how-to-what-are-cookies.html) on the Internet to learn more about this.
+
+We use a tool called “Google Analytics” to collect information about use of the Site. Google Analytics collects information such as how often users visit the Site, what pages they visit when they do so, and what other sites they used prior to coming to the Site. We use the information we get from Google Analytics only to improve the Site. Google Analytics collects only the IP address assigned to you on the date you visit these sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personal information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit a site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to our sites by disabling cookies on your browser.
+
+###  5\. Links
+
+This Site contains links to websites maintained by other individuals and organizations. The Institute is not responsible for the privacy practices or the content on any of these other web sites. Note also that the linked sites may collect personal information from you when you link to their site and that this collecting of information is not subject to the control of the Institute. To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from this Site.
+
+###  6\. Our Commitment to Children's Privacy
+
+Protecting the privacy of the very young is especially important. We never collect or maintain information at the Site from persons we know to be under age 13, and no part of our Site is designed to attract anyone under age 13. Please do not communicate with or contact us if you are under age 13.
+
+Any person who provides Personal Information through this Site represents to us that he or she is 13 years of age or older. If the Institute learns that Personal Information has been collected from a user under 13 years of age on or through this site, then we will take the appropriate steps to cause this information to be deleted.
+
+###  7\. Updating Your Information and Unsubscribing
+
+You may always opt out of receiving communications from us by [unsubscribing ](https://www.washingtoninstitute.org/unsubscribe)from our messages. Donors wishing to update their contact information may do so by sending their new contact information to [](mailto:development@washingtoninstitute.or?subject=Updating%20Donor%20Contact%20Information)[development@washingtoninstitute.or](mailto:development@washingtoninstitute.or)g. All other requests of individuals to update their contact information, or any other queries about this privacy policy, should be directed to [](mailto:press@washingtoninstitute.org?subject=Updating%20Contact%20Information)[press@washingtoninstitute.org](mailto:press@washingtoninstitute.org).
+
+###  8\. Security Statement
+
+The Institute protects your personal information from loss, misuse, alteration, or unauthorized disclosure by encrypting the data which you provide us with current encryption tools, including HTTPS (Hyper Text Transfer Protocol Secure) and SSL (Secure Socket Layer) protocols and by requiring employees with access to personal data to comply with our privacy policy. We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our subscribers.
+
+###  9\. Effect of Future Changes to this Privacy Policy
+
+The Institute reserves the right to change this Privacy Policy at any time. However, we will not apply any new policies to any of your personal data collected under an old policy without contacting you at the email address you provide and giving you the opportunity to opt out of any use of your data under the changed policy.
