@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trinasolar.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216041139id_/http%3A//www.trinasolar.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinasolar.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401082143id_/https%3A//www.trinasolar.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trina Solar
 
@@ -20,6 +20,7 @@ The site will strictly manage and protect the personal data you offer to us. And
 
 Except the confidential data explicitly stated, any other information you provide to the Site, including problems, suggestions, opinions or the like will not be regarded as confidential.
 
+  
 **Links to Other Sites**
 
 Trina Solar's website contains links to other sites, and we are not responsible for the information collection or privacy practices, or the content on those sites.
