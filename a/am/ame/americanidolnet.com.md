@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanidolnet.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109124139id_/http%3A//americanidolnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanidolnet.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401060202id_/https%3A//americanidolnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – American Idol Net
 
