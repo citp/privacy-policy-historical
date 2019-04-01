@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momsteachsex.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403173039id_/http%3A//momsteachsex.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momsteachsex.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401041900id_/https%3A//momsteachsex.com/page/privacy_policy%3Fcoupon%3D10050%26c%3D0) for the most accurate reproduction.*
 
 # Moms Teach Sex - Privacy Policy
 
