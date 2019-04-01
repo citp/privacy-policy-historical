@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the iflmylife.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625232136id_/https%3A//www.iflmylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflmylife.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401194135id_/http%3A//iflmylife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IFLMyLife
 
 Last updated: September, 2017
 
-IFLMyLife (“us”, “we”, or “our”) operates the http://www.iflmylife.com website (the “Service”).
+IFLMyLife (“us”, “we”, or “our”) operates the http://iflmylife.wpengine.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.iflmylife.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://iflmylife.wpengine.com
 
 **Information Collection And Use**
 
@@ -105,4 +105,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us: info@iflmylife.com
+If you have any questions about this Privacy Policy, please contact us: info@ws-elb-prod-elb-253764982.us-west-2.elb.amazonaws.com
