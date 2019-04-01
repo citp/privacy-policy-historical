@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsoftpressstore.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820203551id_/https%3A//www.microsoftpressstore.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsoftpressstore.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401092839id_/https%3A//www.microsoftpressstore.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy & cookies | Microsoft Press Store
 
