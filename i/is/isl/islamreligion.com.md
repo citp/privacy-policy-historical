@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islamreligion.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231100826id_/https%3A//www.islamreligion.com/index.php%3Foption%3Dcom_content%26task%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islamreligion.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401081609id_/https%3A//www.islamreligion.com/index.php%3Foption%3Dcom_content%26task%3Dprivacy) for the most accurate reproduction.*
 
 # The Religion of Islam - Privacy Policy
 
