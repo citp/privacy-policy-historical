@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klwines.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112013310id_/https%3A//www.klwines.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klwines.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401080136id_/https%3A//www.klwines.com/Company/Privacy) for the most accurate reproduction.*
 
 # K&L Wine Merchants - Privacy Policy
 
@@ -59,8 +59,6 @@ How do I change, update, or correct personally identifiable information about my
 
 If at any time you would like to change any information in your account, just go to the "My Account" link on the top banner or along the left column of any page. This will take you to the "My Account" page. Here you can change or update your email address, username, password, billing and shipping addresses, and payment options. 
 
-To unsubscribe from our newsletter, simply call 800-247-5987, email us at [winenews@klwines.com](mailto:winenews@klwines.com), or uncheck your newsletter address on the "My Account" page. 
-
 ## How does klwines.com protect people under 21 years of age? 
 
 K&L Wine Merchants does not knowingly collect any personal information from minors, and we take steps to ensure that minors cannot purchase or receive alcoholic beverages from us. One of these steps is the fact that any of our shipments that contain alcoholic beverages are sent with an "Adult Signature Required" sticker on them, and the common carrier that delivers our merchandise is required to ask and check for identification upon delivery. You must be 21 years of age to order or receive alcoholic beverages from K&L Wine Merchants. Additionally, we suggest that parents get involved with their children's access to the Internet and our site to ensure that their child's privacy is well protected. Selling high-end alcoholic beverages to minors is something that we have absolutely no interest in performing. 
@@ -75,6 +73,8 @@ K&L Wine Merchants wants you to be aware that when you click on links and/or ad 
 
 K&L Wine Merchants may update this policy from time to time; please check this page periodically for changes. By using this site, you signify your agreement to the klwines.com Privacy Policy. 
 
-If you have previously registered with klwines.com, you may review and update your preferences concerning whether we may contact you with information (we never sell or lease your information to other companies). [Visit the My Account center](https://web.archive.org/Account "My Account") to update your preferences. 
+If you have previously registered with klwines.com, you may review and update your preferences concerning whether we may contact you with information (we never sell or lease your information to other companies). [Visit the My Account center](https://web.archive.org/Account) to update your preferences. 
 
-We welcome comments and questions. Please contact [privacy@klwines.com](mailto:privacy@klwines.com). 
+We welcome comments and questions. Please contact [privacy@klwines.com](mailto:privacy@klwines.com).
+
+**WARNING** : Drinking distilled spirits, beer, coolers, wine and other alcoholic beverages may increase the cancer risk, and, during pregnancy, can cause birth defects. For more information go to [www.P65Warnings.ca.gov/alcohol](http://www.p65warnings.ca.gov/alcohol)
