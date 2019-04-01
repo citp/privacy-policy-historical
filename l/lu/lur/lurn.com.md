@@ -1,88 +1,151 @@
-> *The following text is extracted and transformed from the lurn.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404152909id_/http%3A//lurn.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lurn.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401041720id_/https%3A//lurn.com/legal/privacy) for the most accurate reproduction.*
 
 # Lurn - A Transformational Home for Entrepreneurs!
 
-##  Privacy Policy 
+## Lurn.com Privacy Policy
+
+## Updated May 23, 2018
 
 * * *
 
-This Privacy Policy applies to your use of www.lurn.com (the “Site”) owned by Lurn, Inc. its subsidiaries, affiliates and partners. Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+This Privacy Policy applies to your use of www.lurn.com (the "Site") owned by Lurn, Inc. its subsidiaries, affiliates and partners (collectively "Lurn"). Your privacy is very important to us. We want to make your experience on our Site as enjoyable and rewarding as possible, and we want you to use the information, tools, and opportunities we provide through our Site with complete confidence.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services") - those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members") - what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of the services we provide on or through the Site (the "Services") - those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase products and/or pay a monthly service fee to subscribe to the Service ("Members") - what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-By visiting our Company Website, you are consenting to our policy of collecting and using your data.
+For purposes of the EU General Data Protection Regulation (the "GDPR") the data controller is Lurn, Inc., **2098 Gaither Rd, Rockville, MD 20850**
 
-### Personal Information Our Company Collects and How It Is Used
+If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@lurn.com](mailto:privacy@lurn.com).
 
-Introduction: Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Websites accessible through our Service.
+### Lurn's Privacy Principles
 
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances.
+Lurn follows the following principles in order to protect your privacy:
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the purpose of offering you other products and services.
+  * We do not collect any more personally identifiable information about you than is necessary;
+  * We only use your personally identifiable information for the purposes we specify in this Privacy Policy, unless you agree otherwise;
+  * We do not keep your personally identifiable information if it is no longer needed; and
+  * Other than as we specify in this Privacy Policy, we do not share your personally identifiable information with third parties.
 
-We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
 
-Our Company collects personal information through forms you complete on the site, as well as but not limited to contests, sweepstakes, text messages, e-mails, faxes, telephone calls, postal mail or other communications with the user, as well as from outside sources such as credit card processors and database vendors. For example, when you fill out a form subscribing to our emails, we are sent data information from our autoresponder company such as your name, email, the website you signed up from, geographical data such as your city, state, Postal code, country, Latitude, Longitude, Timestamp, Subscription method and IP address. Also, with purchases, we supply our member's contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by the business partner company. We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies. At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party.
 
-Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information.
+### Information We Collect
 
-Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/ debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. If you order services or products directly from our company, we use the personal information you provide to process that order. We do share this information with outside parties that we do business with.
+We collect personally identifiable information from you if you request information from us, sign up to join our email lists, register for an account, participate in our promotions, such as contests and sweepstakes, take our surveys, use or purchase our Products and Services, contact us about a purchase, or email, call or otherwise communicate with us.
 
-Online Advertisements: Our company may display our online advertisements. In those cases we share information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies.
+In order for you to initiate or complete a purchase from us, we request certain personally identifiable information from you on our order form, including your contact information (such as name, email or shipping address) and financial information (such as credit card number, expiration date).
 
-By visiting our Company Website, you are consenting to our policy of collecting and using your data. If you do not want to consent to our policy of collecting and using your data you can “opt out” of our Social Network and Facebook.com Website Custom Audience Ads advertising policy by notifying Company in the following manner:
+If you purchase a product or service for someone else, we will also collect the name and address of that person so that we can process your order and ship the products, as applicable. When you provide us with this information we will only use it for the specific reason for which it is collected.
 
-Social Network and Facebook.com Website Custom Audience Ads (WCA):  
-A Custom Audience on Facebook.com is a list of people our company would like to show our ads to on Facebook.com, who have shown interest in our products and services, with ads we believe would be of interest to them. This audience consists of people, whose information and email addresses our Company already has, because they have already subscribed to receiving Company emails. If you no longer have an interest in our products and services, you can opt-out of seeing Company's Facebook.com Website Custom Audience Ads. Unsubscribing from our Company's email list will remove you from Company's internal email database list and stop future emails from our Company, but not from being shown Facebook.com Website Custom Audience Ads. The Facebook.com Website Custom Audience Ads external database, is different from our Company's internal database and requires the following Opting-out request.
+When Visitors or Members download, install and use Lurn Services on their mobile phone or other wireless telecommunications device, Lurn automatically gathers information, including without limitation, carrier providers, unique device identifiers, geo-location information (if allowed by the user), the types of mobile devices accessing the services, and the types of operating systems accessing the services (collectively, "Mobile Device Data"). A unique device identifier is a string of alphanumeric characters (similar to a serial number) used to uniquely identify and distinguish each mobile phone or other wireless communications device. Location services can be enabled or disabled at any time, through the settings on your mobile device. Lurn uses Mobile Device Data to understand usage patterns and to improve our Products, Services and functionality of our Site.
 
-Opting-out of Facebook.com Website Custom Audience Ads: To opt out of our Company's Facebook.com Custom Audience Ads, send an email, from the email address you are opting out, to Company using our email address provided in Company's contact information. Put "Opting Out of Facebook.com Website Custom Audience Ads" in the subject line of the email. In the body of the email include your name and email address. Our Company staff will forward your name and email address to Facebook.com with a request to delete you from all of Company's Facebook.com Website Custom Audience Ads.
+Lurn automatically receives and records information on our server logs from your browser, including your IP address, domain type, browser version, service provider, cookies, and the pages you request. This data is used in the aggregate. We link this automatically collected data to personally identifiable information.
 
-Google.com Analytics: Our Company may use Analytics tracking code to support Display Advertising, and enable Google Analytics to collect data about your traffic via the DoubleClick cookie in addition to data collected through the standard Google Analytics implementation. Display Advertising lets us enable features in Analytics that aren't available through standard implementations, like Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting.
+### How We Use Your Information
 
-Our Company may use Remarketing with Google Analytics to advertise online: This allows third-party vendors, including Google, to show your ads on sites across the Internet. Our Company and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website. 
+Information we collect may be used in the following ways:
 
-Our Company may implement Google Display Network Impression Reporting or the DoubleClick Campaign Manager: Our Company and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services that are related to visits to your site.
+  * To notify you of updates to our Site or any Products or Services we offer.
+  * To respond to your requests or inquiries.
+  * To process and complete your transactions, including, as applicable, customer service, order confirmation, billing, delivering Products or Services, and otherwise fulfill our contractual obligations to you.
+  * To provide you with newsletters, articles, or programs, Products, or Services, alerts and announcements.
+  * To share offers from other companies with you.
+  * To conduct market research.
+  * To analyze transactions and purchase histories to improve our products, services, programs and other offerings.
+  * As necessary to verify and validate your identity.
+  * To keep records of our interactions with you if you place an order or otherwise deal with our representatives.
+  * To prevent, investigate or provide notice of fraud, unlawful or criminal activity, or unauthorized access to or use of personally identifiable information, our Site or data systems.
+  * To carry out our obligations and enforce our rights.
+  * To fulfill any other purpose for which you provide your personally identifiable information to us.
 
-Our Company may implement Google Analytics Demographics and Interest Reporting: The data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics allows us to serve ads to you based on this data.
 
-Opting-out of Google Analytics' For The Web and Google Analytics for Display Advertising: Users can opt-out of Google Analytics' currently available opt-outs for the web at https://tools.google.com/dlpage/gaoptout/
 
-Using the Ads Settings, users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads at https://www.google.com/settings/personalinfo
+### Your Rights
 
-Retargeting Ad Campaigns and Persistent Identifiers:  
-Our Company may utilize various types of advertising that appear on our Company sites and services including ads on third party sites and services. Our Company may utilize categories of information, including names and email addresses, collected from users on our sites and services, as well as third party sites and services, in connection with the ads that are served. This advertising may include, but not limited to, contextual advertising, cookies, anonymous cookies, pixels, persistent identifiers, geolocation information, email opt in, search engine terms, behavioral advertising and/or retargeting advertising. This type of advertising is a form of targeted advertising, to the specific individual who is visiting the Web site. These advertisements appear on websites or other media, including display ads, pop up ads and ads displayed in mobile browsers.
+You have the right to request a copy of any personally identifiable information that we hold about you. If you would like a copy of your personally identifiable information, please contact us using the contact information below. We may request proof of your identity before sharing such information. If you discover that the information we hold about you is incorrect or out of date, you may ask us to correct that information by emailing us at [privacy@lurn.com](mailto:privacy@lurn.com).
 
-Those advertisements are selected and served by automated systems based on the interests relevant to the user from the content displayed to the user, based on what the user is viewing.
+You may ask us to delete the personally identifiable data we hold about you in certain circumstances. It may not be possible for us to delete all of the information we hold about you where we are fulfilling a transaction or have a legal basis to retain the information, however please contact us to discuss how we can assist you with your request.
 
-Our Company does not conduct inquiries into the information collection practices of third parties that may collect information from users that leave our Web site. Our Company may share customer information with third parties to process orders, for third party analytics and for marketing and advertising purposes.
+When we process your information on the basis that you have consented to such processing, you have the right to withdraw your consent, or ask us to stop or restrict processing the personally identifiable information we have about you, at any time by emailing us at [privacy@lurn.com](mailto:privacy@lurn.com).
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive.
+You may also ask us to transfer your personally identifiable information to a third party in certain circumstances. If you would like any further information about your rights or how to exercise them, please contact us.
 
-Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you.
+Please direct any questions, including any requests to exercise your legal rights, to [privacy@lurn.com](mailto:privacy@lurn.com).
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated; non-personally identifying information may be shared with third parties.
+If you are in the European Union, you have the right to make a complaint at any time to the relevant data protection authority in your country.
 
-Special Cases: It is our company's policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt-out except as noted herein, or otherwise prohibit such unrelated uses. Also, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
+We will retain your information for as long as your account is active or as needed to fulfill your requests, provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Notice to California Residents – Your California Privacy Rights:  
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to Company, to the email address provided in our contact information and please include the phrase "California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+If you receive emails from us about new or existing Lurn Products, Services and special offers specific to you, you can unsubscribe to our emails by clicking "unsubscribe" within each email. You may not opt-out of service-related communications, which are not promotional in nature.
 
-"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
+### Cookies and Other Tracking Technologies
 
-Deleting Cookies: If you don't want our Company's cookies on your computer, to be used for the purposes stated herein, they are easy to delete. Simply go to <http://wiht.link/cookiesguide> for instructions.
+As is true of most Sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+Lurn uses cookies or similar technologies to store session information, analyze trends, administer the Sites, track users' movements around the Sites, and to gather demographic information about our user base as a whole. A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your computer's hard drive.
 
-Our Company Commitment to Children's Privacy: Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore, we restrict our Web site to persons thirteen years or older.
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to track your login status. This cookie is only ever transmitted over HTTPS. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies to determine from where you were referred to our Sites so that we may provide commissions or referral fees, and recognize the last user ID that you used to log in. We may set and access Lurn cookies on your computer; cookies are required to use the Sites.
 
-IF YOU ARE UNDER THIRTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
+You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. Please go to [www.aboutcookies.org](https://www.aboutcookies.org/) for more information on cookies, including how to disable them. If you choose to disable cookies, it may limit your use of certain features or functions on our Sites or service. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+### Third Party Tracking
 
-Our Company's Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+Third parties also use cookies and other tracking technologies on our site, of which data is only collected in the aggregate. The use of cookies by third parties is not covered by our Privacy Policy. We do not have access or control over these cookies. Third parties use session ID and persistent cookies to make it easier for you to navigate the Sites, in order for you to use the shopping cart, and to otherwise use our services.
 
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
+### Behavioral Targeting / Re-Targeting
 
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
+We partner with a third party ad network to either display advertising on our Site or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other websites. This information is used to provide you targeted advertising across the internet, based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union you may change your preferences by clicking [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-Last updated: September 15, 2015
+### Disclosure of Personally Identifiable Information
+
+Our practices with respect to the disclosure of personally identifiable information include the following:
+
+_Consent_. We may disclose your personally identifiable information to third parties with your express consent.
+
+_Vendors and Affiliated Businesses_. We share your personally identifiable information with our parent company, affiliated businesses, and with the vendor(s) whose products you purchase, for their use in a manner described in this Privacy Policy.
+
+_Agents/Service Providers_. We use third party service providers to assist us in providing our Services and Sites, including database backup providers to protect our data, and fraud prevention services. We may disclose your personally identifiable information to third parties who complete transactions or perform services on our behalf or for your benefit. We may utilize the services of third parties to verify customer data, or to supplement other information we have collected. We may also contract with third parties to host our Sites and to conduct market research. All service providers are authorized to use your personally identifiable information only as necessary to provide their respective services to us, and are obligated to protect your personally identifiable information under contract terms which are no less protective than those set forth in this Policy.
+
+_Legal Process_. We may disclose your personally identifiable information as required by law, such as to comply with a subpoena or other legal process, or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+
+_Certain Business Transfers_. Your personally identifiable information may be disclosed as part of a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of Lurn assets, and could be transferred to a third party as one of the business assets in such a transaction. It may also be disclosed in the event of insolvency, bankruptcy or receivership. We will use reasonable efforts to direct any such transferee to use your personally identifiable information in a manner that is consistent with our Privacy Policy.
+
+You will be notified via email and/or a prominent notice on our Sites of any change in ownership or uses of your personally identifiable information, as well as any resulting choices you may have regarding your personally identifiable information.
+
+### Security
+
+The security of your personally identifiable information is important to us. When you enter sensitive information such as credit card number on our registration or order forms, we encrypt that information using SSL.
+
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
+
+The information we collect about you is stored in limited access servers. We maintain safeguards to protect the security of these servers and your personally identifiable information. We retain personally identifiable information only as long as necessary to complete a purchase, thwart fraud, or provide customer service.
+
+### Links to Other Sites
+
+If you click on a link to a third party site you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as us. We encourage you to review the privacy policies of any other site you visit or service provider from whom you request services.
+
+### Changes to This Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. If we make material changes to this policy, we will notify you here, or by means of a notice on the Site. If we make any substantial change to the way we use your personally identifiable information, we will notify you by email. You will have an opportunity to opt out of such new or different uses of your personally identifiable information prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Lurn Contact Information
+
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to us at:
+
+<https://lurn.com/contact>
+
+To reach us by mail, please use the following address:
+
+Lurn, Inc.  
+2098 Gaither Road  
+Rockville, MD 20850  
+(888) 477 9719  
+Support: Extension 6  
+Lurn Center: Extension 2  
+[privacy@lurn.com](mailto:privacy@lurn.com)
+
+Please contact us if you have any further questions, or if you want to exercise any of your rights or to make a complaint. You also have the right to make a complaint to the supervisory authority in the country in which you are resident.
+
+### International Transfers
+
+Wherever you use our Site or access our Services, you understand and acknowledge that we may transfer, process, and store information about you in the United States and other countries, both within and outside of the European Economic Area. The countries to which we transfer your personal information may have different data protection laws than those in the country in which you reside.
+
+OK We use cookies to offer you a better browsing experience, analyze site traffic, personalize content, and serve targeted advertisements. Read about how we use cookies on the [Privacy Policy](https://lurn.com/legal/privacy) page. 
