@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828204252id_/https%3A//www.frontiertouring.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401090255id_/https%3A//www.frontiertouring.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Frontier Touring Australia & New Zealand
 
