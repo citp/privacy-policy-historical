@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231183853id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401162458id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | chess24.com
 
@@ -20,6 +20,8 @@ We may collect and process the following data about you:
 ## Cookies
 
 Our Website uses cookies to distinguish you from other users of our Website. This helps us to provide you with a good experience when you browse our Website and also allows us to improve our Website. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy.
+
+Depending on your settings we are working with 3rd parties that may save information in cookies. Please read details in the data settings dialog. To display advertising that helps cover the cost of our free features we use Google services. Details of how your data is handled can be found here: <https://policies.google.com/technologies/ads>
 
 ## Where we store your personal data
 
