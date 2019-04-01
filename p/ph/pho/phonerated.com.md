@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonerated.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423200436id_/https%3A//www.phonerated.com/a-mobile-phonerated-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonerated.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401135125id_/https%3A//www.phonerated.com/a-mobile-phonerated-privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Phonerated's Privacy Policy - Phonerated.com
 
@@ -45,7 +45,7 @@ Phonerated has no control over, and assumes no responsibility for, the content, 
 Phonerated may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on Phonerated.com. You are advised to review this Privacy Policy periodically for any changes.
 
 **Affiliate pariticipation**  
-Phonerated participates in various affiliate programs. Phonerated is a participant in the Amazon Inc. associates program of many countries, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com (or any other Amazon domain name pertinent to a given country, such as Amazon.co.uk, Amazon.ca, etc).
+Phonerated participates in various affiliate programs. Phonerated is a participant in the Amazon Inc. associates program of many countries, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com (or any other Amazon domain name pertinent to a given country, such as Amazon.co.uk, Amazon.ca, etc). Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.
 
 **Contact Us**  
 If you have any questions about this Privacy Policy, please [contact us](http://www.phonerated.com/contact-us.php).
