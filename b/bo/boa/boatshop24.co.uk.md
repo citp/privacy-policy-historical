@@ -1,42 +1,290 @@
-> *The following text is extracted and transformed from the boatshop24.co.uk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621191120id_/http%3A//www.boatshop24.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatshop24.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401131706id_/https%3A//www.boatshop24.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boatshop24
 
-All personal information collected and used from the Marine Trader Media site will be processed in accordance with the 1998 Data Protection Act
+**_Last updated: 21st May 2018_**
 
-  
-**Information collected**
+Boatshop24 is part of Friday Media Group Ltd and is a classified ads marketplace established to accurately match item sellers and service providers with a relevant buying audience.
 
-In order to register for full access to the Marine Trader Media channel we will require you to supply your name, e-mail address, postal address and post code.
+When you submit information to Boatshop24, your information will also be shared with other relevant marketplace sites that form part of the [Friday Media Group portfolio](http://fridaymediagroup.com/what-we-do/). Any such sites will also use your information in accordance with this Privacy Policy. Boatshop24 will remain responsible for the management and security of jointly used Personal Information that you submit to Boatshop24.
 
-On-line advertisements placed on the channel will, in addition require payment details, a land-line telephone number, with a mobile number and e-mail address supplied as an option. Credit Card information is collected over a secure connection
+We take data protection very seriously and understand the importance of protecting your privacy and Personal Information. "Personal Information" is information that identifies you as an individual such as your name, date of birth, email address, IP address and telephone number.
 
-  
- 
+* * *
 
-  
-**Use of Information**
+**How do we collect information from you?**
 
-Telephone numbers supplied as part of a vehicle advertisement will be published within the relevant advertisement only for the duration of the booking.
+We collect and use your Personal Information in accordance with this Privacy Policy.
 
-Credit card information is used solely for the purpose of payment processing. Marine Trader Media retains no record of credit card details.
+The majority of the Personal Information you provide to us freely when you submit to us your advertisement copy or enquire about an item or service via the website. If there is any information you would prefer us not to have, please omit this from any submissions sent to us. Some personal data is necessary for us to create an account for you, so in the instance where you do not want to share this Personal Information, we will be unable to provide our services to you.
 
-When you visit our web site, we issue a "cookie" or unique identification code that enables us to recognise your computer. The cookie contains no personally identifying information and is merely used to note which sections of our web site you have recently accessed. Based on this information we are able to understand the relative popularity of sections throughout our site. This in turn enables us to develop relevant content as well as attract advertising from companies that we believe to be of interest to our users.
+Some information we collect and store, whilst voluntarily given by yourself, may have been unintentional, such as information divulged through the use of search tools and content you interact with.
 
-Marine Trader Media is part of the Trader Media Group, and information supplied in this site may be shared with other group companies. When you register with our site, you do have the option to opt-out of receiving future notification on changes to the site, as well as offers and services from third party companies that we feel might be of interest to you.
+**Other sources we use also include:**
 
-From time to time, we may ask our market research partners to contact you by telephone as part of a survey of our services. You will be able to choose at the time whether or not you want to take part in that survey.
+  * Our group websites
+  * The software applications made available by us for use on or through computers and mobile devices
+  * Publicly available information; 
+  * Cookies (see our [Cookie Policy](https://www.boatshop24.co.uk/cookies.php) for more information on how we use Cookies)
+  * Other tools and applications
 
-  
- 
 
-  
+
+* * *
+
+**What Personal Information do we collect?**
+
+_Personal Information we collect and store about you may include the following:_
+
+  * _**General identification and contact information:**_  your name; address; email; IP address; telephone details; gender; marital status; family status; date and place of birth; physical attributes including photos
+  * _**Other sensitive information:**_  political opinions, racial or ethnic origin, trade union membership, religious beliefs and criminal record.
+  * _**Information enabling us to provide products and services:**_  age, location, whether or not you hold a driving licence
+  * _**Information from Apps:**_  User generated content submitted through contributing to online forums, commenting on blog posts, completing onsite forms or emailing any of our internal services teams
+  * _**Professional history information available publicly:**_  educational background; employment history; skills and experience; professional licenses and affiliations; educational and professional qualifications
+  * _**Marketing preferences:**_  defined when entering a competition or prize draw, submitting a survey response or other sales/marketing promotional activity
+  * _**Statistical information:**_  aggregate statistical information about site visitors and users for internal use and for other lawful purposes such as salary comparison services. Where we utilise such information, we will do so using an anonymous format and not include any Personal Information.
+
+
+
+* * *
+
+**What legal basis do we rely on to process your Personal Information?**
+
+  * _**Consent:**_  In some cases, Boatshop24 processes your data with your consent. For example, we rely on consent when linking your Boatshop24 account to your Social Network account. You have the right to withdraw consent at any time. Where consent is the only legal basis for processing, we will cease to process data after consent is withdrawn
+  * _**Processing required to fulfil a contract:**_  Boatshop24 may process your data when we need to do this to fulfil a contract with you, such as to send your online enquiry to an item seller or service provider you’ve initiated a conversation with
+  * _**Legitimate Interest:**_  Boatshop24 can also process your data when it is deemed our legitimate interest to do so and when these interests are not overridden by your data protection rights
+
+
+
+**Our legitimate interests include:**
+
+  * Ensuring the security and integrity of our Services at all times
+  * Enabling our Websites and Apps to operate effectively
+  * Protecting and maintaining the safety, health and welfare of our customers, employees and other individuals
+  * Promoting, marketing and advertising our products and services and/or sending promotional communications which are relevant and tailored to individual customers
+  * Understanding our customers activities, needs, behaviours and preferences
+  * Developing new products and services and improving existing products
+  * Managing complaints, queries, customer contacts or disputes
+  * Fulfilling our obligations to our customers, employees and shareholders
+
+
+
+The basis for processing this information will be based on an applicable legal obligation. Other examples where Boatshop24 may process your data include complying with our legal and regulatory obligations, such as preventing, investigating and detecting crime, fraud or anti-social behaviour, This may include the need to work and share this information with law enforcement agencies.
+
+* * *
+
+**Who do we share your Personal Information with?**
+
+_Boatshop24 may make Personal Information available to the following:_
+
+  * _**Friday Media Group Ltd companies:**_  Where group companies have access to your personal data, they will use it only for the purposes set out in this Privacy Policy. Boatshop24 will remain responsible for the management and security of jointly used Personal Information. Access to Personal Information within Boatshop24, and our group companies, is restricted to those individuals who have a need to access the information for legitimate business purposes.
+  * _**Aggregators and other agents:**_  Whilst undertaking our business purpose to help you find relevant products and services, Boatshop24 may make Personal Information available to third parties such as aggregators and other intermediaries and agents and other carefully selected business partners
+  * _**Our service providers:**_  This includes, but is not limited to, external third-party service providers such as accountants and auditors, IT systems, support and hosting service providers, market research and analysis service providers, data storage and cloud providers and other outsourced providers that assist us in carrying out business requirements
+  * _**Governmental authorities and third parties involved in court action:**_  Boatshop24 may share Personal Information with governmental or other public authorities and third-party civil legal process participants and their accountants, auditors, lawyers and other advisors and representatives as we believe to be necessary or appropriate. Examples would be to comply with applicable law, protect our operations, and to protect the rights of ourselves, our group, you or others
+  * _**Other third parties:**_  Where appropriate, we may occasionally share Personal Information with other third parties. This will always be done under contract and in accordance with your instructions.
+
+
+
+Friday Media Group utilise a number of services and third party products to aid us in providing you with the best on and offsite experience we can. Some of these services are non-negotiable and any request not to have your data shared with these services may mean we are unable to provide you with use of our site(s). In case of a query, please contact our DPO using the details provided below and we will be able to assist you further.
+
+**Third-Party Payment Processor**
+
+We use a third party payment processor, Cybersource, for all card payments. Boatshop24 does not store credit card details and relies on Cybersource for this.
+
+We use a third party payment processor to process payments made to us. In connection with the processing of such payments, we do not retain any Personally Identifiable Information (PII) or any financial information such as credit card numbers. Rather, all such information is provided directly to our third party processor, Cybersource, whose use of your personal information is governed by their privacy policy. We strongly recommend you visit Cybersource’s website and review their [privacy policy](https://www.cybersource.com/privacy/). This sets out how they use and store your information.
+
+Authorisation and Payment information is relayed to Friday Media Group (FMG) from Cybersource by means of tokenisation technology which means we never access your credit/debit card data and no personal information reaches our servers at any time.
+
+As a controller, we will not be legally responsible to you for any loss that you may suffer if a third-party gain unauthorised access to any information that you provide to Cybersource.
+
+_The following is a list of services we utilise and that details we hold about you may be shared with and why:_
+
+**Business Intelligence/User Experience**
+
+To optimise our on-site conversion processes, providing you with smoother transaction experiences.
+
+  * To amplify and promote our call to actions and data capture forms.
+  * To allow us to communicate with you on-site via web chat services.
+  * To guide our business decisions, providing you with a better product and experience.
+  * To visualise and analyse website usage data (including user journeys and paths).
+  * To optimise our sales and marketing campaigns, ensuring they are best tailored for your interests and purposes of using our services. 
+
+
+
+_We work with the following Third Parties to facilitate the above:_
+
+  * Google Analytics
+  * MySQL workbench
+  * Yandex Metrica
+  * Data Studio
+  * Chartio
+  * Supermetrics
+  * VWO
+  * Optimizely
+  * HelloBar
+  * Intercom
+
+
+
+**Direct & Automated Marketing**
+
+_We may share your data with Third Party processors for the following purposes:_
+
+  * To contact you via Email; SMS; Social Media; Telephone and Mail regarding orders; offers; promotions; products or services.
+  * To enhance and improve our marketing/advertising campaigns to you, providing you with a more tailored service.
+  * To facilitate in providing you with an improved product or service.
+  * To enrich our data, with your consent, for the purposes listed above.
+  * To automate our internal marketing processes and services.
+
+
+
+_We work with the following Third Parties to facilitate the above:_
+
+  * Unbounce
+  * Dotmailer
+  * Zapier
+  * LinkedIn
+  * Facebook
+  * Twitter
+  * SteerFox
+  * Snapchat
+  * Google Adwords
+  * Microsoft Adcentre
+  * JobG8
+  * Gleam
+  * SurveyMonkey
+  * Typeform
+
+
+
+* * *
+
+**How we use Personal Information?**
+
+  * Provide marketing information to you (including information about other products and services offered by selected third-party partners) in accordance with preferences you have previously provided. Please be aware you can always change these at [My Account](https://www.boatshop24.co.uk/account.php)
+  * Carry out market research and analysis, including satisfaction surveys
+  * Allow you to participate in contests, prize draws and similar promotions
+  * Enable social media sharing functionality
+  * Personalise your experience on Boatshop24 by presenting information and advertisements tailored to you
+  * Manage our infrastructure and business operations, and comply with internal policies and procedures
+  * Comply with applicable laws and regulatory obligations
+  * Establish and defend legal rights; protect our operations or those of any of our group companies or customers (you)
+  * Resolve complaints, and handle requests for data access or correction
+  * Communicate with you as part of our business and distribute important information regarding changes to our policies
+
+
+
+**Tailoring the advertising we show you:**
+
+Boatshop24 is part of the Friday Media Group network and we may take the opportunity to use information  we know about you to show you relevant advertising and marketing from our own group of sites, as well as from third party advertising networks we work with. 
+
+Friday Media Group works with online advertising companies to provide you with advertising that is as relevant and useful as possible. Personalisation may be informed by various factors such as the content on Boatshop24 you are using, viewed content from the wider Friday Media Group network of sites, from information you provide, historical searches you conduct, or may be based on your other interests.
+
+Friday Media Group provides you with complete control over what adverts you see and from who in relation to the use of your personal information. You can view the full list of preferences used for advertising options and select which to keep or to opt-out from by updating your [advertising preferences](https://www.boatshop24.co.uk/my_prefs.php?sec=nl_settings). You should be aware however, Friday Media Group uses the delivery of third party advertising as one of its revenue streams for sustainability and subsidised rates of advertising to private selling audiences. As such, by opting out, you will still be shown advertising on all of the Friday Media Group network of sites, however these advertisements will no longer be personally relevant to you or help to enrich your experience on our sites.
+
+* * *
+
+**How can you manage or delete Personal Information?**
+
+_Below are the ways in which you can take control of how we use your Personal Information:_
+
+_**General Information:**_
+
+When you register or send an enquiry through Boatshop24, you will create an account on the site, against which we will store your basic details such as name, sex and location. On future visits, when logging in to your 'My Account' area, it is protected by your password and may only be accessed by you. You can manage the content and information in your Account at any time, by logging in to your "My Account". As part of the account creation process, you will also agree to our [Terms and Conditions](https://www.boatshop24.co.uk/terms.php) and can choose how we keep in contact with you. If you want to update your marketing preferences, you can do so at any time by logging into your account and updating your [preferences](https://www.boatshop24.co.uk/my_prefs.php?sec=nl_settings). 
+
+_**Contact Details:**_
+
+When placing an item/product or service advertisement with Boatshop24, you can select whether or not to expose your telephone number as one of the contact methods you can be reached via. The default setting is for your number to be shown. You may however choose to remove your telephone number from being seen by customers of Boatshop24 and any other suitable marketplaces within the Friday Media Group network.  Your advertisement will continue to be shown on our site(s), but you will only be contactable via email. We never expose your email address on any Friday Media Group Ltd websites and do not provide this data to any third parties, beyond those explicitly detailed in this Privacy Policy and where we have a legitimate business case to do so. 
+
+You can also opt to use our Privacy Number service, whereby we will use a third party services called [IOVOX](https://www.iovox.com/)
+
+ to replace your Personally Identifiable number with a re-usable alternative that reroutes calls to the number of your choice when rung.
+
+_**Communications and Promotions:**_
+
+You can decide to update your preferences or unsubscribe from any marketing or promotional information that we may send to you by using the below methods:
+
+  * Using the preferences or unsubscribe functions at the bottom of any email we send
+  * Amending your account details by logging in to our website and opting-in/out of the available communication preferences options
+  * Contacting us on the [Contact Us](https://www.boatshop24.co.uk/contacts) page of Boatshop24
+  * Emailing our DPO using the details found below
+
+
+
+_**Analytics:**_
+
+When you access our website online, we store some information about you. This is generally anonymous and used for statistical purposes. However, Boatshop24 uses a specific cookie to work with Google Universal Analytics and help us to understand how logged in users interact with our site. We do this by utilising a User ID we store against every user and combining this with the Google Analytics stored information. The information we collect helps us to provide a better experience and allows us to understand how you use Boatshop24 to fulfil your goals.
+
+_**Deleting your Personal Information:**_
+
+You can remove any of the information that Boatshop24 stores about you, at any time, by logging in to your Boatshop24 account and choosing to ‘delete my account’.
+
+If you would like to permanently delete your account and all information held on you (that isn’t legally required to be kept for legitimate business purposes), you can send an email to our Data Protection Officer (DPO) with the subject line "Permanently delete my information and account". Make sure to let us know who you are so we can identify the information to be permanently deleted.
+
+* * *
+
 **Security**
 
-In accordance with the requirements of the 1998 Data Protection Act - we have taken measures to ensure that information supplied to us is held securely. As a consequence - we may occasionally request proof of identity before allowing access to your personal information.
+Boatshop24 is committed to keeping your personal data safe and secure from unauthorised access to or unauthorised alterations, disclosure or destruction of information that we hold. We operate secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect you to our fullest capability. To minimise any potential breach or misuse, only cleared employees have access to the Personal Information that you provide us. 
 
-**Access**
+Boatshop24 use third-party cloud service providers that provide hosting, data storage and other services pursuant to standard terms and conditions that may be nonnegotiable. These providers have informed us or the general public that they apply security measures they consider adequate for the protection of information within their system, or they have a general reputation for applying such measures. However, we will not be liable (to the fullest extent permitted by law) for any damages that may result from the misuse of any information, including Personal Data, by these companies.
 
-You have the right to access all personal information supplied to Marine Trader Media Digital, and rectify any inaccuracies on the information held. A charge of £10 will be made for any subject access request. Further enquiries should be made to sales@boatshop24.co.uk or sent to Customer Care, Marine Trader Media, 44a North Street, Chichester, West Sussex PO19 1NF.
+_**Location based services:**_
 
-Amendments and Updates to this policy may be made from time to time. Any revisions will be posted on this page so you will always be aware of what information we collect.
+In some instances we will use location information made available to us to provide you with items, products and services close to you and to improve the general experience we provide to you. In no case will we merge such information with any personally identifiable information. We will at no times be able to connect you personally in connection with the respective location. You may at any stage opt out of location tracking by updating your device settings.
+
+There are two methods utilised for identifying your location, either using your devices IP address or by utilising GPS data that your mobile device, such as an iPhone, stores and shares. 
+
+For IP Address LookUp, Boatshop24 uses a service from [IPStack](https://ipstack.com/). You can find out more about IPStack and view the [IPStack Privacy Policy](https://ipstack.com/privacy) for more details of their service.
+
+For GPS services, we use ‘[W3 Geolocation API](https://www.w3.org/TR/geolocation-API/)’. As its use is a subject of privacy, we will only use this if you agree to it. Once opted-in, we will use this information to provide you with job offers close to you and to improve our Products and Services. In no case will we merge such information with any personally identifiable information. We will at no times be able to connect you personally in connection with the respective location. You may at any stage opt out of location tracking by updating your device settings.
+
+_**Push notifications:**_
+
+When using Boatshop24, you may also consent to push notifications, text messages, alerts, emails or other types of messages directly sent to you outside or inside of the website to your mobile device or desktop browser. If you declare your consent to receive such messages a device token will be generated, which will be associated with your device.
+
+For desktop Push Notifications, Boatshop24 uses a service provided by [OneSignal](https://onesignal.com/). You can view the [OneSignal Privacy Policy](https://onesignal.com/privacy_policy) to view more information on their services and procedures. 
+
+* * *
+
+**Your Rights**
+
+_You have the following rights:_
+
+  * The right to ask what personal data that we hold about you at any time (Friday Media Group retain the right to charge an administrative fee, fixed at £10, in cases where the request for information can be deemed excessive)
+  * The right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge
+  * The right to opt out of any marketing communications that we may send you
+  * The right to object to how your Personal Information is being used;
+  * And ultimately the right to request erasure of any data we hold on you in line with legal obligations to the contrary
+
+
+
+If you wish to exercise any of the above rights, please contact our DPO using the contact details set out below.
+
+* * *
+
+**Third Party Privacy Practices**
+
+Boatshop24 may make links to other websites available to our customers where we feel there is a benefit or service that our customers may find useful. When you click on such links, you may leave our Site. In some instances, pages we operate may contain information provided by third-parties.
+
+No third-party sites are covered by our Privacy Policy, but we will make every effort to ensure that third party sites comply with our Privacy Policy. The inclusion of a link on our Website or App does not imply endorsement of the linked site or service by us or by Friday Media Group Ltd. Before submitting any of your Personal Information to these third party services, you should consider viewing their privacy policies to ensure you are comfortable with their terms of use. 
+
+* * *
+
+**Who to contact about your Personal Information**
+
+The data controller responsible for your information is Boatshop24.
+
+If you have any questions about this policy or our use of your Personal Information you can email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to the Data Protection Officer, Friday Media Group Ltd, London Road, Sayers Common, West Sussex, BN6 9HS. 
+
+If you do not think we are handling your Personal Information adequately, you have the right to lodge a complaint with the [Information Commissioner's Office](https://ico.org.uk/). 
+
+* * *
+
+**Changes to Privacy Policy**
+
+We review this Privacy Policy regularly and reserve the right to make changes at any time to take account of changes in our business and legal requirements. We will place updates on our website. 
+
+Please take a look at the "LAST UPDATED" date at the top of this Privacy Policy to see when it was last revised.
+
+The Site is operated by Friday Media Group Ltd, registered in England. Registered number: 01874025. Registered address: London Road, Sayers Common, West Sussex, BN6 9HS
