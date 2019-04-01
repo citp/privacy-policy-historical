@@ -1,188 +1,136 @@
-> *The following text is extracted and transformed from the timesdaily.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125200515id_/http%3A//www.timesdaily.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesdaily.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401155614id_/http%3A//www.timesdaily.com/site/privacy_policy.html) for the most accurate reproduction.*
+
+# Privacy Policy | Site | timesdaily.com
+
+Last Updated: April 13, 2018
+
+We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
+
+The TimesDaily recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. This Privacy Policy applies when you use a website, mobile or tablet application, or other online service (collectively, the “Services”) that links or refers to it. It does not govern or apply to information collected or used by the TimesDaily through other means.  
+This Privacy Policy covers the following:  
+ ** _  
+Information We Collect_**
+
+We may collect personal information about our users in various ways. For example, we may collect information that you provide to us, information that we collect through your use of the Services, and information that we collect from publicly available sources or third parties.  
+ **  
+Information You Provide to Us.  **When you register or otherwise interact with the Services, you may be invited to provide personal information to enhance your experience on our site. For example, during account registration, we may ask for information such as your name, e-mail address, year of birth, gender, street address, job title and industry and related information. We may collect payment information, such as your credit card number and expiration date, where appropriate to process a financial transaction you have requested.  
+We also collect information that you provide us when you comment on articles, participate in message boards, and submit images, photos, videos, or other content to the Services. We may ask you for additional information at other times, such as when you enter a contest or participate in a promotion, when you post an online ad, or when you order products from us or otherwise engage with the Services.  
+ **  
+Information About Your Use of the Services.  **In addition to the information you provide to us directly, we may collect information about your use of the Services. For example, we may collect:
+
+  *  _Device information_ — such as your hardware model, IP address, other unique device identifiers, operating system version, browser type and settings, such as language and available font settings, and settings of the device you use to access the Services.
+  *  _Usage information_ — such as information about the Services you use, the time and duration of your use of the Services and other information about your interaction with content offered through a Service, and any information stored using cookies, mobile ad identifiers, and similar technologies that we have set on your device. For detailed information about our use of cookies, web beacons, and other technologies, see Online Tracking and Advertising.
+  *  _Location information_ — such as your computer’s IP address, your mobile device’s GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use certain Services.
+
+
+
+ **Information From Third-Party Sources.  **We may receive information about you from publicly and commercially available sources, as permitted by law, which we may combine with other information we receive from or about you. For example, we may receive information about you from a social media site if you connect to the Services through that site.  
+ **  
+Other Information We Collect.  **We also may collect other information about you, your device, or your use of the services in ways that we describe to you at the point of collection or otherwise with your consent. You may choose not to provide us with certain types of information, but doing so may affect your ability to use some of the Services.  
+ ** _  
+How We Use Information_**  
+ **  
+To Provide and Manage the Services You Request.  **This includes, for example, processing your subscription, sending you electronic newsletters, or enabling you to participate in the features provided by the Services. It also includes providing personalized content and recommendations to you, including by email. Through such features, we are able to bring you information and content tailored to your individual interests and needs.  
+ **  
+To Contact You.** We may periodically contact you with offers and information about the Services and our affiliates, including in connection with your accounts, online surveys, legal notices, news stories, new features that you are entitled to access, and other important information. You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.  
+ **  
+To Deliver Targeted Advertising.  **We may use your information to facilitate the delivery of targeted ads, promotions, and offers to you, on behalf of ourselves and advertisers, on and off the Services. Please see Online Tracking and Advertising for further information about our and third parties’ use of cookies, web beacons, mobile ad identifiers, and other tracking technologies to provide you relevant ads, as well as information about how to disable cookies and make other choices related to targeted advertising.  
+ **  
+To Better Understand Our Readers and Users.  **The Services conduct research on our users’ demographics, interests and behavior based on the information we collect. We do this to better understand and serve our users, and to improve our products and services.  
+ **  
+To Protect the Rights of the Services and others.  **We may use your personal information as we believe is necessary or appropriate to protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, its employees or agents, or other users and to comply with applicable law.  
+ **  
+Consent.** We may otherwise use your information with your consent or at your direction.  
+ ** _  
+Sharing of Information_**
+
+The following provides information about entities with which we may share information. Our practices vary depending on the type of information.  
+ **  
+Affiliates.** We may share information within our family of affiliated companies.  
+ **  
+Business Partners.** We may also share your information with business partners to provide you with services that you request. For example, if you sign up for a promotion that runs on our Services but that is sponsored or co-sponsored by another company, your information may be shared with that sponsor. The Times  Daily is not responsible for the privacy practices of these entities.  
+ **  
+Service Providers.** We may share information with vendors providing contractual services to us, such as hosting vendors, advertising service providers, and list managers. We also may share your information, including your payment information, as appropriate to process your payments for the Services or complete a transaction.  
+ **  
+Other Parties When Required by Law or As Necessary to Protect Our Users and Services.  **We may share your personal information as we believe is necessary or appropriate to protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, our employees or agents or users or to comply with applicable law or legal process, including responding to requests from public and government authorities.  
+ **  
+Logging In Through Social Media Services.  **If you log into the Services with a social media service or if you connect a social media account with the Services, we may share your information with that social media service. The social media services’ use of the shared information will be governed by the social media services’ privacy policy and your social media account settings. If you do not want your information shared in this way, do not connect your social media service account with your Services.  
+ **  
+Third Parties that Provide Content, Advertising, or Functionality.  **When you use our Services, third parties may collect or receive certain information about you and/or your use of the Services ( _e.g._ , hashed data, click stream information, browser type, time and date, information about your interactions with advertisements and other content), including through the use of cookies, beacons, mobile ad identifiers, and similar technologies, in order to provide content, advertising, or functionality or to measure and analyze ad performance, on our Services or other websites or platforms. This information may be combined with information collected across different websites, online services, and other linked or associated devices. These third parties may use your information to improve their own services and consistent with their own privacy policies.  
+ **  
+Other Parties in Connection With a Corporate Transaction.  **We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition, or in connection with a bankruptcy reorganization.  
+ **  
+Otherwise With Your Consent or At Your Direction.  **In addition to the sharing described in this Privacy Policy, we may share information about you with third parties whenever you consent to or direct such sharing.  
+We also may share other information with third parties in a manner that does not identify particular users, including, for example, aggregated data about how users are using our Services.  
+ ** _  
+Links to Third-Party Sites_**
+
+Our Services may link to third-party websites and services that are outside our control. We are not responsible for the security or privacy of any information collected by other websites or other services. You should exercise caution, and review the privacy statements applicable to the third-party websites and services you use.  
+ ** _  
+How to Access or Update Your Information & Other Privacy Choices Available To You_**  
+ **  
+Manage Your timesdailyt.com Account.  **You may access or modify your timesdaily.com account on the [User Profile](https://www.decaturdaily.com/users/) page. This link will also allow you to update your subscriptions to electronic newsletters provided by the Services and to view your comment history.  
+ **  
+Email Promotions.** You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.  
+ **  
+Targeted Advertising.** You may choose whether to receive some forms of targeted advertising from many ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the [Network Advertising Initiative ](http://www.networkadvertising.org/choices/)and [Digital Advertising Alliance ](http://www.aboutads.info/).  
+ ** _  
+Data Security_**  
+We have in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet.  
+ ** _  
+Other Important Information_**  
+ **  
+Children’s Privacy.** We do not knowingly collect any personal information from children under the age of 13 without parental consent, unless permitted by law. If we learn that a child under the age of 13 has provided us with personal information, we will delete it in accordance with applicable law.  
+ **  
+Your California Privacy Rights.  **(a) California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes. (b) California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post on the Services. You may request such removal by emailing us at [online@timesdaily.com](mailto:online@timesdaily.com). In your request, please provide a description of the material that you want removed and information reasonably sufficient to permit us to locate the material, and include your name, email address and/or TimesDaily website user name, year of birth, mailing address (including city, state, and zip code), and the subject line “California Removal Request” so that we can process your request. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.  
+ **  
+Do-Not-Track Signals and Similar Mechanisms.  **Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, the Services currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals. In the meantime, please see Online Tracking & Advertising for additional information about privacy choices that may be available to you with respect to targeted advertising.  
+ **  
+International Transfers.  **The Services are headquartered in the United States. Please be aware that if information you provide to us or that we obtain as a result of your use of the Services may be collected in your country and subsequently transferred to the United States or to another country in accordance with applicable law. By using the Services, you consent to the collection, international transfer, storage, and processing of your information  
+ ** _  
+Changes to Our Privacy Policy_**  
+We may modify this Privacy Policy from time to time. We will notify you of changes by posting changes here, or by other appropriate means. Any changes to the Privacy Policy will become effective when the updated policy is posted on the Services. Your use of the Services or your provision of personal information to use the Services following such changes indicates your acceptance of the revised Privacy Policy.  
+ ** _  
+Online Tracking & Advertising_**  
+ ** _  
+How We Use Cookies, Web Beacons, and Similar Technologies and How To Disable These Technologies_**  
+We and third parties that provide content, advertising, or functionality or measure and analyze ad performance on our Services, may use cookies, web beacons, mobile ad identifiers, and similar technologies to facilitate administration and navigation on the Site, to better understand and improve our Services, to determine and/or improve the advertising shown to you here or elsewhere, and to provide you with a customized online experience.  
+ **  
+Cookies.** Cookies are small files that are placed on your computer when you visit a website. Cookies may be used to store a unique identification number tied to your computer or device so that you can be recognized as the same user across one or more browsing sessions, and across one or more sites. Cookies serve many useful purposes. For example:
+
+  * Cookies can remember your sign-in credentials so you do not have to enter those credentials each time you visit a Service
+  * Cookies can help us and third parties understand which parts of our Services are the most popular because they help us see which pages and features visitors access and how much time they spend on the pages. By studying this kind of information, we are better able to adapt our Services and provide you with a better experience.
+  * Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access a Service.
 
-# Privacy Policy | TimesDaily.com | The Times Daily | Florence, AL
 
-Published: Tuesday, January 25, 2011 at 3:30 a.m.   
-Last Modified: Monday, April 27, 2009 at 11:16 p.m. 
 
-This Privacy Policy discloses the privacy practices for TimesDaily newspaper and TimesDaily.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “TimesDaily” include TimesDaily.com and TimesDaily newspaper. TimesDaily is part of the Tennessee Valley Printing Company.
+Most browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. If you disable browser cookies or flash cookies, it may interfere with the proper functioning of the Services.  
+ **  
+Beacons.** We, along with third parties, also may use technologies called beacons (or “pixels”) that communicate information from your device to a server. Beacons can be embedded in online content, videos, and emails, and can allow a server to read certain types of information from your device, know when you have viewed particular content or a particular email message, determine the time and date on which you viewed the beacon, and the IP address of your device. We and third parties use beacons for a variety of purposes, including to analyze the use of our Services and (in conjunction with cookies) to provide content and ads that are more relevant to you.  
+ **  
+Local Storage & Other Tracking Technologies. **We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Services. We also may use unique identifiers associated with your device, such as mobile ad identifiers. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser. For Flash cookies, information about disabling or deleting information contained in Flash cookies can be found [here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).  
+ ** _  
+Additional Choices With Respect To Targeted Advertising_**  
+As described above, we and third parties may use cookies and other tracking technologies to facilitate serving relevant ads to you. For example, these technologies help us determine whether you have seen a particular advertisement before, tailor ads to you if you have visited our site before, and avoid sending you duplicate advertisements. You can learn more about certain types of targeted advertising by visiting the [Digital Advertising Alliance ](http://www.aboutads.info/)website.  
+In addition to disabling cookies and other tracking technologies as described above, you may opt-out of receiving targeted advertising from participating ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the [Network Advertising Initiative ](http://www.networkadvertising.org/choices/)and [Digital Advertising Alliance ](http://www.aboutads.info/).   
+Due to differences between using apps and websites on mobile devices, you may need to take additional steps to disable tracking technologies in mobile apps. Many mobile devices allow you to opt-out of targeted advertising for mobile apps using the settings within the mobile app or your mobile device. For more information, please check your mobile settings. You also may uninstall our apps using the standard uninstall process available on your mobile device or app marketplace. 
 
-Third party sites that TimesDaily.com links to are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
+ **Questions Regarding Privacy**
 
-In this Privacy Policy, you will find answers to the following questions:
+If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
 
-What information do we gather about you?
+Online Director  
+Online Department  
+TN Valley Media  
+201 First Ave. S.E  
+Decatur, AL 35601
 
-What do we do with the information we gather about you?
+[ ](https://www.timesdaily.com/site/shoals_woman_of_the_year_nomination_form.html "Shoals Woman of the Year Nomination")
 
-What is our e-mail policy?
+###  TNValley Brides e-Edition 
 
-With whom do we share the information that we gather?
+[ ](https://tnvalleymedia.pageflip.site/editions/TVB50211)
 
-How do I change or update my personal information?
+[](http://www.timesdaily.com/sports/high_school/ "HS FB Player Vote")
 
-How do I opt-out from receiving promotional offers?
-
-Is my information protected?
-
-Other information: Compliance with legal process
-
-Other information: Children's Guidelines
-
-Other information: Changes to this Privacy Policy
-
-What information do we gather about you?
-
-The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address and 2) tracking information collected as you navigate through our sites.
-
- **Personally Identifiable Information**
-
- **Registration for our Web sites**
-
-Anyone can view the Site, but a free registration process is required to access the full range of information and services we offer.
-
-TimesDaily.com requires that you supply a unique e-mail address and demographic information (zip code, age, sex, household income to register. By using TimesDaily.com, you are agreeing to the terms of our Member Agreement).
-
- **Contests, Sweepstakes and Special Offers**
-
-On occasion, TimesDaily collects personal information from readers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than TimesDaily, we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer.
-
- **Reader Surveys, Reader Panels and Market Research**
-
-TimesDaily may collect personal information from readers in connection with voluntary surveys. Data may be collected on our Web sites, on the phone or through the mail. The information you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
-
- **Mobile Messaging Service**
-
-We may elect to offer certain text messaging services (the “SMS Service”). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies.
-
-TimesDaily collects the mobile phone number you use to send us a text message and the content of the messages sent between you and TimesDaily. When you send a text message to TimesDaily or via TimesDaily, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. TimesDaily uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service.
-
- **Aggregate Information Collected Through Technology**
-
- **Cookies and Other Technologies**
-
-As is standard practice on many Web sites, TimesDaily uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "TimesDaily.com" cannot access most areas of our sites.
-
-We reserve the right to place a TimesDaily Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
-
-For detailed information about our use of cookies, see the Frequently Asked Questions area of our Member Center.
-
-TENNESSEE VALLEY PRINTING COMPANY, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of TimesDaily.com is owned and used by TimesDaily or TENNESSEE VALLEY PRINTING COMPANY. TimesDaily reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
-
-We reserve the right to change the vendors who provide us with usage data.
-
- **Clear Gifs (Web Beacons/Web Bugs)**
-
-Advertisers on TimesDaily.com may elect to use third party advertising companies to serve ads on our Web site, and in these instances may use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs/action tags/pixel tags) to better manage advertising on our site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. Clear gifs may ping or alert the advertiser's server about the online movements of Web users. For instance, advertisers may place a clear gif allowing them to recognize an existing cookie on your browser if from the same service. The main difference between cookies and clear gifs is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Please keep in mind, we do not have access to any information collected by these clear gifs nor additional information they may be tied to by the advertiser.
-
- **IP Addresses**
-
-TimesDaily logs IP (Internet Protocol) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use the IP address log in an aggregate fashion to track access to our site.
-
- **Log Files**
-
-Log data is only used in aggregate to analyze usage of our Web.
-
-What do we do with the information we gather about you?
-
-**Statistical Analysis**
-
-TimesDaily may perform statistical, demographic and marketing analyses of subscribers, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent. TimesDaily may share personal information with TENNESSEE VALLEY PRINTING COMPANY for analysis purposes, including analysis to improve customer relationships.
-
- **Products and Service Message from TimesDaily**
-
-From time to time, we may provide subscribers with information and offers about other products and services offered by TimesDaily, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out. To opt-out of offers by mail please go here.
-
- **Banner Advertising**
-
-We may use behavioral, demographic and preference information to allow advertising on our Web sites to be targeted, in aggregate, to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We will disclose information to third parties only in aggregate form.
-
-User Generated Content (Message Boards, Forums, Reader Reviews and Chats)
-
-We offer message boards for readers in a number of areas throughout our Web sites. The message boards are currently hosted and managed by Grouppee, a third party vendor. Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by TimesDaily for online and offline promotional or commercial uses in any and all media. Chats are also currently hosted by Grouppee, and any posting to a chat becomes public as soon as they are published online. For more information, see the Terms of Service.
-
- **E-Mail Newsletters**
-
-If you choose to receive them, TimesDaily will periodically send you e-mail newsletters or promotional e-mail about services offered by TimesDaily and its advertisers. For details about TimesDaily e-mail, please see the next section,
-
-What is our e-mail policy?
-
-TimesDaily complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [online@TimesDaily.com](mailto:online@TimesDaily.com).
-
- **Account and Service-Related E-mail:**
-
-TimesDaily reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to the Site and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
-
- **E-mail Newsletters:**
-
-We offer e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter.
-
- **Promotional E-mail:**
-
-If you chose to receive them during the registration process, we may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can opt-out.
-
-From time to time, TimesDaily may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can opt-out.
-
- **Survey E-mail:**
-
-If you have not opted out, we may send you an e-mail inviting you to participate in user surveys, asking for feedback on TimesDaily.com and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
-
- **E-mails From You:**
-
-If you send us e-mails, you should be aware that information disclosed in e-mails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in e-mails. We will use your e-mail address to respond directly to your questions or comments.
-
- **E-mail This Article Feature:**
-
-TimesDaily.com readers may use this feature to send links to articles to others through e-mail. The e-mail address(es) that you supply to this service will only be used to send the requested article.
-
-With whom do we share the information that we gather?
-
-If you have registered to one of our sites, TimesDaily will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.
-
-If you are a print subscriber to TimesDaily and you subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may opt-out.
-
- **Service Providers**
-
-We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for TimesDaily, and they may not share or resell this data.
-
-We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the “Compliance with legal process” section of this policy.)
-
-How do I change or update my personal information?
-
-Manage your TimesDaily.com account at Member Center: You may review and update your TimesDaily.com membership or account information and access your transaction history in the Member Center.
-
-There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process, sign up for our e-mail newsletters and manage your home and email newsletter delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to enter your password. If you do not remember your password, you can reset your password. If you need further assistance, please contact Customer Service at 256-766-3434 or [online@TimesDaily.com](mailto:online@TimesDaily.com).
-
-How do I opt-out from receiving promotional offers?
-
-**E-mail Promotions**
-
-Follow the unsubscribe options at the bottom of the e-mail.
-
-Is my information protected?
-
-**Data Security**
-
-To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online.
-
-Other Information: Compliance with Legal Process
-
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Web sites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
-
-Other Information: Children's Guidelines
-
-COPPA Compliance:
-
-In accordance with the Children's Online Privacy Protection Act (COPPA), TimesDaily does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13.
-
-Yahoo! Ads and Opt-Out Policies
-
-Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Tennessee Valley Printing Company Web sites. To improve your ad experience on Tennessee Valley Printing Web sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display.
-
-To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>.
-
-Yahoo! is a member of the Network Advertising Initiative. See [http://www.networkadvertising.org](http://www.networkadvertising.org/).
-
-Other Information: Changes to This Policy
-
-This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect. Registered users will be notified via e-mail.
+###  Sign up for our Newsletter 
