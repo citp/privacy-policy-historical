@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the neilarey.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610210401id_/http%3A//darebee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neilarey.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401094508id_/https%3A//darebee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy discloses the privacy practices for DAREBEE (darebee.com). This privacy policy applies solely to information collected by this web site.
 
-We are the sole owners of the information collected on this site. We only have access to information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+We are the sole owners of the information collected on this site. We only have access to information that you voluntarily give us via email or other direct contact from you. We do not sell or rent this information to anyone.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to delete your forum (The Hive) account.
+We will use your information to respond to you, regarding the reason you contacted us. We do not and will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to delete your forum (The Hive) account.
+
+We do not engage in any email marketing and will not bother you with any communication from us. 
 
 You can do the following at any time by contacting us via the email address or phone number given on our website:
 
