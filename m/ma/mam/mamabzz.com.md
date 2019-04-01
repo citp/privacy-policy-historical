@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamabzz.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816122248id_/https%3A//adventuresofmel.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamabzz.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401120523id_/https%3A//adventuresofmel.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure - Adventures of Mel
 
