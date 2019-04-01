@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the razorsocial.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229192807id_/https%3A//www.razorsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorsocial.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401040325id_/https%3A//www.razorsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Last updated: October 15, 2015**
 
-RazorSocial (“us”, “we”, or “our”) operates the www.razorsocial.com website (the “Service”).
+RazorSocial (“us”, “we”, or “our”) operates the razorsocial.flywheelsites.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
- **We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.razorsocial.com
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at razorsocial.flywheelsites.com
 
 ## Information Collection And Use
 
@@ -32,33 +32,31 @@ We use “cookies” to collect information. You can instruct your browser to re
 
 RazorSocial uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-  *  **AdRoll** AdRoll remarketing service is provided by Semantic Sugar, Inc.You can opt-out of AdRoll remarketing by visiting this [AdRoll Advertising Preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false "AdRoll Advertising Preferences") web page.For more information on the privacy practices of AdRoll, please visit the [AdRoll Privacy Policy](http://www.adroll.com/about/privacy "AdRoll Privacy Policy") web page.
-  *   * 
+**AdRoll** AdRoll remarketing service is provided by Semantic Sugar, Inc.You can opt-out of AdRoll remarketing by visiting this [AdRoll Advertising Preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false "AdRoll Advertising Preferences") web page.For more information on the privacy practices of AdRoll, please visit the [AdRoll Privacy Policy](http://www.adroll.com/about/privacy "AdRoll Privacy Policy") web page. 
 
-
-##  **Service Providers**
+## Service Providers
 
 We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
 These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-##  **Communications**
+## Communications
 
 We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
 
-##  **Compliance With Laws**
+## Compliance With Laws
 
 We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-##  **Business Transaction**
+## Business Transaction
 
 If RazorSocial is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
-##  **Security**
+## Security
 
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-##  **International Transfer**
+## International Transfer
 
 Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
@@ -66,27 +64,27 @@ If you are located outside Ireland and choose to provide information to us, plea
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-##  **Links To Other Sites**
+## Links To Other Sites
 
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-##  **Children’s Privacy**
+## Children’s Privacy
 
 Our Service does not address anyone under the age of 13 (“Children”).
 
 We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers.
 
-##  **Changes To This Privacy Policy**
+## Changes To This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-##  **Contact Us**
+## Contact Us 
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20181229192807id_/https://www.razorsocial.com/contact).
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/contact).
 
 ## How we use Cookies
 
