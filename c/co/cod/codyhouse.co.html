@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the codyhouse.co privacy policy that was archived on 2018-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181028091058id_/https%3A//codyhouse.co/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codyhouse.co privacy policy that was archived on 2019-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190401144341id_/https%3A//codyhouse.co/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=""><head>
+<!DOCTYPE html><html lang="en" class=" js"><head>
 <base href="https://codyhouse.co/">
 <title>Privacy Policy | CodyHouse</title>
 <meta charset="UTF-8">
@@ -19,24 +19,23 @@
 <meta name="theme-color" content="#ffffff">
 
 
-
 <meta property="og:url" content="https://codyhouse.co/privacy-policy">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Privacy Policy | CodyHouse">
 <meta property="og:description" content="CodyHouse policy regarding the collection, use and disclosure of Personal Information.">
-<meta property="og:image" content="https://codyhouse.co/assets/img/https://codyhouse.co/assets/img/open-graph.png">
+<meta property="og:image" content="https://codyhouse.co/assets/img/open-graph.png">
 <meta property="og:site_name" content="CodyHouse">
 
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script>document.getElementsByTagName("html")[0].classList.remove('no-js');</script>
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700|Source+Code+Pro" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css?v=2">
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script>document.getElementsByTagName("html")[0].className += " js";</script>
+<link rel="stylesheet" href="https://use.typekit.net/imv7amp.css">
+<link rel="stylesheet" href="assets/css/style.css?v=11"> 
 </head>
-<body>
-<header class="main-header   js-main-header">
+<body class="user--not-logged-in">
+<header class="main-header js-main-header  ">
 <div class="main-header__container container container--xl">
-<a href="/" class="logo">
-<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
-<title>Logo</title>
+<a href="/" class="logo" aria-label="Go to homepage">
+<svg aria-hidden="true" viewBox="0 0 34 34">
+<title>CodyHouse Logo</title>
 <path d="M33.663,18.748v-3.3H28.652a13.358,13.358,0,0,0-.757-3.714,8.617,8.617,0,0,0,3.248-6.906H27.72a5.2,5.2,0,0,1-1.543,3.881,9.984,9.984,0,0,0-3.836-2.82h0a5.3,5.3,0,0,0-5.392-4.074,5.3,5.3,0,0,0-5.392,4.074A9.989,9.989,0,0,0,7.733,8.7,5.289,5.289,0,0,1,6.22,4.872c0-.011-.008-.04-.019-.04H2.8c-.011,0-.02.03-.02.04A8.538,8.538,0,0,0,6,11.734H6a13.358,13.358,0,0,0-.758,3.718H.337v3.3H5.426a17.828,17.828,0,0,0,1.159,3.691h0a8.206,8.206,0,0,0-3.8,7.3h3.4A4.776,4.776,0,0,1,8.193,25.5h0c2.332,3.718,5.681,6.685,8.756,6.685,3.094,0,6.463-3,8.8-6.752a5.186,5.186,0,0,1,1.959,4.186c0,.015.013.119.028.119h3.41a8.178,8.178,0,0,0-3.821-7.316h0a17.8,17.8,0,0,0,1.15-3.67ZM11.618,17.191a2.419,2.419,0,1,1,2.419-2.419A2.419,2.419,0,0,1,11.618,17.191ZM16.949,24.7a2.992,2.992,0,1,1,2.992-2.992A2.992,2.992,0,0,1,16.949,24.7Zm5.331-7.479A2.419,2.419,0,1,1,24.7,14.8,2.419,2.419,0,0,1,22.28,17.223Z"></path>
 </svg>
 </a>
@@ -44,26 +43,40 @@
 <button class="main-nav__trigger js-trigger"><i>Menu</i><em aria-hidden="true">Close</em></button>
 <nav class="main-nav__list js-nav">
 <ul>
-<li><a href="web-components" class="">Web Components</a></li>
+<li class="main-nav__label">#menu</li>
+<li><a href="ds/get-started" class="">Design system</a></li>
 <li><a href="library" class="">Experiments</a></li>
-<li><a href="https://medium.com/codyhouse">Blog</a></li>
-<li>
-<a class="main-nav__social icon-text" href="https://twitter.com/CodyWebHouse">
-<i aria-hidden="true" class="icon icon--social icon--twitter"></i><span>Twitter</span>
+<li><a href="blog" class="">Blog</a></li>
+<li class="main-nav__label">#account</li>
+<li aria-hidden="true" class="main-nav__separator"></li>
+<li data-display="notLoggedIn">
+<a href="log-in">
+<span class="icon-text icon-text-gap--xxxs">
+<span>Login</span>
+<svg aria-hidden="true" class="icon" viewBox="0 0 16 16"><g><circle cx="8" cy="5" r="3"></circle><path d="M8 9a5 5 0 0 0-5 5h10a5 5 0 0 0-5-5z"></path></g></svg>
+</span>
 </a>
 </li>
-<li>
-<a class="main-nav__social icon-text" href="https://www.facebook.com/CodyWebHouse">
-<i aria-hidden="true" class="icon icon--social icon--facebook"></i><span>Facebook</span>
+<li data-display="loggedIn">
+<a class="main-nav__account-btn js-main-nav__account" href="account/account-settings">
+<span class="icon-text icon-text-gap--xxxs">
+<span>Account</span>
+<svg aria-hidden="true" class="icon" viewBox="0 0 16 16"><polygon points="3,5 8,11 13,5 "></polygon></svg>
+</span>
 </a>
+<ul class="main-nav__menu js-main-nav__menu">
+<li><a href="account/account-settings">Account settings</a></li>
+<li><a href="log-out">Logout</a></li>
+</ul>
 </li>
 </ul>
 </nav>
 </div>
 </div>
 </header>
-<main class="main-content">
-<div class="article container container--mm c-margin-vertical">
+<main class="margin-top--xl margin-bottom--xl">
+<div class="container container--sm">
+<div class="article text-component">
 <h1>Privacy Policy</h1>
 <p>This page informs you of Amber Creative Lab Ltd ("Amber Creative", “us”, “we”, or “our”) policies regarding the collection, use and disclosure of Personal Information when you use the CodyHouse website (from now on “CodyHouse”). We will not use or share your information with anyone except as described in this Privacy Policy.</p>
 <h2>Cookies</h2>
@@ -110,7 +123,7 @@
 <p>You can <a href="https://tools.google.com/dlpage/gaoptout">opt out of Google Analytics cookies</a>.</p>
 <h2>Information Sharing</h2>
 <p>We will not rent or sell your personally identifiable information to others. We may share your personally identifiable information with third parties to provide and enhance your navigation through the website (e.g., if you subscribed to our newsletter, we will share your email address with MailChimp, that is the email marketing service we use to create our newsletter campaigns). If we do this, such third parties' use of your information will be bound by this Privacy Policy.</p>
-<p>If you’re still unclear about our privacy policy, please contact us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="452d2029292a05262a213c2d2a3036206b262a">[email&nbsp;protected]</a></p>
+<p>If you’re still unclear about our privacy policy, please contact us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e48c8188888ba4878b809d8c8b919781ca878b">[email&nbsp;protected]</a></p>
 <p>
 Amber Creative Lab Ltd
 <br>86-90 Paul Street
@@ -118,48 +131,127 @@ Amber Creative Lab Ltd
 <br>EC2A 4NE
 </p>
 </div>
+</div>
 </main>
-<div class="privacy-policy-alert js-privacy-policy-alert is-hidden">
-<p>We use cookies to give you the best possible website experience. <span>By using CodyHouse, you agree to our <a href="privacy-policy">Privacy Policy</a>.</span></p>
-<a class="icon icon--16 img-replace js-close-alert">Close</a>
-</div><button class="back-to-top js-back-to-top">top</button>
+<div class="notification js-privacy-policy-alert js-notification" role="alert">
+<div class="notification__content">
+<div class="text-component">
+<p>📢 We use cookies to give you the best possible website experience. By using CodyHouse, you agree to our <a href="privacy-policy">Privacy Policy</a>.</p>
+</div>
+<button class="notification__btn js-notification__close">
+<svg class="icon" viewBox="0 0 16 16"><g><title>Close Notification</title><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 2l12 12"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 2L2 14"></path></g></svg>
+</button>
+</div>
+</div>
+<button class="back-to-top js-back-to-top">
+<svg class="icon icon--md" viewBox="0 0 32 32"><title>Back to top of page</title><g><path d="M31,2c0-0.552-0.448-1-1-1H2C1.448,1,1,1.448,1,2s0.448,1,1,1h28C30.552,3,31,2.552,31,2z"></path> <polygon points="16,7 8,16 15,16 15,31 17,31 17,16 24,16 "></polygon></g></svg>
+</button>
 <footer class="main-footer container container--xl">
+<div class="main-footer__content">
 <div class="footer-nav">
 <nav>
+<h4 class="footer-nav__title">Design system</h4>
 <ul>
-<li><a href="web-components">Web Components</a></li>
-<li><a href="library">Experiments</a></li>
-<li><a href="https://medium.com/codyhouse">Blog</a></li>
-<li><a href="terms">Terms &amp; License</a></li>
-<li><a href="privacy-policy">Privacy Policy</a></li>
-<li><a href="/cdn-cgi/l/email-protection#d4bcb1b8b8bb94b7bbb0adbcbba1a7b1fab7bb"><span class="__cf_email__" data-cfemail="5038353c3c3f10333f3429383f2523357e333f">[email&nbsp;protected]</span></a></li>
+<li><a href="ds/get-started">Documentation</a></li>
+<li><a href="ds/docs/framework">Framework</a></li>
+<li><a href="ds/components">Components</a></li>
+<li><a href="ds/globals">Globals</a></li>
+<li><a href="https://codyhouse.nolt.io/">Suggest Component</a></li>
 </ul>
 </nav>
-<p>©2014 - 2018 CodyHouse. A project by <a href="https://twitter.com/romano_cla">@romano_cla</a> and <a href="https://twitter.com/guerriero_se">@guerriero_se</a></p>
+<nav>
+<h4 class="footer-nav__title">Experiments</h4>
+<ul>
+<li><a href="library">All experiments</a></li>
+<li><a href="library/effects">Effects</a></li>
+<li><a href="library/navigations">Navigations</a></li>
+<li><a href="library/templates">Templates</a></li>
+<li><a href="library/ux-patterns">UX patterns</a></li>
+</ul>
+</nav>
+<nav>
+<h4 class="footer-nav__title">Support</h4>
+<ul>
+<li><a href="faq">Questions &amp; Answers</a></li>
+<li><a href="contact">Contact</a></li>
+<li><a href="license">License</a></li>
+<li><a href="terms">Terms</a></li>
+<li><a href="privacy-policy">Privacy policy</a></li>
+</ul>
+</nav>
+<nav>
+<h4 class="footer-nav__title">Socials</h4>
+<ul>
+<li>
+<a href="blog" class="icon-text footer-nav__item-social">
+<svg class="icon" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16"><g><path d="M14,0H2C1.4,0,1,0.4,1,1v14c0,0.6,0.4,1,1,1h12c0.6,0,1-0.4,1-1V1C15,0.4,14.6,0,14,0z M13,14H3V2h10V14z"></path> <rect data-color="color-2" x="4" y="3" width="4" height="4"></rect> <rect data-color="color-2" x="9" y="4" width="3" height="1"></rect> <rect data-color="color-2" x="9" y="6" width="3" height="1"></rect> <rect data-color="color-2" x="4" y="8" width="8" height="1"></rect> <rect data-color="color-2" x="4" y="10" width="8" height="1"></rect> <rect data-color="color-2" x="4" y="12" width="5" height="1"></rect></g></svg>
+<span>Blog</span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/CodyWebHouse" class="icon-text footer-nav__item-social twitter">
+<svg class="icon" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16"><title>logo twitter</title><g><path d="M16,3c-0.6,0.3-1.2,0.4-1.9,0.5c0.7-0.4,1.2-1,1.4-1.8c-0.6,0.4-1.3,0.6-2.1,0.8c-0.6-0.6-1.5-1-2.4-1 C9.3,1.5,7.8,3,7.8,4.8c0,0.3,0,0.5,0.1,0.7C5.2,5.4,2.7,4.1,1.1,2.1c-0.3,0.5-0.4,1-0.4,1.7c0,1.1,0.6,2.1,1.5,2.7 c-0.5,0-1-0.2-1.5-0.4c0,0,0,0,0,0c0,1.6,1.1,2.9,2.6,3.2C3,9.4,2.7,9.4,2.4,9.4c-0.2,0-0.4,0-0.6-0.1c0.4,1.3,1.6,2.3,3.1,2.3 c-1.1,0.9-2.5,1.4-4.1,1.4c-0.3,0-0.5,0-0.8,0c1.5,0.9,3.2,1.5,5,1.5c6,0,9.3-5,9.3-9.3c0-0.1,0-0.3,0-0.4C15,4.3,15.6,3.7,16,3z"></path></g></svg>
+<span>Twitter</span>
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/CodyWebHouse" class="icon-text footer-nav__item-social facebook">
+<svg class="icon" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16"><title>logo facebook</title><g><path d="M15.3,0H0.7C0.3,0,0,0.3,0,0.7v14.7C0,15.7,0.3,16,0.7,16H8v-5H6V8h2V6c0-2.1,1.2-3,3-3 c0.9,0,1.8,0,2,0v3h-1c-0.6,0-1,0.4-1,1v1h2.6L13,11h-2v5h4.3c0.4,0,0.7-0.3,0.7-0.7V0.7C16,0.3,15.7,0,15.3,0z"></path></g></svg>
+<span>Facebook</span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCQhxjJcgCwDW_2JqlDBsWtA" class="icon-text footer-nav__item-social youtube">
+<svg class="icon" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16"><title>logo youtube</title><g><path d="M15.8,4.8c-0.2-1.3-0.8-2.2-2.2-2.4C11.4,2,8,2,8,2S4.6,2,2.4,2.4C1,2.6,0.3,3.5,0.2,4.8C0,6.1,0,8,0,8 s0,1.9,0.2,3.2c0.2,1.3,0.8,2.2,2.2,2.4C4.6,14,8,14,8,14s3.4,0,5.6-0.4c1.4-0.3,2-1.1,2.2-2.4C16,9.9,16,8,16,8S16,6.1,15.8,4.8z M6,11V5l5,3L6,11z"></path></g></svg>
+<span>Youtube</span>
+</a>
+</li>
+<li>
+<a href="https://github.com/CodyHouse" class="icon-text footer-nav__item-social github">
+<svg class="icon" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16"><title>logo github</title><g><path fill-rule="evenodd" clip-rule="evenodd" d="M8,0.2c-4.4,0-8,3.6-8,8c0,3.5,2.3,6.5,5.5,7.6 C5.9,15.9,6,15.6,6,15.4c0-0.2,0-0.7,0-1.4C3.8,14.5,3.3,13,3.3,13c-0.4-0.9-0.9-1.2-0.9-1.2c-0.7-0.5,0.1-0.5,0.1-0.5 c0.8,0.1,1.2,0.8,1.2,0.8C4.4,13.4,5.6,13,6,12.8c0.1-0.5,0.3-0.9,0.5-1.1c-1.8-0.2-3.6-0.9-3.6-4c0-0.9,0.3-1.6,0.8-2.1 c-0.1-0.2-0.4-1,0.1-2.1c0,0,0.7-0.2,2.2,0.8c0.6-0.2,1.3-0.3,2-0.3c0.7,0,1.4,0.1,2,0.3c1.5-1,2.2-0.8,2.2-0.8 c0.4,1.1,0.2,1.9,0.1,2.1c0.5,0.6,0.8,1.3,0.8,2.1c0,3.1-1.9,3.7-3.7,3.9C9.7,12,10,12.5,10,13.2c0,1.1,0,1.9,0,2.2 c0,0.2,0.1,0.5,0.6,0.4c3.2-1.1,5.5-4.1,5.5-7.6C16,3.8,12.4,0.2,8,0.2z"></path></g></svg>
+<span>Github</span>
+</a>
+</li>
+<li>
+<a href="newsletter" class="icon-text footer-nav__item-social">
+<svg class="icon" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16"><title>email</title><g><path data-color="color-2" d="M14,6.883V13H2V6.82L0,5.695V14c0,0.553,0.448,1,1,1h14c0.552,0,1-0.447,1-1V5.783L14,6.883z"></path> <path d="M15,1H1C0.4,1,0,1.4,0,2v1.4l8,4.5l8-4.4V2C16,1.4,15.6,1,15,1z"></path> </g></svg>
+<span>Newsletter</span>
+</a>
+</li>
+<li>
+<a href="http://feeds.feedburner.com/codyhouse/feeds" class="icon-text footer-nav__item-social">
+<svg class="icon" aria-hidden="true" viewBox="0 0 16 16" width="16" height="16"><title>logo-rss</title><g><circle cx="3" cy="13" r="2"></circle> <path d="M15,15h-2.7C12.3,8.8,7.2,3.7,1,3.7V1C8.7,1,15,7.3,15,15z"></path> <path d="M10.3,15H7.7c0-3.7-3-6.7-6.7-6.7V5.7C6.1,5.7,10.3,9.9,10.3,15z"></path></g></svg>
+<span>RSS</span>
+</a>
+</li>
+</ul>
+</nav>
 </div>
 <div class="footer-avd">
-<div class="footer-avd__img">
+<div class="footer-avd__label">Sponsored by</div>
+<div class="footer-avd__wrapper">
+<div aria-hidden="true" class="footer-avd__img">
 <a href="https://nucleoapp.com/?ref=2214">
-<img src="assets/img/sponsor/footer.svg" alt="Nucleo Icons">
+<svg width="60" height="60" viewBox="0 0 60 60"><title>nc logo</title><g><circle cx="30" cy="30" r="30" fill="#608cee"></circle><path d="M36.076 23.927a59.254 59.254 0 0 0-4.489-4.056c4.179-3.071 8.132-4.924 10.826-4.924a2.735 2.735 0 0 1 2 .652c1.54 1.54.359 6.042-3.335 11.485H43.4a33.4 33.4 0 0 0 1.967-3.528c2.023-4.266 2.172-7.579.421-9.332A4.582 4.582 0 0 0 42.413 13c-4.591 0-11.848 4.288-18.488 10.926a58.708 58.708 0 0 0-4.054 4.494c-4.432-6.035-5.944-11.16-4.279-12.821a2.734 2.734 0 0 1 2-.653c2.408 0 5.816 1.477 9.491 3.98V16.6c-3.611-2.292-6.96-3.6-9.5-3.6a4.579 4.579 0 0 0-3.374 1.221c-1.751 1.751-1.6 5.066.421 9.333a47.559 47.559 0 0 0 9.289 12.519 59.523 59.523 0 0 0 4.491 4.058c-4.179 3.071-8.134 4.925-10.827 4.925a2.731 2.731 0 0 1-2-.652c-1.541-1.54-.36-6.042 3.334-11.486H16.6a33.23 33.23 0 0 0-1.968 3.528c-2.023 4.267-2.172 7.579-.421 9.332A4.58 4.58 0 0 0 17.587 47c4.591 0 11.848-4.288 18.488-10.926a58.876 58.876 0 0 0 4.054-4.494c4.432 6.035 5.945 11.16 4.279 12.821a2.73 2.73 0 0 1-2 .652c-2.4 0-5.817-1.477-9.492-3.98V43.4c3.611 2.293 6.96 3.6 9.495 3.6a4.579 4.579 0 0 0 3.374-1.221c1.751-1.751 1.6-5.065-.421-9.332a47.546 47.546 0 0 0-9.288-12.52zM34.7 34.7a57.265 57.265 0 0 1-4.7 4.214 57.28 57.28 0 0 1-4.7-4.214 56.892 56.892 0 0 1-4.219-4.7 56.437 56.437 0 0 1 4.219-4.7 57.2 57.2 0 0 1 4.7-4.213 56.772 56.772 0 0 1 4.7 4.213 56.7 56.7 0 0 1 4.219 4.7 56.9 56.9 0 0 1-4.219 4.7z" fill="#111"></path><circle cx="30" cy="30" r="3.4" fill="#fff"></circle></g></svg>
 </a>
 </div>
-<div>
-<div class="footer-avd__label">Sponsored by</div>
-<p class="footer-avd__text">
+<p class="footer-avd__content">
 <a href="https://nucleoapp.com/?ref=2214">Nucleo is a free app to organize your icons and export them as icon font and SVG symbols.</a>
 </p>
 </div>
 </div>
+</div>
+<div class="main-footer__copy">
+<p>©2014 - 2019 CodyHouse. A project by <a href="https://twitter.com/romano_cla">@romano_cla</a> and <a href="https://twitter.com/guerriero_se">@guerriero_se</a></p>
+</div>
 </footer>
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
-	var ROUTE    = 'privacy-policy';
-	var AJAX_URL = 'post/';
-</script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-<script>
-	if( !window.jQuery ) document.write('<script src="assets/js/jquery-3.0.0.min.js"><\/script>');
-</script><script src="assets/js/jquery-3.0.0.min.js"></script>
-<script src="assets/js/main.js?v=2"></script>
+  var ROUTE    = 'privacy-policy';
+  var AJAX_URL = 'post/';
+  var IS_LOGGED = '0';
+  var IS_FREE = '0';
+  var PROJECT = null</script>
+<script src="assets/js/min/main.min.js?v=8"></script> 
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -171,6 +263,5 @@ Amber Creative Lab Ltd
   ga('set', 'anonymizeIp', true);
   ga('send', 'pageview');
 </script>
-
 
 </body></html>
