@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storagetreasures.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001083201id_/https%3A//www.storagetreasures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagetreasures.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401030404id_/https%3A//www.storagetreasures.com/privacy) for the most accurate reproduction.*
 
 # StorageTreasures Privacy Policy | StorageTreasures.com
 
