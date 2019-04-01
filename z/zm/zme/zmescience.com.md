@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226114434id_/https%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401190946id_/https%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Cookie Settings
 
-Last updated: May 24, 2018
+Last updated: February 6, 2019
 
 This privacy policy sets out how ZME Science uses and protects any information that you give ZME Science when you use this website.
 
@@ -16,7 +16,7 @@ Before you submit any data to our Services, please carefully review this Policy 
 
 Also, please note that this policy applies to ZME Science and not any third party sites to which ZME Science may link, except if otherwise mentioned.
 
-The policy also applies regardless of the device used to access our Services, be it personal computer, mobile device, consumer electronics device, or any other technology or software known today or developed in the future. Some services affiliated with ZME Science may subscribe to a different privacy policy.
+The policy also applies regardless of the device used to access our Services, be it a personal computer, mobile device, consumer electronics device, or any other technology or software known today or developed in the future. Some services affiliated with ZME Science may subscribe to a different privacy policy.
 
 For the purpose of data protection applicable in different parts of the world, ZME Science will be a ‘data controller’ (or such equivalent or replacement terminology as appropriate) for the information you provide through the Services. There may be other controllers as well (e.g., advertisers), and we encourage you to consult their privacy policies to learn more about their privacy practices.
 
@@ -61,7 +61,7 @@ We may also collect information from your browser or device. This includes but 
 
  **2\. Location**
 
-We and our service provides may collect both direct and indirect Location data (e.g., IP address, zip code). The Services use this location information to provide customized location-based services, content, promotional offers and other information that may be of interest to you.
+We and our service providers may collect both direct and indirect Location data (e.g., IP address, zip code). The Services use this location information to provide customized location-based services, content, promotional offers and other information that may be of interest to you.
 
 We may also use location information to improve the functionality of the Services.
 
@@ -156,22 +156,27 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
  **1\. Analytics**
 
-We may use third-party web analytics services on our Services, such as those of Google Analytics. These service providers use the sort of technology previously described in the “Cookies and other electronic technologies” section to help us analyze how users use the Services, including by noting the third-party website from which you arrive, and provide certain features to you. For example, the Google Trusted Store badge displayed on some of the Services is served to you through the use of cookies. The information (including your IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in the following section. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by [clicking here.](https://tools.google.com/dlpage/gaoptout)
+We may use third-party web analytics services on our Services, such as those of Google Analytics provided byGoogle, Inc. (“Google”). These service providers use the sort of technology previously described in the “Cookies and other electronic technologies” section to help us analyze how users use the Services, including by noting the third-party website from which you arrive, and provide certain features to you. For example, the Google Trusted Store badge displayed on some of the Services is served to you through the use of cookies. The information (including your IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in the following section.
+
+Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.
+
+To prevent Google Analytics from using your information for analytics, you may refuse the use of cookies by selecting the appropriate settings on your browser. Visit[ Google’s Privacy Policy](https://policies.google.com/privacy) for more information.
 
 If you receive emails from us, we may use certain tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
 
  **2\. Tailored mobile and desktop advertising**
 
-The advertisements you see while using our Services may be personalized through the use of third-party advertising technologies that allow for the delivery of relevant content and advertising on the Services, as well as other websites you visit and other applications you use. The ads may be based on various factors such as the content of the page you are visiting, information you provide such as your age and gender, your searches, demographic data, user-generated content, and other information we collect from you. These ads may be based on your current activity or your activity over time and across other websites and online services and may be tailored to your interests.
+The advertisements you see while using our Services may be personalized through the use of third-party advertising technologies that allow for the delivery of relevant content and advertising on the Services, as well as other websites you visit and other applications you use. The ads may be based on various factors such as the content of the page you are visiting, the information you provide such as your age and gender, your searches, demographic data, user-generated content, and other information we collect from you. These ads may be based on your current activity or your activity over time and across other websites and online services and may be tailored to your interests.
 
-Also, third parties whose products or services are accessible or advertised via the Services may place cookies or other tracking technologies on your computer, mobile phone, or other device to collect information about your use of the Services in order to (i) inform, optimize, and serve ads based on past visits to our websites and other sites and (ii) report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our websites and use of our Services. We also allow other third parties (e.g., ad networks and ad servers such as Google Analytics, DoubleClick and others) to serve tailored ads to you on the Services, other sites, and in other applications, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services. We also may share with third-party advertisers a hashed version of your email address, solely in non-human readable form and content that you share publicly when using the services (e.g., user-generated content) for purposes of delivering tailored advertising. We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties.
+Also, third parties whose products or services are accessible or advertised via the Services may place cookies or other tracking technologies on your computer, mobile phone, or other device to collect information about your use of the Services in order to (i) inform, optimize, and serve ads based on past visits to our websites and other sites and (ii) report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our websites and use of our Services. We also allow other third parties (e.g., ad networks and ad servers such as Google DoubleClick and others) to serve tailored ads to you on the Services, other sites, and in other applications, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services. We also may share with third-party advertisers a hashed version of your email address, solely in non-human readable form and content that you share publicly when using the services (e.g., user-generated content) for purposes of delivering tailored advertising. We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other devices you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties.
+
+Google and its partners — through Double Click and Ad Exchange technologies — use cookies to serve ads based on your visit to our website and/or other sites on the Internet. You may opt out of the use of this cookie by changing your privacy settings (top of this page) or by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 You may receive tailored advertising on your computer through a web browser. If you are interested in more information about tailored browser advertising and how you can generally control cookies from being put on your computer to deliver tailored advertising, you may visit the [Network Advertising Initiative’s Consumer Opt-Out link](http://www.networkadvertising.org/choices), the [Digital Advertising Alliance’s Consumer Opt-Out link](http://www.aboutads.info/choices/) , the [opt-out page of the European Interactive Digital Advertising Alliance](http://www.youronlinechoices.com/%20), or [TrustArc’s Preference Manager](http://preferences-mgr.truste.com/) to opt-out of receiving tailored advertising from companies that participate in those programs.
 
 For more information, check the privacy policies of:
 
 [https://freestar.io](https://freestar.io/)  
-<https://www.google.com/adsense/>  
 <https://www.marfeel.com/>  
 <https://getadmiral.com/>  
 <http://www.zergnet.com/>  
