@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002083428id_/https%3A//www.vibe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401043313id_/https%3A//www.vibe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Vibe
 
 **Privacy Policy** _Effective Date_ : January 15, 2016; _Last Updated:_ May 24, 2018
 
-This Privacy Policy is applicable to [www.billboard.com](https://www.billboard.com/), [www.billboardevents.com](http://www.billboardevents.com/), [www.hollywoodreporter.com](https://www.hollywoodreporter.com/), and any other site that may be operated by or for Prometheus Global Media (together, the “Websites”). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our [Terms of Use](https://www.vibe.com/terms-of-use/), which govern the basic operation of the Websites.
+This Privacy Policy is applicable to [www.billboard.com](https://www.billboard.com/), [www.billboardevents.com](http://www.billboardevents.com/), [www.hollywoodreporter.com](https://www.hollywoodreporter.com/), and any other site that may be operated by or for Prometheus Global Media (together, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our [Terms of Use](https://www.vibe.com/terms-of-use/), which govern the basic operation of the Websites.
 
 If you are an EU resident, see section 4 below, which will inform you in detail about the personal data we process, how we process it, for which purposes we process it, with whom we share it, on what legal basis we process and transfer your personal information and which rights you have regarding the processing of your personal information.
 
@@ -14,7 +14,7 @@ If you are an EU resident, see section 4 below, which will inform you in detail 
 
 When you visit a Website, we may collect certain information from and about you. It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you click.
 
-We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes a unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. Our “preference” cookie expires after ninety (90) days. We may use cookies to keep track of your choice of language and home page preference; to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites. We also may use a small piece of code (sometimes referred to as “1×1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.
+We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes a unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. Our “preference” cookie expires after ninety (90) days. We may use cookies to keep track of your choice of language and home page preference; to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites. We also may use a small piece of code (sometimes referred to as “1x1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.
 
 **You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our **Do Not Track** policy, please [click here](https://www.vibe.com/about-our-ads/).
 
@@ -57,7 +57,7 @@ Under the legislation applicable to you, you may be entitled to exercise some or
   * require (i) access to and/or duplicates of your personal data retained, (ii) receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (iii) to transmit those data to another controller without hindrance from our side; where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller;
   * request proper rectification, erasure or restriction of your personal data, e.g. because (i) it is incomplete or inaccurate, (ii) it is no longer needed for the purposes for which it was collected, or (iii) the consent on which the processing was based has been withdrawn, or (iv) you have taken advantage of an existing right to object to the data processing; in case the personal data is processed by third parties, your request for rectification, erasure or restriction will be forwarded also to such third parties unless this proves impossible or involves disproportionate effort;
   * refuse to provide and – without impact to data processing activities that have taken place before such withdrawal or to any other existing legal justification of the processing activity in question – withdraw your consent to processing of your personal data at any time;
-  * object at any time that your personal data will be used for direct marketing purposes, or – based on grounds relating to your particular situation – that your personal data shall be subject to data processing for other purposes;
+  * object at any time that your personal data will be used for direct marketing purposes, or - based on grounds relating to your particular situation - that your personal data shall be subject to data processing for other purposes;
   * take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators; and/or
   * not to be subject to any automated decision making, including profiling (automatic decisions based on data processing by automatic means, for the purpose of assessing several personal aspects) which produce legal effects on you or affects you with similar significance _._
 
@@ -76,8 +76,8 @@ You may contact us at [privacy@prometheusgm.com](mailto:privacy@prometheusgm.com
 
 
 You may contact Prometheus Global Media regarding our privacy practices at the following address:Prometheus Global Media  
-340 Madison Avenue-6thFloor  
-New York, New York 10173  
+1540 Broadway  
+New York, New York 10036  
 1-212-493-4100  
 [privacy@prometheusgm.com](mailto:privacy@prometheusgm.com)
 
@@ -86,3 +86,9 @@ New York, New York 10173
 
 
 This Privacy Policy was last updated on May 24, 2018. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
+
+##  The Vibe Mix Newsletter 
+
+**All things VIBE.** Daily - Straight to your inbox. 
+
+**All things VIBE.** You have signed up and will start receiving the Vibe Mix Newsletter immediately. 
