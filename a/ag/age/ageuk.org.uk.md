@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231064136id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401050759id_/https%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Age UK
 
@@ -256,6 +256,10 @@ Like many other websites, this website uses cookies. 'Cookies' are small pieces 
 
 It is possible to switch off cookies by setting your browser preferences. For more information on how to switch off cookies on your computer, [visit our full cookies policy](https://web.archive.org/help/cookies/). Turning cookies off may result in a loss of functionality when using our website.
 
+If you use Facebook or our website, Age UK may show you content we think you will be interested in seeing, based on your previous online engagement with us. This is done through the use of cookies, which you can find more about in our [cookies policy](https://web.archive.org/help/cookies/ "Cookies policy").
+
+We may also use these cookies to build “lookalike” audiences, in order to reach more individuals who might be interested in the work Age UK does.
+
 Our website may contain links to other websites run by other organisations. This policy applies only to our website‚ so we encourage you to read the privacy statements on the other websites you visit. We cannot be responsible for the privacy policies and practices of other websites even if you access those using links from our website.
 
 In addition, if you linked to our website from a third party site, we cannot be responsible for the privacy policies and practices of the owners and operators of that third party site and recommend that you check the privacy policy of that third party site.
@@ -274,4 +278,4 @@ Our website may also use the SessionCam website recording service. SessionCam is
 
 Any changes we may make to this policy in the future will be posted on this website so please check this page occasionally to ensure that you're happy with any changes. If we make any significant changes we'll make this clear on this website.
 
-We keep this policy under regular review. This policy was last updated in June 2018.
+We keep this policy under regular review. This policy was last updated in January 2019.
