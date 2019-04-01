@@ -1,121 +1,201 @@
-> *The following text is extracted and transformed from the zenmate.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515211351id_/http%3A//zenmate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenmate.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402012304id_/https%3A//zenmate.com/privacy-policy) for the most accurate reproduction.*
 
 # ZenMate's Privacy Policy - Ensuring your protection!
 
-In order to explain our handling of personal data to you and to comply with general legal provisions on data protection, ZenGuard GmbH has established this Privacy Policy. This Privacy Policy applies to all offered and operated services and benefits, particularly with regard to our website www.zenmate.com and the web browser plugin "ZenMate" offered by us as well as corresponding offers on mobile devices, other technical platforms and on social networks (hereinafter collectively referred to as "ZenMate").
+We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the ZenGuard GmbH. The use of the Internet pages of the ZenGuard GmbH is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.
 
-* * *
+## 1\. Definitions
 
-## 1\. Data Controller
+The data protection declaration of the ZenGuard GmbH is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR).
 
-The data controller responsible for any collection, processing and use of personal data in each of the ZenMate services is
-    
-    
-    ZenGuard GmbH
-    Ritterstr. 12-14
-    10969 Berlin, Germany
-    
+## 2\. The data we collect
 
-  * ("we" or "us").
+### Non-Personal Data
+
+The website of the ZenGuard GmbH collects a series of general data and information when a data subject or automated system calls up the website. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
+
+When using these general data and information, the ZenGuard GmbH does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the ZenGuard GmbH analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
+
+### Personal Data
+
+When registering through our Website you may be requested to provide your name, address, e-mail address, username and payment information which you submit to us voluntarily when you order or subscribe for our Services, as well as when you fill out any of the contact forms on the Website. This information is collected for proper administration of your account and/or subscription and to offer you customer support and, to the extent you so choose, to provide you with our newsletter and occasional promotional offers.
+
+If you elect to receive our newsletters, please note the newsletter of the ZenGuard GmbH contains so-called tracking pixels. A tracking pixel is a miniature graphic embedded in such e-mails, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of online marketing campaigns. Based on the embedded tracking pixel, ZenGuard GmbH may see if and when an e-mail was opened by a data subject, and which links in the e-mail were called up by data subjects. Such personal data collected in the tracking pixels contained in the newsletters are stored and analyzed by the controller in order to optimize the shipping of the newsletter, as well as to adapt the content of future newsletters even better to the interests of the data subject. These personal data will not be passed on to third parties. Data subjects are at any time entitled to revoke the respective separate declaration of consent issued by means of the double-opt-in procedure. After a revocation, these personal data will be deleted by the controller. Additionally, as part of our fraud detection measures, we shall collect data relating (i) to Website usage information, such as IP address (captured and stored in an anonymized format), approximate location (country only), (ii) transaction information, items purchased, the price paid, billing method, partial credit card information, chargeback requests, cancelled orders. The above-mentioned Personal Data is not, at any point, associated with any kind of activity done by the user inside the ZenMate VPN tunnel, which is NOT recorded, logged or stored at all.
+
+## 3\. Routine erasure and blocking of personal data
+
+The data controller shall process and store the personal data of the data subject only for the period necessary to achieve the purpose of storage, or as far as this is granted by the European legislator or other legislators in laws or regulations to which the controller is subject to. If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.
+
+## 4\. Why do we collect Your Personal Information?
+
+We collect the personal information:
+
+  * To offer you the ZenMate VPN Service (the “Service”) as requested by you
+  * For service improvement and personalization of the user experience
+  * Participation in Discussion Groups
+  * Newsletter subscriptions
+  * Scientific research and improvement of the Service
+  * To notify you of our new services or changes to our existing Services
+  * To send you technical or service-related communications
+  * To enforce the Terms of Service
 
 
 
-* * *
+## 5\. Sharing Your Personal Data
 
-## 2\. Personal Data
+We do not share, sell, rent or trade your Personal Data with third parties other than as disclosed within this Privacy Policy. We may disclose your Personal Data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes set out in this Policy.
 
-Our objective is that no personal data is collected, processed or permanently stored. Personal data is defined as any information concerning the personal or material circumstances of an identified or identifiable individual. Your personal data will be collected or utilized only to the extent necessary to perform our services or if you have given us your consent beforehand. This applies, for instance, in the following cases:
+Furthermore, we may share certain Personal Data with trusted vendors to carry out a transaction you have requested (e.g., sharing card payment information with our credit card processor to obtain payment of fees and to activate your subscription to the Service). You can find information about the payment services providers' privacy policies and practices at <https://www.cleverbridge.com/corporate/privacy-policy/> and <https://www.paypal.com/en/webapps/mpp/ua/privacy-full>.
 
-  * When you select a certain server to use ZenMate (see below point 2)
-  * When you contact our customer support (regarding product-related questions or information material etc.)
-  * Your subscription to newsletters and sending of newsletters and mailings
-  * Providing further information upon your request
-  * Your postings in forums, communities and through comment functions
+In order to assist you if you have questions while using our Website or regarding your order and provide comprehensive customer support, we offer the possibility of online chat. For the use of such online chat, you will be requested to provide personal data such as name and email. Our online chat is offered through Zendesk that will have access to collect and proses such personal data solely for the purpose of facilitating communication with you and record-keeping. To learn more, please visit: <https://www.zendesk.com/company/customers-partners/privacy-policy/>
+
+We may further collect and possibly share your Personal Data to enforce the Terms of Service. This may be done to prevent a crime or violation of our Terms of Service or to help solve a transgression that has been committed.
+
+We also reserve the right to disclose your Personal Data as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+Lastly, we may share Non-personal Data associated with the use of our Website with 3rd part suppliers for the purposes of optimization of our Website and Services as well customer analytics (e.g. Google, Facebook, Bing, LinkedIn Ads). These third parties will use Non-personal Data and/or Personal Data relating to your use of our Website to evaluate your use of the Website, compile reports on Site activity and provide other Site activity and internet related services, all in accordance with their applicable privacy policy.
+
+## 6\. Security of Your Personal Data
+
+ZenGuard GmbH will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## 7\. Your rights and Control:
+
+### Rights of the data subject
+
+a) Right of confirmation
+
+b) Right of access
+
+c) Right to rectification
+
+d) Right to erasure (Right to be forgotten)
+
+e) Right of restriction of processing
+
+f) Right to data portability
+
+g) Right to object
+
+h) Right not to be subject to Automated individual decision-making, including profiling
+
+i) Right to withdraw data protection consent
+
+We provide you with the ability to exercise certain choices and controls in connection with our treatment of your Personal Data. Depending on your relationship with us, these choices and controls may include, access to the Personal Data collected about you that we hold; correcting, updating or deleting the information associated with you that we hold; and in the event, you wish to opt out from the data collection or you are not able to exerciser your rights through your account please contact us at: support@zenmate.com. In the event you make such request, note that we may require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take reasonable time and effort. Data privacy and related laws in your jurisdiction may provide you with different or additional rights related to the data we collect from you, which may also apply.
+
+## 8\. Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## 8a. Data protection provisions about the application and use of Facebook
+
+On this website, the controller has integrated components of the enterprise Facebook. Facebook is a social network. The operating company of Facebook is Facebook, Inc., 1 Hacker Way, Menlo Park, CA 94025, United States. If a person lives outside of the United States or Canada, the controller is the Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland.
+
+With each call-up to one of the individual pages of this Internet website, which is operated by the controller and into which a Facebook component (Facebook plug-ins) was integrated, the web browser on the information technology system of the data subject is automatically prompted to download display of the corresponding Facebook component from Facebook through the Facebook component. An overview of all the Facebook Plug-ins may be accessed under <https://developers.facebook.com/docs/plugins/>. During the course of this technical procedure, Facebook is made aware of what specific sub-site of our website was visited by the data subject.
+
+If the data subject is logged in at the same time on Facebook, Facebook detects with every call-up to our website by the data subject—and for the entire duration of their stay on our Internet site—which specific sub-site of our Internet page was visited by the data subject. This information is collected through the Facebook component and associated with the respective Facebook account of the data subject. If the data subject clicks on one of the Facebook buttons integrated into our website, e.g. the "Like" button, or if the data subject submits a comment, then Facebook matches this information with the personal Facebook user account of the data subject and stores the personal data.
+
+Facebook always receives, through the Facebook component, information about a visit to our website by the data subject, whenever the data subject is logged in at the same time on Facebook during the time of the call-up to our website. This occurs regardless of whether the data subject clicks on the Facebook component or not. If such a transmission of information to Facebook is not desirable for the data subject, then he or she may prevent this by logging off from their Facebook account before a call-up to our website is made.
+
+The data protection guideline published by Facebook, which is available at <https://facebook.com/about/privacy/>, provides information about the collection, processing and use of personal data by Facebook. In addition, it is explained there what setting options Facebook offers to protect the privacy of the data subject. In addition, different configuration options are made available to allow the elimination of data transmission to Facebook. These applications may be used by the data subject to eliminate a data transmission to Facebook.
+
+## 8b. Data protection provisions about the application and use of Google Analytics (with anonymization function)
+
+On this website, the controller has integrated the component of Google Analytics (with the anonymizer function). Google Analytics is a web analytics service. Web analytics is the collection, gathering, and analysis of data about the behavior of visitors to websites. A web analysis service collects, inter alia, data about the website from which a person has come (the so-called referrer), which sub-pages were visited, or how often and for what duration a sub-page was viewed. Web analytics are mainly used for the optimization of a website and in order to carry out a cost-benefit analysis of Internet advertising.
+
+The operator of the Google Analytics component is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, United States.
+
+For the web analytics through Google Analytics the controller uses the application "_gat. _anonymizeIp". By means of this application the IP address of the Internet connection of the data subject is abridged by Google and anonymised when accessing our websites from a Member State of the European Union or another Contracting State to the Agreement on the European Economic Area.
+
+The purpose of the Google Analytics component is to analyze the traffic on our website. Google uses the collected data and information, inter alia, to evaluate the use of our website and to provide online reports, which show the activities on our websites, and to provide other services concerning the use of our Internet site for us. You have the possibility of objecting to a collection of data that are generated by Google Analytics, which is related to the use of this website, as well as the processing of this data by Google and the chance to preclude any such. For this purpose, you must download a browser add-on under the link <https://tools.google.com/dlpage/gaoptout> and install it. This browser add-on tells Google Analytics through a JavaScript, that any data and information about the visits of Internet pages may not be transmitted to Google Analytics. The installation of the browser add-ons is considered an objection by Google. If the information technology system of the data subject is later deleted, formatted, or newly installed, then the data subject must reinstall the browser add-ons to disable Google Analytics. If the browser add-on was uninstalled by the data subject or any other person who is attributable to their sphere of competence, or is disabled, it is possible to execute the reinstallation or reactivation of the browser add-ons.
+
+Further information and the applicable data protection provisions of Google may be retrieved under <https://www.google.com/intl/en/policies/privacy/> and under <http://www.google.com/analytics/terms/us.html>. Google Analytics is further explained under the following Link <https://www.google.com/analytics/>.
+
+## 8c. Data protection provisions about the application and use of Google-AdWords
+
+On this website, the controller has integrated Google AdWords. Google AdWords is a service for Internet advertising that allows the advertiser to place ads in Google search engine results and the Google advertising network. The operating company of Google AdWords is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, UNITED STATES.
+
+The purpose of Google AdWords is the promotion of our website by the inclusion of relevant advertising on the websites of third parties and in the search engine results of the search engine Google and an insertion of third-party advertising on our website.
+
+If a data subject reaches our website via a Google ad, a conversion cookie is filed on the information technology system of the data subject through Google. The definition of cookies is explained above. A conversion cookie loses its validity after 30 days and is not used to identify the data subject. If the cookie has not expired, the conversion cookie is used to check whether certain sub-pages, e.g, the shopping cart from an online shop system, were called up on our website. Through the conversion cookie, both Google and the controller can understand whether a person who reached an AdWords ad on our website generated sales, that is, executed or canceled a sale of goods.
+
+The data and information collected through the use of the conversion cookie is used by Google to create visit statistics for our website. These visit statistics are used in order to determine the total number of users who have been served through AdWords ads to ascertain the success or failure of each AdWords ad and to optimize our AdWords ads in the future. Neither our company nor other Google AdWords advertisers receive information from Google that could identify the data subject.To read more about Cookies, please visit our Cookie Policy.
+
+The conversion cookie stores personal information, e.g. the Internet pages visited by the data subject. Each time we visit our Internet pages, personal data, including the IP address of the Internet access used by the data subject, is transmitted to Google in the United States of America. These personal data are stored by Google in the United States of America. Google may pass these personal data collected through the technical procedure to third parties.
+
+The data subject has a possibility of objecting to the interest based advertisement of Google. Therefore, the data subject must access from each of the browsers in use the link www.google.de/settings/ads and set the desired settings.
+
+Further information and the applicable data protection provisions of Google may be retrieved under <https://www.google.com/intl/en/policies/privacy/>.
+
+## 8d. Data protection provisions about the application and use of Instagram
+
+On this website, the controller has integrated components of the service Instagram. Instagram is a service that may be qualified as an audiovisual platform, which allows users to share photos and videos, as well as disseminate such data in other social networks.
+
+The operating company of the services offered by Instagram is Instagram LLC, 1 Hacker Way, Building 14 First Floor, Menlo Park, CA, UNITED STATES.
+
+With each call-up to one of the individual pages of this Internet site, which is operated by the controller and on which an Instagram component (Insta button) was integrated, the Internet browser on the information technology system of the data subject is automatically prompted to the download of a display of the corresponding Instagram component of Instagram. During the course of this technical procedure, Instagram becomes aware of what specific sub-page of our website was visited by the data subject.
+
+If the data subject is logged in at the same time on Instagram, Instagram detects with every call-up to our website by the data subject—and for the entire duration of their stay on our Internet site—which specific sub-page of our Internet page was visited by the data subject. This information is collected through the Instagram component and is associated with the respective Instagram account of the data subject. If the data subject clicks on one of the Instagram buttons integrated on our website, then Instagram matches this information with the personal Instagram user account of the data subject and stores the personal data.
+
+Instagram receives information via the Instagram component that the data subject has visited our website provided that the data subject is logged in at Instagram at the time of the call to our website. This occurs regardless of whether the person clicks on the Instagram button or not. If such a transmission of information to Instagram is not desirable for the data subject, then he or she can prevent this by logging off from their Instagram account before a call-up to our website is made. Further information and the applicable data protection provisions of Instagram may be retrieved under <https://help.instagram.com/155833707900388> and <https://www.instagram.com/about/legal/privacy/>.
+
+## 8e. Data protection provisions about the application and use of Twitter
+
+On this website, the controller has integrated components of Twitter. Twitter is a multilingual, publicly-accessible microblogging service on which users may publish and spread so-called ‘tweets,’ e.g. short messages, which are limited to 280 characters. The operating company of Twitter is Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, UNITED STATES.
+
+With each call-up to one of the individual pages of this Internet site, which is operated by the controller and on which a Twitter component (Twitter button) was integrated, the Internet browser on the information technology system of the data subject is automatically prompted to download a display of the corresponding Twitter component of Twitter. Further information about the Twitter buttons is available under <https://about.twitter.com/de/resources/buttons>. During the course of this technical procedure, Twitter gains knowledge of what specific sub-page of our website was visited by the data subject. The purpose of the integration of the Twitter component is a retransmission of the contents of this website to allow our users to introduce this web page to the digital world and increase our visitor numbers.
+
+If the data subject is logged in at the same time on Twitter, Twitter detects with every call-up to our website by the data subject and for the entire duration of their stay on our Internet site which specific sub-page of our Internet page was visited by the data subject. This information is collected through the Twitter component and associated with the respective Twitter account of the data subject. If the data subject clicks on one of the Twitter buttons integrated on our website, then Twitter assigns this information to the personal Twitter user account of the data subject and stores the personal data.
+
+Twitter receives information via the Twitter component that the data subject has visited our website, provided that the data subject is logged in on Twitter at the time of the call-up to our website. This occurs regardless of whether the person clicks on the Twitter component or not. If such a transmission of information to Twitter is not desirable for the data subject, then he or she may prevent this by logging off from their Twitter account before a call-up to our website is made.
+
+The applicable data protection provisions of Twitter may be accessed under <https://twitter.com/privacy?lang=en>.
+
+## 8f. Data protection provisions about the application and use of YouTube
+
+On this website, the controller has integrated components of YouTube. The operating company of YouTube is YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, UNITED STATES. The YouTube, LLC is a subsidiary of Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, UNITED STATES.
+
+With each call-up to one of the individual pages of this Internet site, which is operated by the controller and on which a YouTube component (YouTube video) was integrated, the Internet browser on the information technology system of the data subject is automatically prompted to download a display of the corresponding YouTube component. Further information about YouTube may be obtained under <https://www.youtube.com/yt/about/en/>. During the course of this technical procedure, YouTube and Google gain knowledge of what specific sub-page of our website was visited by the data subject.
+
+If the data subject is logged in on YouTube, YouTube recognizes with each call-up to a sub-page that contains a YouTube video, which specific sub-page of our Internet site was visited by the data subject. This information is collected by YouTube and Google and assigned to the respective YouTube account of the data subject.
+
+YouTube and Google will receive information through the YouTube component that the data subject has visited our website, if the data subject at the time of the call to our website is logged in on YouTube; this occurs regardless of whether the person clicks on a YouTube video or not. If such a transmission of this information to YouTube and Google is not desirable for the data subject, the delivery may be prevented if the data subject logs off from their own YouTube account before a call-up to our website is made.
+
+YouTube's data protection provisions, available at <https://www.google.com/intl/en/policies/privacy/>, provide information about the collection, processing and use of personal data by YouTube and Google.
+
+## 9\. Legal basis for the processing
+
+Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR. The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. Is our company subject to a legal obligation by which processing of personal data is required, such as for the fulfilment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR. In rare cases, the processing of personal data may be necessary to protect the vital interests of the data subject or of another natural person. This would be the case, for example, if a visitor were injured in our company and his name, age, health insurance data or other vital information would have to be passed on to a doctor, hospital or other third party. Then the processing would be based on Art. 6(1) lit. d GDPR. Finally, processing operations could be based on Article 6(1) lit. f GDPR. This legal basis is used for processing operations which are not covered by any of the abovementioned legal grounds, if processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data. Such processing operations are particularly permissible because they have been specifically mentioned by the European legislator. He considered that a legitimate interest could be assumed if the data subject is a client of the controller (Recital 47 Sentence 2 GDPR). Where the processing of personal data is based on Article 6(1) lit. f GDPR our legitimate interest is to carry out our business in favor of the well-being of all our employees and the shareholders. We clarify that the provision of personal data is partly required by law (e.g. tax regulations) or can also result from contractual provisions (e.g. information on the contractual partner). Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by us. The data subject is, for example, obliged to provide us with personal data when our company signs a contract with him or her. The non-provision of the personal data would have the consequence that the contract with the data subject could not be concluded. Before personal data is provided by the data subject, the data subject must contact any employee. The employee clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data.
+
+## 10\. Period for which the personal data will be stored
+
+The criteria used to determine the period of storage of personal data is the respective statutory retention period. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfilment of the contract or the initiation of a contract.
+
+## 16\. Existence of automated decision-making
+
+As a responsible company, we do not use automatic decision-making or profiling.
+
+## 17\. Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## 18\. Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: legal@zenmate.com
+  * By mail: ZenGuard GmbH, c/o Mindspace, Skalitzer Str. 104, 10997 Berlin
 
 
-
-Your personal data is collected, stored and used for the respective purpose only.
-
-* * *
-
-## 3\. Registration and Use of ZenMate
-
-If you choose ZenMate and install the Plugin "ZenMate" made available by us, we kindly ask you to provide us with a valid e-mail address. We will generate a password for you which will be sent to you via e-mail. Additional personal data is not needed. In order to prevent attacks against ZenMate your IP address will be saved temporarily on the server without being stored permanently or used for any other purposes.
-
-When using ZenMate, you will have the possibility to select the access point or the server location you want to use in order to send an encrypted request to a website. By default, we display the server closest to you first. As a general rule, this is the fastest connection. However, if wished, you can choose another server. The decision is all yours.
-
-When choosing an access point please note that only this server will process your IP address and request for the webpage you would like to access (the "Targeted Website"). All servers displayed, are located in another country, partly outside the European Union, with the consequence that different data protection laws apply to the respective server and the processed data. Therefore, you may consider which server to choose to use ZenMate and to which country therewith you want your IP address and site request to be transmitted and possibly used and saved temporarily in order to establish a connection.
-
-Notwithstanding your decision: on the server you selected, your site request and your IP address are received via an encrypted connection. Your site request is then forwarded to the Targeted Website without your IP address, therefore, the website operator does not receive any information on who wants to gain access to the site. The content of the Targeted Website is then received by the server you selected and returned via encrypted connection. Thus, you always send and receive websites and its content via an encrypted connection using your selected ZenMate server without any direct contact to the website operator of the Targeted Website.
-
-Which server you are currently using, can be found out easily any time by clicking on the ZenMate Plugin. In addition to that you can change the selected server location any time and therefore, modify your consent regarding the location where your IP address shall be encrypted.
-
-If your account's data volume is limited we will measure the data you transfer and receive. However, we will not collect or store the content of the data. We will only record the mere volume of the data.
-
-If your account's data volume is unlimited we will not even record the volume of the transmitted data.
-
-* * *
-
-## 4\. Recording and Revocation of the consent
-
-We do not store information regarding the location you selected for the encryption of your IP address when you chose the server location for the use of ZenMate, because data minimization is the intent and purpose of ZenMate. Therefore, your IP address is processed only temporarily and only for transmission to the Targeted Website without being stored permanently in the logfiles of the server selected by you.
-
-In case you explicitly consent to the processing of personal data (e.g. for a newsletter), we are obligated to record the given (electronic) consent according to the German Telemedia Act (Telemediengesetz - TMG). If you wish, you can access the content of the (electronic) consent as well as revoke the consent with effect for the future at any time. In such case, we kindly ask you to contact us under our postal address or e-mail address provided in the imprint.
-
-* * *
-
-## 5\. E-Mail Marketing according to § 7 Abs. 3 UWG
-
-In accordance with section 7 para. 3 of the German Act Against Unfair Competition (Gesetz gegen unlauteren Wettbewerb - UWG) we are entitled to use the e-mail address provided by you for direct marketing for its own similar products.
-
-In case you wish not to receive any such marketing e-mails any more, you can object to the respective use of your e-mail address any time by written notice to ZenGuard GmbH, Ritterstr. 12-14, 10969 Berlin or by e-mail to support@zenmate.com with the subject "objection to e-mail marketing" without costs other than the submission costs based on the basic tariffs. When contacting us via e-mail in this matter please ensure that you use the e-mail address which you provided to us or name the e-mail address in question.
-
-* * *
-
-## 6\. ZenMate App
-
-We also provide a ZenMate App which enables you to use ZenMate's services and benefits on a mobile device. This privacy policy also applies to the ZenMate App. I.e. even if you use the ZenMate App we do not collect or utilize your data in any other way than described in this privacy policy.
-
-The ZenMate App compresses the data you send, e.g. uploads and requests to websites. The compression changes the data in a mere technical way. The content of the data, for example the content of a document, will not be affected.
-
-You can activate a filter in the app which blocks malware and ads if you wish. In this case the data transmitted to you will be screened for malware and ads and they will be blocked if detected.
-
-* * *
-
-## 7\. Transfer of Data
-
-We shall not transfer any personal data which we collected and stored based on your consent or on a statutory permission to a third party. In accordance with the law, however, we are obligated to provide information on inventory data (Bestandsdaten) as defined in section 14 TMG in some cases. This also applies to data on usage (Nutzungsdaten) as well as invoicing data (Abrechnungsdaten) as defined in section 15 TMG respectively.
-
-* * *
-
-## 8\. Google Analytics
-
-We analyse the behaviour of the users in order to further optimize our services. These evaluations are carried out pseudonymized as defined in section 15 para. 3 TMG, i.e. the name and other identification features will be substituted by an identifier with the purpose to prevent the identification of a specific individual or to render such identification substantially difficult.
-
-For statistical analysis we use Google Analytics, a web analytics service provided by the Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google"). Google Analytics uses so-called "Cookies", text files that are stored on your computer and permit an analysis of your use of our website and online services.
-
-The information about your use of our websites and online services generated by the Cookie is transmitted to a server controlled by Google in the USA and stored there. ZenGuard GmbH uses Google Analytics with the extension "anonymizeIp()", sending the IP addresses which are to be transmitted to Google to a server located in Europe first, where they are shortened and processed with the purpose to prevent individuals being identified. Google uses this information to analyze your use of ZenMate or the visit of our website, to create activity reports and to provide further services related to website or internet use. Google may also transfer this information to third parties if required by law, or so far as third parties process this information on Google's behalf. Under no circumstances Google will relate your IP address to other data of Google. If desired, you may refuse the installation of the Google Analytics Cookie by changing your browser settings; please note that in this case you may not be able to make full use of all functions provided by us. You may [object](http://tools.google.com/dlpage/gaoptout?hl=de) to the collection and storage of data on behalf of Google Analytics at any time with effect for the future by using a Google Browser-Plugin.
-
-Please also take note of Google's privacy policy which is independent from ours. We assume no responsibility or liability for these guidelines and proceedings or data collected and processed under Google's responsibility. Therefore, please obtain further information on [Google's privacy policy](http://www.google.de/intl/de/privacy.html) as well.
-
-* * *
-
-You can also follow us in social networks, such as Facebook or on Twitter. In case you want to provide us information or connect with us or send a friend request on those networks, depending on your privacy settings we may be able to access your profile information. Information on the handling of your personal data by the operator of the respective network as well as on rights and possible settings of your account can be found in the privacy policy of the respective social network.
-
-If you activate one of the Facebook, Twitter and/or Google+ "like buttons" on our website by clicking on them, information will be transferred to the operator of the respective service in the USA. This information might be stored and utilized there. We do not know in which exact way these providers handle this data. We are not responsible for any storage or utilization of such data, including a possible placement of a cookie by the company which operates the respective social network. You can gather further information on the exact processing of the data, storage periods and purposes of the processing at the respective company. You can revoke your consent into the data transfer at any time, to take future effect, by deactivating the respective button.
-
-* * *
-
-## 10\. Third Party Content
-
-In case you leave our website by using a link to an external website, we indicate that you are about to connect to another internet provider. These marked links lead to content that is not stored on our own servers. As far as this is not already made clear in the text, we will for example mark the link with the comment external link.
-
-Different privacy policies may apply to the websites to which the external links lead may contain. We, therefore, recommend to check these privacy policies by visiting the homepage of the respective online service or (if necessary) contact the controller of the respective website.
-
-* * *
-
-## 11\. Your Rights, esp. Right to Object
-
-You may assert your rights of information (section 34 German Federal Data Protection Act, Bundesdatenschutzgesetz - BDSG), of correction, of erasure or of blocking (section 35 BDSG) at any time. We would like to draw your attention to the fact that you may object the data processing for commercial purposes, market research or designing of demand-oriented services at any time. You can opt-out as outlined above or - after you have transmitted your data to us - assert your aforementioned rights by mail or e-mail. Please contact us under the mail or e-mail address provided in our imprint.
-
-_As of 3/19/2014_
