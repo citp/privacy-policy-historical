@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainforestqa.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925003403id_/https%3A//www.rainforestqa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainforestqa.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401093436id_/https%3A//www.rainforestqa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rainforest QA
 
