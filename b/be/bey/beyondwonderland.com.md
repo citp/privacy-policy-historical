@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondwonderland.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904074144id_/https%3A//www.insomniac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondwonderland.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401060824id_/https%3A//www.insomniac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Insomniac
 
