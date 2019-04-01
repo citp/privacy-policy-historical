@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stripes.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625122354id_/https%3A//www.stripes.com/2.1326) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripes.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401095051id_/https%3A//www.stripes.com/2.1326) for the most accurate reproduction.*
 
 # Web Notice - Stripes
 
