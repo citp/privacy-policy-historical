@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazette.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212174330id_/http%3A//gazette.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazette.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401190310id_/http%3A//gazette.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | gazette.com
 
