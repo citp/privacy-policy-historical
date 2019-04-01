@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellesley.edu privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030135701id_/https%3A//www.wellesley.edu/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellesley.edu privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401193457id_/https%3A//www.wellesley.edu/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policies | Wellesley College
 
@@ -77,7 +77,7 @@ When you are a student at Wellesley College, or a member or prospective member o
   * Academic work product and related information ( _e.g_., research and course-related content)
   * Records about your other activities ( _e.g_., involvement in clubs, disciplinary actions and similar incidents)
   * Financial information ( _e.g_., payroll information, information related to tuition payments)
-  * Health information (Most health information about students is stored in the records of Wellesley College Health Service for the purpose of providing you with health care services, although some is stored in other locations, such as in our Disability Services Office. Please refer to the Wellesley College Health Service Notice of Privacy Practices for additional information regarding the use and disclosure of health information in connection with the Wellesley College Health Service.)
+  * Health information (Most health information about students is stored in the records of Wellesley College Health Service for the purpose of providing you with health care services, although some is stored in other locations, such as in our Accessibility and Disability Resources Office. Please refer to the Wellesley College Health Service Notice of Privacy Practices for additional information regarding the use and disclosure of health information in connection with the Wellesley College Health Service.)
   * Information about technology usage ( _e.g_., IP addresses, software downloads)
 
 
@@ -277,7 +277,7 @@ To request to exercise one of these rights, please contact us at [privacy@welle
 
 ### **Changes to this Privacy Notice**
 
-Wellesley College reserves the right to amend this Privacy Notice at any time, for any reason, without notice to you. Any changes will be published here and you should check our website to access our current Privacy Notice. This Privacy Notice was last updated on June 11, 2018.
+Wellesley College reserves the right to amend this Privacy Notice at any time, for any reason, without notice to you. Any changes will be published here and you should check our website to access our current Privacy Notice. This Privacy Notice was last updated on October 24, 2018.
 
 ### **Contact Information**
 
