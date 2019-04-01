@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the virginmediatelevision.ie privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830140955id_/https%3A//www.virginmediatelevision.ie/player/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmediatelevision.ie privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401081726id_/https%3A//www.virginmediatelevision.ie/privacypolicy) for the most accurate reproduction.*
 
-# Virgin Media Player | Watch your favourite shows online
+# Virgin Media Television - Virgin Media Television Privacy Policy
 
-This is the Privacy Policy of Virgin Media Television Limited, for the privacy policy of our affiliate Virgin Media please click this [link](https://www.virginmedia.com/shop/the-legal-stuff/privacy-policy.html)
+[Home](https://web.archive.org/) >Virgin Media Television Privacy Policy
+
+This is the Privacy Policy of Virgin Media Television Limited, for the Privacy Policy of our affiliate Virgin Media Ireland Limited please click this [link](https://www.virginmedia.ie/terms/privacy-policy/)
 
 **A.**   **We care about your privacy**
 
@@ -50,7 +52,7 @@ Providing our services to you also involves performing the following activities 
 
 We may also use your information when asking for feedback in respect of the performance of our services such as requesting you to take part in surveys. This information helps us to understand which content and services are most interesting and enjoyable for our users and to ensure we are providing you with the best possible services.  
 
-If you voluntarily provide us with any information which includes any special categories of personal data (such as information about your health, race or religion), you must make sure before you provide this that you are happy for us to use that information for the purposes set out in this Policy. We may also monitor and record our communications with you, including e-mails and phone conversations, for training purposes, quality assurance and to record details about the services you avail of from us. Please note that you need to be 16 or over to register for the Virgin Media Television Player service. You will be asked to confirm your age at the registration stage. 
+If you voluntarily provide us with any information which includes any special categories of personal data (such as information about your health, race or religion), you must make sure before you provide this that you are happy for us to use that information for the purposes set out in this Policy. We may also monitor and record our communications with you, including e-mails and phone conversations, for training purposes, quality assurance and to record details about the services you avail of from us. Please note that you need to be 18 or over to register for the Virgin Media Television Player service. You will be asked to confirm your age at the registration stage. 
 
 **Legal basis for processing this information:**
 
@@ -60,9 +62,9 @@ Legitimate interests
 
 **TV recommendations:**
 
-Should you choose to become a registered user of our  Virgin Media Player, you can experience catch-up TV like you've always wanted; easy access to your favourite shows, get personal recommendations of what to watch next and download the episodes you want to save for later. Where you have registered an account with us, we need to analyse the information you supply so that we can offer you a better personalisation service or to contact you about a comment you have sent us.
+Should you choose to become a registered user of our  Virgin Media Player, you can experience catch-up TV like you\'ve always wanted; easy access to your favourite shows, get personal recommendations of what to watch next and download the episodes you want to save for later. Where you have registered an account with us, we need to analyse the information you supply so that we can offer you a better personalisation service or to contact you about a comment you have sent us.
 
-For example, when you watch something on Virgin Media Player through a registered account, we use that information to make recommendations to you of new shows to watch, based on what you've previously seen and 'favourited'.
+For example, when you watch something on Virgin Media Player through a registered account, we use that information to make recommendations to you of new shows to watch, based on what you\'ve previously seen and \'favourited\'.
 
 **Legal basis for processing this information**
 
