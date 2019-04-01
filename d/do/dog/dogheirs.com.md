@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogheirs.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201093755id_/http%3A//www.dogheirs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogheirs.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401103102id_/https%3A//www.dogheirs.com/privacy) for the most accurate reproduction.*
 
 # Privacy - DogHeirs
 
@@ -8,7 +8,7 @@ We want to earn your trust by being transparent about how DogHeirs works.
 
 Our privacy policy explains how we treat your personal data and protect your privacy when you use our Services. By accessing our website, you agree to our privacy policy and terms of use. The information contained on DogHeirs.com is for informational purposes only.
 
-This Privacy Policy governs the manner in which DiscoverMe Technologies, Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.dogheirs.com website (“Site”). This privacy policy applies to the Site and all products and services (“Services”) offered by DiscoverMe Technologies, Inc. (“DiscoverMe”).
+This Privacy Policy governs the manner in which DiscoverMe Technologies, Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.dogheirs.com website (“Site”). This privacy policy applies to the Site and all products and services (“Services”) offered by DiscoverMe Technologies, Inc. (“DiscoverMe”).
 
 **Questions.** If you have any questions or concerns about our privacy policy, contact our team:  **hello**   **(@) dogheirs.com**
 
@@ -51,7 +51,7 @@ When you access DogHeirs.com from a computer, mobile phone, or other device, we 
 
   * Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
   * You can opt-out of having made your activity on our Site available to Google Analytics by installing the Google Analytics opt-out browser add-on. To learn about Google Analytics’ currently available opt-outs for the Web, please visit: <https://support.google.com/analytics/answer/181881?hl=en>.
-  * For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+  * For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
 
 
@@ -59,7 +59,7 @@ When you access DogHeirs.com from a computer, mobile phone, or other device, we 
 
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Site. Third-party Service Providers we select include:
 
-  * Google AdSense: Google Adsense, as a third party vendor, uses cookies to serve ads on our Site. You may control the information Google uses to show you ads through Google by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>  
+  * Google AdSense: Google Adsense, as a third party vendor, uses cookies to serve ads on our Site. You may control the information Google uses to show you ads through Google by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)  
 Note: Using the Google Ads Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
   * Taboola: Taboola, as a third party vendor, uses cookies to serve ads on our Site. Taboola’s use of the cookie enables it and its partners to serve ads to our users based on their visit to our Site or other websites on the Internet. You may opt out of the use of the Taboola Cookie for interest-based advertising by visiting the Taboola page: <https://www.taboola.com/cookie-policy>
   * Amazon: Amazon, as a third party vendor, uses cookies to serve ads on our Site. To learn more about Amazon and their use of cookies visit Amazon’s Privacy Policy page: <https://www.amazon.com/gp/help/customer/display.html?nodeId=468496>
@@ -84,7 +84,7 @@ Some of our third party partners (including advertisers and marketing services c
 
 **Networking Advertising Initiative:** Some of the advertising service providers may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. If you opt-out of receiving targeted ads in this manner, you will continue to receive advertising messages after you opt-out, but they will not be customized to you based on your use of the Websites and/or third party websites.
 
-To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org or visit ](http://www.networkadvertising.org/)<http://www.aboutads.info/> for more information. You can also remove or block cookies using the settings in your web browser, but in some cases this action may impact your ability to use DogHeirs.
+To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org or visit ](https://www.networkadvertising.org/)<http://www.aboutads.info/> for more information. You can also remove or block cookies using the settings in your web browser, but in some cases this action may impact your ability to use DogHeirs.
 
 The collection of information via certain ads served to users in Canada may be managed by visiting [youradchoices.ca](http://youradchoices.ca/).
 
@@ -150,4 +150,4 @@ We have no control over and assume no responsibility for the content, privacy po
 
 We may change this Privacy Policy without notice. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. If we make changes to this Privacy Policy we will notify you by publication here.
 
-If you have any questions about this Privacy Policy please [contact us](http://www.dogheirs.com/contact/).
+If you have any questions about this Privacy Policy please [contact us](https://www.dogheirs.com/contact/).
