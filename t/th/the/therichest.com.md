@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therichest.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231190542id_/https%3A//www.therichest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therichest.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401164032id_/https%3A//www.therichest.com/privacy-policy) for the most accurate reproduction.*
 
 # TheRichest
 
