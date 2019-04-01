@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazygamer.net privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127044806id_/https%3A//www.criticalhit.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazygamer.net privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401080125id_/https%3A//www.criticalhit.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Critical Hit
 
