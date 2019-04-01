@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnegiescience.edu privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902112857id_/https%3A//carnegiescience.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegiescience.edu privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401030133id_/https%3A//carnegiescience.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carnegie Institution for Science
 
