@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231050705id_/https%3A//hortonworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hortonworks.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401033920id_/https%3A//hortonworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hortonworks
 
