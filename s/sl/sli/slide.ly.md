@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116091129id_/http%3A//slide.ly/promo/privacy-policy%3Futm_content%3Dunified_homepage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401032037id_/http%3A//slide.ly/promo/privacy-policy%3Futm_content%3Dunified_homepage) for the most accurate reproduction.*
 
-# Promo - Privacy Policy
+# Privacy Policy | Promo.com | Visual Content Creation Platform
 
-_Your privacy is important to us_. We highly value and respect the privacy of the personal information we obtain from you by using our Site, App and/or Services (ollectively, the "Service") and we have created this privacy policy (the " _Privacy Policy_ ") to inform you about how we collect, use and share your personal information, and our privacy practices in general.
+_Your privacy is important to us_. We highly value and respect the privacy of the personal information we obtain from you by using our Site, App and/or Services (collectively, the "Service") and we have created this privacy policy (the " _Privacy Policy_ ") to inform you about how we collect, use and share your personal information, and our privacy practices in general.
 
 By accessing and using the Services, you agree to be bound by this Privacy Policy. If you do not agree to any of the provisions as set hereunder in this Privacy Policy, you have no right to use the Services. This Privacy Policy should be read together with the Terms of Service and together they constitute the entire agreement between you and us.
 
@@ -48,13 +48,13 @@ Our Privacy Policy only addresses the use and disclosure of your Information we 
 
 ## Protection of Information
 
-Information collected about you is protected in several ways. If you create a Slide.ly account, access by you to your Information is available through a password and unique user ID selected by you. Your password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your personal information resides on proprietary secured servers that only selected personnel and contracts have access to via password.
+Information collected about you is protected in several ways. If you create an account, access by you to your Information is available through a password and unique user ID selected by you. Your password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your personal information resides on proprietary secured servers that only selected personnel and contracts have access to via password.
 
-We use industry standard security measures to protect your Personal Information so that it is not made available to unauthorized parties. However, we cannot guarantee that the Personal Information submitted to, maintained on, or transmitted from our systems will be completely secure. If you have any questions regarding which measures and techniques we use, feel free to contact us at [support@slidely.com](mailto:support@slidely.com)
+We use industry standard security measures to protect your Personal Information so that it is not made available to unauthorized parties. However, we cannot guarantee that the Personal Information submitted to, maintained on, or transmitted from our systems will be completely secure. If you have any questions regarding which measures and techniques we use, feel free to contact us at [support@promo.com](mailto:support@promo.com)
 
 ## Cookies
 
-The Site uses various types of cookies which help us administer and operate it, as further described in our [Cookies Policy](https://slide.ly/promo/cookies-policy)
+The Site uses various types of cookies which help us administer and operate it, as further described in our [Cookies Policy](https://promo.com/cookies-policy)
 
 ## Other Websites, Services and Communities
 
@@ -78,7 +78,7 @@ The European representative of Easy Hi Ltd., for purposes of this Privacy Policy
 
 ### Your EU Rights
 
-You have the right to access the personal information about you that we store on our systems, and have us update, correct or delete it. In addition, you may at any time withdraw your consent to any activity which you provided us your consent. You are also entitled to obtain from us your Information (excluding data we obtained from other sources) in a structured, commonly used and machine-readable format, and have the right to transmit those data to another data controller. If you wish to exercise any of these rights, contact us at: [support@slidely.com](mailto:support@slidely.com)
+You have the right to access the personal information about you that we store on our systems, and have us update, correct or delete it. In addition, you may at any time withdraw your consent to any activity which you provided us your consent. You are also entitled to obtain from us your Information (excluding data we obtained from other sources) in a structured, commonly used and machine-readable format, and have the right to transmit those data to another data controller. If you wish to exercise any of these rights, contact us at: [support@promo.com](mailto:support@promo.com)
 
 You can also have the right to lodge a complaint to the supervisory authority under the General data Protection Regulations ("GDPR"), in particular in the Member State of your residence, place of work or where the alleged infringement of the GDPR occured. For a list of supervisory authorities in the EU, click [here](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061).
 
@@ -96,4 +96,4 @@ Processing Analytical Information | Operation and enhancement | The legal basis 
   
 ## Questions
 
-You may direct questions concerning this Privacy Policy by email to [support@slidely.com](mailto:support@slidely.com) by adding the word 'privacy' in the subject line.
+You may direct questions concerning this Privacy Policy by email to [support@promo.com](mailto:support@promo.com) by adding the word 'privacy' in the subject line.
