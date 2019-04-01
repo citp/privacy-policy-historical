@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wso2.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906012221id_/https%3A//wso2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wso2.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401064415id_/https%3A//wso2.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
@@ -26,32 +26,40 @@ We also collect certain standard information that your browser sends to every we
 
 ###  WHY DO WE COLLECT YOUR INFORMATION? 
 
-The information we collect from you maybe used in one of the following ways: 
+We collect information from our customers, partners and other visitors to our site that use our services. The information we collect from you maybe used in one of the following ways: 
 
-  * To perform the services requested (for instance if you’ve filled in a contact us form asking to speak to an account manager, we use your information to get in touch with you). 
+  * To perform the services requested in the ‘contact us’ page (for instance, if you’ve filled in a contact us form asking to speak to an account manager, we use your information to get in touch with you, if you’ve filled out a problem with one of our products, you’ll get a response based on that). 
   * To personalize your experience (your information helps us to better respond to your individual needs by sending you targeted information which may be more relevant to you). 
   * To improve our website (we continually strive to improve our website offerings based on the type of content our users click on or download). 
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs). 
   * To conduct analysis on how effective our marketing campaigns are, how our products and services are used or downloaded and to track lead generation for our sales process. 
   * To process transactions – your information, whether public or private, will not be sold, exchanged, transferred or given to any other entity for any reason whatsoever without your consent, other than for the sole purpose of delivering the purchased service requested by you. 
-  * To create your online profile which we create for every user who registers on our site or for a service. 
+  * To create your online profile which we create for every user who registers on our site or for a service, and to let you log in to your WSO2 account thereafter. 
   * To send marketing material, event invitations and updates - If you indicate that you are interested in certain areas or subjects when you give us your contact details, we will send you marketing material and/or event and workshop invitations related to those areas. The email address you provide may also be used to send you important updates related to the site or the services you use. 
-  * To administer a contest, survey or other site feature. 
+  * To enable sign up and access to our partner portal or certifications portal. 
+  * To enable current customers to use our support services on [https://support.wso2.com](https://support.wso2.com/) -and to enable non-customers to raise questions via our chat portal on <https://chat.support.wso2.com/>. 
+  * To enable users of our open source products to access public JIRAs to report bugs or discuss security issues.
+  * To administer a contest, survey or other site feature.
   * We track and analyze your actions on our website such as navigation, number of visits, downloads and search items to gain a better understanding of our visitors and their movements through the site. Please see our [cookie policy](https://wso2.com/cookie-policy) on how we use and store cookies. 
 
 
 
 ###  WHO IS YOUR INFORMATION SHARED WITH? 
 
-We do not sell, trade or otherwise share your information with outside parties. However, we do share your information with our subsidiaries, affiliates, service providers and partners who assist us in operating our website, conducting our business or servicing you. 
+We do not sell, trade or otherwise share your information with unrelated outside parties. However, we do share your information with _our subsidiaries, affiliates, service providers and partners_ who assist us in operating our website, conducting our business or servicing you. WSO2 is fully committed to individual data privacy in cases of necessary onward transfers to third parties, which we only undertake after necessary due diligence and we will be fully liable to you in the event of such transfers. 
 
-We sometimes need to give our service providers who help us run our website and services access to the data we have in order for them to perform those services. They are only authorised to use information that is strictly relevant for them to perform their tasks and we ensure that they are under obligations of confidentiality to us so that your data is secure. 
+We sometimes need to give our service providers who help us run our website and services access to the data we have in order for them to perform those services. These include service providers such as our Customer Relationship Management software, emailing and conferencing tools such as Salesforce, Pardot and GoTo Webinar. They are only authorised to use information that is strictly relevant for them to perform their tasks and we ensure that they are under obligations of confidentiality to us so that your data is secure. 
 
 Where payments are required to be made on our website, we use a third party service provider to manage credit card processing. This provider is not permitted to store, retain or use billing information other than for the limited purpose of credit card processing on behalf of WSO2. 
 
-We may share your data with our subsidiaries or affiliates within our corporate group. WSO2 ‘s parent company is WSO2 Inc. and is located in the United States of America. Our affiliates are WSO2 UK Limited (located in the United Kingdom), WSO2 Lanka (Private) Limited (located in Sri Lanka) and WSO2 Brasil Tecnologia E Software Ltda (located in Brazil). We share information within this group because these entities also carry out support, marketing, account management and technical operations for WSO2 that are relevant to the provision of the website and services. 
+We may share your data with our subsidiaries or affiliates within our corporate group. WSO2’s parent company is WSO2 Inc. and is located in the United States of America. Our affiliates are WSO2 UK Limited (located in the United Kingdom), WSO2 Lanka (Private) Limited (located in Sri Lanka), and WSO2 Brasil Tecnologia E Software Ltda (located in Brazil) and any other affiliates set out in our ‘Contact’ page. We share information within this group because these entities also carry out support, marketing, account management, business and technical operations for WSO2 that are relevant to the provision of the website and services. 
 
-We may also release your information when we believe release is appropriate to comply with the law, enforce our privacy policy or protect ours or others’ rights, property or safety. 
+Data may be transferred to partners, when we have lawful basis to do so, in order that you may avail yourself of services offered by them in relation to our products.
+
+WSO2 complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. WSO2 has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+Data transferred from the European Union to other affiliate entities located around the world is transferred on the basis of Data Transfer Agreements containing EU Model Clauses set out by the European Commission.
+
+We may also release your information when we believe release is appropriate to comply with the law, enforce our privacy policy or protect ours or others’ rights, property or safety.
 
 ###  HOW DO WE PROCESS YOUR DATA? 
 
@@ -65,7 +73,7 @@ We implement security safeguards designed to protect your data, such as HTTPS. W
 
 ###  YOUR RIGHTS TO YOUR DATA AND HOW TO MANAGE YOUR PREFERENCES 
 
-We may retain your information for a period of time consistent with the original purpose of collection. For instance, we may retain your information during the time in which you have an account to use our website or services. We also may retain your information during the period of time needed for WSO2 to pursue our legitimate business interests, conduct audits, comply with our legal obligations, resolve disputes and enforce our agreements. At the end of these periods, we ensure that your data is deleted securely using industry standard methodology. 
+We may retain your information for a period of time consistent with the original purpose of collection. For instance, we may retain your information during the time in which you have an account to use our website or services. We also may retain your information during the period of time needed for WSO2 to pursue our legitimate business interests, conduct audits, comply with our legal obligations, respond to lawful requests by public authorities which may include to meet national security or law enforcement requirements, resolve disputes and enforce our agreements. At the end of these periods, we ensure that your data is deleted securely using industry standard methodology. 
 
 WSO2 acknowledges your right to access your data. If information pertaining to you as an individual has been submitted to us then you have the right to access, correct, or edit your data. When you submit your information on our website you will receive an email with your website login credentials. You can use these credentials to login to the user portal on our website and then review and edit the information we have about you at any time. If you are an existing user of site or our services please go to <https://wso2.com/user/login> and follow the steps. 
 
@@ -75,7 +83,7 @@ You can ask us to stop using all or some of your personal data (e.g., if we have
 
 You may also choose to delete your data from our website at any time you choose, and unsubscribe from any WSO2 mailing lists you are on. You can delete your information by logging into the user portal and following instructions to delete your information. You can unsubscribe from our emails by clicking on the unsubscribe link which is at the bottom of every marketing email we send. You can also contact us on the email address(es) provided at the bottom of this notice, if you would like us to do any of the above on your behalf. Please note that deleting your data may affect the provision of some services. 
 
-We may retain your personal data even after you have ceased using our services, requested to unsubscribe or delete your data only if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, or fulfill your request to "unsubscribe" from further messages from us. 
+We may retain your personal data even after you have ceased using our services, requested to unsubscribe or delete your data only if reasonably necessary to comply with our legal obligations (including lawful requests by public authorities to meet national security or law enforcement requirements), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, or fulfil your request to "unsubscribe" from further messages from us. 
 
 ###  THIRD PARTY OFFERINGS AND SERVICES 
 
@@ -91,9 +99,17 @@ We reserve the right to amend this privacy policy at any time. We will not send 
 
 By using our site, you consent to our privacy policy and any revisions thereto. If you do not agree with our privacy policy or any changes we make to it, you may delete your profile. 
 
+### DISPUTE RESOLUTION MECHANISMS
+
+In compliance with the Privacy Shield Principles, we commit to resolving complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at: [dpo@wso2.com](mailto:dpo@wso2.com)
+
+WSO2 has committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit https://www.jamsadr.com/eu-us-privacy-shield for more information or to file a complaint. The services of JAMS are provided at no cost to you. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Within the USA, we are also subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
 ###  CONTACT US 
 
-For further information about our privacy policy or any concerns or complaints, please contact our Data Protection Officer at [dpo@wso2.com](mailto:dpo@wso2.com). 
+For further information about our privacy policy or any concerns, please contact our Data Protection Officer at [dpo@wso2.com](mailto:dpo@wso2.com). 
 
 ####  For EU/EEA/Switzerland residents: 
 
