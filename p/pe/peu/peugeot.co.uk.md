@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peugeot.co.uk privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617122341id_/http%3A//www.peugeot.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peugeot.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401093530id_/https%3A//www.peugeot.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy | Peugeot UK
 
 ##  Peugeot Privacy Statement
 
