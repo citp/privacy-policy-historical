@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupsmart.com.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230171442id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupsmart.com.au privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401095137id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SmartCompany
 
