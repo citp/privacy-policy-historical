@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muckrock.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230131247id_/https%3A//www.muckrock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muckrock.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401184732id_/https%3A//www.muckrock.com/privacy-policy) for the most accurate reproduction.*
 
 # MuckRock's Privacy Policy
 
