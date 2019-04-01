@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seventeenlive.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003033255id_/http%3A//www.imcbill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seventeenlive.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401221908id_/http%3A//www.imcbill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,6 +25,7 @@ fapplr.com
 stockerz.com  
 passie.nl  
 sinfulxxx.com  
+sinfulsoft.com  
 bbvideo.com  
 secretfriends.com  
 clubbangboys.com  
@@ -58,7 +59,15 @@ swhores.com
 bondaries.com  
 passie.nl  
 passionxxx.com  
+passionxxxlive.com  
+daringsexlive.com  
+batslive.com  
 pornstarclassics.com  
+webcamcharge.com  
+pdlivecams.com  
+peepleak.com  
+grandparentsx.com  
+oldiex.com  
 granddadz.com
 
 **1.** IMC-BILL (the "website") applies the following Privacy Policy in order to protect your privacy. We understand your privacy is crucial to you.
