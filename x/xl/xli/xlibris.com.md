@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xlibris.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226122510id_/https%3A//www.xlibris.com/legal_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlibris.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401184607id_/https%3A//www.xlibris.com/legal_privacy.aspx) for the most accurate reproduction.*
 
 # Self Publishing and Print on Demand Company | Xlibris Book Publishers
 
