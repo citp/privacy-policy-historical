@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestyle-joomla.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130132805id_/http%3A//freestyle-joomla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestyle-joomla.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401061237id_/http%3A//www.freestyle-joomla.com/privacy-policy) for the most accurate reproduction.*
 
 # Freestyle Joomla - Privacy Policy
 
