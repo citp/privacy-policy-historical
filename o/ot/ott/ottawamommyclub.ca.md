@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ottawamommyclub.ca privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813131817id_/https%3A//ottawamommyclub.ca/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ottawamommyclub.ca privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401110737id_/https%3A//ottawamommyclub.ca/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 2 - Ottawa Mommy Club : Ottawa Mommy Club
 
@@ -199,6 +199,8 @@ MailChimp reaffirms its commitment to safeguarding the personal data of our memb
 **Google Analytics Dashboard for WP (GADWP):** Displays Google Analytics Reports and Real-Time Statistics in your Dashboard. Automatically inserts the tracking code in every page of your website.Version 5.3.3 | By [ExactMetrics team](https://exactmetrics.com/) | [View details](https://ottawamommyclub.ca/wp-admin/plugin-install.php?tab=plugin-information&plugin=google-analytics-dashboard-for-wp&TB_iframe=true&width=600&height=550)
 
 **Social Warfare:** A plugin to maximize social shares and drive more traffic using the fastest and most intelligent share buttons on the market, calls to action via in-post click-to-tweets, popular posts widgets based on share popularity, link-shortening, Google Analytics and much, much more! Version 3.0.7 | By [Warfare Plugins](http://warfareplugins.com/) | [View details](https://ottawamommyclub.ca/wp-admin/plugin-install.php?tab=plugin-information&plugin=social-warfare&TB_iframe=true&width=600&height=550)
+
+**Really Simple SSL:** Really Simple SSL and Really Simple SSL add-ons do not process any personal identifiable information, so the GDPR does not apply to these plugins or usage of these plugins on your website. You can find our privacy policy [here](https://really-simple-ssl.com/privacy-statement/).
 
 ## How long we retain your data
 
