@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metabunk.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225425id_/https%3A//www.metabunk.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metabunk.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401201822id_/https%3A//www.metabunk.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Metabunk.org Privacy Policy | Metabunk
 
