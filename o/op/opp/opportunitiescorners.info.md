@@ -1,51 +1,127 @@
-> *The following text is extracted and transformed from the opportunitiescorners.info privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822215803id_/http%3A//opportunitiescorners.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opportunitiescorners.info privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401062018id_/https%3A//opportunitiescorners.info/privacy-policy) for the most accurate reproduction.*
 
-# - Opportunitiescorners.info
+# Privacy Policy - Opportunities Corners
 
-## Who we are:
+## **Who we are:**
 
-Our website address is: http://opportunitiescorners.info
+Our website address is: [https://opportunitiescorners.info](https://opportunitiescorners.info/)
 
-### What We Do:
+**We use your data to provide and improve the Service.**
 
-  * Opportunities Corners Provided information and assistance in Providing Information about Scholarships, Internships, Jobs, Conferences, Fellowships & Training Workshops as well as Updates about Student Exchange Programs.
-  * We are not the official page/website, we tend to suggest you go to the official website of chance provider for complete data
-  * The Official Websites Links will be given at the end of every Post.
-  * Your name, an email address or any type of Contact will not be shared with others.
-  * We will only use your information for future updates and we will inform you about the latest Programs.
-  * Our website does not contain any adult material or any material that violates Google Policy.
-  * Our website is for Education & Jobs.
+**Information Collection And Use**
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+**Types of Data Collected**
+
+### **Comments**
+
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+**Personal Data**
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
+
+  * Email address
+  * First name and last name
+  * Cookies and Usage Data
 
 
 
-## What personal data we collect and why we collect it:
+**Usage Data**
 
-### Comments
+We may also collect information about how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-When visitors leave comments on the site we collect the data shown in the comments form and Emails for Further latest Updates.
+**Tracking & Cookies Data**
 
-### Contact forms
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-### Cookies
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-If you leave a comment on our site you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-### Embedded content from other websites
+**Examples of Cookies we use:**
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+If you leave a comment on our site you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+### **Embedded content from other websites**
 
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+**Use of Data**
 
-### Analytics
+[Opportunities Corners](https://opportunitiescorners.info/) uses the collected data for various purposes:
 
-## Who we share your data with
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
 
-## How long we retain your data
 
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+**Transfer Of Data**
 
-## Where we send your data
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-Visitor comments may be checked through an automated spam detection service.
+If you are located outside Pakistan and choose to provide information to us, please note that we transfer the data, including Personal Data, to Pakistan and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Opportunities Corners will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+**Security Of Data**
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+**Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+**Analytics**
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+**Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+**Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children’s Privacy**
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+**Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: [opportunitiescorners.info@gmail.com](mailto:opportunitiescorners@gmail.com)
+  * or visit our [Contact Us](https://opportunitiescorners.info/contact-us/) Page
+  * Read [About Us](https://opportunitiescorners.info/about-us/)
+
+
