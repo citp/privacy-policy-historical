@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uzmarketing.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119021838id_/https%3A//uzmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uzmarketing.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401232459id_/https%3A//uzmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # UZ Marketing Privacy Policy
 
