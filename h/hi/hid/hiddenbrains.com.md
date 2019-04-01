@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiddenbrains.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911100742id_/https%3A//www.hiddenbrains.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiddenbrains.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401125822id_/https%3A//www.hiddenbrains.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement of Hidden brains
 
