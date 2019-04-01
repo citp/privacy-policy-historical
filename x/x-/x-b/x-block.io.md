@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-block.io privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104153602id_/http%3A//x-block.io/xblockfile/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-block.io privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401133431id_/https%3A//x-block.io/xblockfile/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
