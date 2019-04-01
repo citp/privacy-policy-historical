@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3layouts.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831185309id_/https%3A//w3layouts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3layouts.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401060614id_/https%3A//w3layouts.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - w3layouts.com
 
