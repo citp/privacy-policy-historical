@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cats.org.uk privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905003024id_/https%3A//www.cats.org.uk/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cats.org.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401071741id_/https%3A//www.cats.org.uk/terms-privacy) for the most accurate reproduction.*
 
 # Cats Protection | Terms | Privacy policy
 
