@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiarush.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227083814id_/https%3A//indiarush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiarush.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401112042id_/https%3A//indiarush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indiarush
 
