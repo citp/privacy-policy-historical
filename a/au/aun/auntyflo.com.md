@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auntyflo.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912025945id_/http%3A//www.auntyflo.com/basic-page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntyflo.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401155042id_/https%3A//www.auntyflo.com/basic-page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Auntyflo.com
 
@@ -30,11 +30,11 @@ If you choose to apply to a referral website, we use the data you provide strict
 
 **Internet Services.**
 
-We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Internet Services. We collect this information in order to personalise your Internet experience. If you wish for us not to collect this data please [contact us](http://www.auntyflo.com/contact)
+We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Internet Services. We collect this information in order to personalise your Internet experience. If you wish for us not to collect this data please [contact us](https://www.auntyflo.com/contact)
 
 **Newsletter**
 
-We collect information, some of which it may be Personally Identifiable Information that you voluntarily provide to us when you choose to sign up for our services. We collect this information in order to personalise your Internet experience. If you wish for us not to collect this data please [contact us.](http://www.auntyflo.com/contact)
+We collect information, some of which it may be Personally Identifiable Information that you voluntarily provide to us when you choose to sign up for our services. We collect this information in order to personalise your Internet experience. If you wish for us not to collect this data please [contact us.](https://www.auntyflo.com/contact)
 
 **Public Forums and the Public Profile Feature.**
 
