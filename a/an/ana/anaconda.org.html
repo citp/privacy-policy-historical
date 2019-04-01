@@ -1,357 +1,474 @@
-<!--The following is the downloaded HTML source of the anaconda.org privacy policy that was archived on 2017-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170317064812id_/https%3A//anaconda.org/about/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anaconda.org privacy policy that was archived on 2019-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190401153342id_/https%3A//anaconda.org/about/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MTFQWW"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUBU1dQChACUFhUAAcEVg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"e6ad4d06d5","agent":"","transactionName":"YVxbYkUAD0RYVBZRCVgWf0NZAhVeVllNWg9YSk1XRU8SXk1SERYRQU4XQF4EFkQXWgtLBQxJS19BAAJO","applicationID":"24967630","errorBeacon":"bam.nr-data.net","applicationTime":7}</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-    
-    <title>Privacy :: Anaconda Cloud</title>
-    <link rel="shortcut icon" href="//binstar-static-prod.s3.amazonaws.com/latest/img/apple-touch-icon.png">
-    <link rel="stylesheet" type="text/css" href="//binstar-static-prod.s3.amazonaws.com/latest/css/app.css">
-    <!--[if gte IE 9]>
-      <style type="text/css">
-        .gradient {
-           filter: none;
-        }
-      </style>
-    <![endif]-->
-    <script src="//binstar-static-prod.s3.amazonaws.com/latest/js/bundle.js"></script>
-    
-    
-  <script async="" src="//static.hotjar.com/c/hotjar-248638.js?sv=5"></script></head>
-  <body>
-    
-      <div class="contain-to-grid">
-  <nav class="top-bar" data-topbar="" role="navigation">
-    <ul class="title-area">
-      <li class="name">
-        <h1>
-          <a class="navbar-brand" href="/">
-            <img src="//binstar-static-prod.s3.amazonaws.com/latest/img/logo-white.svg">
-          </a>
-        </h1>
-      </li>
-      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-    </ul>
-    <section class="top-bar-section">
-      <ul class="right">
-        <li class="has-form show-for-small-only">
-          <form action="/search">
-            <div class="row collapse">
-              <div class="small-9 columns">
-                <input type="text" placeholder="Search Anaconda Cloud" name="q">
-              </div>
-              <div class="small-3 columns">
-                <button type="submit" class="postfix"><i class="fa fa-search"></i></button>
-              </div>
-            </div>
-          </form>
-        </li>
-        
-        <li><a href="/gallery">Gallery</a></li>
-        
-        
-        <li><a href="/about">About</a></li>
-        
-        <li><a href="/about/pricing">Pricing</a></li>
-        
-        <li><a href="http://continuum.io/anaconda" target="_blank">Anaconda</a></li>
-        <li><a href="https://docs.continuum.io/anaconda-cloud/" target="_blank">Help</a></li>
-        
-        <li><a href="http://continuum.io/downloads" target="_blank">Download Anaconda</a></li>
-        
-        <li><a href="/account/login?next=%2Fabout%2Flegal%2Fprivacy">Sign In</a></li>
-      </ul>
-    </section>
-  </nav>
-</div>
-    
-    <div class="container">
-      
-      <div class="row">
-        <div class="columns medium-12">
-          
-          
-          
-          
-        </div>
-      </div>
-      
-        <div class="row"><div class="columns medium-12">
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WJN9BFZ"></script><script async="" src="https://static.addtoany.com/menu/page.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
 
-<div class="row">
-  <div class="columns medium-12">
-		
-		<p class="p1"><strong>ANACONDA CLOUD</strong></p>
-		<p class="p1"><strong>PRIVACY POLICY</strong></p>
-		<p class="p2"><strong>Anaconda Cloud</strong> (“Anaconda”) is committed to 
-		protecting the privacy of your information. We provide this Privacy Policy to inform users 
-		of our policies and procedures regarding the collection, use and disclosure of personally 
-		identifiable information (“PII”) received from users of our website 
-		(the “Website”) collected via the Website, email, SMS, telephone - or other 
-		means. This Privacy Policy may be updated from time to time for any reason, at our sole 
-		discretion. We will notify you of any material changes to our Privacy Policy by posting the 
-		new Privacy Policy on our Website. You are advised to consult this Privacy Policy regularly 
-		for any changes. By using or accessing the Website, you are accepting the practices 
-		described in this Privacy Policy, and you are consenting to our processing of your 
-		information as set forth in this Privacy Policy now and as amended by us.</p>
-		<p class="p3">If you have any questions or comments about this Privacy Policy or our use of 
-		your PII, please contact us.</p>
-		<ul class="ul1">
-		    <li class="li4">Website Covered.</li>
-		</ul>
-		<p class="p6">This Privacy Policy covers the information practices of 
-		<span class="s1">https://anaconda.org</span> and all of its respective sub-domains.</p>
-		<ul class="ul1">
-		    <li class="li4">Information Collected.</li>
-		</ul>
-		<p class="p7">Anaconda offers a variety of services that are collectively referred to as 
-		the “Services.” Anaconda collects information from individuals who visit 
-		Anaconda’s Website (“Visitors”) and individuals who register to use the 
-		Services (“Customers”). When expressing an interest in obtaining additional 
-		information about the Services or registering to use the Services, Anaconda may require you 
-		to provide Anaconda with personal contact information, such as name, company name, address, 
-		phone number, and email address (“Required Contact Information”). When 
-		purchasing the Services, Anaconda may require you to provide Anaconda with financial 
-		qualification and billing information, such as billing name and address, credit card 
-		number, and the number of employees within the organization that will be using the Services 
-		(“Billing Information”). Anaconda may also ask you to provide additional 
-		information, such as company annual revenues, number of employees, or industry 
-		(“Optional Information”). Required Contact Information, Billing Information, 
-		and Optional Information are referred to collectively as “Data About Anaconda 
-		Customers.” As you navigate Anaconda’s Website, Anaconda may also collect 
-		information through the use of commonly-used information-gathering tools, such as cookies 
-		and Web beacons (“Website Navigational Information”). Website Navigational 
-		Information includes standard information from your Web browser (such as browser type and 
-		browser language), your Internet Protocol (“IP”) address, and the actions you 
-		take on Anaconda’s Website (such as the Web pages viewed and the links clicked). By 
-		choosing to provide any information to Anaconda, you are giving Anaconda permission to use 
-		and store such information consistent with this Privacy Policy. Anaconda also collects and 
-		uses personal data regarding its employees (“Employee Data”), which may 
-		include: name, address, job title and other job information, location, compensation 
-		information, identification number, employment history, and copy of employment agreement.
-		</p>
-		<ul class="ul1">
-		    <li class="li9">Use of Information Collected.</li>
-		</ul>
-		<p class="p7">Anaconda uses Data About Anaconda Customers to perform the services 
-		requested. Anaconda may also use Data About Anaconda Customers for marketing purposes. For 
-		example, Anaconda may use information you provide to contact you to further discuss your 
-		interest in the Services and to send you information regarding Anaconda and its partners, 
-		such as information about promotions or events. Anaconda uses credit card information 
-		solely to check the financial qualifications of prospective Customers and to collect 
-		payment for the Services. Anaconda uses Website Navigational Information to operate and 
-		improve Anaconda’s Website. Anaconda may also use Website Navigational Information 
-		alone or in combination with Data About Anaconda Customers to provide personalized 
-		information about Anaconda. Employee Data is only used for the for the purposes of 
-		facilitating the performance of certain administrative tasks and functions relating to 
-		general employment and for processing and investigating reports under Anaconda’s 
-		codes and policies (“Employee Data Purposes”).</p>
-		<ul class="ul1">
-		    <li class="li9">Website Navigational Information. </li>
-		</ul>
-		<p class="p7">Anaconda may use commonly-used information-gathering tools, such as cookies 
-		and Web beacons, to collect information as you navigate Anaconda’s Website 
-		(“Website Navigational Information”). This section describes the types of 
-		Website Navigational Information that may be collected on Anaconda’s Website and how 
-		this information may be used.</p>
-		<ul class="ul1">
-		    <li class="li9">Cookies. Anaconda may use cookies to make interactions with 
-		    Anaconda’s Website easy and meaningful. When you visit Anaconda’s Website, 
-		    Anaconda’s servers send a cookie to your computer. Standing alone, cookies do not 
-		    personally identify you. They merely recognize your Web browser. Unless you choose to 
-		    identify yourself to Anaconda, either by responding to a promotional offer, opening an 
-		    account, or filling out a Web form, you remain anonymous to Anaconda. Anaconda uses 
-		    cookies that are session-based and persistent-based. Session cookies exist only during 
-		    one session. They disappear from your computer when you close your browser software or 
-		    turn off your computer. Persistent cookies remain on your computer after you close your 
-		    browser or turn off your computer. If you have chosen to identify yourself to Anaconda, 
-		    Anaconda uses session cookies containing encrypted information to allow Anaconda to 
-		    uniquely identify you. Each time you log into the Services, a session cookie containing 
-		    an encrypted, unique identifier that is tied to your account is placed your browser. 
-		    These session cookies allow Anaconda to uniquely identify you when you are logged into 
-		    the Services and to process your online transactions and requests. Session cookies are 
-		    required to use the Services. Anaconda may use persistent cookies that only Anaconda 
-		    can read and use to identify browsers that have previously visited Anaconda’s 
-		    Website. When you purchase the Services or provide Anaconda with personal information, 
-		    a unique identifier is assigned to you. This unique identifier is associated with a 
-		    persistent cookie that Anaconda places on your Web browser. Anaconda is especially 
-		    careful about the security and confidentiality of the information stored in persistent 
-		    cookies. For example, Anaconda does not store account numbers or passwords in 
-		    persistent cookies. You may refuse to accept cookies by activating the setting on your 
-		    browser which allows you to refuse the setting of cookies. If you disable your Web 
-		    browser’s ability to accept cookies, you will be able to navigate 
-		    Anaconda’s Website, but you will not be able to successfully use all the 
-		    Services. Unless you have adjusted your browser setting so that it will refuse 
-		    cookies, our system will issue cookies when you log on to our site. Anaconda may use 
-		    information from session and persistent cookies in combination with Data About Anaconda 
-		    Customers to provide you with information about Anaconda and the Services.</li>
-		</ul>
-		<ul class="ul1">
-		    <li class="li9">Web Beacons. Anaconda may use Web beacons alone or in conjunction with 
-		    cookies to compile information about Customers and Visitors’ usage of 
-		    Anaconda’s Website and interaction with emails from Anaconda. Web beacons are 
-		    clear electronic images that can recognize certain types of information on your computer, 
-		    such as cookies, when you viewed a particular Website tied to the Web beacon, and a 
-		    description of a Website tied to the Web beacon. For example, Anaconda may place Web beacons in marketing emails that notify Anaconda when you click on a link in the email that directs you to one of Anaconda’s Website. Anaconda uses Web beacons to operate and improve Anaconda’s Website and email communications. Anaconda may use information from Web beacons in combination with Data About Anaconda Customers to provide you with information about Anaconda and the Services.</li>
-		</ul>
-		<ul class="ul1">
-		    <li class="li9">Flash Cookies. Anaconda may use local shared objects, also known as 
-		    Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom Anaconda partners to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies.</li>
-		</ul>
-		<ul class="ul1">
-		    <li class="li9">IP Addresses. When you visit Anaconda’s Website, Anaconda may collect your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Anaconda may use IP addresses to monitor the regions from which Customers and Visitors navigate Anaconda’s Website. </li>
-		</ul>
-		<ul class="ul1">
-		    <li class="li9">Third Party Cookies. From time-to-time, Anaconda may engage third parties to track and analyze usage and volume statistical information from individuals who visit Anaconda’s Website. Anaconda may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after Anaconda receives it. Anaconda may also contract with third-party advertising networks that collect IP addresses and other Website Navigational Information on Anaconda’s Website and emails and on third-party Websites. Ad networks follow your online activities over time by collecting Website Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Websites. This process also helps us manage and track the effectiveness of our marketing efforts.</li>
-		</ul>
-		<ul class="ul1">
-		    <li class="li9">Public Forums, Refer a Friend, and Customer Testimonials.</li>
-		</ul>
-		<p class="p7">Anaconda may provide bulletin boards, blogs, or chat rooms on Anaconda’s Website. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Anaconda is not responsible for the personal information you choose to submit in these forums. Customers and Visitors may elect to use Anaconda’s referral program to inform friends about Anaconda’s Website. When using the referral program, Anaconda requests the friend’s name and email address. Anaconda will automatically send the friend a one-time email inviting him or her to visit Anaconda’s Website. Anaconda may store this information. Anaconda may post a list of Customers and testimonials on Anaconda’s Website that contain information such as Customer names and titles. Anaconda obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.</p>
-		<ul class="ul1">
-		    <li class="li9">Sharing of Information Collected.</li>
-		</ul>
-		<p class="p7">Anaconda may share Data About Anaconda Customers with Anaconda’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Anaconda may also share Data About Anaconda Customers with Anaconda’s service providers to ensure the quality of information provided. Unless described in this Privacy Policy, Anaconda does not share, sell, rent, or trade any information provided with third parties for their promotional purposes. From time to time, Anaconda may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Anaconda, Anaconda may share Data About Anaconda Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s), once Anaconda has notified you of the information to be shared and obtained your consent to the sharing of the information. Anaconda does not control our business partners’ use of the Data About Anaconda Customers we collect, and their use of the information will be in accordance with their own privacy policies. Anaconda may use third-party service providers to manage credit card processing. Such service providers will not be permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on Anaconda’s behalf. Anaconda reserves the right to use or disclose information provided if required by law or if Anaconda reasonably believes that use or disclosure is necessary to protect Anaconda’s rights and/or to comply with a judicial proceeding, court order, or legal process. Employee Data is only disclosed to third parties for the Employee Data Purposes. In no case does Anaconda disclose to third parties Employee Data for any incompatible purpose without first notifying the data subject and providing the data subject with an opportunity to affirmatively opt-out or object to such use or disclosure.</p>
-		<ul class="ul1">
-		    <li class="li9">Users from outside the United States.</li>
-		</ul>
-		<p class="p7">Anaconda and its Services are based in the U.S., and Anaconda’s offices are headquartered in the U.S. Please be aware that information you provide to Anaconda that it obtains as a result of your use of the Services may be processed and transferred to the U.S. and be subject to U.S. law. This information may also be processed by staff working for Anaconda or for one of its suppliers in the U.S. The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence. By using the Website, participating in any of the Services, or by providing Anaconda with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S. Anaconda will take all steps reasonably necessary to ensure that your data is treated securely in accordance with this privacy policy.</p>
-		<ul class="ul1">
-		    <li class="li9">Communications Preferences; Opt Out Policy.</li>
-		</ul>
-		<p class="p7">Anaconda offers Customers and Visitors who provide contact information a means to choose how Anaconda uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of Anaconda’s marketing emails. Additionally, you may send a request specifying your communications preferences to info@Anaconda.io. If, at any time after registering, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice. Please contact us as specified herein.</p>
-		<ul class="ul1">
-		    <li class="li9">Correcting and Updating Your Information.</li>
-		</ul>
-		<p class="p7">Customers may view, update or change their registration information by contacting us  at Anaconda Cloud Privacy, 221 W 6<sup>th</sup> Street, Suite 1550, Austin, TX 78701. Requests to access, change, or delete your information will be handled within 180 days.</p>
-		<ul class="ul1">
-		    <li class="li4">Security.</li>
-		</ul>
-		<p class="p7">Anaconda uses appropriate administrative, technical, and physical security measures to protect Data About Anaconda Customers. However, we cannot guarantee that hackers or unauthorized personnel will not gain access to your personal information despite our efforts. You should note that in using the Website and our related services, your information will travel through third party infrastructures which are not under our control. We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users of the Website. You should never transmit personal or identifying information to other users.</p>
-		<ul class="ul1">
-		    <li class="li4">Change of Control.</li>
-		</ul>
-		<p class="p7">As Anaconda develops its business, it may buy or sell assets or business offerings. Data About Anaconda Customers is generally one of the transferred business assets in these types of transactions. Anaconda may also transfer such information in the course of corporate divestitures, mergers, or dissolution.</p>
-		<ul class="ul1">
-		    <li class="li4">US-EU and US-Swiss Safe Harbor Framework.</li>
-		</ul>
-		<p class="p7">Anaconda’s platform complies with the US-EU Safe Harbor Framework and 
-		the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce 
-		regarding the collection, use, and retention of personal information from European Union 
-		member countries and Switzerland. In compliance with the Safe Harbor Principles, Anaconda 
-		commits to resolve complaints about your privacy and our collection or use of your personal 
-		information. European Union citizens with inquiries or complaints regarding this privacy 
-		policy should contact Anaconda at: Anaconda Cloud Privacy, 221 W 6<sup>th</sup> Street, 
-		Suite 1550, Austin, TX 78701. Anaconda will review all audit requests submitted in writing 
-		or through email for the purpose of determining whether or not its procedures and protocols 
-		being used are consistent with the US-EU Safe Harbor Framework. It is Anaconda’s 
-		policy to routinely monitor and check its compliance procedures and protocols. Should 
-		Anaconda determine inconsistency with any such procedures or protocol, Anaconda will take 
-		necessary steps to address and correct the inconsistency. </p>
-		<ul class="ul1">
-		    <li class="li4">Contacting Us</li>
-		</ul>
-		<p class="p7">Questions regarding this Privacy Policy or the information practices of the 
-		Website should be directed to: Anaconda Cloud Privacy, 221 W 6<sup>th</sup> Street, Suite 
-		1550, Austin, TX 78701.</p>
-		
-  </div>
-</div>
+<title>Privacy Policy - Anaconda</title>
 
+<!-- This site is optimized with the Yoast SEO plugin v9.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.anaconda.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Anaconda">
+<meta property="og:description" content="PRIVACY POLICY Anaconda, Inc.&nbsp;(formerly&nbsp;Continuum Analytics, Inc.) is committed to protecting the privacy of your personal data. Our Privacy Policy is provided to inform you of: the type of personal data we collect from you and…">
+<meta property="og:url" content="https://www.anaconda.com/privacy-policy/">
+<meta property="og:site_name" content="Anaconda">
+<meta property="article:publisher" content="https://www.facebook.com/anacondainc/">
+<meta property="og:image" content="https://www.anaconda.com/wp-content/uploads/2018/05/Anaconda-Twitter-Card-01.jpg">
+<meta property="og:image:secure_url" content="https://www.anaconda.com/wp-content/uploads/2018/05/Anaconda-Twitter-Card-01.jpg">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.anaconda.com\/","sameAs":["https:\/\/www.facebook.com\/anacondainc\/","https:\/\/www.linkedin.com\/company\/anacondainc","https:\/\/www.youtube.com\/channel\/UCND4vKhJssAtK8p1Blfj14Q","https:\/\/twitter.com\/anacondainc"],"@id":"https:\/\/www.anaconda.com\/#organization","name":"Anaconda Inc","logo":"https:\/\/www.anaconda.com\/wp-content\/uploads\/2018\/05\/Anaconda-Twitter-Card-01.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
 
-</div></div>
-      
-      <div class="push"></div>
-    </div>
-    <footer class="">
-  
-  <div class="row">
-    <div class="columns medium-3 medium-offset-3">
-      <h5>Anaconda Cloud</h5>
-      <p>
-        <a href="/gallery">Gallery</a><br>
-        <a href="/about">About</a><br>
-        
-        <a href="/about/pricing">Pricing</a><br>
-        
-        <a href="https://docs.continuum.io/anaconda-cloud/" target="_blank">Documentation</a><br>
-        <a href="/contact">Support</a><br>
-        <a href="https://www.continuum.io/our-story" target="_blank">About Continuum</a><br>
-        <a href="http://continuum.io/downloads" target="_blank">Download Anaconda</a><br>
-      </p>
-    </div>
-    <div class="columns medium-3 end">
-      <h5>Community</h5>
-      <p>
-        <a href="https://www.continuum.io/content/anaconda-community" target="_blank">Anaconda Community</a><br>
-        <a href="https://www.continuum.io/open-source-core-modern-software" target="_blank">Open Source</a><br>
-        <a href="https://www.continuum.io/content/numfocus" target="_blank">NumFOCUS</a><br>
-        <a href="https://www.continuum.io/content/why-python" target="_blank">Why Python</a><br>
-        <a href="https://www.continuum.io/support" target="_blank">Support</a><br>
-        <a href="https://www.continuum.io/blog/developer-blog" target="_blank">Developer Blog</a>
-      </p>
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="columns medium-12">
-      <ul>
-        <li><a href="https://twitter.com/ContinuumIO" target="_blank"><i class="fa fa-2x fa-twitter"></i></a></li>
-        <li><a href="https://www.facebook.com/ContinuumAnalytics" target="_blank"><i class="fa fa-2x fa-facebook"></i></a></li>
-        <li><a href="http://www.slideshare.net/continuumio" target="_blank"><i class="fa fa-2x fa-slideshare"></i></a></li>
-        <li><a href="https://www.linkedin.com/company/continuum-analytics-inc-" target="_blank"><i class="fa fa-2x fa-linkedin"></i></a></li>
-        <li><a href="https://instagram.com/continuumanalytics/" target="_blank"><i class="fa fa-2x fa-instagram"></i></a></li>
-        <li><a href="https://www.youtube.com/c/ContinuumIo" target="_blank"><i class="fa fa-2x fa-youtube"></i></a></li>
-        <li><a href="https://github.com/ContinuumIO" target="_blank"><i class="fa fa-2x fa-github"></i></a></li>
-      </ul>
-    </div>
-  </div>
+<link rel="dns-prefetch" href="//www.anaconda.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Anaconda » Feed" href="https://www.anaconda.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Anaconda » Comments Feed" href="https://www.anaconda.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.anaconda.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.anaconda.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="custom-new-style-css" href="https://www.anaconda.com/wp-content/themes/anaconda2/assets/css/unminified/new-style.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="slick-style-css" href="https://www.anaconda.com/wp-content/themes/anaconda2/assets/css/unminified/slick.css?ver=1.1" type="text/css" media="all">
+<link rel="stylesheet" id="slick-theme-style-css" href="https://www.anaconda.com/wp-content/themes/anaconda2/assets/css/unminified/slick-theme.css?ver=1.1" type="text/css" media="all">
+<link rel="stylesheet" id="prism-style-css" href="https://www.anaconda.com/wp-content/themes/anaconda2/assets/css/minified/prism.css?ver=1.1" type="text/css" media="all">
+<link rel="stylesheet" id="astra-theme-css-css" href="https://www.anaconda.com/wp-content/themes/anaconda2/assets/css/minified/style.min.css?ver=1.3.3" type="text/css" media="all">
+<style id="astra-theme-css-inline-css" type="text/css">
+html{font-size:100%;}a,.page-title{color:#41c932;}a:hover,a:focus{color:#3a3a3a;}body,button,input,select,textarea{font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-size:16px;font-size:1rem;}blockquote{border-color:rgba(65,201,50,0.05);}.site-title{font-size:35px;font-size:2.1875rem;}#masthead .site-logo-img .custom-logo-link img{max-width:600px;}.astra-logo-svg{width:600px;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.5rem;}.site-header .site-description{font-size:15px;font-size:0.9375rem;}.entry-title{font-size:30px;font-size:1.875rem;}.comment-reply-title{font-size:26px;font-size:1.625rem;}.ast-comment-list #cancel-comment-reply-link{font-size:16px;font-size:1rem;}h1,.entry-content h1,.entry-content h1 a{font-size:48px;font-size:3rem;}h2,.entry-content h2,.entry-content h2 a{font-size:42px;font-size:2.625rem;}h3,.entry-content h3,.entry-content h3 a{font-size:30px;font-size:1.875rem;}h4,.entry-content h4,.entry-content h4 a{font-size:20px;font-size:1.25rem;}h5,.entry-content h5,.entry-content h5 a{font-size:18px;font-size:1.125rem;}h6,.entry-content h6,.entry-content h6 a{font-size:15px;font-size:0.9375rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:1.875rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:16px;font-size:1rem;}::selection{background-color:#43c43c;color:#000000;}body,h1,.entry-title a,.entry-content h1,.entry-content h1 a,h2,.entry-content h2,.entry-content h2 a,h3,.entry-content h3,.entry-content h3 a,h4,.entry-content h4,.entry-content h4 a,h5,.entry-content h5,.entry-content h5 a,h6,.entry-content h6,.entry-content h6 a{color:#3a3a3a;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#000000;border-color:#41c932;background-color:#41c932;}.main-header-menu a,.ast-header-custom-item a{color:#3a3a3a;}.main-header-menu li:hover > a,.main-header-menu li:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu li.focus > a,.main-header-menu li.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > a,.main-header-menu .current-menu-ancestor > a,.main-header-menu .current_page_item > a,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle,.main-header-menu .current_page_item > .ast-menu-toggle{color:#41c932;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#41c932;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#41c932;background-color:#41c932;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#41c932;border-color:#41c932;}.ast-comment-meta{line-height:1.666666667;font-size:13px;font-size:0.8125rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#41c932;}.menu-toggle,button,.ast-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-radius:2px;padding:10px 40px;color:#ffffff;border-color:#81d742;background-color:#81d742;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;border-color:#81d742;background-color:#81d742;}.search-submit,.search-submit:hover,.search-submit:focus{color:#000000;background-color:#41c932;}.entry-meta,.entry-meta *{line-height:1.45;color:#41c932;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#3a3a3a;}blockquote,blockquote a{color:#000000;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:12.5rem;}.widget-title{font-size:22px;font-size:1.375rem;color:#3a3a3a;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#41c932;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#41c932;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#41c932;border-color:#41c932;}.calendar_wrap #today > a{color:#000000;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#41c932;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#3a3a3a;}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1280px;margin-left:auto;margin-right:auto;}}@media (max-width:768px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:30px;}h2,.entry-content h2,.entry-content h2 a{font-size:25px;}h3,.entry-content h3,.entry-content h3 a{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:30px;}h2,.entry-content h2,.entry-content h2 a{font-size:25px;}h3,.entry-content h3,.entry-content h3 a{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:768px){html{font-size:91.2%;}}@media (max-width:544px){html{font-size:91.2%;}}@media (min-width:769px){.ast-container{max-width:1280px;}}@font-face {font-family: "Astra";src: url( https://www.anaconda.com/wp-content/themes/anaconda2/assets/fonts/astra.woff) format("woff"),url( https://www.anaconda.com/wp-content/themes/anaconda2/assets/fonts/astra.ttf) format("truetype"),url( https://www.anaconda.com/wp-content/themes/anaconda2/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.25rem;}}
+.ast-header-break-point .site-header{border-bottom-width:1px;}@media (min-width:769px){.main-header-bar{border-bottom-width:1px;}}
+.main-header-bar-wrap::before {content: '921';}@media all and ( min-width: 921px ) {.main-header-bar-wrap::before {content: '';}}
+</style>
+<link rel="stylesheet" id="toolset_bootstrap_styles-css" href="https://www.anaconda.com/wp-content/plugins/layouts/vendor/toolset/toolset-common/res/lib/bootstrap/css/bootstrap.css?ver=3.2.4" type="text/css" media="screen">
+<link rel="stylesheet" id="menu-cells-front-end-css" href="https://www.anaconda.com/wp-content/plugins/layouts/resources/css/cell-menu-css.css?ver=2.4.3" type="text/css" media="screen">
+<link rel="stylesheet" id="ddl-front-end-css" href="https://www.anaconda.com/wp-content/plugins/layouts/resources/css/ddl-front-end.css?ver=2.4.3" type="text/css" media="screen">
+<link rel="stylesheet" id="toolset-common-css" href="https://www.anaconda.com/wp-content/plugins/layouts/vendor/toolset/toolset-common/res/css/toolset-common.css?ver=3.2.4" type="text/css" media="screen">
+<link rel="stylesheet" id="mediaelement-css" href="https://www.anaconda.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://www.anaconda.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="views-pagination-style-css" href="https://www.anaconda.com/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css?ver=2.6" type="text/css" media="all">
+<style id="views-pagination-style-inline-css" type="text/css">
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item {border-color: #0099cc;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item a {color: #444;background-color: #cbddeb;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:focus {color: #000;background-color: #95bedd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #95bedd;}
+</style>
+<link rel="stylesheet" id="onthego-admin-styles-css" href="https://www.anaconda.com/wp-content/plugins/types/vendor/toolset/onthego-resources/onthego-styles/onthego-styles.css?ver=3.2.4" type="text/css" media="screen">
+<link rel="stylesheet" id="addtoany-css" href="https://www.anaconda.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" type="text/css" media="all">
+<style id="addtoany-inline-css" type="text/css">
+.a2a_kit .a2a_svg{
+	padding: 4px;
+	border-radius: 50% !important;
+}
+</style>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var DDLayout_fe_settings = {"DDL_JS":{"css_framework":"bootstrap-3","DEBUG":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/plugins/layouts/resources/js/ddl-layouts-frontend.js?ver=2.4.3"></script>
+<script type="text/javascript">
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://www.anaconda.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.anaconda.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.anaconda.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.8">
+<link rel="shortlink" href="https://www.anaconda.com/?p=9774">
+<link rel="alternate" type="application/json+oembed" href="https://www.anaconda.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anaconda.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.anaconda.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anaconda.com%2Fprivacy-policy%2F&amp;format=xml">
 
-</footer>
-<div class="license full-width">
-  <div class="row">
-    <div class="columns medium-12 text-center">
-      <h5>
-        
-        <a href="/about/legal/privacy" target="_blank">PRIVACY POLICY</a>
-        &nbsp;|&nbsp;
-        <a href="/about/legal/terms" target="_blank">EULA</a>
-        
-        &nbsp; &nbsp; &nbsp;
-        <span>(Anaconda Cloud v2.27.3)</span>
-        &nbsp; &nbsp; &nbsp; ©
-        2016 Continuum Analytics, Inc. All Rights Reserved.
-      </h5>
-    </div>
-  </div>
-</div>
-    
-    
-    
-    
-    <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MTFQWW"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.icon_color="#414042";
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://www.anaconda.com/wp-content/uploads/2018/06/cropped-Anaconda_icon_transparent_512x512-32x32.png" sizes="32x32">
+<link rel="icon" href="https://www.anaconda.com/wp-content/uploads/2018/06/cropped-Anaconda_icon_transparent_512x512-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.anaconda.com/wp-content/uploads/2018/06/cropped-Anaconda_icon_transparent_512x512-180x180.png">
+<meta name="msapplication-TileImage" content="https://www.anaconda.com/wp-content/uploads/2018/06/cropped-Anaconda_icon_transparent_512x512-270x270.png">
+<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MTFQWW');</script>
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WJN9BFZ');</script>
 <!-- End Google Tag Manager -->
-    <!-- Hotjar Tracking Code for https://anaconda.org -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:248638,hjsv:5};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</head>
+
+<body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="page-template-default page page-id-9774 wp-custom-logo ast-plain-container ast-no-sidebar astra-1.3.3 ast-header-custom-item-inside group-blog ast-single-post ast-normal-title-enabled privacy-policy_page  page_type">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJN9BFZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<ul id="top-search" class="accordion bg-dark unmarg pos-top pos-right width-100">
+		<li class="unmarg active">
+			<div class="accordion-content">
+				<form class="search" method="get" action="/" role="search">
+					<section class="space-xs clearfix">
+						<div class="col-sm-8 col-sm-offset-2">
+							<div class="row">
+								<div class="col-sm-10">
+									<input type="search" name="s" placeholder="I'm looking for…" autocomplete="off" value="">
+								</div>
+								<div class="col-sm-2">
+									<button type="submit" class="btn btn-primary">Search</button>
+								</div>
+							</div>
+						</div>
+					</section>
+				</form>
+			</div>
+		</li>
+	</ul>
+
+	
+	
+		<header itemtype="https://schema.org/WPHeader" itemscope="itemscope" id="masthead" class="site-header header-main-layout-1 ast-mobile-header-inline" role="banner">
+
+			
+			
+<div class="main-header-bar-wrap">
+	<div class="main-header-bar">
+				<div class="ast-container">
+
+			<div class="ast-flex main-header-container">
+				
+		<div class="site-branding">
+			<div class="ast-site-identity" itemscope="itemscope" itemtype="https://schema.org/Organization">
+				<span class="site-logo-img"><a href="https://www.anaconda.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="600" height="102" src="https://www.anaconda.com/wp-content/uploads/2018/06/cropped-Anaconda_horizontal_RGB-1-600x102.png" class="custom-logo" alt="Anaconda" itemprop="logo" srcset="" sizes="(max-width: 600px) 100vw, 600px"></a></span>			</div>
+		</div>
+		<!-- .site-branding -->
+				<div class="ast-mobile-menu-buttons">
+
+			
+					<div class="ast-button-wrap">
+			<button type="button" class="menu-toggle main-header-menu-toggle " rel="main-menu" aria-controls="primary-menu" aria-expanded="false">
+				<span class="screen-reader-text">Main Menu</span>
+				<i class="menu-toggle-icon"></i>
+							</button>
+		</div>
+	
+			
+		</div>
+		<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" id="site-navigation" class="ast-flex-grow-1" role="navigation" aria-label="Site Navigation"><div class="main-navigation"><ul id="primary-menu" class="main-header-menu ast-flex ast-justify-content-flex-end submenu-with-border"><li id="menu-item-7192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7192"><a href="/">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-7194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7194"><a href="https://www.anaconda.com/distribution/">Anaconda Distribution</a></li>
+	<li id="menu-item-7196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7196"><a href="https://www.anaconda.com/enterprise/">Anaconda Enterprise</a></li>
+</ul>
+</li>
+<li id="menu-item-7193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7193"><a href="https://www.anaconda.com/why-anaconda/">Why Anaconda?</a></li>
+<li id="menu-item-7197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7197"><a href="/">Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-7341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7341"><a href="https://www.anaconda.com/use-cases/">Use Cases</a></li>
+	<li id="menu-item-7199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7199"><a href="https://www.anaconda.com/support/">Support</a></li>
+	<li id="menu-item-7200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7200"><a href="https://www.anaconda.com/training/">Training</a></li>
+	<li id="menu-item-7198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7198"><a href="https://www.anaconda.com/professional-services/">Professional Services</a></li>
+</ul>
+</li>
+<li id="menu-item-7201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7201"><a href="/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-7202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7202"><a href="/blog">Blog</a></li>
+	<li id="menu-item-7203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7203"><a href="/anaconda-webinars">Webinars</a></li>
+	<li id="menu-item-7204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7204"><a href="/event">Events</a></li>
+	<li id="menu-item-7205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7205"><a href="/whitepapers">Whitepapers</a></li>
+	<li id="menu-item-7206" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7206"><a href="/videos">Videos</a></li>
+	<li id="menu-item-7207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7207"><a href="https://www.anaconda.com/anaconda-community/">Community</a></li>
+</ul>
+</li>
+<li id="menu-item-7208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7208"><a href="/">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-7209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7209"><a href="https://www.anaconda.com/about-us/">About Us</a></li>
+	<li id="menu-item-7213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7213"><a href="https://www.anaconda.com/partners/">Partners</a></li>
+	<li id="menu-item-7214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7214"><a href="https://www.anaconda.com/anaconda-careers/">Careers</a></li>
+	<li id="menu-item-7212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7212"><a href="https://www.anaconda.com/media-kit/">Media Kit</a></li>
+	<li id="menu-item-7210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7210"><a href="https://www.anaconda.com/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+			<li class="ast-masthead-custom-menu-items text-html-custom-menu-item">
+				<div class="ast-custom-html"><a href="/distribution" class="btn-primary">Download</a></div>			</li>
+			
+		<li title="Search">
+		<a href="#" class="search-icon">
+		<i class="fas fa-search"></i>
+		<span class="hidden-lg">Search</span>
+		</a>
+		</li>
+		</ul></div></nav></div></div>			</div><!-- Main Header Container -->
+		</div><!-- ast-row -->
+			</div> <!-- Main Header Bar -->
+</div> <!-- Main Header Bar Wrap -->
+
+			
+		</header><!-- #masthead -->
+		
+	
+	
+	<div class="site-content content" id="content">
+		
+					<div class="default-hero" style="background-image:url( https://www.anaconda.com/wp-content/uploads/2019/01/iStock-952039816.jpg );">
+				<div class="container">
+									</div>
+			</div>
+				<div class="ast-container">
+
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main" role="main">
+
+				
+					
+					
+
+<article itemtype="https://schema.org/CreativeWork" itemscope="itemscope" id="post-9774" class="post-9774 page type-page status-publish ast-article-single">
+
+	
+<!-- 	<header class="entry-header ">
+
+		
+			</header>-->
+
+	<div class="entry-content clear" itemprop="text">
+
+		
+		                <div class="container-fluid ">
+                <div class="ddl-full-width-row row ">
+                <div class="col-sm-12"><p><strong>PRIVACY POLICY</strong></p>
+<p><strong>Anaconda, Inc.</strong>&nbsp;(formerly&nbsp;<strong>Continuum Analytics, Inc.</strong>) is committed to protecting the privacy of your personal data.</p>
+<p>Our Privacy Policy is provided to inform you of:</p>
+<ul>
+<li>the type of personal data we collect from you and process,</li>
+<li>how we collect and process your personal data,</li>
+<li>why we collect and process your personal data,</li>
+<li>how and why we share your personal data, and</li>
+<li>what rights you have concerning your personal data we have collected.</li>
+</ul>
+<p><strong>WE COLLECT AND PROCESS YOUR PERSONAL DATA</strong></p>
+<p><strong>Consumer Personal Data:</strong>&nbsp;Anaconda offers a variety of product and services, some of which are accessed via our website. When you access our website or services, we collect, process, and at times, store your personal data. This data may include: your name, address, email, phone number, title, and the name of your company. If you are making a purchase of our product or services, we may also collect your credit card information, as well as billing name and billing address. In addition, we may collect, process, and store your Internet Protocol (IP) address, your geo location, and the type of actions you take on our website (pages you’ve visited, etc.).</p>
+<p><strong>Employee Personal Data:</strong>&nbsp;In connection with human resources functions and activities, Anaconda may collect or have access to your name, contact information, date of birth, gender, government issued identification information, passport or visa information, educational history, employment and military history, legal work eligibility status, information about job performance and compensation, financial account information, and other information an employee may provide.</p>
+<p><strong>HOW WE COLLECT, PROCESS, AND STORE YOUR PERSONAL DATA</strong></p>
+<p>Most of the time we are collecting personal data from you directly, as a result of a purchase of product or services. But there are other ways in which you are sharing personal data with us that include:</p>
+<ul>
+<li>Visiting our website and accepting cookies</li>
+<li>Signing up online for any of our events or training sessions</li>
+<li>Maintaining a support contract with us</li>
+<li>Requesting a quote for product or services</li>
+<li>Downloading material that requires you to submit a form</li>
+<li>Downloading a product or service for use</li>
+<li>Applying for a job</li>
+<li>Submitting to a pre-employment background check</li>
+<li>Web beacon navigation techniques</li>
+</ul>
+<p><strong>WHY WE COLLECT, PROCESS, AND STORE YOUR PERSONAL DATA</strong></p>
+<p><strong>Consumer Personal Data:</strong>&nbsp;Anaconda collects and processes your personal data to help us provide you the product and services you request. We use your contact information to provide product support services you may require, to deliver necessary product updates and patches, and administer user accounts. We may also need to process your personal data for billing purposes or to simply implement, finalize, or enforce a services or software agreement with you. We also collect and process your personal data from cookies and Web beacons generated from your website activity to administer our website and service, understand how customers navigate through our website and offerings, and to enhance the experience you have using our website and online tools or services.</p>
+<p><strong>Employee Personal Data:</strong>&nbsp;Anaconda collects or has access to personal data about employees to carry out and support human resources functions and activities, which may include: (i) recruiting and hiring job applicants; (ii) managing employee communications and relations; (iii) providing compensation and benefits; (iv) administering payroll; (v) processing corporate expenses and reimbursements; (vi) managing employee participation in human resources plans and programs; (vii) carrying out obligations under employment contracts; (viii) managing employee performance; (ix) conducting training and talent development; (x) facilitating employee relocation and international assignments; (xi) managing employee headcount and office allocation; (xii) managing employee termination process; (xiii) managing information technology and communication systems, such as corporate email system; (xiv) conducting ethics and disciplinary investigations; (xv) administering employee grievances and claims; (xvi) managing audit and compliance matters; (xvii) complying with applicable legal obligations, including government reporting and specific local law requirements; and (xviii) other general human resources purposes. Anaconda may also obtain and process personal data about employees’ emergency contacts and other individuals (such as spouse, family members, dependents, and beneficiaries) to the extent employees provide such information to Anaconda. Anaconda processes this information to comply with its legal obligations and for benefits administration and other internal administrative purposes.</p>
+<p><strong>HOW AND WHY WE SHARE YOUR PERSONAL DATA</strong></p>
+<p>Your personal data will not be sold, exchanged, transferred, leased, or made available to third parties, except to third party companies (e.g. service providers) who may process your personal data on Anaconda’s behalf in connection with providing Anaconda product or services that you have requested.</p>
+<p>Anaconda may engage and contract with these third party companies to provide services that help us with our business and human resource activities such as software support services, contract management services, sales support services, software training services, benefits administration, human resource compliance and management platform, employee stock options management platform,&nbsp; and in-office communications system. These third party service providers are limited to only using information as instructed to provide contracted services to us.</p>
+<p>Anaconda may also disclose your personal data as required by law such as to comply with a subpoena or similar legal process. To the extent we are legally permitted to do so, we will take commercially reasonable steps to notify you in the event that we are required to provide your personal data to third parties as part of a legal process. Anaconda may also be required to disclose personal data in response to lawful requests by public authorities, including requests from national security or law enforcement authorities.</p>
+<p><strong>YOUR RIGHTS</strong></p>
+<p>You have the following rights to your personal data that we have collected:</p>
+<ul>
+<li>Right to Access – right to know what personal data is collected and how we use it</li>
+<li>Right to Correction – right to request that we correct your personal data</li>
+<li>Right to Deletion – right to request that we delete your personal data</li>
+<li>Right to a Copy – right to request a copy of your personal data</li>
+</ul>
+<p>Overall, you have the right to be informed on the use of your personal data and you have the choice to request that we not continue to process or store your personal data for any reason. To review and update your personal data to ensure it is accurate, or request we delete or return your data to you, please contact Anaconda’s Privacy Compliance Group at&nbsp;<a href="mailto:Privacy@anaconda.com">Privacy@anaconda.com</a>.</p>
+<p>Anaconda will make commercially reasonable efforts to provide you reasonable access to any of your personal data or other account information we maintain within 30 days of your access request. We provide this access so you may review, make corrections, or request return or deletion of your personal data. If we cannot honor your request within the 30 day period, we will tell you when we will be able to provide access. In the unlikely event that we cannot provide you access to your data, we will also explain why we cannot do so.</p>
+<p>We will retain your personal data only for so long as a legitimate business or human resources purpose exists or until you have requested us to delete your personal data.</p>
+<p><strong>EU-U.S. AND SWISS-U.S. PRIVACY SHIELD FRAMEWORK</strong></p>
+<p>Anaconda has adopted and complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union to the United States or personal data transferred from Switzerland to the United States.&nbsp; Anaconda has self-certified to the Department of Commerce that it adheres to the Privacy Shield Principles.&nbsp; If there is any conflict between the terms in our privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.&nbsp; To learn more about the Privacy Shield program, and to view our certification, please visit the&nbsp;<a href="https://www.privacyshield.gov/" target="_blank" rel="noopener">Privacy Shield Website</a>.</p>
+<p>The Federal Trade Commission (FTC) has jurisdiction over Anaconda’s compliance with the Privacy Shield.</p>
+<p>Under the Privacy Shield, Anaconda is responsible for the processing for personal data we receive and subsequently transfer to a third party service provider acting for or on our behalf. Anaconda is also liable for ensuring that the third party service providers we engage support our Privacy Shield commitments. Further, all Anaconda employees who handle personal data from the EU are also required to comply with the principles stated in this Policy.</p>
+<p>In compliance with the Privacy Shield Principles Anaconda commits to resolve complaints about our collection or use of your personal data. Individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Anaconda, Inc. at&nbsp;<a href="mailto:Privacy@anaconda.com">Privacy@anaconda.com</a>&nbsp;or by mail to: 221 W. 6<sup>th</sup>&nbsp;Street, Suite 1550, Austin, TX 78701.</p>
+<p>If you are a resident of the EEA and have an unresolved privacy or personal information collection, use, or disclosure concern that we have not addressed satisfactorily, please contact the EU Data Protection Authority in your EU Member State. For more information on how to contact the EU Data Protection Authorities,&nbsp;<a href="http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm" target="_blank" rel="noopener">click here</a>. If you are a resident of Switzerland and have this concern, please contact the Swiss Federal Data Protection and Information Commissioner. For more information on how to contact the Swiss Federal Data Protection and Information Commissioner,&nbsp;<a href="https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html" target="_blank" rel="noopener">click here</a>.</p>
+<p>In connection with Anaconda’s self-certification under the Privacy Shield, Anaconda commits to cooperate with the panel established by the EU Data Protection Authorities and comply with the advice given by the panel in regard to personal data transferred from the EU. Anaconda also commits to cooperate with and comply with the advice of the Commissioner with regard to personal data transferred from Switzerland. In either instance, such action is provided at no cost to you.</p>
+<p>Under certain conditions, more fully described on the&nbsp;<a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction" target="_blank" rel="noopener">Annex I to the Privacy Shield Principles</a>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+<p>Safeguarding the personal data you give us or we receive about you is a priority for Anaconda. We take appropriate security measures to protect against loss, misuse, and unauthorized access, alteration, disclosure, or destruction of your personal data. Anaconda has taken steps to ensure the ongoing confidentiality, integrity, availability, and resilience of systems and services processing personal data, and will restore the availability and access to personal data in a timely manner in the event of a physical or technical incident.</p>
+<p>Please note that this Privacy Policy may change from time to time. If we change this Privacy Policy in ways that affect how we use your personal data, we will advise you of the choices you may have as a result of those changes. We will also post a notice on our website that this Privacy Policy has changed.</p>
+<p>This Privacy Policy covers the information practices of&nbsp;<a href="http://www.anaconda.com/" target="_blank" rel="noopener">www.anaconda.com</a>&nbsp;and all of its respective sub-domains.</p>
+<p><strong>CONSENT</strong></p>
+<p>By consenting to this Privacy Policy you are giving Anaconda, Inc. permission to process your personal data specifically for the purposes identified above. Your consent must be explicitly given. You may withdraw your consent at any time by contacting the Anaconda Privacy Compliance Group at&nbsp;<a href="mailto:Privacy@anaconda.com">Privacy@anaconda.com</a>.</p>
+</div></div></div>
+		
+		
+	</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+
+					
+					
+				
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+			
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+		<footer id="footer-bottom" class="space-xs bg-dark unpad-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-7 col-sm-12">
+						<div class="menu-bottom-nav-container"><ul id="menu-footer" class="menu"><li id="menu-item-9780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9780"><a href="https://www.anaconda.com/enterprise/">Product</a></li>
+<li id="menu-item-7290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a href="https://www.anaconda.com/support/">Support</a></li>
+<li id="menu-item-7288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7288"><a href="https://www.anaconda.com/anaconda-community/">Community</a></li>
+<li id="menu-item-9779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9779"><a href="https://docs.anaconda.com">Documentation</a></li>
+<li id="menu-item-7287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7287"><a href="https://www.anaconda.com/anaconda-careers/">Careers</a></li>
+</ul></div>					</div>
+					<div class="col-md-5 col-sm-12 right-align phones">
+						<div id="text-2" class="widget widget_text">			<div class="textwidget"><p>General: <a href="callto:+1 (512) 222-5440">+1 (512) 222-5440</a><br>
+Sales: <a href="callto: +1 (512) 776 1066">+1 (512) 776-1066</a></p>
+</div>
+		</div>					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-7 col-sm-12 copy">
+						<div id="text-3" class="widget widget_text">			<div class="textwidget"><p>© Copyright 2019 Anaconda, Inc. All Rights Reserved. | <a href="../privacy-policy">Privacy Policy </a>| Made with love in Austin, Texas</p>
+</div>
+		</div>					</div>
+					<div class="col-md-5 col-sm-12 social-icons">
+						<div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.facebook.com/anacondainc"><i class="fab fa-facebook-f"></i></a><a href="https://twitter.com/anacondainc"><i class="fab fa-twitter"></i></a><a href="https://github.com/ContinuumIO"><i class="fab fa-github-alt"></i></a><a href="https://www.instagram.com/anaconda_inc/"><i class="fab fa-instagram"></i></a><a href="https://www.linkedin.com/company/anacondainc/"><i class="fab fa-linkedin-in"></i></a><a href="https://www.youtube.com/c/ContinuumIo"><i class="fab fa-youtube"></i></a></div></div>					</div>
+				</div>
+			</div>
+		</footer>
+
+		
+		
+	</div><!-- #page -->
+
+	
+	<script type="text/html" id="tmpl-wp-playlist-current-item">
+	<# if ( data.image ) { #>
+	<img src="{{ data.thumb.src }}" alt="" />
+	<# } #>
+	<div class="wp-playlist-caption">
+		<span class="wp-playlist-item-meta wp-playlist-item-title">&#8220;{{ data.title }}&#8221;</span>
+		<# if ( data.meta.album ) { #><span class="wp-playlist-item-meta wp-playlist-item-album">{{ data.meta.album }}</span><# } #>
+		<# if ( data.meta.artist ) { #><span class="wp-playlist-item-meta wp-playlist-item-artist">{{ data.meta.artist }}</span><# } #>
+	</div>
 </script>
-<!-- End Hotjar -->
-    
-    <div id="ajax-modal" class="reveal-modal" data-reveal="" aria-hidden="true"></div>
-  
+<script type="text/html" id="tmpl-wp-playlist-item">
+	<div class="wp-playlist-item">
+		<a class="wp-playlist-caption" href="{{ data.src }}">
+			{{ data.index ? ( data.index + '. ' ) : '' }}
+			<# if ( data.caption ) { #>
+				{{ data.caption }}
+			<# } else { #>
+				<span class="wp-playlist-item-title">&#8220;{{{ data.title }}}&#8221;</span>
+				<# if ( data.artists && data.meta.artist ) { #>
+				<span class="wp-playlist-item-artist"> &mdash; {{ data.meta.artist }}</span>
+				<# } #>
+			<# } #>
+		</a>
+		<# if ( data.meta.length_formatted ) { #>
+		<div class="wp-playlist-item-length">{{ data.meta.length_formatted }}</div>
+		<# } #>
+	</div>
+</script>
+
+<div id="views-extra-css-ie7" style="display:none;" aria-hidden="true">
+<!--[if IE 7]><style>
+.wpv-pagination { *zoom: 1; }
+</style><![endif]-->
+</div>
+
+<script type="text/javascript">
+jQuery( document ).ready( function( $ ) {
+	var extra_css = $( "#views-extra-css" ) ? $( "#views-extra-css" ).text() : null;	if( extra_css ) {		$( 'head' ).append( '<style>' + extra_css + '</style>' );
+		$( "#views-extra-css" ).remove();	}
+	$( 'head' ).append( $( "#views-extra-css-ie7" ).html() );
+	$( "#views-extra-css-ie7" ).remove();});
+</script>
+<link property="stylesheet" rel="stylesheet" id="wp_ddl_layout_fe_css-css" href="https://www.anaconda.com/wp-content/uploads/ddl-layouts-tmp/9a8b69b6f9fb70d3ba7832bc3aa0f563.css?ver=2.4.3" type="text/css" media="screen">
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/themes/anaconda2/assets/js/minified/slick.min.js?ver=0.0.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var marketo_fields = {"marketo_id":"387-XNW-688","app_id":"ab14"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/themes/anaconda2/assets/js/unminified/custom.js?ver=0.0.3"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/themes/anaconda2/assets/js/minified/prism.js?ver=0.0.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var astra = {"break_point":"921"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/themes/anaconda2/assets/js/minified/style.min.js?ver=1.3.3"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/plugins/layouts/vendor/toolset/toolset-common/res/lib/bootstrap/js/bootstrap.min.js?ver=3.3.7"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":0,"isRTL":false});});
+</script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/wp-util.min.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/backbone.min.js?ver=1.2.3"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/mediaelement/wp-playlist.min.js?ver=4.9.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpv_pagination_local = {"front_ajaxurl":"https:\/\/www.anaconda.com\/wp-admin\/admin-ajax.php","calendar_image":"https:\/\/www.anaconda.com\/wp-content\/plugins\/wp-views\/embedded\/res\/img\/calendar.gif","calendar_text":"Select date","datepicker_min_date":null,"datepicker_max_date":null,"resize_debounce_tolerance":"100","datepicker_style_url":"https:\/\/www.anaconda.com\/wp-content\/plugins\/layouts\/vendor\/toolset\/toolset-common\/toolset-forms\/css\/wpt-jquery-ui\/jquery-ui-1.11.4.custom.css"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js?ver=2.6"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/uploads/ddl-layouts-tmp/d41d8cd98f00b204e9800998ecf8427e.js?ver=2.4.3"></script>
+<script type="text/javascript" src="https://www.anaconda.com/wp-content/plugins/layouts/resources/js/ddl-tabs-cell-frontend.js?ver=2.4.3"></script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-27761864-15"></script>
+	<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-27761864-15');
+	</script>
+
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"301e597e19","applicationID":"203847447","transactionName":"YgFbMhFWDxIHWkNRVltLeAUXXg4PSUlWX1w=","queueTime":0,"applicationTime":316,"atts":"TkZYRFlMHBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
