@@ -1,74 +1,66 @@
-> *The following text is extracted and transformed from the sikhphilosophy.net privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427183128id_/http%3A//www.sikhphilosophy.net/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhphilosophy.net privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401223133id_/https%3A//www.sikhphilosophy.net/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sikh Philosophy Network
+# Privacy policy | Sikh Philosophy Network
 
-[ ](http://www.sikhphilosophy.net/)
+We are Sikh Philosophy Network ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/misc/contact/).
 
-###  __ Welcome to SPN
+## What information we hold about you
 
-Register and Join the most happening forum of Sikh community & intellectuals from around the world.
+The type of data that we collect and process includes:
 
-[Sign Up Now!](https://web.archive.org/web/20170427183128id_/http%3A//www.sikhphilosophy.net/help/index.php?register)
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
-  
-**Privacy Policy**
 
-**We respect your Privacy!**
 
-**Restriction of Liability:** Sikhphilosophy.net makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website. 
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
 
-**I. Your Privacy at Sikhism Philosophy Network**
+We collect some or all of this information in the following cases:
 
-When registering you do not need to provide any information except the bare minimum that we need for your account: a username, email and a password. Unlike many other sites, we will never sell the emails to unscrupulous spammers. In fact, we won't sell emails or give them to anyone regardless of their scruples unless we are ordered to by law (in the extreme case that law enforcement formally requests this information, we will comply with the law). We collect no personal information about you when you visit our website unless you choose to provide this information to us. If you have any suggestions on how we can improve our commitment to your privacy, please don't hesitate to contact us, there is nothing we know of that we can do to show more respect for your privacy but if you think there is let us know.
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
 
-**II. What We Collect and Store Automatically**
 
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. Rather, information is kept in the aggregate. We automatically collect and store only the information about your visit. We use the information we collect to understand the traffic to our site (for example, it's important to know how much bandwidth the site uses so that we can purchase more if needed, if the "hits" to our site increase we need to pay more money for better hosting), and to help us make our site more useful to visitors like you.
 
-**III. If You Send Us E-mail**
+## How your personal information is used
 
-You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
+We may use your personal information in the following ways:
 
- **IV. Private Messaging (PM) Facility**
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
 
-Private Messaging is provided to the members of the SPN as a service intended to enhance the community experience. The purpose of private messaging is to allow for discreet conversations to take place between members. This privilege is not to be abused! 
 
-_A private message, under any circumstances, cannot be posted in an open forum, without the prior permission of the PM originator_. Any solicitation, spamming, or harassment of any kind is strictly forbidden. Any member receiving an inappropriate private message should forward that message to an Administrator or Moderator right away. Private Messages are not intended to deprive the Community of valuable information or experiences which could benefit the entire group. Please do not use private messages if the content of the message can be helpful to others.
 
-**V. Cookies**
+## Other ways we may use your personal information.
 
-A) **Visiting the site** \- If all you do is visit and surf the site no cookies are used.
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
 
-B) **Logging in** \- If you decide to use a cookie (this is done by checking the box that logs you in automatically) to save you logging in every time you visit Sikhism Philosophy Network (SPN), we place a little text file called a "cookie" on your hard drive. It sits in your web browser directory. A cookie lets us store your profile information on your computer and lets our web site retrieve it when you visit our site. No other web site can use or view the cookie set by SPN. Cookies help us create a speedy web experience by remembering your user name and email information, so you don't have to re-type it when signing in. Cookies do not store personal information and we do not use them to track your movements through our site and you do not need cookies to use this site (you will simply have to log in at every visit) it's your choice.
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
 
-C) **Google Ads** \- Ads generated by Google are random and SPN has restricted control over, which ads are shown. If you find any ads derogatory in nature, then do let us know the url of ad, we will remove such ads immediately. 
+## Keeping your data secure
 
-Further,  
-* Google, as a third party vendor, uses cookies to serve ads on your site.  
-* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [](http://www.networkadvertising.org/managing/opt_out.asp)opt-out page.)   
-**Your Choice**
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.
+## Cookie policy
 
-However, this can affect how you are able to interact with my site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-If at any time we add anything else that uses a cookie the privacy policy will be updated. If you find a cookie from our site that you think does not fall under one of those categories please contact us. 
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/help/cookies).
 
-**VI. Posting to the site**
+## Rights
 
-If you post a message on the site it is stored in a database. The pages then display information from the database so that others can read your post on the forums. This is how any dynamic site works, the text has to be stored somewhere so that it can be displayed.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/misc/contact/) to ask us to complete or correct that information.
 
-**VII. Links to Other Sites**
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/misc/contact/) if you would like us to remove your personal data.
 
-Our website has (or in future may have) links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+## Acceptance of this policy
 
-**VIII. Restriction of Liability**
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
 
-SPN makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
+## Changes to this policy
 
-No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this website or its hyperlinks to other Internet resources.
-
-Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by SPN.
-
-Advertisements are subject to the Privacy Policy of the advertising site. Sikhphilosophy.net has no use for demographic information but if you want to provide information to third party advertisers you can. This can be done by filling out a survey or a similar method. Any information collected on [www.sikhphilosophy.net](http://www.sikhphilosophy.net/) is not shared except to comply with law enforcement.
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
