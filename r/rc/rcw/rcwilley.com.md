@@ -1,46 +1,90 @@
-> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119061023id_/https%3A//www.rcwilley.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401034113id_/https%3A//www.rcwilley.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RC Willey Furniture Store
 
-We may collect **personally identifiable information** (ex: your full name, email address, mailing address, telephone number, or credit card number) from you when you voluntarily provide us this information. This information allows us to process and fulfill your order, notify you of your order status, and to provide you with services that will make your transactions with us easier in the future. We may also collect personally identifiable information from you if you choose to subscribe to our email list, or participate in contests, and surveys, or in connection with content or reviews you post on our web site.
+This Privacy Policy governs the manner in which RC Willey Home Furnishings collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.rcwilley.com website ("Site"). This privacy policy applies to the Site and all products and services offered by RC Willey Home Furnishings.
 
-We also collect **non-personally identifiable information** , which relates to the information associated with your computer's interaction with our Web server, such as browser types, domain names, and IP addresses. This data is collected automatically and utilized to help us look for trends to improve our web site. This information allows us to recognize you when you return to our web site and to provide you with a customized experience that will be of value to you. The information stored on your computer by our web site does not contain any personally identifying information, such as your name, or sensitive information, such as your credit card number.
+## Personal identification information
 
-**RC Willey does not rent, sell, or share your personally identifiable information with third parties** (other than regulatory authorities and law enforcement officials in accordance with applicable laws.) The only party that may gain access to some of your information is Authorize.net, the company we employ to authorize and process all of our credit card transactions. Your safety and privacy are important to us. In order to ensure the confidentiality and security of your personal information, we use the latest web technologies to provide you with a safe and private online experience. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-** ** If you would like to inquire or update your personal information or voice complaints about RC Willey's Privacy practices, please contact our Corporate Credit Department.
+## Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+## Web browser cookies
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+## How we use collected information
+
+RC Willey Home Furnishings may collect and use Users personal information for the following purposes:
+
+  * To run and operate our Site
+  * We may need your information to display content on the Site correctly.
+  * To improve customer service
+  * Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize the user experience
+  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site
+  * We may use feedback you provide to improve our products and services.
+  * To process payments
+  * We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * To run a promotion, contest, survey or other Site feature
+  * To send Users information they agreed to receive about topics we think will be of interest to them.
+  * To manage product reviews and ratings
+  * We may use third party service providers to help us manage product reviews and ratings left by Users.
+  * To send periodic emails.
+  * We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
+
+
+
+## How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+## Sharing your personal information
+
+**We do not sell, trade, or rent Users personal identification information to others.** We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+## Electronic newsletters
+
+If a User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+## Third party websites
+
+Users may content on our Site that link to the sites and services of our partners, suppliers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+## California Privacy Act
+
+Due to Section 1798.83 of the California Civil Code, if you are a California Resident and Customer of RC Willey, you have the right to request information regarding how RC Willey shares certain categories of your personal information with third parties for the third parties direct marketing purposes.
+
+California Law states that you are entitled to submit a request to RC Willey and receive the following information:
+
+  1. A list of categories of your personal information that RC Willey shared with third parties for the third parties direct marketing purposes during preceding calendar year.
+  2. Names and addresses of all the third parties that received said information
+  3. Examples of the products or services marketed by such Third Parties if the nature of the third parties business cannot reasonably be determined from their name.
+
+
+
+## Changes to this privacy policy
+
+RC Willey Home Furnishings has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us. This document was **last updated on May 21, 2018**
 
 **Toll-Free-Billing:** 1-877-315-0183
 
 **Phone:** 1-801-461-3900
 
-**Regular Mail:**
-
-RC Willey Corporate
-
-Attn: Website Privacy Manager
-
-2301 S 300 W
-
-Salt Lake City, UT 84115
-
-Due to Section 1798.83 of the California Civil Code, if you are a California Resident and Customer of RC Willey, you have the right to request information regarding how RC Willey shares certain categories of your personal information with third parties for the third parties direct marketing purposes. 
-
-California Law states that you are entitled to submit a request to RC Willey and receive the following information:
-
-A list of categories of your personal information that RC Willey shared with third parties for the third parties direct marketing purposes during preceding calendar year.
-
-  1. Names and addresses of all the third parties that received said information
-  2. Examples of the products or services marketed by such Third Parties if the nature of the third parties business cannot reasonably be determined from their name.
-
-
-
-* * *
-
-Please submit such requests to: 
-
-RC Willey Corporate  
-Attn: Website Privacy Manager  
+**RC Willey Corporate  
+** Attn: Website Privacy Manager  
 2301 S 300 W  
 Salt Lake City, UT 84115  
 
