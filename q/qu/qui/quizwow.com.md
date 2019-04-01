@@ -1,83 +1,152 @@
-> *The following text is extracted and transformed from the quizwow.com privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810053025id_/http%3A//www.quizwow.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizwow.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401152149id_/https%3A//www.quizwow.com/site/privacy-policy) for the most accurate reproduction.*
 
 # quizwow
 
-This Privacy Policy governs the manner in which QuizWow collects, uses, maintains and discloses information collected from users (each, a "User") of the 
+Effective May 25, 2018
 
-[_https://www.quizwow.com_](https://www.quizwow.com/)
+This Privacy Policy explains how information about you is collected, used and disclosed by Quizwow.com ("Quizwow"). This Privacy Policy applies to information we collect when you use the Quizwow websites and any other Quizwow website, mobile application and other products and services. (collectively, the "Services").
 
-website ("Site"). This privacy policy applies to the Site and all products and services offered by QuizWow.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.   
+This Privacy Policy was last updated on August 8, 2018.  
+ **  
+Collection of Information  
+** **  
+Information You Provide to Us  
+** We collect information you provide directly to us. For example, when you create an account, we collect your username and email address. We may also collect information if you choose to provide it in other ways, such as when you create or update your profile, submit or comment on a quiz, participate in any community features of the Services, participate in a contest or promotion, invite friends, post a bulletin, join a league, apply to be a host, fill out a form, send a message, request customer support, or otherwise communicate with us. The types of information we may collect include your name, photo, contact information (such as email address, address and phone number), gender, credit card or other payment information, school, and other information you choose to provide. If you choose to create a bio for your profile, we collect whatever information you include in that bio. If you win prizes through one of our offline events, we will collect the information contained in any required forms that you complete and send to us.  
+ **  
+Information We Collect Automatically When You Use the Services  
+** When you access or use our Services, we automatically collect information about you, including:
 
-Personal identification information
+  * Log Information: We log information about your use of our websites, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our website.
+  * Device Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * Location Information: We may collect information about the location of your device if you consent to the collection of this information through your device. For more details, please see "Your Choices" below.
+  * Information Collected by Cookies and Other Tracking Technologies: We use cookies and other tracking technologies to collect information on our Services. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services, improve your experience, see which areas and features of our Services are popular, and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Non-personal identification information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+ **Information We Collect from Other Sources  
+**  
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media service such as Facebook, or Twitter, or Google+, we may have access to certain information from that service, such as your name, account information and friends lists, in accordance with your privacy settings for that service.  
+ **  
+Use of Information  
+**  
+We use the information we collect about you to:
 
-Web browser cookies
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the services you request, process transactions and send you related information, including confirmations, notifications, and invoices,
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Quizwow and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Quizwow and others;
+  * Personalize and improve the Services and provide advertisements, content or features that match user interests;
+  * Process and deliver contest entries and rewards;
+  * Link or combine with information we get from others to help understand your interests and provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-How we use collected information
 
-QuizWow may collect and use Users personal information for the following purposes:
+We and our service providers may transfer your personal information to, or store or access it in, other countries where the laws may not provide levels of protection for your personal information equivalent to the protection provided by the laws of your home country.  
+ **  
+Sharing of Information  
+**  
+We will not share your information except in the following circumstances or as otherwise specified in this Policy:
 
-\- To improve customer service
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Quizwow or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
+  * With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information.
 
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-\- To personalize user experience
 
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+Your profile information and any information you post in any public area of the Services or submit for publication will be publicly available. This includes, for example, information contained in any quizzes or comments you post. Information about your achievements may also be publicly shared, such as through our Leaderboard page. We may also share aggregated or anonymized information that does not directly identify you.  
+ **  
+Social Sharing Features  
+**  
+The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies and your privacy settings of the entities that provide these features.  
+ **  
+Advertising and Analytics Services Provided by Others  
+**  
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Quizwow and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other web services and better understand your online activity.For example, Google and its partners use cookies to serve ads based on your visit to our website and/or other sites on the Internet. You may opt out of the use of this cookie by visiting Google Advertising Technologies and Principles page at <https://policies.google.com/technologies/ads>.Another example is the use of Google Analytics to help us understand the use of our Services, such as what pages are being accessed. We also use a specific part of Google Analytics called Demographics and Interest Reporting to better understand our users. Should you wish to opt-out of this please visit <https://tools.google.com/dlpage/gaoptout/>.For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](https://networkadvertising.org/managing/opt_out.asp)and [www.aboutads.info/choices](https://aboutads.info/choices). If you are located in the European Economic Area (EEA), visit <http://www.youronlinechoices.eu/>.  
+ **  
+Security  
+**  
+Quizwow takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.  
+ **  
+Data Retention  
+**  
+We store the information we collect about you for as long as is necessary for the purposes for which we originally collected it. We may retain certain information for legitimate business purposes or as required by law.  
+ **  
+Residents of the European Economic Area  
+**  
+If you are a resident of the European Economic Area ("EEA"), you have certain rights and protections under the law regarding the processing of your personal data, as described in this section.  
+ **  
+Legal Basis for Processing  
+**  
+When we process your personal data, we will only do so in the following situations:
 
-\- To improve our Site
+  * We need to use your personal data to perform our responsibilities under our contract with you (e.g., providing the Quizwow services you have requested).
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to communicate with you about changes to our Services, and to provide, secure, and improve our Services.
+  * We have your consent to process your personal data.
+  * We are required by law to process our personal data.
 
-We may use feedback you provide to improve our products and services.
 
-\- To run a promotion, contest, survey or other Site feature
 
-To send Users information they agreed to receive about topics we think will be of interest to them.
+ **Data Subject Requests  
+**  
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. To exercise these rights, you may contact us as indicated below.  
+ **  
+Questions or Complaints  
+**  
+If you are a resident of the EEA and have a concern about our processing of personal data please contact us as indicated below. If we are not able to address your concerns, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.  
+ **
 
-\- To send periodic emails
+Your Choices  
 
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+** **  
+**
 
-How we protect your information
+  *  _Account Information_
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+You may update, correct or delete information about you at any time by emailing us at: support@quizwow.com. Certain information may also be updated through your online account. If you wish to delete or deactivate your account, please email us at: support@quizwow.com, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.  
+ **  
+**
 
-Google Adsense
+  *  _Location Information_
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://www.google.com/privacy_ads.html>
 
-Compliance with children's online privacy protection act
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application's collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device.  
+ **  
+**
 
-Changes to this privacy policy
+  *  _Cookies_
 
-QuizWow has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.  
+ **  
+**
 
-Contacting us
+  *  _Notifications and Promotional Communications_
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-Thinkwise, Inc.
 
-550 Adams Street
+You may opt out or indicate your preferences for receiving certain notifications and communications from Quizwow by emailing us at: support@quizwow.com. You may also opt out of receiving promotional or certain other emails from Quizwow by following the instructions in those emails. If you opt out, we may still send you certain non-promotional communications, such as those about your account or our ongoing business relations.  
+ **  
+**
 
-Suite 288
+  *  _Mobile Push Notifications/Alerts_
 
-Quincy, MA 02169
 
-This document was last updated on February 27, 2015
+
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.  
+ **
+
+Contact Us
+
+**  
+If you have any questions about this Privacy Policy, please contact us at: support@quizwow.com.
