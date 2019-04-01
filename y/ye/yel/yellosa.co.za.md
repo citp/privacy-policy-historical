@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellosa.co.za privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013203031id_/http%3A//www.yellosa.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellosa.co.za privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401085315id_/https%3A//www.yellosa.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -32,7 +32,7 @@ Yellosa Website will not rent, sell, or share information about you with other p
 
 ## 3\. Cookies
 
-  * When you enter this website ([www.yellosa.co.za](http://www.yellosa.co.za/)), we will use cookies. Cookies are tiny text files that identify your computer to our server. These cookies in no way allow us access to your computer and do not store any details relating to you or your credit cards. They are used to record the areas of the site that you have visited and for how long, which provides us with useful usage information that helps us make our site more accessible to our users in line with their needs. The use of cookies helps us to improve the quality of service that we provide. Please also refer to our **[Cookies Policy](https://web.archive.org/cookies-policy)**.
+  * When you enter this website ([https://www.yellosa.co.za](https://www.yellosa.co.za/)), we will use cookies. Cookies are tiny text files that identify your computer to our server. These cookies in no way allow us access to your computer and do not store any details relating to you or your credit cards. They are used to record the areas of the site that you have visited and for how long, which provides us with useful usage information that helps us make our site more accessible to our users in line with their needs. The use of cookies helps us to improve the quality of service that we provide. Please also refer to our **[Cookies Policy](https://web.archive.org/cookies-policy)**.
 
   
 
