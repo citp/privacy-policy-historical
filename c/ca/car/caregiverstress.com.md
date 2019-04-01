@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caregiverstress.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226152613id_/https%3A//www.homeinstead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caregiverstress.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401083138id_/https%3A//www.homeinstead.com/privacy-policy) for the most accurate reproduction.*
 
 # Home Instead Senior Care - Privacy Policy
 
@@ -6,7 +6,7 @@
 For the Canadian Privacy Policy, click here.
 
 ##  **U.S. Privacy Policy**   
-​(updated November 1, 2018)
+​(updated February 25, 2019)
 
 We at Home Instead, Inc. ("Home Instead" or "we" or "us" or "our") appreciate your interest in this website and other websites operated by us on which this Privacy Policy is linked (this website and each other Home Instead website on which this Privacy Policy is linked are each and collectively hereinafter in this Privacy Policy referred to as the "Site").
 
@@ -25,7 +25,8 @@ We collect both Personal Information and non-personally identifiable information
 
 ## Collection of Non-Personally Identifiable Information
 
-**1\. General Tracking Information**
+**1\. Non-Personally Identifiable Information  
+**
 
 Personal Information is information that is about an identifiable individual. Generally speaking, Personal Information does not include: a) anonymous or aggregated information that does not allow an individual to be identified; or b) information regarding companies and other "legal persons."
 
@@ -53,7 +54,7 @@ If you choose to register on our Site, you will be asked to provide Personal Inf
 
 **1\. What we do with the Personal Information We Collect**
 
-We collect Personal Information from you in order to learn more about how you use the Site; to measure areas of interest in our Network and the services we and/or the Network provide(s); to understand the needs of our and our Network's customers; to provide you with better service; and to help us with internal record keeping. If you register or use the "chat" feature on our Site, the information you provide through your registration, or as part of the chat feature, may be used by Home Instead, our independently owned and operated Franchisees and Master Franchisees, our affiliates and our third-party service providers or other partners for gathering business intelligence about our Network or performing data analyticsand may be compiled as part of our internal database system. In addition, both we and our independently owned and operated Franchisees and Master Franchisees, affiliates, third-party service providers and other business partners may send correspondence to or contact you using the e-mail, street address and/or phone number you provide to us when registering on our Site or which you provide to us through the Site. These communications may include, but are not limited to, newsletters, promotional offers, information on new features and services that we and/or our Network provide(s), franchise opportunities, employment opportunities with us at our corporate office, Site updates, responses to your e-mails, inquiries, comments and opinions, surveys, and technical support. In certain instances you will have an opportunity to limit these uses at the time your Personal Information is collected. You also may limit the contacts you receive by following the instructions in the "Opt-Out" Section below.
+We collect Personal Information from you in order to learn more about how you use the Site; to measure areas of interest in our Network and the services we and/or the Network provide(s); to understand the needs of our and our Network's customers; to provide you with better service; and to help us with internal record keeping. If you register or use the "chat" feature on our Site, the information you provide through your registration, or as part of the chat feature, may be used by Home Instead, our independently owned and operated Franchisees and Master Franchisees, our affiliates and our third-party service providers or other partners for gathering business intelligence about our Network or performing data analytics and may be compiled as part of our internal database system. In addition, both we and our independently owned and operated Franchisees and Master Franchisees, affiliates, third-party service providers and other business partners may send correspondence to or contact you using the e-mail, street address and/or phone number you provide to us when registering on our Site or which you provide to us through the Site. These communications may include, but are not limited to, newsletters, promotional offers, information on new features and services that we and/or our Network provide(s), franchise opportunities, employment opportunities with us at our corporate office, Site updates, responses to your e-mails, inquiries, comments and opinions, surveys, and technical support. In certain instances you will have an opportunity to limit these uses at the time your Personal Information is collected. You also may limit the contacts you receive by following the instructions in the "Opt-Out" Section below.
 
 We and/or our Network will retain and use your information for as necessary to fulfill the purposes for which it was collected or as necessary to comply with legal obligations, resolve disputes, and enforce agreements.
 
@@ -79,9 +80,15 @@ We are not responsible for the content, accuracy, or opinions expressed on any F
 
 ## Social Media
 
-Our Site includes social media sharing tools and features, such as Facebook Like, YouTube, Twitter and "share" buttons and widgets, and interactive mini-programs that run on our Site (each a "Feature" and, collectively, the "Features"). These Features may collect your IP address and which page you are visiting on our Site, and set a cookie to enable the Feature to function properly. Features and widgets are either hosted by a third party or hosted directly on our Site.
+ **Any information, including personal information, that you choose to share in any online message board, forum, or via social medial is by design open to the public and not private.**   You should think carefully before posting any personal information via social media.  What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes.  As with any social media or public forum, the information you post may show up in third-party search engines.
 
-We also maintain profiles or accounts with various social media providers, including, Facebook, Twitter, Instagram, LinkedIn, YouTube, and Google+ (collectively, "Social Media Properties"). Your interactions with these Social Media Properties and/or the Features are governed by multiple privacy policies. Our collection, use and disclosure of information obtained through the Social Media Properties and/or the Features is governed by this Privacy Policy to the same extent as information gathered through the Site; however, the privacy practices of the applicable social media provider are governed by the applicable social media provider's privacy policy. We encourage you to review the applicable social media provider's privacy policy before interacting with a Social Media Property and/or Feature.
+ **1.   Social Media Sharing**    
+Our Site includes social media sharing tools and features, such as Facebook Like, YouTube, Twitter and “share” buttons and widgets, and interactive mini-programs that run on our Site (each a “Feature” and, collectively, the “Features”). These Features may collect your IP address and which page you are visiting on our Site, and set a cookie to enable the Feature to function properly. Features and widgets are either hosted by a third party or hosted directly on our Site. 
+
+**2\. Social Media Message Boards and Public Forums**  
+Social medial message boards and public forums provide users with similar interests and concerns a place to share information and support one another, post questions, or enter into moderated online discussions.  We maintain profiles or accounts with various third-party social media providers, including, Facebook, Twitter, Instagram, LinkedIn, YouTube, and Google+ and may also provide our own message boards and forums utilizing the services of a third-party, including the Your Caregiver Guide public forum.  (each individually and collectively referred to as “Social Media Properties.”)
+
+Your interactions with these Social Media Properties and/or the Features are governed by multiple privacy policies. While our collection, use, and disclosure of information obtained through the Social Media Properties and/or the Features is governed by this Privacy Policy to the same extent as information gathered through the Site, the information third-party social media providers collect or access through your use of the Social Media Properties is governed by such third-party’s privacy policy.  We encourage you to review the social media provider’s privacy policy before interacting with a Social Media Property and/or Feature.
 
 ## Security
 
@@ -102,7 +109,7 @@ You may choose to have your name taken off of our registration list, cease recei
 
 
 
-We will respond to your request within 30 days.
+We will respond to your request within 10 days.
 
 Opting out of one form of communication does not mean you have opted out of other forms as well. For example, if you opt out of receiving marketing emails, you may still receive marketing text messages if you have opted in to receiving them.  If you submit a general opt out request, we will unsubscribe you based upon the information provided.  For example, if you provide your name, email address, and phone number we will unsubscribe you from any lists linked to either your name, email address or phone number.  If you wish to opt out of communications from a Home Instead Senior Care franchise, you must contact that franchise directly.   
 
@@ -166,11 +173,13 @@ If ​​​​​you have any questions about this Privacy Policy, the practice
 
 1.888.484.5759
 
-If you have any questions regarding a Home Instead Senior Care franchisee business’ privacy practices or wish to opt-out of its communications, please contact the franchise office directly.  
+If you have any questions regarding a Home Instead Senior Care franchisee business’ privacy practices or wish to opt-out of its communications, please contact the franchise office directly.
+
+ _Each Home Instead Senior Care franchise office is independently owned and operated._  
 
 
 ## ​ **Canadian Privacy Policy**   
-(updated November 1, 2018)
+(updated February 25, 2019)
 
 We at Home Instead, Inc. ("Home Instead" or "we" or "us" or "our") appreciate your interest in this website and other websites operated by us and to which this Privacy Policy is linked (this website and each other Home Instead website on which this Privacy Policy is linked are each and collectively hereinafter in this Privacy Policy referred to as the "Site").
 
@@ -276,7 +285,7 @@ You may choose to have your name taken off of our registration list, cease recei
 
 
 
-We will respond to your request within 30 days.
+We will respond to your request within 10 days.
 
 Opting out of one form of communication does not mean you have opted out of other forms as well. For example, if you opt out of receiving marketing emails, you may still receive marketing text messages if you have opted in to receiving them.  If you submit a general opt out request, we will unsubscribe you based upon the information provided.  For example, if you provide your name, email address, and phone number we will unsubscribe you from any lists linked to either your name, email address or phone number.  If you wish to opt out of communications from a Home Instead Senior Care franchise, you must contact that franchise directly.   
 
