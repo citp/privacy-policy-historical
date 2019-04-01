@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examinations.ie privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217224631id_/https%3A//www.examinations.ie/%3Fl%3Den%26mc%3Dau%26sc%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examinations.ie privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401090831id_/https%3A//www.examinations.ie/%3Fl%3Den%26mc%3Dau%26sc%3Dps) for the most accurate reproduction.*
 
 # State Examination Commission - About Us
 
@@ -6,7 +6,7 @@ This statement relates to our privacy practices in connection with this website.
 
 **General statement**
 
-The State Examinations Commission (SEC) fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information which you volunteer to the SEC will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988 & 2003\. 
+The State Examinations Commission (SEC) fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information which you volunteer to the SEC will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts 1998, 2003 & 2018\. 
 
 **Collection and use of personal information**
 
