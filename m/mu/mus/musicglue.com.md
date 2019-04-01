@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicglue.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818204847id_/https%3A//www.musicglue.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicglue.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401115939id_/https%3A//www.musicglue.com/policies) for the most accurate reproduction.*
 
 # Policies - Music Glue
 
@@ -144,7 +144,7 @@ You can request access to some of your Personal Data being stored by us. You can
 
 If you are a registered User, you can exercise these rights by logging in and visiting the My Account page. Both registered and unregistered Users may also exercise these rights bycontacting us directly by email via [support@musicglue.com](mailto:support@musicglue.com)or at the address specified below.
 
-If a Customer initiates a data deletion request, Music Glue is authorised to delete or anonymise Personal Data of the requesting Customer from the Services even if that means removing its availability to the Merchant through the Services. However, if you are a Customer, you understand that even if Music Glue deletes or anonymises your Personal Data upon your request or pursuant to this Policy, your Personal Data may still be available in the Merchant's own databases if transmitted to the Merchant prior to Music Glue receiving or taking action on any deletion or anonymisation activity. Music Glue will pass on your request to the Merchant, in line with the terms outlined in our Data Processing Addendum.
+If a Customer initiates a data deletion request, Music Glue is authorised to delete or anonymise Personal Data of the requesting Customer from the Services even if that means removing its availability to the Merchant through the Services. However, if you are a Customer, you understand that even if Music Glue deletes or anonymises your Personal Data upon your request or pursuant to this Policy, your Personal Data may still be available in the Merchant's own databases if transmitted to the Merchant prior to Music Glue receiving or taking action on any deletion or anonymisation activity.
 
 We will consider and respond to all requests in accordance with applicable law.
 
@@ -161,6 +161,8 @@ Essential functionality of Music Glue sites, including location/language/currenc
 Google Analytics (GA) is used to track site usage. Cookies include: _gat_mgTracker, _gat_profileTracker, _gid, _ga. If you would like to opt-out of Google Analytics monitoring your behaviour on our sites please use this link <https://tools.google.com/dlpage/gaoptout/>.
 
 Facebook and Twitter marketing pixels may be loaded on Music Glue sites. These services can provide you with customised advertising based on your usage of the site.
+
+We may also use your information such as your email address to deliver customised advertising on social media networks through tools such as Facebook Custom Audiences. You can find out more about these marketing programs by reviewing the privacy policies of the social media sites you use.
 
 We may also use other automated tracking methods on our websites, in communications with you, and in our products and services, to measure performance and engagement.
 
