@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the army.mil privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226201729id_/http%3A//www.army.mil/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army.mil privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401065814id_/https%3A//www.army.mil/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | The United States Army
 
