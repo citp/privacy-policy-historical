@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promocodesforyou.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317065504id_/https%3A//www.promocodesforyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodesforyou.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401025107id_/https%3A//www.promocodesforyou.com/privacy) for the most accurate reproduction.*
 
 # Privacy | PromoCodesForYou
 
