@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiojar.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113182004id_/http%3A//www.radiojar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiojar.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401071432id_/http%3A//www.radiojar.com/privacy) for the most accurate reproduction.*
 
 # Radiojar Privacy policy
 
