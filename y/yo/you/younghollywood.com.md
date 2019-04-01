@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the younghollywood.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027231546id_/https%3A//www.younghollywood.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younghollywood.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401062204id_/https%3A//younghollywood.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Young Hollywood | PRIVACY POLICY
+# PRIVACY POLICY | Young Hollywood
 
   * [YH STUDIO](https://younghollywood.com/yhstudio.html "YH STUDIO")
   * [TV/FILM](https://younghollywood.com/tvfilm.html "TV/FILM")
