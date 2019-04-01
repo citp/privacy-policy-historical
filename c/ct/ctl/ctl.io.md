@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ctl.io privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709090404id_/https%3A//www.ctl.io/legal/centurylink-cloud/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctl.io privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401131956id_/https%3A//www.ctl.io/legal/centurylink-cloud/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CenturyLink Cloud
+# Privacy Policy - Hybrid Cloud and IT Solutions
 
-_Updated: May 4th, 2017_
+_Updated: July 19, 2018_
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=234500f1-1409-4b88-912e-5a85c2adc4ac "TRUSTe Privacy Certification")
 
@@ -12,7 +12,7 @@ Please be advised that the practices described in this Privacy Policy apply only
 
 **By visiting our Website or using our services and products, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Website or our services and products.**
 
-If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at [privacy@ctl.io](mailto:privacy@ctl.io).
+If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at [privacy@centurylink.com](mailto:privacy@centurylink.com).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request).
 
@@ -34,7 +34,7 @@ As is true of most web sites, we gather certain information automatically and st
 
 Technologies such as: cookies or similar technologies are used by CenturyLink Cloud and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -66,17 +66,17 @@ In certain situations, we may be required to disclose personal data in response 
 
 We are concerned with the security of the Personal Information associated with you. We have implemented commercially reasonable measures to prevent unauthorized access to your Personal Information. These measures include policies, procedures, employee training, physical access and technical measures relating to data access controls. In addition, we use standard security protocols and mechanisms such as secure socket layer technology (SSL) in the transmission of certain sensitive Personal Information, such as credit card information and login credentials.
 
-While we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. If you have any questions about security on our Web site, you can contact us at [privacy@ctl.io](mailto:privacy@ctl.io). 
+While we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. If you have any questions about security on our Web site, you can contact us at [privacy@centurylink.com](mailto:privacy@centurylink.com). 
 
 ### Data Retention
 
-We comply with the following data retention policies with respect to your Personal Information: (1) we retain an encrypted format of your billing information; (2) we may retain your forum and weblog contributions; and (3) we may retain your support emails, web logs and accounting logs, though we reserve the right to destroy such information after a period of six months. We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. If you wish to cancel your account or request that we no longer use your Personal Information to provide you services contact us at [privacy@ctl.io](mailto:privacy@ctl.io).
+We comply with the following data retention policies with respect to your Personal Information: (1) we retain an encrypted format of your billing information; (2) we may retain your forum and weblog contributions; and (3) we may retain your support emails, web logs and accounting logs, though we reserve the right to destroy such information after a period of six months. We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. If you wish to cancel your account or request that we no longer use your Personal Information to provide you services contact us at [privacy@centurylink.com](mailto:privacy@centurylink.com).
 
 ### Your Obligations to Keep Your Access Rights Secure
 
 You promise to: (a) provide true, accurate, current and complete information about yourself and your business as prompted by the Website's Control Panel (such information being the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or Company has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Company has the right to suspend or terminate your account and refuse any and all current or future use of the Website (or any portion thereof). You are entirely responsible for the security and confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to immediately notify us of any unauthorized use of your account or any other breach of security of which you become aware. You are responsible for taking precautions and providing security measures best suited for your situation and intended use of the services and Website. Please note that anyone able to provide your Personal Information will be able access your account so you should take reasonable steps to protect this information.
 
-Upon request Company will provide you with information about whether we hold any of your personal information. If your Personal Information changes, or you wish to deactivate your account, you may correct, delete inaccuracies, or deactivate it by making changes within the user profile section of the Website or by contacting us at [privacy@ctl.io](mailto:privacy@ctl.io). We will respond to your change request within a reasonable timeframe.
+Upon request Company will provide you with information about whether we hold any of your personal information. If your Personal Information changes, or you wish to deactivate your account, you may correct, delete inaccuracies, or deactivate it by making changes within the user profile section of the Website or by contacting us at [privacy@centurylink.com](mailto:privacy@centurylink.com). We will respond to your change request within a reasonable timeframe.
 
 ### Information Related to Data Collected through the Control Panel
 
@@ -102,11 +102,11 @@ This Website may contain links to other websites operated by affiliates of Compa
 
 ### Public Areas, Chat Rooms and Newsgroups
 
-Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@ctl.io](mailto:privacy@ctl.io). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@centurylink.com](mailto:privacy@centurylink.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@ctl.io](mailto:privacy@ctl.io).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@centurylink.com](mailto:privacy@centurylink.com).
 
 ### Social Media Features and Widgets
 
@@ -128,7 +128,7 @@ You may always opt-out of receiving future email messages and newsletters from C
 
 ### Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@ctl.io](mailto:privacy@ctl.io.com).
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@centurylink.com](mailto:privacy@centurylink.com.com).
 
 ### Contact Us
 
