@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the certcollection.org privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129184724id_/https%3A//certcollection.org/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certcollection.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401151930id_/https%3A//certcollection.org/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - IT Certification Forum
 
