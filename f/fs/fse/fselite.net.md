@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fselite.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231201134id_/https%3A//fselite.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fselite.net privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401152047id_/https%3A//fselite.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal | FSElite
 
@@ -12,11 +12,11 @@ The following terminology applies to these Terms and Conditions, Privacy Stateme
 
 We employ the use of cookies. By using [FSElite](https://fselite.net/ "FSelite")‘s website you consent to the use of cookies in accordance with FSElite’s privacy policy.
 
-Most of the modern day interactive web sites use cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate / advertising partners may also use cookies.
+Most of the modern day interactive websites use cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate/advertising partners may also use cookies.
 
-**You can REVOKE your cookies setting on FSElite by clicking the link below:**
+**You can revoke your cookie setting on FSElite by selecting the button below.**
 
-Revoke
+REVOKE COOKIES
 
 #### License
 
@@ -30,7 +30,7 @@ You must not:
 
 
 
-Redistribute content from FSElite (unless content is specifically made for redistribution).
+Redistribute content from FSElite (unless the content is specifically made for redistribution).
 
 #### User Comments
 
@@ -41,8 +41,8 @@ Redistribute content from FSElite (unless content is specifically made for redis
   3. FSElite reserves the right to monitor all Comments and to remove any Comments which it considers in its absolute discretion to be inappropriate, offensive or otherwise in breach of these Terms and Conditions.
   4. You warrant and represent that: 
     1. You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;
-    2. The Comments do not infringe any intellectual property right, including without limitation copyright, patent or trademark, or other proprietary right of any third party;
-    3. The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material or material which is an invasion of privacy
+    2. The Comments do not infringe any intellectual property right, including without limitation copyright, patent or trademark, or other proprietary rights of any third party;
+    3. The Comments do not contain any defamatory, libellous, offensive, indecent or otherwise unlawful material or material which is an invasion of privacy
     4. The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.
   5. You hereby grant to **FSElite** a non-exclusive royalty-free license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.
 
@@ -60,21 +60,21 @@ Redistribute content from FSElite (unless content is specifically made for redis
 
   2. These organizations may link to our home page, to publications or to other Web site information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.
   3. We may consider and approve in our sole discretion other link requests from the following types of organizations: 
-    * commonly-known consumer and/or business information sources such as Chambers of Commerce, American Automobile Association, AARP and Consumers Union;
-    * dot.com community sites;
-    * associations or other groups representing charities, including charity giving sites,
-    * online directory distributors;
-    * internet portals;
-    * accounting, law and consulting firms whose primary clients are businesses; and
-    * educational institutions and trade associations.
+    * Commonly-known consumer and/or business information sources such as Chambers of Commerce, American Automobile Association, AARP and Consumers Union;
+    * Dot.com community sites;
+    * Associations or other groups representing charities, including charity giving sites,
+    * Online directory distributors;
+    * Internet portals;
+    * Accounting, law and consulting firms whose primary clients are businesses; and
+    * Educational institutions and trade associations.
 
 
 
-We will approve link requests from these organizations if we determine that: (a) the link would not reflect unfavorably on us or our accredited businesses (for example, trade associations or other organizations representing inherently suspect types of business, such as work-at-home opportunities, shall not be allowed to link); (b)the organization does not have an unsatisfactory record with us; (c) the benefit to us from the visibility associated with the hyperlink outweighs the absence of FSElite; and (d) where the link is in the context of general resource information or is otherwise consistent with editorial content in a newsletter or similar product furthering the mission of the organization.
+We will approve link requests from these organizations if we determine that: (a) the link would not reflect unfavourably on us or our accredited businesses (for example, trade associations or other organizations representing inherently suspect types of business, such as work-at-home opportunities, shall not be allowed to link); (b)the organization does not have an unsatisfactory record with us; (c) the benefit to us from the visibility associated with the hyperlink outweighs the absence of FSElite; and (d) where the link is in the context of general resource information or is otherwise consistent with editorial content in a newsletter or similar product furthering the mission of the organization.
 
-These organizations may link to our home page, to publications or to other Web site information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and it products or services; and (c) fits within the context of the linking party’s site.
+These organizations may link to our home page, to publications or to other Web site information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.
 
-If you are among the organizations listed in paragraph 2 above and are interested in linking to our website, you must notify us by sending an e-mail to [info@fselite.net](mailto:info@fselie.net "send an email to info@fselie.net"). Please include your name, your organization name, contact information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any URLs from which you intend to link to our Web site, and a list of the URL(s) on our site to which you would like to link. Allow 2-3 weeks for a response.
+If you are among the organizations listed in paragraph 2 above and are interested in linking to our website, you must notify us by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9d0d7dfd6f9dfcadcd5d0dc97d7dccd "send an email to info@fselie.net"). Please include your name, your organization name, contact information (such as a phone number and/or e-mail address) as well as the URL of your site, a list of any URLs from which you intend to link to our Web site, and a list of the URL(s) on our site to which you would like to link. Allow 2-3 weeks for a response.
 
 Approved organizations may hyperlink to our Web site as follows:
 
@@ -92,7 +92,7 @@ Without prior approval and express written permission, you may not create frames
 
 #### Content Liability
 
-We shall have no responsibility or liability for any content appearing on your Web site. You agree to indemnify and defend us against all claims arising out of or based upon your Website. No link(s) may appear on any page on your Web site or within any context containing content or materials that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
+We shall have no responsibility or liability for any content appearing on your Web site. You agree to indemnify and defend us against all claims arising out of or based upon your Website. No link(s) may appear on any page on your Web site or within any context containing content or materials that may be interpreted as libellous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
 
 #### Reservation of Rights
 
@@ -119,6 +119,78 @@ The limitations and exclusions of liability set out in this Section and elsewher
 
 To the extent that the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
 
+### **Contests, Giveaways & Free Items Terms**
+
+The information below outlines the rules for our the various contests, giveaways and raffles on FSElite. Different contests have different rules, so please make sure you read carefully the applicable term to the contest you’re entering. Each contest will link to the specific set of rules for ease.
+
+**Conditions**
+
+  * No purchase necessary.
+  * Giveaway only open to those over 16.
+  * Closing date is listed per contest.
+  * Prize details are clearly described in the contest. No substitutions permitted. Number of prizes per person is limited to 1.
+  * Number of prizes available is stated in the contest.
+  * To claim the prize, the user must respond to the winner email or message within 24 hours. Details on how to claim will be given at that time.
+  * Winner will be chosen from correct entries. An email will automatically notify you if you are the winner. You must follow the email instructions to claim prize.
+  * Winners full name will be published in the contest above after the closing date.
+  * Your details will comply to our privacy policy.
+  * FSElite has the final say over who wins the prize.
+  * You can’t stock-pile rewards.
+  * This contest is provided out of good will and as such may be revoked at any time.
+
+
+
+  
+**Screenshot Contest**
+
+The screenshot contest has been designed as a way to engage with the flight simulation community and also enable people to win prizes. We typically host them via the [FSElite Facebook page.](https://www.facebook.com/fselite)
+
+**Contest:  ** FSElite X Orbx + 08 Left – Screenshot Contest Terms
+
+There are two tiers of winners. Here are what they are and the prizes available:
+
+**1 st Place – **1 x free product from the Orbx collection AND 1 x free coaster from 08 Left custom made with the winning screenshot submitted by you.
+
+**2 nd Place – **1 x free product from the Orbx AIRPORT collection ONLY.
+
+#### How to Win
+
+  1. Each contest will be posted to the FSElite Facebook page
+  2. Each contest will have a certain theme outlined on the image itself
+  3. The community will have to submit their screenshot via the original Facebook image post in the comments section.
+  4. On the specified closing date, the FSElite team will take their favourite 5 entries
+  5. The community will then have 48 hours to vote on those final 5 entries. The vote will be based on _positive_ Facebook reactions (Like, Love, Haha or Wow).
+  6. The screenshot with the most positive votes will be classed as a 1st Prize Winner. Those with the second most will win 2nd
+
+
+
+The 2 winners will be contacted via Facebook messenger to the profile which submitted the original screenshot. They will have 24 hours to respond to our request for information.
+
+If you wish to have your screenshot printed on a coaster provided by 08 Left, you must adhere to the following:
+
+  * Your screenshot resolution MUST be at least 1125px x 1125px. If you have a larger screenshot, it will be cropped to those dimensions.
+  * You must supply FSElite, via secure email, confirmation of your shipping address.
+  * Any customs tax will be paid for by you
+  * FSElite and 08 Left accepts no liability for any damage, missing parcels or misprints.
+  * Additional coaster sets may be ordered, but will incur the standard prices and fees set by 08 Left.
+  * You agree that FSElite may, in the future, use your screenshot for other promotional uses, including screenshots, printing and applying to products.
+  * You adhere to the privacy policy of FSElite and 08 Left, as well as the terms and conditions set out by both companies.
+  * **Only US residents can receive the 08Left prize due to limitations on shipping and custom exports. If winners are from outside the United States of America, the 08Left prize will be given to the next applicable winner in order. Note: they won’t win an Orbx prize as that will be able to be claimed by anyone world-wide.**
+
+
+
+Winners will be sent out an electronic form with these details, which must be signed and returned to FSElite.
+
+If you wish to receive an Orbx product from their library, you must adhere to the following:
+
+  * You must legally own a copy of the simulator you’re requesting a product for.
+  * You must comply with the EULA set out by Orbx and the applicable product.
+  * The product must be used for entertainment purposes only.
+  * Re-distribution, sharing or modifying files is strictly prohibited.
+  * Once you have informed FSElite of the product you wish to receive, the decision is final.
+
+
+
 ## **Privacy Policy**
 
 **Valid from:  **May 24th 2018
@@ -137,10 +209,10 @@ Our registered office is at Scarsdale, New York.
 
 ## Introduction
 
-  1. This is a notice to inform you of our policy about all information that we record about you. It sets out the conditions under which we may process any information that we collect from you, or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. In the context of the law and this notice, “process” means collect, store, transfer, use or otherwise act on information.
+  1. This is a notice to inform you of our policy about all the information that we record about you. It sets out the conditions under which we may process any information that we collect from you, or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. In the context of the law and this notice, “process” means collect, store, transfer, use or otherwise act on information.
   2. We regret that if there are one or more points below with which you are not happy, your only recourse is to leave our website immediately.
   3. We take seriously the protection of your privacy and confidentiality. We understand that all visitors to our website are entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.
-  4. We undertake to preserve the confidentiality of all information you provide to us, and hope that you reciprocate.
+  4. We undertake to preserve the confidentiality of all information you provide to us and hope that you reciprocate.
   5. Our policy complies with UK law accordingly implemented, including that required by the EU General Data Protection Regulation (GDPR).
   6. The law requires us to tell you about your rights and our obligations to you in regards to the processing and control of your personal data. We do this now, by requesting that you read the information provided at [knowyourprivacyrights.org](http://www.knowyourprivacyrights.org/)
   7. Except as set out below, we do not share, or sell, or disclose to a third party, any information collected through our website.
@@ -149,7 +221,7 @@ Our registered office is at Scarsdale, New York.
 
 ## The bases on which we process information about you
 
-The law requires us to determine under which of six defined bases we process different categories of your personal information, and to notify you of the basis for each category.
+The law requires us to determine under which of six defined bases we process different categories of your personal information and to notify you of the basis for each category.
 
 If a basis on which we process your personal information is no longer relevant then we shall immediately stop processing your data.
 
@@ -159,20 +231,20 @@ If the basis changes then if required by law we shall notify you of the change a
 
 When you create an account on our website, buy a product or service from us, or otherwise agree to our terms and conditions, a contract is formed between you and us.
 
-In order to carry out our obligations under that contract we must process the information you give us. Some of this information may be personal information.
+In order to carry out our obligations under that contract, we must process the information you give us. Some of this information may be personal information.
 
 We may use it in order to:
 
-  * verify your identity for security purposes
-  * sell products to you
-  * provide you with our services
-  * provide you with suggestions and advice on products, services and how to obtain the most from using our website
+  * Verify your identity for security purposes
+  * Sell products to you
+  * Provide you with our services
+  * Provide you with suggestions and advice on products, services and how to obtain the most from using our website
 
 
 
 We process this information on the basis there is a contract between us, or that you have requested we use the information before we enter into a legal contract.
 
-Additionally, we may aggregate this information in a general way and use it to provide class information, for example to monitor our performance with respect to a particular service we provide. If we use it for this purpose, you as an individual will not be personally identifiable.
+Additionally, we may aggregate this information in a general way and use it to provide class information, for example, to monitor our performance with respect to a particular service we provide. If we use it for this purpose, you as an individual will not be personally identifiable.
 
 We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.
 
@@ -186,11 +258,11 @@ Wherever possible, we aim to obtain your explicit consent to process this inform
 
 Sometimes you might give your consent implicitly, such as when you send us a message by e-mail to which you would reasonably expect us to reply.
 
-Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. We may aggregate it in a general way and use it to provide class information, for example to monitor the performance of a particular page on our website.
+Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. We may aggregate it in a general way and use it to provide class information, for example, to monitor the performance of a particular page on our website.
 
 We continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.
 
-You may withdraw your consent at any time by instructing us privacy@fselite.net. However, if you do so, you may not be able to use our website or our services further.
+You may withdraw your consent at any time by instructing us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ffffde6f9eeecf6cfe9fceae3e6fbeaa1e1eafb). However, if you do so, you may not be able to use our website or our services further.
 
 ### 3\. Information we process for the purposes of legitimate interests
 
@@ -244,7 +316,7 @@ We do store it, and we reserve a right to use it in the future in any way we dec
 
 Once your information enters the public domain, we have no control over what any individual third party may do with it. We accept no responsibility for their actions at any time.
 
-Provided your request is reasonable and there is no legal basis for us to retain it, then at our discretion we may agree to your request to delete personal information that you have posted. You can make a request by contacting us at privacy@fselite.net
+Provided your request is reasonable and there is no legal basis for us to retain it, then at our discretion, we may agree to your request to delete personal information that you have posted. You can make a request by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### 6\. Complaints regarding content on our website
 
@@ -326,7 +398,7 @@ We use cookies in the following ways:
 
 If you change your mind on how we use cookies, you can revoke your previous choice by click on the link below:
 
-Revoke
+REVOKE COOKIES
 
 ### 13\. Personal identifiers from your browsing activity
 
@@ -376,7 +448,7 @@ Our website is hosted in the United States of America.
 
 We may also use outsourced services in countries outside the European Union from time to time in other aspects of our business.
 
-Accordingly data obtained within the UK or any other country could be processed outside the European Union.
+Accordingly, data obtained within the UK or any other country could be processed outside the European Union.
 
 For example, some of the software our website uses may have been developed in the United States of America or in Australia.
 
@@ -391,14 +463,14 @@ We use the following safeguards with respect to data transferred outside the Eur
 ### 18\. Access to your personal information
 
   * At any time you may review or update personally identifiable information that we hold about you, by signing in to your account on our website.
-  * To obtain a copy of any information that is not provided on our website you may send us a request at privacy@fselite.net
+  * To obtain a copy of any information that is not provided on our website you may send us a request at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * After receiving the request, we will tell you when we expect to provide you with the information, and whether we require any fee for providing it to you.
 
 
 
 ### 19\. Removal of your information
 
-If you wish us to remove personally identifiable information from our website, you may contact us at privacy@fselite.net
+If you wish us to remove personally identifiable information from our website, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This may limit the service we can provide to you.
 
@@ -418,7 +490,7 @@ When we receive any request to access, edit or delete personal identifiable info
 
 
 
-Children who wish to opt-out can do so by rejecting our cookie request upon first visit to the website and following the instructions set out here: https://tools.google.com/dlpage/gaoptout
+Children who wish to opt-out can do so by rejecting our cookie request upon the first visit to the website and following the instructions set out here: https://tools.google.com/dlpage/gaoptout
 
 ### 22\. Encryption of data sent between us
 
@@ -432,7 +504,7 @@ Data is stored securely via database tables hosted on FSElite servers.
 
 ### 23\. How you can complain
 
-  * If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Our address is privacy@fselite.net
+  * If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Our address is [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration.
   * If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner’s Office. This can be done at <https://ico.org.uk/concerns/>
 
@@ -459,5 +531,3 @@ However, ultimately it is your choice as to whether you wish to use our website.
 We may update this privacy notice from time to time as necessary. The terms that apply to you are those posted here on our website on the day you use our website. We advise you to print a copy for your records.
 
 If you have any question regarding our privacy policy, please [_contact us_](https://web.archive.org/contact-us).
-
- 
