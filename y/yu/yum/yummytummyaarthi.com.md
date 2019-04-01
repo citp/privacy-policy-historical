@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the yummytummyaarthi.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924072611id_/https%3A//www.yummytummyaarthi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummytummyaarthi.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401112849id_/https%3A//www.yummytummyaarthi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yummy Tummy
 
-You are here: [Home](http://www.yummytummyaarthi.com/) / Privacy Policy
+You are here: [Home](https://www.yummytummyaarthi.com/) / Privacy Policy
 
 This privacy policy sets out how Yummy Tummy  uses and protects any information that you  
-give while using [www.yummytummyaarthi.com](http://www.yummytummyaarthi.com/)
+give while using [https://www.yummytummyaarthi.com](https://www.yummytummyaarthi.com/)
 
 Should we ask you to provide certain information by which you can be identified  
 when using this website, then you can be assured that it will only be used in  
