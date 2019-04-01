@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiglass.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211041605id_/https%3A//www.delphiglass.com/page/main_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiglass.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401030743id_/https%3A//www.delphiglass.com/page/main_security) for the most accurate reproduction.*
 
 # Delphi Stained Glass - Privacy And Security
 
