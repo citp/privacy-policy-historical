@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsapubs.org privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106143755id_/https%3A//pubs.geoscienceworld.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsapubs.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401092121id_/https%3A//pubs.geoscienceworld.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
