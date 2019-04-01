@@ -1,75 +1,58 @@
-> *The following text is extracted and transformed from the appeal-democrat.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211235620id_/http%3A//www.freedom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appeal-democrat.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401072544id_/https%3A//www.appeal-democrat.com/site/privacy.html) for the most accurate reproduction.*
 
-# Freedom Communications, Inc. - Privacy Policy
+# Privacy Policy | Site | appeal-democrat.com
 
-[en Español](https://web.archive.org/web/20121211235620id_/http%3A//www.freedom.com/privacidad.html)
+The Appeal-Democrat considers your privacy important. We are committed to protecting the privacy of all those who provide us with their contact information while using our information, products, events, or services. This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared.
 
-Freedom Communications, Inc. (“Freedom”) has agreed to sell the assets of the Lima News, Sedalia Democrat, Jacksonville Journal Courier and Alton Telegraph (the “Properties”) to an affiliate of Ohio Community Media, an Ohio-based publisher of community newspapers. This affiliate, called Testor FCI Acquisition, LLC (“Publisher”), plans to continue the Properties’ operations uninterrupted after the sale to provide readers with high quality local news services. 
+This Privacy Policy applies to websites operated by or on behalf of The Appeal-Democrat, its subsidiaries, affiliates, divisions and related companies. This Privacy Policy applies only to personal information collected by The Appeal-Democrat Be aware that our websites may contain links to other websites that are maintained by third parties who are not required to comply with this Privacy Policy and for which The Appeal-Democrat has no responsibility. Please review the privacy policies on any external websites to determine their information handling practices.
 
-As part of this sale, Freedom will be transferring to Publisher customer data collected from users of the Properties’ websites. Customer data transferred to Publisher will be held and maintained by Publisher pursuant to Publisher’s respective privacy policies, which can be found at the following: [http://lima.ohcommedia.com](http://lima.ohcommedia.com/), [http://sedalia.ohcommedia.com](http://sedalia.ohcommedia.com/), [http://jacksonville.ohcommedia.com](http://jacksonville.ohcommedia.com/) and [http://alton.ohcommedia.com](http://alton.ohcommedia.com/). Please do not register or submit information to any of the Properties’ websites if you do not want your customer data transferred to Publisher. 
+Personally identifiable information is information that can identify you, such as your full name, email address, postal address, and telephone number.
 
-This is the Privacy Policy for all Web sites owned or operated by Freedom Communications, Inc. ("Freedom" "we" or "our"), including, without limitation the Web sites listed [here](https://web.archive.org/web/20121211235620id_/http%3A//www.freedom.com/ppsites.html) (collectively, the "Site"). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20121211235620id_/http%3A//www.freedom.com/eula.html) posted on the Site.
+We collect personally identifiable information that you choose to provide to us when you subscribe to our newspapers, sign up for email newsletters, enter a contest; participate in surveys, register for a web site, webcast; or otherwise communicate with us. When you provide this information to us, you are no longer anonymous.
 
-**Managing Information Preferences**
+We also may receive information about you from other sources and add it to the information you have provided to us.
 
-We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 
+If you purchase products or services on our website or through one of our printed forms, you may choose to provide us with your credit card information.
 
-17666 Fitch  
-Irvine , CA 92614  
-E-mail: [pp@freedom.com](mailto:pp@freedom.com)
+The Appeal-Democrat is not responsible for the information you volunteer about yourself in discussions in our forums or in publicly accessible interactions, or the information that you choose to make public in your member profile. To view or change your member profile, please return to the site where you registered.
 
-If you would like to correct, update, or change your personal information with us please contact us the same way.
+ **ANONYMOUS INFORMATION WE COLLECT**
 
-**What Types Of Information Do We Collect?**
+We use cookies and other Internet technologies to enrich your online experience by managing our website and email programs. Our cookies do not contain any information, in itself, that is personally identifiable.
 
-We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
+If your browser is set to allow cookies, we may store small amounts of information on your computer about what parts of our websites you have visited and what features you like best. We may then tailor the content you see to match your interests. We also may use cookies to identify members so that they don't have to re-enter their usernames and passwords. Cookies may also be used to limit the number of advertisements you see while on our site. By allowing us to understand how you use our site over time, cookies can help us provide you with a better, more relevant online experience. The cookies we store on your computer are not accessible on any other companies' websites. Some ads on our site are provided by outside companies. If these ads contain cookies, they can be accessed only by those advertisers; we do not have access to them.
 
-We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data.
+Most browsers allow you to modify your security to accept or reject cookies. You need not have cookies turned on to visit our sites, but without them, your access to some areas may be limited and custom navigation may not be available to you.
 
-We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving. 
+Like many websites, The Appeal-Democrat may use pixel tags. Pixel tags help us improve our understanding of our web traffic and visitor behavior, as well as gauge the response to our promotional efforts. This information is non-personally identifiable and is used for an aggregate picture of how visitors use our site.
 
-**How Do We Use The Information We Collect?**
+We may use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information (typically not including your name, address, email address or telephone number) about your visits to our website and other web sites to provide you with relevant advertisements about products, services, and events tailored to your interests. You may opt out of receiving targeted advertising from several advertising networks by visiting a website operated by the National Advertising Initiative.  Go to [**http://optout.networkadvertising.org**](http://optout.networkadvertising.org/) to opt out of several third-party advertiser networks by using a tool created by the Network Advertising Initiative
 
-We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy.
+We may use your contact information for any of the following reasons:
 
-We use personal information and non-personal information for internal purposes, including: 
-
-  * enhancing your experience at the Site;
-  * performing administration and technical support for the Site; 
-  * enabling you to enter sweepstakes, contests and other promotions;
-  * enabling you to use certain services and features available on or through the Site;
-  * creating aggregate information about demographics and usage patterns; 
-  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products and services that may be of interest to you; and 
-  * enabling purchases of goods and services.
+  * To provide you with information about products or services you've ordered, or show interest in;
+  * We may also use your contact information to ask for your input to help in our research about our services, events, or products or to provide you with additional information about this site and about other The Appeal-Democrat products, services, or events that we think might be of interest to you.
+  * All promotional and research email messages you receive from us will include an option to opt out of future email communications from that particular Appeal-Democrat business.
+  * We may also send you e-newsletters with targeted, relevant content. Each e-newsletter will provide you with an opportunity to opt out of that particular e-newsletter.
+  * In some cases, we may send you relevant, carefully-screened offers from reputable third-party businesses or organizations. Many of our customers appreciate receiving these offers because they relate to their business or occupation. However, you will always be able to opt out of receiving future third party offers.
+  * We may provide contact lists to third party companies that we have employed to provide us with specialized services, including customer service, subscription fulfillment, research, statistical analysis, list cleansing, postal mailings, email deployment, telemarketing, and other information services. In compliance with privacy laws, we also provide our opt-out lists to those third-party companies so that they can be suppressed from the communications those companies send on The Appeal-Democrat’s behalf. We only deal with third party companies whom we believe share our commitment to privacy and who will keep your information secure.
+  * If you provide information on a co-branded site or while using a co-branded service, you grant us permission to share the information you have provided with that service or site partner. Their use of your information is subject to their privacy policies.
+  * Certain information, such as your password and credit card information, is never disclosed in any form whatsoever to any outside party.
 
 
 
-We may use aggregate information to measure general Site usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personal information, and it is not traceable to a specific recipient or user e-mail address. 
+In the case of a change of ownership or a merger involving The Appeal-Democrat or any business that is part of The Appeal-Democrat, your contact information associated with that business would be one of those transferred assets.
 
-We also may share personal information with entities controlling, controlled by, or under common control with Freedom. In the event that Freedom is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information and non-personal information in connection with such transaction. 
+We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to protect personal information from loss, misuse, or alteration.
 
-From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure. 
+When we contract with other companies to provide us with services, we only share personal information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties.
 
-We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to "opt-out" of the collection of information from such cookies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
 
-Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Freedom or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission. 
+By using any of our websites, you consent to our use of your contact information as it is outlined in this privacy statement.
 
-**Security**
+The Appeal-Democrat reserves the right to access and disclose personally identifiable information to comply with applicable laws, lawful government requests and court orders, or to investigate alleged fraud or violations of the Terms of Use of The Appeal-Democrat website.
 
-We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
+If we decide to change our privacy statement, we will post the changes on this page. Users are encouraged to review this page for any changes. Your continued use of this site constitutes your acceptance of this entire privacy statement.
 
-**Links To Third-Party Web Sites**
-
-The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
-
-**Discussion Board, Forums and Other User Generated Content**
-
-Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
-
-**Children's Privacy Statement**
-
-We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
-
-**Policy Changes**
-
-If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
+If you wish to contact The Appeal-Democrat about its privacy policy, please send your specific questions to: admin@appeal-democrat.com.
