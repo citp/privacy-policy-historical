@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the simplygluten-free.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927005750id_/https%3A//simplygluten-free.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplygluten-free.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401174316id_/https%3A//simplygluten-free.com/privacy-policy) for the most accurate reproduction.*
 
 # Simply Gluten Free Privacy Policy & Guarantee
 
 **Our Guarantee**
 
-Simply Gluten Free Inc. Guarantees all products 100% satisfaction or your money (including shipping) fully returned, without question (except to ask how we can improve ourselves to better serve you and others in the future). Call customer service at (727) 738-5735 or email Julia at [julia@simplygluten-free.com](mailto:julia@simplygluten-free.com)
+Simply Gluten Free, Inc. guarantees all products 100% satisfaction or your money (including shipping) fully returned, without question (except to ask how we can improve ourselves to better serve you and others in the future). Call customer service at (727) 738-5735 or email Tina at [tina@simplygluten-free.com](mailto:tina@simplygluten-free.com).
 
 **Privacy Policy for simplygluten-free.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [julia@simplygluten-free.com](mailto:julia@simplygluten-free.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [tina@simplygluten-free.com](mailto:tina@simplygluten-free.com).
 
 At simplygluten-free.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by simplygluten-free.com and how it is used.
 
 Like many other websites, simplygluten-free.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users’ movements around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-simplygluten-free.com does use cookies to store information about visitors’ preferences, record user-specific information on which pages the users access or visit, customize web page content based on visitors’ browser type or other information that the visitors send via their browser.
+Simplygluten-free.com does use cookies to store information about visitors’ preferences, record user-specific information on which pages the users access or visit, customize web page content based on visitors’ browser type or other information that the visitors send via their browser.
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and Amazon.
 
