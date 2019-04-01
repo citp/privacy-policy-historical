@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thefirearmblog.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728041834id_/http%3A//www.secondmedia.com/site-privacy-policy/index.php%3Fsite%3Dthefirearmblog.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefirearmblog.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401231404id_/http%3A//www.secondmedia.com/site-privacy-policy/index.php%3Fsite%3Dthefirearmblog.com) for the most accurate reproduction.*
 
 # 
 
 **Privacy Policy**  
-Last updated: May 15, 2018 
+Last updated: March 7, 2019 
 
 This Privacy Policy describes how Second Media (' **Second Media** ', ' **we** ', ' **us** ' or ' **our** ') collects personal information in connection with our websites and mobile or other applications on which this Privacy Policy is posted or linked to (collectively, the ' **Site** '), and how this information may be used, shared and safeguarded. Personal information is information about you as an identifiable Site visitor.
 
@@ -128,6 +128,7 @@ If you have any questions or comments about this Privacy Policy, please contact 
 privacy@secondmedia.com 
 
 Privacy Officer  
-332 S Michigan Ave, Suite 8029  
-TChicago, IL 60604, USA  
+3290 W. Big Beaver Rd.  
+Suite 500  
+Troy, Michigan 48084  
 
