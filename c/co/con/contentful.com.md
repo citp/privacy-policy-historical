@@ -1,184 +1,92 @@
-> *The following text is extracted and transformed from the contentful.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014454id_/http%3A//www.contentful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentful.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401111025id_/https%3A//www.contentful.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Contentful
+# Privacy Policy - Legal
 
-## 1.
+[ ](https://web.archive.org/)
 
-    
+_We’ve updated our Privacy Policy, which will be effective starting March 15, 2017. Old versions of the document are available in the sidebar._
 
-## Collection of Data
+### Overview:
 
-Contentful GmbH ( _"Contentful"_ ) collects information through its websites on contentful.com (the _"Websites"_ ) in several places.
+Welcome to the website (the **“Site”** ) of Contentful Inc ( **“Contentful”** , **“we”** , **"us”** and/or **“our”** ). 
 
-If you use the Websites, you will need to register to use certain features (each registered user a _"User"_ ). The registration process requires that you provide us with your first name, last name, email address, and company name ( _"Personal Data"_ ). The Personal Data will be handled by Contentful in strict confidence according to the applicable legal provisions. The Personal Data will only be collected, processed and used for the purpose of providing our Websites functions, unless you expressly consent to other uses. The Personal Data is collected, used and processed electronically.
+Contentful makes available a cloud-based content management services platform that permits registered users to upload, create and manage content online and integrate content into web and mobile applications through an application programming interface (the **“Contentful API”** and, together with the Site, other features of the platform and related mobile applications, tools and services, the **“Services”** ). This Privacy Policy describes how we collect information from users of and visitors to the Services ( **“you”** , **“your”** ) in the United States, including Personal Data (as defined below), when you use the Services, browse the Site or contact us. **If you are using or visiting the Services and you are located in Europe or elsewhere outside of the United States, please refer to our European Privacy Policy, available[here](https://web.archive.org/legal/de/privacy/).**
 
-No persons under the age of 18 will be actively marketed to, nor will they be knowingly asked to provide personal information.
+### Information We Collect:
 
-## 2.
+When you interact with us through the Services, we or third parties acting on our behalf may collect from you the information described below, including certain information that can be used to identify you on its own or in combination with other information ( **“Personal Data”** ). We collect Personal Data from you when you voluntarily provide such information to us, such as when you register for an account with the Services, contact us with business inquiries, submit support requests through a Site form or live chat window, respond to one of our surveys or use certain features of the Services. 
 
-    
+     **Account Information:** When you register for an account with Contentful to use the Contentful API or other features of the Services, we ask you to provide your first and last name, your email address, the name of your company and a password. You may also log in to the Services through your accounts with certain third-party services, as described further in the section titled “Third-Party Applications and Services” below. If you decide to use features of the Services that Contentful makes available under paid plans, we also ask you to provide your payment information and billing address, which will be used and processed by our payment processor (see section titled “Our Disclosure of Personal Data and Other Information” below). 
+     **Content:** A registered user may upload a variety of content to the Services, including text, images, videos and music files, to manage, preview and publish content for web and mobile applications through the Contentful API. For example, a registered user who is a designer or developer for a retailer may use the Services to upload, manage and view product descriptions and images, in addition to publishing such content on the retailer’s website and mobile app through the Contentful API. 
+     You acknowledge and agree that, to the extent that you include Personal Data in the content you transmit, upload, post, submit, publish, display or otherwise share or cause to be transmitted, uploaded, posted, submitted, published, displayed or otherwise shared through the Services, such Personal Data may be available to others when you upload that content to or share that content through the Services, and we are not responsible for any of your content or how others may use or further share your Personal Data or content. Please use caution and common sense when using the Services and uploading or sharing content. 
+     You may remove content that you have previously uploaded to the Services through your account. If you are unable to remove your content, contact us at support@contentful.com so that we may remove the applicable content at your request. You understand that content that you have uploaded to the Services may continue to be viewable by others through the Services if other users have posted or reposted it, that others may continue to have copies of or access to any content previously uploaded to or shared through the Services and that your content may remain on our servers or in our records after it has been removed from your account. 
+     **Information Provided through Site Forms:** If you would like additional information about the Services, need help with using the Services or would otherwise like to contact us, we will ask you to complete one of the forms available at www.contentful.com/contact and provide certain information to us so that we may respond to your inquiry or request. 
+     **Other Information:**
 
-## Use of Personal Data
+     **IP Addresses:** Device Information: When you visit or use the Services, we or our service providers may collect your IP address (the Internet address of your computer) and use it for various purposes, including to analyze and report upon visits to and usage of the Service; to approximate your physical location so that we may localize the Services based on your geographic region; to diagnose and prevent service or technology problems affecting the Services; and to monitor and prevent fraud and abuse. If you access the Services on a mobile device, we or our service providers may also collect the device type and identification number and request access to settings and location information for similar purposes. By visiting or using the Services, you are consenting to the collection of your IP address and/or device information, as applicable. 
+     **Other Automatically Collected Data:** When you interact with Contentful through the Services, we use various technologies (including cookies, as further described below) to passively collect information about your visits to and use of the Services. Generally, this information does not identify you; however, if we combine this data with any Personal Data, we will treat combined information as Personal Data subject to this Privacy Policy. Contentful may use such information and pool it with other information to track, for example, the total number of users of and visitors to the Services, the total number of users of certain features of the Services, the browsers our users and visitors use and the domain names of our users’ and visitors' Internet service providers. 
+     We also use Google Analytics, Snowplow, Inspectlet, Segment.io and similar tools provided by third parties to help us analyze how users and visitors use the Services. These analytics services collect standard Internet log information and user and visitor behavior information, including information about your browsing activities over time and across websites or other online services following your use of the Service. 
+     We and our analytics service providers use cookies, web beacons and similar technologies to collect the information described above. A cookie is a piece of information that the computer that hosts the Services gives to your browser when you access the Services. Cookies help provide additional functionality to the Services and help us analyze Services usage and activity more accurately. For example, we may set a cookie on your browser that allows you to access the Services without needing to remember and then enter your password more than once during a visit to the Services, or our analytics service providers may use cookies to help us understand how visitors are directed to the Services and which features are of the greatest interest to users of and visitors to the Services. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Services’ features. 
+     **Aggregated Personal Data:** In an ongoing effort to better understand and serve the users of the Services, Contentful may conduct research on our users’ demographics, interests, behavior and use of the Services based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Contentful may share this aggregate data with our affiliates, agents and business partners. This aggregate information does not identify you personally. Contentful may also disclose aggregated user statistics in order to describe the Services to current and prospective business partners, and to other third parties for other lawful purposes. 
+     **Do Not Track Signals:** The Services currently do not respond to “Do Not Track” (DNT) signals and operate as described in this Privacy Policy whether or not a DNT signal is received. If we do respond to DNT signals in the future, we will update this Privacy Policy to describe how we do so. 
 
-Contentful will only transfer or process Personal Data to third parties if this is required for statutory or legal reasons and/or if this is required in order to offer and implement services of Contentful to you and/or if Contentful has your explicit consent to do so.
+### Our Use of Personal Data and Other Information:
 
-Contentful shall be entitled to collect, process and use your Personal Data for the purpose of identifying, delimiting and removing malfunctions and errors in the telecommunication systems. If the requirements are met, Contentful may collect, process and use Personal Data that is necessary to uncover any unlawful use of the telecommunication systems and services. In accordance with prevailing legal provisions, Contentful may provide information to criminal prosecution authorities and courts for prosecution purposes.
+Contentful uses the Personal Data you provide through your use of the Services for the reason that you provided it to us and in a manner that is consistent with this Privacy Policy. For example, if you contact us with a business inquiry or support request, we will use the Personal Data you provide to us to contact you and answer your question or resolve your problem. If you provide Personal Data in order to obtain access to the Services as a registered user, we will use your Personal Data to provide you with access to the Services and to facilitate your use of Service features. 
 
-Apart from this, Contentful will not pass on your Personal Data without your explicit prior consent.
+Contentful and our subsidiaries and affiliates (the **“Related Companies”** ) may also use your Personal Data and other information collected from you through the Services to help us improve the content and functionality of the Services, to better understand our users and to contact you in the future to tell you about features of the Services or other services we believe will be of interest to you. If we use your Personal Data to send you marketing communications via email, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications from us. If at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. 
 
-## 3.
+Based on your visits to and use of the Services, we may also work with third-party sites and advertising services to display personalized and interest-based ads about Contentful and the Services to you when you visit other sites and services. 
 
-    
+### Our Disclosure of Personal Data and Other Information:
 
-## Use of Web Analytic Services
+We may share your Personal Data and other information collected from you with certain third parties without further notice to you, as set forth below: 
 
-The following web analytic services are used to improve the user experience of our Websites.
+     **Third-Party Applications and Services:** Contentful allows you to log in to the Services through your accounts with various third-party services, such as Github, Google and Twitter. If you decide to log in to the Services through or otherwise use one or more third-party applications or services that interoperate with the Services in connection with your use of the Services, we will provide those applications or services with access to data (which may include Personal Data) on Contentful’s systems generated through your use of the Services. Please remember that the manner in which the providers of third-party applications and services use, store and disclose your information is governed by their policies, and that Contentful will have no liability or responsibility for the privacy practices or other actions of providers of third-party applications and services that may be enabled within the Services. In connection with your use of any such third-party applications or services, please review carefully the applicable privacy policies of each such third-party application or service provider to become familiar with its policies and practices as it concerns your data and information. 
+     **Business Transfers:** In the event of a corporate sale, merger, reorganization, financing due diligence, receivership, dissolution or similar event, your information, including Personal Data, may be transferred to a successor or affiliate either independently or as part of that transaction along with other assets. 
+     **Related Companies:** We may also share information, including your Personal Data, with our Related Companies. 
+     **Agents, Service Providers and Related Third Parties:** We engage other companies to perform certain business-related functions on our behalf, such as hosting portions of the Services, maintaining databases, processing payments and facilitating user support. We share information with agents, service providers and related third parties as necessary for them to provide these services on our behalf. 
+     **Your Employer:** If you are using the Services in connection with your role as an employee or contractor of a company or other legal entity, we may share your information with such entity. 
+     **Legal Requirements:** Contentful may disclose your Personal Data and other information about you if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Contentful, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability. 
 
-a. 
-    
+### Your Choices:
 
-Contentful uses Google Analytics, a service for the marketing analysis of this website, of Google Inc. ("Google"). Google Analytics uses codes consisting of text and numbers, which will be stored on your computer and which allow for an analysis of the use of the Websites ("Cookies"). The information generated by the Cookie about your use of the Websites (including your IP address) will be transferred to and stored by a Google Server. Google will use this information, to evaluate your use of the website, to prepare reports about the website activities for the website operators and to provide further services connected to the use of websites and the use of the Internet. Google may transfer this information to third parties, if legally obliged to do so or if third parties process these data on behalf of Google. In no case, Google will connect your IP address with other data from Google.
+You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you will not be able to use certain features of the Services. 
 
-Please note that our Websites uses Google Analytics with the extension '_anonymizelp()' and consequently IP addresses are only used in shortened form in order to prevent direct personal references.
+If you want to opt out of receiving ads based on your interests and web usage patterns, - please visit [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). 
 
-b. 
-    
+### Children:
 
-Contentful also uses Kissmetrics, a web analytics service provided by Space Pencil, Inc. ("Kissmetrics"). The service puts first-party cookies on your computer which allow for the analysis of the use of this website. No permanent, resurrected or third-party cookies are being used. Information generated by the cookies will be transferred to and saved on a server of the analysis service provider. Together with the aforementioned information IP-addresses will be transferred to the service provider.
+Contentful does not knowingly collect Personal Data from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Data to Contentful through the Services, please contact us, and we will endeavor to delete that information from our databases. 
 
-c. 
-    
+### Links to Other Websites and Services:
 
-Contentful uses Mixpanel, an advanced analytics service provided by Mixpanel, Inc. ("Mixpanel") that helps improve web and mobile applications by tracking how users interact and engage. Usage information and Personal Data is stored by Mixpanel and is subject to their privacy policy. You can view their privacy policy at https://mixpanel.com/privacy.
+This Privacy Policy applies only to the Services. The Services may contain links to other websites or services not operated or controlled by Contentful. The policies, practices and procedures described in this Privacy Policy do not apply to any third-party websites or services. Any links from the Services do not imply that Contentful endorses or has reviewed the linked-to third-party site or service. We suggest contacting those sites or services directly for information on their privacy policies. 
 
-d. 
-    
+### Security:
 
-Contentful uses Intercom, a third party analytics service provided by Intercom, Inc. ("Intercom") to help understand your use of our services and to communicate with you by sending you service-related notifications in the Contentful interface. Contentful uses Intercom to collect data for analytics purposes when you use our services. Intercom analyzes your use of our website and/or service and our relationship with you, so that we can improve our services. For more information on the privacy practices of Intercom, please check http://docs.intercom.io/privacy. Intercom’s services are governed by Intercom’s terms of use, which can be found at http://docs.intercom.io/terms.
+Contentful takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration or destruction. However, no method of transmission over the Internet or method of electronic storage can be guaranteed to be 100% secure, and we cannot warrant the security of any information that you provide to us. We do not accept liability for unintentional disclosure. 
 
-e. 
-    
+### Other Terms and Conditions:
 
-Contentful uses Optimizely, a third party website optimization service provided by Optimizely, Inc. ("Optimizely") to improve our services. Contentful uses Optimizely to test and optimize different variants of a website. Optimizely analyses your use of our website and/or service and our relationship with you, so that we can improve our services. For more information on the privacy practices of Optimizely, please check https://www.optimizely.com/privacy. Optimizely’s services are governed by Optimizely’s terms of use, which can be found at https://www.optimizely.com/terms.
+Your access to and use of the Services is subject to the Terms of Service at [www.contentful.com/legal/us/tos/](https://web.archive.org/legal/us/tos/). 
 
-f. 
-    
+### Changes to this Privacy Policy:
 
-Contentful uses Crazyegg, an advanced analytics service provided by Crazy Egg, Inc. ("CrazyEgg") that helps improve websites by tracking how users interact and engage. Usage information and Personal Data is stored by Crazyegg and is subject to their privacy policy. You can view their privacy policy at https://www.crazyegg.com/privacy.
+The Services and our business may change from time to time. As a result, we may make related changes to this Privacy Policy. We will post all changes to this Privacy Policy on this page and will indicate at the top of this page the date that this Privacy Policy was last updated. Contentful reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data, so that you are aware of our current practices. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
 
-g. 
-    
+### Access to Information; Contacting Contentful:
 
-Contentful uses Segment.io, a third party analytics service provided by Segment.io, Inc. ("Segment.io") to help understand your use of our services. Contentful uses Segment.io to collect data for analytics purposes when you use our services. Segment.io analyses your use of our website and/or service and our relationship with you, so that we can improve our services. Segment.io also forwards analytics data to the other services that are mentioned above. For more information on the privacy practices of Segment.io, please check https://segment.io/privacy. Segment.io’s services are governed by Segment.io’s terms of use, which can be found at https://segment.io/terms.
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted to us via the Services. 
 
-h. 
-    
+Please also feel free to contact us if you have any questions about this Privacy Policy or our privacy practices. 
 
-Contentful uses Vero, an email service provided by Invc Me, Inc. ("Vero") that helps to send targeted emails to our users. Usage information and Personal Data is stored by Vero and is subject to their privacy policy. You can view their privacy policy at https://www.getvero.com/privacy.
+You may contact us as follows: 
 
-i. 
-    
+privacy@contentful.com  
+Contentful Inc  
+101 Montgomery Street, Suite 2050  
+San Francisco, CA 94104  
+USA 
 
-Contentful uses Totango, an analytics service provided by Totango, Inc. ("Totango") that helps improve web applications by tracking how users interact and engage. Usage information and Personal Data is stored by Totango and is subject to their privacy policy. You can view their privacy policy at http://www.totango.com/privacy/.
-
-j. 
-    
-
-Contentful may send you a newsletter with information regarding its services or other promotional material. You may cancel the order at any time and free of charge by using the link in the newsletter or in your user account settings.
-
-    
-
-## Consent to use of personal data
-
-1\. 
-    
-
-I hereby consent to the collection, processing and use of the personal data, i.e. first name, last name, email address, IP address and company name ("Personal Data") by Contentful GmbH, Ritterstr. 12-14, 10969 Berlin, which will be passed to:
-
-  * Intercom, Inc., 115 Sansome Street, Suite 810, San Francisco, CA 94104 USA ("Intercom") and saved on Intercom’s servers;
-  * Mixpanel, Inc., 799 Market Street, Floor 7, San Francisco, CA 94103 USA ("Mixpanel") and saved on Mixpanel’s servers;
-  * Space Pencil, Inc., 407 Morning Lane, Redwood Shores, CA 94065 USA ("KISSmetrics") and saved on KISSmetrics’ servers;
-  * Optimize, Inc., 55 New Montgomery St. #888, San Francisco, CA 94105 USA ("Optimizely") and saved on Optimizely's servers;
-  * Crazy Egg, Inc., 16220 E. Ridgeview Lane, La Mirada, CA 90638 USA ("CrazyEgg") and saved on CrazyEgg's servers;
-  * Segment.io, Inc., 1000 Chestnut St, #12A, San Francisco, CA 94109 USA ("Segment.io") and saved on Segment.io’s servers.
-  * Invc Me, Inc., 870 Harrison Street, San Francisco, CA 94104 USA ("Vero") and saved on Vero's servers.
-  * Totango, Inc., 599 College Avenue, Palo Alto, CA 94306 USA ("Totango") and saved on Totango’s servers.
-
-
-2\. 
-    
-
-I further consent to the use of my Personal Data by Contentful for the purposes of market researches and sending me a newsletter.
-
-3\. 
-    
-
-I can withdraw these consents and opt-out of having information collected by or submitted to Intercom, Mixpanel, KISSmetrics, CrazyEgg, Optimizely, Segment.io, Vero and Totango at any time by opting out in my user account settings.
-
-## 4.
-
-    
-
-## Information
-
-Upon request, Contentful shall provide you with the information on the stored Personal Data relating to your person, free of charge and without delay. The information can be provided electronically, if desired. In applicable cases we are obliged, upon request, to correct, block or delete the Personal Data stored about you.
-
-## 5.
-
-    
-
-## Cookies
-
-Contentful makes use of cookies to provide its Users with a customised product/service through identifying unique visitors and their respective usage patterns. Cookies are identifiers placed on a User’s hard drive by the server and allow Contentful to streamline its products to better suit Users’ needs.
-
-Demographic and traffic data may be collected by third parties on our website. Third parties may also use cookies, for which we have neither access nor control.
-
-The combination of this data could inadvertently lead to the identification of individual Users. User data may from time to time be collected and analysed for statistical purposes, though in this case no individual’s data will be identified. If the User has agreed to provide their information to third parties with the ultimate goal of receiving personalised products and services, then Contentful may provide said third parties with the relevant data. In this case, we rely on technical and organisational means to assure that applicable data security regulations are followed.
-
-All information, whether on data processors on Contentful’ premises or on servers acting on Contentful’ behalf, remains in complete control of Contentful at all times. Servers may be located in jurisdictions where data protection laws differ from those in the User’s jurisdiction.
-
-## 6.
-
-    
-
-## Re-targeting
-
-Contentful uses Google's retargeting, which means we can advertise Contentful on our partners’ websites, meaning our adverts, even on other companies’ sites, are relevant to what you would like to see. We do this by analyzing user behavior from data collected by cookies. This information is anonymous, with no personal information being stored and no user profiles. You can view Google's advertising policies and principles at http://www.google.com/policies/technologies/ads/.
-
-## 7.
-
-    
-
-## Use of Log Files
-
-Contentful uses log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track User’s movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
-
-At Contentful we collect aggregate traffic statistics, internet protocol addresses, browser types, and internet service providers (ISP) using log files. Traffic statistics include, but are not limited to: referring/exit pages, date/time stamp, clicking patterns and click through rates. These data are used to streamline the User experience, improve the products and services provided to Users on the Contentful Website. None of this information, however, is linked to an identifiable individual, and as previously mentioned, is only used in the aggregate.
-
-## 8.
-
-    
-
-## Right of Access, Correction, and Cancellation
-
-You are solely responsible for maintaining the confidentiality of your credentials and information associated with your account that you desire to remain confidential. You also agree that you are responsible for any and all activities that may take place, or occur under your credentials and account.
-
-Maintaining the confidentiality of the User’s credentials is the sole responsibility of said User. Any activities that take place under a User’s account are the responsibility of that User.
-
-If Users wish to withdraw usage rights, they can at any time delete their account.
-
-## 9.
-
-    
-
-## Data Protection
-
-Contentful hereby explicitly notifies you that data protection and data privacy during data transfer via open networks such as the Internet cannot be completely guaranteed under the current state of technology. You understand and acknowledge that the provider can view, in technical terms, the pages stored on the web server and, perhaps, other data stored on such server at any time.
-
-## 10.
-
-    
-
-## Contact
-
-Should you have further questions concerning the Data Privacy Provisions, please do not hesitate to contact us at privacy@contentful.com.
+v2017-03-15-US
