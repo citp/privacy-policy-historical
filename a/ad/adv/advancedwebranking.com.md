@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the advancedwebranking.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524100142id_/https%3A//www.advancedwebranking.com/cloud/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedwebranking.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401142052id_/https%3A//www.advancedwebranking.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We, Caphyon S.R.L., Str. Ana Ipatescu Nr. 51, Dolj, Craiova, 200340, European Union, Romania take Privacy very seriously and are committed to comply with the high standards of Data Protection established by the legislation in force.
 
-This Privacy Policy constitutes an inseparable part of the [Terms of Service](https://web.archive.org/cloud/eula.html). The Policy describes how we use and protect the Private Data that you provide when using the Service and Website. Service, Website and other capitalized terms used herein will have the meaning given to them in the [Terms of Service](https://web.archive.org/cloud/eula.html) or in the applicable Data Protection legislation.
+This Privacy Policy constitutes an inseparable part of the [Terms of Service](https://web.archive.org/eula.html). The Policy describes how we use and protect the Private Data that you provide when using the Service and Website. Service, Website and other capitalized terms used herein will have the meaning given to them in the [Terms of Service](https://web.archive.org/eula.html) or in the applicable Data Protection legislation.
 
 The Private Data that we collect is used within the technical scope of our business.
 
@@ -48,7 +48,7 @@ This information is processed internally by Caphyon, for the purpose of providin
 
 ## What we do with the information we collect
 
-Our focus is to help Users work effectively, by processing Personal Data and User Data in a secure and efficient manner. As part of our commitment to comply with Data Protection legislation in force, including the EU [General Data Protection Regulation](https://www.eugdpr.org/eugdpr.org.html), the following description offers an overview on how we use the data that we collect or receive directly from you.
+Our focus is to help Users work effectively, by processing Personal Data and User Data in a secure and efficient manner. As part of our commitment to comply with Data Protection legislation in force, including the EU [General Data Protection Regulation](https://www.eugdpr.org/), the following description offers an overview on how we use the data that we collect or receive directly from you.
 
 ### Distribution of Scope
 
@@ -108,7 +108,7 @@ For the purpose of data portability, you can receive your Personal Data that we 
 
 ## Right to Object
 
-As defined under GDPR Article 21, you can object at any time to Caphyon or any external suppliers processing your Personal Data. The objection can be submitted in writing to our privacy officer. In the event you object to Caphyon or any external supplier processing your Personal Data, we will make reasonable efforts to make available a change in your configuration of use of the Service. If we are not able to make the change available within a reasonable period of time, without exceeding 30 business days, you may Terminate the Service under the [Terms of Service](https://web.archive.org/cloud/eula.html).
+As defined under GDPR Article 21, you can object at any time to Caphyon or any external suppliers processing your Personal Data. The objection can be submitted in writing to our privacy officer. In the event you object to Caphyon or any external supplier processing your Personal Data, we will make reasonable efforts to make available a change in your configuration of use of the Service. If we are not able to make the change available within a reasonable period of time, without exceeding 30 business days, you may Terminate the Service under the [Terms of Service](https://web.archive.org/eula.html).
 
 ## Right to Erasure
 
