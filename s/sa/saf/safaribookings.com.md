@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safaribookings.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212222925id_/https%3A//www.safaribookings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safaribookings.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401081331id_/https%3A//www.safaribookings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of SafariBookings.com
 
@@ -185,7 +185,7 @@ Script: Unknown
 [More info](https://support.google.com/google-ads/answer/1722022) |  Unknown   
 [Facebook](https://www.facebook.com/) |  Tracking pixel  | A tracking pixel employed by Facebook and used for conversion tracking, remarketing and profiling.  
 [More info](https://www.facebook.com/business/help/651294705016616) |  Unknown   
-[Switch on all advertising and social media cookies](https://www.safaribookings.com/cookie-settings?adsocial=on) [Switch on all advertising and social media cookies](https://www.safaribookings.com/cookie-settings?adsocial=on)
+[Switch off all advertising and social media cookies](https://www.safaribookings.com/cookie-settings?adsocial=off) [Switch off all advertising and social media cookies](https://www.safaribookings.com/cookie-settings?adsocial=off)
 
 
 
