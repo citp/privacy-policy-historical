@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autobacklinkbuilder.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823011517id_/https%3A//kokoshungsan.net/terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobacklinkbuilder.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401095311id_/https%3A//kokoshungsan.net/terms-and-privacy-policy) for the most accurate reproduction.*
 
-# Terms and Privacy Policy | Kokoshungsan Ltd | The fun never stops.
+# Terms and Privacy Policy | KOKOSHUNGSAN-Marketing Solution & Multiple Income Sources
 
 ## Kokoshungsan Ltd. Terms of Service and Privacy Policy
 
