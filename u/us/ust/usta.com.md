@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007224558id_/https%3A//www.usta.com/en/home/about-usta/who-we-are/national/usta-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401100702id_/https%3A//www.usta.com/en/home/about-usta/who-we-are/national/usta-privacy-policy.html) for the most accurate reproduction.*
 
 # USTA Privacy Policy
 
@@ -92,11 +92,28 @@ Attention: Advanced Media Dept.- California Privacy Compliance
 
 White Plains, NY 10604
 
+### International Users
+
+_Users Outside the United States_
+
+The USTA is the national governing body for the sport of tennis in the United States.   This site is directly solely towards users who reside in the United States.  If you choose to use this website from outside the United States, you are consenting to the collection, storage, processing, and transfer of your information in and to the United States, pursuant to the laws of the United States. 
+
+Notwithstanding the forgoing, the USTA will, honor the following requests from users:
+
+\- If the processing of personal data is based on your consent, the right to withdraw consent for future processing of that data.
+
+\- The right to request from USTA access to and rectification of your personal data.
+
+\- Subject to reasonable limitations, the right to request restriction of the processing of your personal data.
+
+\- Subject to reasonable limitations, the right to request erasure of your personal data.
+
+You may contact USTA using any of the methods described in the “How to Contact Us” section of this Policy.
+
 ### Do Not Track Signals
 
 Some browsers have incorporated a Do Not Track (DNT) feature. These features, when turned on, send a signal that you prefer that the website you are visiting not collect and use data regarding your online searching and browsing activities. As there is not yet a common understanding on how to interpret the DNT signal, we currently do not respond to DNT signals on our site.
 
 ### Changes to This Privacy Policy
 
-If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on and is effective as of 7/6/16.  
-
+If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on and is effective as of 5/14/18.
