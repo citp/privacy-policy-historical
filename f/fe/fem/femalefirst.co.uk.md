@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202191840id_/https%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femalefirst.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401175457id_/https%3A//www.femalefirst.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,7 +84,7 @@ Adverts| various| Our advertisers may use cookies to serve you with adverts base
 Site Cookie Acceptance | cookietab-last-shown-time  
 cookietab-consent | These cookies are used to record if a user has accepted the use of cookies on this website | Yes | n/a  
   
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20181202191840id_/https://www.femalefirst.co.uk/privacy-policy/www.allaboutcookies.org).
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20190401175457id_/https://www.femalefirst.co.uk/privacy-policy/www.allaboutcookies.org).
 
 The Business does not use Cookies to store information such as credit card numbers, telephone numbers, or other information you provide. 
 
