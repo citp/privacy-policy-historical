@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lerablog.org privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723231007id_/https%3A//lerablog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lerablog.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401203234id_/https%3A//lerablog.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - Lera Blog
 
 We value the privacy and security of the information that you share with us. This Privacy Policy describes how we collect, use, share, protect and process your information. Any information that you provide to us is used strictly to process and fulfill your purchase and/or for internal analytical purposes, as described in this Privacy Policy. We only share information for the purposes set out in this Privacy Policy, and we will not sell or redistribute any of your information to any third party. We use commercially reasonable efforts to protect your information from unauthorized disclosure. We may use the information from your order to process your purchase, provide a refund, provide customer service, improve or customize our products and services or fulfill applicable financial, tax, legal or compliance requirements.
 
