@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icracked.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202204137id_/https%3A//www.icracked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icracked.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401031936id_/https%3A//www.icracked.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iCracked
 
