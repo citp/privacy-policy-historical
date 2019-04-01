@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugaltheme.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908173409id_/https%3A//cobaltapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugaltheme.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401105142id_/https%3A//cobaltapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cobalt Apps
 
@@ -10,19 +10,19 @@
 
       * ### Wordpress Stats and Google Analytics
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Commercial affiliation
 
       * ### ShareAsale
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Contacting the User
 
       * ### Mailing list or newsletter
 
-Personal Data: email address, first name and last name
+Personal Data: email address; first name; last name
 
     * ### Handling payments
 
@@ -32,9 +32,9 @@ Personal Data: various types of Data as specified in the privacy policy of the s
 
     * ### Managing contacts and sending messages
 
-      * ### MailChimp
+      * ### Mailchimp
 
-Personal Data: email address, first name and last name
+Personal Data: email address; first name; last name
 
 
 
@@ -43,8 +43,7 @@ Personal Data: email address, first name and last name
 
   *     * ### Selling goods and services online
 
-The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.
-
+The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.  
 The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by this Website depends on the payment system used.
 
 
@@ -68,7 +67,7 @@ Cobalt Apps, LLC - 2220 Pommel Drive Roanoke, VA 24018
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Website collects, by itself or through third parties, there are: email address, first name, last name, Cookies and Usage Data. 
+Among the types of Personal Data that this Website collects, by itself or through third parties, there are: email address; first name; last name; Cookies; Usage Data. 
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.  
@@ -142,7 +141,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 
 Wordpress Stats is an analytics service provided by Automattic Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://automattic.com/privacy/). 
 
@@ -151,7 +150,7 @@ Place of processing: United States – [Privacy Policy](https://automattic.com/p
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). Privacy Shield participant. 
 
@@ -165,7 +164,7 @@ For details of which data are collected, please refer to the privacy policy of e
 
 ShareAsale is a banner commercial affiliation service provided by ShareAsale.com Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.shareasale.com/PrivacyPolicy.pdf). 
 
@@ -175,7 +174,7 @@ Place of processing: United States – [Privacy Policy](https://www.shareasale.c
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Website. Your email address might also be added to this list as a result of signing up to this Website or after making a purchase.
 
-Personal Data collected: email address, first name and last name. 
+Personal Data collected: email address; first name; last name. 
 
   * ### Handling payments
 
@@ -203,11 +202,11 @@ Place of processing: United States – [Privacy Policy](https://stripe.com/terms
 This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
 These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
 
-#### MailChimp (The Rocket Science Group, LLC.)
+#### Mailchimp (The Rocket Science Group, LLC.)
 
-MailChimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
+Mailchimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
 
-Personal Data collected: email address, first name and last name. 
+Personal Data collected: email address; first name; last name. 
 
 Place of processing: United States – [Privacy Policy](https://mailchimp.com/legal/privacy/). Privacy Shield participant. 
 
