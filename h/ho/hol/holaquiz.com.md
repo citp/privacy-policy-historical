@@ -1,43 +1,98 @@
-> *The following text is extracted and transformed from the holaquiz.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108184606id_/http%3A//holaquiz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holaquiz.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401025515id_/https%3A//holaquiz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HolaQuiz
+# How much do your friends know you? Create your HolaQuiz!
 
 #### Privacy Policy
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site www.holaquiz.co. The following discloses the information gathering and dissemination practices for this Web site. 
+This privacy policy is encapsulated to make users aware of their 'Personally Identifiable Information' (PII) that can be used online. PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. In order to understand how our website uses your Personally Identifiable Information, please read our privacy policy carefully. It will help you to have a clear picture of how we collect, use, protect or otherwise handle your PII.
 
-#### Personal data gathered by holaquiz.co
+Personal information collected by us, from the people that visit our website is stated as follows:
 
-We only gather the personal data that our users voluntarily give to us. holaquiz.co pledges to respect your privacy, at no time the users are “tracked” when they enjoy their experience on our website. Futhermore, if you use the Facebook connection when you log in on holaquiz.co, we gather data related to your account. Here is the list:   
-• Your name and your user name   
-• Profile picture   
-• Unique identifier of access to Facebook   
-• Gender, date of birth   
-• E-mail address 
+  1. We collect information from you while you play the quiz game, register on our site or fill out a form. When playing on our site, as obvious it is, you may be asked to enter your: name and select your region or choose language. You may, however, visit our site anonymously.
 
-#### How we use this Information
+  2. Double Dart Cookie: Google is a third party vendor who uses cookies to serve ads on our website. Google uses the DART cookie which helps in serving ads based on your visits to various sites on the Internet. You can opt out of the use of the DART cookie when you go to the Google ad and content network privacy policy here - [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads).
 
-We use this information, to generate result in each quiz related to each user and depend on his information. 
+  3. Use of Facebook social plugins & Facebook Re / Marketing Features
 
-#### Checking and access to personal data
 
-holaquiz.co permits you to check at any time the personal data that we have about you. You have the right to consult, correct and modify the personal data that we store. Personal data and their transfer to a third party In order to respect your personal data, holaquiz.co doesn’t communicate them to other companies. This measure is made to prevent a leak of data towards unknown or malicious entities. 
 
-#### Use of your personal data by holaquiz.co
+  * We use facebook social plugins to enhance our services. The plugins are usually recognizable by one of the Facebook logos (eg "f" on a blue tile or a "thumbs up" sign)
 
-In order to organize the website and offer Services more and more adapted, holaquiz.co only use your personal data to improve the website, its Services and its Contents. These data are gathered during you experience on holaquiz.co. The only other cases of use of your personal data are:   
-• A request from the legal authorities.   
-• The realization of advertising audits, just as the feedback from a group who has been the subject of an advertising campaign and/or a special offer.   
-• The aggregation of statistical data within the framework of an advertising campaign that finances our services. 
+  * Within our online offer are "Facebook pixels" and "App Analytics" functions (collectively referred to as "Facebook Re / Marketing Features") of the social network Facebook. With these functions, Facebook is able to target our visitors for the presentation of advertisements, so-called "Facebook Ads". Accordingly, we use Facebook Re / Marketing features to display the Facebook Ads we submit only to Facebook users as well as those Facebook users who might be interested in similar features (so-called "Lookalike Audiences"). This helps in keeping the Facebook Ads in line with the potential interest of users and are not annoying. We can also track the effectiveness of Facebook ads for statistical and market research purposes by seeing if users have been redirected to our site after clicking on a Facebook ad.
 
-#### Log Files :
+  * The data collected about you are anonymous to us, so do not give us any conclusions about the identity of the users. However, the data is stored and processed by Facebook, so that a connection to the respective user profile is possible. The processing of the data by Facebook is part of Facebook's data usage policy. For further information on the functioning of Facebook's Data Use Policy, use the link: [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php).
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track users movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+  * You may object and disable these functions by following the instructions on the usage-based advertising settings: https://www.facebook.com/settings?tab=ads or the contradiction on the page http://www.aboutads.info / choices or the EU side http://www.youronlinechoices.com explain. The settings are platform-independent, ie they are adopted for all devices, such as desktop computers or mobile devices.
 
-#### Advertisers :
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: [Google Adsense](http://www.google.com/policies/privacy/ads/) Please check their websites for respective privacy policies. 
 
-#### Cookies & 3rd Party Advertisements:
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html) We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+**When do we collect information?**
+
+We collect information from you when you or enter information on our site while starting a Quiz.
+
+**How do we use your information?**
+
+Any of the information we collect from you may be used in one of the following ways:
+
+  1. Your information helps us to personalize your experience better.
+
+  2. We constantly strive to improve our website offerings based on the information and feedback you give to us.
+
+  3. Your information helps us in improving the customer service and requests. 
+
+  4. We may send periodic emails regarding inquiries, and/or other requests or questions to the email address you provide to us in future.
+
+
+
+
+**How do we protect your information?**
+
+A variety of security measures are performed to maintain the safety of your personal information. We only provide simple playful quizzes. Our website never asks for credit card numbers. Neither does our site uses Malware Scanning.
+
+Your personal information (if any) is kept confidential and secured by safe networks and is only accessible to very few people who have exclusive access rights to such systems.
+
+**Are 'cookies' used by us?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. We only use cookies to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to better site experiences and tools in the future by compiling aggregate data about site traffic and site interaction.
+
+You can choose to turn off all cookies; also you can choose to have your computer warn you each time a cookie is sent. In order to do this go to your browser settings and look at your browser's Help Menu to learn the correct way to modify your cookies.
+
+**What if you disable cookies in your browser:**
+
+If a user disables the cookies, Some of the features that make your site experience more efficient may not be availed to you. 
+
+**Third-party disclosure**
+
+We assure you that we do not trade, sell, or otherwise transfer to outside parties your Personally Identifiable Information.
+
+**Third-party links**
+
+Occasionally, at our discretion, we may at sometimes offer third-party products or services on our website. All the third-party sites have separate and independent privacy policies. Therefore our website holds no responsibility or liability for the content and activities of these linked sites. Nonetheless, we welcome any feedback about these sites to protect the integrity of our website.
+
+**We have implemented the following:**
+
+Along with third-party vendors such as Google, our website uses first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers. All this is together to compile data regarding user interactions along with some ad impressions as well as other ad service functions because they relate to our website.
+
+Upon creation of this privacy policy, a link will be added on our homepage or as a minimum, on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
+
+**Any changes will be notified to you at : **
+
+  * Our Privacy Policy Page
+
+
+
+**Online Privacy Policy Only**
+
+The privacy policy stated above applies only to information collected through our website and not to information collected offline.
+
+**The users can change their personal information:**
+
+  * By chatting with us or by sending us a support ticket within 1 business day.
+
+
+
+
+**Contact Us**
+
+For any further questions and queries regarding this privacy policy, you may contact us on contactholaquiz@gmail.com
