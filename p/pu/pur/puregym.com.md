@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212110546id_/https%3A//www.puregym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401065218id_/https%3A//www.puregym.com/privacy) for the most accurate reproduction.*
 
 # Privacy | PureGym
 
@@ -10,7 +10,7 @@ Our Privacy Notice explains how we collect, use, share and protect your personal
 
 In addition when visiting our website we will provide you with “just in time” notices at the moment of data collection.
 
-If you have any queries about this Notice please contact us at PureGym Ltd, 4th Floor, Town Centre House, Merrion Centre, Leeds, LS2 8LY. Alternatively send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f19590859083948084948285b18184839496889cdf929e9c) or by using the contact form at our [Contact Us](https://web.archive.org/contact/ "Contact") page.
+If you have any queries about this Notice please contact us at PureGym Ltd, 4th Floor, Town Centre House, Merrion Centre, Leeds, LS2 8LY. Alternatively send an email to [datarequest@puregym.com](mailto:datarequest@puregym.com) or by using the contact form at our [Contact Us](https://web.archive.org/contact/ "Contact") page.
 
 The Data Controller in respect of this Privacy Notice is PureGym Ltd.
 
@@ -94,7 +94,7 @@ We will use your personal information to provide you with the services, products
 
 
 
-Where we process your personal data based on your consent you have the right to withdraw consent at any time, for example your consent to receive direct marketing. If you no longer want to receive marketing messages from us, please visit your profile section within the Member’s Area of the website where you can opt out. You can choose to opt out of all marketing or select your marketing preferences. Alternatively, if you are no longer a member, and wish to remove your consent to receive marketing content please contact by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c4a0a5b0a5b6a1b5b1a1b7b084b4b1b6a1a3bda9eaa7aba9)
+Where we process your personal data based on your consent you have the right to withdraw consent at any time, for example your consent to receive direct marketing. If you no longer want to receive marketing messages from us, please visit your profile section within the Member’s Area of the website where you can opt out. You can choose to opt out of all marketing or select your marketing preferences. Alternatively, if you are no longer a member, and wish to remove your consent to receive marketing content please contact by email to [datarequest@puregym.com](mailto:datarequest@puregym.com)
 
 We’ll store your information for as long as you are a Member of PureGym, or following cancellation and to meet legal requirements including financial audit, anti-fraud and money laundering regulations we will store your information for no more than 6 years from the last activity on the account. An ‘activity’ can be classified as access into a gym, a payment made on the membership account or a comment added to the membership following contact with PureGym. We may contact you about PureGym services during this 6 years if you haven’t opted out of receiving marketing communications from us.
 
@@ -104,14 +104,13 @@ We’ll store your information for as long as you are a Member of PureGym, or fo
 
 PureGym uses cookies (small text files stored in your browser) and other techniques such as web beacons (small, clear picture files used to follow your online activities). These collect information that tells us how you use our websites, web-related products and services. The use of cookies does not give us access to the rest of your computer.
 
-This, in turn, helps us make our website relevant to your interests and needs. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details so we can recognise you if you visit our website again. 
+This, in turn, helps us make our website relevant to your interests and needs. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details so we can recognise you if you visit our website again.
 
 You can choose to refuse cookies, or set your browser to let you know each time a website tries to set a cookie. You can [find out more information about cookies](https://web.archive.org/cookies/ "Cookies") including information on how to turn them off.
 
 Please note however that if you disable our cookies you may not be able to access certain services or facilities on our sites and your use of our sites may be restricted. This could include joining or logging in to your members area.
 
-See our [cookies policy.](https://web.archive.org/cookies/ "Cookies")  
-
+See our [cookies policy.](https://web.archive.org/cookies/ "Cookies")
 
 * * *
 
@@ -142,19 +141,19 @@ If we’re reorganised or sold to another organisation, we may transfer any pers
 
 #### USE OF PERSONAL DATA FOR AUTOMATIC DECISION MAKING
 
-We do not intend to use your personal data for automatic decision making. 
+We do not intend to use your personal data for automatic decision making.
 
 * * *
 
 #### THIRD PARTY TRACKING
 
-We use tools such as Google Analytics for collecting personal data about our website visitor’s online activities over time and across different web sites for marketing purposes. This is so we can ensure our website gives you the best possible experience. For more information and how to opt out from this please visit our [cookies policy](https://web.archive.org/cookies/ "Cookies"). 
+We use tools such as Google Analytics for collecting personal data about our website visitor’s online activities over time and across different web sites for marketing purposes. This is so we can ensure our website gives you the best possible experience. For more information and how to opt out from this please visit our [cookies policy](https://web.archive.org/cookies/ "Cookies").
 
 * * *
 
 #### DO NOT TRACK (DNT)
 
-The PureGym website does not respond to DNT signals. 
+The PureGym website does not respond to DNT signals.
 
 * * *
 
@@ -168,7 +167,7 @@ PureGym does not collect or process children’s data.
 
 You have the following rights in relation to your data privacy: the right of access; the right of rectification; the right of erasure (the “right to be forgotten”); the right to restriction of processing; the right to be notified; the right to data portability; the right of objection; and the right to not be subject to automated profiling.
 
-**Access**.  You have the right to ask for a copy of the information we hold about you and to have any inaccuracies in your information corrected. Please contact us through email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#debabfaabfacbbafabbbadaa9eaeabacbbb9a7b3f0bdb1b3), the contact us section of the website or writing to the address below. There is not normally a fee for this service.
+**Access**.  You have the right to ask for a copy of the information we hold about you and to have any inaccuracies in your information corrected. Please contact us through email to [datarequest@puregym.com](mailto:datarequest@puregym.com), the contact us section of the website or writing to the address below. There is not normally a fee for this service.
 
 **Rectification**.  If you believe we’re holding inaccurate information about you, or your personal details change, please update your profile on the PureGym website in the member’s area. Debit, Credit and Bank account changes can be made in your members area on the PureGym website.
 
@@ -184,10 +183,10 @@ You have the following rights in relation to your data privacy: the right of acc
 
 **Profiling**.  You have the right not to be subject to any decision based on automatic processing of your personal data.
 
-The address to be used to obtain a copy of your personal information is: PureGym Ltd, 4th Floor, Town Centre House, Merrion Centre, Leeds, LS2 8LY. You can also contact us by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afcbcedbceddcadedacadcdbefdfdaddcac8d6c281ccc0c2)
+The address to be used to obtain a copy of your personal information is: PureGym Ltd, 4th Floor, Town Centre House, Merrion Centre, Leeds, LS2 8LY. You can also contact us by emailing [datarequest@puregym.com](mailto:datarequest@puregym.com)
 
 * * *
 
 #### CHANGES TO THIS PRIVACY NOTICE
 
-We will update this privacy notice to reflect the way in which we process and protect your data. If we do so, we will post notice of the change on our website and you will have the opportunity to adjust your communications preferences via your Member Profile within the Members Area of the website. 
+We will update this privacy notice to reflect the way in which we process and protect your data. If we do so, we will post notice of the change on our website and you will have the opportunity to adjust your communications preferences via your Member Profile within the Members Area of the website.
