@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218221457id_/http%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401181249id_/https%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
 
-# Citizens Information
+# Privacy and Cookies
 
 
 
@@ -109,4 +109,4 @@ _**Page edited:** 8 August 2018 _
 
 ### Contact Us
 
-If you have a question relating to this topic you can contact the Citizens Information Phone Service on [0761 07 4000](tel:0761074000) (Monday to Friday, 9am to 8pm) or you can visit your local [Citizens Information Centre](https://centres.citizensinformation.ie/).
+If you have a question relating to this topic you can contact the Citizens Information Phone Service on [0761 07 4000](tel:0761074000) (Monday to Friday, 9am to 8pm) or you can visit your local [Citizens Information Centre](http://centres.citizensinformation.ie/).
