@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidapksfree.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226015656id_/https%3A//www.androidapksfree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidapksfree.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401044839id_/https%3A//androidapksfree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AndroidAPKsFree
 
@@ -16,7 +16,7 @@ An anonymized string created from your email address (also called a hash) may be
 
 ### Contact forms
 
-If you contact us by our contact form available [here](https://www.androidapksfree.com/contact/), you have to provide us your name, email address and choose a subject why you are contacting us and your message. Your email address will not be published. The information provided through the contact form will not be used for any marketing purposes, it will just be used to reach out to you regarding your message.
+If you contact us by our contact form available [here](https://androidapksfree.com/contact/), you have to provide us your name, email address and choose a subject why you are contacting us and your message. Your email address will not be published. The information provided through the contact form will not be used for any marketing purposes, it will just be used to reach out to you regarding your message.
 
 ### Analytics and log files
 
@@ -79,4 +79,4 @@ Visitor comments may be checked through an automated spam detection service.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact [at] androidapks.com
 
-You can reach us about your privacy concern using our [contact form](https://www.androidapksfree.com/contact/) and choose the subject “Privacy Concern”. You may also email us directly at the email address provided above.
+You can reach us about your privacy concern using our [contact form](https://androidapksfree.com/contact/) and choose the subject “Privacy Concern”. You may also email us directly at the email address provided above.
