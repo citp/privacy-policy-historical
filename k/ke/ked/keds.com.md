@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keds.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202225027id_/https%3A//www.keds.com/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keds.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401021718id_/https%3A//www.keds.com/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Keds Privacy Policy
 
