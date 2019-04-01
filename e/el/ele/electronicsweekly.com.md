@@ -1,113 +1,107 @@
-> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311203638id_/https%3A//www.electronicsweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401061019id_/https%3A//www.electronicsweekly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Electronics Weekly Magazine
+# Privacy Policy Archives | Electronics Weekly
 
-**METROPOLIS INTERNATIONAL GROUP LIMITED**
+Metropolis Group (Metropolis Group Holdings Ltd) is a media group with a number of media brands which are shown on its website [www.metropolis.co.uk](http://www.metropolis.co.uk/).  Our principal business activities involve the creation and delivery of information to businesses and consumers through organising events, conferences, exhibitions, publishing magazines, delivering content digitally through our websites and by email and the provision of ad hoc marketing services to our customers.
 
-**CUSTOMER PRIVACY POLICY**
+The following companies in our group (with company registration number) are data controllers:
 
-This Customer Privacy Policy governs the collection and use of personal information relating to potential and existing customers of Metropolis International Group Limited (“Metropolis”) by the company and any company within Metropolis group of companies. For more information about Metropolis please see: [www.metropolis.co.uk](http://www.metropolis.co.uk/ "www.metropolis.co.uk").
+Metropolis International Group Limited – 02916515
 
-Metropolis is committed to abiding by this Customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled.
+Innovare Media Limited - 0781637
 
-For the purpose of the Data Protection Act 1998, the data controller is Metropolis International Group Limited of 140 Wales Farm Road, London W5 6UG.
+MPI Media Limited - 486758
 
-By your continued use of our services (including our web sites), you consent to the collection and use of your personal information for the purposes set out in this Customer Privacy Policy.
+Diamond Publishing Limited - 04611236
 
-**COLLECTION AND USE OF PERSONAL INFORMATION**
+EMAP Publishing Limited - 07880758
 
-Usually, we collect personal information about you which we require to respond to your enquiries for payment processing and for the provision of goods and services to you. We also process your personal information where we are required to do so by law, and for the exercise or defence of legal claims. From time to time, we may contact you for research purposes, or to tell you about our special offers and other services in accordance with your contact preferences. Where appropriate, we will obtain your consent to do so. Personal information collected from you may include your name, payment processing information, postal address, email address, landline or mobile telephone number, delivery details as well as other non-sensitive personal information. If you use our web sites, we may also collect information about you or your computer when you browse to allow you to use the services available. Any information you provide will only be used in accordance with this privacy policy. If you do not wish to receive direct marketing materials you may opt out by contacting us (see below).
+The registered address of all of these companies is 7th Floor, Vantage London, Great West Road, London TW8 9AG except MPI Media which is Merchants Hall, 25/26 Merchants Quay, Dublin 8.
 
-**WEBSITE USAGE & COOKIES**
+Metropolis Group respects the privacy of every person for whom we have personal data [“data”]. We comply with data protection legislation such as the Data Protection Act 1998 and the General Data Protection Regulation which regulates the processing of data and ensures that your data is processed fairly and lawfully, is kept secure and only that data necessary for any processing is kept.
 
-If you are using our web sites, we will use your personal information to help you to log on to your account and into restricted areas of our web sites and to permit future use of the web sites. We may use your IP address to help diagnose problems with our server, or to administer our web sites. We may conduct analyses of user traffic to measure the use of our sites and to improve the content of our web sites and our services. These analyses will be performed through the use of IP addresses and cookies. We may also use cookies to enable the signing in process after you have registered with us and to provide you with more tailored information when you return to our web sites. A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you reject the use of cookies please note that the efficient operation of the web site that you are using may be affected. Most of the advertisements that you see on the web sites are generated by third parties who may use cookies to track viewing of their advertisements and for other purposes specified in their own privacy policies. We have no access to or control over these cookies (although we may use statistical information provided to us – not containing personal information – arising from these third party cookies to improve the targeting of advertisements to you and other users of the web sites). You can obtain further information about third party privacy policies or disable their cookies by visiting their web sites.
+This policy summarises the information we may collect about you and how we may use that data. We primarily collect data to provide you with services you have requested, to provide services likely to meet your needs, to improve services provided to you and to sell advertising space to help us provide many services free of charge. The policy tells you how we ensure the information we have is kept accurate and how you can request access, deletion, rectification, restriction, transfer and withdraw consent (where applicable) and make a complaint.
 
-**COOKIES POLICY**
+We have a number of businesses within the group and each may collect and use data about you in different ways.  _In the event that one of those businesses does use data other than detailed in this policy, it will publish its own policy on its own web site and you should refer to the privacy policy of that business and not this group policy._  Both at a business and group level we may update the privacy policy at any time without notice so please check back regularly so you are aware of any changes. This privacy policy is subject to our terms and conditions which are found on each business’s website.
 
-Your use of our web site indicates your consent to the cookies described in this policy.
+**_1\. What Information do we collect and how is this collected?_**
 
-**WHAT ARE COOKIES?**
+We only collect personal information if we have your permission, or we have reasonable commercial reasons for doing this, such as collecting information to process event registrations or to supply you with services. We will only collect the minimum amount of information we need to do these things.
 
-A web cookie, a commonly used data collection technology, is simply a piece of text which can be placed on the browser of your personal computer or mobile device and subsequently read as you visit a web site.  A cookie may be a session cookie, that is, a cookie that remains on your browser while you are logged on to a particular web site and then disappears when you close your browser, or it may be a persistent cookie, a cookie that remains on your browser over a period of time.  Information from a cookie may be collected and used in aggregate form.  Or data may be collected into an individual profile or record.  That individual record may either be unique but anonymous, or the profile can be linked with information that identifies you as an individual.  
-You can learn more about cookies, generally, at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+We may collect some of the following data such as name, job title, company that employs you, home post code, email address, birthdate, telephone number, gender, purchasing preferences and history, content you post on our websites, and content you read on our websites plus various other data. This data may be collected when you order a service or product, use our websites (or a third-party website e.g. to pay for a subscription), post content to our websites, sign up for a newsletter or subscription, on completion of a survey, questionnaire or entry to a competition, or by communication to us by email, phone and by other means.
 
-**HOW DO WE USE COOKIES?**
+When you pay us, we will record details of the financial transaction but do not directly store your debit or credit card information. Online payments are made through our websites but are processed securely by a third-party payment provider: we only store the last 4 digits of your credit card number.
 
-We may use cookies for a number of purposes:
+If you use our website we may record your IP address, registration details and your browsing history such as the pages you have visited within our sites.  If you sign up for a newsletter we may track your response e.g. open a newsletter or click on a link in a newsletter or the pages you visit.
 
-  1. We may use a limited number of cookies essential to particular services you have requested or for security purposes. A few of our sites use a cookie for a shopping cart function when you purchase services or offerings. In particular, if you have registered for a site or use a customer portal we may use a cookie to authenticate the pc or mobile device that you are using.
-  2. We allow third parties to set analytics, or performance, cookies to collect and report aggregate information. These cookies provide reporting to us on an aggregate basis and so, do not identify you at all. We use the aggregate reports to understand how our web sites are used and improve their usefulness to our audiences.
-  3. A number of cookies also support how our web sites function, identifying your pc or end device on a unique but anonymous basis. These cookies may, for example, remember your language preferences or recognize an individual’s activity within a single session.
-  4. If you register for a site, we use a cookie to associate your presence with a specific user name and password or account. We may use a persistent cookie to recognize you automatically each time you return, but only if you ask us to do so. We may also use cookies to prepopulate your login or forms you fill out on the site with information you have already provided. Finally, we may use certain demographic information to enable third party ad servers (see below) to show you ads based on information about you in your business capacity, for example, your title within a company or the size of that company.
-  5. Some of sites may also allow third party ad servers to serve their own cookies to display advertising on our web sites. We do not determine, control or have access to their cookies.  In addition, some of the ads they serve may generate their own cookies.  We will list all cookies shortly so that you can review their privacy policies for more detail about their practices.
+For employees we keep personal data needed to recruit you, pay you, provide company benefits and to fulfil our legal obligations.
+
+We do not share personal data with third parties for marketing purposes, other than with the direct consent of the individual(s) which may be withdrawn at any time.
+
+**_2\. Cookies_**
+
+We use cookies to monitor web usage. Cookies are written to the hard drive of a web user, they contain no personal information about the website user and only keep a record of the sites visited and actions on the web site.  Some cookies expire after your browser is closed whilst others stay on your hard drive. They are of standard use across many websites. We use them on an aggregated information basis and to assess your areas of interest – they are used to identify the number of unique visitors to a site, to improve further web visits (store preferences, user name and your email address so you don’t need to reinput every time you visit) and to improve the user experience for you by, amongst other things, providing content based on your preferences.
+
+Most browsers offer you ways to control or block cookies should you wish to. These browser controls will usually be found in the “options” or “preferences” menu in your toolbar. The “help” portion of the toolbar on most browsers will tell you how to stop or manage cookies. Note that should all cookies be rejected we are unable to match site content appropriate to the preferences given to us by previous visits and you will not be able to fully utilise all of the web site features.  For further information on cookies visit [aboutcookies.org](http://aboutcookies.org/) or the Information Commissioner's webpage on cookies [ico.org.uk/for-the-public/online/cookies/](http://ico.org.uk/for-the-public/online/cookies/)
+
+**_3\. Legal basis for processing data_**
+
+Different legal bases are used which depend upon the purpose for processing your data.
+
+  * When data is provided when purchasing a product or service under a contract with you we process your data under contract necessity with the data being needed to fulfil the contract.
+  * When you sign up for a newsletter, an event or magazine subscription we process your data under consent
+  * Any additional processing i.e. sharing data with third parties, marketing to you on behalf of third parties is done through either consent or legitimate interest (you are provided with useful information by us in exchange for supplying your information (including personal data) and the relationship between us is balanced in your favour. You have the choice to opt out of processing under this basis).
+  * When you pay us, or we pay you, we only keep data as long as it is necessary to comply with the law.
 
 
 
-**HOW YOU CAN CONTROL COOKIES**
+**_4\. Use of personal data_**
 
-The cookies we use are an accepted part of ecommerce and important to your use of our websites. Performance cookies allow us to understand our audiences as a whole and improve how our sites meet your needs and expectations. Many of the functional cookies are basic to how our sites and services work. The cookies we use for registration allow us to conduct our business online. Our sites and services, or parts of them, may not work properly without these cookies.
+We will only use personal information for the purpose it was collected.  Should we ever wish to use it for another purpose we will contact you first asking you for your consent. We primarily use data to communicate with you, deliver the service you have requested, or services that might interest you (subject to your right to opt out with the details on how to do this found on each business website), to renew a subscription, improve our service, to verify your identity when taking payment or to meet legal, regulatory and compliance requirements.
 
-Your use of our websites indicates your consent to the cookies we have described in this Policy.  
-But if you should wish to revoke that consent, or any part of it, at any time you may control cookies and third party ad targeting in the following ways.
+Profiling – from time to time we may use some elements of the data you supply to target the messages we send you.  For example, we may use your location to send you information about an event which is happening in the same country, or we may use your company type or job title to send you a relevant news story.  We do not use this information to make automated decisions.
 
-**BROWSER CONTROLS**
+**_5\. How long do we keep your data for?_**
 
-Most modern browsers offer you ways to control or block cookies.  These browser controls will usually be found in the “options’ or “preferences” menu.  For more help, you may take a look at the “Help” settings or review these website for more details –<http://www.aboutcookies.org/Default.aspx?page=1>
+Data is not kept any longer than is required for the purposes of the processing or to comply with the law. As we collect data for many different purposes there is not a single retention period for all data. We instead carefully assess the length of time to retain data according to the processing purpose and to comply with our legal obligations. When data is no longer required for the purposes of the processing it is securely removed from our systems.
 
-**THIRD PARTY ADVERTISING AND TARGETING**
+**_6\. Security & Confidentiality_**
 
-Some of our sites use third party advertising and ad targeting. For ways to turn off third party ad targeting you may want to visit The Internet Advertising Bureau UK – <http://www.iabuk.net/>.
+Metropolis takes commercially reasonable physical, technical and administrative measures to protect personal information from theft, misuse or accidental destruction and to keep it confidential. We aim to protect personal information but cannot provide a 100% guarantee of security.  All employees and data processors (third parties who process data on our behalf) who access your data are obliged to keep the information confidential and secure and not to use it for any other purpose other than that they are contracted to carry out for us.
 
-You can find more information or turn off targeting by member companies at YourOnlineChoices UK, <http://www.youronlinechoices.com/uk>.
+**_7\. Transfer of data to third parties_**
 
-**THIS PRIVACY POLICY**
+We may use third party providers e.g. for web site hosting, web maintenance, email alerting, subscription fulfilment and taking payment. We share information with these third party to provide these services.  We collect broad statistical anonymised information on an aggregate basis, which doesn’t identify you personally, which we may provide to third parties to sell advertising. This allows us to provide content free of charge.  We will also share data with public or regulatory authorities where required by law or to enforce our terms of service.     We take reasonable commercial steps to ensure that your data is kept secure and confidential by any third party, is deleted when not needed for the purpose it was given, that their data privacy policies protect your data and that they only process your data on our instruction. We do not sell or rent your personal data, although we may transfer, sell or assign your data outside of our group to a third party if we merged, sold or reorganised all, of part, of the group. Your data will be processed fairly, lawfully and securely in the UK and will only be transferred outside of the European Union when there is protection in place for your rights and when the data will be kept secure.
 
-If our use of cookies changes, we will post the changes to this policy.  Please check frequently as online data collection practices and our use of them continue to evolve.  To contact us about this policy, you may email [webmaster@electronicsweekly.com](mailto:webmaster@electronicsweekly.com "webmaster@electronicsweekly.com"). When emailing please indicate which of our sites your question relates to.
+**_8\. Withdrawal of consent_**
 
-**THIRD PARTY**
+When you have provided consent, if you should wish to withdraw that consent, you can let us know by sending an email (details provided on the business website) or by emailing [dataprivacy@metropolis.co.uk](mailto:dataprivacy@metropolis.co.uki) including the email address and brand associated with your account and we will remove your data from our systems.
 
-We will only disclose personal information about you internally, which includes any member of the Metropolis Group and to third parties for processing purposes associated with payment processing, the supply of goods and services, for web site administration, or elsewhere when you have consented to such disclosures, or where such disclosures are required or permitted by law. These third parties we contractually bound only to use personal information to perform the services that we hire them to provide. Where you have specifically agreed that we may do so, we may lease or rent your personal information to selected third parties for their postal marketing use.
+**_9\. Restriction of liability_**
 
-**TRANSFER OF DATA**
+Our websites link to other websites. Metropolis is not responsible for the privacy policies of those websites nor does it have or accept any liability for their content.
 
-Third party data processors, advertisers, exhibitors and other such business relationships outside of the EEA, are required to take adequate technical and organisational safeguards to protect personal information.
+**_10\. Legal information and how to contact us_**
 
-**LEAD GENERATION PRODUCTS** In the case of your use of one of our LEAD GENERATION products, e.g.  Directory Sites, Webinars, videos requiring registration etc, we may pass the information you provide to third parties. Generally this will be via a process whereby you, as the user, interact with a third party eg:  click on an asset branded and provided by a third party. In some instances, for example, a products listing site, you may reach out directly to a supplier or exhibitor who may contact you in return. In other instances our lead generation products are sponsored and, in such cases the data you provided to us will be given to the sponsor. Generally, we will let you know at the time of collection if a product is sponsored.
+You have the right to see, erase and correct data we hold, the right to restrict the processing we do, and the right to object to it and to have your data transferred to a third party. If you wish to do any of these things or have any questions about how we use your data, or wish to make a complaint about any privacy issues, please contact the Group Data Privacy Lead – Richard Hutchinson at [richard.hutchinson@metropolis.co.uk](mailto:richard.hutchinson@metropolis.co.uk) or write to him at :
 
-If you wish to change your contact preferences with an individual exhibitor/sponsor, please follow their own unsubscribe request details.  Unsubscribing to the Metropolis will stop Metropolis from contacting you in the future, but not the individual 3rd parties whom you have interacted with.
+Richard Hutchinson
 
-We take your contact preferences very seriously. If you would prefer for your details not to be passed to any 3rd parties as laid out in this section, you are advised not to register for the virtual product.
+Group Data Privacy Lead
 
-**EMAIL CAPTURE**
+Metropolis International Group Limited
 
-Metropolis may from time to time send updates about this product and other relevant Metropolis products and services.  Your email will not be given to 3rd parties unless you have given your explicit consent for us to do so. By providing your email address you consent to being contacted by email for direct marketing purposes by Metropolis. Some of which will contain third party advertising.
+7th Floor
 
-**MOBILE PHONE CAPTURE**
+Vantage London
 
-Metropolis may from time to time contact you about this product and other relevant Metropolis products and services.  By providing your mobile number you consent to being contacted for direct marketing purposes via voice calls or SMS by Metropolis.
+Great West Road
 
-**SECURITY OF PERSONAL INFORMATION**
+London TW8 9AG
 
-We use administrative, technical, and physical measures to safeguard personal information against loss, theft and unauthorised  uses, access or modifications. Certain areas of our web sites may be password protected. If you are a user of our web sites and have a password, you can help to preserve your privacy by ensuring that you do not share your password with anyone else. Payments made via our web sites or other third party providers are processed in a secure environment.
+Requests will be dealt with and responded to within a reasonable period, and no longer than 30 days. If you are not satisfied with the way your request was handled you have the right to lodge a complaint with the supervisory authority – details of which are given below:
 
-We take steps to regularly validate the personal information we hold to ensure that the information is accurate and, where necessary, up to date. Information that is no longer required for any valid business purpose, and that we are not required to keep pursuant to any applicable law, will be routinely destroyed by secure means.
+Information Commissioner’s Office
 
-**MAKING AUTOMATED DECISIONS**
-
-We do not ordinarily use personal information for the purposes of automated decision making. However, we may do so in order to fulfil compelling obligations imposed by law, in which case we will inform of any such processing and provide you with an opportunity to object.
-
-**ACCESS TO PERSONAL INFORMATION**
-
-We want to ensure that any personal information you provide through our websites remains accurate. At your request, we will inform you of the information that we hold about you that was collected from our website. You may update personal information that we hold about you by contacting us as detailed below.
-
-**CONTACTING US**
-
-If you have any questions about this privacy policy, you can email [webmaster@electronicsweekly.com](mailto:webmaster@electronicsweekly.com "webmaster@electronicsweeekly.com")
-
-or write to the Data Manager, Metropolis International, 6th Floor, Davis House, Robert Street, Croydon CR0 1QQ.
-
-**CHANGES TO PRIVACY POLICY**
-
-We reserve the right to add to or amend this privacy policy at our sole discretion, without prior notice to you. Please review our privacy policy on a regular basis to make sure you have read the latest version and you understand what we do with your personal information. Your continued use of our services or our web sites following the posting of changes to these terms means that you consent to those changes.
-
-**This version of the privacy policy is effective as of 22 November 2013**
+<https://ico.org.uk/concerns/>  
+Telephone: +44 303 123 1113
