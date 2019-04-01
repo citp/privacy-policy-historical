@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the euromonitor.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925164846id_/https%3A//www.euromonitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euromonitor.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401135228id_/https%3A//www.euromonitor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Euromonitor International Ltd
 
- **Updated: 21st May 2018**
+ **Updated: 25th  January 2019**
 
-Euromonitor International Ltd (?we?, ?us?, ?our?, as applicable) takes your privacy seriously. This privacy policy describes how Euromonitor International Ltd collects, processes and stores your personal information when you use our services, websites, social media pages, applications, products or software, the purposes for which it is used and with whom it is shared.
+Euromonitor International Ltd (we, us, our, as applicable) takes your privacy seriously. This privacy policy describes how Euromonitor International Ltd collects, processes and stores your personal information when you use our services, websites, social media pages, applications, products or software, the purposes for which it is used and with whom it is shared.
 
-For current and past employees our Workforce Privacy Policy relating to how we collect, process and store personal information of our staff can be found [here](https://cdn.media.euromonitor.com/medialibrary/pdf/WorkforceDataPrivacyNotice-24thMay2018_636638854234429666.pdf).
+For current and past employees our Workforce Privacy Policy relating to how we collect, process and store personal information of our staff can be found [here](https://go.euromonitor.com/rs/805-KOK-719/images/Workforce%20Data%20Privacy%20Notice%20-%20Jan%2025%202019.pdf).
 
 This policy was last updated on the date that appears at the top of this page.
 
 #### 1.     Who we are
 
-For the purposes of data protection law, Euromonitor International Ltd is the ?controller? of the personal information it collects from you.  This means that it decides why and how your personal information is processed and is responsible for that processing.
+For the purposes of data protection law, Euromonitor International Ltd is the controller of the personal information it collects from you.  This means that it decides why and how your personal information is processed and is responsible for that processing.
 
 Our Data Protection Team is responsible for responding to queries relating to this privacy policy. If you have any questions about this privacy policy, including any requests related to your personal information, please contact our Data Protection Team using this email address: [DataProtection@euromonitor.com](mailto:DataProtection@euromonitor.com).
 
@@ -90,7 +90,7 @@ We process your personal information for the following purposes on the basis tha
 
   *  **Account setup and administration** : We use your personal information such as your name, email and domain address, phone number, and information to set up and administer your account, provide technical and customer support and training, verify your identity, and send important account, subscription, and Service information.
   *  **Chat rooms, messaging, community and event forums** :  When you use our chat rooms, messaging, community and event forums we may collect details of visits made including, but not limited to the number of visits, logs, IP address which are only used for in-house analysis to improve the user experience and service performance. Personal information and other user information collected by our chat rooms and forums are used in order to complete your registration and at the same time to ensure access to our Services and products. Any personal information provided in connection with the correspondence between you and Euromonitor International Ltd, for example to report a problem with our products or raise a query or comment shall be used strictly to reply to you.
-  *  **Hosted services** :  Some of our services provide data and document storage as an integral part of the product or solution offering. Documents and data stored by our customers may contain personal information or information classified as ?confidential? by the organisation you work for or are affiliated with. Any information stored by or on behalf of our customers is controlled and managed by and only made accessible to those customers or others our customers may authorise from time to time. Our access to this information is limited to Euromonitor International Ltd personnel with a critical business reason.
+  *  **Hosted services** :  Some of our services provide data and document storage as an integral part of the product or solution offering. Documents and data stored by our customers may contain personal information or information classified as "confidential" by the organisation you work for or are affiliated with. Any information stored by or on behalf of our customers is controlled and managed by and only made accessible to those customers or others our customers may authorise from time to time. Our access to this information is limited to Euromonitor International Ltd personnel with a critical business reason.
   *  **Personalisation** : We use your personal information to deliver and suggest tailored content to personalise your experience with our services and websites.
 
 
@@ -145,74 +145,31 @@ Euromonitor International Ltd only shares or discloses personal information when
 
 We may share your information with our third party service providers, agents, subcontractors and other organisations (as listed below) for the purposes of providing services to us or directly to you on our behalf.   
 
-  Recipient / relationship to us
+  *  Recipient / relationship to us 
+  * Industry sector (& sub-sector)   
+  * Accountancy services   
+  * Professional services (accountancy)   
+  * Advertising/digital agencies   
+  * Marketing (advertising and digital)   
+  * Banks, payment processors and financial services providers   
+  * Financial (banking)   
+  * Cloud storage providers   
+  * IT (cloud services)   
+  * Direct marketing service providers   
+  * Marketing (direct marketing)   
+  * Financial auditing services   
+  * Audit (financial)   
+  * Government tax administration offices   
+  * Government (tax)   
+  * IT support service providers   
+  * IT (support and maintenance)   
+  * Legal advisers 
+  * Professional services (legal services)   
+  * On-site security access control services   
+  * Security (on-site)
 
-| 
 
-  Industry sector (& sub-sector)  
-  
----|---  
-  
-   Accountancy services
 
-| 
-
-   Professional services (accountancy)  
-  
-   Advertising/digital agencies
-
-| 
-
-   Marketing (advertising and digital)  
-  
-   Banks, payment processors and financial services providers
-
-| 
-
-   Financial (banking)  
-  
-   Cloud storage providers
-
-| 
-
-   IT (cloud services)  
-  
-   Direct marketing service providers
-
-| 
-
-   Marketing (direct marketing)  
-  
-   Financial auditing services
-
-| 
-
-   Audit (financial)  
-  
-   Government tax administration offices
-
-| 
-
-   Government (tax)  
-  
-   IT support service providers
-
-| 
-
-   IT (support and maintenance)  
-  
-   Legal advisers
-
-| 
-
-   Professional services (legal services)  
-  
-   On-site security access control services
-
-| 
-
-   Security (on-site)  
-  
 The recipients mentioned above are located in the European Economic Area and the USA. 
 
 When we use third party service providers, we only disclose to them any personal information that is necessary for them to provide their service and we have a contract in place that requires them to keep your information secure and not to use it other than in accordance with our specific instructions.
@@ -279,7 +236,7 @@ When we no longer need your personal information, we securely delete or destroy 
 
 #### 10.  Your right regarding your personal information
 
-The European Union?s General Data Protection Regulation and other applicable data protection laws provide you with rights over your personal information.
+The European Union's General Data Protection Regulation and other applicable data protection laws provide you with rights over your personal information.
 
 Euromonitor International Ltd respects your right to access and control your information, and we will respond to requests for information and, where applicable, will correct, amend, or delete your personal information. Please remember, that on occasions your personal information may have been shared with you by your employer or by other organisations, such as educational institutions, to which you belong, if they use our services and products.
 
@@ -288,16 +245,16 @@ If you wish to exercise any of your rights listed below, please contact our Dat
   *  **Information regarding processing** : You have the right to be informed about why, how and by whom your personal information is processed (which is what this policy sets out to do).
   *  **Access to personal information** : If you request access to a copy the personal information we hold about you, we will gladly comply, subject to any relevant legal requirements and exemptions, including completing our identity verification procedures. Before providing data to you, we will ask for proof of identity and sufficient information about your interaction with us so that we can locate any relevant data.
   *  **Request correction** : You have the right to correct or amend your personal information if it is inaccurate or requires updating.
-  *  **Request deletion** :  You have the right to request deletion of your personal information; however, this is not always possible due to legal requirements and other obligations and factors. Remember that you can update your account information by using the ?Contact Us? option within the relevant service.
-  *  **Object to processing** :  If you object to the processing of your personal information, or if you have provided your consent to processing and you later choose to withdraw it, we will respect your choice in accordance with our legal obligations. In relation to **Marketing preferences** : You can opt out of email marketing, you can use the unsubscribe link found in the email communication you receive from us or visit the applicable email preference centre. For other marketing preferences, you can use the ?Contact Us? option within the relevant Service. Please see further Marketing above. Please see also information related to controlling cookies, which is located in our [Cookies Policy](http://www.euromonitor.com/cookie-policy). 
+  *  **Request deletion** :  You have the right to request deletion of your personal information; however, this is not always possible due to legal requirements and other obligations and factors. Remember that you can update your account information by using the "Contact Us" option within the relevant service.
+  *  **Object to processing** :  If you object to the processing of your personal information, or if you have provided your consent to processing and you later choose to withdraw it, we will respect your choice in accordance with our legal obligations. In relation to **Marketing preferences** : You can opt out of email marketing, you can use the unsubscribe link found in the email communication you receive from us or visit the applicable email preference centre. For other marketing preferences, you can use the "Contact Us" option within the relevant Service. Please see further Marketing above. Please see also information related to controlling cookies, which is located in our [Cookies Policy](http://www.euromonitor.com/cookie-policy). 
   *  **Restriction of processing** :  You can ask us to suspend the processing of your personal information if you want us to establish the accuracy of the information; where our use of the information is unlawful but you do not want us to erase it; where you need us to hold the information even if we no longer require it as you need it to establish, exercise or defend legal claims; and you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
-  *  **Request personal information transfer (?data portability?)** :  We will provide to you, or a third party you have chosen, your personal information in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+  *  **Request personal information transfer ("data portability")** :  We will provide to you, or a third party you have chosen, your personal information in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
   *  **Automated decision making** : We will only make a decision that may significantly affect you (and for which we use only automated processing) in the ways the law permits and that are described in this privacy policy.  Where we are permitted to make such a decision in these ways, you may contest that decision by emailing [DataProtection@euromonitor.com](mailto:DataProtection@euromonitor.com).
   *  **Withdraw consent at any time** : You have the right to withdraw your personal information where we are relying on consent to process it. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
 
 
-Making a complaint: If you are not satisfied with how Euromonitor International Ltd manages your personal information, you have the right to make a complaint to a data protection regulator in Europe, in particular in a country you work or live or where your legal rights have been infringed.  The contact details for the Information Commissioner?s Office ( **ICO** ), the data protection regulator in the UK, are available on the [ICO website](https://ico.org.uk/). A full list of National personal information Protection Authorities can be found here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.  Where your personal information has or is being used in a way that you believe does not comply with data, however, we encourage you to contact us before making any complaint and we will seek to resolve any issues or concerns you may have.
+Making a complaint: If you are not satisfied with how Euromonitor International Ltd manages your personal information, you have the right to make a complaint to a data protection regulator in Europe, in particular in a country you work or live or where your legal rights have been infringed.  The contact details for the Information Commissioner"s Office ( **ICO** ), the data protection regulator in the UK, are available on the [ICO website](https://ico.org.uk/). A full list of National personal information Protection Authorities can be found here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.  Where your personal information has or is being used in a way that you believe does not comply with data, however, we encourage you to contact us before making any complaint and we will seek to resolve any issues or concerns you may have.
 
 #### 11.  Links to third party websites
 
