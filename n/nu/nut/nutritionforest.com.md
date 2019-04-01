@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nutritionforest.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002103632id_/https%3A//www.nutritionforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionforest.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401061801id_/https%3A//nutritionforest.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nutrition Forest
+# Privacy Policy – Nutrition Forest
 
 ### Privacy Policy
 
