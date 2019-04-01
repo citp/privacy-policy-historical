@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkpics.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103232717id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkpics.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401164355id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
 
 # AMKINGDOM Privacy Policy
 
@@ -72,4 +72,4 @@ If you have any questions about this Privacy Policy, or if you otherwise need to
 
 Please send your e-mail to: [support@amkingdom.com](mailto:support@amkingdom.com)
 
-� Kingdom World Wide Web Operations, Inc. (2005) 
+© Kingdom World Wide Web Operations, Inc. (2005) 
