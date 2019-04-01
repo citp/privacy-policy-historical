@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uslegal.com privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807202919id_/https%3A//uslegal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uslegal.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401052154id_/https%3A//uslegal.com/privacy) for the most accurate reproduction.*
 
 # Privacy – USLegal, Inc.
 
