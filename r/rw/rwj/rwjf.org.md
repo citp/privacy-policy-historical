@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227214654id_/https%3A//www.rwjf.org/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401162945id_/https%3A//www.rwjf.org/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - RWJF
 
@@ -8,7 +8,7 @@
 
 This Privacy Policy (“Privacy Policy”) describes (a) how the Robert Wood Johnson Foundation (the “Foundation,” “we,” “us,” or “our”), either directly or through Service Providers (as defined below), collects information from you in connection with your use of the Sites (as defined below), (b) how we use and disclosure your information, and (c) the choices available to you regarding our use of your information and how you can access and update this information.
 
-In the event any of the individual Sites has additional privacy terms, whether posted by us or the owner/administrator of the Site in question, your use of such Site also is subject to such privacy policy(ies). This Privacy Policy does not apply to the information collected through our grant application or review process, which is subject to a separate privacy policy _[https://www.rwjf.org/en/privacy-policy-grant.html](https://web.archive.org/en/privacy-policy-grants.html)_.
+In the event any of the individual Sites has additional privacy terms, whether posted by us or the owner/administrator of the Site in question, your use of such Site also is subject to such privacy policy(ies). This Privacy Policy does not apply to the information collected through our grant application or review process, which is subject to a separate privacy policy _[https://www.rwjf.org/en/privacy-policy-grant.html](https://web.archive.org/content/rwjf/en/privacy-policy-grants.html)_.
 
 As used in this Privacy Policy, the terms “ **Service Providers”** means third-party service providers who provide certain services to us (e.g., analytics, applications, hosting, software maintenance, satisfaction surveys, database maintenance, etc.) related to the Sites, and “ **Sites** ” means: (a) our website located at [_www.rwjf.org_](http://www.rwjf.org/)(the “ **Website** ”) and (b) certain other websites, blogs, online communities, social media platforms, and other services we may provide from time to time that link to this Privacy Policy, however such Sites are accessed or used, whether via personal computers, mobile devices, or otherwise.
 
