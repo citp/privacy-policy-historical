@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numbersusa.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214120257id_/https%3A//www.numbersusa.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbersusa.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401182946id_/https%3A//www.numbersusa.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
