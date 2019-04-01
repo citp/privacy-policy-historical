@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwesternmoms.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231141842id_/https%3A//midwesternmoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwesternmoms.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401120729id_/https%3A//midwesternmoms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ By using this Site, you consent to the use of such cookies and the sharing of da
 
 For European Economic Area Residents
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e980878f86a9888d9d819b809f8cc78a8684). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0960676f6649686d7d617b607f6c276a6664). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
 **Retargeting Ads  
 **From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
