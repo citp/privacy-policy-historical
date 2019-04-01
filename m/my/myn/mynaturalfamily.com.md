@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynaturalfamily.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231194912id_/https%3A//www.mynaturalfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynaturalfamily.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401172221id_/https%3A//www.mynaturalfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,21 +12,13 @@ The little bit of information I may or may not have about you is information tha
 
 The only thing I use your email address for is to email you and I try to keep those emails to a minimum. If you used your email to sign up for one of my mailing lists, I assume that you want to receive updates from me and I will continue to send you emails until you unsubscribe at the bottom of one of the emails.
 
-*Please note that most of the links on this page are affiliate links. This means if you click on a link and purchase, you will receive the same price, but I will receive a little money for referring you to the product. This helps keep this blog free for you. I truly appreciate you supporting my blog.
-
-* * *
-
- 
-
-MY OTHER RECIPES
-
 ## Non-Personal Information We Collect
 
 For our online behavioral advertising (OBA) services, we collect only non-personally identifiable information. All data collected for those services is anonymous. We do not collect any personally identifiable information (PII) for use with My Natural Family. I have no idea what the name of your dog is, where you live, what color your hair is or what your mother’s maiden name is.
 
 Any information I collect is through Google Analytics, which is on pretty much every website. And some of the affiliate links you click on may use cookies solely to keep track of how long ago you click on the link so I can get credit for telling you about the product.
 
-## **Links**
+##  **Links**
 
 This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
