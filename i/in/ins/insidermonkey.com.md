@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidermonkey.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228232832id_/https%3A//www.insidermonkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidermonkey.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401131730id_/https%3A//www.insidermonkey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insider Monkey
 
@@ -14,7 +14,7 @@ We only allow registered users to use ad blockers. You can [**sign up for free b
 
 This is the Privacy Policy for Insider Monkey website owned and operated by Koalaguide, LLC ("we","us" and "our site").
 
-Last update date: 2018-10-12
+Last update date: 2019-02-08
 
 ### Summary
 
@@ -35,7 +35,7 @@ We use encrypted cookies to keep you signed in to our website and store your vie
 
 You can also access our website by disabling cookie functionality from your browser but this would prevent you from being signed in.
 
-You can experience our website without personalized advertising by visiting the DAA’s **[Consumer Choice page](http://optout.aboutads.info/?c=2#!/)** , **[the NAI's website](http://optout.networkadvertising.org/?c=1#!/)** , and **[the EU online choices](http://www.youronlinechoices.com/)** page. To avoid personalized advertising based on your mobile app activity, you can install the **[DAA’s AppChoices app here.](http://www.aboutads.info/appchoices)**
+You can adjust your personalization settings by **clicking here**. We use an IAB Complaint Consent Management Platform to manage your consent and share with our advertising partners.
 
 **Account Data:** Currently, we do not require users to become members of Insider Monkey in order to have access to the free commentary, analysis and news available on Insider Monkey. However, if you would like to receive one or more of our newsletters and certain services we require you to register to become a member. In order to register, you will have to supply us with your email address and choose a unique User Name and Password and fill out the registration form. Your password is encrypted in our database, preventing us from seeing it.
 
@@ -85,8 +85,10 @@ In compliance with Children’s Online Privacy Protection Act (“COPPA”), thi
 
 You can send you data removal requests via our **[contact page](https://www.insidermonkey.com/contact-us/)**.
 
+In addition, you can directly contact our Data Protection Officer (DPO) - **[Meena Krishnamsetty](mailto:meena@insidermonkey.com?subject=Contact%20Request).**
+
 Additionally, you can delete your own account by logging in and **[visiting your account page.](https://www.insidermonkey.com/my-account/profile/)**
 
 ### Contact Information
 
-If you have any questions or suggestions regarding our privacy policy, please contact the editor of Insider Monkey, or send an email to **[Meena Krishnamsetty](mailto:meena@insidermonkey.com?subject=Contact%20Request) .**
+If you have any questions or suggestions regarding our privacy policy, please contact the editor of Insider Monkey, or send an email to ** .**
