@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaglitz.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105193657id_/https%3A//www.indiaglitz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaglitz.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401104208id_/https%3A//www.indiaglitz.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
