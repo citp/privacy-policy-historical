@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whowhatwear.co.uk privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225112505id_/https%3A//www.whowhatwear.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowhatwear.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401141505id_/https%3A//www.whowhatwear.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Celebrity Style and Fashion Trend Coverage | Who What Wear UK
 
