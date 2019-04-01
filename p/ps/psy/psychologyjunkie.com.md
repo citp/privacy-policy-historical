@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologyjunkie.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816073741id_/https%3A//www.psychologyjunkie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologyjunkie.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401065115id_/https%3A//www.psychologyjunkie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Psychology Junkie
 
@@ -22,6 +22,18 @@ Psychology Junkie also collects potentially personally-identifying information 
 
 Certain visitors to Psychology Junkie’s websites choose to interact with Psychology Junkie in ways that require the site to gather personally-identifying information. The amount and type of information that Psychology Junkie gathers depends on the nature of the interaction. For example, we ask visitors who comment on our blog to provide a username and email address. Those who wish to receive Psychology Junkie updates via email, we collect their emails. In each case, Psychology Junkie collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Psychology Junkie. Psychology Junkie does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
+**Your Choices**
+
+Access, Correction, Deletion
+
+We respect your privacy rights and provide you with reasonable access to the Personally-Identifying Information that you may have provided through your use of the services we provide.  If you wish to amend any Personally-Identifying Information we hold about you, or to request that we delete any information about you that we have obtained from an Integrated Service, you may contact us as set forth in the “How to Contact Us” section.  At your request, we will have any reference to you deleted or blocked in our database.
+
+You may update, correct, or delete your information and preferences at any time by contacting us as set forth in the “How to Contact Us” section.  Please note that any changes you request will be made within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
+
+You may decline to share certain Personally-Identifying Information with us, in which case we may not be able to provide to you some of the features and functions of our site.
+
+At any time, you may object to the processing of your Personally-Identifying Information, on legitimate grounds, except if otherwise permitted by applicable law.
+
 **Aggregated Statistics**
 
 Psychology Junkie may collect statistics about the behavior of visitors to its websites. For instance, Psychology Junkie may monitor the most popular pages or use spam screened by the Akismet service to help identify spam. Psychology Junkie may display this information publicly or provide it to others. However, Psychology Junkie does not disclose personally-identifying information other than as described below.
@@ -34,13 +46,28 @@ Psychology Junkie discloses potentially personally-identifying and personally-i
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Psychology Junkie uses cookies to help identify and track visitors, their usage of Psychology Junkie website, and their website access preferences. Psychology Junkie visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Psychology Junkie’s websites, with the drawback that certain features of Psychology Junkie’s websites may not function properly without the aid of cookies.
 
-**Business Transfers**
+**Email Addresses**
 
-If Psychology Junkie, or substantially all of its assets were acquired, or in the unlikely event that Psychology Junkie goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Psychology Junkie may continue to use your personal information as set forth in this policy.
+We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion.  We will use your email address for the purposes for which you provided it to us, and also from time to time to send you emails regarding the Site or other products or services that we believe may be of interest to you.  You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.] 
 
 **Ads**
 
-Ads appearing on psychologyjunkie.com may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Psychology Junkie and does not cover the use of cookies by any advertisers.
+**Interest-Based Advertising**
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+**For European Economic Area Residents**
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+
+**Transactional Data**
+
+We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our Site. The Transactional Data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions.  [Payment processing on our Site is handled by our payment services providers,  _Paypal, Shopify, or Teachabl_. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at:  
+https://www.paypal.com/us/webapps/mpp/ua/privacy-full  
+https://www.shopify.com/legal/privacy  
+https://teachable.com/privacy-policy
 
 **Comments**
 
@@ -49,6 +76,10 @@ Comments and other content submitted to Akismet anti-spam service are not saved 
 **Privacy Policy Changes**
 
 Although most changes are likely to be minor, Psychology Junkie may change its Privacy Policy from time to time, and in Psychology Junkie’s sole discretion. Psychology Junkie encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+**How To Contact Us**
+
+If you at any time you would like to contact us to access, correct, delete, object to, or request restriction of data processing, please go to the “Contact Me” page, linked in the website header, and submit your request for action.
 
 ## Disclosure
 
@@ -77,10 +108,10 @@ Anytime you see a link that looks like www.amazon.com/….
 These affiliate links work the same way: if you click the link and buy the product, then the blogger gets a percentage of the sale or some other type of compensation. Again, prices are not different if you use these affiliate links. You will _not_ pay more by clicking through to the link. These links are not “pay per click.”
 
 Psychology Junkie  
-P.O. Box 3946  
-Gulfport, MS, 39505  
+2609 Victoria Ave #1181  
+Bellevue, NE, 6805  
 http://www.psychologyjunkie.com
 
-### Subscribe to Typology Tuesday!
+### Subscribe to Typology Tuesday
 
-Want to discover more about your personality? Get the inside scoop on all things typological, along with special subscriber freebies, and discounts on new eBooks and courses! Join Typology Tuesday today!
+Want to discover more about personality type? Get the inside scoop with Susan Storm on all things typological, along with special subscriber freebies, and discounts on new eBooks and courses! Join Typology Tuesday today!
