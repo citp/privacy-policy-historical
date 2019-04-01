@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the othoba.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320043513id_/http%3A//othoba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the othoba.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401130302id_/https%3A//www.othoba.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Othoba.com
 
@@ -18,7 +18,7 @@ By mere use of the Website, you expressly consent to our use and disclosure of y
 
 
 
-When you use our Website, we collect and store your personal information which is provided by you from time to time. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.
+When you use our Website, we collect and store your personal information which is provided by you from time to time. Our primary goal in doing so is to provide you with a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.
 
 In general, you can browse the Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Website. We may automatically track certain information about you based upon your behaviour on our Website. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analysed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.
 
@@ -36,8 +36,13 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up a free account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
 
-  2.   
-**Use of Demographic / Profile Data / Your Information**
+**Information Collection and Use**
+
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your Facebook public profile, your email, country and region. The information that we request is will be retained by us and used as described in this privacy policy.
+
+The app does use third-party services like Google Analytics, Firebase Push Notification, Firebase Analytics, Paypal and BrainTree Payment SDK, Facebook Login that may collect information used to identify you.
+
+  2. **Use of Demographic / Profile Data / Your Information**
 
 
 
@@ -45,7 +50,7 @@ We use personal information to provide the services you request. To the extent w
 
 In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users' activity on our Website.
 
-We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information.
+We identify and use your IP address to help diagnose problems with our server and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information.
 
 We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our Website, providing you with content that we think you might be interested in and to display content according to your preferences.
 
@@ -53,8 +58,7 @@ We will occasionally ask you to complete optional online surveys. These surveys 
 
 A "cookie" is a small piece of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. We place both permanent and temporary cookies in your computer's hard drive. The cookies do not contain any of your personally identifiable information.
 
-  3.   
-**Sharing of personal information**
+  3. **Sharing of personal information**
 
 
 
@@ -62,26 +66,23 @@ We may share personal information with our other corporate entities and affiliat
 
 We may disclose personal information to third parties. This disclosure may be required for us to provide you access to our Services, to comply with our legal obligations, to enforce our User Agreement, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We do not disclose your personal information to third parties for their marketing and advertising purposes without your explicit consent.
 
-We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal processes. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
 
-We and our affiliates will share / sell some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
+We and our affiliates will share/sell some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of the business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
 
-  4.   
-**Links to Other Sites**
+  4. **Links to Other Sites**
 
 
 
 Our Website links to other websites that may collect personally identifiable information about you. Othoba.com is not responsible for the privacy practices or the content of those linked websites.
 
-  5.   
-**Security Precautions**
+  5. **Security Precautions**
 
 
 
 Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-  6.   
-**Choice/Opt-Out**
+  6. **Choice/Opt-Out**
 
 
 
@@ -107,12 +108,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Please contact us regarding any questions regarding this statement.
 
-Call us: 09613-800800 (Saturday-Thursday, 9 AM- 10 PM)
-
-Or send us an email: [info@othoba.com](mailto:info@othoba.com)
-
 Office Location **:  
 **  
 Othoba.com  
-Hossain Market (Level-9),  
-Cha-74 Pragati Sarani, Bir Uttam Rafiqul Islam Ave, Dhaka- 1212.
+Ja/89, Middle Badda, Dhaka- 1212.
