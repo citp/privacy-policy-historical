@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appdevelopermagazine.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226114106id_/https%3A//appdevelopermagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdevelopermagazine.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401105735id_/https%3A//appdevelopermagazine.com/privacy) for the most accurate reproduction.*
 
-# App Developer Magazine – Mobile App Business and Startup News
+# App Developer Magazine – App Business and Startup News
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
