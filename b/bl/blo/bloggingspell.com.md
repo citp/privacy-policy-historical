@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231171456id_/https%3A//bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401145321id_/https%3A//bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Website Privacy Policy | Blogging Wizard
 
@@ -20,7 +20,7 @@ Full name of legal entity: Adam Connell, trading as Velocity6 Media.
 
 Email address: available [via our contact page](https://bloggingwizard.com/contact/).
 
-Postal address: Velocity6 Media, Office 7, 35-37 Ludgate Hill, London, EC4M 7JN.
+Postal address: Velocity6 Media, Kemp House, 152 – 160 City Road, London EC1V 2NX.
 
 If you are not happy with any respect of how we collect and use your data, please contact us so we can try to resolve the issue for you.
 
