@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolves.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231093839id_/https%3A//www.wolves.co.uk/club/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolves.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401074827id_/https%3A//www.wolves.co.uk/club/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wolverhampton Wanderers FC
 
@@ -385,7 +385,7 @@ Under certain circumstances, you have rights under data protection laws in relat
 
 **Right to withdraw consent**
 
-You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/ "www.ico.org.uk")). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. If you wish to exercise any of the rights set out above, please contact the DPO on email at [DPO@wolves.co.uk](mailto:DPO@wolves.co.uk "DPO@wolves.co.uk"), by telephone on 0871 222 2220 or by post at DPO, Wolverhampton Wanderers Football Club, 67 Waterloo Rd, Wolverhampton WV1 4QR
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/ "www.ico.org.uk")). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. If you wish to exercise any of the rights set out above, please contact the DPO on email at [DPO@wolves.co.uk](mailto:DPO@wolves.co.uk "DPO@wolves.co.uk"), by telephone on 0371 222 2220 or by post at DPO, Wolverhampton Wanderers Football Club, 67 Waterloo Rd, Wolverhampton WV1 4QR
 
 **No fee usually required**
 
