@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4sgm.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122114042id_/http%3A//www.4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start%3FWorkingTemplate%3Dstatic%252FPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sgm.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401050850id_/http%3A//www.4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start%3FWorkingTemplate%3Dstatic%252FPrivacyPolicy) for the most accurate reproduction.*
 
 # Wholesale PrivacyPolicy
 
@@ -38,7 +38,7 @@ Maintaining security of your personal information is a high priority to us, so w
 ** You have the option to leave behind your own personal comment for each product. This will serve as invaluable input on many levels such as marketing and buying. 
 
 **When you apply for a credit line** **  
-** You will be asked to provide your name, address, e-mail address, phone number, and other reference information needed to verify your identity, such as your business details. This information is required to process your application.  [Learn more about the 4sgm.com credit program here](http://www.4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start?WorkingTemplate=static%2FOpenCreditAccount)
+** You will be asked to provide your name, address, e-mail address, phone number, and other reference information needed to verify your identity, such as your business details. This information is required to process your application.  [Learn more about the 4sgm.com credit program here](http://4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start?WorkingTemplate=static%2FOpenCreditAccount)
 
 **We may acquire customer lists from other parties** **  
 ** So that we may invite new people to visit 4sgm.com. Our policy is to acquire lists of people who have indicated that they are willing to receive e-mail offers. Also, each time we send an e-mail offer, we provide people with the opportunity to opt-out of receiving future e-mail offers. 
