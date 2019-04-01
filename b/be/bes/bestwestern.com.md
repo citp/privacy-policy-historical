@@ -1,266 +1,139 @@
-> *The following text is extracted and transformed from the bestwestern.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231235211id_/https%3A//www.bestwestern.com/en_US/popup/policy.popups.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwestern.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401094753id_/https%3A//www.bestwestern.com/en_US/popup/policy.popups.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_LAST UPDATED: November 2018_
-
-**BEST WESTERN INTERNATIONAL, INC.**
-
-Best Western International, Inc. (referred to herein as " **BWI** ," " **we** ," and " **us** ") is committed to protecting your privacy and wants you to be familiar with how we collect, use, and disclose Personal Information (as defined below). References to “ **BWI** ,” “ **we** ” and “ **us** ” throughout this Policy, depending upon the context, collectively refer to BWI and any subsidiary of BWI, including but not limited to SureStay, Inc.   
-
-
-By using this website or a mobile application (“Site”), including text message, providing Personal Information (as defined below) to BWI, or otherwise indicating your consent to receipt of marketing or other information from us, you consent to all actions taken by us with respect to your Personal Information as set forth in this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site or provide any Personal Information to BWI through our Site or otherwise.
-
-This Policy does not describe the collection, use, or disclosure of information by third parties, including third parties that own or operate Best Western® branded hotels and properties (" **Licensed Hotels** "), and third-party affiliated organizations permitted to sublicense Licensed Hotels outside the United States in various countries and territories throughout the world (" **Affiliates** "). Please be aware that Licensed Hotels and Affiliates are independent entities neither owned nor controlled by BWI or BWI Subsidiaries. Licensed Hotels and Affiliates might have their own privacy policies, which might be different from this Policy. To learn about the privacy practices of any of the Licensed Hotels or Affiliates, please review their respective privacy policies, not this Policy.
-
-While this Policy is intended to describe the broadest range of our information processing activities globally, those activities may be more limited in some jurisdictions based on the restrictions of their laws. To the extent any of the activities described herein are not permitted under the laws of your country, state, or province, you agree that the remaining portions of this Policy that are permissible shall apply to the maximum extent permitted by law. 
-
-**PERSONAL INFORMATION WE COLLECT**
-
-BWI may collect " **Personal Information** " from you, meaning information that identifies you as an individual or from which you may be identified. For example, we may collect:
-
-  * contact information, such as your name, mailing address, e-mail address, and telephone number;
-  * credit card number or other payment account number, billing address, and other payment and billing information (“ **Payment Information** ”);
-  * Best Western Rewards® (" **BWR** ®") loyalty program member information, online user account details, profile or password details and any frequent flyer or travel partner program affiliation;
-  * records and copies of your correspondence if you contact us;
-  * information necessary to fulfil special requests (e.g., health conditions that require specific accommodation);
-  * guest stay information, including the hotels where you have stayed, date of arrival and departure, and goods and services purchased;
-  * information collected through the use of closed circuit television systems, card key and other security systems; and
-  * in limited cases, information relating to the credit of customers.
-
-
-
-We may collect Personal Information from a variety of sources including:
-
-  * through the Site;
-  * through reservation and call centers;
-  * through social media and brand channels (e.g. Facebook, Twitter);
-  * from BWI Subsidiaries and from Licensed Hotels, Affiliates, or other third parties; or
-  * when you otherwise voluntarily provide it to us, including in connection with our loyalty program (i.e. BWR).
-
-
-
-We may also combine Personal Information we collect with publicly available Personal Information and Personal Information we receive from others or cross-reference with others. The collection and use of Personal Information, whether separately or combined, is done in accordance with and for the purposes described in this Policy.
-
-If you voluntarily share "Sensitive Information" (e.g., Personal Information related to your health) with us, that information will only be used as necessary to fulfill special requests (e.g. health conditions that require specific accommodations). For example, if you voluntarily convey a health-related need to us, we may store and use that information in order for a Licensed Hotel to provide a room with appropriate amenities. We do not collect or store Sensitive Information unless it is voluntarily provided by you. By providing such Sensitive Information, you expressly consent to our collection, processing and storage of that information in accordance with the terms of this Policy.
-
-**BEST WESTERN REWARDS ® (“BWR®”) PROGRAM**
-
-In order to enroll in the BWR program, you must provide us with some of your Personal Information, such as your name, e-mail address, mailing address, and phone number, which is required in order to create and manage your account, administer the BWR program, and provide the benefits of the BWR program to you. 
-
-Enrolling in or maintaining a membership in the BWR program constitutes your acceptance of the BWR terms and conditions (available at [bestwesternrewards.com](https://web.archive.org/en_US/best-western-rewards.html "link to Best Western Rewards program")) and your express written consent to all actions taken by us with respect to your Personal Information in compliance with this Policy. Your continued use of the Site after expiration of the BWR program constitutes your implied consent to all actions taken by us with respect to your Personal Information in compliance with this Policy.
-
-**HOW WE USE THE PERSONAL INFORMATION WE COLLECT**
-
-BWI collects Personal Information about guests, visitors to the Site, and others, so that we can provide an experience that is responsive to the needs of such individuals. BWI may collect, use, and disclose Personal Information for one or more of the following purposes:
-
-  * _Fulfillment of Reservation or Information Requests_. To fulfill your requests such as completing a credit card transaction or booking a reservation at any Licensed Hotel worldwide through our central reservation system, or responding to your requests that we send marketing, informational or other newsletters to you (and to personalize such newsletters and the Site to your preferences). For example, when you make a reservation through BWI's central reservation system, we may collect Payment Information from you, and may use and disclose such Payment Information to fulfill your reservation. BWI maintains a worldwide accessible website, call centers, and database computers in the United States and other locations around the world, which are intended to help BWI conduct business and to facilitate the operation and maintenance of its central reservation system.
-
-
-  * _Membership Programs_. To administer and operate voluntary membership programs, including loyalty programs such as BWR, which allow members to earn and redeem rewards, points, or credits in connection with the programs. Read the complete [BWR program terms and conditions](https://web.archive.org/en_US/legal/bwr-terms-conditions.html "link to BWR terms & conditions"). 
-
-
-  * _Best Western Travel Card ®_. To process and ship a Best Western Travel Card, which is a stored value card redeemable for lodging charges (room rate and applicable taxes) for stays at Licensed Hotels worldwide. We may also use your Personal Information as necessary to permit your use and redemption of a Best Western Travel Card. For complete Best Western Travel Card terms and conditions, see [travelcard.bestwestern.com](https://web.archive.org/en_US/offers/travel-card.html "link to Travel Card purchase").
-
-
-  * _Administrative and Other Communications_. To send you important information regarding the Site, changes to our terms, conditions, and policies, or other administrative information (e.g., information about your travel reservations, such as reservation confirmations and pre-arrival communications). We may also use your Personal Information to determine whether you are eligible for and/or inform you, if you have provided your consent, to send marketing communications or tell you about products, programs, enhancements, events, special offers, and services of BWI, BWI Subsidiaries, and third parties (including Licensed Hotels and Affiliates) that might be of interest to you. For more information, see the “Your Choices” section of this Policy below.
-
-
-  * _Promotions_. To operate sweepstakes, contests, or other marketing or promotional activities (collectively, " **Promotions** "). We typically ask you for certain Personal Information when you enter or participate in such Promotion and, if applicable, win a prize, and we use such Personal Information to administer the Promotion. Participation in these Promotions is completely voluntary, and you have a choice whether to disclose your Personal Information. You should carefully review the rules, if any, of each Promotion in which you participate, as it may contain additional important information about BWI's use of your Personal Information. To the extent that the Promotion’s rules concerning the treatment of your Personal Information conflict with this Policy, the Promotion’s rules shall control.
-
-
-  * _Surveys_. To conduct or facilitate surveys and to ask for your responses to questionnaires in order to provide better products and services to guests and Site visitors. Completion of any surveys or questionnaires is strictly voluntary.
-
-
-  * _Customer Care_. To track, process, and respond to customer care inquiries and to enhance and improve the customer’s experience. We may also transmit your Personal Information to third party service providers, Affiliates, and Licensed Hotels to allow those third parties to track, process, and respond to customer care inquiries.
-
-
-  * _Internal Business Purposes_. For our internal business purposes, such as data analysis, audits, developing new products, enhancing the Site, improving our services, identifying usage trends and visiting patterns, determining the effectiveness of our Promotions, and meeting contractual obligations (e.g., a contractual obligation with regard to earning or redeeming BWR points or miles through our airline partners).
-
-
-  * _Our Legal Duties_. To comply with legal and regulatory requirements or demands in accordance with applicable law, a court order, subpoena, or other legal process.
-
-
-  * _Terms of Use_. We may enforce or apply our [Terms of Use](https://web.archive.org/en_US/legal/terms-of-use.html "link to terms of use") and/or other agreements and policies.
-
-
-  * _E-mails to Friends_. To permit you to forward information about our products, services, and Licensed Hotels to another individual, such as a friend or co-worker. If you wish to use this feature, you may be required to provide to us, and we may use, the applicable individual's name and e-mail address to facilitate your sending of such messages to such individual (and any Personal Information ‒ such as your name and your email address ‒ provided in connection with sending such information, will be disclosed to such individual). By using this functionality, you affirm that you are entitled to use and to provide to us the recipient's name and e-mail address for this purpose. We will not seek to use the recipient’s Personal Information for any purpose other than to allow the e-mail to be sent, unless we disclose such other purpose to you at the time that you provide such Personal Information to us or unless we have separately collected such Personal Information through other means.
-
-
-  * _Co-brand credit card_. To promote and assess eligibility for BWI’s co-brand credit cards. 
-
-
-  * _Additional Uses_. We may also use your Personal Information in other ways as described when you provide such information to us or for other purposes with your consent.
-
-
-
 **  
-SMS:   U.S. Terms and Conditions:**
+LAST UPDATED:   January 1, 2019**
 
-By participating in Best Western’s alerts, you are agreeing to receive autodialed marketing messages from Best Western at the mobile number that has been provided at opt-in. Messaging frequency will vary. Consent is not required as a condition of purchase. Message and data rates may apply. If you would like to be removed from the Best Western’s text list, then you must text STOP to 94484 to opt-out. This is the exclusive method for opting out. You may opt out of receiving marketing messages from Best Western at any time.  After texting STOP to 94484 you will receive one additional message confirming that your request has been processed. Text HELP to 94484 for help or contact customer care at [bestwestern.com/en_US/customer-service.html](https://www.bestwestern.com/en_US/customer-service.html "link to customer service").
+This policy describes how Best Western International, Inc. and its subsidiaries (“BWI,” “we,” or “us”), collect, use, and share personal information.  Please note that Best Western® branded hotels and properties (“Licensed Hotels”) are independently owned and operated and are not owned, managed, or controlled by BWI.  In addition, outside of the United States, companies that are not owned by BWI are sometimes permitted to license the Best Western® brands.  Although these companies are referred to by BWI as “Affiliates” they are not under our ownership or control.  When you provide information to a Licensed Hotel or to an Affiliate, those companies may have their own privacy practices and policies.
 
-In the event that you change or deactivate your mobile number it is your responsibility to notify Best Western at [vibes.com/help](http://www.vibes.com/help) to have your number removed. Best Western is not liable for delayed or undelivered messages.
+You can select among various topics by clicking on the following options below:
 
-Additionally, Best Western reserves the right to alter message frequency at any time. We may change the frequency of texts that you receive under this program.  We will notify you via text if we change the frequency and provide you with the opportunity to opt out.
+**Use and Processing of the Information We Collect**  
+**Sharing of Information**  
+**Your Choices**  
+**How We Protect Personal Information**  
+**How Long We Retain Information**  
+**Countries Used for Processing**  
+**Miscellaneous**  
+**Contact Information**
 
-**Arbitration and Class Action Waiver  
-**
+**Use And Processing Of The Information We Collect**
 
-**Please read this carefully. It affects your rights.**
+The following chart provides examples of the type of information that we collect from you and how we use that information.
 
-**Any dispute or claim relating in any way to Best Western’s program and your use of the program will be resolved by binding arbitration, rather than court.**
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including business partners, Affiliates, or publicly available sources.  For example, if you make a reservation at one of our Licensed Hotels, that hotel transmits information to us as part of our legitimate interest in, among other things, maintaining a global reservation system and providing for customer service and support.  
 
-This agreement to arbitrate is intended to be broadly interpreted, and expressly includes claims brought under the Telephone Consumer Protection Act, 47 U.S.C. § 227 et seq., or any other statute, regulation, or legal or equitable theory. You and Best Western hereby agree that the Federal Arbitration Act, 9 U.S.C. 1, et seq. (“FAA”) applies to this agreement to arbitrate, and governs all questions of whether a dispute is subject to arbitration. Unless you and we agree otherwise in writing, arbitration shall be administered by the American Arbitration Association’s Consumer Arbitration Rules in effect at the time of filing of the arbitration (the “AAA’s Rules”). However, just as a court would, the arbitrator or arbitrators must honor the terms and limitations in this Agreement, and can award damages and relief (including any attorneys’ fees) authorized by law and/or the AAA’s Rules. The arbitration decision and award is final and binding, with some exceptions under the FAA, and judgment on the award may be entered in any court of competent jurisdiction.  **YOU AGREE THAT YOU AND BEST WESTERN ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY AND THE RIGHT TO PARTICIPATE IN ANY CLASS, REPRESENTATIVE, OR COLLECTIVE PROCEEDING.**
 
-THIS AGREEMENT DOES NOT ALLOW FOR CLASS ARBITRATIONS EVEN IF THE PROCEDURES OR RULES OF THE AAA WOULD. RATHER, YOU AND WE ARE ONLY ENTITLED TO PURSUE ARBITRATION ON AN INDIVIDUAL, BILATERAL BASIS. FURTHER, AND UNLESS YOU AND [BRAND] AGREE OTHERWISE IN WRITING, THE ARBITRATOR(S) MAY NOT CONSOLIDATE MORE THAN ONE INDIVIDUAL PARTY’S CLAIMS WITH ANY OTHER PARTY’S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR COLLECTIVE PROCEEDING.
+In addition to the purposes and uses described above, we use information in the following ways:
 
-You and Best Western are each responsible for our respective costs relating to counsel, experts, and witnesses, as well as any other costs relating to the arbitration. Best Western, however, will pay for the arbitration administrative or filing fees, including the arbitrator and/or other AAA case management fees, for any claim seeking $75,000 or less, unless the claim is determined by the arbitrator to be frivolous. Otherwise, the AAA’s Rules regarding costs and payment apply.
+  * To conduct analytics.  
 
-This agreement to arbitrate does not preclude you from bringing issues to the attention of federal, state, or local agencies. Such agencies can, if the law allows, seek relief against us on your behalf.
+  * To identify you when you visit our websites or Licensed Hotels.
+  * To provide service to you and to improve our services and product offerings.
+  * To respond to inquiries related to support, employment opportunities, or other requests. 
+  * To send marketing and promotional materials, including information relating to our products, services, sales, or promotions.
+  * To streamline the reservation or checkout process.
+  * For the safety and security of guests, staff, and other visitors.
 
-If any term of this Section ( **Arbitration and Class Action Waiver)  **is to any extent illegal, otherwise invalid, or incapable of being enforced, such term shall be excluded to the extent of such invalidity or unenforceability; all other terms hereof shall remain in full force and effect; and, to the extent permitted and possible, the invalid or unenforceable term shall be deemed replaced by a term that is valid and enforceable and that comes closest to expressing the intention of such invalid or unenforceable term. If application of this Severability provision should materially and adversely affect the economic substance of the transactions contemplated hereby, the Party adversely impacted shall be entitled to compensation for such adverse impact, provided the reason for the invalidity or unenforceability of a term is not due to serious misconduct by the Party seeking such compensation.
 
-**Changes to Additional Contract Terms   **
 
-**Limitation of Liability  
-**We are not responsible and will not be liable for any damages of any nature, including without limitation any incidental, special or consequential damages (such as lost profits or lost business opportunities), punitive damages or attorney’s fees.
+Although the sections above describe our primary purpose in collecting your information, in many situations we have more than one purpose.  For example, if you make a room reservation we collect your information so that we, or so that a Licensed Hotel, can perform a contract with you, but we also collect your information as we have a legitimate interest in maintaining your information after your transaction is complete so that we can quickly and easily respond to any questions about your stay.  As a result, our collection and processing of your information may be based upon our need to perform a contract, our obligations under law, our legitimate interest in conducting our business, and/or your consent.
 
-**Applicable Law  
-**Except as otherwise provided herein, your use of this Service is governed by the laws of the State of Arizona.
+**Sharing Of Information**
 
-**Severability  
-**If any term of this Agreement is to any extent illegal, otherwise invalid, or incapable of being enforced, such term shall be excluded to the extent of such invalidity or unenforceability; all other terms hereof shall remain in full force and effect; and, to the extent permitted and possible, the invalid or unenforceable term shall be deemed replaced by a term that is valid and enforceable and that comes closest to expressing the intention of such invalid or unenforceable term. 
+In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:
 
-**Changes to Terms  
-**These terms and conditions are subject to change at any time without notice.
+1.     **Licensed Hotels and Affiliates**. We share your information with the Licensed Hotels that will be fulfilling a reservation.  We also share your information with Affiliates in the geographic area of a Licensed Hotel in which you have stayed or you intend to stay.  Depending upon the context, Licensed Hotels and Affiliates use your information for a variety of purposes, including preparing for your stay, providing you with accommodations, marketing, or redeeming rewards points.
 
-**HOW WE SHARE AND DISCLOSE PERSONAL INFORMATION**
+2.     **BWR Partners**.  We share information with independent companies that we have partnered with or that are participants in our BWR program to allow you to earn and redeem rewards, points, or credits in connection with your BWR membership and in accordance with your chosen earning and spending preferences.  For example, you may decide to select a particular airline partner through which you can earn BWR points.  We also share information with independent companies if you have selected that you would like to receive promotions and marketing material from Best Western’s third party-business partners.
 
-  * _BWI Subsidiaries_. We may share your Personal Information with BWI Subsidiaries so that they may use such Personal Information for the purposes described in this Policy. BWI Subsidiaries are required to protect your Personal Information consistent with this Policy. BWI is the entity that is responsible for the management of such jointly used Personal Information.
+3.     **Partner Marketing and Promotions**. We share information with independent companies if you have selected that you would like to receive promotions or marketing material from Best Western’s third party-business partners.  We also offer contests, sweepstakes, or other promotions with third party partners.  If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner, the information that you provide will be shared with us and with them.  Their use of your information is not governed by this privacy policy. 
 
+4.     **Travel Agents and Online Travel Websites**.  We share your information with travel agents, and/or online travel websites that you use in order to process your reservation request and to comply with any requirements or needs of those entities.
 
-  * _Licensed Hotels, Affiliates, and Third Parties_. We may also share your Personal Information with Licensed Hotels, Affiliates, and other third parties located around the world for the purposes described in this Policy (e.g., to send your reservation information to the applicable Licensed Hotel or Affiliate, to provide Licensed Hotels, Affiliates, or other third parties with information on the rewards, points, or credits earned by you in connection with BWR, and to allow Licensed Hotels, Affiliates, and third parties to determine whether you are eligible for and/or inform you, if you have provided your consent, of products, programs, services, and promotions that they believe might be of interest to you).
+5.     **Service Providers**. We share your information with service providers.  Among other things, service providers help us to administer our databases, websites, marketing, communications, and surveys; service providers provide us with technical and logistical support; service providers process payments on our behalf; and service providers assist in the fulfillment of reservations and orders.  If a service provider receives information from us about an EU data subject or a Swiss data subject and takes an action that is contrary to the principles of the EU-US Privacy Shield or the Swiss-US Privacy Shield, we shall be liable for those actions unless we prove that we are not responsible for causing them.
 
+6.     **Public**.  Some of our websites may provide the opportunity to post comments or reviews in a public forum.  If you decide to submit information on these pages, that information may be publically available.
 
-  * _Third-Party Service Providers_. BWI relies on numerous third-party service providers to provide certain products and services on our behalf, including reservation services, credit card/payment processing and billing, IT services, customer care, e-mail delivery services, text messaging services, communication and delivery of promotional and marketing materials via e-mail, direct mail, and text messaging administering guest surveys and Promotions, administration, data analysis, and other similar services. We may share your Personal Information for the purpose of enabling these third parties to provide such services or as otherwise necessary for the ongoing operation of BWI's business, including operation of programs such as BWR and Best Western Travel Card. When we do outsource the processing of your Personal Information to third parties or provide your Personal Information to third party service providers, we require those third parties to protect your Personal Information with reasonable security measures and to limit their use only to the purposes for which we have disclosed it to them.
+7.     **Other Disclosures without Your Consent**. We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws or for national security requirements within the United States or the other jurisdictions in which we operate.  We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary. We also may share information with our corporate affiliates ( _e.g_., subsidiaries, joint ventures, or other companies under common ownership or control).  In addition, if another company acquires or plans to acquire our company, business, or our assets, we will also share information with that company, including at the negotiation stage. 
 
+8.     **Other Disclosures with Your Consent.**   We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.
 
-  * _BWR Partners_. BWI may also share your Personal Information with companies that we have partnered with or that are participants in our BWR program to allow you to earn and redeem rewards, points, or credits in connection with your BWR membership and in accordance with your chosen earning and spending preferences (e.g., selection of a particular airline partner through which you can earn BWR points).
+**Your Choices**
 
+You can make the following choices regarding your personal information:
 
-  * _Promotions_. Personal Information submitted in connection with Promotions may be shared with third-party sponsors of such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion.
+1.     **Promotional Emails**. You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive.  If you decide not to receive promotional emails, we may still send you service related communications.
 
+2.     **Promotional Mailings.**   If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by emailing us (our contact information is below) with "NO SNAIL MAIL" in the subject line along with your name, address and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.
 
-  * _Assignment_. In the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of BWI's or the BWI Subsidiaries' business, assets, or stock (including in connection with any bankruptcy or similar proceedings), we may transfer any and all information that we collect pursuant to this Policy. Any successor, assignee, or transferee may use your Personal Information as described in this Policy.
+3.     **Promotional Text Messages. _  _**If you receive a text message from us that contains promotional information you can opt-out of receiving future text messages by replying “STOP.”
 
+4.     **Access to Your Personal Information**. You can request access to your personal information by completing and submitting a _[Request Form](https://web.archive.org/en_US/legal/privacy-form.html)_. If required by law, upon request, we will grant you reasonable access to the personal information that we have about you. 
 
-  * _Social Networking Forums_. BWI may make available interactive services (e.g., message boards, forums, and blogs) through which you may post information and materials on the Site. Please note that any information you disclose through such services becomes public information and may be available to visitors to the Site and to the general public. We urge you to exercise discretion and caution when deciding to disclose your Personal Information, or any other information, through these services. If you choose to voluntarily disclose your personal Information through such a forum it may be available to the public and might be used by others for any purpose.
+5.     **Changes to Your Personal Information**. We rely on you to update and correct your personal information.  Most of our websites allow you to modify or delete your account profile.  Note that we may keep historical information in our backup files as permitted by law.  If our website does not permit you to update or correct certain information you can request that your information be changed by completing and submitting a _[Request Form](https://web.archive.org/en_US/legal/privacy-form.html)_.  Although BWI will attempt in good faith to respond to your request, we may not be able to change your information in all circumstances.  For example we may not be able to change your information if doing so would impose an undue burden or expense, or if it would require us to change information relating to another person.
 
+6.     **Deletion of Your Personal Information**. You can request information about how long we keep a specific type of information by contacting us at the address described below.  You can request that your information be deleted by completing and submitting a _[Request Form](https://web.archive.org/en_US/legal/privacy-form.html)_. If required by law we will delete your personal information after such a request is made.  You should note that there are some situations in which we may decline to delete your information.  For example, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements. 
 
-  * _Law Enforcement; Emergencies; Compliance_. We may disclose your Personal Information: (i) when we have reason to believe that it is necessary to identify, contact, or bring legal action against persons or entities that may be causing injury to you, BWI, BWI Subsidiaries, Licensed Hotels, Affiliates, or others; (ii) when we believe that applicable law or regulation (including laws and regulations outside your country of residence) requires it; (iii) as mandated by subpoena, court order, or legal process; (iv) to establish or exercise our legal rights, defend against legal claims, or protect our operations or those of any BWI Subsidiaries, Licensed Hotels, or Affiliates; (v) to protect the rights, privacy, safety, or property of BWI, BWI Subsidiaries, Licensed Hotels, Affiliates, you, or others; (vi) to investigate, prevent, or take action regarding suspected illegal activities, (vii) to investigate, prevent, or take action regarding suspected fraud, (viii) to investigate, prevent, or take action regarding situations involving potential threats to the physical safety of any person, (ix) to investigate, prevent, or take action regarding violations of our [Terms of Use](https://www.bestwestern.com/en_US/legal/terms-of-use.html "link to terms of use") or other agreements or policies, or (x) as otherwise required or permitted by law.
+7.     **Revoking Consent or Objecting to Processing**.  You can revoke consent to processing (where such processing is based upon consent) or object to our processing by completing and submitting a _[Request Form](https://web.archive.org/en_US/legal/privacy-form.html)_.  If you revoke consent or object to further processing we may no longer be able to provide you services.  In some cases, we may limit or deny your request if the law permits or requires us to do so, or if we are unable to adequately verify your identity.
 
+8.     **Online Tracking.   **We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.
 
-  * _Credit Authorization_. When you apply for a Best Western co-brand credit card, your Personal Information will be used and disclosed to appropriate third parties in accordance with applicable laws for the purpose of determining whether you are eligible for the credit card and whether the card issuer will grant and/or maintain a line of credit to you.
+9.     **California Residents.**   California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing.  If you are a California resident and would like a copy of such notice, please submit a written request to us using the information in the “Contact Information” section below.
 
+**How We Protect Personal Information**
 
-  * _Responsibility When Information Is Transferred_. If a service provider that receives Personal Information from us about an EU data subject or Swiss data subject takes an action that is contrary to the principles of the EU-US Privacy Shield or Swiss-US Privacy Shield, we shall be liable for those actions unless we prove that we are not responsible for causing them.  
+No method of transmission over the Internet or of electronic storage is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any breach to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
 
+Some of our websites permit you to create an account.  When you do you will be prompted to create a password.  You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you.  You should notify us of any unauthorized use of your password or account.
 
+**How Long We Retain Information**
 
+We retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law.  For example, we retain BWR information for as long as an individual remains a BWR member because BWR points do not expire and the information is needed in order to allow the individual to redeem their rewards.  We retain information in our reservation system, in full or in summary form, for three years following a guest’s departure in order to process your reservation, provide post-reservation customer support, and provide invoicing and recordkeeping.  We typically retain information in our customer care complaint system for three years after receipt, unless the information is needed for an ongoing purpose such as to address an open issue. 
 
-**NON-PERSONAL INFORMATION**
+**Countries Used For Processing**
 
-BWI may also collect “ **Non-Personal Information** ,” meaning aggregated and/or anonymized information, demographic information, and any other information that does not reveal your specific identity. Because Non-Personal Information does not personally identify you, we may use and share such information with BWI Subsidiaries, Licensed Hotels, Affiliates, and other third parties for any purpose, including without limitation to facilitate and improve your ongoing access to and use of our Site, to best tailor our services to suit personal interests, to analyze visiting patterns, enhance and improve customer service, and for our other business purposes. As you navigate the Site, we and our service providers may collect certain Non-Personal Information such as your computer type (Windows or Macintosh), screen resolution, OS version, Internet browser, and Internet browser version using automatic data collection technologies. 
+BWI operates from the United States in accordance with the laws of the United States.  Individuals that provide information to BWI or visit BWI’s website should be aware that the laws of the United States may differ from those of your country of residence.  For example, there may be situations in which we are required to share your information with United States law enforcement personnel.  The following provides additional information for data received by BWI from other countries or transmitted by BWI to other countries:
 
-In addition, we may engage third party tracking and advertising providers to act on BWI's behalf to track and analyze your usage of our Site through the use of such automatic data collection technologies. These third parties collect and share with us, as we may request, Site usage information about visits to our Site, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our Site, help us target and track use of our Internet banner advertisements on our Site and on other sites, and track use of other links from our marketing partners' sites to our Site. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. 
+  * **Transmission of Information from the European Union.   **BWI complies with the U.S.-EU Privacy Shield and the U.S.-Swiss Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries and Switzerland. BWI has submitted its self-certification that it adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principals shall apply. Once your information is received in the United States, if BWI transmits it to a processor outside of the EEA, BWI will take steps to ensure that the processor complies with the substantive principles of the GDPR and/or Privacy Shield.  If you would like more information concerning the protections applied for a particular onward transfer you can contact us using the information below.  To learn more about the Privacy Shield program and to view BWI's certification please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/).  Please note that a violation of BWI’s commitment to Privacy Shield may be investigated by the Federal Trade Commission and/or the United States Department of Commerce. If you feel that BWI has mishandled your Personal Information in violation of the Privacy Shield Privacy Principles, please contact BWI using the contact information below with a written description of your complaint. After receiving such written description, a representative from BWI's Customer Care Department will contact you to set up a time and manner to discuss your complaint. BWI is dedicated to addressing all legitimate complaints about its adherence to this Policy and the Privacy Shield Privacy Principles and will make a good faith effort to engage in communications to address such complaints. For unresolved complaints under the Privacy Shield Privacy Principles, BWI has agreed to participate in the JAMS EU Privacy Shield Program, an independent dispute resolution program established in the EU which is free of charge to you. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by BWI, please visit the JAMS Program Website at [https://jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim](https://www.jamsadr.com/eu-us-privacy-shield "Privacy Shield or Safe Harbor Claim") for more information and/or to file a complaint.  If your complaint is not resolved by BWI, or through the JAMS process, under limited circumstances a binding arbitration option may be available before a Privacy Shield Panel, or you may have the right to lodge a complaint with your local data protection agency.
+  * **Transmission of Information to Other Countries**. In addition to having your information transferred to the United States where BWI is located, if you are making a reservation at a Licensed Hotel in a foreign country your information will be sent to that hotel, as well as to any Affiliate associated with that hotel.  In addition, we may send your information to a vendor or partner in a foreign country for purposes of administering our BWR program and marketing efforts.
 
-**COOKIES**
 
-We may also collect information related to cookies. A cookie is a simple text file that is stored on your computer or mobile device by a website’s server. It contains anonymous information, for example a unique identifier and the name of the website, as well as some numbers and digits. Cookies allow a website to remember your preferences, and items you have placed in your shopping cart. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. The “Help” function within your browser should tell you how to do this. Alternatively, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "link to learn about website cookies"), which gives comprehensive information on how to disable cookies on a wide variety of desktop browsers. If you disable or refuse cookies, please note that some parts of this Site may then be inaccessible or not function properly.
 
-**IP ADDRESSES**
+**Miscellaneous**
 
-Your IP address is a number that your Internet Service Provider automatically assigns to the computer that you are using to access the Site. This number is identified and logged automatically in our server log files whenever users visit the Site, along with the time of each visit and the page(s) that were visited. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites. We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems, validation of a legitimate user session via Google® captcha and administering the Site. Please note that we treat IP addresses, server log files, and related information as Non-Personal Information, except when we are required to do otherwise under applicable law.
+The following additional information relates to our privacy practices:
 
-**DO NOT TRACK**
+  * **Third Party Applications, Websites, and Social Media**.  We have no control over the privacy practices of websites or applications that we do not own. Our websites or our communications may also contain plug-ins and other features that integrate third party social media platforms. If you interact with these, the third parties who operate these platforms may be able to identify you, determine how you use our website, and link and store this information with your social media profile.
+  * **Changes to This Privacy Policy.   **We may change our privacy policy and practices over time.  To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy.
 
-Your web browser may let you choose your preference as to whether you want to allow websites to collect information over time about your online activities across different websites or online services. At this time, the Site does not respond to such “Do Not Track” or similar preferences you may have configured in your web browser, and the Site may continue to collect information in the manner described in this Policy. However, as stated in the “Non-Personal Information” section above, we do allow you to exercise some choice in the information collected by adjusting your browser’s cookie settings.
 
-**THIRD-PARTY SITES**
 
-The Site may contain links to third-party websites. These linked sites (which may include the websites of Licensed Hotels, Affiliates, and various BWR partners or other third parties) are not under BWI's control, and we are not responsible for the privacy practices or the contents of any such linked site (or any link contained in any linked site). We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by BWI or the BWI Subsidiaries. If you decide to access any of the third-party websites linked to this Site, you do so entirely at your own risk and subject to the terms and conditions of use and privacy policies for such websites. If you provide any Personal Information through any such third-party website, your Personal Information will be treated in accordance with the privacy policy of that third party. 
+**Contact Information**
 
-**SECURITY**
+We will attempt to respond to any questions, comments, or complaints concerning our privacy practices.  Please feel free to contact us using the following information.
 
-Because the security of your Personal Information is important to us, we have implemented security measures that provide reasonable precautions against the unauthorized access, disclosure, alteration, or destruction of Personal Information. The Personal Information we collect from you online is stored by us and/or our service providers and protected through a combination of physical and electronic access controls, firewall technology, and other reasonable security measures. Nevertheless, such security measures cannot prevent all loss, access, misuse, or alteration of Personal Information. Where required by law, we will notify you of any such loss, access, misuse, or alteration of Personal Information that may affect you, so that you can take the appropriate actions to protect your rights. We may decide to notify you by mail, email, or telephone where permitted by law.
+_[Custserv@CS.Bestwestern.com](mailto:Custserv@CS.Bestwestern.com)_
 
-Please do not send us your Payment Information or Sensitive Information through e-mail or any undesignated area (e.g., submission of your credit card number in a "comment" field). If you have reason to believe that your interaction with us is no longer secure (e.g., if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the alleged problem by contacting our Customer Care Department as set forth below in this Policy. Please note that, if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the alleged problem.
-
-**YOUR CHOICES**
-
-You may always choose what Personal Information (if any) you wish to provide to us. However, if you choose not to provide certain details, some of your experiences with us may be affected. For example, we cannot take a reservation without a name, and if we cannot disclose your Personal Information to Licensed Hotels or Affiliates, we may be unable to provide you with all or certain reservation services, other services, or membership-program-related benefits. Similarly, if we cannot disclose your Personal Information to other third parties, such as BWR partners (e.g., airlines, card issuers and other third parties), we may not be able to provide all of the available membership program services to you (e.g., earning of frequent customer points with such companies), or the provision of such services may be delayed). We will endeavor to comply with your request as soon as reasonably practicable.
-
-In some jurisdictions, data privacy or other laws may require us to obtain your consent before we send you information that you have not specifically requested. In certain circumstances, your consent may be implied (e.g., where communications are required in order to fulfil your requests and/or where you have volunteered information for use by us). In other cases, we may be required to seek your consent expressly (e.g., where the information collected is regarded to be Sensitive Information under local regulations).
-
-If you do not wish for us to use your contact information to promote our own or third parties' products or services, you can opt-out of any or all such promotional communications or withdraw your previous consent by contacting our Customer Care Department as set forth in the “Contacting Us” section of this Policy below. If you have received a promotional e-mail from us and no longer wish to receive such e-mails going forward, you may opt-out by using the unsubscribe function in the e-mail you have received from us. Please note that when you unsubscribe from receiving promotional e-mails from us, your contact details will be “suppressed” rather than deleted. This will ensure that your request is recorded and retained unless you provide a later consent that overrides it. 
-
-If you have a BWR account, we ask you to indicate your communication preferences at the time you become a member of the BWR program. Once you have indicated your preferences, you can change them by logging into your account.
-
-Please note that if you opt-out as described above, we will not be able to remove your Personal Information from the databases of Licensed Hotels, Affiliates, or other third parties with which we have already shared your Personal Information.
-
-**ACCESS, DELETION & MODIFICATION**
-
-BWI may allow you to review certain Personal Information through the Site or through other online means. Information about the availability of online means for reviewing your Personal Information is generally available at the Site or on the printed materials where such type of Personal Information was first submitted.
-
-Pursuant to applicable law, you may have the right to request access, deletion or changes to the Personal Information we maintain about you and, where appropriate, request that we update such Personal Information you believe is incomplete, inaccurate or out of date. You can also inquire whether we maintain Personal Information that relates to you. Although BWI will attempt in good faith to respond to your request, we may not be able to provide, delete, or change your Personal Information in all circumstances. For example, BWI may not be able to change, provide, or delete Personal Information about you if it would impose an undue burden or expense, or require BWI to also change information relating to another person. In addition, in some circumstances pursuant to applicable law, you may have the right to request that we cease using Personal Information about you on the grounds that such Personal Information was acquired by unjust means or used in violation of law. BWI will honor such requests as required and within the time specified by applicable law and, where permitted by law, may charge an appropriate fee to cover the costs of responding to your request.
-
-To make one of the requests listed above, please complete and submit this [Request Form](https://www.bestwestern.com/content/best-western/en_US/legal/privacy-form.html "link to request form for updating personal information"). Please be sure to include your full name, address, telephone number, e-mail address, BWR rewards number (if any), as well as the date and location of your most recent hotel stay at a Best Western branded hotel. We use this information to ascertain your identity to determine whether we have any Personal Information regarding you, or in case we need to contact you to obtain any additional information.
-
-**DATA RETENTION AND MINIMIZATION**
-
-BWI only collects Personal Information that it believes is necessary to perform the services that you seek from BWI and to exercise its rights and comply with its obligations as otherwise outlined in this Policy. We will keep your Personal Information only as long as we need it for the purposes for which we collect it or as otherwise permitted by law.
-
-**NOTE REGARDING THE USE OF THE SITE BY MINORS**
-
-The Site is not directed to minors (as defined by applicable law), and we request that such individuals do not provide Personal Information through the Site. If we learn we have collected or received Personal Information from a minor under the age of 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a minor under the age of 13, please contact our Customer Care Department as set forth in the “Contacting Us” section of this Policy.
-
-**EU-US PRIVACY SHIELD  AND SWISS-US PRIVACY SHIELD  
-**
-
-BWI complies with the U.S.-EU Privacy Shield and the U.S.-Swiss Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries and Switzerland. BWI has submitted its self-certification that it adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view BWI's certification once it is approved by the U.S. Department of Commerce, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/ "link to privacy shield program"). Please note that a violation of BWI’s commitment to Privacy Shield may be investigated by the Federal Trade Commission and/or the United States Department of Commerce. 
-
-If you feel that BWI has mishandled your Personal Information in violation of the Privacy Shield Privacy Principles, please contact BWI through its Customer Care Department with a written description of your complaint. After receiving such written description, a representative from BWI's Customer Care Department will contact you to set up a time and manner to discuss your complaint. BWI is dedicated to addressing all legitimate complaints about its adherence to this Policy and the Privacy Shield Privacy Principles and will make a good faith effort to engage in communications to address such complaints. For unresolved complaints under the Privacy Shield Privacy Principles, BWI has agreed to participate in the JAMS EU Privacy Shield Program, an independent dispute resolution program. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by BWI, please visit the JAMS Program Website at https://jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim for more information and/or to file a complaint. If your complaint is not resolved by BWI, or through the JAMS process, under limited circumstances a binding arbitration option may be available before a Privacy Shield Panel, or you may have the right to lodge a complaint with your local data protection agency.  
-
-
-**JURISDICTIONAL / DATA TRANSFER ISSUES**
-
-The Site and BWI are operated from the United States in accordance with laws of the United States, and visitors to our Site, those who provide us Personal Information, and those who otherwise indicate their consent to the receipt of marketing or other information from us, should be aware that the laws of the United States may differ from those of your country of residence. BWI does not represent or warrant that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk and are responsible for complying with all local laws, rules, and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. By submitting any Personal Information to us, you consent to the transfer of such Personal Information to and the processing of such Personal Information in countries other than your country of residence, including countries that may provide a different level of data security than in your country of residence, including the United States, where BWI is located. In addition, if we need to transfer any Personal Information to Licensed Hotels, Affiliates, or other third parties pursuant to this Policy, please be advised that such entities may or may not be located in countries that are considered "adequate" pursuant to the EU-US Privacy Shield, Swiss-US Privacy Shield or other laws.
-
-**CALIFORNIA USERS: YOUR CALIFORNIA PRIVACY RIGHTS**
-
-California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose Personal Information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information sharing. We have such a policy in place. You may opt-out of information sharing or find out about any rights you may have under California Civil Code section 1798.83 by emailing BWI at [Custserv@Cs.bestwestern.com](mailto:custserv@cs.bestwestern.com "link to email Best Western Customer Service") or by contacting our Customer Care Department as set forth below under “Contacting Us.” Please note that in order to fulfil certain rewards, we must share your information with our BWI Subsidiaries, Affiliates or third party service providers. In addition, when you make a reservation or stay at a Licensed Hotel or through an Affiliate, you are providing your information directly to that Licensed Hotel or Affiliate and the restrictions contained in this Section will not apply to BWI with respect to such information. Please follow the instructions provided to you by any third party service providers to unsubscribe from their messages. If you have opted-out as described above, and thereafter you elect to initiate a transaction that requires us to share your information with such third party again, then your previous opt-out preferences will not apply.
-
-**CONTACTING US**
-
-If you have any questions regarding this Policy, or would like to update your information or modify your communication preferences, please contact us by e-mail at [Custserv@Cs.bestwestern.com](mailto:custserv@cs.bestwestern.com "link to email Best Western Customer Service") , by phone at 800-528-1238, or write to us at the following address:
+1-800-528-1238
 
 Best Western International, Inc.  
 Customer Care Department  
 P.O. Box 10203  
-Phoenix, AZ 85064  
-Attn: Customer Care  
- 
+Phoenix, Arizona 85064
+
+Attn: Customer Care
 
 Best Western International, Inc.  
 Unit 7 Citylink Business Park  
 Old Nass Road  
 Dublin 12  
-Ireland  
+Ireland
+
 Attn: Legal Department  
-(BWI’s representative in the EU)
+(BWI representative in the EU)
 
-Please note that e-mail communications will not necessarily be secure; accordingly, you should not include Payment Information or Sensitive Information in your e-mail correspondence to us. 
+Please note that e-mail communications will not necessarily be secure; accordingly you should not include Payment Information or Sensitive Information in e-mail correspondence to us.
 
-**CHANGES TO THE POLICY**
-
-BWI reserves the right to change, modify, or amend this Policy at any time. The date this Policy was last revised is at the top of this page. If we make a material change to this Policy, we will indicate on the Site that our privacy practices have changed and will provide a link to the new policy. If we make material changes to how we use your Personal Information, we will notify you by e-mail to the e-mail address specified in your account (if applicable) and/or through a notice on the Site’s home page, and we will provide you with an opportunity to opt-out of such new or different use. Any changes to the Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
+If you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.
