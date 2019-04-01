@@ -1,75 +1,93 @@
-> *The following text is extracted and transformed from the cityxguide.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102002427id_/http%3A//cityxguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityxguide.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401174230id_/https%3A//cityxguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Cityxguide
+# Privacy Policy | cityxguide.com
 
-**PRIVACY POLICY FOR  CITYXGUIDE, INC.**
+Last Revised: July 27, 2017
 
-Effective Date: January 2, 2011
+cityxguide.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
-Last Updated: January 2, 2011
+**Acceptance of Privacy Policy**
 
-I. General.
+Each time you access, use, post, submit a post or reply, or browse the Site, you signify your acceptance of the then-current Privacy Policy. If you do not accept this Privacy Policy, you are not authorized to use the Site and must discontinue use of the Site immediately.
 
-A. The operative parties referred to in this policy are Company and you, the user of this site.
+**Collection and Use of Personal Information**
 
-1\. Cityxguide, Inc. is the publisher and/or operator of various websites and are hereinafter referred to collectively as “Company.” When first-person pronouns are used in this Policy (us, we, our, ours, etc.), these provisions are referring to Cityxguide, Inc. as applicable. Additionally, when the terms “The Site” or “Site” are used, these terms refer respectively to Sites published and/or operated by Cityxguide, Inc., as applicable.
+We collect personal information about you whenever you engage in commerce transactions on the Site, use the Site’s products or services, request information or materials, create or update account information, place orders or make purchases, communicate with us, or visit the Site. The personal information we collect and store about you may include without limitation your first and last name, email address, credit or debit card number, telephone numbers, billing and shipping information, order history, and other non-public information about you.
 
-2\. You, the User – As the user of this Site, this policy may refer to the user as “you” or through any second-person pronouns, such as “yours,” etc.
+We may use the information we collect to:
 
-3\. Potential Advertisers – Some individuals access the Site for the purpose of applying to become an Advertiser on the Site. These individuals are considered “Users” as defined hereunder.
+  * Provide superior services;
+  * Keep you apprised of information and developments that you may find of interest;
+  * Alert you to new features, terms, content, products or services;
+  * Contact you regarding your posts, replies, and/or account information;
+  * Process and respond to your inquires;
+  * Improve the Site;
+  * Administer, monitor and control use of the Site, including posts, replies, and account information; and
+  * Enforce the Terms of Use (collectively, the “Activities”).
 
-4\. Advertiser – As soon as a Potential Advertiser establishes an advertising account with us by, among other things, agreeing to our advertiser agreement, such individual is deemed to be an Advertiser notwithstanding whether such individual has prepared or published an advertisement. This Privacy Policy does not apply to non-Users. Advertisers are not considered “Users” as defined hereunder and are governed by the advertiser agreement.
 
-B. This Privacy Policy describes how we use information received about you when you visit our Site or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the Site.
 
-II. Revisions To This Policy.
+You authorize the Site to transmit email to you to respond to your communications and administer Activities. If you choose to receive mobile notifications, you authorize and agree that the Site may send text messages to your mobile phone, and you will be responsible for any message or data charges that may apply..
 
-We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “Last Updated” date remains unchanged after you have clicked the “refresh” button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed “Last Updated” date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
+**Disclosure of Personal Information to Third Parties**
 
-III. Personal Information That We Collect.
+We may disclose your personal information to agents and operators under confidentiality or similar agreements, including shippers, vendors, payment processors, and advertisers, who we believe reasonably need to come into contact with that information: (i) to provide products or services to you; (ii) to administer our business or the Site, including fulfilling and shipping orders; (iii) to provide customer service; (iv) to update account information; (v) to forward updates, announcements, and newsletters; (vi) to respond to your communications, and communicate with you about the Site and other activities related to the Site; (vii) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of the Site’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or (viii) as otherwise authorized by you.
 
-Users of our Site and services will have multiple manners of interactivity with us. However, aside from information collected from Potential Advertisers or Advertisers on “cityxguide.com” and possible other sites as applicable, at the present time, and subject to our exclusive revision without prior notice, Users are not required to enter through any active data collection pages. Any information gathered is limited to cookies, IP Addresses and Referral URLs, and other passive information gathering devices, as explained below. We collect certain necessary information such as name, email, phone number, age, and IP addresses from Potential Advertisers and/or Advertisers. Our use of information collected from Advertisers is governed by a separate advertiser agreement. We reserve the right to utilize information collected from Potential Advertisers, during the registration process, and Users who voluntarily provide us information such as comments, feedback, and DMCA notices (“Voluntary Users”), in accordance with the applicable provisions of Sections V and VI, below.
+We integrate third party software which collects information about users for security purposes. Information collected by reCAPTCHA is held in accordance with the Google Privacy Policy.
 
-IV. How We Collect Information From You.
+**Disclosure in Other Circumstances**
 
-A. Passive Collection – We use cookies to collect information about you in order to enhance your experience on the site. The collection of these cookies is intended to improve site navigation; maintain tracking of visitor preferences; provide general internal and user web analytics reports; conduct research; and assist in identifying possible fraudulent activities. The information collected in our cookies includes, but is not limited to, your user IP address, browser information, geographic location and other session data.
+We may also disclose your name, email address, telephone numbers, or other information about you, including personal information if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger. We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law.
 
-B. Active Collection – Except as stated in Section III, the Site does not presently engage in any active collection of User data. The information referenced in Section III is collected from Potential Advertisers, during the registration process, from Advertisers, during his/her interactions with us including, but not limited to, the ad preparation/submission process, and from Voluntary Users.
+Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public.
 
-V. How We Use Your Information.
+**Collection of Non-Personal Information Using Cookies**
 
-The primary use for any information collected is to provide you with Site services. We also use your information to deliver customized services to you; for User support purposes; and for efforts to monitor and help ensure against fraud, harassment and spamming. Non-personal and aggregate information, which is – as stated above – collected passively, is used in order to geographically customize our marketing efforts or to generally customize the use of our site for an aggregate group of customers. Information gathered from Potential Advertisers may be used to assist such individuals in completing the registration process, promotional communications, and for marketing and/or research purposes. Information gathered from Voluntary Users may be used in any manner at our sole discretion including, but not limited to, as described in Section VI.
+We and certain service providers operating on our behalf collect information about your activity on our Site using tracking technologies such as cookies. This tracking data is used for many purposes, including, for example, to (i) deliver relevant content based on your preferences, usage patterns and location; (ii) monitor and evaluate the use and operation of our Site; and (iii) analyze traffic on our Site and on the sites of third parties.
 
-VI. Special Cases.
+Non-personal information collected includes, without limitation, your Internet Protocol (“IP”) address, the pages you request, the type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome or Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site and the content you accessed. We may also collect your geolocation information when you visit our Site, including location information either provided by a mobile device interacting with our Site, or associated with your IP address, where we are permitted by law to process this information.
 
-It is our policy not to use or share the passive information about Users in ways unrelated to those described in this Policy without also providing the User with an opportunity to opt out or otherwise object to such unrelated uses. However, we may disclose passively-collected information about Users, or information regarding your use of the Services or web sites accessible through our Services, for any reason without notice if, in our sole discretion, we believe that it is reasonable to do so, including, but not limited to:
+Advertisers and third parties also may collect information about your activity on our Site and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see on third-party sites and applications, but does not identify you personally. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers. You may also choose to control targeted advertising you receive within applications by using your mobile device settings (for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads). We adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
 
-1\. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
+**Communication from the Site/Opt-Out**
 
-2\. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions and other policies and procedures;
+From time to time, we may send you information with announcements and updates about the Site and your account. You may elect to opt-out of ongoing e-mail communication from us, such as newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. by using a simple “opt out” procedure. You need only reply to the communication with the word “unsubscribe” (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. However, if you opt-out of receiving our announcements and updates about your account, you may no longer have access to areas restricted to account members.
 
-3\. To operate our Services properly;
+**Correction/Update of Personal Information**
 
-4\. To protect ourselves, our Users, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime – including, but not limited to, fraud-related offense – is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, warrants, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process; and
+If your personal information changes, you may review/correct/update your personal information previously provided at any time by sending us an email at support@cityxguide.com. You may also have your personal profile data deleted from our database by sending us an email to support@cityxguide.com. However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members.
 
-5\. To cooperate with law enforcement authorities, and other governmental, administrative or regulatory agencies about our Users to the extent required by applicable law. Examples of such cooperation include, but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, warrants, or writs. We do not presently intend to cooperate with private-party litigants and others seeking information unless compelled to do so through lawful court or administrative process, such as subpoenas, court orders, warrants, or writs.
+**Contact Us:**
 
-VII. Electronic Communication from Us.
+Email: Contact us  
+Telephone: +852 28660130  
+Mailing Address:  
+115 Repulse Bay Road.  
+Apartment 755  
+Repulse Bay, Hong Kong
 
-Except as otherwise provided hereunder with respect to Potential Advertisers and Voluntary Users, the Company does not presently intend to send promotional communications to Users, as there is no active collection of a User’s email address or contact information. Notwithstanding, the Company specifically reserves the right to change this policy, and do so in the future, without prior notice. The implementation of any changes to the preexisting practice will be reflected in the Site’s Privacy Policy. We strongly advise our Users to periodically review the terms of this policy in order to stay apprised of any such changes.
+**Children**
 
-If you provide your information to us or use the Site, you will have created a commercial relationship with us. Even though the Site presently opts not to provide Users, as described above, with promotional advertising materials (except as otherwise described hereunder with respect to Potential Advertisers and Voluntary Users), your use of the Site and its services constitutes your understanding and consent that even unsolicited commercial email sent from us or our affiliates is not unlawful SPAM as that term is defined under the law.
+The Site is not intended for children under the age of 18 nor does the Site knowingly collect personal information from children under 18. The Site does not orient this Site toward children or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children’s use. The Site does not collect or distribute information indicating whether a user is a child.
 
-VIII. Public Forums.
+**Links to Other** sites
 
-At the time of the institution of this Policy, the Site does not offer any public forums or blogs to Users. The Company reserves the right to offer public forum and blogging services in the future.
+This Site provides links and pointers to Web sites maintained by other organizations. The Site provides these links as a convenience to users, but it does not operate, control or endorse such sites. The Site also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. The Site does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer.
 
-IX. Our Commitment to Data Security.
+**E-Commerce and Our Secure Server**
 
-We take measures, including data encryption, to protect the transmission of all sensitive User information. We make every reasonable effort to help ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
+We understand that storing data in a secure manner is important. We store personal information using industry standard, reasonable and technically feasible, physical, technical and administrative safeguards against foreseeable risks, such as unauthorized access. All commerce transactions that take place on the Site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected.
 
-Further, other than what is stated hereunder, we do not provide User information to third parties; nor will we sell, rent or provide any of your information to other entities such as advertisers, or other companies selling services similar to this Company’s services. The Site may contain advertisements that contain or are in the form of banners/links to third party sites and you understand and acknowledge that such third party sites generally will contain policies and procedures including, but not limited to, terms of use, privacy policy, etc. that are different from our site’s. If you access a third party’s site, we encourage you to read and understand such site’s policies and procedures.
+Please be aware that the Site and data storage are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond the Site’s control. We cannot guarantee the security of the information on and sent from the Site.
 
-X. Where to Direct Questions About Our Privacy Policy.
+On our Site, you may have the opportunity to follow a link to other sites that may be of interest to you. We are not responsible for the privacy practices of those sites or the content provided thereon. We disclaim any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions.
 
-If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us at legal@cityxguide.com.
+**Policy Changes and Acceptance**
+
+The Privacy Policy may be revised from time to time as we add new features and services, as laws change, and as industry privacy and security best practices evolve. We display an effective date on the upper left corner of the Privacy Policy so that it will be easier for you to know when there has been a change. Accordingly, you should check the Privacy Policy on a regular basis for the most current privacy practices. Each time you access, use or browse the Site, you signify your acceptance of the then-current changes to the Privacy Policy applying to your personal information collected by us on and from the effective date of such changes.
+
+Any changes in the Privacy Policy will take effect upon posting and apply only to information collected from you on and after Last Revised date, unless we provide notice or have other communications with you.
+
+**More Questions?**
+
+If you have any questions about this Privacy Policy, e-mail them to abuse@cityxguide.com, and be sure to indicate the specific site you’re visiting and the nature of your question or concern.
