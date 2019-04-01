@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michigansavingandmore.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231152628id_/https%3A//www.michigansavingandmore.com/home-3/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michigansavingandmore.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401131134id_/https%3A//www.michigansavingandmore.com/home-3/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure Policy Privacy Policy
 
