@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the rezscore.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126094038id_/http%3A//rezscore.com/images/RezScore%2520-%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezscore.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401051209id_/http%3A//rezscore.com/images/RezScore%2520-%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # RezScore
 
                                 RezScoreSM Privacy Policy
-Last updated: August 19, 2011
+Last updated: January 7, 2019
          Thank you for using RezScore.com. We are committed to protecting your privacy
 and, for that reason, we have adopted this Privacy Policy to memorialize our data
 collection and disclosure practices for our website and its related tools and services,
@@ -165,7 +165,7 @@ Policy or in our other communications with you, including the transmission of
 information outside your resident jurisdiction. In addition, please understand that such
 Personal Information and data may be stored on servers located in the United States. By
 providing us with your Personal Information or data, you consent to the transfer of such
-data to the United States.
+data to the United States. RezScore complies with all GDPR provisions.
 
 
 8.       Children
@@ -249,6 +249,6 @@ WEBSITE AND SERVICES AFTER THE EFFECTIVE DATE OF SUCH CHANGES.
 
 RezScore LLC
 Attn: Privacy Matters
-606 Cooper Landing Road, Suite A3C
-Cherry Hill, NJ 08002
+792 Highland View Lane
+Camano, WA 98282
 Email: privacy@rezscore.com
