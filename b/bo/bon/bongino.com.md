@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bongino.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617095915id_/https%3A//www.bongino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongino.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401054128id_/https%3A//bongino.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Dan Bongino
 
 ## Privacy Policy
 
-Thank you for visiting bongino.com.  We are committed to protecting your personal information and your right to privacy.  If you have any questions about this policy, please contact us at [info@bongino.com](mailto:info@bongino.com).
+Thank you for visiting bongino.com.  We are committed to protecting your personal information and your right to privacy.  If you have any questions about this policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88e1e6eee7c8eae7e6efe1e6e7a6ebe7e5).
 
 This Privacy Policy governs the manner in which we collect, use, maintain and disclose information collected from users of www.bongino.com (the “website”). This Privacy Policy applies to the website and all products and services offered.
 
@@ -44,7 +44,7 @@ If your communication relates to a law enforcement matter, we may disclose the i
 
 **How Long We Keep Information**
 
-We may keep the information that we collect for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law. You may unsubscribe from our communications or request that your information be deleted at any time by contacting us at [info@bongino.com](mailto:info@bongino.com).
+We may keep the information that we collect for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law. You may unsubscribe from our communications or request that your information be deleted at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d44434b426d4f42434a444342034e4240).
 
 **Use of Cookies**
 
@@ -64,7 +64,7 @@ From time to time, we may establish a business relationship with other businesse
 
 **Your Access to and Control Over Information**
 
-You may opt out of any future contacts from us at any time by contacting us via email at [info@bongino.com](mailto:info@bongino.com).
+You may opt out of any future contacts from us at any time by contacting us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#345d5a525b74565b5a535d5a5b1a575b59).
 
 **Links to Other Websites**
 
@@ -84,6 +84,6 @@ By using the website, you signify your acceptance of this policy. If you do not 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at [info@bongino.com.](mailto:info@bongino.com) or at P.O.Box 1003, Palm City, FL, 34991
+If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#442d2a222b04262b2a232d2a2b6a272b29) or at P.O.Box 1003, Palm City, FL, 34991
 
 Last updated May 24, 2018.
