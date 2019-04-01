@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgame4fun.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914071021id_/http%3A//www.pcgame4fun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgame4fun.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401053841id_/http%3A//www.pcgame4fun.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
