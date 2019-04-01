@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prfree.org privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017083028id_/http%3A//www.prfree.org/page/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfree.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401193741id_/https%3A//www.prfree.org/page/privacy.php) for the most accurate reproduction.*
 
 # PRFree - Privacy Policy
 
