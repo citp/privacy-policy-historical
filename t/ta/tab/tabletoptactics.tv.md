@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabletoptactics.tv privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231101256id_/https%3A//www.tabletoptactics.tv/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabletoptactics.tv privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401082025id_/https%3A//www.tabletoptactics.tv/privacy-terms) for the most accurate reproduction.*
 
 # PRIVACY & TERMS – Tabletop Tactics
 
@@ -6,7 +6,7 @@
 
 The following Privacy & Terms policies are in place here for users of our website.
 
-**PRIVACY**
+ **PRIVACY**
 
 If you transact business with us either through membership subscription or physical product purchase, **w** **e do not store credit card**   **details nor do we share customer financial information with any 3rd parties.** All transactions are processed through our payment gateway partners, _**PayPal**_ or **_Stripe_**.
 
@@ -23,9 +23,9 @@ We may use your personal information to do the following:
 
 
 
-**As per the General Data Protection Regulation, you are entitled to view, amend, or delete the personal information that we hold.** You may email your request using the [Contact Form](https://www.tabletoptactics.tv/contact/).
+ **As per the General Data Protection Regulation, you are entitled to view, amend, or delete the personal information that we hold.** You may email your request using the [Contact Form](https://www.tabletoptactics.tv/contact/).
 
-**COOKIES**
+ **COOKIES**
 
 Cookies are very small text files that are stored on your computer when you visit some websites.
 
@@ -33,7 +33,7 @@ We use cookies to help identify your computer so we can tailor your user experie
 
 You can disable any cookies already stored on your computer via your web browser, but these may stop our website from functioning properly. Continued use of our website assumes that you are happy to use cookies although you may also opt out of Cookies via our Cookie notice.
 
-**The following is strictly necessary in the operation of our website.**
+ **The following is strictly necessary in the operation of our website.**
 
 This Website Will:
 
@@ -45,7 +45,7 @@ This Website Will:
 
 The following are not Strictly Necessary, but are required to provide you with the best user experience and also to tell us which pages you find most interesting (anonymously).
 
-**Functional Cookies**
+ **Functional Cookies**
 
 This Website Will:
 
@@ -53,7 +53,7 @@ This Website Will:
 
 
 
-**Targeting Cookies**
+ **Targeting Cookies**
 
 This Website Will:
 
@@ -61,29 +61,29 @@ This Website Will:
 
 
 
-**This website will not**
+ **This website will not**
 
   * Share any personal information with third parties outside of Automattic.
 
 
 
-**DELIVERY**
+ **DELIVERY**
 
 Delivery of Membership Subscription is immediate via streaming access to the ‘On Demand’ only content of our website. Delivery of Merchandise and physical products are processed through [Royal Mail](http://www.royalmail.com/).
 
-**CANCELLATIONS**
+ **CANCELLATIONS**
 
 By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. You may decline to renew, by cancelling your subscription at any time prior to the commencement of a renewal subscription. Tabletop Tactics reserves the right to deny subscriptions, renewals, and other purchases for any reason.
 
 When a subscription ends, access to the ‘On Demand’ streamed content of the website will cease and the account and its content may be deleted if the subscription is not renewed.
 
-**REFUNDS**
+ **REFUNDS**
 
 Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have seven (7) days after purchase to cancel and receive a full refund. After the cancelation period ends, all purchases are final and all fees paid are non-refundable.
 
 Purchases of Merchandise and other physical products may be refunded up to thirty (30) days after their purchase, provided they are returned to Tabletop Tactics in their original state. Postage costs for returns are made at the expense of the person or party requesting the refund.
 
-**COPYRIGHT DISCLAIMER**
+ **COPYRIGHT DISCLAIMER**
 
 The Tabletop Tactics logo and name are a ® Registered Trade Mark and may not be used in personal or commercial projects without express permission. This website is in no way endorsed by Games Workshop Limited. All Rights Reserved to their respective owners.
 
