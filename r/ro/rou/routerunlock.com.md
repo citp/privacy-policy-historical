@@ -1,29 +1,69 @@
-> *The following text is extracted and transformed from the routerunlock.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192604id_/https%3A//routerunlock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routerunlock.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401081936id_/https%3A//routerunlock.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - routerunlock.com
+# Privacy Policy | RouterUnlock.com
 
-**Privacy Policy**
+## Who we are
 
-We receive and collect visitors information, as and when you visit our site, but we respect the privacy. The information includes your IP address, your ISP (internet service provider), the browser you used to visit our site (Internet Explorer, Firefox, Opera, Google’s Chrome etc), the time you visited our site and which pages you visited throughout our site.
+Our website address is: [https://routerunlock.com](https://routerunlock.com/).
 
-We never sell your personal information to third parties.
+## What personal data we collect and why we collect it
 
-**About US**
+### Comments
 
-I am Kamlesh Kumar, based on Bihar (India). At, [routerunlock](https://routerunlock.com/), we provide information about phones, smartphones, tablets, routers, modems, wingles, tablets, routers, SEO, computers, etc and another new technology from around the world.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**About Refund**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-We run unlocking services and provide the unlock code of [Huawei](https://routerunlock.com/tag/huawei/), Alcatel, etc. Before making payment, make sure that the device is asking for the unlock / SIMLock / NCK code as mentioned in the individual post. It may be locked by your network provider and the mentioned procedure may not work for you. Before making payment think twice and check out the procedure, if everything works as mentioned in the post then only pay. No (R) no refund will be provided for any mistakes.
+### Media
 
-For refund, only those people are authorized, who are regular customers or if my provided code does not work. Refund will take time, if by any means my provided codes do not work for you, then don’t fight for an immediate refund, it will take time and will be returned.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-If you have [paid through PayPal and want the refund](https://routerunlock.com/payment-method-unlock-code-international-customers/), from every transaction 0.30 USD fee will be reduced. Suppose, you have paid 2.38 USD, then in the refund, you will receive only 2.08 USD. Rest are taken by PayPal and I will be not able to refund this amount.
+### Contact forms
 
-If Indian users have paid online through [payumoney](https://routerunlock.com/new-payment-method-unlock-code-indian-customers/), then he will get a full refund without deducting any charges, since payumoney does not take taxes in refunding the money.
+### Cookies
 
-If you are agreeing with above terms and conditions then only pay. If don’t agree with above conditions, then happily search another place. We don’t have time to provide you service.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-**How to Contact?**
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-We have removed our contact information from every page. Once comment made, if required I will contact you through email.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
