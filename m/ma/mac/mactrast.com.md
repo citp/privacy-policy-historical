@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the mactrast.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608060657id_/http%3A//www.mactrast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mactrast.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401152556id_/https%3A//www.mactrast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This is mactrast.com and the following privacy policy statement serves as a disclaimer to notify users of the website practices and its data use.
 
-Please reach out to contact@mactrast.com for questions that are not addressed in the below privacy policy statement.  
-
+Please reach out to contact@mactrast.com for questions that are not addressed in the below privacy policy statement.
 
 The privacy of our readers is of extreme importance to us. We will never share or sell your personally identifiable information such as email address, phone number, or home address.
 
@@ -13,7 +12,7 @@ We use third party analytics and advertising apps that place cookies on your per
 
 ## Content quality
 
-We cannot offer our users and or visitors guaranteed accuracies. Whenever possible we will make an attempt to adjust or amend information deemed inaccurate provided on our site that we have control over (E.G. editorial content). Usage of this website is offered without any guarantees. If a visitor has a complaint about content or anything else contained within mactrast, please email us.
+While is strive for the most accurate reporting possible, we cannot offer our users and or visitors guaranteed accuracies. Stories that are not considered news will be filed under our “rumor” section.  Whenever possible we will make an attempt to adjust or amend information deemed inaccurate provided on our site that we have control over (E.G. editorial content). Usage of this website is offered without any guarantees. If a visitor has a complaint about content or anything else contained within Mactrast, please email us.
 
 For each visitor to this website, our web server automatically attempts to recognize the consumer’s domain name or IP address and/or e-mail address (where possible or when specified by the user, in comments or otherwise).
 
@@ -25,11 +24,11 @@ The information we collect is used for internal aggregation, and is used to impr
 
 With respect to use of cookies: We use cookies to store visitors preferences and to display Google Adsense Doubleclick DART information. Third party advertisers may use cookies as well, and some social sharing services may also use cookies, though these are beyond the scope of mactrast.com.
 
-mactrast offers opt-in mail list subscriptions with a digest of posts. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or follow the unsubscribe link in our emails.
+Mactrast offers opt-in mail list subscriptions with a digest of posts. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or follow the unsubscribe link in our emails.
 
 ## Ad Servers
 
-With respect to mactrast’s ad servers: We try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our website. mactrast earns commission on sales through these ads. As a result of your visit to our site and upon clicking on relevant ads, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+With respect to Mactrast’s ad servers: We try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our website. Mactrast earns commission on sales through these ads. As a result of your visit to our site and upon clicking on relevant ads, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
 https://www.google.com/adsense/support/bin/answer.py?answer=100557
 
@@ -43,9 +42,9 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or at contact@mactrast.com
 
-## Affiliate link use on macTrast
+## Affiliate link use on Mactrast
 
-When appropriate, mactrast.com will include links to products or services with ‘affiliate’ codes attached to them, this gives Mactrast.com commission on sales through those links. This commission goes to supporting the production and maintenance of the site.
+When appropriate, mactrast.com will include links to products or services with ‘affiliate’ codes attached to them, this gives mactrast.com commission on sales through those links. This commission goes to supporting the production and maintenance of the site.
 
 Mactrast.com is a participant in the StackCommerce and Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and StackSocial products. Purchases made through these links may offer commissions to MacTrast.com.
 
