@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsofbrands.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815040632id_/http%3A//adsofbrands.net/en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsofbrands.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401072635id_/https%3A//adsofbrands.net/en/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - adsofbrands.net
 
@@ -49,3 +49,5 @@ Panda Projects LLC
 
 6\. Changes To The Privacy Policy  
 This Privacy Policy is effective as of Sep 19, 2016. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
+
+[](https://www.geretyawards.com/)
