@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the remotepc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225401id_/https%3A//www.remotepc.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remotepc.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401132116id_/https%3A//www.remotepc.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # RemotePC™ - Privacy Policy
 
 ####  Privacy Policy 
 
-Last Updated: June 22, 2016 
+Last Updated: May 08, 2018 
 
-Pro Softnet Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
+IDrive Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
-Users can access Pro Softnet services (the “Services”) through our websites, applications on Devices, through APIs and through third parties. A “Device” is any computer used to access the Services, including without limitation a desktop computer, laptop, mobile phone, tablet or other consumer electronic device. This Privacy Policy governs your access to Pro Softnet Services, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information”.
+Users can access IDrive Inc. services (the “Services”) through our websites, applications on Devices, through APIs and through third parties. A “Device” is any computer used to access the Services, including without limitation a desktop computer, laptop, mobile phone, tablet or other consumer electronic device. This Privacy Policy governs your access to IDrive Inc. Services, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information”.
 
 What Information Do We Gather? 
 
 __User Provided Information__ – Due to the nature of our Services, we must collect personal information from users during the registration process including first and last names, a valid credit card to process payment for service, home and/or business postal addresses, an email address and a password. In addition to required member information, we may conduct surveys and ask users to volunteer demographic information to be used on an aggregate basis for internal market research and/or joint research projects with outside companies involved in product development. You may also ask us to import your contacts by giving us access to your Device(s), third party services (for example, your email account) or to use your social networking information if you give us access to your account on social network connection services. You may also provide us with your contacts’ email addresses when sharing folders or files with them.
-
-__Files__ – We collect and store the files and data you transmit between your Devices and Pro Softnet infrastructure using our Services. 
 
 __Session Records__ \- To maintain our quality of service and to assist in the analysis of product performance, we may also gather data on connection information, including the timing and size of all packets sent over the Internet during a session, session date and times, Device Internet Protocol (“IP”) address, browser type, Device name and/or identification number, and other interactions with the Service. The gathered information is used to ensure the highest quality experience possible. 
 
@@ -36,7 +34,7 @@ __Service Providers, Business Partners and Others__ \- We may use certain truste
 
 __Third-Party Applications__ \- We may share your information with a third party application with your consent, for example when you choose to access our Services through a third-party application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you. 
 
-__Compliance with Laws and Law Enforcement Requests; Protection of Pro Softnet’s Rights__ \- We may disclose to parties outside Pro Softnet files stored in your account and information about you that we collect when we have a good faith belief that disclosure is reasonably necessary to (i) comply with a law, regulation or compulsory legal request; (ii) protect the safety of any person from death or serious bodily injury; (iii) prevent fraud or abuse of our Services or its users; or (iv) to protect our property rights. If we provide your files to a law enforcement agency as set forth above, we will remove encryption from the files before providing them to law enforcement only if a default encryption key is used. We will not be able to decrypt any files that are encrypted using a user defined encryption key. 
+__Compliance with Laws and Law Enforcement Requests; Protection of IDrive Inc.’s Rights__ \- We may disclose to parties outside IDrive Inc. information about you that we collect when we have a good faith belief that disclosure is reasonably necessary to (i) comply with a law, regulation or compulsory legal request; (ii) protect the safety of any person from death or serious bodily injury; (iii) prevent fraud or abuse of our Services or its users; or (iv) to protect our property rights. 
 
 __Business Transfers__ \- If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction, but we will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your personal information or files, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information. 
 
@@ -50,17 +48,19 @@ Data Retention
 
 We will retain your information for as long as your account is active or as needed to provide you our Services. If you wish to cancel your account or request that we no longer use your information to provide you Services, you may delete your account through the account settings after logging in to our Service from our website. Your files will automatically be removed from our servers within 10 business days of cancellation. Please note, that there might be latency in deleting backed-up versions of files that may exist after deletion. We may retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Safe Harbor Policy
-
-We participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. We are committed to the resolution of complaints about your privacy and the collection or use of your personal information, and any complaints by European Union citizens relating to this policy, which cannot be resolved directly with Pro Softnet, will be resolved through EU Data Protection Authorities. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor website. If you would like to contact us directly about the Safe Harbor program, please send an e-mail to [safeharbor@pro-softnet.com](mailto:safeharbor@pro-softnet.com). 
-
 Security
 
 We take reasonable precautions to protect personal information in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. User data is password protected and your password should never be shared with anyone. When we receive certain types of sensitive information such as financial information we redirect visitors to the secure portion of our site using industry standard SSL. 
 
 Our Policy Towards Children
 
-Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at [privacy@pro-softnet.com](mailto:privacy@pro-softnet.com). If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information from our files. 
+Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at [privacy@remotepc.com](mailto:privacy@remotepc.com). If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information from our files. 
+
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+
+IDrive Inc. has certified its compliance with the EU-U.S. and Swiss–U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union member countries and Switzerland to the United States. IDrive complies with the Privacy Shield Principles for all onward transfers of personal information from the EU and Switzerland, including the onward transfer liability provisions. You can find IDrive’s Privacy Shield certification [here](https://www.privacyshield.gov/list). You can also learn more about Privacy Shield at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+IDrive is subject to oversight by the U.S. Federal Trade Commission. JAMS is the US-based independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS at <https://www.jamsadr.com/eu-us-privacy-shield> (free of charge). In the event your concern still isn't addressed by JAMS, you may be entitled to binding [arbitration](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) under Privacy Shield and its principles. 
 
 Changes to our Privacy Policy 
 
@@ -71,7 +71,7 @@ Contacting Us
 If you have any questions about this privacy statement, the practices of this site or your dealings with this website you can contact: 
 
 **Attn: Privacy Management**  
-Pro Softnet Corp.  
+IDrive Inc.   
 26115 Mureau Road, Suite A,  
 Calabasas, CA 91302.   
-[privacy@pro-softnet.com](mailto:privacy@pro-softnet.com)
+[privacy@remotepc.com](mailto:privacy@remotepc.com)
