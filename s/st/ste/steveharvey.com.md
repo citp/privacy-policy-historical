@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steveharvey.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905021508id_/https%3A//steveharvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steveharvey.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401121951id_/https%3A//steveharvey.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - STEVE HARVEY
+# Privacy Policy – STEVE HARVEY
 
 ###### **What information do we collect?**
 
