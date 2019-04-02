@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2017-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170916232754id_/https%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2019-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190402042046id_/https%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
-<!-- 1505604474 -->
+<!-- 1554178846 -->
 
 	<title>Privacy Policy | Archinect</title>
 
@@ -21,7 +21,7 @@
 <link rel="mask-icon" href="https://archinect.com/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="theme-color" content="#ffffff">	
 		<!-- Main CSS -->
-	<link type="text/css" rel="stylesheet" href="/css/archinect.v3.css?24">
+	<link type="text/css" rel="stylesheet" href="/css/archinect.v3.css?36">
 
 	<!-- Font Awesome Icons -->
 	<script async="" src="//widgets.getsitecontrol.com/41282/script.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="//use.fontawesome.com/95b2f75951.js"></script>
@@ -36,7 +36,7 @@
         <style type="text/css">span.archinect_error{color: red;}</style>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link type="text/css" rel="stylesheet" media="screen and (max-width:767px)" href="/css/archinect.mobilize.css">
+	<link type="text/css" rel="stylesheet" media="screen and (max-width:767px)" href="/css/archinect.mobilize.css?1">
 
 	<script type="text/javascript" src="/js/archinect.js?19"></script><style type="text/css">.noscript{display:none}</style>
 <script type="text/javascript" src="/js/jqueryui/jquery-ui.min.js"></script>
@@ -47,38 +47,90 @@
 		initPhotoSwipeFromDOM('.floatbox');		
 	});
 	</script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
 
 		<!-- JavaScript to display transparent PNGs in IE6 -->
 	<!--[if lte IE 7]><script defer type="text/javascript" src="/js/pngfix.js"></script><![endif]-->
 
 	<!-- JavaScript for correct Ad Banner Padding -->
 	<script type="text/javascript">
-
-        $(document).ready(function() {
+        $(document).ready(function() 
+        {
             $('div.Banner').each(function(){
             	if( $(this).find('div').length > 0 )
                 	$(this).addClass('Active');
             });
+
+	        $(document).on('click', 'a.FollowButton', function(e)
+	        {
+	            if($(this).is('.login_trigger'))
+	                return;
+
+	            e.preventDefault();
+
+	            var a = $(this);
+	            var parent = $(this).parents(".FollowArea");
+	            var id =  parseInt(a.attr('rel'));
+	            var action = a.attr('action');
+	            var follow_type = $(this).attr('follow_type');
+	            if(id != 0) 
+	            {
+	                $.ajax(
+	                {
+	                    type: 'POST',
+	                    url: '/followprofiles/' + action,
+	                    datatype: 'json',
+	                    data: { entry_id: id, arc_token: window.arc_token, follow_type: follow_type },
+	                    success: function(data, status, xhr)
+	                    {
+	                        data = $.parseJSON(data);
+	                        if(data.success) 
+	                        {
+	                            $(parent).find(".Followers strong").html(data.total_followers.followers);
+	                            $(parent).parents(".ProfileInfo").find(".Followers").html(data.total_followers.followers + ' Follower' + (data.total_followers.followers > 1 ? 's':''));
+	                        }
+	                    }
+	                });
+	                $(parent).find(".FollowButton span").html(action=='follow'? 'Following':'Follow').attr('class', (action=='follow'? 'Following':'Follow'));
+	                $(parent).find(".FollowButton").removeClass(action=='follow'?'Follow':'Following').addClass(action=='follow'?'Following':'Follow');
+	                a.attr('action', (action=='follow'?'unfollow':'follow'));
+	            }
+	            return false;
+	        });
+
+	        $(document).on('mouseenter', ".FollowArea a.Following", function()
+	        {
+	            var parent = $(this).parents(".FollowArea");
+	            $(parent).find('.FollowButton span').removeClass('Following').addClass('Unfollow').html('Unfollow');
+	        });
+	        $(document).on('mouseleave', ".FollowArea a.Following", function()
+	        {
+	            var parent = $(this).parents(".FollowArea");
+	            $(parent).find(".FollowButton span").removeClass('Unfollow').addClass('Following').html('Following');
+	        });
         });
 
-	function arc_pathname(str) 
-	{
-		return arc_pathname( str, false);
-	}
+		function arc_pathname(str) 
+		{
+			return arc_pathname( str, false);
+		}
 
-	function arc_pathname(str, last)
-	{
-		if(last)
-			 return str.replace(/^.*\//, '');
+		function arc_pathname(str, last)
+		{
+			if(last)
+				 return str.replace(/^.*\//, '');
 
-
-		return str.replace(/^\w+:\/\/[^\/]*/, '');
-	}
-
+			return str.replace(/^\w+:\/\/[^\/]*/, '');
+		}
 	</script>
 
 		<script type="text/javascript">
-	ddaccordion.init({
+	ddaccordion.init(
+	{
 		headerclass: "menu",
 		contentclass: "submenu",
 		revealtype: "click",
@@ -91,24 +143,26 @@
 		toggleclass: ["closedlanguage", "openlanguage"],
 		togglehtml: ["none", "", ""],
 		animatespeed: "fast",
-		oninit:function(expandedindices){
-
-			function detectOverlapping() {
+		oninit:function(expandedindices)
+		{
+			function detectOverlapping() 
+			{
 				var windowheight = $(window).height();
 				var menuheight = $('.MainMenu').height();
 				var remainingspace = windowheight - menuheight;
-				if (remainingspace < 175) {
+				if (remainingspace < 175) 
+				{
 					$('.GlobalSocialIcons').hide();
-				} else {
+				} 
+				else 
+				{
 					$('.GlobalSocialIcons').show();
 				}
 			}
-
 			setTimeout(detectOverlapping, 500);
-
 		},
-		onopenclose:function(header, index, state, isuseractivated){
-
+		onopenclose:function(header, index, state, isuseractivated)
+		{
 		}
 	    });
 	</script><style type="text/css">
@@ -441,6 +495,8 @@
 			if(typeof(arc_page_post_session) == 'function')
 				arc_page_post_session(data.logged_in);
 
+			$(".HeaderBottom .HeaderFollow").show();
+
 		}, "json" );
 	});
 	</script>
@@ -530,43 +586,24 @@
 </script>
 
 			<script type="text/javascript">
-
-	$().ready(function() {
-	  //$('#social').jqm({ajax: '/popup/social', trigger: 'a.GlobalSocialIcons'});
-	});
-
-	$(document).ready(function(){
-		$('#IconsDefault').css({opacity: 1});
-		$('#IconsHover').css({opacity: 0});
-
-		$('.GlobalSocialIcons').hoverIntent({
-			over: SocialIconsFadeIn,
-			timeout: 10,
-			out: SocialIconsFadeOut
-		});
-
-		function SocialIconsFadeIn() {
-			$('#IconsDefault').fadeTo('fast', 0);
-			$('#IconsHover').fadeTo('fast', 1);
-		}
-
-		function SocialIconsFadeOut() {
-			$('#IconsDefault').fadeTo('fast', 1);
-			$('#IconsHover').fadeTo('fast', 0);
-		}
-
-		function detectOverlapping() {
+	$(document).ready(function()
+	{		
+		function detectOverlapping() 
+		{
 			var windowheight = $(window).height();
 			var menuheight = $('.MainMenu').height();
 			var remainingspace = windowheight - menuheight;
-			if (remainingspace < 175) {
+			if (remainingspace < 175) 
+			{
 				$('.GlobalSocialIcons').hide();
-			} else {
+			} else 
+			{
 				$('.GlobalSocialIcons').show();
 			}
 		}
 
-		function checkMenuDelay() {
+		function checkMenuDelay() 
+		{
 			setTimeout(detectOverlapping, 200);
 		}
 
@@ -583,110 +620,113 @@
   
 	<div class="ColA">
 	
-				<a title="Follow and share Archinect content via social media!" class="GlobalSocialIcons" href="/popup/social" rel="modal:open">
-			<div class="SocialIconsStack">
-				<span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span>
-				<span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span>
-				<span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x fa-inverse"></i></span>
-				<span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-rss fa-stack-1x fa-inverse"></i></span>
-			</div>
-		</a>
+				<aside class="BottomLeft GlobalSocialIcons" style="">
+			<span class="arc_dynamic_edit"><!-- {&quot;type&quot;:&quot;logged_in&quot;,&quot;id&quot;:0,&quot;true_html&quot;:&quot;&lt;a title=\&quot;Submit your content to Archinect\&quot; href=\&quot;\/submit\/project\&quot;&gt;&lt;i class=\&quot;fa fa-upload\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&lt;span&gt;Submit&lt;\/span&gt;&lt;\/a&gt;&quot;,&quot;false_login_html&quot;:&quot;&lt;a title=\&quot;Submit your content to Archinect\&quot; class=\&quot;login_trigger\&quot; href=\&quot;\/submit\/project\&quot;&gt;&lt;i class=\&quot;fa fa-upload\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&lt;span&gt;Submit&lt;\/span&gt;&lt;\/a&gt;&quot;}--><a title="Submit your content to Archinect" class="login_trigger" href="/submit/project"><i class="fa fa-upload" aria-hidden="true"></i><span>Submit</span></a></span>			
+			<a title="Follow and share Archinect content via social media" href="/popup/social" rel="modal:open">
+				<i class="fa fa-share-alt" aria-hidden="true"></i><span>Share/Follow</span>
+			</a>
+		</aside>
 
 		<div class="MainMenu">
 			<div class="MenuLogo"><a href="/"><img src="/images/nav/a_logo.png" alt="Archinect Logo" border="0" width="100" height="100"></a></div>
 
 							<div class="menu closedlanguage" headerindex="0h"><a class="MenuButton Main" href="#"><em>Editorial &amp; News</em></a></div>
 				<div class="submenu" contentindex="0c" style="display: none;">
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;features">
+									<a class="MenuButton " href="/features">
 					<em>
 						Features											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;news">
+									<a class="MenuButton " href="/news">
 					<em>
 						News											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;events">
+									<a class="MenuButton " href="/events">
 					<em>
 						Events											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;competitions">
+									<a class="MenuButton " href="/competitions">
 					<em>
 						Competitions											</em>
 					</a>
 								</div>
 							<div class="menu closedlanguage" headerindex="1h"><a class="MenuButton Main" href="#"><em>Employment</em></a></div>
 				<div class="submenu" contentindex="1c" style="display: none;">
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;jobs">
+									<a class="MenuButton " href="/jobs">
 					<em>
 						Jobs											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;talentfinder">
+									<a class="MenuButton " href="/talentfinder">
 					<em>
 						Talent Finder											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;employers">
+									<a class="MenuButton " href="/employers">
 					<em>
 						Active Employers											</em>
 					</a>
 								</div>
 							<div class="menu closedlanguage" headerindex="2h"><a class="MenuButton Main" href="#"><em>Community</em></a></div>
 				<div class="submenu" contentindex="2c" style="display: none;">
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;people">
+									<a class="MenuButton " href="/people">
 					<em>
 						People											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;firms">
+									<a class="MenuButton " href="/firms">
 					<em>
 						Firms											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;blogs">
+									<a class="MenuButton " href="/blogs">
 					<em>
 						Blogs											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;forum">
+									<a class="MenuButton " href="/forum">
 					<em>
 						Forum											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;updates">
+									<a class="MenuButton " href="/updates">
 					<em>
 						Work Updates											</em>
 					</a>
 								</div>
 							<div class="menu closedlanguage" headerindex="3h"><a class="MenuButton Main" href="#"><em>Academia</em></a></div>
 				<div class="submenu" contentindex="3c" style="display: none;">
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;schools">
+									<a class="MenuButton " href="/schools">
 					<em>
 						Schools											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;blogs/directory/1090/school">
+									<a class="MenuButton " href="/blogs/directory/1090/school">
 					<em>
 						School Blogs											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;forum/category/155/academia">
+									<a class="MenuButton " href="/forum/category/155/academia">
 					<em>
 						Forum											</em>
 					</a>
 								</div>
 							<div class="menu openlanguage" headerindex="4h"><a class="MenuButton Main" href="#"><em>About</em></a></div>
 				<div class="submenu" contentindex="4c" style="display: block;">
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;about">
+									<a class="MenuButton " href="/about">
 					<em>
 						About Archinect											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;advertising">
+									<a class="MenuButton " href="/advertising">
 					<em>
 						Advertising											</em>
 					</a>
-									<a class="MenuButton " href="/&#9;&#9;&#9;&#9;&#9;contact_us">
+									<a class="MenuButton " href="/contact_us">
 					<em>
 						Contact Us											</em>
 					</a>
-									<a class="MenuButton Active" href="/&#9;&#9;&#9;&#9;&#9;privacy_policy">
+									<a class="MenuButton " href="/newsletters">
+					<em>
+						Newsletters											</em>
+					</a>
+									<a class="MenuButton Active" href="/privacy_policy">
 					<em>
 						Privacy Policy											</em>
 					</a>
 								</div>
-														<div id="arc_session_area" class="SessionArea NewStyle"></div>					
+									<a href="https://outpost.archinect.com/" class="ShopButton" title="Archinect Outpost Shop" target="_blank">Shop<i class="fa fa-gift" aria-hidden="true"></i></a>
+            					<div id="arc_session_area" class="SessionArea NewStyle"></div>					
 					</div><!--/.MainMenu-->
 
 	</div><!--/.ColA-->
@@ -795,6 +835,10 @@
 							<a class="MenuButton " href="/&#9;&#9;&#9;&#9;contact_us">
 				<em>
 					Contact									</em>
+				</a>
+							<a class="MenuButton " href="/&#9;&#9;&#9;&#9;newsletters">
+				<em>
+					Newsletters									</em>
 				</a>
 							<a class="MenuButton Active" href="/&#9;&#9;&#9;&#9;privacy_policy">
 				<em>
@@ -1042,20 +1086,26 @@ playback timings (ms):
 		<div class="ColBProfiles" style="border-right:none">
 
 	  	<div class="About">
-			<p><strong>The privacy of our visitors to Archinect.com is important to us.</strong><br><br>
+	  	<div class="SignupFormContainer" style="display: block;">
+			<h2> Privacy Policy</h2>
+			<p><strong>The privacy of our visitors to Archinect is important to us.</strong><br><br>
 
-			At Archinect.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Archinect.com, and how we safeguard your information. We never sell your personal information to third parties.<br><br>
+			At Archinect, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Archinect, and how we safeguard your information. We never sell your personal information to third parties.<br><br>
+			
+			We only process your Personal Data in accordance with applicable data protection and privacy laws. For the purposes of UK and EU data protection legislation, the data controller is Extra Medium , Inc. (DBA Archinect) of 2785 E Foothill Blvd, Suite 110, Pasadena, CA 91107 USA. Archinect's Data Protection Officer is Paul Petrunia. He may be contacted at privacy@archinect.com.<br><br>
 
 			<strong>Log Files</strong><br>
-			As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.<br><br>
+			As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Chrome, Safari or Firefox), the time you visited our site and which pages you visited throughout our site.<br><br>
 
 			<strong>Cookies and Web Beacons</strong><br>
 			We do use cookies to store information, such as your personal preferences when you visit our site. This includes the ability to login to some of our features, such as the discussion forums.<br><br>
 
-			We also use third party advertisements on Archinect.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real job ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as interior design ads to someone who frequents interior design sites).<br><br>
+			We also use third party advertisements on Archinect to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real job ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as interior design ads to someone who frequents interior design sites).<br><br>
 
 			You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.</p>
-
+			
+			<p><i>Updated May 24, 2018</i></p>
+		</div>
 		</div><!--/.About-->
 
 	  </div><!--/.ColBProfiles-->
@@ -1144,13 +1194,8 @@ playback timings (ms):
 	<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=A32Ik1ao6C52N8" style="display:none" height="1" width="1" alt="" /></noscript>
 	<!-- End Alexa Certify Javascript -->
 				            
-		<script type="text/javascript">
-	_qevents.push( { qacct:"p-97pfFgotR3QOc"} );
-	</script>
-	<noscript>
-	<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-97pfFgotR3QOc.gif" height="1" width="1" alt="Quantcast"/></div>
-	</noscript>
-		<script>
+
+	<script>
 	 (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
 	   t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
 	 })(window, document, '_gscq','script','//widgets.getsitecontrol.com/41282/script.js');
