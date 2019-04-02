@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912033739id_/https%3A//www.wavemaker.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402083913id_/https%3A//www.wavemaker.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WaveMaker
+# Privacy Policy – WaveMaker
 
 Your privacy is important to WaveMaker, Inc. (“WaveMaker”, “we”, “us” or “our”). This privacy policy provides details about how your personal information is collected and used by us. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information associated with your individual identity. This privacy policy explains our commitment to protecting the privacy of personal information about users of WaveMaker websites, software, products and services (collectively, the “Site”).
 
@@ -18,9 +18,13 @@ Like many websites, we may also use “cookies” to collect information. A cook
 
 We use the information collected to enable your access to and use of the Site, to personalize the Site for you, or to supply you services that you have asked for. We may use Usage Data that does not identify individual users to analyze trends and Site traffic, to gather demographic information about our user base as a whole, or to administer, improve or promote the Site.
 
-We may also occasionally contact you via email to tell you about Site maintenance, upgrades and new features regarding our services or those of our customers or business partners, but will provide you with a vehicle for opting out of these emails.
+We may also occasionally contact you via email to tell you about newsletters, promotions and special offers regarding our services or those of our customers or business partners, but will provide you with a vehicle for opting out of these emails.
+
+We also use your information to send you Service-related emails (e.g., account verification, purchase, billing confirmations and reminders, changes/updates to features of the Service, technical, maintenance, upgrades and security notices). You may not opt out of Service-related e-mails.
 
 We do not sell, rent or share customer or user personal information with third parties. We do not sell customer lists to marketers.
+
+We may share your information with third-party business partners for the purpose of providing the service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the service, and we will require that such third parties comply with this Privacy Policy.
 
 We may contact you by email regarding your account. You may elect not to receive commercial marketing messages from us about the services.
 
@@ -44,6 +48,12 @@ If we are required by law, regulation or legal process (e.g. subpoena) to disclo
 
 We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We will retain your information for as long as your account is active or as needed to provide you services. We may retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+To discontinue your use of services and/or request return or deletion of your data associated with your account, please contact [support@wavemaker.com](mailto:support@wavemaker.com).
+
+* #### Opting out
+
+You may choose to stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical, maintenance, upgrades and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [support@wavemaker.com](mailto:support@wavemaker.com).
+
 * #### Other Websites & Links
 
 The Site may contain links to other websites or services maintained by our business partners or other third parties. We make no representation or warranties and are not responsible for the privacy policies or practices of any third party.
@@ -56,6 +66,6 @@ Our site is designed to be used by people over 13 years of age. The Children’s
 
 We may change this privacy policy from time to time. If we make significant changes in the way we treat your personal information, or to the privacy policy, we will provide notice to you through the Site or by some other means, such as email. Please review the changes carefully. If you agree to the changes, simply continue to use the Site. If you object to any of the changes to our terms and you no longer wish to use the Site, you may close your account(s). Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. . Using the Site after a notice of changes has been communicated to you or published shall constitute consent to the changed terms or policies.
 
-If you have any questions about this Privacy Policy, you can email us at [support@wavemaker.com](mailto:support@wavemaker.com).
+If you have any questions about this Privacy Policy or raise concerns about how we handle/process your information, you can email us at [info@wavemaker.com](mailto:info@wavemaker.com).
 
-Updated October 2015
+Updated 24 May 2018
