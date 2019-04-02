@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the templategarden.com privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901052617id_/http%3A//www.templategarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templategarden.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402174351id_/https%3A//www.templategarden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TemplateGarden
 
-This Privacy Policy governs the manner in which TemplateGarden.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.templategarden.com](http://www.templategarden.com/) website ("Site").
+This Privacy Policy governs the manner in which TemplateGarden.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://www.templategarden.com](https://www.templategarden.com/) website ("Site").
 
 ### Personal identification information
 
@@ -63,8 +63,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.templategarden.com/contact/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://www.templategarden.com/contact/).
 
 This document was last updated on September 25, 2015
 
-This website uses cookies to improve your experience. By continuing to browse this site you are agreeing to our use of cookies.Got it! [Read More](http://www.templategarden.com/cookie-policy/)
+This website uses cookies to improve your experience. By continuing to browse this site you are agreeing to our use of cookies.Got it! [Read More](https://www.templategarden.com/cookie-policy/)
