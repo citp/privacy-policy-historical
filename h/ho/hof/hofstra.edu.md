@@ -1,0 +1,19 @@
+> *The following text is extracted and transformed from the hofstra.edu privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402174227id_/https%3A//www.hofstra.edu/about/policy/policy-privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy | Policies | Hofstra | New York
+
+Hofstra University maintains this Web Site at www.hofstra.edu ("Site") and the official Hofstra Mobile app (“App”) to provide information to you about the University, its policies, campuses, facilities and educational and other programs. This privacy policy explains our online information practices for the Site and App.
+
+We may automatically collect and store information sent by your Web browser, such as IP addresses or geolocations in server logs.  We also collect standard information about your computer (such as your web browser and operating system) and about your usage of our websites and digital properties (such as pages visited, length of visit, and search queries).  This information, which does not identify you personally, is aggregated and used to help diagnose problems and suggest points for improving parts of our website and digital properties.
+
+We and our third-party partners use cookies (small files containing technical data about your web usage/browsing activity) to monitor and analyze web traffic and to keep track of user behavior and demographics. One such service that we may use for this purpose is Google Analytics. Users may opt-out of Google Analytics by changing their [Ads Settings](https://www.google.com/settings/ads) or by downloading and installing the [Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). Another helpful resource for opting-out generally of cookies used for tailored advertising is the [Network Advertising Initiative Opt-Out Page](http://www.networkadvertising.org/choices/).
+
+You may provide us with personally identifying information through electronic forms or emails and we may use this data to send you information, respond to inquiries, and/or other requests or questions.  When you complete an electronic form, you may be asked to enter your name, email address, mailing address, phone number, or other details. We collect this information and use it for internal University purposes, including to send you information about the University, respond to your questions and requests, administer University events, gather statistical information about prospective students and Site or App users, and other similar purposes.
+
+Hofstra University does not sell, rent, give away, or loan any personally identifiable information collected on the Site or App to any third party for commercial purposes.  Hofstra may use such information, or share such information with our third party partners, for internal University purposes, such as to provide and improve our services or communications to users.  We may also provide your information to third parties in circumstances where we believe that doing so is necessary or appropriate : as required by law;to prevent or otherwise address fraud, security or technical issues or to protect the rights, property, or safety of Hofstra, our users, or others. 
+
+In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online. No method of transmission over the Internet or method of electronic storage, however, is 100% secure.
+
+The Site or App may contain links to other websites of interest. Hofstra University does not control third-party websites and is not responsible for the privacy practices or contents of any linked website.
+
+The Site and App are not directed to children under 13 years of age and Hofstra University does not knowingly collect any personal information from children under 13 years. 
