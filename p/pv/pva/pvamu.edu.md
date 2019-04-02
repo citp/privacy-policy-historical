@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pvamu.edu privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017070113id_/https%3A//www.pvamu.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pvamu.edu privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402190939id_/http%3A//www.pvamu.edu/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement : PVAMU Home
+# Privacy Statement | PVAMU Home
 
 Prairie View A&M University respects your privacy. Our main Web page does not collect personal information about visitors. In particular, we do not use “cookies” to collect information.
 
@@ -39,5 +39,3 @@ The following information can be collected from server logs for analysis:
 **Security**
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
-
-Was this information helpful? [Provide Feedback or report broken links](https://web.archive.org/provide-website-feedback/). 
