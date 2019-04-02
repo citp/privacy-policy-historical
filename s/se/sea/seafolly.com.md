@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the seafolly.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106173335id_/http%3A//www.seafolly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seafolly.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402031621id_/https%3A//www.seafolly.com/us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Seafolly United States
 
-### Seafolly values your privacy
+Seafolly values your privacy
 
-### Privacy & Use of Information
-
-What We Use Your Personal Information For
+### What We Use Your Personal Information For
 
 Seafolly keeps confidential all personally identifiable information you provide us.
 
@@ -20,18 +18,19 @@ If you purchase any of your products online, we will also use the information yo
 
 We like to know that the personal information you provide us is accurate, complete and up to date. If you notice that your personal information is missing or incorrect, you can update your details online on our website.
 
-So that we can continue to offer you great offers and promotion info, we give you the opportunity to say yes to being contacted by Seafolly by email. This is totally your choice and you can opt out of the future contact whenever you want.
+So that we can continue to offer you great offers and promotion info, we give you the opportunity to say yes to being contacted by Seafolly. This is totally your choice and you can opt out of the future contact whenever you want.
 
-If you would like your name deleted from the database please email info@seafolly.com.au requesting deletion. You will be deleted from our database within 48 hours.
+If you would like your name deleted from the database please email shop@seafolly.com.au requesting deletion. You will be deleted from our database within 48 hours.
 
 ### Sharing Information with Third Parties
 
-We promise that when you provide us with personal information, it will only be used by Seafolly. We will not share the information third parties except to disclose:
+When we collect, hold and use your personal information, we do so primarily to sell and promote our product to you and to improve on the range of our offerings. For example; to learn of your likely preferences so that we may promote our goods and services to you in a way which may be of most interest to you; and to assist in investigating your complaints and enquiries.
 
-  * your name (and possibly your suburb) if you win a Seafolly competition; or
-  * your name and postal address to organisations that assist us with customer communications (to be used solely for that purpose).
+We disclose personal information we collect for purposes which are incidental to the sale and promotion of our goods and services to you. For example, we may disclose your personal information within our group, to service providers who assist us in our day-to-day business operations and as part of buying or selling businesses.
 
+We may collect, hold, use and disclose your personal information for other purposes which are within reasonable expectations. For example; your name (a possibly your suburb) if you win a Seafolly competition, or your name and postal address to organisations that assist us with customer communications.
 
+When marketing to you, your personal information is only ever used or disclosed for Seafolly’s own purposes. You may opt out of our direct marketing to you. Our direct marketing materials will tell you how to do this.
 
 ### Deleting Information
 
