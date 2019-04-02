@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roh.org.uk privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627145254id_/http%3A//www.roh.org.uk/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roh.org.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403000303id_/https%3A//www.roh.org.uk/policies/privacy) for the most accurate reproduction.*
 
 # Privacy — Royal Opera House
 
@@ -187,7 +187,7 @@ Onesource | Company financials and directors information | <http://www.hoovers.c
 Lexis Nexis | Global News Archive | [www.nexis.com/ ](https://www.nexis.com/)  
 Wealthmonitor | Information on company directors and shareholders | [https://app.wealthmonitor.com](https://app.wealthmonitor.com/)  
 192.com | UK Electoral Roll and Directory Inquiries | <http://www.192.com/>  
-Trustfunding | Database of UK Trusts and foundations grants | [http://www.trustfunding.org.uk/default.aspx](https://web.archive.org/web/20180627145254id_/http%3A//www.roh.org.uk/policies/%22http://www.trustfunding.org.uk/default.aspx)  
+Trustfunding | Database of UK Trusts and foundations grants | [http://www.trustfunding.org.uk/default.aspx](https://web.archive.org/web/20190403000303id_/https%3A//www.roh.org.uk/policies/%22http://www.trustfunding.org.uk/default.aspx)  
 Companies House | UK Registrar of Companies | [https://beta.companieshouse.gov.uk](https://app.wealthmonitor.com/)  
   
 **5.       ****How We Handle Your Information and Other Organizations**
