@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamecollection.net privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210073748id_/https%3A//www.thegamecollection.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecollection.net privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402121016id_/https%3A//www.thegamecollection.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Game Collection
 
