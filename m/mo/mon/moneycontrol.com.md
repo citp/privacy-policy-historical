@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moneycontrol.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020082606id_/https%3A//www.moneycontrol.com/cdata/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycontrol.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402192441id_/https%3A//www.moneycontrol.com/cdata/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy of Moneycontrol
-
-[](https://www.moneycontrol.com/ "Moneycontrol")
 
 [](https://www.moneycontrol.com/ "Moneycontrol")
 
@@ -261,12 +259,19 @@ If you require any information or clarification regarding the use of your person
   
 
   * **b. Data Controller Officer**  
-The data controller for the moneycontrol.com is Network18 Media and Investments Ltd with the business address of: <XXX>  
-The data protection officer (DPO) appointed by Network18 Media and Investments Ltd. Is <DPO name> is who can be contacted at <DPO email ID>
+The data controller for the moneycontrol.com is Network18 Media & Investments Ltd with the business address of: 
+
+First Floor, Empire Complex,  
+414 Senapati Bapat Marg,  
+Lower Parel, Mumbai-400013  
+Maharashtra, India  
+Ph: +91 22 4001 9000 
+
+The data protection officer (DPO) appointed by Network18 Media & Investments Ltd. is Mr. Nitesh Srivastava, who can be contacted at [DPO@nw18.com](mailto:DPO@nw18.com "DPO@nw18.com")
   
 
   * **c. Complaints**  
-You can write to our data protection officer in case of any grievance or compliant. You have the right to complaint about the data processing activities carried out by moneycontrol.com before the competent data protection authorities.  
+You can write to our data protection officer in case of any grievance or compliant. You have the right to complaint about the data processing activities carried out by moneycontrol.com before the competent data protection authorities.   
 If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please do contact our Data Protection Officer. 
 
 
