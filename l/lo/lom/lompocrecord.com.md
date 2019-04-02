@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lompocrecord.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004123920id_/https%3A//lompocrecord.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lompocrecord.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402175745id_/https%3A//lompocrecord.com/privacy) for the most accurate reproduction.*
 
 # Privacy | lompocrecord.com
 
@@ -158,8 +158,8 @@ If you choose not to accept cookies while on our website, please be aware that o
 If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt to respond to your requests and to provide you with additional privacy-related information.
 
 Email: [privacy@lee.net](https://lompocrecord.com/content/tncms/live/privacy@lee.net)  
-322 N. H Street, Suite F  
-Lompoc , CA, 93436
+3200 Skyway Drive  
+Santa Maria, CA, 93455
 
 [877.286.1686](tel:+877.286.1686)
 
