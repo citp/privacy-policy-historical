@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the skytv.co.nz privacy policy that was archived on 2018-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223201850id_/https%3A//www.sky.co.nz/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skytv.co.nz privacy policy that was archived on 2019-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190402053624id_/https%3A//www.sky.co.nz/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js aui ltr" dir="ltr" lang="en-US"><head>
         <meta charset="utf-8">
@@ -16,7 +16,7 @@
             use_existing_jquery=false,
             // DO NOT EDIT BELOW THIS LINE
             f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=337516&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181223201850id_%2Fhttps%253A%2F%2Fwww.sky.co.nz%2Fprivacy-statement&amp;r=0.10081961980476883" type="text/javascript"></script>
+        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=337516&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190402053624id_%2Fhttps%253A%2F%2Fwww.sky.co.nz%2Fprivacy-statement&amp;r=0.5605016007506178" type="text/javascript"></script>
 	        <script charset="UTF-8">
 				window['adrum-start-time'] = new Date().getTime();
 				(function(config){
@@ -26,9 +26,10 @@
 				    config.beaconUrlHttp = 'http://col.eum-appdynamics.com';
 				    config.beaconUrlHttps = 'https://col.eum-appdynamics.com';
 				    config.xd = {enable : false};
+				    config.spa = { "spa2": true };
 				})(window['adrum-config'] || (window['adrum-config'] = {}));
 			</script>
-        <script src="https://cdn.appdynamics.com/adrum/adrum-4.3.8.0.js"></script>
+        <script src="https://cdn.appdynamics.com/adrum/adrum-latest.js"></script>
 			<title>Privacy Statement | SKY</title>
 		<script>function AUI(){return{use:function(){return!0}}}var IOP_DATA={},Liferay={};Liferay.Portlet={},Liferay.Portlet.onLoad=function(){return!0};
 		IOP_DATA.cdn='https://skynz.akamaized.net';</script>
@@ -930,13 +931,6 @@
                         <h4>
                                 <a class=" iop-link greys-anatomy" href="https://www.sky.co.nz/usage-rules">
                                 <span>Usage Rules</span>
-                            </a>
-                        </h4>
-                    </div>
-                    <div class="section-link">
-                        <h4>
-                                <a class=" iop-link greys-anatomy" href="https://www.sky.co.nz/simple-mobile-terms">
-                                <span>Simple Mobile terms</span>
                             </a>
                         </h4>
                     </div>
@@ -2258,7 +2252,7 @@ If you do not provide personal information when we request, it may mean that we 
 
                 <div class="iop-header-title">
                     <h3>
-                        <a href="https://www.sky.co.nz/privacy-statement?p_p_auth=ic2d8UNt&amp;p_p_id=49&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;_49_struts_action=%2Fmy_sites%2Fview&amp;_49_groupId=24003&amp;_49_privateLayout=false" title="Home">
+                        <a href="https://www.sky.co.nz/privacy-statement?p_p_auth=GyjubsDO&amp;p_p_id=49&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;_49_struts_action=%2Fmy_sites%2Fview&amp;_49_groupId=24003&amp;_49_privateLayout=false" title="Home">
                             <span class="icon-iop icon-iop-sky"></span>
                             <span class="iop-icon-text">SKY</span>
                         </a>
@@ -3128,7 +3122,7 @@ If you do not provide personal information when we request, it may mean that we 
 
 
 
-    <div class="iop-auth-links container">
+    <div class="iop-auth-links container" ng-controller="linkCtrl" ng-init="linkCtrl.init()">
         <div class="grid-12">
         
             <ul>
@@ -3190,12 +3184,7 @@ If you do not provide personal information when we request, it may mean that we 
 
 
                     
-                    <div ng-if="!iopCtrl.isUserLoggedIn()">
-                    	<div class="iop-header-total" ng-controller="cartProgressBarCtrl">
-                    		<span class="iop-header-total-label">Total:</span>
-	                    	<span class="iop-header-total-text" ng-bind-html="cartProgressBarCtrl.runningTotal()"></span>
-                    	</div>
-	                </div>
+                    <div running-total=""></div>
 
                     
 
@@ -8098,12 +8087,12 @@ If you do not provide personal information when we request, it may mean that we 
                         </a>
                     </li>
                     <li class="iop-primary-link">
-                        <a class="iop-btn iop-btn-primary cool-runnings" href="https://www.sky.co.nz/sport55" target="_top" title="">
+                        <a class="iop-btn iop-btn-primary cool-runnings" href="https://www.sky.co.nz/joinsky" target="_top" title="">
                             <span class="iop-weblinks-text">SKY SPORT OFFER</span>
                         </a>
                     </li>
                     <li class="iop-primary-link">
-                        <a class="iop-btn iop-btn-primary clockwork-orange" href="https://www.sky.co.nz/starter25" target="_top" title="">
+                        <a class="iop-btn iop-btn-primary clockwork-orange" href="https://www.sky.co.nz/starter" target="_top" title="">
                             <span class="iop-weblinks-text">SKY STARTER</span>
                         </a>
                     </li>
@@ -9786,11 +9775,6 @@ If you do not provide personal information when we request, it may mean that we 
                     <li class="iop-plain-link">
                         <a class="iop-link " href="https://skytv.custhelp.com/app/answers/detail/a_id/300/kw/multiroom" target="_top" title="">
                             <span class="iop-weblinks-text">Multiroom</span>
-                        </a>
-                    </li>
-                    <li class="iop-plain-link">
-                        <a class="iop-link " href="https://skytv.custhelp.com/app/answers/detail/a_id/709/kw/hd%20access" target="_top" title="">
-                            <span class="iop-weblinks-text">High Definition</span>
                         </a>
                     </li>
                     <li class="iop-plain-link">
@@ -13679,7 +13663,7 @@ If you do not provide personal information when we request, it may mean that we 
                         </a>
                     </li>
                     <li class="iop-plain-link">
-                        <a class="iop-link " href="https://www.sky.co.nz/myaccount/upgrade" target="_top" title="">
+                        <a class="iop-link " href="/myaccount/upgrade" target="_top" title="">
                             <span class="iop-weblinks-text">Upgrade My Subscription</span>
                         </a>
                     </li>
@@ -18810,7 +18794,7 @@ If you do not provide personal information when we request, it may mean that we 
 
 
 
-    <div class="iop-auth-links container">
+    <div class="iop-auth-links container" ng-controller="linkCtrl" ng-init="linkCtrl.init()">
         <div class="grid-12">
         
             <ul>
@@ -18938,7 +18922,7 @@ If you do not provide personal information when we request, it may mean that we 
 		<div class="container">
 			<div class="grid-12">
 				<div class="iop-footer-legal">
-					<span>© Copyright 2018 SKY Network Television Limited</span>
+					<span>© Copyright 2019 SKY Network Television Limited</span>
 					<ul>
 						<li><a href="/terms-of-use">Terms of Use</a></li>
 						<li><a href="/domestic-terms">Domestic Terms</a></li>
@@ -19329,7 +19313,7 @@ If you do not provide personal information when we request, it may mean that we 
 <script>
     IOP_DATA.iopmediaactions_WAR_iopaccountportlet_INSTANCE_footer1 = {
         loginRecord: "To Record This Show, sign into 'My Account' Or Join SKY:",
-        loginSeriesRecord: "To record this series, sign into â  MY ACCOUNTâ   or JOIN SKY:",
+        loginSeriesRecord: "To record this series, sign into My Account or Join SKY:",
         loginRemind: "Sorry you need to be a SKY subscriber to be reminded of:",
         upgrade: "This channel is not part of your SKY Package",
         decoderUpgrade: "You do not have the MY SKY service.",
@@ -19371,7 +19355,7 @@ If you do not provide personal information when we request, it may mean that we 
     };
     IOP_DATA.user = {
         
-        anon: "ehhR0YdmSdhxNHNM+EXrFhbcqAQteje8uqmcbDsaFao="
+        anon: "XgrQToJLI0hAGQj4jcEtu2gredK2HHVRGQwsWs70zkI="
     };
 </script>
 
@@ -20309,31 +20293,25 @@ If you do not provide personal information when we request, it may mean that we 
                                             </li>
                                         </ul>
                                     </div>
-                                    <div class="cart-promo" ng-class="{ 'promo-active' : promoCodeActive }" ng-if="primary && !cart.activeOfferDecorator">
-                                        <p ng-show="!promoCodeActive">
-                                            <a ng-click="togglePromoCode()">Enter promo code</a>
-                                        </p>
-                                        <form name="applyPromoCodeForm" novalidate ng-submit="applyPromoCode(promoCode)" ng-show="promoCodeActive">
-                                        <form name="applyPromoCodeForm" novalidate ng-submit="applyPromoCode(promoCode)" ng-show="promoCodeActive">
-                                            <label for="promo-code-{{$id}}">Enter promo code</label>
-                                            <input name="promoCode" ng-model="promoCode" id="promo-code-{{$id}}" type="text" focus-when="promoCodeActive" required />
-                                            <button type="submit" class="iop-btn iop-btn-primary" ng-disabled="applyPromoCodeForm.$invalid || isApplyingPromoCode">Apply</button>
-                                        </form>
-                                    </div>
+                                    <div class="cart-promo cart-promo-dropdown" ng-class="{ 'promo-active' : promoCodeActive }" ng-if="!cart.activeOfferDecorator">
+			    						<p ng-show="!promoCodeActive">
+			        						<a ng-click="togglePromoCode()">Enter promo code</a>
+			    						</p>
+			    						<form name="applyPromoCodeForm" novalidate ng-submit="applyPromoCode(promoCode)" ng-show="promoCodeActive">
+			        						<span class="promoCodeLabel promoCodeLabelDropdown"><label for="promo-code-{{$id}}">Enter promo code</label></span>
+			        						<span class="summaryPromoCodeInput">
+			            						<input name="promoCode" ng-model="promoCode" id="promo-code-{{$id}}" type="text" focus-when="promoCodeActive" required maxlength="10" />
+			            						<button type="submit" class="iop-btn iop-btn-primary" ng-disabled="applyPromoCodeForm.$invalid || isApplyingPromoCode">Apply</button>
+			        						</span>
+			    						</form>
+									</div>
                                 </div>
 
                                 <div class="cart-control">
-                                    
-                                        <div ng-if="!isUpgrade">
-                                            <input type="hidden" name="checkout_order" value="true" />
-                                            <button type="submit" class="iop-btn iop-btn-primary review-color" ng-disabled="disableButton()" ng-click="goToNextStep()">Continue</button>
-                                        </div>  
-                                    
-                                    
-                                        <form action="/myaccount/upgrade/checkout" method="post" ng-if="isUpgrade">
-                                            <input type="hidden" name="checkout_order" value="true" />
-                                            <button type="submit" class="iop-btn iop-btn-primary review-color" ng-click="upgradeReviewOrder()">Next</button>
-                                        </form>
+									
+                                    	<input type="hidden" name="checkout_order" value="true" />
+                                        <button class="iop-btn iop-btn-primary review-color" ng-if="!showSendToCartButton" ng-disabled="!btnNextEnabled" ng-click="gotoNext()">Continue</button> 
+                                        <button class="iop-btn iop-btn-primary review-color"  ng-if="showSendToCartButton" ng-click="sendToCart()">Continue</button> 
                                     
 									
 										<button type="button" ng-if="!dismiss" class="iop-btn iop-btn-secondary" ng-click="dismissToggle()">Dismiss</button>
@@ -20479,46 +20457,6 @@ If you do not provide personal information when we request, it may mean that we 
                                                 </li>
                                             </ul>
                                         </div>
-                                        <div class="cart-promo" ng-class="{ 'promo-active' : promoCodeActive }" ng-if="!cart.activeOfferDecorator">
-                                            <p ng-show="!promoCodeActive">
-                                                <a ng-click="togglePromoCode()">Enter promo code</a>
-                                            </p>
-                                            <form name="applyPromoCodeForm" novalidate ng-submit="applyPromoCode(promoCode)" ng-show="promoCodeActive">
-                                            <form name="applyPromoCodeForm" novalidate ng-submit="applyPromoCode(promoCode)" ng-show="promoCodeActive">
-                                                <span class="promoCodeLabel"><label for="promo-code-{{$id}}">Enter promo code</label></span>
-                                                <span class="promoCodeInput">
-                                                    <input name="promoCode" ng-model="promoCode" id="promo-code-{{$id}}" type="text" focus-when="promoCodeActive" required />
-                                                    <button type="submit" class="iop-btn iop-btn-primary" ng-disabled="applyPromoCodeForm.$invalid || isApplyingPromoCode">Apply</button>
-                                                    <button type="button" class="iop-btn iop-btn-secondary clear-color" ng-click="togglePromoCode()">Cancel</button>
-                                                </span>
-                                            </form>
-                                        </div>
-                                    </div>
-
-                                    <div class="cart-control">
-                                        
-                                            <form action="/subscribe/checkout" method="post" ng-if="!isUpgrade">
-                                                <input type="hidden" name="checkout_order" value="true" />
-                                                <button type="submit" class="iop-btn iop-btn-primary review-color" ng-click="subscribeReview()">Next</button>
-                                            </form>
-                                        
-                                        
-                                            <form action="/myaccount/upgrade/checkout" method="post" ng-if="isUpgrade">
-                                                <input type="hidden" name="checkout_order" value="true" />
-                                                <button type="submit" class="iop-btn iop-btn-primary review-color" ng-click="upgradeReviewOrder()">Next</button>
-                                            </form>
-                                        
-    									
-    										<button type="button" ng-if="!dismiss" class="iop-btn iop-btn-secondary" ng-click="dismissToggle()">Dismiss</button>
-    									
-                                        
-                                            <button type="button" ng-if="!readonly" class="iop-btn iop-btn-secondary clear-color" ng-click="clear()">Clear Cart</button>
-                                        
-    									
-                                    	    <div ng-if="cartSupport" class="cart-help cart-help-footer">
-                                    	        <div id="rnCartChatBottom" rn-conditional-chat="chatOptions"></div>
-                                   		     </div>
-                                 	 	
                                     </div>
                                 </div>
                         </div>
@@ -20776,14 +20714,10 @@ If you do not provide personal information when we request, it may mean that we 
         <div class="cart-offer-modal">
             <div class="cart-offer-header">
                 
-                    <h3>Bonus HD on us!</h3>
-                
-                
-                    <p>Subscribe to Multiroom and get an HD Access ticket on us.</p>
                 
             </div>
             <div class="cart-modal-buttons">
-                <button type="button" class="iop-btn iop-btn-primary" ng-click="notificationCtrl.dismissModal(false)">Thank You</button>
+                <button type="button" class="iop-btn iop-btn-primary" ng-click="notificationCtrl.dismissModal(false)"></button>
             </div>
         </div>
     </script>
@@ -20829,41 +20763,50 @@ If you do not provide personal information when we request, it may mean that we 
     </script>
 
     <script type="text/ng-template" id="/ng-templates/decoder/select.html">
-        <div class="iop-decoder-select iop-contentcarosuel iop-has-links" ng-class="{'loading-active' : loading}">
-            <div class="container">
-                <div class="slick-track">
-                    <div ng-repeat="decoder in decoders track by $index" class="grid-4 grid-mobile-4" ng-class="getSelected(decoder)">
-                        <div ng-if="::decoder.imageUrl" class="iop-contentcarousel-image hide-mobile" background-image="{{ ::decoder.imageUrl | checkForCdn }}"><!-- --></div>
-                        <div ng-if="::!decoder.imageUrl" class="iop-contentcarousel-image no-media iop-bg hide-mobile" ng-class="::getBrandColour($index)">
-                            <span class="icon-iop icon-iop-sky"><!-- --></span>
-                        </div>
-                        <div class="iop-contentcarousel-title">
-                            <h2>{{ ::decoder.name }}</h2>
-                        </div>
-                        <div class="iop-contentcarousel-content body-2 wysiwyg">
-                             <h3 ng-if="::decoder.subheading">{{ ::decoder.subheading }}</h3>
-                             <div html-list="::decoder.content"></div>
-                        </div>
-                        <div class="iop-contentcarousel-meta">
-                            <div ng-if="::decoder.sku" class="cart-product">
-                                <p>
-                                    <span class="product-price">{{ ::decoder.price | centsAsDollars }}</span>
-                                    <span ng-if="::decoder.term" class="product-term">{{ ::decoder.term }}</span>
-                                </p>
-                                <p>
-                                    <button type="button" class="iop-btn all-blacks" ng-class="getButtonCss(decoder)" ng-disabled="isSelected(decoder)" ng-click="select(decoder)">
-                                        <span ng-if="isSelected(decoder)">Selected</span>
-                                        <span ng-if="!isSelected(decoder)">Select</span>
-                                    </button>
-                                </p>
+        <div class="" ng-class="{'loading-active' : loading}">
+            <div class="accordion" id="addDecoders">
+				
+                <div class="iop-channels-package-accordion-item ng-cloak" ng-class="getSelected(decoder)"
+                ng-repeat="decoder in decoders track by $index">
+                    <div ng-if="decoder.sku" class="container">
+                        <div class="grid-12 no-padding">
+                            <div class="accordion-group">
+                                <div class="accordion-heading">
+                                    <h4>
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#addDecoders" data-target="#{{ ::decoder.sku }}-content"
+                                        ng-class="::getCollapseCssClass(decoder.sku, skusToExpandView)">
+                                            <span class="box heading logos"><img ng-if="::(decoder.imageUrl)" ng-src="{{::decoder.imageUrl}}" class="logo-image"> {{::decoder.name}}</span>
+                                            <span ng-if="::(decoder.sku)" class="iop-channel-sku box action">
+                                                <span cart-decoder-product-add="{{ decoder.sku }}"
+                                                    cart-decoder-product-add-decoder="{{::decoder}}"    
+                                                    cart-decoder-product-add-price="show"
+                                                    cart-decoder-product-add-smartcard="{{ ::decoder.smartcardNumber }}"
+                                                    cart-decoder-product-add-callback="decoder.addCallback"
+                                                    cart-decoder-product-add-pricedescription="">
+                                                </span>
+                                            </span>
+                                        </a>
+                                    </h4>
+                                </div>
+                                <div id="{{ ::decoder.sku }}-content" data-parentclass="accordion-body collapse" class="collapse"  aria-expanded="false"
+                                ng-class="::getExpandedCssClass(decoder.sku, skusToExpandView)">
+                                    <div class="accordion-inner starterDetails">
+                                        <div class="body-2 wysiwyg grid-12">
+                                            <h3 ng-if="::decoder.subheading">{{ decoder.subheading }}</h3>
+                                            <div html-list="::decoder.content"></div>
+                                            <!-- Extra info about decoder product -->
+                                            <!-- 
+                                            <h5 class="body-2"><em>{{::$index + 1}}.</em> <span>{{decoder.displayName}}</span></h5>
+                                            <div class="body-2">
+                                                <p ng-if="::decoder.decoderType"><strong>{{decoder.decoderType}}</strong></p>
+                                                <p ng-if="::decoder.smartcardNumber">Smartcard No. {{decoder.smartcardNumber}}</p>
+                                            </div> -->
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="iop-contentcarosuel-spacer">
-                    <hr />
                 </div>
             </div>
         </div>
@@ -20921,14 +20864,14 @@ If you do not provide personal information when we request, it may mean that we 
             noDecoderTitle: "",
             noDecoderDescription: "",
             noDecoderButtonLabel: "",
-            acquisitionCheckoutUrl: "/subscribe/checkout"
+            acquisitionCheckoutUrl: "/subscribe/checkout",
+            rootCategory: "Sky"
         };
         IOP_DATA.decoder = {
             category: "Services",
             skus: ["PD004","PD029","PD043"],
-            specialSkus: ["MD004","MD029","MD043"],
+            specialSkus: [],
             hindiChannelSkus: ["CH009","CH010","CH006"],
-            defaultBundleSkus: [],
             defaultBoxSku: [],
             hideActionsSkus: ["BS001"]
         };
