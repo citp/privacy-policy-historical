@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upenergy.in privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202221346id_/http%3A//upenergy.in/uppcl/en/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upenergy.in privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402151219id_/http%3A//www.upenergy.in/uppcl/en/article/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to Uttar Pradesh Power Corporation Limited, Government of Uttar Pradesh, India. / Privacy Policy
 
