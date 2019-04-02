@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sussex.ac.uk privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011162206id_/https%3A//www.sussex.ac.uk/about/website/privacy-and-cookies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sussex.ac.uk privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402105033id_/https%3A//www.sussex.ac.uk/about/website/privacy-and-cookies/privacy) for the most accurate reproduction.*
 
 # Privacy notice : Privacy and cookies : ... : About us : University of Sussex
 
