@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewforum.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230045752id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewforum.org privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402174052id_/https%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pew Research Center
 
@@ -40,7 +40,7 @@ We generally use the information we collect online to:
   * Send you promotional materials from us or on behalf of our affiliates and trusted third-party partners;
   * Analyze the use of the Sites and user data to understand and improve the Sites;
   * Customize the content you see when you use the Sites;
-  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms and Conditions](http://www.pewresearch.org/about/use-policy/terms-and-conditions/); and
+  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms and Conditions](https://www.pewresearch.org/about/use-policy/terms-and-conditions/); and
   * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
 
