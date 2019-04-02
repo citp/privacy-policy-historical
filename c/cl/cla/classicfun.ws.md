@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicfun.ws privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903143617id_/http%3A//classicfun.ws/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicfun.ws privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402145938id_/http%3A//classicfun.ws/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Classic Fun
 
