@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216160423id_/https%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402233157id_/https%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Superdry
 
@@ -71,7 +71,7 @@ For guidance on how to turn off cookies, see section 8. Cookies below.
 
 ### disclosure of your information
 
-We may share your personal data with any company within the SuperGroup plc group of companies for the purposes listed in this policy.
+We may share your personal data with any company within the Superdry plc group of companies for the purposes listed in this policy.
 
 We will not disclose your personal information to any third party except as follows:
 
@@ -106,7 +106,7 @@ These cookies are essential for the website to provide services you have asked f
 
 Category 2: Performance Cookies
 
-This type collect anonymous information on how people use our website and the data is merged with other users to enable us to improve how the website operates. For example, we utilise Google Analytics cookies to help us understand how customers arrive at our website, browse or use our website and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established.
+This type collect anonymous information on how people use our website and the data is merged with other users to enable us to improve how the website operates. For example, we utilise Google Analytics cookies to help us understand how customers arrive at our website, browse or use our website and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established, but our third party providers (such as Google) may associate this data with personal data they already hold about you.
 
 Category 3: Functionality Cookies 
 
