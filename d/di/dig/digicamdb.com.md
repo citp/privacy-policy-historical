@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digicamdb.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809075606id_/https%3A//www.digicamdb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicamdb.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402134334id_/https%3A//www.digicamdb.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -32,14 +32,14 @@ There are links to other websites on this site. These other websites are not man
 
 ## Third Party Ads
 
-Please note that this site serves ads from third parties (such as Google) and third-party ad servers may use cookies to serve ads. Google, for example, uses the DART cookie. You should note that I have no access to or control over cookies used by third-party advertisers. To learn more about the DART cookie you may visit the Google ads privacy policy at [google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/)
+Please note that this site serves ads from third parties (such as Amazon) and third-party ad servers may use cookies to serve ads. Amazon, for example, uses cookies to deliver more relevant ads. You should note that I have no access to or control over cookies used by third-party advertisers. 
 
 ## Conclusion
 
 By visiting and using digicamdb.com you automatically agree to this privacy policy. I reserve the right to make changes to this policy at any time. Any changes will be posted on this page. 
 
-If you have any questions regarding this privacy policy, you can contact me [here](http://www.digicamdb.com/contact/). 
+If you have any questions regarding this privacy policy, you can contact me [here](https://www.digicamdb.com/contact/). 
 
 Gregor B. 
 
-Last updated: **May 23, 2016**
+Last updated: **February 28, 2019**
