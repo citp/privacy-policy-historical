@@ -1,24 +1,43 @@
-> *The following text is extracted and transformed from the fontspring.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110084547id_/https%3A//www.fontspring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontspring.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402055823id_/https%3A//www.fontspring.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Fontspring
+# Fontspring | Privacy Policy
 
 ### What Personal Information Do We Collect?
 
-**Information You Provide.** We receive and store information you enter. For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. In addition, if you opt-in, we may share your information with other companies who provide goods or services that you are interested in. 
+**Information You Provide.** We receive and store information you enter. For example, when you search for or buy a product or service, or when you supply information such as your address, company, or phone number. We also collect and attach to your account any information you provide necessary for licensing a font, such as your client’s information.
 
-**Cookies.** Like many websites, we use "cookies". Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
+**Our Correspondence.** If you contact us, or we provide you support in any way via email or mail, we will keep a record of that correspondence.
+
+**Information About How You Shop On Our Site.** If you purchase a product while logged in, we will keep a record of the steps you went through on our site to arrive at that purchase.
+
+**Survey Information.** We may ask you to complete surveys that we use for research purposes, or to evaluate our marketing or support efforts, and in those cases we store the answers given.
+
+**Cookies.** Like many websites, we use cookies. Cookies are small pieces of data that we transfer to your computer that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
 
 **Other Information:** Every computer has an IP (Internet Protocol) address. IP addresses of computers used to visit this site are noted. In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site.
 
-**Information from Other Sources.** We might receive information about you from other sources and add it to our account information. This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. 
+**Information from Other Sources.** We might receive information about you from other sources and add it to our account information. This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
 
 ### How Do We Use Your Information?
 
 **Customized Shopping.** We use your information to better serve you by providing a customized shopping experience. As noted above, you may “opt-out” of this customization, or even visit and shop anonymously.
 
-**Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+**Partners.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. Below is a list of the partners we work with, what services they provide, and what information we provide to them.
 
-**Special Offers.** We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers. In addition, we may also send you special offers from other companies. Again, you may “opt-out”.
+Partner | Service | Information Shared  
+---|---|---  
+**[Mailchimp](https://mailchimp.com/)** | Email Newsletter | Email Address, Name  
+**[Mandrill](https://mandrillapp.com/)** | Transactional Email | Email address, Name, Purchases  
+**[ShipStation](https://www.shipstation.com/)** | Physical Mail | Name, Address  
+**[Braintree](https://www.braintreepayments.com/)** | Payment Processing | Name, Address, Email Address, Credit Card Number, Credit Card Code, Credit Card Expiration  
+**[PayPal]()** | Royalty Payment Processing | Name, Email Address  
+**[PNC Bank]()** | Royalty Payment Processing | Name, Address, Banking Details  
+**[Google Analytics]()** | Website Analytics | IP Address  
+**[Help Scout]()** | Email Help Desk | Name, Email Address  
+  
+**Licensing Enforcement.** Our Foundries are able to see limited personal data such as email address, company name, licensed fonts, and the full EULA text for your order. This is for future proof of purchase and license enforcement.
+
+**Special Offers.** We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers.
 
 ### How Do We Protect the Security of Your Information?
 
@@ -44,8 +63,8 @@ Various Web sites may be linked to from this site. If you link to another site, 
 
 If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us at [info@fontspring.com](mailto:info@fontspring.com). You will be required to provide identifier information to assure that this information is not released to others. We reserve the right to modify this policy in the future.
 
-If you're not completely satisfied with the licensing experience or the fonts themselves, we're here to help.
+If you’re not completely satisfied with the licensing experience or the fonts themselves, we’re here to help.
 
-Please contact us within 30 days of purchase to let us know there's an issue with your purchase.
+Please contact us within 30 days of purchase to let us know there’s an issue with your purchase.
 
-We will work with you to diagnose the problems you have, and if we're unable to offer a solution, we will offer a refund on the purchase.
+We will work with you to diagnose the problems you have, and if we’re unable to offer a solution, we will offer a refund on the purchase.
