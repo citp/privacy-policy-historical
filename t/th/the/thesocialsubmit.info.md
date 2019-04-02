@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesocialsubmit.info privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202025551id_/http%3A//thesocialsubmit.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialsubmit.info privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402183210id_/http%3A//thesocialsubmit.info/privacy) for the most accurate reproduction.*
 
 # privacy – thesocialsubmit
 
