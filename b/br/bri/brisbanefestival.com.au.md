@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brisbanefestival.com.au privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218042859id_/http%3A//www.brisbanefestival.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brisbanefestival.com.au privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402160718id_/https%3A//www.brisbanefestival.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
