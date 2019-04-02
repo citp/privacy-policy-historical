@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the jesusdaily.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419023549id_/http%3A//www.jesusdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesusdaily.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403010936id_/http%3A//jesusdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Use
+# Privacy Policy, Cookies Policy & Terms of Use - Jesus Daily
 
 **Privacy Policy**
 
  **PRIVACY**
 
-Jesus Daily has created this privacy policy to disclose our information gathering and dissemination practices. Jesus Daily does not sell, rent, trade, or share Personally Identifiable Information with third parties except as disclosed within this privacy policy. “Personally identifiable information” includes any information that could personally identify you, including but not limited to your name, address, phone number, and e-mail address.
+Jesus Daily has created this privacy policy to disclose our information gathering and dissemination practices. Jesus Daily does not sell, rent, trade, or share Personally Identifiable Information with third parties except as disclosed within this privacy policy. “Personally identifiable information” includes any information that could personally identify you, including but not limited to your name, address, phone number, and e-mail address.
 
-While the Jesus Daily website and related services is available to, and can be used by, anyone with internet access, the website and related services are intended to be accessed and used by individuals from the United States of America, and Jesus Daily, LLC hereby disclaims any representations and/or warranties it makes in this Privacy Policy that such policy satisfies the requirements of users accessing and using the Service from outside the United States of America. Irrespective of which country you live in, you authorize Jesus Daily to use your information in, and as a result to transfer it to and store it in, the United States, where you may not have the same rights as you do under local law.
+While the Jesus Daily website and related services is available to, and can be used by, anyone with internet access, the website and related services are intended to be accessed and used by individuals from the United States of America, and Jesus Daily, LLC hereby disclaims any representations and/or warranties it makes in this Privacy Policy that such policy satisfies the requirements of users accessing and using the Service from outside the United States of America. Irrespective of which country you live in, you authorize Jesus Daily to use your information in, and as a result to transfer it to and store it in, the United States or elsewhere, where you may not have the same rights as you do under local law.
 
  **BY USING THE SERVICE, YOU ARE HEREBY CONSENTING TO JESUS DAILY’S COLLECTION, USE, DISCLOSURE, TRANSFER AND STORAGE OF INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY.**
 
- **COMMUNICATIONS FROM THE SITE**  
-**  
-EMAIL PRODUCT OR PETITION TO A FRIEND**
+ **COMMUNICATIONS FROM THE SITE**
 
-If you choose to email a product description to a friend, we will ask you for your name and email address, and for your recipient’s name and email address. If you choose to send a petition description to a friend, only the friend’s email address is required. We will automatically send your chosen recipient(s) a one-time email to view the product or petition. Jesus Daily does not store, sell, trade or otherwise use any name or email address you share here for purposes other than to deliver your message.
+ **EMAIL PRODUCT OR PETITION TO A FRIEND**
+
+If you choose to email a product description to a friend, we will ask you for your name and email address, and for your recipient’s name and email address. If you choose to send a petition description to a friend, only the friend’s email address is required. We will automatically send your chosen recipient(s) a one-time email to view the product or petition. Jesus Daily does not store, sell, trade or otherwise use any name or email address you share here for purposes other than to deliver your message.
 
  **E-NEWSLETTERS**
 
-If you wish to subscribe to our e-newsletter(s), we will use your name and email address to send a periodic email to you. For some audio book downloads and giveaways, your email may be shared with the original publishing company. We provide unsubscribe options with each and every email sent in this manner. This is also summarized in the “Choice and Opt-out” section below.
+If you wish to subscribe to our e-newsletter(s), we will use your name and email address to send a periodic email to you. For some audio book downloads and giveaways, your email may be shared with the original publishing company. We provide unsubscribe options with each and every email sent in this manner. This is also summarized in the “Choice and Opt-out” section below.
 
  **SERVICE-RELATED ANNOUNCEMENTS**
 
@@ -28,7 +28,7 @@ We will send you strictly service-related announcements on rare occasions when i
 
  **LINKS/SOCIAL MEDIA WIDGETS/ELECTRONIC LOG FILES/COOKIES/CLEAR GIFS/WEB BEACONS/RETARGETING**
 
-Our Web site may contain links to other Web sites, including sponsor sites and other philanthropic sites. Jesus Daily is not responsible for the privacy practices or the content of such sites and encourages you to review these companies’ privacy policies.
+Our Web site may contain links to other Web sites, including sponsor sites and other philanthropic sites. Jesus Daily is not responsible for the privacy practices or the content of such sites and encourages you to review these companies’ privacy policies.
 
  **ACTIVELY SUBMITTED INFORMATION**
 
@@ -40,36 +40,35 @@ Our Web site includes social media features such as the Facebook “Like” butt
 
  **ELECTRONIC LOG FILES**
 
-As is true of most sites, we gather certain information automatically and store it in electronic log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, approximate geographic location, the type of mobile device you are using, mobile device IDs or other persistent identifiers, date/time stamp, and clickstream data.  
+As is true of most sites, we gather certain information automatically and store it in electronic log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, approximate geographic location, the type of mobile device you are using, mobile device IDs or other persistent identifiers, date/time stamp, and clickstream data.
+
 We do not link this automatically-collected data to personally identifiable information. We use this information to understand how our websites are used to better meet the needs of our visitors and customers. We use IP address to identify and block malicious behavior like click fraud or denial of service attacks. We may also use this data to conduct statistical analyses on visitors’ usage patterns and other aggregated data.
 
- **COOKIES**
+ **COOKIES POLICY**
 
-We use electronic cookies to recognize your computer as a returning visitor. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes.
+We use electronic cookies (browser and/or Flash cookies) to recognize your computer as a returning visitor. A cookie is a small text file that is stored on your computer and/or locally stored objects for record-keeping purposes. Cookies allow us to recognize and count the number of users of our website and see and store how users click and navigate through our website. This helps to improve how our website works, for example, by ensuring that you can find what you are looking for easily, and by identifying when you get an error message. Cookies record your visit to our website, the pages you have visited and the links you have followed. We will then use this information to make the content you see, for example, marketing messages from us, more relevant to your interests.
 
-For an enhanced site visitor experience, we may also use a cookie to store your click history. This would only be used to display your click history to you and is purely optional.
+You may delete and/or refuse cookies from your browser’s configuration menu at any time. However, if you delete and refuse all cookies, you may be unable to access certain parts of the Jesus Daily website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you visit our website. Flash cookies are not managed by the same browser settings used for browser cookies. To manage Flash cookies, visit the Flash player settings page on Adobe’s website [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). You may opt out of the use of the Google cookie by visiting the Google ad and content network [privacy policy](https://policies.google.com/technologies/ads). Information gathered by Jesus Daily cookies is considered personal and proprietary, and is encompassed in our commitment to your privacy and security of data. The rejection or deletion of cookies only affects the computer and the browser on which you perform the action. If you use multiple devices or browsers you need to repeat the above actions as often as needed.
 
-Third party ad servers and ad networks also use cookies to serve ads at the Jesus Daily Web site. For example, Google’s use of the DART cookie enables it to serve ads to you based on your visit to Jesus Daily and other sites on the Internet. These third party ad servers automatically receive your IP address when this occurs. We have no access to or control over these third party cookies.
+Third party ad servers and ad networks also use cookies to serve ads at the Jesus Daily website. For example, Google’s use of the DART cookie enables it to serve ads to you based on your visit to Jesus Daily and other sites on the Internet. These third party ad servers automatically receive your IP address when this occurs. We have no access to or control over these third party cookies. Third parties may provide alternative ways for you to choose not to have your information collected or used in this way. For example, you can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website and you can opt out of targeted ads from members of the Digital Advertising Alliance (“DAA”) [here](http://www.aboutads.info/). For more information about the NAI, third party ad servers generally, and the opt-out opportunities available through the NAI, visit [here](http://optout.networkadvertising.org/).
 
-You may disable cookies from your browser’s configuration menu at any time. Information gathered by Jesus Daily cookies is considered personal and proprietary, and is encompassed in our commitment to your privacy and security of data.
-
-Users may opt out of the use of the Google cookie by visiting the Google ad and content network privacy policy.
+Our policies and procedures are under regular review. We may, from time to time, update our cookie policy. Any such changes will be posted on this page. Questions, comments and requests regarding this Cookie Policy should be addressed to [admin@jesusdaily.com](mailto:admin@jesusdaily.com).
 
  **CLEAR GIFS (WEB BEACONS/WEB BUGS)**
 
 We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that helps us manage content on our site by letting us know which content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of our communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by a recipient, and when he/she has utilized a link within the email to visit a website. This allows us to gauge the effectiveness of our communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out” below.
 
 Our third party partners also employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to personally identifiable information.
 
  **BEHAVIORAL TARGETING/RETARGETING**
 
-Jesus Daily partners with a third party ad network to both display advertising on our own Web sites and to manage our advertising on other sites. Our ad network partners use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites in order to provide you targeted advertising based upon your interests, and to provide you relevant advertising through retargeting when you leave our sites. If you do not want this information used for the purpose of serving you targeted ads, you may opt-out by clicking here http://preferences-mgr.truste.com/, or by using the NAI opt-out mechanism. Please note that this does not opt you out of being served advertising — you will continue to see general ads that are not targeted to your interests.
+Jesus Daily partners with a third party ad network to both display advertising on our own Web sites and to manage our advertising on other sites. Our ad network partners use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites in order to provide you targeted advertising based upon your interests, and to provide you relevant advertising through retargeting when you leave our sites. If you do not want this information used for the purpose of serving you targeted ads, you may opt-out by clicking here [http://preferences-mgr.truste.com/](https://preferences-mgr.truste.com/), or by using the [DAA opt-out mechanism](http://www.aboutads.info/), the [NAI opt-out mechanism](https://www.networkadvertising.org/managing/opt_out.asp), and the [EDAA opt-out mechanism](http://www.youronlinechoices.eu/). Please note that this does not opt you out of being served advertising — you will continue to see general ads that are not targeted to your interests.
 
-Due to technological limitations at this time, Jesus Daily does not respond to browser Do Not Track signals.
+Due to technological limitations at this time, Jesus Daily does not respond to browser Do Not Track signals.
 
-Jesus Daily constantly uses aggregate and non-personally recognizable data about our customers both internally and using external providers, including Facebook and Google, to try to understand customer concerns and provide better products and promotions. We segment our data and email lists by issue area of concern, and also by type of product purchased, recency, frequency, and monetary value of purchase, which charitable gifts have been given, and other demographic and geographic data.
+Jesus Daily constantly uses aggregate and non-personally recognizable data about our customers both internally and using external providers, including Facebook and Google, to try to understand customer concerns and provide better products and promotions. We segment our data and email lists by issue area of concern, and also, if applicable, by type of product purchased, recency, frequency, and monetary value of purchase, which charitable gifts have been given, and other demographic and geographic data.
 
  **THIRD PARTY SERVICE PROVIDERS**
 
@@ -88,7 +87,7 @@ In the event that all or substantially all of Jesus Daily, LLC’s assets are ac
 
  **COLLECTION OF PERSONAL INFORMATION FROM CHILDREN**
 
-Jesus Daily does not knowingly collect individually identifiable information from or about children under 13. However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any personally identifiable information on our site. If Jesus Daily later learns that we have personally identifiable information about a child under 13, we will take steps to remove that child’s information from our databases to the extent technologically possible. If you have questions or concerns, please contact us at [admin@jesusdaily.com](mailto:admin@jesusdaily.com)
+Jesus Daily does not knowingly collect individually identifiable information from or about children under 13. However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any personally identifiable information on our site. If Jesus Daily later learns that we have personally identifiable information about a child under 13, we will take steps to remove that child’s information from our databases to the extent technologically possible. If you have questions or concerns, please contact us at [admin@jesusdaily.com](mailto:admin@jesusdaily.com)
 
  **UPDATING/ACCESSING/AMENDING/CORRECTING PERSONALLY IDENTIFIABLE INFORMATION**
 
@@ -98,7 +97,7 @@ We will retain your information for as long as your account is active or as need
 
  **CHOICE/OPT-OUT**
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive marketing material from us following your order, you can opt-out during the checkout process. If you no longer wish to receive our newsletter or other promotional communications, please let us know by following the unsubscribe instructions included in each newsletter and communication, or by contacting us at:
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive marketing material from us following your order, you can opt-out during the checkout process. If you no longer wish to receive our newsletter or other promotional communications, please let us know by following the unsubscribe instructions included in each newsletter and communication, or by contacting us at:
 
 Jesus Daily LLC, PO Box 717, Walkertown, NC 27051
 
@@ -108,14 +107,14 @@ You will be notified if your personal information is collected by any third part
 
 We strive to maintain internal controls and procedures to ensure that the information you share with use is handled in a safe, secure and responsible manner. We have security measures to help protect against loss, unauthorized access and alteration of the information in our control. We will only disclose such information to employees and authorized service providers who require such information for the purposes described in this Policy. Although no data transmission over the Internet can be guaranteed 100% secure, and we cannot ensure against any loss, misuse, unauthorized disclosure, alteration, or destruction of data, we take reasonable precautions to prevent such unfortunate occurrences.
 
- **Additional Email List Details**
+ **Additional Privacy Details**
 
-We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to http://www.networkadvertising.org/managing/opt_out.asp.
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
-Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
+The NAI (Network Advertising Initiative) is a cooperative group of ad serving providers. The NAI has developed a set of privacy principles to which its members adhere. The NAI is committed to provide consumers with clear explanations of Internet advertising practices and how they affect you and the Internet generally. For more information about the NAI, third party ad servers generally, and the opt-out opportunities available through the NAI, visit [optout.networkadvertising.org](http://optout.networkadvertising.org/).
 
  **CHANGES TO THIS PRIVACY STATEMENT**
 
 We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you here or by email prior to the change becoming effective. FOLLOWING ANY CHANGES, YOU ARE HEREBY ADVISED THAT YOUR CONTINUED USE OF OUR SERVICE CONSTITUTES YOUR ACCEPTANCE OF ANY AMENDMENTS TO THE MOST RECENT VERSION OF THIS PRIVACY POLICY.
 
-This Privacy Policy was last updated on August 21, 2017.
+This Privacy Policy was last updated on May 19, 2018.
