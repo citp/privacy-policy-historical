@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scientific.net privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024225624id_/https%3A//www.scientific.net/Home/ImprintAndPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientific.net privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402153036id_/https%3A//www.scientific.net/Home/ImprintAndPrivacyPolicy) for the most accurate reproduction.*
 
 # ImprintAndPrivacyPolicy
 
@@ -51,7 +51,7 @@ CH23 0483 5033 9209 9100 0
 
 ### Trademark
 
-Scientific.Net is a registered trademark of Trans Tech Publications Inc. (hereafter “Publisher”). All rights reserved. 
+Scientific.Net is a registered trademark of Trans Tech Publications Ltd. (hereafter “Publisher”). All rights reserved. 
 
 ### Privacy Policy
 
