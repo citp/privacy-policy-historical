@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813030200id_/https%3A//www.bearingpoint.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402110334id_/https%3A//www.bearingpoint.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | BearingPoint
 
@@ -94,15 +94,6 @@ If you do not wish data to be collected by Hotjar, please click here and follow 
 
 4.6 Furthermore, when browsing the BearingPoint website you may get access to embedded media and other external sources which may store cookies. As cookies from externally embedded media may be used or modified without BearingPoint’s knowledge or consent, you are invited to consult the following links for further information.
 
-**Media** | **Link to their privacy statement**  
----|---  
-AddThis | <http://www.addthis.com/privacy>  
-Eventbrite | <https://www.eventbrite.com/privacypolicy/>  
-Twitter | <https://twitter.com/privacy>  
-YouTube | <https://policies.google.com/privacy>  
-LinkedIn | <https://www.linkedin.com/legal/privacy-policy>  
-Facebook | <https://www.facebook.com/policy.php>  
-  
 4.7 You have the right to choose whether or not to accept cookies. You can exercise this right by amending or setting the controls on your browser to reflect your cookie preferences. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of the BearingPoint sites.
 
 4.8 The "help" portion of the toolbar on most Internet browsers will tell you how to change your browser cookie settings, including how to have the browser notify you when you receive a new cookie, and how to disable cookies altogether. For further information about cookies and how to control their use, please visit the following third party educational resources: [www.allaboutcookies.org](http://www.allaboutcookies.org/).
