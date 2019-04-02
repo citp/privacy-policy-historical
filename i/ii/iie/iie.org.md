@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203001111id_/https%3A//www.iie.org/en/Learn/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402120343id_/https%3A//www.iie.org/en/Learn/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ The information provided on this website is not official U.S. Government informa
 
 ### Introduction
 
-At the Institute of International Education (“IIE”), we understand that privacy is an important issue for visitors to our Website, and your privacy is equally important to us. This Privacy Policy ("Policy"), which is part of our **[Terms and Conditions](https://web.archive.org/en/Learn/Terms-and-Conditions)** , covers the treatment of the personal information we collect when you visit this website or any other website we operate (the "Website").
+At the Institute of International Education (“IIE”), we understand that privacy is an important issue for visitors to our Website, and your privacy is equally important to us. This Privacy Policy ("Policy"), which is part of our **[Terms and Conditions](https://web.archive.org/Learn/Terms-and-Conditions)** , covers the treatment of the personal information we collect when you visit this website or any other website we operate (the "Website").
 
 If you visit or interact with the Website, you are signifying to us that you consent to this Policy and the ways we collect, use, process and transfer your personal data as described here. **We may change this Policy, and will post any changes here. If you continue to access or use the Website after we post the changed Policy, we consider you to have accepted the changed Policy. If you do not agree to this Policy, please do not access or use the Website**. We will post a **“LAST UPDATED”** legend at the top of the Policy.
 
@@ -117,6 +117,13 @@ Advertising cookies are set to display targeted promotions or advertisements bas
 Cookie | Provider | Description | Duration  
 ---|---|---|---  
 DSID | Google | Advertising cookies on non-Google sites is named ‘IDE‘ and is stored in browsers under the domain doubleclick.net. Used to link user's activity across devices if user has previously signed in to Google Account on another device. | 13 days  
+f_id  
+| Feathr  
+| Set by the CloudFlare service to identify trusted Web traffic. It does not correspond to any user ID in the Web application, nor does the cookie store any personally identifiable information.  
+| 1 year  
+__cfduid | Feathr  
+| Set by the CloudFlare service to identify trusted Web traffic. It does not correspond to any user ID in the Web application, nor does the cookie store any personally identifiable information.  
+| 1 year  
 IDE | Google | Advertising cookies on non-Google sites is named ‘IDE‘ and is stored in browsers under the domain doubleclick.net. Used to link user's activity across devices if user has previously signed in to Google Account on another device. | 2 years  
 __gads | Google | Advertising cookies on non-Google sites is named ‘IDE‘ and is stored in browsers under the domain doubleclick.net. Used to link user's activity across devices if user has previously signed in to Google Account on another device. | 2 years  
 x_axis_main | Google | Advertising cookies on non-Google sites is named ‘IDE‘ and is stored in browsers under the domain doubleclick.net. Used to link user's activity across devices if user has previously signed in to Google Account on another device. | 1 year  
@@ -190,7 +197,7 @@ If you are a resident of California (U.S.A.) under the age of 18 and are a regis
 
 ### Retention, Storage and Deletion of Information
 
-IIE retains personal information in line with our corporate retention requirements and policies. We will only save your personal data for as long as it is necessary and relevant for the purpose it was originally collected, until we have no further legitimate interest in the data, you withdraw your consent, or we no longer need to comply with a legal obligation that requires us to retain your Personal Information. More specific information about retention time for processing of personal data in connection with Programs will be provided to you when we collect your Personal Information You have the option, at any time, to request deletion of your Personal Information held by us. However, we may retain a record of the existence of the relationship, to the extent that and for so long as we are required to do so by law (for example, if you have contacted us to ask for the processing of your Personal Information to be erased, we will retain a record of your request to ensure that we comply with your wishes). We may also retain some or all your Personal Information for recordkeeping or legal purposes, to enforce our [Terms and Conditions](https://web.archive.org/en/Learn/Terms-and-Conditions), or as a result of such information being stored on our systems through routine backup or archiving processes. All such cases subject to our corporate retention requirements and policies. All deletion requests should be sent to us at [siteinfo@iie.org](mailto:siteinfo@iie.org), and we will process your request within a reasonable time after receipt. However, we are not responsible for removing your Personal Information from the lists or systems of any third party unconnected to us who has previously been provided your information in accordance with this Policy.
+IIE retains personal information in line with our corporate retention requirements and policies. We will only save your personal data for as long as it is necessary and relevant for the purpose it was originally collected, until we have no further legitimate interest in the data, you withdraw your consent, or we no longer need to comply with a legal obligation that requires us to retain your Personal Information. More specific information about retention time for processing of personal data in connection with Programs will be provided to you when we collect your Personal Information You have the option, at any time, to request deletion of your Personal Information held by us. However, we may retain a record of the existence of the relationship, to the extent that and for so long as we are required to do so by law (for example, if you have contacted us to ask for the processing of your Personal Information to be erased, we will retain a record of your request to ensure that we comply with your wishes). We may also retain some or all your Personal Information for recordkeeping or legal purposes, to enforce our [Terms and Conditions](https://web.archive.org/Learn/Terms-and-Conditions), or as a result of such information being stored on our systems through routine backup or archiving processes. All such cases subject to our corporate retention requirements and policies. All deletion requests should be sent to us at [siteinfo@iie.org](mailto:siteinfo@iie.org), and we will process your request within a reasonable time after receipt. However, we are not responsible for removing your Personal Information from the lists or systems of any third party unconnected to us who has previously been provided your information in accordance with this Policy.
 
 ### Governing Law
 
@@ -405,7 +412,7 @@ While we undertake all necessary and sufficient legal, organizational and techni
 
 “ **Retention, Storage and Deletion of Information**
 
-You have the option, at any time, to request deletion of your Personal Information held by us; however, we may retain some or all your Personal Information for recordkeeping or legal purposes, to enforce our [Terms and Conditions](https://web.archive.org/en/Learn/Terms-and-Conditions), or as a result of such information being stored on our systems through routine backup or archiving processes. All deletion requests should be sent to us at [siteinfo@iie.org](mailto:siteinfo@iie.org), and we will process your request within a reasonable time after receipt. However, we are not responsible for removing your Personal Information from the lists or systems of any third party who has previously been provided your information in accordance with this Policy”
+You have the option, at any time, to request deletion of your Personal Information held by us; however, we may retain some or all your Personal Information for recordkeeping or legal purposes, to enforce our [Terms and Conditions](https://web.archive.org/Learn/Terms-and-Conditions), or as a result of such information being stored on our systems through routine backup or archiving processes. All deletion requests should be sent to us at [siteinfo@iie.org](mailto:siteinfo@iie.org), and we will process your request within a reasonable time after receipt. However, we are not responsible for removing your Personal Information from the lists or systems of any third party who has previously been provided your information in accordance with this Policy”
 
 is deleted and replaced with the following:
 
