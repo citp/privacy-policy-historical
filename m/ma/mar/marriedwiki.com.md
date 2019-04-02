@@ -1,86 +1,131 @@
-> *The following text is extracted and transformed from the marriedwiki.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009012940id_/http%3A//marriedwiki.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriedwiki.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402044429id_/https%3A//marriedwiki.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - mariedwiki.com
 
-This Privacy Policy governs the manner in which marriedwiki collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://marriedwiki.com](http://marriedwiki.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by marriedwiki.
+## Privacy Policy
 
-## **Personal identification information**
+**PRIVACY POLICY**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Protecting your privacy is very important to us. We have developed this Privacy Policy to protect your personal information and keep it confidential.
 
-## **Non-personal identification information**
+We do everything we reasonably can to protect your rights of privacy on systems and websites controlled by us, but we are not liable for any unauthorized or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example, advertisers and websites that have links to our Site. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We also cannot warrant the security of the information, which you transmit to us.
 
-## **Web browser cookies**
+We categories information about you (collectively referred to as “Personal Information”) as follows:
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+•                    Information about your personal identity such as gender, age, etc.
 
-## **How we use collected information**
+•                    Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and
 
-marriedwiki may collect and use Users personal information for the following purposes:
+•                    Your contact details such as your physical addresses, postal addresses, telephone, mobile, and fax numbers and the like (if requested and provided).
 
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
+•                    Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history, etc (if requested and provided). We maintain this in encrypted form on secure servers
 
+•                    Service Usage: Information about your navigation using our Services, for example, the URLs of websites, which you visit and from which you request downloads.
 
+•                    Log information: Information such as your web request, IP address, browser type, browser language, date and time of a request.
 
-## **How we protect your information**
+•                    Transactional Information: Transactional history (other than banking details) about your e-commerce activities (if requested and provided).
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+•                    Correspondence Information: Content, information about your correspondents, and the destination/origin of communications between you and any other person using our Services, which include email communications, comments, blog, chat room and discussion board communications, instant message communications, experts forum communications, contests and entries, fax, mail communications, membership of mailing lists, etc.
 
-Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+•                    User IDs: Your usernames, nicknames, passwords, email addresses and other security-related information used by you in relation to our Services.
 
-## **Sharing your personal information**
+•                    Stored Information: Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+·         Profiling Information:
 
-## **Third party websites**
+·         Information which you provide when you Subscribe or register for a Service:
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+•                    Information about your personal identity such as gender, age, etc.;
 
-## **Advertising**
+•                    Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+•                    Your contact details such as your physical addresses, postal addresses, telephone, mobile and fax numbers and the like (if requested and provided).
 
-## **Google Adsense**
+•                    Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history, etc (if requested and provided). We maintain this in encrypted form on secure servers
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Information from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics:
 
-## General Data Protection Regulation
+– We use Google Analytics tracking code to track our site’s traffic. This code also supports Display Advertising. The Google Analytics features include Google Analytics Demographics and Interest Reporting that we have implemented based on Display Advertising.
 
-We comply with GDPR. We usually do not collect personal data from users. However, the names and emails from email will be used only to respond you. We protect your privacy, ensure responsibility, and ensure consent. Our website does not use cookies, and it’s a good thing!
+We only collect your Personal Information to conduct our business and to enable us to deliver and improve our Services.
 
-**Complying with this regulation, users and viewers have right to** :
+We will only disclose your Personal Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your prior written consent.
 
-You can correct your data if it is outdated.
+If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you.
 
-You have right to erase data or ask us to erase data of you.
+Any of your information which you provide when you use our Services in an unencrypted manner and/or to an open, public environment or forum including (without limitation) any blog, chat room, albums, community, classifieds or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy.
 
-You have right to take all data out of the information.
+Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes. You should accordingly be careful when deciding to share any of your Personal Information in such public environments.
 
-You are allowed to view how your data are stored here.
+Information, which is disclosed publicly, is also shared with our affiliates, third party service providers, sponsors of competitions, etc. unless expressly stated otherwise.
 
-## **Changes to this privacy policy**
+We are not liable to you or any third party for any damages that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. You accordingly disclose information in a public environment at your own risk.
 
-Marriedwiki has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Right to collect
 
-## **Your acceptance of these terms**
+By accepting the Terms you agree that we may collect and store your Personal Information as long as you Subscribe to or use our Services subject to the limitations set out in this Privacy Policy.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+We collect your Profiling and Account Information for the following reasons:
 
-## **Contacting us**
+•             We need your identity details, contact details, banking information (if requested and provided) and account history (if requested and provided) to manage our relationship with you and provide Services to you. We will only disclose this information as provided for in clause 1.3 below.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[marriedwiki](http://marriedwiki.com/)  
-[https://marriedwiki.com](http://marriedwiki.com/)  
-marriedwiki@gmail.com  
-This document was last updated on December 01, 2016
+•             We use certain of your information in an aggregated form to compile statistical and demographical profiles for our business and marketing activities. We may disclose such information about you, provided that the information is in an aggregated form that is not capable of being used or interpreted in such a manner as to identify you.
+
+We collect and store your Correspondence Information and Personal Identifiers to:
+
+•             determine and verify the Service Charges payable by you and to administer our relationship with you;
+
+comply with any statutory or regulatory requirement;
+
+•             compile statistical and demographical profiles about you for our business and marketing activities and to
+
+•             customize our Services to you. While we are entitled to use such information about you for our own internal business purposes without limitation, we will only disclose it in a non-aggregated form which is not capable of being used or interpreted in such a manner as to identify you; and
+
+•             monitor your use of our Services for the purposes of ensuring compliance with our User Rules.
+
+We collect and store your Correspondence Information and Personal Identifiers to:
+
+•             comply with our obligations under clause 1.3 below; and
+
+•             monitor your use of our Services in order to ensure your compliance with our User Rules as provided for in clause 1.3 below.
+
+We will only disclose Correspondence Information and Personal Identifiers under clause 1.3 below.
+
+We may scan your Stored Information to ensure that you comply with clause 1.3 below.
+
+Any Personal Information which we collect and which we may use in an aggregated format is our property. We may use it, in our sole discretion and without any compensation to you, for any legitimate purpose including (without limitation) the commercial sale thereof to third parties.
+
+Some of our own websites use “cookies” so that we can provide you with more customized information when you return to our website. “Cookies” are used to store user preferences and to track user trends, so as to enhance your interactive experience and generally improve our Services to you. You can set your browser to notify you when you are sent a “cookie”, giving you the chance to decide whether or not to accept it. If you do accept a “cookie”, you thereby agree to our use of any Personal Information collected by us using that Cookie.
+
+You may update your Profiling Information at any time by using the personalize function. You acknowledge and agree that in the interests of improving personalisation and Service efficiency, we may, under controlled and secure circumstances, share your Personal Information with our affiliates (an entity which is our subsidiary or holding company or a subsidiary of our holding company or an entity which controls, is controlled by or is under common control with us).
+
+General exceptions
+
+If we are required to intercept, disclose, monitor and/or store your Personal Information:
+
+•             by law;
+
+•             to conduct our business;
+
+•             to secure our systems; or
+
+•             to enforce our own rights, we will do so in the manner as prescribed by legislation.
+
+Such interception, disclosure, monitoring, and storage may take place without your knowledge. In that case, we will not be liable to you or any third party for any damages howsoever arising from such interception, disclosure, monitoring, and storage.
+
+In order to ensure that all our Users comply with the User Rules, we may monitor your Personal Information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance.
+
+To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content.
+
+We may under certain circumstances procure an element of the Services from a third party service provider; for example, we may use third-party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. Also, you can visit http://www.networkadvertising.org/choices for information on how to opt-out of the use of such technologies for the delivery of more relevant advertising.
+
+Using the Google Ads Settings https://www.google.com/settings/ads, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also opt-out by downloading and installing the Google Analytics Opt-out Browser Add-on https://tools.google.com/dlpage/gaoptout/ for your web browser.
+
+Third parties, including Quora, may use cookies, web beacons, and other storage technologies to collect or receive information from your websites and elsewhere on the internet and use that information to provide measurement services and target ads.
+
+You can opt-out of the collection and use of information for ad targeting by using to http://www.aboutads.info/choices and Your Online Choices | EDAA
+
+In addition to the general limitations in the above terms, we will not be liable to you or any other third party for any damages suffered by you or any other third party howsoever arising from the disclosure of your Personal Information. Your only remedy under such circumstances will be to end this agreement.
