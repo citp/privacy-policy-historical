@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodjournal.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224061212id_/http%3A//www.hematology.org/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodjournal.org privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402092603id_/http%3A//www.hematology.org/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
