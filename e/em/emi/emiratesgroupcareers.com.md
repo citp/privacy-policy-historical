@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emiratesgroupcareers.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825183452id_/http%3A//www.emiratesgroupcareers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emiratesgroupcareers.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402215544id_/https%3A//www.emiratesgroupcareers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Emirates Group Careers
 
@@ -94,7 +94,7 @@ Our Website may contain links to other websites. Please be aware that we are not
 
 If your personally identifiable information changes, or if you no longer desire our service, we will provide a way to correct, update or remove your personal information provided to us.
 
-#### 9\. Choice / Opt-out(BSG/IT to check/insert links)
+#### 9\. Choice / Opt-out
 
 If you no longer wish to receive job alerts you may opt-out of receiving these communications by unchecking the “Send me an email notification whenever a new position matching my profile is posted (job posting notification)” preference under your Account Options.
 
