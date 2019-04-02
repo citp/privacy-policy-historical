@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homehacks.co privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211122639id_/https%3A//homehacks.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homehacks.co privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402220131id_/https%3A//homehacks.co/privacy-policy) for the most accurate reproduction.*
 
 # Home Hacks - Don’t spend more money. Try these tips
 
@@ -47,7 +47,7 @@ We use your personal information for the following purposes and as otherwise des
 
 **For research and development.** We use information automatically collected and other information to analyze trends, administer the Website, analyze users’ movements around the Website, gather demographic information about our user base as a whole, improve the Website and develop new products and services. 
 
-**To send you marketing communications.** We may send you promotions or other marketing communications but you may opt out of receiving them as described in the [Opt out of marketing](https://web.archive.org/web/20181211122639id_/https://homehacks.co/privacy-policy/opt-out-of-marketing) section below. 
+**To send you marketing communications.** We may send you promotions or other marketing communications but you may opt out of receiving them as described in the [Opt out of marketing](https://web.archive.org/web/20190402220131id_/https://homehacks.co/privacy-policy/opt-out-of-marketing) section below. 
 
 **To provide you with advertising.** We may use your personal information to serve ads on the Website or on third party sites and to tailor ads to your interests and browsing history. See our [Cookie Policy](https://web.archive.org/cookie-policy) for more information. 
 
