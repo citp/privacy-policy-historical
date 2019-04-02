@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angliaceramics.co.uk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324074603id_/http%3A//angliaceramics.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angliaceramics.co.uk privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402200721id_/http%3A//www.angliaceramics.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Anglia Ceramics - Specialised crown and bridge laboratory, Peterborough
 
