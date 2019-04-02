@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lse.ac.uk privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821152114id_/http%3A//www.lse.ac.uk/lse-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lse.ac.uk privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402122636id_/http%3A//www.lse.ac.uk/lse-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@
 
 **5.3.4** Should you request that we amend or suppress records containing your personal data, we will endeavour to do so as promptly as practical. However, you may receive communications for a transitional period while we process your records.
 
-**5.3.5** The Act and GDPR gives you the right to see the personal information LSE holds on you. Please see [Data protection](https://info.lse.ac.uk/staff/divisions/Secretarys-Division/Information-Rights-and-Management/Data-Protection) for more information.
+**5.3.5** The Act and GDPR gives you the right to see the personal information LSE holds on you. Please see [Data protection](https://info.lse.ac.uk/staff/divisions/Secretarys-Division/Information-Rights-and-Management/Data-Protection) for more information, including information on specific privacy policies.
 
 **5.4.1** This Website uses cookies - a small piece of information stored on your computer in the form of a file - where strictly necessary for the purposes of making the Website work, for monitoring performance or facilitating functionality.
 
