@@ -1,69 +1,86 @@
-> *The following text is extracted and transformed from the itgirlclothing.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324080203id_/http%3A//itgirlclothing.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itgirlclothing.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402111121id_/https%3A//itgirlclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY POLICY – itGirl Shop
 
-SAFE AND SECURE SHOPPING
+PRIVACY STATEMENT
 
-ITGIRL SHOP knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting ITGIRL SHOP, you are accepting the practices described in this Privacy Policy.
+\----
 
-WHAT PERSONAL INFORMATION DOES ITGIRL SHOP GATHER ABOUT CUSTOMERS?
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-Information That You Provide: We receive and store any information that a customer enters on our website or gives us in any way. This information is used to enhance your experience on our website, to respond to your requests, to customize your shopping experience and to communicate with you.
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.  
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-Automatic Information: Some information is received and stored automatically whenever you interact with us. "Cookies" are one example of this type of information. In internet terms, a "cookie" is a text file that websites send to visiting computers/devices to identify the visiting computer/device. We also may use third-party website analytics tools. These tools collect information about visitor traffic on our website and mobile applications.
+SECTION 2 - CONSENT
 
-Mobile: When you download or use the ITGIRL SHOP mobile application, we may receive information about your location and your mobile device. This information may be used to provide you with personalized content.
+How do you get my consent?  
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-Information from Other Sources: We might also receive information about you from other sources and add it to our account information. All information gathered is for the sole purpose of personalizing and improving your user experience.
+How do I withdraw my consent?  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at contact@itgirlclothing.com or mailing us at:  
+itGirl Shop  
+Baiyun District Jinshazhou Royal Sands (from B3-3 Building) 2201 office Guangzhou CN 510415
 
-HOW DOES ITGIRL SHOP USE YOUR CONTACT INFORMATION?
+SECTION 3 - DISCLOSURE
 
-We use your contact information for the following purposes only:
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-Register you as a user on our website;
+SECTION 4 - SHOPIFY
 
-Manage and/or maintain your user account and wish list on our website;
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.  
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-Process and deliver purchases, returns, backorders etc;
+Payment:  
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover.  
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
 
-Communicate with you and provide customer support;
+SECTION 5 - THIRD-PARTY SERVICES
 
-Let you know about products, promotions and events that might be of special interest to you;
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.  
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.  
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.  
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-If for some reason you would prefer not to receive emails from ITGIRL SHOP simply email a request itgirlclothing@hotmail.com with the word "UNSUBSCRIBE" in the subject line. Please note that any requests to remove or update your contact information may take seven to ten working days to take effect.
+Links  
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
+Google analytics:  
+Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at
 
-HOW DOES ITGIRL SHOP USE YOUR OTHER CUSTOMER INFORMATION?
+SECTION 6 - SECURITY
 
-Customize our services and product offerings to suit your needs and interests;
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-Record purchases that you have made on our website;
+SECTION 7 - COOKIES
 
-Let you communicate with us through social networks and other media;
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
+_secure_session_id, unique token, sessional  
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
+PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
 
-Allow you to post comments on our website, on social networks and other media;
+SECTION 8 - AGE OF CONSENT
 
-Protect you against fraud and unauthorized transactions, including identifying potential unauthorized users and/or hackers;
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-Enforce our Terms of Use;
+SECTION 9 - CHANGES TO THIS PRIVACY POLICY
 
-Comply with applicable legal requirements, industry standards and our policies.
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-DOES IT GIRL SHOP SHARE CUSTOMER INFORMATION?
+QUESTIONS AND CONTACT INFORMATION
 
-Your privacy is always respected when you shop with ITGIRL SHOP or use the IT GIRL SHOP mobile application. From time to time we might establish business relationships with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. Your customer information is sometimes shared with such carefully selected partners in order to enhance your shopping experience. We also sometimes allow third-party companies to collect certain anonymous information (e.g. mouse clicks, mouse movements, scroll behavior and/or keystroke activity) during your visits in order to further enhance your shopping experience.
-
-HOW SECURE IS MY CUSTOMER INFORMATION?
-
-ITGIRL SHOP is committed to maintaining the highest levels of security and protection against fraud. We stay up-to-date with the latest in security technologies to ensure that your credit card information, contact information and shipping/billing information are confidential and safe. Unfortunately, however, no data transmission over the internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information, to the extent permitted by law, we do not guarantee or warrant the security of any information you transmit to or from our websites, you do so at your own risk.
-
-WHAT CHOICES DO I HAVE?
-
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain IT GIRL SHOP and ITGIRL SHOP mobile application features. If you do not want to receive e-mail or other mail from us or if you have any questions about how your information is being used, please simply send a request to itgirlclothing@hotmail.com
-
-ARE CHILDREN ALLOWED TO USE ITGIRL SHOP?
-
-ITGIRL SHOP does not sell products for purchase by children. If you are under 14, you may use ITGIRL SHOP only with the involvement of a parent or guardian.
-
-CONDITIONS OF USE, NOTICES, AND REVISIONS
-
-If you choose to visit ITGIRL SHOP, your visit and any dispute over privacy is subject to this Policy and our Terms of Use. If you have any concern about privacy at ITGIRL SHOP please contact us at itgirlclothing@hotmail.com with a description of your concern, and we will try to resolve it. Our Privacy Policy and the Terms of Use for ITGIRL SHOP are subject to change without notice. Such changes will go into effect on the date that the notice is posted, will apply to all current and past users of our website and will replace any prior policies that are inconsistent. Your continued use of our website or other services constitutes your acceptance of the practices described in the revised Privacy Policy and Terms of Use.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at contact@itgirlclothing.com or by mail at  
+itGirl Shop  
+[Re: Privacy Compliance Officer]  
+Baiyun District Jinshazhou Royal Sands (from B3-3 Building) 2201 office Guangzhou CN 510415  
+\----
