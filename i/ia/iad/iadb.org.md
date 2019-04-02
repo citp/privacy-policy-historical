@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the iadb.org privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112102713id_/http%3A//www.iadb.org/en/common-pages/privacy-policy%2C20256.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iadb.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403011312id_/https%3A//www.iadb.org/en/privacy-policy) for the most accurate reproduction.*
 
-# IDB - Privacy Policy
+# Privacy Policy | IADB
 
-##  **Introduction**
+## **Introduction**
 
-This Privacy Policy sets forth the data protection policies and practices of the web site of the Inter-American Development Bank, (“IDB”, “we” or “us”) generally denoted by the URL “iadb.org” and its lower level domains (the “ Web Site”). As explained in the [IDB Terms of Use](http://www.iadb.org/en/terms-and-conditions,18947.html), into which this Privacy Policy is incorporated by reference, the IDB is an international organization established by its member countries pursuant to the Agreement Establishing the Inter-American Development Bank. For more information on the IDB, and the Web Site and its operations, please review carefully the IDB Terms of Use. Certain features or functions of the Web Site may now or in the future require your establishment of a user identification and acceptance of other or additional terms of use, which may also include different privacy policies.
+This Privacy Policy sets forth the data protection policies and practices of the web site of the Inter-American Development Bank, (“IDB”, “we” or “us”) generally denoted by the URL “iadb.org” and its lower level domains (the “ Web Site”). As explained in the [IDB Terms of Use](https://web.archive.org/en/common-pages/terms-and-conditions,18947.html), into which this Privacy Policy is incorporated by reference, the IDB is an international organization established by its member countries pursuant to the Agreement Establishing the Inter-American Development Bank. For more information on the IDB, and the Web Site and its operations, please review carefully the IDB Terms of Use. Certain features or functions of the Web Site may now or in the future require your establishment of a user identification and acceptance of other or additional terms of use, which may also include different privacy policies.
 
 By using the Web Site, you (“User”) are agreeing to the terms of this Privacy Policy, including as they may be amended from time to time. Your use of the Web Site therefore constitutes your consent to our collection, use and disclosure of personal information we collect from you through the Web Site, as described herein. Please be sure to read this entire Privacy Policy before using the Web Site.
 
 As the Web Site is updated and expanded, our Privacy Policy may change, so please review the posted Privacy Policy from time to time. We will notify you about material changes in the way we treat personal information by placing a notice on the Web Site or by sending you an e-mail (if you have provided us your e-mail address).
 
-##  **Scope and Definitions**
+## **Scope and Definitions**
 
 This Privacy Policy sets forth our policies and practices with respect to information concerning visitors to the Web Site, including how we collect, use, share and store that information. Although this Policy applies only to information collected through the Web Site, it is consistent with our policies and practices with respect to all personal information received by the IDB, whether in electronic, paper or verbal format.
 
@@ -28,7 +28,7 @@ Aggregated information, demographic information and any other information that d
 
 The Internet Protocol address of the computer an individual uses to access the Web Site (and the Internet more generally).
 
-##  **Collection of Information through the Web Site**
+## **Collection of Information through the Web Site**
 
 **Information You Submit**
 
@@ -54,7 +54,7 @@ Where you have requested to receive e-mail updates from us, we may periodically 
 
 We use the Anonymous Information we collect to analyze Web Site visitor behavior as a measure of interest in, and use of, the Web Site and of the various services we offer. This information is used to create aggregate statistics regarding, for example, when the Web Site is accessed, the pages which refer visitors to the Web Site, the type of web browsers visitors use, and which pages of the Web Site are viewed. These statistics help us understand how the Web Site is used and provide us with valuable information for improving the Web Site in the future.
 
-##  **Sharing of Information Collected Through the Web Site**
+## **Sharing of Information Collected Through the Web Site**
 
 **Legal Obligation Disclosures**
 
@@ -92,6 +92,6 @@ The Web Site is not directed at minors and we do not knowingly collect from or m
 
 The Web Site may contain links to third-party websites. Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. The IDB does not control the websites, applications or other services that are operated by third parties and we are not responsible for the data protection and privacy practices of these websites, applications or other services. Thus, we recommend that, once you access any such other web site, application or service, you familiarize yourself with the privacy policies and practices governing that other website, application or service.
 
-##  **Contacting Us**
+## **Contacting Us**
 
-If you have any questions or comments regarding our privacy practices, you may contact us by: <http://www.iadb.org/en/information-request,18885.html>
+If you have any questions or comments regarding our privacy practices, you may contact us by: [http://www.iadb.org/en/information-request,18885.html](https://web.archive.org/en/information-request%2C18885.html)
