@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiantimes.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206162505id_/https%3A//www.christiantimes.com/aboutus/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiantimes.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402234128id_/https%3A//www.christiantimes.com/aboutus/policy) for the most accurate reproduction.*
 
 # 
 
@@ -125,7 +125,7 @@ Christian Times does not knowingly collect or store any personal information abo
 
 ### Your California Privacy Rights
 
-Under the California "Shine The Light" law, California residents may opt-out of Christian Times's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [legal@cmcigroup.com](mailto:legal@cmcigroup.com). It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
+Under the California "Shine The Light" law, California residents may opt-out of Christian Times's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [Y.anderson@andersonandassociatesllp.com](mailto:Y.anderson@andersonandassociatesllp.com). It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
 
 ### International Safe Harbor Privacy Principles
 
