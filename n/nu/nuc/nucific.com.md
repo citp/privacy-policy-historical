@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the nucific.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206162230id_/https%3A//nucific.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nucific.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402170113id_/https%3A//nucific.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nucific
+# Privacy Policy | Nucific.com
 
+[EU Residents Click Here](https://nucific.com/gdpr/)  
 We are committed to protecting the privacy and security of the users of our Sites.
 
 This Privacy Policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accord with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our Sites. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly. If you have any questions or concerns about our Privacy Policy, please send an e-mail to support@nucific.com or contact us by mail at Nucific®, Attn: Customer Support, 19528 Ventura Blvd. # 343, Tarzana, CA 91356 USA.
