@@ -1,107 +1,176 @@
-> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409031315id_/http%3A//www.thesearchagency.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402114357id_/https%3A//www.thesearchagency.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheSearchAgency.com
+# Privacy Policy - The Search Agency
 
-Protecting your privacy is important to us at The Search Agency. The following privacy policy covers The Search Agency's collection, storage, use and disclosure of personal information of our clients and of users of our online services through the "Client Control Center" area of our website located at [www.thesearchagency.com](http://www.thesearchagency.com/) and [www.thesearchagents.com](http://www.thesearchagents.com/) (the "Site"). For the purposes of this privacy policy, "personal information" or "information" refers to identifying information such as your name, physical address, email address, telephone number, etc. This privacy policy is effective as of December 17, 2013. Please take a moment to read the following to learn about our information collection, storage, use, and disclosure practices.
+#####  Privacy Policy And Terms of use  + -
 
-The Search Agency participates in the U.S. - E.U. Safe Harbor framework as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not reslove your compaint, you may raise your compaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a compaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your compaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+The Search Agency is committed to protecting the privacy of visitors of our websites. Your privacy is extremely important to us, and we will openly communicate and disclose our privacy practices to visitors of our sites. We operate our websites by the principles set forth below. The following privacy statement will outline:
 
-##   
-Why Do We Collect Personal Information?
+  1. What kind of information we collect through our websites;
+  2. How that information is collected and used;
+  3. With whom that information is shared, and who has access to that information;
+  4. Choices available to you regarding the collection, use and distribution of that information; and,
 
-  
-The Search Agency collects relevant personal information because it enables us to give clients convenient access to our services. In particular, personal information is used to create a client profile for clients who register to use our Client Control Center. The Client Control Center provides our clients with tools that help them analyze the performance of advertising campaigns and make adjustments to improve the results of those campaigns. In addition, the collected personal information allows us to notify our clients and other Site users of products and services that we think may be of interest.
 
-##   
-Special Offers and Updates
 
-We will occasionally send you information on products, services, special deals, promotions.
+Security procedures in place to protect against the loss, misuse or alteration of that information under our control.
 
-Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”
+#####  Information Collection and Use  + -
 
-##   
-Choice/Opt-out
+The Search Agency is the sole owner of the information collected on its websites. Our sites collect non-personally identifiable information about you, such as anonymous usage data, the server your computer is logged onto and your browser type (for example, Google Chrome or Safari). This information cannot be used to identify you and will not be sold, shared with, or rented to anyone. We also collect personally identifiable information about you, like when you enter your contact information on our “Contact Us” page.  By providing us your contact information, you are authorizing us to collect, store and use your information in accordance with this policy. We use your information to respond to your requests to be contacted, and we provide this information to certain of our vendors who are performing services for us, such as the servers of our email communications who are provided users’ email addresses for the purposes of sending emails from us. These vendors use the information we share with them only at our direction and in accordance with our privacy policy. In general, the information you provide to us is used to help us communicate with you. For example, we use your information to contact you to respond to questions, solicit feedback and let you know about our services and promotional offers. We also may share your information to meet any legal process or enforceable governmental request; to enforce any terms of use of our websites; address fraud, security or technical concerns; or to protect against harm to the rights, property, or safety of our users or the public as required or permitted by law.
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
+#####  Cookies  + -
 
-If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at info(at)thesearchagency(dot)com with the word “unsubscribe” in the subject line or you may contact us at 888 257-6736 or 11150 W Olympic Blvd, Suite 600, Los Angeles, CA 90064 to opt-out.
+“Cookies” are pieces of information that a website transfers to your computer’s hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular website. Cookies themselves do not personally identify a user, but they can identify a user’s computer. Our sites use cookies to track a visitor’s path through the websites. The data collected from visitors to our sites is analyzed in aggregate form to show trends and improve the websites for future visits. We also use cookies to enhance the functionality of your site visit. Most browsers are initially set to accept cookies. However, if you’d prefer, you can set your browser to refuse cookies, although our sites may not perform at optimum levels without cookies.
 
-##   
-Blogs
+Additionally, we have implemented Google Analytics Demographics and Interest Reporting to better understand certain characteristics of the visitors to our websites and to help us make content more relevant to them. You can opt out of this reporting by utilizing the [Google Analytics Opt-out Browser Add-on ](https://tools.google.com/dlpage/gaoptout)or by using the [Network Advertising Initiative’s opt-out tool](http://www.networkadvertising.org/choices) _,_[DAA Opt-Out Platform](http://www.aboutads.info/choices/), or the [IAB Europe opt-out platform](http://www.youronlinechoices.com/uk/your-ad-choices) for the EU.
 
-  
-If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums
+We also provide services through our Magnify360 platform to our clients. Those services may include accumulating data on their site visitors through the use of cookies. Visitors of customers’ sites that use the Magnify360 platform can opt-out of cookies using the following step by step:
 
-##   
-What Personal Information Do We Collect?
+**Blocking  **[ **Magnify360.com**](http://magnify360.com/) **  Cookies**
 
-Information You Give Us. We collect personal information from clients who choose to provide us with this information. For example, we obtain personal information when you register to use our Client Control Center. This information includes, for example, your name, email address, mailing address, phone number, relevant search engine account information, and security or access code/password. Site users and clients can choose not to provide us with certain personal information, but then they may not be able to access the Client Control Center or to fully take advantage of certain features of our Site.
+The [magnify360.com](http://magnify360.com/) cookies generally track pages visited by user containing [Magnify360.com](http://magnify360.com/)  tracking code. In order to block or stop this tracking user can disable cookies set by “magnify360.com” domain using browser settings. This will completely block  [Magnify360.com](http://magnify360.com/). Remember this needs to be done for each browser separately.  Below are ways to prevent cookie from [Magnify360.com](http://magnify360.com/) for most well-known browsers.
 
-When you use widgets to bookmark or share our products and Site, you will be taken to a third party site. These third party sites also collect additional information about third parties such as name and email address. Please note that their privacy policy governs the collection and use of the information collected on those sites.
+##### Chrome
 
-## Automatic Collection of Information.
+  1. Open Chrome browser and go to **chrome://settings/content/cookies**
+  2. Click on “Add” in the Block area and add **[*.].magnify360.com** text here ** **
+  3. After saving this close your browser and reload browser so the cookies from [magnify360.com](http://magnify360.com/) will be blocked.
 
-Like many websites on the Internet, we employ the use of "cookies" in certain areas of our Site to allow us to provide information which is targeted to Site users and clients' interests. A cookie is a small amount of data that is sent to a user's browser from a Web server and stored on their computer's hard drive. We also use the cookies set in our client's websites in order to gather accurate client site tracking information (e.g. clicks, sign-ups, and revenues). We may link the information we store in cookies to the personally identifiable information you submit while on our Site, including your name and login ID. We use this information in order to provide services to our clients. You are always free to decline any cookies we use, if your browser permits.
 
-We use third party companies to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
 
-## Web Beacons
+For more information on Chrome Cookie setting refer article [https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+##### Microsoft Edge
 
-##   
-Who is Collecting Your Information?
+  1. Select **Settings - > Advanced Settings** and look for drop-down menu under “ **Cookies** “
+  2. Click the option for “Block Only third party cookies” which will block [Magnify360.com](http://magnify360.com/) from setting any cookies on the browser.
 
-  
-When you provide information through the Site, the information is transmitted through the Internet and stored on servers that The Search Agency owns and maintains. We do not share the information stored on our server with third parties unless our clients are informed in advance otherwise.  
- 
 
-## With Whom Do We Share Your Information?
 
-Please note that The Search Agency does not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes. With client permission, we may share information with third parties, such as search engine account managers, in order to provide our advertising services. Although we encourage such third parties to adopt and follow their own consumer privacy policies, we are not responsible for their collection, storage, use, or disclosure of your information. Please note that the information practices of those third parties are not covered by this privacy policy. You should refer to the privacy policies and statements of relevant third parties or contact the respective Webmasters of those websites to obtain information regarding their information collection, storage, use, and disclosure practices.
+##### Firefox
 
-In addition, we will share the personal information we collect from you under the following circumstances:
+  1. Open the browser and go to  **about:preferences#privacy**
+  2. From here select “ **Tracking Protection** ”  option and select “ **Always** “. Once set this will start blocking [Magnify360.com](http://magnify360.com/) from setting any cookies.
 
-## Protection of Rights
 
-We will release user information: (1) to third parties (i.e. search engine account managers, with your permission, in order to optimize your advertising campaigns); (2) if we believe the law requires it or in response to any demand by law enforcement authorities to comply with legal process, such as court order or subpoena; (3) if we believe such action is appropriate to enforce the Terms of Use for the Site; or (4) if we believe such action is appropriate to protect the rights, property, or personal safety of The Search Agency, its employees, other Site users, or others.  
- 
 
-## Asset Transfers
+If your browser is not listed above, then you can follow your browser’s preferred setting to block cookies for a domain and set the preference for [magnify360.com](http://magnify360.com/) domain as block. Most browsers’ “Tracking Protection” mechanism should prevent [Magnify360.com](http://magnify360.com/) cookies as well.
 
-If we chose to sell some or all of our assets, user information, including the information collected from you, could be included in the transferred assets.  
- 
+#####  Text or Log Files  + -
 
-## Independent Contractors
+A Text or Log file is a file that describes which files or Web pages a site visitor has requested from our server(s). Like most public websites, our sites collect non-personally identifiable data about you when you arrive at our sites through text files and your Internet Protocol (IP) address. An IP address is a number that is automatically assigned to your computer whenever you connect to the Internet; this number is not linked to any personally identifiable information. The number is used by network computers to identify your computer so that data can be sent to you. We collect IP addresses for system administration purposes and to gather broad demographic information about our visitors’ browsing actions and patterns for aggregate use only.
 
-We may share the information with independent contractors that we hire from time to time in connection with the performance of our advertising services, the operation of the Site, or other operation(s) related to our business. From time to time, we may disclose in published research reports information, in aggregated form, that we collect from you.
+#####  Sharing  + -
 
-##   
-Control of Your Information
+We only share information with third parties as outlined in this policy. In the event we undergo a business transaction such as a merger, acquisition or sale of all or a portion of our assets, your information may be among the assets transferred. Any acquirer of our business or assets may continue to process your information in accordance with this policy.
 
-You can correct, update, or delete the information that you provide The Search Agency by accessing your account through the Client Control Center or sending an email to privacypolicy(at)thesearchagency(dot)com We will respond to your request within 30 days. You may also send correspondence to our head office, located at 11150 W Olympic Blvd., Suite 600, Los Angeles, CA  90064 U.S.A.
+#####  Security  + -
 
-The Search Agency complies with the U.S.-EU Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries. The Search Agency has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view The Search Agency's certification, please visit <http://www.export.gov/safeharbor/>.
+We have taken every precaution to ensure the protection of your personally identifiable information from unauthorized access.
 
-##   
-Security
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of your personally identifiable information is restricted in our offices. Only employees who need the information to perform a specific job are granted access to it, and the servers that we use to store your information are password-protected and kept in a secure environment behind a locked door. These measures, however, cannot guarantee that your information will not be accessed, disclosed, altered or destroyed. By using our sites, you acknowledge that you understand and agree to assume these risks.
 
-The personal information that clients provide to The Search Agency is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information. In addition, all of The Search Agency's personnel who have access to such information are trained in the maintenance and security of such information, and we limit access of such information by our employees to the information reasonably required in order to provide prompt, high quality service. However, no server, computer network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through our Site, and you provide such information to us and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our server.
+#####  Opting Out and Accessing Your Information  + -
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number, national ID and personal health information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+You may let us know you do not wish to be contacted for marketing purposes. If we send you a promotional email, you can opt out of further promotional emails by following the unsubscribe instructions provided in the email. Note that even if you opt out, we may still send you administrative emails including, for example, periodic updates to our privacy policy.
 
-## Children's Privacy
+You may also request that your information be corrected in, or removed from, our system by emailing us at [dataprivacy@thesearchagency.com](mailto:dataprivacy@thesearchagency.com).
 
-The Site is a general audience website and no portion of the Site is directed to children under the age of 13. We do not collect personal identifying information from any person we actually know is a child under the age of 13.
+#####  Links to Other Websites  + -
 
-##   
-Changes to this Privacy Policy
+Our website may contain links to other websites or applications. We are not responsible for the privacy practices employed by those third parties or the information or content they contain. This policy applies solely to us, and we encourage you to read the privacy statements of other websites before proceeding to use them.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+#####  Notification of Changes  + -
 
-##   
-Summary
+If we decide to change our privacy policy, we will post those changes on our home page, so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we will disclose it. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-  
-At The Search Agency, protecting your privacy is important to us. By accessing and using the Site, you consent to the collection, storage, use, and disclosure of information by The Search Agency as described in this privacy policy. This privacy policy is subject to change from time to time and we will post all changes on this page. If you have any questions concerning this privacy policy, please send an email to our Webmaster at [privacypolicy(at)thesearchagency(dot)com](mailto:privacypolicy@thesearchagency.com).
+If you have any questions regarding this policy or the practices of our sites, please contact us by sending an email to [dataprivacy@thesearchagency.com](mailto:dataprivacy@thesearchagency.com).
+
+#####  Intellectual Property Rights  + -
+
+You should assume that everything you see or read on the sites is copyrighted and may not be used without our written permission except as provided in policy or in the text on the sites. We neither warrant nor represent that your use of materials displayed on the sites will not infringe rights of third parties. While we use reasonable efforts to include accurate and up-to-date information on the sites, we make no warranties or representations as to its accuracy. We assume no liability or responsibility for any errors or omissions in the content on the sites.
+
+Images of people or places displayed on the sites are either the property of, or used with permission by us. The use of these images by you, or anyone else authorized by you, is prohibited unless specifically permitted by this policy or specific permission provided elsewhere on the sites. Any unauthorized use of the images may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes.
+
+The trademarks, logos, and service marks (collectively the “Trademarks”) displayed on the sites are registered and unregistered Trademarks of us or others. You have no license or right to use any Trademarks displayed on the sites without our written permission. Your misuse of the Trademarks displayed on the sites, or any other content on the sites, is strictly prohibited.
+
+## The Search Agency and The GDPR ** **
+
+The EU General Data Protection Regulation (“GDPR”) comes into force on May 25, 2018 and brings with it the most significant changes to EU data protection law in two decades.
+
+The GDPR aims to give citizens of EU countries stronger, more consistent rights to access and control their personal information. While the GDPR is limited in scope to citizens of EU countries, we believe the GDPR is ushering in new best practices for the protection of personal data, and we pride ourselves on being in line with such practices.
+
+#####  Our Commitment  + -
+
+The Search Agency is committed to ensuring the security and protection of the personal information that we process, and to provide a compliant and consistent approach to data protection. We have always had a robust and effective data protection program in place and we are updating and expanding this program in line with the heightened standards of the GDPR.
+
+#####  What We Are Doing  + -
+
+The Search Agency has established a data privacy team to promote awareness of the GDPR across the organization, assess GDPR’s impact, identify potential gap areas and implement new policies, procedures and measures that we decide are desirable to ensure we maintain best practices in data protection worldwide. Here’s a snapshot of what we are doing:
+
+  * **_Information Audit_** – carrying out a company-wide information audit on the personal information we hold, where it comes from, how and why it is processed and if and to whom it is disclosed.
+  * **_Policies & Procedures _**– updating data protection policies and procedures, as needed, to meet the standards of the GDPR, including: 
+    * **_Data Protection_** – updating our data protection policy and procedure manual to enhance accountability and governance measures with a dedicated focus on privacy by design and the rights of individuals.
+    * **_Data Retention & Erasure _**– updating our retention policy and schedule to ensure that we meet the _‘data minimization’_ and _‘storage limitation’_ principles and that personal information is stored, archived and destroyed in accordance with GDPR principles.
+    * **_Data Breaches_** – updating our breach procedures to ensure our existing safeguards identify, assess, investigate and report any personal data breach at the earliest possible time.
+    * **_Employee Education_** – educating employees through employee training materials to ensure a company-wide understanding and approach to all data protection policies and enforcement.
+
+
+
+**_Information Security & Technical/Organizational Measures_** – ensuring we have several layers of security measures in place to protect personal information from unauthorized access, alteration, disclosure and destruction, including: access controls, secure file transfer (sFTP), pseudonymization, and CRM integration.
+
+## **The Search Agency as a Data Processor: FAQ**
+
+#####  Is The Search Agency a Data Controller or Data Processor Under the GDPR?  + -
+
+The Search Agency is a Data Processor with respect to EU customer data that The Search Agency clients control and request we process in various ways. In certain limited instances, The Search Agency may also be a Data Controller under the GDPR. We understand the requirements of both roles under the GDPR and will work with our clients to help them achieve their compliance goals.
+
+#####  How will the GDPR impact The Search Agency operations?  + -
+
+The GDPR imposes strict requirements on the way businesses collect, store, manage, and process personal data of citizens of EU member countries. As Data Processors for clients, the GDPR mandates the implementation of stricter data handling processes, with a focus on security and accountability.
+
+#####  Is The Search Agency currently GDPR compliant?  + -
+
+The Search Agency views the GDPR requirements as the new standard for best practices in personal data collection and protection. While compliance with the GDPR is required with respect to personal data of citizens of EU member countries, The Search Agency aims to apply the GDPR standards to its entire business regardless of the nationality of the subject. The design of The Search Agency’s revised processes reinforce the core principles of the GDPR:
+
+  * Lawfulness, Fairness and Transparency
+  * Purpose Limitation
+  * Data Minimization
+  * Accuracy
+  * Storage Limitation
+  * Data Security
+
+
+
+Accountability
+
+#####  What steps were taken towards GDPR compliance in Q1 – Q2?  + -
+
+  * Appoint a data protection officer
+  * Internal analysis & strategy
+  * Ensure technical and organizational measures
+  * Audit of data security processes
+  * Ensure only necessary data is collected
+  * Ensure top level security of data
+  * Data breach plan & procedure
+  * Finalize data handling processes
+  * Internal training
+
+
+
+#####  Can clients use The Search Agency to obtain the explicit consent needed for processing of customer data under GDPR?  + -
+
+Since client properties (i.e. websites and apps) capture customer data directly, by GDPR definition, clients are Data Controllers which carry the responsibility of obtaining consent[ (GDPR Article 4)](https://www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors/).
+
+#####  Will The Search Agency make updates to their data handling practices to restrict customer data from being available to employees who don’t need it in their role?  + -
+
+Yes. The Search Agency will appoint one member of the account team to process customer data on behalf of the client. That individual will ensure proper processing of customer data, based on GDPR processing guidelines, and will be responsible for the removal of client customer data from The Search Agency servers.
+
+#####  Will The Search Agency make process updates to allow for the deletion of all customer data upon request?  + -
+
+Yes. The Search Agency has instituted processes that require immediate deletion of client customer data from The Search Agency servers as soon as it is processed. Additionally, The Search Agency will work with clients to maintain an “exclusion list,” to be used for marketing purposes, which will consist of users who have exercised their[ right to be forgotten.](https://gdpr-info.eu/art-17-gdpr/)
+
+#####  Does The Search Agency have a personal data breach notification process?  + -
+
+Yes. We have a specific data breach notification procedure in place and respect the deadlines of the GDPR in communicating a breach.
