@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icreativeideas.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006201858id_/https%3A//www.icreativeideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icreativeideas.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402123447id_/https%3A//www.icreativeideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - i Creative Ideas
 
@@ -30,13 +30,13 @@ We may use the email address to respond to their inquiries, questions, and/or ot
 **Third party websites  
 **Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our Site. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to the users based on their visit to our Site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our Site. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to the users based on their visit to our Site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/).
 
 **Your Acceptance of These Terms**  
 By using our Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of our Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Pri­vacy Ques­tions**  
-If you have any ques­tions or con­cerns about this Pri­vacy Pol­icy, please email us at: icreativeideas.com@gmail.com.
+If you have any ques­tions or con­cerns about this Pri­vacy Pol­icy, please email us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Changes in Pri­vacy Pol­icy** **  
 ** We may update this Pri­vacy Pol­icy from time to time. We will notify you of any changes by post­ing the updated Pri­vacy Pol­icy on our web­site. We advise review­ing this Pri­vacy Pol­icy peri­od­i­cally for any changes.
