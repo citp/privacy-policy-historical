@@ -1,52 +1,88 @@
-> *The following text is extracted and transformed from the easypaisa.com.pk privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105122718id_/http%3A//www.easypaisa.com.pk/en/about/easypaisa-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypaisa.com.pk privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402135959id_/https%3A//www.easypaisa.com.pk/privacy-policy-ep) for the most accurate reproduction.*
 
-# Easypaisa Privacy Policy
+# Privacy | Policy | Easypaisa
 
-##  What is this Privacy Policy for?
+At the Telenor Bank Privacy is important to us.Therefore Easypaisa is committed to safeguarding the privacy of all customers. This policy sets out how we collect and will treat your personal information. Please contact us at info@easypaisa.com.pk if you have any questions.
 
-This privacy policy is for www.easypaisa.com.pk (the “Website”) and served by Telenor Pakistan (Pvt.) Ltd. and governs the privacy of its users who choose to use the website.  
-The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
+This policy reflects Telenor's group wide Privacy position and aims to provide you with adequate information in order for you to understand your privacy rights that you can make use of including but not limited to the right to withdraw your consent for us to use or share your personal information, unless that information is required to provide you with our services. By accepting the Privacy Policy and the Terms & Conditions during registration, you expressly consent to our collection handling, storage, use and disclosure of your personal information as described in this Privacy Policy. You can contact us at any point in time to discuss your privacy rights.
 
-##  The Website
+We will collect and process your personal information in accordance with all applicable laws including but not limited to all Data Protection laws which include but are not limited to privacy obligations in the Banking Companies Ordinance 1962,  the Microfinance Data Institutions Ordinance 2001 and  Branchless Banking Regulations.
 
-This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience.
+Information Collection
 
-##  Use of Cookies
+When you use this website, we collect and store your personal information as provided by you. Our primary goal in doing so is to conduct internal research on your demography and interest to provide you a safe, efficient, smooth and customized experience as well as to protect your interests. This allows us to provide relevant products and services. that are most likely to meet your needs, and to customize the website to make your experience safer and easier. We only collect personal information about and related to you that we consider necessary for achieving this purpose. We may also use your information to communicate with you or to conduct credit checks in order to provide you with personalized services.
 
-This website uses cookies to better the users experience while visiting the website . Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device.  
-Cookies are small files saved to the user's computers hard drive that track, save and store information about the user's interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.  
-Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.  
-This website uses tracking software to monitor its visitors to better understand how they use it . This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [http://www.google.com/privacy.html].  
-Other cookies may be stored to your computer’s hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
+Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located anywhere under the custody of Telenor Microfinance Bank or its authorized partners/vendor/supplier/service provider.  
 
-##  Contact & Communication
 
-Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no us. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.  
-This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+We may collect and store the following personal information:
 
-##  Email Newsletter
+  * Name, CNIC number, Address, Contact Numbers, Father's/Mother's/Husband's/Wife's name, Email id, Physical Contact Information, and sometimes Financial Information (depending on the service used) such as credit card, credit card or bank account numbers;
+  * Information on how you use our products and services (such as the transaction type, date, time, location, people involved etc.), lifestyle information, and any other information collected in relation to your use of our products and services
+  * Transactional information based on your activities on the websites (such as buying or selling items and content you generate or that relates to your account);
+  * Your computer browser information, and your IP address;
+  * Your buying behavior and pattern;
+  * If you send us personal correspondence such as emails or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you;
+  * Shipping, billing and other information you provide to purchase or ship an item such as debit card;
+  * Other information from your interaction with our sites, services, content and advertising, including computer and connection information, browsing history and length of visit, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information;
+  * Additional information we ask you to submit to authenticate yourself or if we believe you are violating policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions to help verify your identity or ownership of any ordered item);
+  * Your thumb print, signature, official/work address, parents and spouse information etc.
+  * Information from our partner companies, such as demographics and navigation data
 
-This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.  
-All personal details relating to subscriptions are held securely. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website.  
-Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].  
-This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.  
-Subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
 
-##  External Links
 
-Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.  
-The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+Use of Personal Information:
 
-##  Adverts and Sponsored Links
+We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising and to better understand your interests.
 
-This website may contain sponsored links and adverts. These will typically be served through our advertising partners, who may have detailed privacy policies relating directly to the adverts they serve.  
-Clicking on any such adverts will send you to the advertiser’s website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computer’s hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+Use:
 
-##  Social Media Platforms
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:
 
-Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.  
-Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. Neither this website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+  * Administer the website
+  * Deliver ordered products
+  * Provide the services and customer support you request
+  * Resolve disputes, securing payments against purchase, and any troubleshoot problems;.
+  * Customize your experience;
+  * Prevent potentially prohibited or illegal activities, and enforce our Terms & Conditions;
+  * Customize, measure and improve our services, content and advertising;
+  * Inform you about new and existing promotional offers, products, services, and updates;
+  * Examine your personal information to identify users using multiple User IDs or aliases and delete/bar the unauthenticated User IDs
 
-##  Google Analytics
 
-We had implemented Google Analytics features based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Using the [Ads Settings](https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+
+Our Disclosure of Your Information  
+
+
+We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations of the Country. We may also share your personal information with:
+
+  * Relevant Members, Partners, Vendors, Payment Gateways, Banks and Financial Institutes to provide joint content and services (like registration, transactions, fund collection and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about products, services and communications. Members of our corporate family will use this information to send you marketing communications
+
+
+  * Service providers under contract who help with our business operations (such as bill collection, rewards programs etc.), data processors who process your data on our behalf as well as relevant third parties whom you consented
+  * service providers, dealers, agents or any other associate company for reasonable commercial purposes;
+  * Other third parties to whom you explicitly provide information to while using our services (or about whom you are otherwise explicitly notified and consent to when using a specific service such as online payments).
+  * Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. In such events, we will disclose information relevant to the investigation.
+  * In accordance with applicable laws, regulations and court orders, with relevant authorities where we are required to cooperate for legal purposes.
+  * Other business entities, should we plan to merge with or be acquired by that business entity. (Should such a combination occur, we shall require that the new combined entity follow this privacy policy with respect to your personal information).
+
+
+
+Information You Share  
+
+
+Your feedback, ratings and associated comments may be displayed and shared with internal teams for the enhancement of the product or service and for the in-depth understanding of the teams with regards to consumer perspectives.
+
+Account Protection  
+
+
+Your pin code is the key to your account. Use unique numbers, letters and special characters, and do not disclose your account pin code to anyone. If you do share your pin code or your personal information with others, remember that **YOU, yourself is responsible** for all actions taken in the name of or by misusing your account. If you lose control of your pin code, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your pin code is compromised for any reason, you should immediately notify Telenor Microfinance Bank helpline and request a change of pin code.
+
+Security:  
+
+
+Your information is stored on our servers at a secure location of Telenor Microfinance Bank. We treat customers’ data as an asset that must be protected using sophisticated tools (encryption, passwords, physical security, etc.) to protect your personal information against any kind of unauthorized access and disclosure.
+
+We commit to reviewing and revising the privacy requirements as and when the need so arises.  If you have any concerns regarding the above please contact us at the e mail address provided above.
+
+Your information is stored on our servers at a secure location of Telenor Microfinance Bank. We treat customers’ data as an asset that must be protected using sophisticated tools (encryption, passwords, physical security, etc.) to protect your personal information against any kind of unauthorized access and disclosure. We commit to reviewing and revising the privacy requirements as and when the need so arises. If you have any concerns regarding the above please contact us at the e mail address provided above.
