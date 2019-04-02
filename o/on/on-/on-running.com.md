@@ -1,67 +1,274 @@
-> *The following text is extracted and transformed from the on-running.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231043606id_/https%3A//customer-service.on-running.com/en-us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on-running.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402214808id_/https%3A//customer-service.on-running.com/en-fi/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy | On
+# On User Privacy Notice | On
 
-We may collect various informations if you seek to place an order for a product to us on the Site.  
-We collect, store and process your data for processing your purchase on the Site and any possible later claims, and to provide you with our services. We may collect your title, name, gender, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details.
+Personal Information is information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
-We will use the information you provide to enable us to process your orders and to provide you with the services and information offered through our website and which you request. Further, we will use the information you provide to administer your account with us; verify and carry out financial transactions in relation to payments you make online; audit the downloading of data from our website; improve the layout and/or content of the pages of our website and customise them for users; identify visitors on our website; carry out research on our users? demographics; send you information we think you may find useful or which you have requested from us, including information about our products and services, provided you have indicated that you have not objected to being contacted for these purposes. Subject to obtaining your consent we may contact you by email with details of other products and services. If you prefer not to receive any marketing communications from us, you can opt out at any time.
+We do not consider personal information to include information that has been anonymized or aggregated so that it can no longer be used to identify a specific natural person, whether in combination with other information or otherwise.
 
-Your actual order details can be accessed by yourself by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorised third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault.
+We collect personal information from you when you use our website. 
 
-We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes and On. You can choose to opt out of this at any time. Any answers to surveys or opinion polls will not be forwarded on to third parties. We save the answers to our surveys separately from your email address.
+We use your personal information to provide and improve our services, provide you with a personalized experience on our sites, contact you about your account and our services, provide you customer service, provide you with personalized advertising and marketing, and to detect, prevent, mitigate and investigate fraudulent or illegal activities.  
 
-We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the 'unsubscribe' link in any email that we send to you.
 
-We may further anonymise data about users of the Site generally and use it for various purposes, including ascertaining the general location of the users and usage of certain aspects of the Site or a link contained in an email to those registered to receive them, and supplying that anonymised data to third parties such as publishers. However, that anonymised data will not be capable of identifying you personally. 
+You have choices about how we use your personal information to communicate with you, to send you marketing information, how we provide you with customized and relevant advertising, and whether you want to stay signed into your account.  
 
-For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition. 
 
-We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyse data and to provide us with marketing or customer service assistance. We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy. 
+We will honor any statutory right you might have to access, modify or erase your personal information. To request access please contact us following the instructions in the Contact Us section below. Where you have a statutory right to request access or request the modification or erasure of your personal information, we can still withhold that access or decline to modify or erase your personal information in some cases in accordance with applicable national laws.
 
-It is not necessary to accept cookies to visit our website. However, if you would like to place an order or add an item to your shopping basket, you will need to set your browser to accept cookies so you can use the shopping basket and checkout functions. 2.1 What are Cookies? Cookies are small files that are saved on your computer which store specific information about your preferred settings and any other data that our system needs when interacting with your browser. There are two different kinds of cookies: session cookies, which are deleted the moment you quit your browser; and permanent cookies, which are stored on your data carrier for a longer period of time or, in some cases, permanently. Cookies help us to tailor our website to suit you and to reflect your tastes and your browsing habits. They also allow us to save any information you have entered so you don’t have to enter it all again the next time you visit. 
+If you request that we stop processing some or all of your personal information or you withdraw (where applicable) your consent for our use or disclosure of your personal information for purposes set out in this privacy notice, we might not be able to provide you all of the Services and customer support offered to our users and authorized under this privacy notice and our Contract.
 
-Most of the cookies we use are session cookies which are deleted at the end of your browser session. We use these to allow you to use our shopping basket function across more than page of our site, for example. We do use some cookies that remain on your computer after you have quit your browser. This kind of cookie enables our system to recognise that you’ve visited our website before and to remember which settings and products you preferred. These permanent cookies have a certain lifespan after which they will be automatically deleted. These cookies allow us to collect and analyse data to come up with strategies to improve our website. This makes our website easier for our customers to use and helps us to provide you with personal recommendation of products you may like. Our aim is to offer you a fun, easy shopping experience on a website that is tailored to your tastes. 
+Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable national laws. 
 
-The cookies used by On are never used to store any personal information. Therefore our cookies cannot be traced back to an individual user. Once a cookie is activated, it is given an ID number, which is solely used for internal reference and cannot be used to identify the user or access any personal information, such as your name or IP address. The anonymised information we receive from the cookies allows us to assess which pages of our site are visited the most and see which products were most popular etc. 
+We may disclose your personal information to the following parties for the following purposes:
 
-The On website gathers information that could be useful in tailoring our adverts and online offer to our customers. This information is not used to identify you as a user; it is solely used for the optimization of our website. Information collected by our cookies is not stored with our customer’s personal information or order information, it is only used to provide our users with adverts and/or notification of offers and services that are suited to their individual tastes, using click stream analysis (e.g. adverts for reduced trainers if a customer has been browsing our sports shoe selection). Our goal is to provide you with a shopping experience suited to your tastes and shopping preferences. 
+On corporate family members, who may use it to:
 
-Cookies from specific business partners are allowed by On for the purpose of tailoring their adverts to your tastes and browsing habits, so cookies from some of our partners may be stored on your computer when you visit our site. These cookies are permanent cookies, which will be automatically deleted from your computer at the end of their lifespan. As with our own cookies, these third party cookies do not collect any personal information. The data stored is collected at certain times, allowing these companies to see which products have been viewed most frequently but this is done completely anonymously under randomly designated user ID numbers. Therefore, this data will never be pooled with any personal information you have given On. Third party cookies have the sole purpose of allowing our partners to advertise products that may interest you. 
+· Provide joint content and services (customer support)  
+· Help detect, investigate, mitigate and prevent potentially fraudulent and illegal acts, violations of our Contract and data security breaches  
+· Provide you personalized advertising  
+· Improve their products, sites, applications, services, tools and marketing communications.  
+· Members of our On corporate family will use your personal information to send you marketing communications only if you have consented to receive such communications from them or if otherwise permitted by the law.
 
-Our website may use retargeting, which allows us to make our online offer more interesting for you. Retargeting technology means we can advertise recently viewed and related products on our partners? websites, meaning our adverts, even on other companies? sites, are relevant to what you would like to see. We do this by analyzing user behavior from data collected by our cookies. This kind of information is anonymous, with no personal information being stored and no user profiles. 
+Service Providers and financial institutions partners as follows:
 
-By using the On Site and Shop you hereby give permission for your user information to be stored on cookie files. You also allow these files to remain on your computer after you have ended your browser session so they may be used upon your next visit to the website. You reserve the right to retract this permission by changing your browser settings to refuse cookies. 
+· Third party service providers who help us to provide our Services, payment processing services, assist us in providing customized advertising, to assist us with the prevention, detection, mitigation, and investigation of potentially illegal acts, violations of our Contract, fraud and/or security breaches, bill collection and other business operations.
 
-You can change the settings in your browser to ask for your permission every time a cookie tries to access your computer. If you would like to accept On cookies but block our partners? cookies, you can set your browser to block third party cookies.  
-Usually, your browser’s help section will provide information on how to change your cookie settings.
+· Third party financial institutions with whom we partner to offer financial products to you, for them to provide joint content and services (such as, registration, transactions and customer support). These third party financial institution partners will use your personal information to send you marketing communications only if you have requested their services.  
+· Third party postage providers (e.g., Swiss Post, DHL, UPS, USPS, etc.) with whom we share delivery address, contact information and shipment tracking information for the purposes of facilitating the delivery of items purchased and other delivery related communications.  
+· Third party providers of websites, applications, services and tools that we cooperate with so that they advertise our products on their websites or in their applications, services and tools. If we transfer personal information to third party providers, this will be solely on the basis of an agreement limiting use by the third party provider of such personal information to processing necessary to fulfil their contract with us and obligating the third party provider to take security measures with regard to such data. Third party providers are not permitted to sell, lease or in any other way transfer the personal information included in your listings to third parties.
 
-We recommend only changing the browser setting for your profile on shared computers. 
+Law enforcement, legal proceedings and as authorized by law:
 
-Every time you visit the Site, information is sent from your browser to our server log files, where it will be saved. The information transferred includes: time and date or visit to our site, which pages were viewed, IP address, URL of site that referred you to On, how much information has been stored and which browser you have been using.
+· To comply with our legal requirements, enforce our Contract, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property or safety.  
+· To law enforcement or governmental agencies, or authorized third-parties, in response to a verified request or legal process relating to a criminal investigation or alleged or suspected illegal activity or any other activity that exposes us, you, or any other of our users to legal liability. We will only disclose information we deem relevant to the investigation or inquiry, such as name, city, state, postcode, telephone number, email address, User ID history, IP address, fraud complaints, bidding and listing history.  
+· To third parties involved in a legal proceeding, if they provide us with a subpoena, court order or substantially similar legal basis, or we otherwise believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.  
+· If a transaction fails, is put on hold, or is later invalidated, we may also provide the other user with details of the unsuccessful transaction  
+We may disclose your personal information to Billpay GmbH, Berlin, Germany and its corporate family  
+· To prevent, detect, mitigate, and investigate potentially illegal acts, fraud and/or security breaches, and to assess and manage risk, including to alert you if fraudulent activities have been detected on your On account  
+· To provide customer services, including to help service your account or resolve disputes (e.g., billing or transactional disputes)  
+· To facilitate the processing of payment cards when you pay within our Services with a payment card and we use Billpay to process your payment  
+· To facilitate delivery and related services for purchases you made using Billpay. 
 
-Once we have all this information, all IP addresses are deleted or anonymised. Anonymisation means that your IP address is changed in such a way that they either cannot be linked with the original user or can only be linked through extensive research.
+How long we retain personal information can vary significantly based on context of the Services we provide and on our legal obligations. The following factors typically influence retention periods:  
+· How long is the personal information needed to provide our Services? This includes such things as maintaining and improving the performance of our products, keeping our systems secure, and maintaining appropriate business and financial records. This is the general rule that establishes the baseline for most of our data retention periods.  
+· Is the personal information sensitive? If so, a shortened retention time is generally appropriate.  
+· Have you provided consent for a longer retention period? If so, we will retain data in accordance with your consent.  
+· Are we subject to a legal, contractual, or similar obligation to retain your personal information? Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or personal information retained for the purposes of litigation.  
+After it is no longer necessary for us to retain your personal information, we will dispose of it in a secure manner according to our data retention and deletion policies. 
 
-The anonymous information stored in this log file is then used to improve the shopping experience by making our navigation more user-friendly, finding errors quickly and directing our server’s capacity to where it is needed most. For example, this information allows us to work out our busiest times and plan enough server power for those times to keep our site running as quickly as possible.
+When you visit or interact with our sites, services, applications, tools or messaging, we or our authorized service providers may use cookies and other similar technologies to help provide you with a better, faster and safer experience, and for advertising and marketing purposes. You can read our full User Cookie Notice for more information. 
 
-You hereby give your permission for On to analyse and use protocol data to develop and optimize their Site and Shop. 
+We protect your personal information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to the data centers we use, and information access authorization controls. 
 
-Your personal data is only shared with third parties in order to fulfill the contract or the payment. These third parties (e.g. the provider of our order management platform, the supply chain company fulfilling the good or the payment provider) may be situated outside your country of residence. You therefore agree that we may share your data with such third parties.
+This privacy notice applies to any On website, application, service or tools (collectively "Services") where this privacy notice is referenced, regardless of how you access or use them, including through mobile devices.
 
-Furthermore we shall only provide third parties with your data in compliance with this privacy policy or if you have explicitely agreed to such transfer beforehand. 
+This privacy notice also applies to the provision of On services through any On partner's website, application, service or tool where it is referenced and where your listings and their content are published or advertised in accordance with the terms of this privacy notice.
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (’Google’). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google has declared that they will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+We may amend this privacy notice at any time by posting the amended version on this site including the effective date of the amended version. We will announce any material changes to this privacy notice via email or any other suitable information channel. 
 
-Our website uses social plugins ('plugins') provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA ('Facebook'). The plugins are identifiable by a Facebook logo or the notice 'Facebook Social Plugin'. For a full list of all social plugins and their appearance please see developers.facebook.com/plugins.
+We collect personal information from you and any devices (including mobile devices) you use when you: use our Services, register for an account with us, provide us information on a web form, update or add information to your account, or when you otherwise correspond with us. 
 
-When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the plugin content to your browser which embeds the latter into the website, enabling Facebook to receive information about your having accessed the respective page of our website. For this purpose, the internet address of the visited site (your IP address included) is transferred to a USA-based Facebook server where the data are stored. This occurs even if you do not have a Facebook account or are not logged into Facebook at the time.
+Some of this personal information, such as a way to identify you, is necessary to enter into a contract with us. The provision of all other personal information is voluntary, but may be necessary in order to use our Services or in order to order a product.
 
-If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the plugins, for example by clicking ’Like’, or entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. The information can also be published on Facebook, and shown to your Facebook friends.
+We may also collect personal information from other sources, as described below.
 
-If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. You can also block Facebook social Plugins by using add-ons for your browser, like the ’Facebook Blocker’.
+Personal information you give us when you use our Services or order a product:
 
-For information on the purpose and scope of data collection by Facebook and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy. 
+\- Identifying information such as your name, addresses, telephone numbers or email addresses  
+\- Other content that you generate, or that is connected to your account or your usage of the Services  
+\- Financial information (such as credit card or bank account numbers) in connection with a transaction  
+\- Postage, billing and other information used to purchase an item  
+\- You may also provide us other information through a web form, chats, dispute resolution or when you otherwise   
+communicate with us regarding our Services.   
+\- Additional information we are required or authorized by applicable national laws to collect and process in order to   
+authenticate or identify you or to verify the information we have collected.
 
-We have in place appropriate technical and security measures to prevent unauthorised or unlawful access to or accidental loss of or destruction or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. When we collect payment card details electronically, we use encryption by using Secure Socket Layer (SSL) coding. Whilst we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details. 
+Personal information we collect automatically when you use our Services or you purchase a product from us:
 
-If you are concerned about your data, you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. For any of the above purposes, please contact us by email at [info@on-running.com](mailto:info@on-running.com). 
+\- We collect information about your interaction with our Services, your advertising preferences and your communications  
+with us. This is information we receive from devices (including mobile devices) you use when you access our Services.  
+This information could include the following: Device ID or unique identifier, device type, ID for advertising and a  
+unique device token.  
+\- Location information, including location information from your mobile device. Keep in mind that most mobile devices  
+allow you to control or disable the use of location services by any application on your mobile device in the device's   
+settings menu.  
+\- Computer and connection information such as statistics on your page views, traffic to and from the sites, referral URL,  
+ad data, your IP address, your browsing history and your web log information.  
+\- Personal information we collect using cookies and similar technologies  
+\- We use cookies, web beacons, unique identifiers and similar technologies to collect information about the pages you  
+view, the links you click and other actions you take when using our Services, within our advertising or email content.  
+\- For more information about our use of these technologies, and how to control them, see Cookies and Similar   
+Technologies.
+
+Personal information collected from other sources
+
+\- Social Media. We allow you to share information with social media sites. Those social media sites may give us automatic  
+access to certain personal information retained by them about you (e.g., content viewed by you, content liked by you   
+and information about the advertisements you have been shown or have clicked on, etc.). If you provide us with access  
+to any site with video content, then you agree that we can share your video viewing with, or obtain information about  
+your video viewing from, third-party social media sites for at least two years or until you withdraw authorization or  
+connection to the social media site. You control the personal information you allow us to have access to through the  
+privacy settings on the applicable social media site and the permissions you give us when you grant us access to the  
+personal information retained by the respective social media site about you. We may also use plug-ins or other  
+technologies from various social media sites. If you click on a link provided via a social media plug in, you are  
+voluntarily establishing a connection with that respective social media site.  
+\- If you give us personal information about someone else, you must do so only with that person’s authorization. You  
+should inform them how we collect, use, disclose, and retain their personal information according to our privacy  
+notice.
+
+How we use your personal information
+
+We use the personal information we collect from you for a range of different business purposes and according to different legal bases of processing. The following is a summary of how and according to which legal bases we use your personal information.
+
+We use your personal information to fulfil a contract with you and provide you with our Services, to comply with our legal obligation, protect your vital interest, or as may be required for the public good. This includes:
+
+\- To provide payment processing, operate, measure and improve our Services, keep our Services safe, secure and  
+operational, and customize site content that includes items and services that you may like in response to actions that  
+you take.  
+\- To contact you regarding your order, to troubleshoot problems with your order, to resolve a dispute, to collect fees or  
+monies owed or as otherwise necessary to provide you customer service (including warranty services).
+
+When contacting you for such purposes as outlined above, we may contact you via email, telephone, SMS/text messages, or postal mail.
+
+\- To provide other services requested by you as described when we collect the information.  
+\- We use general location information to provide you with location-based services (such as advertising, search results  
+and other personalized content).  
+\- To prevent, detect, mitigate, and investigate fraud, security breaches or other potentially prohibited or illegal  
+activities.  
+\- To enforce our Contract, this privacy notice, or other policies, and to monitor restrictions on offers to buy or sell  
+outside of On and member-to-member communications for violations of our policies or applicable laws.  
+\- We use your personal information to pursue our legitimate interests where your rights and freedoms do not outweigh  
+these interests. We have implemented controls to balance our interests with your rights. This includes to:  
+\- Improve our Services, for example by reviewing information associated with stalled or crashed pages experienced by  
+users allowing us to identify and fix problems and give you a better experience.   
+\- Deliver targeted marketing, service updates and promotional offers based on your communication preferences.  
+\- Measure the performance of our email marketing campaigns (e.g. by analyzing open and click rates).   
+\- Monitor and improve the information security of our site and mobile applications.
+
+With your consent, we may use your personal information to:
+
+\- Provide you with marketing via telephone calls, email, SMS/text.  
+\- Customise third party advertising you might see on third party websites.
+
+You have the right to withdraw your consent at any time.
+
+We may use technologies considered automated decision making or profiling. We will not make automated-decisions about you that would significantly affect you, unless such a decision is necessary as part of a contract we have with you, we have your consent, or we are required by law to use such technology.
+
+If you do not wish to receive marketing communications from us, you can unsubscribe via the link in an email you received, change your Communication Preferences within My On, indicate your communication preferences using the method described within the direct communication from us or contact us as described in the Contact Us section below. Keep in mind, we do not sell, rent or otherwise disclose your personal information to third parties for their marketing purposes without your consent. 
+
+If you do not wish to participate in our advertising personalization programs, you can opt-out by following the directions provided within the applicable advertisement, or through the programs described in our User Cookie Notice. The effect of an opt-out will be to stop personalized advertising, but it will still allow the collection of personal information as otherwise described in this privacy notice. We do not allow third parties to track or collect your personal information on our sites for their own advertising purposes, without your consent. 
+
+We may disclose your personal information to the following parties for the following purposes:
+
+On corporate family members, who may use it to:
+
+\- Provide joint content and services (customer support)  
+\- Help detect, investigate, mitigate and prevent potentially fraudulent and illegal acts, violations of our Contract and  
+data security breaches  
+\- Provide you personalized advertising  
+\- Improve their products, sites, applications, services, tools and marketing communications.  
+\- Members of our On corporate family will use your personal information to send you marketing communications only if you  
+have consented to receive such communications from them or if otherwise permitted by the law.
+
+Service Providers and financial institutions partners as follows:
+
+\- Third party service providers who help us to provide our Services, payment processing services, assist us in providing  
+customized advertising, to assist us with the prevention, detection, mitigation, and investigation of potentially  
+illegal acts, violations of our Contract, fraud and/or security breaches, bill collection and other business  
+operations.  
+\- Third party financial institutions with whom we partner to offer financial products to you, for them to provide joint  
+content and services (such as, registration, transactions and customer support). These third party financial  
+institution partners will use your personal information to send you marketing communications only if you have requested  
+their services.  
+\- Third party postage providers (e.g., Swiss Post, DHL, UPS, USPS, etc.) with whom we share delivery address, contact  
+information and shipment tracking information for the purposes of facilitating the delivery of items purchased and  
+other delivery related communications.  
+\- Third party providers of websites, applications, services and tools that we cooperate with so that they advertise our  
+products on their websites or in their applications, services and tools. If we transfer personal information to third  
+party providers, this will be solely on the basis of an agreement limiting use by the third party provider of such  
+personal information to processing necessary to fulfil their contract with us and obligating the third party provider  
+to take security measures with regard to such data. Third party providers are not permitted to sell, lease or in any  
+other way transfer the personal information included in your listings to third parties.
+
+Law enforcement, legal proceedings and as authorized by law
+
+\- To comply with our legal requirements, enforce our Contract, respond to claims that a listing or other content violates  
+the rights of others, or protect anyone's rights, property or safety.  
+\- To law enforcement or governmental agencies, or authorized third-parties, in response to a verified request or legal  
+process relating to a criminal investigation or alleged or suspected illegal activity or any other activity that  
+exposes us, you, or any other of our users to legal liability. We will only disclose information we deem relevant to  
+the investigation or inquiry, such as name, city, state, postcode, telephone number, email address, User ID history, IP  
+address, fraud complaints, bidding and listing history.  
+\- To third parties involved in a legal proceeding, if they provide us with a subpoena, court order or substantially  
+similar legal basis, or we otherwise believe in good faith that the disclosure of information is necessary to prevent  
+imminent physical harm or financial loss or to report suspected illegal activity.  
+\- If a transaction fails, is put on hold, or is later invalidated, we may also provide the other user with details of the  
+unsuccessful transaction
+
+We may disclose your personal information to Billpay GmbH, Berlin, Germany and its corporate family
+
+\- To prevent, detect, mitigate, and investigate potentially illegal acts, fraud and/or security breaches, and to assess  
+and manage risk, including to alert you if fraudulent activities have been detected on your On account  
+\- To provide customer services, including to help service your account or resolve disputes (e.g., billing or  
+transactional disputes)  
+\- To facilitate the processing of payment cards when you pay within our Services with a payment card and we use Billpay   
+to process your payment  
+\- To facilitate delivery and related services for purchases you made using Billpay 
+
+How long we retain personal information can vary significantly based on context of the Services we provide and on our legal obligations. The following factors typically influence retention periods:
+
+\- How long is the personal information needed to provide our Services? This includes such things as maintaining and  
+improving the performance of our products, keeping our systems secure, and maintaining appropriate business and  
+financial records. This is the general rule that establishes the baseline for most of our data retention periods.  
+\- Is the personal information sensitive? If so, a shortened retention time is generally appropriate.  
+\- Have you provided consent for a longer retention period? If so, we will retain data in accordance with your consent.  
+\- Are we subject to a legal, contractual, or similar obligation to retain your personal information? Examples can include  
+mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an  
+investigation, or personal information retained for the purposes of litigation.
+
+After it is no longer necessary for us to retain your personal information, we will dispose of it in a secure manner according to our data retention and deletion policies.
+
+If you reside in Switzerland or the EU, you are contracting with On AG, Pfingstweidstrasse 106, 8005 Zürich, Switzerland.
+
+If you reside outside of Switzerland or the EU, you are contracting with one of our international On companies, as follows:
+
+\- If you reside in the USA, you are contracting with On Inc., 1937 NW Quimby Street Portland, OR, 97209, USA   
+\- If you reside in Japan, you are contracting with On Japan K. K., Kurata Building 2F, 4 Chome-21 Kaigandõri, Naka-ku  
+Yokohama-shi, Kanagawa-ken 231-0002, Japan   
+\- If you reside in Canada, you are contracting with On Running Canada Inc, c/o Boughton Law Corporation, 700 - 595  
+Burrard Street, PO Box 49290, Vancouver, BC Canada V7X 1S8, Canada   
+\- If you reside in China, you are contracting with On Running sporting goods company Ltd. (Shanghai) - Shanghai, Huangpu,  
+Yunnan South Road 118, Room 06-105, China   
+\- If you reside in Australia or New Zealand, you are contracting with On Oceania Pty Ltd., 211A Swan Street, Richmond,  
+Victoria 3121, Australia   
+\- If you reside in Brazil, you are contracting with On Brazil Limitada, Rua Sader Macul, 119 – Itaim Bibi - São Paulo -  
+CEP 04542-090, Brazil
+
+The company you are contracting with is your data controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this privacy notice, as well as any applicable national laws.
+
+Your data controller may transfer data to other members of the On group.
+
+We may process and retain your personal information on servers in the U.S. and elsewhere in the world.
+
+We have appointed a data protection officer who can be reached in case of questions or complaints in writing at: On AG, Attn: DPO, Pfingstweidstrasse 106, 8005 Zürich, Switzerland or you can also send an email to our DPO at DPO@on-running.com.
+
+Your right to file complaints with a data protection supervisory authority remains unaffected.
+
+We do not tolerate abuse of our Services. You do not have permission to add other users to your mailing list (email or postal), call, or send him/her text messages for commercial purposes, even if this user purchased something from you, unless the user has given his/her explicit consent. Sending unwanted or threatening email and text messages is against our Contract. To report On-related spam or spoof emails please forward the email to eu_happinessdelivery@on-running.com 
+
+We may scan messages automatically and check for spam, viruses, phishing and other malicious activity, illegal or prohibited content or violations of this privacy notice or any other applicable policies. 
+
+Our websites are general audience websites and not intended for children. We do not knowingly collect personal information from users deemed to be children under their respective national laws. 
+
+This privacy notice addresses only our use and handling of personal information we collect from you in connection with providing you our Services. If you disclose your information to a third party, or visit a third party website via a link from our Services, their privacy notices and practices will apply to any personal information you provide to them or they collect from you.
+
+We cannot guarantee the privacy or security of your personal information once you provide it to a third party and we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your personal information. This is true even where the third parties to whom you disclose personal information are bidders, buyers or sellers on our site.
+
+ **Direct Communications: Privacy Notice for US Customers**
+
+For customers residing in the USA: 
+
+Further to On’s rights as outlined in the On User Privacy Notice, On reserves the right to send you marketing communications by direct mail.
+
+As a part of our commitment to your privacy, On supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from On. 
