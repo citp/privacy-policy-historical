@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the themonitor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042643id_/http%3A//www.themonitor.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themonitor.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402080229id_/https%3A//www.themonitor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Site | themonitor.com
+# Privacy Policy - The Monitor
 
-This is the Privacy Policy for all Web sites owned or operated by Aim Media Texas  ("Aim" "we" or "our"), including, without limitation the Web sites listed here http://www.aimmediatexas.com/properties/  (collectively, the "Site"). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the This will need to be our url for the PP. posted on the Site.
+This is the Privacy Policy for all Web sites owned or operated by Aim Media Texas  (“Aim” “we” or “our”), including, without limitation the Web sites listed here http://www.aimmediatexas.com/properties/  (collectively, the “Site”). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the This will need to be our url for the PP. posted on the Site.
 
- **Managing Information Preferences**
+**Managing Information Preferences**
 
-We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 1400 E. Nolana Loop McAllen, TX 78504 E-mail: [pp@aimmediatx.com](mailto:pp@aimmediatx.com) .  If you would like to correct, update, or change your personal information with us please contact us the same way.
+We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 1400 E. Nolana Loop McAllen, TX 78504 E-mail: [pp@aimmediatx.com](mailto:pp@aimmediatx.com) .  If you would like to correct, update, or change your personal information with us please contact us the same way.
 
- **What Types Of Information Do We Collect?**
+**What Types Of Information Do We Collect?**
 
 We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services. We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data. We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving.
 
- **How Do We Use The Information We Collect?**
+**How Do We Use The Information We Collect?**
 
 We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy. We use personal information and non-personal information for internal purposes, including:
 
@@ -30,30 +30,30 @@ We may use aggregate information to measure general Site usage patterns and char
 
 We also may share personal information with entities controlling, controlled by, or under common control with AIM. In the event that AIM is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information and non-personal information in connection with such transaction.
 
-From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure.
+From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours (“Service Providers”). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure.
 
-We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to "opt-out" of the collection of information from such cookies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to “opt-out” of the collection of information from such cookies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to AIM  or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission.
 
- **Security**
+**Security**
 
 We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
 
- **Links To Third-Party Web Sites**
+**Links To Third-Party Web Sites**
 
 The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
 
- **Discussion Board, Forums and Other User Generated Content**
+**Discussion Board, Forums and Other User Generated Content**
 
 Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
 
- **Children's Privacy Statement**
+**Children’s Privacy Statement**
 
 We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
 
- **Policy Changes**
+**Policy Changes**
 
 If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
 
-Effective Date7/1/2012
+Effective Date 7/1/2012
