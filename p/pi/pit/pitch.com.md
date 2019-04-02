@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215014114id_/https%3A//pitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402230342id_/https%3A//pitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Pitch
 
@@ -32,7 +32,13 @@ To exercise these rights of access, rectification, cancellation or restriction o
 
 You have also the right to lodge a complaint with a supervisory authority at your choice (for example: Berliner Beauftragte für Datenschutz und Informationsfreiheit <https://www.datenschutz-berlin.de/kontakt.html>). An overview of the Data Protection Authorities may be found here: <https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html> or <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>
 
-### Visiting the Website
+#### Contact
+
+If you send us an e-mail or otherwise contact us, your details in this online form or request, including the contact data, name, email address and other data provided respectively, are processed by us in order to deal with your inquiry or to be able to contact you at a later time for follow up questions. These data are processed only on the basis of your consent (legal basis Art. 6 (1) a. GDPR) or on the basis of an initiating or existing business relationship with us (legal basis Art. 6 (1) b. GDPR or TMG).
+
+### Data processing on our website:
+
+#### Visiting the Website
 
 We (or the webspace provider) collect data on each visit to our website pitch.com (“Website”) (so-called Server log files), which include:
 
@@ -44,11 +50,7 @@ country code, language, name of device, name of operating system and version
 
 We use these server log files only for statistical evaluations for the purpose of optimizing our services and in order to guarantee the stability and operational security of the Website. When personal data (such as the IP-address) are stored the legal basis for this is Art. 6 (1) c. GDPR or Art. 6 (1) f. GDPR based on our legitimate interest of quality assurance or TMG.
 
-### Contact
-
-If you send us an e-mail or otherwise contact us, your details in this online form or request, including the contact data, name, email address and other data provided respectively, are processed by us in order to deal with your inquiry or to be able to contact you at a later time for follow up questions. These data are processed only on the basis of your consent (legal basis Art. 6 (1) a. GDPR) or on the basis of an initiating or existing business relationship with us (legal basis Art. 6 (1) b. GDPR or TMG).
-
-### Newsletter
+#### Newsletter
 
 In our newsletter we inform you about our services and products also described on our Website.
 
@@ -60,7 +62,7 @@ The data processing for sending and analyzing our newsletters as described above
 
 OPT-OUT: If you do not want to receive any newsletters by us in the future and/or wish to object to the analysis of your data through such newsletters please use the “unsubscribe” link contained in each newsletter or send us an email to [privacy@pitch.io](mailto:privacy@pitch.io).
 
-### Cookies
+#### Cookies
 
 Our Website partly uses so-called cookies. Cookies do not cause any harm to your device and do not contain any viruses. Cookies serve the purpose of making our service more user-friendly, more effective and safer. Cookies are small text files which are stored on your device and in your browser.
 
@@ -70,7 +72,7 @@ OPT-OUT: You can adjust your browser to notify you, before you receive a cookie 
 
 In the event personal data are processed such processing is based on Art. 6 (1) f. GDPR with the legitimate interest of quality assurance.
 
-### Google Analytics
+#### Google Analytics
 
 The service offered here uses Google Analytics a web analytics tool offered by Google LLC, Mountain View, CA, USA (“Google“). This analysis service uses so-called “cookies”. For analysis, text files will be stored on your device. The information stored in the corresponding files about the use of this website are generally transmitted and stored in Google server in the USA. As the IP anonymization is active on this Website, your IP address will be shortened by Google within the member states of the European Union (EU). This information will be used to evaluate your use of the services offered here and enable the operator of this website to analyze your website activity and provide other services associated with the website service. The IP address transmitted from your browser, as part of Google Analytics will not be merged with other data from Google.
 
@@ -80,7 +82,7 @@ We point out that an automated decision making (“profiling”) can take place 
 
 Google LLC, USA is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
 
-### Google Fonts
+#### Google Fonts
 
 Our Website uses the “Google Fonts” service of Google LLC, Mountain View, CA, USA to integrate and display text on the Website. For this purpose Google may process your data (including the IP address) on servers located in the USA.
 
@@ -88,11 +90,11 @@ When the IP address is processed this is based on our legitimate interests of te
 
 Google LLC is certified according to the “Privacy Shield” agreement between the European Union and the USA and guarantees compliance with applicable European data protection regulations (see: <https://www.privacyshield.gov/>). You can also find more information in Google's privacy policy: services.google.com/sitestats/en.html
 
-### Google Tag Manager
+#### Google Tag Manager
 
 Our Website uses the Google Tag Manager by by Google LLC, Mountain View, CA, USA. Google Tag Manager is a solution that allows marketers to manage website tags through a single interface. The tool Google Tag Manager itself (which implements the tags) is a cookieless domain and does not collect any personal data. The tool triggers other tags, which in turn may collect data. Google Tag Manager does not access this data. If deactivation has been made at the domain or cookie level, it will remain in effect for all tracking tags implemented with Google Tag Manager. You can also find more information in Google's privacy policy: services.google.com/sitestats/en.html
 
-### Grammarly
+#### Grammarly
 
 Our Website uses the “Grammarly” service of Grammarly Inc., San Francisco, CA, USA to provide spell-checking services, e.g. for replying to contact requests. For this purpose Grammarly Inc. may process your data (including the IP address) on servers located in the USA.
 
@@ -100,9 +102,9 @@ When the IP address is processed this is based on our legitimate interests of te
 
 Grammarly Inc. is certified according to the “Privacy Shield” agreement between the European Union and the USA and guarantees compliance with applicable European data protection regulations (see: <https://www.privacyshield.gov/>). You can also find more information in Grammarly's privacy policy: <https://www.grammarly.com/privacy-policy>
 
-### AddThis
+#### AddThis
 
-On our Website we use plugins of the service AddThis, which is operated by AddThis, LLC, 1595 Spring Hill Rd, Suite 300, Vienna, VA 22182, USA (“AddThis”). AddThis provides tools for creating and designing websites ([www.addthis.com](https://web.archive.org/web/20181215014114id_/https%3A//pitch.com/www.addthis.com)) that make it easier for website visitors to share the current page with other internet users via email or social networks. AddThis also provides tools for website operators to help them analyze and improve the use of their own website or to enable a direct user approach. AddThis also uses cookies and web beacons (small graphics, ‘tracking pixels’ that allow log file recording and analysis). If you are using an AddThis plugin, your internet browser will establish a direct connection to the servers of AddThis and, if applicable, the selected social network. The generated data (such as time of use or browser language) is transferred to AddThis and processed there. When you submit content from our website to social networks, a link may be established between your visit to the website and your user profile on that social network. For more information about AddThis's data processing and privacy practices, please refer to <http://www.addthis.com/privacy/privacy-policy>. By using the AddThis plugin you agree to the data processing by AddThis.
+On our Website we use plugins of the service AddThis, which is operated by AddThis, LLC, 1595 Spring Hill Rd, Suite 300, Vienna, VA 22182, USA (“AddThis”). AddThis provides tools for creating and designing websites ([www.addthis.com](https://web.archive.org/web/20190402230342id_/https%3A//pitch.com/www.addthis.com)) that make it easier for website visitors to share the current page with other internet users via email or social networks. AddThis also provides tools for website operators to help them analyze and improve the use of their own website or to enable a direct user approach. AddThis also uses cookies and web beacons (small graphics, ‘tracking pixels’ that allow log file recording and analysis). If you are using an AddThis plugin, your internet browser will establish a direct connection to the servers of AddThis and, if applicable, the selected social network. The generated data (such as time of use or browser language) is transferred to AddThis and processed there. When you submit content from our website to social networks, a link may be established between your visit to the website and your user profile on that social network. For more information about AddThis's data processing and privacy practices, please refer to <http://www.addthis.com/privacy/privacy-policy>. By using the AddThis plugin you agree to the data processing by AddThis.
 
 OPT-OUT: You can object to the data collection and storage by AddThis at any time with effect for the future by setting a so-called Opt-Out Cookie. Please refer to <http://www.addthis.com/privacy/opt-out>.
 
@@ -114,7 +116,7 @@ Such data are used in order to guarantee the stability and operational security 
 
 In the event of displayed content by Third Party Providers your data may be processed outside the EU.
 
-### Careers Section on our Website
+#### Careers Section on our Website
 
 We will also process your data through the careers section of the Website. Such data may include name, email, address and telephone number, gender, your career history, qualifications, country of residence, language skills and any other personal information you include in your interactions with us. We may also ask for additional information to assist us with our recruitment process and in the event you are offered a job an example would be date of birth, work documents. You may also share details of other people with us; for example, if somebody else referred the job to you (someone you know at Pitch or otherwise). In those circumstances, you will need to check with that person that they are happy for you to share their personal information with us, and for us to use it in accordance with this privacy policy.
 
@@ -139,6 +141,78 @@ We may also use your data with your explicit consent (based on Art. 6 (1) a. GDP
 We also use third party service providers for processing your career data. A list of the data processors processing data (outside the EU) and corresponding information is available by request via email to [privacy@pitch.io](mailto:privacy@pitch.io).
 
 With your explicit consent, we will keep your information in case any other opportunities become available which you might be interested in; we will only keep your information for a limited period and your details will be deleted on a general basis after 12 months of inactivity on your account latest. _You may withdraw such consent_ with effect for the future at any time via email to [privacy@pitch.io](mailto:privacy@pitch.io).
+
+### Data Processing on our Social Media pages:
+
+We operate pages on the following social media channels:
+
+Facebook: facebook.com or mobile app by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA or Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2, Ireland, please refer to privacy policy <https://www.facebook.com/policy.php>, opt-out: <https://www.facebook.com/ads/preferences> or <https://www.facebook.com/settings>;
+
+Instagram: instagram.com or mobile app by Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2, Ireland, please refer to privacy policy <http://instagram.com/about/legal/privacy/>; opt-out: <https://www.instagram.com/accounts/privacy_and_security/>; Twitter: twitter.com or mobile app by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA, please also refer to privacy policy <https://twitter.com/en/privacy>, opt-out: <https://twitter.com/personalization>;
+
+LinkedIn: linkedin.com or mobile app by LinkedIn Corporation, Legal Department – Privacy, 1000 W. Maude Ave, Sunnyvale, CA 94085, USA / LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Ireland, please also refer to <https://www.linkedin.com/legal/privacy-policy> / <https://www.linkedin.com/psettings/privacy>
+
+When you visit our social media pages, data is processed both by us and by the responsible social media provider as the responsible party.
+
+The respective provider of social media assumes the data protection obligations towards you as the user, such as information on data processing, and is the contact person for your rights. This follows from the fact that such provider has direct access to the relevant information on the social media page and the processing of your data. However, you are also welcome to contact us if this should become necessary and we will then forward the request to the
+
+When using Facebook, Instagram, Twitter or LinkedIn data may also be processed outside the EU. The US companies of Facebook/Instagram, Twitter and LinkedIn are certified in accordance with the EU-US Privacy Shield agreement, which guarantees compliance with data protection regulations in the EU. For more information please refer to: [https://www.privacyshield.gov](https://www.privacyshield.gov/)
+
+#### Data Processing and Legal Basis
+
+With our social media pages, we can communicate with you and provide you with interesting information. We may receive further data from you through your comments, shared images, messages and reactions, which we then process to answer or communicate with you. If you use social media on several end devices, a cross-device analysis of the data can take place.
+
+Furthermore, the providers of social media pages may also use cookies and tracking technologies to analyse and improve their services.
+
+Data processing takes place with your consent or for the purpose of answering your enquiry (Art. 6 (1) a, b GDPR) or on the basis of legitimate interests in improving the services and presentation to the outside world (Art. 6 (1) f GDPR).
+
+#### Use of Page Insights and Cookies on Facebook
+
+Facebook and we use the Page Insights function to process statistical data from users of our Facebook pages (see also the agreement at: <https://www.facebook.com/legal/terms/page_controller_addendum>). This involves the processing of data in the form of so-called ‘page insights’, which are described in more detail at <https://www.facebook.com/business/a/page/page-insights>.
+
+Evaluations and statistics are generated in the form of page insights from the usage data of the Facebook pages, which support us in improving our marketing activities and our external presence. We may also learn about users and their behavior who interact with or use our Facebook Pages to display relevant content and develop features that may be of interest to them. These page statistics show us, for example, which people from certain target groups interact most with our Facebook Page or which content on the Facebook Page was visited, shared or licked when and how often. When classifying people into target groups, demographic data or data about the location of a person is also included in order to place targeted advertisements with these people. If you use Facebook on several end devices, a cross-device analysis of the data can take place. The data collected in this way is statistically processed and usually anonymous, i.e. we cannot establish any reference to the individual person.
+
+Information on these page insights and data processing can be found, for example, in Facebook's data protection statement at <https://www.facebook.com/policy.php> or at <https://www.facebook.com/business/a/page/page-insights>.
+
+Facebook also uses cookies and storage technologies. More information can be found here: <https://www.facebook.com/policies/cookies/>
+
+#### Use of Instagram Insights and Cookies when using Instagram
+
+When using Instagram and you have an account there, Instagram can assign your activities to your profiles there. Instagram and we use the Instagram Insights function to process statistical data from users of our Instagram pages (see also for Facebook which is connected to the provider of Instagram the agreement at: <https://www.facebook.com/legal/terms/page_controller_addendum>). This involves the processing of data in the form of so-called ‘Instagram Insights’ which are described in more detail at <https://help.instagram.com/788388387972460?helpref=faq_content>.
+
+Evaluations and statistics are generated in the form of Instagram Insights from the usage data of the Instagram pages, which support us in improving our marketing activities and our external presence. Instagram Insights lets us learn more about our users and the performance of our content with you as audience. For this purpose Instagram provides us with statistics on specific posts and stories created to find out how users interacted with them. When classifying people into target groups, demographic data or data about the location of a person is also included in order to place targeted advertisements with these people. If you use Instagram on several end devices, a cross-device analysis of the data can take place. The data collected in this way is statistically processed and usually anonymous, i.e. we cannot establish any reference to the individual person.
+
+Instagram also uses cookies and similar technologies. For more information please refer to: <http://instagram.com/about/legal/privacy/>
+
+#### Display of Content and Cookies when using Twitter
+
+When you use Twitter, even if you’re just looking at Tweets, Twitter receives some personal information from you like the type of device you’re using and your IP address. Twitter uses this information for things like showing you more relevant Tweets, people to follow, events, and ads, as described in detail in the Twitter privacy policy. This may also involve providing your payment information to Twitter to use their paid services.
+
+Twitter also uses cookies and similar technologies. For more information please refer to <https://help.twitter.com/en/rules-and-policies/twitter-cookies>.
+
+#### Data processing and Cookies when using LinkedIn
+
+LinkedIn and we may use your data for careers and recruiting services for our LinkedIn pages (see also the data processing agreement: <https://legal.linkedin.com/dpa>). Data on how you use LinkedIn may be shared with us and certain third parties as described in detail here: <https://www.linkedin.com/legal/privacy-policy#share>
+
+LinkedIn also uses cookies and similar technologies as set forth here: <https://www.linkedin.com/legal/cookie_policy>
+
+#### The details on data processing and contact for enforcing your rights are:
+
+**Facebook**
+
+As a Facebook user, you can at any time influence how your user behavior is recorded when you visit Facebook pages. To do this, you can manage the settings for advertising preferences in your Facebook account or at <https://www.facebook.com/ads/preferences>, or the Facebook settings in your account or at <https://www.facebook.com/settings>. Facebook also provides opportunities to contact or exercise rights at <https://www.facebook.com/help/contact/2061665240770586> or <https://www.facebook.com/help/contact/308592359910928>.
+
+**Instagram**
+
+As an Instagram user, you can at any time influence how your user behavior is recorded when you visit Instagram pages. To do this, you can manage the settings for advertising preferences in your Instagram account or under <https://www.instagram.com/accounts/privacy_and_security/>. Instagram also provides opportunities to contact or exercise rights at <https://help.instagram.com/contact/1845713985721890> or <http://instagram.com/about/legal/privacy/>.
+
+**Twitter**
+
+As Twitter user, you can at any time influence how your user behavior is recorded when you visit Twitter pages. To do this, you can manage the settings for advertising preferences in your Twitter account or under <https://twitter.com/personalization> or <https://twitter.com/de/privacy#overlay-chapter2.10.1> or without an account under <https://pscp.tv/account/settings>. Twitter also provides opportunities to contact or exercise rights at <https://help.twitter.com/forms/privacy>.
+
+**LinkedIn**
+
+As LinkedIn user you can at any time influence how your user behavior is recorded when you visit LinkedIn pages. To do this, you can manage the advertising and general settings in your account under <https://www.linkedin.com/psettings/privacy>. LinkedIn also provides opportunities to contact and exercise rights under <https://www.linkedin.com/legal/privacy-policy>, <https://www.linkedin.com/legal/cookie-policy> and for individual messages online via <https://www.linkedin.com/help/linkedin/ask/TSO-DPO>.
 
 ### Data Processing by Third Parties / Data Processing outside the EU
 
