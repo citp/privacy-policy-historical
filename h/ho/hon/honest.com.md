@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005162928id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402224912id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Honest Company
 
