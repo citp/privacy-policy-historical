@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketworldcup.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217104643id_/http%3A//www.icc-cricket.com/about/the-icc/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketworldcup.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403003154id_/http%3A//www.icc-cricket.com/about/the-icc/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal | ICC Cricket
 
@@ -12,23 +12,23 @@
 
 1.4 The entity responsible for your personal information is ICC Business Corporation FZ LLC.
 
- **2\. Terms of Use**
+**2\. Terms of Use**
 
 2.1 Use of the ICC Websites is subject to our [Terms of Use](https://www.icc-cricket.com/about/the-icc/legal-notices/website-terms-of-use).  
 
- **3\. Updates**
+**3\. Updates**
 
 3.1 We may amend this Privacy Policy from time to time to keep it up to date with legal requirements and the way we operate our business. Please regularly check this page for the latest version of this Privacy Policy. If we make material changes to this Privacy Policy, we will seek to inform you by notice on our website or email ( **"Notice of Change"** ).
 
 3.2 Your continued use of the ICC Website following an amendment or Notice of Change indicates your acceptance of any changes.
 
- **4\. Third Party Websites**
+**4\. Third Party Websites**
 
 4.1 ICC Websites may link you to other websites. We are not responsible for the way in which third party websites operate or the way in which they may process any personal information, which you provide to them. It is important that you understand this and check their respective privacy policies and terms of use.
 
 4.2 Microsites which allow for the purchase of merchandise and tickets for example which are accessible from the ICC Websites are operated by third parties which we have licensed to carry out such activity and subject to such third parties' terms and conditions and privacy policies. We are not responsible for the operation of such microsites.  Again, we strongly recommend that you review and understand their terms and conditions and privacy policies.
 
- **5\. WHAT PERSONAL INFORMATION WE COLLECT AND WHEN AND WHY WE USE IT**
+**5\. WHAT PERSONAL INFORMATION WE COLLECT AND WHEN AND WHY WE USE IT**
 
 In this section you can find out more about: 
 
@@ -38,7 +38,7 @@ In this section you can find out more about: 
 
 
 
- **5.1 ICC Websites**
+**5.1 ICC Websites**
 
 5.1.1 We will collect technical information about you, including the internet protocol ( **"IP"** ) address used to connect to the internet, browser type and version, time zone setting, operation system and platform, as well as information about your visit, including the full Uniform Resource Locators ( **"URL"** ), clickstream to, through and from our site, items you viewed or searched for, page response times, download errors, length of visit to certain pages, page interaction information, and methods used to browse away from the page.
 
@@ -48,19 +48,19 @@ In this section you can find out more about: 
 
 5.1.4 We use your personal information to allow you to participate in interactive features of our service, when you choose to do so.
 
- **5.2 Surveys and Quizzes**
+**5.2 Surveys and Quizzes**
 
 5.2.1 To engage in, and analyse the results of, surveys with you about to enable us to provide a more personal and bespoke service. Surveys may be conducted in a number ways, including by email, or other electronic means, as well as onsite at ICC events. 
 
- **5.3 Matches, Events and Promotions**
+**5.3 Matches, Events and Promotions**
 
 5.3.1 We regularly arrange events and special promotions to introduce ICC to new customers and fans.  If you come to one of these events, or take part in a promotion, we may ask for your personal details to help us run the event or promotion and keep in touch with you about our services and any special offers that we think may be of interest subsequently.  Any information which you provide will be used in accordance with the terms of this Privacy Policy and you can unsubscribe from further communications from us at any time. 
 
- **5.4 Gamification**
+**5.4 Gamification**
 
 5.4.1 We may collect personal information about you through your use of interactive games that utilise or license ICC intellectual property rights.  Some of these games may be operated by our licensed partners.  To learn more about this please visit the privacy policies of our partners.
 
- **6\. LEGAL BASIS FOR USING YOUR DATA**
+**6\. LEGAL BASIS FOR USING YOUR DATA**
 
 6.1 We will only collect, use and share your personal information where we have an appropriate legal basis to do so. Appropriate legal bases include:
 
@@ -74,7 +74,7 @@ In this section you can find out more about: 
 
 6.2 If you would like to find out more about the legal bases upon which we process personal information please contact us at [enquiry@icc-cricket.com].
 
- **7\. HOW WE SHARE INFORMATION WITH OTHERS**
+**7\. HOW WE SHARE INFORMATION WITH OTHERS**
 
 7.1 We work closely with a number of trusted partners with whom we need to share information to help us provide our services:
 
@@ -96,15 +96,15 @@ In this section you can find out more about: 
 
 7.3 If, in the future, we sell or transfer some or all of our business or assets to a new group company or third party, we may disclose or transfer information relating to our business or assets to such entity.
 
- **8\. MORE ABOUT DIRECT MARKETING, PROFILING AND AUTOMATED DECISION MAKING**
+**8\. MORE ABOUT DIRECT MARKETING, PROFILING AND AUTOMATED DECISION MAKING**
 
- **8.1 Direct marketing**
+**8.1 Direct marketing**
 
 8.1.1 We are committed to keeping you informed about our products and services or those of our commercial partners and members in line with your personal preferences. If we communicate with you about our products and services we will always provide you with an opportunity to stop receiving such marketing material. 
 
 8.1.2 We will usually send this by email but we may choose to contact you in other ways for example by phone, post, SMS, social media channels and/or other electronic means if that is more appropriate. **You can ask us to stop sending you marketing material at any time by contacting us at** [enquiry@icc-cricket.com].
 
- **8.2 Managing your marketing preferences**
+**8.2 Managing your marketing preferences**
 
 8.2.1 To protect your privacy rights and to ensure you have control over how we manage marketing with you:
 
@@ -116,7 +116,7 @@ In this section you can find out more about: 
 
 8.2.2 We recommend you routinely review the privacy policies and preference settings that are available to you on any social media platforms.
 
- **8.3 More about profiling and analytics**
+**8.3 More about profiling and analytics**
 
 8.3.1 We may use some of the information you provide to us in order to perform profiling and analytics with the data.  We will do this either with your consent or where it is in our legitimate interests.  
 
@@ -138,7 +138,7 @@ In this section you can find out more about: 
 
 8.3.10 If you are a data subject with rights under the GDPR then we will take steps to ensure that prior to profiling your information for a legitimate interest that our legitimate interest is not overridden by your own interests or fundamental rights and freedoms.  If you are a data subject with rights under the GDPR you may have rights to object to us profiling your personal information.  You can learn more about profiling and analytics under the GDPR [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612053).
 
- **9\. TRANSFERRING PERSONAL INFORMATION GLOBALLY**
+**9\. TRANSFERRING PERSONAL INFORMATION GLOBALLY**
 
 9.1 We operate our business on a global basis. The countries to which we commonly disclose your personal information include the United Arab Emirates ( **"UAE"** ), the United States of America ( **"USA"** ), and the United Kingdom ( **"UK"** ). Some of these countries which are outside of the European Economic Area, for example, the UAE and the USA, have laws which do not offer, in the opinion of the European Commission or other supervisory authorities, an adequate level of data protection. 
 
@@ -146,9 +146,9 @@ We will always strive to adopt the highest standards of privacy protection, wher
 
 9.2 You have a right to contact us at [enquiry@icc-cricket.com]. for more information about the safeguards we have put in place to ensure the adequate protection of your personal information when this is transferred as mentioned above. See also the section titled "Your Rights", below.
 
- **10\. HOW WE PROTECT AND STORE YOUR INFORMATION   **
+**10\. HOW WE PROTECT AND STORE YOUR INFORMATION   **
 
- **10.1 How we protect your information**
+**10.1 How we protect your information**
 
 10.1.1 We invest an appropriate level of resources to protect the security and confidentiality of personal information.
 
@@ -160,15 +160,15 @@ We will always strive to adopt the highest standards of privacy protection, wher
 
 10.1.1.4 Where you disclose information to us using one of our mobile apps, please ensure that your device remains safe. We cannot be held responsible for any data misuse arising from unauthorised access to your device.
 
- **10.2 Storing your personal information**
+**10.2 Storing your personal information**
 
 10.2.1 We will store your personal information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this Privacy Policy. Where your information is no longer required, we will ensure it is disposed of in a safe manner. In some circumstances we may need to store your personal information for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax, accounting requirements.  Should you require information about how we retain particular information you can contact us at [enquiry@icc-cricket.com].
 
 10.2.2 In specific circumstances we may store your personal information for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your personal information or dealings.
 
- **11\. COOKIES AND MOBILE  **
+**11\. COOKIES AND MOBILE  **
 
- **11.1 Our policy on "cookies"**
+**11.1 Our policy on "cookies"**
 
 11.1.1 A cookie is an element of data that a website sends to your browser, which then stores it on your system. Cookies may collect personal information about you. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of the ICC Websites. Cookies also allow us to make the ICC Websites more user-friendly by, for example, allowing us to take you to the language site of last use, so that we can give you a better experience when you return to our website.
 
@@ -176,7 +176,7 @@ We will always strive to adopt the highest standards of privacy protection, wher
 
 11.1.3 For more information about how our cookies work and information about how to manage your cookie settings please visit our [Cookie Policy](https://www.icc-cricket.com/about/the-icc/legal-notices/cookie-accepting-policy). 
 
- **12\. YOUR RIGHTS - LEGAL RIGHTS AVAILABLE TO HELP MANAGE YOUR PRIVACY**
+**12\. YOUR RIGHTS - LEGAL RIGHTS AVAILABLE TO HELP MANAGE YOUR PRIVACY**
 
 12.1 **You may have certain legal rights regarding your personal information depending upon the country you are in or how we interact with you.   You can learn more about this in this section.**
 
@@ -214,11 +214,11 @@ We will always strive to adopt the highest standards of privacy protection, wher
 
 12.8 We may not always be able to address your request fully, for example if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way. 
 
- **12.9 Right to access personal information  **
+**12.9 Right to access personal information  **
 
 12.9.1 You have a right to request that we provide you with a copy of your personal information that we hold and you have the right to be informed of; (a) the source of your personal information; (b) the purposes, legal basis and methods of processing; (c) the data controller’s identity; and (d) the entities or categories of entities to whom your personal information may be transferred.
 
- **12.10 Right to rectify or erase personal information  **
+**12.10 Right to rectify or erase personal information  **
 
 12.10.1 You have a right to request that we rectify inaccurate personal information. We may seek to verify the accuracy of the personal information before rectifying it. 
 
@@ -240,7 +240,7 @@ We will always strive to adopt the highest standards of privacy protection, wher
 
 12.10.3.2 for the establishment, exercise or defence of legal claims.
 
- **12.11 Right to restrict the processing of your personal information  **
+**12.11 Right to restrict the processing of your personal information  **
 
 12.11.1 You can ask us to restrict your personal information, but only where:
 
@@ -260,7 +260,7 @@ We will always strive to adopt the highest standards of privacy protection, wher
 
 12.11.2.3 to protect the rights of another natural or legal person. 
 
- **12.12 Right to transfer your personal information**
+**12.12 Right to transfer your personal information**
 
 12.12.1 You can ask us to provide your personal information to you in a structured, commonly used, machine-readable format, or you can ask to have it transferred directly to another data controller, but in each case only where:
 
@@ -268,34 +268,34 @@ We will always strive to adopt the highest standards of privacy protection, wher
 
 12.12.1.2 the processing is carried out by automated means. 
 
- **12.13 Right to object to the processing of your personal information**
+**12.13 Right to object to the processing of your personal information**
 
 12.13.1 You can object to any processing of your personal information which has our legitimate interests as its legal basis, if you believe your fundamental rights and freedoms outweigh our legitimate interests. 
 
 12.13.2 If you raise an objection, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights and freedoms. 
 
- **12.14 Right to object to how we use your personal information for direct marketing purposes**
+**12.14 Right to object to how we use your personal information for direct marketing purposes**
 
 12.14.1 You can request that we change the manner in which we contact you for marketing purposes.
 
 12.14.2 You can request that we not transfer your personal information to unaffiliated third parties for the purposes of direct marketing or any other purposes.
 
- **12.15 Right to obtain a copy of personal information safeguards used for transfers outside your jurisdiction**
+**12.15 Right to obtain a copy of personal information safeguards used for transfers outside your jurisdiction**
 
 12.15.1 You can ask to obtain a copy of, or reference to, the safeguards under which your personal information is transferred outside of the European Union. We may redact data transfer agreements to protect commercial terms.
 
- **12.16 Right to lodge a complaint with your local supervisory authority**
+**12.16 Right to lodge a complaint with your local supervisory authority**
 
 12.16.1 You have a right to lodge a complaint with your [local supervisory authority](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080) if you have concerns about how we are processing your personal information. 
 
 12.16.2 We ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.  
 
- **13\. CONTACT US**
+**13\. CONTACT US**
 
 13.1.1 Questions, comments, requests or issues arising from this Privacy Policy are welcomed and should be addressed to enquiry@icc-cricket.com.
 
 13.1.2 If you have any questions, concerns or complaints regarding our compliance with this Privacy Policy and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at [enquiry@icc-cricket.com]. We will investigate and attempt to resolve complaints and disputes and will make every reasonable effort to honour your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by data protection laws.  
 
- **13.2 To contact your data protection supervisory authority**
+**13.2 To contact your data protection supervisory authority**
 
 13.2.1 In some countries, you may have a right to lodge a complaint with your local [data protection supervisory authority](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). We ask that you please attempt to resolve any issues with us before your local supervisory authority.  
