@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoosierhomemade.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929175420id_/https%3A//hoosierhomemade.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoosierhomemade.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402042050id_/https%3A//hoosierhomemade.com/disclosures) for the most accurate reproduction.*
 
 # Disclosures - Hoosier Homemade
 
@@ -126,10 +126,6 @@ The Company welcomes your questions or comments regarding the Privacy Policy:
 
 Simple-Easy-Creative LLC
 
-717 Michigan Ave., 3rd Floor
-
-LaPorte, IN 46350
-
 Email Address: liz@hoosierhomemade.com
 
-Effective as of May 22, 2018
+Effective as of January 1, 2019
