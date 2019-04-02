@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtits.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227174556id_/http%3A//www.bigtits.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtits.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402073321id_/http%3A//www.bigtits.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ( . Y . ) Big Tits™
 
