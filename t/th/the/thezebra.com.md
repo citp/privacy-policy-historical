@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thezebra.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227193137id_/https%3A//www.thezebra.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezebra.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402080824id_/https%3A//www.thezebra.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Zebra
 
@@ -86,7 +86,7 @@ In Plain English
 
 If you get to us through another site or choose to click-off to another site from ours, they might collect your personal info. We may also use services from other companies to help us understand how users interact with our services. Also, your info can be made available to third parties via software applications and other technologies. We’re not responsible for their privacy policies.
 
-#### Remarketing and Retargeting
+####  Remarketing and Retargeting
 
 The Zebra uses third-party remarketing services (such as Google AdWords, AdRoll, & Facebook) to advertise on third-party websites to previous visitors of TheZebra.com or our properties. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement or posting on the Google search results page, Facebook, or various other websites within these networks or on the worldwide web. Third-party vendors use cookies, advertising identifiers and other technologies to serve ads based on someone’s past visits to the The Zebra’s properties. Of course, any data collected will be used in accordance with our own privacy policy and the privacy policies of these third-party remarketing services. You can set preferences for how Google advertises to you by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising at <http://www.aboutads.info/choices/> and edit or opt-out your Google Display Network ads’ preferences at <http://www.google.com/ads/preferences/>. AdRoll preferences or settings can be adjusted at [http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false). For general or other consumer opt-out, please visit [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/).
 
