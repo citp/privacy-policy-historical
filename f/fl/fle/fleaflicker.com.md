@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleaflicker.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116115223id_/http%3A//www.fleaflicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleaflicker.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402135845id_/https%3A//www.fleaflicker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fleaflicker
 
@@ -35,6 +35,10 @@ If Fleaflicker, or substantially all of its assets were acquired, or in the very
 #### Ads
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Fleaflicker and does not cover the use of cookies by any advertisers.
+
+#### Interest Based Advertising
+
+Fleaflicker's advertising partners may collect non-identifiable information about your visits to and interactions with our website. In addition, our partners may also use the information about your visits to other websites to target advertisements for products and services. If you would like more information about this practice, please visit the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/) (NAI).
 
 #### Privacy Policy Changes
 
