@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterpik.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823153908id_/https%3A//www.waterpik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterpik.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402204501id_/https%3A//www.waterpik.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Water Pik, Inc.
 
