@@ -1,102 +1,195 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905121801id_/http%3A//www.moody.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402143644id_/https%3A//www.moody.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Moody Bible Institute
+# Privacy Policy
 
-The following is a statement of Moody Bible Institute's (MBI) general policies for the use of visitor information collected through our websites. Some areas may have specific policies regarding the privacy of user-provided information and may contain exceptions to this statement. Consult the statement posted under that area's Web page for the appropriate information.
+## Introduction
 
-## Our Commitment to Privacy
+The Moody Bible Institute of Chicago ( **"MBI"** or **  "We"**) respects your privacy and is committed to protecting it through our compliance with this policy.
 
-* * *
+This policy describes the types of information we may collect from you or that you may provide when you visit an MBI website (our " **Website** ") and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+This policy applies to information we collect:
 
-## The Information We Collect
-
-* * *
-
-This notice applies to all information collected or submitted on Moody Bible Institute's website, unless otherwise posted. On some pages, you may order products, register for conferences, make requests and register/subscribe to receive materials. The types of personal information collected at these pages are:
-
-  * Name
-  * Address
-  * E-mail address
-  * Phone number
-  * Credit/debit card information
-  * Radio station call letters
+  * On our Website.
+  * In email, text, and other electronic messages between you and our Website.
+  * Through mobile and desktop applications you download from our Website, which provide dedicated non-browser-based interaction between you and our Website.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
 
 
-On some pages you may submit information about other people. For example, if you order a gift subscription and want it sent directly to the recipient, you will need to submit the recipient's address. In this case, the types of personal information collected are:
+It does not apply to information collected by:
 
-  * Name
-  * Relation (if any)
-  * Address
-  * Phone number
-  * E-mail address
+  * us offline or through any other means, including on any other website operated by any third party; or
+  * from any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
 
 
-Additionally, we collect certain information in our server log files, whether or not you send us a request to help us maintain and improve the performance of our web servers. This information includes the IP address, type of browser, the page you were referred from, the page you are visiting and the time of the visit. We also collect the same information when you receive an error page. No personal information is contained in these logs. We do use statistical software to analyze our logs to obtain aggregate values on how many times a page is viewed, total number of visitors by country, browser popularity and other similar totals.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. Where you provide us with your personal information in any of the ways described in this policy, you agree that, to the extent applicable, we may collect, store, and use it (a) in order to perform our contractual obligations to you, (b) based on our legitimate interest for processing (e.g., for our administrative purposes, website performance, or for the detection and/or prevention of crime), or (c) based on your consent, which you may withdraw at any time. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using our Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of our Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-When you visit any Moody Bible Institute website, we send one or more cookies—a small file containing a string of characters—to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Moody Bible Institute website features and services may not function properly if your cookies are disabled.
+## Children Under the Age of 13
 
-## Kids and Teens
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at GDPR-INFO@moody.edu.
 
-* * *
+## Information We Collect About You and How We Collect It
 
-Please be sure to ask your parents for permission before you send any information about yourself to us or anyone else online or over the Internet. If you are under the age of 13, you must obtain permission from your parents. They simply need to send us an e-mail indicating their approval of your participation in any of the services/resources which require the collection of personal information on our website.
+We collect several types of information from and about users of our Website, including information:
 
-## Parents
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, date of birth, social security number, or any other information the website collects that is defined as personal or personally identifiable information under all applicable law (" **personal information** ");
+  * that is about you but individually does not identify you, such as demographic information and gender; and/or
+  * about your internet connection, the equipment you use to access our Website and usage details.
 
-* * *
 
-Any information collected by Moody Bible Institute from children/teens is used only for the purpose of delivering the requested service/materials. If you have a question, or would like to review or delete your child’s information, please contact us via e-mail to the Web Administrator at [webadmin@moody.edu](mailto:webadmin@moody.edu "Web Administrator e-mail") or write to us at:
 
-Moody Bible Institute  
-Web Communications  
-820 N. LaSalle Boulevard  
-Chicago, IL 60610-3284  
-[1-800 DL MOODY](tel:+1-800-356-6639) (1-800-356-6639) or [(312) 329-4000](tel:312-329-4000)
+We collect this information:
 
-## The Way We Use Information
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business and ministry partners.
 
-* * *
 
-We use the information you provide about yourself when using an online form only to complete that contact. We do not share this information with outside parties except to the extent necessary to complete/resolve that contact (i.e., verifying credit authorization or sending a package through a postal/delivery system).
 
-We use the information you provide about someone else when placing a request only to mail the materials and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that request.
+## Information You Provide to Us. 
 
-We offer gift subscriptions or co-registrations by which you can request a service or item for another person. Information you provide to us to create an alternate user is used only for that purpose, and it is disclosed only to the person receiving the service/item.
+The information we collect on or through our Website may include:
 
-We use return e-mail addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. If you subscribe to an e-mail newsletter or request to be kept on a list for notification of events or information from Moody, such addresses are used for those purposes and are not shared with outside parties.
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to receive our newsletters or other content, posting material, making a donation, or requesting further services or information. We may also ask you for information when you enter a contest, sweepstakes, or promotion sponsored by us, and when you report a problem with our Website.
+  * Records and copies of your correspondence (including email addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
+  * Your search queries on the Website.
 
-Finally, we never use or share the personally identifiable information provided to us online or offline in ways unrelated to the ones described above. We do not sell, trade, or share our donor list with any other organization. If you have subscribed to an email newsletter you may log in to change the settings. If you have problems logging in or are having problems getting off a list, please contact the web administrator at [webmaster@moody.edu](mailto:webmaster@moody.edu).
 
-## Our Commitment to Data Security
 
-* * *
+You also may provide information to be published or displayed (hereinafter, " **posted** ") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, " **User Contributions** "). Your User Contributions are posted on and transmitted to others at your own risk. Although we may limit access to certain pages, please be aware that no security measures are perfect or impenetrable.  Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+## Information We Collect Through Automatic Data Collection Technologies. 
 
-## How You Can Correct Your Information
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
-* * *
+  *  Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system, and browser type.
 
-You can correct factual errors in your personally identifiable information by sending us a request via e-mail or postal mail that credibly shows error.
 
-## Third Parties
 
-* * *
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
 
-Links to third party websites on the site are provided solely as a convenience to you. If you use these links, you will leave the MBI site. MBI has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policy. Thus MBI does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so at your own risk.
+The information we collect automatically is statistical data and does not/may include personal information, and we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It furthers our legitimate interest to improve our Website and to deliver a better and more personalized service, including by enabling us to:
 
-## How to Contact Us
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Website.
 
-Should you have other questions or concerns about these privacy policies, please contact us:
 
-Webmaster  
-E-mail: [webmaster@moody.edu](mailto:webmaster@moody.edu)  
-Moody Bible Institute  
-Web Communications  
-820 N. LaSalle Boulevard  
-Chicago, IL 60610-3284  
-[1-800 DL MOODY](tel:+1-800-356-6639) (1-800-356-6639) or [312) 329-4000](tel:312-329-4000)
+
+The technologies we use for this automatic data collection may include:
+
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices About How We Use and Disclose Your Information.
+  * **Web Beacons.** Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit MBI, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+
+
+
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
+
+## Third-Party Use of Cookies and Other Tracking Technologies.
+
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+
+## How We Use Your Information
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Website and its contents to you.
+  * To provide you with information, products, or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your registration or subscription including confirmation, expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * To allow you to participate in interactive features on our Website.
+  * To send you information specific to your subscription preferences.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also use your information to contact you about our own and third-parties' ministries, goods and/or services that may be of interest to you. If you do not want us to use your information in this way, please contact us at [GDPR-INFO@moody.edu](mailto:GDPR-INFO@moody.edu) with your request.  For more information, see Choices About How We Use and Disclose Your Information.
+
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+
+## Disclosure of Your Information
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, ministries and other third parties we partner with or use to support our ministry.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of The Moody Bible Institute of Chicago's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by The Moody Bible Institute of Chicago about our Website users is among the assets transferred.
+  * To fulfill the purpose for which you provide it. For example, if you give us an email address to use the “email a friend” feature of our Website, we will transmit the contents of that email and your email address to the recipients.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our terms of use and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of The Moody Bible Institute of Chicago, our donors, students and customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+## Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Promotional Offers from MBI.** If you do not wish to have your email address/contact information used by MBI to promote our own or third parties’ products, services and/or ministries, you can opt-out by sending us an email stating your request to [GDPR-INFO@moody.edu](mailto:GDPR-INFO@moody.edu).  If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
+
+
+
+Accessing and Correcting Your Information
+
+You may send us an email at [GDPR-INFO@moody.edu](mailto:GDPR-INFO@moody.edu) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+## Retention of Your Information
+
+Your information will be held and used for as long as necessary for our legitimate ministry purposes to the extent permitted by applicable law or regulation.
+
+## Your California Privacy Rights
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [GDPR-INFO@moody.edu](mailto:GDPR-INFO@moody.edu) or write us at: The Moody Bible Institute of Chicago, ATTN: ITS, 820 N. LaSalle Blvd., Chicago, IL 60610.
+
+## Your EEA Privacy Rights
+
+If you are based within the European Economic Area (which means all the EU countries plus Norway, Iceland, and Liechtenstein) (“EEA”), in certain circumstances, you have the following rights:
+
+  * the right to be told how we use your information and obtain access to your information, subject to certain limitations;
+  * the right to have your information rectified or erased or to place certain restrictions on processing your information;
+  * the right to object to the processing of or to erase your information in certain circumstances, e.g., for direct marketing purposes;
+  * the right to have information you provided to us on an automated basis returned to you;
+  * where the processing of your information is based on your consent, the right to withdraw that consent subject to applicable restrictions, including legal or contractual restrictions; and
+  * the right to lodge a complaint with the supervisory authority responsible for data protection matters.
+
+
+
+The foregoing rights are subject to certain limitations. If you request a copy of your information you may be required to pay a statutory fee.
+
+## Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page and/or via email. The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting our Website and this privacy policy to check for any changes.
+
+## Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, or to request any changes or exercise any other right with respect to your information, contact us at:
+
+[GDPR-INFO@moody.edu  
+](mailto:GDPR-INFO@moody.edu)The Moody Bible Institute of Chicago  
+ATTN: ITS  
+820 N. LaSalle Blvd.  
+Chicago, IL 60610
+
+Last modified: May 17, 2018
