@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the nutanix.com privacy policy that was archived on 2018-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229233136id_/https%3A//www.nutanix.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nutanix.com privacy policy that was archived on 2019-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190402232913id_/https%3A//www.nutanix.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
     <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NGF263"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" sizes="180x180" href="https://www.nutanix.com/wp-content/themes/nutanix/dist/images/favicons/apple-touch-icon.png?v=gAEbGBgaJo">
     <link rel="icon" type="image/png" href="https://www.nutanix.com/wp-content/themes/nutanix/dist/images/favicons/favicon-32x32.png?v=gAEbGBgaJo" sizes="32x32">
@@ -13,7 +13,7 @@
     <link rel="shortcut icon" href="https://www.nutanix.com/wp-content/themes/nutanix/dist/images/favicons/favicon.ico?v=gAEbGBgaJo">
     <meta name="msapplication-config" content="https://www.nutanix.com/wp-content/themes/nutanix/dist/images/favicons/browserconfig.xml?v=gAEbGBgaJo">
     <meta name="theme-color" content="#ffffff">
-    <script async="" type="text/javascript" src="https://www.nutanix.com/wp-admin/admin-ajax.php?action=pll_xdata_check&amp;redirect=https%3A%2F%2Fwww.nutanix.com%2Fprivacy-policy%2F&amp;nonce=ca58e3f885"></script><title>Nutanix Privacy Policy | Nutanix</title>
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NGF263"></script><script async="" type="text/javascript" src="https://www.nutanix.com/wp-admin/admin-ajax.php?action=pll_xdata_check&amp;redirect=https%3A%2F%2Fwww.nutanix.com%2Fprivacy-policy%2F&amp;nonce=18e4247f40"></script><title>Nutanix Privacy Policy | Nutanix</title>
 
 <!-- This site is optimized with the Yoast SEO Premium plugin v6.1.2 - https://yoa.st/1yg?utm_content=6.1.2 -->
 <link rel="canonical" href="https://www.nutanix.com/privacy-policy/">
@@ -21,15 +21,16 @@
 <meta property="og:locale:alternate" content="de_DE">
 <meta property="og:locale:alternate" content="hi_IN">
 <meta property="og:locale:alternate" content="zh_CN">
+<meta property="og:locale:alternate" content="it_IT">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Nutanix Privacy Policy | Nutanix">
-<meta property="og:description" content="Nutanix Privacy Statement Last Updated: May 24, 2018 This Privacy Statement describes the types of information the Nutanix group of companies which includes Nutanix, Inc., Nutanix Netherland, B.V., and their subsidiaries and affiliates, (collectively, “Nutanix”, “we,” “our,” or “us”) collect through our websites, including the website at www.nutanix.com (our “Sites”), as well as all related … Continued">
+<meta property="og:description" content="&nbsp; Nutanix Privacy Statement Last Updated: May 24, 2018 This Privacy Statement describes the types of information the Nutanix group of companies which includes Nutanix, Inc., Nutanix Netherland, B.V., and their subsidiaries and affiliates, (collectively, “Nutanix”, “we,” “our,” or “us”) collect through our websites, including the website at www.nutanix.com (our “Sites”), as well as all … Continued">
 <meta property="og:url" content="https://www.nutanix.com/privacy-policy/">
 <meta property="og:site_name" content="Nutanix">
 <meta property="og:image" content="https://www.nutanix.com/wp-content/uploads/2017/02/Nutanix3.0_OG-A.jpg">
 <meta property="og:image:secure_url" content="https://www.nutanix.com/wp-content/uploads/2017/02/Nutanix3.0_OG-A.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Nutanix Privacy Statement Last Updated: May 24, 2018 This Privacy Statement describes the types of information the Nutanix group of companies which includes Nutanix, Inc., Nutanix Netherland, B.V., and their subsidiaries and affiliates, (collectively, “Nutanix”, “we,” “our,” or “us”) collect through our websites, including the website at www.nutanix.com (our “Sites”), as well as all related … Continued">
+<meta name="twitter:description" content="&nbsp; Nutanix Privacy Statement Last Updated: May 24, 2018 This Privacy Statement describes the types of information the Nutanix group of companies which includes Nutanix, Inc., Nutanix Netherland, B.V., and their subsidiaries and affiliates, (collectively, “Nutanix”, “we,” “our,” or “us”) collect through our websites, including the website at www.nutanix.com (our “Sites”), as well as all … Continued">
 <meta name="twitter:title" content="Nutanix Privacy Policy | Nutanix">
 <meta name="twitter:image" content="https://www.nutanix.com/wp-content/uploads/2017/02/Nutanix3.0_OG-A.jpg">
 <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.nutanix.com\/","name":"Nutanix","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.nutanix.com\/search\/{search_term_string}","query-input":"required name=search_term_string"}}</script>
@@ -38,9 +39,9 @@
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
 <link rel="dns-prefetch" href="//cloud.typography.com">
 <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
-<link rel="stylesheet" href="/wp-content/uploads/bb-plugin/cache/36507-layout.css?ver=ed00bde050de02ef9ccddc59cf44734c">
+<link rel="stylesheet" href="/wp-content/uploads/bb-plugin/cache/36507-layout.css?ver=5612ffe56dfc514df7929712ec04e271">
 <link rel="stylesheet" href="/wp-content/plugins/gz-cookie-banner/frontend/css/ckbr-frontend.css?ver=1.1.2">
-<link rel="stylesheet" href="/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=4.9.9">
+<link rel="stylesheet" href="/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=4.9.10">
 <link rel="stylesheet" href="/wp-content/plugins/tablepress/css/default.min.css?ver=1.9">
 <style id="tablepress-default-inline-css" type="text/css">
 #tablepress-39 th:nth-child(2),#tablepress-39 th:nth-child(3),#tablepress-39 td:nth-child(1),#tablepress-39 td:nth-child(2),#tablepress-39 td:nth-child(3),#tablepress-40 th:nth-child(2),#tablepress-40 th:nth-child(3),#tablepress-40 td:nth-child(1),#tablepress-40 td:nth-child(2),#tablepress-40 td:nth-child(3){white-space:nowrap}#tablepress-39 th,#tablepress-40 th{font-size:13px}
@@ -52,6 +53,7 @@
 <link rel="alternate" href="https://www.nutanix.de/privacy-policy/" hreflang="de">
 <link rel="alternate" href="https://www.nutanix.in/privacy-policy/" hreflang="hi">
 <link rel="alternate" href="https://www.nutanix.cn/privacy-policy/" hreflang="zh">
+<link rel="alternate" href="https://www.nutanix.it/privacy-policy/" hreflang="it">
 <link rel="alternate" href="https://www.nutanix.jp/privacy-policy/" hreflang="ja">
 
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NGF263');</script><script src="//assets.adobedtm.com/launch-ENa9c7131ccb544e0989b6d871265f9b83.min.js" async=""></script><script src="//scripts.demandbase.com/adobeanalytics/1iAH3uTx.min.js"></script><script src="//api.company-target.com/api/v2/ip.json?key=40df301bf86bc14dbfea663fc2f5a4e0&amp;callback=Dmdbase_CDC.callback"></script><script src="//qcdn.qordoba.com/qordoba-latest.min.js"></script><script src="https://storaged.qordoba.com/sdk-settings-4460.js"></script>
@@ -150,6 +152,7 @@
                                                                     <li class="ve3-main-header__nav-i18n__item-child"><a href="http://www.nutanix.in" target="_self">India</a></li>
                                                                     <li class="ve3-main-header__nav-i18n__item-child"><a href="http://www.nutanix.jp" target="_self">日本</a></li>
                                                                     <li class="ve3-main-header__nav-i18n__item-child"><a href="https://www.nutanix.it/" target="_self">Italy</a></li>
+                                                                    <li class="ve3-main-header__nav-i18n__item-child"><a href="https://www.nutanix.kr/" target="_self">Korea</a></li>
                                                             </ul>
                         </span>
                     </div>
@@ -319,6 +322,9 @@
                                                             <a href="/products/acropolis/virtualization/" target="_self">AHV Virtualization</a>
                                                         </li>
                                                                                                             <li class="ve3-main-header__nav-main__dropdown-link">
+                                                            <a href="/products/move/" target="_self">Nutanix Move</a>
+                                                        </li>
+                                                                                                            <li class="ve3-main-header__nav-main__dropdown-link">
                                                             <a href="/products/acropolis/security/" target="_self">Acropolis Security</a>
                                                         </li>
                                                                                                     </ul>
@@ -427,9 +433,6 @@
                                                 <ul class="ve3-main-header__nav-main__dropdown-links">
                                                                                                             <li class="ve3-main-header__nav-main__dropdown-link">
                                                             <a href="/go/size-your-data-center.php" target="_self">Sizer</a>
-                                                        </li>
-                                                                                                            <li class="ve3-main-header__nav-main__dropdown-link">
-                                                            <a href="/products/tools-and-technologies/xtract/" target="_self">Xtract</a>
                                                         </li>
                                                                                                             <li class="ve3-main-header__nav-main__dropdown-link">
                                                             <a href="/products/tools-and-technologies/x-ray/" target="_self">X-Ray</a>
@@ -945,6 +948,11 @@
                                                 </li>
                                                                                             <li class="ve3-mobile-header__nav__grandchild-item">
                                                     <span class="ve3-mobile-header__nav__link-base ve3-mobile-header__nav__grandchild-link">
+                                                        <a class="ve3-mobile-header__nav__link-text" href="/products/move/" target="_self">Nutanix Move</a>
+                                                    </span>
+                                                </li>
+                                                                                            <li class="ve3-mobile-header__nav__grandchild-item">
+                                                    <span class="ve3-mobile-header__nav__link-base ve3-mobile-header__nav__grandchild-link">
                                                         <a class="ve3-mobile-header__nav__link-text" href="/products/acropolis/security/" target="_self">Acropolis Security</a>
                                                     </span>
                                                 </li>
@@ -1143,11 +1151,6 @@
                                                                                             <li class="ve3-mobile-header__nav__grandchild-item">
                                                     <span class="ve3-mobile-header__nav__link-base ve3-mobile-header__nav__grandchild-link">
                                                         <a class="ve3-mobile-header__nav__link-text" href="/go/size-your-data-center.php" target="_self">Sizer</a>
-                                                    </span>
-                                                </li>
-                                                                                            <li class="ve3-mobile-header__nav__grandchild-item">
-                                                    <span class="ve3-mobile-header__nav__link-base ve3-mobile-header__nav__grandchild-link">
-                                                        <a class="ve3-mobile-header__nav__link-text" href="/products/tools-and-technologies/xtract/" target="_self">Xtract</a>
                                                     </span>
                                                 </li>
                                                                                             <li class="ve3-mobile-header__nav__grandchild-item">
@@ -1828,7 +1831,7 @@
                     <div class="footer__text text-align-center blocks-small-pt">
                                                 <a class="footer__policy-link" href="/privacy-policy"><p class="p3">Privacy</p></a>
                         <p class="p3">Handcrafted in Sunny California</p>
-                        <p class="p3">© Nutanix 2018</p>
+                        <p class="p3">© Nutanix 2019</p>
                     </div>
                 </div>
             </div>
@@ -1840,16 +1843,16 @@
     <a href="/privacy-policy" id="ckbr_deny">Learn More</a>
 </aside>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="/wp-content/uploads/bb-plugin/cache/36507-layout.js?ver=ed00bde050de02ef9ccddc59cf44734c"></script>
+<script src="/wp-content/uploads/bb-plugin/cache/36507-layout.js?ver=5612ffe56dfc514df7929712ec04e271"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var settings = {"jsCookie":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/js-cookie\/2.1.3\/js.cookie.min.js","expires":"30","path":"\/"};
 /* ]]> */
 </script>
-<script src="/wp-content/plugins/gz-cookie-banner/frontend/js/ckbr-frontend.js?ver=4.9.9"></script>
+<script src="/wp-content/plugins/gz-cookie-banner/frontend/js/ckbr-frontend.js?ver=4.9.10"></script>
 <script src="/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=3.0.0-beta.1"></script>
 <script src="/wp-content/themes/nutanix/dist/scripts/vendor.js?ver=151ce1b3f9"></script>
-<script src="/wp-content/themes/nutanix/dist/scripts/app.js?ver=54f1cb7dab"></script>
-<script>if ('undefined' != typeof FWP_HTTP) FWP_HTTP.lang = 'en';</script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0126018c5e","applicationID":"35347740","transactionName":"YANUYkUFWxBUU0ALWVlJY0ReS1wNUVVMTEZfFg==","queueTime":0,"applicationTime":1711,"atts":"TERXFA0fSB4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script src="/wp-content/themes/nutanix/dist/scripts/app.js?ver=b08bd02a98"></script>
+<script>if ('undefined' != typeof FWP_HTTP) FWP_HTTP.lang = 'en';</script>    
 
 </body></html>
