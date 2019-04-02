@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thenewageparents.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916160048id_/https%3A//thenewageparents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewageparents.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402020935id_/https%3A//thenewageparents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The New Age Parents
 
-This is the Privacy Policy of **New Age Consulting Pte Ltd** and/or our related entities, affiliates and subsidiaries for our websites [New Age Parents](http://thenewageparents.com/) and [New Age Pregnancy](http://newagepregnancy.com/).
+This is the Privacy Policy of **New Age Consulting Pte Ltd** and/or our related entities, affiliates and subsidiaries for our websites [New Age Parents](https://thenewageparents.com/) and [New Age Pregnancy](http://newagepregnancy.com/).
 
 We are committed to protecting your privacy. We have developed this Privacy Policy to describe to you our practices regarding the information we collect from users of our services when you visit our websites, when you give us information or send us communications.
 
