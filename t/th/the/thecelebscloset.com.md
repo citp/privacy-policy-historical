@@ -1,143 +1,115 @@
-> *The following text is extracted and transformed from the thecelebscloset.com privacy policy that was archived on 2017-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170804021111id_/http%3A//thecelebscloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecelebscloset.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402053411id_/https%3A//thecelebscloset.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheCelebsCloset
+# Privacy Policy - Thecelebscloset
 
-**Thecelebscloset’s  Privacy Policy**
+Protecting your privacy is very important to us. We have developed this Privacy Policy to protect your personal information and keep it confidential.
 
-“Get Your Daily Dose of News: Stay Entertained and Be Informed.” To provide what the reader wants, who browses on any online entrance, we give our best to fulfill their satisfaction.  
-Your Privacy Is Our Concern. It is Thecelebscloset’s policy to respect your privacy for the better experience. Individuals who are anxious with how their ‘Personally Identifiable Information’ (PII) used online, is compiled to serve by this privacy policy. US privacy law and intelligence security describe that PII is information that can be used with other information to identify an individual in context, contact, or locate a single person or utilized on its own. Please interpret our [privacy policy](http://thecelebscloset.com/privacy-policy/) carefully to get a clear perception of how we gather, use, protect or otherwise operate your Personally Identifiable Information following with our site.
+We do everything we reasonably can to protect your rights of privacy on systems and websites controlled by us, but we are not liable for anyunauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Site. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.
 
-**What personal information do we collect from the individual that visit our website?**  
-While registering on thecelebscloset.com, as suitable, you may be asked to enter your name, email address or another aspect to help you with your experience.
+We also cannot warrant the security of the information, which you transmit to us.
 
-**When do we collect information?**  
-We collect information from you when you register on our site, subscribe to a newsletter, answering to reviews, fill out a form or enter information on our website.
+#####  **We categorise information about you (collectively referred to as “Personal Information”) as follows:**
 
-**How do we utilize your instruction?**
-
-We may operate the information we collect from you when you register, sign up for our newsletter, respond to review or marketing communication, surf the website, or apply certain other site features in the various process:
-
-  * _To personalize your understanding and to allow us to convey the type of content and product offerings in which you are most interested._
-  * _To upgrade our website to serve you better._
-  * _To send you time to time emails regarding our latest updates and modified[terms and policies](http://thecelebscloset.com/privacy-policy/)._
-
-
-
-**How do we secure your info?**
-
-We follow these steps to protect your pieces of information and make it more secure.
-
-  * _We do not use vulnerability scanning or scanning to PCI quality_
-  * _We only supply information and articles. We never demand credit card numbers._
-  * _We use regular Malware Scanning._
+  * Information about your personal identity such as gender, age, etc.
+  * Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and
+  * Your contact details such as your physical addresses, postal addresses, telephone, mobile and fax numbers and the like (if requested and provided).
+  * Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history, etc (if requested and provided). We maintain this in encrypted form on secure servers
+  * Service Usage: Information about your navigation using our Services, for example the URLs of websites, which you visit and from which you request downloads.
+  * Log information: Information such as your web request, IP address, browser type, browser language, date and time of request.
+  * Transactional Information: Transactional history (other than banking details) about your e-commerce activities (if requested and provided).
+  * Correspondence Information: Content, information about your correspondents, and the destination/origin of communications between you and any other person using our Services, which include email communications, comments, blog, chat room and discussion board communications, instant message communications, experts forum communications, contests and entries, faxmail communications, membership of mailing lists, etc.
+  * User IDs: Your usernames, nicknames, passwords, email addresses and other security-related information used by you in relation to our Services.
+  * Stored Information: Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.
 
 
 
-**Why do we not use an SSL certificate?**  
-We only provide articles and information. We never request for personal or private information like names, email addresses, or credit card numbers.
+#####  **Profiling Information:**
 
-**Do we manipulate ‘cookies’?**  
-We do not use cookies for tracking reason.
+######  **Information which you provide when you Subscribe or register for a Service:**
 
-**Third-party disclosure:**  
-As your privacy is our prime concern, Thecelebscloset.com do not sell, trade or transfer your PII to outside parties.
-
-**Third-party links:**  
-Occasionally, at our caution, we may comprise or offer third-party products or services on our website who have separate and individualistic privacy policies. We, therefore, have no responsibility for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback and suggestions about these sites and their issue.
-
-**Google  Adsense:**
-
-Google’s Advertising Principles summed up Google’s advertising requirements and are put in place to give a positive experience for the users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
-
-**We apply Google AdSense Advertising on our website:**
-
-[Thecelebscloset.com](http://thecelebscloset.com/) contain advertisements served by Google as a third-party vendor, Google uses cookies to serve ads on our site. Google’s use of the DART cookie facilitates it to serve ads to our users based on recent visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by going through the Google Ad and Content Network Privacy Policy.
-
-**We have performed the following:**
-
-  * _Remarketing with Google AdSense_
-  * _Google Display Network Impression Reporting_
-  * _Demographics and Interests Reporting_
-  * _DoubleClick Platform Integration_
+  * Information about your personal identity such as gender, age, etc.;
+  * Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and
+  * Your contact details such as your physical addresses, postal addresses, telephone, mobile and fax numbers and the like (if requested and provided).
+  * Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history, etc (if requested and provided). We maintain this in encrypted form on secure servers
 
 
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and the third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data and information regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+######  **Information from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics:**
 
-**Opting out:**  
-Users can place their choices for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt-out by browsing the Network Advertising Initiative Opt-Out page or by using the Google Analytics Opt Out Browser add-on.
+– We use Google Analytics tracking code to track our site’s traffic. This code also supports Display Advertising. The Google Analytics features include Google Analytics Demographics and Interest Reporting that we have implemented based on Display Advertising.
 
-**California Online Privacy Protection Act:**
+We only collect your Personal Information to conduct our business and to enable us to deliver and improve our Services.  
+We will only disclose your Personal Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your prior written consent.
 
-CalOPPA is the first state law to require commercial sites and online services to keep a privacy policy on the website. The law’s ability continues well beyond California to require any person or company in the United States that runs websites collecting Personally Identifiable information or data from the auidance of California to post a prominent privacy policy on its website stating specifically the data being received and those individuals or organizations with whom it is being shared.
+If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you.  
+Any of your information which you provide when you use our Services in an unencrypted manner and/or to an open, public environment or forum including (without limitation) any blog, chat room, albums, community, classifieds or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy.
 
-– See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>[ ](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
+Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes. You should accordingly be careful when deciding to share any of your Personal Information in such public environments.
 
-**According to CalOPPA, we conform to the following:**  
-Users can visit and browse our site anonymously.  
-Once this privacy policy is created on our site, we will add a link to it on our homepage of the site or as a least, on the first significant page after accessing the site.  
-Our Privacy Policy link includes the word ‘Privacy Policy’ and can easily be seen on the page specified above or at the bottom of the site.
+Information, which is disclosed publicly, is also shared with our affiliates, third party service providers, sponsors of competitions, etc. unless expressly stated otherwise.
 
-**You will be notified of any Privacy Policy changes:**
+We are not liable to you or any third party for any damages that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. You accordingly disclose information in a public environment at your own risk.
 
-  * _Via Email_
+###  **Right to collect**
 
+By accepting the Terms you agree that we may collect and store your Personal Information as long as you Subscribe to or use our Services subject to the limitations set out in this Privacy Policy.
 
+#####  **We collect your Profiling and Account Information for the following reasons:**
 
-**Can change your personal information:**
-
-  * _By emailing us_
-
+  * We need your identity details, contact details, banking information (if requested and provided) and account history (if requested and provided) to manage our relationship with you and provide Services to you. We will only disclose this information as provided for in clause 1.3 below.
+  * We use certain of your information in an aggregated form to compile statistical and demographical profiles for our business and marketing activities. We may disclose such information about you, provided that the information is in an aggregated form that is not capable of being used or interpreted in such a manner as to identify you.
 
 
-**How do thecelebscloset.com handle “Do Not Track” signals?**  
-We respect Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser device is in place for your privacy.
 
-**Does our site allow third-party behavioral tracking?**  
-It’s also essential to note and keep in mind that we allow third-party behavioral tracking.
+#####  **We collect and store your Correspondence Information and Personal Identifiers to:**
 
-**COPPA (Children Online Privacy Protection Act)**
+  * determine and verify the Service Charges payable by you and to administer our relationship with you;  
+comply with any statutory or regulatory requirement;
+  * compile statistical and demographical profiles about you for our business and marketing activities and to
+  * customise our Services to you. While we are entitled to use such information about you for our own internal business purposes without limitation, we will only disclose it in a non-aggregated form which is not capable of being used or interpreted in such a manner as to identify you; and
+  * monitor your use of our Services for the purposes of ensuring compliance with our User Rules.
 
-The Children’s Online Privacy Protection Act (COPPA) places parents in control when it comes to the accumulation of personal information from children under the age of 13 years old. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rules and regulation which spells out what administrators of the websites and online services must do to protect children’s privacy.  
-We do not specifically perform or market to children under the age of 13 years old as we respect international cyber law and ethics.
 
-**Fair Information Practices:**
 
-The Fair Information and data Practices Principle build the backbone of privacy policy in the United States, and the concepts they include have performed a remarkable role in the development of data safeguard laws throughout the globe. Appreciating the Fair Information Practice Principles and how these principles should be executed is critical to observe with the various privacy laws that protect personal information.  
-To be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
-**We will notify you via email**  
-_• Within seven business days_
+#####  **We collect and store your Correspondence Information and Personal Identifiers to:**
 
-We also accept to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data compilers and processors who fail to adhere to the law. This principle entails not only, that individuals have enforceable rights against data users, but also that individuals have appeal to courts or government agencies to examine and prosecute non-compliance by information processors.
+  * comply with our obligations under clause 1.3 below; and
+  * monitor your use of our Services in order to ensure your compliance with our User Rules as provided for in clause 1.3 below.
 
-**CAN-SPAM Act:**
 
-The CAN-SPAM Act is a law, and it sets the rules and regulation for commercial email, sets terms for marketing messages, gives recipients the right to have emails ceased from being sent to the user, and spells out tough penalties for violations.  
-We gather your email address to:
 
-• Send information, respond to inquiries, and other requests or questions  
-. To be in line with CAN-SPAM, we approve to the below:  
-• Not using misleading or false subjects or email addresses.  
-• Identify the message as an announcement in some sensible way.  
-• Include the physical address of our site office.  
-• Monitor third-party email marketing services for agreement, if one is used.  
-• Honor opt-out/unsubscribe requests immediately  
-• Allow users to unsubscribe using the link at the bottom of each email.
+We will only disclose Correspondence Information and Personal Identifiers under clause 1.3 below.
 
-If at any moment you would like to unsubscribe from getting future emails, you can email us at thecelebscloset@gmail.com and we will promptly remove you from ALL correspondence.
+We may scan your Stored Information to ensure that you comply with clause 1.3 below.
 
-**Contact Us:  **
+Any Personal Information which we collect and which we may use in an aggregated format is our property. We may use it, in our sole discretion and without any compensation to you, for any legitimate purpose including (without limitation) the commercial sale thereof to third parties.
 
-[Thecelebscloset.com](http://thecelebscloset.com/) is the entertainment based online portal which operates 24*7 and 365 days only to improvise the user experience so that we provides accurate information with trusted resources.
+Some of our own websites use “cookies” so that we can provide you with more customised information when you return to our website. “Cookies” are used to store user preferences and to track user trends, so as to enhance your interactive experience and generally improve our Services to you. You can set your browser to notify you when you are sent a “cookie”, giving you the chance to decide whether or not to accept it. If you do accept a “cookie”, you thereby agree to our use of any Personal Information collected by us using that Cookie.
 
-We here at [thecelebscloset.com](http://thecelebscloset.com/) highly appreciate any comments/suggestion on our site which help us to improve and make the user experience better. Also, if our web site has any contents that offended any user, in that case, they are most welcome to notify us through valid proof of it.
+You may update your Profiling Information at any time by using the personalise function. You acknowledge and agree that in the interests of improvingpersonalisation and Service efficiency, we may, under controlled and secure circumstances, share your Personal Information with our affiliates (an entity which is our subsidiary or holding company or a subsidiary of our holding company or an entity which controls, is controlled by or is under common control with us).
 
-If there are any questions regarding this privacy policy, you may contact us using the information below:
+###  **General exceptions**
 
-[http://thecelebscloset.com](http://thecelebscloset.com/)
+#####  **If we are required to intercept, disclose, monitor and/or store your Personal Information:**
 
-[thecelebscloset@gmail.com](http://thecelebscloset.com/contact-us/)
+  * by law;
+  * to conduct our business;
+  * to secure our systems; or
+  * to enforce our own rights, we will do so in the manner as prescribed by legislation.
 
-**This document was generated on 2017-06-04.**
 
-**This document was last updated on 2017-07-012.**
+
+Such interception, disclosure, monitoring and storage may take place without your knowledge. In that case, we will not be liable to you or any third party for any damages howsoever arising from such interception, disclosure, monitoring and storage.
+
+In order to ensure that all our Users comply with the User Rules, we may monitor your Personal Information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance.
+
+To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content.
+
+We may under certain circumstances procure an element of the Services from a third party service provider; for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. Also, you can visit [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) for information on how to opt-out of the use of such technologies for the delivery of more relevant advertising.
+
+Using the Google Ads Settings <https://www.google.com/settings/ads>, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also opt-out by downloading and installing the Google Analytics Opt-out Browser Add-on <https://tools.google.com/dlpage/gaoptout/>[ ](https://tools.google.com/dlpage/gaoptout/)for your web browser.
+
+Third parties, including Quora, may use cookies, web beacons, and other storage technologies to collect or receive information from your websites and elsewhere on the internet and use that information to provide measurement services and target ads.  
+You can opt-out of the collection and use of information for ad targeting by using to <http://www.aboutads.info/choices> and [Your Online Choices | EDAA](http://www.youronlinechoices.eu/)
+
+In addition to the general limitations in the above terms, we will not be liable to you or any other third party for any damages suffered by you or any other third party howsoever arising from the disclosure of your Personal Information. Your only remedy under such circumstances will be to end this agreement.
