@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the tidbits.com privacy policy that was archived on 2018-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181225065611id_/https%3A//tidbits.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tidbits.com privacy policy that was archived on 2019-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190402192737id_/https%3A//tidbits.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en" prefix="og: http://ogp.me/ns#"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 <title>TidBITS Privacy Policy - TidBITS</title>
-<link rel="stylesheet" property="stylesheet" href="https://tidbits.com/app/themes/tidbits/styles/main.css?id=5c81f852b6a89d5896e1">
-<link rel="stylesheet" property="stylesheet" href="https://tidbits.com/app/themes/tidbits/styles/print.css?id=8d1e1596a110004fcdf3" media="print">
+<link rel="stylesheet" property="stylesheet" href="https://tidbits.com/app/themes/tidbits/styles/main.css?id=be9c6e283549f2e52ba2">
+<link rel="stylesheet" property="stylesheet" href="https://tidbits.com/app/themes/tidbits/styles/print.css?id=8ec6e47dc9eb20f8c67b" media="print">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -34,7 +34,7 @@
 <meta name="twitter:title" content="TidBITS Privacy Policy - TidBITS">
 <meta name="twitter:site" content="@TidBITS">
 <meta name="twitter:creator" content="@TidBITS">
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/tidbits.com\/","sameAs":["http:\/\/www.facebook.com\/pages\/TidBITS\/195314925519","https:\/\/plus.google.com\/108618773615035491147","https:\/\/www.youtube.com\/channel\/UC6FJi0g8Dc8Ou3D1YmW8nCA","https:\/\/twitter.com\/TidBITS"],"@id":"https:\/\/tidbits.com\/#organization","name":"TidBITS Publishing Inc.","logo":"https:\/\/tidbits.com\/wp\/..\/uploads\/2018\/02\/TidBITS_Logo_Final.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://tidbits.com/","sameAs":["http://www.facebook.com/pages/TidBITS/195314925519","https://plus.google.com/108618773615035491147","https://www.youtube.com/channel/UC6FJi0g8Dc8Ou3D1YmW8nCA","https://twitter.com/TidBITS"],"@id":"https://tidbits.com/#organization","name":"TidBITS Publishing Inc.","logo":"https://tidbits.com/wp/../uploads/2018/02/TidBITS_Logo_Final.png"}</script>
 
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//www.google.com">
@@ -112,20 +112,20 @@ Thoughtful, detailed coverage of everything Apple for 28 years<br> and the <a hr
 <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-25068 menu-item-has-children c-nav__item">
 <button class="c-nav__link">Weekly Issues</button>
 <ul class="c-nav__dropdown">
-<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-36447 c-nav__subitem">
-<a href="https://tidbits.com/issues/1446/" class="c-nav__sublink">#1446: iPad Pro review, iOS 12.1.2 update, how Google and Facebook use Portrait mode photos, TidBITS holiday hiatus</a>
+<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-38415 c-nav__subitem">
+<a href="https://tidbits.com/issues/1459/" class="c-nav__sublink">#1459: AirPower canceled, Apple TV+ and Apple Card details, watchOS 5.2 extends ECG</a>
 </li>
-<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-36286 c-nav__subitem">
-<a href="https://tidbits.com/issues/1445/" class="c-nav__sublink">#1445: ECG comes to the Apple Watch, Apple OS updates, Google Fi for iPhone, Anker vertical mouse</a>
+<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-38265 c-nav__subitem">
+<a href="https://tidbits.com/issues/1458/" class="c-nav__sublink">#1458: iOS 12.2, macOS 10.14.4, Apple News+, Apple Arcade, new iMacs, second-generation AirPods</a>
 </li>
-<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-36026 c-nav__subitem">
-<a href="https://tidbits.com/issues/1444/" class="c-nav__sublink">#1444: Apple holiday film, why not to snooze email, Jonathan Mann song, browserless devices on Wi-Fi hotspots, Ergotron WorkFit-TX standing desk converter</a>
+<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-38118 c-nav__subitem">
+<a href="https://tidbits.com/issues/1457/" class="c-nav__sublink">#1457: New iPads, Dropbox limits free accounts, CorelDRAW returns to Mac, Mojave's Preview disappoints, WWDC dates</a>
 </li>
-<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-35908 c-nav__subitem">
-<a href="https://tidbits.com/issues/1443/" class="c-nav__sublink">#1443: Blackmail spam, iPhone Camera app zoom tips, 5K displays disappearing, all about the Markup tools in macOS</a>
+<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-37973 c-nav__subitem">
+<a href="https://tidbits.com/issues/1456/" class="c-nav__sublink">#1456: Apple Music improvements, 14 Siri tips, CloudBerry Backup is unreliable</a>
 </li>
-<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-35801 c-nav__subitem">
-<a href="https://tidbits.com/issues/1442/" class="c-nav__sublink">#1442: iPhone X and MacBook Pro repair programs, password managers in iOS 12, uninstalling CrashPlan, large-scale Apple installation stories</a>
+<li class=" menu-item menu-item-type-issue menu-item-object-issue menu-item-37819 c-nav__subitem">
+<a href="https://tidbits.com/issues/1455/" class="c-nav__sublink">#1455: USB 3.2 and USB4, repurpose the Eject key, attach an iPad to a MacBook, Palm phone and iPhone nano pondering</a>
 </li>
 <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-25142 c-nav__subitem">
 <a href="/issues/" class="c-nav__sublink">All Back Issues</a>
@@ -162,8 +162,8 @@ Thoughtful, detailed coverage of everything Apple for 28 years<br> and the <a hr
 <a href="https://news.google.com/publications/CAAqBwgKMKD4hgsw-ZaFAw" class="c-nav__sublink">Google News</a>
 </li>
 <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-35129 c-nav__subitem">
- <a href="https://itunes.apple.com/us/app/tidbits-news/id348629441?mt=8" class="c-nav__sublink">iOS App</a>
-</li>
+<a href="https://itunes.apple.com/us/app/tidbits-news/id348629441?mt=8" class="c-nav__sublink">iOS App</a>
+ </li>
 <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-25097 c-nav__subitem">
 <a href="https://tidbits.com/feed/" class="c-nav__sublink">RSS</a>
 </li>
@@ -240,7 +240,7 @@ Thoughtful, detailed coverage of everything Apple for 28 years<br> and the <a hr
 </li>
 <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25214 c-nav__subitem">
 <a href="https://tidbits.com/category/tip/" class="c-nav__sublink">Tip</a>
-</li>
+ </li>
 </ul>
 </li>
 </ul>
@@ -291,7 +291,7 @@ TidBITS Privacy Policy
 <footer class="o-wrapper c-footer">
 <div class="c-footer__inner">
 <p class="c-footer__copyright o-type-small">
-<strong>TidBITS</strong> is copyright © 2018 TidBITS Publishing Inc.
+<strong>TidBITS</strong> is copyright © 2019 TidBITS Publishing Inc.
 Reuse governed by Creative Commons License.
 </p>
 <nav class="c-nav c-footer__nav">
@@ -304,9 +304,9 @@ Reuse governed by Creative Commons License.
 </li>
 <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-28746 c-nav__item">
 <a href="https://tidbits.com/about/code-of-conduct/" class="c-nav__link">Code of Conduct</a>
- </li>
+</li>
 <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-21696 c-nav__item">
-<a href="https://tidbits.com/about/contact/" class="c-nav__link">Contact</a>
+ <a href="https://tidbits.com/about/contact/" class="c-nav__link">Contact</a>
 </li>
 <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-21695 c-nav__item">
 <a href="https://tidbits.com/about/copyright/" class="c-nav__link">Copyright</a>
@@ -322,7 +322,7 @@ Design by <svg xmlns="http://www.w3.org/2000/svg" width="102" height="19" viewBo
 </div>
 </footer>
 <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Array.from,Array.forEach,Object.assign"></script>
-<script src="https://tidbits.com/app/themes/tidbits/scripts/main.js?id=f0501a455aef256352a0" defer="defer"></script>
+<script src="https://tidbits.com/app/themes/tidbits/scripts/main.js?id=ab3d0cc036954f74b126" defer="defer"></script>
 <script type="text/javascript">
 var renderInvisibleReCaptcha = function() {
 
@@ -361,6 +361,6 @@ var renderInvisibleReCaptcha = function() {
 };
 </script>
 <script type="text/javascript" async="" defer="" src="https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&amp;render=explicit"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5bb5cae7d5","applicationID":"173865699","transactionName":"ZlEGNUdRWkQAUxJaWF8bJQJBWVtZTkAHVFI=","queueTime":0,"applicationTime":612,"atts":"ShYFQw9LSUo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5bb5cae7d5","applicationID":"173865699","transactionName":"ZlEGNUdRWkQAUxJaWF8bJQJBWVtZTkAHVFI=","queueTime":0,"applicationTime":224,"atts":"ShYFQw9LSUo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
