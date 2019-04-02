@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fwd.us privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129114852id_/https%3A//fwd.us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwd.us privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402194035id_/https%3A//www.fwd.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FWD.us
 
-_Effective Date: Thursday April 11, 2013_
+Created with Sketch.
+
+_Effective Date: August 30th, 2018_
 
 FWD.us values your support and is committed to protecting your privacy. This statement (the “Privacy Policy”) sets forth our policies and practices for handling your information on the FWD.us website and any other website or online service that we operate and that links to this Privacy Policy (the “Services”).
 
@@ -10,20 +12,19 @@ FWD.us values your support and is committed to protecting your privacy. This sta
 
 We may collect the following kinds of information when you use the Services:
 
-_Information you provide directly to us_. For certain activities, such as when you register, subscribe to our alerts, or contact us directly, we may ask you to provide some or all of the following types of information:
+__Information you provide directly to us.__ For certain activities, such as when you subscribe to our alerts or contact us directly, we may ask you to provide some or all of the following types of information:
 
   * Contact information, such as full name, email address, mobile phone number, and address;
-  * Username and password;
   * Payment information, such as credit card number, expiration date, and credit card security code, where needed to complete a transaction;
-  * Correspondence you send to us.
+  * Correspondence you send to us, including information you provide to messenger bots on the Services.
 
 
 
-_Information we collect automatically_. We may collect certain information automatically when you use our Services, such as your Internet protocol (IP) address and other device identifiers that are automatically assigned to your computer or device when you access the Internet, browser type, operating system, Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, information about the links you click and pages you view within the Services, and other standard server log information.
+__Information we collect automatically.__ We may collect certain information automatically when you use our Services, such as your Internet protocol (IP) address and other device identifiers that are automatically assigned to your computer or device when you access the Internet, browser type, operating system, Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, information about the links you click and pages you view within the Services, and other standard server log information.
 
 We may use cookies, pixel tags, Local Storage Objects, and similar technologies to automatically collect this information. Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player. By using the Services, you consent to our use of cookies and similar technologies.
 
-_Information we obtain from other sources_. We may receive information about you from other sources, including through third-party services and organizations. For example, if you access third-party services, such as Facebook, Google, or Twitter, through the Services to login to the Services or to share information about your experience on the Services with others, we may collect information from these third-party services.
+__Information we obtain from other sources.__ We may receive information about you from other sources, including through third-party services and organizations. For example, if you access third-party services, such as Facebook, Google, or Twitter, through the Services to login to the Services or to share information about your experience on the Services with others, we may collect information from these third-party services. And if you communicate with messenger bots on the Services, we may receive information about you from the providers of those messenger bots.
 
 **II. USE OF INFORMATION**
 
@@ -44,15 +45,15 @@ We generally use the information we collect online to:
 
 We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-  * _Authorized third-party vendors and service providers_. We share your information with third-party vendors and service-providers that help us with specialized services, including email deployment, business analytics, marketing, and data processing.
-  * _Corporate affiliates_. We may share your information with our corporate affiliates.
-  * _Business transfers_. We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
-  * _Legal purposes_. We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of Campaign for Innovation, our affiliates, users, or the public.
-  * _With your consent_. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
+  * __Authorized third-party vendors and service providers.__ We share your information with third-party vendors and service-providers that help us with specialized services, including email deployment, business analytics, marketing, and data processing.
+  * __Corporate affiliates.__ We may share your information with our corporate affiliates.
+  * __Business transfers.__ We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+  * __Legal purposes.__ We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of FWD.us, our affiliates, users, or the public.
+  * __With your consent.__ We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
 
 
 
-If you access third-party services, such as Facebook, Google, or Twitter, through the Services to login to the Services or to share information about your experience on the Services with others, these third-party services may be able to collect information about you, including information about your activity on the Site, and they may notify your connections on the third-party services about your use of the Site, in accordance with their own privacy policies.
+If you access third-party services, such as Facebook, Google, or Twitter, through the Services to login to the Services or to share information about your experience on the Services with others, these third-party services may be able to collect information about you, including information about your activity on the Site, and they may notify your connections on the third-party services about your use of the Site, in accordance with their own privacy policies. For example, if you communicate with messenger bots on the Services, your messages may be shared with the providers of those messenger bots.
 
 If you choose to engage in public activities on the Site, you should be aware that any information you share there can be read, collected, or used by other users of these areas. You should use caution in disclosing personal information while participating in these areas. We are not responsible for the information you choose to submit in these public areas.
 
@@ -64,9 +65,13 @@ We use reasonable measures to help protect information from loss, theft, misuse 
 
 You may be able to refuse or disable cookies by adjusting your web browser settings. Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section). Please note that you may need to take additional steps to refuse or disable Local Shared Objects and similar technologies. For example, Local Shared Objects can be controlled through the instructions on Adobe’s Setting Manager page. If you choose to refuse, disable, or delete these technologies, some of the functionality of the Services may no longer be available to you.
 
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes.
+
 **VI. THIRD-PARTY LINKS, CONTENT, AND COOKIES**
 
 Some of the Services may contain links to content maintained by third parties that we do not control. We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information automatically through the sites and online services. We are not responsible for the privacy practices of these third parties, and we recommend that you visit the privacy policies of each website that you visit.
+
+__Do-Not-Track Signals and Similar Mechanisms.__ Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
 
 **VII. INTERNATIONAL USERS**
 
@@ -78,4 +83,4 @@ We may update this Privacy Policy from time to time. When we update the Privacy 
 
 **IX. STILL HAVE QUESTIONS?**
 
-If you have any questions about this Privacy Policy or our practices, please contact Kate Hansen, [info@fwd.us](mailto:info@fwd.us), 1201 Pennsylvania, Ave NW Washington DC 20004
+If you have any questions about this Privacy Policy or our practices, please contact us at info@fwd.us.
