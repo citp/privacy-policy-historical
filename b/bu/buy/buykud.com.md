@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buykud.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904060431id_/https%3A//www.buykud.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buykud.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402070317id_/https%3A//www.buykud.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – BUYKUD
+# Privacy Policy - BUYKUD
 
 PRIVACY STATEMENT
 
