@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230050935id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402114751id_/https%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - One Green PlanetOne Green Planet
 
@@ -64,7 +64,7 @@ The OneGreenPlanet.org site is directed to, and intended for use by, adults only
 
 This online privacy policy applies only to information collected through OneGreenPlanet.org and not to information collected offline or via other means. When you use the OneGreenPlanet.org site, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy.  If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the OneGreenPlanet.org Site. We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the “Effective Date.” Your continued use of the OneGreenPlanet.or Site after a change in the Privacy Policy will constitute your acceptance of those changes.
 
-If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f4b5a5e527f50515a584d5a5a514f535e515a4b11504d58)
+If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6c18090d012c0302090b1e0909021c000d02091842031e0b)
 
 _Effective Date: February 15, 2011_
 
