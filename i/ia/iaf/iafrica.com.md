@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727105907id_/https%3A//www.iafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402213207id_/https%3A//www.iafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iAfrica.com
 
@@ -6,7 +6,7 @@ iAfrica is committed to respecting and protecting the privacy of those who use i
 
 Contact us by sending an email to  **iafrica @ africa.com**
 
-### This statement outlines how we handle any personal information we obtain.
+###  This statement outlines how we handle any personal information we obtain.
 
 From time to time, we may ask for data that identifies you, as in user surveys or orders placed through our site. We use this information to operate this site, provide you with the highest quality services and offer you opportunities we think will be of interest.
 
