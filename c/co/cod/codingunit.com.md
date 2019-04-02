@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codingunit.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003043849id_/https%3A//www.codingunit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codingunit.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402214942id_/https%3A//www.codingunit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CodingUnit Programming Tutorials
+# Privacy Policy » CodingUnit Programming Tutorials
 
 **Your privacy is important to us!**  
 To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this site.
