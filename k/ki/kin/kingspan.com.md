@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818163222id_/https%3A//www.kingspan.com/group/website-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402032133id_/https%3A//www.kingspan.com/group/website-privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy | Kingspan Group | Kingspan | Group
 
@@ -81,7 +81,7 @@ If at any time you do not want your information used for direct marketing purpos
 
 **Who do we share this information with?  **
 
-As well as Kingspan Holdings (Ireland) Limited  (the Kingspan website operator) your personal information may be processed by the relevant affiliate of Kingspan Holdings (Ireland) Limited that owns the part of the website which you are accessing. Click [here](https://www.kingspan.com/group/data-controllers) to access a list of those affiliates of Kingspan Holdings (Ireland) Limited and the countries in which they are located.  
+As well as Kingspan Holdings (Ireland) Limited  (the Kingspan website operator) your personal information may be processed by the relevant affiliate of Kingspan Holdings (Ireland) Limited that owns the part of the website which you are accessing. Click [here](https://www.kingspan.com/group/data-controllers) to access a list of those affiliates of Kingspan Holdings (Ireland) Limited and the countries in which they are located. 
 
 We may disclose your personal information (if you have so permitted) to third parties located in your country and in countries other than your own, in due compliance with applicable laws. If we have your explicit consent, we may provide your personal information to external organisations (i.e. to contractors, merchants, distributors and retailers, which are outside of Kingspan) so that they can contact you about their promotions, services, events and other activities in relation to Kingspan products and services without your explicit consent.
 
@@ -109,7 +109,7 @@ If you wish to make a directive about the handling of your personal information 
 
 If you wish to make a complaint about an alleged breach of the law, we ask that you send us your complaint in writing to the Kingspan company in question at the address shown [here](https://www.kingspan.com/group/data-controllers). We will respond to complaints and implement any remedies subject to the terms provided for by the law.
 
-S **ecurity**
+**Security**
 
 Kingspan is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures where relevant to safeguard and secure the information we collect. 
 
