@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canonical.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222034349id_/https%3A//www.ubuntu.com/legal/terms-and-policies/privacy-policy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canonical.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402092211id_/https%3A//www.ubuntu.com/legal/terms-and-policies/privacy-policy%23cookies) for the most accurate reproduction.*
 
 # Data privacy | Ubuntu
 
@@ -33,8 +33,10 @@ Specific details about personal data collection can be found in the relevant pri
   * [Webinar privacy notice ›](https://web.archive.org/legal/data-privacy/webinar)
   * [Online purchase privacy notice ›](https://web.archive.org/legal/data-privacy/online-purchase)
   * [Snap store privacy notice ›](https://web.archive.org/legal/data-privacy/snap-store)
+  * [Snapcraft NPS privacy notice ›](https://web.archive.org/legal/data-privacy/snapcraft-nps)
   * [Contact us and enquiries privacy notice ›](https://web.archive.org/legal/data-privacy/contact)
   * [Single sign on privacy notice ›](https://web.archive.org/legal/data-privacy/sso)
+  * [Partner Portal privacy notice ›](https://web.archive.org/legal/data-privacy/partner-portal)
 
 
 
@@ -42,7 +44,7 @@ Specific details about personal data collection can be found in the relevant pri
 
   * **Information you give us**. This is information about you that you give us by filling in forms on a Canonical website or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site, your login information where provided on a site or make a purchase on our site. It may includes the following: first name, last name; company name; company size; industry; job title; level; phone number; email address; state or province and country.
   * **Information about your visit**. This information includes the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time, timezone, your geolocation), items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page.
-  * **Information we receive from other sources**. This is information we receive about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data (through a Privacy Notice) if we intend to share those data internally and combine it with data collected on this site. We will also have told you for what purpose we will share and combine your data. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We may notify you when we receive information about you from them and the purposes for which we intend to use that information.
+  * **Information we receive from other sources**. This is information we receive about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data (through a Privacy notice) if we intend to share those data internally and combine it with data collected on this site. We will also have told you for what purpose we will share and combine your data. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We may notify you when we receive information about you from them and the purposes for which we intend to use that information.
 
 
 
@@ -52,7 +54,7 @@ We may collect this information through the following routes:
 
 ### Websites
 
-When you register to use certain parts of our websites, such as wikis, webinars or message boards, or register for free accounts, we may ask for personal information such as your full name, email address and a password. Please see the Privacy Notice on collection for further details of how we will use your personal data.
+When you register to use certain parts of our websites, such as wikis, webinars or message boards, or register for free accounts, we may ask for personal information such as your full name, email address and a password. Please see the Privacy notice on collection for further details of how we will use your personal data.
 
 ### Chat rooms, forums and newsgroups
 
@@ -60,7 +62,7 @@ These are available to our community. Any information that you disclose in these
 
 ### Canonical products
 
-When you register for services or purchase any product from Canonical, we may ask for information such as your email address, billing address, and credit card information. Credit card information is only used in processing your transaction. Please note that we may use a third party payment processing merchant to process your payments. Please see the terms and conditions of purchase and/or relevant Privacy Notice for further information.
+When you register for services or purchase any product from Canonical, we may ask for information such as your email address, billing address, and credit card information. Credit card information is only used in processing your transaction. Please note that we may use a third party payment processing merchant to process your payments. Please see the terms and conditions of purchase and/or relevant Privacy notice for further information.
 
 ### Webinars
 
