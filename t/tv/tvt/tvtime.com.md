@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvtime.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225511id_/https%3A//www.tvtime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtime.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402170020id_/http%3A//www.tvtime.com/privacy) for the most accurate reproduction.*
 
 # TV Time - Privacy Policy
 
