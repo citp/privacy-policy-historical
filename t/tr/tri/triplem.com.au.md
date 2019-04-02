@@ -1,148 +1,150 @@
-> *The following text is extracted and transformed from the triplem.com.au privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014025919id_/http%3A//www.triplem.com.au/sydney/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplem.com.au privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402135156id_/https%3A//www.southerncrossaustereo.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Triple M Sydney - Privacy Policy
+# Privacy Policy | Southern Cross Austereo
 
-**PRIVACY POLICY**
+Southern Cross Austereo Pty Ltd (ACN 109 243 110) ( **SCA** ) and our related bodies corporate operate a number of commercial radio stations, television stations, websites, and other media platforms throughout Australia, including PodcastOne Australia. In the course of conducting our business we may collect and handle your personal information.
 
-This Privacy Policy applies to the collection of personal information ("PI") by or on behalf of Austereo Pty Ltd, Consolidated Broadcasting System (WA) Pty Ltd, Perth FM Radio Pty Ltd and all other members of the Austereo Pty Ltd group of companies ("Austereo"). 
+We are committed to the protection of your personal information and meeting the standards set out in the Privacy Act 1988 (Cth) ( **the Act** ), including the Australian Privacy Principles ( **APPs** ). This Privacy Policy sets out how we will handle the personal information that we collect and hold.
 
-On some occasions we may conduct a promotion or other activity which has its own specific privacy policy. In this case, notice of that policy will be provided at the time any PI is sought and that policy will apply to that promotion or activity and will override this policy to the extent of any inconsistency. In all other cases, the terms of this privacy policy prevail and by interacting with us, you agree to be bound by these terms. 
+### **Collection of Information**
 
-Austereo operates a number of broadcast radio stations throughout Australia. Through our varied operations, we gather information for a variety of reasons, for example to enable us to improve the nature of the services we provide and to facilitate the running of various competitions. 
+**What is personal information?**
 
-We are committed to the protection of your PI and meeting the standards set out in the Privacy Act 1988 (Commonwealth) ("the Act") and the National Privacy Principles ("NPPs"). This policy sets out how we handle your PI and the rights and obligations that we both have in relation to that information. 
+_Personal information_ means any information or an opinion about an identified individual, or an individual who is reasonably identifiable, whether that information is true or not and whether it is recorded in a material form or not.
 
-**1\. COLLECTION OF INFORMATION**
+_Sensitive information_ is a subset of personal information that includes information about your race or ethnic origins, political opinions, religious or philosophical beliefs, trade union membership, or details of health, disability or sexual activity or orientation. We generally do not ask for sensitive information, but may do so where it is reasonably necessary for our functions and activities and it is permitted or required by law. Generally we will only collect sensitive information where you have consented to our collecting that information, including where you voluntarily submit such information to us.
 
-**1.1 Why We Collect Personal Information**
+**What personal Information we collect and hold**
 
-Generally we collect your PI to provide you with products and services and to administer our relationship with you. We also collect PI for marketing purposes and to provide you with information about special events, products and services (both our own and those of other companies) that may be of interest to you. 
+The personal information we collect about you will depend on the nature of our relationship with you. We may collect:
 
-**1.2 How We Collect Personal Information**
+  * your name, address, email, phone number(s) and emergency contact details;
+  * your age, date of birth, gender;
+  * payment, credit card and/or bank account details;
+  * photographs, film and/or audio recordings of you where you attend an SCA affiliated event, attend our premises, call one of our radio or TV stations, or otherwise participate on-air; and
+  * your interests, opinions about our brands and services, or other information relevant to promotions and activities that SCA runs and to your engagement with SCA, such as information contained in competition entries, job applications, on-air interactions, complaints and enquiries.
 
-We primarily collect PI directly from you through written, electronic and/or verbal means of communication when you interact with us for example when:
 
-(a) you submit an entry into a competition or trade promotion;
 
-(b) you participate in listener loyalty programs;
+We also conduct research surveys for third parties. Where you participate in these surveys we may also collect information about your occupation and salary, your opinions about the brands and services of third parties, as well as sensitive information such as your political opinions or health information. We will only collect your personal information as part of a research survey with your prior consent.
 
-(c) you send us an email or post an entry on any of our websites;
+**Why we collect personal information**
 
-(d) you purchase products from us by credit cards or otherwise. 
+Generally we collect your personal information to provide you with products or services and to manage our relationship with you.
 
-We may also obtain details about you from marketing databases or other sources that are publicly available such as websites, journals, legal directories and phone books. We will only collect information about you from third parties in rare circumstances, for example where one of your friends indicates to us that one of our services or products may be of interest to you. If we do collect PI in this manner, we will endeavour to make you aware of who we are, the fact and manner of collection of this information and this Privacy Policy. We will ask the third party to tell you that they have provided us with your PI and provide you with a copy of this Privacy Policy. 
+We also collect personal information for research and marketing purposes and to provide you with information about events, products and services (both our own and those of other companies that may be of interest to you), to improve the services we provide, to run various competitions and trade promotions, and to provide you with payment receipts.
 
-We may also collect anonymous information through the use of cookies on our website. Cookies are pieces of information that are stored on your computer's hard disk. Most web-browsers are set to accept cookies but you can set your web-browser to refuse cookies. Cookies themselves do not identify users personally but they do allow the tracking of an individual's use of a website. Cookies have become commonplace. You can configure your web browser to reject or accept cookies. If you reject cookies you may not be able to interact with us online. 
+Where lawful and practical, you may deal with us anonymously or use a pseudonym. However in some instances, because of the products and services we provide, if you do not provide us with your personal information we may not be able to provide you with the requested product or service (for example, if we require your details in connection with a competition we are running, we cannot provide you with a prize should you be a prize winner and we cannot contact you).
 
-**2\. USE AND DISCLOSURE**
+**How we collect Personal Information**
 
-**2.1 Use**
+We collect personal information directly from you when you interact with us, for example when:
 
-By submitting your PI to us you consent to us using your PI in the following ways and for the following purposes:
+  * you submit an entry into a competition or trade promotion;
+  * you participate in listener loyalty programs;
+  * you subscribe to a member database or email newsletter;
+  * you send us an email, contact us through any of our websites, or post on any of our websites (including any of our social media pages);
+  * you purchase products or services from us;
+  * you participate in a research survey;
+  * you download one of our mobile Apps or stream our products from a website or via a mobile App;
+  * you call us; or
+  * you attend an event or activity that we organise, sponsor, or are otherwise affiliated with.
 
-  1. to provide you with our products or services;
 
 
-  1. to administer our relationship with you;
+We also have CCTV cameras operating in many of our premises to ensure security and a good working environment for our staff. Premises where CCTV cameras operate have signs at the point of entry, informing you of their operation.
 
+In some circumstances we may obtain personal information about you from third parties such as:
 
-  1. to facilitate the running of and your participation in trade promotions and other competitions;
+  * marketing databases or other sources that are publicly available such as websites, journals, legal directories and phone books;
+  * friends or relatives who have provided us with your details as part of a promotion, competition or event, including where they have nominated you as an emergency contact; and
+  * referees or previous employers where you have applied for a job with SCA.
 
 
-  1. to facilitate the running of and your participation in listener loyalty programs;
 
+**_Website and App Policy_**
 
-  1. to monitor activity on our websites, for the purpose of maintaining the security of those websites;
+We may also collect anonymous information through the use of cookies on our website. Cookies themselves do not identify users personally but they do allow the tracking of an individual's use of a website. For more information about cookies, see our [Website and App Policy](http://www.southerncrossaustereo.com.au/docs/website-app-policy.pdf).
 
+### **Use and disclosure**
 
-  1. to compile listener databases to enable us to market goods and services more accurately;
+**Use**
 
+How we use your personal information will depend on the nature of our relationship with you. We may use your personal information for the following purposes:
 
-  1. for internal administrative purposes, such as procedural assessments, risk management, staff training, accounting, billing, product and service reviews; and
+  * to provide you with our products or services;
+  * to manage our relationship with you;
+  * to administer online and App based services and products and to monitor your activity on these services and products;
+  * to facilitate the administration of, and your participation in, a trade promotion, competition or other activity;
+  * to facilitate the administration of, and your participation in, a listener loyalty program;
+  * to facilitate the administration of, and your participation in, a member database;
+  * to facilitate the administration of, and your participation in, an online subscription newsletter;
+  * to monitor your purchase history and our relationship with you;
+  * to compile listener databases and profiles to enable us to market goods and services more accurately;
+  * to identify and inform you about other products or services that may be of interest to you;
+  * to market, improve and add to our products and services including our websites and our radio broadcasts; and
+  * to report to our third party clients on the results of our research surveys (while personal information is used to compile these reports, only aggregated, de-identified data is given to our clients).
 
 
-  1. to identify and inform you about other products or services that may be of interest to you;
 
+**_Direct marketing opt out_**
 
-  1. to market, improve and add to our products and services including our websites and our radio broadcasts; 
+If you no longer wish to receive marketing or other communications from us, please contact us on the details below so that we can update your preferences, or follow the instructions in these communications on how to unsubscribe.
 
+**Disclosure**
 
-  1. where there is a serious threat to an individuals life or to public health or safety;
+We may disclose personal information to:
 
+  * our related bodies corporate;
+  * third parties engaged by us to provide functions on our behalf (such as storing and managing databases, processing credit card information, mailouts, debt collection, marketing research and advertising), some of which may be located overseas, including in Canada, Singapore and the USA;
+  * third parties who supply us with content for broadcast and/or industry groups such as Commercial Radio Australia (CRA), Free TV Australia or the Advertising Standards Bureau, where you make a complaint about a broadcast;
+  * regulators and government agencies, such as the Australian Communications and Media Authority (ACMA);
+  * third parties to whom you authorise us to disclose your personal information; and
+  * our sponsors and promotions partners where you have expressly consented (“opted in”) to being contacted by them.
 
-  1. where there is reason to suspect unlawful activity has been engaged in;
 
 
-  1. where required or authorised by law; or
+To protect your privacy, wherever practical we impose contractual requirements of security and confidentiality on third parties as to how they handle personal information that we disclose to them.
 
+### **Data quality**
 
-  1. where required by an enforcement body.
+We take reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete, relevant and up-to-date.
 
+If you believe that the personal information we hold about you is incorrect or out-of-date, please contact us on the details below so that we can update our records.
 
+### **Data security**
 
-If you do not wish to receive marketing or other communications from us, please contact us on the details below so that we can update your preferences. 
+We store your personal information in a number of secure computer storage facilities and paper based files, and in other records. We may also engage third party service providers to assist in storing and processing certain types of personal information for us, some of which may be located overseas.We take reasonable steps to ensure that the personal information we hold about you is protected from misuse, interference and loss and from unauthorised access, modification or disclosure.
 
-If you provide us with your mobile telephone number, email address, IM address or other such personal information, you authorise us to send you promotional messages related to our products and services and the products and services that we promote. Such messages will be accompanied by a functional unsubscribe facility.
+### **Access** **and correction**
 
-**2.2 Disclosure**
+If you wish to request access to, or correction of any personal information we may hold about you, please contact us on the details below.Generally, we will provide you with access to your personal information unless one of the exceptions set out in the APPs applies to your request, such as where providing access would unreasonably impact on the privacy of others. If one of these exceptions applies, we may, if reasonable, provide access to the personal information in a way that meets our needs and yours (for example by giving you access through a mutually agreed intermediary), although this will not always be possible.
 
-We may disclose PI across the Austereo group of companies and our related bodies corporate (in accordance with this Privacy Policy). We may also provide PI to:
+We may charge a fee for giving access to personal information which reflects our costs of providing access.
 
-  1. third parties engaged by us to provide functions on our behalf such as processing credit card information, mailouts, debt collection, marketing research and advertising; and
+If we refuse your request for access to, or correction of, your personal information, we will provide you with written notification of our decision and our reasons for reaching that decision. If we refuse your request to correct your personal information, you can request that we associate with that information a statement that you believe it to be inaccurate, out-of-date, irrelevant or misleading.
 
+### **More information and complaints**
 
-  1. third parties authorised by you to receive PI held by us. 
+For more information on how we handle your personal information, or if you are concerned that we may have breached your privacy and wish to make a complaint, please contact us on the details below.
 
+We will take any privacy complaint seriously, and we aim to resolve all complaints in a timely and efficient manner. We request that you cooperate with us during this process and provide us with relevant information we may require.
 
+We expect our procedures will deal fairly and promptly with your complaint. However, if you are unsatisfied with our response, you can make a complaint to the Office of the Australian Information Commissioner (OAIC) on by calling 1300 363 992 or visiting the OAIC website at [www.oaic.gov.au](http://www.oaic.gov.au/).
 
-We may also disclose PI to unrelated third parties (for example, our professional advisers and government authorities or agencies) where that disclosure is reasonably required to obtain advice, prepare legal proceedings, investigate suspected improper conduct or wrong doing, to assist a lawful authority in the discharge of its duties and/or by law. 
+### **Contact us**
 
-Where we hold promotions in conjunction with other companies, we will offer you the opportunity to be contacted by our promotions partner. We will not provide your PI to the promotions partner unless you have opted in to having such PI passed on. 
+Mail: The Privacy Officer  
+Southern Cross Austereo  
+PO Box 345  
+South Melbourne, VIC, 3205
 
-To better protect your privacy, we impose strict requirements of security and confidentiality on all third parties as to how they handle your PI. Notwithstanding this, we cannot be held responsible for any misuse or unauthorised disclosure of your PI by these third parties. 
+Email: [privacy@sca.com.au](mailto:privacy@sca.com.au)
 
-**3\. DATA QUALITY**
+Phone: (03) 9252 1019
 
-We take reasonable steps to ensure that the PI we collect, use or disclose is accurate, complete and up-to-date. If your PI is incorrect or changes, please contact us on the details below so that we can update your PI and continue providing you with our services. 
+### **Changes to our Privacy Policy**
 
-**4\. DATA SECURITY**
+SCA will review this Privacy Policy from time to time to ensure that it accurately reflects our practices and procedures as well as any changes in the law. We will notify you of any changes to this Policy by posting an amended version on our website ([www.southerncrossaustereo.com.au](http://www.southerncrossaustereo.com.au/)), and changes will take effect from the date of posting.
 
-Your PI is stored in a number of secure computer storage facilities and paper based files, and in other records. We have taken precautions to ensure that your PI is protected from misuse, loss and unauthorised access, modification or disclosure.
-
-Once we no longer need your PI, we take reasonable steps to destroy or de-identify your PI.
-
-**5\. OPENNESS**
-
-If you have any questions whatsoever on our handling of your PI or the kind of PI we hold about you please contact us on the details below and we will endeavour to assist you with your request.
-
-**6\. ACCESS AND CORRECTION**
-
-You generally have the right to access your personal information and we will provide you with a copy of any personal information we hold on request. The NPPs set out some circumstances in which we are not required to provide you with such access. If you ask for your PI and any of these circumstances apply, we may, if reasonable, agree with you on an intermediary which would allow sufficient access to your PI to meet your needs. 
-
-We may charge a fee for retrieving PI, in which case we will inform you of the fee in advance of providing the information. 
-
-**7\. IDENTIFIERS**
-
-As required by the NPPs, we do not collect or use Commonwealth government identifiers when interacting with you. 
-
-**8\. ANONYMITY**
-
-Where practical, you may deal with us on an anonymous basis. In some instances, because of the services we provide, if you do not provide us with your PI we may not be able to provide you with the requested product or service (for example, if we require your details in connection with a competition we are running, we cannot provide you with a prize should you be a prize winner and we cannot contact you). 
-
-**9\. OVERSEAS TRANSFERS OF INFORMATION**
-
-By submitting your PI to us you consent to your PI being transferred to US company, Data Pipe Hosting Services (Data Pipe), which stores our databases. Data Pipe does not have permission to use, sell, transfer or access PI in any way. 
-
-We will not send your information outside of Australia in any other circumstances, unless we obtain agreement from the recipient to protect your information in accordance with Australian privacy laws and to abide by the terms of this policy unless we have your consent. 
-
-**10\. SENSITIVE INFORMATION**
-
-Sensitive information includes information about your race or ethnic origins, political opinions, religious or philosophical beliefs, trade union membership, or details of health, disability or sexual activity or orientation. We rarely ask for sensitive information, but may do so occasionally, for example, as part of a competition, promotion or survey. We will not require you to provide sensitive information unless: 
-
-(a) you have consented to providing such information (such consent will be deemed when you submit such information to us); or
-
-(b) the collection of the information is specifically authorised or required by law. 
-
-**CONTACT US**
-
-If you have any queries about this Privacy Policy, please contact Austereo's Privacy Officer by mail at GPO Box 4442 Sydney NSW 2001 or by email to privacy@austereo.com.au. 
+Last updated: May 2017
