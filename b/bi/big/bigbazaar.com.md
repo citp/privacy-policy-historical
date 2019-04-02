@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbazaar.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030104647id_/https%3A//www.bigbazaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbazaar.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402171100id_/https%3A//www.bigbazaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Big Bazaar Privacy Policy
 
