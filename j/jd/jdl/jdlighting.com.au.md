@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdlighting.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904075615id_/https%3A//www.jdlighting.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdlighting.com.au privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402040056id_/https%3A//www.jdlighting.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JD Lighting | JD Lighting
 
