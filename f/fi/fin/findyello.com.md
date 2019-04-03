@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the findyello.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232952id_/https%3A//www.findyello.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findyello.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403210750id_/https%3A//www.findyello.com/page/privacy) for the most accurate reproduction.*
 
-# findyello | Jamaica Yellow Pages Business & Residential Local Search findyello.com
-
-## Privacy Policy
+# findyello | Yellow Pages Business & Residential Local Search findyello.com
 
 #### General
 
