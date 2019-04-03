@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the suchtv.pk privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118151705id_/http%3A//www.suchtv.pk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suchtv.pk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403022747id_/https%3A//www.suchtv.pk/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - SUCH TV
+
+[](https://www.suchtv.pk/privacy-policy.html)
 
 This is the main privacy policy for Such TV Internet publications, and for certain services provided through the websites by **SUCH TV**
 
@@ -74,3 +76,5 @@ SUCH TV believes in providing potential candidates with opportunities to explore
 ### **Changes to the privacy policy**
 
 Should we elect to change our privacy policy we will post the changes here.
+
+[](https://play.google.com/store/apps/details?id=com.suchtv.pk)
