@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208212230id_/https%3A//dsu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404014223id_/https%3A//dsu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Dakota State University
 
@@ -42,7 +42,7 @@ As a governmental agency, we are governed by open records laws.  Any informatio
 
 The information on the official Dakota State University website ([dsu.edu](http://dsu.edu/)) is provided without a warranty of any kind.
 
-The University makes resourcees available to a variety of audiences in the DSU community and may list websites and pages developed and maintained by our faculty, staff, students and organizations. These entities strive to ensure the accuracy of the information contained on these pages. If you have a question or concern regarding any of these linked pages, please contact that entity directly. All other inquiries regarding the official website should be directed to [webmaster@dsu.edu](mailto:webmaster@dsu.edu).
+The University makes resources available to a variety of audiences in the DSU community and may list websites and pages developed and maintained by our faculty, staff, students and organizations. These entities strive to ensure the accuracy of the information contained on these pages. If you have a question or concern regarding any of these linked pages, please contact that entity directly. All other inquiries regarding the official website should be directed to [webmaster@dsu.edu](mailto:webmaster@dsu.edu).
 
 Some pages may contain links to websites created outside of the University, this does not suggest DSU endorses or approves the content of these pages.
 
