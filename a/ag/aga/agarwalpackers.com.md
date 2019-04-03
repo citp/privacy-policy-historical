@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agarwalpackers.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206095306id_/http%3A//www.agarwalpackers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agarwalpackers.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403211749id_/http%3A//www.agarwalpackers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Agarwal Packers and Movers Privacy Policy
 
@@ -24,7 +24,21 @@ Mail your request to Agarwal Packers and Movers Ltd, Agarwal Movers Group, Agarw
 
 **Contacting the web site administrators** If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact: 
 
-**Corporate office**  
+**Environmental Policy** APML’S environmental responsibilities are driven by our commitment to preserve the environment and are integral to the way we do business.
+
+1\. We are committed to deal proactively with Climate Change issue by efficient use of natural resources & energy; reducing and preventing pollution; promoting waste avoidance and recycling measures; and product stewardship.
+
+* We shall identify, assess and manage our environment impact.
+* We shall regularly monitor, review and report publicly our environmental performance.
+* We shall enhance awareness, skill and competence of our employees and contractors so as to enable them to demonstrate their involvement, responsibility and accountability for sound environmental performance.
+
+2\. We are committed to continual improvement in our environmental performance.
+
+* We shall set objective-targets, develop, implement and maintain management standards and systems, and go beyond compliance of the relevant industry standards, legal and other requirements.
+
+3\. We will truly succeed when we sustain our environmental achievement and are valued by the communities in which we work.
+
+ **Corporate office**  
 **Agarwal Packers and Movers Ltd.**  
 **Address :** Agarwal Floor, Wedding Mall  
 Saraswati Vihar,  
