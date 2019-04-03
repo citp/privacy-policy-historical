@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the teachersbadi.in privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503010344id_/http%3A//www.teachersbadi.in/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachersbadi.in privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403101532id_/http%3A//www.teachersbadi.in/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
 
-# Privacy Policy | TeachersBADI-TGCET-TS TRT - Gurukulam Posts
+# Privacy Policy | TeachersBADI.In
 
 **_TeachersBadi.in Website Privacy Policy_**
 
-[](http://4.bp.blogspot.com/-g_1_0JBQXYE/U_TMKv7ginI/AAAAAAAADQI/d7rR7veoyQY/s1600/TeachersBadi%2BPrivacy%2BPolicy.png)
+[](https://4.bp.blogspot.com/-g_1_0JBQXYE/U_TMKv7ginI/AAAAAAAADQI/d7rR7veoyQY/s1600/TeachersBadi%2BPrivacy%2BPolicy.png)
 
 **  
 **  
-This Privacy Policy governs the manner in which teachersbadi collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://www.teachersbadi.in/> website ("Site"). This privacy policy applies to the Site and all products and services offered by teachersbadi.  
-
+This Privacy Policy governs the manner in which teachersbadi collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://www.teachersbadi.in/> website ("Site"). This privacy policy applies to the Site and all products and services offered by teachersbadi.
 
 **Personal identification information**
 
@@ -63,7 +62,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 **Compliance with children's online privacy protection act**
 
@@ -86,8 +85,8 @@ THORRUR, Warangal
 70 930 230 67  
 teachersbadi.in@gmail.com
 
-This document was last updated on August 14, 2014
+This document was last updated on August 14, 2018
 
- **Latest Updates on following Social Websites**
+**Latest Updates on following Social Websites**
 
-4\. WhatsApp Group Name : Teachersbadi.In ( **70 930 230 67)**
+**4. WhatsApp Group Name : Teachersbadi.In (70 930 230 67)**
