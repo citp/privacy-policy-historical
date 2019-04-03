@@ -1,76 +1,91 @@
-> *The following text is extracted and transformed from the montgomerycollege.edu privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119032113id_/https%3A//cms.montgomerycollege.edu/EDU/Plain.aspx%3Fid%3D15742) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycollege.edu privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403155618id_/https%3A//www.montgomerycollege.edu/policies-and-procedures/privacy-statement.html) for the most accurate reproduction.*
 
-# Montgomery College Web Privacy Statement
+# Privacy Statement | Montgomery College, Maryland
 
-Information security and individual privacy are a priority at Montgomery College. The College strives to protect the information that it collects and uses this information for College business purposes only. The following further details information processing practices used by Montgomery College to protect information and promote privacy. 
+Montgomery College provides access to various services, activities and information online in a manner that respects and protects your individual privacy. This statement describes our information-collection practices and explains how we use and protect your personal data.  This Privacy Statement describes our practices in connection with data that we collect: 
 
-**Commitment to Individual Privacy**   
-Montgomery College is committed to protecting the privacy and accuracy of confidential information submitted by employees, students, activity participants and visitors to our website. We do not actively share personal information gathered other than as specified in this statement. However, because Montgomery College is a public institution, some information collected from the Montgomery College website may be subject to disclosure under Maryland law. Thus, in some cases the College may be compelled by law to release information gathered from our Web servers. This may include, at a minimum, server log information, email messages sent to an individual identified on the website, and information collected from Web-based forms.
-
-**Personally Identifiable Information Privacy**   
-Personally Identifiable Information including financial information that may be provided during the admissions, registration, gifting, or employment processes is used solely for those purposes and is restricted and protected in accordance with College policy and procedure, relevant State and Federal laws and regulations, and by protected network and data storage technologies. Montgomery College does not sell or share non-public personally identifiable information or client lists with a third party, unless necessary to complete a transaction in the ordinary course of business, or as required by State or Federal law or regulation such as the Maryland Access to Public Records Act (Public Records Act) or the Family Educational Rights and Privacy Act (FERPA). Complete information on the handling of student records in accordance with FERPA may be found in the College's  [Student Cumulative Records](http://www.montgomerycollege.edu/verified/pnp/41003.doc) policy. Student questions can also be handled by calling the Montgomery College Response Center at 240-567-5000. 
-
- **Students and Consent**  
-When you apply with us and later register as a student, you give us consent to process data about you as necessary for the proper administration of your student relationship with us.
-
-**Information Automatically Logged by Official Montgomery College Websites**   
-Official Montgomery College websites such as My MC, MontgomeryCollege.edu, WebCt, and MCInfonet reside on servers and technologies managed by Montgomery College's Office of Information Technology (OIT). These servers collect and log information according to industry standards in order to analyze usage of the website and to improve its design and usability. The information that is logged does not contain personal data about the user and is used only internally by Montgomery College. Logged information includes the user's IP address, browser, operating system, session date and time, and referring/exit web pages. 
-
-**Special Notification with Respect to Children’s Privacy (Users Under the Age of 13)**   
-In response to concerns about protecting children’s privacy online, Congress enacted the Children’s Online Privacy Protection Act of 1998 (“COPPA”), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13. In accordance with COPPA regulations, we DO NOT:  request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or knowingly use or share personal information from users under 13 years of age with third parties.
-
-**Children’s Activities and Programs  
-** Some Montgomery College (MC) Websites present MC-sponsored information or activities that are specifically designed for children. However, the Websites are intended to be used only by adults to voluntarily share information online, so that a child who is under the age of 13 can participate in these activities (e.g., summer camps, classes, programs) or so that the child can receive information mailed or emailed from MC (newsletters, class schedules, recruitment information). When a parent or legal guardian voluntarily signs their child up for one of these programs, the parent may be asked to provide:
-
-  * The child’s full name
-  * Full home mailing address
-  * Phone number
-  * Birthdate
-  * School, current grade level
-  * Email address
-  * Parent or legal guardian’s name and email address
-  * Credit Card Information
-  * Health and Emergency Information
+  * Through our Montgomery College (MC) website and affiliated pages where you may access this this Privacy Statement (the “ **Websites** ”), 
+  * through the software applications made available by us for use on or through computers and mobile devices (the “ **Apps** ”), 
+  * through our social media pages and applications made available by us for use on or through computers or moble devices (collectively, our “ **Social Media Pages** ”) 
+  * through HTML-formatted email messages that we send to you that link to this Privacy Statement 
+  * through offline activities as detailed in this Statement
 
 
 
-All information provided by the parent/guardian is voluntary. MC, through its Websites, does not condition participation in any of our offered activities on the disclosure of more information than is reasonably necessary to participate in the activity. This information will not be transferred, disclosed or shared with a third party except as reasonably necessary to implement and manage the activity, and will not be used for other purposes. The College reserves the right to make the determination as to what information is necessary for a particular activity.
+## Personal Information we collect and process:
 
-The parent or legal guardian supplying the child’s information may be asked to acknowledge that they are, in fact, the parent or guardian who is legally authorized to disclose this information about the child. Parents or guardians have the right:
+When you access or use the Websites, Apps or Social media Pages, we may collect and process the following types of information from you: 
 
-  * To review personal information that has been recorded by a MC Website about their child,
-  * To refuse to allow further collection of the information,  
+“ **Personal Information** ” is any information that we can reasonably use to identify you. If you are located in the European Economic Area (EEA), Personal Information includes all Personal Data as defined under EEA laws.  If you are an EEA Data Subject, you may have additional rights as delineated in our [GDPR Interim Statement](https://web.archive.org/policies-and-procedures/gdpr-interim-statement.html). 
 
-  * To be given the choice of consenting to the collection and internal use of information, but prohibiting the disclosure of that information to third parties (unless disclosure is integral to the site or service, in which case, this will be clearly stated), and
-  * To require the deletion of any information that has been recorded.
+Personal Information we collect and process Purpose of Processing | Categories of Personal Information | Legal Basis  
+---|---|---  
+**Course Registration:**   To support course registration  | Name, Montgomery College Unique ID, contact information, educational history | _Legitimate Interest_ : Personal Information collected for matriculated students, staff, faculty and members of the public, as appropriate for the course, to register in courses or classes   
+**Disability Support Services** | Name, Montgomery College Unique ID, contact information, educational history | _Legitimate Interest_ : Personal Information collected for students, as appropriate for the determination of disability support services for s student    
+**Online Training:**   To provide online training and educational programs  | Name, Montgomery College Unique ID, contact information, demographic information | _Legitimate Interest_ : To facilitate provision of on-line education courses to matriculated students, staff, faculty and members of the public, as appropriate for the course   
+**Wellness Programs** :  To enroll in wellness programs  | Name, Montgomery College Unique ID | _Legitimate Interest_ : For eligible individuals interested in participating in a variety of wellness programs, courses, activities, facilitate enrollment and communications about the programs  
+ _Contract_ : If there is a contract for participation in wellness programs, Personal Information is processed pursuant to that contract   
+**Employment Applications** :  To process employment applications  | Name, Montgomery College Unique ID (if available), demographic information, resumes | _Legitimate Interest_ : For individuals interested in employment opportunities, processing applications   
+**Visa Applications** :  To process visa applications  | Name, demographic information, financial information, passport number | _Legal Requirements_  
+**Advancement** :  To receive donations  | Name, contact information, payment information | _Legitimate Interest_ : To collect and process donations/gifts and donor information   
+**Events:**   To purchase tickets to events  | Name, Montgomery College Unique ID (if available), contact information, payment information | _Contract_ : To process ticket payment for a variety of events   
+**Parking Permits:**   To purchase parking passes and permits  | Name, Montgomery College Unique ID, contact information, payment information | _Contract_ : To facilitate payments for parking passes and permits   
+**IT Service Desk:**   To submit requests for services (e.g., IT Service Desk)  | Name, Montgomery College Unique ID, contact information |    
+  
+## Why is the information collected by the montgomerycollege.edu website?
 
+Montgomery College collects website visitor information to: best serve audiences by optimizing and personalizing visitor experiences in both digital and physical spaces, manage a visitor relationship with the university, foster/promote further communications, gauge communication effectiveness, gain insights into user behavior and preferences, track interests, identify errors and issues, and conduct market research. 
 
+## Students and Consent 
 
-**I** t is possible that a child under the age of 13 may have information entered without the consent of a parent or guardian. If MC is notified of this, as soon as we verify the information, we will immediately delete the information from our servers at the request of the child’s parent or guardian.
+When you apply with us and later register as a student, you give us consent to process personal data about you as necessary for the proper administration of your student relationship with the College.  That process limits how your personal data will be shared.  Complete information on the handling of student records in accordance with FERPA may be found in the College's [Student Cumulative Records](https://cms.montgomerycollege.edu/EDU/Verified_-_Policies_and_Procedures/PDF_Versions/41003_Student_Cumulative_Records/) policy. Student with questions can call the Montgomery College Response Center at 240-567-5000. 
 
-**Information Collected by Email and Online Transactions  **   
-If you send us an email, we will collect your email address and the contents of your message. We will use your email address and the information included in your message to respond to you, to address the issues you identify, and to improve this web site. We may also use your email address to notify you about updates, services, special events or activities offered by Montgomery College. We may redirect your email message or information you provided through an online transaction to a Montgomery College office other than the one which originally received the message or information in order to better respond to you. The information we collect is not limited to text characters and may include audio, video and graphic information formats included in the message or transaction. 
+## Minors/Children
 
-If you complete a transaction such as an online application or an information request form, we will collect the information, including personal information that you volunteered in completing the transaction. We will use this information only for the purposes for which the transaction was intended.
+The College Websites, Apps or Social Media are not directed to children under the age of thirteen (13).    We do not sell products or services intended for purchase by children under the age of 13, nor do we knowingly collect or store any personal information/data, even in aggregate, provided by children under the age of 13. 
 
-**Email Subscription/Opt Out**   
-As a service, Montgomery College offers visitors the opportunity to subscribe to newsletters and other information.  If you choose to join, you will receive newsletters and/or information on the topics you choose.  You may unsubscribe at any time.  Any information you choose to provide may be used for marketing and promotional purposes by Montgomery College.  Email addresses are never shared, rented or sold to third parties.   However, we may use cookies to track the pages on our site visited by subscribers to our email list. If you would prefer not to receive email or other communications from Montgomery College, contact us at [unsubscribe@montgomerycollege.edu](mailto:unsubscribe@montgomerycollege.edu).
+## Interest-Based Advertisements
 
-**Surveys**   
-Montgomery College may occasionally conduct online surveys of its user base, which may include both campus community members and users who are not directly affiliated with Montgomery College. 
+Some of our Sites engage in online interest-based advertising to enhance your experience and show you advertisements that might interest you. Like many organizations, we and our advertising partners display tailored interest-based advertising using information you make available to us when you interact with our Sites.  Interest-based ads, also sometimes referred to as personalized or targeted ads, are displayed to you based on information from activities such as searching on our Sites or visiting websites that contain our content or ads. We do this using a variety of digital marketing networks and ad exchanges, and we use a range of advertising technologies like web beacons, pixels, ad tags, cookies, and mobile identifiers. 
 
-As part of such surveys we may, with the user’s permission, collect personal and potentially identifying information. Any information gathered in this way is used for quantitative analysis of services, perceived qualities of the college, and users’ attitudes towards Montgomery College or its digital services. If such information is to be made available to other organizations or to be published, that fact will be made known to users prior to participation and their permission will be explicitly requested. 
+Visit [Your Ad Choices](http://optout.aboutads.info/?c=2&lang=EN) or [Your Online Choices](http://www.youronlinechoices.eu/) to learn more about interest-based ads or to opt-out of receiving third-party interest based ads. Please note that if you opt out of interest-based advertising, you will still see advertisements – they will just not be tailored to your interests.  Also note that deleting browser cookies can remove the cookie preferences you have made, so you may need to opt-out again in the future. 
 
-Users can decline to participate if there is concern about the use of the collected information. Survey information will be released only in aggregate form, and not in connection with any identified individual user.
+## Cookies
 
-**Cookies  
-** The College uses temporary cookies to maintain session continuity as the reader moves from page to page in a single session. These temporary cookies are deleted at the end of the session. Additionally, the College may use third party advertising companies to deliver College-related advertisements. These companies may use persistent cookies or other technologies (such as a 1×1 pixel .gif file, also known as a web beacon) to tailor advertisements the user sees on the website and third party websites, to track user response to advertisements, to report on visitor interaction and to measure the effectiveness of advertisements.
+For more information about cookies review the [Cookie Notice of Montgomery College](https://web.archive.org/policies-and-procedures/cookie-notice.html).
 
-**Links to Other Sites**   
-Montgomery College provides links to other websites. These links are provided as an information service only and are not intended nor do they constitute an endorsement by Montgomery College. When you leave an official Montgomery College website please be aware that Montgomery College is not responsible for the privacy practices of these other sites.
+## Google Analytics
 
-**Privacy Statement Updates**   
-Periodically, this privacy statement may be updated to accommodate changes to our information security program or web environment.
+In some instances, we may use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the websites and report on activities and trends.  This service may also collect information regarding the use of other websites, apps and online resources. Learn more about [Google’s practices](https://policies.google.com/technologies/partner-sites), and opt out of them by [downloading the Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout). 
 
-**Who Can I Contact?**  
-If you have any questions about how your personal information is used, or if you need further assistance, please contact the IT Policy Administrator ([itpa@montgomerycollege.edu](mailto:itpa@montgomerycollege.edu)).
+## Marketing
+
+Personal Information you submit through our Sites, such as your name, address and other contact information, may be collected by Montgomery College for internal marketing and development purposes as well as to respond to your inquiry, complete a transaction for you, or fulfill other forms of customer service. You can choose not to receive marketing from us by “unsubscribing” using the instructions in any marketing email you receive from us. 
+
+## Third Parties Websites
+
+Montgomery College may contract and partner with external third-parties to place ads on websites not affiliated with Montgomery College. These non-affiliated sites may send and share visitor information and browsing behavior, collected in accordance with their own privacy policies, with Montgomery College. These third-party websites may also display advertisements to previous visitors of the Montgomery College site. 
+
+## Sharing your Personal Information
+
+We share your information internally at Montgomery College to facilitate and manage the purposes listed above. This includes third parties whom Montgomery College engages to process your Personal Information on our behalf for the purposes stated above, such as vendors who help Montgomery College with our marketing, application processing, and web hosting. Montgomery College may also share your personal data with government and law enforcement agencies or regulators to 1) comply with a legal process, subpoena, order or other legal or regulatory requirement applicable to us; 2) enforce our terms of use or other policies; or 3) pursue available legal remedies or defend against legal claims. Other third parties as you may so request as permitted by this and other Montgomery College policies and applicable laws and regulations. Montgomery College will not sell any personal information to third parties for their use in direct marketing, advertising, or promotion of their products or services. 
+
+## Non-personally identifiable information we collect and process
+
+Standard, non-personally identifiable internet log information such as browser type and navigation to various parts of the Sites, in an aggregated form, is collected for analytical purposes to improve the browsing experience of our Sites, update relevant content and improve the overall design. 
+
+## Document Retention
+
+We keep your Personal Information for as long as needed to fulfill the particular purpose for which it was collected. We may also retain your records if legally required or to fulfill a legitimate interest. 
+
+## Updates to Privacy Statement
+
+Montgomery College reserves the right to modify this Privacy Statement at any time. Your continued use of the Sites after any change in this Privacy Statement will constitute your acceptance of such change. 
+
+## Contact Information
+
+For more information on how we collect and process your Personal Information, or if you have any complaints please contact [privacy@montgomerycollege.edu](mailto:privacy@montgomerycollege.edu). 
+
+## Effective Date
+
+The effective date of this Statement is May 25, 2018.
