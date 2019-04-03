@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gentoo.org privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921012220id_/https%3A//wiki.gentoo.org/wiki/Foundation%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentoo.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403051605id_/https%3A//wiki.gentoo.org/wiki/Foundation%3APrivacy_Policy) for the most accurate reproduction.*
 
 # Foundation:Privacy Policy - Gentoo Wiki
 
