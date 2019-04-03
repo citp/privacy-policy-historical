@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswebproxy.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203082432id_/http%3A//www.uswebproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswebproxy.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403054825id_/http%3A//www.uswebproxy.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
