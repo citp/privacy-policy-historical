@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the k1speed.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007235421id_/https%3A//www.k1speed.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k1speed.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403202712id_/https%3A//www.k1speed.com/privacy-policy.html) for the most accurate reproduction.*
 
-# K1 Speed | Privacy Policy
+# Privacy Policy | K1 Speed
 
 At K1 Speed, privacy of individual visitor data is of primary importance. We work diligently to protect confidentiality, restrict transfer of personal data, incorporate technical safeguards and appropriate security policies, and identify privacy implications in new services. We will not sell or rent your personally identifiable information to anyone. If you have questions or concerns regarding this statement, you should first contact us.
 
@@ -16,6 +16,10 @@ At K1 Speed, your privacy and the protection of your data is our main concern. C
 
 Cookies are data stored on the end-user’s hard drive with information that relates directly to the end-user’s visit to our web site. Any information placed in the cookie is accessible only to K1 Speed, and will not be sold or shared with anyone else under any circumstances. We use a cookie to store a unique session identifier, which allows us to maintain shopping cart and web site selections from one page request to the next, and maintain session information from one visit to the next. By setting a cookie on our site, the user would not have to log in more than once, thereby saving time while visiting our site. If a user rejects the cookie, they may still browse our site. However, the user experience will be greatly curtailed. In addition, the user will be unable to log in or make a purchase. Cookies also enable us to track and target the interests of our users to enhance users’ experience and display products that relate directly to individual user preferences. Some of our business partners and/or advertisers may also use cookies on our site. We have no access to or control over these cookies.
 
+##### AdRoll
+
+As you browse k1speed.com, advertising cookies will be placed on your computer so that we can understand what your interests are. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with K1 Speed. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can [visit this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
+
 ##### Sharing
 
 We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We value your privacy at K1 Speed, and will never release any account information to anyone outside of the necessary core groups that help our business function unless our customers give us the authority to do so.
@@ -30,4 +34,4 @@ This web site contains links to other sites. Please be aware that K1 Speed is no
 
 ##### E-Mail
 
-If a user wishes to subscribe to our emails we ask for contact information such as name and email address. If at any time you should wish to unsubscribe, please send an email to our customer service group with your request and the e-mail address you used to create your account.If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](https://www.truste.org/pvr.php?page=complaint), an independent privacy organization.
+If a user wishes to subscribe to our emails we ask for contact information such as name and email address. If at any time you should wish to unsubscribe, please send an email to our customer service group with your request and the e-mail address you used to create your account.If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](https://www.trustarc.com/consumer-resources/), an independent privacy organization.
