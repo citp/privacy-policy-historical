@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ersjournals.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111123502id_/http%3A//www.ersjournals.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ersjournals.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403035937id_/http%3A//www.ersjournals.com/site/privacy) for the most accurate reproduction.*
 
 # ERS publications privacy policy | European Respiratory Society
 
