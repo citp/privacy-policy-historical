@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107110440id_/https%3A//www.abbyy.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403202935id_/https%3A//www.abbyy.com/en-us/privacy) for the most accurate reproduction.*
 
 # ABBYY Privacy Policy
 
@@ -70,7 +70,7 @@ If you have previously opted out of receiving marketing email communications or 
 
 **4.1. Our Use of Personally Identifiable Information.** ABBYY and certain service providers acting our behalf use Personally Identifiable Information for the purposes set out in this Notice. We use Personally Identifiable Information to provide our products and the Services, for example, to provide you document capture, optical character recognition or document conversion functionality, to respond to your inquiries and fulfill your requests.
 
-**4.1.1. Registration Information.** Registration information is used by ABBYY for internal purposes in providing our products and the Services. As provided in Section 5.1.4 (Informational Notices and Bulletins; Marketing), we may also use this information to send marketing materials and informational notices.
+**4.1.1. Registration Information.** Registration information is used by ABBYY for internal purposes in providing our products and the Services. As provided in Section 4.1.3 (Informational Notices and Bulletins; Marketing), we may also use this information to send marketing materials and informational notices.
 
 **4.1.2. Product/Sales Information.** Information collected in connection with purchasing products is used for billing purposes, filling orders, and contacting you in the event that there is an issue with your order. Please note that ABBYY does not directly collect or store your financial account information – instead, we use a third-party payment service (the “ **Payment Processing Company** ”) to collect and process your payment information.
 
