@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelportland.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825103501id_/https%3A//www.travelportland.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelportland.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403230944id_/https%3A//www.travelportland.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Portland
 
