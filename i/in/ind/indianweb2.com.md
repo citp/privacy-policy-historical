@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianweb2.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616145813id_/http%3A//www.indianweb2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianweb2.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403061451id_/https%3A//www.indianweb2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ Alternatively, if you have set your Facebook audience for the Social Reader app 
 
 Note: we’ll try to keep your preferences up to date, but if you change your Facebook settings after you first authorize the Social Reader app, your app setting changes may not be immediate.
 
-We automatically share your Social Reader activity with Facebook. Facebook’s policies control how your Social Reader activity may be displayed on Facebook outside of the Social Reader app. See [below](http://www.indianweb2.com/privacy-policy#anchor_controlactivity "Jump to read about controlling activity display outside of Facebook") for more information.
+We automatically share your Social Reader activity with Facebook. Facebook’s policies control how your Social Reader activity may be displayed on Facebook outside of the Social Reader app. See [below](https://www.indianweb2.com/privacy-policy#anchor_controlactivity "Jump to read about controlling activity display outside of Facebook") for more information.
 
 ### HOW CAN I HIDE THE FACT THAT I HAVE READ A PARTICULAR ARTICLE?
 
@@ -53,7 +53,7 @@ Articles you read on indianweb2.com or on the websites of any of our content par
 
 ### HOW DO I ASK QUESTIONS OR GIVE YOU FEEDBACK?
 
-We want our privacy practices and choices to be as clear and helpful as possible. Tell us what you think by emailing us [here](http://www.indianweb2.com/contact-us/ "Go to our Contact Us page").
+We want our privacy practices and choices to be as clear and helpful as possible. Tell us what you think by emailing us [here](https://www.indianweb2.com/contact-us/ "Go to our Contact Us page").
 
 ### WE WANTED TO COVER HOW INDIANWEBW2.COM SOCIAL READER WORKS FIRST; NOW HERE’S THE REST OF OUR PRIVACY POLICY.
 
@@ -95,7 +95,7 @@ We may share the information, including personally identifiable information that
 
 ### IV. ACCESS TO INFORMATION
 
-You can access and update personally identifiable information that you have provided to us via Facebook’s [privacy settings page](http://www.facebook.com/settings/?tab=privacy&section=apps&h=936766c538f73427c9eecc29d9a78f94 "Go to Facebook's privacy settings page"). You can access and update any personally identifiable information that you have provided directly to us, or ask us questions, by contacting us [here](http://www.indianweb2.com/contact-us/ "Contact us").
+You can access and update personally identifiable information that you have provided to us via Facebook’s [privacy settings page](http://www.facebook.com/settings/?tab=privacy&section=apps&h=936766c538f73427c9eecc29d9a78f94 "Go to Facebook's privacy settings page"). You can access and update any personally identifiable information that you have provided directly to us, or ask us questions, by contacting us [here](https://www.indianweb2.com/contact-us/ "Contact us").
 
 ### V. DATA SECURITY
 
@@ -115,4 +115,4 @@ If we need to materially change this Privacy Policy in the future, we will notif
 
 ### IX. CONTACTING US
 
-If you have questions about this Privacy Policy, please [contact us](http://www.indianweb2.com/contact-us/ "Contact us").
+If you have questions about this Privacy Policy, please [contact us](https://www.indianweb2.com/contact-us/ "Contact us").
