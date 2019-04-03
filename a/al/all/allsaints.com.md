@@ -1,116 +1,159 @@
-> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005184340id_/https%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404014749id_/https%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
 
 # Customer Information | Privacy Policy | AllSaints
 
-All Saints Retail Limited are committed to protecting and respecting your privacy. This policy (together with our [_Terms and Conditions of Website Use_](https://www.allsaints.com/terms_and_conditions#use), our [_Cookie Policy_](https://www.allsaints.com/cookie-policy) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+Version: V2
 
-This Privacy Policy applies to all stores, websites and mobile applications ("App") owned or operated by All Saints Retail Limited ("AllSaints"). AllSaints websites are located at www.allsaints.com, www.us.allsaints.com, www.fr.allsaints.com, and www.de.allsaints.com (the "Sites"). The Sites and the App shall be collectively referred to as the "Services." In this document, "we", "our" and "us" refer to AllSaints, and "you", "your" "user," mean users of the Services.
+Effective Date: 25/05/2018
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. The Privacy Policy, as well as the [_Cookie Policy_](https://www.allsaints.com/cookie-policy) is incorporated into and made a part of our [_Terms and Conditions of Supply_](https://www.allsaints.com/terms_and_conditions). As part of the Terms and Conditions of Supply, the Privacy Policy constitutes a legally binding agreement between you and us. By accessing or using our Services, you agree that you (or your parent or legal guardian) have read, understand, and are bound by the terms and conditions set forth herein. **If you (or your parent or legal guardian) do not agree with any part of this privacy policy or our terms and conditions, please do not use or access the services**.
+ALLSAINTS Retail Limited (“ALLSAINTS”) is committed to protecting and respecting your privacy. This policy (together with our [_Terms and Conditions of Website Use_](https://www.allsaints.com/terms_and_conditions#use) and [_Cookie Policy_](https://www.allsaints.com/cookie-policy)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. **Please note, this Privacy Policy only applies to our EU based customers. Customers from the rest of the world, please refer to your local website at: www.us.allsaints.com; www.es.us.allsaints.com; ca.allsaints.com; www.allsaints.jp or www.allsaints.co.kr**.
 
-For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is All Saints Retail Limited of Units C15-C17 Jacks Place, 6 Corbet Place, London, E1 6NN. 
+This Privacy Policy applies to all stores and mobile applications ("App") owned or operated by ALLSAINTS. It also applies to ALLSAINTS websites located at www.allsaints.com, fr.allsaints.com, es.allsaints.com, it.allsaints.com, www.allsaints.eu, www.allsaints.ie and de.allsaints.com (the "Sites"). The stores, Sites and the App shall be collectively referred to as the "Services." In this document, "we", "our" and "us" refer to ALLSAINTS, and "you", "your" "user," mean users of the Services.
 
-We may collect and process the following data about you:
+Please read the following carefully to understand how we collect, use and store your personal data. The Privacy Policy, as well as the [_Cookie Policy_](https://www.allsaints.com/cookie-policy) is incorporated into and made a part of our Terms and Conditions of Supply. By accessing or using our Services, you agree that you (or your parent or legal guardian) have read, understand, and are bound by the terms and conditions set forth herein.
 
-a) **Information you give us.** You may give us information about you when you use our Services by for example, filling in forms on our Sites or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our Sites, search for a product, place an order on our Sites, enter a competition, promotion or survey, and when you report a problem with our Sites. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description, gender and photograph. If you apply for or inquire about a job opening with us, we may also collect additional information about you, such as your work history and other information in connection with your application.
+For the purpose of the General Data Protection Regulation (GDPR) and the Data Protection Act 2018, the data controller is ALLSAINTS Retail Limited of Units C15-C17 Jacks Place, 6 Corbet Place, London, E1 6NN, UK.
 
-b) **Information we collect about you.** With regard to each of your visits to our Sites we may automatically collect the following information:
+We process following categories of your personal data when it is **necessary for the performance of a contract** between you and us: your salutation, first and last name, email address, delivery and billing address, telephone number and payment card details, web site’s login details.
 
-* Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; 
-* Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our Customer Experience Team. 
+We will also process the above categories of data for the purposes of our legitimate interests set out below:
 
-c) **Information we receive from other sources.** We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
+* for fraud screening and prevention purposes; and/or
+* for record keeping purposes.
 
-We use information held about you in the following ways:
+We process the following categories of data for **marketing** purposes if we have a **legitimate interests** or when you give us your **consent** : email address, name, gender, how you have reached our digital platform and the internet protocol (IP) address you have used, your login information, browser type and version, plug-in, operating system and platform, the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our Customer Experience Team.
 
-a) **Information you give to us.** We will use this information:
+We use your data for the following marketing purposes:
 
-* to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us or to respond to your inquiries; 
-* to provide you with information and marketing materials about other goods and services we offer that are similar to those that you have already purchased or enquired about or to tell you about upcoming events or to carry out surveys or questionnaires for the purposes of improving our Services and your shopping experience; 
-* to provide you with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, we will contact you by electronic means only if you have consented to this; 
-* to notify you about changes to our services or if there is a problem with your delivery; 
-* to ensure that content from our Sites is presented in the most effective manner for you and for your computer; 
-* to investigate the validity of a transaction, in the event that we have a reasonable suspicion of fraud (we conduct routine online fraud prevention measures); 
-* for customer service purposes, to contact you if you have not checked out, to follow up on abandoned shopping carts or to see if there was a problem with your use of the Sites. 
+* to enable us to administer any competitions or other offers/promotions which you enter into; 
+* to communicate with you in the event that any products or services you have requested are back in stock or unavailable; 
+* to communicate with you in the event that you have abandoned your online basket; 
+* to carry out market research so that we can improve the products and services we offer; 
+* to track your activity on our digital platforms; 
+* to create an individual profile for you so that we can understand and respect your preferences; 
+* to personalise and improve your experience on our digital platforms; 
+* to personalise and/or tailor any communications that we may send you; 
+* for profiling purposes to enable us to personalise and/or tailor any marketing communications that you consented to receive from us; 
+* to segment, test, analyse and model your details; and/or
+* Social media targeting; 
 
-b) **Information we collect about you.** We will use this information:
+We may collect some of your information using automatic data collection technologies as you navigate through and interact with the Services. This may include certain information about your equipment, browsing actions and patterns, including, IP address, login information, browser type and version, time zone setting, location, operating system and platform, products viewed, searched for or purchased, page response times, download errors, length of visit to certain pages, page interaction (scrolling, clicks, mouse-overs) and methods used to browse away from the page.
 
-* to administer our Sites and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes; 
-* to improve our Sites to ensure that content is presented in the most effective manner for you and for your computer; 
-* to allow you to participate in any interactive features of our Services, when you choose to do so; 
-* as part of our efforts to keep our Sites safe and secure;
-* to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; 
-* to make suggestions and recommendations to you and other users of our Sites about goods or services that may interest you or them, or to contact you if you have not checked out or to follow up on abandoned shopping carts or to see if there was a problem with your use of the Sites. 
+We may also participate in Facebook's ‘Custom Audience’ service from time to time. This service enables us to display to you personalized advertisements when you visit Facebook’s social media platforms. It works by converting your email address to a unique number that Facebook uses to match to unique numbers that Facebook generates from email addresses of its users. Where we use Facebook Custom Audiences, we will only include you if you have consented to receive marketing from us.
 
-c) **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+For the purposes of this Privacy Policy, “Affiliates” means entities directly or indirectly controlled by, or under common control with us.
 
-Our Services use cookies, "beacons" and other web technologies (collectively, "Web Technologies"). When you visit or interact with our Services we may use Web Technologies to collect information about your usage and device including, without limitation, location based data, device identifier numbers, browsing history, domain name, Internet Protocol (IP) address, browser type, date and time of each visit, the pages you visit, and other information. We may use this information to improve and personalise your experience while using our Services, or while visiting our stores, based on areas we believe may be of interest to you. For example, when you are using our App, we may use location information and unique device identifiers so that we may offer you tailored information about our products while you are physically present in our stores. Information collected from you, including via Web Technologies, may also be used to facilitate, support and improve the technical performance and functioning of the Services.
+Third parties acting on our behalf including our business partners or our Affiliates may use cookies, web beacons or other automatic data collection technologies:
 
-If you use our Services, you are consenting to the use of Web Technologies (including cookies) in accordance with our Cookie Policy. For more information about the types of cookies our Services use, please [_click here_](https://www.allsaints.com/cookie-policy) for our Cookie Policy.
+* to help us measure and determine how visitors use our Sites and the effectiveness of our Sites; 
+* to help us improve and optimize the products and services we or our business partners or Affiliates offer; and/or 
+* to collect your non-personally identifiable information regarding your online behavior to provide you with use-tailored and targeted advertisements. 
 
-In addition, we may offer you additional choices with respect to the use of these Web Technologies. Some of our Web Technologies will only be employed on your device on an opt-in basis, i.e. where you actively choose to receive them. For example, when using the App in a store where the service has been rolled out, you will be prompted to confirm whether you agree to your location data being used so we can make you aware of any special in-store items or promotions. You can withdraw consent at any time by turning off the location services sharing settings for the App on your Device, or by deleting the App.
+We may share information that we collect about you with Affiliates, business partners, suppliers, sub-contractors, marketers, advertisers and advertising networks for marketing and advertising purposes, which may include: (i) sending you direct mail or emails about their products, services, sales, promotions events, news and store openings that may interest you; or (ii) serving ads or adverts that may interest you; or (iii) for data analytics that assist in the improvement and optimisation of products, Services and the Site.
 
-Our policy is to not share the information described above with third parties outside of AllSaints without your prior consent. We may, however, share the information we collect about you in limited circumstances including to: 
+If you have given us your consent, you can change your mind at any time by unsubscribing or by adjusting your preferences in the preference centre.
 
-* Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you. For example: 
-* (a) we pass your delivery address and telephone number to our partner courier companies in case they need to contact you directly if there is a problem with your delivery; 
-* (b) we pass certain personal information to third party payment management companies to enable them to verify your credit or debit card details; 
-* (c) we may pass your details to service providers who help us deliver the App;
-* (d) we pass certain purchasing information and use of discounts to business partners who facilitate such discount schemes, provided you have previously registered with them. 
-* (e) we pass your personal information to business partners who provide us with and assist us in operating customer service management software, designed to improve and manage our interaction with customers and your customer service experience. 
-* Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. 
-* Analytics and search engine providers that assist us in the improvement and optimisation of our Sites and Services. 
-* Service providers whom we may employ to assist us in carrying out and then analysing the results of customer surveys or questionnaires. 
-* Credit reference agencies for the purpose of ensuring that your credit or debit card is not being used without your consent. This is done only to confirm your identity. No credit check is performed and your credit rating will be unaffected. 
+We may monitor or record telephone calls for security purposes and to improve the quality of services that we provide to you.
 
-We may disclose your personal information to third parties:
+Please note that for your safety and security, CCTV is in operation in all of our premises which are open to the public.
 
-* In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
-* If we plan to merge with or be acquired by that third party or in connection with a partial or total sale of assets, bankruptcy, or another corporate change. 
-* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, subpoena or court order or in order to enforce or apply our [_Terms and Conditions of Website Use_](https://www.allsaints.com/terms_and_conditions#use) or our [_Terms and Conditions of Supply_](https://www.allsaints.com/terms_and_conditions) and other agreements. 
-* If we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss to us; prevent or report suspected illegal activity; protect anyone's rights, property, or safety. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
-* If you otherwise consent or direct us to share your information with third parties.
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-If you wish to opt out of receiving marketing emails from AllSaints, you can do so by following the instructions in the email or by logging into your online account, going into "My Account Details" and clicking "Unsubscribe" under the heading "My Subscriptions". 
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-Please note that if you decide to opt out it may take a few days to process your opt-out request and that you may continue to receive promotional or marketing materials during this time. Also, please note that opting out of receiving will not preclude us from sending you other types of non-promotional messages, such as emails confirming transactions. 
+All transactions are secured within the AllSaints app - an SSL encryption system protects your personal and payment data. All payment details are encrypted with our payment provider, plus the option to secure any saved card details using your fingerprint with Apple Touch ID (using iPhone 5s or later) or with facial recognition using Face ID (using iPhone X or later). 
 
-We also provide you with the option to correct and update your account information when you are logged into your account. 
+When using the card scanning feature, we do not store photos of your card. We simply read the card details required for payment. The image is not saved and is deleted immediately after use.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+In common with many other website and app operators, we use standard technology called 'cookies' on our website. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.
 
-We use cyber security best practices to prevent the unauthorised use, access, or disclosure of your personal information. For example, all information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL/TLS technology and card data are processed by PCI compliant payment providers.
+For further, more detailed information on how we use cookies, please refer to our Cookie Policy which you can read [_here_](https://www.allsaints.com/cookie-policy).
 
-While we strive to protect your personal information, no system can ever be 100% secure and we cannot guarantee the absolute security of your personal information; any transmission is at your own risk. You can help protect your online personal data by following these safety tips: 
+We may need to disclose your personal data to our Business partners, suppliers, and sub-contractors as follows:   
 
-* If using a public computer or terminal, always log out and close the browser when you complete an online session. 
-* Keep passwords private. Remember, anybody who knows your password may access your account. 
-* When creating a password, a combination of letters and numbers is best. Do not use dictionary words, your name, email address, or other personal information that can be easily obtained. It is also recommended that you frequently change your password. 
-* Avoid using the same password for multiple online accounts.
-* You should use your own virus protection software and keep it up to date.
-* If there has been (or you suspect) an unauthorised use of your password or account, please notify us immediately. 
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Sites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+A. your delivery address and telephone number to our partner courier companies; 
 
-Our Services are not directed to children under the age of 13 and we do not knowingly collect personal information from children. If you are under the age of 13, please stop using our Services. It is our policy not to knowingly solicit or permit children under the age of 13 to provide their personal information for any purpose.
+B. certain personal information to third party payment management companies to enable them to verify your credit or debit card details; 
 
-If you would like to see a copy of the personal data that we hold on you then please write to: 
+C. your details to service providers who help us deliver the App;
 
-AllSaints Retail Ltd  
-Units C15 - C17 Jack's Place,  
+D. certain purchasing information and use of discounts to business partners who facilitate such discount schemes, provided you have previously registered with them; 
+
+E. personal information to business partners who provide us with and assist us in operating customer service management software, designed to improve and manage our interaction with customers and your customer service experience;
+
+F. advertisers and advertising networks that require the data to select and serve relevant adverts to you and others;
+
+G. analytics and search engine providers that assist us in the improvement and optimisation of our products, Sites and Services; 
+
+H. personal information to business partners that assist us with our marketing efforts; 
+
+I. Service providers whom we may employ to assist us in carrying out and then analysing the results of customer surveys or questionnaires; 
+
+J. Goodwill providers; 
+
+K. Legal insurers. 
+
+We may share information that we collect about you with affiliates, which include other entities directly or indirectly controlled by, or under common control with, us (“Affiliates”), business partners, suppliers, sub-contractors, marketers, advertisers and advertising networks for marketing and advertising purposes, which may include: (i) sending you direct mail or emails about their products, services, sales, promotions events, news and store openings that may interest you; or (ii) serving ads or adverts that may interest you; or (iii) for data analytics that assist in the improvement and optimisation of products, Services and the Site.
+
+We may also disclose your personal information to third parties:  
+
+
+B. if we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss to you or us; prevent or report suspected illegal activity; protect anyone's rights, property, or safety; and/or
+
+C. if you otherwise consent or direct us to share your information with third parties.
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers, business partners or Affiliates. Such parties may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+We use cyber security best practices to prevent the unauthorised use, access, or disclosure of your personal information. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL/TLS technology and card data are processed by PCI compliant payment providers.
+
+You can help protect your online personal data by following these safety tips:
+
+* if using a public computer or terminal, always log out and close the browser when you complete an online session;
+* keep passwords private. Remember, anybody who knows your password may access your account;
+* when creating a password, a combination of letters and numbers is best. Do not use dictionary words, your name, email address or other personal information that can be easily obtained. It is also recommended that you frequently change your password;
+* avoid using the same password for multiple online accounts;
+* you should use your own virus protection software and keep it up to date; and
+* if there has been (or you suspect) an unauthorized use of your password or account, please notify us immediately.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Sites, you are responsible for keeping this password confidential. You must not share your password(s) with anyone.
+
+Our Services are not directed to the individuals under the age of 18. If you are under the age of 18, please stop using our Services. It is our policy not to knowingly solicit or permit anyone under the age of 18 to provide their personal information for any purpose.
+
+You can withdraw your consent and opt out of receiving marketing emails from ALLSAINTS, by following the instructions in the email, or by logging into your online account, going into "My Account" under the heading "My Preferences".
+
+Please note that if you decide to opt out it may take a few days to process your opt-out request and that you may continue to receive promotional or marketing materials during this time. Also, please note that opting out of receiving will not preclude us from sending you other types of non-promotional messages, such as emails confirming transactions.
+
+You have an option to correct and update your account information when you are logged into your account.
+
+You have a right to access, rectify or erase personal data we hold about you. You also have a right to restrict processing of your personal data, right to object to profiling for marketing purpose and right to data portability. If you are the customer and you would like to find out more about your rights or exercise your rights, please email us on [_ask@allsaints.com_](mailto:ask@allsaints.com) or call us on +44 344 980 2211 . If you are current or previous employee, and you would like to find out more about your rights or exercise your rights, please email us on [_hr@allsaints.com_](mailto:hr@allsaints.com).
+
+Alternatively, you can write to us: 
+
+ALLSAINTS Retail Ltd  
+Units C15-C17 Jacks Place,  
 6 Corbet Place,  
 London  
 E1 6NN  
 UK
 
-For the attention of the Data Protection Manager. We reserve the right to charge a small fee to cover our administration costs where we are legally entitled to do so.
+We will provide information to you free of charge and we aim to respond to you within 30 days.
 
-Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our Privacy Policy. 
+If you wish to opt out of receiving marketing and advertising communications from our business partners or Affiliates (and their business partners), you must follow the opt-out instructions in each Affiliate’s communication or applicable privacy policy.
 
-California law permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personally identifiable information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. At this time, AllSaints does not share personal information with third parties for their own direct marketing purposes.
+If you are not satisfied with our handling of your data, you also have a right to lodge a complaint with supervisory authority by writing to the Information Commissioner’s Office at the following address:
 
-In addition, under California law, website operators are required to disclose how they respond to web browser "do not track" signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information of a consumer over time and across third party websites, to the extent the operator engages in that collection. At this time, we do not track our customers' personal information over time and across third-party websites. This law also requires website operators to disclose whether third parties may collect personally identifiable information about their users' online activities over time and across different Sites when the users use the operator's website. AllSaints does not knowingly permit third parties to collect personally identifiable information about an individual consumer's online activities over time and across different web sites when a consumer uses our Services.
+Information Commissioner's Office  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
 
-Our Services may contain links to other sites, such as social networking platforms. Please be aware that we do not endorse and are not responsible for the privacy practices of such other sites. The Privacy Policy presented here does not apply to such sites. If you have any questions about these other companies' data practices, you should review their privacy policies.
+You can also contact the Information Commissioner’s Office using their online form: https://ico.org.uk/concerns/handling/
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to our Customer Experience Team, Units at C15-C17 Jacks Place, 6 Corbet Place, London, E1 6NN or by e-mailing us at ask@allsaints.com.
+This Privacy Policy was last updated in May 2018. Any changes we may make to our Privacy Policy in the future will be posted on this page. Please check this page for any updates or changes to our Privacy Policy.
+
+Our Services contain links to other sites, such as social networking platforms. Please be aware that we do not endorse and are not responsible for the privacy practices of such other sites. The Privacy Policy presented here does not apply to such sites. If you have any questions about these other companies' data practices, you should review their privacy policies.
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to ALLSAINTS, Units C15-C17 Jacks Place, 6 Corbet Place, London, E1 6NN, UK or by emailing us at legal@allsaints.com.
