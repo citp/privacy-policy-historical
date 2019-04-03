@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatrightpro.org privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012162650id_/https%3A//www.eatrightpro.org/about-us/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatrightpro.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403054726id_/https%3A//www.eatrightpro.org/about-us/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
