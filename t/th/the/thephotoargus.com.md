@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thephotoargus.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230145310id_/https%3A//www.thephotoargus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephotoargus.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403143145id_/https%3A//www.thephotoargus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Photo Argus
 
