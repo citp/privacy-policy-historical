@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schneider-electric.co.in privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824093400id_/https%3A//www.schneider-electric.co.in/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.in privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403065835id_/https%3A//www.schneider-electric.co.in/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
 
 # Data Privacy Statement | Schneider Electric
 
@@ -289,7 +289,7 @@ If you want to delete any cookies that are already on your computer or to stop c
 • [Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform=Desktop&hl=en "Instructions for Chrome")   
 • [Mozilla](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences "Instructions for Mozilla")   
 • [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies "Instructions for Explorer")   
-• [Safari](https://support.apple.com/kb/ph21411?locale=en_US "Instructions for Safari").    
+• [Safari](https://support.apple.com/en-us/HT201265 "Instructions for Safari").    
 
 
 **Third-party cookies for analytics purpose  
