@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comixology.eu privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825154426id_/https%3A//www.comixology.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comixology.eu privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403072211id_/https%3A//www.comixology.eu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - (EU) Comics by comiXology
 
