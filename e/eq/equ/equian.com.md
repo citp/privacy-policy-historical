@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equian.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801021522id_/https%3A//equian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equian.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403055524id_/https%3A//www.equian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Equian
 
@@ -40,7 +40,7 @@ We do not use an SSL certificate
 
 **Do we use ‘cookies’?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 **We use cookies to:**
 
@@ -52,8 +52,6 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
 If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
-
-However, you will still be able to place orders.
 
 **Third-party disclosure**
 
