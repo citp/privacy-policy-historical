@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affiliatescout.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109212334id_/https%3A//affiliatescout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatescout.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403211600id_/https%3A//affiliatescout.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – AffiliateScout
+# AffiliateScout
 
 The last update to our Privacy Policy was posted on June 13, 2015. This document governs the privacy policy of our Website, AffiliateScout.com. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.  
 Definitions
