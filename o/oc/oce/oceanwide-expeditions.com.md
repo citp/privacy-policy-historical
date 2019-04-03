@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanwide-expeditions.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214045421id_/https%3A//oceanwide-expeditions.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanwide-expeditions.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403102838id_/https%3A//oceanwide-expeditions.com/page/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy Oceanwide Expeditions
 
