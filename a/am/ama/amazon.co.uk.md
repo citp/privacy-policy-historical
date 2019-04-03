@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225743id_/https%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D201909010) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403233122id_/https%3A//www.amazon.co.uk/gp/help/customer/display.html/ref%3Dfooter_privacy%3Fie%3DUTF8%26nodeId%3D201909010) for the most accurate reproduction.*
 
 # Amazon.co.uk Help: Privacy Notice
 
-Last Updated: 31 October 2018.
+Last Updated: 22 March 2019.
 
-To view a summary of the previous Privacy Notice please [click here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=202166060). 
+To view a summary of the previous Privacy Notice please [click here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=202025290). 
 
 We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This Privacy Notice describes how we collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services").
 
@@ -222,7 +222,7 @@ Examples of information you can access through Amazon Services include:
 
 ##  **EU-US and Swiss-US Privacy Shield**
 
-Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or "We") participate in the EU-US and Swiss-US Privacy Shield Frameworks regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, see [he ****re](https://www.commerce.gov/tags/eu-us-privacy-shield).
+Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or "We") participate in the EU-US and Swiss-US Privacy Shield Frameworks regarding the collection, use, and retention of personal information from European Union member countries, the United Kingdom, and Switzerland. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, see [he ****re](https://www.commerce.gov/tags/eu-us-privacy-shield).
 
 If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: privacyshield@amazon.com. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to TRUSTe, which provides an independent third-party dispute resolution service based in the United States. TRUSTe has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about TRUSTe's dispute resolution services or to refer a complaint to TRUSTe, visit [here](https://www.truste.com/consumer-resources/). If neither Amazon nor TRUSTe resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, see [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
 
