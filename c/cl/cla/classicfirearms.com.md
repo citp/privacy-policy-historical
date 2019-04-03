@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicfirearms.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223192218id_/https%3A//www.classicfirearms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicfirearms.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403041156id_/https%3A//www.classicfirearms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ Our Site is in compliance with PCI vulnerability standards in order to create as
 
 Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not sell, trade, or rent your personal information with third parties, except as necessary for those performing a service or activity that you receive from the site. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 Third party websites
 
