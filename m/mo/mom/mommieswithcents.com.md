@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mommieswithcents.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810034509id_/http%3A//www.mommieswithcents.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommieswithcents.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403163803id_/https%3A//www.mommieswithcents.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Mommies with Cents
 
-This Privacy Policy governs the manner in which Mommies with Cents collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.mommieswithcents.com](http://www.mommieswithcents.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mommies with Cents.
+This Privacy Policy governs the manner in which Mommies with Cents collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.mommieswithcents.com](https://www.mommieswithcents.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mommies with Cents.
 
 **Personal identification information**
 
@@ -58,10 +58,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Mommies with Cents](http://www.mommieswithcents.com/)  
-[http://www.mommieswithcents.com](http://www.mommieswithcents.com/)  
-mommieswithcents@gmail.com
+[Mommies with Cents](https://www.mommieswithcents.com/)  
+[https://www.mommieswithcents.com](https://www.mommieswithcents.com/)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on January 28, 2012
-
-[Powered by Sidelines](http://sidelinesapp.com/)
