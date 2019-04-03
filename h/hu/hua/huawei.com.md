@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213055610id_/https%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403153527id_/https%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Huawei
 
