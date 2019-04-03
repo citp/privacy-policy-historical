@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226113319id_/https%3A//softwareconnect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403175842id_/https%3A//softwareconnect.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Software Connect
 
@@ -194,4 +194,4 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 
 This privacy policy is solely about this Application.
 
-If you have any questions or would like more information on our privacy practices, please contact us at [privacy@softwareconnect.com](mailto:privacy@softwareconnect.com).
+If you have any questions or would like more information on our privacy practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5a5a7bca3b4b6ac95a6bab3a1a2b4a7b0b6babbbbb0b6a1fbb6bab8).
