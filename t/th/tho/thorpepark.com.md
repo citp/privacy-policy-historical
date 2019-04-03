@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122205437id_/http%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403161807id_/https%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for THORPEPARK.com Website
 
@@ -38,7 +38,7 @@ The entity in the **Merlin Group** which was originally responsible for collecti
 
 In relation to potential customers, historic customers and current customers and attraction visitors (" **consumers** "), we collect the following data:
 
-  * Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We will also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site, via our mobile app (more detail listed in section 2.1), subscribing to our service, posting material or requesting further services. We will also ask you for information when you report a problem with our site.
   * Details of any concerns if you contact us with a query or issue.
   * When you complete a survey to tell us how your experience of our attractions or hotels was and how we can improve, although you do not have to respond to them.
   * Details of transactions you carry out through our site and of the fulfilment of your bookings including your credit/debit card details.
@@ -48,6 +48,31 @@ In relation to potential customers, historic customers and current customers and
 
 
 This includes the collection of **contact details** such as your name, address, date of birth, telephone number and email address, **engagement details** including your purchase history and attraction visit history, your **marketing preferences** including interests / marketing list assignments, record of permissions or marketing objections, website data, **device data** including IP addresses and details about your browsing history, browser type, and session frequency and cookies - please see our separate cookie policy [https://www.thorpepark.com/cookie-policy] for further details on cookies.
+
+**2.1 Information Automatically Collected In The THORPE PARK Resort Mobile App  
+** When you use the App, we automatically collect specific data that are required for the use of the App. This data includes:
+
+  * Location, accuracy and date/time periodically throughout the day (only while at the attraction)
+  * Each visit to the resort including date/time first seen and last seen
+  * Operating system
+  * Operating system version
+  * Device name
+  * Battery level
+  * Battery status (charging or not)
+  * Bluetooth status (on or off)
+  * Mobile network carrier name
+  * Currently connected Wi-Fi SSID
+  * Location permission status (on or off)
+  * IP address
+  * User's preferred locale
+  * Current time zone
+  * App version and build number
+  * App interactions (captured as events fed to Firebase Analytics and Keen IO)
+  * Date/time entered/exited geofence region (if you enter an offered geofence region)
+
+
+
+This data is automatically sent to us, (1) so that we can make the service and the associated functions available to you; (2) to improve the functions and features of the App and (3) to prevent misuse and to rectify malfunctions and (4) to offer you a personalized guest experience. This data processing is justified on the basis that (1) the processing is required in order to fulfil the requirements of the contract between you as the data subject and us in accordance with Art. 6(1)(b) GDPR for the use of the App, or (2) we have a legitimate interest in guaranteeing the functionality and fault-free operation of the App and being able to offer a service that is in line with the requirements of the market and with the interests of the users and prevails over your rights and interests in the protection of your personal data in accordance with Art. 6(1)(f) GDPR.
 
 **_Consumers_**
 
@@ -97,7 +122,7 @@ As flagged above, we share data with other Merlin Group companies.
 
 We also share the data with third parties, to help manage our business and deliver services. These third parties may from time to time need to have access to your personal data, and include:
 
-  * _service providers, who help manage our IT and back office systems, and assist with our Customer Relationship Management activities, in particular[Experian](http://www.experian.co.uk/marketing-services/consumer-information-portal/), Accesso, Avius Insight, Zen Desk and Facebook. _
+  * _service providers, who help manage our IT and back office systems, and assist with our Customer Relationship Management activities, in particular[Experian](http://www.experian.co.uk/marketing-services/consumer-information-portal/), Accesso, Avius Insight, Zen Desk, Facebook and Salecycle. _
   * _our regulators, which include the ICO, as well as other regulators and law enforcement agencies in the E.U. and around the world,_
   * _solicitors and other professional services firms (including our auditors)_.
   * _our app team at Attractions_.io
