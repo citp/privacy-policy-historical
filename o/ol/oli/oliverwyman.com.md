@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oliverwyman.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709192809id_/http%3A//www.oliverwyman.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverwyman.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403142243id_/https%3A//www.oliverwyman.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you are a European Union individual, please click ******[here](https://web.archive.org/eu-privacy-policy.html)**.
+If you are a European Union individual, please click ******[here](https://www.oliverwyman.com/eu-privacy-policy.html)**.
 
 1             Privacy Policy
 
@@ -90,7 +90,7 @@ Marketing
 
 6             Cookies policy
 
-We use cookies on the websites.  To find out more about how we use cookies, please see our Cookies Policy [here](https://web.archive.org/cookie-policy.html).
+We use cookies on the websites.  To find out more about how we use cookies, please see our Cookies Policy [here](https://www.oliverwyman.com/cookie-policy.html).
 
 7             Changes to our Privacy Statement and/or Cookies Policy
 
