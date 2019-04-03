@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027202930id_/https%3A//www.bulletproof.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403074804id_/https%3A//www.bulletproof.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,7 +63,7 @@ Choice/Opt-Out
 
 You may choose to stop receiving our newsletter or marketing emails from us by following the unsubscribe instructions included in these emails, or you can contact us [support@bulletproof.com](mailto:support@bulletproof.com).
 
-Cookies and Other Tracking Technologies
+### Cookies and Other Tracking Technologies
 
 We and our service providers use cookies and other tracking mechanisms to track information about your use of our Website. We or our service providers may combine this information with other personal information we collect about you.
 
