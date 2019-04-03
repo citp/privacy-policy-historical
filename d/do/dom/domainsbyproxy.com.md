@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the domainsbyproxy.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508021342id_/https%3A//www.domainsbyproxy.com/policy/ShowDoc.aspx%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsbyproxy.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403233845id_/https%3A//www.domainsbyproxy.com/policy/ShowDoc.aspx%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Last Revised: April 26, 2018**
+**Last Revised: April 1, 2019**
 
-_**NOTICE**_ :  **The Privacy Policy below will become   _effective May 25, 2018_. To view the current Privacy Policy, click [here](http://www.domainsbyproxy.com/policy/ShowDoc.aspx?pageid=27895).**  
+_**To view our archived Privacy Policy, click  [here](http://www.domainsbyproxy.com/policy/ShowDoc.aspx?pageid=27895).**_ _ _  
 
 Domains By Proxy cares about your privacy.  For this reason, we collect and use personal data only as it might be needed for us to deliver to you our world-class products, services, websites and mobile applications (collectively, our “Services”). Your personal data includes information such as:
 
@@ -41,7 +41,7 @@ However, we also collect additional information when delivering our Services to 
 
 **Cookies**   **and similar technologies**  on our websites and our mobile applications allow us to track your browsing behavior, links clicked, items purchased, your device type, and to collect various data, including analytics, about how you use and interact with our Services. This allows us to provide you with more relevant product offerings, a better experience on our sites and mobile applications, and to collect, analyze and improve the performance of our Services. We may also collect your location (IP address) so that we can personalize our Services. For additional information, and to learn how to manage the technologies we utilize, please visit our [Cookie Policy](http://www.domainsbyproxy.com/policy/ShowDoc.aspx?pageid=24668).   
 
-**Data about Usage of Services**  is automatically collected when you use and interact with our Services, including metadata, log files, cookie/device IDs and location information. This information includes specific data about your interactions with the features, content and links (including those of third-parties, such as social media plugins) contained within the Services, Internet Protocol (IP) address, browser type and settings, the date and time the Services were used, information about browser configuration and plugins, language preferences and cookie data, information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and error data, and some of this data collected might be capable of and be used to approximate your location. 
+**Data about Usage of Services**  is automatically collected when you use and interact with our Services, including metadata, log files, cookie/device IDs, page load time, server response time, and approximatelocation information to measure website performance and improve our systems, including optimizing DNS resolution, network routing and server configurations. Specifically, interactions with the features, content and links (including those of third-parties, such as social media plugins) contained within the Services, Internet Protocol (IP) address, browser type and settings, the date and time the Services were used, information about browser configuration and plugins, language preferences and cookie data, information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and error data is collected.
 
 **Supplemented Data  **may be received about you from other sources, including publicly available databases or third parties from whom we have purchased data, in which case we may combine this data with information we already have about you so that we can update, expand and analyze the accuracy of our records, identify new customers, and provide products and services that may be of interest to you.  If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
@@ -74,6 +74,8 @@ Often, much of the data collected is aggregated or statistical data about how in
 
 We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilizing, sharing or retaining your personal data for any purpose other than as they have been specifically contracted for (or without your consent).
 
+We may also share your information with third parties for the purpose of facilitating/allowing a merger, acquisition or sale of all or substantially all of our assets, in which case the acquiring company may continue to utilize your data in the manner for which it was provided and intended.
+
 **Communicating with you.  **We may contact you directly or through a third party service provider regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. ** ** We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests. You don’t need to provide consent as a condition to purchase our goods or services. These contacts may include:
 
   * Email
@@ -93,7 +95,7 @@ If you make use of a service that allows you to import contacts (ex. using email
 
 **Compliance with legal, regulatory and law enforcement requests**. We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical.
 
-To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. We will also share your information to the extent necessary to comply with ICANN or any ccTLD rules, regulations and policies when you register a domain name with us.
+To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. We will also share your information to the extent necessary to comply with ICANN or any ccTLD rules, regulations and policies when you register a domain name with us. For reasons critical to maintaining the security, stability and resiliency of the Internet, this includes the transfer of domain name registration information to the underlying domain registry operator and escrow provider, and publication of that information as required by ICANN in the public WHOIS database.
 
 **Website analytics**.  We use multiple web analytics tools provided by service partners such as Google Analytics, MixPanel and Singular to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by managing your settings through our [Cookie Policy](http://www.domainsbyproxy.com/policy/ShowDoc.aspx?pageid=24668) or the ‘cookie banners” that may be presented (depending on URL of website visited) when you first visit our webpages, or by utilizing settings in your browser or third-party tools, such as [Disconnect](https://disconnect.me/disconnect), [Ghostery](https://www.ghostery.com/) and others.
 
@@ -112,6 +114,10 @@ Go Daddy Operating Company, LLC is responsible for the processing of personal da
 With respect to personal data received or transferred pursuant to each Privacy Shield Framework, Go Daddy Operating Company, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Go Daddy Operating Company, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+
+In compliance with the Privacy Shield Principles, Go Daddy Operating Company, LLC commits to resolve complaints about our collection or use of your personal information.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us in any manner provided in the " **CONTACT US** " section below in this Privacy Policy. 
+
+Go Daddy Operating Company, LLC has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU and Switzerland in the context of the employment relationship.
 
 **How you can access, update or delete your data.**
 
@@ -149,23 +155,21 @@ We reserve the right to modify this Privacy Policy at any time. If we decide to 
 
 **Data Protection Authority.**
 
-If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the German Federal Commisioner for Data Protection and Freedom of Information (Die Bundesbeauftrafte für den Datenschutz und die Informationsfreiheit), as noted below:
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to your local supervisory authority or our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
 
-Husarenstraße 30
+[www.ico.org.uk](http://www.ico.org.uk/)
 
-53117 Bonn, Germany
+Information Commissioner’s Office
 
-Phone: +49 228 997799 0; +49 228 81995 0
+Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom
 
-Fax: +49 228 997799 550; +49 228 81995 550
-
-e-mail: poststelle@bfdi.bund.de    
+Phone: 0303 123 1113
 
 **Contact us.**
 
-If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at [privacy@domainsbyproxy.com](mailto:privacy@domainsbyproxy.com).  In the alternative, you may contact us by either of the following means:
+If you have any privacy-related questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at [privacy@domainsbyproxy.com](mailto:privacy@domainsbyproxy.com).  In the alternative, you may contact us by either of the following means:
 
-  * By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal/DatenSchutz, Hansestr. 79, 51149 Cologne, Germany. 
+  * By Mail: Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal, Office of the DPO, 5th Floor, The Shipping Building, Old Vinyl Factory, 252-254 Blyth Road, Hayes, UB3 1HA. 
   * By Phone: [#supportphone#].
 
 
