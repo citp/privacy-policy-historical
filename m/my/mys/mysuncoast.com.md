@@ -1,83 +1,137 @@
-> *The following text is extracted and transformed from the mysuncoast.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027171919id_/http%3A//www.mysuncoast.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysuncoast.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403221351id_/http%3A//www.mysuncoast.com/2018/09/19/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Site | mysuncoast.com
+# Privacy Policy
 
-**This Web Site's Privacy Policy**
+_**Introduction**_ We at Gray Television, Inc. (“GTI”), along with our television stations (“Stations”), respect your privacy. We have adopted this Privacy Policy to explain what information about you we collect, how we use it, and how we share it. We provide a link to this Privacy Policy wherever it applies, such as on our Station web sites, our mobile apps, our social networking presence on Facebook and other platforms, and other online services that we provide and control (“Services”). By using our Services, you accept our practices as described in this Privacy Policy.
 
-This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with wwsb-TV ("wwsb-TV"). wwsb-TV is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and wwsb-TV (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
+This Privacy Policy does not apply to services offered by other companies or individuals, even if a product or site is linked to our Services and even if a relationship exists between GTI and a third party (see [Your Choices](https://www.wjhg.com/content/news/?article=158509635#choices) below).
 
-Although we respect the privacy of all those who visit the Web site and use our online services, we do collect information from our Web site's members and visitors. This Privacy Policy governs your interaction with the Web site, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web site's members and visitors without their permission.
+When you use our Services, we may access or collect personal information about you and non-personal information. This information is accessed and collected in a variety of ways, including: 
 
-Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web site's Privacy Policy, or to raise any other issue regarding the Web site, please e-mail us at [wwsbwebmaster@mysuncoast.com](mailto:wwsbwebmaster@mysuncoast.com "mailto:wwsbwebmaster@mysuncoast.com").
+  * You voluntarily submitting information to us via our Services for you to enjoy a particular Service, such as an email address in order to deliver news updates or a phone number to let you know that you won a contest; and
+  * Us automatically collecting information about how you use our Services, including through the operating system of your mobile device (in the case of our mobile apps) or through analytics tools to determine when you use our Services and how you interact with our content.
 
-**The information we gather**
 
-We gather two types of information about this Web site's users:
 
-(1) Non-personally identifiable information: When visitors come to the Web site, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Web site. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
+Our Services may access or collect the following data:
 
-The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Web site, identify the most popular areas of the Web site, and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
+  * Information that identifies you, including:
+  * Information you voluntarily provide, which may include account information, name, email address, user credentials, age, address, and/or phone number;
+  * Location Data such as GPS, WiFi, or carrier network location (see [Location Data](https://www.wjhg.com/content/news/?article=158509635#location) below); and
+  * User files stored on your device or system (for example, calendar, picture, and video files) that you voluntarily provide.
+  * What you do on your device, system, or software when you use our Services, including access to and information about:
+  * Camera use
+  * Local storage
+  * Phone dialer
+  * Use of screen, such as what points are touched, frequency, etc.
+  * Patterns of app usage
+  * Device or system information
+  * Mobile Device Identifier, e.g., UDID, Android ID
+  * Technical information about your device and system and application software, e.g., type of phone, operating System (OS), and IP address
+  * Information drawn from other sources, such as social networks, mobile platforms, and our affiliates, vendors, advertisers, and various other providers of data.
 
-For the same purposes, we use "cookies"---that is, small text files placed on your computer's hard drive---to help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the Web site, and your usage of our services offered via the Web site. Cookies also tell us which advertising you have seen on the Web site. At certain times, we may use outside advertising companies to display advertisements on the Web site that may contain cookies ("banner ads"). These banner ads collect information stored by the advertising company and we do not have access to this information.
 
-Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Web site. Nevertheless, you are able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
 
-(2) Personally identifiable information: In certain areas of the Web site, such as online surveys and contests, the Web site may require that you provide personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). wwsb-TV, as host of the Web site, has access to this information. In addition, when registering to set up an account to use certain services of the Web site such as e-mail, chat rooms, and forums, or to receive certain newsletters or specifically targeted information ("Services"), we do require that you provide a valid e-mail address.
+We may collect personal information about other people when you submit it to us, such as by participating in a promotion or contest or when you submit news stories or nominations to us. By providing us with the personal information of others, you represent that you have the legal right to do so.
 
-We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the Services of the Web site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
+We may obtain location data from your device to provide location-related services, for example, weather alerts or breaking news alerts. Your location information may be shared with third-parties that we have contracted with to perform the location-based features of our Services or collected by and/or shared with our third-party partners who help to provide you personalized advertisements.
 
-We do not control the acts of this Web site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside this Web site or wwsb-TV. In the event that you encounter any user on this Web site who is improperly collecting or using information about you or other users, please contact [wwsbwebmaster@mysuncoast.com](mailto:wwsbwebmaster@mysuncoast.com "mailto:wwsbwebmaster@mysuncoast.com").
+We will ask for your permission before collecting this location data. You can withdraw consent to use precise, real-time or network location data at any time by turning off the location-based feature on your mobile device or by opting out of using any location-based features. If you withdraw consent, functionality associated with precise, real-time or network location may be limited. For more information about your choices regarding location data, see [Your Choices](https://www.wjhg.com/content/news/?article=158509635#choices) below.
 
-**How we use (and do not use) the information we gather**
+_**Cookies and Similar Technologies; Do Not Track**_
 
-Please take some time to familiarize yourself with the different ways we use the information that we gather. Keep in mind that, while we encourage all third parties involved---including affiliates and advertisers---to adhere to our policies regarding the privacy of this Web site's visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with us who you feel is improperly collecting or using information about you, please contact [wwsbwebmaster@mysuncoast.com](mailto:wwsbwebmaster@mysuncoast.com "mailto:wwsbwebmaster@mysuncoast.com"); we will be happy to forward your message to the third party.
+A "cookie" is a small text file stored on your device that helps us recognize repeat visitors, personalize your experience, deliver Services efficiently, monitor how our Services are used, deliver customized advertising, and for other purposes.
 
-(1) How we use (and do not use) non-personally identifiable information: We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of the Web site's members and visitors, and by measuring demographics and interests regarding specific areas of the Web site. We provide statistical information based on this data to advertisers, affiliates, and other current and potential business partners. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites.
+Web beacons are also known as “web bugs,” pixel tags, or clear GIFs. These are small, transparent graphic images that are placed on a web page or in an email and used to monitor the activity of the user accessing that web page or email. Web beacons are used for website traffic reporting, measuring advertising effectiveness, customizing users’ online experiences, and for other purposes.
 
-The Web site may contain links to other Internet web sites, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information (such as IP number, browser type, or operating system) collected when visitors to the web site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites.
+Like most online operators, we use cookies, web beacons, and other similar technology to collect information automatically, deliver Services, tailor your experience, monitor how our Services are used, improve them, and deliver customized advertising, as well as for other related purposes. We will continue to add new technology to our Services, which may collect information about you and your use of our Services.
 
-(2) How we use (and do not use) personally identifiable information: We provide notice to potential registrants of this Web site whose personally identifiable information will be collected during the registration process. Such notice is provided simultaneously with your registration with this website; moreover, this Privacy Policy itself serves as notice that such information is collected under those circumstances. You may not "opt in" to the registration process if you wish to have access to Services, and you may choose to "opt in" to receiving promotional materials from us and/or our affiliates, advertisers, or other business partners. If you "opt in" to receiving such promotional materials, we reserve the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at [wwsbwebmaster@mysuncoast.com](mailto:wwsbwebmaster@mysuncoast.com "mailto:wwsbwebmaster@mysuncoast.com").
+You may configure your browser to reject cookies. But doing so could make it difficult to use and enjoy our Services. We do not honor a web browser's "do not track" signals.
 
-We limit our own e-mail contact and solicitations to those customers who have "opted in" to receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature.
+We use the information we collect to provide, protect, and improve our Services, to develop new ones, and to protect GTI, our Stations, and our users. For example, we and our vendors use your information to provide:
 
-In addition, we sometimes use demographic data to decide which advertisements and sponsor messages to show to which members. As an example, if Sponsor XYZ wishes to display their advertising only to female members of this Web site, we use member registration data to ensure that Sponsor XYZ's ads are displayed only to female members.
+  * Tailored content, features, and advertisements, including offers from us, our affiliates, and our advertisers (see [Advertising and Personalized Content](https://www.wjhg.com/content/news/?article=158509635#content) below);
+  * Automated updates concerning news, sports, weather, or emergencies;
+  * Mobile apps and services;
+  * Polls and surveys;
+  * Contests, sweepstakes, and other promotions;
+  * Shopping and e-commerce;
+  * Chat features, blogs, message boards, comment boards, social networking, and other opportunities for you to submit your content; and
+  * Responses to your comments and questions.
 
-Finally, we may use individual members' data to "pre-populate" forms, which are displayed for the purpose of collecting individual data by us and/or our sponsors. In no case does pre-populating a form transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place---for example, if/when a member clicks a "submit form" button or other button.
 
-We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
 
-If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
+We may also use the data we collect to:
 
-**Security**
+  * Perform analytics and improve our products and Services;
+  * Develop reports regarding usage, activity, and statistics;
+  * Comply with applicable laws, regulations, and legal process;
+  * Protect someone’s health, safety, or welfare;
+  * Protect our rights, the rights of affiliates or related third-parties, or take appropriate legal action, such as to enforce our [GTI Terms of Use Agreement](https://www.wjhg.com/content/news/?article=158511785);
+  * Keep a record of our transactions and communications;
+  * Facilitate the provision of software updates and product support;
+  * Improve products and other Services or provide Services or technologies to you;
+  * Connect non-personal information we automatically collect with personal information you provide to us or connect personal information about you from various sources; or
+  * Contact you through information you provide, including any email address, telephone number, or fax number.
 
-All information gathered on the Web site is stored within a controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [wwsbwebmaster@mysuncoast.com](mailto:wwsbwebmaster@mysuncoast.com "mailto:wwsbwebmaster@mysuncoast.com").
 
-**Changing/deleting personal information**
 
-If you would like to have your personally identifiable information changed or removed from our database, please contact us at [wwsbwebmaster@mysuncoast.com](mailto:wwsbwebmaster@mysuncoast.com "mailto:wwsbwebmaster@mysuncoast.com"), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.
+We will continue to incorporate new technology into our Services and our business for these purposes and related purposes.
 
-**Third-Party Ad Serving**
+_**Disclosure of Your Information to Third Parties**_
 
-We use third-party advertising companies to serve ads when you visit this Web site. These companies may use information (not including your name, address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at [wwsbwebmaster@mysuncoast.com](mailto:wwsbwebmaster@mysuncoast.com "mailto:wwsbwebmaster@mysuncoast.com"), or click here http://www.networkadvertising.org/optout_nonppii.asp.
+We do not share your personal information with companies, organizations, or individuals outside of GTI and its Stations, except as described in this Privacy Policy, including:
 
-**Questions?**
+  * With your consent;
+  * To provide the Services that you access or request, complete transactions you initiate, or otherwise fulfill your requests;
+  * With GTI affiliates for business, operational, promotional or marketing purposes;
+  * With advertisers if you participate in a co-branded, co-sponsored, or jointly presented promotion, contest, or other Service;
+  * With advertisers, network advertising services, and/or other third parties as described in the section below (see [Advertising and Personalized Content](https://www.wjhg.com/content/news/?article=158509635#content) below);
+  * With our vendors or service providers, who are generally restricted from using your personal information for any purpose other than that for which we hire them;
+  * To protect the security of our Services or databases;
+  * To protect the rights or property of our users, GTI, its affiliates, our advertisers, or our vendors and service providers;
+  * To implement or enforce our company policies, the GTI Terms of Use Agreement, the GTI Copyright Complaint Procedures, or agreements that we may enter into with you;
+  * To respond to subpoenas, legal process or government requests, or investigations;
+  * To act in response to an emergency or situation that threatens the life, health, or security of an individual;
+  * To assist in the investigation of a violation (or presumed violation) of law, or if we believe in good faith that the law requires or authorizes such disclosure; or
+  * In connection with any proposed or actual sale, lease, merger, assignment, re-organization, or financing of all or any portion of GTI or our Stations.
 
-Questions regarding this Privacy Policy should be directed to us at [wwsbwebmaster@mysuncoast.com](mailto:wwsbwebmaster@mysuncoast.com "mailto:wwsbwebmaster@mysuncoast.com").
 
-The Digital Millennium Copyright Act of 1998 (the "DMCA") provides copyright owners who believe that material appearing on the Internet infringes their rights under U.S. copyright law certain rights.  If you believe in good faith that materials hosted by Southern Broadcast Corporation of Sarasota infringe your copyright, you (or your agent) may send us a notice requesting that the material be removed, or access to it blocked. The notice must include the following information:
 
-(i)    a physical or electronic signature of a person authorized to act on behalf of the copyright owner of the allegedly infringed work;
+Non-personal information collected from you does not identify you personally, and we may disclose non-personal information to third parties for any purpose.
 
-(ii)    identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+_**Advertising and Personalized Content**_
 
-(iii)    identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
+Advertising is important to our provision of free and low-cost Services to you. We may share your personal information with our advertisers, advertising networks, or other third parties for direct marketing and promotional purposes. Additionally, GTI and its Stations, our advertisers, certain outside network advertising services, and other third-parties may place cookies, web beacons, and other similar technology on your device to personalize your experience, collect information about your preferences, collect location information, and/or deliver customized advertising content.
 
-(iv)    information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address;
+Advertisers and other third parties involved in the delivery of ads to you may offer you opportunities to choose what type of information about you is collected, used, and shared, and how that is done. We do not control outside parties or the choices they may offer you – please contact them directly to learn about your choices. For more information about your options for receiving personalized advertisements, see [Your Choices](https://www.wjhg.com/content/news/?article=158509635#choices) below.
 
-(v)    a statement that you have a good faith belief that use of the material in the manner complained of is not authorized by you, your agent, or the law;
+_**California “Shine the Light Act”**_
 
-(vi)    a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+If you reside in California and have an established business relationship with us, you may have the right to receive information about how we share your personal information with our affiliates or third parties, such as our advertisers. If you wish to learn about our practices, please send a written request to the contact information identified below at the end of the Privacy Policy, including your full name, street address, city, state, and zip code; the name of the Service about which you are requesting information; and a statement that your request is pursuant to the California “Shine the Light” Act. GTI is not able to provide information about how companies outside GTI might use or disclose your information.
 
-All notices described above should be sent to wwsbdigitaldirector@mysuncoast.com.
+_**Safeguarding Children’s Privacy**_
 
-Please note that under Section 512(f) of the DMCA any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+We do not knowingly collect personal information online from children under 13 years of age. If we discover that we have inadvertently collected personal information online from children under 13, we will endeavor promptly to destroy such information or remove any identifying details.
+
+_**Accessing Account Information**_
+
+Certain GTI Stations and Services may allow you to register for an account and update your account information. If these functions are available, you may view your user profile and related information, and request changes to such information. When you request a change to your personal information linked to an account, we try to honor your request subject to certain limitations. We will retain your personal information as needed to provide the Services, as required by our corporate policies or applicable law, and as needed to protect the rights and property of GTI and its users. Additionally, changes to account information may not occur in all copies or back-ups held by us or others, or if we determine that the change would be unduly expensive or burdensome. We may deny a request to access or change account information if we believe there is a question about the identity or authority of the requester.
+
+We take steps to protect the security of the information you provide us. Yet, no security is perfect, and transmissions over the Internet are potentially vulnerable. Please use caution when disclosing your personal information.
+
+  * _Location Information:_  We will ask for your permission before collecting precise, real-time, or network location information. It is your choice whether or not to allow for the collection of this location information, and you can withdraw consent to use this location information at any time by turning off the location-based feature on your mobile device or by opting out of using any location-based features. If you withdraw consent, functionality associated with precise, real-time, or network location may be limited.
+  * _Other Websites and Platforms:_  If you choose to use any of the links we provide to third-parties, you will be leaving our Services and going to a new site or platform. Our Privacy Policy does not apply to services offered by other companies or individuals, even if a product or site is linked to our Services and even if a relationship exists between GTI and a third party. Protection of your privacy at those other sites or platforms will be governed by the privacy policy at that site or platform. GTI and our Stations have no responsibility for the privacy policies or business practices of a third party we neither own nor control. Please take the time to read the privacy policies at these third-party sites or platforms. It is your choice whether or not to leave our Services and go to third-party sites or platforms.
+  * _Advertising and Personalized Content:_  To opt-out of receiving personalized advertising, please visit the Network Advertising Initiative Consumer Opt-Out Page at <http://www.aboutads.info/choices>, the Digital Advertising Alliance Consumer Choice Page at <http://www.aboutads.info/choices>. Please be aware that opting out of a network advertising service doesn’t mean that you won't receive online ads. It only means that the network from which you opted out should no longer deliver ads tailored to your preferences and interests.
+
+
+
+_**Changes to the Privacy Policy**_
+
+We may change this Privacy Policy from time to time. We will post any changes to this page, and if the changes are significant, we will provide a more prominent notice. By using our Services following a change to this Privacy Policy, you accept our practices as described.
+
+If you have questions or comments regarding this Privacy Policy, please e-mail us at [privacyrights@gray.tv](mailto:privacyrights@gray.tv) or via postal mail to:
+
+4370 Peachtree Rd. NE Atlanta, GA 30319
+
+Copyright © 2019 Gray Television, Inc. All Rights Reserved.
