@@ -1,198 +1,72 @@
-> *The following text is extracted and transformed from the timetotrade.eu privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604032955id_/http%3A//www.timetotrade.eu/wiki/index.php/Data_Protection_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetotrade.eu privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403231622id_/https%3A//platform.timetotrade.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Data Protection Policy - Timetotrade
+# Privacy Policy
 
-### From Timetotrade
+**TigerWit Limited (“TigerWit”, “we”, “us”, “our”) is subject to data protection legislation in the UK. We are therefore committed to protecting your privacy and maintaining the security of any personal information that we receive from you. If this Policy changes, we will place an updated version on this page.**
 
-**Statement of policy**  
+The purpose of this policy is to explain to you what personal information we collect and how we and our associated companies may use it. We take client privacy very seriously and train our staff on their privacy obligations. 
 
+**Who we are**
 
-**timetotrade** is a trading name of Sensatus (UK) Ltd. 
+TigerWit Limited is a private limited company registered company in the UK under registration number 09479466, and is authorised and regulated by the FCA under registration number 679941. Our registered address is 7th Floor, Augustine House, 6A Austin Friars, London, EC2N 2HA, United Kingdom. We provide online trading platforms for customers who wish to trade in equities and over the counter products such as CFD’s and Forex.
 
-Sensatus (UK) Ltd (“Sensatus”, “the company” “we”, “us”) is fully committed to compliance with the requirements of the Data Protection Act 1998 (“the Act”), which came into force on the 1st March 2000. Sensatus will therefore follow procedures that aim to ensure that all employees, contractors, agents, consultants, partners or other servants of the company who have access to any personal data held by or on behalf of the company, are fully aware of and abide by their duties and responsibilities under the Act. 
+This Privacy Policy along with the Privacy Notice details how we collect and process personal data, how you can request access to your data, and what you can then do with it or instruct us to do with it.
 
-Sensatus regards the lawful and correct treatment of personal information as very important to its successful operations and to maintaining confidence between Sensatus and those with whom it carries out business. Sensatus will ensure that it treats personal information lawfully and correctly. 
+ **How we obtain your information** We receive or collect personal information about you through your registration and application, and any subsequent emails, letters, telephone calls and conversations made in the course of our relationship with you. In accordance with UK data protection legislation this information is securely stored to prevent unauthorised access.
 
-To this end Sensatus fully endorses and adheres to the Principles of Data Protection as set out in the Data Protection Act 1998. 
+ **How we check your identity** To comply with money laundering regulations we have a legal obligation to confirm that certain aspects of the information that you have supplied are true and correct. This process is commonly called “Know Your Client” or “KYC” . We will ask you to submit personal information through the application form, and the application process will involve electronic verification of such data via commercially available third party sources, such as a credit reference company. Our search is not seen or used by lenders to assess your ability to obtain credit.
 
-These principles state that personal data must be:- 
+Where we are unable to verify your identity to the standards required by us we may ask you to send us copies/scans of documentation such as a passport or utility bill.
 
-  * Fairly and lawfully processed 
-  * processed for specified and lawful purposes and not in any other way which would be incompatible with those purposes 
-  * adequate, relevant and not excessive 
-  * accurate and kept up to date 
-  * not kept for longer than is necessary 
-  * processed in line with the data subject’s rights 
-  * kept secure 
-  * not transferred to a country which does not have adequate data protection laws 
+ **Using your information** We may process your information for one or more lawful bases of processing depending on the purpose for which we use your data. For example, we may send you marketing material from time to time by email, telephone, SMS or other electronic messaging services on the basis that you have given us consent or if it is in our legitimate interest to do so. If you do not then wish to receive marketing information from us you will be able to opt out electronically at any time.
 
+Your personal information may be disclosed to:
 
+  * service providers who have been contracted to provide us with IT, financial, administrative, regulatory, compliance, or other services
+  * introducing brokers with whom we have a mutual relationship
+  * courts, tribunals and regulatory authorities as authorised by law
+  * credit reporting or reference agencies
+  * anyone authorised by you to receive such information such as Money Manager
 
-**What do we do?**  
 
 
-Sensatus (UK) Ltd provides charting and technical analysis alerting tools for securities such as stocks and options traded in regional markets (“Securities”) using, including but not limited to, electronic mail, instant messenger application, text messages, Java applications and such other methods as Sensatus may find appropriate from time to time (the "Notification Services"). 
+Generally we require that external organisations who handle or obtain personal information acknowledge the confidentiality of this information, undertake to respect any individual’s right to privacy, and comply with all the relevant data protection laws applicable to them. Please note that the use of your personal information by external third parties who act as data controllers of your personal information is not covered by this privacy notice and is not subject to our privacy standards and procedures.
 
-Sensatus provides accountancy solutions for managing investment transactions and tax returns for securities such as stocks and options (the "Accountancy Services"). 
+We may transfer your personal information outside the European Economic Area to other Tigerwit group companies as well as processors who are engaged on our behalf.
 
-Sensatus also provides portfolio management and performance reporting solutions for securities such as stocks and options (the “Portfolio Management Services”). 
+Joint Accounts: Where you have applied for an account with a third party (i.e. a joint account) your information may be visible to those third parties.
 
-The Notification Services, Accountancy Services and Porfolio Management Services will be collectively referred to as the "Services". The Services are hosted on secure servers and delivered directly over the internet via the website www.timetotrade.eu (the "website"). 
+ **How we store your personal information and for how long.** We take very seriously the safeguarding and privacy of your personal information, whether you interact with us personally, by phone, by mail, over the internet or any other electronic medium. We hold personal information in a combination of secure computer storage facilities and paper-based files and other records, and take steps to protect the personal information we hold from misuse, loss, unauthorised access, modification or disclosure. 
 
-**What information do we collect?**  
-The Act provides conditions for the processing of personal data. Personal data is data that can be used to identify individuals, and includes name, mailing address, telephone number, credit card number and email address. 
+When we consider that personal information is no longer needed, we will remove any details that will identify you or we will securely destroy the records. However, there are some legal and regulatory obligations that we must adhere to which means that we need to maintain some records for a significant period of time. For example, we are subject to certain anti-money laundering laws which require us to retain copies of the documents we used to comply with our customer due diligence obligations, and supporting evidence and records of transactions with you and your relationship with us for a period of up to seven years after our business relationship with you has ended. Any personal information in the form of a recorded communication, by telephone, electronic, in person or otherwise, will be held in line with local regulatory requirements, currently for up to seven years after our business relationship with you has ended. Where you have opted out of receiving marketing communications we will hold your details on our suppression list so that we know you do not want to receive these communications.
 
-Sensatus is required to maintain certain personal data about living individuals for the purposes of satisfying operational and legal obligations and in order to carry on its business and meet its customers’ requirements effectively. 
+We train our employees who handle personal information to respect the confidentiality of customer information and the privacy of individuals. We regard breaches of your privacy very seriously and will impose appropriate penalties, including dismissal where necessary.
 
-When you register for the Sensatus Services, we will collect your name, country of residence and email address. In addition, certain personal data is required for us to supply the products and services that you have requested. If you request to use the Notification Services we will collect your mobile telephone number. If you request to use the Accountancy and Portfolio Management Services we will collect your investment transaction history. 
+ **If TigerWit Ltd is involved in an acquisition or restructuring, your information may be shared with the acquiring/acquired entity if it is in our legitimate interest to do so or if we are provided to comply with any legal obligation to do so.**
 
-  
-**How do we use Personal Data**  
-Personal data is required for us to supply the Services that you have requested, carry out an agreement with you or take any steps that you have requested. Examples of additional required uses of your personal data include: 
+ **Transaction Activity:** your trading activity remains the property of TigerWit Ltd and may be used by us where we have a legitimate interest to do so or to comply with any legal obligations we may have. Where your trading activity is revealed to third parties your actual identity will remain private.
 
-  * Updating you as to the status of your order 
-  * Alerting you to important product revisions or updates to an Sensatus product/service you purchased 
-  * Ensuring that you are properly registered to receive technical support 
+ **Prevention of terrorism and crime** Where we are required by law, your personal information may also be disclosed to an applicable governmental, regulatory or enforcement authority. These authorities may then use your personal information to investigate and act on any breach of law or regulatory rules in accordance with their procedures. Whilst we can advise such authorities as to their privacy obligation we cannot control their use of your data.
 
+ **We record all phone calls** with you in case we need to check we have carried out your instructions correctly, to resolve queries or disputes, for regulatory purposes, to help improve our quality of service, and to help detect or prevent fraud or other crimes. Conversations may also be monitored for staff training purposes.
 
+ **You may obtain a copy of all the personal information that we hold on you by making a Subject Access Request.** Normally we will respond to your request within one month and no fee will apply. However if the request is manifestly unfounded or excessive, or repetitive in its nature, we may either extend the time to respond and/or charge a reasonable fee, or refuse to deal with the request. Your rights in relation to your personal data are outlined in our [Privacy Notice](https://web.archive.org/info/privacy-notice).
 
-In the event that you submit personal data by telephone, Sensatus may monitor or record your call to: 
+ **What is a Cookie and how do we use them?** Cookies are small pieces of text stored on your computer or mobile device when you visit a website or app. Cookies help us determine the type of browser and settings you are using, where you have been on the website or in the app, when you return to the website or app, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience, including presenting relevant content according to your needs or preferences. We may also use independent external service providers to track the traffic and usage on the website. See our [Cookie Policy](https://web.archive.org/info/cookies) for more information.
 
-  * Provide evidence of your order or transaction with us 
-  * Ensure that we comply with relevant regulatory procedures 
-  * See that quality standards or targets are being met 
-  * Protect the interests of national security 
-  * Prevent or detect crime 
-  * Investigate the unauthorised use of a telecommunications system 
-  * Secure the effective operation of our telecommunications system   
+Information on deleting or controlling cookies is available at [www.AboutCookies.org](https://www.aboutcookies.org/).
 
+However you should be aware that you may not be able to access some parts of our site or app if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the site. We therefore recommend you enable cookie acceptance to benefit from all of our services.
 
+If you have any questions or complaints about privacy, please contact our Compliance department at:
 
+The Compliance Department  
+Tigerwit Limited  
+7th Floor  
+Augustine House  
+6A Austin Friars  
+London  
+EC2N 2HA  
+UK
 
-In addition to the above uses, we may also use your personal data for the following additional purposes and direct marketing ("Additional Purposes") where you have given us appropriate permission: 
-
-  * To tell you about special discounts on Sensatus products and services 
-  * To advise you about new Sensatus products and services 
-  * To advise you about offers from other companies that Sensatus feels may be of interest to you. (In these instances, Sensatus forwards the offer to you but does not share your personal data with these other companies.) 
-
-
-
-  
-To help us improve our products and services and develop new ones, we may also create aggregate data that uses your personal data but in a manner that will not identify you as an individual. For example, we may look at your address to help identify the total number of users of a particular product in a geographic area. Aggregate data is not personal data, as it cannot be used to identify any particular individual. 
-
-Occasionally, we may invite you to participate in a survey or provide additional personal data that will enable us to better understand and serve your needs. Any such information request is optional and gives you the freedom to decide whether to respond. Please keep in mind that all information you provide may be used to personalise and improve our customer service operations. 
-
-Sensatus may use certain third-party service providers to help us fulfil your requests. For example, we use third party service providers to process credit card payments and host the Sensatus servers. In all instances, these third-party service providers are under a contractual duty to restrict their use of personal data to the limited purpose(s) specified by Sensatus, which at all times shall be consistent with this Privacy Policy. 
-
-Unless otherwise specified in this Privacy Policy, your personal data will not be transferred to a third party for their independent use without your express consent. 
-
-In addition, you should be aware that there are very limited instances under law in which we may be required to disclose the personal data of our customers. If such an instance arises, we shall only release that personal data as required by law. 
-
-**What about “Cookies”?**  
-
-
-A "cookie" is a small bit of data that gets stored on your computer RAM or hard drive when you access particular Web sites. If you accept cookies, your browser adds this data in a small file on your computer. If you do not want to accept cookies or would like to be notified before a cookie is loaded on your computer, modify your browser setting accordingly. The setting that controls cookies can be modified on most browsers by clicking on "Tools" on the menu bar of the browser, then clicking "Internet Options," and going to the tab marked "Privacy" where you can specify how you want to manage cookies. Here are some examples of how Sensatus may use cookies: 
-
-To make a purchase through the Sensatus, you must accept those cookies that supply your browser with a unique identifier, which we use to identify a previous visitor to our website and to better understand aggregate use of our website. This information enables us to know what areas of the site users prefer and how users navigate through the Web site. We also use this information to group your online behaviour with other similar types of customers to learn more about those types of products in which you have an interest. 
-
-The Sensatus web sites may require users to register in order to use the online service. Registered users are given a cookie when they login, which will be maintained by their browser, and contains an identifier. This cookie authenticates the registered users' identity and permits them to access those portions of the site that are limited to registered users. 
-
-**Links to External Websites:**  
-
-
-The Sensatus websites may provide links to third party websites. If you click on a banner advertisement or third party link, the "click" will take you off the Sensatus website. Once you leave the Sensatus website, any information that you provided to us remains with us and is not forwarded to the next site to which you have linked. Any personal data or other information that is collected by, or which you choose to provide any third party website will be subject to the privacy policy of the operators of the third party website. Sensatus is not responsible for the use or protection of personal data you disclose to a third party website operator, even if reached from a Sensatus website. Any site that is a Sensatus co-branded website will clearly identify both Sensatus and the third-party, and any personal data or other information collected through these co-branded sites may be collected and used by both Sensatus and the third-party unless otherwise stated on that co-branded site. 
-
-**Handling of personal data**  
-
-
-Sensatus will, through appropriate management and the use of strict criteria and controls:- 
-
-  * Observe fully conditions regarding the fair collection and use of personal information; 
-  * Meet its legal obligations to specify the purpose for which information is used; 
-  * Collect and process appropriate information and only to the extent that it is needed to fulfil operational needs or to comply with any legal requirements; 
-  * Ensure the quality of information used; 
-  * Apply strict checks to determine the length of time information is held; 
-  * Take appropriate technical and organisational security measures to safeguard personal information; 
-  * Ensure that personal information is not transferred abroad without suitable safeguards; 
-  * Ensure that the rights of people about whom the information is held can be fully exercised under the Act. 
-
-
-
-These include: 
-
-  * The right to be informed that processing is being undertaken; 
-  * The right of access to one’s personal information within the statutory 40 days; 
-  * The right to prevent processing in certain circumstances; 
-  * The right to correct, rectify, block or erase information regarded as wrong information. 
-
-
-
-In addition, Sensatus will ensure that: 
-
-  * There is someone with specific responsibility for data protection in the organisation; 
-  * Access to customer data is restricted to authorised individuals only 
-  * Everyone managing and handling personal information understands that they are contractually responsible for following good data protection practice; 
-  * Everyone managing and handling personal information is appropriately trained to do so; 
-  * Everyone managing and handling personal information is appropriately supervised; 
-  * Anyone wanting to make enquiries about handling personal information, whether a member of staff or a member of the public, knows what to do; 
-  * Queries about handling personal information are promptly and courteously dealt with; 
-  * Methods of handling personal information are regularly assessed and evaluated; 
-  * Performance with handling personal information is regularly assessed and evaluated; 
-  * Data sharing is carried out under a written agreement, setting out the scope and limits of the sharing. Any disclosure of personal data will be in compliance with approved procedures. 
-
-
-
-All Staff are fully aware of this policy and of their duties and responsibilities under the Act. 
-
-All Staff will take steps to ensure that personal data is kept secure at all times against unauthorised or unlawful loss or disclosure and in particular will ensure that: 
-
-  * Paper files and other records or documents containing personal/sensitive data are kept in a secure environment; 
-  * Personal data held on computers and computer systems is protected by the use of encryption and secure passwords, which where possible have forced changes periodically; 
-  * Individual passwords should be such that they are not easily compromised. 
-
-
-
-**Implementation**  
-
-
-Sensatus has appointed a Data Protection Officer. The Data Officer is responsible for ensuring that the Sensatus Data Protection Policy is implemented. 
-
-Implementation is led and monitored by the Data Protection Officer who also has overall responsibility for: 
-
-  * The provision of cascade data protection training, for staff within the Sensatus. 
-  * For the development of best practice guidelines. 
-  * For carrying out compliance checks to ensure adherence with the Data Protection Act. 
-
-
-
-**Privacy Policy Questions, Updating Your Personal Data, and Preference Notifications**
-
-At any time you may change your preferences as to the use of your personal data or receipt of marketing materials by: 
-
-  * opting out when registering to use the Sensatus Online System; 
-  * unsubscribing yourself from marketing communications in the Profile section of your online account 
-  * or making the request in writing. 
-
-
-
-We encourage you to provide feedback on, and to ask questions about this Privacy Policy as well as to review and update your personal data as maintained by Sensatus. 
-
-All such communication and inquiries should be sent in writing to one of the following addresses, and we shall respond promptly. 
-
-By post:  
-Data Protection Officer   
-Sensatus (UK) Ltd   
-Marine Square Mews   
-Brighton   
-BN2 1DN   
-
-
-By telephone: +44 (0) 1273 624 333 
-
-  
-Please be sure to include sufficient information for us to verify your identity, and locate your file (if applicable), and respond to your inquiry. You should also include your mailing address if you would like us to send you any written materials. Sensatus reserves the right to take reasonable steps to verify any requests for personal data it receives. 
-
-**Notification to the Information Commissioner**  
-
-
-The Information Commissioner maintains a public register of data controllers. Sensatus (UK) Ltd is registered as such. Our purpose for holding personal data and a general description of the categories of people and organisations to which we may disclose it are listed in the Data Protection register. You may inspect this or obtain a copy from the Information Commissioners Office. 
+If you are not satisfied with our response to a complaint, you have the right to lodge a complaint with our supervisory authority, the Information Commissioner’s Office (ICO). You can find details about how to do this on the ICO website at <https://ico.org.uk/concerns/> or by calling their helpline on [0303 123 1113](tel:+443031231113).
