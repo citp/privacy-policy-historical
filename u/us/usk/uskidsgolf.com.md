@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uskidsgolf.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826083844id_/https%3A//www.uskidsgolf.com/node/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uskidsgolf.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403053551id_/https%3A//www.uskidsgolf.com/node/6) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Kids Golf
 
