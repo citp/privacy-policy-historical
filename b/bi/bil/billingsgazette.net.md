@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billingsgazette.net privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104174358id_/https%3A//billingsgazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billingsgazette.net privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403023005id_/https%3A//billingsgazette.com/privacy) for the most accurate reproduction.*
 
 # Privacy | billingsgazette.com
 
