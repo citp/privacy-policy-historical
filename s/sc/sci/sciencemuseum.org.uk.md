@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004192650id_/https%3A//group.sciencemuseum.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403224215id_/https%3A//group.sciencemuseum.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Science Museum Group
 
@@ -206,9 +206,9 @@ If we are required to do so by law (for example under money laundering or charit
 
 ## 5\. Your data protection rights
 
-You have certain rights under data protection laws in relation to the personal information we hold and are using about you. To exercise your rights, please use the contact details provided under the ‘Contact Us about your personal information’ section below. 
+You have certain rights under data protection laws in relation to the personal information we hold and are using about you. To exercise your rights, please use the contact details provided under the ‘Contact Us about your personal information’ section below.
 
-Your rights include asking for a copy of the information we hold about you, having any inaccurate information we hold about you corrected, or to request that we stop using your personal information in a particular way (for example, you may request that we stop emailing you). Your data protection rights are summarised under the tab immediately below. 
+Your rights include asking for a copy of the information we hold about you, having any inaccurate information we hold about you corrected, or to request that we stop using your personal information in a particular way (for example, you may request that we stop emailing you). Your data protection rights are summarised under the tab immediately below.
 
 ### 
 
@@ -316,7 +316,7 @@ A pixel tag (also known as a web beacon or clear GIF) is an invisible 1×1 pixel
 
 If you prefer not to receive cookies, you can adjust your web browser to refuse cookies or to warn you when cookies are being used. You can also use plugins and extensions that block the functionality of pixel tags. Most elements of the Science Museum Group’s Websites will still function if you disable cookies in your web browser settings.
 
-When you visit Science Museum Group Websites, if your browser is using the standard settings and it is accepting cookies, you are giving consent for cookies on the Science Museum Group Websites to be stored on your computer. If you do not wish for this to happen, you can disable them in the settings of your browser. For more information on cookies and their uses, visit the cookies page on the [Information Commissioner’s Office website](https://ico.org.uk/for-the-public/online/cookies/).
+When you visit Science Museum Group Websites, if your browser is using the standard settings and it is accepting cookies, you are giving consent for cookies on the Science Museum Group Websites to be stored on your computer. If you do not wish for this to happen, you can disable them in the settings of your browser. For more information on cookies and their uses, visit the cookies page on the [Information Commissioner’s Office website](https://ico.org.uk/your-data-matters/online/cookies/).
 
 In particular we use the following cookies and similar technologies:
 
@@ -332,7 +332,7 @@ By tracking what kind of sites you visit and how you interact with ads for diffe
 
 ### 
 
-You can go to [Google preferences](http://www.google.com/ads/preferences) to see what Google thinks are your age, gender and interests. You can add, edit or delete information on that page, or you can opt-out of Google collecting and analysing your behaviour altogether.
+You can go to [Google preferences](https://adssettings.google.com/) to see what Google thinks are your age, gender and interests. You can add, edit or delete information on that page, or you can opt-out of Google collecting and analysing your behaviour altogether.
 
 Google Analytics collects information anonymously, however you can opt-out of being tracked by Google Analytics across all websites you use by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
