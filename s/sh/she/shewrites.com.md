@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shewrites.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222054643id_/https%3A//www.shewrites.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shewrites.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403115306id_/https%3A//www.shewrites.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
