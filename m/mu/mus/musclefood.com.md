@@ -1,49 +1,523 @@
-> *The following text is extracted and transformed from the musclefood.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407181856id_/http%3A//www.musclefood.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclefood.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403063131id_/https%3A//www.musclefood.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
-When you place an order, we will require your name, home address, telephone number, credit / debit card number and card expiry date. Without this information we will not be able to process your request or notify you of your order acceptance.
+### Introduction
 
-As mentioned above a contact telephone number is also required so that we can contact you in the event that there is a problem with your order. We may, unless you advise us otherwise, pass this contact number to our couriers or other agents in case they need to contact you to arrange the processing or delivery.
+Welcome to the Muscle Foods Limited (“Muscle Food”) Privacy Policy.
 
-### Security Of Your Information
+Muscle Food respects your privacy and is committed to protecting your personal data. This Privacy Policy will tell you how we look after your personal data when you visit our website and inform you of your privacy rights and how the law protects you.
+
+Please use the Glossary at the end of this Privacy Policy to understand the meaning of some of the terms used in it.
+
+Our Cookies Policy is set out below, at the end of this Privacy Policy.
+
+## 1\. Important Information And Who We Are
+
+### Purpose Of This Privacy Policy
+
+This Privacy Policy aims to give you information on how Muscle Food collects and processes your personal data through your use of this website, including any data you may provide through the website when you sign up to receive our marketing material, purchase a product or service or take part in a competition.
+
+This website is not intended for children and we do not knowingly collect data relating to children.
+
+It is important that you read this Privacy Policy together with any other privacy notice on our website from time to time so that you are fully aware of how and why we are using your data.
+
+#### Controller
+
+Muscle Food is the controller and responsible for your personal data (collectively referred to as, “we”, “us” or “our” in this Privacy Policy).
+
+#### Contact Details
+
+Our full details are: Full name of legal entity: Muscle Foods Limited, a limited company with registered number 09019725. Muscle Food is registered, and operates, in the United Kingdom. Postal address: Muscle Food, Unit L, Fulcrum Business Park, Vantage Way, Poole, Dorset, England, BH12 4NU
+
+You can also contact us through our customer contact page.
+
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([https://ico.org.uk](https://ico.org.uk/)). In the UK, please read: <https://ico.org.uk/for-the-public/raising-concerns/> for details of how to do this. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+
+#### Changes To The Privacy Policy And Your Duty To Inform Us Of Changes
+
+We may need to update this Policy at any time and without notice and where we do this we will notify you by including pop up boxes on the website and/or emailing our customers.
+
+This Policy was last updated on 24 May 2018.
+
+It is important that the personal data we hold about you is accurate and up to date. Please keep us informed if your personal data changes during your relationship with us and periodically review your account settings on our website.
+
+#### Third-Party Links
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the Privacy Policy of every website you visit.
+
+## 2\. THE DATA WE COLLECT ABOUT YOU
+
+When you place an order, we will require your name, email address, home address, telephone number, credit / debit card number and card expiry date. Without this information we will not be able to process your request or notify you of your order acceptance.
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
+
+  * Identity Data includes first name and last name.
+  * Contact Data means the data we use to contact you including your billing address, delivery address, email address and telephone number.
+  * Financial Data means the data we use to process your payments for your orders including your payment card details. We do not store or process your card details ourselves, they are processed and stored via one of our contracted third party service providers. We encrypt your payment card details in your browser and securely transfer this data to our relevant third party payment provider to process a payment.
+  * Transaction Data means details about transactions you have made on our website including the payments to and from you along with other details of products and services you have purchased from us.
+  * Technical Data means details about the device(s) you use to access our website including your internet protocol (IP) address, browser type and version, location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+  * Profile Data includes your username (email address) and password, your login data, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * Usage Data includes information about how you use our website, products and services. This includes your browsing patterns and information such as how long you might spend on one of our webpages and what you look at and for on our website, the click stream to and from our website, page response times and page interaction information such as scrolling, clicks and mouseovers.
+  * Marketing and Communications Data includes your preferences in receiving marketing from us and your communication preferences.
+
+
+
+We also collect, use and share aggregated and/or anonymised data (“Aggregated Data”) such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this Privacy Policy.
+
+### If You Fail to Provide Personal Data
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, where you do not provide suitable delivery instructions to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
+
+## 3\. HOW IS YOUR PERSONAL DATA COLLECTED?
+
+We use different methods to collect data from and about you including through:
+
+  * Direct interactions. You may give us your Identity Data, Contact Data, Transaction Data, Profile Data, Financial Data and Marketing and Communications Data by using our website, filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you
+    * purchase a product through our website;
+    * create an account on our website;
+    * request marketing to be sent to you;
+    * enter a competition; or
+    * give us some feedback.
+  * Automated technologies or interactions. As you interact with our website, we may automatically collect Usage Data and Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies.
+
+
+
+## 4\. Third Party Sources Of Data/Data Sharing:
+
+We also collect from and share data with the following providers:
+
+  * Essential Service Providers: Sometimes, other businesses give us data about you which we may need for our legitimate interests of conducting business with you and on occasion they are necessary to perform our contract with you. It usually comprises Financial Data or Transaction Data. This happens when we link through to third party payment providers. They tell us that you have paid for your products and, where relevant and/or necessary they will provide us with your Contact Data and Transaction Data. We also might engage third party contractors to provide us with technical or delivery services that are related to your account with us.
+  * Professional Advisers and Investors: We may also share your data with professional advisers such as our lawyers and insurers to manage risks and legal claims, and/or as part of our relationship and obligations to our investor organisations. This is in our legitimate interests.
+  * Group: It is possible we could sell our business to a third party or re-organise our business or become insolvent. In that scenario, our database of customers is one of the biggest parts of that business and so we would need to share it with the third-party buyer and their advisers. This is in the legitimate interests of selling our business. We may also expand our group of companies and in this scenario we may share your data within our group in order to improve our products and services and because of some of our internal support services may be shared across the group. This is in our legitimate interests of cost efficiency and growing our business. Where this occurs, we will post a link to all group companies and their locations in this Privacy Policy and they will use it in the ways set out in this Policy.
+  * Law Enforcement/Legal Compliance: We will cooperate with all third parties to enforce their intellectual property or other rights. We will also cooperate with law enforcement requests from within or outside your country of residence. This may include disclosing your personal information to government or law enforcement agencies, or private parties, when we have a good faith belief that disclosure is required by law or when we, in our discretion, believe that disclosure is necessary to protect our legal rights, or those of third parties and/or to comply with a judicial proceeding, court order, fraud reduction or legal process served on us. In such cases, we may raise or waive any legal objection or right available to us. These uses of your data are in our legitimate interests of protecting our business security. We may also use your data and share it with the recipients listed in this Privacy Policy for the purpose of complying with our legal obligations.
+
+
+
+The lawful bases for sharing and processing this data is set out in the table below and please refer to the External Third Parties listed in the Glossary for further information.
+
+## 5\. HOW WE USE YOUR PERSONAL DATA
+
+We only use your personal data when the law allows us to and it is important to do so. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+See the Glossary at the end of this Privacy Policy to find out more about the types of lawful basis that we will rely on to process your personal data.
+
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending you any direct marketing communications. You have the right to withdraw consent to marketing at any time by visiting our [Customer Preference Centre ](https://www.musclefood.com/preferences).
+
+### Purposes For Which We Will Use Your Personal Data
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Purpose/Activity
+
+| 
+
+Type of data
+
+| 
+
+Lawful basis for processing including basis of legitimate interest  
+  
+---|---|---  
+  
+To register you as a new customer
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Profile
+
+| 
+
+Performance of a contract with you.  
+  
+To process and deliver your order, including:
+
+  * managing payments, fees and charges; and
+  * managing your queries through our Customer Service team – this may include recording calls to our teams.
+
+| 
+
+(a) Identity   
+(b) Contact  
+(c) Financial   
+(d) Transaction   
+(e) Marketing and Communications
+
+| 
+
+Performance of a contract with you. We may also use some of the data related to your queries for our legitimate interests of ensuring our customer service quality standards are met.  
+  
+To collect and recover money owed to us in respect of your order
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Financial   
+(d) Transaction
+
+| 
+
+Necessary for our legitimate interests (to recover debts due to us).  
+  
+To carry out fraud assessments
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Financial   
+(d) Transaction  
+(e) Technical
+
+| 
+
+Necessary for our legitimate interests of ensuring payments are not fraudulent  
+  
+To notify you in relation to our legal obligations and documents, including changes to our terms or Privacy Policy
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Profile
+
+| 
+
+Necessary for our legitimate interests of ensuring our customers are updated on these changes.  
+  
+To help us improve our offering to you as a customer, including asking you to leave a review or take a survey, or provide customer insights
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Profile   
+(d) Marketing and Communications
+
+| 
+
+Necessary for our legitimate interests (to study how customers use our products/services, to improve our offering to our customers, to develop them and grow our business).  
+  
+To enable you to partake in a prize draw or competition
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Profile   
+(d) Usage   
+(e) Marketing and Communications
+
+| 
+
+Performance of a contract with you to fulfil the promotion and run the competition/prize draw. We may also subsequently use your entries for the legitimate interests of understanding our customer base more effectively.  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Profile  
+(d) Technical
+
+| 
+
+Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise).  
+  
+To deliver relevant website content, advertisements and other marketing material to you and measure or understand the effectiveness of the advertising we serve to you
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Profile  
+(d) Usage   
+(e) Marketing and Communications  
+(f) Technical
+
+| 
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business to inform our marketing strategy and to improve our offering to you). Please note that where cookies are used for this purpose, this is covered separately by our Cookies Policy.  
+  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences
+
+| 
+
+(a) Technical   
+(b) Usage
+
+| 
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy). Please note that where cookies are used for this purpose, this is covered by our Cookies Policy.  
+  
+To make suggestions and recommendations to you about goods or services that may be of interest to you
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Technical   
+(d) Usage   
+(e) Profile
+
+| 
+
+Necessary for our legitimate interests (to develop our products/services and grow our business, and to improve our offering to you).  
+  
+We may on occasion profile our customers for the purposes of targeting marketing at them and where this is done, this is undertaken for our legitimate interests of ensuring our marketing is relevant to its audience. For example, we may classify an appropriate audience for a promotion by what products on our website they have previously looked at or expressed an interest in.
+
+### MARKETING
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you. We only use the data you provide to us directly for this purpose along with the Aggregated Data provided to us by our analytics partners and we do not track what other websites you may visit after visiting our site, though in common with most websites, we may register the site which referred you to our site (e.g. a search engine).
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.
+
+We generally only send electronic marketing - such as email marketing - to people who have previously bought similar products from us and this is in our legitimate interests. We will always offer a way out of receiving this marketing when you first purchase our products and in every marketing communication afterwards. You can also manage how you receive these messages, and how often you receive them, using our Customer Preference Centre. We may on occasion send out SMS messages, letters in the post and the occasional phone call for the purpose of understanding our customers’ requirements better and growing our sales which is in our legitimate interests and in this scenario we will rely on you to let us know if you do not want to receive this by opting out of the relevant channel using your Customer Preference Centre.
+
+Where you have not previously bought from us but have registered your details with us (for example by entering a competition or signing up for a newsletter), we will only send you marketing communications if you opted into receiving marketing at the time and so given us your express consent which you may withdraw at any time using your Customer Preference Centre.
+
+We may also share certain data with third party social media platforms in order to show you targeted ads when you visit them. We do this by:
+
+  * the use of cookies which capture your visits to our website; and
+  * we may also provide these platforms with your email address to create ‘audiences’ of users fitting within a certain demographic/category so that we can target our marketing. Please check the social media platforms’ terms for more details of these services. This is in our legitimate interests of sending you direct marketing. See ‘Opting out’ below for details of how you can adjust your marketing preferences.
+
+
+
+### Opting Out
+
+You can ask us to stop sending you marketing messages at any time by logging into your account and adjusting your settings in your Customer Preference Centre, by following the opt-out links on any marketing message sent to you or by contacting us at any time.
+
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, or related correspondence, and we will continue to process such data in accordance with this Privacy Policy and only ever as permitted by law.
+
+### Cookies
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly.
+
+### Change of Purpose
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+## 6\. DISCLOSURES OF YOUR PERSONAL DATA
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.
+
+**External Third Parties** : including the following:
+
+  * Service providers acting as processors based in the UK who provide IT and system administration services.
+  * Professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services. All providers will be based in the United Kingdom, unless we are required to use the services of an overseas party during the performance of our contract with you and we will act on your specific instructions before appointment.
+  * HM Revenue & Customs, regulators and other authorities based in the United Kingdom.
+  * Compliance professionals from our professional or licensing body i.e. the Institute of Chartered Accountants in England and Wales.
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+## 6\. INTERNATIONAL TRANSFERS
+
+Whilst we are based in the UK, many of our external third parties are based outside the European Economic Area ( **EEA** ) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries.
+  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries.
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US. For further details, see European Commission: EU-US Privacy Shield.
+
+
+
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+
+## 7\. DATA SECURITY
 
 Our website uses the latest in secure server software to protect your information whenever you place an order or access your account information. This software encrypts all information you input before it is transferred, to minimise the risk of the data being intercepted before it is received by our systems.
 
-We also follow a tight security procedure as required under UK Data Protection Legislation (the Data Protection Act 1998) to protect the information that we store about you from unauthorised access. We may wish to pass your details to trusted third-parties that we believe may be of interest to you. If you would prefer not to enjoy this service then please contact us to inform us of your preference.
+We also follow a tight security procedure as required under UK Data Protection Legislation (the Data Protection Act 1998) to protect the information that we store about you from unauthorised access.
 
-### Internal Confidentiality Within MuscleFood
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
-At MuscleFood we will protect your privacy in 3 ways:
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-  * Access to customer account information is limited to those who need access for the performance of their job
-  * We use full login and password controls on our sales control system.
-  * Confidentiality and database access controls are reviewed periodically and updated as required to further protect your personal data.
+You acknowledge that the Internet is not a completely secure medium for communication and, accordingly, we cannot guarantee the security of any information you send to us (or we send to you) via the Internet. We are not responsible for any damages which you, or others, may suffer as a result of the loss of confidentiality of such information.
+
+## 8\. Data Rentention
+
+### How Long Will You Use My Personal Data For?
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+In some circumstances you can ask us to delete your data: see ‘Your Legal Rights’ below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+## 9\. YOUR LEGAL RIGHTS
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. You have the right to:
+
+  * **Request access**  to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+
+  * **Request correction**  of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+
+  * **Request erasure  **of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+
+  * **Object to processing**  of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+
+  * **Request restriction**  of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+
+  * **Request the transfer  **of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which  
+you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+
+  * **Withdraw consent at any time  **where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
 
 
-### Your Rights
+If you wish to exercise any of the rights set out above, please contact us.
 
-If, for any reason, you are unsure about the personal / account information we are holding in your name, please contact us. We will happily review your file and update the records if required. You can contact us by email or by phone. Alternatively, this information can be checked and reviewed on line once you have signed in.
+**No fee usually required**
 
-### Use of 'Cookies'
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**What we may need from you**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+Once we have received sufficient information from you regarding your access request, we will agree a timescale with you to inspect the data which will be based upon the time period for which the data is requested (eg previous 6 months etc –see below). Dependent upon the time period, the data may be made available to you in stages.
+
+For your information, some data will need to be redacted in order to protect the privacy of other data subjects.
+
+**Time limit to respond**
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+## 10\. GLOSSARY
+
+### Lawful Basis
+
+Legitimate Interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
+
+Performance of Contract means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+Comply with a legal or regulatory obligation means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+### Third Parties
+
+#### External Third Parties
+
+Partners \- when you place an order, we share your information with the relevant seller on our marketplace (“Partner”) so that they can process and deliver your order.
+
+Cloud storage providers \- we use cloud computing platforms that securely store all of our data, including customer details.
+
+Email service providers \- in order to send you marketing content and transactional emails, we share your details with our email service providers.
+
+Social Media Platforms \- We may make your name and email address available to companies in order to advertise and market our services to you through other platforms on the internet (e.g. Facebook). See the ‘Marketing’ section of this Privacy Policy above.
+
+Analytics tools \- we use analytics tools to track the way that users interact with our website.
+
+Profiling tools \- we use profiling tools to understand how you engage with our website and show you content we think will be most relevant to you, based on our understanding of your interests and preferences.
+
+Payment providers \- in order to facilitate any payments made on our site, we facilitate the sharing of your Financial Data with payment providers.
+
+Delivery providers \- in order to package and mail your orders to you, it is necessary to share your information with delivery providers.
+
+Marketing and insights providers \- marketing and insights tools allow us to understand our customers better so that we may provide you with the best possible website, products and customer service experience. We may share certain information about our customers to facilitate this process.
+
+Customer service platforms \- when you interact with our customer service team, your details are shared with our customer service platform providers.
+
+Feedback forms \- when you make a purchase, we sometimes engage a third party to send out feedback forms on our behalf.
+
+### Muscle Food’s Cookies Policy
+
+By visiting this website with your browser settings adjusted to allow cookies, you are consenting to Muscle Food using cookies for the purposes outlined below in order to provide you with a fully functional shopping experience.
+
+#### What is a cookie?
+
+A cookie is a small text file which is downloaded and stored on your computer or mobile device by websites that you visit. Where cookie technology is not available, an anonymous identifier may be used. An anonymous identifier is a random string of characters used for the same purposes as a cookie.
+
+Your browser accesses the cookie file only when you visit the website that generated it. This helps to ease your navigation by automatically logging you in and remembering things like your preferences and what’s in your shopping basket. Cookies allow sites like Muscle Food to deliver you a personalised shopping experience.
+
+The information stored within any given cookie can only be accessed by the website that created it and cookies are limited to communicating only the information that you have disclosed to the site.
+
+We use the following types of cookie:
+
+  * Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  * Performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+
+
+
+#### Cookies
 
 Our cookies do not contain any personal information about you and are used only to determine your browser and user preferences for our site. We believe that this can greatly assist us in providing you with the service that you desire and to enhance your browsing experience. However, if you prefer, your browser software should enable you not to accept cookies. You should still be able to use our site without cookies enabled.
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) for a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies). Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. A list of all the cookies used on this website by category is set out below.   
-Performance Cookies These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works. By using our website, you agree that we can place these types of cookies on your device. A list of all the cookies used on this website by category is set out below.   
-Targeting Cookies These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. By using our website, you agree that we can place these types of cookies on your device. If you want to stop the use of targeting cookies, [please visit this page on Google](https://www.google.com/settings/ads/onweb).
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) for a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies). Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.
 
-### Consent
+  
+**Performance Cookies**
 
-Your use of this website signifies your consent to the collection, processing and use of personal information by us for the purpose of administering and dealing with your order or account, market research, processing your payments, credit reference checking and fraud detection, and for marketing purposes as outlined above.
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works. By using our website, you agree that we can place these types of cookies on your device. A list of all the cookies used on this website by category is set out below. 
 
-Any changes to our privacy policy will be posted on this website to ensure that you are fully informed of your rights and can notify us of any changes to your preferences.
+  
+**Targeting Cookies**
 
-### Credit Card Security
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. By using our website, you agree that we can place these types of cookies on your device. If you want to stop the use of targeting cookies, [please visit this page on Google](https://www.google.com/settings/ads/onweb).
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We do not store your credit card numbers when you place an order, nor do we allow you to store this number in your account. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. We use PGP software to encrypt your details as they are transferred to our database. It is important for you to protect against unauthorised access to your password and to your computer. Be sure to log off when you finish using a shared computer.
+#### Duration of cookies:
 
-### Additional Information
+**Session (or Transient) Cookies**
 
-Please note that MuscleFood may at times contain links to other sites and occasionally allows other sites to be co-branded with us. Web sites that are linked to us may have privacy policies which differ from that of MuscleFood.
+Session cookies are stored in your computer's memory for the length of your browsing session. They become inaccessible after the session has been inactive for a time and are automatically deleted from your computer when the browser is closed. They allow you to move from page to page without having to log-in repeatedly.
+
+**Persistent (or Permanent) Cookies**
+
+Persistent cookies are stored in your computer memory and are not deleted when the browser is closed. They are used to keep your preferences for the website, so they will be remembered for next time you visit the website. They are also used to collect information about the numbers of visitors, the average time spent on a particular page and analyse shopping behaviour on the website. This information is used to find out how well the website works and where it can be improved.
+
+**Flash Cookies (or Locally Shared Objects)**
+
+You probably have Adobe Flash installed on your computer. Websites that contain Flash can also store small files on your computer that are used in the same way as cookies.
+
+Flash cookies can also back up the data that is stored in other cookies. When you delete cookies, your Flash cookies are not affected. So a website may still recognise you if it backed up the deleted cookie information on a Flash cookie.
+
+#### Sharing with social networks
+
+If you use the buttons that allow you to share products and content with your friends via social networks like Twitter and Facebook, these companies may set a cookie on your computer memory. Find out more about these here:
+
+<https://www.facebook.com/about/privacy/>
+
+[http://twitter.com/privacy](https://twitter.com/privacy)
+
+[http://www.google.com/intl/en-GB/policies/privacy/](https://www.google.com/intl/en-GB/policies/privacy/)
+
+#### Managing cookies:
+
+If cookies aren't enabled on your computer, it will mean that your shopping experience on our website will be limited to browsing and researching; you won't be able to add products to your basket or buy them. To enable and manage cookies, you can use your browser to do this. Each browser is different, so check the 'Help' menu of your particular browser (or your mobile phone's handset manual) to learn how to change your cookie preferences.
+
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Internet Explorer](https://windows.microsoft.com/en-US/windows7/Block-enable-or-allow-cookies)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+  * [Safari](https://support.apple.com/kb/HT1677)
+  * [Opera](https://www.opera.com/help/tutorials/security/privacy/)
+  * [Google Analytics Opt Out](https://tools.google.com/dlpage/gaoptout/)
+
+
+
+Last amended 24 May 2018
