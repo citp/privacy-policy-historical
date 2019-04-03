@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playhugelottos.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816054905id_/https%3A//www.playhugelottos.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playhugelottos.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403220452id_/https%3A//www.playhugelottos.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
