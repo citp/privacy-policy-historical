@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buckrail.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229173456id_/https%3A//buckrail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckrail.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403200537id_/https%3A//buckrail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buckrail - Jackson Hole, news
 
@@ -7,7 +7,7 @@ The Jackson Hole Buckrail Privacy Policy
 Last updated: May 1st, 2018
 
 Buckrail LLC (“Buckrail” or “Jackson Hole Buckrail”) operates theBuckrailwebsite (http://www.buckrail.com).  
-Jackson Hole Buckrail is a news aggregator for the geographical region of Jackson Hole, Wyoming and the surrounding area. Buckrail collects and aggregates user generated as well as Buckrail created content for distribution on the Internet. 
+Jackson Hole Buckrail is a news aggregator for the geographical region of Jackson Hole, Wyoming and the surrounding area. Buckrail collects and aggregates user generated as well as Buckrail created content for distribution on the Internet.
 
 Buckrail cares about your privacy. For this reason, we collect and use personal data only as it might be needed for us to deliver to you our products, services, websites, and mobile applications (collectively, our “Services”). This page informs you of Buckrail’s policies regarding how we collect, use, and disclose information from you and about you when you use the Buckrail Service.
 
@@ -30,7 +30,7 @@ unique identifier. Cookies are widely used in order to make websites work, or wo
 deliver and improve our Service, and to display relevant content, products, services, and advertising. Buckrail may use the following cookies: session identifier cookies, functional cookies, flash cookies, advertising cookies, and social networking cookies.
 
 You can stop cookies from being downloaded at any time by selecting the appropriate settings in your browser.. Most browsers provide a Help feature and tell you how to change your browser settings to accept , disable, or update cookies, or to notify you when receiving a new  
-cookie. Please consult the “Help” section of your browser for more information or by visiting http://www.allaboutcookies.org. 
+cookie. Please consult the “Help” section of your browser for more information or by visiting http://www.allaboutcookies.org.
 
 If you do not accept cookies, you may not be able to use some features of the Buckrail Service and we recommend that you leave them turned on.
 
@@ -42,7 +42,7 @@ ads to our users based on their visit to our Service or other web sites on the
 Internet.
 
 You may opt out of the use of the DoubleClick Cookie for interest-based  
-advertising by visiting the Google Ads Settings web page: https://tinyurl.com/ycymsnkp 
+advertising by visiting the Google Ads Settings web page: https://tinyurl.com/ycymsnkp
 
 2.2 Log Data  
 Buckrail may also collect information that your browser sends whenever you visit Buckrail.com or use our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.  
@@ -66,7 +66,7 @@ browser. Google Analytics Opt-out Browser Add-on provides visitors with
 the ability to prevent their data from being collected and used by Google  
 Analytics.  
 For more information on the privacy practices of Google, please visit the  
-Google Privacy & Terms web page: https://policies.google.com/privacy. 
+Google Privacy & Terms web page: https://policies.google.com/privacy.
 
 3.2 Facebook
 
@@ -84,7 +84,7 @@ Canada, or the European Interactive
 Digital Advertising Alliance in Europe,  
 or opt-out using your mobile device settings.  
 For more information on the privacy practices of Facebook, please visit  
-Facebook’s Data Policy: https://www.facebook.com/policy.php 
+Facebook’s Data Policy: https://www.facebook.com/policy.php
 
 4\. Service Providers
 
