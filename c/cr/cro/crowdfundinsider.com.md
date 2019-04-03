@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfundinsider.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223185855id_/https%3A//www.crowdfundinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfundinsider.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403082912id_/https%3A//www.crowdfundinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdfund Insider
 
@@ -12,7 +12,7 @@
 
 
 
-Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20181223185855id_/https://www.crowdfundinsider.com/privacy-policy/mailto@support@CrowdfundInsider.com).
+Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20190403082912id_/https://www.crowdfundinsider.com/privacy-policy/mailto@support@CrowdfundInsider.com).
 
 Crowded Media Group LLC ( **CMG** ) operates websites including CrowdfundInsider.com, FintechInsider.co and DisclosureQuest.com, It is Crowded Media Group’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
