@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the solarianprogrammer.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309222857id_/https%3A//solarianprogrammer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarianprogrammer.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403123250id_/https%3A//solarianprogrammer.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Solarian Programmer
 
 #### My programming ramblings
-
-[Home](https://web.archive.org/) [Archives](https://web.archive.org/archives/) [Contact](https://web.archive.org/contact/) [Privacy](https://web.archive.org/privacy/)
 
 If you require more informations or have any questions about our privacy policy, please feel free to contact us by email at [solarianprogrammer@gmail.com](mailto:solarianprogrammer@gmail.com).
 
