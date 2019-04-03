@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chef.io privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005044714id_/https%3A//www.chef.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chef.io privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403112127id_/https%3A//www.chef.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chef
 
@@ -9,18 +9,6 @@ Please read this policy carefully to understand our policies and practices regar
 **IMPORTANT NOTE FOR EUROPEAN USERS AND CUSTOMERS**
 
 Please note that information covered by this Privacy Policy will be hosted and stored in the United States of America, which does not have similar data protection laws as the European Union and that, due to differing laws and legal practice, law enforcement agencies in the United States may have access to your Personal Information.
-
-## **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
-
-Chef (and its subsidiary companies Chef Software GmbH and Chef Software UK Ltd.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Chef is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of [Commerce’s Privacy Shield List](https://www.privacyshield.gov/).
-
-Chef is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to third parties acting as an agent on its behalf.  Chef complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Chef is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Chef may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
-
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.  
 
 **WHAT IS PERSONAL INFORMATION?**
 
