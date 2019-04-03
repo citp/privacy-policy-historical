@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204130803id_/https%3A//www.countrywide.co.uk/notices/PrivacyNotice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403075157id_/https%3A//www.countrywide.co.uk/notices/PrivacyNotice.pdf) for the most accurate reproduction.*
 
 # 
 
