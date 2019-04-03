@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916144756id_/https%3A//www.marykay.com/en-us/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403041055id_/https%3A//www.marykay.com/en-us/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Consumer Privacy Policy describes the information that Mary Kay collects about you. It details how we use that information and the choices you can make about how this information is used. The information covered in this Policy and in the Mary Kay Global Privacy Statement includes information collected about you on Mary Kay websites, and through special programs and services offered by Mary Kay Independent Beauty Consultants or third parties as described herein.
+This Consumer Privacy Policy describes the information that Mary Kay Inc. collects about you. It details how we use that information and the choices you can make about how this information is used. The information covered in this Policy and in the Mary Kay Global Privacy Statement includes information collected about you on Mary Kay websites, and through special programs and services offered by Mary Kay Independent Beauty Consultants or third parties as described herein.
 
 For information about privacy in connection with your visit to the Personal Web Site of a Mary Kay Independent Beauty Consultant, please see the Personal Web Site Privacy Policy tab on this page.
 
@@ -26,11 +26,11 @@ Mary Kay is subject to the investigative and enforcement authority of the Federa
 
 **Privacy Complaints by European Union Citizens:**
 
-Mary Kay complies with the EU-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Mary Kay has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the EU-U.S. Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). In compliance with the EU-U.S. Privacy Shield, Mary Kay commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Mary Kay as listed above.
+Mary Kay complies with the EU-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries transferred to the United States pursuant to Privacy Shield.  Mary Kay has certified that it adheres to the Privacy Shield Principles with respect to such data.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the EU-U.S. Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). In compliance with the EU-U.S. Privacy Shield, Mary Kay commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Mary Kay as listed above.
 
 Mary Kay has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mary Kay, please visit the BBB EU Privacy Shield website at <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. 
 
-Finally and under limited circumstances, EU individuals with unresolved complaints can seek recourse from the Privacy Shield Panel, a binding arbitration mechanism.
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, EU individuals may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](http://www.privacyshield.gov/article?id=ANNEX-I-introduction). 
 
 We may collect information about you from a variety of sources. This includes information we collect from you directly; information provided to us by or on behalf of your Independent Beauty Consultant for purposes of providing a better customer experience for you; information we collect about you when you visit our sites or view Mary Kay® online advertisements; and information we collect about you from other sources (where permitted by law).
 
@@ -107,7 +107,7 @@ _**Cookies:  **_A cookie is a small file placed on your computer by a website t
 
 You can accept or decline cookies. Most browsers automatically accept cookies. To learn more about cookies, including how to refuse cookies on your computer, click these links:
 
-  * For Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>
+  * For Microsoft Internet Explorer: <https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>
   * <http://www.allaboutcookies.org/cookies/>
   * [http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
 
@@ -151,7 +151,7 @@ _Other situations we may disclose your personal information:_**
 
 _**Aggregated and non-personal information:  **_We may share aggregated information that does not identify you for general business analysis. For example, we may disclose the number of visitors to Mary Kay sites or services.
 
-Mary Kay understands it is potentially liable for the appropriate transfer of personal information to third parties who do not comply with the Privacy Shield principles.
+Pursuant to the Privacy Shield, Mary Kay remains liable for the transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages. 
 
 We are committed to keeping personal information secure. We have appropriate technical, administrative and physical procedures in place to protect personal information from loss, misuse or alteration.
 
@@ -181,7 +181,7 @@ We do not intend to collect personal information from children under the age of 
 
 We will post changes to this Privacy Policy and update the effective date when this Policy or the Global Privacy Statement is updated. If we make any material changes we will notify you by sending an e-mail to the e-mail address you most recently provided us or by posting notice of the changes on this site.
 
-**Last updated: September 2016**
+**Last updated: February 2019**
 
 Online Privacy Statement was initiated in 2004
 
@@ -190,6 +190,8 @@ _2006 Update:  _Provided updated information regarding information security and
 _2012 Update:  _The 2012 updates were designed to connect privacy compliance efforts in all Mary Kay markets around the world, and to provide consumers, Independent Beauty Consultants, employees and others who may visit our websites with a central location from which they can obtain information about our policies and their rights with regard to personal information. These changes also included updates in compliance with changes to laws in many of the countries in which Mary Kay has operations. 
 
 _2016 Update:_  The 2016 updates are related to the adoption of the EU-U.S. Privacy Shield.
+
+_2019 Update_ : The 2019 updates are related to the EU-U.S. Privacy Shield Framework. 
 
 At Mary Kay, we understand the importance of privacy.  Our most important goal is to protect, collect and use personal information provided to us in the spirit of one of our most important founding principles -- the Golden Rule. Your choice with regard to your personal information is important to us and we will use and maintain information only in ways you have allowed. Therefore, we do not trade, sell or lease personal information entrusted to us. This Global Privacy Statement describes how we work to maintain your trust.
 
