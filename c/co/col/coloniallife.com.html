@@ -1,11 +1,8 @@
-<!--The following is the downloaded HTML source of the coloniallife.com privacy policy that was archived on 2018-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181008141238id_/https%3A//www.coloniallife.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coloniallife.com privacy policy that was archived on 2019-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190403090010id_/https%3A//www.coloniallife.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="" data-whatinput="initial" data-whatintent="initial"><head>
 	
-<meta name="VIcurrentDateTime" content="636746047587252189">
-<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5G2PHC"></script><script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
-
 	
     <!-- BEGIN: ~/Views/ColonialLife/Metadata/Metadata.cshtml -->
     <meta charset="utf-8">
@@ -18,8 +15,8 @@
     <meta property="og:title" content="Privacy | Colonial Life">
     <meta property="og:type" content="website">
 		<meta property="og:description" content="Learn more about privacy at Colonial Life">
-    <meta property="og:image" content="http://www.coloniallife.com/en/-/media/Images/Social/coloniallife_400x400.ashx">
-	<meta property="og:url" content="http://www.coloniallife.com/Privacy">
+    <meta property="og:image" content="https://www.coloniallife.com/en/-/media/Images/Social/coloniallife_400x400.ashx">
+	<meta property="og:url" content="https://www.coloniallife.com/Privacy">
 
     <meta property="og:site_name" content="Colonial Life">
     <meta property="fb:admins" content="41912405179">
@@ -38,7 +35,7 @@
 
         <link rel="stylesheet" href="/styles/coloniallife/styles.min.css?v=20180830">
 
-<script src="/scripts/scripts.min.js" async=""></script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5G2PHC"></script><script src="/scripts/scripts.min.js" async=""></script>
 
 
 <!-- END: ~/Views/ColonialLife/Metadata/Metadata.cshtml -->
@@ -63,24 +60,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--Silverpop Web Tracker End -->
 
 <style>
-/* 10/1/18 Note: These are temp styles to address spacing issues in weblog/newsroom headings and modules */
-
-  .blog-post-list__items:first-child,
-.blog-related-articles {
-    margin-top: 4.18868rem;
-}
-
-  .blog-categories {
-    margin-top: 4.18868rem;
-}
-
-.blog-post-list-entry__heading {
-    margin: 0;
-}
-a.newsroom-post-list__action-link {
-    font-size: 2rem;
-}
-/*End 10/1/18 Note */
 
 /* 6/26/18 -- These changes have been rolled into the component-variable.scss file for CL & will go out with the next deployment. */
 /* The following styles should be removed after confirmation from the deployment. */
@@ -108,7 +87,53 @@ a.newsroom-post-list__action-link {
 }
 /* End 9/13/18 note */
 
-</style></head>
+
+/* 10/1/18 Note: These are temp styles to address spacing issues in weblog/newsroom headings and modules */
+
+  .blog-post-list__items:first-child,
+.blog-related-articles {
+    margin-top: 4.18868rem;
+}
+
+  .blog-categories {
+    margin-top: 4.18868rem;
+}
+
+.blog-post-list-entry__heading {
+    margin: 0;
+}
+a.newsroom-post-list__action-link {
+    font-size: 2rem;
+}
+/*End 10/1/18 Note */
+
+
+/* Temporary fix for header dialog component */
+/* Added 10/16/18 - please remove once a permanent fix has been released to production. */
+
+.willow-dialog + .willow-breadcrumbs {
+    margin-top: 0;
+}
+
+/* Added due to alignment issues with .willow-button applying a 16px top margin. */
+.ancillary-nav__button {
+    margin-top: 0
+}
+
+/* End temp fix for header dialog component */
+
+/*Form needs helper tip styles 2.15.19 */
+ .help-block {
+       color: #5a7184;
+       font-style: italic;
+       font-size: 1.3rem;
+       margin-top: 0;
+   }
+/* End form helper tip styles */
+
+</style>
+
+</head>
 
 <body class="">
 <!-- Google Tag Manager (noscript) -->
@@ -117,6 +142,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->	<div class="willow-page-container">
 		
 
+
+<section class="willow-global-alert global-alert willow-global-alert--warning" role="alert" id="banner-section" style="display: block;">
+        <div class="container global-alert__container">
+            <div class="global-alert__icon-container">
+                <div class="global-alert__icon "></div>
+            </div>
+            <div class="willow-global-alert__content global-alert__content">
+                    <h1 class="willow-global-alert__heading global-alert__heading">Valued customers:</h1>
+                <div class="willow-styling-context global-alert__text"><p>We are monitoring events and are here to help you and your family.&nbsp;<a href="/legal/special-notices-to-customers">Read more</a></p></div>
+            </div>
+            <div class="global-alert__controls">
+                <button class="willow-global-alert__close global-alert__button" onclick="killAlertBanner()">Dismiss</button>
+            </div>
+        </div>
+    </section>
+    <script language="javascript" type="text/javascript">
+        evaluateAlertBanner = function () {
+            var hideAlert = sessionStorage.getItem('override-display');
+
+            document.getElementById("banner-section").style.display = hideAlert === "true" ? "none" : "block";
+        }
+
+        killAlertBanner = function () {
+            sessionStorage.setItem("override-display", "true");
+            evaluateAlertBanner();
+        }
+
+        evaluateAlertBanner();
+    </script>
 
 
 <header class="ux-page-header" role="banner" data-is-mobile-nav-open="false">
@@ -299,6 +353,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="row">
         
 
+
+
 <div class="col-md-3">
     
 
@@ -374,7 +430,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="willow-styling-context">
                         Unum Group<br>
 Attn: Chief Privacy Officer/Privacy Office<br>
-2211 Congress Street, C476<br>
+2211 Congress Street, B267<br>
 Portland, Maine 04122<br>
 Email: <a href="mailto:privacy@unum.com">privacy@unum.com</a>
                     </div>
@@ -394,13 +450,13 @@ Email: <a href="mailto:privacy@unum.com">privacy@unum.com</a>
                                 <h2 class="w-footer-nav__subheading">Solutions for</h2>
                             </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/individuals" aria-label="">Individuals &amp; Policyholders</a>
+                                        <a class="w-footer-nav__link" href="/individuals" aria-label="Individuals &amp; Policyholders">Individuals &amp; Policyholders</a>
                                     </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/employers" aria-label="">Employers &amp; Plan Administrators</a>
+                                        <a class="w-footer-nav__link" href="/employers" aria-label="Employers &amp; Plan Administrators">Employers &amp; Plan Administrators</a>
                                     </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/brokers" aria-label="">Brokers &amp; Consultants</a>
+                                        <a class="w-footer-nav__link" href="/brokers" aria-label="Brokers &amp; Consultants">Brokers &amp; Consultants</a>
                                     </li>
                         </ul>
                     </div>
@@ -410,16 +466,16 @@ Email: <a href="mailto:privacy@unum.com">privacy@unum.com</a>
                                 <h2 class="w-footer-nav__subheading">Connect with Us</h2>
                             </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/about/contact-us" aria-label="">Contact Us</a>
+                                        <a class="w-footer-nav__link" href="/about/contact-us" aria-label="Contact Us">Contact Us</a>
                                     </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/individuals/claims" aria-label="">File a Claim</a>
+                                        <a class="w-footer-nav__link" href="/individuals/claims" aria-label="File a Claim">File a Claim</a>
                                     </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/insurance-agents" aria-label="">Find an Agent</a>
+                                        <a class="w-footer-nav__link" href="/insurance-agents" aria-label="Find an Agent">Find an Agent</a>
                                     </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/espanol" aria-label="">En Español</a>
+                                        <a class="w-footer-nav__link" href="/espanol" aria-label="En Español">En Español</a>
                                     </li>
                         </ul>
                     </div>
@@ -429,16 +485,16 @@ Email: <a href="mailto:privacy@unum.com">privacy@unum.com</a>
                                 <h2 class="w-footer-nav__subheading">Our Company</h2>
                             </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/about" aria-label="">About Colonial Life</a>
+                                        <a class="w-footer-nav__link" href="/about" aria-label="About Colonial Life">About Colonial Life</a>
                                     </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/about/careers" aria-label="">Careers</a>
+                                        <a class="w-footer-nav__link" href="/about/careers" aria-label="Careers">Careers</a>
                                     </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/about/newsroom" aria-label="">Newsroom</a>
+                                        <a class="w-footer-nav__link" href="/about/newsroom" aria-label="Newsroom">Newsroom</a>
                                     </li>
                                     <li class="w-footer-nav__item">
-                                        <a class="w-footer-nav__link" href="/employer-resource-center" aria-label="">Employer Resource Center</a>
+                                        <a class="w-footer-nav__link" href="/employer-resource-center" aria-label="Employer Resource Center">Employer Resource Center</a>
                                     </li>
                         </ul>
                     </div>
@@ -464,7 +520,7 @@ Email: <a href="mailto:privacy@unum.com">privacy@unum.com</a>
         </div>
         <div class="w-page-footer__description">
             <small class="w-page-footer__copy">
-                © 2018 Colonial Life &amp; Accident Insurance Company. All rights reserved. NS-15375-1
+                © 2019 Colonial Life &amp; Accident Insurance Company. All rights reserved. NS-15375-1
             </small>
             <div class="w-page-footer__legal">
                 <p>
