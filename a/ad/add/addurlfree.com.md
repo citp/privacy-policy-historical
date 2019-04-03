@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addurlfree.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426111227id_/http%3A//www.promotionstore.com/submitdisclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addurlfree.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403205333id_/http%3A//www.promotionstore.com/submitdisclaimer.html) for the most accurate reproduction.*
 
 # Promotion Store ® - Under $1 Custom Promotional Item Giveaways - Privacy Policy
 
