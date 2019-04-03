@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalism.co.uk privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213020241id_/https%3A//www.journalism.co.uk/s125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalism.co.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403072151id_/https%3A//www.journalism.co.uk/s125) for the most accurate reproduction.*
 
 # Privacy policy
 
