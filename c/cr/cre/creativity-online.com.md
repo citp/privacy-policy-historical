@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the creativity-online.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904102143id_/http%3A//creativity-online.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativity-online.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403095916id_/https%3A//adage.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Creativity Online
+# Privacy Policy - Ad Age
 
 _Effective starting: May 25, 2018_
 
-**Creativity-online.com, Creativity and the associated newsletters, news alerts, data centers, research reports, and other features are products of Crain Communications Inc. Our postal address is**
+**AdAge.com, Ad Age and the associated newsletters, news alerts, Datacenter reports, research reports, and other features are products of Crain Communications Inc. Our postal address is**
     
     
             Ad Age
-            685 Third Avenue
+            685 Third Avenue FL 9
             New York, NY
             
 
@@ -24,19 +24,13 @@ This policy also explains your choices about how we use information about you. 
 
 This policy is intended to help you understand: 
 
-  * • What information we collect about you
- 
-  * • How we use information we collect
- 
-  * • How we share information we collect
- 
-  * • How we store and secure information we collect
- 
-  * • How to access and control your information
- 
-  * • How we transfer information we collect internationally
- 
-  * • Other important privacy information
+  * What information we collect about you
+  * How we use information we collect
+  * How we share information we collect
+  * How we store and secure information we collect
+  * How to access and control your information
+  * How we transfer information we collect internationally
+  * Other important privacy information
 
 
 
@@ -74,16 +68,12 @@ We use cookies, web beacons and other technologies to improve and customize our
 
 How do we use them? 
 
-  * • **Where strictly necessary.**   These cookies and other technologies are essential in order to enable the Products to provide the feature you have requested, such as remembering you have logged in.
- 
-  * • **For  functionality.**  These cookies and similar technologies remember choices you make such as language or search parameters. We use these cookies to provide you with an experience more appropriate with your selections and to make your use of the Products more tailored.
- 
-  * • **For  performance and analytics.**  These cookies and similar technologies collect information on how users interact with the Products and enable us to improve how the Products operate.
- 
-  * • **Targeting Cookies or Advertising Cookies.**   These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertising technology service providers and advertisers.
- 
-  * • **Social media cookies.** These cookies are used when you share information using a social media sharing button or “like” button on our websites or you link your account or engage with our content on or through a social media site. The social network and related service providers will record that you have done this. This information may be used for targeting/advertising activities.
-  
+  * **Where strictly necessary.**   These cookies and other technologies are essential in order to enable the Products to provide the feature you have requested, such as remembering you have logged in.
+  *  **For  functionality.**  These cookies and similar technologies remember choices you make such as language or search parameters. We use these cookies to provide you with an experience more appropriate with your selections and to make your use of the Products more tailored.
+  *  **For  performance and analytics.**  These cookies and similar technologies collect information on how users interact with the Products and enable us to improve how the Products operate.
+  *  **Targeting Cookies or Advertising Cookies.**   These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertising technology service providers and advertisers.
+  *  **Social media cookies.** These cookies are used when you share information using a social media sharing button or “like” button on our websites or you link your account or engage with our content on or through a social media site. The social network and related service providers will record that you have done this. This information may be used for targeting/advertising activities.
+
 
 
 How can you opt-out? 
@@ -132,14 +122,11 @@ Legal basis for processing (for EEA users): 
 
 If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal basis for doing so under applicable EU laws.  The legal basis depend on the Products you use and how you use them. This means we collect and use your information only where: 
 
-  * • We need it to provide you the Products, including to operate the Products, provide customer support and personalized features and to protect the safety and security of the Products;
- 
-  * • It satisfies a legitimate interest (which is not overridden by your data protection interests), such as to market and promote the Products, for research and development and to protect our legal rights and interests;
- 
-  * • You give us consent to do so for a specific purpose; or
- 
-  * • We need to process your data to comply with a legal obligation.
-  
+  * We need it to provide you the Products, including to operate the Products, provide customer support and personalized features and to protect the safety and security of the Products;
+  * It satisfies a legitimate interest (which is not overridden by your data protection interests), such as to market and promote the Products, for research and development and to protect our legal rights and interests;
+  * You give us consent to do so for a specific purpose; or
+  * We need to process your data to comply with a legal obligation.
+
 
 
 If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place.  Where we are using your information because we or a third-party (e.g. your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean you no longer will have access to the Product. 
@@ -172,11 +159,9 @@ We share information with third parties that help us operate, provide, improve,
 
 **With your consent:** We share information about you with third parties when you give us consent or we are allowed to do so under applicable laws. 
 
-**Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights: ******
+**Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights:** In exceptional circumstances, we may share information about you with a third-party if we believe that sharing is reasonably necessary to (a) comply with any applicable laws, legal process or governmental request, (b) enforce our agreements, policies and terms of service, (c) protect the security or integrity of our products and services, (d) protect Crain, our customers or the public from harm or illegal activities, or (e) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person. 
 
-******Sharing with affiliated companies** ****
-
-****
+**Sharing with affiliated companies**
 
 We share information we collect with affiliated companies and, in some cases, with prospective affiliates.  Affiliated companies are companies owned or operated by us.  The protections of this privacy policy apply to the information we share in these circumstances. 
 
@@ -281,5 +266,3 @@ Your information is controlled by Crain Communications Inc.  If you have quest
             
 
 Policy Last Updated: May 2018
-
-****
