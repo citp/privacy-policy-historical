@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527040102id_/http%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchshop.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404014213id_/https%3A//www.watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
 
 # Privacy Policy | WatchShop.com™
 
@@ -8,11 +8,11 @@
 
 * * *
 
-Watch Shop is part of Aurum Group Limted who operate under the following brands:
+Watch Shop is part of The Watch Shop Holdings Limited who operate under the following brands:
 
 To help us provide the best possible service, we capture personal information about you but we respect and protect your privacy and do all we can to honour the trust you place in us by being transparent about what personal information we collect and how we use it, vowing to handle your data fairly and lawfully at all times.
 
-We are Aurum Group Limited of Aurum House, 2, Elland Road, Braunstone, Leicester LE3 1TT, United Kingdom and we are a Data Controller registered with the UK Information Commissioner’s Office with registration number Z5617669.
+We are The Watch Shop Holdings Limited of Aurum House, 2, Elland Road, Braunstone, Leicester LE3 1TT, United Kingdom and we are a Data Controller registered with the UK Information Commissioner’s Office with registration number Z5617669.
 
 Our Data Protection Officer is contactable via dpo@watchshop.com.
 
@@ -74,7 +74,7 @@ Our websites are not intended for children and we do not knowingly collect data 
 
 ## **1\. General**
 
-Aurum Group Limited (and trusted partners acting on our behalf) use your personal data:
+The Watch Shop Holdings Limited (and trusted partners acting on our behalf) use your personal data:
 
   
 
@@ -95,7 +95,7 @@ Aurum Group Limited (and trusted partners acting on our behalf) use your persona
 
 ## **2\. Marketing**
 
-Aurum Group Limited use your personal data for marketing purposes and may send you postal mail, texts and/or emails to update you on our latest offers and events.
+The Watch Shop Holdings Limited use your personal data for marketing purposes and may send you postal mail, texts and/or emails to update you on our latest offers and events.
 
 We aim to update you about products and services of interest and relevance to you as an individual.
 
@@ -177,7 +177,7 @@ The cookies stored on your computer or other device when you access our websites
   
 
 
-  * Aurum Group Limited or on our behalf, and are necessary to enable you to make purchases on our websites;
+  * The Watch Shop Holdings Limited or on our behalf, and are necessary to enable you to make purchases on our websites;
   * Third parties who participate with us in marketing programmes; and
   * Third parties who publish web banner advertisements for us.
 
@@ -215,7 +215,7 @@ Persistent cookies remember you for a set period of time allowing wishlist produ
 
 **Marketing Cookies:**
 
-Aurum Group Limited work with several partners who serve advertisements or present online offers on our behalf. Most of these marketing partners use both session and persistent cookies. These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. All data collected by third party cookies is anonymous and will never contain your name, address, telephone number, email address or payment details.
+The Watch Shop Holdings Limited work with several partners who serve advertisements or present online offers on our behalf. Most of these marketing partners use both session and persistent cookies. These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. All data collected by third party cookies is anonymous and will never contain your name, address, telephone number, email address or payment details.
 
   
 
@@ -364,7 +364,7 @@ We collect and use customers’ personal data:
 
 ## **Our Controls**
 
-Aurum Group Limited is committed to keeping your personal data safe and secure.
+The Watch Shop Holdings Limited is committed to keeping your personal data safe and secure.
 
 Our security measures include:
 
@@ -384,7 +384,7 @@ Our security measures include:
 
 ### **WHAT YOU CAN DO TO HELP PROTECT YOUR DATA**
 
-You should always be cautious when sharing your personal data. No one from our company will ever ask you to confirm any bank account or credit card details via email. If you receive an email claiming to be from Aurum Group Limited asking you to do so, please ignore it and do not respond.
+You should always be cautious when sharing your personal data. No one from our company will ever ask you to confirm any bank account or credit card details via email. If you receive an email claiming to be from The Watch Shop Holdings Limited asking you to do so, please ignore it and do not respond.
 
 If you are using a computing device in a public location, we recommend that you always log out and close the website browser when you complete an online session.
 
@@ -492,7 +492,7 @@ If you wish to exercise any of the above rights, you can always:
 
 You have the right to lodge a complaint with **the Information Commissioner’s Office** at Wycliffe House, Water Lane, Wilmslow SK9 5AF, United Kingdom if you believe we have not handled your personal data in accordance with the law. Further information, including contact details, is available at https://ico.org.uk.
 
-Aurum Group Limited
+The Watch Shop Holdings Limited
 
 Aurum House
 
