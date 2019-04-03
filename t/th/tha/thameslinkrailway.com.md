@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228035330id_/https%3A//www.thameslinkrailway.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403144515id_/https%3A//www.thameslinkrailway.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Thameslink - Privacy policy
 
