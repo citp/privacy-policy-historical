@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapeda.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025093248id_/https%3A//www.snapeda.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapeda.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403232128id_/https%3A//www.snapeda.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SnapEDA
 
@@ -11,6 +11,10 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+  * When visitors come to SnapEDA, third parties (such as AdRoll) may place cookies on their browsers for targeted advertising purposes. 
+  * We may collect the following information: location, device and browser information for targeted advertising purposes. 
+  * To opt-out of targeted advertising, please [notify us](mailto:info@snapeda.com)
+  * This Privacy Policy is intended to meet our duties of transparency under the "General Data Protection Regulation" or "GDPR"." 
 
 
 
