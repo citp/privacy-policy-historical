@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billypenn.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925034959id_/https%3A//billypenn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billypenn.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403033628id_/https%3A//billypenn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - On top of Philly news
 
