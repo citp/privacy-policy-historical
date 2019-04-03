@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the science20.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125132838id_/https%3A//www.science20.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the science20.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403223333id_/https%3A//www.science20.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
