@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trippy.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904052534id_/https%3A//www.trippy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trippy.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403104601id_/https%3A//www.trippy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date 09/12/2011. Last Modified Date: 5/17/2018.
+Effective Date 09/12/2011. Last Modified Date: 3/25/2019.
 
 Trip Remix, LLC ("Trippy," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Trippy when you use the Trippy Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/about/terms-of-service/).
 
@@ -28,7 +28,7 @@ Trip Remix, LLC ("Trippy," "we," or "us") knows that you care how information ab
 
 We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
 
-By providing Trippy your email address, including by "following," "becoming a fan," adding the Trippy application, etc., on a third party service such as Facebook, you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences on your [account settings](https://web.archive.org/settings/preferences) page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
+By providing Trippy your email address, including by "following," "becoming a fan," adding the Trippy application, etc., on a third party service such as Facebook, you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences on your [account settings](https://web.archive.org/settings/preferences/) page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
 
 Following termination or deactivation of your Member account, Trippy may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, Trippy may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your Member account. Notwithstanding the foregoing, we will delete all of your Facebook Data at your request.
 
@@ -44,7 +44,7 @@ We use cookies, clear gifs, device identifiers, location data and/or log file in
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
 
-Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. We may also share personal information or content with third party services, such as social networking sites, if you direct us to do so. To change your privacy settings on the Service, go to your [account settings](https://web.archive.org/settings/preferences) page. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. We may also share personal information or content with third party services, such as social networking sites, if you direct us to do so. To change your privacy settings on the Service, go to your [account settings](https://web.archive.org/settings/preferences/) page. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
 
 From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
@@ -106,8 +106,9 @@ If we change our privacy policies and procedures, we will post those changes on 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [privacy@trippy.com](mailto:privacy@trippy.com), or use our [online contact form](https://web.archive.org/about/contact/).
 
 **Address:**  
-1608 S Ashland Ave, #31851  
-Chicago, IL 60608
+Trip Remix, LLC  
+735 N Milwaukee Ave #518  
+Wheeling, IL 60090
 
 **Phone:**  
 312-772-5833
