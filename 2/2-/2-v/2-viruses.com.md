@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-viruses.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011162606id_/http%3A//www.2-viruses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-viruses.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403044637id_/https%3A//www.2-viruses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 2-viruses.com
 
@@ -8,27 +8,27 @@ _You should be also aware, that if you disclose personally identifiable informat
 
 **Gathering information**
 
-2-viruses.com does not gather personally identifiable information (Name, email, IP address) except the one your provide in comments and [contact form](http://www.2-viruses.com/about.html) or is available from server logs. Like almost all of websites, we are collecting information in terms of web logs to identify and locate various site problems and examine trends and usage statistics to provide better services for our users. Web logs contain such information as IP address, access time, pages accesses and referrer to our site.
+2-viruses.com does not gather personally identifiable information (Name, email, IP address) except the one your provide in comments and [contact form](https://www.2-viruses.com/about.html) or is available from server logs. Like almost all of websites, we are collecting information in terms of web logs to identify and locate various site problems and examine trends and usage statistics to provide better services for our users. Web logs contain such information as IP address, access time, pages accesses and referrer to our site.
 
 2-viruses.com uses Google analytics software package for determining aggregate site user behavior and improving the site. You can download google analytics opt-out tool here <http://tools.google.com/dlpage/gaoptout> if you have problems with that.
 
 2-viruses.com might display material or content from other sites, or link to sites that implement some kind of user tracking or (limited) indentifying using cookies. This includes, but not limited to:
 
-  1. Addthis.com – share buttons.
+  1. Facebook, Twitter, Google+ share buttons.
   2. Google DFP/Adsense for advertisement display.
   3. cleverbridge.com – Affiliate networks, providing tracking for Malwarebytes and some other security tools download
-  4. onenetworkdirect.com/digitalriver.com Affiliate networks, providing tracking of PC Tools, AVG, AVAST Downloads.
-  5. cj.com Affiliate networks, providing tracking of ESET products for US/UK customers.
+  4. Rewenuewire.com – Affiliate network for Spyhunter, Reimage, Combo Cleaner.
+  5. Reimage LTD – tracking visitors downloading Reimage.
 
 
 
-This is done to identify visitor arival source or provide customized browsing experience. We are not responsible for the information they collect. If you want to avoid this, you can disable cookies or allow them one by one. Some of our offered discounts might be void if user disables cookies, as the discounts might be offered for our readers only.
+This is done to identify visitor arrival source or provide customised browsing experience. We are not responsible for the information they collect. If you want to avoid this, you can disable cookies or allow them one by one. Some of our offered discounts might be void if user disables cookies, as the discounts might be offered for our readers only.
 
 **Information use**
 
-We do not sell or disclose personally identifable or aggregate information except when it is required by the law (i.e. court order). We might use personally-identifiable information for contacting with you, administrate our website, troubleshoot problems, contests and other purposes. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law.
+We do not sell or disclose personally identifiable or aggregate information except when it is required by the law (i.e. court order). We might use personally-identifiable information for contacting with you, administrate our website, troubleshoot problems, contests and other purposes. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law.
 
-There is a small possibility that we might sell or merge with another business. In such ceses the information we gathered (aka Google Analytics data, comment information we have stored, server logs and other information) might be among transfered assets.
+There is a small possibility that we might sell or merge with another business. In such cases the information we gathered (aka Google Analytics data, comment information we have stored, server logs and other information) might be among transfered assets.
 
 **Linked sites and  advertisements**
 
