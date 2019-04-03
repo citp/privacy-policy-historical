@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbader.org privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907050821id_/https%3A//dbader.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbader.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403230018id_/https%3A//dbader.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – dbader.org
 
