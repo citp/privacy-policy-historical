@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxuryproperty.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904101252id_/https%3A//www.luxuryproperty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryproperty.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403074725id_/https%3A//www.luxuryproperty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LuxuryProperty.com
 
@@ -39,4 +39,4 @@ This website is governed by United Arab Emirates (UAE) laws. Should you be locat
 
 ### CONTACT US
 
-If you have any questions or concerns about this Privacy Policy, please contact us by using the "Contact Us" feature or by sending an email to [customercare@luxuryproperty.com](mailto:customercare@luxuryproperty.com)
+If you have any questions or concerns about this Privacy Policy, please contact us by using the "Contact Us" feature or by sending an email to [[email protected]](https://www.luxuryproperty.com/cdn-cgi/l/email-protection#d5b6a0a6a1bab8b0a7b6b4a7b095b9a0ada0a7aca5a7baa5b0a7a1acfbb6bab8)
