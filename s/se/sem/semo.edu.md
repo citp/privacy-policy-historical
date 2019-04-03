@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semo.edu privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910161855id_/http%3A//www.semo.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semo.edu privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403132002id_/https%3A//semo.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Southeast Missouri State University
 
