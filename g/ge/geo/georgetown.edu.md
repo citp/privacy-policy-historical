@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgetown.edu privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128064252id_/https%3A//www.georgetown.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgetown.edu privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403180329id_/https%3A//www.georgetown.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Georgetown University
 
