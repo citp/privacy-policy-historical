@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dgt.gov.in privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229072635id_/http%3A//dgt.gov.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dgt.gov.in privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403021046id_/http%3A//dgt.gov.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy:: Directorate General of Training (DGT)
+# Privacy Policy | Directorate General of Training
 
 We do not collect personal information for any purpose other than to respond to you. If you choose to provide us with personal information like filling out a Contact Us form with an e-mail address or postal address, and submitting it to us through the website, we use that information to respond to your message, and to help you get the information you have requested.
 
@@ -9,5 +9,3 @@ We do not collect personal information for any purpose other than to respond to 
   * The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
 
 
-
-Page Last updated on : 15-04-2014 
