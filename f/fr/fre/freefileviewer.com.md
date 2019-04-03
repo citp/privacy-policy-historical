@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefileviewer.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529201124id_/http%3A//www.bitberry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefileviewer.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403160943id_/https%3A//www.bitberry.com/privacy.html) for the most accurate reproduction.*
 
 # Bitberry Software Privacy and Data Protection Policy
 
@@ -138,19 +138,19 @@ If you use our products and services anonymously, i.e. without having registered
 
 ### The right to request access to your personal data
 
-If you would like to know what personal data we hold on you, you can see most of it in our [customer portal](http://www.bitberrycustomer.com/) where you can see and update information provided when purchasing software from us, including when and from where you downloaded the licensed software. 
+If you would like to know what personal data we hold on you, you can see most of it in our [customer portal](https://www.bitberrycustomer.com/) where you can see and update information provided when purchasing software from us, including when and from where you downloaded the licensed software. 
 
-[Contact us](http://www.bitberry.com/index.html#contact) if you need the information provided by email, but be sure to include information that can clearly identify you, otherwise we will not be able to fulfill your request. 
+[Contact us](https://www.bitberry.com/index.html#contact) if you need the information provided by email, but be sure to include information that can clearly identify you, otherwise we will not be able to fulfill your request. 
 
 ### The right to rectification of your personal data
 
-You will find an overview of the records stored by us, such as your name and email address in our [customer portal](http://www.bitberrycustomer.com/). If you find that this information is incorrect, you can change it yourself. 
+You will find an overview of the records stored by us, such as your name and email address in our [customer portal](https://www.bitberrycustomer.com/). If you find that this information is incorrect, you can change it yourself. 
 
-For all other rectifications, please [contact us](http://www.bitberry.com/index.html#contact). 
+For all other rectifications, please [contact us](https://www.bitberry.com/index.html#contact). 
 
 ### The right to erasure of your personal data
 
-Should you wish to delete your data, please [contact us](http://www.bitberry.com/index.html#contact). We will then erase your data in accordance with legal requirements. 
+Should you wish to delete your data, please [contact us](https://www.bitberry.com/index.html#contact). We will then erase your data in accordance with legal requirements. 
 
 However, please notice that we are legally obliged to store certain data for longer periods of time (e.g. the retention periods for accounting documents are currently 5 years). 
 
@@ -170,7 +170,7 @@ Please let us know in writing which data you would like to transfer to whom. We 
 
 If you are dissatisfied with our efforts in connection with data protection, you have the right to lodge a complaint with the data protection supervisory authority responsible in your country. Bitberry Software's home country is Denmark, where the responsible authority is [The Danish Data Protection Agency (Datatilsynet)](https://www.datatilsynet.dk/). 
 
-Please contact us at privacy@bitberry.com or using our [contact form](http://www.bitberry.com/index.html#contact) if you have any questions regarding the protection of your personal data or if you wish to exercise your legal rights. 
+Please contact us at privacy@bitberry.com or using our [contact form](https://www.bitberry.com/index.html#contact) if you have any questions regarding the protection of your personal data or if you wish to exercise your legal rights. 
 
 Address:
 
