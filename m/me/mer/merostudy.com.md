@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the merostudy.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307194125id_/http%3A//merostudy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merostudy.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403101152id_/https%3A//www.merostudy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mero Study
+# Privacy Policy
 
-Merostudy Pvt. Ltd. (“us”, “we”, or “our”) operates Merostudy.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+Agile Education Pvt. Ltd. (“us”, “we”, or “our”) operates Merostudy.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
