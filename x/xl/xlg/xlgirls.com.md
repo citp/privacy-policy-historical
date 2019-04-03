@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xlgirls.com privacy policy that was archived on 2018-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180711161444id_/http%3A//www.xlgirls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlgirls.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403074144id_/http%3A//www.xlgirls.com/privacy) for the most accurate reproduction.*
 
 # TSG Privacy Policy
 
