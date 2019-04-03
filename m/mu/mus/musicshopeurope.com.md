@@ -1,41 +1,116 @@
-> *The following text is extracted and transformed from the musicshopeurope.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929211538id_/https%3A//www.musicshopeurope.com/en-us/content/privacy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicshopeurope.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403163206id_/https%3A//www.musicshopeurope.com/en-us/content/privacy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Music Shop Europe
 
-**Music Shop Europe BV respects your right to privacy and is committed to ensuring the security of our customers’ information. By visiting our website you accept our Privacy Policy as outlined below.**
+23 May 2018
 
-**Information We Collect and How It's Used**   
-**  
-Contact Information**
+Your privacy is of great importance to Music Shop Europe B.V. and we strictly abide by privacy laws and regulations. This means that your personal data is safe in our hands and is always used in a proper manner. In this privacy statement, we will explain everything we at the Music Shop Europe web shop do with information we acquire about you.
 
-Music Shop Europe does not sell, trade or rent your personal information to others. To process your order, we require you to provide us your name, mailing address, and email. When you sign up for our email newsletters or other information services, we need only an email address. We monitor site usage and traffic in aggregate to help us develop and improve the web experience for you the customer. We also try to personalise your shopping experience as much as possible by using your browse history and past purchases to recommend the products of interest to you. We may also use your contact information to notify you about important changes to our site, new services and special offers. 
+If you have any questions, or would like to know exactly which of your data is stored by us, please contact Music Shop Europe B.V.
 
-We may also use your contact information to send you printed catalogues or other related material by post. If you do not wish to receive this form of mail from us, again, please [contact us](https://www.musicshopeurope.com/contactus.aspx). 
+**Dealing with orders  **  
+If you place an order with us, we will use your personal data to deal with it in a proper manner. We are allowed to pass on your personal data to our delivery service to have your order delivered to you. We will also receive information about your payment from your bank or credit card company.
 
-**Need to make a change?  
-**   
-If you would like to change any of your information in our database, please feel free to [Edit Your Details](http://musicshopeurope-live.ism-hosting.nl/en-us/profile/editprofile.aspx) or [Contact Us](https://www.musicshopeurope.com/contactus.aspx).
+We use your payment details, name and address details, email address, telephone number and invoice address for this purpose. We need this information for the contract we have concluded with you. We will store this information until your order has been completed and for seven years thereafter (pursuant to the statutory retention obligation).
 
-**Aggregate Information**
+_Provision of data to third parties  _  
+We cooperate with certain companies that may receive your abovementioned personal data from us.  
+To deal with orders, we work in partnership with:
 
-We collect aggregate information on visits made to our website. When you visit our website, our web server recognises your domain name, but not your email address. This means that we can track visits to our site, while visitors remain anonymous. Non-personal information is collected, such as how many consumers visit the site, what pages are accessed and which browsers or operating systems are used. This information helps us improve the content of our site.
+  * our payment provider DocData;
+  * our postal operator TransSmart.
 
-**Cookies**
 
-Cookies are pieces of data your web browser stores on your hard drive. We use cookies to create your shopping list. Cookies allow you to make a list of products that interest you, and retrieve it again on subsequent visits to the site. Most browsers accept cookies. However, if you wish, you can usually set them to refuse cookies. Music Shop Europe does not use cookies to gather any personal information.
 
-**Data Sharing and Transfer**
+**Statistics and profiling  **  
+We keep statistics on the use of our web shop. We use those statistics to improve our web shop so we can, for example, show you only information that is relevant to you. We may combine your personal data to get to know you better. Needless to say, we will respect your privacy at all times. You may contact us at any time if you would prefer us not to do this.
 
-Other than as described above, Music Shop Europe will not share or transfer your personal information to third parties. In the event that Music Shop Europe is ever bought, sold, or merged with another entity, we reserve the right to transfer all of our collected information along with the rest of the assets of the company to the new owner.
+We use your telephone number, email address, IP address, musical instrument and name and address details for this purpose. We have a legitimate interest in doing this. We will store this information for one year.
 
-**Links**
+_Provision of data to third parties  _  
+We cooperate with certain companies that may receive your abovementioned personal data from us.
 
-This web site contains links to other sites. Please be aware that Music Shop Europe is not responsible for the privacy practices of these other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every linked web site, as their privacy policies may differ from ours. This privacy statement applies solely to this web site.
+Of those parties, Bronto is based outside the EU.
 
-**Copyright Ownership**
+**Contact form and newsletter  **  
+You can use the contact form to ask us questions or to make requests.  
+We use your email address, IP address, telephone number and name and address details for this purpose. We need this information for the contract we have concluded with you. We will store this information until we are certain that you are satisfied with our response and for six months thereafter. This way, we can readily access the information should you have any follow-up questions and train our customer service staff so that the service they provide is better still.
 
-Music Shop Europe retains full copyright ownership, rights and protection of all materials contained in this web site.
+You may subscribe to our newsletter, in which you will find news, tips and information about our products and services. You may cancel the subscription at any time. Every newsletter contains a link with which you can unsubscribe. You can also indicate your wish to unsubscribe through your account. Your email address will only be added to the list of subscribers with your consent. This data will be stored until you cancel your subscription.
 
-**Notification of Changes**
+_Provision of data to third parties  _  
+We cooperate with certain companies that may receive your abovementioned personal data from us.
 
-We reserve the right to revise this privacy policy. In the event of a revision, changes will be posted on this web site so our visitors and customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please [Contact Us](http://musicshopeurope-live.ism-hosting.nl/en-us/contactus.aspx).
+Of those parties, Bronto is based outside the EU.
+
+**Your account  **  
+You will have to register first before you can use certain sections of our web shop. At this point, you will be required to provide information about yourself and select a user name. We use this to create an account that you can log into with your user name and a password of your choice.
+
+We use your name and address details, telephone number, email address, IP address, musical instrument, invoice address and payment details for purpose. We have a legitimate interest in doing this. We store this information until you cancel the account.
+
+We store this information to prevent you from having to enter it repeatedly and to make it easier for us to contact you should that prove necessary after you have used the web shop. You can amend information whenever you wish through your account.
+
+_Provision of data to third parties  _  
+We cooperate with certain companies that may receive your abovementioned personal data from us.
+
+Of those parties, Bronto is based outside the EU.
+
+**Advertising  **  
+We would like to send you information advertising offers and new products or services. We do this:
+
+  * by post;
+  * by email;
+  * via social media.
+
+
+
+You may object to receiving such advertising at any time. Every letter contains details of how to do so. Every email contains a link with which you can unsubscribe. You may block us or use the unsubscribe option. You can also use your account to indicate your objection.
+
+**Location details  **  
+Our Music Shop Europe website will sometimes require your location. In such cases, we will ask separately whether we are allowed to access that information and will receive it only if you give your consent.
+
+We use the navigation and location software on your telephone, tablet or computer for this service. We have no control over what the software manufacturers (such as Google Maps) do with the information. You should therefore always read their privacy statements.
+
+**Provision of data to other companies or institutions  **  
+With the exception of the abovementioned partners, we will not pass on your personal data to other companies or institutions under any circumstances, unless we are required by law to do so (e.g. if the police demand it in relation to suspicion of an offence having been committed).
+
+Our web shop includes social media buttons. The administrators of these services use them to collect your personal data.
+
+**Google Analytics  **  
+We use Google Analytics to keep records of how users use our web shop. We have concluded a Data Processing Agreement with Google. It contains strict agreements on the data about which they may keep records. We have not given Google consent to use the information obtained from Analytics for other Google services. We arrange for Google to anonymise the IP addresses.
+
+**Security  **  
+Protection of personal data is very important to us. We take the following measures to protect your privacy:
+
+  * Access to personal data is protected with a user name and password. We use secure connections (Secure Sockets Layer, or SSL), which ensure that all information transmitted between you and our website is protected when you enter your personal data.
+
+
+
+**Amendments to this privacy statement  **  
+Needless to say, we amend our privacy statement whenever there are any changes to our web shop. We recommend that you always note the date at the top and check regularly to see if there are any new versions. We will do our best to announce changes separately as well.
+
+**Inspecting, amending and removing your data  **  
+You may contact us at any time if you have any questions or wish to know which of your personal data we hold. See the contact details below.
+
+You have the following rights:
+
+  * to receive an explanation of what personal data we have collected about you and how we use that data;
+  * to inspect the specific personal data that we have collected;
+  * to have any errors rectified;
+  * to have outdated personal data erased;
+  * to withdraw your consent;
+  * to object to a specific type of use of the data.
+
+
+
+Please always ensure that you make your identity clearly known, so we, in turn, can ensure that we do not modify or delete the data of the wrong person  
+.  
+**Submitting a complaint  **  
+If you are of the opinion that we have not provided you with the proper assistance, you have the right to submit a complaint to the supervisory authority, the Dutch Data Protection Authority.
+
+**Contact details  **  
+Music Shop Europe B.V.   
+Businesspark Friesland-West 15   
+8447 SL Heerenveen   
+info@musicshopeurope.com   
++31 88 0233433
