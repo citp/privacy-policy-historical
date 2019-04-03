@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gnomonschool.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210090414id_/https%3A//www.gnomon.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomonschool.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403134401id_/https%3A//www.gnomon.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gnomon | Gnomon
 
 ## What information do we collect?
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
+We collect information any time you use our site, including when you register, place an order, subscribe to our newsletter or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
@@ -37,6 +37,12 @@ We use cookies to help us remember and process the items in your shopping cart a
 ## Remarketing
 
 We use Google AdWords Remarketing to advertise Gnomon across the internet. AdWords remarketing will display relevant ads tailored to you based on what parts of the Gnomon website you have viewed by placing a cookie on your machine. This cookie does not identify you or give Google or us access to your computer. The cookie essentially states, "This person visited this webpage, so show this person ads related to that webpage." Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and to only display ads that are relevant to you. Learn more about Google’s use of cookies by visiting <http://www.google.com/policies/technologies/ads/>.
+
+## Analytics Services
+
+This site uses the Lucky Orange analytics system to help improve usability and the customer experience. Lucky Orange may record mouse clicks, mouse movements, and scrolling activity. No information sent to Lucky Orange is personally identifiable.
+
+To view and manage any data that Lucky Orange may have collected about you or to opt out of any future tracking, please visit the [Lucky Orange Privacy Policy](https://www.luckyorange.com/privacy.php).
 
 ## Do we disclose any information to outside parties?
 
