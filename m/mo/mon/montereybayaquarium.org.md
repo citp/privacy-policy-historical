@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226135929id_/http%3A//www.montereybayaquarium.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403024415id_/https%3A//www.montereybayaquarium.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Monterey Bay Aquarium
 
