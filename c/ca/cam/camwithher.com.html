@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the camwithher.com privacy policy that was archived on 2018-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180129013126id_/http%3A//www.camwithher.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the camwithher.com privacy policy that was archived on 2019-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190403041504id_/http%3A//www.camwithher.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
@@ -54,8 +54,7 @@ var CAMS_DOMAIN = '//cams.camwithher.com';
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=596292207078202";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-    <script type="text/javascript" src="/templates/cwh_camwithher/english/scripts/dynamic.js?language=english"></script>
-    <script src="https://bitpay.com/bitpay.min.js"></script>
+<script type="text/javascript" src="/templates/cwh_camwithher/english/scripts/dynamic.js?language=english"></script>
     <div class="pup">
       <div class="box box-login fill_notUser hidden">
         <div class="top">
@@ -120,7 +119,7 @@ var CAMS_DOMAIN = '//cams.camwithher.com';
             <i class="fa fa-lock button"></i>
             <div class="field"><input type="password" name="customer_password" value="" placeholder="Password"></div>
           </div>
-          <input type="hidden" id="fill_redirectUrl" name="login_redirect_url" value="">
+          <input type="hidden" id="fill_joinRedirectUrl" name="login_redirect_url" value="">
           <div class="cboxes">
             <span class="cbox password">Your password must be 8 characters including an uppercase letter and a digit</span>
             <span class="cbox"><input type="checkbox" name="customer_gtc" value="1" class="checkbox" checked="checked" id="customer_gtc"><label for="customer_gtc">I am over 18 and accept the <a href="/exec/customer/gtc.jsp">GTC</a></label></span>
@@ -152,6 +151,7 @@ var CAMS_DOMAIN = '//cams.camwithher.com';
           </div>
         </form>
       </div>
+      <div class="box box-address"></div>
       <div class="box box-plus">
         <ul class="slider">
           <li class="slide1">&nbsp;</li>
@@ -187,7 +187,7 @@ var CAMS_DOMAIN = '//cams.camwithher.com';
         <li><a href="/exec/profile">Profile<i class="fa fa-user"></i></a></li>
         <li><a href="/exec/myfanclubs">My Fan Clubs<i class="fa fa-star"></i></a></li>
         <li><a href="/exec/favorites">Favorites<i class="fa fa-heart"></i></a></li>
-        <li><a href="/exec/privatemessages">Messages<i class="fa fa-envelope"></i></a></li>
+        <li><a href="/exec/privatemessages" class="fill_messages">Messages<i class="icon fa fa-envelope"></i></a></li>
         <li class="fill_isUser"><a href="/exec/logout" onclick="$(document).trigger('logoutUser');">Logout<i class="fa fa-times"></i></a></li>
       </ul>
       <div class="title">
@@ -196,7 +196,7 @@ var CAMS_DOMAIN = '//cams.camwithher.com';
       <ul class="fw300">
         <li><a href="https://cams.camwithher.com/">Cams<i class="fa fa-video-camera"></i></a></li>
         <li><a href="//www.camwithher.com/home">Home<i class="fa fa-home"></i></a></li>
-        <li class="hidden visible768"><a href="//www.camwithher.com/camfeed">Camfeed<i class="fa fa-camera"></i></a></li>
+        <li class="hidden visible768"><a href="/exec/camfeed">Camfeed<i class="fa fa-camera"></i></a></li>
         <li class="hidden visible768"><a class="fill_modelOfTheMonth_link">Model of the Month<i class="fa fa-star"></i></a></li>
         <li><a href="/exec/fanclubs">Fan Clubs<i class="fa fa-star"></i></a></li>
         <li><a href="/exec/snapchats">Snapchats<i class="fa fa-snapchat-ghost"></i></a></li>
@@ -254,13 +254,13 @@ var CAMS_DOMAIN = '//cams.camwithher.com';
       </div>
       <div class="cwh-bar">
         <div class="primary">
-          <a href="http://www.camwithher.com/camfeed" class="hcol cwh-highlight cwh-latest-feed">
+          <a href="/exec/camfeed" class="hcol cwh-highlight cwh-latest-feed">
             <div class="upstate">
-              <img src="https://www.sexycaps.com/getLatestEmbedPost.php?sid=1" alt="Latest Webcam Feed" class="thumb">
+              <img src="/exec/camfeed?latest=1" alt="Latest Webcam Feed" class="thumb">
               <span class="label">Cam Feed</span>
             </div>
             <div class="overstate">
-              <img src="https://www.sexycaps.com/getLatestEmbedPost.php?sid=1" alt="Latest Webcam Feed" class="thumb">
+              <img src="/exec/camfeed?latest=1" alt="Latest Webcam Feed" class="thumb">
               <div class="texts">
                 <span class="label">Latest Cam Feed</span>
                 <span class="desc">Check out the latest cam feed<br> images from our models!</span>
@@ -363,22 +363,31 @@ var CAMS_DOMAIN = '//cams.camwithher.com';
             <a href="http://www.camwithher.com/tour/">Preview</a>
           </li>
           <li>
-            <a href="http://cams.camwithher.com/">Webcams</a>
+            <a href="http://cams.camwithher.com/">Live Cams</a>
           </li>
-          <li>
-            <a href="https://www.snrproductions.com/become" target="_blank">Become a Camgirl</a>
+         <li>
+            <a href="https://cams.camwithher.com/exec/fanclubs">Fan Clubs</a>
+          </li>
+         <li>
+            <a href="https://cams.camwithher.com/exec/shows">On Demand</a>
+          </li>
+         <li>
+            <a href="https://cams.camwithher.com/exec/snapchats">Snapchats</a>
+          </li>
+         <li>
+            <a href="https://cams.camwithher.com/exec/store">Store</a>
           </li>
           <li>
             <a href="http://www.snrzips.com/" target="_blank">Zip Sets</a>
-          </li>
-          <li>
-            <a href="https://m.camwithher.com" onclick="return goMobile();">Mobile Version</a>
           </li>
         </ul>
       </div>
       <div class="list">
         <h5 class="label fw300">Help&amp;<span class="fw700">Information</span></h5>
         <ul>
+          <li>
+            <a href="https://www.snrproductions.com/become" target="_blank">Become a Model</a>
+          </li>
           <li>
             <a href="http://www.snrcash.com/" target="_blank">Webmasters</a>
           </li>
@@ -400,19 +409,25 @@ var CAMS_DOMAIN = '//cams.camwithher.com';
         </ul>
       </div>
       <div class="list">
-        <h5 class="label fw300">Webcam<span class="fw700">Network</span></h5>
+        <h5 class="label fw300">SNR<span class="fw700">Network</span></h5>
         <ul>
           <li>
-            <a target="_blank" href="http://www.icgirls.com/">ICGirls</a>
+            <a target="_blank" href="https://www.icgirls.com/">ICGirls</a>
           </li>
           <li>
-            <a target="_blank" href="http://classycams.com/">ClassyCams</a>
+            <a target="_blank" href="https://mega.fans/">MegaFans</a>
           </li>
           <li>
-            <a target="_blank" href="http://www.camleap.com/">CamLeap</a>
+            <a target="_blank" href="http://cams.camwithhim.com/">CamWithHim</a>
           </li>
           <li>
-            <a target="_blank" href="http://cams.camwithhim.com/">Want Camguys?</a>
+            <a target="_blank" href="https://www.sweetassangels.com/">SweetAssAngels</a>
+          </li>
+          <li>
+            <a target="_blank" href="https://www.thearidee.com/">TheAriDee</a>
+          </li>
+          <li>
+            <a target="_blank" href="https://www.camwithcarmen.com/">CamWithCarmen</a>
           </li>
         </ul>
       </div>
@@ -428,7 +443,7 @@ var CAMS_DOMAIN = '//cams.camwithher.com';
       <a href="http://cams.camwithher.com" class="logo"><img src="images/logo.png" alt="Live Camshows from World Class &amp; Amateur Camgirl Models"></a>
       <p>© <span class="fill_date"></span> CamWithHer.com / All Rights Reserved.<br><a href="https://www.camwithher.com/2257">18 U.S.C. 2257 Record-Keeping Requirements Compliance</a></p>
 
-    <div style="float:right; margin-top: -15px;">
+    <div class="liveSupport">
     <script language="javascript" src="//snrsupport.com/support/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=0"></script>
     </div>
   </div>
