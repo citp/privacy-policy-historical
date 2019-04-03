@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crayola.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904100731id_/https%3A//www.crayola.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crayola.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403065849id_/https%3A//www.crayola.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | crayola.com
 
@@ -74,7 +74,7 @@ Crayola LLC
 P.O. Box 431  
 Easton, PA 18044.
 
-You may also email us at supportcrayola.com or call us at 1-800-CRAYOLA. 
+You may also email us at [Crayola.com/Support ](http://crayola.com/Support)or call us at 1-800-CRAYOLA. 
 
 **Visiting Our Services From Outside The United States**
 
