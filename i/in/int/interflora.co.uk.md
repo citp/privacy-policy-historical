@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925080305id_/https%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403151750id_/https%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
 
 # Interflora Help - Privacy Policy
 
-Effective Date: 20 May 2018 (v.2)
+Effective Date: 18 March 2019 
 
 Interflora Privacy Policy
 
@@ -95,21 +95,39 @@ We will use your personal data for the following purposes:
 
 
 
-NOTE: Please note that you will receive communications with respect to fulfilling your order or for customer care purposes even if you opt out of receiving marketing communications. 
+NOTE: Please note that you will receive communications with respect to fulfilling your order or for customer care purposes even if you opt out of receiving marketing communications. This communication could be from Interflora Customer Care, the Interflora florist, courier or the supplier fulfilling your order.
 
-**For marketing purposes:**
+**For marketing purposes (including personalisation):**
 
   * To keep you up-to-date with new products and services that we think will be of interest to you
   * To provide you with promotional offers 
-  * To personalise your experience with Interflora by providing products and information tailored to you through your purchasing history with us
+  * To personalise your experience with Interflora by providing information on products, services, news and updates tailored specifically to you through insights we have from the data you have provided to us
+  * To provide personalised marketing to you based on insights we have gained from the data you have provided to us (e.g. your purchasing history, the occasions you have purchased for and the frequency you have purchased from us)
   * To serve you with marketing advertisements based on your browsing history on our Websites, to the extent you use our Websites, through cookies on our Websites or a registered account with us. See our Cookie Policy
   * Notify you of competitions and prize draw offers to enable you to enter and to notify you of any wins
 
 
 
-**For marketing through third parties:**
+**For marketing through third parties (including online advertising):**
 
-If you use our Websites, then you may receive personalised advertisements of our products and services when browsing other Websites using the same computer or device you used to view our Websites. This marketing is enabled through the cookies collecting data of your online browsing behaviour. These cookies are operated either by Interflora or by a third party and the advertisements are provided through a third party. Details of our third party providers are available within Clause 9 of this policy. 
+If you use our Websites, then you will receive marketing from us through our third party suppliers such as email campaigns and direct marketing campaigns promoting our products and services.
+
+By using our Websites you will also receive personalised online advertising when browsing other websites using the same computer or device you used to view our Websites. Online advertising isenabled through the cookies collecting data of your online browsing behaviour. These cookies are operated either by Interflora or by a third party and the online advertising is provided through a third party.
+
+Please note that we use search engine advertising programmes e.g. Facebook, Google Adwords and other advertising platforms to serve online advertising. If you are a registered user with these types of advertising platforms, we will use your email address or other contact information, in an encrypted format, to:
+
+  * match with your profile on these advertising platforms so that we can provide you with personalised online advertising on these advertising platforms
+  * to find other registered users (known as “lookalikes”) of these advertising platforms that share similar interests to you based on:
+    * information we have observed about you from your interactions with our Websites
+    * the information these advertising platforms hold about you
+
+
+
+Please note that the online advertising outlined above is subject to the privacy choices you have made on these advertising platforms.
+
+You can opt out of receiving online advertising from us via **Privacy Settings**. 
+
+Details of our third party providers are available within Clause 9 of this policy.
 
 You can remove or disable cookies at any time, see our Cookie Policy. 
 
@@ -145,10 +163,10 @@ You may opt out of marketing communications or change your preferences with resp
   * Unsubscribing from SMS messaging by texting “STOP” to the number included in the SMS message
   * Updating your preferences within your “My Account”
   * Contacting us via the contact information provided in this policy
-  * Contacting us via the Privacy Hub on our Websites as follows:
-    * [Interflora.co.uk – Privacy Hub](https://www.interflora.co.uk/preferences/ "Interflora – Privacy Hub")
-    * [Interflora.ie – Privacy Hub](https://www.interflora.ie/preferences/ "Interflora Ireland – Privacy Hub")
-    * [flyingflowers.co.uk – Privacy Hub](https://www.flyingflowers.co.uk/email-verify/ "Flying Flowers – Privacy Hub")
+  * Contacting us via the Privacy Settings on our Websites as follows:
+    * [Interflora.co.uk – Privacy Settings](https://www.interflora.co.uk/preferences/ "Interflora – Privacy Settings")
+    * [Interflora.ie – Privacy Settings](https://www.interflora.ie/preferences/ "Interflora Ireland – Privacy Settings")
+    * [flyingflowers.co.uk – Privacy Settings](https://www.flyingflowers.co.uk/email-verify/ "Flying Flowers – Privacy Settings")
 
 
 
@@ -178,7 +196,7 @@ Interflora relies on different lawful basis for processing personal data. In som
 
 **Contract:** We collect and process personal data in order to fulfil the order you place with us, and in accordance with our contract with you to fulfil your order. Such personal data includes the items detailed in Clause 3 under the title “To fulfil your order”.
 
-**Legitimate Interest:** We collect and process personal data for our legitimate interests in fulfilling and processing your order, any customer care issues, to conduct research, to send email and direct marketing to you, handling legal claims, and for fraud identification and prevention checks. Such personal data includes the items detailed in Clause 3 under the title “For customer care purposes”, “For marketing purposes”, “For marketing through third parties” and “For internal business purposes”. With respect to any direct marketing we provide on the basis of a legitimate interest, you can unsubscribe as described in Clause 4. 
+**Legitimate Interest:** We collect and process personal data for our legitimate interests in fulfilling and processing your order, any customer care issues, to conduct research, to send email, direct marketing and online advertising to you, handling legal claims, and for fraud identification and prevention checks. Such personal data includes the items detailed in Clause 3 under the title “For customer care purposes”, “For marketing purposes”, “For marketing through third parties” and “For internal business purposes”. With respect to any direct marketing we provide on the basis of a legitimate interest, you can unsubscribe as described in Clause 4.
 
 **Consent:** In addition to the legitimate interests outlined above, we rely on the consent you have provided as the legal basis for our marketing communications. You can unsubscribe to the marketing communications as described in Clause 4. Please note that withdrawing your consent may not be sufficient to cease all communications or for us to delete your personal data since we may have another lawful basis or ongoing reason we need to keep personal data such as a new purchase or recordkeeping legal obligations. Please further note that if you make a purchase with us after you have withdrawn your consent, we may collect and use personal data in accordance with this privacy policy with respect to that purchase and you will be asked for consent for marketing communications again. 
 
@@ -188,19 +206,19 @@ Top of page
 
 We will share your personal data with certain third parties in order to fulfil and process your order, enable us to perform our contract to provide your purchase to you, provide our Websites and to provide you with marketing. The following is a list of types of third parties that may receive your personal data. Our third party providers are required to handle your personal data in accordance with appropriate data protection and security controls.
 
-  * **Interflora Member Florists/Fulfilment Partners:** Interflora shares data with our florists who are independently owned and operated businesses. Our florists are our distributors for the purposes of fulfilling and delivering your purchases. We also use other third party fulfilment partners such as wholesalers for certain products and postal and courier services. Our florists and fulfilment partners may contact you or the recipient to assist in fulfilling your order. More specifically, on some occasions, you or the recipient may be contacted to schedule delivery or verify delivery information and availability. To maintain our high quality standards, we may contact recipients to ensure satisfaction with their gift.
+  * **Interflora Member Florists/Fulfilment Partners:** Interflora shares data with our florists who are independently owned and operated businesses. Our florists are our distributors for the purposes of fulfilling and delivering your purchases. We also use other third party fulfilment partners such as wholesalers for certain products and postal and courier services. Our florists and fulfilment partners may contact you or the recipient to assist in fulfilling your order. More specifically, on some occasions, you or the recipient will be contacted to schedule delivery or verify delivery information and availability. To maintain our high quality standards, we may contact recipients to ensure satisfaction with their gift.
   * **Interflora Affiliates:** Interflora may share personal data with its affiliates from time to time including Interflora’s parent company FTD Companies, Inc. and its subsidiaries (FTD) and those affiliates who may subsequently be acquired by Interflora, its parent company or its affiliated companies. If you have ordered a product for international delivery, this may also include other third party entities who fulfil orders under the Mercury Man network for international floral and gifting delivery.
   * **IT Suppliers and Vendors:** In order to manage our operations, Interflora contracts with third parties who provide security and technical services to protect our Websites, maintain databases of personal data for the purposes outlined in this privacy policy and present Websites content.
   * **Flower and Gifting Suppliers (other than Interflora Florist Members):** In order to fulfil customer orders, Interflora contracts with third parties who provide flowers, plants and gifting such as wine, chocolates, food and food hampers.
   * **Financial/Payment Service Providers:** In order to process customer orders placed with us, Interflora contracts with payment service companies who process payment, ensure security of your transactions, and prevent or detect fraudulent transactions.
   * **Marketing Service Providers:** Interflora contracts with third parties who:
     * provide email marketing, SMS (text) marketing, direct marketing campaigns
-    * provide online advertising campaigns
+    * provide online advertising campaigns e.g. Facebook, Google Adwords and other similar advertising platforms
     * maintain databases of personal data for marketing campaigns as outlined in this privacy policy
     * provide to us reporting of our marketing campaigns
     * provide services to facilitate ‘refer a friend’ offers as and when these are promoted
     * provide affiliate marketing services to us e.g. consumer discount websites
-  * **Market Research Providers:** In order to continually improve our customer experience, Interflora contracts with third parties who provide market research services which include collating and reporting of customer feedback, and collate and provide customer feedback via customer surveys. 
+  * **Market Research Providers:** In order to continually improve our customer experience, Interflora contracts with third parties who provide market research services, which include collating and reporting of customer feedback, and collate and provide customer feedback via customer surveys. 
   * **Website Improvement:** In order to improve our online customer experience, Interflora contracts with third parties who help us identify and make improvements to our website, provide website traffic data and website performance analysis information, and provide analysis on website performance focused on customer experience. 
   * **Customer Service Providers:** In order to provide the best possible customer services to our customers, Interflora contracts with third parties who provide call handling services for the purposes of taking customer orders, customer order enquiries and dealing with any customer care issues and provide ‘Live Chat’ functionality.
 
@@ -209,7 +227,7 @@ We will share your personal data with certain third parties in order to fulfil a
 In addition to the reasons identified above, we may provide your personal data to third parties in the following circumstances: 
 
   * **Law Enforcement/Government Requests:** We may be required by law to provide personal data to law enforcement, a government agency or in response to a search warrant, subpoena or other legally valid enquiry or order, or to an investigative body or civil litigant including emergency situations. We may also disclose personal data when we believe in good faith that disclosure is necessary to comply with relevant laws, for the establishment, exercise or defence of legal claims, to prevent and address fraud and other illegal activity, to prevent death or imminent bodily harm, or to protect or defend the rights, property or safety of our users, others and ourselves.
-  * **Interflora Business and Legal Purposes/Mergers and Acquisitions:** There may be business or legal reasons to disclose personal data. As an example, we may transfer data we have about you to third parties in connection with an actual or potential merger, consolidation, acquisition, reincorporation, sale/divestiture, acquisition or other similar transaction involving all or part of our company or any affiliate, or as part of a corporate reorganisation or stock sale or other change in corporate control. If we undergo such a business transition, personal data may be one of the assets that may be shared or transferred as part of the business transition and used by such third party as though such third party were Interflora.
+  * **Interflora Business and Legal Purposes/Mergers and Acquisitions:** There may be business or legal reasons to disclose personal data. As an example, we may transfer data we have about you to third parties in connection with an actual or potential merger, consolidation, acquisition, reincorporation, sale/divestiture, or other similar transaction involving all or part of our company or any affiliate, or as part of a corporate reorganisation or stock sale or other change in corporate control. If we undergo such a business transition, personal data may be one of the assets that may be shared or transferred as part of the business transition and used by such third party as though such third party were Interflora.
 
 
 
@@ -239,10 +257,10 @@ We fully respect that your personal data is owned by you and that you have certa
     * Rent book (covering the last 3/6 months)
 
 
-  * **Right to Rectification:** You may ask us to update and correct any out-of-date or incorrect personal data that we hold about you, or to complete incomplete personal data. In order to update your personal data, please visit your My Account and/or the applicable Privacy Hub as detailed below: 
-    * [Interflora.co.uk – Privacy Hub](https://www.interflora.co.uk/preferences/ "Interflora – Privacy Hub")
-    * [Interflora.ie – Privacy Hub](https://www.interflora.ie/preferences/ "Interflora Ireland – Privacy Hub")
-    * [flyingflowers.co.uk – Privacy Hub](https://www.flyingflowers.co.uk/email-verify/ "Flying Flowers – Privacy Hub")
+  * **Right to Rectification:** You may ask us to update and correct any out-of-date or incorrect personal data that we hold about you, or to complete incomplete personal data. In order to update your personal data, please visit your My Account and/or the applicable Privacy Settings as detailed below: 
+    * [Interflora.co.uk – Privacy Settings](https://www.interflora.co.uk/preferences/ "Interflora – Privacy Settings")
+    * [Interflora.ie – Privacy Settings](https://www.interflora.ie/preferences/ "Interflora Ireland – Privacy Settings")
+    * [flyingflowers.co.uk – Privacy Settings](https://www.flyingflowers.co.uk/email-verify/ "Flying Flowers – Privacy Settings")
 
 
 
