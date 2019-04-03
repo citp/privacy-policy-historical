@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edaily.co.ke privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919164136id_/https%3A//edaily.co.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edaily.co.ke privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403155239id_/https%3A//edaily.co.ke/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eDaily Kenya
 
