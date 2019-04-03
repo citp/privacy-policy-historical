@@ -1,133 +1,129 @@
-> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115014937id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403185544id_/https%3A//www.carzone.ie/index.cfm%3Ffuseaction%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Carzone
 
-By using Carzone.ie, you permit the collection and use of your personal information as outlined below and you signify your agreement to this Privacy Policy (last updated on 29th April 2013). If you do not agree with these terms, you should not use Carzone.ie.
+### Privacy Notice
 
-* **ABOUT OUR PRIVACY POLICY**
+This Privacy Notice, together with our Terms and Conditions and any documents referred to therein, explains the use and processing of personal data by Webzone Limited t/a Carzone, a company incorporated in Ireland with registered number 276836 whose registered office is at Ground and Upper Floor, Paramount Court, Carrig Road, Sandyford Industrial Estate, Sandyford, Dublin 18 (" **Carzone** ", " **we** ", " **us** ", " **our** ") when you access and browse our website www.carzone.ie (the " **Website"** ) or when you contact us through the Website. 
 
-1.1 1.1 Our website [www.Carzone.ie](https://web.archive.org/), all the webpages containing that address (" **Carzone.ie** ") and the services provided on Carzone.ie are operated by Auto Trader Limited with a registered office at Paramount Court, Corrig Road, Sandyford, Dublin 18 (" **we** ", " **us** " and " **our** "). Carzone.ie allows users to search advertisements posted on Carzone.ie for new and used vehicles (" **Vehicles** "). Carzone.ie also allows users, both private sellers and professional trade advertisers to register with Carzone.ie (" **Advertisers** "), and to place advertisements for the sale of Vehicles. 
+The Website allows users to search advertisements posted on the Website for new and used vehicles. The Website also allows users, both private sellers and professional trade advertisers, to register with carzone.ie (" **Advertiser** ") and to place advertisements for the sale of vehicles on the Website. 
 
-1.2 1.2 This policy, together with our [Terms and Conditions](http://www.carzone.ie/index.cfm?fuseaction=TermsConditions) and any other documents referred to in them, set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Please read the following to understand our practices regarding your personal data, how we will treat it and your data protection rights. The Website is not intended for children and we do not knowingly collect personal data relating to children.
 
-* **HOW WE COLLECT INFORMATION ON CARZONE.IE**
+##### **1\. Who controls your personal data?**
 
-2.1 You can browse Carzone.ie without telling us who you are or revealing any personal information about yourself.
+Carzone is the controller and is responsible for the personal data we obtain from your use of the Website.
 
-2.2 When registering as an Advertiser, responding to an advertisement via Carzone.ie or during your time as an Advertiser or user of Carzone.ie you may be asked to provide information to us. We will inform you at the time of collecting information from you whether you must provide the information to use Carzone.ie or a particular Carzone.ie service, or whether the provision of information requested by us is optional. By agreeing to this Policy you agree that we have informed you at the time of collecting information from you whether the information that you may provide to us will be accessible to other users of Carzone.ie, other Advertisers or by third parties so that you are in a position to take an informed decision on whether to provide the information to us.
+##### **2\. The personal data we collect about you**
 
-2.3 We may collect and process the following data about you: 
+The type of personal data collected and used by us varies depending upon whether you are an Advertiser, a registered user of the Website or just browsing the Website. Typically we collect and process the following kinds of personal data:
 
-  * 2.3.1 if you contact us, we may keep a record of that correspondence;
-  * 2.3.2 information that you submit in response to an advertisement or when communicating with an Advertiser; 
-  * 2.3.3 in order to register as an Advertiser, we will require you to supply your name, email address, contact telephone number, and postal address; 
-  * 2.3.4 in order to ensure the information supplied to us is held securely we may occasionally request proof of identity before allowing access to your personal information;
-  * 2.3.5 if you place an advertisement on Carzone.ie, we will require vehicle registration details, a telephone number, (either a landline or a mobile number) and an email address;
-  * 2.3.6 if you place an advertisement on Carzone.ie, we retain information regarding the value of the order placed within the data log and on the advert placement record. Please see clause 6 below regarding the information that you submit to payment providers in connection with your advertisement on Carzone.ie;
-  * 2.3.7 payment details (Carzone.ie retains no record of this information once payment has been completed);
-  * 2.3.8 phone calls may be recorded by us from time to time; and
-  * 2.3.9 details of advertisements and enquiries you submit through Carzone.ie, our inbound SMS service or any other means.
-
-
-* **USES MADE OF THE INFORMATION**
-
-3.1 Advertisers partake in Carzone.ie by placing advertisements for Vehicles for sale. Advertisers are able to manage, change, and remove the advertisements submitted to Carzone.ie Service through 'My Adverts'. Advertisers need personal login details to access 'My Adverts', which will have been supplied to them on completion of registration with Carzone.ie.
-
-3.2 Advertisements contain information relating to Vehicles and also limited personal information about Advertisers which Advertisers provide to us. You agree that if you place an advertisement on Carzone.ie then we can provide potential buyers with the telephone number that you provide to us via Carzone.ie. You acknowledge and agree that you may be contacted using that number by Carzone.ie users.
-
-3.3 We require Carzone.ie users responding to Advertisements via Carzone.ie to provide their name, email address, comments addressed to the Advertiser and (optionally) a telephone number to us. Then we email the Advertiser on their behalf, and give the Advertiser this information. Advertisers agree that they will only use the information that we provide to them from Carzone.ie users for the purposes of dealing with their Advertisement, unless the Carzone.ie user separately agrees with the Advertiser. 
-
-3.4 Separately, Carzone.ie users can contact the Advertiser directly via an "email the seller" button on Carzone.ie which allows the Carzone.ie user to send the Advertiser a message via Carzone.ie directly. You agree to only contact an Advertiser using Carzone.ie or using information that we give to you for the purposes of dealing with the Advertiser's Advertisement, unless the Carzone.ie user separately agrees with the Advertiser
-
-3.5 We use information held about you in the following ways: 
-
-  * 3.5.1 to develop relevant content from Carzone.ie and ensure that content is presented in the most effective manner for you and for your computer;
-  * 3.5.2 to provide you with information (such as information on offers and competitions), products or services that you request from us or which we feel may interest you including information (such as information on offers and competitions) from us, Auto Trader Group Limited and our selected partners , and to notify you about changes to our service, where you have consented to be contacted for such purposes;
-  * 3.5.3 to carry out our obligations arising from any contracts entered into between you and us;
-  * 3.5.4 to deliver and maintain a high quality service; 
-  * 3.5.5 to assist you if you are experiencing a problem with Carzone.ie;
-  * 3.5.6 to allow you to access Carzone.ie and to participate in interactive features of our service, when you choose to do so; 
-  * 3.5.7 to conduct market research by telephone as part of a survey of our services, you will be able to choose whether or not you want to take part in surveys; and
-  * 3.5.8 for the purposes of compiling statistics.
+  * **Identity and Contact Data** such as your name, telephone number, email address, postal address proof of identity (if requested by us) and vehicle registration number as well as details of any advertisements and enquiries which you submit to us via the Website from time to time or inbound SMS or some other means. 
+  * **Communication Data** records of your correspondence with us and, sometimes, recordings of phone calls made by you to us or by us to you. 
+  * **Payment Details** including credit card numbers and expiry dates. Carzone retains no record of this information once payment has been successfully made. 
+  * **Technical Data** such as alphanumeric IDs, Internet protocol (IP) address, browser type and traffic data such as information relating to the volume and status of data transmission, geographic location, click-through statistics, the name of the domain and host from which you access the Internet and the date and time you access portions of the Website. 
+  * **Usage Data** including information about how you use our Website such as the services you viewed or searched for, the value of the order placed within the data log and on the advertisement placement record when you place an advertisement on the Website, page response times, download errors, length of visits and page interaction information (such as scrolling, clicks, and mouse-overs). 
+  * **Marketing and Communications Data** including your preferences in receiving marketing from us and from third parties, and your communication preferences. You can update your preferences at any time and can easily unsubscribe from anything which you do not wish to receive by using the unsubscribe function at the bottom of the email we send. 
 
 
 
-3.6 Except as set out in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information.
+We also collect, use and share **aggregated data such** as statistical or demographic data for various purposes. Aggregated data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. Where we need to collect personal data by law, or under the terms of a contract we have with you (for example the 'terms and conditions of useâ€™' section of our Website) and you do not provide that personal data when requested, we may not be able to perform the contract we have or are trying to enter into with you. In this case, we may not be able to provide all or part of the relevant service. For example, if you wish to place an advertisement on the Website and you do not provide personal data necessary to create a user account we will not be able to give you access to that feature. 
 
-* **DISCLOSURE OF YOUR INFORMATION TO OTHER PEOPLE**
+##### **3\. How we collect your personal data**
 
-4.1 We do not disclose to any third party personal information that you provide to us unless we have your permission or we believe the law permits or requires it.
-
-4.2 If you provide personal information to us you understand and agree that we may disclose your personal information to the following third parties:
-
-  * 4.2.1 to the Carzone.ie hosting provider Telecity, Kilburn House, Lloyd St North, Manchester M15 6SE, UK and Getronics UK Limited Howard Pincock, The Babbage Centre, The Heath Business & Technology Park, Runcorn, WA7 4QX, UNITED KINGDOM. You acknowledge that we may change the hosting provider at any time and any such change will be posted on Carzone.ie by an amendment to this Privacy Policy. You consent to the transfer of your personal data to any new hosting provider's servers. You may communicate any questions, comments or requests in relation to any change in hosting provider by emailing [classifieds@carzone.ie](mailto:classifieds@carzone.ie) or by post to Auto Trader Limited, Paramount Court, Corrig Road, Sandyford, Dublin 18.
-  * 4.2.2 any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries;
-  * 4.2.3 to Auto Trader Group Limited;
-  * 4.2.4 to the prospective seller or buyer of any business or assets related to Carzone.ie or all or part of Auto Trader Limited or any other member of our group of companies;
-  * 4.2.5 to a third party if we are under a duty to disclose or share your personal data with that third party in order to comply with any legal obligation, fraud investigation or in order to enforce or apply our [terms of use](http://www.carzone.ie/index.cfm?fuseaction=TermsConditions) and other agreements, or to protect the rights, property, or safety of our group of companies, Carzone.ie, our customers, other registered users or others. This includes exchanging information with third parties such as the Gardai Siochana and/or the Consumer Protection Commission amongst others, for the purposes of fraud protection and credit risk reduction in alignment with Section 8 of the Data Protection Act (1988).
+  * **Direct Interactions:** Users of the Website are required to provide us with their name, email address, comments addressed to the Advertiser and (optionally) a telephone number when responding to an advertisement. We then email the Advertiser on the user's behalf and provide the Advertiser with this information. Advertisers agree that they will only use this information for the purposes of dealing with their Advertisement unless the relevant Website user enters into a separate agreement with the Advertiser. You may provide us with your Identity and Contact Data when contacting us through the 'contact' Website feature. You might also give us your Identity and Contact Data and Identity and Contact Data when registering as an Advertiser or responding to an advertisement on the Website. You may also provide us with your personal data when corresponding with us by post, email, phone calls to us (which may be recorded) or otherwise.
 
 
 
-4.3 While we do not disclose your name to third party vehicle record checking service providers, when you ask us to check registration details of your vehicle or where we think it is prudent to do so, we may send limited details such as your vehicle's registration number to these services providers, including Auto Records t/a Cartell.ie.
+Automated technologies or interactions: It is not necessary to register a user account in order to search and view the Website. However, we will receive Technical Data and Usage Data when you browse the Website. For example, as you interact with the Website, we collect Technical Data and Usage Data including details of your device, IP addresses, browsing actions and patterns, searches, sections view, traffic data, web logs and other such communication data in addition to the resources that you access. We collect this personal data by using cookies, tracking codes, server logs and other similar technologies. Please see our [cookie policy](https://www.carzone.ie/index.cfm?fuseaction=cookiepolicy) for further details.
 
-4.4 Where legally required to do so we will notify you when information about you may be provided to third parties in ways other than explained in this policy.
+##### **4 How do we use your personal data?**
 
-4.5 We do not disclose personal information about you to third parties (including advertisers or marketing companies), but we may provide them with aggregate anonymised information about Carzone.ie users. For example, we may inform them that 500 men aged under 30 have clicked on their advertisement displayed on Carzone.ie on any given day, or we might inform third parties regarding the number of unique users who visit Carzone.ie. We may also use such aggregate anonymised information to help advertisers reach the kind of audience they want to target (for example, women in the southeast of Ireland) when displaying advertisements on our website. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. You agree to these practices.
+We will only use your personal data when the law allows us to. We have set out below a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate. We may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your personal data. Please **Contact Us** if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
-4.6 It may be necessary to transfer your personal information to other group companies or service providers located in countries outside of the European Economic Area (EEA). This may happen where our servers or suppliers and service providers are based outside of the EEA or where you use our services and products while visiting countries outside of the EEA. The data protection and other laws of these countries may not be as comprehensive as those in Ireland or the EU but in these instances we will take steps to ensure that your privacy rights are respected. You agree that we may transfer your personal data on that basis.
+Purpose/activity | Type of Data | Lawful basis for processing your personal data  
+---|---|---  
+To allow for advertisements to be placed on our Website by registered users and allow for responses to these advertisements by interested parties | Identity, Contact and Profile Data | (a) Performance of a contract with you  
+(b) Necessary for our legitimate interests (for running our business and to develop new business)   
+To respond to any queries you submit through the Website | Identity and Contact Data | (a) Necessary to comply with a legal obligation   
+(b) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)   
+To manage our relationship with you which will include notifying you about changes to our terms or privacy notice | Identity, Contact and Profile Data | (a) Performance of a contract with you  
+(b) Necessary to comply with a legal obligation  
+(c) Necessary for our legitimate interests (to keep our records updated and to study how persons use our services)   
+To use data analytics to improve our Website, services, customer relationships and experiences. | Technical and Usage Data | Necessary for our legitimate interests (to define types of customers for our services, to keep our Website updated and relevant, to develop our business and to inform our marketing strategy)   
+  
+**Marketing:** Generally we do not rely on _consent_ as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email. We will use your Identity, Contact and Profile Data to send you marketing communications if you have requested to receive such information from us. You can opt out of any marketing communications from us at any time by using the "Unsubscribe" function at the bottom of the marketing emails we send you. 
 
-* **MARKETING COMMUNICATIONS**
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law. 
 
-5.1 When you register with our Website, we ask you whether you would like to receive our communications detailing offers, news and services from Carzone.ie and/ or information from third party companies via email that we feel may be of interest to you. In order to receive these communications, you will need to opt in during registration.
+**5** **Disclosure of your personal data**
 
-5.2 On occasions Carzone.ie runs promotions in which personal information is collected. We will always ask you if you agree to this and advise you if this information may be shared with a third party. You will always be asked to provide your consent to this use by opting in.
+Except as set out in this Privacy Notice, we do not disclose personal data that we collect about you, or which you provide to us, to any third party. However, for the purposes set out in the table in Paragraph 4 above, we may be required to share your personal data with the parties set out below: 
 
-5.3 To stop receiving Carzone.ie promotional offers and emails, please click the link found at the bottom of each email or update your account preferences.
+  * **Internal third parties:** Companies to include Auto Trader Limited and any member of our group of companies, namely a parent company, a subsidiary company and/or a parent of another subsidiary company. ****
+  * **External third parties:** Companies that provide products and services to us such as professional advisors, IT systems suppliers and support, HR management systems, data storage solutions, IT developers, insurance providers, analytics companies, website hosting providers and other service providers. 
+  * **Public and Government Authorities** : Entities that regulate or have jurisdiction over us. We will be required to disclose your personal data in order to comply with any legal obligation if we are ordered to do so by a court of competent jurisdiction, law enforcement body, regulatory authority or administrative authority, or in order to enforce or apply our terms of use and other agreements, or to protect the rights, property, or safety of Carzone, our customers, Website users or others. 
+  * **Prospective Buyers/Sellers:** Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this Privacy Notice. 
 
-* **SECURITY AND CONTROL OF YOUR PERSONAL DATA**
 
-6.1 We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
-6.2 Where we have given you (or where you have chosen) a password which enables you to access certain parts of Carzone.ie, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. You are responsible for the security of your password and our [Terms and Conditions](http://www.carzone.ie/index.cfm?fuseaction=TermsConditions) deal with this in more detail.
+We require all third parties to whom we disclose personal data collected via our Website to respect the security of personal data and to treat it in accordance with the law. We do not allow our service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions. Unless prevented by applicable law, we will notify you when your personal data may be provided to third parties in ways other than explained above, and you may have the option to prevent such sharing at the time that we notify you. 
 
-6.3 Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to Carzone.ie; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. _**You acknowledge that we are not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorised manner.**_
+**6** **Sharing your personal data in other countries**
 
-6.4 You should be aware that when you voluntarily disclose personally identifiable information and agree to make that information public on Carzone.ie (e.g., telephone number) via advertisements on Carzone.ie or where you use Carzone.ie to correspond with other users or Advertisers, that information, along with any substantive information disclosed in your advertisement, can be collected, correlated and used by third parties. These third parties, other Advertisers or Carzone.ie users may use your information to send you unsolicited messages. Such activities are beyond our control. Please do not post any personal information on Carzone.ie which will be published on Carzone.ie that you wish to keep private. Please consider carefully what personal information you wish to send other users or Advertisers on Carzone.ie.
+Your personal data may be transferred, stored and accessed within the European Economic Area ("EEA") or transferred to, stored in, and accessed from countries outside the EEA in order to fulfil the purposes described in this Privacy Notice. For transfers to countries outside the EEA, the data protection regime may be different than in the country in which you are located and will therefore be based on a legally adequate transfer method. Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is given to it by ensuring at least one of the following safeguards is implemented: 
 
-* **LINKS TO THIRD PARTY WEBSITES AND ADVERTISEMENTS ON THIRD PARTY WEBSITES**
+Â· Where the country has been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries. 
 
-7.1 Carzone.ie may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates as well as third party websites to which we have no affiliation. When you pay for service offered on Carzone.ie you will also be redirected to a separate website operated by a payment service provider, WorldPay (UK) Limited. You acknowledge that we may change the links from Carzone.ie to payment service providers at any time and any such change will be posted on Carzone.ie by an amendment to this Privacy Policy. 
+Â· We may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries. 
 
-7.2 If you follow a link to any of these websites, please note that these websites may have their own privacy policies and/or terms and conditions which apply to them, and that we do not accept any responsibility or liability for these policies, terms and conditions or for the activities on those websites. 
+We will provide you on request a list of the countries located outside the EEA to which personal data may be transferred, and an indication of whether they have been determined by the European Commission to grant adequate protection to personal data. Where applicable, you are entitled, upon request to receive a copy of the relevant safeguard (for example, EC model contractual clauses) that have been taken to protect personal data during such transfer. 
 
-7.3 From time to time we may enter into arrangements with third parties where the third parties agree to display your Advertisement on their website or to publish it in their publications (whether offline or online). You agree and understand that where we do this any personal data that you have chosen to include in your Advertisement will be provided to the third party for this purpose when we supply the content of the Advertisement to them. Please note that these third party websites and publications may have their own privacy policies and/or terms and conditions which apply to them, and that we do not accept any responsibility or liability for these policies, terms and conditions or for the activities on those websites or in connection with those publications.
+**7** **How your personal data is secured**
 
-* **IP ADDRESSES, TRAFFIC DATA, LOCATION DATA AND COOKIES**
+Carzone is committed to maintaining the security of all personal data which is processed pursuant to this Privacy Notice. We maintain appropriate physical, procedural, organisational and technical security measures intended to prevent loss, misuse, unauthorised access, disclosure, or modification of personal data under our control. We have also put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so. 
 
-8.1 We may collect information about your computer, including (where available) alphanumeric IDs, operating system, browser type and traffic data, such as information regarding the volume and status of data transmission, click-through statistics, the name of the domain and host from which you access the Internet and the date and time you access portions of the Carzone.ie ("Website Use Info"), for system administration and statistical purposes . This Website Use Info is statistical data about our users' browsing actions and patterns, and does not identify any individual, except if required by the law. We retain Website Use Info for a limited period of 12 Months after which the data is deleted.
+**8** **How long do we keep your personal data?**
 
-8.2 We may also collect information about your IP address and geographic location (" **Geo Data** ") for system administration and statistical purposes. You can turn off our ability to tailor what you see on Carzone.ie by our using the Geo Data that we gather about you via Carzone.ie by enabling the appropriate settings on your computer or browser or contacting us directly. For example: 
+We keep your personal data for no longer than is necessary for the purpose for which it was processed and no longer than is allowed under applicable data protection law. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of personal data, the purposes for which we process personal data and whether we can achieve those purposes through other means in addition to the applicable legal requirements. We also retain personal data if required by applicable law or if justified to do so under applicable statutory limitation periods. 
 
-  * 8.2.1 [On Internet Explorer, please follow **Tools** , **Internet Options** , **Privacy** and select the appropriate settings.
-  * 8.2.2 On Mozilla Firefox, please follow **Tools** , **Options** , **Privacy Panel** and select the appropriate settings.
-  * 8.2.3 On Google Chrome, please select the wrench icon, **Options** ( **Preferences** on Mac and Linux; **Settings** on a Chromebook), and select the appropriate settings.]
+**9** **Third party websites**
 
-You may also contact us directly if you require any further assistance in at [classifieds@carzone.ie](mailto:classifieds@carzone.ie) All Geo Data is anonymised before use and does not identify any individual, except if required by the law. We retain this Geo Data for a limited period of 7 days after which the Geo Data is deleted. We also use Google Analytics ([www.google.com/intl/en_uk/analytics](http://www.google.com/intl/en_uk/analytics)) to allow us to track how popular our site is and to record visitor trends over time and the manner that this entity processes this Geo Data is set out in the terms and conditions that apply to these third party activities. You should read the terms and conditions, including any privacy policy, applicable to such third party activities to make sure that you understand the use that they may make of your information. 
+This Privacy Notice does not address, and we are not responsible for the terms of use, privacy, content or other practices of any third-party website, including any third party website to which a link is provided on our Website. The inclusion of such a link on our Website does not imply any endorsement of the linked website by Carzone. 
 
-8.3 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. On revisiting Carzone.ie our computer server will recognise the cookie, giving us information about your last visit. They help us to improve Carzone.ie and to deliver a better and more personalised service. 
+**10** **Your legal rights**
 
-* **ACCESS TO INFORMATION AND UPDATING, VERIFYING AND DELETING PERSONAL DATA**
+You are entitled to a number of rights with regard to our use of your personal data, including the right to: 
 
-9.1 At any time, you can make a written request to **have access to and/or delete all** personal information that we hold about you. We will provide this information to you and may request a small administrative charge.
+  * **Request access to your personal data.** You are entitled to receive a copy of the personal data we hold about you and to ensure that we are processing such data in a lawful manner. 
+  * **Request correction of the personal data that we hold about you.** You are entitled to have any incomplete, outdated or inaccurate personal data we hold about you updated and corrected. 
+  * **Request erasure of your personal data.** This enables you to ask us to delete or remove your personal data where you believe that there is no good reason for us continuing to process it, where you have exercised your right to object to processing (see below), where we may have processed your personal data unlawfully or where we are required to erase your personal data to comply with law. We may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request. 
+  * **Object to processing of your personal data.** In certain circumstances, you may be entitled to object to our processing of your personal data where we are relying on a legitimate interest (or the legitimate interest of a third party) as the legal basis for such processing, if you believe that such processing impacts on your fundamental rights and freedoms. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms. 
+  * **Request restriction of processing of your personal data.** You are entitled to ask us to suspend the processing of your personal data in the following scenarios: (a) if you wish for us to establish the accuracy of the relevant personal data; (b) if our use of the personal data is unlawful but you do not wish for us to erase it; (c) if you require us to retain the personal data (even if we no longer require it) as the personal data which we retain is necessary for you to establish, exercise or defend legal claims; or (d) you have objected to our use of your personal data but we are required to retain it in order to verify whether we have overriding legitimate grounds to process it. 
+  * **Request the transfer of your personal data to you or to a third party.** If requested to do so, we will provide you, or a third party you have chosen with your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use, or where we used the personal data to perform a contract with you. 
+  * **Withdraw consent at any time** . If and to the extent we are relying on consent as the legal basis to process your personal data, you are entitled to withdraw your consent to such processing at any time. This will not affect the lawfulness of any processing of your personal data carried out before your consent is withdrawn. If you choose to withdraw your consent, we may not be able to provide certain services to you. We will let you know if this is the case at the time you withdraw your consent. 
+  * **Contacting the data protection supervisory authority:** Data subjects have the right to make a complaint at any time to the applicable data protection supervisory authority. We would, however, appreciate the chance to deal with your concerns before you approach the data protection supervisory authority, so please contact us in the first instance using the information listed in **Contact Us** below. 
 
-9.2 As an Advertiser, you can modify or update or delete your personal information at any time by accessing your account on Carzone.ie and choosing the option "Edit details" or by contacting us at [classifieds@carzone.ie](mailto:classifieds@carzone.ie).
 
-* **CHANGES TO OUR PRIVACY POLICY**
 
-10.1 Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. You should visit this page periodically to review any changes to the Privacy Policy.
+To exercise one or more of your rights in respect of your personal data, please contact us using the **Contact Us** details below. We will respond to your request(s) as soon as reasonably practicable, but in any case within the legally required period of time. 
 
-10.2 Advertisers will be notified upon accessing their account of any substantial changes to our Privacy Policy and Terms and Conditions. Use of Carzone.ie by Advertisers is conditional on the acceptance of our Privacy Policy and Terms and Conditions.
+**11** **Updating your personal data**
 
-* **USER FEEDBACK AND COMPLAINTS**
+It is important that the personal data we hold about you is accurate and current. Please keep us informed, using the **Contact Us** details below, if any of your personal data changes during your relationship with us. As an Advertiser, you can modify or update your personal information by accessing your account on the Website and selecting the 'Edit Details' option, or by emailing us at [support@carzone.ie](mailto:support@carzone.ie). 
 
-11.1 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [](mailto:info@Carzone.ie)classifieds@carzone.ie or by post to General Manager, Auto Trader Limited, Paramount Court, Corrig Road, Dublin 18, Ireland.
+**12** **Changes to this Notice**
+
+We will change this Privacy Notice from time to time and any changes will be posted to the Website and, where appropriate, notified to you by email. This version of the Privacy Notice was last updated on 24/05/2018 and historic versions can be obtained by contacting us using the **Contact Us** details below. ****
+
+**13** **Complaints and Contact Us**
+
+If you have any questions about this Privacy Notice, including any requests to exercise your legal rights, All requests will be forwarded on should there be a third party involved (as set out in this Privacy Policy) in the processing of your personal data. 
+
+If you wish to make a complaint about how your personal data is being processed by Carzone (or third parties as described above), or how your complaint has been handled, in the first instance please email your concerns to [dataprotection@carzone.ie](mailto:dataprotection@carzone.ie) . 
+
+If you have any questions regarding the use of your personal data please contact us at: [dataprotection@carzone.ie](mailto:dataprotection@carzone.ie)
+
+or 
+
+Carzone, Paramount Court, Corrig Road, Sandyford Industrial Estate, Dublin 18\. 
