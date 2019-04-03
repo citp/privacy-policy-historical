@@ -1,56 +1,65 @@
-> *The following text is extracted and transformed from the goemerchant.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183931id_/http%3A//www.goemerchant.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goemerchant.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403134823id_/https%3A//www.goemerchant.com/privacy) for the most accurate reproduction.*
 
 # GoEmerchant Privacy Policy
 
-This statement provides you with information regarding the policies we have established and follow by which we protect the privacy and integrity of the information we collect.
+### **GoEmerchant Internet Privacy Policy – Your Privacy Rights**
 
-This statement describes:  
-Who we are.  
-What information we collect via our Web Site(s), and how the information is collected.  
-How we use and protect the information we collect.  
-What choices are available to you regarding collection, use, and distribution of the information.  
-How you can correct any inaccuracies in the information.
+GoEmerchant respects the privacy of individuals who visit our Web site, http://www.goemerchant.com, and is committed to protecting your online personal information in accordance with the terms of this Internet Privacy Policy.
 
-Information We Collect  
-GoEmerchant provides services that enhance the procurement of goods and services, and the payment and collection of payments by commercial and non-commercial enterprises. We will not sell, share, or rent this information to others in ways different from what is disclosed within this statement and within any agreements with our customers.
+While you can use many features of our Web site without being required to provide personally identifiable information, you may be requested to provide your personal information to gain access to some of our content or services, to contact us, or to receive additional information from us. Providing the appropriate selection will identify your understanding of the practices described in the Internet Privacy statement. The framework for utilizing data is outlined in this privacy policy.
 
-Our customers are business or other non-person legal entities. Therefore, most of the information we receive and collect is not of a personal nature. However, portions of the information we receive from our business customers may include public and non-public information about our customers, persons, and businesses.
+**How We Collect and Use Personal Information**
 
-Regardless of the nature of the information and regardless of whether it is information we solicit directly from our customers, from visitors to our Web site or whether we collect the information during the processing of visiting one of our sites, we regard all such information as private and take steps to protect the integrity and confidentiality of the information.
+We may collect personal information about you when you visit http://www.goemerchant.com, which may give you the ability to access additional features on our Web site and our online services. This information is used to provide you with the information that you are requesting from us, access to our services and data and information regarding the services we provide to you and/or your customers. Personal information we collect may include: your login ID and password, your name, your company name, your mailing address, your e-mail address, your phone number, your fax number and additional information used to contact you.
 
-Commitment to Security, Privacy, and Standards  
-GoEmerchant takes seriously our responsibility to protect the security and privacy of the information we receive and maintain. We have established effective policies as defined by Visa CISP and Mastercard SDP that define our commitment to protecting the information and information technology we administer. We continue to review our policies and procedures to assure that they are appropriate and effective in meeting our commitments to our community, our customers, and ourselves.
+**Automatic Information**
 
-Any suspected attempt to breach these policies and procedures or to engage in any type of unauthorized action involving this Web site is regarded as potential criminal activity and all suspected computer mischief is reported to the appropriate authorities.
+We may also collect automatic information about your visit to our Web site, such as time of day, browser type and version, browser language, your operating system and platform, and the Internet Protocol (IP) address used to connect your computer to the Internet. This information is used for analytical purposes and to help us provide services to our clients. We may also use this information to administer and troubleshoot our Web site and servers.
 
-GoEmerchant Use of Personal Information  
-Information collected regarding visitors to our Web site will be used by GoEmerchant only as appropriate to provide authorized services or to communicate information regarding GoEmerchant services. No information regarding specific persons, including our customers, our employees, or visitors to our Web site, will be provided to any non-affiliated organization, except as may be legally required, to prevent fraud, or to comply with the legal inquiry of the government. This policy does not preclude GoEmerchant unrestricted use of non-personal, summarized, derived, or aggregate information (i.e., volumes, totals, averages, etc.).
+**How We Protect Your Personal Information**
 
-Customer Options  
-GoEmerchant does not anticipate a change in its policies regarding the use of personal information (see section above, Use of Personal Information). However, should GoEmerchant at some future time, change its practices regarding the use of personal information (i.e., to share such information with third parties) our customers will be provided an opportunity to choose to be excluded from any such use of public or non-public personal information prior to their information being used for such purposes. You have a choice, where and what you want to be viewed, and you have the option of providing your personal information to our Web Site and link sites.
+We have taken precautions to protect your personal information under our control from misuse, loss or alteration. Our security measures include industry standard technology and equipment to help protect your data. Unfortunately, however, no system can ensure complete security and you should take all necessary steps to protect your information and its transmission to us. Since the Internet is a public medium, we cannot guarantee the protection of your personal information.
 
-Changes to Information Security and Privacy Statement  
-GoEmerchant continues to adhere to good business practices. We will regularly review our policies and practices as it determines them to be warranted. When changes are made that affect the GoEmerchant Information Security and Privacy Statement, these changes will be posted to our Web site.
+**How We Use "Cookies"**
 
-Information Collected via Our Web Site  
-We solicit, collect, or retain public or non-public personal information regarding customers or visitors to our Internet sites, only as may be required to allow GoEmerchant to respond to requests for information about our products and services. The only information obtained about a visitor to its Web site is information that is voluntarily supplied by that visitor. Information about our customers and visitors to our Web sites, regardless of whether acquired via our Web site, or through other means, is not shared with affiliated or non-affiliated entities.
+"Cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, we may use cookies to identify users and their preferences for our business purposes.
 
-Cookies  
-GoEmerchant site(s) may create a file or cookie on the hard drive of your computer in order to retain information that is used by our Web site. These files are used during your online session to ensure access to our site is authorized and to control certain parameters of your communication session with our site. We do not use these files to monitor the behavior of visitors to our sites. Sponsors and advertisers may also use cookies if you choose to visit their advertisement. Information regarding their use of cookies should be obtained directly from those providers.
+**What We Provide to Third-Parties**
 
-IP Addresses  
-An IP address is a number assigned to your computer for accessing the Internet. All computer identification on the Internet is conducted using IP addresses, to allow other computers and servers to recognize and communicate with each other. If a visitor requests pages from the GoEmerchant site(s) or our affiliate site(s), the servers enter the visitor's IP address into a log. We do not associate IP addresses with personal information received from visitors.
+Certain third parties may need access to some of your personal information. For example, we may need to share your name and address with your employer, government regulators, or our service providers. In such cases, we provide third parties with only the minimum amount of information that we determine, in our discretion, is needed to complete the requested service or transaction. We may also provide your information to our affiliated companies and successors.
 
-External Links  
-GoEmerchant may provide links on the Web site, via advertising and otherwise, to other web sites that are not under our control. We do not endorse or make any warranty of any type regarding the content contained on such web sites or products and services offered therein. GoEmerchant makes no representation regarding your use of such web sites.
+We reserve the right to provide third parties with aggregate statistics about our clients, traffic patterns, and related site information. This data reflects site usage patterns, but typically does not contain personally identifiable information about any individual user.
 
-Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by these Web sites.
+**Linked Web Sites**
 
-Children  
-We do not provide content on our Web sites which are intended to attract or encourage the participation of children. We do not solicit or knowingly accept information from persons under the age of 18.
+We may provide links to third-party sites. Because we do not control these Web sites, we encourage you to review the privacy policies posted on these third-party Web sites. We are not responsible for the privacy practices or content of such Web sites or the information collected on such Web sites.
 
-Your Responsibility  
-As a customer/merchant to one of our web sites, you may be provided with a unique identifier such as a password, or pin number which is intended to authenticate your identity when accessing our systems. Such identifying items are intended to be secret and to be known, possessed, and used only by you. The effectiveness of these mechanisms for authenticating your identity are dependent upon your keeping them in your exclusive possession and upon your protecting them from the discovery, access, possession of others. If you fail to keep such identifying information in your exclusive possession (i.e., you allow others to have knowledge or possession of your password or pin), you may bear responsibility for the actions of other persons who use this information in accessing our systems. If your personal identifier, pin number, has been lost or disclosed to someone other than yourself, you should immediately contact one of our sites or customer service.
+**Obtaining Your Consent**
 
-Questions  
-If you have questions about this privacy policy, please send an e-mail to sales@goEmerchant.com.
+By using our Web site, you authorize us to collect information about the pages served to you as an anonymous user. This information will be used for the purpose of calculating aggregate site statistics. If you register as a user of our site and provided opt-in, you authorize us to use your information to personalize the information that we deliver to you. As a registered site user, you give us and our agents permission to send you e-mails or place phone calls to you related to the information that you request.
+
+**Opt Out**
+
+We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to “opt-out” of sharing personal information in several ways. When choosing to use certain features or services on the Web site, you can choose whether to share optional personal information in connection with the feature or service. If you receive communications from us that you prefer not to receive, you may opt out from receiving these communications by specifically indicating this preference in a communication to us sent to: sales@goemerchant.com.
+
+You may also “opt-out” from providing personal information to us by not registering yourself as an authorized user of the Web site and thereby not providing personal information.
+
+**Children’s Privacy**
+
+We do not provide services to children. In accordance with the Children's Online Privacy Protection Act, we do not knowingly request or solicit personally identifiable information from anyone under the age of 13. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.
+
+**California Privacy**
+
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits individuals who are California residents to request certain information regarding the disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to sales@goemerchant.com.
+
+**C** **ompliance with Legal Process**
+
+Please be aware that we will release specific personal information about you if required to do so to comply with any valid legal process such as a search warrant, subpoena, statute or court order. We may also choose to establish or exercise our legal rights or defend against legal claims, but are not under any obligation to do so.
+
+**Policy Updates**
+
+We may change this privacy policy at any time in our sole discretion. Any updates to our privacy policy will be posted on this page, so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of the site following our posting of the change notice or an updated privacy policy will constitute binding acceptance of those changes.
+
+Last Updated: April 2018
+
+Copyright ©2018 GoEmerchant, All Rights Reserved.
