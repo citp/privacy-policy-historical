@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercloud.co.in privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009171449id_/https%3A//www.vouchercloud.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.co.in privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403160205id_/https%3A//www.vouchercloud.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | vouchercloud
 
@@ -63,11 +63,11 @@ Details of how to opt out of IDFA/AAID data sharing can be found on your mobile 
 
 ### Cookies and similar technologies
 
-Some pages on our website use cookies, which are small files placed on your internet browser when you visit our website. We use cookies in order to offer you a more tailored experience in the future, by understanding and remembering your particular browsing preferences.
+Some pages on our website use cookies, which are small files placed on your internet browser when you visit our website. We use cookies in order to offer you a more tailored experience in the future, including personal advertising by ourselves and third parties, by understanding and remembering your particular browsing preferences.
 
 Where we do use cookies on your website, you may block these at any time. To do so, you can activate the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies), you may not be able to access all or parts of our website or to use all the functionality provided through our website.
 
-For detailed information on the cookies we use and the purposes for which we use them, please refer to our cookies policy [here](https://web.archive.org/cookie-policy "Privacy Policy").
+For detailed information on the cookies we use and the purposes for which we use them and how to opt out, please refer to our cookies policy [here](https://web.archive.org/cookie-policy "Privacy Policy").
 
 ### How your information is used
 
