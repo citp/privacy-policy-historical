@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dato.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029140311id_/https%3A//www.datto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dato.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403035720id_/https%3A//www.datto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,7 +96,7 @@ Our Products are usually managed by non-Datto administrators that may have the a
 
 If you have any questions about this Privacy Policy, Datto’s privacy practices, or if you would like to review, correct, access, amend or delete your Operational Personal Information, please contact us at [privacy@datto.com](mailto:privacy@datto.com).
 
-If you choose not to receive general communications from us in the future, please contact us at <http://pages.datto.com/unsubscribe.html>. 
+If you choose not to receive general communications from us in the future, please contact us at <http://pages.datto.com/unsubscribe.html>.
 
 To update your general communication preferences, please contact us at <http://pages.datto.com/DattoSubscriptionCenter.html>.
 
@@ -110,4 +110,4 @@ Our Websites and Products are not designed or intended to appeal to minors and w
 
 We may update this Privacy Policy from time to time. Please consult the “Effective Date” below to see when the Policy has been most recently updated. We encourage you to check this Policy frequently to see updates that may affect how your information may be used. Your continued use of our Websites and Products constitutes acceptance of any changes to this Policy.
 
-**Effective Date: March 21, 2016**
+ **Effective Date: March 21, 2016**
