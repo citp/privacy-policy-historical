@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hufmagazine.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926145651id_/https%3A//hufmagazine.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hufmagazine.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403162240id_/https%3A//hufmagazine.com/privacy-2) for the most accurate reproduction.*
 
 # Privacy – HUF Magazine
 
