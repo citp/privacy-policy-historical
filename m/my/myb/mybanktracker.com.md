@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybanktracker.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930111336id_/https%3A//www.mybanktracker.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybanktracker.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403155022id_/https%3A//www.mybanktracker.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for MyBankTracker.com
+# MyBankTracker Privacy Policy
 
 MyBankTracker, Inc., a New York corporation ("MBT"), owns and operates the Web site located at [www.mybanktracker.com](https://www.mybanktracker.com/), and portions of other Web pages and Web content through which you have accessed this Privacy Policy (collectively, the "Web Site"). By visiting, using and/or submitting information to www.mybanktracker.com, you are accepting the practices described in this Privacy Policy and the terms and conditions of MyBankTracker's Agreement of Terms of (the "Terms of Use").
 
