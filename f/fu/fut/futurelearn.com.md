@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurelearn.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227112436id_/https%3A//about.futurelearn.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurelearn.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403133140id_/https%3A//about.futurelearn.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - FutureLearn
 
