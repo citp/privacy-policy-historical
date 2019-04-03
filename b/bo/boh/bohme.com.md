@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bohme.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414160646id_/https%3A//www.bohme.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bohme.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403070018id_/https%3A//www.bohme.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – böhme
 
 This statement summarizes Bohme's policies regarding personal information that may be collected or submitted to us through the Bohme website of www.bohme.com ("Website") or via any other means of collection.
 
@@ -84,7 +84,7 @@ As far as permissible under law, Bohme accepts no responsibility for the unautho
 
 ## Changes to Our Privacy Statement
 
-From time to time, it may be necessary for us to review and revise our privacy statement.  We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Bohme website at [www.bohme.com](https://web.archive.org/web/20160414160646id_/https://www.bohme.com/privacy-policy-cookie-restriction-mode/www.bohme.com)
+From time to time, it may be necessary for us to review and revise our privacy statement.  We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Bohme website at [www.bohme.com](https://www.bohme.com/privacy-policy-cookie-restriction-mode/www.bohme.com)
 
 ## How To Contact Us If You Have A Problem Or Complain
 
@@ -105,7 +105,7 @@ We may collect the following information:
 
 
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+For the exhaustive list of cookies we collect see the [List of cookies we collect](https://www.bohme.com/privacy-policy-cookie-restriction-mode/#list) section.
 
 ## What we do with the information we gather
 
@@ -149,11 +149,11 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-## List of cookies we collect
+##  List of cookies we collect
 
 The table below lists the cookies we collect and what information they store.
 
-COOKIE name| COOKIE Description  
+COOKIE name | COOKIE Description  
 ---|---  
 CART | The association with your shopping cart.  
 CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
