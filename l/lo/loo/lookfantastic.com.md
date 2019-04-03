@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookfantastic.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906080257id_/https%3A//www.lookfantastic.com/info/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookfantastic.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403135534id_/https%3A//www.lookfantastic.com/info/privacy-policy.list) for the most accurate reproduction.*
 
 # Privacy Policy | Information | Secrure | Contact Us | Lookfantastic
 
