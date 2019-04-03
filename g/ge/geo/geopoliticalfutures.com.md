@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geopoliticalfutures.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309054933id_/https%3A//geopoliticalfutures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geopoliticalfutures.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403173134id_/https%3A//geopoliticalfutures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Geopolitical Futures
 
@@ -11,8 +11,6 @@ Geopolitical Futures, LLC (“GPF”) reserves the right to change this Privacy 
 Privacy; Confidential Information
 
 GPFs’ policy is to protect the confidentiality of the individually identifiable information that you provide. GPF collects the following information from you if you subscribe to our free weekly newsletter: name and email address; or subscribe to our paid website: name, e-mail address, street address, city, state, ZIP, country, phone number. In addition, if you choose to complete certain forms or send us requests, you will be asked to provide the following information: street address, city, state ZIP, phone number. Because payment is handled through a third-party payment processor, GPF will NOT see your credit card number or banking information.
-
-You consent to GPF sharing its mailing list with our marketing partner Mauldin Economics, who may contact you directly.
 
 GPF’s policy is to prohibit the unlawful disclosure of your personal information. To learn more about how GPF protects your personal information, please contact us at [support@geopoliticalfutures.com](mailto:support@geopoliticalfutures.com).
 
@@ -50,7 +48,7 @@ Personally Identifiable Information
 
 The preceding paragraphs describe the categories of personally identifiable information that GPF collects in this Site for paid subscribers. If you wish to review or change the personal information you provided, please click on the “My Account” button at the top of this page.
 
-In addition to disclosing the mailing list to GPF’s marketing partner Mauldin Economics, LLC, GPF may disclose personally identifiable information you provide to third parties if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) complete the sales transaction; (b) comply with legal process; (c) enforce the Agreement; (d) respond to claims that any information you provide violates the rights of third parties; (e) protect the rights, property, or personal safety of GPF, its users and/or the public; or (f) in relation to the sale, assignment, transfer or acquisition of all or substantially all of GPF’s assets or shares by a third party. Except as provided in the preceding sentence, GPF will NOT otherwise sell or trade your personally identifiable information with third parties, such as sellers of goods or services.
+GPF may disclose personally identifiable information you provide to third parties if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) complete the sales transaction; (b) comply with legal process; (c) enforce the Agreement; (d) respond to claims that any information you provide violates the rights of third parties; (e) protect the rights, property, or personal safety of GPF, its users and/or the public; or (f) in relation to the sale, assignment, transfer or acquisition of all or substantially all of GPF’s assets or shares by a third party. Except as provided in the preceding sentence, GPF will NOT otherwise sell or trade your personally identifiable information with third parties, such as sellers of goods or services.
 
 Tracking and Remarketing
 
@@ -58,7 +56,7 @@ GPF will not respond to Web browser “do not track” signals. If you would lik
 
 Because we link to social media sites, and from time to time may include third-party advertisements, other parties may collect your personally identifiable information about your online activities over time and across different web sites when you visit this Site.
 
-In addition, we use Google AdWords, so we are advertising the Site online through a form of tracking called remarketing, Third-party vendors, including Google, show our ads on various sites across the Internet, and use cookies to serve you ads based on your past visits to this Site. You can opt out of Google’s use of cookies by visiting Google’s Ads Settings https://www.google.com/settings/ads/plugin . Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page. http://www.networkadvertising.org/choices/
+In addition, we may use Google AdWords, so we are advertising the Site online through a form of tracking called remarketing, Third-party vendors, including Google, show our ads on various sites across the Internet, and use cookies to serve you ads based on your past visits to this Site. You can opt out of Google’s use of cookies by visiting Google’s Ads Settings https://www.google.com/settings/ads/plugin . Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page. http://www.networkadvertising.org/choices/
 
 Please note that not all tracking will stop even if you delete cookies.
 
