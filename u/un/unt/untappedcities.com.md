@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untappedcities.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916110535id_/https%3A//untappedcities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untappedcities.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403090634id_/https%3A//untappedcities.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Untapped Cities
 
