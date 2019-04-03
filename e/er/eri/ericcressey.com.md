@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ericcressey.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313002250id_/https%3A//ericcressey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericcressey.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403065328id_/https%3A//ericcressey.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Eric Cressey | High Performance Training, Personal Training
+# » Privacy Policy
 
-The Web site [www.ericcressey.com.com ](http://ecressey.wpengine.com.com%20/)(the “Site”) is provided by Cressey Training Systems, LLC. Robins.  Throughout this Privacy Policy, the words “we,” “us,” and “our” refer to Cressey Training Systems.  By accessing or using this Site, by registering as a member of this Site, or by becoming an online training customer, you consent to the use of your Personal Data (defined below) as described in this Privacy Policy (“Policy”).  If you are unwilling to consent to our collection and use of your Personal Data as described in this Policy or are unwilling to accept the terms in the Terms of Use [ **Terms of Use**](http://ec.fealty.com/terms-of-use/), you should not use the Site.
+The Web site [www.ericcressey.com ](http://ericcressey.com/)(the “Site”) is provided by Cressey Training Systems, LLC.  Throughout this Privacy Policy, the words “we,” “us,” and “our” refer to Cressey Training Systems.  By accessing or using this Site, by registering as a member of this Site, or by becoming an online training customer, you consent to the use of your Personal Data (defined below) as described in this Privacy Policy (“Policy”).  If you are unwilling to consent to our collection and use of your Personal Data as described in this Policy or are unwilling to accept the terms in the Terms of Use [ **Terms of Use**](https://ericcressey.com/terms-of-use), you should not use the Site.
 
 Collection and Use of Personal Data
 
@@ -26,7 +26,7 @@ We use cookies to passively store information about your use of the Site, includ
 
  Personal Data Submitted by You within Site’s Common Areas and Blogs
 
-If you choose, you may post comments, questions, and other information (including Personal Data, if you choose) at the Site to be reviewed by fellow users.  Information posted by you to community areas of the Site (such as blogs) is accessible by all users  We cannot control the actions of other users with whom you may choose to share your Personal Data through these features.  You also understand that such information might be re-shared or copied by other users.  Further, you understand and acknowledge that, even after removal, copies of submissions you made, including Personal Data submitted, may remain viewable in cached and archived pages or if other users have copied or stored such information.  Information shared with us through such common areas or through any other means may be reproduced by us as described in the [Terms of Use](http://ec.fealty.com/terms-of-use/) .
+If you choose, you may post comments, questions, and other information (including Personal Data, if you choose) at the Site to be reviewed by fellow users.  Information posted by you to community areas of the Site (such as blogs) is accessible by all users  We cannot control the actions of other users with whom you may choose to share your Personal Data through these features.  You also understand that such information might be re-shared or copied by other users.  Further, you understand and acknowledge that, even after removal, copies of submissions you made, including Personal Data submitted, may remain viewable in cached and archived pages or if other users have copied or stored such information.  Information shared with us through such common areas or through any other means may be reproduced by us as described in the [Terms of Use](https://ericcressey.com/terms-of-use) .
 
 You should exercise caution in sharing your Personal Data through any of the above-described Site features.
 
@@ -42,7 +42,7 @@ We have established procedures to correct inaccurate information in a timely man
 
 Protection of Information
 
-We strive to maintain the reliability, accuracy, completeness and currency of your Personal Data in our databases and to protect the privacy and security of our databases and the data we collect.  Any Personal Data that you provide to us will be stored on remote computer network servers.  Our service provider maintains reasonable physical, electronic and procedural safeguards to protect the confidentiality of your Personal Data. The security measures in place on the Site and computer systems aim to protect the loss, misuse or alteration of the information you provide to us.  If you have any questions or concerns regarding the security of your information, please email us at robins.gregory@gmail.com.
+We strive to maintain the reliability, accuracy, completeness and currency of your Personal Data in our databases and to protect the privacy and security of our databases and the data we collect.  Any Personal Data that you provide to us will be stored on remote computer network servers.  Our service provider maintains reasonable physical, electronic and procedural safeguards to protect the confidentiality of your Personal Data. The security measures in place on the Site and computer systems aim to protect the loss, misuse or alteration of the information you provide to us.  If you have any questions or concerns regarding the security of your information, please email us at ec@ericcressey.com.
 
 Business Transitions
 
