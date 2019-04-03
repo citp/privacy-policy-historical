@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the d1baseball.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029003529id_/https%3A//d1baseball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d1baseball.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403172106id_/https%3A//d1baseball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - D1Baseball.com
 
-## Privacy Policy 
+## Privacy Policy
 
 * * *
 
-### **Privacy Policy**
+###  **Privacy Policy**
 
 The [http://d1baseball.com](http://d1baseball.com/) website (the “Site”) is provided by D1 Baseball Holdings, LLC. Collectively, this website and D1 Baseball Holdings, LLC shall be referred to as “D1” throughout this and all other agreements pertaining to the use of the Site.
 
 We value the relationship we have with our customers and Site visitors. We take the privacy of our Site visitors very seriously and want you to feel comfortable whenever you visit our Site, make a reservation, or participate in our online offerings. This Privacy Policy represents our general privacy approach to the information practices of our Site.
 
-**D1 Privacy Principles**
+ **D1 Privacy Principles**
 
 Our approach to responsible information handling is based on the Fair Information Practice Principles, a cornerstone of which is providing notice of our information practices and other privacy aspects in order to allow individuals to make informed decisions regarding their personal information. When you visit our Site, information may be requested of you in order for you to participate more fully in our online offerings and services. When we collect personal information from you, we let you know what information is being collected, how it is collected, for what purpose(s) it is collected, and to whom it may be disclosed. We also identify the information that is necessary to fulfill your request. Whenever we request additional or optional information, we inform you that provision of such information is voluntary so that you know it is not required to receive the requested product or service.
 
-**Personal Information**
+ **Personal Information**
 
 You may browse our Site without providing personal information to us. However, if you want to receive our online products and services, or participate in other online activities (e.g., surveys and contests), we may request that you provide us with information about yourself. When you provide personal information to us that may be used for secondary purposes, (i.e., uses not related to the purpose for which the information was collected), we give you the opportunity to opt out of such uses.
 
@@ -26,7 +26,7 @@ D1 may use your name and contact information to compile aggregated demographic i
 
 In addition, we may disclose your information (i) if required by law or legal process; (ii) to law enforcement authorities or other government officials; (iii) when we believe disclosure is necessary to enforce our Site policies or to protect our or others’ rights, property, or safety or (iv) to our service providers as necessary in order to provide the services set forth on our Site.  We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets.  Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy.
 
-**Electronic Information**
+ **Electronic Information**
 
 As you navigate through and interact with our Site, we may automatically collect information through cookies, such as information about the/your device (e.g., the IP address and the characteristics of the device, browser, and operating system type), pages viewed, and other information about your browsing actions and pattern. The cookies that we place on your hard drive are persistent cookies. This means that you will have to manually delete them from your browser after using the D1 website ** _.   _**Please note that cookies are necessary to complete the reservation process.
 
@@ -34,23 +34,23 @@ In addition, we may collect cookies from visitors to our Site in order to delive
 
 Your web browser may let you choose your preference as to whether you want to allow websites to collect personal information over time about your online activities across different websites or online services.  At this time, our Site does respond to the preferences you may have set in your web browser regarding the collection of such personal information, and our Site may continue to collect personal information in the manner described in this Privacy Policy.
 
-**Information Updates**
+ **Information Updates**
 
 We have a variety of mechanisms for you to modify and update the contact information that you have provided to us and are in the process of developing more mechanisms to update your personal data. When you visit our Site, we let you know in our privacy statements how you may currently modify the contact information that you have provided.
 
-**Children’s Online Privacy**
+ **Children’s Online Privacy**
 
 Our Site is not directed to children under 13, and we do not knowingly collect or solicit personal information from anyone under the age of 13.  If you become aware that your child has provided us with personal information without your consent, please contact us at info@D1Baseball.com, and we will delete such information from our system.
 
-**Protection of Personal Information**
+ **Protection of Personal Information**
 
 We recognize industry standards and employ security safeguards in an effort to protect personal information from unauthorized access and misuse. Furthermore, we attempt to verify that the information used to process your request is accurate and current. Please note that no electronic transmission of information can be entirely secure.  We cannot guarantee that the security measures we have in place to protect personal information will never be defeated or fail, or that those measures will always be sufficient or effective.
 
-**Modifications and Updates to this Policy**
+ **Modifications and Updates to this Policy**
 
 We reserve the right to update or modify this Privacy Policy at any time.  If we make a material change to this Privacy Policy, we will indicate on our Site that our privacy practices have changed and provide a link to the new policy.  In the event we make a material change to how we use your personal information, we will provide you with an opportunity to opt out of such new or different use.  The date this Privacy Policy was last revised is identified at the top of this page.  Please review the Site and this Privacy Policy to check for any updates or changes.
 
-**How to Contact Us**
+ **How to Contact Us**
 
 If you have any questions regarding this Privacy Policy, you may contact us by sending us an email at  **[info@D1baseball.com](mailto:info@d1baseball.com)** or by writing to us at:
 
