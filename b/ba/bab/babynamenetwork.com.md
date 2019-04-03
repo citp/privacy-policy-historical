@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606033940id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403131726id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
