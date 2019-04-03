@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the router-reset.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823005221id_/https%3A//www.router-reset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the router-reset.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403202843id_/https%3A//www.router-reset.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RouterReset
 
