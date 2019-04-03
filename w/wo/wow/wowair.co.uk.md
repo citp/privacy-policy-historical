@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowair.co.uk privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122120256id_/https%3A//wowair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowair.co.uk privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404012707id_/https%3A//wowair.com/privacy) for the most accurate reproduction.*
 
 # WOW air's Privacy Policy | WOW air
 
