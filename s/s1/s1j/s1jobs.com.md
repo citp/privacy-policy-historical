@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213093145id_/https%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403150205id_/https%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Newsquest
 
@@ -181,11 +181,11 @@ We might offer you the opportunity to receive information from selected partner 
 
 **Opting out  of marketing messages**
 
-**You can ask us to stop sending you marketing messages at any time by following the link on the message or otherwise contacting us[here](http://www.pages03.net/newsquestmediagroupltd/CopyofIBMIBMIBMSUPPCopyofGDPRlandingpage/).**
+**You can ask us to stop sending you marketing messages at any time by following the link on the message or otherwise contacting us[here.](mailto:privacy@newsquest.co.uk)**
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of an agreement for a product or service from us.
 
-You can opt out of all telephone marketing messages from all parties by contacting the Telephone Preference Service at [www.tpsonline.org.uk ](http://www.tpsonline.org.uk/) For unwanted post, contact [www.mpsonline.org.uk](https://web.archive.org/web/20181129221223id_/http://www.newsquest.co.uk/privacy-policy/www.mpsonline.org.uk)
+You can opt out of all telephone marketing messages from all parties by contacting the Telephone Preference Service at [www.tpsonline.org.uk ](http://www.tpsonline.org.uk/) For unwanted post, contact [www.mpsonline.org.uk](https://web.archive.org/web/20190331005847id_/http://www.newsquest.co.uk/privacy-policy/www.mpsonline.org.uk)
 
 **Personalised advertising**
 
@@ -299,4 +299,4 @@ We may choose to amend our privacy policy from time to time. We will post the ch
 
 **Newsquest Media Group, May 2018**
 
-_Version: pp_2018.06.11.01_
+_Version: pp_2019.02.08.01_
