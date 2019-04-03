@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warwick.ac.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095320id_/http%3A//warwick.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warwick.ac.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403031855id_/https%3A//warwick.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy statement for Warwick University web site
 
@@ -16,11 +16,13 @@ We also use Google Analytics, a web analytics service provided by Google. Google
 
 ### 2\. Signing in
 
-Some parts of the Warwick web site require authentication with a username and/or password. We store information about the pages visited by logged-in users for statistical analysis purposes, but we don't monitor individual usage patterns. Logs containing the date and time of all logins and the identity of the user are kept and may be used for system diagnostic or problem solving purposes, but not for tracking or monitoring purposes.
+Some parts of the Warwick web site (and other web applications such as Tabula, Moodle, etc) require authentication with a username and/or password. We store information about the pages visited by logged-in users for statistical analysis purposes, but we don't monitor individual usage patterns. Logs containing the date and time of all logins and the identity of the user are kept and may be used for system diagnostic or problem solving purposes, but not for tracking or monitoring purposes.
+
+For some users, SMS messages can form part of the signing in process, either to prove it's really you, or when resetting your password. If you provide a mobile number to receive these messages, we won't share it with any other application or service within or beyond Warwick, and we'll use it only to send you text messages relating to signing in.
 
 ### 3\. Credit card payments
 
-It is possible to make credit card payments to the University of Warwick through our web site. Such payments are handled by a third party e-commerce company called WorldPay, and they have their own [privacy statement](http://www.worldpay.com/about_us/index.php?page=privacy).
+It is possible to make credit card payments to the University of Warwick through our web site. Such payments are handled by a third party e-commerce company called Global Payments, and they have their own [privacy statement](https://www.resources.globalpaymentsinc.co.uk/en/privacy-statement).
 
 ### 4\. Regulation of Investigatory Powers Act 2000
 
