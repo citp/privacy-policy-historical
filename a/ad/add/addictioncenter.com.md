@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the addictioncenter.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312050935id_/https%3A//www.addictioncenter.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictioncenter.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404002608id_/https%3A//www.addictioncenter.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Addiction Center
+# Privacy Policy - AddictionCenter
 
-## Addiction Center will never sell or distribute your personal information to outside parties. Read our full privacy policy below.
-
- 
+## The Addiction Center Privacy Policy
 
 This Privacy Policy was last modified on 4/25/16
 
@@ -75,7 +73,7 @@ This Privacy Policy applies only to information collected through the Website an
 
 ### Google Analytics
 
-We are currently using Google Analytics to understand the Website’s audience and how we can tailor the content of the Website to best serve your needs. No PII is collected by Google Analytics. For more information on Google’s privacy policy, please click here.
+We are currently using Google Analytics to understand the Website’s audience and how we can tailor the content of the Website to best serve your needs. No PII is collected by Google Analytics. For more information on Google’s privacy policy, please [click here](https://www.google.com/policies/privacy/).
 
 ### NOTICE FOR CALIFORNIA RESIDENTS
 
@@ -89,7 +87,6 @@ If you have any questions regarding this Privacy Policy, please contact us.
 
 Recovery Worldwide, LLC  
 Addiction Center  
-http://www.addictioncenter.com  
 424 E. Central Blvd., # 636  
 Orlando, Florida 32801  
 contact@addictioncenter.com
