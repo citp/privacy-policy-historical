@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colwayinternational.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607031921id_/https%3A//colwayinternational.com/news/downloads/3%2Cfile%2Cprivacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colwayinternational.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403095240id_/https%3A//colwayinternational.com/news/downloads/3%2Cfile%2Cprivacy-policy.pdf) for the most accurate reproduction.*
 
 # In the case of Registered Clients, their personal data are also available to the Company's
 
