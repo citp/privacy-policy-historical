@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the makegameswith.us privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313190509id_/https%3A//www.makeschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makegameswith.us privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403055149id_/https%3A//www.makeschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Make School
 
-## Privacy Policy
+Welcome to makeschool.com, the online and mobile service of makegameswithus, Inc. DBA Make School ("Make School," "Company," "we," or "us"). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. 
 
-Welcome to makeschool.com, the online and mobile service of makegameswithus, Inc. DBA Make School ("Company," "we," or "us"). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
+For the purposes of EU data protection laws ("Data Protection Law"), Make School is data controller (i.e., the company who is responsible for, and controls the processing of, your personal data). 
 
 ## 1\. How we collect your information
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://www.makeschool.com/terms-of-service)  
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms-of-service)  
 We collect the following types of information about you:
 
 #### Information you provide us directly:
@@ -55,7 +55,19 @@ We use the information we collect or receive to communicate directly with you. W
 
 We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in, and (g) to provide advertising to your browser or device.
 
-## 2\. Sharing of your information
+## 2\. Legal basis for processing in the EU.
+
+In the EU, the purposes for which we process your personal data are: 
+
+  1. Where we need to perform the contract we are about to enter into or have entered into with you for the Service; 
+  2. Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests; and 
+  3. Where we need to comply with a legal or regulatory obligation in the EU. 
+
+
+
+Please [contact us](mailto:support@makeschool.com) if you need details about the specific legal basis we are relying on to process your personal data where more than one legal basis has been set out. 
+
+## 3\. Sharing of your information
 
 We will not rent or sell your information into third parties outside Company and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below:
 
@@ -73,20 +85,20 @@ We may buy or sell/divest/transfer the company (including any shares in the comp
 
 ### Instances where we are required to share your information:
 
-Company will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://www.makeschool.com/terms-of-service) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Company, our Users or others.
+Company will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://web.archive.org/terms-of-service) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Company, our Users or others.
 
 ### Sharing certain service type information we collect about you:
 
 We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on "How We Collect and Use Information." We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
 
-## 3\. How we store and protect your information
+## 4\. How we store and protect your information
 
   
 
 
 ### Storage and Processing:
 
-Your information collected through the Service may be stored and processed in the United States or any other country in which Company or its subsidiaries, affiliates or service providers maintain facilities. Company may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Company or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+Your information collected through the Service may be stored and processed in the United States or any other country in which Company or its subsidiaries, affiliates or service providers maintain facilities. Company may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Company or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. Such transfers are made pursuant to appropriate safeguards. If you wish to enquire further about these transfers, please contact us using the details set out at the end of this Privacy Policy. 
 
 ### Keeping your information safe:
 
@@ -96,7 +108,7 @@ Company cares about the security of your information, and uses commercially reas
 
 In the event that any information under our control is compromised as a result of a breach of security, Company will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-## 4\. Your choices about your information
+## 5\. Your choices about your information
 
   
 
@@ -111,22 +123,44 @@ Please refer to your mobile device or browser’s technical information for inst
 
 ### How long we keep your User Content:
 
-Following termination or deactivation of your User account, the Company may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
+Following termination or deactivation of your User account, the Company may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. 
 
-## 5\. Children’s privacy
+For individuals based in the EU or Switzerland, we store personal data for as long as necessary to fulfil the purposes for which we collect the data (see above under "How we collect your information?"), except if required otherwise by law. 
+
+##  6\. Your rights in respect of your personal information if you are located in the EU or Switzerland 
+
+If you are located in the EU or Switzerland, you have the following rights in respect of your personal data that we hold: 
+
+a) Right of access. The right to obtain access to your personal data. 
+
+b) Right to rectification. The right to obtain rectification of your personal data without undue delay where that personal data is inaccurate or incomplete. 
+
+c) Right to erasure. The right to obtain the erasure of your personal data without undue delay in certain circumstances, such as where the personal data is no longer necessary in relation to the purposes for which it was collected or processed. 
+
+d) Right to restriction. The right to obtain the restriction of the processing undertaken by us on your personal data in certain circumstances, such as where the accuracy of the personal data is contested by you, for a period enabling us to verify the accuracy of that personal data. 
+
+e) Right to portability. The right to portability allows you to move, copy or transfer personal data easily from one organization to another. 
+
+f) Right to object. You have a right to object to processing based on legitimate interests and direct marketing. 
+
+If you wish to exercise one of these rights, please contact us using the contact details at the end of this Privacy Policy. 
+
+You also have the right to lodge a complaint to your local data protection authority. Further information about how to contact your local data protection authority is available [here](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm). 
+
+## 7\. Children’s privacy
 
 The Company does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@makeschool.com](mailto:support@makeschool.com).
 
-## 6\. Links to other web sites and Services
+## 8\. Links to other web sites and Services
 
 We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to you User Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
 
-## 7\. How to contact us
+## 9\. How to contact us
 
 If you have any questions about this Privacy Policy or the Service, please contact us at [support@makeschool.com](mailto:support@makeschool.com)
 
-## 8\. Changes to our privacy policy
+## 10\. Changes to our privacy policy
 
 The Company may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the "last modified" date at the bottom of this page.
 
-This privacy policy was last modified on Monday July 9th, 2012.
+This privacy policy was last modified on Monday June 13th, 2018.
