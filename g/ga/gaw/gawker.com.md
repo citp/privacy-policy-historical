@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gawker.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224165937id_/http%3A//gawker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gawker.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403025717id_/http%3A//gawker.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
