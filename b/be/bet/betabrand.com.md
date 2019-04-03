@@ -1,99 +1,92 @@
-> *The following text is extracted and transformed from the betabrand.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826081958id_/https%3A//www.betabrand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betabrand.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403161717id_/https%3A//www.betabrand.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-### Betabrand Statement of Privacy
+## Betabrand Privacy Policy
 
-Betabrand is committed to protecting your privacy. This Statement of Privacy applies to Betabrand Web site and governs data collection and usage at all Betabrand sites and services; it does not apply to other online or offline sites, products or services. Please read the Betabrand Statement of Privacy. Betabrand is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Statement of Privacy.
+Betabrand is committed to protecting your privacy. This Statement of Privacy applies to Betabrand Web site and governs data collection and usage at all Betabrand sites and services; it does not apply to other online or offline sites, products or services. Please read the following Privacy Policy, which describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.betabrand.com (the “Site”). Betabrand is a general audience web site, intended for users of all ages.
 
-#### Collection Of Your Personal Information
+### Personal Information We Collect
 
-As an E-commerce Web site, Betabrand collects personal information, such as your e-mail address, name, home or work address or telephone number. Information collected by Betabrand is used solely for the purpose of billing and shipping your online purchases. Betabrand does not collect any information about your computer hardware and software. Betabrand encourages you to review the privacy statements of Web sites you choose to link to from Betabrand so that you can understand how those Web sites collect, use and share your information. We are not responsible for the privacy statements or other content on Web sites outside of the Betabrand Web site.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-#### Use Of Your Personal Information
+**We collect Device Information using the following technologies:**
 
-Betabrand and its operational service partners collect and use your personal information to process product orders and deliver the products requested. It is possible that Betabrand may also use personal information to inform you of other products or services available from Betabrand and its affiliates. Betabrand may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+  1. “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  2. “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  3. \- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-Betabrand does not sell, rent or lease its customer lists to third parties. Betabrand may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party.
+
+
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information.” We may also collect anonymous demographic information, which is not unique to you, such as your age, gender, and birthday. Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Betabrand's public message boards, this information may be collected and used by others.
+
+When we talk about _“Personal Information”_ in this Privacy Policy, we are talking about Device Information, Order Information, as wel as any additional personally sensitive information.
+
+### How Do We Use Your Personal Information?
+
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
+
+Communicate with you, screen our orders for potential risk or fraud, and when in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, to assess the success of our marketing and advertising campaigns), and to provide appropriate
+
+### Sharing Your Personal Information
+
+We do not sell, rent or lease its customer lists to third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information _(e-mail, name, address, telephone number)_ is not transferred to the third party.
 
 We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
 
-Betabrand does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+We share your Personal Information with third parties to help us use your Personal Information as described above. For example, we use Google Analytics to help us understand how our customers use the Site—you can read more about how Google uses your Personal Information here: <https://www.google.com/intl/en/policies/privacy/>. You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
 
-Betabrand may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Betabrand or the site; (b) protect and defend the rights or property of Betabrand, including its Web site; or (c) act under exigent circumstances to protect the personal safety of users of Betabrand or the public.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-Personal information collected on this site may be stored and processed in the United States or any other country in which Betabrand or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. Betabrand abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+### Behavioural Advertising
 
-#### Control Your Personal Information
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
 
-Betabrand offers its customers choices for the collection, use and sharing of personal information. You may go notify us of your preferences by emailing info@betabrand.com. Please be sure to provide complete account information so we can identify you in our records. You may also stop the delivery of future promotional e-mail from Betabrand by clicking the unsubscribe link on any email you receive from us.
+**You can opt out of targeted advertising by:**  
+**Facebook:** <https://www.facebook.com/settings/?tab=ads>  
+**Google:** <https://www.google.com/settings/ads/anonymous>  
+**Bing:** <https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads>
 
-#### Security Of Your Personal Information
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <http://optout.aboutads.info/>.
 
-Betabrand is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we use a secure payment gateway so your information is protected.
+### Do Not Track
 
-#### Changes To This Statement
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-Betabrand will occasionally update this Statement of Privacy to reflect company and customer feedback. If there are material changes to this Statement or in how Betabrand will use your personal information, Betabrand will prominently post such changes prior to implementing the change. Betabrand encourages you to periodically review this Statement to be informed of how Betabrand is protecting your information.
+### GDPR/European Residents
 
-We are not responsible for the content or privacy practices on any non-Betabrand.com web site to which this Site links or that links to this Site.
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-#### Information Collection And Use
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-  1. Information Collection.
-  2. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
+### Data Retention
 
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-  1. help make this Site easier for you to use by not having to enter information more than once.
-  2. help you quickly find information, products, and services.
-  3. help us create content on this Site that is most relevant to you.
-  4. alert you to new information, products, and services that we offer.
-  5. Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.
-  6. Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for a product giveaway; to request us to notify you when we receive a new brand, new product style, or product size; to sign up for our email newsletter and special offers. Your participation in a contest is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our Site the names and cities of contest winners.
-  7. Cookies and Other Technology. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
+### Minors
 
+The Site does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-  1. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."
-  2. Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.
-  3. We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
-  4. As an example, Facebook collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased. Please note that any information collected by Facebook via cookies and web beacons is not linked to any customer's personal information collected by us.
+### Changes
 
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-  1. **Log Files**. As is true of most web sites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
-  2. **Age**. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
-  3. **Product Reviews**. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
+### Contact Us
 
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us at:
 
+**Mailing Address:**  
+Betabrand Corporation  
+780 Valencia St.  
+San Francisco, California 94110  
+United States
 
-#### Information Use And Disclosure
+**Email Address:**  
+[info@betabrand.com](mailto:info@betabrand.com)
 
-  1. **Internal Use**. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
-  2. **Communications with You** : We will use your personal information to communicate with you about our site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to register for contests; to request us to notify you when we receive a new brand, new product style, or product size; to sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
-  3. **External Use**. We want to provide you with excellent service and to offer you a great selection - we primarily sell merchandise, not information. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
+**Telephone number:**  
+[(855) 694-8766](tel:8556948766)
 
-
-  1. As do most catalog and Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
-  2. Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)
-  3. In the event you have elected to use the Bill Me Later® payment method, to help you buy products and provide customer service to you, we must provide the last four (4) digits of your social security number and your birth date to the financial-services corporations processing your transaction. When you submit this information to us for approval and authorization, we use state-of-the-art data encryption to protect your information.
-  4. We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
-  5. We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
-  6. We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
-  7. (vii) We publicly disclose the name, city, and state of the weekly winner of the Caption Contest.
-
-
-
-#### Data Security
-
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
-
-#### Opt Out/corrections
-
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of this Site https://www.betabrand.com/contact, or by telephoning, or emailing your request to Betabrand.com's Customer Support department (855) 694-8766 or info@betabrand.com. Please do not email your credit-card number or other sensitive information.
-
-#### Offline Collection, Use & Disclosure Of Information
-
-As you might expect from Betabrand.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of you personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store it a locked repository or we will shred the fax if there is no need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
-
-#### Update To This Policy
-
-If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated.
+Effective as of May 25, 2018
