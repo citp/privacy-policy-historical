@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230221705id_/https%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403080737id_/https%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -145,8 +145,8 @@ We process this personal data in order to provide you with an access to our webs
 
         3. ##### Stockholders‘ Portal
 
-The stockholders‘ portal is only offered to stockholders of Bayer AG. The login for our stockholders’ service is handled by the external service provider [Link Market Services GmbH](https://www.linkmarketservices.de/datenschutz.html). We process this personal data in order to provide you with an access to our website. They are automatically deleted in case you deactivate your user account.  
-You will find your data for the first log in to our Stockholders' Portal in the invitation to the Annual Stockholders' Meeting.
+The stockholders‘ portal is only offered to stockholders of Bayer AG. The login for our stockholders’ service is handled by the service provider [Link Market Services GmbH](https://www.linkmarketservices.de/datenschutz.html). We process these personal data provided by Link Market Services in order to allow your access to our website. These data are automatically deleted at the fixed date November 30th after one year in case you deactivate your user account or sell your shares in Bayer AG.  
+You will find your data for the first log-in to our Stockholders' Portal in the invitation to the Annual Stockholders' Meeting of Bayer AG.
 
       8. #### Information on side effects and quality complaints
 
