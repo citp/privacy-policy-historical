@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theloop.ca privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107231434id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theloop.ca privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404012738id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%3Flanguage%3Den) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : What is “personal” information?
 
@@ -81,11 +81,11 @@ In certain urgent circumstances, we may collect, use or disclose personal inform
 
 * * *
 
-What is the Online Marketing Program and how does it use information? 
+What is the tailored marketing program and how does it use information? 
 
-Advertising is a reality in today’s online world, and people are finding that they receive ads that are irrelevant to them. With its online marketing program, Bell will work to ensure that the ads you do receive may be more relevant to you, rather than the random ads you may currently receive. In other words, you won't see more ads, just ads better suited to you.
+Advertising is a reality in today’s world, and people find that they receive ads that are irrelevant to them. With our tailored marketing program, Bell will work to ensure that the offers participants receive when using our services may be more relevant, rather than random marketing ads. In other words, participants won’t see more ads, just more relevant ads.
 
-If you participate, Bell will be able to customize advertising based on your usage patterns, similar to the ways that companies like Google have been doing for some time. These companies may sometimes use an individual's detailed URL and location info for marketing purposes and/or to limit the number of irrelevant ads a user might see. If you provide your express consent to participate in the Online Marketing Program and change your mind, you can opt-out at any time. [Learn more](http://www.bell.ca/online-marketing#ads-modal)
+Tailored marketing means Bell will be able to customize advertising based on participant account information and service usage patterns, similar to the ways that companies like Google and others have been doing for some time. If you provide your express consent to participate in the tailored marketing program and change your mind, you can opt-out at any time. [Read more](https://www.bell.ca/tailoredmarketing)
 
 * * *
 
