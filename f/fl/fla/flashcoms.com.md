@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashcoms.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910031432id_/http%3A//www.flashcoms.com/company/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcoms.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403185208id_/http%3A//www.flashcoms.com/company/private_policy) for the most accurate reproduction.*
 
 # Private policy
 
