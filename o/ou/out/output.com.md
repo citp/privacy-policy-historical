@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the output.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029083615id_/https%3A//output.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the output.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404064422id_/https%3A//output.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Output
 
   * [Shop](https://output.com/products "Output Products")
   * [Blog](https://output.com/blog)
   * [Artists](https://output.com/artists)
-  * [Support](https://output.com/support)
+  * [Support](http://support.output.com/)
   * [Company](https://output.com/company)
   * [My AccountLog In](https://output.com/account)
 
@@ -112,11 +112,11 @@ At Output, we deeply care about your privacy and we are committed to safeguardin
 
 11.3 Our principal place of business is at 1418 N Spring St, Suite 102, Los Angeles, CA 90012.
 
-11.4 You can contact us using our website contact form.
+11.4 You can contact us using our website contact form, or by calling (818) 672-6902
 
 #### 12\. Data protection officer
 
-12.1 Our data protection officer can be reached at dpo@output.com
+12.1 Our data protection officer can be reached at [dpo@output.com](mailto:dpo@output.com)
 
 ### Want free loops? Plus exclusive offers, production tips, and new product information?
 
