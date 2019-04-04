@@ -1,0 +1,581 @@
+<!--The following is the downloaded HTML source of the marketmotive.com privacy policy that was archived on 2019-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190404062006id_/https%3A//www.marketmotive.com/company/web-privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:ng="http://angularjs.org" id="ng-app" ng-app="Simplilearn" dir="ltr" lang="en-US"><head itemscope="" itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgYHVF5UGwIDUVZTAgIH"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+        <meta name="viewport" content="width=device-width">
+		<title>Privacy - Market Motive</title>
+        <link href="https://www.marketmotive.com/company/web-privacy/" rel="canonical">
+        <meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Privacy - Market Motive">
+<meta property="og:description" content="All the information related to website privacy policy of Market Motive here.">
+<meta property="og:url" content="https://www.marketmotive.com/company/web-privacy/">
+<meta property="og:site_name" content="Market Motive">
+<meta property="og:article:publisher" content="https://www.facebook.com/marketmotive">
+<meta property="og:image" content="https://www.marketmotive.com/static/css/images/market-motive-logo-small.png">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@MarketMotive">
+<meta property="twitter:title" content="Privacy - Market Motive">
+<meta property="twitter:description" content="All the information related to website privacy policy of Market Motive here.">
+<meta property="twitter:url" content="https://www.marketmotive.com/company/web-privacy/">
+<meta property="twitter:image" content="https://www.marketmotive.com/static/css/images/market-motive-logo-small.png">
+<meta name="description" content="">        <meta name="msvalidate.01" content="509281338D422402F31D2EAE89202992">
+        <meta name="yandex-verification" content="d2ac09a6774f0d0d">
+        <meta name="naver-site-verification" content="69d839586e5f7f70e8c7eaa3b2a900fcf7036182">
+        
+                        <link rel="shortcut icon" href="https://www.marketmotive.com/static/css/images/favicon.ico">
+        <link rel="shortcut icon" href="https://www.marketmotive.com/static/css/images/mm-favicon.png">
+                    <link href="https://www.marketmotive.com/static/css/combined.min.1543296380.css" rel="stylesheet" type="text/css">
+                    
+                            <script type="text/javascript">
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-2410571-5']);
+                _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+                _gaq.push(['_setSiteSpeedSampleRate',10],['_setCustomVar',1,'usertype', '0',2]);
+                _gaq.push(['_trackPageview']);
+                (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                                    var sgaq = document.getElementsByTagName('script')[0]; sgaq.parentNode.insertBefore(ga, sgaq);
+                })();
+            </script>
+            <script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                            m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-2410571-1', 'auto');
+                ga('send', 'pageview');
+
+            </script>
+                    <style>
+                [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak, .ng-hide {
+                display: none !important;
+                }
+            </style>
+    </head>
+    <body data-dir-orientation-change="">
+                <!--[if lte IE 9]>
+            <div class="ie8-and-bellow"><div class="upgrade-msg" align="center"><p><img src="https://www.marketmotive.com/static/css/images/mm_new_logo_final.png"></p><p style="margin-bottom:0;padding-bottom:0;">Looks like you have an older version of Internet explorer!</p><p>Please upgrade your browser to the latest version or download one of the following browsers to proceed.</p><div id="browsers"><a class="br1" href="https://www.google.com/intl/en/chrome/browser/"><img src="https://www.marketmotive.com/static/css/images/ch.jpg" alt="">Chrome</a><a class="br2" href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://www.marketmotive.com/static/css/images/ff.jpg" alt="">Firefox</a><a class="br3" href="https://www.opera.com/computer/windows"><img src="https://www.marketmotive.com/static/css/images/op.png" alt="">opera</a><a class="br4" href="https://windows.microsoft.com/en-US/internet-explorer/download-ie"><img src="https://www.marketmotive.com/static/css/images/ie.jpg" alt="">IE</a></div></div></div>
+        <![endif]-->
+        <!-- Header Start -->
+                    <header>
+                <nav class="navbar navbar-default">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle pull-left">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand logo-new" href="https://www.marketmotive.com/" title="Market Motive : A Simplilearn Company">
+                                <img src="https://www.marketmotive.com/market_motive/images/market_motive_logo_white_v1.png" class="mm-white-logo" alt="Market Motive : A Simplilearn Company">
+                                <img src="https://www.marketmotive.com/market_motive/images/market_motive_logo_color_v1.png" class="mm-color-logo" alt="Market Motive : A Simplilearn Company">
+                            </a>
+                            <a href="http://www.marketmotive.com/training/help/login/login-here.html" target="_blank" class="login mob-login pull-right hidden-md" data-track="login">LOGIN</a>
+                        </div>
+                        <div id="navbarCollapse" class="collapse navbar-collapse">
+                            <ul id="menu-main_menu" class="nav navbar-nav pull-right text_light">
+                                <li class="courses">
+                                    <a href="#" data-track="courses dropdown">COURSES <i class="up_arrow_drk"></i></a>
+
+                                    <div class="loggedin_dropdown">
+                                        <ul class="text_size14 text_book white-txt">
+                                            <li><a href="https://www.marketmotive.com/masters-in-digital-marketing/">Masters in Digital Marketing</a></li>
+                                            <li><a href="https://www.marketmotive.com/digital-marketing-certification-training-courses/" rel="" data-track="Digital Marketing Certified Associate">Digital Marketing Certified Associate</a></li>
+                                            <li><a href="https://www.marketmotive.com/web-analytics-training-courses/" rel="" data-track="web analytics course">Advanced Web Analytics</a></li>
+                                            <li><a href="https://www.marketmotive.com/search-engine-optimization-seo-training-courses/" rel="" data-track="seo course">Advanced Search Engine Optimization (SEO)</a></li>
+                                            <li><a href="https://www.marketmotive.com/social-media-training-courses/" rel="" data-track="social media course">Advanced Social Media</a></li>
+                                            <li><a href="https://www.marketmotive.com/pay-per-click-ppc-training-courses/" rel="" data-track="ppc course">Advanced Pay Per Click (PPC)</a></li>
+                                            <li><a href="https://www.marketmotive.com/conversion-optimization-training-courses/" rel="" data-track="conversion optimization course">Advanced Website Conversion Rate Optimization</a></li>
+                                            <li><a href="https://www.marketmotive.com/content-marketing-training-courses/" rel="" data-track="content marketing course">Advanced Content Marketing</a></li>
+                                            <li><a href="https://www.marketmotive.com/email-marketing-training-courses/" rel="" data-track="email marketing course">Advanced Email Marketing</a></li>
+                                            <li><a href="https://www.marketmotive.com/mobile-marketing-training-courses/" rel="" data-track="mobile marketing course">Advanced Mobile Marketing</a></li>
+                                            <li><a href="https://www.marketmotive.com/google-adwords-professional-certification-training-courses/" rel="" data-track="Google AdWords Professional Training">Complete Google AdWords Professional</a></li>
+                                            
+                                            <!--<li><a href="https://www.marketmotive.com/display-advertising-training-courses/" rel="" data-track="display advertising course">Display Advertising</a></li>
+                                            <li><a href="https://www.marketmotive.com/online-marketing-foundations-training-courses/" rel="" data-track="foundations">Foundations</a></li>-->
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li><a href="https://www.marketmotive.com/group-training/" data-track="teams and agencies">FOR TEAMS &amp; AGENCIES</a></li>
+                                <li><a href="https://www.marketmotive.com/online-marketing-curriculum/" data-track="higher ed">FOR HIGHER EDUCATION</a></li>
+                                <!--<li><a href="https://www.marketmotive.com/digital-marketing-specialist-training-expert-pass/" data-track="all-access">FOR INDIVIDUALS</a></li>
+                                <li><a href="https://www.marketmotive.com/pricing/" data-track="pricing">PRICING</a></li>-->
+                                <li><a href="https://lms.simplilearn.com" class="login hidden-xs hidden-sm" data-track="login">LOGIN</a></li>
+                            </ul>
+                        </div><!--/.nav-collapse -->
+                    </div>
+                </nav>
+            </header>
+            
+
+
+<!-- middle content -->
+
+<section class="fluid-width static_bg what_we_do">
+    <div class="pull-left fluid-width secendary_nav_div">
+    <div class="container">
+        <ul class="secendary_nav cfp text_size14">
+                <li><a href="https://www.marketmotive.com/company/contact-us/">Contact</a></li>
+                <li><a href="https://www.marketmotive.com/company/faq/">FAQ</a></li>
+                <li class="active"><a href="https://www.marketmotive.com/company/web-privacy/">Privacy</a></li>
+                <li><a href="https://www.marketmotive.com/company/list-of-data-subprocessors/">List of Data Subprocessors</a></li>
+        </ul>
+    </div>
+</div>    <div class="container what_we_do clear">
+        <h1 class="white_color text_size32 text_meduim  text-center">We respect your privacy, and go to great pains to protect it.</h1>
+    </div>
+</section>
+	
+<section class="fluid-width light_gry_bg text_justify">
+    <div class="container about_cnt privacy_policy">
+        <div class="white_bg col-xs-12 praivacy_section">
+             <h1>Privacy policy</h1>
+                            <h2>Purpose</h2>
+                            <p><b>Simplilearn</b> (“Simplilearn,” “we,” or “us”)  is committed to protecting your privacy, we take data protection and privacy very seriously. This Privacy Policy (“<b>Policy</b>”) describes how Simplilearn collects, uses, shares and secures the personal information you provide when you visit the Websites and Mobile Apps owned and operated by Simplilearn (listed below), and when you use our Service(s). It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our Service(s) shall be limited to the purpose of providing the service for which you have engaged Simplilearn. The capitalized terms used in this Policy but not defined herein shall have the same meaning as defined in our Terms of Service at (“<a href="https://www.simplilearn.com/terms-and-conditions" target="_blank">Terms</a>”).</p>
+
+                            <h2>Simplilearn Website and Mobile Apps</h2>
+                            <ul>
+                                <li>Website:
+                                    <ul>
+                                        <li><a href="https://www.simplilearn.com/" target="_blank">Simplilearn.com</a></li>
+                                        <li><a href="https://www.marketmotive.com/" target="_blank">Marketmotive.com</a></li>
+                                    </ul>
+                                </li>
+                                <li>Mobile Apps
+                                    <ul>
+                                        <li>iOS : <a href="https://itunes.apple.com/in/app/simplilearn/id963042747?mt=8" target="_blank">https://itunes.apple.com/in/app/simplilearn/id963042747?mt=8 </a></li>
+                                        <li>Andorid : <a href="https://play.google.com/store/apps/details?id=com.mobile.simplilearn" target="_blank">https://play.google.com/store/apps/details?id=com.mobile.simplilearn</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            
+                            <p>Please read this Privacy Policy carefully, as it governs how you use Simplilearn or its affiliate products. If you do not agree to this Privacy Policy, please do not use Simplilearn.</p>
+
+                            <h2 id="u_notice_to_end_user">Notice to End Users</h2>
+                            <p>In some cases an administrator may create an account in Simplilearn on the behalf of a “<b>End-User</b>” and may provide his/her information, including Personal Information. In such cases the administrator who may be your Employer or a  Simplilearn Authorised Training partner (<b>ATP</b>) is our “<b>Customer</b>.” We collect Information under the direction of our customers and have no direct relationship with the <b>End-User</b> whose personal data we process.</p>
+                            <p>A End-user’s use of the simplilearn platform may be subject to the Customer’s policies, if any.
+                            </p>
+                            <p>Our <b>Customer</b> must have the authority to act on behalf of the <b>End-User</b> and to consent to the collection and use of their Personal Information as described in this Privacy Policy.
+                            </p>
+                            <p>If you are an End-user using our platform, please direct your privacy inquiries to your administrator. Simplilearn is not responsible for the privacy or security practices of our customers, which may differ from those set forth in this privacy statement. </p>
+
+                            <h2>International Transfer</h2>
+
+                            <p>Personal data collected by Simplilearn may be stored and processed in your region, and in any other country where Simplilearn or its affiliates, data sub-processors operate facilities.  To facilitate Simplilearn global operations, we may transfer and access such information from around the world, including from other countries in which the Company has operations. A list of the Simplilearn’s global offices is available <a href="https://www.simplilearn.com/contact-us" target="_blank">here</a>. This Privacy Statement shall apply even if Simplilearn transfers Data to other countries.</p>
+                            <p>Currently, Simplilearn and its data sub processors have data centers in United States, India and Japan.
+                            </p>
+                            <p>The data we hold may also be processed by employees operating in countries listed above, Such staff may be engaged in, among other things, product development and customer and technical support. The data protection and other laws of these countries might not be as comprehensive as those in your country. By submitting your data and/or using Our Services, You consent to the transfer, storing, and processing of Your data in these countries.</p>
+                            <p><b>Note to our customers in Europe:</b> We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do, we use contracts, to help ensure your rights and protections travel with your data. By submitting your data and/or using Our Services, You consent to the transfer, storing, and processing of your data in these countries.</p>
+
+                            <h2>Use of your Personal Information and Other Data</h2>
+                            <p>Simplilearn uses this Privacy Policy to govern the use of personal information you provide to us. We use your personal information solely to provide our services to you. We also use your Personal Identifiable Information (PII)  together with other <a href="#eu-personally-non-identifiable">Personally Non-Identifiable Information (non - PII)</a> to help us better understand our users and to improve the content and functionality of our site.</p>
+
+                            <h2>Personal Identifiable Information</h2>
+                            <p>We may collect the following <b>personal information</b> from you in the following situations</p>
+                            <ul>
+                                <li>When you visit our website or mobile apps and voluntarily provide the following information via one of our contact forms, via a chat or phone session, or as part of a purchase of one of our courses or register on our site:
+                                    <ul>
+                                        <li>Contact Information,such as <b>name, email address, mailing address, phone number, IP</b></li>
+                                        <li>Information about your business, such as <b>company name, company size, business type</b></li>
+                                        <li>Billing Information, such as <b>credit card number</b> and <b>billing address</b>;</li>
+                                    </ul>
+                                </li>
+                                <p>Note : All payment transactions are processed through secure payment gateway providers. We do not store any card information (other than the last 4 digits of your card) in our servers. </p>
+                                <li>When you use our Learning Management System (*.lms.simplilearn.com), mobile applications,  our support system or respond to our surveys:
+                                    <ul>
+                                        <li><b>Contact Information</b>, such as <b>name, email address, mailing address, IP address, geographic location</b>, or <b>phone number</b>;
+                                        </li>
+                                        <li>Unique Identifiers, such as <b>username</b>,or <b>password</b>;</li>
+                                        <li><b>Name</b> and <b>e-mail</b> address when you provide feedback from the Service(s)</li>
+                                    </ul>
+                                </li>
+                                <li>When you use our community website or blogs
+                                    <ul>
+                                        <li>Please refer to our section on <a href="#u_public_forum">Public Forums</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <p>Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>                                    
+
+                            <h2 id="eu-personally-non-identifiable">Non-Personal Identifiable Data:</h2>
+                            <p>We capture some Non Identifiable data in our logs. The data in the logs includes</p>
+                            <ul>
+                                <li>Device type</li>
+                                <li>browser type</li>
+                                <li>language preference, </li>
+                                <li>time zone,</li>
+                                <li>screen size</li>
+                                <li>referring / exit pages</li>
+                            </ul>
+
+                            <h2>Use</h2>
+                            <p>We may use the personal information collected from within the Websites or when you use the Service(s) to:</p>
+
+                            <ul>
+                                <li>Provide you with the Service(s).</li>
+                                <li>Send you <a href="#u_commuincation_from_web">communication</a> from the Service(s)</li>
+                                <li>Assess the needs of your business to determine or suggest suitable products.</li>
+                                <li>Send you requested product or service information.</li>
+                                <li>Respond to customer service requests.</li>
+                                <li>Administer your account.</li>
+                                <li>Send you promotional and marketing communications.</li>
+                                <li><a href="#u_advertisement">Personalised Advertisement</a></li>
+                                <li>Facilitate your transactions with other users when you use our Service(s).</li>
+                                <li>Perform statistical analyses of user behaviour and characteristics at an aggregate level in order to measure interest in and use of the various areas of the site.</li>
+
+                            </ul>
+                            <p>When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided.</p>
+
+                            <h2>Share</h2>
+                            <p>If your subscription was provided by your employer or a Simplilearn Authorised training partner, we will share information, including personal information with them.</p>
+                            <p>We may transfer personal information to our Group Companies and sub-contractors that help us provide our Service(s). Transfers to subsequent third parties are covered by the service agreements with our data-processors. We reserve the right to disclose your personal data as required by applicable law, in response to lawful requests by public authorities, including meeting national security or law enforcement requirements and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or other legal process served on us. </p>
+                            <p>In the event Simplilearn goes through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, your user account and personal data will likely be among the assets transferred. You will be notified via email and via a prominent notice on our Websites of any such change in ownership or control. We may also disclose your personal information to any other third party with your prior consent.</p>
+
+                            <h2>Data from Third Parties</h2>
+                            <p>We also obtain data from third parties. We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data. These third-party sources vary over time, but have included:</p>
+                            <ul>
+                                <li>Data brokers from which we purchase demographic data to supplement the data we collect.</li>
+                                <li>Social networks when you grant permission to access your data on one or more networks.</li>
+                                <li>Existing or past learners who participate in our referral program</li>
+                                <li>Service providers that help us determine a location based on your IP address in order to customize certain products to your location.</li>
+                                <li>Partners with which we offer co-branded services or engage in joint marketing activities, and</li>
+                                <li>Publicly-available sources such as open government databases or other data in the public domain.</li>
+
+                            </ul>
+                            <p>We may receive Personal Information about you from other sources like postal mail, telephone or fax. We may add this information to the information we have already collected from you via the Site in order to improve the products and services we provide.</p>
+
+                            <h2>Correction, Removal or Export of Personal Information</h2>
+                            <p>Simplilearn acknowledges that you have the right to access, edit and delete your personal information at any time. Upon request, we will provide you with reasonable access to the personal information we collect about you. You will have the opportunity to correct, update, modify or delete this information as follows:</p>
+                            <ul>
+                                <li><b>If you have independently signed up with Simplilearn.</b><br><p>You may access, update or export your Personal Information included in your online Simplilearn account at any time by logging into your account and going to your profile or by  <a href="#u_reaching_out_to_us">reaching out to us</a>
+                                </p></li>
+                                <li><b>If you are using an enterprise-provided account (Simplilearn Authorised Training Partner or your Employer)</b><br><p>Please review the section <a href="#u_notice_to_end_user">Notice to End Users</a></p> </li>
+                                
+                            </ul>
+                            <p><b>Exceptions in Deletion:</b> If you request access to your personal information and discover that that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers or backup systems</p>
+                            <p><b>Exception in Data Portability:</b> There may be limits to the amount of information we can practically provide. For example, we may limit an individual’s access to personal information where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy or where doing so would violate others’ rights.</p>
+                            <p><b>Exception in Data Correction:</b> Even after updates to your Personal Information, we may maintain and store older versions of such information within our databases, access logs and other records in order to comply with other routine data audits. </p>
+                            <h2 id="u_cookies">Cookies and Other Tracking Technologies</h2>
+                            <p> Simplilearn and our third-party partners, such as our advertising and analytics partners, (listed <a href="https://www.marketmotive.com/company/list-of-data-subprocessors/" target="_blank">here</a>)  use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different Services and devices.</p>
+                            <p>The types of cookies used by Simplilearn includes</p>
+                            <ul>
+                                <li><b>Essential Cookies:</b> These cookies are essential for the basic functionalities offered by the Site and Service(s). These class of cookies helps in keeping a user logged in to the Service(s) and remember relevant information when they return to the Service(s).</li>
+                                <li><b>Insight Cookies:</b> These are used for tracking the user activities within the Service(s), which in turn helps us in improving your user experience.</li>
+                                <li><b>Marketing Cookies:</b> These are used for providing you with customized and interest-based ads based on your browsing behavior and other similar activities on our Websites.</li>
+
+                            </ul>
+                            <p>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is different, look at your browser's Help Menu to learn the correct way to modify your cookies.</p>
+                            <p>If you turn cookies off, some of the features that make your site experience more efficient may not function properly.</p>
+
+                            <h2 id="u_advertisement">Advertisement</h2>
+                            <p>We partner with third parties to manage our advertising on other sites. Our third party partners may use technologies such as <a href="#u_cookies">cookies</a> to gather information about your activities on our Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by <a href="https://preferences-mgr.truste.com/" target="_blank">clicking here</a> (or if located in the European Union, <a href="https://www.youronlinechoices.eu/" target="_blank">click here</a>). Please note this does not opt you out of being served ads. You will continue to receive generic ads.</p>
+
+                            <h2>Analytics &amp; Web-beacons</h2>
+                            <p>Simplilearn uses third party software for analytics. All metrics information collected from your usage of the Service(s) shall be transmitted to our analytics provider. This information is then used to evaluate how users use our platform, and to compile statistical reports on user activity for us. We further use the same statistical analytics tool to track or to collect your Personally Identifiable Information (PII). We will use this information in order to maintain, enhance, or add to the functionality of the Service(s) and to personalize the experience for you. Aggregated information and analysis may be made public where desired by Simplilearn.</p>
+                            <p>We and our third party advertising partners use technologies such as web beacons in analyzing trends, administering the website, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.</p>
+
+                            <h2>Do Not Track.</h2>
+                            <p>Currently, various browsers — including Internet Explorer, Firefox, and Safari — offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Web sites’ visited by the user about the user's browser DNT preference setting. Simplilearn does not currently commit to responding to browsers' DNT signals with respect to the Company's Web sites, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. Simplilearn takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.</p>
+
+                            <h2>Links to Third Party Sites</h2>
+                            <p>Our Websites contain links to other websites that are not owned or controlled by Simplilearn. Please be aware that we are not responsible for the privacy practices of such other websites or third parties. We encourage you to be aware when you leave our Websites and to read the privacy policies of each and every website that collects personal information.
+                            </p>
+
+                            <h2 id="u_public_forum">Public Forums</h2>
+                            <p>Our Websites offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, <a href="#u_reaching_out_to_us">reach out to us</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know that we are unable to do so and why.</p>
+                            <p>Simplilearn may provide bulletin boards, blogs, or community threads on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Simplilearn is not responsible for the personal information you choose to submit in these forums.</p>
+                            <p>Remember that when you share information publicly, it may be indexable by search engines.</p>
+
+                            <h2>Single Sign-On &amp; Other social Media Features</h2>
+                            <p>Our Websites include social media features, such as the Facebook “Like” button, the “Share This” button or interactive mini-programs. Where we have your consent, these features may collect your IP address, which page you are visiting on our Websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these features are governed by the privacy policy of the company providing them.</p>
+                            <p>You can log in to our Websites using sign-in services by LinkedIn. The services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address. 
+                            </p>
+                            <h2 id="u_commuincation_from_web">Communications from the Websites</h2>
+                            <p>We may use your email address to send our newsletters and/or marketing communications. If you no longer wish to receive these communications, you can opt out by following the instructions contained in the emails you receive or by contacting us at<a href="mailto:unsubscribe@simplilearn.com" class="noselect"> unsubscribe@simplilearn.com</a> </p>
+
+                            <p>We will send you announcements related to the Service(s) on occasions when it is necessary to do so. For instance, if our Services) is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of communications which are not promotional in nature. If you do not wish to receive them, you may delete your Account.</p>
+
+                            <h2>Information Security</h2>
+                            <p>Our Websites and Service(s) have industry standard security measures in place to protect against the loss, misuse, and alteration of the information under our control. When you provide us with sensitive information (such as credit card information or login credentials), we will encrypt that information via Secure Socket Layer (SSL).</p>
+                            <p>Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Websites or via the Service(s) and any transmission is at your own risk. Once we receive your personal information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+                            <p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
+                            <ul>
+                                <li>Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.</li>
+                                <li>We use regular Malware Scanning.</li>
+                                <li>Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.</li>
+                                <li>All payment transactions are processed through secure gateway providers and are not stored or processed on our servers</li>
+                            </ul>
+
+                            <h2>Testimonials</h2>
+                            <p>We post customer testimonials/comments/reviews on our Websites which may contain personal information. Prior to posting the testimonial, we obtain the customer's consent to post their name along with their testimonial. If you want your testimonial removed, please <a href="#u_reaching_out_to_us">reach out to us</a></p>
+
+                            <h2>Children's Personal Information</h2>
+                            <p>Simplilearn does not knowingly collect any personal information from children under the age of 16. If you are under the age of 16, please do not submit any personal information through our Websites or Service(s). We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personal information through our Service(s) or Websites without their permission. If you have reason to believe that a child under the age of 16 has provided personal information to us through our Websites or Service(s), please contact us and we will endeavor to delete that information and terminate the child's account from our databases.</p>
+
+                            <h2>Amendments</h2>
+                            <p>Simplilearn has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. Your continued use of this Websites or the Service(s) following the posting of any amendment, modification, or change to this Policy shall constitute your acceptance of the amendments to this Policy. You can choose to discontinue use of the Websites or Service(s), if you do not accept the terms of this Policy, or any modified version of this Policy.</p>
+
+
+                            <h2 id="u_reaching_out_to_us">Contacting Simplilearn</h2>
+                            <p>If you have any questions about this privacy policy or your dealings with the Simplilearn,you can reach out to us using the Simplilearn <a href="https://simplilearn.secure.force.com/support/" target="_blank">Help and Support page.</a> </p>
+                            <p>You can also reach out to us through Email at <a href="mailto:dataprivacy@simplilearn.net" target="_blank" class="noselect">dataprivacy@simplilearn.net</a> or postal mail at :</p>
+
+                            <address>
+                                <b>United States of America</b><br>
+                                Simplilearn Americas Inc. <br>
+                                201 Spear Street,<br>
+                                Suite 1100, San Francisco, CA 94105<br>
+                                United States
+                            </address>
+                            <br>
+                            <address>
+                                <b>India</b> <br>
+                                Simplilearn Solutions Private Limited<br>
+                                # 53/1 C, Manoj Arcade, 24th Main, Harlkunte<br>
+                                2nd Sector, HSR Layout <br>
+                                Bangalore - 560102, Karnataka, India.<br>
+                            </address>
+                            <br>
+                            <address>
+                                <b>Singapore</b> <br>
+                                Simplilearn Singapore Pte. Ltd. <br>
+                                #14-302, The Plaza,<br>
+                                7500A Beach Rd, <br>
+                                Singapore 199591.<br>
+                            </address>
+        </div>
+       
+    </div>
+</section>
+	
+	
+<!--<a href="#" class="foot-top chat live_chat_link">
+<div class="floating-chat"></div>
+</a>-->
+    <div class="foot-top need-help">
+        <div class="container-fluid">
+            <ul>
+<!--                <li class="col-lg-4 col-sm-4 col-xs-12 text_light"><span class="">Call us at:</span><i class="hidden-lg hidden-xs hidden-sm hidden-md fa fa-phone"></i> <span> <a href="tel:844-933-8634" class="tel-mobile"> &nbsp; 844-933-8634</a></span></li>
+                <li class="col-lg-4 col-sm-4 col-xs-12 text_light hidden-xs"><a class="call request-callback" href="#">Request a callback</a></li>-->
+                <li class="col-lg-12 pull-right"><a class="chat live_chat_link" href=""></a></li>
+            </ul>
+        </div>
+    </div>
+<!--Request a callback content-->
+<div class="container text-center hidden-xs">
+    <div class="footer_call_back_div callback_wrapper" style="display:none;">
+        <ul class="collapse_sticky live_chat_div">
+            <li><a class="request_call_header" href=""><span class="call_back_footer icon icon-call"></span>Request a Callback</a><a href="" class="sticky_close_btn"></a></li>
+        </ul>
+        <div class="response_txt_div footer_response_txt_div"></div>
+        <div class="call_container_in request_call_outer" id="footer-contact-us-form-outer">
+            <form class="form-inline footer-form text-center request_callbk_form contact-form" id="footer-contact-us-form">
+                <p>Would you like to talk? Leave us your info, and we'll get back to you as soon as possible.</p>
+                <div class="form-group col-sm-12 padding_zero">
+                    <input type="text" class="form-control" id="username" name="username" placeholder="Name*" required="">
+                </div>
+                <div class="form-group col-sm-12 padding_zero">
+                    <!--div class="phone"><div class="select-drop"><select><option>IN</option></select><i class="fa fa-angle-down"></i></div><input type="text" class="form-control" id="ph" placeholder="Phone*"></div-->
+                    <input type="text" class="form-control" name="phone" placeholder="Phone*" required="">
+                </div>
+				<div class="form-group col-sm-12 padding_zero">
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Email*" required="">
+                </div>
+                <input type="hidden" name="leadtype" value="micro" id="callback-leadtype">
+                                <div class="form-group clearfix col-sm-12 text-left padding_zero">
+                    <input type="checkbox" name="agree_chkbox" id="agree_chkbox" class="col-sm-1"> 
+                    <span class="col-sm-11">    By providing your contact details, you agree to our <a href="https://www.marketmotive.com/company/web-privacy/">privacy policy</a>
+    </span>
+                </div>
+                                <div class="form-actions col-sm-12 text-left">
+                     <input type="hidden" name="site_module" value="Request A Call Back">
+                    <input type="hidden" name="save" value="contact">
+                    <input type="hidden" name="csrf_token" value="05481da328e968db3c0bbc0c46783bb3">
+                    <input type="hidden" name="device_type" value="Desktop">
+                    <input type="hidden" name="course_id" value="">
+                    <input type="hidden" name="request_uri" value="http://www.marketmotive.com/company/web-privacy/">
+                    <br> <button type="submit" class="btn btn-enrol" data-track="requested-callback">Let's Talk</button>
+                </div>
+                            </form>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+var user_params = {};
+
+user_params.OPTIN_COOKIE = "_optin";
+user_params.CPV_COOKIE = "_cpruid";
+user_params.CS_COOKIE = "_csuid";
+user_params.isEuro = false;</script>
+<!--Request a callback content-->
+<!--Footer top fixed-->
+    <!--Footer top fixed-->
+    <!--Footer-->
+    <footer class="footer-content drak_bg">
+        <div class="footer-top-content container">
+            <div class="col-sm-3 col-xs-6">
+                <h4>Company</h4>
+                <div class="clear"></div>
+                <p>
+                    <a href="https://www.marketmotive.com/company/about/">About Us</a><br>
+                    <a href="https://www.marketmotive.com/company/team/">Leadership</a><br>
+                    <!-- <a href="https://www.marketmotive.com/careers-internships/">Careers</a><br> -->
+                    <!-- <a href="https://www.marketmotive.com/graduates/">Hire Our Graduates</a><br> -->
+                    <a href="https://www.marketmotive.com/company/testimonials/">Testimonials</a><br>
+                    <a href="https://www.marketmotive.com/company/partners/">Education Partners</a><br>
+                    <a href="https://www.simplilearn.com/digital-marketing/?source=mm">A Simplilearn Company</a>
+                </p>
+                <h4 class="">Follow Us</h4>
+                <div class="clear"></div>
+				
+                <div class="leaders-thought">
+					<div class="social-media-icon">
+						<a href="https://www.facebook.com/marketmotive" target="_blank" title="Facebook" class="home-icon fbook"></a>
+						<a href="https://www.linkedin.com/groups?gid=1877017" target="_blank" title="LinkedIn" class="home-icon linkedin2"></a>
+						<a href="https://twitter.com/marketmotive" target="_blank" title="Twitter" class="home-icon twitter2"></a>
+						<a href="https://plus.google.com/u/1/106096072759739684922/posts" target="_blank" title="GooglePlus" class="home-icon gplus"></a>
+						<a href="https://www.youtube.com/user/MarketMotive" target="_blank" title="Youtube" class="home-icon youtube2"></a>
+						<a href="https://www.pinterest.com/marketmotive/" target="_blank" title="Pintrest" class="home-icon pintrest2"></a>
+					</div>
+                </div>
+            </div>
+            <div class="col-sm-3 col-xs-6 ftr-faculty">
+                <h4>The Faculty</h4>
+                <div class="clear"></div>
+                <div class="textwidget"><p>
+                    <!--<a href="https://www.marketmotive.com/faculty/#avinash-kaushik">Avinash Kaushik</a><br>-->
+                    
+                    <a href="https://www.marketmotive.com/faculty/#brad-geddes">Brad Geddes</a><br>
+                    <a href="https://www.marketmotive.com/faculty/#Stephane-Hamel">Stéphane Hamel</a><br>
+                    <!--<a href="https://www.marketmotive.com/faculty/#todd-malicoat">Todd Malicoat</a><br>-->
+                    
+                    <a href="https://www.marketmotive.com/faculty/#matt-bailey">Matt Bailey</a><br>
+                    <!--<a href="https://www.marketmotive.com/faculty/#danny-dover">Danny Dover</a><br /> 
+                    <a href="https://www.marketmotive.com/faculty/#philippa-gamse">Philippa Gamse</a>-->
+                </p></div>
+            </div>
+            <div class="col-sm-3 col-xs-6 ftr-course-div">
+                <h4>Courses</h4>
+                <div class="clear"></div>
+                <p>
+                <a href="https://www.marketmotive.com/masters-in-digital-marketing/">Masters in Digital Marketing</a><br>
+                <a href="https://www.marketmotive.com/digital-marketing-certification-training-courses/">Digital Marketing Certified Associate</a><br>
+                <a href="https://www.marketmotive.com/web-analytics-training-courses/">Advanced Web Analytics</a><br>
+                <a href="https://www.marketmotive.com/search-engine-optimization-seo-training-courses/">Advanced Search Engine Optimization (SEO)</a><br>
+                <a href="https://www.marketmotive.com/social-media-training-courses/">Advanced Social Media</a><br>
+                <a href="https://www.marketmotive.com/pay-per-click-ppc-training-courses/">Advanced Pay Per Click (PPC)</a><br>
+                <a href="https://www.marketmotive.com/conversion-optimization-training-courses/">Advanced Website Conversion Rate Optimization</a><br>
+                <a href="https://www.marketmotive.com/content-marketing-training-courses/">Advanced Content Marketing</a><br>
+                <a href="https://www.marketmotive.com/email-marketing-training-courses/">Advanced Email Marketing</a><br>
+                <a href="https://www.marketmotive.com/mobile-marketing-training-courses/">Advanced Mobile Marketing</a><br>
+                <a href="https://www.marketmotive.com/google-adwords-professional-certification-training-courses/">Complete Google AdWords Professional</a><br>
+                <!--<li><a href="https://www.marketmotive.com/display-advertising-training-courses/">Display Advertising</a></li>-->
+                </p>
+            </div>
+            <div class="col-sm-3 col-xs-6">
+                <h4>Support</h4>
+                <div class="clear"></div>
+                <p><a href="https://www.marketmotive.com/company/contact-us/">Contact Us</a><br>
+                <a href="https://www.marketmotive.com/company/faq/">FAQ</a><br>
+                <a href="https://www.marketmotive.com/company/web-privacy/">Privacy</a><br>
+                <a href="https://www.marketmotive.com/company/list-of-data-subprocessors/">List of Data Subprocessors</a></p>
+                <h4>Learner's Corner</h4>
+                <div class="clear"></div>
+                <p><a href="https://www.marketmotive.com/online-marketing-professional-certification/">OMCP Certification</a><br>
+                <a href="https://www.marketmotive.com/company/scholarships/">Scholarships</a><br>
+                <a href="http://www.marketmotive.com/training/tutorials/conference-calls-and-workshops/workshops.html">Upcoming Webinars</a><br>
+                <a href="https://www.marketmotive.com/company/member-perks/">Member Perks</a><br>
+                <a href="http://www.marketmotive.com/blog/" target="_blank">Blog</a>
+				</p>
+            </div>
+        </div>
+        <div class="footer-bottom-content">
+            <div class="container">
+                <div class="footer-copyright text_size12">
+                    <a href="https://www.marketmotive.com/./" class="col-lg-12 col-xs-12 col-md-12 hidden"><span class="footer-logo clearfix"></span></a>
+                    © <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script>2020 MarketMotive.com. All rights reserved.
+                </div>
+            </div>
+        </div>
+        <a href="javascript:" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+    </footer>
+         <!--Footer-->
+
+    <script type="text/javascript">
+    function getCookieByName(e) {
+        var t, a, i, n = document.cookie.split(";");
+        for (t = 0; t < n.length; t++)
+            if (a = n[t].substr(0, n[t].indexOf("=")), i = n[t].substr(n[t].indexOf("=") + 1), a = a.replace(/^\s+|\s+$/g, ""), a == e)
+                return unescape(i)
+    }
+    function setCookie(cname, cvalue, exdays, path) {
+        path = path || "/";
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        var expires = "expires=" + d.toUTCString();
+        document.cookie = cname + "=" + cvalue + "; " + expires + ";path=" + path + ";";
+    }
+    </script>
+    
+            <script src="https://www.marketmotive.com/static/js/libraries.min.1503293359.js"></script>
+        <script src="https://www.marketmotive.com/static/js/main.1551080857.js"></script>
+        <script src="https://www.marketmotive.com/static/js/jwplayer-7.9.3/jwplayer.1503293359.js"></script>
+    <script>jwplayer.key="hSjinNXh0iC28utZNOhe0ZHkQdMR5ZlCcGP+GPi5ZPs0SAtb";</script>
+    <script src="https://www.marketmotive.com/static/js/mislider.1503293359.js"></script>
+	<script type="text/javascript">
+            var baseUrl = 'https://www.marketmotive.com/';
+            var baseApiUrl = 'https://www.marketmotive.com/api/v1';
+    </script>
+    <!-- Google Tag Manager -->
+<!--<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T67FVT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
+<script type="text/javascript">
+// JSVars
+var user_params = {};
+
+user_params.OPTIN_COOKIE = "_optin";
+user_params.CPV_COOKIE = "_cpruid";
+user_params.CS_COOKIE = "_csuid";
+user_params.isEuro = false;user_params.mmGdprCookieName = 'mm_gdpr_user_consent';
+function downloadGaAtOnload() {
+    //GTM init
+    setTimeout(function() {
+        gtmLoadScript();
+    }, 2000);
+}
+    	if (window.addEventListener)
+    		window.addEventListener("load", downloadGaAtOnload, false);
+	else if (window.attachEvent)
+		window.attachEvent("onload", downloadGaAtOnload);
+	else window.onload = downloadGaAtOnload;
+        function gtmLoadScript() {
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start':new Date().getTime(),
+                        event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'user_params' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WX43XBS');
+    }
+</script>
+<!-- End Google Tag Manager -->
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6711deac76","applicationID":"13571530","transactionName":"ZF0BMktTCEoDBUELW10XNhRQHQ9XBgNNTERbSA==","queueTime":0,"applicationTime":19,"atts":"SBoCRANJG0Q=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+		
+</body></html>
