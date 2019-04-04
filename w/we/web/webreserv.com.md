@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the webreserv.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926151413id_/http%3A//webreserv.com//privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webreserv.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404021547id_/https%3A//webreserv.com/privacypolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**WebReserv Privacy Policy**
-
-This Privacy Policy describes the policies and procedures of Web Reservation Systems, Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.webreserv.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. 
+This Privacy Policy describes the policies and procedures of Web Reservation Systems, Inc. ("we", "our" or "us") on the collection, use and disclosure of your information on www.webreserv.com (the "Site") and the services, features, content or applications we offer (collectively with the Site, the "Services"). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your "Account"); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. 
 
 ### What Does This Privacy Policy Cover?
 
-This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners. 
+This Privacy Policy covers the treatment of personally identifiable information ("Personal Information") gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners. 
 
-This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access. 
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications ("Third Party Services") that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access. 
 
 ### What Information Do We Collect?
 
@@ -26,7 +24,7 @@ Some features of the Services allow you to provide content to the Services, such
 
 Financial Information:
 
-We currently collect and, during the fourteen (14) days following the date of your payment (the “Fourteen Day Window”), store your financial information, such as your valid credit card number, type, expiration date, security code, and other financial information (your “Payment Method Information”). After the Fourteen Day Window expires, , we obfuscate your Payment Method Information such that only the last four (4) digits of your credit card number are visible. In addition, your Payment Method Information is collected and stored by our third party payment processing company (the “Payment Processor”), and use and storage of that information is additionally governed by the Payment Processor’s applicable terms of service and privacy policy. 
+We currently collect and, during the fourteen (14) days following the date of your payment (the "Fourteen Day Window"), store your financial information, such as your valid credit card number, type, expiration date, security code, and other financial information (your "Payment Method Information"). After the Fourteen Day Window expires, , we obfuscate your Payment Method Information such that only the last four (4) digits of your credit card number are visible. In addition, your Payment Method Information is collected and stored by our third party payment processing company (the "Payment Processor"), and use and storage of that information is additionally governed by the Payment Processor's applicable terms of service and privacy policy. 
 
 IP Address Information and Other Information Collected Automatically:
 
@@ -50,13 +48,13 @@ This Privacy Policy covers our use of cookies only and does not cover the use of
 
 Information Related to Advertising and the Use of Web Beacons:
 
-To support and enhance the Services, we may serve advertisements, and also allow third parties advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
+To support and enhance the Services, we may serve advertisements, and also allow third parties advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called "ad networks." Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
 
-Advertisements served through the Services may be targeted to users who fit a certain general profile category may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services. To increase the effectiveness of ad delivery, we may deliver a file (known as a “web beacon”) from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site. 
+Advertisements served through the Services may be targeted to users who fit a certain general profile category may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services. To increase the effectiveness of ad delivery, we may deliver a file (known as a "web beacon") from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site. 
 
 Aggregate Information:
 
-We collect statistical information about how both unregistered and registered users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser.
+We collect statistical information about how both unregistered and registered users, collectively, use the Services ("Aggregate Information"). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser.
 
 ### How, and With Whom, Is My Information Shared?
 
@@ -76,7 +74,7 @@ While we collect and store IP address information, that information is not made 
 
 Information You Elect to Share:
 
-You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services. 
+You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services' privacy policies. This Privacy Policy only governs information collected on the Services. 
 
 Aggregate Information:
 
@@ -96,7 +94,7 @@ As stated above, we and our Payment Processor both currently collect and store y
 
 Information Shared with Our Agents:
 
-We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our "Agents"). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
 
 Information Disclosed Pursuant to Business Transfers:
 
@@ -122,11 +120,11 @@ We otherwise store all of your information, including your IP address informatio
 
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address:
 
-Web Reservation Systems, Inc.  
-PO Box 191643  
-Atlanta, GA 31119-0102  
+WebReserv.com  
+Box 2375  
+Santa Rosa Beach, FL 32459-2375  
 United States 
 
 ### How Can I Delete My Account?
@@ -149,4 +147,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to support@webreserv.com. We will make every effort to resolve your concerns. 
 
-Effective Date: May 23, 2014
+Effective Date: October 24, 2017
