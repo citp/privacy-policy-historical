@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192220id_/https%3A//www.apus.edu/privacy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404030024id_/https%3A//www.apus.edu/privacy/index) for the most accurate reproduction.*
 
 # Privacy Policy | American Public University System (APUS)
 
