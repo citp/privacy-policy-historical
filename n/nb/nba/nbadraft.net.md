@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbadraft.net privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115235206id_/http%3A//www.nbadraft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbadraft.net privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404120350id_/https%3A//www.nbadraft.net/privacy.html) for the most accurate reproduction.*
 
 # NBADraft.net Privacy Policy | NBADraft.net
 
@@ -25,4 +25,4 @@ This site contains links to other sites. NBA Draft.net is not responsible for th
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#670e09010827090506031506011349090213). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#5d34333b321d333f3c392f3c3b2973333829). 
