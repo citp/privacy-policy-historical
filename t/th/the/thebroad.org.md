@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the thebroad.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229182129id_/https%3A//www.thebroad.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebroad.org privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404040715id_/https%3A//www.thebroad.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Broad
 
-The Broad is committed to protecting your privacy when you visit our Website or use The Broad mobile application (collectively referred to as the “Broad Media”). We respect the privacy of all our customers who use the Broad Media to find information and purchase/reserve tickets online. We will endeavor to protect your personal information provided during the online sign up and transaction processes. The Broad does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless the individual visiting the Website or using the mobile application knowingly provides it. By accessing or using the Broad Media, you agree to be bound by the terms and conditions of our Privacy Policy, which forms part of The Broad [Terms of Use](https://web.archive.org/web/20181229182129id_/https%3A//www.thebroad.org/terms). By purchasing a ticket or making a free reservation through our Website, you also agree to be bound by our [Terms of Sale](https://web.archive.org/web/20181229182129id_/https%3A//www.thebroad.org/terms-of-sale). A link to these policies is provided in the footer information on every page of the Website.
+* * *
 
-**What personal information do we collect from the people that visit our Website?**
+The Broad is committed to protecting your privacy when you visit our Website or use The Broad mobile application (collectively referred to as the “Broad Media”). We respect the privacy of all our customers who use the Broad Media to find information and purchase/reserve tickets online. We will endeavor to protect your personal information provided during the online sign up and transaction processes. The Broad does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless the individual visiting the Website or using the mobile application knowingly provides it. By accessing or using the Broad Media, you agree to be bound by the terms and conditions of our Privacy Policy, which forms part of The Broad [Terms of Use](https://web.archive.org/web/20190404040715id_/https%3A//www.thebroad.org/terms). By purchasing a ticket or making a free reservation through our Website, you also agree to be bound by our [Terms of Sale](https://web.archive.org/web/20190404040715id_/https%3A//www.thebroad.org/terms-of-sale). A link to these policies is provided in the footer information on every page of the Website.
+
+ **What personal information do we collect from the people that visit our Website?**
 
 We collect personal information, including your name, address, phone number, email address, billing and shipping addresses, credit card details, age, gender, date of birth, IP address, and any other information that you provide with us as part of the processes detailed elsewhere in this Privacy Policy.
 
-**When do we collect information?**
+ **When do we collect information?**
 
 We collect information from you when you register on our Website, place an order or reservation, subscribe to a newsletter, or enter information on our Website.  More specifically, we collect information:
 
@@ -26,7 +28,7 @@ Registration is required to purchase or reserve tickets online, tickets may be r
 
 Personal financial information, such as credit card details, are collected by our third party provider, STQRY Inc, for credit card transactions for identity verification and billing purposes. The Broad and its agents and employees do not have access to personal financial information.
 
-**How do we use your information?**
+ **How do we use your information?**
 
 We may use the personal information we collect from you when you register, make a purchase or reservation, sign up for our newsletter, respond to a survey or marketing communication, surf the Website, or use certain other Website features in the following ways:
 
@@ -48,19 +50,19 @@ At any time, we may disclose any and all information that we collect from you wh
 
 We will not use or disclose your personal information in any way, other than in accordance with this Privacy Policy.
 
-**How do we protect visitor information?**
+ **How do we protect visitor information?**
 
 We will endeavor to protect all information we collect about you. Our Website is updated on a regular basis for security holes and known vulnerabilities in order to make your visit to our Website as safe as possible. We store your personal information in an encrypted secure database, in proprietary data format which can only be read with the use of proprietary tools. The Website is encrypted with a high grade 256 bit encryption authenticated by Digicert, Inc. For purchases through the Website, our third party service provider processes your credit card details securely over the internet using a PCI accredited internet payment security system. However, due to the nature of the Internet, we cannot guarantee that your personal information will always be secure during transmission or from unauthorized access during storage.  All of our staff who have access to personal information will maintain strict confidence of such information at all times.
 
-**DESPITE OUR REASONABLE EFFORTS TO PROTECT YOUR PERSONAL INFORMATION, WE CANNOT ENSURE OR WARRANT THE SECURITY OF ANY INFORMATION TRANSMITTED TO US AND ALL PERSONAL INFORMATION YOU DISCLOSE TO US IS AT YOUR OWN RISK.**
+ **DESPITE OUR REASONABLE EFFORTS TO PROTECT YOUR PERSONAL INFORMATION, WE CANNOT ENSURE OR WARRANT THE SECURITY OF ANY INFORMATION TRANSMITTED TO US AND ALL PERSONAL INFORMATION YOU DISCLOSE TO US IS AT YOUR OWN RISK.**
 
 Please contact us immediately should you become aware or have reason to believe that there has been any unauthorized use of your personal information in connection with the Website.
 
-**Your IP address**
+ **Your IP address**
 
 We use your IP address to help diagnose problems with our server and to administer our Website. Your IP address is also used to help identify you and to gather demographic information.
 
-**Third Party Disclosure**
+ **Third Party Disclosure**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as specifically described in this Privacy Policy.  
 
@@ -72,11 +74,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 We may provide non-personally identifiable visitor information to other parties for marketing, advertising, research, or other uses.  Among other third party providers, we use Google AdSense Advertising and Remarketing on our Website. Google, as a third party vendor, uses cookies to target ads and collect demographic data on our visitors. Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-**Links to other websites**
+ **Links to other websites**
 
 We provide links to certain third party websites for your convenience and information. These linked sites are not under our control, and we are not responsible for the privacy practices or content of those sites. Before disclosing your personal information on any other website, we suggest that you review the privacy policy on those websites.
 
-**Cookies and Pixel Tags**
+ **Cookies and Pixel Tags**
 
 Cookies are small files that a website or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the website's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current Website activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about Website traffic and Website interaction so that we can offer better Website experiences and tools in the future.
 
@@ -94,11 +96,11 @@ The Broad also works with third-party marketing partners who use technologies su
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  However, please note that disabling cookies will cause certain functions of this Website, such as the personalized My Broad section and online purchasing, to cease functioning. We recommend that users enable cookies.
 
-**Do Not Track Signals**
+ **Do Not Track Signals**
 
 At this time The Broad Website does not recognize automated browser signals regarding tracking mechanisms, which may include ‘do not track’ instructions. However, you can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and prevent you from accessing the My Broad customized experience section, including order history, as well as will prevent you from purchasing or reserving tickets.
 
-**California Online Privacy Protection Act**
+ **California Online Privacy Protection Act**
 
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at:[ http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
 
@@ -108,23 +110,23 @@ According to CalOPPA we agree to the following:
   * Once this Privacy Policy is created, we will add a link to it on our homepage, or as a minimum on the first significant page after entering our Website.
   * Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
   * Users will be notified of any privacy policy changes on our Privacy Policy Page.
-  * Users are able to change their personal information: 
+  * Users are able to change their personal information:
     * By emailing us at [info@thebroad.org](mailto:info@thebroad.org)
     * By logging in to their My Broad account and updating their account settings
 
 
 
-**COPPA (Children Online Privacy Protection Act)**
+ **COPPA (Children Online Privacy Protection Act)**
 
 When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.  The Broad takes special care to protect the safety and privacy of children. We do not knowingly collect personal information from children under thirteen years of age.
 
-**Fair Information Practices**
+ **Fair Information Practices**
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  In order to be in line with Fair Information Practices, should a data breach occur we will notify the users via email and will provide Website notification within 7 business days.
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
-**CAN-SPAM Act**
+ **CAN-SPAM Act**
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
@@ -150,11 +152,11 @@ To be in accordance with CAN-SPAM we agree to the following:
 
 If at any time you would like to unsubscribe from receiving future emails, follow the instructions at the bottom of each email and we will promptly remove you from ALL promotional correspondence. You will continue to receive transactional emails about purchases, which is in compliance with CAN-SPAM.
 
-**Amendment of Privacy Policy**
+ **Amendment of Privacy Policy**
 
 We reserve the right to revise this Privacy Policy at any time. Such revisions may arise in response to changes in the law, policy, or other factors. Any amendment will be effective immediately upon posting the amended Privacy Policy on the Website. This Privacy Policy was last updated on August 27, 2015. We encourage you to visit this page periodically to review our most current policy. By continuing to access and use the Website, you agree to be bound by the amended Privacy Policy.
 
-**Contacting Us**
+ **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
@@ -166,4 +168,4 @@ Los Angeles, California 90012
 
 United States
 
-[info@thebroad.org](mailto:info@thebroad.org)
+info@thebroad.org
