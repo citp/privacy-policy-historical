@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviationcv.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110231928id_/https%3A//www.aviationcv.com/en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviationcv.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404105637id_/https%3A//www.aviationcv.com/en/page/privacy-policy) for the most accurate reproduction.*
 
 # Aviation Jobs and Aviation Employment - AviationCV.com
 
@@ -86,6 +86,34 @@ We may amend this policy at any time by posting a revised version on our website
 
 We also allow third-parties to display advertising on our websites. In order to recognize your computer, some of these companies may place a cookie on your computer when sending you an online advertisement. This enables them to understand the place, where you, or others who are using your computer, saw their advertisement and deliver ads that they believe are of interest to you. AviationCV.com does not control these third companies’ use of cookies.
 
+**Cookies** | **The purpose of data managment** | **Necessity** | **The moment of creation** | **The period of validity** | **The data used** | **Additional Information**  
+---|---|---|---|---|---|---  
+cb-enabled |   |   |   |   |   | This cookie is associated with a free script which shows a cookie alert notice on a website. It is used to record when the user has dismissed the notice to prevent it re-appearing on return visits.  
+_cfduid |   |   |   |   |   | Is used to override any security restrictions based on the IP address the visitor is coming from  
+Tawk_* |   |   |   |   |   | Messaging app that lets you monitor and chat with visitors on our website  
+TawkConnectionTime  
+_tawkuuid  
+_ym_visorc_32116576 | yandex metrics cookie <td rowspan="3" ,="">  |  | 
+
+Until the browser window is closed.
+
+| Protects character “w”, it is not personal information. | Yandex Metrica - Cookies are used to collect information about how visitors use the Site.  
+_ym_uid  
+_ym_isad  
+_gat |   | Tracking Cookies. Optional, without these Cookies system would work. However, these Cookies are recommended. | Entering the site | 2 years | Used to throttle request rate. | Google Analytics - Cookies are used to collect information about how visitors use the Site. This uses the system developed by Google that is used on the majority of websites.   
+_ga |   | Distinguishes Users.  
+bt2 |   |   |   | 2 years |   | Third party cookie used to access functions like print,email,facebook,twitter and SHARING.  
+loc  
+ssc  
+di2  
+uvc  
+uid  
+um  
+vc  
+_atuvc  
+_atuvs  
+lang |   |   |   |   |   | To determine language of the website  
+  
 3\. Protection of personal information.
 
 AviationCV.com takes all necessary administrative, technical and physical precautions to protect your personal information against loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction.
