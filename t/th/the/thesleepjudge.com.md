@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903154610id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dthesleepjudge.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404223801id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dthesleepjudge.com) for the most accurate reproduction.*
 
 # 
 
