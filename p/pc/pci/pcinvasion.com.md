@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pcinvasion.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506100831id_/https%3A//www.pcinvasion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcinvasion.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404130713id_/https%3A//www.pcinvasion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PC Invasion
 
 **Introduction**
 
-We PC Invasion are incorporated in Scotland carrying on business as an online videogame network and we are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
+We PC Invasion are are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
 
  **We are committed to protecting your privacy**
 
@@ -28,10 +28,6 @@ We do not disclose any personal information obtained about you from this website
 
 We may from time to time provide information of a general nature to third parties – for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals.
 
- **Changes to this Policy**
-
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
-
  **Contacting Us**
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at privacy@pcinvasion.com. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You can also correct any factual errors in that information or require us to remove your details form any list under our control.
