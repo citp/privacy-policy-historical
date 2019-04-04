@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dxpnet.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123135748id_/https%3A//www.dxpnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dxpnet.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404181856id_/https%3A//www.dxpnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - dxpnet
 
