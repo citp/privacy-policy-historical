@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snakkle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090605id_/http%3A//www.snakkle.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snakkle.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404072127id_/https%3A//www.snakkle.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **(last modified 11/26/2012)**
 
-This Privacy Statement relates to the websites owned or by Snakkle, LLC ( **“SNAKKLE”** ). Additional information regarding your use of the SNAKKLE websites can be found in the Terms of Service located at <http://www.snakkle.com/terms-of-service/>). SNAKKLE may, in its sole discretion, modify or revise this Privacy Statement at any time, and you agree to be bound by such modifications or revisions.
+This Privacy Statement relates to the websites owned or by Snakkle, LLC ( **“SNAKKLE”** ). Additional information regarding your use of the SNAKKLE websites can be found in the Terms of Service located at <https://www.snakkle.com/terms-of-service/>). SNAKKLE may, in its sole discretion, modify or revise this Privacy Statement at any time, and you agree to be bound by such modifications or revisions.
 
 SNAKKLE has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for the SNAKKLE Websites and any other website under which it conducts business.
 
