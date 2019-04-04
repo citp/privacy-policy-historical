@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123141506id_/https%3A//www.michaelpage.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.uk privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404212616id_/https%3A//www.michaelpage.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Michael Page Privacy Policy 2018 | Michael Page
 
