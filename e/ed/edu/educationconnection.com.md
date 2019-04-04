@@ -1,123 +1,196 @@
-> *The following text is extracted and transformed from the educationconnection.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164906id_/https%3A//www.educationconnection.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationconnection.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404114926id_/https%3A//www.educationconnection.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Education Connection
 
-**Last Updated on September 19th, 2016.**
+**Last Updated on July 17th, 2017.**
 
-This privacy policy applies for the Websites that are owned and operated by EducationDynamics, LLC (“EducationDynamics”, “We”, “Our”, “Us”). This Privacy Policy describes how we treat personal information received about you when you visit our Site like the collection and use of the personal information you provide.  It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
+The website or online service, and portions of other webpages or online content through which you have accessed this Privacy Policy (collectively, this “Site”), is owned and operated by EducationDynamics, LLC (hereafter referred to as "we," "us," "our" or "EducationDynamics"). This Privacy Policy describes how we treat personal information received about you when you visit our Site such as the collection and use of the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
-Please read this Privacy Policy carefully, because by visiting or using this Site, you agree to its terms.
+This Privacy Policy applies to all EducationDynamics, LLC, and all other websites and applications that link to this Privacy Policy (“Services”).  Other privacy policies may apply to some of our offerings.  Please see the Privacy Policy Scope section below.  Please read this Privacy Policy carefully, because by visiting or using this Site, you agree to its terms.
 
-We may revise this Privacy Policy from time to time. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this Site or by e-mail of this Site that the policy has been updated prior to the change becoming effective and by changing the date on this page noting when the policy was last updated. If you see a notice of change, please check the Privacy Policy, because your continued use of the Site after we post the change means you have agreed to the new terms.
+ **Information that We Collect**
 
- **Collection of Your Data**
+Personal Information: Depending on the Services you are visiting or using, we may collect various times of information from and about you, including information that can personally identify you.  This information includes, but is not limited to: name, age, postal address, email address, telephone number, fax number, short message service or text message address, other wireless device address, instant messaging address, demographic information, education and scholastic information (including but not limited to level of education, desired level of educational program, and areas of interest), current occupation, military status, governmental loan status, information about any transaction you conduct or submit to on or through the Services, and other information that would allow online or offline contact with you as an individual (collectively, “Personal Information”).  We may also collect information that you provide to us about other people (such as family members or co-borrowers in the case of [www.estudentloan.com](http://www.estudentloan.com/)), including, but not limited to, their names, postal addresses, telephone numbers, mobile numbers, and email addresses for purposes of fulfilling the purposes for which you provide such information.
 
-Personal Data. When you fill out a "Student Matching Profile", our Self-Assessment, our Financial Aid Estimator, and at other times, we ask for some information about you, such as your name, age, email address, postal address, and phone number, level of education, desired level of educational program, areas of interest, current occupation, military status (if any), governmental loan status. We do not knowingly collect information from children under the age of 13.  If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information and terminate the child's account from our databases.
+Non-Personal Information:  We also collect Usage Information (as defined below) and other information from and about you that does not personally identify you or allow us or others to contact you individually online or offline ("Non-Personally Identifiable Information" or "Non-PII"). We may combine Non-PII with other information in a way that allows you to be identified or personally contacted. If this happens, we will treat the combined information as Personal Information.
 
-Anonymous Data. As is true of most web sites, we gather certain information automatically and store it in log files. We automatically collect IP addresses and Web site usage information from you when you visit the Site. This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+How We Collect Information:  We may collect information from you in the following ways:
 
- **How We Use Your Information and How We Share Your Data**
+  * Information Provided by You.  We collect information provided by you when you (1) inquire about or obtain our services or products; (2) communicate with us or request information about or from us, whether via email or other means; (3) fill out forms or fields on the Services; (4) register as a user or sign-up for any of our newsletters, materials or services through the Services; (5) enter into online transactions; (6) create profiles; (7) provide college reviews or participate in our online surveys or questionnaires; (8) input information into our interactive programming features or participate in our online forums; (9) participate in any of our marketing initiatives, including contests, scholarship offers, events, or promotions; and (10) post to the Services or provide user-generated content or submissions to us, including without limitation media files, photos, videos, documents or other information, and contributions to a chat room, list serve, blog, or other open forum or community feature that we make available on the Services ("User Contributions").
+  * Information from Other Sources. We may collect information about you from other services that we may provide, our affiliates, third-party or public sources (such as from public forums, social networks, and blogs), other users of the Services, and our business partners.
+  * Automatic Information Collection. We and our service providers use automatic data collection technologies to collect and store Usage Information (as defined below). This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including but not limited to the number and frequency of visitors to each Site, and the length of their visits. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.  We also may allow third-party advertising companies and ad networks to use automatic data collection technologies to collect Usage Information for purposes of providing interest based ads. See the Automatic Information Collected Technologies and Usage Information and the Third-Party Advertisers and Interest-Based Ads sections for more information.
 
-EducationDynamics will not sell or disclose your personally identifiable information except as described below:
 
-If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. To request removal of your personal information from our blog or forum, contact us at [info@educationdynamics.com](mailto:info@educationdynamics.com?subject=Privacy%20Inquiry). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we offer on the Sites and may offer in the future. We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide. If you provide us with personally identifiable information (such as your name, age, whether or not you are a U.S. citizen, address, phone number, e-mail address, military affiliation, educational background, and years of work experience), such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. EducationDynamics maintains business relationships with these institutions, which pay EducationDynamics for the information. Use of your personal information by these educational institutions is not governed by this Privacy Policy. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution. Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability.
+ **How We Use the Information that We Collect**
 
-In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.  If you do not want us to share your personal information with these companies, you may coordinate with these 3rd parties to remove your name from their lists.
+We may use your information, including Personal Information, to:
 
-We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+  * Provide products and services requested by you;
+  * Provide customer support, including responding to your requests and questions and troubleshooting and resolving problems or complaints, and for any other purposes that we deem appropriate;
+  * Verify the information you provide to us;
+  * Communicate with you;
+  * Confirm your identity and eligibility to use the Services;
+  * Establish and manage your account, as applicable;
+  * Perform research and analysis to develop and improve the Services and other products and services that we may offer;
+  * Understand and anticipate your use of or interest in, our products, services, and content, and the products, services, and content offered by others;
+  * Develop and display products, services, and content tailored to your interests on the Services and other online properties;
+  * Measure the overall effectiveness of our online advertising, content, and programming, and other activities;
+  * Offer you personalized information and products, services, promotions, contests, or scholarships of ours, our affiliates, or our third-party business partners that may be of interest to you;
+  * Manage our business and operations;
+  * We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we offer on the Sites and may offer in the future;
+  * To provide you with a customized browsing experience;
+  * Protect the security and integrity of the Services;
+  * Carry out our obligations and enforce our rights arising from this Privacy Policy, the Terms of Use and any other applicable agreements and policies;
+  * Use or post User Contributions as permitted in our Terms of Use; and
+  * Fulfill any other purposes for which you provide your information and for any other purpose as described to you at the time your information is collected or for which your consent is given.
 
-If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability.
 
-We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services.
 
-Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate.
+ **Our Sharing Practices**
 
-We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+We may disclose or share information from or about you, including your Personal Information, as follows:
 
- **Newsletter Subscription**
+  * With EducationDynamics’ affiliated companies (i.e., companies that control, are controlled by, or are under common control with us) for support of our internal and business operations, for cross-marketing purposes or in connection with a request made by you or your opt-in or consent.
+  * With our non-affiliated third-party business partners, service providers, and vendors to enable them to assist us in providing you the products or services you request through the Services or to provide us with support for our internal and business operations, such as customer service, data processing, data storage, research, analytics, web hosting, marketing, providing suggestions and strategies to improve our business processes and the services we provide, and delivery of promotional or transactional materials.  We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your Personal Information only as necessary to provide these services to us.With other non-affiliated companies, parties, or organizations (with whom we maintain business relationships) when you engage in certain activities through the Services or services that are sponsored or provided by them, including, but not limited to requesting or purchasing products or services offered by these third parties, electing to receive information or communications from them, or electing to participate in contests, sweepstakes, games, scholarships, or other programs sponsored or provided by these third parties, in whole or in part.  For example, if you provide us with Personal Information for the purposes of being matched with an educational institution, we share your information with the educational institutions with whom you are matched so that they may contact you regarding educational or related opportunities. When we disclose your information to these third parties, your information will become subject to the information use and sharing practices of these third parties, and these third parties will not be restricted by this Privacy Policy with respect to their use and further sharing of your information.
+  * If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability.
+  * In addition, from time to time, we may share Personal Information (such as e-mail addresses and other contact information such as name, email address and phone number) with selected third parties, so they may offer educational or non-educational goods and services that we believe may be of interest to our customers. To opt-out of our sharing of your information with such third parties, see the Your Choices about How We Use and Disclose Your Information section.
+  * With any person who, in our reasonable judgment, is authorized to receive your information, such as your agent, attorney, parent, legal guardian, or co-signor of a loan application.
+  * We may disclose information we collect from or about you when we believe disclosure is appropriate to comply with the law; when we believe that disclosure is necessary to comply with a judicial proceeding, court order or other similar legal process served on our Site; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property, or safety of our company, our affiliates, our other customers or users of the Services, or others.  If some or all of our business assets are sold or transferred, whether through a sale, acquisition, merger, consolidation, reorganization, bankruptcy, or other corporate change involving us and/or our affiliates, we may transfer the corresponding information regarding our customers and users of the Services, including Personal Information, to third parties evaluating or facilitating the transaction. We also may retain a copy of such information. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business, equity interests, or assets (including the Services) to an affiliate or non-affiliated third party at any time, for any purpose, without any limitation, and without notice or any compensation to you, whatsoever.
+  * We cannot ensure that all of your private communications and other Personal Information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your Personal Information or private communications will always remain private.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
 
- **Choice and Opt-out**
 
-You can let us know that you no longer wish to receive our newsletter and promotional communications or for us to share your information with third parties for the purposes identified in this Privacy Policy by sending us a written request either by email at [info@educationdynamics.com](mailto:info@educationdynamics.com?subject=Privacy%20Inquiry) or via postal mail. We will add your telephone number provided to us directly to our Do Not Call lists and will unsubscribe you from any of our email lists that you are on. Please address postal mail requests to:
+ **User Contributions**
 
-Attn: Legal & Compliance Department  
-EducationDynamics, LLC  
-5 Marine View Plaza, Suite 212  
-Hoboken, NJ 07030
+The Services may contain public areas, forums, message boards, chat rooms or features that allow you to provide your User Contributions to be published or displayed or transmitted to other users of the Services. Your User Contributions are posted on the Services and transmitted to others at your own risk. For this reason, we recommend that you do not include any sensitive or personally identifiable information about yourself or others in your User Contributions for these areas of the Services. Please see our Terms of Use for more information regarding User Contributions.
 
-Please be aware that we do not control the activities of the educational institutions with which we have shared your personally identifiable information or any third parties to whom we have provided your information for optimization and marketing purposes. If you wish them to stop contacting you, you will need to notify them of this fact separately.
+ **Automatic Information Collection Technologies and Usage Information**
 
-Technologies such as: cookies, beacons, tags and scripts or other similar technologies are used by EducationDynamics and our marketing partners, affiliates, or analytics. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+We and our service providers automatically collect "Usage Information" from or about you, such as information about your computer or mobile device, IP address, web browser, computer or device platform, related software and settings you are using, browsing actions and patterns, the referring page that linked you to us and the website you visit after using the Services, and other usage activity on the Services. Collection of Usage Information helps us to improve the Services and to deliver a better and more personalized service by enabling us to, among other things: (1) estimate our audience size and usage patterns; (2) store information about your preferences, allowing us to customize the Services according to your individual interests; (3) speed up your searches; and (4) recognize you when you return to the Services.
 
-We use cookies for remember users’ settings, for authentication, and for remarketing. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+We and certain third parties, such as but not limited to advertising service providers, may use certain technologies to collect information about your online activities over time and across different services.
 
-We use Local Storage (LSs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSs such as HTML5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSs
+The automatic collection technologies we and our service providers may use for this automatic information collection include:
+
+  * Cookies (or browser cookies). A cookie is a small data file that is sent to your browser or related software and stored on your computer's hard drive when you visit a website. Generally, cookies can track what you look at and where you travel on websites and what transactions you make. They can also store Personal Information about you, including your username and password. A "session cookie" expires immediately when you end your browsing session with the particular website. A "persistent cookie" stores information on your hard drive so when you end your browsing session and return to the same website later, the cookie information is still available. The Services may use both types of cookies.
+  * Flash Cookies. Certain features of the Services may use locally stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on the Services.
+  * Web Beacons. Pages of the Services and any emails we send to you may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened our emails and for other related website analytics (e.g., recording the popularity of certain website content and verifying system and server integrity).
+  * Local Storage (LSs).  We use LSs such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSs such as HTML5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSs.
+
+
+
+We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+
+For more information about managing your privacy settings regarding automatic collection of Usage Information, see the Your Choices about How We Use and Disclose Your Information section.
 
  **Supplementation of Information**
 
-In order to provide accurate school matching services to you, we may on occasion supplement the personally identifiable information you submitted to us with information from third party sources.
+If applicable to the Services you are using, in order to provide accurate school matching services to you, we may on occasion supplement the Personal Information you submitted to us with information from third party sources.
 
  **Address and Phone Number Verification**
 
-We work with service providers to verify your address and phone number, in order to accurately match you to a course of study and school program.
+If applicable to the Services you are using, we work with service providers to verify your address and phone number, in order to accurately match you to a course of study and school program, if applicable.
 
  **Customer Testimonials**
 
-We post customer testimonials on our web site, which may contain personally identifiable information like a video along with their first and last name. We do obtain the customer's consent via email or via other means prior to posting the testimonial to post their name and video along with their testimonial.
+We may post customer testimonials Site, which may contain personally identifiable information like a video along with their first and last name. We do obtain the customer's consent via email or via other means prior to posting the testimonial to post their name and video along with their testimonial.
 
- **Behavioral targeting/Re-targeting**
+ **Third-Party Advertisers and Interest-Based Ads**
 
-We partner with third parties to either display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+With the exception of certain of our webpages, services or features that may collect sensitive Personal Information such as financial information, we may permit third-party advertising companies or ad networks to display third-party advertisements on our websites and/or automatically collect Usage Information from our websites for purposes of determining your preferences and delivering interest-based advertising and content to you on the Services or other online properties, including those operated by third parties. Those ads may include ads for our products or services or for other companies' products or services.
 
- **Social Media Features and Widgets**
-
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
- **Links to Other Web Sites**
+These third-party advertisers may combine the Usage Information with Personal Information you directly submit to them or that they receive from other sources, or the Usage Information they collect may include information that could allow someone to specifically contact you online without necessarily knowing your identity. We do not have access to or control over the automatic collection technologies that these third-party advertisers may use, and the information practices of these third-party advertisers are subject to these parties' respective privacy policies, not this Privacy Policy.
 
 If you click on a link to a third party site, including on an advertisement, you will leave the Site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as this Site. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to this Site, you should read that site’s privacy statement before providing any personally identifiable information.
 
- **Transfer to the United States**
+ **Third-Party Content**
 
-If you are located outside of the United States, please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer.
+The Services and all electronic communications sent in connection with the Services, may contain links, videos, images, or other content provided by third parties. We do not necessarily endorse these websites, products, services, or practices. We do not control, and are not responsible for, the privacy and security practices of these third parties. We recommend that you review the privacy and security policies of these third parties to determine how they handle information they may collect from or about you once you are on the third party site.
 
- **Review and Correction**
+The Services may also allow you to engage with social media features, such as the Facebook Like button, Google Plus, and Twitter widgets, when you are logged into those services. These features may collect information about your IP address and which page you are visiting on the Services, and they may set a cookie to make sure the feature functions properly. Your interactions with these features and the information from or about you collected by them are governed by the privacy policies of the companies that provide them.
 
-You may review, update and delete the personal data you have provided to us by contacting us via e-mail at [info@educationdynamics.com](mailto:info@educationdynamics.com?subject=Privacy%20Inquiry) or by sending us written notice via postal mail to:
+ **Special Notice to California Residents -- Your California Privacy Rights**
 
-Attn: Information Inquiry or Update  
-EducationDynamics, LLC  
-5 Marine View Plaza, Suite 212  
+California's Shine the Light law provides California residents with the right to receive disclosures about any sharing of their personal information with other companies.
+
+If you are a California resident and you provided your personal information to EducationDynamics, LLC, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please send a written request to:
+
+EducationDynamics, LLC
+
+Attn: Legal Department  
+111 River Street  
+10th Floor  
 Hoboken, NJ 07030
 
-We will respond to your request within a reasonable timeframe.  Any revisions you provide to your personal data will be applied in our own records but will not be updated in the records of the educational institutions and other third parties to which we have already provided your data. If you would like to review and correct the personal data that has been provided to educational institutions and other third parties, you will need to contact them separately.
+with "Request for California Privacy" in the letter subject line.
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You must include sufficient detail for us to locate your file; at a minimum, your name and postal address.
 
- **Security Practices**
+Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one posted in this notice. Please note that the California Shine the Light law does not cover all information sharing. Our disclosure only includes information covered by the law.
 
-If you have any questions about security on our Web site, you can send email us at [info@educationdynamics.com](mailto:info@educationdynamics.com?subject=Privacy%20Inquiry).
+ **Your Choices About Use and Disclosure of Your Information**
 
- **Business Transfers**
+We strive to provide you with choices regarding the Personal Information you provide to us. Below are some mechanisms that provide you with control over your information:
 
-In the event that someone buys or acquires us or substantially all of our assets, our information about you and your use of our services will likely be one of the acquired assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * Promotional Emails or other Electronic Communications. If you do not wish to receive promotional emails or other electronic communications from us, including but not limited to our e-newsletters, contact us at [info@educationdynamics.com](mailto:info@educationdynamics.com) to opt-out or follow the unsubscribe process at the bottom of the promotional email or other electronic communication. Note that even if you opt-out, you may still receive transactional or account-related emails from us (e.g., emails related to the completion of your registration, correction of user data, password reset requests, reminder emails that you have requested, and any other similar communications essential to your transactions on or made through the Services). 
+  * Telephone Calls and Texts. If you do not wish to receive promotional telephone calls from us, contact us at [info@educationdynamics.com](mailto:info@educationdynamics.com) to opt-out, and we will add your phone number to our internal Do Not Call List.  If you do not wish to receive texts, please follow the unsubscribe process in the text by typing “STOP” and sending it to us.  
+  * Automatic Information Collection Technologies and Advertising. Our systems currently recognize "do not track" signals from your browser. In addition, the "help" function of your browser should contain instructions on how to set your browser to not accept new cookies, to notify you when a cookie is issued, or how to disable cookies altogether. If Flash cookies are used on the Services, you can manage your Flash cookie settings, by visiting the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of the Services may be inaccessible or not function properly.
+  * Disclosure of Your Information to Third-Parties for Advertising. If you no longer want us to share your Personal Information with non-affiliated third parties for promotional purposes, contact us at [info@educationdynamics.com](mailto:info@educationdynamics.com) to opt-out. Any opt-out request will only apply from the date of your request, and we will not be responsible for any communications that you may receive from third parties who received your Personal Information prior to your request. In these cases, please contact the third parties directly.
 
- **Legal Disclaimer**
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or other similar legal process served on our Web site.
 
- **TRUSTe Privacy**
+ **Accessing and Correcting Your Information**
 
-The TRUSTe program covers only information that is collected through this Web Site, and does not cover information that may be collected through software downloaded from the website. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal.
+The appropriate method(s) for accessing your information, if any, will depend on which of our websites and services you have visited or used. Depending on the website and service, you may have the ability to view or edit some of your information online, by logging into the Services and visiting your account profile page. You may also contact us at [info@educationdynamics.com](mailto:info@educationdynamics.com) to request access to, correct, or delete any Personal Information that you have provided to us; however, we may ask you to verify your identity and provide other details to help us to respond to your request.  We will respond to your request within a reasonable timeframe.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=bb73c301-e204-47d9-b804-58e6ba2d6d8f "TRUSTe Privacy Certification")
+We cannot delete your Personal Information except by also deleting your user account, if applicable. Once your user account is deleted, it cannot be recovered. We also may not accommodate a request to change or delete information if we believe the change would violate any law or legal requirements, not allow us to enforce our agreements, be contrary to our Terms of Use or any other applicable agreement between you and us, or cause the information to be incorrect. After deletion of your user account, your Personal Information may remain on our archived database and records.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
+To request removal of your personal information from our blog or forum, contact us at [info@educationdynamics.com](mailto:info@educationdynamics.com?subject=Privacy%20Inquiry). In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.  If you delete or request the deletion of your User Contributions from the Services, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied, stored, or reposted to another website by other users of the Services.
 
- **Last Updated on September 19, 2016.  **This Privacy Policy is effective immediately for new users after that date and will become effective on September 19, 2016 for pre-existing users. To review the previous policy, please click [here](http://content.educationdynamics.com/privacypolicy/pre-9-19T-Privacy.pdf).
+Any updates you make or request to be made to your Personal Information will be applied in our own records but will not be updated in the records of the educational institutions or other third parties to which we have already shared your information. If you would like to make updates to the information that has been shared with educational institutions and other third parties, you will need to contact them separately.
+
+ **Security**
+
+We strive to use reasonable security measures to protect your information collected through the Services. However, no method of transmission or electronic storage is 100% effective, and we cannot guarantee absolute security. Therefore, your use of the Services is at your own risk and we do not promise or guarantee, and you should not expect, that your information will always and absolutely remain private and secure. We are not responsible for the circumvention of any privacy settings or security measures contained on or concerning the Services. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, if we have your email address, we may notify you by email. You consent to our use of email as a means of such notification. If you prefer for us to use another method to notify you in this situation, please email us at [info@educationdynamics.com](mailto:info@educationdynamics.com) with the alternative contact information you wish to be used.
+
+ **The Services Are Not for Children**
+
+The Services are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.  In the event that we learn that we have collected Personal Information from a child younger than 13 years old, we will endeavor to delete that information and terminate the child's account (if any). If you believe that a child under the age of 13 has provided us with personal information without verification of parental consent, please contact us at [info@educationdynamics.com](mailto:info@educationdynamics.com).
+
+ **International Users**
+
+The site was created by and is controlled, operated and administered by EducationDynamics, LLC, a Delaware company, or its agents from offices within the United States of America utilizing servers located in the United States of America. We make no representation that materials at this Site are appropriate or available for transmission to or from, or use in, locations outside of the jurisdiction(s) stated above and accessing any Site from any jurisdiction where such Site’s contents are illegal is prohibited. You may not use the Site or export the materials in violation of import or export laws and regulations. If you access a Site from a location outside of the United States, you are responsible for compliance with all local laws.  If you are located outside of the United States, please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer.
+
+ **Changes to This Privacy Policy**
+
+We may update or amend this Privacy Policy at any time. This Privacy Policy will reflect the date it was last updated or amended. If we make any material amendments, we will notify you by posting a notice of the updated or amended Privacy Policy on the Services. All amendments will take effect immediately upon our posting of the updated Privacy Policy on the Services. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the homepage of the Services or sending you an email. Please check this Privacy Policy each time you use the Services to ensure you are aware of any changes in our practices. Your continued use of the Services will indicate your acceptance of the changes to the Privacy Policy.
+
+ **Contacting Us**
+
+If you have questions or concerns about this Privacy Policy, our information practices, or wish to make a request regarding your information, please contact us at any of the following:
+
+  * EducationDynamics, LLC, Attn: Legal Department, 111 River Street, 10th Floor, Hoboken, NJ 07030 or
+  * [Contact us by email](https://www.unigo.com/aboutus/contact "Contact") at [info@educationdynamics.com](mailto:info@educationdynamics.com).
+
+
+
+ **Privacy Policy Scope**
+
+This Privacy Policy applies to the collection of information in association with any of the EducationDynamics, LLC websites and online services that link to this Privacy Policy. Some of our services or offerings may be governed by alternative or additional privacy policies. For example:
+
+  * Unigo Return on Education™ (MyROE™) service offered through [www.unigo.com](http://www.unigo.com/). See [Unigo Return on Education™ Privacy Notice](https://www.unigo.com/aboutus/myroe).
+
+
+
+This Privacy Policy does not apply to our products, services, and offerings for which a separate privacy policy or privacy terms apply. Those products, services, and offerings may include contests, contest entries, contest awards, scholarship applications, and scholarship awards. See the official rules, terms and privacy policy (if applicable) that apply to the specific product or service being offered.
+
+This Privacy Policy does not apply to Other EducationDynamics, LLC websites or online services (if any) that do not link to this Privacy Policy; third-party websites or features to which this Site may link; and information collected by any non-affiliated third party, even if related to this Site or our services or products.
+
+ **Last Updated on July 17th, 2017**. This Privacy Policy is effective immediately for all users. To review the previous policy, please click [here](https://content.educationdynamics.com/privacypolicy/Eddy%20Privacy%20Archived%206-30-17.pdf).
+
+Please note that EducationDynamics, LLC has withdrawn from the TRUSTe Web Privacy Seal Program effective June 30, 2017
