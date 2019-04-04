@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903152221id_/https%3A//www.zodee.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405014825id_/https%3A//www.zodee.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
