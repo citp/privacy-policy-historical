@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpdevshed.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102004815id_/http%3A//wpdevshed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdevshed.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404200403id_/http%3A//wpdevshed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » WP Dev Shed
 
@@ -27,7 +27,7 @@ We may use the information we collect from you when you register, make a purchas
 
 Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-We do not use an SSL certificate as we only provide articles and information, and we never ask for personal or private information
+We use an SSL certificate to ensure any information submited (e.g. comments etc) are transferred securely from your browser to the website.
 
 ### Do we use ‘cookies’?
 
@@ -152,8 +152,8 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 If there are any questions regarding this privacy policy you may [contact us](http://wpdevshed.com/contact/) using the information below.
 
 WPDevShed.com  
-PO Box 133366  
-Eastridge, Auckland 1071  
+68 Whitehaven Road,  
+Glendowie, Auckland 1071  
 New Zealand
 
 Last Edited on 2014-09-26
