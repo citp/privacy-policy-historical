@@ -1,86 +1,110 @@
-<!--The following is the downloaded HTML source of the photofeeler.com privacy policy that was archived on 2017-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170514043034id_/https%3A//www.photofeeler.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photofeeler.com privacy policy that was archived on 2019-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190404071912id_/https%3A//www.photofeeler.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" wf-loading"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script src="https://use.typekit.net/otk0qyq.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-		<title>Photofeeler - Privacy Policy</title>
-		<meta name="description" content="Find out what your photos are really saying about you. Choose the ones that make the right impression for your professional, social, or dating profiles.">
-		<meta name="theme-color" content="#A3D9DE">
-    <meta property="fb:app_id" content="310261842437710">
+<!DOCTYPE html><html class="logged-out-1"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+	<title>Privacy Policy</title>
+	<meta name="description" content="Privacy policy">
+	<meta name="theme-color" content="#A3D9DE">	<link rel="author" href="https://plus.google.com/117480045292551501788">
+	<link rel="shortcut icon" href="https://d1r8m46oob3o9u.cloudfront.net/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="https://d1r8m46oob3o9u.cloudfront.net/images/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="https://d1r8m46oob3o9u.cloudfront.net/images/apple-touch-icon-2.png">
+	<meta property="fb:app_id" content="310261842437710">
     <meta property="og:site_name" content="Photofeeler">
-    <meta property="og:image" content="http://photofeeler.s3.amazonaws.com/images/photofeeler-results-sample.jpg">
-    <meta id="myViewport" name="viewport" content="width=375">
-	<link rel="author" href="https://plus.google.com/117480045292551501788">
-		<link rel="shortcut icon" href="https://photofeeler.s3.amazonaws.com/images/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="https://photofeeler.s3.amazonaws.com/images/favicon.ico" type="image/x-icon">
-		<link rel="apple-touch-icon" href="https://photofeeler.s3.amazonaws.com/images/apple-touch-icon.png">
-    <script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script defer="" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
-    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
-    <script>		(function(d) {
-			var config = {
-					kitId: 'otk0qyq',
-					scriptTimeout: 3000,
-					async: true
-				},
-				h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-		})(document);
-	</script>
-    <script crossorigin="anonymous" defer="" src="https://photofeeler.s3.amazonaws.com/js/scripts_2017-05-13-18-19-20_www.min.js"></script>
-    <link type="text/css" rel="stylesheet" href="https://photofeeler.s3.amazonaws.com/css/styles_2017-05-13-18-19-20_www.min.css">
-    <script>
-        var ga_account = "UA-40617210-2";
-    	var fb_pixel_id = '1640578102860174';
-		var pfDeferredFunctions = pfDeferredFunctions || [];
+    <meta property="og:image" content="http://photofeeler.s3.amazonaws.com/images/photofeeler-results-sample-2.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+	<script>
+		window.pfDeferredFunctions = window.pfDeferredFunctions || [];
 		function pfDocumentReady(f) {
-			if (window.pfDeferredFunctions === null) f();
-			else window.pfDeferredFunctions.push(f);
+			if (window.pfDeferredFunctions === null) {f();} else {window.pfDeferredFunctions.push(f);}
 		}
-		window.onload = function () {
-            BrowserDetection.init();
-            if (screen.width > 500) {
-                document.getElementById('myViewport').setAttribute('content','width=device-width, initial-scale=1');
-    		}
-		};
+	</script>
+    <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script defer="" crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script crossorigin="anonymous" defer="" src="https://d1r8m46oob3o9u.cloudfront.net/js/2019-03-31-16-16-15/www-all.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="https://d1r8m46oob3o9u.cloudfront.net/css/2019-03-31-16-16-15/www-all.min.css">
+	<meta id="pfViewport" name="viewport" content="width=device-width, initial-scale=1">
+	<script>
+		function viewportUpdate() {
+			var estimatedWidth = (window.innerWidth < window.innerHeight ? Math.min(screen.width, screen.height) : Math.max(screen.width, screen.height));
+			if (estimatedWidth < 320) {
+				document.getElementById('pfViewport').setAttribute('content','width=320, initial-scale='+(estimatedWidth/320));
+			} else {
+				document.getElementById('pfViewport').setAttribute('content','width=device-width, initial-scale=1');
+			}
+		}
+		viewportUpdate();
+	    $(window).on('resize', viewportUpdate);
+	</script>
+	<script>
+	    var ga_account = "UA-40617210-2";
+        var fb_pixel_id = '1640578102860174';
+		var mf_id = "9c9260ee-d4a3-4c5c-9a0a-b10049b4ff28";
 		pfDocumentReady(function() {
+			BrowserDetection.init();
 			window.PageError.initialize(false);
 		});
 	</script>
-    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1640578102860174&ev=PageView&noscript=1"/></noscript>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1640578102860174&ev=PageView&noscript=1"/></noscript>
 </head>
 <body>
-		<div class="navbar navbar-default navbar-placeholder"></div>
-		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		    <div class="navbar navbar-placeholder"></div>		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+
 			<div class="container">
-
+				<div class="navbar-header logged-out hidden-xs" style="float:none">
+					<h1 style="margin:0">						<a class="navbar-brand" href="/">
+							<img class="long" src="https://d1r8m46oob3o9u.cloudfront.net/images/photofeeler9.png" alt="Photofeeler">
+							<img class="short" src="https://d1r8m46oob3o9u.cloudfront.net/images/pf9.png" alt="Photofeeler">
+						</a>
+					</h1>
+					<ul class="nav navbar-nav pull-right">
+						<li class="sm-80">
+							<a href="/faq">FAQ</a>
+						</li>
+						<li class="sm-80 hidden-xs">
+							<a href="https://blog.photofeeler.com/" target="_blank">Blog</a>
+						</li>
+						<li>
+							<a href="/login">
+								<div class="btn btn-secondary">Login</div>
+							</a>
+						</li>
+						<li class="hidden-xs">
+							<a href="/signup">
+								<div class="btn btn-primary">Get Started</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+          <div class="container visible-xs-block">
 				<div class="navbar-header">
-
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-fixed">
-						<span class="sr-only">Toggle navigation</span>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="/">
-						<div>
-							<img class="long" src="https://photofeeler.s3.amazonaws.com/images/photofeeler.png" alt="PhotoFeeler">
-							<img class="short" src="https://photofeeler.s3.amazonaws.com/images/pf.png" alt="PhotoFeeler">
-						</div>
-					</a>
-				</div>
+                    <h1 style="margin:0">                        <a class="navbar-brand" href="/">
+                            <img class="long" src="https://d1r8m46oob3o9u.cloudfront.net/images/photofeeler9.png" alt="Photofeeler">
+                            <img class="short" src="https://d1r8m46oob3o9u.cloudfront.net/images/pf9.png" alt="Photofeeler">
+                        </a>
+                    </h1>
+              </div>
 
-				<div class="collapse navbar-collapse" id="navbar-fixed">
+				<div class="collapse navbar-collapse" id="navbar">
 					<ul class="nav navbar-nav navbar-right">
-											<li id="header-signup-link" style="display:none;font-weight:700">
-							<a href="#signup2" style="color:#F05940">Signup</a>
-						</li>
+						    <li>
+								<a class="mobile-signup" href="/signup">Get Started</a>
+							</li>
 						<li>
 							<a href="/faq">FAQ</a>
 						</li>
-						<li>
+						<li class="sm-80">
 							<a href="https://blog.photofeeler.com/" target="_blank">Blog</a>
 						</li>
-						<li>
+						<li class="sm-80">
 							<a href="/login">Login</a>
 						</li>
 					</ul>
@@ -89,49 +113,54 @@
 		</nav>
 
 <div class="container container-page">
-	<h2 class="page-header">Privacy Policy</h2>
+	<div class="page-header">Privacy Policy</div>
 
     <p>PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.</p>
 
     <p>By visiting and engaging with this site in any way (with or without an account), you signify your assent to the Privacy Policy ("policy"). If you do not agree, unfortunately you cannot use this site. This is standard practice, and it is your responsibility to be aware of and abide by it.</p>
 
-    <p>The Photofeeler team ("Photofeeler") may revise and update this policy at any time. Your continued usage of the Photofeeler.com website (“site”) will mean you accept those changes.</p>
+    <p>The Photofeeler team ("Photofeeler") may revise and update this policy at any time. Your continued usage of the Photofeeler.com website ("site") will mean you accept those changes.</p>
 
     <p><b>1. What information do we collect?</b></p>
 
-    We collect information from you when you join our waitlist, sign up for an account, upload photos, rate photos, respond to a survey, or purchase credits.
-
-    When registering on our site or purchasing credits, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number, or credit card information. Optionally, you may also give us information regarding what you do for work so that Photofeeler users have context within which to rate your photos more accurately.
-
-    If you register using a third party website like Facebook, you may be asked for further information specific to your Facebook account. A list of this information will be shown to you, so that you can accept or deny those requests at the time of registration.
-
+    <p>When registering on our site, rating photos, or testing photos, as appropriate, we collect information from you in order to provide and improve upon our service. It's apparent, first of all, that you can post images to Photofeeler.</p>
+    
+    <p>We also may collect your:</p>
+    
+    <ul>
+        <li>First name</li>
+        <li>Email address</li>
+        <li>Birth date or birth year</li>
+        <li>Gender</li>
+    </ul>
+            
+    <p>Additionally, if you register using Facebook or LinkedIn, you may be asked for further information specific to your Facebook or LinkedIn account. (Typically this will include your public profile information.) It is Facebook and LinkedIn's responsibility that a list of this information be shown to you, so that you can accept or deny those requests at the time of registration.</p>
+    
+    <p>You may optionally provide us with occupation-related information when adding a context label to Business images in which you are the photo subject.</p>    
+            
     <p><b>2. What do we use your information for?</b></p>
+    
+    <p>We collect your email address in order to send periodic emails, to contact you in regards to your Photofeeler account, and to identify your account. Do note that you may unsubcribe from our periodic emails at any time, using the link at the bottom of any email you've received from us.</p>
+    
+    <p>We collect your first name, gender, and birth date or year in order to customize your experience, ensure that the correct photos are shown to the correct users, and to conduct research.
+    
+    </p><p>If you optionally choose to label a Business photo of yourself with a description of what you do for work, Photofeeler provides this context to targeted users so that they may rate photos more accurately.</p>
+    
+    <p>Any actions performed on Photofeeler are collected and retained as a core function of providing and maintaining our service and may be used without identifying information in scientific research.</p>
 
-    <p>Any of the information we collect from you may be used in one of the following ways:</p>
+    <p><b>3. Deletion of personal data</b></p>
+    
+    <p>Account deletion is as laid out in our Terms of Use. To have an account registration deleted, use <a href="/feedback?type=question">this form</a> to contact customer service.</p>
+    
+    <p>Some information associated with deleted accounts is retained in order to maintain the service for other users, for statistical and historical purposes, and for use in scientific research.</p>
+    
+    <p><b>4. We do not disclose any information to outside parties except as per your request.</b></p>
 
-    <p>to personalize your experience</p>
-
-    <p>to make the site easier to use</p>
-
-    <p>to improve the site's features</p>
-
-    <p>to improve customer service</p>
-
-    <p>to process transactions</p>
-
-    <p>to contact you about your account and/or orders</p>
-
-    <p>to send periodic emails</p>
-
-    <p>Do note that you may unsubcribe from our periodic emails at any time, using the link at the bottom of any email you've received from us.</p>
-
-    <p><b>3. We do not disclose any information to outside parties except as per your request.</b></p>
-
-    <p>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p>
+    <p>Except in the case of a merger or acquisition, your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p>
 
     <p>This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
-
-    <p><b>4. How we protect your information</b></p>
+    
+    <p><b>5. How we protect your information</b></p>
 
     <p>We implement a variety of security measures to maintain the safety of your personal information when you submit or access your personal information.</p>
 
@@ -139,9 +168,9 @@
 
     <p>After a transaction, sensitive information (such as credit card numbers) are never stored on our servers.</p>
 
-    <p><b>5. What is our use of cookies?</b></p>
+    <p><b>6. What is our use of cookies?</b></p>
 
-    <p>When you visit the site, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) to make the login experience faster and easier.</p>
+    <p>When you visit the site, a session ID cookie is placed on your computer that only lasts while you're visiting. We also place persistent cookies (also known as local storage devices) to make the login experience faster and easier.</p>
 
     <p>You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access all of our features.</p>
 
@@ -159,28 +188,62 @@
 
     <p><b>Effective date</b></p>
 
-    <p>Our privacy policy was last updated on: October, 1, 2015.</p>
+    <p>Our privacy policy was last updated on: May 24, 2018.</p>
 </div>
 		<footer>
-			<div class="footer-content">
-							<p>
-					<a href="/">Home</a>
-					• <a href="/faq">FAQ</a>
-					• <a href="https://blog.photofeeler.com/" target="_blank">Blog</a>
-					• <a href="/feedback">Feedback</a>
-								• <a href="/bug">Bug Report</a>
-					<br>
+			<div class="footer-content container">
+				<div class="row">
 
-											<a href="/">Sign Up</a> |
+					<div class="col-sm-3 col-share-and-legal">
+																	<div class="share-links-abr">
+							<a class="btn btn-facebook-abr btn-sm" target="_blank" href="/api/share/share-site?shareType=Facebook&amp;lt=f">
+                                <svg class="pf-icon fa-facebook" width="15px" height="15px" viewBox="0 0 1792 1792"><path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z"></path></svg> share
+							</a>&nbsp;
+							<a class="btn btn-twitter-abr btn-sm" target="_blank" href="/api/share/share-site?shareType=Twitter&amp;lt=f">
+                                <svg class="pf-icon fa-twitter" width="15px" height="15px" viewBox="0 0 1792 1792"><path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z"></path></svg> tweet
+							</a>&nbsp;
+							<a class="btn btn-linkedin-abr btn-sm" target="_blank" href="/api/share/share-site?shareType=LinkedIn&amp;lt=f">
+                                <svg class="pf-icon fa-linkedin lift-2" width="14px" height="14px" viewBox="0 0 1792 1792"><path d="M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z"></path></svg> post
+							</a>
+						</div>
+						<div class="legal hidden-xs">
+							<a href="/terms">Terms of Use</a><br>
+							<a href="/privacy-policy">Privacy Policy</a><br>
+							© 2019 Photofeeler Inc.<br>
+						</div>
+					</div>
+
+					<div class="col-sm-3 hidden-xs">
+						<img src="https://d1r8m46oob3o9u.cloudfront.net/images/photofeeling3.png" alt="Photofeeler">
+					</div>
+
+	                <div class="col-xs-5 col-xs-offset-1 col-sm-3 col-sm-offset-0 link-list">
+	                    <div class="col-head">Account</div>
+											<a href="/signup">Sign Up</a>
 						<a href="/login">Login</a>
-									</p>
-									<img src="https://photofeeler.s3.amazonaws.com/images/photofeeling.png" alt="">
-								<p class="tiny">
-					Copyright 2017 Photofeeler. All Rights Reserved.<br class="visible-tiny">
-					<a href="/terms">Terms of Use</a>.
-					<a href="/privacy-policy">Privacy Policy</a>.
-				</p>
-							</div>
-		</footer>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ecbe44911a","applicationID":"35958959","transactionName":"M1MHZUZZW0RWVURZDQoZMENdF0VFXkBRUxtJRgpdXVtMGUdeQA==","queueTime":0,"applicationTime":90,"atts":"HxQEEw5DSEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+						                </div>
+
+	                <div class="col-xs-6 col-sm-3 link-list">
+	                    <div class="col-head">Resources</div>
+						<a href="/">Home</a>
+						<a href="/about">About Us</a>
+						<a href="/faq">FAQ</a>
+											<a href="/feedback?type=bug">Report a Bug</a>
+						<a href="https://blog.photofeeler.com/" target="_blank">Blog</a>
+		                                    <a href="/jobs">Jobs</a>
+		            	                </div>
+
+					<div class="clearfix"></div>
+					<div class="visible-xs-block logo-xs">
+						<img src="https://d1r8m46oob3o9u.cloudfront.net/images/photofeeling3.png" alt="Photofeeler">
+					</div>
+
+					<div class="legal visible-xs-block legal-xs">
+						© 2019 Photofeeler Inc.
+						<a href="/terms">Terms of Use</a>
+						<a href="/privacy-policy">Privacy Policy</a>
+					</div>
+
+				</div>			</div>		</footer>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ecbe44911a","applicationID":"35958959","transactionName":"M1MHZUZZW0RWVURZDQoZMENdF0VFXkBRUxtJRgpdXVtMGUdeQA==","queueTime":0,"applicationTime":124,"atts":"HxQEEw5DSEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
