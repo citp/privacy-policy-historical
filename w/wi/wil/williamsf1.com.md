@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the williamsf1.com privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720140338id_/https%3A//www.williamsf1.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamsf1.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404164650id_/http%3A//williamsf1.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Williams F1
-
-**
+# Privacy Policy | Williams
 
 PRIVACY POLICY
-
-**
 
 Williams Grand Prix Engineering Limited (company number 1297497) **(“Williams” / “we” / “our” / “us”)** takes your privacy very seriously and is committing to protecting your personal data. 
 
 If you wish to contact us regarding this privacy policy, please see the contact details ** _here_**. Williams is the data controller and our registered office is Grove, Wantage, Oxfordshire, OX12 0DQ.
 
-This privacy policy (together with the terms and conditions, which you can find _**[here](http://www.williamsf1.com/policies/terms-and-conditions)**_  ) sets out the basis on which any personal data we collect from you, or that you provide to us through your use of our website ([http://www.williamsf1.com](http://www.williamsf1.com/)) (the “Website”), will be processed by us.  
+This privacy policy (together with the terms and conditions, which you can find _**[here](http://www.williamsf1.com/policies/terms-and-conditions)**_  ) sets out the basis on which any personal data we collect from you, or that you provide to us through your use of our website ([http://www.williamsf1.com](http://www.williamsf1.com/)) and any sub-domains (the “Website”), will be processed by us.  
 
 This privacy policy does not apply to websites that you may be able to access via links on the Website and/or activities offered by third parties. We are not responsible for the collection or use of your personal data from these third party websites.  Please ensure you review any relevant policies.
 
@@ -51,11 +47,12 @@ We will collect, use, store and transfer the following data about you:
     * when entering a competition or prize draw;
     * when you place an order on the Website and during our fulfilment of such order; 
     * if you contact us or correspond with us (for example, by phone, email or otherwise) for any other reason, for example, to find out more about Williams Heritage or to enquire about and/or book an event with us; or 
-    * when you provide us with comments, opinions and/or feedback or when you complete a survey, for example, about the Website or any of our products. 
+    * when you provide us with comments, opinions and/or feedback or when you complete a survey, for example, about the Website or any of our products.
+    * when you register for our Paddock Club web application (at vip.williamsf1.com);
   * **Data we collect about you.** We will collect the following personal data about you: 
     * technical information, including the type of device (and its unique device identifier) you use to access the Website, the Internet protocol (IP) address used to connect your device to the Internet, your login information, browser type and version, time zone setting, browser plug in types and versions, operating systems, mobile network information and platform; and 
     * information about your visit to the Website including full Uniform Resource Locators (URL), clickstream to, through and from the Website (including date and time), pages you viewed, page response time, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
-  * **Data we collect from or which is provided by third parties.** We may be given personal data about you by third parties such as the operator of the WMRshop.com™ at the Website, ticket sales websites and social media platforms, or anyone making a booking on your behalf for you to attend Williams’ site. ****
+  * **Data we collect from or which is provided by third parties.** We may be given personal data about you by third parties such as the operator of the shop.williamsf1.com™ at the Website, ticket sales websites and social media platforms, or anyone making a booking on your behalf for you to attend Williams’ site. ****
 
 
 
@@ -95,17 +92,17 @@ To manage our relationship with you, including
 
 | 
 
-Your name, email address, address, opinion and information about any concerns or issues you have raised. 
+Your name, email address, address, job title, company name, opinion and information about any concerns or issues you have raised. 
 
 | 
 
-Performance of a contract and our legitimate interest – to enable us to keep our records updated and to better understand our fans and customers.   
+Performance of a contract and our legitimate interest – to enable us to keep our records updated and to better understand our fans, guests and customers.   
   
 To enable you to partake in a prize draw, competition or complete a survey. 
 
 | 
 
-Your name, email address, phone number and address details. 
+Your name, email address, job title, company name, phone number and address details. 
 
 | 
 
@@ -130,6 +127,16 @@ Your name, email address, password, date of birth and country of residence or yo
 | 
 
 Legitimate interest – to enable you to manage your profile.   
+  
+To register you for the Williams VIP web application. 
+
+| 
+
+Your name, email address, job title, company name and password.
+
+| 
+
+Legitimate interest – to enable you to register for the Williams VIP web application.   
   
 As part of our efforts to keep the Website safe and secure. 
 
@@ -221,7 +228,7 @@ Your name, date of birth, email address, postal address, phone number or the tec
 
 Consent.   
   
-To provide you with marketing communications in respect of WMRshop.com, which is operated by Fanatics. 
+To provide you with marketing communications in respect of shop.williamsf1.com, which is operated by Fanatics. 
 
 | 
 
@@ -259,7 +266,7 @@ We will only send and present you with marketing communications if you would lik
 
 We may share your personal data with selected third parties in accordance with this policy, including: 
 
-  * with Fanatics (International) Limited, who are the operator of WMRshop.com™ at the Website and who would be contracting with you should you wish to purchase any products via the WMRshop.com, but only if you have consented to this.  A link to their privacy policy can be found **_[**_here_**](http://www.wmrshop.com/stores/williams/en/help?helpSection=privacy)_** ;
+  * with Fanatics (International) Limited, who are the operator of shop.williamsf1.com™ at the Website and who would be contracting with you should you wish to purchase any products via the shop.williamsf1.com, but only if you have consented to this.  A link to their privacy policy can be found **_[**_here_**](https://shop.williamsf1.com/stores/williams/en/help?helpSection=privacy)_** ;
   * with our partners, but only if you have consented to this and then only to those of our partners for whom you have given consent.  A list to our current partners can be found ** _[here](http://www.williamsf1.com/racing/about/our-partners)_** ** _._**
   * with Google, Facebook, Twitter and Microsoft (if you use your account with them to sign up / in with us), if applicable; 
   * service providers (for example, IT services or CRM services), business partners, suppliers and sub-contractors for the performance of any contract we enter into with you, but also when sending out marketing communications; 
@@ -291,7 +298,7 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 In some circumstances we may anonymise your personal data so that it can no longer be associated with you, in which case we may use such information without further notice to you.
 
-Even if you request that we erase your data, we may still need to keep it (please see below) or may keep it in a form that doesn’t identify you.  Unless you have an account on our website (to gain behind the scenes access) or you have agreed that we may use your personal data for marketing purposes (for example, to provide you with team updates and other marketing communications), we will only keep your personal data for six years after you have made a purchase from us or via the Website.  Please note that where you make a purchase through a webpage which is operated by a third party (eg via wmrshop.com or if you buy tickets for the Williams Conference Centre which are sold by The Ticket Factory), you should refer to their privacy policies for further information as to how your data is handled and how long it is kept.
+Even if you request that we erase your data, we may still need to keep it (please see below) or may keep it in a form that doesn’t identify you.  Unless you have an account on our website (to gain behind the scenes access) or you have agreed that we may use your personal data for marketing purposes (for example, to provide you with team updates and other marketing communications), we will only keep your personal data for six years after you have made a purchase from us or via the Website.  Please note that where you make a purchase through a webpage which is operated by a third party (eg via shop.williamsf1.com or if you buy tickets for the Williams Conference Centre which are sold by The Ticket Factory), you should refer to their privacy policies for further information as to how your data is handled and how long it is kept.
 
 **YOUR LEGAL RIGHTS**
 
@@ -325,75 +332,223 @@ We use the following cookies:
 
 
 
+We use Google Analytics which is an analytical / performance cookie. The Website uses Google Analytics to help analyse how users use the Website, collecting standard internet log information and visitor behaviour information in an anonymised form from which no user is identifiable. We have also implemented Google Analytics features based on Display Advertising ([Google Analytics Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357?hl=en)).
+
+This information is transmitted to Google and processed to compile statistical reports on activity on the Website and so be able to develop the Website and its content around our users’ interests. These reports allow us to optimise our user experience. Google provide a browser add-on for users who wish to prevent their data from being used by Google Analytics.
+
+Click [here](https://support.google.com/analytics/answer/6004245?hl=en) and [here](https://policies.google.com/privacy?hl=en) for an overview of privacy at Google, and click [here](https://tools.google.com/dlpage/gaoptout/) if you wish to opt out from the operation of Google Analytics.  In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics.
+
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below: 
 
 **Cookie**
 
 | 
 
-**Purpose**  
-  
----|---  
-  
-Google Analytics
+**Expiration**
 
 | 
 
-This is an analytical / performance cookie. The Website uses Google Analytics to help analyse how users use the Website, collecting standard internet log information and visitor behaviour information in an anonymised form from which no user is identifiable. We have also implemented Google Analytics features based on Display Advertising ([Google Analytics Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357?hl=en)).
-
-This information is transmitted to Google and processed to compile statistical reports on activity on the Website and so be able to develop the Website and its content around our users’ interests. These reports allow us to optimise our user experience. Google provide a browser add-on for users who wish to prevent their data from being used by Google Analytics. 
-
-Click [here](https://support.google.com/analytics/answer/6004245?hl=en) and [here](https://policies.google.com/privacy?hl=en) for an overview of privacy at Google, and click [here](https://tools.google.com/dlpage/gaoptout/) if you wish to opt out from the operation of Google Analytics.  In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics.  
-  
-**_gid**
+**Purpose**
 
 | 
 
-This is a Google cookie that is used to distinguish users. Expires after 24 hours.  
+**Origin**  
   
-**_gat_UA-37733489-1**
+---|---|---|---  
+  
+_gid
 
 | 
 
-This is a Google cookie that is used to throttle request rate. Expires after 1 minute.  
-  
-**SC_ANALYTICS_GLOBAL_COOKIE**
+24 hours
 
 | 
 
-This is a Sitecore Engagement Analytics Cookie which identifies repeat visits from a single user. This expires one year after the last page requested by a user. It doesn’t identify individuals using the website.  
-  
-**williamsf1#lang**
+This is a Google cookie that is used to distinguish users.
 
 | 
 
-Sitecore cookie to track a user’s language selection. Expires at end of session. ****  
+.williamsf1.com  
   
-**__RequestVerificationToken**
+_gat
 
 | 
 
-Anti-forgery token used to help prevent CSRF attacks. Expires at end of session.  
-  
-**ASP.NET_SessionId**
+1 minute
 
 | 
 
-Used to identify the users session on our web server. Expires at end of session.  
-  
-**.AspNet.ApplicationCookie**
+This is a Google cookie that is used to throttle request rate.
 
 | 
 
-Authentication cookie for users who have logged into our identity site. Expires at end of session or when user explicitly logs out.  
+.williamsf1.com  
   
-**_ga**
+_ga
 
 | 
 
-Used to distinguish users.  Expires after 2 years ****  
+2 years
+
+| 
+
+This is a Google cookie that is used to distinguish users.
+
+| 
+
+.williamsf1.com  
   
-By clicking “agree” in the cookie consent box when you first access the Website and by continuing to access and use the Website you accept the use of the cookies. 
+SC_ANALYTICS_GLOBAL_COOKIE
+
+| 
+
+1 year
+
+| 
+
+This is a Sitecore Engagement Analytics Cookie which identifies repeat visits from a single user. This expires one year after the last page requested by a user. It doesn’t identify individuals using the website.
+
+| 
+
+.williamsf1.com  
+  
+williamsf1#lang
+
+| 
+
+End of Session
+
+| 
+
+Sitecore cookie to track a user’s language selection.
+
+| 
+
+.williamsf1.com  
+  
+williamsf1#accept-consent
+
+| 
+
+365 days
+
+| 
+
+Tracks whether a user has consented to the use of cookies.
+
+| 
+
+.williamsf1.com  
+  
+williamsf1#marketing-opted-out
+
+| 
+
+End of Session
+
+| 
+
+Tracks whether a user has cleared a message about opting in to marketing communications.
+
+| 
+
+.williamsf1.com  
+  
+ASP.NET_SessionId
+
+| 
+
+End of Session
+
+| 
+
+Used to identify the users session on our web server. 
+
+| 
+
+.williamsf1.com  
+  
+.AspNet.ApplicationCookie
+
+| 
+
+End of Session or when user explicity logs out.
+
+| 
+
+Authentication cookie for users who have logged into our identity site.
+
+| 
+
+.williamsf1.com  
+  
+__RequestVerificationToken
+
+| 
+
+End of Session
+
+| 
+
+Anti-forgery token used to help prevent CSRF attacks.
+
+| 
+
+.williamsf1.com  
+  
+fr
+
+| 
+
+3 months
+
+| 
+
+Facebook Analytics cookie. Contains a unique browser and user id.
+
+| 
+
+.facebook.com  
+  
+vimeo, __qca, __gads, continuous_play_v3, player, _abexps, vuid, is_logged_in, _ga, has_logged_in, _ceg.s, _ceg.u, __ssid, has_uploaded, _mibhv, sst_aid, sst_uid
+
+| 
+
+Dates are set in the cookies themselves and may vary in length, depending on the purpose of the cookie.
+
+| 
+
+To display and deliver videos on our site, we make use of Vimeo, a video sharing website. The embedded Vimeo player, uses these cookies to check if certain features or preferences have been selected by the user. To find about more about how each cookie is used by see [Vimeo’s cookie list.](https://vimeo.com/cookie_list) More information can be found on [Vimeo’s privacy policy.](https://vimeo.com/privacy)
+
+| 
+
+.vimeo.com  
+  
+ARRAffinity
+
+| 
+
+End of Session
+
+| 
+
+Cookie which ensures a user stays on a specific instance of a website or web app in Azure.
+
+| 
+
+.williamsf1.com  
+  
+__cfduid
+
+| 
+
+1 year
+
+| This is a tracking cookie to allow notifications to be sent to the user. | 
+
+.onesignal.com  
+  
+By clicking “agree” in the cookie consent box when you first access the Website and by continuing to access and use the Website you accept the use of the cookies.
 
 You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use browser settings to block all cookies (including essential cookies) you may not be able to access all or part of the Website. 
 
@@ -411,9 +566,9 @@ Questions, comments and requests regarding our privacy policy are welcomed and s
 
 Please also contact us if you would like to know more about our data processing activities, to update or amend any of your personal data which you have provided to us or if you believe our records relating to your personal data are incorrect.
 
-Our privacy policy was last updated on 23 May 2018. 
+Our privacy policy was last updated on 13 March 2019.
 
-Version: PP-2018-01
+Version: PP-2019-03
 
   
 
