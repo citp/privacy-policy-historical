@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evesaddiction.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224024654id_/https%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evesaddiction.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404182929id_/https%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Eve's Addiction
 
@@ -23,6 +23,6 @@ How do we protect your information? We encrypt order information for your protec
 **EvesAddiction.com uses an Extended Validation SSL Certificate  
 **For your security and confidence, EvesAddiction.com uses Extended Validation Secure Sockets Layer Certificate for confidence and security when using your credit card online.
 
-If you would like further details about EvesAddiction.com, or would like to contact us please visit our front page or email us at [customerservice@EvesAddiction.com](mailto:customerservice@evesaddiction.com). 
+If you would like further details about EvesAddiction.com, or would like to contact us please visit our front page or email us at [[email protected]](https://www.evesaddiction.com/cdn-cgi/l/email-protection#30534543445f5d5542435542465953557055465543515454595344595f5e1e535f5d). 
 
 We reserve the right, at our sole discretion, to change, modify, or otherwise alter these terms and conditions at anytime. Please review the terms and conditions periodically. Your continued use of the site following the posting of changes and/or modifications will constitute your acceptance of the revised terms and conditions. 
