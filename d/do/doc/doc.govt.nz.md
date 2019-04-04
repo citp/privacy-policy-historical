@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doc.govt.nz privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903045633id_/https%3A//www.doc.govt.nz/footer-links/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doc.govt.nz privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404165813id_/https%3A//www.doc.govt.nz/footer-links/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and security
 
@@ -6,7 +6,9 @@ You may browse and access information contained within this website without prov
 
 ## Forms
 
-Where you voluntarily provide personal information (eg, through email feedback, surveys, or registration forms), we will only use that information for the purpose it was collected. We will keep any such information secure and will not disclose it to any third parties.
+Where you voluntarily provide personal information (eg, through email feedback, surveys, submissions or registration forms), we will only use that information for the purpose it was collected. We will keep any such information secure and will not disclose it to any third parties.
+
+Information you submit as part of official processes may be subject to an Official Information Act (OIA) request. It could be supplied to a requester, with the redaction of any commercially confidential details, or other details inappropriate for release, as specified in the Act.
 
 ## Social media
 
@@ -43,11 +45,19 @@ If you have indicated acceptance in completing surveys or evaluations on your b
 Your information will not be passed onto third parties unless:
 
   1. it relates to services booked by you on the Department of Conservation website but supplied by a third party and the third party requires those details.
-  2. it is required by Police or Search and Rescue to carry out searches, rescues or in Civil Defence emergencies. 
+  2. it is required by Police or Search and Rescue to carry out searches, rescues or in Civil Defence emergencies.
 
 
 
-## Google Analytics
+## Cookies policy
+
+We use third-party vendor re-marketing tracking cookies, including Google Adwords tracking cookie. This means we will continue to show you ads when you use other websites across the internet, specifically the Google Content Network (GCN).
+
+Third-party vendors, including Google AdWords Remarketing, allows us to tailor our marketing to only display ads that are relevant to you, based on your past visits to our website or any of our sub-domains.
+
+Cookies include a unique number. They do not contain personal data. We cannot use cookies to identify you personally. Nor can cookies be used to recognise you on other websites.
+
+## Google Analytics data collection
 
 This site also uses Google Analytics, a web analytics service provided by Google Inc. This provides traffic analysis to help us improve our website.
 
