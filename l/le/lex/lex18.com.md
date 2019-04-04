@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lex18.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829031604id_/https%3A//lex18.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lex18.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404144442id_/https%3A//lex18.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LEX18.com
+# Privacy Policy | LEX18.com
 
 Welcome to the website for LEX18.com (the “Site”). This Site is owned by Cordillera Communications (“Cordillera Communications” or “us”) and powered by WordPress. We at Cordillera Communications recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Website Privacy Statement.
 
