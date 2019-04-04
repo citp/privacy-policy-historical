@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the listotic.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228033105id_/http%3A//www.listotic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listotic.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404075219id_/https%3A//listotic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Listotic
+# Privacy Policy ⋆ Listotic
+
+[](https://listotic.com/privacy-policy/ "Privacy Policy")
 
 The privacy of our visitors is important to us.
 
@@ -16,6 +18,12 @@ If your browser permits, you may be able to selectively disable or turn off cook
 
 Google is one of the most popular search engines in the world, and as such, may use technology to track it’s visitors throughout the Google network and through websites which use services provided by Google such as Listotic.com. The following paragraph pertains to Google and the information that it may collect.
 
+  * Google Display Network Impression Reporting – which gives us additional insight into who has viewed our paid digital advertising on other websites. This will help us optimize and tailor our advertising.
+  * Google Analytics Demographics and Interest Reporting – which gives us insight into behaviour information relating to visitor age, gender and interests on an anonymous and aggregate level. This will help us to understand browsing behavior to give you a better experience whilst visiting our sites.
+  * Users may opt out of the use of the Google Analytics Demographics and Interest Reporting by using the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
+
+
 The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help better serve and manage ads on the publisher’s site(s) and across the web.
 
   * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
@@ -23,6 +31,8 @@ The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is 
   * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 
+
+While we recommend that users enable cookies on their browsers in order to enjoy all the features of our website, the decision remains in the hands of the individual. Most browsers allow you to control management of cookies, this will be different depending on each user’s PC – refer to your browser help menu for further information.
 
 Additionally please note the following:
 
@@ -33,7 +43,6 @@ Additionally please note the following:
 
 As an Amazon Associate, we earn revenue from qualifying purchases.
 
-For further information or support, please [contact us](http://www.listotic.com/contact/).
+For further information or support, please [contact us](https://listotic.com/contact/).
 
-[](https://www.pinterest.com/listotic)   
-[](https://www.facebook.com/listotic)
+[](https://www.pinterest.com/listotic)[](https://www.facebook.com/listotic)
