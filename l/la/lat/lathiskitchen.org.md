@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lathiskitchen.org privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408071026id_/http%3A//www.lathiskitchen.org/privacy-copyright-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lathiskitchen.org privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404204739id_/https%3A//www.lathiskitchen.org/privacy-copyright-policy) for the most accurate reproduction.*
 
-# Privacy and Copyright Policy - Cooking with Smile
+# Privacy and Copyright Policy - Lathi's Kitchen
 
-Privacy Policy for <http://lathiskitchen.org>
+Privacy Policy for <https://lathiskitchen.org>
 
-The privacy of our visitors to <http://lahtiskitchen.org> is important to us.
+The privacy of our visitors to <https://lathiskitchen.org> is important to us.
 
 At <http://lathiskitchen.org>, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit <http://lathiskitchen.org>, and how we safeguard your information. We never sell your personal information to third parties.
 
