@@ -1,64 +1,80 @@
-> *The following text is extracted and transformed from the smartkpis.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624213854id_/https%3A//kpiinstitute.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartkpis.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404163251id_/https%3A//kpiinstitute.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The KPI Institute
 
-## COLLECTION OF YOUR PERSONAL INFORMATION
+The KPI Institute Pty.Ltd is committed to protecting your privacy. This Data Privacy policy outlines our personal information handling practices, for both online and offline data. If you give us personal information, we will treat it with the utmost care and never sell, rent or share your personal information with third parties under any circumstances.
 
-**The KPI Institute**  collects personally identifiable information during the registration process, such as your e-mail address, name, home or work address or telephone number.  **The KPI Institute**  also collects anonymous demographic information, which is not unique to you, such as your ZIP/post code, age, gender, preferences, interests and favorites.
+This policy applies to all The KPI Institute’s websites, including: [www.kpiinstitute.org](http://www.kpiinstitute.org/), [www.gpaunit.org](http://www.gpaunit.org/), <http://www.tkisolutions.com/>, <https://www.skills.ac/> and [www.performancemagazine.org](http://www.performancemagazine.org/), as well as to all extensions related to these web domains.
 
-There is also information about your computer hardware and software that is automatically collected by **The KPI Institute**. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by  **The KPI Institute**  for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of **smartKPIs.com**.
+Please note that this Privacy Policy may change from time to time, though we expect most such changes to be minor. We will post any Policy changes on this page. We encourage you to read this privacy policy and take notice of how your data is being processed. By using The KPI Institute’s websites, you agree to the terms under this policy.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through  **The KPI Institute’s websites** on public message boards, this information may be collected and used by others. Note: Except in those cases permitted by the **Terms of Use** , **The KPI Institute**  does not read any of your private online communications.
+ **Who we are?**
 
-**The KPI Institute**  encourages you to review the privacy statements of websites you choose to link to from  **The KPI Institute’s websites** so that you can understand how those websites collect, use and share your information.  **The KPI Institute**  is not responsible for the privacy statements or other content on Web sites outside of  **The KPI Institute’s websites**.
+The KPI Institute is a leading global research institute specialized in business performance. It operates research programs in 12 practice domains, ranging from strategy and KPIs to employee performance and from customer service to innovation performance. Insights are disseminated through a variety of publications, subscriptions services and through a knowledge platform available to registered members. Support in deploying these insights in practice is offered globally through training and advisory services.
 
-## USE OF YOUR PERSONAL INFORMATION 2
+The KPI Institute is considered today the global authority on Key Performance Indicators (KPIs) research and education. It developed the first KPI Management Framework and operates www.smartKPIs.com, the result of the research program dedicated to documenting and cataloguing how KPIs are used in practice, an online portal containing the largest collection of documented KPI examples.
 
-We do not share personal information about you outside  **The KPI Institute’s websites** unless you give us permission to do so or when the law requires it. However, by providing personal information to  **The KPI Institute’s websites** , you agree that such information may be stored outside your country or held by third parties providing services to  **The KPI Institute**  but will not be used by such third parties for their own purposes. You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by contacting  **The KPI Institute** via email at [office@kpiinstitute.org](mailto:info@smartkpis.com)
+The company headquarter is in Melbourne, Australia, located at: Life.lab Building 198 Harbour Esplanade, Suite 606, Melbourne Docklands, VIC 3008, Australia.
 
-We reserve the right to use your email address or other personally identifiable information to:
+ **What does personal data refer to?**
 
-  1. a) send information to you which we think may be of interest to you by email or other means;
-  2. b) send you marketing communications related to our business or the businesses of carefully-selected third parties which we think may be of interest to you.
+Personal data means any information related to an identified or identifiable natural person. An identifiable natural person is one who can be identified, either directly, by name for example, or indirectly, by reference to an identifier such as: an unique identification number, location data, an online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+Natural persons may be associated with online identifiers provided by their devices, applications, tools and protocols, such as internet protocol addresses, cookie identifiers or other identifiers.
+
+Such examples of personal data include, but are not limited to: names, email addresses, phone numbers, profile photos, audio and video recordings, Twitter, Facebook, LinkedIn IDs and profile URLs, IPs (IPv4 and especially IPv6), biometric data like fingerprints, user agents, device names (like webcam names) or device IDs like MAC addresses, passport and social security numbers, driver’s license or ID photos, geolocation info, posts on social media, bank account & credit card information, PayPal IDs, SSH public keys.
+
+ **What types of data do we collect and how?**
+
+There are instances when The KPI Institute receives your data directly, via our websites and forms, as you create a new account, or you download a brochure or some free resources, or you subscribe to our newsletters, or you request a demo, or you buy a product / service from us, or you participate at our courses and events, or you send us your CV for a job opportunity, or you contact us. Such data includes, but it is not limited to: your name, e-mail address, home or work address, telephone number, date and place of birth, profile photo, job position and company name, qualifications and any other information specifically mentioned by you (feedback, correspondence etc).
+
+In other instances, The KPI Institute collects automatically information about your computer hardware and software, in order to improve your experience on our websites. This information can include, but it is not limited to: your IP address (IPv4 and especially IPv6), browser type, domain names, access times and referring website addresses. To read more information about cookies and how we use them, please refer to the [Cookie Policy](https://kpiinstitute.org/cookie-policy). Also, in order to improve the customer experience, we automatically record client conversations, but we do not process data only in special circumstances, if needed.
+
+You are not required to give us your personal data, but in this case, it will be almost impossible for us to provide you the information, products and services you expect from us.
+
+ **How do we process your data?**
+
+We do not share your personal data outside The KPI Institute, unless you give your consent to do so, or when the law requires it, or when you expect us to do so.
+
+However, by providing personal information to The KPI Institute’s websites, you agree that such information may be stored outside your country or held by third parties providing services to The KPI Institute, but it will not be used by such third parties for their own purposes.
+
+In case the data processing includes the transfer outside of the European Union, the transfer is based on EU approved standards and contractual clauses, thus ensuring an adequate level of personal data protection as requested by the applicable data protection law. We will transfer your data only to non-EU countries in relation to which the European Commission is confident that they provide an adequate level of data protection or international-transfers.
+
+Please keep in mind that if you directly disclose your data through The KPI Institute’s websites, this information may be collected and used by others.  Also, The KPI Institute encourages you to review the privacy statements of the websites you choose to link to from The KPI Institute’s websites, so that you understand how those websites collect, use and share your information. The KPI Institute is not responsible for the privacy statements or other content available on websites outside The KPI Institute’s websites.
+
+The KPI Institute collects and processes your personal data in order to provide you with the services you expect from us, either to give you access to our online resources, or to participate to our courses, events and webinars, or to receive promotional offers from us, latest news and insightful performance management articles, or to be part of our performance related surveys, or to find the right job/role for which you applied. An important aspect related to the promotional campaigns we send you, is that you can always update your preferences, by opting-in or out, at your choice.
+
+Also, your data can be processed for administrative purposes related to the Certification process, or for finance related purposes related to the invoice issued, in case you have participated at one of our training programs, or you have purchased one of our products and services.
+
+Your data can be used without further consent for non-marketing purposes, such as notifying you of major website changes or for customer service purposes, or in order to comply to the law requirements
+
+The most common communication channels we use include, but are not limited to: emails, phone calls, messages, posts and face-to-face meetings. Your data will be only processed the authorized departments, meant to ensure the achievement of the services you expect from us. Such departments include, but are not limited do: Digital Marketing, Customer services, Educational Programs, Customer Engagement, Finance, Human Resources.
+
+ **How long do we keep your data?**
+
+We will keep your data, after having your prior consent, for an unlimited period of time, as long as you have an account on our websites, or you are subscribed to our newsletters, or you have in any other way provided your data to us, until you withdraw your consent or unsubscribe from our newsletters or you ask us to delete your data from our database.
+
+We may keep some personal data to comply with national and international legal requirements, as in the case of internal information about our employees, for historical and statistical data.
+
+If we have to delete your data, this means that we cannot process it any longer and use it to inform you about any of our events, products, services or job opportunities. In case you want to provide your data again in the future, you will have to register again with us.
+
+ **Your rights**
+
+You are entitled to contact us in case you want to:
+
+  * Be informed about how we use your data;
+  * Receive access and obtain a copy of the data we have about you;
+  * Change or update your data, if you discovered that we have inaccurate / outdated information about you
+  * Update your email marketing preferences, by opting-in or out from some or from all our newsletters;
+  * Withdraw your consent on data processing;
+  * Delete all the personal data we have about you;
+  * Make a complaint to the data protection authority if you have any doubts regarding how we process your data;
+  * Restrict our use of your data;
+  * Transfer your data from our database to another one;
+  * Disable Cookies – for more information about the Cookie Policy, read the entire policy [here](https://kpiinstitute.org/cookie-policy)
 
 
 
-However, you will always have the ability to opt-in or opt-out from these programs or features. Also, your email address can be used without further consent for non-marketing or administrative purposes as well (such as notifying you of major website changes or for customer service purposes).
+ **Contact us**
 
-We do not give information about you to government agencies, organisations or anyone else unless one of the following applies:
-
-  * you have consented;
-  * you’d expect us to or we have told you we will;
-  * it is required or authorised by law;
-  * it will prevent or lessen a serious and imminent threat to somebody’s life or health; or
-  * the disclosure is reasonably necessary for law enforcement or for the protection of public revenue.
-
-
-
-## COOKIES
-
-**The KPI Institute’s websites** use cookies.  By using these websites and agreeing to this policy, you consent to **The KPI Institute’s websites’** use of cookies in accordance with the terms of this policy.
-
-Cookies are files sent by web servers to web browsers, and stored by the web browsers.
-
-The information is then sent back to the server each time the browser requests a page from the server.  This enables a web server to identify and track web browsers.
-
-There are two main kinds of cookies: session cookies and persistent cookies.  Session cookies are deleted from your computer when you close your browser, whereas persistent cookies remain stored on your computer until deleted, or until they reach their expiry date.  
-**Cookies on our website**  
-Cookies are small data files that your browser places on your computer or device.  Cookies help your browser navigate a website and the cookies themselves cannot collect any information stored on your computer or your files.
-
-When a server uses a web browser to read cookies they can help a website deliver a more user-friendly service. To protect your privacy, your browser only gives a website access to the cookies it has already sent to you.
-
-We use cookies to learn more about the way you interact with our content and help us to improve your experience when visiting our websites. The cookies used by **The KPI Institute’s websites** include, but are not restricted to the following:
-
-  * **Session cookies:** these are mainly used by online shops and allow you to keep items in your basket when shopping online. These cookies expire when the browser is closed
-  * **Persistent cookies:** these remain in operation, even when you have closed the browser. They remember your login details and password so you don’t have to type them in every time you use the site. The law concerning permanent cookies stipulates that they need to be deleted after a period of six months
-  * **Third party cookies:** they are set by a different organisation to the owner of the website you are visiting. For example, the website might use a third party analytics company who will set their own cookie to perform this service. The website you are visiting may also contain content embedded from, for example YouTube or Flickr, and these sites may set their own cookies. More significantly, a website might use a third party advertising network to deliver targeted advertising on their website. These may also have the capability to track your browsing across different sites. **The KPI Institute’s websites** do use advertising cookies, but these will not track your behavior outside of The KPI Institute’s family of sites. One type of third party cookies are Google cookies.
-  * **Google cookies:** **The KPI Institute’s websites** use Google Analytics to analyse the use of the websites. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>.
-  * **Flash cookies:** many websites use Adobe Flash Player to deliver video and game content to their users. Adobe utilise their own cookies, which are not manageable through your browser settings but are used by the Flash Player for similar purposes, such as storing preferences or tracking users. Flash Cookies work in a different way to web browser cookies (the cookie types listed above are all set via your browser); rather than having individual cookies for particular jobs, a website is restricted to storing all data in one cookie. You can control how much data can be stored in that cookie but you cannot choose what type of information is allowed to be stored.
-  * **Secure cookie:** a secure cookie can only be transmitted over an encrypted connection (i.e. HTTPS). They cannot be transmitted over unencrypted connections (i.e. HTTP). This makes the cookie less likely to be exposed to cookie theft via eavesdropping.
-  * **HttpOnly cookie:** a HttpOnly cookie cannot be accessed by client-side APIs, such as JavaScript. This restriction eliminates the threat of cookie theft via cross-site scripting (XSS). However, the cookie remains vulnerable to cross-site tracing (XST) and cross-site request forgery (XSRF) attacks. A cookie is given this characteristic by adding the HttpOnly flag to the cookie.
-  * **SameSite cookie:** Google Chrome 51 recently introduced a new kind of cookie which can only be sent in requests originating from the same origin as the target domain. This restriction mitigates attacks such as cross-site request forgery (XSRF). A cookie is given this characteristic by adding the SameSite flag to the cookie.
-  * **Zombie cookie:** A zombie cookie is a cookie that is automatically recreated after being deleted. This is accomplished by storing the cookie’s content in multiple locations, such as Flash Local shared object, HTML5 Web storage, and other client-side and even server-side locations. When the cookie’s absence is detected, the cookie is recreated using the data stored in these locations.
-
-
+You can excise your rights by contacting The KPI Institute via email at: [dataoffice@kpiinstitute.org](mailto:dataoffice@kpiinstitute.org). Also, we are happy to receive any other inquiries related to your personal data at the above-mentioned email address.
