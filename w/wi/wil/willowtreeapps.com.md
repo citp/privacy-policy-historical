@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willowtreeapps.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906004421id_/https%3A//willowtreeapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willowtreeapps.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404184204id_/https%3A//www.willowtreeapps.com/privacy-policy) for the most accurate reproduction.*
 
 # WillowTree | Privacy Policy
 
@@ -30,15 +30,15 @@ _**Third Party Providers**_
 
 We may work with third party providers to store and receive data, reports, and other user information sent by your browser or mobile device, including the pages you visit, your use of our website, your use of third party applications, and other information that we may use to analyze and improve the Service. These third parties may use both temporary and persistent cookies.
 
-These third party providers include, but are not limited to, Jobvite, Inspectlet, Google Analytics, Pardot, Vimeo, Embedly, Facebook, Twitter, and Salesforce. We work with them in the following ways:
+These third party providers include, but are not limited to, Greenhouse, Inspectlet, Google Analytics, Mail Chimp, Vimeo, Embedly, Facebook, Twitter, LinkedIn, and Salesforce. We work with them in the following ways:
 
-**Jobvite:** We use Jobvite to manage job listings and receive applications for them. (<http://www.jobvite.com/products/jobvite-hire/home-page-dashboard/>)
+**greenhouse:** We use Greenhouse to manage job listings and receive applications for them. (<http://www.greenhouse.io/>)
 
 **Inspectlet:** Inspectlet tracks IP addresses, session lengths, starting pages, and other information about user behavior on our website. (<http://www.inspectlet.com/>)
 
 **Google Analytics:** We use Remarketing with Google Analytics to allow third-party vendors, including Google, to show ads on websites across the Internet. Our website and third-party vendors, including Google, use first-party cookies such as the Google Analytics cookie, and third-party cookies, to inform, optimize, and serve ads based on someone’s past visits to our website and to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. (<https://www.google.com/analytics/#?modal_active=none>)
 
-**Pardot:** We use Pardot to improve our marketing efforts by tracking open rates for our emails and traffic to and from certain marketing campaign landing pages. (<http://www.pardot.com/solutions/b2b-marketing-automation/the-fyi-on-roi/>)
+**Mail Chimp:** We use Mail Chimp to improve our marketing efforts by tracking open rates for our emails and traffic to and from certain marketing campaign landing pages. (<https://mailchimp.com/>)
 
 **Vimeo:** We use Vimeo to host video on our site, and Vimeo offers us viewership information and statistics about the videos we publish. (<https://vimeo.com/stats>)
 
@@ -50,17 +50,18 @@ These third party providers include, but are not limited to, Jobvite, Inspectlet
 
 **Salesforce:** We use Salesforce to compile and track personal information for our newsletter and for customer outreach, among other direct contact methods. (<https://www.salesforce.com/products/sales-cloud/overview/?d=70130000000lzaAAAQ>)
 
+**LinkedIn:** We use LinkedIn to increase marketing and advertsing channels and recruit job candidates. (<https://www.linkedin.com/company/1099749/admin/>)
+
 The collection and storage of your data by these third party service providers, as well as information on whether and how you can opt out of their collection and storage of your data, is governed by their privacy policies, which can be accessed at these sites:
 
-Jobvite: <http://www.jobvite.com/privacy-policy/>  
+Greenhouse: <http://www.greenhouse.io/privacy-policy>  
 Inspectlet: <https://www.inspectlet.com/legal#privacy>  
 Google: <https://www.google.com/policies/privacy/>  
 Embedly: <http://embed.ly/legal/privacy>  
-Pardot: <http://www.pardot.com/company/legal/privacy-policy/>  
-Vimeo: <https://vimeo.com/privacy>  
+Mail Chimp: <https://mailchimp.com/legal/privacy/> Vimeo: <https://vimeo.com/privacy>  
 Salesforce: <https://www.salesforce.com/company/privacy/>  
 Facebook: <https://www.facebook.com/full_data_use_policy>  
-Twitter: <https://twitter.com/privacy?lang=en>
+Twitter: <https://twitter.com/privacy?lang=en> LinkedIn: <https://www.linkedin.com/legal/privacy-policy>
 
 _**Web Beacons**_
 
