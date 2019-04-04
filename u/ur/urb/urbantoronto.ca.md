@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbantoronto.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231092325id_/http%3A//urbantoronto.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbantoronto.ca privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404195025id_/http%3A//urbantoronto.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Toronto
 
