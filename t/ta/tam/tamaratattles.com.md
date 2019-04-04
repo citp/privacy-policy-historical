@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamaratattles.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229225654id_/http%3A//tamaratattles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaratattles.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404122134id_/http%3A//tamaratattles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy ~ Tamara Tattles
 
 **Our cookie policy**  
 In compliance with the European Union legislation, we inform you that our website will store some information about your preferences on your own computer inside a tiny file called a ‘cookie’.
