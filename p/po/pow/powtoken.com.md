@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powtoken.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218233136id_/https%3A//powtoken.com/POW_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powtoken.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404155241id_/https%3A//powtoken.com/POW_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # POWtoken.com Privacy Policy
 
