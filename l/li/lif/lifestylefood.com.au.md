@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylefood.com.au privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224030108id_/https%3A//www.lifestylefood.com.au/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylefood.com.au privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404130219id_/https%3A//www.lifestylefood.com.au/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Lifestyle
 
