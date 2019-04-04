@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buxnificent.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231201019id_/http%3A//www.buxnificent.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxnificent.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404175110id_/http%3A//www.buxnificent.com/policy.php) for the most accurate reproduction.*
 
 # Buxnificent - Magnificent Way To Earn
 
