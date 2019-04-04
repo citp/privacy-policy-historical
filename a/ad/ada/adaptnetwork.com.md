@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaptnetwork.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004045318id_/https%3A//www.adaptnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptnetwork.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404191302id_/https%3A//www.adaptnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ADAPT Network
 
@@ -114,4 +114,4 @@ If you have any complaint or query about our data practices, we would love to he
 
 From time to time we may change our privacy practices. The latest version of this policy will be posted here. If there is a material change to this policy that we plan to apply retroactively, we will notify you as required by law. Please check this page periodically for updates.
 
-Last updated: 12 June 2018.
+Last updated: 25 June 2019.
