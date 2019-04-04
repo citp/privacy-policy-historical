@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gisgeography.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802141951id_/https%3A//gisgeography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gisgeography.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404214819id_/https%3A//gisgeography.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GIS Geography
 
