@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130233031id_/https%3A//www.airtransat.com/en-CA/Legal-notice/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404232701id_/https%3A//www.airtransat.com/en-CA/Legal-notice/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Air Transat
 
@@ -196,6 +196,7 @@ In this respect, we specify that : (i) Canada has been recognized by the Europea
 To ensure that we can provide you with the products and services you have requested from us, we may need to disclose your personal information to trusted third parties, including: 
 
   * Regulatory authorities and law enforcement agencies such as immigration, customs, airport authorities, border security control for legal compliance and to ensure the safety of our customers, passengers and employees;
+  * In accordance with applicable laws, reservation, checking and boarding data collected from passengers (PNR/API) may be transmitted to national public services and competent authorities of a particular country (including, when applicable, France, in accordance with Article L232-7 of French Internal Security Code and under the conditions as defined in the Decret No 2014-1095 dated 26/09/2014);
   * Service providers, such as reservation agents, catering agents, travel service providers, freight providers, car rental or hotel providers and airport ground handling services to facilitate your travel and any other requests you have made;
   * Other passengers named on your booking as part of the online check-in process;
   * Technology service providers, whose systems we may use to, notably, process your booking and travel, enhance your customer experience, conduct customer surveys or provide you with personalized marketing communications on our behalf;
@@ -255,4 +256,4 @@ We will attempt to process your request within thirty (30) days of receipt there
 
 ### Updating of this Policy
 
-This Policy is subject to amendment in particular to account for the rapid evolution of the rules pertaining to protection of personal information and privacy. This version was last updated on November 19, 2018. Any new version will automatically come into effect as soon as it is published by Transat. Therefore, please visit Transat’s websites regularly for any modifications. 
+This Policy is subject to amendment in particular to account for the rapid evolution of the rules pertaining to protection of personal information and privacy. This version was last updated on March 11, 2019. Any new version will automatically come into effect as soon as it is published by Transat. Therefore, please visit Transat’s websites regularly for any modifications. 
