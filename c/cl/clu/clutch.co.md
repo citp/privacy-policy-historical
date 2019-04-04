@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clutch.co privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227153608id_/https%3A//clutch.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clutch.co privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404225022id_/https%3A//clutch.co/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Clutch.co
 
-**Last revised: May 22nd, 2018**
+**Last revised: January 29th, 2019**
 
 Principles of data protection
 
@@ -21,6 +21,7 @@ If you have any concern about providing information to us or having such informa
   * As part of the review submission process, we will collect your name, company name, phone number, and email address for our records, but this information will not be made available to the public.
   * For posted reviews, you will have the option to either remain anonymous (e.g., only your generic job title, company description, industry, company size, and location will be posted with your review) or attribute your comments by providing information such as your name, company name, project details, and your photo.  If you choose to attribute your review, you agree that we may publicly display such information in connection with your review through the Services.
   * When you complete a survey, your responses will remain anonymous, and we will only display the results along with a generic job title, department, industry, company size, and location.
+  * When you submit a project request form or consultation form, it is important to be as accurate as possible and list as much relevant information as possible. The more information you provide, the more appropriate will be the recommended Vendor matches for your project. We will need, at the least, your name, company name, project details, email contact details and preferred way for us to contact you. Please note that your email address, phone number, and other submitted information would be provided to the service providers as well as affiliate network and partner Vendors who may best fit your project needs.
 
 
 
