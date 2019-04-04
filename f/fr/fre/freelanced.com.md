@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelanced.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003020441id_/https%3A//www.freelanced.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelanced.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404020431id_/https%3A//www.freelanced.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Freelanced.com
 
@@ -32,4 +32,5 @@ Freelanced.com contains links to other websites and is not responsible for the p
 
 ## Children
 
-Freelanced.com is not directed toward children under age 13 and we do not knowingly collect information from children under age 13. If you are under 13, please do not submit any personally identifiable information to Freelanced.com. 
+Freelanced.com is not directed toward children under age 13 and we do not knowingly collect information from children under age 13. If you are under 13, please do not submit any personally identifiable information to Freelanced.com.  
+
