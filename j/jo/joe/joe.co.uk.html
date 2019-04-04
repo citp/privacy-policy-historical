@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joe.co.uk privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231040758id_/https%3A//www.joe.co.uk/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joe.co.uk privacy policy that was archived on 2019-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190404233030id_/https%3A//www.joe.co.uk/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="noscroll"><head>
 <title>Privacy Statement | JOE.co.uk</title>
@@ -11,229 +11,15 @@
 <meta name="news_keywords" content="JOE.co.uk, Man Stuff, Britain, British, News, Entertainment, Games, Gadgets, Sports, Music, Movies, Motors, Travel, Girls, Fitness">
 <meta property="fb:pages" content="365076723656400">
 <meta name="theme-color" content="#000">
-<link rel="icon" sizes="192x192" href="https://www.joe.co.uk/assets/images/joecouk/icon-highres.png?v=5">
+<link rel="icon" sizes="192x192" href="https://www.joe.co.uk/assets/images/joecouk/icon-highres.png?v=20">
 <script async="" type="text/javascript" src="https://static-uk.plista.com/async/PLISTA_OUTSTREAM.js"></script><script type="text/javascript" async="" src="https://p.cpx.to/p/12307/px.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" async="" src="https://quantcast.mgr.consensu.org/v2/cmp.js"></script>
-
-<script type="text/javascript" async="true">
-    (function() {
-        var gdprAppliesGlobally = false;
-        function addFrame() {
-            if (!window.frames['__cmpLocator']) {
-                if (document.body) {
-                    var body = document.body,
-                        iframe = document.createElement('iframe');
-                    iframe.style = 'display:none';
-                    iframe.style.cssText = 'display:none;';
-                    iframe.name = '__cmpLocator';
-                    body.appendChild(iframe);
-                } else {
-                    // In the case where this stub is located in the head,
-                    // this allows us to inject the iframe more quickly than
-                    // relying on DOMContentLoaded or other events.
-                    setTimeout(addFrame, 5);
-                }
-            }
-        }
-        addFrame();
-        function cmpMsgHandler(event) {
-            var msgIsString = typeof event.data === "string";
-            var json;
-            if(msgIsString) {
-                json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
-            } else {
-                json = event.data;
-            }
-            if (json.__cmpCall) {
-                var i = json.__cmpCall;
-                window.__cmp(i.command, i.parameter, function(retValue, success) {
-                    var returnMsg = {"__cmpReturn": {
-                        "returnValue": retValue,
-                        "success": success,
-                        "callId": i.callId
-                    }};
-                    event.source.postMessage(msgIsString ?
-                    JSON.stringify(returnMsg) : returnMsg, '*');
-                });
-            }
-        }
-        window.__cmp = function (c) {
-            var b = arguments;
-            if (!b.length) {
-                return __cmp.a;
-            }
-            else if (b[0] === 'ping') {
-                b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
-                "cmpLoaded": false}, true);
-            } else if (c == '__cmp')
-                return false;
-            else {
-                if (typeof __cmp.a === 'undefined') {
-                    __cmp.a = [];
-                }
-                __cmp.a.push([].slice.apply(b));
-            }
-        }
-        window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
-        window.__cmp.msgHandler = cmpMsgHandler;
-        if (window.addEventListener) {
-            window.addEventListener('message', cmpMsgHandler, false);
-        }
-        else {
-            window.attachEvent('onmessage', cmpMsgHandler);
-        }
-    })();
-    // It seems this function only executes once if you click on revoke link this
-    // code dont executes.
-    window.__cmp('setConsentUiCallback', function() {
-        window.__cmp('getPublisherConsents', [], function(c,s) {
-            // Send Facebook pixel tracking on consent grant
-            var triggerFbPixel = (consentManager.getCookie('pubconsent') == ""  || isEmpty(consentManager.getPublisherConsents.getPublisherConsents)) ? true : false;
-            consentManager.setConsents('publisher', c);
-                            if (!consentManager.sentEventPixel && triggerFbPixel && consentManager.isAllowed('facebook')) {
-                    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '1294117580618248');
-fbq('track', "PageView");
-fbq('track', 'ViewContent');
-
-                    consentManager.sentEventPixel = true;
-                }
-                    });
-        window.__cmp('getVendorConsents', [], function(c,s) {consentManager.setConsents('vendor', c)});
-        window.__cmp('getConsentData', null, function (result) {
-            consentManager.setConsentString(result.consentData);
-        });
-    });
-
-    var referrer = document.createElement('a');
-    referrer.href = document.referrer;
-    if (isSocialMediaReferrer(referrer.hostname) === false) {
-        window.__cmp('init', {
-            'Display UI': 'inEU',
-            'Consent Scope': 'global',
-            'Default Value for Toggles': 'on',
-            'Publisher Purpose IDs': [1, 3, 5],
-            'Min Days Between UI Displays': 21,
-            'Publisher Name': 'JOE Media',
-            'Initial Screen Title Text': 'We value your privacy',
-            'Initial Screen Body Text': 'JOE and our carefully selected partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic to provide the best experience possible.  Click below to consent to the use of this technology by JOE Media and these 3rd parties on our site. You can change your mind and revisit your consent choices at anytime by returning to this site.',
-            'No Option': true,
-            'Non-Consent Display Frequency': 30,
-            'Initial Screen Accept Button Text': 'I Agree',
-            'Initial Screen Purpose Link Text': 'Settings',
-            'Purpose Screen Header Title Text': 'Manage Page',
-            'Purpose Screen Title Text': 'Purposes For Which We Use Your Data',
-            'Purpose Screen Body Text': 'We at JOE (and our very carefully selected partners) use technology such as cookies on our site to  create a personalized experience for you with our content and ads you see,  Click below to consent to the use of this technology by JOE Media and our partners on our site. You can change your mind and revisit your consent choices at anytime by returning here.',
-            'Purpose Screen Enable All Button Text': 'Enable all purposes',
-            'Purpose Screen Vendor Link Text': 'See full vendor list',
-            'Purpose Screen Cancel Button Text': 'Cancel',
-            'Purpose Screen Save and Exit Button Text': 'Save & Exit',
-            'Vendor Screen Title Text': 'We value your privacy',
-            'Vendor Screen Body Text': 'We at JOE (and our very carefully selected partners) use technology such as cookies on our site to  create a personalized experience for you with our content and ads you see,  Click below to consent to the use of this technology by JOE Media and our partners on our site. You can change your mind and revisit your consent choices at anytime by returning here.',
-            'Vendor Screen Reject All Button Text': 'Reject All',
-            'Vendor Screen Accept All Button Text': 'Accept All',
-            'Vendor Screen Purposes Link Text': 'Back to purposes',
-            'Vendor Screen Cancel Button Text': 'Cancel',
-            'Vendor Screen Save and Exit Button Text': 'Save & Exit',
-            'Display Persistent Consent Link': false,
-            'UI Layout': 'banner'
-        });
-    }
-
-    function isSocialMediaReferrer(referrer) {
-        var facebook = new RegExp('(.*?)facebook(.*?)');
-        var instagram = new RegExp('(.*?)instagram(.*?)');
-        var twitter = new RegExp('(.*?)twitter(.*?)');
-
-        if (facebook.exec(referrer) != null) {
-            return true;
-        } else if (instagram.exec(referrer) != null) {
-            return true;
-        } else if (twitter.exec(referrer) != null) {
-            return true;
-        } else if (referrer == 't.co') {
-            return true;
-        }
-        return false
-    }
-
-    function isEmpty(obj) {
-        for(var prop in obj) {
-            if (obj.hasOwnProperty(prop))
-                return false;
-        }
-
-        return JSON.stringify(obj) === JSON.stringify({});
-    }
-</script>
-
-<meta property="og:title" content="Privacy Statement | JOE.co.uk">
-<meta property="og:description" content="Privacy Statement">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://www.joe.co.uk/privacy-statement">
-<meta property="og:site_name" content="JOE.co.uk">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@JOE_co_uk">
-<meta name="twitter:url" content="https://www.joe.co.uk/privacy-statement">
-<meta name="twitter:title" content="Privacy Statement | JOE.co.uk">
-<meta name="twitter:description" content="Privacy Statement">
-<meta name="twitter:app:country" content="IE">
-<meta name="twitter:app:name:iphone" content="JOE.co.uk - The Voice of British Men">
-<meta name="twitter:app:id:iphone" content="1290769207">
-<meta name="twitter:app:name:android" content="JOE.co.uk - The Voice of British Men">
-<meta name="twitter:app:id:ipad" content="1082297524">
-<meta name="twitter:app:name:googleplay" content="JOE.co.uk - The Voice of British Men">
-<meta name="twitter:app:id:googleplay" content="uk.co.joe.app">
-<meta name="apple-itunes-app" content="app-id=1290769207">
-<meta name="google-play-app" content="app-id=uk.co.joe.app">
-<script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "NewsArticle",
-        "headline": "Privacy Statement",
-        "url": "https://www.joe.co.uk/uncategorized/privacy-statement-5",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.joe.co.uk/uncategorized/privacy-statement-5"
-        },
-        "dateCreated": "2015-01-26T11:08:09+00:00",
-        "datePublished": "2015-01-26T11:08:09+00:00",
-        "dateModified": "2018-08-14T15:31:40+01:00",
-                    "thumbnailUrl": "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIixcIndpZHRoXCI6NjQ3LFwiaGVpZ2h0XCI6MzQwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6ImRlYjZkOWJiOTc5NzM5N2M3NTYxZTMxMzZiOWFiNDU3NjhjODU5ZWUifQ==/no-image.png?v=5",
-            "image": {
-                "@type": "ImageObject",
-                "url": "https://www.joe.co.uk/assets/images/joecouk/no-image.png?v=5",
-                "width": 700,
-                "height": 370
-            },
-                        "author": [
-            {
-                "@type": "Person",
-                "name": "JOE.co.uk"
-            }
-        ],
-        "publisher" : {
-            "@type" : "Organization",
-            "name" : "JOE.co.uk",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://www.joe.co.uk/assets/images/joecouk/new-wide-logo.png?v=1",
-                "width": 600,
-                "height": 60
-            }
-        }
-    }
-</script>
 <script>
 var consentManager = {
     publisherCookieName: 'pubconsent',
     vendorCookieName: 'vendorconsent',
     // This will prevent send several fb track events on consent revoke and grant
-    sentEventPixel: false,
+    sentEventFbPixel: false,
+    sentEventTwPixel: false,
 
     setCookie: function(name, value, expiry_days) {
         var d = new Date();
@@ -274,7 +60,7 @@ var consentManager = {
         } else if (name == 'dfp' || name == 'permutive') {
             var consented = (pubConsent.standardPurposeConsents[1] && pubConsent.standardPurposeConsents[3]);
             return (!isNaN(consented) && consented);
-        } else if (name == 'facebook') {
+        } else if (name == 'facebook' || name =='twitter') {
             return pubConsent.standardPurposeConsents[5];
         }
 
@@ -366,6 +152,10 @@ var consentManager = {
         return JSON.parse(cookie);
     },
 
+    hasBeenProcessed: function() {
+        return (this.getCookie(this.publisherCookieName).length + this.getCookie(this.vendorCookieName).length > 0);
+    },
+
     /**
      * Are we serving non-personalised ads?
      * DFP syntax requires true for non-personalised, but we have isAllowed above.
@@ -407,66 +197,280 @@ var consentManager = {
         return JSON.parse(cookie);
     },
 
-    /**
-     * In-app sandboxes and cookie blocking can cause persistent CMP nagging. Treat as
-     * "no consent" in those cases
-     */
-    isPromptable: function() {
-        if (this.isFromAmpPage() && !this.getCookie('noCmpNeeded').length) {
-            document.cookie = "noCmpNeeded=1; path=/";
-        }
-        return navigator.cookieEnabled && !this.isFromTwitterMobile() && !this.isFromFacebookMobile() && !this.isFromAmpPage() && !this.getCookie('noCmpNeeded').length;
-    },
     isFromAmpPage: function () {
-        var regex = new RegExp("^https?://("+_maximummedia.url_sitemode+")/amp/(.*?)-([0-9]+$)", 'i');
+        var regex = new RegExp("https?://(.*?)/amp/(.*?)-([0-9]+)(.*)", 'i');
         return document.referrer.match(regex);
     },
-    isFromTwitterMobile: function () {
-        return document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i) && this.isMobileDevice();
+    isSocialMediaReferrer: function(referrer) {
+        var twitter = new RegExp('(.*?)twitter(.*?)');
+
+        if (twitter.exec(referrer) != null) {
+            return true;
+        } else if (referrer == 't.co') {
+            return true;
+        }
+        return false
     },
-    isFromFacebookMobile: function () {
-        return document.referrer.match(/^https?:\/\/m\.facebook\.(com$|com\/$)/i) && this.isMobileDevice();
+
+    renderAds: function() {
+        if (window.cmp_processed) {
+            return;
+        }
+        if (typeof(googletag.pubads()) === "undefined") {
+            setTimeout(self.renderAds, 250);
+            return;
+        }
+
+        googletag.pubads().setRequestNonPersonalizedAds(consentManager.isServingNonPersonalisedAds());
+        googletag.pubads().refresh();
+        window.cmp_processed = true;
     },
-    isMobileDevice: function() {
-        return navigator.userAgent.match(/Android/i)
-            || navigator.userAgent.match(/webOS/i)
-            || navigator.userAgent.match(/iPhone/i)
-            || navigator.userAgent.match(/iPad/i)
-            || navigator.userAgent.match(/iPod/i)
-            || navigator.userAgent.match(/BlackBerry/i)
-            || navigator.userAgent.match(/Windows Phone/i);
-    },
-    /**
-     * This will allow to know if user is InEU or not
-     * The *gdprApplies *field will be true if the user is determined (by geo-IP lookup) to be in the EU,
-     * or the publisher has configured the CMP
-     */
-    isOutEU: function() {
-        return !this.getVendorConsents().gdprApplies;
+
+    isEligible: function () {
+        var self = this;
+
+        var referrer = document.createElement('a');
+        referrer.href = document.referrer;
+        if ((self.isSocialMediaReferrer(referrer.hostname) && self.getCookie('social_referer') === "") ||
+            self.isFromAmpPage()) {
+            self.setCookie('social_referer', referrer.hostname, 7);
+        }
+
+        return (self.isSocialMediaReferrer(referrer.hostname) === false
+            && self.getCookie('social_referer') === "");
     }
 };
+window.consentManager = consentManager;
 </script>
-<script>
+
+<script type="text/javascript" async="true">
+    (function() {
+        var gdprAppliesGlobally = false;
+        function addFrame() {
+            if (!window.frames['__cmpLocator']) {
+                if (document.body) {
+                    var body = document.body,
+                        iframe = document.createElement('iframe');
+                    iframe.style = 'display:none';
+                    iframe.style.cssText = 'display:none;';
+                    iframe.name = '__cmpLocator';
+                    body.appendChild(iframe);
+                } else {
+                    // In the case where this stub is located in the head,
+                    // this allows us to inject the iframe more quickly than
+                    // relying on DOMContentLoaded or other events.
+                    setTimeout(addFrame, 5);
+                }
+            }
+        }
+        addFrame();
+        function cmpMsgHandler(event) {
+            var msgIsString = typeof event.data === "string";
+            var json;
+            if(msgIsString) {
+                json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+            } else {
+                json = event.data;
+            }
+            if (json.__cmpCall) {
+                var i = json.__cmpCall;
+                window.__cmp(i.command, i.parameter, function(retValue, success) {
+                    var returnMsg = {"__cmpReturn": {
+                        "returnValue": retValue,
+                        "success": success,
+                        "callId": i.callId
+                    }};
+                    event.source.postMessage(msgIsString ?
+                    JSON.stringify(returnMsg) : returnMsg, '*');
+                });
+            }
+        }
+        window.__cmp = function (c) {
+            var b = arguments;
+            if (!b.length) {
+                return __cmp.a;
+            }
+            else if (b[0] === 'ping') {
+                b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
+                "cmpLoaded": false}, true);
+            } else if (c == '__cmp')
+                return false;
+            else {
+                if (typeof __cmp.a === 'undefined') {
+                    __cmp.a = [];
+                }
+                __cmp.a.push([].slice.apply(b));
+            }
+        }
+        window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+        window.__cmp.msgHandler = cmpMsgHandler;
+        if (window.addEventListener) {
+            window.addEventListener('message', cmpMsgHandler, false);
+        }
+        else {
+            window.attachEvent('onmessage', cmpMsgHandler);
+        }
+    })();
+    // It seems this function only executes once if you click on revoke link this
+    // code dont executes.
+    window.__cmp('setConsentUiCallback', function() {
+        if (!window.cmp_processed) {
+            consentManager.renderAds();
+        }
+
+        window.__cmp('getPublisherConsents', [], function(c,s) {
+            // Send Facebook or Twitter pixel tracking on consent grant
+            var triggerPixel = (consentManager.getCookie('pubconsent') == ""  || isEmpty(consentManager.getPublisherConsents.getPublisherConsents)) ? true : false;
+            consentManager.setConsents('publisher', c);
+                            if (!consentManager.sentEventPixel && triggerPixel && consentManager.isAllowed('facebook')) {
+                    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1294117580618248');
+fbq('track', "PageView");
+fbq('track', 'ViewContent');
+
+                    consentManager.sentEventFbPixel = true;
+                }
+                                        if (!consentManager.sentEventTwPixel && triggerPixel && consentManager.isAllowed('twitter')) {
+                    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','o1f6l');
+twq('track','PageView');                    consentManager.sentEventTwPixel = true;
+                 }
+                     });
+        window.__cmp('getVendorConsents', [], function(c,s) {consentManager.setConsents('vendor', c)});
+        window.__cmp('getConsentData', null, function (result) {
+            consentManager.setConsentString(result.consentData);
+        });
+    });
+
+    if (consentManager.isEligible()) {
+        window.__cmp('init', {
+            'Display UI': 'inEU',
+            'Consent Scope': 'global',
+            'Default Value for Toggles': 'on',
+            'Publisher Purpose IDs': [1, 3, 5],
+            'Min Days Between UI Displays': 21,
+            'Publisher Name': 'JOE Media',
+            'Initial Screen Title Text': 'We value your privacy',
+            'Initial Screen Body Text': 'JOE and our carefully selected partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic to provide the best experience possible.  Click below to consent to the use of this technology by JOE Media and these 3rd parties on our site. You can change your mind and revisit your consent choices at anytime by returning to this site.',
+            'No Option': true,
+            'Non-Consent Display Frequency': 30,
+            'Initial Screen Accept Button Text': 'I Agree',
+            'Initial Screen Purpose Link Text': 'Settings',
+            'Purpose Screen Header Title Text': 'Manage Page',
+            'Purpose Screen Title Text': 'Purposes For Which We Use Your Data',
+            'Purpose Screen Body Text': 'We at JOE (and our very carefully selected partners) use technology such as cookies on our site to  create a personalized experience for you with our content and ads you see,  Click below to consent to the use of this technology by JOE Media and our partners on our site. You can change your mind and revisit your consent choices at anytime by returning here.',
+            'Purpose Screen Enable All Button Text': 'Enable all purposes',
+            'Purpose Screen Vendor Link Text': 'See full vendor list',
+            'Purpose Screen Cancel Button Text': 'Cancel',
+            'Purpose Screen Save and Exit Button Text': 'Save & Exit',
+            'Vendor Screen Title Text': 'We value your privacy',
+            'Vendor Screen Body Text': 'We at JOE (and our very carefully selected partners) use technology such as cookies on our site to  create a personalized experience for you with our content and ads you see,  Click below to consent to the use of this technology by JOE Media and our partners on our site. You can change your mind and revisit your consent choices at anytime by returning here.',
+            'Vendor Screen Reject All Button Text': 'Reject All',
+            'Vendor Screen Accept All Button Text': 'Accept All',
+            'Vendor Screen Purposes Link Text': 'Back to purposes',
+            'Vendor Screen Cancel Button Text': 'Cancel',
+            'Vendor Screen Save and Exit Button Text': 'Save & Exit',
+            'Display Persistent Consent Link': false,
+            'UI Layout': 'banner'
+        });
+    }
+
+    function isEmpty(obj) {
+        for(var prop in obj) {
+            if (obj.hasOwnProperty(prop))
+                return false;
+        }
+
+        return JSON.stringify(obj) === JSON.stringify({});
+    }
+</script>
+
+<meta property="og:title" content="Privacy Statement | JOE.co.uk">
+<meta property="og:description" content="Privacy Statement">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.joe.co.uk/privacy-statement">
+<meta property="og:site_name" content="JOE.co.uk">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@JOE_co_uk">
+<meta name="twitter:url" content="https://www.joe.co.uk/privacy-statement">
+<meta name="twitter:title" content="Privacy Statement | JOE.co.uk">
+<meta name="twitter:description" content="Privacy Statement">
+<meta name="twitter:app:country" content="IE">
+<meta name="twitter:app:name:iphone" content="JOE.co.uk - The Voice of British Men">
+<meta name="twitter:app:id:iphone" content="1290769207">
+<meta name="twitter:app:name:android" content="JOE.co.uk - The Voice of British Men">
+<meta name="twitter:app:id:ipad" content="1082297524">
+<meta name="twitter:app:name:googleplay" content="JOE.co.uk - The Voice of British Men">
+<meta name="twitter:app:id:googleplay" content="uk.co.joe.app">
+<meta name="apple-itunes-app" content="app-id=1290769207"> <meta name="google-play-app" content="app-id=uk.co.joe.app">
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Privacy Statement",
+        "url": "https://www.joe.co.uk/uncategorized/privacy-statement-5",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.joe.co.uk/uncategorized/privacy-statement-5"
+        },
+        "dateCreated": "2015-01-26T11:08:09+00:00",
+        "datePublished": "2015-01-26T11:08:09+00:00",
+        "dateModified": "2018-08-14T15:31:40+00:00",
+                    "thumbnailUrl": "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiOTZmYjU1NmI5Y2UyZTAzMGU4ZDY2OWJkYmE3ODdlNGRhZGYzN2ZhOSJ9/no-image.png?v=22",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.joe.co.uk/assets/images/joecouk/no-image.png?v=22",
+                "width": 700,
+                "height": 370
+            },
+                        "author": [
+            {
+                "@type": "Person",
+                "name": "JOE.co.uk"
+            }
+        ],
+        "publisher" : {
+            "@type" : "Organization",
+            "name" : "JOE.co.uk",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.joe.co.uk/assets/images/joecouk/new-wide-logo.png?v=3",
+                "width": 600,
+                "height": 60
+            }
+        }
+    }
+</script> <script>
+!function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"8f5753e7-35e9-4185-92d3-34cc76541d45","a8706dfe-856a-483f-8d0f-1f45efb24d33",{});
 if (consentManager.isAllowed('permutive')) {
-    !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"8f5753e7-35e9-4185-92d3-34cc76541d45","a8706dfe-856a-483f-8d0f-1f45efb24d33",{});
     var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
     var dayOfWeek = days[new Date().getDay()];
-    permutive.addon("web", { page: {
-    context: {
-        day_of_week: dayOfWeek,
-    },
-            trending_bar:         [ "Sport",  "Football",  "Netflix",  "Liverpool",  "Manchester United",  "UFC",  "Premier League",  "TV",  "Paul Pogba",  "UFC 232", ],
-    
-        watson_categories:        "$alchemy_taxonomy_labels",
-        }});
+    permutive.addon("web", {
+        page: {
+            context: {
+                day_of_week: dayOfWeek
+            }
+                            ,trending_bar:         [ "Sport",  "Football",  "TV",  "Manchester United",  "Game of Thrones",  "News",  "UFC",  "Fitness and Health",  "Entertainment",  "Conor McGregor", ]
+            
+            
+            ,watson_categories:        "$alchemy_taxonomy_labels"
+                    }
+    });
 }
 </script>
 <script async="" src="https://cdn.permutive.com/8f5753e7-35e9-4185-92d3-34cc76541d45-web.js"></script>
-<link rel="canonical" href="https://www.joe.co.uk/privacy-statement">
-<link rel="shortcut icon" type="image/x-icon" href="https://www.joe.co.uk/assets/joecouk.favicon.ico?v=10">
-<link rel="apple-touch-icon" href="https://www.joe.co.uk/assets/joecouk.appletouchicon.png?v=4">
-<link media="all" type="text/css" rel="stylesheet" href="https://www.joe.co.uk/assets/css/joecouk/main.min-39e9f46a.css">
-<script type="text/javascript" src="//ads.rubiconproject.com/prebid/test-14278.js"></script>
+<link rel="canonical" href="https://www.joe.co.uk/privacy-statement"> <link rel="shortcut icon" type="image/x-icon" href="https://www.joe.co.uk/assets/joecouk.favicon.ico?v=20">
+<link rel="apple-touch-icon" href="https://www.joe.co.uk/assets/joecouk.appletouchicon.png?v=20">
+<link media="all" type="text/css" rel="stylesheet" href="https://www.joe.co.uk/assets/css/joecouk/main.min-fd9b0c8e.css">
+<script type="text/javascript" src="https://www.joe.co.uk/assets/js/prebid2.3.0.js"></script>
 <script>
         !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
     </script>
@@ -556,7 +560,7 @@ if (consentManager.isAllowed('permutive')) {
                         "placementId": "12768394"
                     }
                 },{
-                    "bidder": "appnexusAst",
+                    "bidder": "pxyz",
                     "params": {
                         "placementId": "12812989"
                     }
@@ -600,7 +604,7 @@ if (consentManager.isAllowed('permutive')) {
                         "placementId": "12768394"
                     }
                 },{
-                    "bidder": "appnexusAst",
+                    "bidder": "pxyz",
                     "params": {
                         "placementId": "12812989"
                     }
@@ -638,7 +642,7 @@ if (consentManager.isAllowed('permutive')) {
                         "placementId": "12768394"
                     }
                 },{
-                    "bidder": "appnexusAst",
+                    "bidder": "pxyz",
                     "params": {
                         "placementId": "12812989"
                     }
@@ -725,13 +729,17 @@ if (consentManager.isAllowed('permutive')) {
     };
 </script>
 <script>
+
     var _maximummedia = _maximummedia || [];
     _maximummedia.sitemode = 'joecouk';
     _maximummedia.title = 'JOE.co.uk';
     _maximummedia.dfp = '247211819';
     _maximummedia.url_sitemode = 'www.joe.co.uk';
-    _maximummedia.track_pixel_on_grant = '1';
-    _maximummedia.pixel = '1294117580618248';
+    _maximummedia.track_fb_pixel_on_grant = '1';
+    _maximummedia.fb_pixel = '1294117580618248';
+    _maximummedia.track_tw_pixel_on_grant = '1';
+    _maximummedia.tw_pixel = 'o1f6l';
+
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "9608406" });
     if (consentManager.isAllowed('comscore')) {
@@ -743,15 +751,28 @@ if (consentManager.isAllowed('permutive')) {
     }
 
 
+
     (function (i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function () {
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 ga('create', 'UA-58876971-1', 'auto');
+ga('create', 'UA-59690484-5', 'auto', 'groupTracker');
+
 ga('require', 'displayfeatures');
+ga('groupTracker.require', 'displayfeatures');
+
+
+
             ga('set', 'dimension4', 'web');
-    ga('set', 'anonymizeIp', true);
+        ga('groupTracker.set', 'dimension4', 'web');
+            ga('set', 'anonymizeIp', true);
+ga('groupTracker.set', 'anonymizeIp', true);
 ga('send', 'pageview');
+ga('groupTracker.send', 'pageview');
+
+
+
 
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
@@ -762,7 +783,8 @@ ga('send', 'pageview');
         googletag.pubads().setTargeting('advelvet', advelvetTargeting);
     });
 
-                googletag.cmd.push(function() {
+    
+            googletag.cmd.push(function() {
             googletag.pubads().disableInitialLoad();
         });
     
@@ -782,9 +804,11 @@ ga('send', 'pageview');
     var dfp_mappings = new Object();
     var dfp_placements = new Object();
 
-        
+    
+    
     var socref = '';
-        if (document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i)) {
+    
+    if (document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i)) {
         socref = 'twitter';
     } else if (document.referrer.match(/^((https?)|(android-app?)):\/\/([^\/]+\.)?facebook\.com(\/|$)/i)) {
         socref = 'facebook';
@@ -793,6 +817,11 @@ ga('send', 'pageview');
         dfp_targets.socref = socref;
     }
 
+    
+    window.cmp_processed = true;
+    window.dfp_refresh_required = false;
+
+    
     googletag.cmd.push(function () {
 
         //Skin Mapping
@@ -824,11 +853,13 @@ ga('send', 'pageview');
             .addService(googletag.pubads());
     }
 
-        
+    
+    
             googletag.placement.article_inline_video = googletag.defineOutOfPageSlot('/247211819/joecouk_article_inline_video', 'div-gpt-article_inline_video')
             .addService(googletag.pubads());
     
-        
+    
+    
                     // If >= 768 AND < 992
             // Top sidebar only fired on initial load for desktop
             if (window.matchMedia("only screen and (min-width: 768px) and (max-width: 1199px)").matches) {
@@ -859,11 +890,13 @@ ga('send', 'pageview');
                 .addService(googletag.pubads());
         }
 
-                
+        
+        
                                                         dfp_targets.page = "article";
                                                                 dfp_targets.article = "5";
                                     
-                
+        
+        
         dfp_targets.consent_string = consentManager.getConsentString();
 
         for (var key in dfp_targets) {
@@ -872,6 +905,7 @@ ga('send', 'pageview');
             }
         }
 
+        
         googletag.pubads().enableSingleRequest();
 
         googletag.pubads().setRequestNonPersonalizedAds(consentManager.isServingNonPersonalisedAds());
@@ -881,7 +915,8 @@ ga('send', 'pageview');
 
         googletag.enableServices();
 
-                var renderCallback = function(event) {
+        
+        var renderCallback = function(event) {
             if (googletag.placement.top_page == event.slot) {
                 setTimeout(function(){
                     if ($('html, body').hasClass('noscroll')) {
@@ -901,7 +936,7 @@ ga('send', 'pageview');
 <script>
     //Send all bids into DFP
     pbjs.que.push(function() {
-        pbjs.enableSendAllBids();
+        pbjs.setConfig({ enableSendAllBids: true });
     });
 
     //set APS config
@@ -1023,7 +1058,7 @@ function fetchHeaderBids(apstagSlots) {
                     enableSendAllBids: true,
                     priceGranularity: customGranularity,
                     userSync: {
-                        enabledBidders: ['rubicon','appnexus'],
+                        enabledBidders: ['rubicon','appnexus', 'teads', 'pxyz'],
                         iframeEnabled: true
                     },
                     consentManagement: {
@@ -1039,6 +1074,7 @@ function fetchHeaderBids(apstagSlots) {
                     pbjs.addAdUnits(requestManager.adUnits);
                     pbjs.requestBids({
                         bidsBackHandler: function (bidResponses) {
+                            console.log(bidResponses);
                             headerBidderBack('prebid');
                         }
                     });
@@ -1077,7 +1113,19 @@ fbq('init', '1294117580618248');
 fbq('track', "PageView");
 fbq('track', 'ViewContent');
 
-        consentManager.sentEventPixel = true;
+        consentManager.sentEventFbPixel = true;
+    }
+    </script>
+
+
+<script>
+    if (consentManager.isAllowed('twitter')) {
+        !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','o1f6l');
+twq('track','PageView');        consentManager.sentEventTwPixel = true;
     }
     </script>
 
@@ -1086,8 +1134,10 @@ fbq('track', 'ViewContent');
     var captify_kw_query_12307 = "";
 
     (function(c,a,p,t,i,f,y){i=c.createElement(a);t=c.getElementsByTagName(a)[0];i.type='text/javascript';i.async=true;i.src=p;t.parentNode.insertBefore(i,t);})(document,'script','https://p.cpx.to/p/12307/px.js');
-</script> </head>
-<body class=" article-page  noscroll  maximummedia ">
+</script> <script src="https://cdn.jwplayer.com/libraries/whr3ckBw.js"></script>
+</head>
+<body class=" article-page  noscroll
+     maximummedia ">
 <div class="search-block">
 <div class="container">
 <form action="https://www.joe.co.uk/search" method="POST" class="search-form">
@@ -1104,8 +1154,7 @@ fbq('track', 'ViewContent');
 <div class="logo">
 <a href="https://www.joe.co.uk?ref=logo">
 <figure>
-<img src="https://www.joe.co.uk/assets/images/joecouk/main-logo.svg?v=3" alt="joecouk">
-</figure>
+<img src="https://www.joe.co.uk/assets/images/joecouk/main-logo.svg?v=21" alt="joecouk"> </figure>
 </a>
 </div>
 <a class="nav-opener"><span></span></a>
@@ -1130,7 +1179,7 @@ fbq('track', 'ViewContent');
 <a href="https://www.joe.co.uk/entertainment">Entertainment</a>
 </li>
 <li class="visible-xs ">
-<a href="https://www.joe.co.uk/podcasts">Podcasts</a>
+<a href="https://www.joe.co.uk/shows">Shows</a>
 </li>
 <li class="visible-xs ">
 <a href="https://www.joe.co.uk/fitness-health">Fitness &amp; Health</a>
@@ -1187,7 +1236,7 @@ fbq('track', 'ViewContent');
 <a href="https://www.joe.co.uk/entertainment">Entertainment</a>
 </li>
 <li class="hidden-md hidden-xs ">
-<a href="https://www.joe.co.uk/podcasts">Podcasts</a>
+<a href="https://www.joe.co.uk/shows">Shows</a>
 </li>
 <li class="hidden-xs">
 <div class="dropdown">
@@ -1212,7 +1261,7 @@ MORE
 </div>
 </li>
 </ul>
-<div class="navigation-trending">
+<div class="navigation-trending ">
 <ul class="trend list-unstyled ">
 <li class="trending-item text-uppercase">trending: </li>
 <li class="text-capitalize">
@@ -1228,15 +1277,9 @@ Football
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-netflix"></span>
-<a href="https://www.joe.co.uk/joe/netflix" class="analytics tag-netflix" data-category="Nav clicks" data-label="Trending Tags" data-value="Netflix">
-Netflix
-</a>
-</li>
-<li class="text-capitalize">
-<span class="tag-icon tag-icon-liverpool"></span>
-<a href="https://www.joe.co.uk/joe/liverpool" class="analytics tag-liverpool" data-category="Nav clicks" data-label="Trending Tags" data-value="Liverpool">
-Liverpool
+<span class="tag-icon tag-icon-tv"></span>
+<a href="https://www.joe.co.uk/joe/tv" class="analytics tag-tv" data-category="Nav clicks" data-label="Trending Tags" data-value="TV">
+TV
 </a>
 </li>
 <li class="text-capitalize">
@@ -1245,34 +1288,40 @@ Liverpool
 Manchester United
 </a>
 </li>
- <li class="text-capitalize">
+<li class="text-capitalize">
+<span class="tag-icon tag-icon-game-of-thrones"></span>
+<a href="https://www.joe.co.uk/joe/game-of-thrones" class="analytics tag-game-of-thrones" data-category="Nav clicks" data-label="Trending Tags" data-value="Game of Thrones">
+Game of Thrones
+</a>
+</li>
+<li class="text-capitalize">
+<span class="tag-icon tag-icon-news"></span>
+<a href="https://www.joe.co.uk/joe/news" class="analytics tag-news" data-category="Nav clicks" data-label="Trending Tags" data-value="News">
+News
+</a>
+</li>
+<li class="text-capitalize">
 <span class="tag-icon tag-icon-ufc"></span>
 <a href="https://www.joe.co.uk/joe/ufc" class="analytics tag-ufc" data-category="Nav clicks" data-label="Trending Tags" data-value="UFC">
 UFC
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-premier-league"></span>
-<a href="https://www.joe.co.uk/joe/premier-league" class="analytics tag-premier-league" data-category="Nav clicks" data-label="Trending Tags" data-value="Premier League">
-Premier League
+<span class="tag-icon tag-icon-fitness-and-health"></span>
+<a href="https://www.joe.co.uk/joe/fitness-and-health" class="analytics tag-fitness-and-health" data-category="Nav clicks" data-label="Trending Tags" data-value="Fitness and Health">
+Fitness and Health
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-tv"></span>
-<a href="https://www.joe.co.uk/joe/tv" class="analytics tag-tv" data-category="Nav clicks" data-label="Trending Tags" data-value="TV">
-TV
+<span class="tag-icon tag-icon-entertainment"></span>
+<a href="https://www.joe.co.uk/joe/entertainment" class="analytics tag-entertainment" data-category="Nav clicks" data-label="Trending Tags" data-value="Entertainment">
+Entertainment
 </a>
 </li>
 <li class="text-capitalize">
-<span class="tag-icon tag-icon-paul-pogba"></span>
-<a href="https://www.joe.co.uk/joe/paul-pogba" class="analytics tag-paul-pogba" data-category="Nav clicks" data-label="Trending Tags" data-value="Paul Pogba">
-Paul Pogba
-</a>
-</li>
-<li class="text-capitalize">
-<span class="tag-icon tag-icon-ufc-232"></span>
-<a href="https://www.joe.co.uk/joe/ufc-232" class="analytics tag-ufc-232" data-category="Nav clicks" data-label="Trending Tags" data-value="UFC 232">
-UFC 232
+<span class="tag-icon tag-icon-conor-mcgregor"></span>
+<a href="https://www.joe.co.uk/joe/conor-mcgregor" class="analytics tag-conor-mcgregor" data-category="Nav clicks" data-label="Trending Tags" data-value="Conor McGregor">
+Conor McGregor
 </a>
 </li>
 </ul>
@@ -1288,10 +1337,10 @@ UFC 232
 <div class="skin-wrapper hidden-sm hidden-xs ">
 <div id="div-gpt-background_skin">
 <script type="text/javascript">
-                    googletag.cmd.push(function () {
+                googletag.cmd.push(function () {
                         googletag.display('div-gpt-background_skin');
                                             });
-                </script>
+            </script>
 </div>
 </div>
 <div class="modal fade modal-large" id="searchModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -1356,6 +1405,54 @@ Search
 <div class="article-content p402_premium ">
 <p><strong>Section 1. Introduction</strong></p>
 <p>At JOE.co.uk we respect the right to personal privacy and our obligations under the General Data Protection Regulation&nbsp;(GDPR) which comes into force across the EU on 25 May 2018. This Privacy Policy outlines how we deal with any personal data you provide to us while visiting this website, or as a registered user. If you are not happy with this Website Privacy Statement you should not use this website.</p>
+<div class="text-center" style="display:table; margin: 0 auto 15px;">
+<div class="visible-xs">
+<div class="sidebar-player" id="mid_article_player_video"></div>
+</div>
+<script>
+        (function () {
+            jwplayer.key="+dgBrMEcMn/thFkcIfiPpz6Xx69j/htLykoHEg==";
+            playerInstance_mid_article_player_video = jwplayer('mid_article_player_video');
+            playerInstance_mid_article_player_video.setup({
+                "playlist": "https://cdn.jwplayer.com/v2/playlists/BkSfEP1C?contextual=true&semantic=true&backfill=true&search=__CONTEXTUAL__",
+                "autostart": "true",
+                "floating": "true",
+                "width": 300,
+                "height": 250,
+                "mute": "true",
+                "advertising": {
+                    "admessage": "This video will resume in xx seconds",
+                    "adscheduleid": "UXj6EvRa",
+                    "bids": {
+                        "bidders": [
+                            {
+                            "id": "79391",
+                            "name": "SpotX"
+                            }
+                        ],
+                        "settings": {
+                            "mediationLayerAdServer": "dfp"
+                        }
+                    },
+                    "client": "googima",
+                    "cuetext": "Advertisement",
+                    "preloadAds": false,
+                    "rules": {
+                        "startOnSeek": "pre",
+                        "timeBetweenAds": 0
+                    },
+                    "schedule": [
+                        {
+                            "offset": "pre",
+                            "tag": "https://pubads.g.doubleclick.net/gampad/ads?iu=/247211819/Maximum_Preroll/joecouk_pre&description_url=http%3A%2F%2Fwww.joe.co.uk&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&min_ad_duration=5000&max_ad_duration=60000&unviewed_position_start=1",
+                            "type": "linear"
+                        }
+                    ]
+                },
+            });
+        })();
+    </script>
+</div>
 <p>By using&nbsp;this website, you are accepting the terms of this privacy statement. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy statements of these other websites.</p>
 <p><strong>Section 2. Types of Information Collected</strong></p>
 <p>We retain two types of information:</p>
@@ -1401,9 +1498,9 @@ We will process any Personal Data you provide to us for the following purposes:<
 <ul class="share-article list-unstyled">
 <li>Share article
 <ul class="social-networks">
-<li class="fb"><a href="http://facebook.com/sharer.php?app_id=864998266934755&amp;u=https%3A%2F%2Fwww.joe.co.uk%2Funcategorized%2Fprivacy-statement-5%3Futm_source%3Dfacebook%26utm_medium%3Dweb%26utm_campaign%3Donsite_share&amp;t=Privacy+Statement" rel="external" class="icon-facebook-logo analytics" data-category="Sharing Article" data-label="Facebook" data-value="/uncategorized/privacy-statement-5"></a></li>
-<li class="tw"><a href="https://twitter.com/intent/tweet?via=JOE_co_uk&amp;text=Privacy+Statement&amp;url=https%3A%2F%2Fwww.joe.co.uk%2Funcategorized%2Fprivacy-statement-5%3Futm_source%3Dtwitter%26utm_medium%3Dweb%26utm_campaign%3Donsite_share" rel="external" class="icon-twitter-logo-silhouette analytics" data-category="Sharing Article" data-label="Twitter" data-value="/uncategorized/privacy-statement-5"></a></li>
-<li class="re"><a href="http://reddit.com/submit?url=https%3A%2F%2Fwww.joe.co.uk%2Funcategorized%2Fprivacy-statement-5&amp;title=Privacy+Statement?utm_source=reddit&amp;utm_medium=web&amp;utm_campaign=onsite_share" rel="external" class="icon-reddit-square analytics" data-category="Sharing Article" data-label="Reddit" data-value="/uncategorized/privacy-statement-5"></a></li>
+<li class="fb"><a href="http://facebook.com/sharer.php?app_id=864998266934755&amp;u=https%3A%2F%2Fwww.joe.co.uk%2Funcategorized%2Fprivacy-statement-5%3Futm_source%3Dfacebook%26utm_medium%3Dweb%26utm_campaign%3Donsite_share&amp;amp;t=Privacy+Statement" rel="external" class="icon-facebook-logo analytics" data-category="Sharing Article" data-label="Facebook" data-value="/uncategorized/privacy-statement-5"></a></li>
+<li class="tw"><a href="https://twitter.com/intent/tweet?via=JOE_co_uk&amp;amp;text=Privacy+Statement&amp;amp;url=https%3A%2F%2Fwww.joe.co.uk%2Funcategorized%2Fprivacy-statement-5%3Futm_source%3Dtwitter%26utm_medium%3Dweb%26utm_campaign%3Donsite_share" rel="external" class="icon-twitter-logo-silhouette analytics" data-category="Sharing Article" data-label="Twitter" data-value="/uncategorized/privacy-statement-5"></a></li>
+<li class="re"><a href="http://reddit.com/submit?url=https%3A%2F%2Fwww.joe.co.uk%2Funcategorized%2Fprivacy-statement-5&amp;amp;title=Privacy+Statement?utm_source=reddit&amp;utm_medium=web&amp;utm_campaign=onsite_share" rel="external" class="icon-reddit-square analytics" data-category="Sharing Article" data-label="Reddit" data-value="/uncategorized/privacy-statement-5"></a></li>
 <li class="in"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;source=joe.co.uk&amp;summary=&amp;title=Privacy+Statement&amp;url=https%3A%2F%2Fwww.joe.co.uk%2Funcategorized%2Fprivacy-statement-5" rel="external" class="icon-linkedin-logo analytics" data-category="Sharing Article" data-label="Linkedin" data-value="/uncategorized/privacy-statement-5"></a></li>
 <li class="wa hidden-desktop"><a href="whatsapp://send?text=Privacy%20Statement%20-%20https%3A%2F%2Fwww.joe.co.uk%2Funcategorized%2Fprivacy-statement-5%3Futm_source%3Dwhatsapp%26utm_medium%3Dweb%26utm_campaign%3Donsite_share" rel="external" class="icon-whatsapp analytics" data-category="Sharing Article" data-label="Whatsapp" data-value="/uncategorized/privacy-statement-5"></a></li>
 </ul> </li>
@@ -1415,170 +1512,212 @@ We will process any Personal Data you provide to us for the following purposes:<
 </div>
 <div id="article-aside" class="col-sm-12 col-lg-4 article-sidebar">
 <div class="visible-lg">
-<div id="div-gpt-joecouk-desktop_widget" class="visible-lg" style="height:140px; width:310px;">
+<div id="div-gpt-joecouk-desktop_widget" class="visible-lg" style="height:140px; width:310px; margin: 0 auto;">
 <script>
         if (window.matchMedia("only screen and (min-width: 1200px)").matches) {
             googletag.cmd.push(function () { googletag.display('div-gpt-joecouk-desktop_widget'); });
         }
     </script>
 </div> </div>
-<div class="banner hidden-mobile top-space sticky-breakpoint">
-<div id="div-gpt-article_top" class="text-center">
-<script type="text/javascript">
-                if (window.matchMedia("only screen and (min-width: 990px)").matches) {
-                    googletag.cmd.push(function () { googletag.display('div-gpt-article_top'); });
-                }
-            </script>
+<br>
+<div class="text-center" style="display:table; margin: 0 auto 15px;">
+<div class="hidden-xs">
+<div class="sidebar-player" id="sidebar_video"></div>
 </div>
+<script>
+        (function () {
+            jwplayer.key="+dgBrMEcMn/thFkcIfiPpz6Xx69j/htLykoHEg==";
+            playerInstance_sidebar_video = jwplayer('sidebar_video');
+            playerInstance_sidebar_video.setup({
+                "playlist": "https://cdn.jwplayer.com/v2/playlists/BkSfEP1C?contextual=true&semantic=true&backfill=true&search=__CONTEXTUAL__",
+                "autostart": "true",
+                "floating": "true",
+                "width": 300,
+                "height": 250,
+                "mute": "true",
+                "advertising": {
+                    "admessage": "This video will resume in xx seconds",
+                    "adscheduleid": "UXj6EvRa",
+                    "bids": {
+                        "bidders": [
+                            {
+                            "id": "79391",
+                            "name": "SpotX"
+                            }
+                        ],
+                        "settings": {
+                            "mediationLayerAdServer": "dfp"
+                        }
+                    },
+                    "client": "googima",
+                    "cuetext": "Advertisement",
+                    "preloadAds": false,
+                    "rules": {
+                        "startOnSeek": "pre",
+                        "timeBetweenAds": 0
+                    },
+                    "schedule": [
+                        {
+                            "offset": "pre",
+                            "tag": "https://pubads.g.doubleclick.net/gampad/ads?iu=/247211819/Maximum_Preroll/joecouk_pre&description_url=http%3A%2F%2Fwww.joe.co.uk&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&min_ad_duration=5000&max_ad_duration=60000&unviewed_position_start=1",
+                            "type": "linear"
+                        }
+                    ]
+                },
+            });
+        })();
+    </script>
+</div>
+<div class="banner hidden-mobile top-space sticky-breakpoint">
 </div>
 <div class="popular hidden-mobile">
 <div class="section-header">
 <div class="h1">popular</div>
 </div>
-<a href="/sport/former-manchester-united-striker-says-paul-pogba-has-more-talent-than-scholes-213874" class="small-video news-item">
+<a href="/sport/real-madrid-manchester-united-defender-eric-bailly-226389" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8zMDE4MjgwNVxcXC9HZXR0eUltYWdlcy0xMDc1OTM2ODYwLTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIwODJiMzhmOTI0ODY4OWQ3M2I1NmI5OTc3ZWE0YjhjNDgxZjliZmNiIn0=/gettyimages-1075936860-1024x576.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8zMDE4MjgwNVxcXC9HZXR0eUltYWdlcy0xMDc1OTM2ODYwLTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiZGI3OGMxZGM0OTJiMDc0Mjc1ODllYWE5MjFlYzg1YTI1MWM5OWFmMSJ9/gettyimages-1075936860-1024x576.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE2MzkzMVxcXC9HZXR0eUltYWdlcy0xMTQwMjA1NjE3LTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMjA0MTljMzQ5ZDQ2ZGY5NTY3ZjNmM2M4MTk5NmM5ZDg2MzA4N2RjNiJ9/gettyimages-1140205617-1024x576.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE2MzkzMVxcXC9HZXR0eUltYWdlcy0xMTQwMjA1NjE3LTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImI5ZDA3OGJlNDFhMzIxMzZhNWQwMjEwMzRlYWZmZDk4NmI3NzNkMzEifQ==/gettyimages-1140205617-1024x576.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiN2M1NzY3NTQyYjQ0NmFiNDQxNjVlN2M5NjNhODYxODliYzJkMGQ5NyJ9/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8zMDE4MjgwNVxcXC9HZXR0eUltYWdlcy0xMDc1OTM2ODYwLTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIwODJiMzhmOTI0ODY4OWQ3M2I1NmI5OTc3ZWE0YjhjNDgxZjliZmNiIn0=/gettyimages-1075936860-1024x576.jpg" alt="Former Manchester United striker says Paul Pogba has more ability than Scholes" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyYjI1MjJhMDg3YWI3MTA5YTYyZmY4OTBjZGY5MGRmYWI3ODM5YWYyIn0=/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE2MzkzMVxcXC9HZXR0eUltYWdlcy0xMTQwMjA1NjE3LTEwMjR4NTc2LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMjA0MTljMzQ5ZDQ2ZGY5NTY3ZjNmM2M4MTk5NmM5ZDg2MzA4N2RjNiJ9/gettyimages-1140205617-1024x576.jpg" alt="Real Madrid keen to take Manchester United defender off their hands this summer" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">Former Manchester United striker says Paul Pogba has more ability than Scholes</div>
+<div class="h3">Real Madrid keen to take Manchester United defender off their hands this summer</div>
 </div>
 <ul class="meta">
-<li class="share">722 shares</li>
+<li class="share">104 shares</li>
 </ul>
 </div>
 </a>
-<a href="/politics/lbc-caller-says-we-should-let-children-drown-in-the-english-channel-213859" class="small-video news-item">
+<a href="/film/arnold-schwarzenegger-terminator-dark-fate-226393" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8zMDE2NTQ1MlxcXC9HZXR0eUltYWdlcy0xMDg3ODM1NTY4LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiJjNzg1MTQ0MTcyMmRlODYzMDIwNTRhOTU4OWEzYjRkMGJmMDZmYjEwIn0=/gettyimages-1087835568-1024x683.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8zMDE2NTQ1MlxcXC9HZXR0eUltYWdlcy0xMDg3ODM1NTY4LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiMjZmOTYzZmE1YjVmMGE1MDA1ZWM3YTQwZjVkNThhMWQ5Y2QzMjBlOSJ9/gettyimages-1087835568-1024x683.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE3MDgzM1xcXC90ZXJtaW5hdG9yLTItMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmYWI1OTc1ZmYwMjEyNmNlMzRkMjA4NjY1ODhiNWEyZGI5MjYwY2FhIn0=/terminator-2-1024x683.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE3MDgzM1xcXC90ZXJtaW5hdG9yLTItMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiOGI3NWM3NjE3ODM5ZmVmOTYxMmE0YzFmYTM5MzNkNjQ4NjA2MGE4YiJ9/terminator-2-1024x683.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiN2M1NzY3NTQyYjQ0NmFiNDQxNjVlN2M5NjNhODYxODliYzJkMGQ5NyJ9/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8zMDE2NTQ1MlxcXC9HZXR0eUltYWdlcy0xMDg3ODM1NTY4LTEwMjR4NjgzLmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiJjNzg1MTQ0MTcyMmRlODYzMDIwNTRhOTU4OWEzYjRkMGJmMDZmYjEwIn0=/gettyimages-1087835568-1024x683.jpg" alt="LBC caller says we should 'let children drown' in the English channel" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyYjI1MjJhMDg3YWI3MTA5YTYyZmY4OTBjZGY5MGRmYWI3ODM5YWYyIn0=/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE3MDgzM1xcXC90ZXJtaW5hdG9yLTItMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmYWI1OTc1ZmYwMjEyNmNlMzRkMjA4NjY1ODhiNWEyZGI5MjYwY2FhIn0=/terminator-2-1024x683.jpg" alt="Arnold Schwarzenegger shares the first image of him in the new Terminator movie" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">LBC caller says we should 'let children drown' in the English channel</div>
+<div class="h3">Arnold Schwarzenegger shares the first image of him in the new Terminator movie</div>
 </div>
 <ul class="meta">
-<li class="share">2.9k shares</li>
+<li class="share">783 shares</li>
 </ul>
 </div>
 </a>
-<a href="/entertainment/black-mirror-bandersnatch-flow-chart-213769" class="small-video news-item">
+<a href="/politics/watch-donald-trump-repeatedly-say-oranges-when-he-means-origins-226363" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8yOTE1NTk0NFxcXC9ibGFjay1taXJyb3ItYmFuZGVyc25hdGNoLW5ldGZsaXgtcmV2aWV3LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiJlMTViNTUxNzhkOTczMDllOTJlOTQ2ZWI4ODNkYTNiYWZlNzI3YjlkIn0=/black-mirror-bandersnatch-netflix-review.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8yOTE1NTk0NFxcXC9ibGFjay1taXJyb3ItYmFuZGVyc25hdGNoLW5ldGZsaXgtcmV2aWV3LmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiMmUzNzc4YjJhNjhjMjYzMzU0MjdhNTdlOTU0MTQzN2UwMjQ1NTA0MCJ9/black-mirror-bandersnatch-netflix-review.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE1NDcxM1xcXC9Eb25hbGQtVHJ1bXAuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJjMTUxNThjYTNkNjIwYzRmYmY1Y2Q0NDM5N2M4YmRiNmQzM2Q0NGMyIn0=/donald-trump.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE1NDcxM1xcXC9Eb25hbGQtVHJ1bXAuanBnXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYjBiYjA5NjJhNmMxNTY0YTI0NzVhNzk4MmJjM2MyYTdjODUxNWY1YSJ9/donald-trump.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiN2M1NzY3NTQyYjQ0NmFiNDQxNjVlN2M5NjNhODYxODliYzJkMGQ5NyJ9/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8yOTE1NTk0NFxcXC9ibGFjay1taXJyb3ItYmFuZGVyc25hdGNoLW5ldGZsaXgtcmV2aWV3LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiJlMTViNTUxNzhkOTczMDllOTJlOTQ2ZWI4ODNkYTNiYWZlNzI3YjlkIn0=/black-mirror-bandersnatch-netflix-review.jpg" alt="Here's a flow-chart to all the different outcomes in Black Mirror: Bandersnatch" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyYjI1MjJhMDg3YWI3MTA5YTYyZmY4OTBjZGY5MGRmYWI3ODM5YWYyIn0=/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE1NDcxM1xcXC9Eb25hbGQtVHJ1bXAuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJjMTUxNThjYTNkNjIwYzRmYmY1Y2Q0NDM5N2M4YmRiNmQzM2Q0NGMyIn0=/donald-trump.jpg" alt="WATCH: Donald Trump repeatedly say &quot;oranges&quot; when he means &quot;origins&quot;" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">Here's a flow-chart to all the different outcomes in Black Mirror: Bandersnatch</div>
+<div class="h3">WATCH: Donald Trump repeatedly say "oranges" when he means "origins"</div>
 </div>
 <ul class="meta">
-<li class="share">2.7k shares</li>
+<li class="share">113 shares</li>
 </ul>
 </div>
 </a>
-<a href="/entertainment/netflixs-january-releases-are-out-and-theyre-positively-binge-worthy-213855" class="small-video news-item">
- <div class="img-holder video-block">
-<figure>
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOVxcXC8yNzE5MjA1N1xcXC9uZXRmbGl4LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiJlYjRkZTlhMWU2OGE1YjNhYTJlNjJmM2Q3YzY4NGRhMmM3OTc5ZTMxIn0=/netflix.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOVxcXC8yNzE5MjA1N1xcXC9uZXRmbGl4LmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiOGY4Y2I2YzdlNjc2YWYwNzhhZjY5ZTJlMDhjODNmNWRlYTEyYmQwNiJ9/netflix.jpg" media="(min-width: 768px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiN2M1NzY3NTQyYjQ0NmFiNDQxNjVlN2M5NjNhODYxODliYzJkMGQ5NyJ9/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOVxcXC8yNzE5MjA1N1xcXC9uZXRmbGl4LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiJlYjRkZTlhMWU2OGE1YjNhYTJlNjJmM2Q3YzY4NGRhMmM3OTc5ZTMxIn0=/netflix.jpg" alt="Netflix's January releases are out and they're positively binge-worthy" class="river-post-image lazyload">
-</picture>
-</figure>
-</div>
-<div class="text-holder">
-<div class="wrap-text">
-<div class="h3">Netflix's January releases are out and they're positively binge-worthy</div>
-</div>
-<ul class="meta">
-<li class="share">242 shares</li>
-</ul>
-</div>
-</a>
-<a href="/sport/paul-pogba-shines-united-213872" class="small-video news-item">
+<a href="/entertainment/david-attenborough-our-planet-netflix-226403" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8zMDE4MDUxMFxcXC9HZXR0eUltYWdlcy0xMDc1OTIwNjAyLTEtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjJmZDllMTBlNGRkY2IzNzU4OThmYWQxMzFjYWYyODVlZTJhNDE0ZjAifQ==/gettyimages-1075920602-1-1024x683.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8zMDE4MDUxMFxcXC9HZXR0eUltYWdlcy0xMDc1OTIwNjAyLTEtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiJjYmNkNTYxMGYxMTRmZWExNjc0Nzc3OWU3YmVlN2MxMjJlNTI5ZDM2In0=/gettyimages-1075920602-1-1024x683.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDIwMjM0OVxcXC9TY3JlZW4tU2hvdC0yMDE5LTA0LTA0LWF0LTE0LjQzLjQyLnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZmE2YTg5YWVkNTU4NjA4NDJmNGJmYTE4NTdhZjhmOWM0YmFlM2I5ZCJ9/screen-shot-2019-04-04-at-14-43-42.png" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDIwMjM0OVxcXC9TY3JlZW4tU2hvdC0yMDE5LTA0LTA0LWF0LTE0LjQzLjQyLnBuZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImEzNjc0YTlmMThlNzg0MzBkMmNiMjA0OWExZDZkZGY3NzUzOWIxMjEifQ==/screen-shot-2019-04-04-at-14-43-42.png" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiN2M1NzY3NTQyYjQ0NmFiNDQxNjVlN2M5NjNhODYxODliYzJkMGQ5NyJ9/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8zMDE4MDUxMFxcXC9HZXR0eUltYWdlcy0xMDc1OTIwNjAyLTEtMTAyNHg2ODMuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjJmZDllMTBlNGRkY2IzNzU4OThmYWQxMzFjYWYyODVlZTJhNDE0ZjAifQ==/gettyimages-1075920602-1-1024x683.jpg" alt="The shackles are off Paul Pogba, and with that, the shackles are off Manchester United" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyYjI1MjJhMDg3YWI3MTA5YTYyZmY4OTBjZGY5MGRmYWI3ODM5YWYyIn0=/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDIwMjM0OVxcXC9TY3JlZW4tU2hvdC0yMDE5LTA0LTA0LWF0LTE0LjQzLjQyLnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZmE2YTg5YWVkNTU4NjA4NDJmNGJmYTE4NTdhZjhmOWM0YmFlM2I5ZCJ9/screen-shot-2019-04-04-at-14-43-42.png" alt="David Attenborough's new nature documentary series on Netflix looks spectacular" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">The shackles are off Paul Pogba, and with that, the shackles are off Manchester United</div>
+<div class="h3">David Attenborough's new nature documentary series on Netflix looks spectacular</div>
 </div>
 <ul class="meta">
-<li class="share">365 shares</li>
+<li class="share">450 shares</li>
 </ul>
 </div>
 </a>
-<a href="/news/nigel-evans-legal-aid-213654" class="small-video news-item">
+<a href="/sport/solskjaer-record-psg-ed-woodward-226099" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8yODE1NTIxOVxcXC9HZXR0eUltYWdlcy00ODM3NTU1NzMtMTAyNHg2NTcuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjZjZjRlMzMwZDJkNjc4ZDFlNjExYTc3OTZjY2MxYzljMmE1ODMzMTMifQ==/gettyimages-483755573-1024x657.jpg" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8yODE1NTIxOVxcXC9HZXR0eUltYWdlcy00ODM3NTU1NzMtMTAyNHg2NTcuanBnXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiI2NjU1NmM1ZTcyOGZiNDY2ZTgyNGQxMDkyN2NmMzk4MmQ1MGI3YmZmIn0=/gettyimages-483755573-1024x657.jpg" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wMzA4MjM0OVxcXC9HZXR0eUltYWdlcy0xMTQwMDEzMTE2LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiOTVlMDU1OWFmNTU0YTZjMTRjMDg1OGU1YzA2ZDQ2ZjhmMGRlMDQyNyJ9/gettyimages-1140013116.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wMzA4MjM0OVxcXC9HZXR0eUltYWdlcy0xMTQwMDEzMTE2LmpwZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjJmYjE0NDFhZDhjN2ZkNTllMjMzZmVhNzVlNzMyZWFiMGUzZTVkNGYifQ==/gettyimages-1140013116.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiN2M1NzY3NTQyYjQ0NmFiNDQxNjVlN2M5NjNhODYxODliYzJkMGQ5NyJ9/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8yODE1NTIxOVxcXC9HZXR0eUltYWdlcy00ODM3NTU1NzMtMTAyNHg2NTcuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj01XCJ9IiwiaGFzaCI6IjZjZjRlMzMwZDJkNjc4ZDFlNjExYTc3OTZjY2MxYzljMmE1ODMzMTMifQ==/gettyimages-483755573-1024x657.jpg" alt="Tory MP regrets voting to cut legal aid after spending life savings defending himself in court" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyYjI1MjJhMDg3YWI3MTA5YTYyZmY4OTBjZGY5MGRmYWI3ODM5YWYyIn0=/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wMzA4MjM0OVxcXC9HZXR0eUltYWdlcy0xMTQwMDEzMTE2LmpwZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiOTVlMDU1OWFmNTU0YTZjMTRjMDg1OGU1YzA2ZDQ2ZjhmMGRlMDQyNyJ9/gettyimages-1140013116.jpg" alt="Solskjaer's record since PSG win highlights Ed Woodward's biggest flaw" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">Tory MP regrets voting to cut legal aid after spending life savings defending himself in court</div>
+<div class="h3">Solskjaer's record since PSG win highlights Ed Woodward's biggest flaw</div>
 </div>
 <ul class="meta">
-<li class="share">20.7k shares</li>
+<li class="share">205 shares</li>
 </ul>
 </div>
 </a>
-<a href="/sport/rangers-celtic-drop-ball-213767" class="small-video news-item">
+<a href="/news/prince-harry-fortnite-banned-social-media-addiction-226261" class="small-video news-item">
 <div class="img-holder video-block">
 <figure>
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8yOTE1MjAwM1xcXC9TY3JlZW4tU2hvdC0yMDE4LTEyLTI5LWF0LTE1LjA5LjE4LnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIxYzhkYjM1ZjE3MjVmNjZiYzEzNTBlNGVjM2Q4NmRiZTRjMjQ0ZjQ0In0=/screen-shot-2018-12-29-at-15-09-18.png" media="(min-width: 1200px)">
-<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8yOTE1MjAwM1xcXC9TY3JlZW4tU2hvdC0yMDE4LTEyLTI5LWF0LTE1LjA5LjE4LnBuZ1wiLFwid2lkdGhcIjoyMDgsXCJoZWlnaHRcIjoxMjAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiNzRhMmQ0YjZhMWQ1ZmY3MzdmMWJlZTc5OWEwMDg4NjYxNGNlMjgxMCJ9/screen-shot-2018-12-29-at-15-09-18.png" media="(min-width: 768px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDExMTA0M1xcXC9HZXR0eUltYWdlcy0xMTM0NjU1OTkyLTEtMTAyNHg5NDQuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJkZjBmNmRkNDk3ZDcwNTQwNGIxYmE2ZjYwOTAwMzE1Mjk3MThjNTU0In0=/gettyimages-1134655992-1-1024x944.jpg" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDExMTA0M1xcXC9HZXR0eUltYWdlcy0xMTM0NjU1OTkyLTEtMTAyNHg5NDQuanBnXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiY2IyNTExYjRhZTA1ZjNmYTBmZDY0YzU0NWU1YWM3ZjYxODA5NTJmYyJ9/gettyimages-1134655992-1-1024x944.jpg" media="(min-width: 768px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIixcIndpZHRoXCI6MTMzLFwiaGVpZ2h0XCI6NzcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiN2M1NzY3NTQyYjQ0NmFiNDQxNjVlN2M5NjNhODYxODliYzJkMGQ5NyJ9/no-image.png?v=5" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8xMlxcXC8yOTE1MjAwM1xcXC9TY3JlZW4tU2hvdC0yMDE4LTEyLTI5LWF0LTE1LjA5LjE4LnBuZ1wiLFwid2lkdGhcIjoxMzMsXCJoZWlnaHRcIjo3NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9NVwifSIsImhhc2giOiIxYzhkYjM1ZjE3MjVmNjZiYzEzNTBlNGVjM2Q4NmRiZTRjMjQ0ZjQ0In0=/screen-shot-2018-12-29-at-15-09-18.png" alt="WATCH: Rangers and Celtic contest the greatest drop ball in years" class="river-post-image lazyload">
+<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyYjI1MjJhMDg3YWI3MTA5YTYyZmY4OTBjZGY5MGRmYWI3ODM5YWYyIn0=/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDExMTA0M1xcXC9HZXR0eUltYWdlcy0xMTM0NjU1OTkyLTEtMTAyNHg5NDQuanBnXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJkZjBmNmRkNDk3ZDcwNTQwNGIxYmE2ZjYwOTAwMzE1Mjk3MThjNTU0In0=/gettyimages-1134655992-1-1024x944.jpg" alt="Prince Harry reckons Fortnite should be banned to combat social media addiction" class="river-post-image lazyload">
 </picture>
 </figure>
 </div>
 <div class="text-holder">
 <div class="wrap-text">
-<div class="h3">WATCH: Rangers and Celtic contest the greatest drop ball in years</div>
+<div class="h3">Prince Harry reckons Fortnite should be banned to combat social media addiction</div>
 </div>
 <ul class="meta">
-<li class="share">5.9k shares</li>
+<li class="share">3.2k shares</li>
+</ul>
+</div>
+</a>
+<a href="/entertainment/jim-ross-wwe-all-elite-wrestling-226396" class="small-video news-item">
+<div class="img-holder video-block">
+<figure>
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE5MDE1MFxcXC9TY3JlZW5zaG90LTIwMTktMDQtMDQtYXQtMTguNTkuMjgtMTAyNHg1NDYucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzNjUxMDcxYTkwNDNjOTg3MTgxNmI5OGM0NjI4NTFiOWJkN2IzMGI2In0=/screenshot-2019-04-04-at-18-59-28-1024x546.png" media="(min-width: 1200px)">
+<source data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE5MDE1MFxcXC9TY3JlZW5zaG90LTIwMTktMDQtMDQtYXQtMTguNTkuMjgtMTAyNHg1NDYucG5nXCIsXCJ3aWR0aFwiOjIwOCxcImhlaWdodFwiOjEyMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMzA2Y2NlNTRmMWNjZTBhOWZjMWRiNDRmOGU1Mzk3MmQ2MzhkZjE5MCJ9/screenshot-2019-04-04-at-18-59-28-1024x546.png" media="(min-width: 768px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTIyXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyYjI1MjJhMDg3YWI3MTA5YTYyZmY4OTBjZGY5MGRmYWI3ODM5YWYyIn0=/no-image.png?v=22" data-srcset="https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lY291ay5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wNFxcXC8wNDE5MDE1MFxcXC9TY3JlZW5zaG90LTIwMTktMDQtMDQtYXQtMTguNTkuMjgtMTAyNHg1NDYucG5nXCIsXCJ3aWR0aFwiOjEzMyxcImhlaWdodFwiOjc3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmNvLnVrXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lY291a1xcXC9uby1pbWFnZS5wbmc_dj0yMlwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzNjUxMDcxYTkwNDNjOTg3MTgxNmI5OGM0NjI4NTFiOWJkN2IzMGI2In0=/screenshot-2019-04-04-at-18-59-28-1024x546.png" alt="Jim Ross leaves WWE to sign 'most lucrative wrestling commentary deal ever' with rivals AEW" class="river-post-image lazyload">
+</picture>
+</figure>
+</div>
+<div class="text-holder">
+<div class="wrap-text">
+<div class="h3">Jim Ross leaves WWE to sign 'most lucrative wrestling commentary deal ever' with rivals AEW</div>
+</div>
+<ul class="meta">
+<li class="share">221 shares</li>
 </ul>
 </div>
 </a>
@@ -1634,8 +1773,9 @@ We will process any Personal Data you provide to us for the following purposes:<
         googletag.cmd.push(function () { googletag.display('div-gpt-oop'); });
     </script>
 </div>
-<script src="https://www.joe.co.uk/assets/js/app-0dfbb5aa.js"></script>
-<script src="//tags.onscroll.com/ace75089-223a-49e1-ab23-41a86460ab52/tag.min.js" async="" defer=""></script> <script type="text/javascript">
+<script src="https://www.joe.co.uk/assets/js/app-c162f418.js"></script>
+<script src="//tags.onscroll.com/ace75089-223a-49e1-ab23-41a86460ab52/tag.min.js" async="" defer=""></script>
+<script type="text/javascript">
     (function(c){var x,d,g,s='script',w=window,n=c.name||'PLISTA';try{x=w.frameElement;w=x?w.top:w;}catch(e){}if(x){d=w.document.createElement('div');d.setAttribute(c.dataMode,'plista_widget_'+(c.widgets[0].name||c.widgets[0]));x.parentNode.insertBefore(d,x);}if(!w[n]){w[n]=c;w[n].onwidgetinit=function(d){!d.items.length&&this.passback&&this.passback.call(window,d);};g=w.document.getElementsByTagName(s)[0];s=w.document.createElement(s);s.async=true;s.type='text/javascript';s.src=(w.location.protocol==='https:'?'https:':'http:')+'//static'+(c.origin?'-'+c.origin:'')+'.plista.com/async'+(c.name?'/'+c.name:'')+'.js';g.parentNode.insertBefore(s,g);}
     }({
         "publickey": "9d2ebcec356fd6bdacc3c6b3",
@@ -1659,5 +1799,4 @@ We will process any Personal Data you provide to us for the following purposes:<
         }
     }));
 </script> 
-
 </div><iframe name="__cmpLocator" style="display: none;"></iframe></body></html>
