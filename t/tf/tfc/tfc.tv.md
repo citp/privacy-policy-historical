@@ -1,47 +1,412 @@
-> *The following text is extracted and transformed from the tfc.tv privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518113326id_/http%3A//www.abs-cbnglobal.com/Home/tabid/587/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfc.tv privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404180417id_/https%3A//tfc.tv/privacy-policy) for the most accurate reproduction.*
 
-# ABS-CBN Global
+# TFC - Privacy - TFC
 
-ABS-CBN Global is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ABS-CBN Global Web site and governs data collection and usage. By using the ABS-CBN Global website, you consent to the data practices described in this statement.
+**INTRODUCTION**
 
-Collection of your Personal Information
+Welcome to the ABS-CBN's privacy notice.
 
-ABS-CBN Global collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. ABS-CBN Global also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+ABS-CBN respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website or click on our app (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
-There is also information about your computer hardware and software that is automatically collected by ABS-CBN Global. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by ABS-CBN Global for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the ABS-CBN Global Web site.
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through ABS-CBN Global public message boards, this information may be collected and used by others. Note: ABS-CBN Global does not read any of your private online communications.
+  1. **IMPORTANT INFORMATION AND WHO WE ARE**
+  2. **THE DATA WE COLLECT ABOUT YOU**
+  3. **HOW IS YOUR PERSONAL DATA COLLECTED**
+  4. **HOW WE USE YOUR PERSONAL DATA**
+  5. **DISCLOSURES OF YOUR PERSONAL DATA**
+  6. **INTERNATIONAL TRANSFERS**
+  7. **DATA SECURITY**
+  8. **DATA RETENTION**
+  9. **YOUR LEGAL RIGHTS**
+  10. **GLOSSARY**
 
-ABS-CBN Global encourages you to review the privacy statements of Web sites you choose to link to from ABS-CBN Global so that you can understand how those Web sites collect, use and share your information. ABS-CBN Global is not responsible for the privacy statements or other content on Web sites outside of the ABS-CBN Global and ABS-CBN Global family of Web sites.
 
-Use of your Personal Information
 
-ABS-CBN Global collects and uses your personal information to operate the ABS-CBN Global Web site and deliver the services you have requested. ABS-CBN Global also uses your personally identifiable information to inform you of other products or services available from ABS-CBN Global and its affiliates. ABS-CBN Global may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+**1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
-ABS-CBN Global does not sell, rent or lease its customer lists to third parties. ABS-CBN Global may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, ABS-CBN Global may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to ABS-CBN Global, and they are required to maintain the confidentiality of your information.
+**Purpose of this Privacy Notice**
 
-ABS-CBN Global does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+This privacy notice aims to give you information on how ABS-CBN collects and processes your personal data when you download our app, when you visit or use this website/app, including any data you may provide when you fill up our forms, when you use, purchase or avail of our products or services or when you attend one of our events.
 
-ABS-CBN Global keeps track of the Web sites and pages our customers visit within ABS-CBN Global, in order to determine what ABS-CBN Global services are the most popular. This data is used to deliver customized content and advertising within ABS-CBN Global to customers whose behavior indicates that they are interested in a particular subject area.
+This website is not intended for children and we do not knowingly collect data relating to children. If you are below 13 years old, you must get the consent of your parents or guardian prior to registration or use of our website. It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
 
-ABS-CBN Global Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on ABS-CBN Global or the site; (b) protect and defend the rights or property of ABS-CBN Global; and, (c) act under exigent circumstances to protect the personal safety of users of ABS-CBN Global, or the public.
+**Controller**
 
-Use of Cookies
+ABS-CBN is made up of different legal entities, details of which can be found in the Glossary portion under "Internal Third Parties" hereafter referred to as "ABS-CBN Group." This privacy notice is issued on behalf of ABS-CBN Group so when we mention "Company", "we", "us" or "our" in this privacy notice, we are referring to the relevant company in ABS-CBN Group responsible for processing your data. For purposes of compliance with General Data Protection Regulation (GDPR), ABS-CBN Europe Ltd., with business address at 117 Earl's Court Road, London, SW5 9RL United Kingdom, is the controller.
 
-The ABS-CBN Global Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+We have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the DPO using the details set out below.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize ABS-CBN Global pages, or register with ABS-CBN Global site or services, a cookie helps ABS-CBN Global to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same ABS-CBN Global Web site, the information you previously provided can be retrieved, so you can easily use the ABS-CBN Global features that you customized.
+**Contact Details**
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the ABS-CBN Global services or Web sites you visit.
+Our full details are 
 
-Security of your Personal Information
+Full name of legal entity: 
 
-ABS-CBN Global secures your personal information from unauthorized access, use or disclosure. ABS-CBN Global secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+ABS-CBN Europe Ltd.
 
-Changes to this Statement
+Name or title of DPO: 
 
-ABS-CBN Global will occasionally update this Statement of Privacy to reflect company and customer feedback. ABS-CBN Global encourages you to periodically review this Statement to be informed of how ABS-CBN Global is protecting your information.
+Global Data Protection Officer
 
-Contact Information
+Email address: 
 
-ABS-CBN Global welcomes your comments regarding this Statement of Privacy. If you believe that ABS-CBN Global has not adhered to this Statement, please contact ABS-CBN Global at [ariel_poserio@abs-cbn.com](mailto:ariel_poserio@abs-cbn.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Postal address: 
+
+117 Earl's Court Road,   
+London, SW5 9RL,  
+United Kingdom 
+
+You have the right to make a complaint at any time to the Information Commissioner's Office, the supervisory authority in the UK. We would, however, appreciate the chance to deal with your concerns before you approach the regulatory body so please contact us in the first instance.
+
+**Changes to the Privacy Notice and Your Duty to Inform us of Change**
+
+This version was last updated on 24 May 2018 and historic versions can be obtained by contacting our customer service.
+
+The data protection law in the UK will change on 25 May 2018. Although this privacy notice sets out most of your rights under the new laws, we may not yet be able to respond to some of your requests (for example, a request for the transfer of your personal data) until after May 2018 as we are still working towards getting our systems ready for some of these changes.
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+
+**Third-Party Links**
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+**2\. THE DATA WE COLLECT ABOUT YOU**
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:  
+
+
+  * **Identity Data** includes first name, middle name, last name, username or similar identifier, marital status, title, date of birth and gender.
+  * **Contact Data** includes billing address, delivery address, email address and telephone numbers.
+  * **Financial Data** includes bank account and payment card details.
+  * **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
+  * **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+  * **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * **Usage Data** includes information about how you use our website, products and services.
+  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+
+
+
+We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect **Aggregated Data** with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
+
+We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+
+**If You Fail to Provide Personal Data**
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
+
+**3\. HOW IS YOUR PERSONAL DATA COLLECTED**
+
+We use different methods to collect data from and about you including through:  
+
+
+  * **Direct interactions.** We use different methods to collect data from and about you including through:  
+
+    * apply for our products or services;
+    * create an account on our website;
+    * subscribe to our service or publications;
+    * request marketing to be sent to you;
+    * enter a competition, promostion, survery; or
+    * give us some feedback.
+  * **Automated technologies or interactions.** As you download our app, or visit, use or interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see the [cookie policy](https://web.archive.org/cookie-policy) of our website. 
+  * **Third parties or publicly available sources.** We may receive personal data about you from various third parties and public sources as set out below:   
+
+    * Technical Data from the following parties:  
+
+      * analytics providers;
+      * advertising networks;and
+      * search information providers
+    * Contact, Financial and Transaction Data from providers of technical, payment and delivery services.
+    * Identity and Contact Data from data brokers or aggregators based inside OR outside Europe.
+    * Identity and Contact Data from publicly availably sources based inside the EU.
+
+
+
+**4\. HOW WE USE YOUR PERSONAL DATA**
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:  
+
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+Click here to find out more about the types of lawful basis that we will rely on to process your personal data
+
+Generally, we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via different means including email, phone call, website notification or text message. You have the right to withdraw consent to marketing at any time by contacting our customer service.
+
+**Purposes For Which We Will Use Your Personal Data**
+
+We have set out below, in a table format, a description of some or all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact our customer service if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+**Purpose/Activity**|  **Type of data**|  **Lawful basis for processing including basis of legitimate interest**  
+---|---|---  
+To register you as a new customer | 
+
+  1. Identity
+  2. Contact
+  3. Financial
+
+| Performance of a contract with you  
+To process and deliver your order including:  
+
+
+  1. Manage payments, fees and charges
+  2. Collect and recover money owed to us
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Financial
+  4. Transaction
+  5. Marketing and Communications
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary for our legitimate interests (e.g. to recover debts due to us)
+
+  
+To manage our relationship with you which will include:  
+
+
+  1. Notifying you about changes to our terms or privacy policy
+  2. Asking you to leave a review or take a survey
+
+| 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Marketing and Communications
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary to comply with a legal obligation
+  3. Necessary for our legitimate interests (e.g. to keep our records updated and to study how customers use our products/services)
+
+  
+To enable you to partake in a prize draw, competition or complete a survey | 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Usage
+  5. Marketing and Communications
+
+| 
+
+  1. Performance of a contract with you
+  2. Necessary for our legitimate interests (e.g. including to study how customers use our products/services, to develop them and grow our business)
+
+  
+To administer and protect our business and this website/app (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | 
+
+  1. Identity
+  2. Contact
+  3. Technical
+
+| 
+
+  1. Necessary for our legitimate interests (e.g. for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+  2. Necessary to comply with a legal obligation
+
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Usage
+  5. Marketing and Communications
+  6. Technical
+
+| Necessary for our legitimate interests (e.g. to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | 
+
+  1. Technical
+  2. Usage
+
+| Necessary for our legitimate interests (e.g. to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+To make suggestions and recommendations to you about goods or services that may be of interest to you  | 
+
+  1. Identity
+  2. Contact
+  3. Technical
+  4. Usage
+  5. Profile
+
+| Necessary for our legitimate interests (e.g. to develop our products/services and grow our business)  
+To promote and manage our customer loyalty programs | 
+
+  1. Identity
+  2. Contact
+  3. Profile
+  4. Usage
+  5. Marketing and Communications
+  6. Technical
+
+| Necessary for our legitimate interests (e.g. to develop our products/services and grow our business)  
+  
+**Marketing**
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. When you register with us we will ask if you would like to receive marketing communications, and you can change your marketing choices online, over the phone or in writing at any time.
+
+**Promotional Offers From Us**
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
+
+You will receive marketing communications from us if you have requested information from us or have provided your consent to receive marketing emails from us and purchased goods or services from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving marketing emails.
+
+**Third-Party Marketing**
+
+We will get your express opt-in consent before we share your personal data with any company outside ABS-CBN group of companies for marketing purposes.
+
+**Opting Out**
+
+You can ask us or third parties to stop sending you marketing messages at any time by clicking the unsubscribe link found in each of the marketing emails you receive from us or by contacting our customer service.
+
+Where you opt out of receiving these marketing messages, you are not prohibiting us from using your personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
+
+**Cookies**
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website/apps may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy](https://web.archive.org/cookie-policy). 
+
+**Change Of Purpose**
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact our customer service . If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+**5\. DISCLOSURES OF YOUR PERSONAL DATA**
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.  
+
+
+  * Internal Third Parties as set out in the Glossary.
+  * External Third Parties as set out in the Glossary.
+  * Specific third parties as set out in the Glossary.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+**6\. INTERNATIONAL TRANSFERS**
+
+We share your personal data within the ABS-CBN Group. This will involve transferring your data outside the European Economic Area (EEA).
+
+Many of our external third parties are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:   
+
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission.
+  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+
+
+Please contact our customer service if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+
+**7\. DATA SECURITY**
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+**8\. DATA RETENTION**
+
+**How Long Will You Use My Personal Data For?**
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+In some circumstances, you can ask us to delete your data. Please see Request Erasure.
+
+In some circumstances, we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+**9\. YOUR LEGAL RIGHTS**
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to know more about the following rights:  
+
+
+  * Request access to your personal data
+  * Request correction of your personal data
+  * Request erasure of your personal data
+  * Object to processing of your personal data
+  * Request restriction of processing your personal data
+  * Request transfer of your personal data
+  * Right to withdraw consent.
+
+
+
+If you wish to exercise any of the rights set out above, please contact our customer service.
+
+**No Fee Usually Required**
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**What We May Need From You**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+**Time Limit To Respond**
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+**10\. GLOSSARY**
+
+**Lawful Basis**
+
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting our customer service.
+
+**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+**Third Parties**
+
+_Internal third parties_
+
+Other companies in the ABS-CBN Group acting as controllers or processors and that are based in the following countries:   
+ABS-CBN Europe Remittance Ltd. (United Kingdom)  
+ABS-CBN Middle East FZ-LLC (United Arab Emirates)  
+ABS-CBN International (California, United States of America)  
+ABS-CBN Global Ltd. (Philippine Branch) (Philippines)  
+ABS-CBN Corporation (Philippines)  
+ABS-CBN Shared Services Pty LTD. (Singapore) 
+
+_External third parties_  
+
+
+  * Service providers acting as processors based in and outside of Europe who provide IT, marketing, research, payment, customer services and system administration services.
+  * Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in and outside of Europe who provide consultancy, banking, legal, insurance and accounting services.
+  * HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based in the United Kingdom who require reporting of processing activities in certain circumstances.
+
+
+
+**Your Legal Rights**  
+You have the right to: 
+
+**Request access** to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+**Request correction** correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
