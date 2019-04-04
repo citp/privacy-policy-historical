@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227165335id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404074918id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Kalmbach Media
 
-Updated May 29, 2018
+Updated March 15, 2019
+
+By visiting Kalmbach Media’s websites, you consent to this privacy policy.
 
 Kalmbach Media (“Kalmbach”) is committed to providing service that exceeds expectations. This includes maintaining your privacy when it comes to the collection and use of any personally identifiable information (“Personal Data”) you may provide us via the Internet or otherwise. We believe it is important to explain our information gathering practices and the choices you can make about the way your information is collected and used.
 
@@ -17,25 +19,27 @@ This Privacy Policy (or “Policy”) addresses information that Kalmbach collec
 
 
 
-After answering these initial questions, this policy then addresses a number of other issues related to privacy. We suggest that you read this Policy in full before providing information to Kalmbach or visiting Kalmbach’s websites, and that you regularly check our Policy to determine if there have been any material changes that would affect your decision on whether to continue using Kalmbach’s websites. Please note that this Policy is written in English. Kalmbach does not guarantee the accuracy of any translated versions of this Policy. To the extent any translated version of this Policy conflicts with the English version, the English version controls.
+After answering these initial questions, this policy then addresses a number of other issues related to privacy. We suggest that you read this Policy in full before providing information to Kalmbach or visiting Kalmbach’s websites, and that you regularly check our Policy to determine if there have been any material changes that would affect your decision to continue using Kalmbach’s websites. Please note that this Policy is written in English. Kalmbach does not guarantee the accuracy of any translated versions of this Policy. To the extent any translated version of this Policy conflicts with the English version, the English version controls.
 
 Any Personal Data that we collect from you is covered by the Privacy Policy in effect at the time the information is collected. We may revise this Privacy Policy at any time. If we make material changes to the Privacy Policy, we will notify you by posting the new Policy online or by sending you an email or other notification as required by applicable law. The effective date of those changes will be posted at the top of this Privacy Policy.
 
 ## Who is Kalmbach?
 
-Kalmbach Media is the publisher of the following magazines, websites, and events, and the vendor of products affiliated with them:
+Kalmbach Media is the U.S.-based parent company that owns a variety of magazines, websites, and events, and products affiliated with them, including the following:
 
 [American Snowmobiler](http://www.amsnow.com/)  
 [Astronomy](http://www.astronomy.com/)  
 [Bead&Button](http://www.beadandbutton.com/)  
 [Classic Toy Trains](http://www.classictoytrains.com/)  
 [Classic Trains](http://www.classictrainsmag.com/)  
+[Creative Connections](https://creativeconnectionsretreat.com/)  
 [Discover](http://www.discovermagazine.com/)  
 [Facet Jewelry](http://www.facetjewelry.com/)  
 [Facet Jewelry Box](https://www.facetjewelrybox.com/)  
 [FineScale Modeler](http://www.finescale.com/)  
 [Garden Railways](http://www.gardenrailways.com/)  
 [Model Railroader](http://www.modelrailroader.com/)  
+[Model Railroader Video Plus](http://mrv.trains.com/)  
 [Model Retailer](http://www.modelretailer.com/)  
 [My Science Shop](http://www.myscienceshop.com/)  
 [Scale Auto](http://www.scaleautomag.com/)  
@@ -44,6 +48,7 @@ Kalmbach Media is the publisher of the following magazines, websites, and events
 [Bead&Button Show Online Registration ](http://www.beadandbuttonshowstore.com/)  
 [JewelryAndBeadingStore.com](http://www.jewelryandbeadingstore.com/)  
 [HobbyRetailer.com](http://www.hobbyretailer.com/)  
+[Kalmbach.com](https://www.kalmbach.com/)  
 [KalmbachStore.com](http://www.kalmbachstore.com/)  
 [KalmbachHobbyStore.com](https://kalmbachhobbystore.com/)  
 [Trains.com Magazine Index](http://trc.trains.com/magazineindex/)  
@@ -51,15 +56,33 @@ Kalmbach Media is the publisher of the following magazines, websites, and events
 
 ## **What types of Personal Data does Kalmbach collect?**
 
-Personal data is collected by Kalmbach when you decide to place an order (personally or as gifts for others), register on our websites or for our newsletters, enter a contest, participate in a survey, or make a general inquiry. The information collected when you order from us or enter a contest could include the following: name, address, phone / fax number, email address, and credit card information. With regard to credit card information, we employ the Internet’s strongest encryption tools and technology, allowing your transaction to be instantaneous, while as secure as possible from unauthorized access or misuse. We also may collect certain information automatically as you use our websites, such as your Internet Protocol address, browser type, computer type, operating system version, type of mobile device (if used), location data (if available), the website from which you navigated to our website, the time and date associated with your use of our website, the pages on our website that you view and how long you view each page, as well as other miscellaneous information about you.
+Personal data is collected by Kalmbach when you place an order (for yourself or as gifts for others); register on our websites; sign up for our newsletters or to receive an electronic document; enter a contest; participate in a survey; or make a general inquiry. The information collected could include the following: name, address, phone, and email address.
 
-To enhance your online experience, we use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Once you choose to furnish the site with Personal Data, this information may be linked to the data stored in the cookie, and to personalize your experience on our websites.
+We also may collect certain information automatically as you use our websites, such as your Internet Protocol address, browser type, computer type, operating system version, type of mobile device (if used), location data (if available), the website from which you navigated to our website, the time and date associated with your use of our website, the pages on our website that you view and how long you view each page, as well as other miscellaneous information about you.
 
-We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. Kalmbach will use cookies, pixel trackers, server logs and other Internet technologies to measure the effectiveness of our website content.
+To enhance your experience on our sites, many of our web pages use “cookies.” Cookies are small text files that we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personal information unless you choose to provide this information to us by, for example, registering at one of our sites. Once you choose to provide a web page with personal information, this information may be linked to the data stored in the cookie. A cookie is like an identification card. It is unique to your computer and can only be read by the server that gave it to you.
 
-We may have enabled Demographic & Interest reporting via Google Analytics Advertising Features for some of our websites. This information is used to better understand how website visitors are interacting with our websites. This information is not used to personally identify any website visitors. Visitors can opt-out of Google Analytics Advertiser Features through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI’s consumer opt-out). Google also provides a listing of currently available opt-outs for the web, here.
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience on our web pages (e.g. to recognize you by name when you return to our site). We also may use cookies to offer you products and services.
 
-We also may use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. We are not responsible for and do not control cookies placed in third party ads or any actions or policies of any third party advertising technology service providers or of any third party members of any related advertising networks.
+Cookies save you time as they help us to remember who you are. Cookies help us to be more efficient. We can learn about what content is important to you and what is not. We can revise or remove web pages that are not of interest and focus our energies on content you want.
+
+If you want to control which cookies you accept, you can configure your browser to accept all cookies or to alert you every time a cookie is offered by a website’s server. Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. You may find that some parts of the site will not function properly if you have refused cookies.
+
+Please be aware that if you do not configure your browser you will accept cookies provided by this website.
+
+If you want to see cookies that you have accepted, you can configure your browser to accept all cookies or to alert you every time a cookie is offered by a website’s server.
+
+We also use Google Analytics to understand how the site is being used. Google Analytics uses permanent cookies on your web browser to identify you as a unique user. All data collected is anonymous. Please review the Google Privacy pages for more information: [https://www.google.com/policies/privacy](https://www.google.com/policies/privacy/).
+
+We collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses.
+
+We are not responsible for and do not control cookies placed in third-party ads or any actions or policies of any third-party advertising, technology service providers, or of any third party members of any related advertising networks. We encourage you to review the privacy policies or notices published by relevant third parties. You must contact the relevant third party directly to exercise your opt-out choices with respect to such parties’ use of your information.
+
+We are committed to ensuring the security and privacy of the personal data that you provide us. We implement all necessary technical and organizational measures, with regards to the nature, impact and context of the personal data that you share with us and the risks involved in processing it, in order to protect your personal data and, more specifically, to prevent any corruption, damage, or unauthorized use by third parties, either through accident or criminal activity. We provide a secure online payment system using the latest technologies. You can make purchases on our website with the guarantee that your data is kept confidential and secure.
+
+Everyone has a part to play in data security and privacy. For this reason, we recommend that you avoid communicating passwords to others, and that you log out of your Kalmbach Media and social media accounts (especially if these accounts are linked), and close your browser window when leaving Kalmbach websites, especially when using a public device to access the internet. This way, other users will not be able to access your personal information.
+
+We strongly advise against communicating any document issued by Kalmbach that contains your personal details to third parties or posting such documents on social media.
 
 ## **Does Kalmbach share my Personal Data?**
 
@@ -69,9 +92,7 @@ Additionally, if the ownership of all or substantially all of our business chang
 
 Kalmbach may also engage certain trusted third party companies and individuals to facilitate the websites on Kalmbach’s behalf, to perform services (e.g., without limitation, hosting and maintenance services, customer relationship services, web analytics, payment processing and database storage and management services). We may share your Personal Data with these third parties to the extent necessary to perform these functions and provide such services.
 
-Kalmbach may also provide your information to other reputable companies or organizations for marketing or information gathering purposes. Typically, such third parties serve the hobby or leisure-time industries in one form or another. You may request to be excluded from such mailings by contacting the Privacy Office as indicated at the end of this policy.
-
-Kalmbach does not rent, trade, or sell your Personal Data to third-party organizations.
+Kalmbach may also provide your information to other reputable companies or organizations for marketing or information gathering purposes. Typically, such third parties serve the hobby or leisure-time industries in one form or another. You may request to be excluded from such mailings by contacting the Data Protection Office as indicated at the end of this policy.
 
 ## **How does Kalmbach use my Personal Data?**
 
@@ -97,33 +118,31 @@ We believe it is important for you to understand your rights and be able to cont
 
 ## **How can I exercise my rights with respect to my Personal Data?**
 
-To ask a question or exercise any of your rights listed above, please contact Kalmbach’s Privacy Office as indicated at the end of this policy.
+To ask a question or exercise any of your rights listed above, please contact Kalmbach’s Data Protection Office as indicated at the end of this policy.
 
 In addition, at the time you volunteer Personal Data and at any time thereafter, you can direct us not to use this information for promotional or informational mailings. At your option, you may also elect to suppress the mailing of renewal notices for any of our magazines. If you do so, your Personal Data will be flagged in our system as “do not promote” to correspond with your request, and you will be excluded from the related Kalmbach mailings. You can also elect separately to be excluded from mailings by any third party to whom your address might otherwise be provided.
 
-You can, at any time, send such directions to our Privacy Office at Kalmbach Media, P.O. Box 1612, Waukesha WI 53187-1612, or simply contact us at [privacy@kalmbach.com.](mailto:privacy@kalmbach.com)
+You can, at any time, send such directions to our Data Protection Office at Kalmbach Media, P.O. Box 1612, Waukesha WI 53187-1612, or simply contact us at  ** _[privacy@kalmbach.com.](mailto:privacy@kalmbach.com)_**
 
-If you wish to review or request any changes to information that is stored by Kalmbach, please contact us at [privacy@kalmbach.com.](mailto:privacy@kalmbach.com)
+If you wish to review or request any changes to information that is stored by Kalmbach, please contact us at  ** _[privacy@kalmbach.com.](mailto:privacy@kalmbach.com)_**
 
-There are also national clearinghouse organizations and governmental entities where you can register to suppress unwanted solicitations. The most prominent of these is the Direct Marketing Association (DMA). The DMA provides mail, email and telephone database “preference services” free of charge to consumers who wish to block all unsolicited direct mail, e-mail and telemarketing contacts, respectively. For more information, visit DMA’s website at <https://thedma.org/resources/consumer-resources>, or contact them at (212)768-7277.
+There are also national clearinghouse organizations and governmental entities where you can register to suppress unwanted solicitations. The most prominent of these is the Association of National Advertisers (ANA). The ANA provides mail, email and telephone database “preference services” free of charge to consumers who wish to block all unsolicited direct mail, e-mail and telemarketing contacts, respectively. For more information, visit ANA’s website at  ** _<https://thedma.org/resources/consumer-resources>_** , or contact them at (212)768-7277.
 
 In addition to the special measures you may take to suppress unwanted solicitations by contacting us directly, Kalmbach has implemented procedures whereby files that otherwise would be used for promotional mailings are processed with the DMA to remove any records belonging to individuals who may have registered with DMA’s Mail Preference Service (but not with Kalmbach).
-
-As yet a further safeguard, many third parties to whom Kalmbach may provide Personal Data take the additional step to suppress the solicitation of anyone who has just recently registered with the appropriate DMA preference services, by doing so just prior to their mailing dates. Although Kalmbach uses reasonable good faith efforts to require third parties to regularly follow this practice, we cannot, of course, guarantee that they adhere to our expectations.
 
 ## Surveys and Sweepstakes
 
 With regard to surveys in which you elect to participate, we may request demographic information (age, family income level, etc.) along with basic information regarding your reading or hobby interests and how Kalmbach may better serve those needs. Finally, name, address and other contact information may be collected so that we can respond to any customer service issue, request for information or other general inquiry, along with information about the nature of your inquiry.
 
-Demographic and other information volunteered in connection with surveys is used primarily for internal purposes to improve the company’s responsiveness to customers’ wants, needs, interests, opinions and suggestions. On occasion, the aggregate findings and results of such surveys may be published as a matter of interest to the hobbyists/respondents who provided the information, or for the benefit of trade associations or others who may occasionally sponsor such surveys.
+Demographic and other information volunteered in connection with surveys is used primarily for internal purposes to improve the company’s responsiveness to customers’ wants, needs, interests, opinions, and suggestions. On occasion, the aggregate findings and results of such surveys may be published as a matter of interest to the hobbyists/respondents who provided the information, or for the benefit of trade associations or others who may occasionally sponsor such surveys.
 
 ## **Our Policy With Respect to Children Under 13**
 
-Kalmbach’s websites are not directed to children under 13. Kalmbach does not knowingly collect Personal Data from children. If a parent or guardian becomes aware that his or her child has provided us with Personal Data without parental consent, he or she should contact us at [privacy@kalmbach.com](mailto:privacy@kalmbach.com). If we become aware that a child under the age of 13 has provided us with Personal Data without verifiable parental consent, we will delete such information from our files.
+Kalmbach’s websites are not directed to children under 13. Kalmbach does not knowingly collect Personal Data from children. If a parent or guardian becomes aware that his or her child has provided us with Personal Data without parental consent, he or she should contact us at  ** _[privacy@kalmbach.com](mailto:privacy@kalmbach.com)_**. If we become aware that a child under the age of 13 has provided us with Personal Data without verifiable parental consent, we will delete such information from our files.
 
 ## Contact Information
 
-**Kalmbach Media Privacy Office**  
+**Kalmbach Media Data Protection Office**  
 **P.O. Box 1612**  
 **Waukesha, WI 53187-1612**  
 privacy@kalmbach.com
