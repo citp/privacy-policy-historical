@@ -1,0 +1,428 @@
+<!--The following is the downloaded HTML source of the tipeee.com privacy policy that was archived on 2019-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190404182235id_/https%3A//en.tipeee.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+  <title>Tipeee - Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Tipeee - Get supported by your Community.">
+  <meta name="keywords" content="Tipeee - Get supported by your Community.">
+  <meta property="og:description" content="Tipeee - Get supported by your Community.">
+  <meta property="og:site_name" content="Tipeee">
+  <meta property="og:image" content="https://en.tipeee.com/img/tipeee-og-image.jpg">
+  <meta name="google-site-verification" content="AhP_BAi4PDjEwBlG2T6aKYROX_i8EWQh2QeAVU9xxPA">
+      <link rel="canonical" href="https://fr.tipeee.com/privacy">
+    <link rel="alternate" hreflang="x-default" href="https://fr.tipeee.com/privacy">
+                <link rel="alternate" hreflang="fr" href="https://fr.tipeee.com/privacy">
+            <link rel="alternate" hreflang="de" href="https://de.tipeee.com/privacy">
+            <link rel="alternate" hreflang="it" href="https://it.tipeee.com/privacy">
+            <link rel="alternate" hreflang="en" href="https://en.tipeee.com/privacy">
+            <link rel="alternate" hreflang="es" href="https://es.tipeee.com/privacy">
+                  <script src="/bundles/fosjsrouting/js/router.js"></script><script src="/fos/routing?callback=fos.Router.setData"></script><script src="/bundles/bazingajstranslation/js/translator.min.js"></script><script src="/translations?locales=en"></script><script type="text/javascript">eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('1K M={"1X":"\\/g\\/M","1W":"1V","1U":{"R":"9\\/R.f","1T":"\\/p\\/g\\/1S","1R":"\\/p\\/g\\/1Q","1P":"\\/p\\/g\\/1O","1Y":"\\/p\\/g\\/1N","1M":"\\/p\\/g\\/1L","1t":"9\\/1C.1x","H":"\\/\\/1J.m\\/p\\/2.0.7\\/H","6":"\\/\\/A.1i.m\\/A\\/K\\/j\\/1\\/j.f","15":"9\\/j.1H.f","1u":"9\\/j.1G.f","17":"9\\/j.1B.f","6.1d":"9\\/j.1d.f","6.l":"\\/\\/1A.j.m\\/l\\/1.12.0-1D.2\\/j-l.f","6.I":"9\\/j.I","P":"9\\/P","N":"9\\/N","k":"\\/\\/1r.1p.m\\/A\\/K\\/k.g\\/1.8.3\\/k-f","w":"w","b.t":"b\\/t","b.1f":"b\\/1f","b.C":"b\\/C","b.s":"b\\/s","b.u":"b\\/u","b.1e":"9\\/b-1e","1E":"9\\/1F","z":"9\\/z","x":"e\\/x","y":"9\\/y","1g":"9\\/1g","D":"9\\/D","h":"9\\/h-1o-1n.f","h.1I":"9\\/h-1o-1n.f","h.F":"9\\/h.F","1h":"9\\/j.1h-2.1.5.1Z","1a":"\\/\\/2i.1a.n\\/2h\\/2g","r":"\\/\\/2f.r.m\\/g\\/2e","18":"e\\/18","B":"e\\/B","16":"e\\/16","1l":"e\\/1l","Z":"e\\/Z","T":"e\\/T","Y":"e\\/Y","X":"e\\/X","W":"e\\/W","V":"e\\/V","19":"e\\/19","U":"e\\/U","11":"e\\/11","13":"e\\/13","1c":"9\\/1c","1b":"9\\/1b","S":"9\\/S","r.1s":"\\/\\/1j.1i.m\\/1j\\/2a\\/g?21=29&v=3.28&27=26","1v":"9\\/25","1q":"\\/\\/1r.1p.m\\/A\\/K\\/1m.g\\/2.3.0\\/1m.2b.f","G":"e\\/G","J":"e\\/J","i":"9\\/i-f","i.o":"9\\/i.o","c":"9\\/c","c.Q":"9\\/c.Q","c.o":"9\\/c.o","c.L":"9\\/c.L","c.E":"9\\/c.E","q.n":"\\/\\/1k.q.n\\/1.10.12\\/g\\/j.1z.f","1w.O":"\\/\\/1k.q.n\\/O\\/3.2.2\\/g\\/1z.22.f","14":"9\\/14","":"\\/\\/g\\/M\\/"},"20":{"R":{"4":["6"],"a":d},"1t":{"4":[],"a":"1x"},"q.n":{"4":["6"],"a":d},"1w.O":{"4":["q.n"],"a":d},"i":{"4":["6","k"],"a":d},"i.o":{"4":["6","k","i"],"a":d},"c":{"4":["6","k","i"],"a":"23"},"c.Q":{"4":["6","i","c"],"a":d},"c.o":{"4":["6","i","c"],"a":d},"c.L":{"4":["6","i","h","c"],"a":d},"c.E":{"4":["6","i","h","2c","c"],"a":d},"P":{"4":["6.l","h"],"a":d},"N":{"4":["6.l","h"],"a":d},"J":{"4":["6"],"a":d},"6.I":{"4":["6"],"a":d},"H":{"4":["6"],"a":d},"G":{"4":["6"],"a":d},"h.F":{"4":["h"],"a":d},"h":{"4":[],"a":d},"1q":{"4":["6"]},"S":{"4":["6"]},"1b":{"4":["6","1v","r.1s"]},"6":{"a":"$","4":[]},"15":{"4":["6"]},"1u":{"4":["6"]},"17":{"4":["6"]},"6.1d":{"4":["6"]},"6.l":{"a":"1y","4":["6"]},"k":{"a":"1y","4":["6"]},"w":{"4":["6","k","b.t","x","b.s"],"a":"w"},"b.t":{"4":["6"]},"b.1f":{"4":["6"]},"b.C":{"4":["6"]},"b.s":{"4":["6","b.u"]},"b.u":{"4":["6"]},"b.1e":{"4":["6"]},"z":{"4":["6"]},"x":{"4":["6","y"]},"y":{"4":["6"]},"1a":{"a":"2d","4":[]},"1g":{"4":["6"]},"1h":{"4":["6"]},"D":{"4":["6"]},"r":{"a":"24","4":[]},"18":{"4":["6"]},"B":{"4":["6"]},"T":{"4":["6","17","6.l"]},"16":{"4":["6","15","B"]},"Z":{"4":["6"]},"Y":{"4":["6"]},"X":{"4":["6","b.C"]},"W":{"4":["6"]},"V":{"4":["6"]},"19":{"4":["6"]},"U":{"4":["6"]},"11":{"4":["6"]},"13":{"4":["6"]},"14":{"4":["D"]},"1c":{"4":["z"]}}};',62,143,'||||deps||jQuery|||vendor|exports|bootstrap|backgrid|null|mf|min|js|moment|backbone|jquery|underscore|ui|com|net|paginator|dist|datatables|google|collapse|modal|transition||application|dialogBox|eventsListener|colpick|ajax|mfDrag|dropdown|fullScrollingSlides|filter|range|mfPermaScroll|pagination|redirect|formater|libs|momentcell|require|dateTimePicker|fixedcolumns|daterangepicker|textcell|featherlight|redactor|mfHtmlEditor|mfTabs|mfSelfVideoBox|mfMultifield|mfMobileTabs|mfHtmlEditorRender|mfImageGallery||sluggify||textareaAdvanced|tipeeeYearAnim|jQueryBrowser|mfImageDragUpload|jqueryForm|homeImageSlideshow|mfSlidingTabs|facebook|mapv2|widgetColorPicker|serializejson|select|tooltip|flipClock|fancybox|googleapis|maps|cdn|mfFileGalleryUpload|Chart|langs|with|cloudflare|chartjs|cdnjs|map|socketIo|jQueryScrollbar|markerClusterer|datatable|io|_|dataTables|code|form|socket|rc|cookieClass|CookieClass|scrollbar|browser|la|paginationjs|var|scheduleDatePicker|app_vue_scheduleDatePicker|projectClipeee|projectTip|app_vue_projectTip|createLive|app_vue_createLive|liveChat|app_vue_liveChat|paths|en|locale|baseUrl|app_vue_projectClipeee|pack|shim|key|fixedColumns|Backgrid|gapi|markerclusterer|fr|language|exp|AIzaSyA2817JL2pLZDgJLWVkZ64guMElj83c_cs|api|bundle|lunr|FB|client|apis|all|en_US|connect'.split('|'),0,{}))
+</script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.8/require.min.js"></script><script type="text/javascript">;Routing.generate=function(e,n,o){if(typeof n==='undefined')n={subdomain:'en'};if(typeof n.subdomain==='undefined')n.subdomain='en';return Routing.__proto__.generate.call(this,e,n,o)};Translator.locale='en';</script><script type="text/javascript">;var requireTimeout=setInterval(function(){if(require&&require.config){require.config({baseUrl:'/js/require',urlArgs:'cache=v1554278832',waitSeconds:0});clearInterval(requireTimeout)}},10);</script>                  <link rel="stylesheet" href="/css/all.css?cache=v1554278832">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:400,700,900|Roboto:400,500">
+              <script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+ga('create', 'UA-45376125-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+              <link rel="icon" type="image/x-icon" href="/favicon.ico">
+                  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "rgba(0,0,0,0.8)"
+    },
+    "button": {
+      "background": "#d84759",
+      "border": "#d43246"
+    }
+  },
+  "content": {
+    "message": 'By continuing your visit on this site, you accept the use of cookies.',
+    "dismiss": 'Got it!',
+    "link": 'Learn more...',
+    "href": "/cookies"
+  },
+  "showLink": true
+})});
+</script>              </head>
+      <body class="
+      ">
+      <header>
+        <nav class="navbar">
+          <div class="grid-xlarge">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/" title="Tipeee">
+                <img alt="Brand" src="/img/tipeee-logo-com.png">
+              </a>
+              <div class="user-nav application-init" data-template-id="homepage_nav_connect_mobile">
+                <script type="text/template" id="homepage_nav_connect_mobile">
+                  <div class="nav-connect-box <%- (user) ? 'logged-in': '' %>"><div class="mobile btn-group" id="user-nav-mobile"><div class="dropdown"><a id="menuLabel" data-toggle="dropdown" data-target="#" href="#" class="dropdown-toggle btn btn-default"><span class="entypo-menu"></span></a><ul class="dropdown-menu right" role="menu" aria-labelledby="menuLabel"><li class=""><a href="/about" class="">How it works</a></li><li class=""><a href="/creators" class="">Discover Creators</a></li><li class=""><a href="/become-a-creator" class="">Become a Creator</a></li></ul></div><% if (user) { %><div class="dropdown"><a id="accountLabel" data-toggle="dropdown" data-target="#" href="#" class="dropdown-toggle btn btn-default"><span class="fas fa-user"></span><%- user.pseudo %></a><ul class="dropdown-menu right" role="menu" aria-labelledby="accountLabel"><li><a href="<%- Routing.generate('app.account.tips') %>"> My account </a></li><li><a href="/inbox/"> Messages <% if (user.messageStatus != 2) { %><span class="label label-danger unread-counter">?</span><% } else if (user.unread> 0) { %><span class="label label-danger unread-counter"><%- user.unread %></span><% } %></a></li><li><a href="<%- Routing.generate('app.users.user', {'usernameCanonical': user.usernameCanonical}) %>"> My Account </a></li><li><a href="/logout" onClick="function logout() { localStorage.removeItem('accessToken') }; logout(); return true;"> Sign out </a></li></ul></div><% } else { %><div class="dropdown"><a id="accountLabel" role="button" data-toggle="dropdown" data-target="#" href="#" class="dropdown-toggle btn btn-default"><i class="fas fa-user"></i></a><ul class="dropdown-menu right" role="menu" aria-labelledby="accountLabel"><li><a href="/login">Log in</a></li><li><a href="/register/">Sign up</a></li></ul></div><% } %></div><% require(['bootstrap.dropdown'], function() {}); %></div>                </script>
+              </div>
+            </div>
+            <div class="navbar-left desktop">
+                <ul class="nav navbar-nav">
+                  <li class="">
+                    <a href="/about" class="">How it works</a>
+                  </li>
+                  <li class="">
+                    <a href="/creators" class="">Discover Creators</a>
+                  </li>
+                  <li class="">
+                    <a href="/become-a-creator" class="">Become a Creator</a>
+                  </li>
+                  <li class="wrapper">
+                    <div class="queries list-group" style="position:absolute; z-index:100;min-width:400px"></div>
+                  </li>
+                  <li>
+                    <label for="header_search_form" id="nav-search-button"><i class="fas fa-search fa-lg"></i></label>
+                  </li>
+              </ul>
+          </div>
+            <div class="user-nav application-init desktop" data-template-id="homepage_nav_connect">
+              <script type="text/template" id="homepage_nav_connect">
+                <div class="nav-connect-box <%- (user) ? 'logged-in': '' %>"><% if (user) { %><div class="btn-group desktop"><a class="btn btn-default" href="/inbox/"><% if (user.messageStatus != 2) { %><span class="label label-danger unread-counter">?</span><% } else if (user.unread> 0) { %><span class="label label-danger unread-counter"><%- user.unread %></span><% } %><i class="far fa-envelope"></i></a><a class="btn btn-default avatar" href="<%- Routing.generate('app.users.user', {'usernameCanonical': user.usernameCanonical}) %>" target="_self" title="<%- user.psseudo %>"><img alt="<%- user.username %>" src="<%- user.picture %>" class="user-avatar-reload" data-id="<%- user.id %>"></a><a class="btn btn-default" href="<%- Routing.generate('app.account.tips') %>">My account</a><a class="btn btn-default" href="/logout" onClick="function logout() { localStorage.removeItem('accessToken') }; logout(); return true;"><i class="fas fa-power-off"></i></a></div><% } else { %><span class="desktop"><a href="/login" class="inline">Log in</a><a href="/register/" class="btn btn-primary">Sign up</a></span><% } %><% require(['bootstrap.dropdown'], function() {}); %></div>              </script>
+            </div>
+          </div>
+        </nav>
+      </header>
+
+      <form method="get" class="header-search-form" action="/creators">
+        <div class="inner" id="search_creator_form">
+          <input type="text" autocomplete="off" id="header_search_input" name="search" value="" placeholder="Find a creator" style="width:100%">
+          <button type="submit">
+            <i class="fas fa-search fa-lg"></i>
+          </button>
+          <div id="nav-search-close-button"><i class="fas fa-times"></i></div>
+        </div>
+      </form>
+      <script type="text/javascript">;require(['jQuery'],function(){$('#nav-search-button, #nav-search-close-button').on('click',function(){if($('.header-search-form').hasClass('opened'))$('.header-search-form').slideToggle(100,function(){$(this).removeClass('opened')});else $('.header-search-form').slideToggle(100,function(){$(this).addClass('opened');$('#header_search_input').focus()})})});</script>
+
+      <div id="body-wrapper">
+        			<div class="tipeee-banner">
+			<div class="grid-standard">
+				<h1>Privacy Policy</h1>
+			</div>
+		</div>
+		<div class="grid-standard long-text">
+		<h2>PRIVACY POLICY</h2>
+<p class="text-center">Last update on: 25/05/2018</p>
+<p>At Tipeee.com ("Tipeee"), we undertake to protect your privacy. All our team members are, like you, Internet users and customers of other web sites, and fully understand the importance of respecting privacy on the Internet.</p>
+<p>This "Privacy Policy" describes the terms and conditions under which TIPEEE collects and processes the personal data of the users of the platform Tipeee.com. </p>
+<h3>Preamble</h3>
+<p>- Tipeee SAS develops and operates the platform "Tipeee.com" dedicated to crowd funding for content creators on the Internet.</p>
+<p>- The platform connects "Creators", who create pages of support on the website, and "Tippers", who wish to support these Creators financially by paying them in particular financial contributions known as "Tips". In the course of these activities, we are involved in processing your personal data, whether you are a simple visitor or a member.</p>
+<p>- In order to respect your privacy and ensure the protection of your data, we comply with the privacy protection regulations in force, including the French Law no. 78-17 dated January 6th 1978, in particular the Law on "Computer Technology and Freedom " and the European Regulation 2016/679 dated April 27th 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, referred to as the "General Data Protection Regulation" or "GDPR".</p>
+<p>- We may be led to update this Privacy Policy. Any relevant update shall be previously made known to you and, when it is necessary, it shall be subject to collection of your prior consent.</p>
+<p>- Our data protection officer can be contacted at <a href="mailto:dpo@tipeee.com">dpo@tipeee.com</a> or through the postal system: TIPEEE SAS, Protection des données, 20 rue du Sentier, 75002 Paris, FRANCE.</p>
+<h3>What personal data do we collect and process?</h3>
+<p>In our capacity as a data controller, we collect and process some of your personal data.</p>
+<p>We collect this data, in your capacity as a user of our platform in order to identify you and to contact you (username, full name, email address, postal address, phone), to validate the setting on line of your Creator page (explanatory contents of the Creator pages, Counterparties content, etc.) and to organise the collection of the Tips (banking information).</p>
+<p>Furthermore, we collect data related to your use of our services, as well as the browsing data on our websites and our dedicated pages on social networks (Facebook, Twitter, etc.). The collected data are necessary to generate audience statistics, to measure the performance, and to carry out business development.</p>
+<p>We collect data related to your exchanges with us regarding our services, and the requests that you are presenting to us, especially regarding the management of your rights as well as your instructions in the event of death.</p>
+<p>We collect finally the data allowing us to comply with our obligations in the area of combating tax fraud, money laundering and terrorist financing, as well as for the management of your rights, pre-litigations and litigations. Within this framework, we need to collect documents in particular proving your identity (National ID card, Passport, Driving licence, etc.).</p>
+<p>All of this information can be communicated to us when you fill out our online forms or within our exchanges. These data can also be collected through software technologies such as cookies. For more information on our use of these tools, we invite you to review the cookie policy available at the following address: <a href="/cookies">Cookies policy</a>.</p>
+<h3>Concerning the sensitive data</h3>
+<p>Some data (whether optional or mandatory) that you record via our online forms becomes public and are accessible to everyone. By recording this data, you could reveal your personal data, sometimes sensitive or very personal (religious or philosophical convictions, sexual orientation, political opinions, health status, etc.). <b>Therefore, and as a precaution, we suggest to be careful</b> when entering information in order to protect your privacy.</p>
+<p>- <u>Sensitive data accessible from your member profile</u> (when you have created your Tipeee account): username, avatar (graphic illustration), internal messages sent from the website;</p>
+<p>- <u>Sensitive data accessible from your Creator page</u> (when you created a Creator page and decided to publish it by activating it): the Creator name, social networks and websites, the Creator page description (including texts, graphic illustrations or any other type of content), counterparties, objectives;</p>
+<p>- <u>Sensitive data available in the "News" and "Comments" sections of the Creator page</u> (when the Creator posts a News, when comments are sent via the forms available in the "News" and "Comments" tabs or via the form during the financial subscription): The news title and content (including text, graphic illustrations or any other type of content), content of a comment or answer to a comment. </p>
+For your information, when you send a Tip to a Creator, you can decide whether or not to post publicly the comment you make to the Creator when you support him/her financially;
+<p>- <u>Sensitive data when sending a financial contribution to a Creator</u> - by default, the Tips (financial contribution) are public and visible from the Tips list on your member profile. Sometimes, the fact to support a Creator may reveal sensitive or very personal data. For example, by supporting a Creator with a political dimension, you indirectly reveal your political opinion. If you would not like your Tip to be public, Tipeee allows you to set your Tip as "anonymous" To do this, you will need to access the administration of your account (in Preferences &amp; notifications). Your identity shall be only known to Tipeee as well as the Creator to whom you sent a Tip.</p>
+<h3>Concerning the third parties data</h3>
+<p>By writing a presentation of a Creator page or a News, you may be required to enter information about third parties (your partners, people you know, etc.).</p>
+<p>The data processing shall be carried out in accordance with the regulations.</p>
+<p><b>You should check that you have the right to communicate</b> such data to Tipeee and to the public (for example by having the written consent of such third parties) and to provide them with the information on the data processing carried out by Tipeee included in this Privacy Policy.</p>
+<h3>What are the purposes and legal basis for processing the personal data?</h3>
+<p>In accordance with the regulations, any processing of personal data shall - in order to be lawful - be based on one of the legal basis set out in Article 6, or Article 9.2 of the GDPR if it related to the said sensitive data.</p>
+<p>The table below presents the different objectives to be pursued within processing of your personal data and the legal basis for each objective.</p>
+<table class="table table-bordered">
+    <thead><tr>
+        <th><b>The pursued objectives</b></th>
+        <th><b>Legal basis</b></th>
+    </tr></thead>
+    <tbody>
+        <tr>
+            <td>Managing the website visitors</td>
+            <td>Pre-contractual measurements<br><br>
+                Legitimate interests of visitors and users in having the website displayed under optimal conditions</td>
+        </tr>
+        <tr>
+            <td>Managing the registered users of the website</td>
+            <td>Performance of the contracts concluded with the users (management of the creations, modifications and closures of user accounts, the monitoring of the users relations and support)</td>
+        </tr>
+        <tr>
+            <td>Managing the website user support</td>
+            <td>The legitimate interests of Tipeee (improvement of services and offers, the monitoring of the users relations and support)</td>
+        </tr>
+        <tr>
+            <td>Managing the website Creator pages </td>
+            <td>Performance of the contracts concluded with the Creators<br><br>
+                The legitimate interests of Tipeee and compliance with its legal obligations by virtue of the legislation<br><br>
+                For sensitive data communicated by the Creators or by the Tippers: the processing shall be justified since the data have been obviously made public by the concerned persons (Article 9.2 e) of the GDPR)</td>
+        </tr>
+        <tr>
+            <td>Managing the Tips and Funds Transfers </td>
+            <td>Performance of the contracts concluded with the Tippers and the Creators<br><br>The legitimate interests of Tipeee (contribution management) and compliance with its legal obligations by virtue of the legislation (reporting of contributions)<br><br>
+                For sensitive data communicated by the Tippers or revealed by simple fact of supporting a Creator: the processing shall be justified since the data have been obviously made public by the concerned persons (Article 9.2 e) of the GDPR)</td>
+        </tr>
+        <tr>
+            <td>The fight against fraud, money laundering and terrorist financing</td>
+            <td>Compliance with Tipeee legal obligations</td>
+        </tr>
+        <tr>
+            <td>Organizing our marketing operations (audience statistics, performance measurement, commercial prospection, training, etc.)</td>
+            <td>Legitimate interests of Tipeee (elaboration of performance statistics, website audience measurement, administration of dedicated pages on Facebook, Twitter, Instagram, LinkedIn and YouTube, sending newsletters, customer relationship development)</td>
+        </tr>
+        <tr>
+            <td>Managing the complaints, pre-litigation and litigation</td>
+            <td>The legitimate interests of Tipeee or legal obligations according to the case</td>
+        </tr>
+        <tr>
+            <td>Retention of data related to the creation of accounts, connections to the platform, content creations and payments made, with a view to possible legal requisitions</td>
+            <td>Compliance with Tipeee legal obligations</td>
+        </tr>
+        <tr>
+            <td>Managing the users rights</td>
+            <td>Compliance with Tipeee legal obligations</td>
+        </tr>
+    </tbody>
+</table>
+<p>The collection of payments and the funds payment are managed by our payment services providers (MANGOPAY and PAYPAL). They carry out personal data processing - for which they are responsible - as described in their respective privacy policies.</p>
+<p>As part of its legal obligations to combat fraud, money laundering and terrorist financing, TIPEEE and its payment providers carry out data processing, including data combinations, in order to help their partners to determine the level of fraud risk associated with a payment or fundraising. These processing can be used as a justification of the decision of TIPEEE or its service providers to reject a payment or the release of funds.</p>
+<h3>What are the data whose collection and processing are mandatory?</h3>
+<p>The access to certain functionality requires the creation of an account and therefore the communication of some data. By creating an account, you become a user of the Platform Tipeee, allowing you later to become a Tipper and/or Creator.</p>
+<p><u>In order to create a member account</u>, you must enter: a username, your email address and a password. You can also use your Facebook or Google accounts using Facebook Connect and Google Connect features. In this case, the identifiers of your Facebook or Google accounts will be transmitted to us.</p>
+<p><u>In order to create a Creator page</u>, you must enter the following data:
+- the contact details required to contact you: full name, postal address, country of residence, and telephone number;<br>
+- the data for your page - the page name, the page address (URL), the navigation language, the categories to which your page belongs, the relevant tags associated to the page, a graphic illustration, the links of social networks or websites associated with your activity as Creator, the type of funds collection (monthly or by content) and the full description of the page;<br>
+- the data required for the Tips and your identification - banking information, PayPal account email address, proof of your identity (ID card and/or Passport and/or Driver’s License and/or the company registration and your corporation status) depending on whether you are a natural or a legal person.</p>
+<p><u>In order to support a Creator</u> (to become a Tipper), you are required to provide: your full name, your address, your country of residence, your payment information (credit card or the email linked to your PayPal account in case of payment via PayPal), and to provide any proof of identity required for your identification depending on whether you are a natural or a legal person.</p>
+<p>In the event of failure to provide such information, you will not be able to publish your Creator page or to support the Creators on the platform.</p>
+<p>These requirements of data provision are considered hereby within a regulatory and contractual framework (in particular for your proof of identity).</p>
+<p>In order to exercise your rights, providing a proof of identity shall be required. Failure to provide such document can prevent us from responding to your requests.</p>
+<p>This requirement of data provision is of regulatory nature.</p>
+<p>The collection of other data may be mandatory. Any data subject to collection, the contractual or regulatory nature of this obligation related to the data provision, as well as the consequences of failing to provide the relevant data, shall be therefore brought to your attention directly at the time of collection.</p>
+<h3>To whom are we likely to transmit the provided data?</h3>
+<p>- To our subcontractors (web hosts, mailing tools, site security tools, forms manager, audience measurement tools, document sharing tools, navigation trackers on our sites, customer service and support tools, targeted advertising tools on social networks and the Internet). Our subcontractors shall be bound by a confidentiality and security obligation, as well as other obligations listed in the GDPR. We select carefully our subcontractors and we remain, in any event, responsible for the processing of your personal data by our subcontractors.</p>
+<p>- To the Creator whom you support. Tipeee communicates data about you to the Creator so that he can exchange information with you, and that the intended counterparties are addressed to you. These data are at least your email, username, full name, address, amount paid, date and method of payment, selected counterparties. </p>
+<p>- To our partners in the cases where you have expressed your willingness to participate in a particular partner operation. </p>
+<p>- Our online payment service providers (MANGOPAY or PAYPAL) in order to ensure the effective execution of the funds transfers and allow them to fulfil their own due diligence and obligations in the framework of fight against fraud, money laundering and terrorist financing.</p>
+<p>- To governmental bodies and authorities, court auxiliaries, financial control persons (auditors, accountants), anti-fraud, anti-money laundering and anti-terrorism financing entities, exclusively in order to meet our legal obligations.</p>
+<p>Subject to the foregoing, we undertake to never disclose your data to any third party except with your express consent or under very particular circumstances, including but not limited to:</p>
+<p>- If we are brought, because of the law, judicial proceedings, litigation and/or a request from the public authorities, to disclose your data;</p>
+<p>- If we believe that for purposes of national security, of law enforcement or other public interest, the disclosure is necessary or appropriate;</p>
+ 
+<h3>What rights do you have?</h3>
+ 
+<p>Under the terms and conditions set out in the articles 15 and following of the GDPR, you have, (unless an exception was made) the right:</p>
+<p>- To obtain from Tipeee the confirmation that your personal data are not processed and, when the access to such personal data as well as to several details on our processing (right of access - article 15 of the GDPR);</p>
+<p>- To obtain from Tipeee the rectification of you personal data that are inaccurate (right of rectification - article 16 of the GDPR);</p>
+<p>- To obtain from Tipeee the erase of your personal data, in some cases (right of erase or "right to be forgotten" - article 17 of the GDPR);</p>
+<p>- To obtain from Tipeee the restriction of processing, in some cases (Right to restriction of processing - Article 18 of the GDPR);</p>
+<p>- To obtain at any time from Tipeee, on the basis of reasons related to your particular situation, that we no longer proceed to the processing of your personal data, in some cases (right of to object - article 21.1 of the GDPR);</p>
+<p>- To object, at any time, the processing of your personal data for the direct marketing purpose (right to object to such direct marketing - section 21.2 of the GDPR);</p>
+<p>- To lodge a complaint by the competent data protection authority in your Member State or with the National Commission for Information Technology and Individual Freedom (CNIL Commission Nationale de l’Informatique et des Libertés), the French data protection authority;</p>
+<p>- To define, amend and revoke at any time the guidelines relating to the retention, erasure and disclosure of your personal data in the event of your death, pursuant to Article 40-1 of the French law on "Computer Technology and Freedom" These guidelines can be general or specific. We may only be the depository and guardian of any guidelines for the data we process, the general guidelines may be collected and retained by a digital trusted third party certified by the French CNIL.</p>
+<p>You are also entitled to appoint a third party to whom your data may be transferred in the event of death. Therefore, you undertake to inform this third party of your procedure and the fact that identifying data shall be ambiguously provided to us, and to communicate this Privacy Policy to the third party.</p>
+<p>Subject to the proof of your identity and the aforementioned elements, you can exercise your rights by writing to us either at <a href="mailto:dpo@tipeee.com">dpo@tipeee.com</a> or at the following postal address: TIPEEE SAS, 20 rue du Sentier, 75002 Paris, FRANCE.</p>
+<h3>How long do we retain your data?</h3>
+<table class="table table-bordered">
+    <thead><tr>
+        <th><b>The relevant data</b></th>
+        <th><b>Duration of retention</b></th>
+    </tr></thead>
+    <tbody>
+        <tr>
+            <td>Data related to the management of the visitors and members (without Tip or Creator page) </td>
+            <td>If you are an active user (logging to his/her account): for the duration of your account and then 3 months from your account closing request (excluding data required for commercial prospecting that will be retained for 3 years) <br><br>
+                    If you are an inactive user (idle): after 3 years without connecting to your account, we will ask you if you want to keep your account <br><br>
+                    If you wish to close it, your data shall be deleted within 3 months from your request</td>
+        </tr>
+        <tr>
+            <td>Data related to the pages management and to fundraising</td>
+            <td>If you are an active Creator (logging to his/her account): for the duration of your account and then 5 years from your account closing request (to comply with a legal requirements) <br><br>
+                    If you are an inactive Creator (idle account): after 5 years without connecting to your account, we will ask you if you want to keep your account <br><br>
+                    If you wish to close it, your data shall be deleted within 3 months from your request</td>
+        </tr>
+        <tr>
+            <td>Data related to the Tips management and funds transfers</td>
+            <td>If you are an active Tipper : for the duration of your account and then 5 years from your account closing request (to comply with a legal requirements) <br><br>
+                    If you are an inactive Tipper (idle account): after 5 years without connecting to your account, we will ask you if you want to keep your account <br><br>
+                    If you wish to close it, your data shall be deleted within 3 months from your request</td>
+        </tr>
+        <tr>
+            <td>Banking details</td>
+            <td>Within the duration of your account (in particular to manage the recurring tips and the monthly payment of funds for the Creators) and 15 months after the termination of your account for the purposes of evidence in case of a disputed withdrawals</td>
+        </tr>
+        <tr>
+            <td>Comments, internal messages or page descriptions</td>
+            <td>Deleted at the termination of the account, or anonymised upon the request of the concerned User</td>
+        </tr>
+        <tr>
+            <td>Commercial prospecting</td>
+            <td>3 years from the end of our contractual relationship, unless you notify your objection</td>
+        </tr>
+        <tr>
+            <td>Performance statistics</td>
+            <td>No duration when our statistics are made on the basis of anonymous data</td>
+        </tr>
+        <tr>
+            <td>Cookies and trackers</td>
+            <td>13 months after the first deposit in your terminal equipment</td>
+        </tr>
+        <tr>
+            <td>Data relating to our obligations to fight against fraud, money laundering and the terrorist financing</td>
+            <td>5 years from the termination of the contractual relationship or the termination of your account in respect of the identity data and documents <br><br>
+                    5 years from the performance of the financial transaction in respect of the documents and information relating to the performed transactions</td>
+        </tr>
+        <tr>
+            <td>Data related to the management of pre-litigation and litigation</td>
+            <td>In case of pre-litigation, the erase soon as an amicable settlement is reached, or as result of a legal proceeding <br><br>
+                In the case of litigation, the erase in the case of last resort, with the decision to do so</td>
+        </tr>
+        <tr>
+            <td>Data related to your directives concerning the fate of your data in the event of death</td>
+            <td>As long as the data concerned by the directives shall be retained</td>
+        </tr>
+        <tr>
+            <td>Data related to the exercise of your rights </td>
+            <td>5 years following the date of exercise of your right</td>
+        </tr>
+        <tr>
+            <td>Copy of the identity proof submitted within the exercise of your rights</td>
+            <td>1 year from the date of receipt</td>
+        </tr>
+    </tbody>
+</table>
+<h3>Who is the person that you can contact to answer your questions about your data?</h3>
+<p>We appointed a Data Protection Officer. He is your contact person for any question regarding the data processing by Tipeee. He can be contacted at <a href="mailto:dpo@tipeee.com">dpo@tipeee.com</a> or at the following postal address: TIPEEE SAS, Protection des données, 20 rue du Sentier, Paris, FRANCE.</p>
+	</div>
+        </div>
+
+        <div class="application-init" data-template-id="site_admin_popup"></div>
+        <script type="text/template" id="site_admin_popup">
+        <% if (user) { $.get(Routing.generate('app.adminpopup'), function(result){ $('body').append(result); }); } %>        </script>
+        
+          <script type="text/javascript">
+          require(['jQuery', 'cookieClass'], function(){ if(CookieClass.readCookie('bodyWithLeftMenu') == 1){ $('#body-wrapper').addClass('body-with-leftmenu').append('<div id="leftbar-dummy" class="nav-leftfixed-container">loading...</div>'); } });          </script>
+
+          <div class="application-init" data-template-id="site_dashboard_nav"></div>
+          <script type="text/template" id="site_dashboard_nav">
+
+          <% require(['jQuery', 'cookieClass', 'eventsListener'], function(){ if (user) { $.get(Routing.generate('get_me_projects_api_v1'),function(result){ if(result.projects && result.projects.length> 0) { if(CookieClass.readCookie('bodyWithLeftMenu') != 1) CookieClass.createCookie('bodyWithLeftMenu', 1); var route = 'sites.privacy'; var urlArr = window.location.href.replace('//en.tipeee.com//','').replace('//en.tipeee.com/','').replace('https:','').replace('http:','').split('/'); var currentProjectPageSlug = ((route.indexOf('app.project')> -1 && route.indexOf('app.projects') == -1 || route.indexOf('app.dashboard')> -1) && urlArr.length> 0) ? urlArr[0] : ''; var selectedProject = result.projects[0]; var onProjectPage = '0'; if(currentProjectPageSlug == '' && window.location.href.indexOf('/create/')> -1 && urlArr[1] && urlArr[1] != 'new') { currentProjectPageSlug = urlArr[1]; } for(var o in result.projects) { var project = result.projects[o]; if(currentProjectPageSlug == '' && CookieClass.readCookie('selectedProject')) { if(CookieClass.readCookie('selectedProject') == project.slug) selectedProject = project; } else if(project.slug == currentProjectPageSlug){ selectedProject = project; if(route.indexOf('app.dashboard') == -1) onProjectPage = '1'; CookieClass.createCookie('selectedProject', project.slug); } } $.get(Routing.generate('app.dashboard.nav', {'project': selectedProject.slug, 'onProjectPage': onProjectPage }), function(nav){ $('#leftbar-dummy').remove(); $('#body-wrapper').addClass('body-with-leftmenu').prepend(nav); window.eventsListener.dispatch('domResized'); }) } else { if(CookieClass.readCookie('bodyWithLeftMenu') == 1){ CookieClass.eraseCookie('bodyWithLeftMenu'); $('#leftbar-dummy').remove(); $('#body-wrapper').removeClass('body-with-leftmenu'); window.eventsListener.dispatch('domResized'); } } }); } else { if(CookieClass.readCookie('bodyWithLeftMenu') == 1){ CookieClass.eraseCookie('bodyWithLeftMenu'); $('#leftbar-dummy').remove(); $('#body-wrapper').removeClass('body-with-leftmenu'); window.eventsListener.dispatch('domResized'); } } }); %>          </script>
+        
+        <footer id="site-footer">
+<div class="grid-xlarge">
+  <div class="row">
+    <div class="col-md-3 col-xs-6">
+        <h4>About Tipeee</h4>
+        <ul>
+          <li><a href="/about">How it works</a></li>
+          <li><a href="/become-a-creator">Become a Creator</a></li>
+          <li><a href="/about/team">Who are we?</a></li>
+          <li><a href="/about/jobs">Jobs</a></li>
+        </ul>
+    </div>
+    <div class="col-md-3 col-xs-6">
+      <h4>Help</h4>
+        <ul>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/legal">Legal Information</a></li>
+          <li><a href="/terms">Terms and Conditions of Use</a></li>
+          <li><a href="/privacy">Privacy Policy</a></li>
+          <li><a href="/cookies">Cookie Policy</a></li>
+        </ul>
+    </div>
+    <div class="col-md-6 col-xs-12">
+        <h4>Discover Creators</h4>
+                <div class="row">
+          <ul class="col-md-4 col-xs-6">
+                      <li><a href="/creators/art-culture">Art &amp; Culture</a></li>
+                      <li><a href="/creators/bd-illustration">BD &amp; Illustration</a></li>
+                      <li><a href="/creators/cosplay">Cosplay</a></li>
+                      <li><a href="/creators/fashion">Fashion &amp; Beauty</a></li>
+                      <li><a href="/creators/food">Food</a></li>
+                      <li><a href="/creators/geek">Geek</a></li>
+                      <li><a href="/creators/health-well-being">Health &amp; Well-being</a></li>
+                    </ul>
+          <ul class="col-md-4 col-xs-6">
+                      <li><a href="/creators/history">History</a></li>
+                      <li><a href="/creators/humour">Humour</a></li>
+                      <li><a href="/creators/journalism">Journalism</a></li>
+                      <li><a href="/creators/books">Literature</a></li>
+                      <li><a href="/creators/movies">Movies</a></li>
+                      <li><a href="/creators/music">Music</a></li>
+                      <li><a href="/creators/nature">Nature</a></li>
+                    </ul>
+          <ul class="col-md-4 col-xs-6">
+                      <li><a href="/creators/other">Other</a></li>
+                      <li><a href="/creators/performing-arts">Performance &amp; Live</a></li>
+                      <li><a href="/creators/photography">Photo</a></li>
+                      <li><a href="/creators/podcast">Podcast</a></li>
+                      <li><a href="/creators/science-technology">Science &amp; Technology</a></li>
+                      <li><a href="/creators/sports">Sports</a></li>
+                      <li><a href="/creators/streaming">Streaming</a></li>
+                      <li><a href="/creators/video-game">Video game</a></li>
+                      <li><a href="/creators/vlog">Vlog</a></li>
+                    </ul>
+        </div>
+    </div>
+  </div>
+  <div class="row bottom-links">
+    <div class="col-md-6">
+      <img src="/img/tipeee-logo-com.png" alt="Tipeee" class="logo"> <span class="copyright">© 2013-2019</span>
+    </div>
+    <div class="col-md-6">
+      <ul>
+        <li class="lang-menu">
+
+            <div class="dropdown dropup right">
+              <a href="#" class="btn dropdown-toggle btn-sm" data-toggle="dropdown" aria-expanded="false"><span class="fas fa-globe-europe icon"></span> Language : English&nbsp;<span class="caret"></span>
+              </a>
+                <ul class="dropdown-menu right">
+                                      <li><a class="site_change__locale" aria-label="Next" href="/privacy">
+                      English
+                    </a></li>
+                                      <li><a class="site_change__locale" aria-label="Next" href="//fr.tipeee.com/privacy">
+                      Français
+                    </a></li>
+                                      <li><a class="site_change__locale" aria-label="Next" href="//de.tipeee.com/privacy">
+                      Deutsch
+                    </a></li>
+                                      <li><a class="site_change__locale" aria-label="Next" href="//es.tipeee.com/privacy">
+                      Español
+                    </a></li>
+                                      <li><a class="site_change__locale" aria-label="Next" href="//it.tipeee.com/privacy">
+                      Italiano
+                    </a></li>
+                                  </ul>
+            </div>
+        </li>
+        <li class="social-links">
+          <a href="https://www.facebook.com/TipeeeOfficiel" class="icon facebook" target="_blank"><span class="fab fa-facebook-f social-icon"></span></a>
+
+          <a href="https://twitter.com/tipeee_officiel" class="icon twitter" target="_blank"><span class="fab fa-twitter social-icon"></span></a>
+          <a href="https://www.youtube.com/channel/UCLJadsl33hJwT9jtzftRDRw" class="icon youtube" target="_blank"><span class="fab fa-youtube social-icon"></span></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">;require(['jQuery'],function(){let accessToken=localStorage.getItem('accessToken');if(accessToken){$('.site_change__locale').each(function(){$(this).attr('href',$(this).attr('href')+'#accessToken='+accessToken)})}})</script></footer>
+
+        <script type="text/javascript">;require(['jQuery'],function(){var i=$('footer').height();if(i>150)i=150;$('.full-height').each(function(){$(this).css({'min-height':$(window).height()-$(this).offset().top-i+'px'})})});</script>
+        <script type="text/javascript">;require(['application','google'],function(){var e='882254650410.apps.googleusercontent.com',t='openid email profile https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/youtube.force-ssl';gapi.load('auth2',()=>{auth2=gapi.auth2.init({client_id:e,scope:t});window.auth2=auth2});application().init();application().addProcess(()=>{setInterval(()=>{if(auth2.currentUser.get().Zi.expires_at-new Date<1800000){auth2.currentUser.get().reloadAuthResponse()}},300000)})});</script>
+          <script type="text/javascript">;require(['jQuery'],function(){let hash=window.location.hash;if(hash.startsWith('#accessToken=')){let splits=hash.split('#accessToken=');if(splits.length===2&&splits[1]){localStorage.setItem('accessToken',splits[1]);window.location.hash=''}}})</script>
+      <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d00b0aa893","applicationID":"70745812","transactionName":"NAYDZRFWDRJXW0NfXA1MIFIXXgwPGUteQlYQTRFDCkECAk8=","queueTime":0,"applicationTime":180,"atts":"GEEAE1lMHhw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
