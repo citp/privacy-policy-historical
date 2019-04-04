@@ -1,131 +1,567 @@
-<!--The following is the downloaded HTML source of the yabla.com privacy policy that was archived on 2007-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071015132759id_/http%3A//home.yabla.com/product/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yabla.com privacy policy that was archived on 2019-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190405005933id_/http%3A//www.yabla.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
-	<meta http-equiv="Content-Type" content="text/html;  charset=UTF-8">
+<!DOCTYPE html><html lang="en"><head>
+
+
+
+
+<title>Yabla - Privacy Policy</title>
+<!-- 0.00s rey.yabla.com-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="msapplication-config" content="none">
+<link rel="apple-touch-icon" href="//yabla.vo.llnwd.net/media.yabla.com/images/apple_touch.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//yabla.vo.llnwd.net/media.yabla.com/images/apple-touch-icon-76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//yabla.vo.llnwd.net/media.yabla.com/images/apple-touch-icon-120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//yabla.vo.llnwd.net/media.yabla.com/images/apple-touch-icon-152.png">
+<link rel="shortcut icon" href="//yabla.vo.llnwd.net/media.yabla.com/images/favicon.ico">
+<link rel="alternate" hreflang="en" href="https://www.yabla.com/privacy.php">
+<link rel="alternate" hreflang="es" href="https://www.yabla.com/es/privacy.php">
+<link rel="alternate" hreflang="fr" href="https://www.yabla.com/fr/privacy.php">
+<link rel="alternate" hreflang="de" href="https://www.yabla.com/de/privacy.php">
+<link rel="alternate" hreflang="it" href="https://www.yabla.com/it/privacy.php">
+<link rel="alternate" hreflang="pt" href="https://www.yabla.com/pt/privacy.php">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="/styles/google_fonts/font_stack.css?3" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/styles/font-awesome-4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/styles/yabla-styles.css?1553388387">
+
+
+<style>
+h3 {
+	margin:12px 0 6px;
+}
+p {
+	margin-bottom: 10px;
+}
+</style>
+
+
+<script src="/js/error_beacon.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    var _errs=["4f7c3eade39dc3072a04f6e9"];(function(a,b){ a.onerror=function(){ _errs.push(arguments)};
+    var d=function(){ var a=b.createElement("script"),c=b.getElementsByTagName("script")[0];
+    a.src="/js/error_beacon.js";a.async=!0;
+    c.parentNode.insertBefore(a,c)};a.addEventListener?a.addEventListener("load",d,!1):
+    a.attachEvent("onload",d)})(window,document);
+</script>
+
+<script>var LOGGED_IN = false;</script>
+<script type="text/javascript" src="//yabla.vo.llnwd.net/media.yabla.com/js/jquery.min.js"></script>
+<script src="//yabla.vo.llnwd.net/media.yabla.com/js/bootstrap.min.js"></script>
+
+<script>
+$(function(){
+	function hideDropdowns(){
+		$('.dropdown').hide();
+		edMenuDismiss(true);
+	}
+	$('header .user').on('click touchend',function(e){
+		e.stopPropagation();
+		e.preventDefault();
+		var $user_dd = $('header .user-dropdown');
+		if($user_dd.is(':visible')) {
+			$(window).off('.user-dd');
+			$user_dd.hide();
+			return;
+		}
+		hideDropdowns();
+		$user_dd.show();
+		$(window).on('click.user-dd touchend.user-dd',function (e){
+			console.log("window click ");
+			console.log(e);
+			if($(e.target).closest('.dropdown').length) {
+				console.log("event contains target");
+				return;
+			}
+			$user_dd.hide();
+			$(window).off('.user-dd');
+		});
+	});
+	$('header .select-lang').on('click touchend',function(e){
+		e.stopPropagation();
+		e.preventDefault();
+		var $lang_dd = $('header .lang-dropdown');
+		if($lang_dd.is(':visible')) {
+			$(window).off('.lang-dd');
+			$lang_dd.hide();
+			return;
+		}
+		hideDropdowns();
+		$lang_dd.show();
+		$(window).on('click.lang-dd touchend.lang-dd',function (e){
+			if($(e.target).closest('.dropdown').length) return;
+			$lang_dd.hide();
+			$(window).off('.lang-dd touchend.lang-dd');
+		});
+	});
+	$('header .translate-link').on('click touchend',function(e){
+		e.stopPropagation();
+		var $translate_dd = $('header .translate-dropdown');
+		if($translate_dd.is(':visible')) {
+			$(window).off('.lang-dd');
+			$translate_dd.hide();
+			return;
+		}
+		hideDropdowns();
+		$translate_dd.show();
+		$(window).on('click.trans-dd touchend.trans-dd',function (e){
+			if($(e.target).closest('.dropdown').length) return;
+			$translate_dd.hide();
+			$(window).off('.trans-dd');
+		});
+	});
+	$('header .mobile_slide').on('touchend click',function(){
+		e.stopPropagation();
+	});
+	$('header .mobile_slide .close_link').on('touchend click',function(){
+		$('header .mobile_slide').removeClass('active');
+		$('body').off('.burger');
+	});
+	$('header #site-hamburger').on('click',function(e){
+		e.preventDefault();
+		e.stopPropagation();
+		$('header .mobile_slide').addClass('active');
+		$('body').on('touchend.burger click.burger',function(e){
+			if($(e.target).closest('.mobile_slide').length) {
+				return;
+			} else {
+				$('header .mobile_slide').removeClass('active');
+				$('body').off('.burger');
+			}
+		});
+	});
+
+
+	$('.ed_menu_btn').on('click touchend',function(e) {
+		e.stopPropagation();
+		e.preventDefault();
 		
-	<title>yabla e-mersion » Privacy Policy</title>
-	
-	<link rel="stylesheet" type="text/css" href="global.css">
-	
+		if($(this).hasClass('showing')) {
+			edMenuDismiss();
+		} else {
+			hideDropdowns();
+			edMenuShow();
+			$('body').on('click.ed_cancel touchend.ed_cancel',function(e){
+				if($(e.target).closest('#modal_master').length) {
+					return;
+				}
+				
+				edMenuDismiss();
+				$(this).off('.ed_cancel');
+			});
+		}
+	})
+
+	$('.ed_menu').find('a').on('click touchend',function(e){
+		e.stopPropagation();
+	}).end()
+
+	var ed_interval;
+	var history_pushes = 0;
+	function  edMenuShow() {
+		if(history_pushes == 0) {
+			window.history.pushState({ action: 'ed_menu_show' }, 'Educators Menu');
+			history_pushes++;
+			$(window).on('popstate.ed_pop',function(e) {
+				history_pushes--;
+				edMenuDismiss();
+			});
+		}
 		
-	<link rel="stylesheet" type="text/css" href="/styles/pages/privacy.css">
-	<script language="javascript" src="/js/js_functions.js"></script>
-	<script language="javascript" src="/js/.js"></script>
-	<script language="javascript" src="/js/pages/privacy.js"></script>
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-   </script>
-   <script type="text/javascript">
-   _uacct = "UA-237894-1";
-   urchinTracker();
-   </script>
+		clearTimeout(ed_interval);
+		$('.ed_menu').show().stop().removeClass('hiding');
+		$('.ed_menu_btn').addClass('showing');
+		// refresh if expired...
+		$.get('ed_menu_check.php',
+			{ last_changed_at: $('.ed_menu').data('last_changed_at') },
+			function(data){
+				if(data.html) {
+					// a bit ugly, but prevents flickering
+					$('.ed_menu .ed_menu_inner').replaceWith( $(data.html).find('.ed_menu_inner') );
+				}
+				
+			});
+	}
+	function edMenuDismiss(fast) {
+		// 
+		if(history_pushes == 1) {
+			window.history.back();
+			return;
+		}
+		$('.ed_menu').addClass('hiding');
+		ed_interval = setTimeout(function(){
+			$('.ed_menu').hide();
+		},fast ? 0 : 400)
 		
+		$('.ed_menu_btn').removeClass('showing');
+		$(window).off('.ed_pop');
+		
+	}
+	$('.ed_menu .invite').on('click',function(e){
+		e.preventDefault();
+		e.stopPropagation();
+		var $dialog = $('.ed_code_signup')
+			.addClass('hide_teacher_text hide_student_text')
+			.removeClass('hide_' + $(this).data('user_type') + '_text');
+
+		$dialog.find('[name=code_url]').val( $(this).data('url') );
+		$dialog.find('.text_code').text( $(this).data('code') );
+		Modal_Master.show($('.ed_code_signup'));
+		$dialog.find('[name=code_url]').focus();
+	})
+})
+
+
+</script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() { 
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  } )(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+// TODO: (GTM) connect user_id through GTM
+	ga('create', {
+		trackingId: 'UA-237894-17',
+		cookieDomain: 'auto',
+			});
+
 	
+
+
+  window.optimizely = window.optimizely || [];
+  window.optimizely.push("activateUniversalAnalytics");	
+
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+
+
+ 
+
 </head>
+<body class="page">
 
-<body bgcolor="#ffffff">
-
-<table width="100%" height="100%">
-<tbody><tr>
-	<td align="center" valign="top">
-		<table cellpadding="1">
-		<tbody><tr>
-			<td bgcolor="#333333" valign="top">
-				<table cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-					<td height="84" bgcolor="#ffffff">
-						<!-- NAV TEMPLATE START -->
-
-<table width="748" height="84" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td bgcolor="#ffffff" height="20" align="right"></td>
-	</tr>
-					<!-- <script type="text/javascript" src="includes/offset.js"></script> -->
-			<tr>
-		<td background="../../images/logosProduct/14.gif" height="48" align="right">
-	
-		<span class="smtext">
 		
-						
-			Monday 15 October 2007 01:27 PM GMT Greenwich Mean Time&nbsp;
-			
-					
-		</span>
 	
-	</td></tr>
-	<tr>
-		<td bgcolor="#ffffff">
-			<table cellspacing="1" cellpadding="0">
-				<tbody><tr><td bgcolor="#6699cc" onmouseout="this.style.backgroundColor='#6699cc';" onmouseover="this.style.backgroundColor='#ff9900';" align="center" width="106" height="20"><a href="home.php" class="link3">HOME</a></td><td bgcolor="#6699cc" onmouseout="this.style.backgroundColor='#6699cc';" onmouseover="this.style.backgroundColor='#ff9900';" align="center" width="106" height="20"><a href="about.php" class="link3">ABOUT</a></td><td bgcolor="#6699cc" onmouseout="this.style.backgroundColor='#6699cc';" onmouseover="this.style.backgroundColor='#ff9900';" align="center" width="106" height="20"><a href="spanish.php" class="link3">SPANISH</a></td><td bgcolor="#6699cc" onmouseout="this.style.backgroundColor='#6699cc';" onmouseover="this.style.backgroundColor='#ff9900';" align="center" width="106" height="20"><a href="french.php" class="link3">FRENCH</a></td><td bgcolor="#6699cc" onmouseout="this.style.backgroundColor='#6699cc';" onmouseover="this.style.backgroundColor='#ff9900';" align="center" width="106" height="20"><a href="eslefl.php" class="link3">ESL/EFL</a></td><td bgcolor="#6699cc" onmouseout="this.style.backgroundColor='#6699cc';" onmouseover="this.style.backgroundColor='#ff9900';" align="center" width="106" height="20"><a href="edu_demo.php" class="link3">EDUCATORS</a></td><td bgcolor="#6699cc" onmouseout="this.style.backgroundColor='#6699cc';" onmouseover="this.style.backgroundColor='#ff9900';" align="center" width="106" height="20"><a href="faq.php" class="link3">FAQ</a></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+		<header>
+	<div class="container">
+		<div class="row">
 
-<!-- NAV TEMPLATE END -->
-					</td>
-				</tr>
-				<tr>
-					<td valign="top" bgcolor="#ffffff">
-					   
+			<div id="site-title" class="mast"><a href="/">Yabla</a></div>
+			
+			<nav id="pre-nav">
+				
+								<div class="page-translation">
+					<span class="translate-link">
+						<label>Translate page:</label>
+						<span> <i class="fa fa-chevron-down"></i></span>
+					</span>
+					<div class="dropdown translate-dropdown">
+						<ul>
+														<li>
+								<a href="https://www.yabla.com/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-en.png" class="flag-indicator"> 
+									English <span class="check">✓</span>
+								</a>
+							</li>
+														<li>
+								<a href="https://www.yabla.com/es/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-es.png" class="flag-indicator"> 
+									Español <span class="check"></span>
+								</a>
+							</li>
+														<li>
+								<a href="https://www.yabla.com/fr/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-fr.png" class="flag-indicator"> 
+									Français <span class="check"></span>
+								</a>
+							</li>
+														<li>
+								<a href="https://www.yabla.com/de/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-de.png" class="flag-indicator"> 
+									Deutsch <span class="check"></span>
+								</a>
+							</li>
+														<li>
+								<a href="https://www.yabla.com/it/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-it.png" class="flag-indicator"> 
+									Italiano <span class="check"></span>
+								</a>
+							</li>
+														<li>
+								<a href="https://www.yabla.com/pt/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-pt.png" class="flag-indicator"> 
+									Português <span class="check"></span>
+								</a>
+							</li>
+													</ul>
+					</div>
 					
-						<div id="text" style="margin:20px;width:700px">
-<div id="header"><b>YABLA PRIVACY POLICY</b></div>
+				</div>
+								<a href="login.php" class="btn outline login-button">Sign in</a>
+				<a href="subscribe.php" class="btn yabla-blue subscribe-button-y">Subscribe</a>
+			</nav>
+		</div>
 
+		<div class="row">
+			<nav id="page-nav">
+				<ul>
+									<li>
+						<a href="classroom.php" class=" " "="">
+							Educators
+						</a>
+					</li>
+									<li>
+						<a href="about.php" class=" " "="">
+							About
+						</a>
+					</li>
+									<li>
+						<a href="faq.php" class=" " "="">
+							Faq
+						</a>
+					</li>
+								</ul>
+				
+			</nav>
+
+			<div id="site-lang">
+				<a href="#" class="select-lang lang-button">
+											Yabla Language <i class="fa fa-chevron-down"></i>
+									</a>
+				<div class="lang-dropdown dropdown">
+					<ul>
+						<li class="label">Learn</li>
+												<li><a href="//spanish.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-es.png" class="lang-ind"> Spanish</a></li>
+												<li><a href="//french.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-fr.png" class="lang-ind"> French</a></li>
+												<li><a href="//german.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-de.png" class="lang-ind"> German</a></li>
+												<li><a href="//italian.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-it.png" class="lang-ind"> Italian</a></li>
+												<li><a href="//chinese.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-zh.png" class="lang-ind"> Chinese</a></li>
+												<li><a href="//english.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-en.png" class="lang-ind"> English</a></li>
+											</ul>
+				</div>
+				
+			</div>
+		</div>
+		<div id="site-hamburger"><i class="fa fa-navicon"></i></div>
+	</div><!-- end container -->
+
+	<div class="mobile_slide">
+		
+		<div class="mobile_scroll">
+			<div class="close_link"><i class="fa fa-times"></i></div>
+			<div class="mobile_product_name">Yabla</div>
+			<ul class="links">
+							<li>
+					<a href="classroom.php" class="">Educators</a>
+				</li>
+							<li>
+					<a href="about.php" class="">About</a>
+				</li>
+							<li>
+					<a href="faq.php" class="">Faq</a>
+				</li>
+						</ul>
+			<ul class="learn_options">
+				<li class="label">Learn</li>
+								<li><a href="//spanish.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-es.png" class="lang-ind"> Spanish</a></li>
+								<li><a href="//french.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-fr.png" class="lang-ind"> French</a></li>
+								<li><a href="//german.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-de.png" class="lang-ind"> German</a></li>
+								<li><a href="//italian.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-it.png" class="lang-ind"> Italian</a></li>
+								<li><a href="//chinese.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-zh.png" class="lang-ind"> Chinese</a></li>
+								<li><a href="//english.yabla.com/"><img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-lang-en.png" class="lang-ind"> English</a></li>
+							</ul>
+							<ul>
+				<li class="label">Translate Page</li>
+									<li class="translation">
+						<a href="https://www.yabla.com/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-en.png" class="flag-indicator"> 
+							English <span class="check">✓</span>
+
+						</a>
+					</li>
+									<li class="translation">
+						<a href="https://www.yabla.com/es/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-es.png" class="flag-indicator"> 
+							Español <span class="check"></span>
+
+						</a>
+					</li>
+									<li class="translation">
+						<a href="https://www.yabla.com/fr/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-fr.png" class="flag-indicator"> 
+							Français <span class="check"></span>
+
+						</a>
+					</li>
+									<li class="translation">
+						<a href="https://www.yabla.com/de/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-de.png" class="flag-indicator"> 
+							Deutsch <span class="check"></span>
+
+						</a>
+					</li>
+									<li class="translation">
+						<a href="https://www.yabla.com/it/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-it.png" class="flag-indicator"> 
+							Italiano <span class="check"></span>
+
+						</a>
+					</li>
+									<li class="translation">
+						<a href="https://www.yabla.com/pt/privacy.php"> <img src="//yabla.vo.llnwd.net/media.yabla.com/images/lang_icons/icon-pt.png" class="flag-indicator"> 
+							Português <span class="check"></span>
+
+						</a>
+					</li>
+								</ul>
+					</div>
+	</div>
+</header>
+
+	
+	
+	
+
+<section class="container" style="padding:30px 0;">
+<div class="col-md-6 col-md-offset-3">
+
+<h2>Yabla Data Policy</h2>
+
+<p>Yabla tracks information about usage of the site. Much of this data is required to provide functionality of the site. For example, scores when completing Yabla activities, or tracking what videos have been watched or bookmarked. We also require paying subscribers to provide basic information such as an email address. We also track activity on the site for the purposes like customer support and analysis to determine which features are popular on the site. We also offer a commenting feature thus collect original user generated content.</p>
+
+<p>This data is stored on Yabla controlled servers in a data center located in the US and managed by Linode, Inc. The servers are physically secured, and access to subscriber information is limited to Yabla employed customer support personnel and Yabla employed software engineers. We also store backups using Amazon's AWS S3 system. This is stored in the US East region.</p>
+
+<p>We collect payment information and pass it to payment providers. We store no credit card numbers and our payment providers do not make the credit card numbers available to us. Our payment providers include Stripe, PayPal, and Apple for inApp payments.</p>
+
+<p>We also use Google Analytics to monitor page views and event data on the site. We do not send personally identifiable information to Google Analytics such as email addresses. Google Analytics uses 1st-party (Yabla specific) cookies to identify and tag devices.</p>  
+
+<p>We collect email addresses when new subscribers sign up, and when people ask to be added to the mailing list. This information is stored on our servers, and passed to MailChimp. We use MailChimps platform to compose and send email campaigns. Subscribers can opt out of email communication via the emails sent or on our site.</p>
+
+<p>We use various forms of advertising, primarily Facebook and Google Adwords. When a user visits our site, we send a tracking pixel to Google and Facebook which includes a cookie to identify the device. This enables advertising commonly referred to as re-targeting. Regardless of how a user reaches our site, the user may see Yabla advertising on Facebook or elsewhere on the web via Adwords. We also send a similar tracking pixels when a user completes an action such as purchasing a subscription. This enables Yabla to see the effectiveness of advertising. While we send no personally identifiable information, the reach of Facebook and Google means they generally can know who purchased a subscription to Yabla or visited Yabla. They don't make this information available to us, e.g. we don't get a list of Facebook users that visited or signed up for Yabla. While we don't offer a way to opt out of this tracking, many ad blocking tools can stop this tracking. We frequently verify that Yabla's site works when users run ad blocking software.</p>
+
+<p>For school and university subscribers, we offer an option to turn off all 3rd-party communication. This feature can be enabled with a request to support@yabla.com</p>
+
+<p>On our servers which we control, we retain subscriber activity that is required for the service to function indefinitely. For information we use for internal analytics and logging, the data is purged within 6 months from our production systems, and within a year for all backup information to be purged.</p>
+
+<p>We believe in the right to be forgotten. We have a procedure to remove all personally identifiable information. Our standard procedure is to replace names and emails with anonymous information, and delete device identifiers and IP address information for that user. Requests for deletion can be made by emailing support@yabla.com. We reserve the right to delay the deletion for up to 90 days if there are outstanding payment issues which would require contact information. A complete purge from offline backups may require up to 6 months.</p>
+
+<p>Any subscriber data can be made available to the subsriber. We will provide all subscriber data upon request to support@yabla.com. This will include all data from our production system relevant to the user requesting their own information.</p>
+
+<p>Additional information about Yabla's data handling can be requested by contacting privacy@yabla.com.</p>
+
+<h2>FERPA and COPPA compliance</h2>
+<p><b>FERPA</b>  Yabla complies with all FERPA data protection requirements for student personal information. Our US school student data is stored in US data centers with strong physical security. All data at rest and in transit is encrypted. Our site is tested and audited for security regularly. We operate with added security and audits because we are an e-commerce business processing payments. Employee access to student data is limited and logged.</p>
+
+<p>The information we collect from schools is limited to Directory Information (class rosters) which is permitted by FERPA rules. We also collect student activity on the site such as responses to multiple choice questions. We do not collect any free form or creative responses from students such as essays. While we record scores for various student activity, we do not have access to grades or course transcripts for students. All data we collect is stored with FERPA compliance.</p>
+
+
+<p><b>COPPA</b> When Yabla is used with student accounts in the default configuration, we collect student first and last names,a screen name/email, and use cookies to preserve logins. If the student is under age 13, consent for sharing the names and screen name is required by the parent or guardian. We use this information to identify and share the students activity on the site with the student's teacher. We <b>do not</b> collect, addresses, phone numbers, SSNs, geo-location information, creative content from the student such as essays, photos, or audio.</p>
+
+<p>Yabla can also be used at schools without requiring a students name or screen name, thus no COPPA personal information is shared. Some schools opt to only create "lab" accounts, e.g. "lab computer 4", and the students name is not shared with Yabla. Schools can also purchase a subscription where all Yabla content is accessible from the schools network without any login identifiers.</p>
+
+
+<h2>Yabla Privacy Policy</h2>
+ 
+<h3>Your Privacy</h3>
+<p>
+Yabla will not give, rent, sell or otherwise distribute your email address or any other personal information to any third party without your explicit consent. The only exception to this policy will take place if it is necessary to disclose information to law enforcement or other government authorities as part of an investigation, and the law demands that we comply.</p> 
+<h3>Cookies</h3>
+<p>
+Yabla may use cookies (small text files accessed by your web browser) as a way to track referrals from our marketing partners and credit them appropriately when necessary. No private personal subscriber information is transmitted to our marketing partners. Cookies may also be used to allow the Yabla server to recognize your computer when you log into the site.</p> 
+<h3>Changes to this Policy</h3>
 <p> 
+Yabla reserves the right to change, modify or amend this policy at any time. Any such update will be posted here.</p>
 
-Your Privacy<br>
-Yabla will not give, rent, sell or otherwise distribute your email address or any other personal information to any third party without your explicit consent. The only exception to this policy will take place if it is necessary to disclose information to law enforcement or other government authorities as part of an investigation, and the law demands that we comply.
-</p><p> 
-Cookies<br>
-Yabla may use cookies (small text files accessed by your web browser) as a way to track referrals from our marketing partners and credit them appropriately when necessary. No private personal customer information is transmitted to our marketing partners. Cookies may also be used to allow the Yabla server to recognize your computer when you log into the site.
-</p><p> 
-Changes to this Policy<br>
-Yabla reserves the right to change, modify or amend this policy at any time. Any such update will be posted here.
-</p><p> 
-Questions about the Yabla Privacy Policy? <br>
-Write to us at: <a href="mailto:privacy@yabla.com" onmouseover="this.style.color='#333333';" onmouseout="this.style.color='#ff9900';" class="link1">privacy@yabla.com</a>
+<h3>Questions about the Yabla Privacy Policy?</h3>
+<p>
+Write to us at: <a href="mailto:privacy@yabla.com">privacy@yabla.com</a>
+</p>
+<br>
+<br>
+</div></section>
 
-</p></div>						
-					</td>
-				</tr>
-				
-				<!-- FOOTER TEMPLATE START -->
 
-<tr>
-	<td bgcolor="#ffffff" align="left">		
-		<table width="748" border="0" class="">
-		<tbody><tr>
-							<td width="270"></td>
-						
-			<td width="85"></td>
-			<td width="15"></td>
-			
-			<td><a href="privacy.php" class="link1">privacy policy</a></td>
-			<td width="10"></td>
-			<td><a href="terms.php" class="link1">terms of use</a></td>
-			<td width="10"></td>
-			<td><a href="http://home.yabla.com/" class="link1">yabla inc.</a></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
+
 	
-<!-- FOOTER TEMPLATE END -->
-				
-				</tbody></table>
-				
-			</td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
+		<footer id="footer">
+	<div class="container">
+		<div class="row main-footer">
+			<ul>
+				<h3 class="reg">Yabla Languages</h3>
 
-<form name="page_tell">
-	<input type="hidden" name="page" value="pages/privacy">
-</form>
+								<li><a href="https://spanish.yabla.com/">Learn Spanish</a></li>
+				<li><a href="https://french.yabla.com/">Learn French</a></li>
+				<li><a href="https://italian.yabla.com/">Learn Italian</a></li>
+				<li><a href="https://chinese.yabla.com/">Learn Chinese</a></li>
+				<li><a href="https://german.yabla.com/">Learn German</a></li>
+				<li><a href="https://english.yabla.com/">Learn English</a></li>
+							</ul>		
+
+			<ul>
+				<h3 class="reg">Get Yabla</h3>
+				<li><a href="subscribe.php">Buy Individual subscription</a></li>
+				<li><a href="subscribe_group.php">Buy School/Organization subscription</a></li>
+				<li><a href="subscribe_join.php">Sign up for students</a></li>
+				<li><a href="code">Sign up with access code</a></li>
+				<li><a href="gift_yabla.php">Send a Gift</a></li>
+				
+			</ul>	
+
+			<ul>
+				<h3 class="reg">Help</h3>
+				<li><a href="getting_started.php">Individuals - Getting Started</a></li>
+				<li><a href="faq.php">Individuals - FAQ</a></li>
+				<li><a href="school_quickstart_guide.php">School Accounts - Getting Started</a></li>
+				<li><a href="faq_group.php">School Accounts - FAQ</a></li>
+				<li><a href="contact.php">Contact</a></li>
+							</ul>	
+
+			<ul>
+
+				<h3 class="reg">Yabla</h3>
+				<li><a href="https://itunes.apple.com/us/developer/yabla/id596409486?yabla_campaign_id=1858"><span class="fa fa-apple"></span> iOS App</a></li>
+				
+				
+												<li></li>
+				
+				<h3 class="blog-header reg">Blogs</h3>
+				<li><a href="https://www.yabla.com/yabla-blog/">Yabla Blog</a></li>
+
+				<div class="social">
+					<ul>
+						<li><a href="https://twitter.com/yabla" target="_blank"><span class="fa fa-twitter"></span></a></li>
+						<li><a href="https://www.facebook.com/YablaLanguages" target="_blank"><span class="fa fa-facebook"></span></a></li>
+					</ul>
+				</div>
+
+
+			</ul>									
+		</div>
+		<div class="row secondary-footer">
+			<div class="footer-logo">
+				<a href="https://www.yabla.com/">Yabla</a>
+			</div>
+
+			<div class="col-md-9 foot_links">
+				<ul>
+					<li><a href="about.php">About</a></li>
+					<li><a href="classroom.php">For Educators</a></li>
+					<li><a href="affiliate-inquiry.php">Affiliate Program</a></li>
+					<li><a href="https://www.trustpilot.com/review/yabla.com">Reviews</a></li>
+					<li><a href="terms.php">Terms</a></li>
+					<li><a href="privacy.php">Privacy</a></li>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+
+</footer>
+
+ 
+
+	
+
+
+
+ 
+	 
+
+
+
 
 
 </body></html>
