@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divorcedmoms.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303120233id_/https%3A//divorcedmoms.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorcedmoms.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404073227id_/https%3A//divorcedmoms.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # DivorcedMoms.com Privacy Policy · Divorced Moms
 
