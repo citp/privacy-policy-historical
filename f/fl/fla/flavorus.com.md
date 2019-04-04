@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flavorus.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210023906id_/https%3A//info.seetickets.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flavorus.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404064802id_/https%3A//info.seetickets.us/privacy) for the most accurate reproduction.*
 
 # Privacy : See Tickets
 
