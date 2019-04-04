@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contestdomination.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302033524id_/http%3A//contestdomination.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contestdomination.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404203906id_/http%3A//contestdomination.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ContestDomination
 
