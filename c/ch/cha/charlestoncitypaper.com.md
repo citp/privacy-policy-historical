@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlestoncitypaper.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221065403id_/http%3A//www.charlestoncitypaper.com/charleston/PrivacyStatement/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlestoncitypaper.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404045446id_/https%3A//www.charlestoncitypaper.com/charleston/PrivacyStatement/Page) for the most accurate reproduction.*
 
 # Privacy Statement | Charleston City Paper
 
