@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214203528id_/https%3A//www.almanac.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404021044id_/https%3A//www.almanac.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy The Old Farmer's Almanac | The Old Farmer's Almanac
 
@@ -18,7 +18,5 @@ We respect our readers’ privacy and have outlined our full **privacy policy** 
 Thank you for your interest in Almanac.com.
 
 –Yankee Publishing, Inc.
-
-[](https://club.almanac.com/old-farmers-almanac-calendar-club/?utm_source=Almanac&utm_medium=postroll&utm_campaign=calendar&utm_content=charter)
 
 ## What do you want to read next?
