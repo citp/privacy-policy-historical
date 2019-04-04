@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highpayingaffiliateprograms.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818131049id_/http%3A//highpayingaffiliateprograms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highpayingaffiliateprograms.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404233418id_/https%3A//highpayingaffiliateprograms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - High Paying Affiliate Programs
 
