@@ -1,73 +1,147 @@
-> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012100410id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404233704id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy! Your privacy on this website
 
-We recognize that your privacy is important. So here is our privacy policy. This document outlines the types of personal information we receive and collect when you use www.boost-your-low-testosterone.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+At Boost-Your-Low-Testosterone.com we are dedicated to protecting your data and privacy.
 
-www.boost-your-low-testosterone.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers, consumers, and online visitors privacy on ourwebsite.
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Boost-Your-Low-Testosterone.com, as well as some of the steps we take to safeguard information. This will help you make an informed decision about sharing personal information with us.
 
-Personal Information
+Boost-Your-Low-Testosterone.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers' and online visitors' privacy on our website.
 
-www.boost-your-low-testosterone.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on avoluntary basis may include name, postal address, email address, company name and telephone number.
+## About Our Cookies  
 
-This information is collected if you request information from us, participate in a contest or sweepstakes, and signup to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
+A cookie is a string of information that Boost-Your-Low-Testosterone.com stores on your computer, which your browser provides to Boost-Your-Low-Testosterone.com each time you return to the site. We use cookies to help us identify and track visitors, their use of our website, and their website access preferences.  
 
-Use of Cookies and Web Beacons
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sitespages, or register with any of our site's services, a cookie enables www.boost-your-low-testosterone.com to recall your specific information on subsequent visits.
+### Google Analytics Cookies  
 
-You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites.They are also referred to as web bugs and are commonly usedby sites that hire third-party services to monitor traffic.They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
+Boost-Your-Low-Testosterone.com uses Google Analytics to analyze the use of this website. Google Analytics collects demographic and interest data, and generates statistical and other information about website use, by means of cookies. These cookies are kept on your computer. We share this information with Google, which will store and use this information on its servers. Google's privacy policy is available at: [link]https://policies.google.com/privacy[/link].
 
-We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our website to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
+Boost-Your-Low-Testosterone.com uses information from Google Analytics to track the number of visits to the website, browsers and operating systems. No personally identifiable information is obtained from these cookies. We use the information that Google Analytics generates relating to our website to create reports about the use of the site. These reports allow us to update the site and improve your usage of it.
 
-Some third-party advertisements may be provided by Google,which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting theGoogle ad and content network privacy policy.
+If you do not wish your data to be collected via Google Analytics, [you can install its opt-out browser extension or add-on](https://tools.google.com/dlpage/gaoptout/).
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
+### Advertising Cookies  
 
-Our Privacy Policy and The Children's Online Privacy Protection Act
 
-This website is directed to adults; it is not directed tochildren under the age of 13. We operate our site incompliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personalinformation from anyone under 13 years of age.
+We use third-party advertising companies to serve ads on our website. These companies use cookies and web beacons in their ads to ascertain how many times you've seen an advertisement. We share this information with these companies, but do not provide them with any personally identifiable information for cookie or web beacon use, so they cannot personally identify you with that information from our website.
 
-Non-Personal Information
+You may opt out of personalized ads for over 125 different ad networks. [Click here to do that.](http://optout.aboutads.info/)
 
-In some cases, we may collect information about you that is not personally identifiable. We use this information, whichdoes not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our userbase as a whole. The information collected is used solely for internal review and not shared with other organizationsfor commercial purposes.
+Some third-party advertisements are served by Google. Google's cookie enables it to serve ads to our visitors based on their visits to other sites on the Web. You may opt out of personalized ads by visiting the [Google ad opt-out page](https://adssettings.google.com/authenticated).
 
-Release of Information
+[This link from Google provides more information about how Google manages data in its ad products.](https://policies.google.com/technologies/partner-sites)  
 
-If www.boost-your-low-testosterone.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
-How You Can Correct or Remove Information
+### Affiliate Products and Services  
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our Contact Us page.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+We receive an affiliate commission for some of the products sold on Boost-Your-Low-Testosterone.com.
 
-Updates and Effective Date
+The affiliate services platforms we use are Amazon, ClickBank, Lost Empire Herbs and Physicians Formulas.
 
-www.boost-your-low-testosterone.com reserves the right to make changes in this privacy policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+By clicking on a product link, you consent to that platform's use of cookies, as outlined in the link below.
 
-Update:
+  * [Amazon privacy policy](https://www.amazon.com/gp/help/customer/display.html/ref=asus_gen_not?ie=UTF8&nodeId=468496)
+  * [ClickBank privacy policy](https://support.clickbank.com/hc/en-us/articles/360004023572-Customer-Privacy-Policy)
+  * [Lost Empire Herbs privacy policy](https://lostempireherbs.com/privacy-2/)
+  * [Physician Formulas privacy policy](https://physicianformulas.com/pages/privacy-policy)
 
-Third party vendors, including Google, use cookies to serve ads based on a visitor's prior visits to this website.
 
-Google's use of the DART cookie enables it and its partners to serve ads to you, the visitor, based on your visit to this site and/or other sites on the Internet.
 
-You may opt out of the use of the DART cookie by visiting the advertising opt-out page at http://www.google.com/privacy_ads.html. Alternatively you can opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page at http://www.networkadvertising.org/managing/opt_out.asp
+### Refusing Cookies  
 
-Third party ad-serving by Google:
 
-Google serves ads on this site, and certifies vendors for third party ads. You can find a list of these vendors and ad networks here - https://www.google.com/adsense/support/ ... swer=94149
+You can set your browser to accept or refuse all cookies automatically, or notify you when a cookie is being requested. Taking this action should not cause a problem with the continued use of our site. Consult the Help section of your browser for guidance on how to refuse all cookies or to notify you when a cookie is requested.
 
-You may visit those websites to opt out of cookies (if the vendor or ad network offers this capability).
+If you choose to refuse Boost-Your-Low-Testosterone.com's cookies, you may not be able to fully experience the interactive features of the site.
 
-You can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at http://www.networkadvertising.org/managing/opt_out.asp
+## Personally Identifiable Information  
 
-Agreeing to Terms
 
-If you do not agree to the www.boost-your-low-testosterone.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
+Boost-Your-Low-Testosterone.com may collect and use your personal information for the following purposes:
 
-Your use of this site indicates acceptance of this privacy policy. 
+  * To run and operate our site.
+  * To display content on the site correctly.
+  * To improve customer service.
+  * To help us respond to your customer service requests and support needs more efficiently.
+  * To personalize your user experience.
+  * To understand how our users as a group use the services and resources provided on our site.
+  * To improve our site.
+  * To improve our products and services.
+  * To run a promotion, contest, survey or other site feature.
+  * To send information to you that you agreed to receive about topics we think will be of interest to you.
+  * To send periodic emails, which may include electronic newsletters and/or autoresponder series of emails.
+  * To respond to your enquiries, questions, and/or other requests.
+
+
+
+Boost-Your-Low-Testosterone.com may collect personally identifiable information from you in a variety of ways, including, but not limited to, when you visit our site, register on the site, or fill out a form, and in connection with other activities, services, features or resources we make available on our site.
+
+Specifically, if you subscribe to our newsletter, we will ask for your first name and will require your email address.
+
+If you complete a form, we will require your name and your email address, and will ask for information relevant to the purpose of the form.
+
+If you submit content to us, we will ask for your name and email address. Photos you include with your submission, or details in your submission, may personally identify you.
+
+If you request to be notified about comments on any content you submit to us, or request to be notified when others submit content, we will require your first name and your email address.
+
+This site lets you share content with your friends and followers on various social media platforms. Here are links to the privacy policies of [Facebook](https://www.facebook.com/about/privacy) and [Twitter](https://twitter.com/privacy).
+
+Boost-Your-Low-Testosterone.com offers RSS as a way to easily follow content updates. We provide links for easy access to My Yahoo! ([privacy policy](https://policies.oath.com/us/en/oath/privacy/index.html)) and Feedly ([privacy policy](https://feedly.com/i/privacy)). Before you choose to use either as your RSS reader, review its privacy policy.
+
+You can always refuse to supply personally identifiable information and visit our site anonymously. However, it may prevent you from engaging in certain site-related activities.
+
+If we make material changes in the collection of personally identifiable information, we will inform you by placing a notice on our site. We will use personal information received from you for internal purposes only and will not sell it or provide it to third parties.
+
+We also collect each visitor's IP address, which helps us combat spam and fraud. We do not use IP addresses for any other purpose.
+
+Boost-Your-Low-Testosterone.com contains links to other websites that may be of interest to you. However, once you have used them to leave our site, we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information you provide while visiting such sites. These sites are not governed by this privacy statement. Always exercise caution by reviewing the privacy statement of the website in question before continuing to use it.
+
+## Non-personally Identifiable Information  
+
+
+We may collect non-personally identifiable information about you whenever you interact with our site. Non-personally identifiable information may include the browser name, the type of computer and technical information about your method of connecting to our site, such as the operating system and the Internet service provider you used, and other similar information.  
+
+
+## Children's Privacy Protection  
+
+
+This website is directed to adults. It is not directed to children under the age of 16. We operate our site in compliance with current regulations. Anyone under the age of 16 must provide parental consent to use this site. We do not knowingly collect or use personally identifiable information from anyone under 16 years of age.  
+
+
+## Release of Information  
+
+
+If we sell Boost-Your-Low-Testosterone.com, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale so that the service provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make.  
+
+
+## Data Storage  
+
+
+Personally identifiable information and non-personally identifiable information collected by this site  is stored on our host's servers. That host is SiteSell Inc., located at 1000 Saint-Jean Boulevard, Suite 702, Pointe-Claire, QC H9R 5P1 Canada.  
+
+
+## How You Can Correct or Remove Information  
+
+
+We provide this privacy policy as a statement to you of our commitment to protect your personally identifiable information. If you have submitted personally identifiable information through our website and would like to download and review that information, [click on this link](https://www.boost-your-low-testosterone.com/gdpr-review.html).
+
+You can also request to edit or delete any of your information from the servers by [clicking on this link](https://www.boost-your-low-testosterone.com/gdpr-request.html).
+
+## Updates and Effective Date  
+
+
+Boost-Your-Low-Testosterone.com reserves the right to make changes in this policy. If there is a material change in our cookie and privacy practices, we will indicate on our site that those practices have changed and provide a link to the updated privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.  
+
+
+## Agreeing to Terms  
+
+
+If you do not agree to Boost-Your-Low-Testosterone.com's privacy policy as posted here on this website, please do not consent to the setting of cookies and the collection and storage of your personally identifiable information.
+
+Your explicit consent indicates acceptance of this privacy policy in its entirety.
+
+Last updated: June 12, 2018
