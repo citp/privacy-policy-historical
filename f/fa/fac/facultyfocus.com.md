@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623100159id_/http%3A//www.facultyfocus.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404225154id_/https%3A//www.facultyfocus.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Faculty Focus | Higher Ed Teaching & Learning
 
