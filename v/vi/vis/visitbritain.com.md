@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the visitbritain.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222224146id_/https%3A//www.visitbritain.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitbritain.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404031617id_/https%3A//www.visitbritain.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VisitBritain
 
-This privacy policy (“ **Policy** ”) was last updated on 1 August 2018.  
+This privacy policy (“ **Policy** ”) was last updated on 29 March 2019.  
 
 ##  **Introduction**
 
-The British Tourist Authority (“ **BTA** ”, “ **we** ”, “ **us** ” or “ **our** ”), a statutory body incorporated under the Development of Tourism Act 1969, with its offices at 1 Victoria St, Westminster, London SW1H 0ET.
+The British Tourist Authority (“ **BTA** ”, “ **we** ”, “ **us** ” or “ **our** ”), a statutory body incorporated under the Development of Tourism Act 1969, with its offices at 4th Floor, 151 Buckingham Palace Road, London SW1W 9SZ.
 
 We undertake our statutory duties to promote tourism to and within Great Britain and England under the brands “ **VisitBritain** ” and “ **VisitEngland** ”.
 
@@ -560,7 +560,7 @@ As general best practice on the Internet, it is recommended that individuals tak
 
  **10.3.  **You can contact us:
 
-(a) by post, to 1 Victoria St, Westminster, London SW1H 0ET;
+(a) by post, to 4th Floor, 151 Buckingham Palace Road, London SW1W 9SZ;
 
 (b) using our website contact forms at <https://www.visitbritain.org/about-us/contact-us>
 
