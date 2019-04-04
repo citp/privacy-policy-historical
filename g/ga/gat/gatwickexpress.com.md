@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatwickexpress.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619140323id_/https%3A//www.gatwickexpress.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatwickexpress.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404065335id_/https%3A//www.gatwickexpress.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Gatwick Express
 
@@ -22,7 +22,7 @@ EC3R 8AJ
 Registered in England company no. 07934306
 
 **Our Data Protection Manager is:**  
-Julie Sadler  
+Paul Staiano  
 1st Floor, Monument Place  
 24, Monument Street  
 London  
