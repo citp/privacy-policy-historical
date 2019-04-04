@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917075822id_/https%3A//www.charityjob.co.uk/info/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404123255id_/https%3A//www.charityjob.co.uk/info/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | CharityJob
 
@@ -151,13 +151,13 @@ Though CharityJob is based within the United Kingdom and is subject to GDPR, the
 
 In such scenario, we ensure that we transfer the minimum amount of data necessary enter legal contracts to with these third parties to ensure your data is treated in accordance with this Privacy Policy and the European levels of data protection. 
 
-**You have the right to ask us not to process your personal data for marketing purposes.** We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by not checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fc95929a93bc9f949d8e95888596939ed29f93d28997). 
+**You have the right to ask us not to process your personal data for marketing purposes.** We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by not checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2bbbcb4bd92b1bab3a0bba6abb8bdb0fcb1bdfca7b9). 
 
-**You have the right to withdraw your consent to the processing of your personal data by submitting a written request to that effect to[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#375e59515877545f56455e434e5d585519545819425c).**
+**You have the right to withdraw your consent to the processing of your personal data by submitting a written request to that effect to[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#31585f575e71525950435845485b5e531f525e1f445a).**
 
 Furthermore, if you believe any of the personal data we hold about you is inaccurate, please tell us so we can correct it as necessary. 
 
-**You always have the right to request for the deletion of your data.** We have a formal process which we will follow if you decide you would no longer like us to retain our data. We will follow our usual customer service response and be in touch to confirm we have received the request in less than four business hours (Monday to Friday from 9am to 5:30pm). Once the request has been received, it will take 7 business days for it to be completed. Please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d64636b624d6e656c7f64797467626f236e62237866) if you would like to request deletion of your data. 
+**You always have the right to request for the deletion of your data.** We have a formal process which we will follow if you decide you would no longer like us to retain our data. We will follow our usual customer service response and be in touch to confirm we have received the request in less than four business hours (Monday to Friday from 9am to 5:30pm). Once the request has been received, it will take 7 business days for it to be completed. Please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#046d6a626b44676c65766d707d6e6b662a676b2a716f) if you would like to request deletion of your data. 
 
 **If you are unhappy with the way your personal data has been processed by us, you have the right to lodge a complaint with the Information Commissioner's Office through their site[www.ico.org.uk](https://ico.org.uk/).**
 
@@ -167,4 +167,4 @@ This Privacy Policy gives you the right to access information held about you. Yo
 
 Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy. 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c5acaba3aa85a6ada4b7acb1bcafaaa7eba6aaebb0ae). 
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0f666169604f6c676e7d667b7665606d216c60217a64). 
