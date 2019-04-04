@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehoth.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830193843id_/https%3A//www.thehoth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehoth.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404094238id_/https%3A//www.thehoth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,11 +40,11 @@ Please be aware that we me may collect and aggregate personally identifiable inf
 
 **5\. Accessing, Editing, and Removing Your Information**
 
-You will be able to access any information contained in your account through our Platform. You may edit that information by removing or changing the information listed in your account. If you have any questions or wish to review, remove, change, or access any of your information collected by us, please contact us at support@thehoth.com. After you have cancelled your account please be aware that we may keep inaccessible copies of your PII and non-PII subject to our data retention policies.
+You will be able to access any information contained in your account through our Platform. You may edit that information by removing or changing the information listed in your account. If you have any questions or wish to review, remove, change, or access any of your information collected by us, please contact us by [submitting a ticket here](https://www.thehoth.com/ticket). After you have cancelled your account please be aware that we may keep inaccessible copies of your PII and non-PII subject to our data retention policies.
 
 **6\. Permanent Removal Requests**
 
-If you wish to have any of your PII stored within The Hoth Platform permanently removed, please follow our instructions as stated within the policy titled “Removal of Information”. If you have any questions regarding such removal please contact us at support@thehoth.com.
+If you wish to have any of your PII stored within The Hoth Platform permanently removed, please follow our instructions as stated within the policy titled “Removal of Information”. If you have any questions regarding such removal please contact us by [submitting a ticket here](https://www.thehoth.com/ticket).
 
 **7\. Cookies and Tracking**
 
@@ -62,7 +62,7 @@ You agree that we may disclose your information to authorities if compelled to b
 
 **10\. Opt Out of Commercial, Non-Commercial Communications and Do Not Track**
 
-If you decide to provide us with your contact information, you agree that we may send you communications via text and emails. However, you may unsubscribe from certain communications by notifying The Hoth that you no longer wish to receive these communications, we will endeavour to promptly remove you from our once we have received that request. We currently do not offer functionality for you to opt out through “do not track” listings. If you wish to opt out of certain communications or information collection, please contact us at support@thehoth.com.
+If you decide to provide us with your contact information, you agree that we may send you communications via text and emails. However, you may unsubscribe from certain communications by notifying The Hoth that you no longer wish to receive these communications, we will endeavour to promptly remove you from our once we have received that request. We currently do not offer functionality for you to opt out through “do not track” listings. If you wish to opt out of certain communications or information collection, please contact us by [submitting a ticket here](https://www.thehoth.com/ticket).
 
 **11.  ** **Third Parties**
 
@@ -76,7 +76,7 @@ We make reasonable attempts to protect your information by using physical and el
 
 **13\. Your California Privacy Rights**
 
-The Hoth permits residents of the State of California to use its Platform, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at support@thehoth.com with any questions.
+The Hoth permits residents of the State of California to use its Platform, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us by [submitting a ticket here](https://www.thehoth.com/ticket) with any questions.
 
 **14\. Age Compliance**
 
@@ -86,13 +86,13 @@ We intend to fully comply with American and international laws respecting childr
 
 Your information may be transferred to – and maintained on – computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. PII and Non-PII that is submitted to The Hoth will be collected, processed, stored, disclosed and disposed of in accordance with applicable U.S. law and this policy. If you are a non-U.S. member, you acknowledge and agree that The Hoth may collect and use your Information and disclose it to other entities outside your resident jurisdiction. In addition, such information may be stored on servers located outside your resident jurisdiction. U.S. law may not provide the degree of protection for information that is available in other countries.
 
-16.  **Merger and Acquisition**
+**16.  Merger and Acquisition**
 
 In the event that The Hoth is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. Please be aware that once the information is transferred your privacy rights may change.
 
 **17\. Amendments**
 
-Like our Terms of Use, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you. You must agree to the amendments as a condition of your continued use of our Platform. If you do not agree, you must immediately cease using our Platform and notify us of your refusal to agree by e-mailing us at support@thehoth.com.
+Like our Terms of Use, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you. You must agree to the amendments as a condition of your continued use of our Platform. If you do not agree, you must immediately cease using our Platform and notify us of your refusal by [submitting a ticket here](https://www.thehoth.com/ticket).
 
 **18\. Privacy Notice for European Citizens**
 
@@ -101,13 +101,13 @@ We respect the rights of persons living within the European Economic Community (
 **Legal Rights** |   | **Your Rights Under the GDPR**  
 ---|---|---  
 The right to be informed |   | The Hoth wishes to keep you informed as to what we do with your personal information. We strive to be transparent about how we use your data.  
-The right to access |   | You have the right to access your information at any time. Please contact us at support@thehoth.com if you wish to access the personal information The Hoth holds about you.  
-The right to rectification |   | If the information The Hoth holds about you is inaccurate or not complete, you have the right to ask us to rectify it. If that data has been passed to a third party with your consent or for legal reasons, then we must also ask them to rectify the data. Please contact us for more information: support@thehoth.com  
-The right to erasure |   | Sometimes called ‘the right to be forgotten’. You have the right to request that The Hoth to erase all your personal data, if you wish to do so please our team: support@thehoth.com  
-The right to restrict processing |   | You have the right to ask The Hoth to restrict how we process your data. This means we are permitted to store the data but not further process it. We will only keep enough data to ensure that we can accommodate any additional requests. Please contact our team at: support@thehoth.com  
-The right to data portability |   | The Hoth must allow you to port and reuse your personal data for your own purposes across different platforms. Please contact our team if you wish to receive additional information on how to port your data elsewhere: support@thehoth.com. This right only applies to personal data that you have provided to us as a data controller.  
-The right to object |   | You have the right to object to The Hoth processing your data even if our processing is due to legitimate purposes as described in our Privacy Notice, if you have any objections please contact our team at: support@thehoth.com  
-The right to withdraw consent |   | If you have given us your consent to process your data but change your mind later, you have the right to withdraw your consent at any time, and The Hoth must stop processing your data. If you want to withdraw your consent, please contact our team at: support@thehoth.com  
+The right to access |   | You have the right to access your information at any time. Please contact us by [submitting a ticket here](https://www.thehoth.com/ticket) if you wish to access the personal information The Hoth holds about you.  
+The right to rectification |   | If the information The Hoth holds about you is inaccurate or not complete, you have the right to ask us to rectify it. If that data has been passed to a third party with your consent or for legal reasons, then we must also ask them to rectify the data. Please contact us by [submitting a ticket here](https://www.thehoth.com/ticket) for more information.  
+The right to erasure |   | Sometimes called ‘the right to be forgotten’. You have the right to request that The Hoth to erase all your personal data, if you wish to do so please our team by [submitting a ticket here](https://www.thehoth.com/ticket).  
+The right to restrict processing |   | You have the right to ask The Hoth to restrict how we process your data. This means we are permitted to store the data but not further process it. We will only keep enough data to ensure that we can accommodate any additional requests. Please contact our team by [submitting a ticket here](https://www.thehoth.com/ticket).  
+The right to data portability |   | The Hoth must allow you to port and reuse your personal data for your own purposes across different platforms. Please contact our team by [submitting a ticket here](https://www.thehoth.com/ticket) if you wish to receive additional information on how to port your data elsewhere. This right only applies to personal data that you have provided to us as a data controller.  
+The right to object |   | You have the right to object to The Hoth processing your data even if our processing is due to legitimate purposes as described in our Privacy Notice, if you have any objections please contact our team by [submitting a ticket here](https://www.thehoth.com/ticket).  
+The right to withdraw consent |   | If you have given us your consent to process your data but change your mind later, you have the right to withdraw your consent at any time, and The Hoth must stop processing your data. If you want to withdraw your consent, please contact our team by [submitting a ticket here](https://www.thehoth.com/ticket).  
   
 **19\. Legitimate Purposes for Collecting Your PII**
 
@@ -143,17 +143,17 @@ Aside from the uses listed within this Privacy Notice, The Hoth does not share a
 
 **23\. Contact Information**
 
-If you have any questions or require additional information related to our information collection practices, please contact us at support@thehoth.com.
+If you have any questions or require additional information related to our information collection practices, please contact us by [submitting a ticket here](https://www.thehoth.com/ticket).
 
 ## **II. REMOVING YOUR INFORMATION**
 
 At The Hoth we value your privacy and your right to access and control your personal information. We have implemented this policy so that you may request the permanent removal of any personal information stored within The Hoth Platform.
 
-If you wish to have any of your personal information stored within The Hoth Platform removed, please contact us at support@thehoth.com and follow the directions stated within this policy. With each removal request you must list the information you wish to have removed exactly as listed. Please be aware that removal requests are not processed instantaneously. There may be a reasonable delay in processing and removing any information requested.
+If you wish to have any of your personal information stored within The Hoth Platform removed, please contact us by [submitting a ticket here](https://www.thehoth.com/ticket) and follow the directions stated within this policy. With each removal request you must list the information you wish to have removed exactly as listed. Please be aware that removal requests are not processed instantaneously. There may be a reasonable delay in processing and removing any information requested.
 
 Although we will attempt to remove all of your personal information upon receipt of your removal request, please be aware that The Hoth may have multiple areas where your personal data is stored and a single removal request may not eliminate all of your personal information stored within our Platform. Therefore, you may be required to submit multiple requests. If your information repeatedly reappears please contact us.
 
-You may make a removal request by email at support@thehoth.com, please label the subject of the email with the following “Removal Request – Your Full Name and Account Name”.
+You may make a removal request by [submitting a ticket here](https://www.thehoth.com/ticket), please label the first line of the ticket with the following: “Removal Request – Your Full Name and Account Name”.
 
 **ADDITIONAL RIGHTS FOR EEC USERS**
 
@@ -170,7 +170,7 @@ The right to data portability |   | The Hoth must allow you to port and reuse y
 The right to object |   | You have the right to object to The Hoth processing your data even if our processing is due to legitimate purposes as described in our Privacy Policy  
 The right to withdraw consent |   | If you have given us your consent to process your data but change your mind later, you have the right to withdraw your consent at any time, and The Hoth must stop processing your data.  
   
-If you wish to exercise any of these additional rights with regards to any of your PII, we’d be happy to assist you, please contact us at support@thehoth.com, please label the subject of the email with the following “Request – Your Full Name and Account Name”.
+If you wish to exercise any of these additional rights with regards to any of your PII, we’d be happy to assist you, please contact us by [submitting a ticket here](https://www.thehoth.com/ticket), please label the first line of the message with the following: “Request – Your Full Name and Account Name”.
 
 ## **III. THE HOTH COOKIE POLICY**
 
@@ -205,6 +205,70 @@ Web Browser Cookies
 If you don’t want to receive cookies, you can modify your browser so that you are alerted when any cookies are being placed on your computer. Additionally, you can reject all cookies or you may delete cookies that have already been set.
 
 If you wish to restrict or block web browser cookies you may do so via your browser settings. The Help function within your browser should be able to assist you in this matter. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information regarding the management of cookies on your browser. Aboutcookies.org contains both general information and specific information regarding cookies and their usage.
+
+## **IV. Privacy Shield Framework**
+
+Last Updated: October 24, 2018
+
+The HOTH complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. The HOTH has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+**1\. ACCOUNTABILITY FOR ONWARD TRANSFER**
+
+A. To transfer personal information to a third party acting as a controller, organizations must comply with the Notice and Choice Principles. Organizations must also enter into a contract with the third-party controller that provides that such data may only be processed for limited and specified purposes consistent with the consent provided by the individual and that the recipient will provide the same level of protection as the Principles and will notify the organization if it makes a determination that it can no longer meet this obligation. The contract shall provide that when such a determination is made the third party controller ceases processing or takes other reasonable and appropriate steps to remediate.
+
+B. To transfer personal data to a third party acting as an agent, organizations must: (i) transfer such data only for limited and specified purposes; (ii) ascertain that the agent is obligated to provide at least the same level of privacy protection as is required by the Principles; (iii) take reasonable and appropriate steps to ensure that the agent effectively processes the personal information transferred in a manner consistent with the organization’s obligations under the Principles; (iv) require the agent to notify the organization if it makes a determination that it can no longer meet its obligation to provide the same level of protection as is required by the Principles; (v) upon notice, including under (iv), take reasonable and appropriate steps to stop and remediate unauthorized processing; and (vi) provide a summary or a representative copy of the relevant privacy provisions of its contract with that agent to the Department upon request.
+
+**2\. OVERVIEW**
+
+1\. While the United States and the European Union share the goal of enhancing privacy protection, the United States takes a different approach to privacy from that taken by the European Union. The United States uses a sectoral approach that relies on a mix of legislation, regulation, and self-regulation. Given those differences and to provide organizations in the United States with a reliable mechanism for personal data transfers to the United States from the European Union while ensuring that EU data subjects continue to benefit from effective safeguards and protection as required by European legislation with respect to the processing of their personal data when they have been transferred to non-EU countries, the Department of Commerce is issuing these Privacy Shield Principles, including the Supplemental Principles (collectively “the Principles”) under its statutory authority to foster, promote, and develop international commerce (15 U.S.C. § 1512). The Principles were developed in consultation with the European Commission, and with industry and other stakeholders, to facilitate trade and commerce between the United States and European Union. They are intended for use solely by organizations in the United States receiving personal data from the European Union for the purpose of qualifying for the Privacy Shield and thus benefitting from the European Commission’s adequacy decision.1 The Principles do not affect the application of national provisions implementing Directive 95/46/EC (“the Directive”) that apply to the processing of personal data in the Member States. Nor do the Principles limit privacy obligations that otherwise apply under U.S. law.
+
+2\. In order to rely on the Privacy Shield to effectuate transfers of personal data from the EU, an organization must self-certify its adherence to the Principles to the Department of Commerce (or its designee) (“the Department”). While decisions by organizations to thus enter the Privacy Shield are entirely voluntary, effective compliance is compulsory: organizations that self-certify to the Department and publicly declare their commitment to adhere to the Principles must comply fully with the Principles. In order to enter the Privacy Shield, an organization must (a) be subject to the investigatory and enforcement powers of the Federal Trade Commission (the “FTC”), the Department of Transportation or another statutory body that will effectively ensure compliance with the Principles (other U.S. statutory bodies recognized by the EU may be included as an annex in the future); (b) publicly declare its commitment to comply with the Principles; (c) publicly disclose its privacy policies in line with these Principles; and (d) fully implement them. An organization’s failure to comply is enforceable under Section 5 of the Federal Trade Commission Act prohibiting unfair and deceptive acts in or affecting commerce (15 U.S.C. § 45(a)) or other laws or regulations prohibiting such acts. 
+
+3\. The Department of Commerce will maintain and make available to the public an authoritative list of U.S. organizations that have self-certified to the Department and declared their commitment to adhere to the Principles (“the Privacy Shield List”). Privacy Shield benefits are assured from the date that the Department places the organization on the Privacy Shield List. The Department will remove an organization from the Privacy Shield List if it voluntarily withdraws from the Privacy Shield or if it fails to complete its annual re-certification to the Department. An organization’s removal from the Privacy Shield List means it may no longer benefit from the European Commission’s adequacy decision to receive personal information from the EU. The organization must continue to apply the Principles to the personal information it received while it participated in the Privacy Shield, and affirm to the Department on an annual basis its commitment to do so, for as long as it retains such information; otherwise, the organization must return or delete the information or provide “adequate” protection for the information by another authorized means. The Department will also remove from the Privacy Shield List those organizations that have persistently failed to comply with the Principles; these organizations do not qualify for Privacy Shield benefits and must return or delete the personal information they received under the Privacy Shield. 
+
+4\. The Department will also maintain and make available to the public an authoritative record of U.S. organizations that had previously self-certified to the Department, but that have been removed from the Privacy Shield List. The Department will provide a clear warning that these organizations are not participants in the Privacy Shield; that removal from the Privacy Shield List means that such organizations cannot claim to be Privacy Shield compliant and must avoid any statements or misleading practices implying that they participate in the Privacy Shield; and that such organizations are no longer entitled to benefit from the European Commission’s adequacy decision that would enable those organizations to receive personal information from the EU. An organization that continues to claim participation in the Privacy Shield or makes other Privacy Shield-related misrepresentations after it has been removed from the Privacy Shield List may be subject to enforcement action by the FTC, the Department of Transportation, or other enforcement authorities. 
+
+5\. Adherence to these Principles may be limited: (a) to the extent necessary to meet national security, public interest, or law enforcement requirements; (b) by statute, government regulation, or case law that creates conflicting obligations or explicit authorizations, provided that, in exercising any such authorization, an organization can demonstrate that its non-compliance with the Principles is limited to the extent necessary to meet the overriding legitimate interests furthered by such authorization; or (c) if the effect of the Directive or Member State law is to allow exceptions or derogations, provided such exceptions or derogations are applied in comparable contexts. Consistent with the goal of enhancing privacy protection, organizations should strive to implement these Principles fully and transparently, including indicating in their privacy policies where exceptions to the Principles permitted by (b) above will apply on a regular basis. For the same reason, where the option is allowable under the Principles and/or U.S. law, organizations are expected to opt for the higher protection where possible.
+
+6\. Organizations are obligated to apply the Principles to all personal data transferred in reliance on the Privacy Shield after they enter the Privacy Shield. An organization that chooses to extend Privacy Shield benefits to human resources personal information transferred from the EU for use in the context of an employment relationship must indicate this when it self-certifies to the Department and conform to the requirements set forth in the Supplemental Principle on Self-Certification. 
+
+7\. U.S. law will apply to questions of interpretation and compliance with the Principles and relevant privacy policies by Privacy Shield organizations, except where such organizations have committed to cooperate with European data protection authorities (“DPAs”). Unless otherwise stated, all provisions of the Principles apply where they are relevant.
+
+8\. Definitions:  
+A. “Personal data” and “personal information” are data about an identified or identifiable individual that are within the scope of the Directive, received by an organization in the United States from the European Union, and recorded in any form.  
+B. “Processing” of personal data means any operation or set of operations which is performed upon personal data, whether or not by automated means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure or dissemination, and erasure or destruction.  
+C. “Controller” means a person or organization which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+
+9\. The effective date of the Principles is the date of final approval of the European Commission’s adequacy determination.
+
+10\. Provided that the Commission Decision on the adequacy of the protection provided by the EU-U.S. Privacy Shield applies to Iceland, Liechtenstein and Norway, the Privacy Shield Package will cover both the European Union, as well as these three countries. Consequently, references to the EU and its Member States shall be read as including Iceland, Liechtenstein and Norway.
+
+**3\. RECOURSE, ENFORCEMENT AND LIABILITY**
+
+a. Effective privacy protection must include robust mechanisms for assuring compliance with the Principles, recourse for individuals who are affected by non-compliance with the Principles, and consequences for the organization when the Principles are not followed. At a minimum such mechanisms must include:  
+i. readily available independent recourse mechanisms by which each individual’s complaints and disputes are investigated and expeditiously resolved at no cost to the individual and by reference to the Principles, and damages awarded where the applicable law or private-sector initiatives so provide;  
+ii. follow-up procedures for verifying that the attestations and assertions organizations make about their privacy practices are true and that privacy practices have been implemented as presented and, in particular, with regard to cases of non-compliance; and  
+iii. obligations to remedy problems arising out of failure to comply with the Principles by organizations announcing their adherence to them and consequences for such organizations. Sanctions must be sufficiently rigorous to ensure compliance by organizations.
+
+b. Organizations and their selected independent recourse mechanisms will respond promptly to inquiries and requests by the Department for information relating to the Privacy Shield. All organizations must respond expeditiously to complaints regarding compliance with the Principles referred by EU Member State authorities through the Department. Organizations that have chosen to cooperate with DPAs, including organizations that process human resources data, must respond directly to such authorities with regard to the investigation and resolution of complaints. 
+
+c. Organizations are obligated to arbitrate claims and follow the terms as set forth in Annex I, provided that an individual has invoked binding arbitration by delivering notice to the organization at issue and following the procedures and subject to conditions set forth in Annex I.
+
+d. In the context of an onward transfer, a Privacy Shield organization has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. The Privacy Shield organization shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
+
+e. When an organization becomes subject to an FTC or court order based on non-compliance, the organization shall make public any relevant Privacy Shield-related sections of any compliance or assessment report submitted to the FTC, to the extent consistent with confidentiality requirements. The Department has established a dedicated point of contact for DPAs for any problems of compliance by Privacy Shield organizations. The FTC will give priority consideration to referrals of non-compliance with the Principles from the Department and EU Member State authorities, and will exchange information regarding referrals with the referring state authorities on a timely basis, subject to existing confidentiality restrictions.
+
+In compliance with the Privacy Shield Principles, The HOTH commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact The HOTH at:
+
+[www.thehoth.com/ticket](https://www.thehoth.com/ticket)
+
+FOR USE INFORMING INDIVIDUALS THAT YOUR ORGANIZATION HAS SELECTED A PRIVATE SECTOR DISPUTE RESOLUTION PROVIDER.
+
+The HOTH has further committed to refer unresolved Privacy Shield complaints to our Marketing Operations Manager, Bobby Bishop, an alternative dispute resolution employee located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact Bobby Bishop for more information or to file a complaint. The services of Bobby Bishop are provided at no cost to you.
+
+FOR USE INFORMING INDIVIDUALS THAT YOUR ORGANIZATION WILL COOPERATE WITH EU DPAS AND/OR THE SWISS FEDERAL DATA PROTECTION AND INFORMATION COMMISSIONER.
+
+The HOTH commits to cooperate with the panel established by the EU data protection authorities (DPAs) and comply with the advice given by the panel with regard to [human resources] data transferred from EU [in the context of the employment relationship].
 
 
 
