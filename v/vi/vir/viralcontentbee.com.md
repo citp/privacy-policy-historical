@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralcontentbee.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120044237id_/http%3A//viralcontentbee.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralcontentbee.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405015744id_/https%3A//viralcontentbee.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viral Content Bee
 
@@ -173,11 +173,11 @@ support@viralcontentbee.com518-270-0854
 
 Last Edited on 2018-05-25
 
-### [VCBee](http://viralcontentbee.com/index.php/author/annsmarty/ "VCBee")
+### [VCBee](https://viralcontentbee.com/index.php/author/annsmarty/ "VCBee")
 
 Viral Content Bee is the free platform for social media sharing helping you get more shares for your high-quality content
 
-[More Posts](http://viralcontentbee.com/index.php/author/annsmarty/ "More posts by VCBee") \- [Website](http://viralcontentbee.com/ "VCBee")
+[More Posts](https://viralcontentbee.com/index.php/author/annsmarty/ "More posts by VCBee") \- [Website](http://viralcontentbee.com/ "VCBee")
 
 Follow Me:  
 [](http://www.twitter.com/viralcontentbuz)[](http://www.facebook.com/viralcontentbuzz)
