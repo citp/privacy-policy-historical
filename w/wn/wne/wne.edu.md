@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the wne.edu privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519070826id_/http%3A//www1.wne.edu/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wne.edu privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404154535id_/https%3A//www1.wne.edu/privacy/index.cfm) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described by the [US Department of Labor](https://www.dol.gov/general/ppii), is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This privacy notice describes how Western New England University ("we", "our" or "us") collects and processes personal information about you through https://www.wne.edu and all other Western New England University websites and applications that link this privacy notice or e.g. for employees, through the course of your employment with Western New England University, how we use and protect this information, and your rights in relation to this information.
+
+This privacy notice applies to all personal information we collect or process about you. Personal information is information, or a combination of pieces of information, that could reasonably allow you to be identified.
 
 ### What information do we collect from the people that visit our blog, website or app?
 
@@ -13,7 +15,7 @@ Our web servers automatically collect information from site visitors, such as IP
 
 ###### Volunteered Information
 
-We collect personally identifiable information only when voluntarily provided by website users. We only receive personal information about site visitors through our online forms. When using our site, you may be asked to enter your name, email address, mailing address, phone number, social security number, date of birth or any combination of data that could be used to identify you. This information is collected for the purposes of recruitment, admission to the University, communications, academics and verification of identity.
+We collect personally identifiable information only when voluntarily provided by website users. We only receive personal information about site visitors through our online forms. When using our site, you may be asked to enter your name, email address, mailing address, phone number, social security number, date of birth or any combination of data that could be used to identify you. This information is collected for the purposes of recruitment, admission to the University, communications, academics, verification of identity,account details (e.g. username and password) and transaction details (e.g. when you pay tuition or make purchases).
 
 ### When do we collect information?
 
@@ -30,8 +32,14 @@ We may use the information we collect from you when you register, make a purchas
   * To quickly process your transactions.
   * To send periodic emails regarding your order or other products and services.
   * To follow up with you after correspondence (live chat, email or phone inquiries)
+  * To communicate with you, for example, about changes to terms and conditions or if you contact us with questions.
+  * Exercising our rights, for example, to detect, prevent respond to fraud claims, intellectual property infringement claims or violations of law or our Terms of Use or Terms of Service.
 
 
+
+### CONFIDENTIALITY OF STUDENT RECORDS (FERPA)
+
+Western New England University adheres to a policy of compliance with the Family Educational Rights Privacy Act (FERPA).  The policy is found seperately as part of the [Student Handbook](https://web.archive.org/web/20190404154535id_/https%3A//www1.wne.edu/student-activities/doc/handbook-updated1.pdf).
 
 ### How do we protect your information?
 
@@ -41,7 +49,7 @@ Your personal information is contained behind secured networks and is only acces
 
 We implement a variety of security measures when a user places an order, enters, submits, or accesses their information. These measures are designed to maintain the safety of your personal information.
 
-While most voluntary information is only maintained long enough to provide the specific service requested, some personally identifiable information may be retained as part of backup procedures. In addition, some personally identifiable information may be added to University databases to be used for other University business and academic purposes. Please refer to our [Written Information Security Program (WISP)](https://web.archive.org/web/20180519070826id_/http%3A//www1.wne.edu/information-technology/policies_doc/doc/WISP.pdf) for more information.
+While most voluntary information is only maintained long enough to provide the specific service requested, some personally identifiable information may be retained as part of backup procedures. In addition, some personally identifiable information may be added to University databases to be used for other University business and academic purposes. Please refer to our [Written Information Security Program (WISP)](https://web.archive.org/web/20190404154535id_/https%3A//www1.wne.edu/information-technology/policies_doc/doc/WISP.pdf) for more information.
 
 ### Do we use 'cookies'?
 
@@ -55,7 +63,7 @@ You may not be able to login, view grades, pay bills, or access other services.�
 
 ### Third-party disclosure
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. 
 
 ### Third-party links
 
@@ -67,7 +75,17 @@ We use Google Analytics to analyze our websites usage to improve customer engage
 
 We, along with third-party vendors such as Google, compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-### Contacting Us
+### YOUR RIGHTS OVER YOUR PERSONAL INFORMATION
+
+You have certain rights regarding the personal information we hold about you, subject to local law. These may include the right to access, correct, delete, restrict or object to our use of, or receive a portable copy in a usable electronic format of your personal information. You also may have a right to lodge a complaint with your local data protection or privacy regulator.
+
+### INTERNATIONAL DATA TRANSFER
+
+Your personal information may be transferred to, stored, and processed in a country that is not regarded as providing the same level of protection for personal information as the laws of your home country, and may be available to the government of those countries under a lawful order made in those countries.
+
+We have put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements to provide adequate protections for your personal information.
+
+### CONTACTING US
 
 If there are any questions regarding this privacy policy, you may contact us using the information below:
 
@@ -78,4 +96,4 @@ If there are any questions regarding this privacy policy, you may contact us usi
 ** **[webmaster@wne.edu  
 ](mailto:webmaster@wne.edu)** **413-782-3111**
 
-**Last Edited on 2016-10-06**
+**Last Edited on 2018-10-23**
