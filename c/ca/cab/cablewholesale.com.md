@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608215143id_/http%3A//www.cablewholesale.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404193337id_/https%3A//www.cablewholesale.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | CableWholesale.com
 
-[](https://web.archive.org/free_shipping_rules.php)
+Product Filters
 
 Here at CableWholesale.com, we know it can at times feel forbidding to input personal information with your order. Customers are sometimes hesitant to enter e-mail addresses, phone numbers, or credit card information. We have therefore adopted the following Privacy Policy, so that our customers may be assured that their personal information never leaves our company, and is used only for practical purposes in the order process. Listed below are our policies. 
 
