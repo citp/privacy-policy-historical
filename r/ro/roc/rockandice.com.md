@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockandice.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023080759id_/https%3A//rockandice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockandice.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404031047id_/https%3A//rockandice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rock and Ice
 
