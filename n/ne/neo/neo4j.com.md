@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neo4j.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904111246id_/https%3A//neo4j.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neo4j.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404090034id_/https%3A//neo4j.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Neo4j Graph Database Platform
 
