@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opengroup.org privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214115654id_/http%3A//www.opengroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengroup.org privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404042522id_/https%3A//www.opengroup.org/privacy) for the most accurate reproduction.*
 
 # Privacy | The Open Group
 
