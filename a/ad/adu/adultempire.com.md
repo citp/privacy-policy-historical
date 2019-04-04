@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultempire.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623065728id_/https%3A//www.adultempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultempire.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404221125id_/http%3A//adultempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # Adult Empire | Award-Winning Retailer of Streaming Porn Videos on Demand, Adult DVDs, & Sex Toys
 
