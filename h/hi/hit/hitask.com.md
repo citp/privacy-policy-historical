@@ -1,29 +1,264 @@
-> *The following text is extracted and transformed from the hitask.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911232309id_/https%3A//hitask.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitask.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404111023id_/https%3A//hitask.com/privacy) for the most accurate reproduction.*
 
-# HiTask: Privacy Policy
+# Hitask: Privacy Policy
 
-Human Computer respects your privacy. We developed Privacy Policy to show our engagement into defending your privacy and to opening our information and privacy practices for www.hitask.com. We keep the right to amend this Policy and will inform you of such amendments via email or our website. If you have questions about this Privacy Policy, please contact us at [privacy@hitask.com](mailto:privacy@hitask.com). 
+Effective date: May 22, 2018
 
-  1. #### INFORMATION WE COLLECT
+Human Computer LLC ("us", "we", or "our") operates the http://hitask.com website (the "Service").
 
-Human Computer collects personal information from clients who sign up with our services. When clients sign up with our services, we require a username, password, email address, first and last name. We use the client sign up information to authenticate users and allow access to service. We also use the email addresses used while sign up process to communicate with the clients. Human Computer may get in touch with you via email to let you know about the amendments to its services, support messages, news about Human Computer and marketing materials from Human Computer. Human Computer logs cumulative user statistics and website traffic within hiTask.com. This information comprises website usage statistics, date and time of visits, browser type, etc. We improve our services based on this information, by analyzing and diagnosing problems and website use trends. Human Computer may expose cumulative use statistics (e.g. 90% of hiTask.com users visit the website daily) to present our services to possible partners, advertisers, and other third parties for legitimate reasons. Human Computer will never disclose such data on a user or identifiable basis to third parties unless when asked to comply with laws that demand such disclosure to law enforcement authorities. You may delete your hiTask.com account as well as your personally identifiable information at any moment by getting in touch with us at [support@hitask.com](mailto:support@hitask.com) explicitly stating that you would like to deactivate your account and delete such information. In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA) Human Computer doesn’t collect intentionally personally identifiable information from nor solicit children under the age of thirteen (13) years of age. Other than as stated in this Privacy Policy, never will Human Computer share, rent or sell your identifiable personal information to any third parties without your clearly stated consent. 
-  2. #### PUBLIC FORUMS
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-Human Computer may produce, host and provide discussion forums, chat rooms, newsgroups, blogs and other public areas to the general public and its customers. Any information shared in these environments is treated as public information and each user is responsible for and should exercise caution when disclosing any personal information on such forums. Human Computer is not responsible for any action taken as a result of information presented or received in public forums, whether moderated or hosted by Human Computer or not. If you post personal information in any of our public forums, you may receive unsolicited email and communications from other parties. 
-  3. #### COOKIES
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://hitask.com
 
-Human Computer uses cookies to store and track information about client use of Human Computer services. Cookies are encoded and unidentifiable blocks of data sent to your browser from a web server. Cookies are kept on your computer. Cookies are created when you register, or log in or log out of Human Computer services. Cookies could hold your login data so that you can avoid entering that every time you log in to Human Computer services. We may also use cookies to collect cumulative information on the website use. We may use cookies to assess quantity of simultaneous users, total number of users, traffic volume and to understand use of our services. We may share this data, in its cumulative form, with advertisers, affiliates and partners who may advertise on our website and services. 
-  4. #### PASSWORDS
+## Definitions
 
-Your hiTask.com account information, username, password and customer profile are password-protected so that you have secure access to entering and editing personal information. It is the user's responsibility to protect the security of their password. Access to hiTask.com services are protected by a unique username and password that is known by you only. Human Computer has designed internal security processes that encrypt customer passwords to protect it from being divulged or accessed by anyone other than you. Neither Human Computer employees nor any of its contractors can obtain or access your password. Human Computer employees nor any of its contractors will ask you for your password via mail, email or telephone nor any other unsolicited manner. 
-  5. #### THIRD PARTY LINKS
+  * **Service**
 
-When customers and users access and use hiTask.com, there may be links to websites and services operated by third parties. Human Computer makes no representations or warranties about the policies of third party websites that are linked to Human Computer or any of its services. Human Computer recommends that you read the privacy policies posted by those third party websites. 
-  6. #### SECURITY
+Service is the http://hitask.com website operated by Human Computer LLC
 
-Human Computer stores its servers in a highly secure server environment with 24 X 7 monitoring, surveillance and support to prevent unauthorized access and data security. Advanced security measures including firewalls, security guards and surveillance are taken to ensure the continued service and protection of your data from natural disaster, intruders and disruptive events. We cannot guarantee the security of your data while it is being transmitted over the Internet and through servers that are out of our control. We strive to protect your personal information but Human Computer cannot ensure or warrant the security of any information you transmit to our website or services. Any data transmissions you make over the internet are done so at your own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems. 
-  7. #### FURTHER QUESTIONS
+  * **Personal Data**
 
-If you have further questions about our Privacy Policy, email us at [support@hitask.com](mailto:privacy@hitask.com). 
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+
+  * **Usage Data**
+
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+  * **Cookies**
+
+Cookies are small pieces of data stored on your device (computer or mobile device).
+
+  * **Data Controller**
+
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+
+  * **Data Processors (or Service Providers)**
+
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
+
+We may use the services of various Service Providers in order to process your data more effectively.
+
+  * **Data Subject (or User)**
+
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+
+
+
+
+## Information Collection And Use
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+### Types of Data Collected
+
+#### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+  * Email address
+  * Cookies and Usage Data
+
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+#### Usage Data
+
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Location Data
+
+We may use and store information about your location if you give us permission to do so (“Location Data”). We use this data to provide features of our Service, to improve and customize our Service.
+
+You can enable or disable location services when you use our Service at any time, through your device settings.
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+## Use of Data
+
+Human Computer LLC uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Human Computer LLC legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Human Computer LLC may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it's not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## Retention of Data
+
+Human Computer LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Human Computer LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Human Computer LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+Human Computer LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Human Computer LLC
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## "Do Not Track" Signals
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Human Computer LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Human Computer LLC relied on your consent to process your personal information.
+
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+
+
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **Apple Store In-App Payments**
+
+Their Privacy Policy can be viewed at <https://www.apple.com/legal/privacy/en-ww/>
+
+  * **Google Play In-App Payments**
+
+Their Privacy Policy can be viewed at <https://www.google.com/policies/privacy/>
+
+  * **Stripe**
+
+Their Privacy Policy can be viewed at <https://stripe.com/us/privacy>
+
+  * **PayPal or Braintree**
+
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: support@hitask.com
+  * By visiting this page on our website: http://hitask.com/contact
 
 
