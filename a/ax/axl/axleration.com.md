@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axleration.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708103331id_/https%3A//axleration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axleration.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404140951id_/https%3A//axleration.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Axleration
 
@@ -27,5 +27,3 @@ We use Google Analytics to track the visitor data. Google Analytics uses cookies
 
 **Contact  Information**  
 If users have any questions or suggestions **regarding our privacy policy** , please contact us through the Privacy Issues form below for other purposes, contact us [here](https://web.archive.org/contact-us/).
-
-[contact-form-7 404 "Not Found"] 
