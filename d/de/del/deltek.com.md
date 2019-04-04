@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltek.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006023912id_/https%3A//www.deltek.com/en/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltek.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404052522id_/https%3A//www.deltek.com/en/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Deltek
 
