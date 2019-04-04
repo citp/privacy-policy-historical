@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zingoy.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731140521id_/https%3A//www.zingoy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingoy.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404083226id_/https%3A//www.zingoy.com/privacy) for the most accurate reproduction.*
 
-# Privacy: Zingoy.com
+# Privacy Policy - Zingoy
 
 ##### Last Updated: July 14, 2015
 
@@ -16,7 +16,7 @@ For the purpose of providing you with quality services, we require you to enrol 
 
 We only collect personally identifiable information that you choose to provide on our Website on registration for the purpose of registering on our Website. Zingoy.com may ask for Personal Information from you at the time of registering for the purpose of providing you the content and/or services that you request. 
 
-Additionally, Zingoy.com collects the e-mail addresses of those who opt to communicate with Zingoy.com via e-mail for regular updates, discounts and deals. However your other personal details including but not limited to gender, age, postal address, phone number, date of birth, job role, occupation, opinion on deals available, feedback, suggestions, views, survey information, etc. (“User Information”) may be shared/volunteered by you which you may access or visit on our Website. You may note that any user Information being in the public domain is available for access for all our Website’s users and visitors. You are advised to exercise discretion before you make your personal details public, as such information is vulnerable to misuse and can be easily misused. Zingoy.com in this regard fully disclaims any liability(ies) or claim(s) which may arise by use/misuse of User Information shared by you, by any third party or any party known or not known to Zingoy.com.
+Additionally, Zingoy.com collects the e-mail addresses of those who opt to communicate with Zingoy.com via e-mail for regular updates, discounts and deals. However your other personal details including but not limited to gender, age, postal address, phone number, date of birth, job role, occupation, opinion on deals available, feedback, suggestions, views, survey information, etc. (“User Information”) may be shared/volunteered by you which you may access or visit on our Website. You may note that any user Information being in the public domain is available for access for all our Website’s users and visitors. You are advised to exercise discretion before you make your personal details public, as such information is vulnerable to misuse and can be easily misused. Zingoy.com in this regard fully disclaims any liability(ies) or claim(s) which may arise by use/misuse of User Information shared by you, by any third party or any party known or not known to Zingoy.com. 
 
 Notwithstanding termination of your membership with Zingoy.com, any/all information exchanged by you with Zingoy.com in the form of written communication, responses to emails, feedback required from you, participation in discussions, content posted on our website, together with all intellectual property rights embodied therein, shall for all purposes, etc. be deemed to be the property of Zingoy.com and shall be owned exclusively by Zingoy.com for the exclusive use of Zingoy.com. Accordingly, Zingoy.com shall not in this regard, be obliged to modify, alter, substitute or delete any content posted by you on our Website or any information shared by you with us, on termination of your membership with Zingoy.com. 
 
@@ -40,30 +40,30 @@ Most web browsers automatically accept cookies. By changing the options on your 
 
 We collect information from you for various purposes including but not limited to the following: 
 
-1.) Member Registration:
+1) Member Registration:
 
 If you choose to become a registered member of our Website, you will be required to share some of your personal details such as your name, e-mail address, a unique login name, password, password validation and country. This information is collected on the registration form for several reasons including but not limited to the following: 
 
   * Personal Identification Purposes;
   * Allowing You To Submit New Deals And Share Your Opinion With Others;
   * Personal Identification Purposes;Allowing You Access To Content/Deals Unavailable For Access To Users Not Registered On Our Website; And
-  * If Necessary, Customizing The Content Of This Website To Strive To Meet Your Specific Needs 
+  * If Necessary, Customizing The Content Of This Website To Strive To Meet Your Specific Needs
 
 
 
-2.) Automatic Logging of Session Data 
+2) Automatic Logging of Session Data 
 
 We automatically log generic information about your computer's connection to the Internet, which we call "session data", that is anonymous and not linked to any personal information. Session data consists of information such as the IP address, operating system, type of browser software being used by you and the activities conducted by you on our Website. An IP address is a number that lets computers attached to the internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us analyse things such as the items visitors are likely to click on most, the manner in which visitors click preferences on our Website, number of visitors surfing to various pages on the site, time spent by the visitors on our Website and frequency of their visit . It also helps us diagnose problems with our servers and lets us better administer our systems. Although such information does not identify any visitor personally, it is possible to determine from an IP address a visitor's Internet Service Provider (ISP), and the approximate geographic location of his or her point of connectivity. 
 
-3.) Cookies 
+3) Cookies 
 
 The use of cookies is very common on the Internet and Zingoy.com’s use of cookies is similar to that prevailing in the industry from to time. No personal information about you is gathered or stored in the cookies placed by our Website and, as a result, none can be passed on to any third party. 
 
-4.) Google Analytics
+4) Google Analytics
 
 This website uses “Google Analytics” to help analyse how user uses this website. Google Analytics uses “cookies”, which are small text files placed on your computer to collect standard internet log information and visitor behaviour information in an anonymous form. The anonymous information generated by the cookies about your use of this website (including your IP address) is transmitted to Google. Your IP address is collected purely for the purpose of determining geographic location of visits and does not link or seek to link IP address with the identity of the computer user.The information so collected is then processed to compile statistical reports on website activity. The reports are used to evaluate aggregate visitor usage to optimise the content of the website and to serve our Users better. Google analytics does not compile any personally identifiable data and all the activity on our website falls within the bound of Google Analytics Terms of Service. 
 
-5.) Other 
+5) Other 
 
 We may from time to time add or enhance products/services available on our Website. To the extent these products/services are provided to and used by you, we will use the information you provide in this regard to facilitate the products/service requested. For example, if you email us with a question, we will use your email address, name, nature of the question, etc. to respond to your question. We may also store and publish such information to assist us in making the site the better and easier to use. 
 
@@ -91,11 +91,11 @@ For our Website users’ convenience, our Website provides links to other websit
 
 ## How does Zingoy.com address children's privacy?
 
-Zingoy.com requires that the visitor must be at least 18 years old to have our permission to use this site. If you are below 18 years of age, you are strictly prohibited from registering on our Website or doing any act which leads us to believe that you are 18 years of age or above. If you are the parent or guardian of a child under 18 years of age you provide your consent to your child’s registration with our Website and if you believe that they have disclosed personally identifiable information to us, please contact us at support@zingoy.com so that we may take immediate steps to delete the child's information. 
+Zingoy.com requires that the visitor must be at least 18 years old to have our permission to use this site. If you are below 18 years of age, you are strictly prohibited from registering on our Website or doing any act which leads us to believe that you are 18 years of age or above. If you are the parent or guardian of a child under 18 years of age you provide your consent to your child’s registration with our Website and if you believe that they have disclosed personally identifiable information to us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) so that we may take immediate steps to delete the child's information. 
 
 ## I have more questions about privacy policy
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [support@zingoy.com](mailto:support@zingoy.com). 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6d1e181d1d021f192d1704030a0214430e0200). 
 
 ## Will Zingoy.com change privacy policy in the future?
 
