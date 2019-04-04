@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ferrari.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926123232id_/https%3A//auto.ferrari.com/en_EN/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferrari.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404213416id_/https%3A//auto.ferrari.com/en_US/legal-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ferrari GT - en-EN
+# Privacy Policy - Ferrari GT - en-US
 
 The Privacy Policy is aimed at describing the management of the personal data collected by Ferrari S.p.A. (“Company”) through this website, in compliance with the applicable law.
 
