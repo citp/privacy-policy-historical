@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growthhackers.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230143042id_/https%3A//growthhackers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthhackers.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404222851id_/https%3A//growthhackers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - GrowthHackers
 
