@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104222945id_/http%3A//www.expatexchange.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404213802id_/http%3A//www.expatexchange.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Expat Exchange
 
-[ ](http://www.expatexchange.com/click.cfm?bannerid=840)
+[ ](http://www.expatexchange.com/click.cfm?bannerid=839)
 
 At ExpatExchange.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by ExpatExchange.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [help@expatexchange.com](mailto:help@expatexchange.com). 
 
