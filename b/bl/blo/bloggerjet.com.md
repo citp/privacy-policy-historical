@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggerjet.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207075950id_/http%3A//bloggerjet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerjet.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404122237id_/http%3A//bloggerjet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BloggerJetBloggerJet
 
