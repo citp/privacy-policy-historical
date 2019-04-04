@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackersonlineclub.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020162657id_/https%3A//hackersonlineclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackersonlineclub.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404162540id_/https%3A//hackersonlineclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HackersOnlineClub
 
@@ -8,7 +8,7 @@ At hackersonlineclub.com the privacy of our visitors is of extreme importance to
 
 This privacy policy document outlines the types of personal information is received and collected by hackersonlineclub.com and how it is used.
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, hackersonlineclub.com makes use of log files.
 
@@ -16,7 +16,7 @@ The information inside the log files includes internet protocol ( IP ) addresses
 
 IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies & 3rd Party Advertisements**
+ **Cookies & 3rd Party Advertisements**
 
 Google, as a third party vendor, uses cookies to serve ads on your site.
 
@@ -30,4 +30,4 @@ These companies may use non-personally identifiable information (e.g., click str
 
 To learn more about this behavioral advertising practice or to opt-out of this type of advertising.
 
-**Hackersonlineclub.com has no access to or control over these cookies that are used by third-party advertisers.**
+ **Hackersonlineclub.com has no access to or control over these cookies that are used by third-party advertisers.**
