@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bogner.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907123720id_/https%3A//www.bogner.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bogner.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404213054id_/https%3A//www.bogner.com/en-us/privacy) for the most accurate reproduction.*
 
 # Privacy | BOGNER USA
 
@@ -40,7 +40,7 @@ You may also prevent collection of the data by Google Analytics by clicking on t
   2. Econda  
 For the purpose of customised design and optimisation of the Website, solutions and technologies of econda GmbH ([www.econda.de](http://www.econda.de/)) are used to collect and save anonymised data and to prepare from such data usage profiles using pseudonyms. To this effect, cookies are used which facilitate recognition of your internet browser. The usage profiles will not be merged with data pertaining to the bearer of the pseudonym. Above all, IP addresses will be made unidentifiable immediately upon receipt, so that user profiles cannot be allocated to IP addresses. You may object here at any time for the future to the collection and storage of your data by Econda.
   3. Google remarketing  
-On our Website we also use the targeting technology Google Remarketing of Google Inc., USA. This technology allows us to address internet users who have visited our Website with targeted product recommendations in the form of advertising banners on the websites of the Google partner network. Such advertising banners are displayed on our partners’ sites with the help of cookies and an analysis of your use of the sites in the past. This analysis is conducted under a pseudonym; no usage profiles are merged with your real name. You may object to the collection of the data by Google Inc. at any time under the link: <http://www.google.com/settings/ads/onweb/?hl=de>
+On our Website we also use the targeting technology Google Remarketing of Google Inc., USA. This technology allows us to address internet users who have visited our Website with targeted product recommendations in the form of advertising banners on the websites of the Google partner network. Such advertising banners are displayed on our partners’ sites with the help of cookies and an analysis of your use of the sites in the past. This analysis is conducted under a pseudonym; no usage profiles are merged with your real name. You may object to the collection of the data by Google Inc. at any time under the link: <https://adssettings.google.com/authenticated?hl=com>
 
 
 
