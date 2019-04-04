@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spottedbylocals.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710045248id_/https%3A//www.spottedbylocals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spottedbylocals.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404123633id_/https%3A//www.spottedbylocals.com/privacy-policy) for the most accurate reproduction.*
 
 # Cookie & privacy policy | Spotted by Locals blog
 
@@ -15,7 +15,7 @@ We will not use or share your information with anyone except as described in thi
 
 We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-**Cookies**
+ **Cookies**
 
 Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
@@ -23,7 +23,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 
 `Revoke`
 
-**Third Party Cookies**
+ **Third Party Cookies**
 
 In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site. Through cookies we share data with these parties.
 
@@ -37,17 +37,17 @@ For more information on Google AdSense see the official [Google AdSense privacy 
 
 The behavioral advertising cookies used by this site are designed to ensure that we provide you with the most relevant adverts where possible by anonymously tracking your interests and presenting similar things that may be of interest.
 
-**Opt out of behavioral targeting**
+ **Opt out of behavioral targeting**
 
 You can visit the following sites to opt-out of the ad networks (occasionally) used on our website:  
 1\. [Google Adsense](https://www.google.com/settings/u/0/ads/authenticated)  
 2\. [Facebook](https://www.facebook.com/help/568137493302217)
 
-**Security**
+ **Security**
 
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-**International Transfer**
+ **International Transfer**
 
 Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
@@ -55,24 +55,24 @@ If you are located outside Netherlands and choose to provide information to us, 
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-**Links To Other Sites**
+ **Links To Other Sites**
 
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-**Children’s Privacy**
+ **Children’s Privacy**
 
 Our Service does not address anyone under the age of 13 (“Children”).
 
 We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
 
-**Changes To This Privacy Policy**
+ **Changes To This Privacy Policy**
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-**Contact Us**
+ **Contact Us**
 
 If you have any questions about this Privacy Policy, please [contact us](https://www.spottedbylocals.com/contact/).
