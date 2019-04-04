@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denver.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221235719id_/https%3A//www.denver.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denver.org privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404230514id_/https%3A//www.denver.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VISIT DENVER
 
