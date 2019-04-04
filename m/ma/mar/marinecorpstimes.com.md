@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinecorpstimes.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203132522id_/https%3A//www.marinecorpstimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinecorpstimes.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404163511id_/https%3A//www.marinecorpstimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -115,6 +115,25 @@ How we use your personal data depends upon which Services you use, how you use t
 We use the information we gather about you to enable your use of the Services and fulfill your requests for certain products and services, such as: sending out newsletters; enabling you to participate in online forums or communities; allowing you to download e-books, webcasts, and whitepapers; and enabling you to participate in polls, contests, sweepstakes and other events. 
 
 Our Services allow you to stay informed about news and events. We may use the data that we have about you to recommend relevant content on our Services. We may also use the data (which can include your communications) to investigate, respond to and resolve complaints and Service issues.
+
+When you first access the website, you may receive a message advising you that cookies and similar technologies are in use. By clicking "accept", closing the message, or continuing to browse the website, you understand the terms and agree to the use of these technologies, as described herein. You do not have to accept cookies and consent can be withdrawn at any time. You can do this by activating the setting on your browser that allows you to refuse the setting of all or some cookies.
+
+The following links provide useful information about how to manage your advertising cookie choices for the most popular browsers: 
+
+  * [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+
+
+
+In addition, the following links provide useful information about how to manage your advertising cookie choices: 
+
+  * [www.networkadvertising.org/choices/](https://web.archive.org/web/20190404163511id_/https://www.marinecorpstimes.com/privacy/www.networkadvertising.org/choices/)
+  * <http://www.aboutads.info/choices/>
+  * <http://youronlinechoices.com/>
+
+
 
 **To Contact You.**
 
@@ -278,4 +297,4 @@ Vienna, Virginia 22182
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-This Privacy Policy was revised May 22, 2018.
+This Privacy Policy was revised January 29, 2019.
