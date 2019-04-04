@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lionsroar.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004012803id_/https%3A//www.lionsroar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionsroar.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404165833id_/https%3A//www.lionsroar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lion's Roar
 
