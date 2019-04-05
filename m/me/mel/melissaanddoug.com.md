@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melissaanddoug.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203000217id_/https%3A//www.melissaanddoug.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melissaanddoug.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405180316id_/https%3A//www.melissaanddoug.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
