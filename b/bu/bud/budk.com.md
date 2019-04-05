@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319150502id_/http%3A//www.budk.com/Info.aspx%3Fid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405104835id_/https%3A//www.budk.com/Info.aspx%3Fid%3D1) for the most accurate reproduction.*
 
 # Privacy
 
@@ -51,6 +51,10 @@ We may supplement the information collected through this site with information w
 ### Use of Cookies and Similar Technologies by Our Advertising Agents
 
 BUDK.com uses third-party advertising companies to place online advertisements on our behalf at websites other than BUDK.com. These advertising companies may use cookies and Web beacons (also known as “pixel tags”) to target and measure the effectiveness of their advertisements. For example, our advertising companies may place Web beacons on their clients’ Web sites. When you visit these Web sites, the Web beacon “tags” your computer with a “cookie” that collects and stores information about your visit to their client’s Web site. This information does not identify you personally. Our advertising companies use the information they collect about your use of their clients’ Web sites to customize the advertisements you see when you visit their clients’ Web sites. Our advertising companies’ use of cookies and Web beacons is covered by their privacy policies, not by this Online Privacy Statement. 
+
+### First Party Cookie Integration
+
+We may also use technologies, such as our own cookies, to provide you with relevant online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here.](http://dtmc.budk.com/adinfo/choice/prod/?type=fpc&cid=62685&cname=BUDK&cmagic=24270e&clogo=62685.png&loc=us&lang=en-us)
 
 ### How Do We Use Your Personal Information?
 
