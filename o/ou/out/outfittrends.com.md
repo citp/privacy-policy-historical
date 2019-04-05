@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outfittrends.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229173550id_/https%3A//www.outfittrends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outfittrends.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405023858id_/https%3A//www.outfittrends.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outfit Trends - Ideas How to Wear & What to Wear
 
