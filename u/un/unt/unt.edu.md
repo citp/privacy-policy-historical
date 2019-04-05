@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unt.edu privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020001334id_/https%3A//www.unt.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unt.edu privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405064207id_/https%3A//www.unt.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | University of North Texas
 
