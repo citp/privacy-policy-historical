@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlcompare.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904102242id_/https%3A//www.dlcompare.com/informations) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlcompare.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405222018id_/https%3A//www.dlcompare.com/informations) for the most accurate reproduction.*
 
 # Privacy Policy | DLCompare.com
 
