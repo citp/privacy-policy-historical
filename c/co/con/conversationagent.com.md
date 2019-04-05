@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationagent.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919003918id_/http%3A//www.conversationagent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationagent.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405152223id_/https%3A//www.conversationagent.com/privacy.html) for the most accurate reproduction.*
 
 # Conversation Agent - Valeria Maltoni - Privacy Policy
 
