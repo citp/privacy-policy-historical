@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230133547id_/https%3A//www.symplicity.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405233132id_/https%3A//www.symplicity.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Symplicity
 
@@ -106,7 +106,7 @@ If you have any questions, concerns, or complaints regarding this Privacy Policy
 
 ### E.U. AND SWISS PRIVACY SHIELD
 
-Symplicity complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Symplicity has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. See our [Privacy Shield Statement](https://www.symplicity.com/support/privacy-shield-statement). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/
+Symplicity complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom and Switzerland to the United States. Symplicity has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. See our [Privacy Shield Statement](https://www.symplicity.com/support/privacy-shield-statement). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/
 
 ### GDPR
 
