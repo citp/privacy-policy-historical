@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toughnickel.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221131726id_/https%3A//toughnickel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toughnickel.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405191143id_/https%3A//toughnickel.com/privacy-policy) for the most accurate reproduction.*
 
 # HubPages Network Privacy Policy | ToughNickel
 
