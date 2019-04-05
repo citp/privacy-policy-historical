@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthbeautyfacts.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626225248id_/http%3A//www.healthbeautyfacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthbeautyfacts.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405181412id_/https%3A//www.healthbeautyfacts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,4 +62,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This document was last updated on March 24, 2016
 
-Saturday, March 26, 2016
+[](https://www.pinterest.com/pin/create/button/)
