@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parentsdome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091422id_/http%3A//www.parentsdome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentsdome.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405084742id_/https%3A//www.parentsdome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy ⋆
 
-This Privacy Policy governs the manner in which The Dome of Parenting collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.parentsdome.com/](http://www.toocool2betrue.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Dome of Parenting.
+This Privacy Policy governs the manner in which The Dome of Parenting collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.parentsdome.com/](http://www.toocool2betrue.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Dome of Parenting.
 
 **Personal identification information**
 
@@ -63,5 +63,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 The Dome of Parenting  
-[http://www.parentsdome.com/](http://www.toocool2betrue.com/)  
-info@[parentsdome](http://www.toocool2betrue.com/).com
+<https://www.parentsdome.com/>  
+info@parentsdome.com  
+``
+
+Review Consent Preferences (EU user only)  
+``
