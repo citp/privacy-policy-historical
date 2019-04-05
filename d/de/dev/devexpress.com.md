@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devexpress.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123072515id_/https%3A//www.devexpress.com/aboutus/privacy-policy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devexpress.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405142327id_/https%3A//www.devexpress.com/aboutus/privacy-policy.xml) for the most accurate reproduction.*
 
 # DevExpress Privacy Policy
 
@@ -99,7 +99,7 @@ The information we collect automatically may include Personal Data or we may mai
 
 
 
-Details about the automated data collection technologies and the specific cookies that we use can be found in our [Cookie Policy](https://web.archive.org/AboutUs/cookie-policy.xml). 
+Details about the automated data collection technologies and the specific cookies that we use can be found in our [Cookie Policy](https://web.archive.org/aboutus/cookie-policy.xml). 
 
 ###  Information We Collect Through Our Customer Experience Program 
 
@@ -189,7 +189,7 @@ We may disclose Personal Data that we collect or you provide as described in thi
 We may also disclose your Personal Data:
 
   * to comply with any court order, law, or legal process, including to respond to any government or regulatory request;
-  * to enforce or apply our [terms of use](https://web.archive.org/AboutUs/legal.xml) and other agreements, including for billing and collection purposes; and 
+  * to enforce or apply our [terms of use](https://web.archive.org/aboutus/legal.xml) and other agreements, including for billing and collection purposes; and 
   * if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Developer Express Inc., our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
@@ -217,7 +217,7 @@ Applicable data protection laws may provide you with certain rights with regards
   * **Restrictions**. You have the right to restrict our processing of your Personal Data under certain circumstances. In particular, you can request we restrict our use of it if you contest its accuracy, if the processing of your Personal Data is determined to be unlawful, or if we no longer need your Personal Data for processing, but we have retained it as permitted by law. 
   * **Portability**. To the extent the Personal Data you provide DevExpress is processed based on your consent, you have the right to request that we provide you a copy of, or access to, all or part of such Personal Data in structured, commonly used and machine-readable format. You also have the right to request that we transmit this Personal Data to another controller, when technically feasible. 
   * **Withdrawal of Consent**. To the extent that our processing of your Personal Data is based on your consent, you may withdraw your consent at any time by closing your account. Withdrawing your consent will not, however, affect the lawfulness of the processing based on your consent before its withdrawal, and will not affect the lawfulness of our continued processing that is based on any other lawful basis for processing your Personal Data. 
-  * **Right to be Forgotten**. You have the right to request that we delete all of your Personal Data. We cannot delete your Personal Data except by also deleting your user account and revoking your licenses, and we will only delete your account when we no longer have a lawful basis for processing your Personal Data or after a final determination that your Personal Data was unlawfully processed. We may not accommodate a request to erase information if we believe the deletion would violate any law or legal requirement or cause the information to be incorrect. In all other cases, we will retain your Personal Data as set forth in this policy. In addition, we cannot completely delete your Personal Data as some data may rest in previous backups. These will be retained for the periods set forth in our disaster recovery policies. We also cannot delete your User Contributions, however proper access and use of information provided on the Websites, including User Contributions, is governed by our [Terms of Use](https://web.archive.org/AboutUs/legal.xml). 
+  * **Right to be Forgotten**. You have the right to request that we delete all of your Personal Data. We cannot delete your Personal Data except by also deleting your user account and revoking your licenses, and we will only delete your account when we no longer have a lawful basis for processing your Personal Data or after a final determination that your Personal Data was unlawfully processed. We may not accommodate a request to erase information if we believe the deletion would violate any law or legal requirement or cause the information to be incorrect. In all other cases, we will retain your Personal Data as set forth in this policy. In addition, we cannot completely delete your Personal Data as some data may rest in previous backups. These will be retained for the periods set forth in our disaster recovery policies. We also cannot delete your User Contributions, however proper access and use of information provided on the Websites, including User Contributions, is governed by our [Terms of Use](https://web.archive.org/aboutus/legal.xml). 
   * **Complaints**. You have the right to lodge a complaint with the applicable supervisory authority in the country you live in, the country you work in, or the country where you believe your rights under applicable data protection laws have been violated. However, before doing so, we request that you contact us directly in order to give us an opportunity to work directly with you to resolve any concerns about your privacy. 
   * **How You May Exercise Your Rights**. You may exercise any of the above rights by contacting us through any of the methods below and through the live chat feature of our Websites. If you contact us to exercise any of the foregoing rights, we may ask you for additional information to verify your identity. We reserve the right to limit or deny your request if you have failed to provide sufficient information to verify your identity or to satisfy our legal and business requirements. 
 
