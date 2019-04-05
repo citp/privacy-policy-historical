@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traditionaloven.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311165152id_/https%3A//www.traditionaloven.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traditionaloven.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405155450id_/https%3A//www.traditionaloven.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - traditionaloven.com
 
@@ -15,13 +15,13 @@ Some of our advertising partners may use cookies and web beacons on our site:
 
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
   * Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * To comply with this disclosure, obligation, with respect to Google's use of data, please read this page: [How Google uses data when you use our partners' sites or apps](http://www.google.com/policies/privacy/partners/).
+  * To comply with this disclosure, obligation, with respect to Google's use of data, please read this page: [How Google uses data when you use our partners' sites or apps](https://www.google.com/policies/privacy/partners/).
   * Users may opt out of Google's personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads).
-  * Alternatively, users may to opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/)
+  * Alternatively, users may to opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://optout.aboutads.info/?c=2#!/)
 
 
 
-Our users may visit these website of the third-party vendors, or ad networks serving ads, to opt out of the use of cookies for personalized advertising (if the vendors or ad networks offers this capability). Alternatively, you can direct users to opt out of some third-party vendors' uses of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/)
+Our users may visit these website of the third-party vendors, or ad networks serving ads, to opt out of the use of cookies for personalized advertising (if the vendors or ad networks offers this capability). Alternatively, you can direct users to opt out of some third-party vendors' uses of cookies for personalized advertising by visiting [www.aboutads.info](http://optout.aboutads.info/?c=2#!/)
 
 These third-party ad servers or ad networks use technology to send the advertisements and links that appear on **www.traditionaloven.com** directly to your browsers. These automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you can see.
 
@@ -40,12 +40,10 @@ Thank you.
 
 In fact you can bake for 4 to 6 hours reloading batches in the oven (including slow long time roasting at baking temperatures.) My favorites are whole mixed grains breads, Sour Dough and Turkish breads, sweets of course. It's a good idea to own a proper book about baking strategies, I ordered this one from eBay and I'm enjoying reading it ever since:
 
-[ To order this book click here](http://rover.ebay.com/rover/1/711-53200-19255-0/1?type=3&campid=5335809901&toolid=10001&customid=bakerapprentice&ext=baker%27s+apprentice&satitle=baker%27s+apprentice)  
+[ To order this book click here](https://rover.ebay.com/rover/1/711-53200-19255-0/1?type=3&campid=5335809901&toolid=10001&customid=bakerapprentice&ext=baker%27s+apprentice&satitle=baker%27s+apprentice)  
 Great as present, or must have DIY Book by Peter Reinhart: "The Bread Baker's Apprentice".
 
-[by Rado Hand on Google+](https://plus.google.com/106182836389238056887?rel=author)
-
-[](https://plus.google.com/share?url=http://www.traditionaloven.com/privacy_policy.html) [](http://www.facebook.com/sharer.php?u=http://www.traditionaloven.com/privacy_policy.html) [](http://twitter.com/share?url=http://www.traditionaloven.com/privacy_policy.html&text=Traditional-oven&hashtags=traditionaloven) [](http://www.linkedin.com/shareArticle?mini=true&url=http://www.traditionaloven.com/privacy_policy.html)
+by Rado Hand
 
 To link to this **Privacy Policy** page from your website, only cut and paste the following code into your web page.   
-It will appear on your page as: [Privacy Policy.](http://www.traditionaloven.com/privacy_policy.html "Privacy Policy")
+It will appear on your page as: [Privacy Policy.](https://www.traditionaloven.com/privacy_policy.html "Privacy Policy")
