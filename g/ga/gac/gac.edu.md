@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gac.edu privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229002101id_/https%3A//gustavus.edu/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gac.edu privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405205921id_/https%3A//gustavus.edu/policy/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Policies
+
+[Home IconFront of a house with a slanted roofHome](https://gustavus.edu/)[Policies](https://web.archive.org/policy/privacy.php)
 
 This is the website of Gustavus Adolphus College.
 
