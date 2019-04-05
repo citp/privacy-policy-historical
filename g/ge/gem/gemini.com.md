@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the gemini.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116091832id_/http%3A//gemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemini.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406014913id_/https%3A//gemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##### Introduction
 
-Welcome! Thanks for visiting Gemini, a digital asset exchange and custodian operated by and proprietary to Gemini Trust Company, LLC (d/b/a Gemini Exchange, LLC in AK, AZ, DE, ID, KY, KS, MA, MI, MN, NC, ND, NM, OH, OR, SD, UT, and VA). You agree and understand that by visiting, accessing, or using Gemini, you are consenting to the policies and practices of our privacy policy (the “Privacy Policy”) so _please read them carefully_. If any policies or practices of this Privacy Policy is unacceptable to you, please do not visit, access, or use Gemini. Use of the words “we,” “us,” or “our” in this Privacy Policy refers to Gemini Trust Company, LLC and any or all of its affiliates.
+Welcome! Thanks for visiting Gemini, a digital asset exchange and custodian operated by and proprietary to Gemini Trust Company, LLC (d/b/a Gemini Exchange, LLC in AK, AZ, DE, ID, IL, KS, KY, MA, MI, MN, NC, ND, NM, OH, OR, SC, SD, UT, and VA; d/b/a Gemini Exchange in WA). You agree and understand that by visiting, accessing, or using Gemini, you are consenting to the policies and practices of our privacy policy (the “Privacy Policy”) so _please read them carefully_. If any policy or practice of this Privacy Policy is unacceptable to you, please do not visit, access, or use Gemini. Use of the words “we,” “us,” or “our” in this Privacy Policy refers to Gemini Trust Company, LLC and any or all of its affiliates.
 
 ##### General Terms
 
-This Privacy Policy explains what [Personal Information](https://gemini.com/privacy-policy/#personal-information) (as defined below) we collect, why we collect it, and how we treat it. 
+This Privacy Policy explains what [Personal Information](https://gemini.com/privacy-policy/#personal-information) (as defined below) we collect, why we collect it, and how we treat it.
 
-You agree and understand that by visiting, accessing, or using Gemini, you have affirmed that you are at least 18 years old, have the legal capacity to consent to this Privacy Policy, and to agree to be bound by the policies and practices of this Privacy Policy in their entirety. 
+You agree and understand that by visiting, accessing, or using Gemini, you have affirmed that you are at least 18 years old, have the legal capacity to consent to this Privacy Policy, and to agree to be bound by the policies and practices of this Privacy Policy in their entirety.
 
-Your privacy matters to us so whether you are new to Gemini or a long-time customer, please do take the time to get to know and familiarize yourself with our policies and practices. Feel free to print and keep a copy of this Privacy Policy, but please understand that we reserve the right to change any of our policies and practices at any time. But don’t worry, you can always find the latest version of this Privacy Policy here on this page. 
+You agree and understand that this Privacy Policy is subject to the terms and conditions set forth in our [User Agreement](https://gemini.com/user-agreement/). In case of conflict, the User Agreement shall control. You further agree and understand that the defined terms used in this Privacy Policy, if defined in our User Agreement, shall have the meanings set forth in our User Agreement.
 
-You agree and understand that by visiting, accessing, or using Gemini following any change to this Privacy Policy, you are consenting to any such changes. You should, therefore, read this Privacy Policy from time to time. If you do not agree to be bound by this Privacy Policy, you should not visit, access or use Gemini. 
+Your privacy matters to us so whether you are new to Gemini or a long-time customer, please do take the time to get to know and familiarize yourself with our policies and practices. Feel free to print and keep a copy of this Privacy Policy, but please understand that we reserve the right to change any of our policies and practices at any time. But don’t worry, you can always find the latest version of this Privacy Policy here on this page.
+
+You agree and understand that by visiting, accessing, or using Gemini following any change to this Privacy Policy, you are consenting to any such changes. You should, therefore, read this Privacy Policy from time to time. If you do not agree to be bound by this Privacy Policy, you should not visit, access or use Gemini.
 
 ##### Definitions
 
@@ -98,7 +100,7 @@ If we propose to sell or buy any business or assets, we may disclose your Person
 
 We do not sell customer Personal Information to third parties for the purposes of marketing.
 
-Be aware that bitcoin, ether, and other Digital Assets are not necessarily truly anonymous. Generally, anyone can see the balance and transaction history of any public Digital Asset address. We, and any others who can match your public Digital Asset address to other Personal Information about you, may be able to identify you from a blockchain transaction. This is because, in some circumstances, Personal Information published on a blockchain (such as your Digital Asset address and IP address) can be correlated with Personal Information that we and others may have. This may be the case even if we, or they, were not involved in the blockchain transaction. Furthermore, by using data analysis techniques on a given blockchain, it may be possible to identify other Personal Information about you. As part of our security, anti-fraud and/or identity verification and authentication checks, we may conduct such analysis to collect and process such Personal Information about you. You agree to allow us to perform such practices and understand that we do so.
+Be aware that bitcoin, ether, and other [Digital Assets](https://gemini.com/user-agreement/#digital-assets) are not necessarily truly anonymous. Generally, anyone can see the balance and transaction history of any public Digital Asset address. We, and any others who can match your public Digital Asset address to other Personal Information about you, may be able to identify you from a blockchain transaction. This is because, in some circumstances, Personal Information published on a blockchain (such as your Digital Asset address and IP address) can be correlated with Personal Information that we and others may have. This may be the case even if we, or they, were not involved in the blockchain transaction. Furthermore, by using data analysis techniques on a given blockchain, it may be possible to identify other Personal Information about you. As part of our security, anti-fraud and/or identity verification and authentication checks, we may conduct such analysis to collect and process such Personal Information about you. You agree to allow us to perform such practices and understand that we do so.
 
 ##### Information Security
 
