@@ -1,80 +1,59 @@
-> *The following text is extracted and transformed from the adultlook.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultlook.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405222642id_/https%3A//www.adultlook.com/privacy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy Policy - AdultLook
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+AdultLook.com and its affiliates (collectively, the “Site” and “AdultLook”) respect your privacy. Here is our Privacy Policy for this Site:
 
-**What information do we collect?**
+**Acceptance of Privacy Policy**
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+Each time you access, use, post, submit a post or reply, or browse the Site, you signify your acceptance of the then-current Privacy Policy. If you do not accept this Privacy Policy, you are not authorized to use the Site and must discontinue use of the Site immediately.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+**Collection and Use of Personal Information** We collect personal information about you whenever you engage in commerce transactions on the Site, use the Site’s products or services, request information or materials, create or update account information, submit listings, communicate with us, or visit the Site. The personal information we collect and store about you may include without limitation your email address and other non-public information about you. We may use the information we collect to:
 
-**What do we use your information for?**
+• Provide superior services;
 
-Any of the information we collect from you may be used in one of the following ways: 
+• Keep you apprised of information and developments that you may find of interest;
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+• Alert you to new features, terms, content, products or services;
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+• Contact you regarding your listings, replies, and/or account information;
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+• Process and respond to your inquires;
 
-• To process transactions
+• Improve the Site;
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+• Administer, monitor and control use of the Site, including posts, replies, and account information; and
 
-• To send periodic emails
+• Enforce the Terms of Use (collectively, the “Activities”). 
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+You authorize the Site to transmit email to you to respond to your communications and administer Activities.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+**Disclosure of Personal Information to Third Parties** We may disclose your personal information to agents and operators under confidentiality or similar agreements, including shippers, vendors, payment processors, and advertisers, who we believe reasonably need to come into contact with that information: (i) to provide products or services to you; (ii) to administer our business or the Site, including fulfilling and shipping orders; (iii) to provide customer service; (iv) to update account information; (v) to forward updates, announcements, and newsletters; (vi) to respond to your communications, and communicate with you about the Site and other activities related to the Site; (vii) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of the Site’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or (viii) as otherwise authorized by you. **Disclosure in Special Circumstances** We may disclose also your name, email address, or other information about you, including personal information, if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger. We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law. Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public. **Collection of Non-Personal Information Using Cookies** We automatically receive and record non-personal information on our server logs from your browser as well as through other analysis of the Sites. Non-personal information includes without limitation your Internet Protocol (“IP”) address, cookie information (as described below), the pages you request, type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome, Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site, and the content you accessed. “Cookies” are small text files that allow Web sites to store and retrieve information about you from your computer system. The Site does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website. Non-Personal information are kept up to 90 days in our servers. **Communication from the Site/Opt-Out** From time to time, we may send you information with announcements and updates about the Site and your account. You may elect to opt-out of ongoing e-mail communication from us, such as newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. by using a simple “opt out” procedure. You need only reply to the communication with the word “unsubscribe” (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. However, if you opt-out of receiving our announcements and updates about your account, you may no longer have access to areas restricted to account members. **Correction/Update of Personal Information** If your personal information changes, you may review/correct/update your personal information previously provided at any time by sending us an email [here](https://web.archive.org/contact/message?ref=privacy). You may also have your personal profile data deleted from our database by sending us an email here [here](https://web.archive.org/contact/message?ref=privacy). However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members. **Notice of Privacy Rights of California Residents** If you are a California resident and have provided personal information to the Site, you are entitled by law to request certain information regarding any disclosure by the Site to third parties of personal information for their direct marketing purposes. To make such a request, send an email here [here](https://web.archive.org/contact/message?ref=privacy), specifying that you seek your “California Customer Choice Privacy Notice.” Please allow thirty (30) days for a response. The Site is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address. We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so. You may make such a request by sending us an email [here](https://web.archive.org/contact/message?ref=privacy).
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. 
 
-**How do we protect your information?**
+**Minors**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+The Site is not intended for anyone under the age of 18 nor does the Site knowingly collect personal information from individuals under 18. The Site does not orient this Site toward minors or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children’s use. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+**Links to Other sites**
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+This Site provides links and pointers to Web sites maintained by other organizations. The Site provides these links as a convenience to users, but it does not operate, control or endorse such sites. The Site also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. The Site does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer.
 
-**Do we use cookies?**
+**E-Commerce and Our Secure Server**
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+We understand that storing data in a secure manner is important. We store personal information using industry standard, reasonable and technically feasible, physical, technical and administrative safeguards against foreseeable risks, such as unauthorized access. All commerce transactions that take place on the Site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. 
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+Please be aware that the Site and data storage are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond the Site’s control. We cannot guarantee the security of the information on and sent from the Site. 
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+On our Site, you may have the opportunity to follow a link to other sites that may be of interest to you. We are not responsible for the privacy practices of those sites or the content provided thereon. We disclaim any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. 
 
-**Do we disclose any information to outside parties?**
+**Policy Changes and Acceptance**
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+The Privacy Policy may be revised from time to time as we add new features and services, as laws change, and as industry privacy and security best practices evolve. We display an effective date on the upper left corner of the Privacy Policy so that it will be easier for you to know when there has been a change. Accordingly, you should check the Privacy Policy on a regular basis for the most current privacy practices. Each time you access, use or browse the Site, you signify your acceptance of the then-current changes to the Privacy Policy applying to your personal information collected by us on and from the effective date of such changes. 
 
-**Online Privacy Policy Only**
+Any changes in the Privacy Policy will take effect upon posting and apply only to information collected from you on and after Last Revised date, unless we provide notice or have other communications with you. 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+**More Questions?**
 
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+If you have any questions about this Privacy Policy, e-mail them [here](https://web.archive.org/contact/message?ref=privacy), and be sure to indicate the specific site you’re visiting and the nature of your question or concern.
