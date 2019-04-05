@@ -1,115 +1,206 @@
-> *The following text is extracted and transformed from the screwfix.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129163317id_/https%3A//www.screwfix.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screwfix.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405180755id_/https%3A//www.screwfix.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy | Help | Screwfix Website
 
-### Your Privacy
+### 1\. Who we are
 
-Screwfix Direct Limited is a company registered in England under company number 03006378. Our registered office is Trade House Mead Avenue Houndstone Business Park Yeovil BA22 8RT. We are committed to ensuring that your privacy is protected. This policy, together with our Terms and Condition sets out the basis on which any personal data we collect from you, or that you provide to us will be processed by us. We strictly adhere to the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. We shall be the data controller for your personal data, and we are registered on the public register of data controllers which is looked after by the Information Commissioner (our registration number is Z6167477).
+We are Screwfix Direct Limited. You can find out how to contact us in Section 9 below.
 
-We explain below:  
-Protecting Your Security  
-Information We Collect & How We Use It  
-Our Use of Cookies, Internet Protocol (IP) addresses and Other Information Gathering Technologies  
-How We Protect Your Information  
-Sale of Business  
-Links from this Site to Other Sites  
-Updating Your Details  
-Changes  
-How to Contact Screwfix Direct Ltd  
-Making a Complaint to the ICO
+### 2\. Your Privacy
 
-* * *
+In the course of our dealings with you, we will collect and process personal information about you. Personal information includes any information allowing us to identify you as an individual, for example, your name, your email address or your telephone number.
 
-### Protecting Your Security
+We are committed to protecting your privacy. We will use your personal information in accordance with all applicable laws and regulations that relate to data protection and privacy, including the EU General Data Protection Regulation (GDPR).
 
-To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By continuing to use the website you accept these terms and conditions and accordingly consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information for payment clearance, credit reference, order fulfilment, delivery, data analysis or customer support. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected.
+This document tells you:
 
-We may need to disclose your personal data where we are under a legal duty to comply with any legal obligation or in order to enforce or apply our Terms and Conditions and other agreements. We may also need to disclose it to protect our rights, property or safety of our customers or others which includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * what personal information we collect;
+  * why we collect this information;
+  * how we will use it;
+  * how long we will keep it;
+  * who else will see it;
+  * how you can contact us;
+  * your rights in relation to the personal information that we hold, including your rights to change, delete and see your information.
 
-* * *
 
-### Information We Collect & How We Use It
 
-When you place an order whether in store, online or through our contact centre, register on our website, register on our Screwfix Community Forum, ask a question or provide an answer to a question on a product, provide a review of a product, use any online form on our website, respond to a survey, or enter a competition or promotion, we need to know your name and other information such as your postal address, email address,telephone number and (if placing an order)your credit card number and expiry date or other details etc (which are your personal data). By submitting this information you consent to our use of the information in accordance with this Privacy Policy as amended from time to time. We gather this information to allow us to process your request. The relevant information is then used by us, our agents,sub-contractors and members of the Kingfisher PLC group of companies (which includes B&Q and Kingfisher Future Homes Limited) to provide you with the service you have requested and to communicate with you on any matter relating to the provision of the service in general. 
+When using our website we will also place cookies on your device - please see our [Cookies page](https://www.screwfix.com/help/cookiespolicy/) for more information about the cookies we use and how you can change your cookie settings.
 
-We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our service and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
+### 3\. What information do we collect?
 
-We and our group companies may also wish to provide you with information about special features of our website or any special service or products which we think may be of interest to you. If you would rather not receive this information, please send an email with "NO MAIL" in the heading to [online@screwfix.com](mailto:online@screwfix.com). 
+We collect the following types of information:
 
-We may also want to provide you with related information from third parties, which we think may be of interest to you. If you would rather not receive this information, please send an email with "NO RELATED INFORMATION" in the heading to [online@screwfix.com](mailto:online@screwfix.com). 
+(a) Information we collect when you register with us
 
-If, at any time, you wish to have your information removed from our active databases, please send an email entitled "REMOVE FROM DATABASE" to [online@screwfix.com](mailto:online@screwfix.com).If you do any of these actions, we will take steps to ensure that your preferences are updated or the information is deleted as soon as reasonably practicable. There may be a small delay in updating our database and so you may still receive communications which we have already processed in our system before you updated your preferences.Screwfix may also send you text alerts. You can opt out of receiving those text alerts at any time by texting STOP to 60505\. Data may be supplied to third party data processors to enable this service to be provided. Your standard network charges will apply. 
+When you register with us, we will ask you for a number of pieces of information including:
 
-* * *
+  * your name;
+  * your postal address;
+  * your email address;
+  * your telephone number;
+  * your profession;
+  * a password - please keep this safe;
+  * whether you would like to receive information from us via email, SMS text, post or telephone;
+  * if you are placing an order, we will also ask for your payment card number, expiry date and CVV number.
 
-### Our Use of Cookies, Internet Protocol (IP) addresses and Other Information Gathering Technologies
 
-View our full [Cookies policy](https://web.archive.org/help/cookiespolicy//). 
 
-Please note that the information we gather from the following technologies does not specify any specific individual and is used by us as statistical data only about our users browsing actions and patterns.
+(b) Information we collect about how you use our website and apps
 
-We may collect information about your general internet usage by using a cookie file. This is a small text file implanted by our site on your hard disk or device when you visit our site which collects personal data about you. The cookie is then retrieved each time you visit our site, making it unnecessary to re-enter the registration details on each visit and enabling you to benefit from certain features. For example, a more personalised service, improvements to our site and the ability to store the contents of an electronic shopping basket between visits. Please note, our advertisers may also use cookies over which we have no control.
+When you shop with us, browse our websites or other organisations' websites where our adverts are shown, or use our apps, we will collect:
 
-We may also collect information about your computer, including your domain name, IP address, operating system, browser version, how long you stay on a page, the route you took to navigate through the pages and the website you visited prior to accessing our site.
+  * information about any devices you have used (including the manufacturer, model and operating system, IP address, browser type and mobile device identifiers);
+  * cookies and information about your online browsing and purchasing behaviour and history on our websites and apps, your location, your product selection, and information about when you click on one of our adverts (including those shown on other organisations' websites);
+  * information when you write a review or ask a question or provide an answer via our Q&A section;
+  * details of your purchases with or through us;
+  * photos and videos you have uploaded on our web and mobile platforms and applications;
+  * information about your preferences in connection with our website and App, for the purposes of enhancing and personalising your experience;
+  * CCTV footage when you visit our premises; and
+  * information when you "share this" product review via Facebook, Twitter, GooglePlus and other social media channels.
 
-#You can choose to refuse to accept our and or third party cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you will be unable to access certain parts of our site or place an order with us. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. Modern browsers provide the ability to navigate the web privately by using "private browsing mode" or you can use a proxy server, which allows web users to see pages via a third party web server. More information can be found in our [Cookies policy](https://web.archive.org/help/cookiespolicy//). 
 
-* * *
 
-### Texts Relating to Delivery
+If you register an account with us, we may be able to link the information collected from you before registration and apply it to your registered account or future information that we collect after you have registered.
 
-If you provide us with your mobile number, we may text you to advise you that your item is ready for collection in store, or to update you on the progress of your delivery.
+### 4\. Why do we ask for this information?
 
-This service is provided through our carrier Parcelforce. You therefore agree, when providing your mobile number, that we can provide Parcelforce with your number solely for the purpose of these updates. We will not charge you for these texts, although your network may charge you to recieve these texts. You can opt out of these texts at any time by texting STOP to 60505. Your standard network changes will apply.
+When you place an order online, through our App, or through our contact centre, we need your contact and payment information to enable us to take payment and fulfil your order. We also request your contact information and need your payment information when you shop offline with us through our trade counters. You can browse our website without providing us with any of this information. When you want to place an order via the website, we ask you to login or register so you can open a customer profile and upload and save images, save your browsing information and your preferences and retrieve them from any of your devices.
 
-* * *
+You may also provide us with personal information via our forums, product questions and reviews, survey responses or competition entries.
 
-### How We Protect Your Information
+We will ask for or collect your information when you use our trade counters or our customer support services, including telephone support and instant messaging.
 
-We endeavour to protect the information you provide and have various security procedures in place. We store the information provided to us on our secure servers where it can only be read by authorised personnel. Any payment transactions are encrypted using Secure Socket Layer (SSL) technology. This protects your data while being sent over the internet from being intercepted and misused by third parties.
+You do not have to give us permission in order to use our website.
 
-We have installed a mechanism that uses digital server identities so that you can be sure that the website you access is screwfix.com. This is done using one of the internet Trusted Certification Authorities. When you access the secure pages of our site your browser will be provided with an electronic certificate confirming that you have accessed our site and all communications will be encrypted. When you create an online order, request or feedback that is then passed on to the relevant destination using the same level of encryption, this includes credit card verification. Firewalls are used to block unauthorised traffic to the servers and the actual servers are located in a secure location which can only be accessed by authorised personnel.
+We ask for your permission to send you marketing and promotional material using your address, telephone number, email address and SMS, so that we can send you free gifts, discount vouchers, invitations to events, special offers, market research, and other marketing material that we believe may be of interest to you. If you give permission, you will be able to withdraw it at any time by:
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. We also recommend that you avoid using the same password for different online accounts.
+  * logging into [your account](https://www.screwfix.com/loginpage/) and updating your preferences
+  * emailing [online@screwfix.com](mailto:online@screwfix.com)
+  * telephoning 03330 112 112
+  * writing to us at Customer Correspondence, Screwfix Direct Limited, Trade House, Mead Avenue, Yeovil, BA22 8RT.
+  * completing the following [form](https://gdpr.kfplc.com/#/SAR?Session=sf_1).
 
-* * *
 
-### Sale of Business
 
-In the event that this business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers advisers and will be passed on to the new owners of the business so that they can continue to provide the service that we currently provide. We will require the purchaser to follow the practices disclosed in this Privacy Policy as varied from time to time.
+Even if you choose not to receive this marketing information, we may still use your personal information to provide you with important services communications, including communications in relation to any orders you submit or products you purchase.
 
-* * *
+### 5\. How do we use your personal information
 
-### Links from this Site to Other Sites
+We have set out below the purposes for which we use your personal information. We are also required by law to state a "legal basis for processing", i.e. to tell you on what grounds we are allowed to use your information, and this is also set out below. The legal basis for each purpose is that we have your consent for the use of your personal information, or that we need to use your personal information in order to perform a contract with you, or that the use of your personal information is necessary for our legitimate interests (in which case we will explain what those interests are).
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Purpose of processing | Our legal basis  
+---|---  
+communicate with you about your order for a service or a product; | Contractual necessity - we use your personal information in order to meet our obligations under our contract with you (for example, to deliver a product you have ordered).  
+contact you about leaving a review on a product or service or providing feedback once your order has been completed or the service has been provided; | Legitimate interests - we use your personal information to contact you so that we can ask you to provide feedback on the product or service you have ordered.  
+notify you about changes to our services and to otherwise communicate with you. For example, we will use your contact details in order to respond to any queries that you submit to us; | Legitimate interests - we use your personal information to keep you up to date with information about our services, and to respond to your queries.  
+send you information about products and services, including exclusive offers, vouchers, free gifts, deals, and information about products and events; | Legitimate interests - we use your personal information to send you this information. In some cases (such as where we're required to do so by law) we will also ask for your consent before sending you this information.  
+review your past purchases and viewing history on our website to provide you with special offers or to tailor your experience online; | Legitimate interests - we use your personal information to provide you with these offers and to tailor your experience when using our online services.  
+help us review, develop and improve the products and services we offer. For example, calls to our contact centres may be monitored and/or recorded for quality control and training purposes. We may also send you market research requests via email (which you can opt out of via that email). If you raise a query (for example about a product or about our service) while we still hold a recording of your telephone call, and we can investigate or answer your query by referring back to this call, we may do so. This may mean that your call recording will be held until your query has been resolved; | Legitimate interests - we use your personal information to help us deliver the best quality of service to you and our other customers.  
+improve and measure the effectiveness of our marketing communications, including online advertising. We sometimes compare limited information that we hold about you (for example, your email address or mobile phone number) with third parties that also hold your information or have an existing online relationship with you in order to identify you as our customer and to enable us (or third parties on our behalf) to provide you with relevant marketing online. For example, we may compare your information with the information that social networking sites such as Twitter, Instagram, and Facebook hold on you, so that they can identify you as a Screwfix customer and hence tailor the Screwfix marketing you receive via their sites and products. 
 
-* * *
+We also share cookie and other data (including online and offline purchase data) with entities such as Google, YouTube, Twitter, Instagram, and Facebook in order to make our advertising more relevant to you. Please see our Cookie Policy for full details of the cookies. We require any such third parties to treat your personal information as fully confidential and to fully comply with all applicable data protection legislation;
 
-### Updating Your Details
+| Legitimate interests - we use your personal information to deliver you a tailored experience when using such digital services, to help us understand the effectiveness of our advertising, and to make sure you see adverts that are most relevant to you.   
+We also share cookie and other data (including online and offline purchase data) with entities such as Google, YouTube, Twitter, Instagram, and Facebook in order to make our advertising more relevant to you. Please see our Cookie Policy for full details of the cookies. We require any such third parties to treat your personal information as fully confidential and to fully comply with all applicable data protection legislation; |   
+provide, enhance and personalise your experience on our digital services provided from our web and mobile portals and applications; | Legitimate interests - we use your personal information to deliver you a tailored experience when using our digital services.  
+carry out security checks to protect against fraudulent transactions and to prevent and detect criminal activity;  | Legitimate interests - we use your personal information to protect against unlawful activities. In some cases we may also be under a legal obligation to disclose your personal information (for example, to law enforcement agencies).   
+address any claims made against us. | Legitimate interests - we use your personal information to address any claims you make against us. In some cases we may also be under a legal obligation to disclose your personal information (for example, in connection with legal proceedings).   
+  
+Our websites and apps are not intended for children and we do not knowingly collect data relating to children.
 
-If any of the information that you have provided to us changes, (e.g. your email address, home address, name, contact number or payment details) please update your details in My Account. Alternatively, send us an email entitled "CHANGE OF DETAILS" to [online@screwfix.com](mailto:online@screwfix.com), send a letter to The Website Editor, Screwfix Direct, Trade House, Houndstone Business Park, Yeovil, Somerset, BA22 8RT or you can telephone us on 03330 112 112 (Freephone 08000155177). 
+### 6\. How long do we keep your personal information?
 
-Should you wish to access the personal information that we hold about you please write to "THE CORRESPONDENCE TEAM" at the above postal address. You will need to include a brief description about the information you require to enable it to be located, proof of identification and payment of our £10 administration fee (cheque to "Screwfix Direct"). We will then respond to you within 40 days of the date of your request.
+We are required by law to keep your personal information only for as long as is necessary for the purposes for which we are using it. The period for which we keep your personal information will be determined by a number of criteria, including the purposes for which we are using the information, the amount and sensitivity of the information, the potential risk from any unauthorised use or disclosure of the information, and our legal and regulatory obligations.
 
-* * *
+### 7\. Who do we share your personal information with?
 
-### Changes
+We are a member of the Kingfisher Group of companies including B&Q, Screwfix, Castorama and Brico Depot (for more information on the Kingfisher Group please visit: [www.kingfisher.com](https://www.kingfisher.com/)).
 
-If we change our Privacy Policy we will update the changes on this page and we may also place notices on other pages of the website so that you can at any time check our current policy. If we make any changes that may significantly affect the way we deal with your information, we will also email you to notify you of the proposed changes, so that you may have your details removed from our records if you do not agree with the changes.
+We may share your personal information with other members of the Kingfisher Group in connection with the purposes above and those listed below. Members of the Kingfisher Group may also use the personal information we share with them to improve their websites and other digital services and for analysis purposes.
 
-* * *
+We may disclose your personal information to third parties, including in the following circumstances:
 
-### How to Contact Screwfix Direct Ltd
+  * We use third parties to carry out certain activities on our behalf that involve the processing of personal information. For example, we may engage third party service providers to fulfil orders, deliver packages, send postal mail, SMS text messages and email, maintain and update our databases of customer details (including the removal of repetitive or incorrect information), analyse data to help us develop, provide and improve our services, provide marketing assistance, process payments and refunds, carry out surveys, provide customer service and handle claims. These third parties have access to personal information needed to perform their functions, but may not use it for other purposes. We may use the information we receive from third parties to supplement, improve and add to our databases of customer details, and for purposes such as credit checking and fraud prevention.
+  * We may share information that we hold about you (for example, your email address and information about your purchases) with third parties that also hold your information or have an existing online relationship with you in order to identify you and to enable us (or Kingfisher Group companies or other third parties on our behalf) to provide you with relevant marketing online. For instance, we may share your information with social networking sites such as Facebook, Instagram, Twitter, YouTube and Google so that they can identify you as a customer of ours and can tailor the marketing we send you via their sites, applications, and products.
+  * We may pass your details to third parties (such as Experian) for the purpose of improving the quality and accuracy of our database, suppressing records for deceased people and movers, for appending marketing information and for solvency and credit scoring purposes.
+  * We may pass your details to third parties (Confirmit, 100% Cotton) for market research purposes and they may then contact you to request that you answer surveys, or to conduct research on our behalf.
+  * We may pass your details to a third party called Tealium (who is a tag management provider that facilities the use of the data captured during a visitor's journey through our site to enable functionality, analytics, and marketing communications).
+  * We may pass personal information to external agencies and organisations (including the police and other law enforcement agencies) for the purpose of preventing and detecting fraud (including fraudulent transactions) and criminal activity. These external agencies may check the information we give them against public and private databases and may keep a record of such checks to use in future security checks. We may also disclose personal information to the police and other law enforcement authorities in connection with the prevention and detection of crime.
+  * We may pass personal information to our insurers in the event that a claim is made or could be made against us. 
+  * In the event that we sell or buy any business or assets, we may disclose personal information held by us to the prospective seller or buyer of such business or assets. If we or substantially all of our assets are acquired by a third party (or subject to a reorganisation within our corporate group), personal information held by us will be one of the transferred assets.
+  * We may pass your personal information to third parties if we are under a duty to disclose or share your personal information in order to comply with any legal obligation (including in connection with a court order), or in order to enforce or apply any agreements we have with or otherwise concerning you (including agreements between you and us (or one or more of our affiliates); or to protect our rights, property or safety or those of our customers, employees or other third parties.
+  * We may share anonymous or aggregate data (such as aggregated statistics or other anonymised data) with third parties.
 
-We welcome your views about our website and our Privacy Policy. If you would like to contact us with any queries or comments please send an email to [online@screwfix.com](mailto:online@screwfix.com) or telephone 03330 112 112 (Freephone 08000155177) or write to the Correspondence Team at Screwfix Direct Limited, Trade House, Mead Avenue, Houndstone Business Park, Yeovil BA22 8RT. 
 
-* * *
 
-### Making a Complaint
+### Links to external sites
 
-If you wish to make a complaint about the way that we handle your personal data, you may contact the Information Commissioner's Office through their website [www.ico.org.uk](https://www.ico.org.uk/). 
+We may provide links to the websites of other Kingfisher Group companies from our website or mobile applications. Your use of those websites is subject to the terms of use and policies available on those websites.
 
-* * *
+From time to time we may also establish relationships with third parties that will enable you to access the websites or applications (such as video players) of such third parties directly from our own websites or applications. Each third party operates its own policy regarding the processing of personal information and the use of cookies on its website(s) or through its applications and you are advised to read the third party's privacy policy and cookies policy.
 
-This Privacy Policy was last updated on 25/02/2016 
+Please note that third party websites and applications are not under our control. When you click through to these websites or access these applications you leave the area controlled by us. We do not accept responsibility or liability for any issues arising in connection with the third party's use of your data (including your personal information).
+
+### Where will your personal information be processed?
+
+(a)
+
+Your personal information may be transferred to, and stored and processed in, one or more countries outside the European Economic Area (EEA), including countries which do not provide equivalent protection for personal information. In these circumstances, we will take reasonable steps and implement appropriate measures to ensure that your personal information is adequately protected in accordance with the law.
+
+These measures generally include either:
+
+  * Transferring personal information to countries that have been deemed to provide an adequate level of protection for personal information by the European Commission; or
+  * Transferring personal information where the recipient has agreed to a European Commission approved data transfer agreement in the form of the standard contractual clauses.
+  * Occasionally, we may transfer your personal information in circumstances where there are no adequate safeguards where this is permitted by data protection law.
+
+
+
+Please contact us using the details below if you want further information on the specific safeguards used by us when transferring your personal information out of the EEA.
+
+### 8\. Your rights
+
+You have the right to ask us to:
+
+  * Confirm what personal information we hold about you and provide you with a copy of that data;
+  * Correct any personal information that is inaccurate;
+  * Remove your personal information where there is no good reason for us to continue to hold that data;
+  * Temporarily stop using your information if you are questioning our right to use that data;
+  * Stop using your personal information unless we can demonstrate a valid reason why we need to continue to hold that data e.g. to support a product warranty;
+  * Stop using your personal information to send you marketing materials such as our catalogue, marketing email, discounts or vouchers.
+  * Provide you with the personal information that you have provided to us, in a structured and commonly-used electronic format, or transmit that information directly to another company if that is technically feasible. This applies where we are using your personal information on the basis of your consent or because it is necessary to perform a contract with you (see How do we use your personal information, above).
+
+
+
+Our security procedures mean that we may request proof of identity before we are able to disclose your personal information to you or comply with other requests.
+
+We want to make sure that the personal information we hold about you and your preferences as to how we contact you are accurate and up to date. If any of the details are incorrect, please let us know (details below) and we will amend them.
+
+You also have the right to make a complaint to the Information Commissioner's Office if you're not happy with how we've handled your personal information. You can contact the supervisory authority at:
+
+  * Email: [casework@ico.org.uk](mailto:casework@ico.org.uk)
+  * Phone: 0303 123 1113 (local rate) or 01625 545 745
+  * Post: Information Commissioner's Office Wycliffe House Water Lane Wilmslow Cheshire SK9 5AF
+  * Website: [www.ico.org.uk](https://ico.org.uk/)
+
+
+
+### 9\. How to contact us?
+
+To update your details or ask for a copy of your personal information:
+
+  * You can call us on: 03330 112 112
+  * You can write to us at Customer Correspondence, Screwfix Direct Limited, Trade House, Mead Avenue, Yeovil BA22 8RT 
+  * The Data Protection Officer can be contacted on [data@screwfix.com](mailto:data@screwfix.com), or you can write to them at the address above.
+  * If you want, you can also use this [form](https://gdpr.kfplc.com/#/SAR?Session=sf_1) to make a Subject Access Request, request data is erased, rectify data or object to data processing.
+
+
+
+### 10\. Protecting your personal information
+
+The transmission of information via the internet is not completely secure; this risk is common across the internet and not specific to our services. We cannot guarantee the security of your data (including your personal information) transmitted to our services; any transmission is at your own risk.
+
+It is important for you to protect against unauthorised access to your password and to your computing device. Be sure to sign off and close your browser when you have finished your session. This will help to ensure that others do not access your personal information if you share your computing device or use a computing device in a public place such as a library or internet cafe.
+
+### 11\. Updates to this notice
+
+We may update this notice from time to time. The latest version of this notice will be posted on our website.
