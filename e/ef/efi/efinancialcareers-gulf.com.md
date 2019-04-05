@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204010517id_/https%3A//news.efinancialcareers.com/gulf-en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405031858id_/https%3A//news.efinancialcareers.com/gulf-en/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - eFinancialCareers
 
@@ -72,6 +72,11 @@ In addition, job seekers may elect to make their profile searchable by our custo
 DHI Services are not available to children under 16 years of age. We do not knowingly collect personal information from children under 16 years of age.
 
 Please note that we cannot control the acts of users of the Services. All members and visitors should be aware that, when they disclose personal information in a resume or profile or other medium, the information may be collected and used by others to send that person unsolicited email from other parties outside DHI. In the event that you encounter any DHI user who is improperly collecting or using information about you or other users, please contact [support@efinancialcareers.com](mailto:support@efinancialcareers.com).
+
+**Profile Supplementation:**  
+To provide services to our customers, DHI may collect indexed content, including information about you, from a variety of publicly available websites. Indexed content may include personal information such as posts on blogs. In general, such indexed content is available through standard search engines or by visiting the public websites themselves. We combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. DHI may append this information to your profile or use this content to create a profile, whether or not an individual has an account with us. If you would like to remove the information we collect, contact us at support@efinancialcareers.com. DHI has no ownership rights to the indexed content sourced from third party sites and cannot guarantee that we will not collect information from a publicly available source at a later point in time.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include job and industry information, such as skills, title, experience, qualifications, etc. and any other publicly available information such as social profiles.
 
 ## B. How we use the information we gather
 
