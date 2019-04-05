@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the setlist.fm privacy policy that was archived on 2018-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181103041628id_/https%3A//www.setlist.fm/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the setlist.fm privacy policy that was archived on 2019-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190405204225id_/https%3A//www.setlist.fm/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -86,9 +86,14 @@ border-color: #444444 !important;
 background-color: #cccccc !important;
 border-color: #cccccc !important;
 }
+@media print {
+.qc-cmp-persistent-link {
+display: none !important;
+}
+}
 </style>
 
-<link rel="stylesheet" type="text/css" href="//w1.cdn.setlistfm.com/css/setlist-5.0.801-dirty.css">
+<link rel="stylesheet" type="text/css" href="//w1.cdn.setlistfm.com/css/setlist-5.0.862-dirty.css">
 <meta name="robots" content="INDEX,FOLLOW">
 <script type="text/javascript" id="LiveNationAsyncDynamicAdslotPanel-Gallery"><!--/*--><![CDATA[/*><!--*/
 
@@ -115,21 +120,21 @@ googletag.display(markupId)
 
 <script type="text/javascript" src="//w1.cdn.setlistfm.com/script/wicket-1.4.23-molindo1.js"></script>
 <script type="text/javascript"><!--/*--><![CDATA[/*><!--*/
-Wicket.Event.add(window, "domready", function(event) { initClearQueryLink($('#id1304'), $('#id1305'));;});
+Wicket.Event.add(window, "domready", function(event) { initClearQueryLink($('#id3'), $('#id4'));;});
 /*-->]]>*/</script>
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.1.1.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css">
-<script type="text/javascript" src="//w1.cdn.setlistfm.com/script/jquery-plugins-5.0.801-dirty.js"></script>
-<script type="text/javascript" src="//w1.cdn.setlistfm.com/script/setlist-jquery-plugins-5.0.801-dirty.js"></script>
+<script type="text/javascript" src="//w1.cdn.setlistfm.com/script/jquery-plugins-5.0.862-dirty.js"></script>
+<script type="text/javascript" src="//w1.cdn.setlistfm.com/script/setlist-jquery-plugins-5.0.862-dirty.js"></script>
 <script type="text/javascript"><!--/*--><![CDATA[/*><!--*/
-$(document).ready(function(){initAutocomplete($('#id1304'), $('#id1306'));});
+$(document).ready(function(){initAutocomplete($('#id3'), $('#id5'));});
 /*-->]]>*/</script>
 
-<script type="text/javascript" src="//w1.cdn.setlistfm.com/script/setlist-jquery-5.0.801-dirty.js"></script>
-<script type="text/javascript" src="//w1.cdn.setlistfm.com/script/setlist-5.0.801-dirty.js"></script>
+<script type="text/javascript" src="//w1.cdn.setlistfm.com/script/setlist-jquery-5.0.862-dirty.js"></script>
+<script type="text/javascript" src="//w1.cdn.setlistfm.com/script/setlist-5.0.862-dirty.js"></script>
 <script type="text/javascript">
 window.google_analytics_uacct = "UA-2921036-8";
 </script>
@@ -197,19 +202,19 @@ googletag.pubads().setTargeting("page","other");
 if (window.Krux) {
   googletag.pubads().setTargeting("kuid", Krux.user);
 }
-googletag.defineSlot('/6025/setlist/other/leaderboard', [[970, 250], [970, 90], [970, 66], [728, 90], [300, 50], [320, 50]],'id1302')
+googletag.defineSlot('/6025/setlist/other/leaderboard', [[970, 250], [970, 90], [970, 66], [728, 90], [300, 50], [320, 50]],'id1')
 .defineSizeMapping(googletag.sizeMapping().
 addSize([1024, 768],[[970, 250], [970, 90], [970, 66], [728, 90], 'fluid']).addSize([800, 600],[[728, 90], 'fluid']).addSize([0, 0],[[300, 50], [320, 50], 'fluid']).build())
 .addService(googletag.pubads())
 .setTargeting("pagepos", "501");
-googletag.defineSlot('/6025/setlist/other/adhesion', [320, 50],'id1303')
+googletag.defineSlot('/6025/setlist/other/adhesion', [320, 50],'id2')
 .defineSizeMapping(googletag.sizeMapping().
 addSize([1024, 768],[]).addSize([800, 600],[]).addSize([0, 0],[[320, 50]]).build())
 .addService(googletag.pubads())
 .setTargeting("pagepos", "690");
 googletag.pubads().addEventListener('slotRenderEnded', function(event) {
 
-if(event.slot.getSlotElementId() == 'id1303' && !event.isEmpty) {
+if(event.slot.getSlotElementId() == 'id2' && !event.isEmpty) {
 var icon = $('<span class=\"fa-stack\"><i class=\"fa fa-circle fa-stack-2x\"><\/i><i class=\"fa fa-times fa-stack-1x fa-inverse\"><\/i><\/span>');
 var sr = $('<span>', {
 class: 'sr-only',
@@ -220,7 +225,7 @@ title: 'Close Advertisement',
 class: 'closeLink',
 href: '#',
 click: function(){
-$('#id1303').remove();
+$('#id2').remove();
 if ('adhesionAdVisible' != '') {
 $('body').removeClass('adhesionAdVisible');
 }
@@ -232,15 +237,15 @@ return false;
 });
 icon.appendTo(link);
 sr.appendTo(link);
-link.appendTo($('#id1303'));
+link.appendTo($('#id2'));
 if ('adhesionAdVisible' != '') {
 $('body').addClass('adhesionAdVisible');
 }
 }});
 googletag.pubads().addEventListener('slotOnload', function(event) {
 
-if(event.slot.getSlotElementId() == 'id1302' && !event.isEmpty && responsive.smg.matches) {
-var cont = $('#id1302');
+if(event.slot.getSlotElementId() == 'id1' && !event.isEmpty && responsive.smg.matches) {
+var cont = $('#id1');
 var h = cont.height();
 var toggleClass = function() {
 if (cont.visible(true)) {
@@ -256,7 +261,7 @@ cont.css("height", h + "px");
 $(window).on('scroll', toggleClass);
 setTimeout(function() {
 $(window).off('scroll', toggleClass);
-var child = $('#id1302 > div');
+var child = $('#id1 > div');
 if (cont.hasClass("timedSticky")) {
 child.css("transition-timing-function", "ease-out");
 child.css("transition", "0.5s");
@@ -275,11 +280,11 @@ googletag.enableServices();
 /*-->]]>*/</script>
 
 <script type="text/javascript"><!--/*--><![CDATA[/*><!--*/
-$(document).ready(function(){$('#id1307').find('a.persistentHide').click(function(e){e.preventDefault(); $('#id1307').slideUp('normal'); $.cookie('PersistentHideBehavior', $.cookie('PersistentHideBehavior') + ';SignupMessage=1541304989332', { path: '/', expires: 365 });});});
+$(document).ready(function(){$('#id6').find('a.persistentHide').click(function(e){e.preventDefault(); $('#id6').slideUp('normal'); $.cookie('PersistentHideBehavior', $.cookie('PersistentHideBehavior') + ';SignupMessage=1554583346039', { path: '/', expires: 365 });});});
 /*-->]]>*/</script>
 
 <script type="text/javascript"><!--/*--><![CDATA[/*><!--*/
-$(document).ready(function(){$.cookie('PersistentHideImpressionBehavior', $.cookie('PersistentHideImpressionBehavior') + ';SignupMessage=1541304989332', { path: '/', expires: 365 });});
+$(document).ready(function(){$.cookie('PersistentHideImpressionBehavior', $.cookie('PersistentHideImpressionBehavior') + ';SignupMessage=1554583346039', { path: '/', expires: 365 });});
 /*-->]]>*/</script>
 
 </head>
@@ -316,7 +321,7 @@ window.monetateQ.push(["trackData"]);
 
 
 <!-- content -->
-<div class="hidden-print setlistMessage setlistWarning text-center hidden-xs" id="id1307">
+<div class="hidden-print setlistMessage setlistWarning text-center hidden-xs" id="id6">
 <strong>
 <a href="../signin?redirecturl=/help/privacy" title="" rel="nofollow">Sign in</a> to get statistics for your attended concerts!
 </strong>
@@ -338,13 +343,13 @@ window.monetateQ.push(["trackData"]);
 </div>
 
 <div class="col-xs-12 col-md-6 search-col hidden-print">
-<div class="search" id="id1308">
+<div class="search" id="id7">
 <!-- search box -->
-<form class="searchForm" action="/search" method="get" name="searchBox" id="id1306">
-<div class="inputCont" id="id1309">
-<input type="search" value="" name="query" id="id1304" placeholder="Search for Artist, Venue, Tour, ...">
+<form class="searchForm" action="/search" method="get" name="searchBox" id="id5">
+<div class="inputCont" id="id8">
+<input type="search" value="" name="query" id="id3" placeholder="Search for Artist, Venue, Tour, ...">
 <button class="visible-lg visible-md searchButton"><span class="sr-only">Search</span></button>
-<a class="hideSearch hidden-lg hidden-md" id="id1305" rel="nofollow">
+<a class="hideSearch hidden-lg hidden-md" id="id4" rel="nofollow">
 <span class="close">
 <span class="sr-only">Clear search text</span>
 </span>
@@ -385,7 +390,7 @@ window.monetateQ.push(["trackData"]);
 </div>
 </div>
 </div>
-<div class="hidden-print subHeader" id="id130a">
+<div class="hidden-print subHeader" id="id9">
 <div class="container">
 <div class="row">
 
@@ -432,7 +437,7 @@ window.monetateQ.push(["trackData"]);
 <a rel="nofollow" href="../edit" class="btn nestedInverse hidden-xs hidden-sm add-setlist-navi" title="So you've been to a concert? Add the setlist!"><i class="fa fa-plus"></i> <span><span class="visible-lg-inline">Add </span>Setlist</span></a>
 
 <div class="login-group btn-group">
-<a class="btn loginBtn nestedInverse" href="../signin" title="Sign in to your account"><i class="fa fa-lock"></i>&nbsp;<span>Sign in</span></a>
+<a class="btn loginBtn nestedInverse" href="../signin?redirecturl=/help/privacy" title="Sign in to your account"><i class="fa fa-lock"></i>&nbsp;<span>Sign in</span></a>
 <a class="btn socialBtn" rel="nofollow" href="/auth/facebook" target="_blank" onclick="window.open('/auth/facebook', 'facebook', 'width=600,height=400,status=yes,scrollbars=yes,resizable=yes'); return false;" title="Log in with your Facebook account"><i class="fa fa-facebook fa-fw"></i><span>&nbsp;</span><span class="sr-only">Log in with Facebook</span></a>
 <a class="btn socialBtn" rel="nofollow" href="/auth/twitter" target="_blank" onclick="window.open('/auth/twitter',  'twitter',  'width=600,height=400,status=yes,scrollbars=yes,resizable=yes'); return false;" title="Log in with your Twitter account"><i class="fa fa-twitter fa-fw"></i><span>&nbsp;</span><span class="sr-only">Log in with Twitter</span></a>
 <a class="btn socialBtn" rel="nofollow" href="/auth/google" target="_blank" onclick="window.open('/auth/google', 'google', 'width=600,height=500,status=yes,scrollbars=yes,resizable=yes'); return false;" title="Log in with Google"><i class="fa fa-google-plus fa-fw"></i><span>&nbsp;</span><span class="sr-only">Log in with your Google account</span></a>
@@ -457,10 +462,10 @@ window.monetateQ.push(["trackData"]);
 
 <div class="row">
 
-<div id="id1302" class="leaderBoard">
+<div id="id1" class="leaderBoard">
 <script type="text/javascript">
 <!--/*--><![CDATA[/*><!--*/
-googletag.cmd.push(function() { googletag.display('id1302'); });
+googletag.cmd.push(function() { googletag.display('id1'); });
 /*-->]]>*/
 </script>
 </div>
@@ -470,7 +475,7 @@ googletag.cmd.push(function() { googletag.display('id1302'); });
 
 
 <div class="row main">
-<div class="col-xs-12">
+<div class="mainColumn col-xs-12">
 
 <div class="visiblePrint">
 <div class="row contentBox">
@@ -935,7 +940,7 @@ We will also post an updated copy on our website. Please check our site periodic
 <div class="col-xs-12 col-sm-6 col-md-3">
 <strong>Recent Events</strong>
 <ul class="linkList list-unstyled">
-<li><span><a href="../search?query=date:2018-11-03" title="Search setlists by day: &quot;Today&quot;"><span>Today</span></a></span></li><li><span><a href="../search?query=date:2018-11-02" title="Search setlists by day: &quot;Yesterday&quot;"><span>Yesterday</span></a></span></li><li><span><a href="../search?query=date:2018-11-01" title="Search setlists by day: &quot;Nov 1, 2018&quot;"><span>Nov 1, 2018</span></a></span></li><li><span><a href="../search?query=date:2018-10-31" title="Search setlists by day: &quot;Oct 31, 2018&quot;"><span>Oct 31, 2018</span></a></span></li><li><span><a href="../search?query=date:2018-10-30" title="Search setlists by day: &quot;Oct 30, 2018&quot;"><span>Oct 30, 2018</span></a></span></li><li><span><a href="../search?query=date:2018-10-29" title="Search setlists by day: &quot;Oct 29, 2018&quot;"><span>Oct 29, 2018</span></a></span></li><li><span><a href="../search?query=date:2018-10-28" title="Search setlists by day: &quot;Oct 28, 2018&quot;"><span>Oct 28, 2018</span></a></span></li><li><span><a href="../search?query=date:2018-10-27" title="Search setlists by day: &quot;Oct 27, 2018&quot;"><span>Oct 27, 2018</span></a></span></li>
+<li><span><a href="../search?query=date:2019-04-05" title="Search setlists by day: &quot;Today&quot;"><span>Today</span></a></span></li><li><span><a href="../search?query=date:2019-04-04" title="Search setlists by day: &quot;Yesterday&quot;"><span>Yesterday</span></a></span></li><li><span><a href="../search?query=date:2019-04-03" title="Search setlists by day: &quot;Apr 3, 2019&quot;"><span>Apr 3, 2019</span></a></span></li><li><span><a href="../search?query=date:2019-04-02" title="Search setlists by day: &quot;Apr 2, 2019&quot;"><span>Apr 2, 2019</span></a></span></li><li><span><a href="../search?query=date:2019-04-01" title="Search setlists by day: &quot;Apr 1, 2019&quot;"><span>Apr 1, 2019</span></a></span></li><li><span><a href="../search?query=date:2019-03-31" title="Search setlists by day: &quot;Mar 31, 2019&quot;"><span>Mar 31, 2019</span></a></span></li><li><span><a href="../search?query=date:2019-03-30" title="Search setlists by day: &quot;Mar 30, 2019&quot;"><span>Mar 30, 2019</span></a></span></li><li><span><a href="../search?query=date:2019-03-29" title="Search setlists by day: &quot;Mar 29, 2019&quot;"><span>Mar 29, 2019</span></a></span></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-3">
@@ -1019,9 +1024,7 @@ We will also post an updated copy on our website. Please check our site periodic
 </a>
 </li>
 <li>
-<a href="https://www.parkwhiz.com/" rel="nofollow" target="_blank" title="Park Whiz">
-<span class="linkList-sprite linkList-sprite-parkwhiz"></span>
-</a>
+
 </li>
 </ul>
 
@@ -1074,10 +1077,10 @@ qacct:"p-98KjJHhiQX_yM"
 </div>
 </div>
 
-<div id="id1303" class="adhesion closeableAd">
+<div id="id2" class="adhesion closeableAd">
 <script type="text/javascript">
 <!--/*--><![CDATA[/*><!--*/
-googletag.cmd.push(function() { googletag.display('id1303'); });
+googletag.cmd.push(function() { googletag.display('id2'); });
 /*-->]]>*/
 </script>
 </div>
