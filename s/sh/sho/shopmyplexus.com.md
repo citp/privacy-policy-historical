@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopmyplexus.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816170145id_/https%3A//plexusworldwide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmyplexus.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405085923id_/https%3A//plexusworldwide.com/privacy-policy) for the most accurate reproduction.*
 
-# eCommerce | Plexus
+# Privacy Policy | Plexus Worldwide®
 
 Plexus Worldwide Inc. respects your individual privacy. This Privacy Policy documents our adherence to the highest industry standards for the protection of your personal information. By visiting this web site (“Site”) or using any of the services offered on the Site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. This Privacy Policy is effective as of October 1, 2011, applies to information collected through the Site and covers the following areas:
 
