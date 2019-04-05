@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228044653id_/https%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405113019id_/https%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Whiskey Wash
 
