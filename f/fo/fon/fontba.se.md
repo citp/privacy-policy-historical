@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontba.se privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907235151id_/https%3A//fontba.se/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontba.se privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405130124id_/https%3A//fontba.se/legal/privacy) for the most accurate reproduction.*
 
 # FontBase — Terms of Service
 
@@ -56,9 +56,9 @@ FontBase do not need the information, that it cannot use in ways that are not co
 
 Actually, we don't! Really now, we are being Data Controller in terms of GDPR are not storing any User Data on our servers. All the Data is processed by our third party Processors, who are the **Data Processors** (the current are mentioned below) to provide infrastructure Services, and to help us provide customer support and email notifications as follows:
 
-  *  **Chargebee** [chargebee.com](https://web.archive.org/web/20180907235151id_/https%3A//fontba.se/legal/chargebee.com) — Handling and storing all subscription data
-  *  **Auth0** [auth0.com](https://web.archive.org/web/20180907235151id_/https%3A//fontba.se/legal/auth0.com) — Handling and storing all the login process and authentication data
-  *  **MongoDB Atlas** [mongodb.com](https://web.archive.org/web/20180907235151id_/https%3A//fontba.se/legal/mongodb.com/cloud/atlas) — Handling and storing all the IP, unique user ID, OS, FontBase App version, log data (time of opening/closing the App, errors), fonts added to the App
+  *  **Chargebee** [chargebee.com](https://web.archive.org/web/20190405130124id_/https%3A//fontba.se/legal/chargebee.com) — Handling and storing all subscription data
+  *  **Auth0** [auth0.com](https://web.archive.org/web/20190405130124id_/https%3A//fontba.se/legal/auth0.com) — Handling and storing all the login process and authentication data
+  *  **MongoDB Atlas** [mongodb.com](https://web.archive.org/web/20190405130124id_/https%3A//fontba.se/legal/mongodb.com/cloud/atlas) — Handling and storing all the IP, unique user ID, OS, FontBase App version, log data (time of opening/closing the App, errors), fonts added to the App
 
 
 
