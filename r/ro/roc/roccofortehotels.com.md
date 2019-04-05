@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822190615id_/https%3A//www.roccofortehotels.com/details/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405041030id_/https%3A//www.roccofortehotels.com/details/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Rocco Forte
+
+## At Rocco Forte Hotels
 
 Rocco Forte Hotels Limited together with its direct and indirect group companies, and all of the separate legal entities that manage hotels and resorts on its behalf worldwide (collectively referred to as “Rocco Forte Hotels”, “we”, “us”, “our”) takes the issue of safeguarding your data privacy seriously. This privacy notice (“notice”) describes what information we collect about our guests, visitors, website and mobile app users, gift certificate purchasers, subscribers, enquirers, business contacts and any other individuals from time to time (each referred to as a “guest”, “user”, “you”, “your”).
 
 Rocco Forte Hotels offers a range of luxury leisure and related products and services, such as hotel and resort accommodation, bar, spa, fitness, restaurant, private dining room, catering services, event and conference services. Our hotel brands include Rocco Forte Hotels, Brown's Hotel, The Balmoral, Hotel Amigo, Hotel Astoria, Hotel de Rome, Villa Kennedy, The Charles Hotel, Hotel de Russie, Hotel Savoy, Verdura Resort, Assila Hotel, Angleterre Hotel and other hotels from time to time. Other brands include F&B Outlets, Spa Outlets, Forte Organics and other brands from time to time.
 
-If you give us consent for marketing we will send you communications from the Rocco Forte Hotels group and its hotels, restaurants, bars and spas about news, offers, products and services provided by us and our partners that may be of interest to you, as further described at[roccofortehotels.com/privacy](http://www.roccofortehotels.com/privacy), sent via email and other marketing channels. You may modify your preferred marketing channels by following the link in the subscription confirmation email sent to you following you subscription request, by clicking here or by following the steps set out in paragraph 4.
+If you give us consent for marketing we will send you communications from the Rocco Forte Hotels group and its hotels, restaurants, bars and spas about news, offers, products and services provided by us and our partners that may be of interest to you, as further described at[roccofortehotels.com/privacy](http://www.roccofortehotels.com/privacy), sent via email and other marketing channels. You may modify your preferred marketing channels by following the link in the subscription confirmation email sent to you following you subscription request, by clicking here or by following the steps set out in paragraph 4.
 
-We will be delighted to welcome your family including children at our hotels, resorts, restaurants and facilities. However, our services including our website, app and other services are not directly intended for children and should not be used by them unless supervised. For further information please read the Information about children section below.
+We will be delighted to welcome your family including children at our hotels, resorts, restaurants and facilities. However, our services including our website, app and other services are not directly intended for children and should not be used by them unless supervised. For further information please read the Information about children section below.
 
 Please read this notice carefully. By visiting our website, using our services or otherwise interacting with us, you acknowledge the data processing activities described in this privacy notice. Please note that any linked websites are subject to their own terms and privacy notice. If we amend this notice, your continued use of our website and services will amount to your acknowledgement of the amended notice.
 
@@ -36,9 +38,7 @@ This version of our privacy notice was published in March 2018.
 
 9.      Information about children
 
-10.    Your rights
-
-  1. 1.     **What information might we collect about you?**
+  1. 1.  **What information might we collect about you?**
 
 
 
@@ -58,7 +58,7 @@ We may process the following information about you:
   * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our website, pages you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
 
-  * Information about children under the age of 16.  We will collect certain information about your children as set out in the Information about children section below.
+  * Information about children under the age of 16.  We will collect certain information about your children as set out in the Information about children section below.
 
 
   * Information obtained from someone making a booking on your behalf. If you are acting on behalf of another person, you undertake that you are authorised by that person to provide their personal data, and that the information provided to us is accurate. You may be liable for any loss or damage that we suffer as a result of your breach of this undertaking.
@@ -70,17 +70,17 @@ We may process the following information about you:
 
 Where European data protection laws apply to our processing of your information, for example, if you are dealing with one of our hotels or group companies located in Europe, then some of the information collected about you by that group company may constitute so called “personal data”. In such case, you will be referred to as a “data subject”. Personal data will include any information from which you can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or by one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. Where applicable, we will process your personal data in compliance with such laws.
 
-  1. 2.     **Cookie Statement**
+  1. 2.  **Cookie Statement**
 
 
 
-What Exactly Are Cookies?
+**What Exactly Are Cookies**?
 
 In order to collect some of the information described in this notice, we may use cookies, web beacons and similar technologies on our website and apps. A cookie is a small piece of information which is sent to your browser and stored on your device. First party cookies are placed by the website you are visiting. Third party cookies are placed by third parties such as Google. For more information about cookies please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-The Cookies Placed through our Website
+**The Cookies Placed through our Website**
 
-We use the following cookies.
+We use the following cookies:
 
   * Strictly necessary cookies. These first party cookies are essential in order to enable you to move around our website and use its features. Without these cookies, services you have asked for cannot be provided. They are deleted when you close the browser.
 
@@ -97,7 +97,7 @@ We use the following cookies.
   * Targeting or advertising cookies. These cookies allow us and our advertisers to deliver ads more relevant to you, your interests and demographic profile, and to measure the effectiveness of advertising campaigns. They remember that you have visited our website, the length of your visit, the ads you viewed and other information in your “utilisation profile”. These are persistent cookies which will be kept on your device until their expiration or earlier manual deletion. As a result, you may see our ads on other websites which participate in advertising networks administered by third-party vendors, such as Google AdWords, Bing Ads, Yandex, Facebook, and others.
 
 
-  * Social Media cookies. These cookies allow you to easily use your social media such as Facebook, Twitter, Instagram and others. These are persistent cookies which will be kept on your device until their expiration or earlier manual deletion. If you use these functionalities, the plug-in and its content are loaded directly from the social media provider’s servers and included in the website by your browser. If you log into your respective social media account at the time you interact with the social media plug-ins on our website, the social media provider will connect this information with your social media user profile. We cannot influence which personal data the social media provider will collect about you. For more information, please see the privacy notices of [Facebook](https://www.facebook.com/policy.php), [Twitter](https://twitter.com/en/privacy), [Instagram](https://help.instagram.com/155833707900388) and others.
+  * Social Media cookies. These cookies allow you to easily use your social media such as Facebook, Twitter, Instagram and others. These are persistent cookies which will be kept on your device until their expiration or earlier manual deletion. If you use these functionalities, the plug-in and its content are loaded directly from the social media provider’s servers and included in the website by your browser. If you log into your respective social media account at the time you interact with the social media plug-ins on our website, the social media provider will connect this information with your social media user profile. We cannot influence which personal data the social media provider will collect about you. For more information, please see the privacy notices of [Facebook](https://www.facebook.com/policy.php), [Twitter](https://twitter.com/en/privacy), [Instagram](https://help.instagram.com/155833707900388) and others.
 
 
 
@@ -107,35 +107,35 @@ We may combine information from cookies and other technologies with other inform
 
 We assume that you are happy for us to place cookies on your device. In some cases, when you arrive on our website a pop-up message will appear asking for your consent to place advertising cookies on your device.  In order to provide your consent, please click ‘I understand’. Once your consent has been provided, this message will not appear again when you revisit. 
 
-  1. 3.     **How do we use your information?**
+  1. 3.  **How do we use your information?**
 
 
 
 We may process your information in accordance with the law as required in order to:
 
-(a)        respond to and process your queries, comments, complaints and requests;
+(a) respond to and process your queries, comments, complaints and requests;
 
-(b)        process your bookings or cancellations, deliver the services, products or content requested by you, manage and administer your user account, send you service communications, and allow you to participate in interactive features of our apps and websites, when you choose to do so;
+(b) process your bookings or cancellations, deliver the services, products or content requested by you, manage and administer your user account, send you service communications, and allow you to participate in interactive features of our apps and websites, when you choose to do so;
 
-(c)        provide you with a customised and premium service including customer service before, during and after your stay, whether you are a new or a returning customer. For these purposes, we may create a profile about you including information from our Property Management System, which will also enable us to increase our communication relevance;
+(c) provide you with a customised and premium service including customer service before, during and after your stay, whether you are a new or a returning customer. For these purposes, we may create a profile about you including information from our Property Management System, which will also enable us to increase our communication relevance;
 
-(d)        display content on our websites and apps, such as stories, product reviews, comments and photos, provided by you;
+(d) display content on our websites and apps, such as stories, product reviews, comments and photos, provided by you;
 
-(e)        handle job application that you may make to us, carry out profiling for recruitment purposes, manage your login details on our careers platforms and use recruitment tools that allow us to assess our applicants’ suitability for specific roles;
+(e) handle job application that you may make to us, carry out profiling for recruitment purposes, manage your login details on our careers platforms and use recruitment tools that allow us to assess our applicants’ suitability for specific roles;
 
-(f)         enable our suppliers and service providers to carry out certain functions on our behalf, including the hosting of our websites, apps and booking platforms, verification, technical, logistical or other functions;
+(f) enable our suppliers and service providers to carry out certain functions on our behalf, including the hosting of our websites, apps and booking platforms, verification, technical, logistical or other functions;
 
-(g)        send you personalised marketing communications, alerts and newsletters through our marketing channels, and serve personalised ads to your devices, subject to your consent or otherwise as permitted by law;
+(g) send you personalised marketing communications, alerts and newsletters through our marketing channels, and serve personalised ads to your devices, subject to your consent or otherwise as permitted by law;
 
-(h)        communicate with you about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions;
+(h) communicate with you about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions;
 
-(i)         administer our business including financial operations, credit checks and debt recoveries;
+(i) administer our business including financial operations, credit checks and debt recoveries;
 
-(j)         ensure the security of your user account, our premises and facilities and our business, for example, by monitoring account activity and deploying CCTV; verify your identity, when required; prevent or detect fraud or abuses of our websites, products and services, for example, by requesting verification information in order to reset your account password; implement and enforce our general terms and conditions of business or any other agreements concluded with you; administer technical aspects of our website, including troubleshooting, diagnosis of technical and service problems, testing, encryption and similar operations;
+(j) ensure the security of your user account, our premises and facilities and our business, for example, by monitoring account activity and deploying CCTV; verify your identity, when required; prevent or detect fraud or abuses of our websites, products and services, for example, by requesting verification information in order to reset your account password; implement and enforce our general terms and conditions of business or any other agreements concluded with you; administer technical aspects of our website, including troubleshooting, diagnosis of technical and service problems, testing, encryption and similar operations;
 
-(k)        carry out data analysis, statistical research, and trend analysis in relation to user activity, demographic information, guest profiles, user comments or other contributions to develop and improve our websites, products and services and to ensure the effectiveness of our business efforts;
+(k) carry out data analysis, statistical research, and trend analysis in relation to user activity, demographic information, guest profiles, user comments or other contributions to develop and improve our websites, products and services and to ensure the effectiveness of our business efforts;
 
-(l)         comply with applicable law, for example, in response to a request from a court or regulatory body, where such request is made in accordance with the law. We also record information to comply with financial reporting requirements, including those imposed by auditors and government regulators. We may also collect certain information as required by local laws (e.g. passport number, name of all sleepers’ including kids and partners).
+(l) comply with applicable law, for example, in response to a request from a court or regulatory body, where such request is made in accordance with the law. We also record information to comply with financial reporting requirements, including those imposed by auditors and government regulators. We may also collect certain information as required by local laws (e.g. passport number, name of all sleepers’ including kids and partners).
 
 The legal basis for our processing of your personal data for the purposes described above will typically include:
 
@@ -146,15 +146,15 @@ The legal basis for our processing of your personal data for the purposes descri
   * other applicable legal grounds for processing from time to time.
 
 
-  1. 4.     **Your right to opt-out**
+  1. 4.  **Your right to opt-out**
 
 
 
-If you would like us to stop sending you marketing communications you may use the opt-out link here, the unsubscribe link in our marketing communications or by amending your App settings. Although we encourage you to use the opt-out link and App settings because it is automated, you may also send us a request at [unsubscribe@roccofortehotels.com](mailto:unsubscribe@roccofortehotels.com) or by phone on [+44 (0)20 7321 2626](tel:+44%20%280%2920%207321%202626). Please note your enquiries will be received during UK office hours and we will aim to respond as soon as reasonably possible.
+If you would like us to stop sending you marketing communications you may use the opt-out link here, the unsubscribe link in our marketing communications or by amending your App settings. Although we encourage you to use the opt-out link and App settings because it is automated, you may also send us a request at [unsubscribe@roccofortehotels.com](mailto:unsubscribe@roccofortehotels.com) or by phone on [+44 (0)20 7321 2626](tel:+44%20%280%2920%207321%202626). Please note your enquiries will be received during UK office hours and we will aim to respond as soon as reasonably possible.
 
-If you, or another user of your device, wish to withdraw your cookies consent at any time, you have the ability to accept or decline cookies by modifying your browser setting. If you choose to decline cookies, you may not be able to fully experience the interactive features of our website, content and services. For more information about which cookies may be placed on your device and how to opt-out, please access the tools of the DAA [here](http://optout.aboutads.info/#!/), Your Online Choices [here](http://www.youronlinechoices.com/uk/) or NAI [here](http://optout.networkadvertising.org/#!/). You may opt-out from Google Analytics [here](https://tools.google.com/dlpage/gaoptout/). In some instances, when you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser. This tells the third party provider to cease data collection from your browser and prevents advertisements from being delivered to you.
+If you, or another user of your device, wish to withdraw your cookies consent at any time, you have the ability to accept or decline cookies by modifying your browser setting. If you choose to decline cookies, you may not be able to fully experience the interactive features of our website, content and services. For more information about which cookies may be placed on your device and how to opt-out, please access the tools of the DAA [here](http://optout.aboutads.info/#!/), Your Online Choices [here](http://www.youronlinechoices.com/uk/) or NAI [here](http://optout.networkadvertising.org/#!/). You may opt-out from Google Analytics [here](https://tools.google.com/dlpage/gaoptout/). In some instances, when you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser. This tells the third party provider to cease data collection from your browser and prevents advertisements from being delivered to you.
 
-  1. 5.     **Disclosure of your information**
+  1. 5.  **Disclosure of your information**
 
 
 
@@ -172,7 +172,7 @@ We may disclose your information in accordance with the law for the purposes lis
   * any other third party where you have provided your consent.
 
 
-  1. 6.     **Is my information transferred overseas?**
+  1. 6.  **Is my information transferred overseas?**
 
 
 
@@ -180,7 +180,7 @@ We may transfer your information outside of the country in which it was collecte
 
 Such transfers of data may be to a country which may not provide the same level of privacy protection as that provided by the country in which the information was collected. However, we will take reasonable steps (including entering into data transfer agreements based on the European Commission model clauses, where required) to ensure that your personal data are adequately protected by using appropriate technical, organisation, contractual and other lawful means. If you are located in the European Economic Area or in the UK, you may contact us for a copy of the safeguards which we have put in place to protect your personal data in these circumstances.
 
-  1. 7.     **Security of your information**
+  1. 7.  **Security of your information**
 
 
 
@@ -192,7 +192,7 @@ It is important to note that e-mail communications are not secure. There is a ri
 
 Finally, to be prudent, please be sure to always close your browsers when you are done using a form or the reservation site. Although the session will terminate after a short period of inactivity, it is best to close your browsers immediately upon completion. Be sure to choose strong login credentials when setting up an account and protect yourself against unauthorised access to your password and to your computer.
 
-  1. 8.     **How long is my information retained?**
+  1. 8.  **How long is my information retained?**
 
 
 
@@ -200,7 +200,7 @@ Your personal data will be retained for as long as is necessary for the purposes
 
 We may keep an anonymized form of your personal data, which will no longer refer to you, for statistical purposes without time limits, to the extent that we have a legitimate and lawful reason to do so.
 
-  1. 9.     **Information about children**
+  1. 9.  **Information about children**
 
 
 
@@ -212,15 +212,15 @@ We will ask parents and guardians for information about their children such as n
 
 We may also ask parents and guardians about the interests of their children. With the consent of a parent or guardian we may send children information about fun activities and events taking place during their stay with us. If you are under 16, when you receive information from us please always ask your parent or guardian before making a decision.
 
-We will keep information about children on file so that we can recognise them and know their preferences when we meet again in future. If you are under 16 and you are not sure about this, just ask your parent or guardian to let us know. We will delete information about you unless there is a legal reason to keep it. You can also tell our staff or email us at [dataprivacy@roccofortehotels.com](mailto:enquiry@roccofortehotels.com).
+We will keep information about children on file so that we can recognise them and know their preferences when we meet again in future. If you are under 16 and you are not sure about this, just ask your parent or guardian to let us know. We will delete information about you unless there is a legal reason to keep it. You can also tell our staff or email us at [dataprivacy@roccofortehotels.com](mailto:enquiry@roccofortehotels.com).
 
 Please speak to any of our staff if you have further questions about this notice.
 
-  1. 10.  **Your rights**
+  1. 10. **Your rights**
 
 
 
-Where European data protection laws apply and you are a data subject whose personal data are processed by us, you may have certain rights in relation to your personal data, as further described below. In such circumstances, you may exercise your rights by emailing us to [dataprivacy@roccofortehotels.com](mailto:enquiry@roccofortehotels.com), or [unsubscribe@roccofortehotels.com](mailto:unsubscribe@roccofortehotels.com) for any consent withdrawal/unsubscribe requests or by calling us on [+44 (0)20 7321 2626](tel:+44%20%280%2920%207321%202626).
+Where European data protection laws apply and you are a data subject whose personal data are processed by us, you may have certain rights in relation to your personal data, as further described below. In such circumstances, you may exercise your rights by emailing us to [dataprivacy@roccofortehotels.com](mailto:enquiry@roccofortehotels.com), or [unsubscribe@roccofortehotels.com](mailto:unsubscribe@roccofortehotels.com) for any consent withdrawal/unsubscribe requests or by calling us on [+44 (0)20 7321 2626](tel:+44%20%280%2920%207321%202626).
 
   * Right to make subject access request (SAR). Data subjects may request in writing copies of their personal data. Where possible, we will enable our users to access their information. For example, if you are a My RF Account holder you can access a subset of your guest information on [/account/login/](https://web.archive.org/account/login/) or through the RF Mobile Apps and using your username and password to access your personal information.
   * Compliance with SARs is subject to certain limitations and exemptions and the rights of other individuals. Each request should make clear that a SAR is being made. You may also be required to submit a proof of your identity and payment, where applicable. Rocco Forte Hotels will endeavour to respond to any SARs within one month or as otherwise prescribed by law.
@@ -231,6 +231,6 @@ Where European data protection laws apply and you are a data subject whose perso
   * Restriction. Data subjects may request that we restrict our processing of their personal data in various circumstances. We will comply, unless there is a lawful reason for not doing so, such as, a legal obligation to continue processing your personal data in a certain way.
   * Right to erasure. Data subjects may request that we erase personal data about them and we will comply, unless there is a lawful reason for not doing so. For example, there may be an overriding legitimate ground for keeping the personal data, such as, a legal obligation that we have to comply with, or if the continued retention of personal data is necessary for us to comply with our legal obligations.
   * Right to data portability. In certain circumstances, data subjects may request the controller to provide a copy of their personal data in a structured, commonly used and machine-readable format and have it transferred to another provider of the same or similar services. To the extent this applies to our services, we will comply with such transfer request. Please note that a transfer to another provider does not imply the erasure of personal data.
-  * Right to lodge a complaint with the supervisory authority. We suggest that data subjects contact us about any questions or complaints in relation to how we process their personal data. However, each data subject has the right to contact the relevant European supervisory authority directly. A list of supervisory authorities is available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+  * Right to lodge a complaint with the supervisory authority. We suggest that data subjects contact us about any questions or complaints in relation to how we process their personal data. However, each data subject has the right to contact the relevant European supervisory authority directly. A list of supervisory authorities is available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
 
