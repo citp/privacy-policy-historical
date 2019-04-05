@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometheaterreview.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222202234id_/https%3A//hometheaterreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometheaterreview.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406000539id_/https%3A//hometheaterreview.com/privacy-policy) for the most accurate reproduction.*
 
 # HomeTheaterReview.com Network Privacy Policy & Terms of Use
 
@@ -48,6 +48,10 @@ Third Party Advertising
 
 Advertisements that appear on HomeTheaterReview.com are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. HomeTheaterReview.com does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your personal information unless you choose to share it with them.
 
+**Interest-Based Advertising**
+
+Some of the ads you see on this web site are tailored to your interests and based on your activity online or in the applications on your mobile device. This type of ad tailoring -- sometimes called "interest-based" or "online behavioral" advertising -- is enabled through various technologies, including browser cookies, mobile advertising identifiers as well as other non-cookie technologies. To help protect your privacy, we are committed to providing you transparency and choice for these activities. For more information and to opt-out of interest-based advertising, please visit: [http://optout.networkadvertising.org/](http://optout.networkadvertising.org/?c=1#!/)
+
 Cookies
 
 Cookies are pieces of information stored directly on the computer that you are using.  Cookies can contain a variety of information, such as a simple count of how often you visit a Web Site or information that allows the customization of a Web Site for your use.  The use of advertising cookies sent by third-party servers is standard in the Internet industry. If you click on one of our banner ads, you may get cookies from our advertisers that allow the tracking of your response to our advertisements.  These cookies do not identify you personally and are solely for the purpose of assisting us in measuring the effectiveness of advertisements placed on our site. This privacy policy covers the use of cookies by HomeTheaterReview.com and does not cover the use of cookies or other tracking technologies by any of its advertisers.
@@ -68,10 +72,7 @@ Contact Us
 
 Any and all questions regarding this Privacy Policy should be directed to **privacy @ hometheaterreview.com**.  You may also contact us by mail at 9701 Wilshire, 10th Floor, Beverly Hills, CA  90212.
 
-  
-
-
- **Terms of Use**
+**Terms of Use**
 
 Please read these Terms of Use before using this website. By continuing to use HomeTheaterReview.com, you agree to abide by the conditions of this website as set forth below:
 
@@ -91,8 +92,7 @@ Site Registration
 
 Users who are 18 years of age or older and wish to comment on articles published on HomeTheaterReview.com can register for a user account. When registering, the user will receive a confirmation link to confirm their email address. This double opt-in process is done to ensure that only users who wish to become HomeTheaterReview.com registered users are entered into our database. The user selects his/her own password and we recommend keeping that password in a secure location.  If the user forgets his or her password, Home Theater Review can automatically send a password reminder email, provided that the user answers the "security" question correctly (i.e., What is your favorite color?). This security question will be asked during the sign-up process.  Users will also have the opportunity to opt into HomeTheaterReview.com's weekly email list as well as the third party Sponsors' email list. This information is not sold and all emails are sent directly by HomeTheaterReview.com. Clear opt-out instructions are located at the bottom of each email.
 
-If a user wishes to no longer be a registered HomeTheaterReview.com user, he or she can delete their account by sending an email to **webmaster at hometheaterreview.com** with the subject header "Delete my account" and the user name he or she registered with. We will do our best to remove the user's account within 2 business days.   
-
+If a user wishes to no longer be a registered HomeTheaterReview.com user, he or she can delete their account by sending an email to **webmaster at hometheaterreview.com** with the subject header "Delete my account" and the user name he or she registered with. We will do our best to remove the user's account within 2 business days.
 
 Comments, Forums, User Opinion Posts (User Generated Content)
 
@@ -126,8 +126,8 @@ http://en.wikipedia.org/wiki/RSS_(file_format)
 
 Thank you for visiting HomeTheaterReview.com.
 
-Privacy Policy & Terms of Use were updated on October 16, 2008.
+Privacy Policy & Terms of Use were updated on January 22, 2019.
 
-© 2008, Del Colliano Enterprises, Inc.
+© 2019, Del Colliano Enterprises, Inc.
 
 * * *
