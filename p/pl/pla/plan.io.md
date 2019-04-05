@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plan.io privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222174903id_/https%3A//plan.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan.io privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405124406id_/https%3A//plan.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Planio
 
@@ -20,7 +20,7 @@ Planio GmbH, Rudolfstraße 14, 10245 Berlin, Germany
 
 ## Types of Data collected
 
-Among the types of Personal Data that Planio collects, by itself or through third parties, there are: Usage Data, email address, Cookies, first name, last name, VAT Number, company name, address, country, state, province, ZIP/Postal code and city. 
+Among the types of Personal Data that Planio collects, by itself or through third parties, there are: Usage Data; email address; Cookies; first name; last name; VAT Number; company name; address; country; state; province; ZIP/Postal code; city. 
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Planio.  
@@ -94,7 +94,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 
 Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on Planio.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant. 
 
@@ -104,7 +104,7 @@ Google Analytics is a web analysis service provided by Google Inc. (“Google”
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
 This integration of Google Analytics anonymizes your IP address. It works by shortening Users' IP addresses within member states of the European Union or in other contracting states to the Agreement on the European Economic Area. Only in exceptional cases will the complete IP address be sent to a Google server and shortened within the US.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). 
 
@@ -114,7 +114,7 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 By filling in the contact form with their Data, the User authorizes Planio to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
-Personal Data collected: address, city, company name, country, email address, first name, last name, province, state, VAT Number and ZIP/Postal code. 
+Personal Data collected: address; city; company name; country; email address; first name; last name; province; state; VAT Number; ZIP/Postal code. 
 
 ### Content commenting
 
@@ -126,7 +126,7 @@ If a content commenting service provided by third parties is installed, it may s
 
 Disqus is a content commenting service provided by Big Heads Labs Inc.
 
-Personal Data collected: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Cookies; Usage Data; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: United States – [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) – [Opt out](https://help.disqus.com/customer/portal/articles/1657951). 
 
@@ -140,7 +140,7 @@ This type of service might still collect web traffic data for the pages where th
 Gravatar is an image visualization service provided by Automattic Inc. that allows Planio to incorporate content of this kind on its pages.  
 Please note that if Gravatar images are used for comment forms, the commenter's email address or parts of it may be sent to Gravatar - even if the commenter has not signed up for that service.
 
-Personal Data collected: email address and Usage Data. 
+Personal Data collected: email address; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://automattic.com/privacy/). 
 
@@ -205,13 +205,13 @@ This type of service allows Planio and its partners to inform, optimize and serv
 This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.  
 In addition to any opt out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
 
-#### Remarketing through Google Analytics for Display Advertising (Google Inc.)
+#### Remarketing with Google Analytics (Google Inc.)
 
-Google Analytics for Display Advertising is a remarketing and behavioral targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Adwords advertising network and the Doubleclick Cookie.
+Remarketing with Google Analytics is a remarketing and behavioral targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Google Ads advertising network and the Doubleclick Cookie.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
-Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). 
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). Privacy Shield participant. 
 
 ### SPAM protection
 
@@ -222,7 +222,7 @@ This type of service analyzes the traffic of Planio, potentially containing User
 Google reCAPTCHA is a SPAM protection service provided by Google Inc.  
 The use of reCAPTCHA is subject to the Google [privacy policy](https://www.google.com/policies/privacy/) and [terms of use](https://www.google.com/intl/en/policies/terms/).
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/). 
 
