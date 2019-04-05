@@ -1,123 +1,94 @@
-> *The following text is extracted and transformed from the doodly.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515224548id_/https%3A//www.doodly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodly.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405200726id_/https%3A//www.doodly.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-JK Marketing LLC and JimmyKim.net (“JK”)
+## Privacy Policy
 
-Privacy Policy
+Effective Date: January, 2019 
 
-Thank you for using JK’s products and services! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have. When using any of our services or products, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this privacy policy.
+The following Privacy Policy governs the online information collection practices of **Bryxen, Inc. d/b/a Doodly** ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the [www.doodly.com](https://www.doodly.com/) website (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail). 
 
-1\. What information do we collect?
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified. 
 
-We collect information in two ways:
+### How We Collect and Use Information
 
-a. When you give it to us or give us permission to obtain it.
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). The Site only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. The Site collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you. 
 
-When you sign up for or use our products, you voluntarily provide certain information about yourself. This can include your name, profile photo, email address, location, taste and lifestyle preferences, and product category preferences; and any other information that you provide. 
+We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages. 
 
-You also may give us permission to access your information via other services. For example, if you register for or log into the site via Facebook, you will be explicitly asked to approve Facebook sharing selected information - including basic information from your public profile (such as your name, gender, and locale), your email address, your friend list, and your Facebook likes - with JK.If and when we add the ability to log in via other services, analogous information sharing may occur. The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are.
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features; advertising that appear on the Site; and, making other offers available to you via email, direct mail or otherwise. We also may provide your information to third parties, such as service providers, contractors and third-party publishers and advertisers for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties. 
 
-In addition, we may also store and use the content that you contribute to the site.
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online - for example on message boards, web logs, through email, or in chat areas - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information. 
 
-b. As you use our products
+Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party's privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party's use of cookies or web beacons or use of your information, you should visit that party's website and review its privacy policy. 
 
-We may collect the following types of data via technology as you use our products:
+The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services. 
 
-Log data. When you use our products, our servers automatically record information (“log data”) including information that your browser sends whenever you visit a website. This log data may include your Internet Protocol address, browser type and settings, the date and time of your request, how you used JK, and cookie data.
+We may also make some content, products and services available through our Site or by emailing messages to you through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. 
 
-Cookie data. Depending on how you’re accessing our products, we may use “cookies” (a small text file sent by your computer each time you visit our website, unique to your JK account or your browser), or similar technologies to record log data. When we use cookies, we may use either “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them). For example, we may use cookies to store certain preferences or settings so you don‘t have to set them up every time you visit JK. Some of the cookies we use are associated with your JK account (including personal information about you, such as the email address you gave us), and other cookies are not. 
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public. 
 
-Pixel tags. We may use “pixel tags” (tiny graphic images with unique identifiers, similar in function to Cookies, that are used to track online movements of Web users). In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel tags are embedded invisibly in Web pages. Pixel tags also allow us to send email messages in a format users can read, and they tell us whether emails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce, eliminate, or modify the types of emails that users receive. 
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets. 
 
-Device information. In addition to log data, we may also collect information about the device from which you’re logging into JK, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
+### Google Analytics
 
-The information we collect may be “personally identifiable” (meaning it can be used to specifically identify you as a unique person) or “non-personally identifiable” (meaning it can’t be used to specifically identify you).
+We also use Google Analytics Advertiser Features to optimize our business. Advertiser features include: 
 
-### 2\. Our policy on children’s information
+  * Remarketing with Google Analytics 
+  * Google Display Network Impression Reporting 
+  * DoubleClick Platform integrations 
+  * Google Analytics Demographics and Interest Reporting 
 
-JK’s products and services are intended for general audiences and are not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us. If we become aware that a child under 13 has provided us with personal information without parental consent, we will take steps to remove such information and terminate the child's account. 
 
-3\. How do we use the information we collect?
 
-_a. To develop and improve our products and services_
+By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site. Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order. The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message. 
 
-We use the information we collect to provide our products and services to you and improve them, to develop new products, and to protect JK and our users. For example, we may compare how people use two different versions of a product, which can help us understand which version is easier or more enjoyable to use.
+You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page.](http://optout.networkadvertising.org/)
 
-_b. To offer you personalized content_
+### Facebook 
 
-_c. Other uses_
+As advertisers on Facebook and through our Facebook page, we, (not Facebook) may collect content or information from a Facebook user and such information may be used in the same manner specified in this Privacy Policy. You consent to our collection of such information. 
 
-To send you updates, notifications, newsletters, marketing materials and other information that may be of interest to you.
+We abide by Facebook’s Data Use Restrictions. 
 
-To respond to your questions or comments.
+  * Any ad data collected, received or derived from our Facebook ad (“Facebook advertising data”) is only shared with someone acting on our behalf, such as our service provider. We are responsible for ensuring that our service providers protect any Facebook advertising data or any other information obtained from us, limit our use of all of that information, and keep it confidential and secure. 
+  * We do not use Facebook advertising data for any purpose (including retargeting, commingling data across multiple advertisers’ campaigns, or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis (unless authorized by Facebook) and only to assess the performance and effectiveness of our Facebook advertising campaigns 
+  * We do not use Facebook advertising data, including the targeting criteria for a Facebook ad, to build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifier that identifies any particular user, browser, computer or device. 
+  * We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service. 
 
-Credit information for purposes of purchasing JK products and services shall only be used to process applicable payments and collect amounts that you owe.
 
-We may use or store information wherever JK does business, potentially including countries outside your own.If you reside outside of the United States, note that laws regarding the processing of personal data may be less stringent in the United States than in your country.
 
-4\. How do we share the information we collect, with other users and third parties?
+### General Data Privacy Regulation (GDPR) 
 
-_a. Your public profile and user-generated content_
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union (EU) citizens. 
 
-When you contribute content to our site - for example product recommendations, ratings, reviews, comments, questions, replies, “likes,” and “helpful” votes - this content will be made publicly available on the site (where it will be accessible by both registered and unregistered users), and will potentially be made available on partner sites as well.This content may also be featured or used in JK or it’s related companies’ marketing materials.In addition, when you populate your public profile on JK, that information is also accessible to anyone.When you put either of these two types of content up on the site, you should have no expectation of privacy.However, you always have the option to delete a specific piece of content and/or terminate your account (resulting in deletion of all of your content) at any time.
+As a company that markets its site, content, products and/or services online we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site, content, products and/or services is governed by GDPR, we will abide by the relevant portions of the Regulation. 
 
-_b. Your personal data_
+If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.” 
 
-“Personal data” means data that would allow someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, or any other non-public information about you.
+To make any of these requests, please contact our GDPR contact at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c4b7b1b4b4abb6b084a0ababa0a8bdeaa7aba9)
 
-Aside from any information that you choose to share in your public profile or in the user-generated content that you contribute to the site (as described above), we will not share your personal data.For example, we will never rent or sell it to others.The only limited instances in which we may share your personal information include the following:
+###  Children's Privacy Statement 
 
-**Social networking sites:** If you’ve chosen to link to your JK account to other social networking services (e.g. Facebook), you may be able to choose to publish your activity on JK to them.By default we will not publish any activity to those services; for example, we will never post anything back to your Facebook wall, send any Facebook messages on your behalf, or share anything else back to Facebook without your express consent.
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information. 
 
-**Third-party service providers:** If we need to share it with third-party service providers in order to provide you with the products and services that we offer, to provide technical support, and/or to provide other services requested by JK.These third-party service providers are required not to use your personal data for any other purposes than to provide the services requested by JK.
+  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site. 
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties. 
+  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site. 
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site's online activities on providing personally identifiable information. 
 
-**Links to third-party sites:** Our products may contain links to unaffiliated third party websites (e.g. retailer sites). Except as set forth herein, we do not share your personal information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
 
-**Affiliates and acquisitions:** We may share some or all of your Personal Data with any parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.If another company acquires JK or all or substantially all of our assets, that company will possess the same information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
 
-**Other disclosures:** If we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or JK; or to detect, prevent, or otherwise address fraud, security or technical issues. 
+###  How do we store your information? 
 
-_c. Aggregated and non-personally identifiable information_
+Your information is stored at the list server that delivers the Site content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive the Site material. 
 
-We may also share aggregated or non-personally identifiable information about you (including your family profile, location, taste preferences, browsing behavior, and site activity) with our partners or others. For example, we may share with an advertiser the number of users that have been exposed to, or clicked on, advertisements.Or, we may help brand partners to gain insights (at a general or individual but unnamed level) into their current or potential customer base, or those of their competitors.We may also use this non-personally identifiable information to help brand partners target you with relevant advertisements or offers, to be delivered through JK’s products or email infrastructure (depending on your email preferences). 
+All of the messaging or emails that are sent to you by the Site include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you. 
 
-5\. Your choices regarding your personal information 
+###  Disclaimer 
 
-Our goal is to give you simple and meaningful choices over your information. If you have a JK account, many of the choices you have on JK are built directly into the product or your account settings. For example, you can:
+This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website. 
 
-Limit or change information available in your public profile page at any time
+If you have any questions or concerns regarding our privacy policy please direct them to: 
 
-Link or unlink your JK account from an account on another service (e.g., Facebook). Eventually we plan to automate this process, but for now please contact us to do this. 
-
-We do not yet support the Do Not Track browser setting, however we aim to add this in the future.
-
-Delete a specific piece of content at any time.
-
-Close your account at any time. Note we may retain archived copies of your information as required by law or for legitimate business purposes (including to help address fraud and spam).To close your account, please contact us. 
-
-You may have choices available to you through the device or software you use to access JK. For example: 
-
-The browser you use may provide you with the ability to control cookies or other types of local data storage;
-
-Your mobile device may provide you with choices around how and whether location or other data is shared with us.
-
-To learn more about these choices, please see the information provided by the device or software provider. 
-
-6\. Security
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-7\. Changes and updates to this policy 
-
-JK reserves the right to revise the privacy policy at any time in its sole discretion. We’ll post any updates to this policy on this page.If the changes are significant, we will send you an email or in-site notification and/or obtain your consent, as required by law.If you continue to use JK after any changes come into effect, you thereby agree to the revised policy. 
-
-8\. Contact information
-
-If you have any comments or questions regarding this Privacy Policy, or if you believe JK has not adhered to it, you may contact via the address or email below: 
-
-JK Marketing LLC  
-2657 Windmill Parkway #233  
-Henderson, NV 89074
-
-support@jimmykim.net 
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#374442474758454377535858535b4e1954585a)
