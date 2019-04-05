@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the generationiron.com privacy policy that was archived on 2018-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123095501id_/https%3A//generationiron.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the generationiron.com privacy policy that was archived on 2019-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190405180919id_/https%3A//generationiron.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# video: http://ogp.me/ns/video# ya: http://webmaster.yandex.ru/vocabularies/" class=" td-md-is-chrome"><!--<![endif]--><head>
     <title>PRIVACY POLICY - Generation Iron Fitness &amp; Bodybuilding Network</title>
@@ -44,169 +44,9 @@
 <link rel="alternate" type="application/rss+xml" title="Generation Iron Fitness &amp; Bodybuilding Network » Feed" href="https://generationiron.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Generation Iron Fitness &amp; Bodybuilding Network » Comments Feed" href="https://generationiron.com/comments/feed/">
 		<script type="text/javascript" async="" src="//a.klaviyo.com/media/js/analytics/analytics.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//cdn.justuno.com/vck.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/generationiron.com\/wp-includes\/js\/wp-emoji.js?ver=4.8.4","twemoji":"https:\/\/generationiron.com\/wp-includes\/js\/twemoji.js?ver=4.8.4"}};
-			( function( window, document, settings ) {
-	var src, ready, ii, tests;
-
-	/*
-	 * Create a canvas element for testing native browser support
-	 * of emoji.
-	 */
-	var canvas = document.createElement( 'canvas' );
-	var context = canvas.getContext && canvas.getContext( '2d' );
-
-	/**
-	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
-	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
-	 *
-	 * @since 4.2.0
-	 *
-	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
-	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
-	 */
-	function browserSupportsEmoji( type ) {
-		var stringFromCharCode = String.fromCharCode,
-			flag, flag2, emoji41, emoji42;
-
-		if ( ! context || ! context.fillText ) {
-			return false;
-		}
-
-		// Cleanup from previous test.
-		context.clearRect( 0, 0, canvas.width, canvas.height );
-
-		/*
-		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
-		 * it doesn't work when the font is bolder than 500 weight. So, we
-		 * check for bold rendering support to avoid invisible emoji in Chrome.
-		 */
-		context.textBaseline = 'top';
-		context.font = '600 32px Arial';
-
-		switch ( type ) {
-			case 'flag':
-				/*
-				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
-				 * so gives us an easy test for full support.
-				 *
-				 * To test for support, we try to render it, and compare the rendering to how it would look if
-				 * the browser doesn't render it correctly ([U] + [N]).
-				 */
-				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
-				flag = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				// Add a zero width space between the characters, to force rendering as characters.
-				context.fillText( stringFromCharCode( 55356, 56826, 8203, 55356, 56819 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				if ( flag === flag2 ) {
-					return false;
-				}
-
-				/*
-				 * Test for English flag compatibility. England is a country in the United Kingdom, it
-				 * does not have a two letter locale code but rather an five letter sub-division code.
-				 *
-				 * To test for support, we try to render it, and compare the rendering to how it would look if
-				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
-				 */
-				// Cleanup from previous test.
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ), 0, 0 );
-				flag = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				return flag !== flag2;
-			case 'emoji4':
-				/*
-				 * Emoji 5 has faries of all genders.
-				 *
-				 * To test for support, try to render a new emoji (fairy, male), then compares
-				 * it to how it would look if the browser doesn't render it correctly
-				 * (fairy + male sign).
-				 */
-				context.fillText( stringFromCharCode( 55358, 56794, 8205, 9794, 65039 ), 0, 0 );
-				emoji41 = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55358, 56794, 8203, 9794, 65039 ), 0, 0 );
-				emoji42 = canvas.toDataURL();
-
-				return emoji41 !== emoji42;
-		}
-
-		return false;
-	}
-
-	function addScript( src ) {
-		var script = document.createElement( 'script' );
-
-		script.src = src;
-		script.defer = script.type = 'text/javascript';
-		document.getElementsByTagName( 'head' )[0].appendChild( script );
-	}
-
-	tests = Array( 'flag', 'emoji4' );
-
-	settings.supports = {
-		everything: true,
-		everythingExceptFlag: true
-	};
-
-	for( ii = 0; ii < tests.length; ii++ ) {
-		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
-
-		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
-
-		if ( 'flag' !== tests[ ii ] ) {
-			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
-		}
-	}
-
-	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
-
-	settings.DOMReady = false;
-	settings.readyCallback = function() {
-		settings.DOMReady = true;
-	};
-
-	if ( ! settings.supports.everything ) {
-		ready = function() {
-			settings.readyCallback();
-		};
-
-		if ( document.addEventListener ) {
-			document.addEventListener( 'DOMContentLoaded', ready, false );
-			window.addEventListener( 'load', ready, false );
-		} else {
-			window.attachEvent( 'onload', ready );
-			document.attachEvent( 'onreadystatechange', function() {
-				if ( 'complete' === document.readyState ) {
-					settings.readyCallback();
-				}
-			} );
-		}
-
-		src = settings.source || {};
-
-		if ( src.concatemoji ) {
-			addScript( src.concatemoji );
-		} else if ( src.wpemoji && src.twemoji ) {
-			addScript( src.twemoji );
-			addScript( src.wpemoji );
-		}
-	}
-
-} )( window, document, window._wpemojiSettings );
-		</script><script src="https://generationiron.com/wp-includes/js/twemoji.js?ver=4.8.4" type="text/javascript" defer=""></script><script src="https://generationiron.com/wp-includes/js/wp-emoji.js?ver=4.8.4" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/generationiron.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.9"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://generationiron.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8.9" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -221,34 +61,34 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="ultimate-tables-style-css" href="https://generationiron.com/wp-content/plugins/ultimate-tables/css/ultimate-tables.css?ver=4.8.4" type="text/css" media="all">
-<link rel="stylesheet" id="ultimate-datatables-style-css" href="https://generationiron.com/wp-content/plugins/ultimate-tables/css/jquery.dataTables.css?ver=4.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-tables-style-css" href="https://generationiron.com/wp-content/plugins/ultimate-tables/css/ultimate-tables.css?ver=4.8.9" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-datatables-style-css" href="https://generationiron.com/wp-content/plugins/ultimate-tables/css/jquery.dataTables.css?ver=4.8.9" type="text/css" media="all">
 <link rel="stylesheet" id="cpsh-shortcodes-css" href="https://generationiron.com/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="font-awesome-four-css" href="https://generationiron.com/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
-<link rel="stylesheet" id="videojs-plugin-css" href="https://generationiron.com/wp-content/plugins/video-js-for-wordpress-master/plugin-styles.css?ver=4.8.4" type="text/css" media="all">
-<link rel="stylesheet" id="videojs-mark-css" href="https://generationiron.com/wp-content/plugins/video-js-for-wordpress-master/videojs.watermark.css?ver=4.8.4" type="text/css" media="all">
-<link rel="stylesheet" id="videojs-css" href="//vjs.zencdn.net/5.19.2/video-js.css?ver=4.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="videojs-plugin-css" href="https://generationiron.com/wp-content/plugins/video-js-for-wordpress-master/plugin-styles.css?ver=4.8.9" type="text/css" media="all">
+<link rel="stylesheet" id="videojs-mark-css" href="https://generationiron.com/wp-content/plugins/video-js-for-wordpress-master/videojs.watermark.css?ver=4.8.9" type="text/css" media="all">
+<link rel="stylesheet" id="videojs-css" href="//vjs.zencdn.net/5.19.2/video-js.css?ver=4.8.9" type="text/css" media="all">
 <link rel="stylesheet" id="quads-styles-css" href="https://generationiron.com/wp-content/plugins/quick-adsense-reloaded/assets/css/quads.css?ver=1.3.1" type="text/css" media="all">
 <link rel="stylesheet" id="google-fonts-style-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900&amp;ver=8.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="mc4wp-form-basic-css" href="https://generationiron.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.css?ver=4.2" type="text/css" media="all">
+<link rel="stylesheet" id="mc4wp-form-basic-css" href="https://generationiron.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css?ver=4.2" type="text/css" media="all">
 <link rel="stylesheet" id="js_composer_front-css" href="https://generationiron.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.1" type="text/css" media="all">
 <link rel="stylesheet" id="td-theme-css" href="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/style.css?ver=8.1.1" type="text/css" media="all">
 <link rel="stylesheet" id="td-theme-demo-style-css" href="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/includes/demos/video/demo_style.css?ver=8.1.1" type="text/css" media="all">
 <script type="text/javascript" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var samAjax = {"ajaxurl":"https:\/\/generationiron.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax.php","loadurl":"https:\/\/generationiron.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax-loader.php","load":"1","mailer":"0","clauses":"YTo0OntzOjI6IldDIjtzOjI5NjoiKElGKHNhLmFkX3VzZXJzID0gMCwgVFJVRSwgKHNhLmFkX3VzZXJzX3VucmVnID0gMSkpKSBBTkQgKChzYS52aWV3X3R5cGUgPSAxKSBPUiAoc2Eudmlld190eXBlID0gMCBBTkQgKHNhLnZpZXdfcGFnZXMrMCAmIDEwKSkgT1IgKHNhLnZpZXdfdHlwZSA9IDIgQU5EIEZJTkRfSU5fU0VUKDI4NTY2LCBzYS52aWV3X2lkKSkpIEFORCAoc2EuYWRfY2F0cyA9IDApICBBTkQgKHNhLmFkX2F1dGhvcnMgPSAwKSAgICBBTkQgSUYoc2EueF9pZCwgTk9UIEZJTkRfSU5fU0VUKDI4NTY2LCBzYS54X3ZpZXdfaWQpLCBUUlVFKSAgICAiO3M6MzoiV0NUIjtzOjM2MjoiIEFORCBJRihzYS5hZF9zY2hlZHVsZSwgQ1VSREFURSgpIEJFVFdFRU4gc2EuYWRfc3RhcnRfZGF0ZSBBTkQgc2EuYWRfZW5kX2RhdGUsIFRSVUUpIEFORCBJRihzYS5saW1pdF9oaXRzLCBzYS5oaXRzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAwKSwgVFJVRSkgQU5EIElGKHNhLmxpbWl0X2NsaWNrcywgc2EuY2xpY2tzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAxKSwgVFJVRSkiO3M6MzoiV0NXIjtzOjgwOiIgQU5EIElGKHNhLmFkX3dlaWdodCA+IDAsIChzYS5hZF93ZWlnaHRfaGl0cyoxMC8oc2EuYWRfd2VpZ2h0KjEwMDApKSA8IDEsIEZBTFNFKSI7czo0OiJXQzJXIjtzOjIyOiJBTkQgKHNhLmFkX3dlaWdodCA+IDApIjt9","doStats":"0","container":"sam-container","place":"sam-place","ad":"sam-ad"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://generationiron.com/wp-content/plugins/simple-ads-manager/js/sam-layout.min.js?ver=2.9.8.125"></script>
-<script type="text/javascript" src="//vjs.zencdn.net/5.19.2/video.js?ver=4.8.4"></script>
-<script type="text/javascript" src="https://generationiron.com/wp-content/plugins/video-js-for-wordpress-master/videojs/Youtube.js?ver=4.8.4"></script>
-<script type="text/javascript" src="https://generationiron.com/wp-content/plugins/video-js-for-wordpress-master/videojs/videojs.watermark.js?ver=4.8.4"></script>
+<script type="text/javascript" src="//vjs.zencdn.net/5.19.2/video.js?ver=4.8.9"></script>
+<script type="text/javascript" src="https://generationiron.com/wp-content/plugins/video-js-for-wordpress-master/videojs/Youtube.js?ver=4.8.9"></script>
+<script type="text/javascript" src="https://generationiron.com/wp-content/plugins/video-js-for-wordpress-master/videojs/videojs.watermark.js?ver=4.8.9"></script>
 <link rel="https://api.w.org/" href="https://generationiron.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://generationiron.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://generationiron.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.8.4">
+<meta name="generator" content="WordPress 4.8.9">
 <link rel="shortlink" href="https://generationiron.com/?p=28566">
 <link rel="alternate" type="application/json+oembed" href="https://generationiron.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgenerationiron.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://generationiron.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgenerationiron.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -533,7 +373,7 @@ var td_magnific_popup_translation_tNext="Next (Right arrow key)";
 var td_magnific_popup_translation_tCounter="%curr% of %total%";
 var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
 var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
-var td_ad_background_click_link="https:\/\/shop.generationiron.com\/";
+var td_ad_background_click_link="https:\/\/gasparinutrition.com\/";
 var td_ad_background_click_target="_blank";
 </script>
 
@@ -544,7 +384,7 @@ var td_ad_background_click_target="_blank";
     
 
 body {
-	background-image:url("https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/BFS_TO_REAL.jpg");
+	background-image:url("https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/02/GN_Takeover.jpg");
 	background-repeat:no-repeat;
 	background-position:center top;
 	background-attachment:fixed;
@@ -1124,7 +964,7 @@ body {
             </a>
         </span>
         <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.instagram.com/generationironofficial" title="Instagram">
+            <a target="_blank" href="https://www.instagram.com/generationiron/" title="Instagram">
                 <i class="td-icon-font td-icon-instagram"></i>
             </a>
         </span>
@@ -1165,6 +1005,7 @@ body {
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/gi-exclusive/">GI Exclusives</a></li>
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/gi-spotlight-golds-gym/">GI Spotlight: Gold’s Gym</a></li>
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/gi-weekly/">GI Weekly</a></li>
+	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/hunt-for-hardcore/">Hunt For Hardcore</a></li>
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/i-am-a-bodybuilder/">I Am A Bodybuilder</a></li>
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/iron-cinema/">Iron Cinema With Vlad Yudin</a></li>
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/muscle-rants/">Muscle Rants</a></li>
@@ -1179,16 +1020,26 @@ body {
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/all-eyes-on-olympia/">Stanimal: All Eyes On Olympia</a></li>
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/gregg-valentino/">Storytime With Gregg Valentino</a></li>
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/straight-facts/">Straight Facts</a></li>
+	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/strength-wars/">Strength Wars</a></li>
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/the-beast/">The Beast</a></li>
+	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/the-bodybuilding-coach/">The Bodybuilding Coach</a></li>
 	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/the-breakdown/">The Breakdown</a></li>
+	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/the-fred-biggie-smalls-show/">The Fred Biggie Smalls Show</a></li>
+	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/lost-scenes/">The Lost Scenes</a></li>
+	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/the-muscle-mogul/">The Muscle Mogul</a></li>
+	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/this-or-that/">This Or That</a></li>
+	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/train-big/">Train BIG</a></li>
+	<li class="menu-item-0"><a href="https://generationiron.com/category/watch/kai-words-of-wisdom/">Words Of Wisdom</a></li>
 </ul>
 </li>
 <li id="menu-item-43263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43263"><a>Profiles<i class="td-icon-menu-right td-element-after"></i></a>
 <ul class="sub-menu">
+	<li id="menu-item-61804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61804"><a href="https://generationiron.com/network/">The Network</a></li>
 	<li id="menu-item-28500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28500"><a href="https://generationiron.com/team-generation-iron/">Team GI</a></li>
 	<li id="menu-item-45115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45115"><a href="https://generationiron.com/content-partners/">GI Content Partners</a></li>
 	<li id="menu-item-37001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37001"><a href="https://generationiron.com/generation-irons-bodybuilding-awards/">Bodybuilding Awards<i class="td-icon-menu-right td-element-after"></i></a>
 	<ul class="sub-menu">
+		<li id="menu-item-60351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60351"><a href="https://generationiron.com/bodybuilding-awards-2018/">2018 Awards</a></li>
 		<li id="menu-item-54046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54046"><a href="https://generationiron.com/bodybuilding-awards-2017/">2017 Awards</a></li>
 		<li id="menu-item-54045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54045"><a href="https://generationiron.com/bodybuilding-awards/">2016 Awards</a></li>
 	</ul>
@@ -1199,17 +1050,21 @@ body {
 		<li id="menu-item-57812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57812"><a href="https://generationiron.com/power-30/">2017 List</a></li>
 	</ul>
 </li>
+	<li id="menu-item-60005" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60005"><a href="https://generationiron.com/gi-show/">GI Show</a></li>
 </ul>
 </li>
 <li id="menu-item-28552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28552"><a href="https://generationiron.com/subscribe/">Subscribe</a></li>
 <li id="menu-item-28473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28473"><a href="https://generationiron.com/advertise-with-us/">Advertise</a></li>
 <li id="menu-item-28290" class="shopcss menu-item menu-item-type-custom menu-item-object-custom menu-item-28290"><a href="https://shop.generationiron.com/">SHOP</a></li>
-<li id="menu-item-52500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-52500"><a href="https://generationiron.com/gi-international/"><i class="fa fa-globe"></i>International<i class="td-icon-menu-right td-element-after"></i></a>
+<li id="menu-item-52500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-52500"><a href="https://generationiron.com/gi-brands/"><i class="fa fa-globe"></i>GI Brands<i class="td-icon-menu-right td-element-after"></i></a>
 <ul class="sub-menu">
+	<li id="menu-item-61805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61805"><a href="https://www.youtube.com/user/BodybuildingRev">Strength Wars</a></li>
+	<li id="menu-item-61806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61806"><a href="https://gymfuckery.com/">Gym F#*kery</a></li>
 	<li id="menu-item-52501" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52501"><a href="https://generationiron.com/brasil/">GI Brasil</a></li>
 	<li id="menu-item-52502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52502"><a href="https://generationiron.com/persia/">GI Persia</a></li>
 	<li id="menu-item-53172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53172"><a href="https://generationiron.com/ru/">GI Russian</a></li>
-	<li id="menu-item-57398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57398"><a href="https://www.instagram.com/generationironarabic/?hl=en">GI Arabic</a></li>
+	<li id="menu-item-57398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57398"><a href="https://www.instagram.com/generationiron.arabic/">GI Arabic</a></li>
+	<li id="menu-item-61105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61105"><a href="https://www.instagram.com/generationironjp/?hl=en">GI Japan</a></li>
 </ul>
 </li>
 </ul></div>        </div>
@@ -1255,6 +1110,8 @@ Header style 5
 <li id="menu-item-53110" class="light menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-53110"><a href="https://generationiron.com/brasil/">GI BRASIL</a></li>
 <li id="menu-item-53111" class="light menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-53111"><a href="https://generationiron.com/persia/">GI PERSIA</a></li>
 <li id="menu-item-53173" class="light menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-53173"><a href="https://generationiron.com/ru/">GI RUSSIAN</a></li>
+<li id="menu-item-61187" class="light menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-61187"><a href="https://www.youtube.com/strengthwars">STRENGTH WARS</a></li>
+<li id="menu-item-61758" class="light menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-61758"><a href="https://gymfuckery.com/">GYM F#*KERY</a></li>
 <li id="menu-item-53131" class="light menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-53131"><a href="http://vladar.com/">VLADAR</a></li>
 </ul></div></div>
         <div class="td-header-sp-top-widget">
@@ -1269,7 +1126,7 @@ Header style 5
             </a>
         </span>
         <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.instagram.com/generationironofficial" title="Instagram">
+            <a target="_blank" href="https://www.instagram.com/generationiron/" title="Instagram">
                 <i class="td-icon-font td-icon-instagram"></i>
             </a>
         </span>
@@ -1307,58 +1164,60 @@ Header style 5
 	    </div>
     <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-first td-menu-item td-mega-menu menu-item-28452"><a href="https://generationiron.com/generation-iron-originals/">Original Content</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_1_5bf7ce7597628_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_1_5bf7ce7597628"><script>var block_td_uid_1_5bf7ce7597628 = new tdBlock();
-block_td_uid_1_5bf7ce7597628.id = "td_uid_1_5bf7ce7597628";
-block_td_uid_1_5bf7ce7597628.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"625","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_1_5bf7ce7597628_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_1_5bf7ce7597628_rand","tdc_css_class_style":"td_uid_1_5bf7ce7597628_rand_style","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
-block_td_uid_1_5bf7ce7597628.td_column_number = "3";
-block_td_uid_1_5bf7ce7597628.block_type = "td_block_mega_menu";
-block_td_uid_1_5bf7ce7597628.post_count = "4";
-block_td_uid_1_5bf7ce7597628.found_posts = "815";
-block_td_uid_1_5bf7ce7597628.header_color = "";
-block_td_uid_1_5bf7ce7597628.ajax_pagination_infinite_stop = "";
-block_td_uid_1_5bf7ce7597628.max_num_pages = "204";
-tdBlocksArray.push(block_td_uid_1_5bf7ce7597628);
-</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_2_5bf7ce759a4bf" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="" href="https://generationiron.com/category/watch/">All</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_3_5bf7ce759a581" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1964" href="https://generationiron.com/category/watch/original-docs/">All GI Original Films</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_4_5bf7ce759a64e" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="2053" href="https://generationiron.com/category/watch/arash-rahbar-the-new-classic/">Arash Rahbar: The New Classic</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_5_5bf7ce759a70f" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="2032" href="https://generationiron.com/category/watch/arnold-classic-moments/">Arnold Classic Moments</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_6_5bf7ce759a7cb" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="635" href="https://generationiron.com/category/watch/bikini-diaries/">Bikini Diaries</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_7_5bf7ce759a885" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="2028" href="https://generationiron.com/category/watch/bodybuilding-chronicles/">Bodybuilding Chronicles</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_8_5bf7ce759a94a" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="11277" href="https://generationiron.com/category/watch/conversation-with-andre-ferguson/">Conversation With Andre Ferguson</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_9_5bf7ce759aa07" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="6509" href="https://generationiron.com/category/watch/a-conversation-with-nick-trigili/">Conversation With Nick Trigili</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_10_5bf7ce759aac0" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="634" href="https://generationiron.com/category/watch/east-coast-mecca/">East Coast Mecca</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_11_5bf7ce759ab7a" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1483" href="https://generationiron.com/category/watch/flex-on-em/">Flex On ‘Em</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_12_5bf7ce759ac32" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1711" href="https://generationiron.com/category/watch/flex-wheeler-the-comeback-diaries/">Flex Wheeler: The Comeback Diaries</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_13_5bf7ce759accb" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1865" href="https://generationiron.com/category/watch/gaspari-the-new-era/">Gaspari: The New Era</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_14_5bf7ce759ad8c" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="636" href="https://generationiron.com/category/watch/gi-exclusive/">GI Exclusives</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_15_5bf7ce759ae44" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1888" href="https://generationiron.com/category/watch/gi-spotlight-golds-gym/">GI Spotlight: Gold’s Gym</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_16_5bf7ce759aefc" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="629" href="https://generationiron.com/category/watch/gi-weekly/">GI Weekly</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_17_5bf7ce759afb3" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1902" href="https://generationiron.com/category/watch/i-am-a-bodybuilder/">I Am A Bodybuilder</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_18_5bf7ce759b06c" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="474" href="https://generationiron.com/category/watch/iron-cinema/">Iron Cinema With Vlad Yudin</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_19_5bf7ce759b133" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="630" href="https://generationiron.com/category/watch/muscle-rants/">Muscle Rants</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_20_5bf7ce759b1eb" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="632" href="https://generationiron.com/category/watch/no-flex-zone/">No Flex Zone</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_21_5bf7ce759b2a2" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="14026" href="https://generationiron.com/category/watch/offseason-with-the-currys/">Offseason With The Currys</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_22_5bf7ce759b359" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="12246" href="https://generationiron.com/category/watch/one-on-one-with-phil-heath/">One On One With Phil Heath</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_23_5bf7ce759b412" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="639" href="https://generationiron.com/category/watch/jim-stoppani/">One-on-One With Jim Stoppani</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_24_5bf7ce759b49d" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1729" href="https://generationiron.com/category/watch/power-30-watch/">Power 30</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_25_5bf7ce759b560" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="6827" href="https://generationiron.com/category/watch/professor-smalls/">Professor Smalls</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_26_5bf7ce759b61a" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1622" href="https://generationiron.com/category/watch/pros-vs-cons/">Pros Vs Cons</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_27_5bf7ce759b6d5" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="2019" href="https://generationiron.com/category/watch/sex-love-bodybuilding/">Sex Love &amp; Bodybuilding</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_28_5bf7ce759b78f" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="10929" href="https://generationiron.com/category/watch/all-eyes-on-olympia/">Stanimal: All Eyes On Olympia</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_29_5bf7ce759b84a" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="631" href="https://generationiron.com/category/watch/gregg-valentino/">Storytime With Gregg Valentino</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_30_5bf7ce759b914" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="638" href="https://generationiron.com/category/watch/straight-facts/">Straight Facts</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_31_5bf7ce759b9ce" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1877" href="https://generationiron.com/category/watch/the-beast/">The Beast</a><a class="mega-menu-sub-cat-td_uid_1_5bf7ce7597628" id="td_uid_32_5bf7ce759ba89" data-td_block_id="td_uid_1_5bf7ce7597628" data-td_filter_value="1982" href="https://generationiron.com/category/watch/the-breakdown/">The Breakdown</a></div></div><div id="td_uid_1_5bf7ce7597628" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_1_5ca799cfb7981_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_1_5ca799cfb7981"><script>var block_td_uid_1_5ca799cfb7981 = new tdBlock();
+block_td_uid_1_5ca799cfb7981.id = "td_uid_1_5ca799cfb7981";
+block_td_uid_1_5ca799cfb7981.atts = '{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"625","category_ids":"","custom_title":"","custom_url":"","show_child_cat":50,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_1_5ca799cfb7981_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_1_5ca799cfb7981_rand","tdc_css_class_style":"td_uid_1_5ca799cfb7981_rand_style","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
+block_td_uid_1_5ca799cfb7981.td_column_number = "3";
+block_td_uid_1_5ca799cfb7981.block_type = "td_block_mega_menu";
+block_td_uid_1_5ca799cfb7981.post_count = "4";
+block_td_uid_1_5ca799cfb7981.found_posts = "897";
+block_td_uid_1_5ca799cfb7981.header_color = "";
+block_td_uid_1_5ca799cfb7981.ajax_pagination_infinite_stop = "";
+block_td_uid_1_5ca799cfb7981.max_num_pages = "225";
+tdBlocksArray.push(block_td_uid_1_5ca799cfb7981);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_2_5ca799cfbc054" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="" href="https://generationiron.com/category/watch/">All</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_3_5ca799cfbc11b" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1964" href="https://generationiron.com/category/watch/original-docs/">All GI Original Films</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_4_5ca799cfbc211" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="2053" href="https://generationiron.com/category/watch/arash-rahbar-the-new-classic/">Arash Rahbar: The New Classic</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_5_5ca799cfbc2fb" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="2032" href="https://generationiron.com/category/watch/arnold-classic-moments/">Arnold Classic Moments</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_6_5ca799cfbc3d9" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="635" href="https://generationiron.com/category/watch/bikini-diaries/">Bikini Diaries</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_7_5ca799cfbc4b4" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="2028" href="https://generationiron.com/category/watch/bodybuilding-chronicles/">Bodybuilding Chronicles</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_8_5ca799cfbc569" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="11277" href="https://generationiron.com/category/watch/conversation-with-andre-ferguson/">Conversation With Andre Ferguson</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_9_5ca799cfbc645" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="6509" href="https://generationiron.com/category/watch/a-conversation-with-nick-trigili/">Conversation With Nick Trigili</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_10_5ca799cfbc725" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="634" href="https://generationiron.com/category/watch/east-coast-mecca/">East Coast Mecca</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_11_5ca799cfbc7fd" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1483" href="https://generationiron.com/category/watch/flex-on-em/">Flex On ‘Em</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_12_5ca799cfbc8d5" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1711" href="https://generationiron.com/category/watch/flex-wheeler-the-comeback-diaries/">Flex Wheeler: The Comeback Diaries</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_13_5ca799cfbc9b6" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1865" href="https://generationiron.com/category/watch/gaspari-the-new-era/">Gaspari: The New Era</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_14_5ca799cfbca8d" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="636" href="https://generationiron.com/category/watch/gi-exclusive/">GI Exclusives</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_15_5ca799cfbcb66" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1888" href="https://generationiron.com/category/watch/gi-spotlight-golds-gym/">GI Spotlight: Gold’s Gym</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_16_5ca799cfbcc3d" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="629" href="https://generationiron.com/category/watch/gi-weekly/">GI Weekly</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_17_5ca799cfbcd15" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="16040" href="https://generationiron.com/category/watch/hunt-for-hardcore/">Hunt For Hardcore</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_18_5ca799cfbcdf5" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1902" href="https://generationiron.com/category/watch/i-am-a-bodybuilder/">I Am A Bodybuilder</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_19_5ca799cfbcece" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="474" href="https://generationiron.com/category/watch/iron-cinema/">Iron Cinema With Vlad Yudin</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_20_5ca799cfbcfac" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="630" href="https://generationiron.com/category/watch/muscle-rants/">Muscle Rants</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_21_5ca799cfbd086" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="632" href="https://generationiron.com/category/watch/no-flex-zone/">No Flex Zone</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_22_5ca799cfbd169" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="14026" href="https://generationiron.com/category/watch/offseason-with-the-currys/">Offseason With The Currys</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_23_5ca799cfbd23a" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="12246" href="https://generationiron.com/category/watch/one-on-one-with-phil-heath/">One On One With Phil Heath</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_24_5ca799cfbd30b" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="639" href="https://generationiron.com/category/watch/jim-stoppani/">One-on-One With Jim Stoppani</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_25_5ca799cfbd3dc" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1729" href="https://generationiron.com/category/watch/power-30-watch/">Power 30</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_26_5ca799cfbd4b0" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="6827" href="https://generationiron.com/category/watch/professor-smalls/">Professor Smalls</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_27_5ca799cfbd59f" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1622" href="https://generationiron.com/category/watch/pros-vs-cons/">Pros Vs Cons</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_28_5ca799cfbd680" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="2019" href="https://generationiron.com/category/watch/sex-love-bodybuilding/">Sex Love &amp; Bodybuilding</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_29_5ca799cfbd75c" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="10929" href="https://generationiron.com/category/watch/all-eyes-on-olympia/">Stanimal: All Eyes On Olympia</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_30_5ca799cfbd830" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="631" href="https://generationiron.com/category/watch/gregg-valentino/">Storytime With Gregg Valentino</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_31_5ca799cfbd8f0" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="638" href="https://generationiron.com/category/watch/straight-facts/">Straight Facts</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_32_5ca799cfbd9c7" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="14875" href="https://generationiron.com/category/watch/strength-wars/">Strength Wars</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_33_5ca799cfbdaa8" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1877" href="https://generationiron.com/category/watch/the-beast/">The Beast</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_34_5ca799cfbdb7e" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="14866" href="https://generationiron.com/category/watch/the-bodybuilding-coach/">The Bodybuilding Coach</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_35_5ca799cfbdc51" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1982" href="https://generationiron.com/category/watch/the-breakdown/">The Breakdown</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_36_5ca799cfbdd36" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1998" href="https://generationiron.com/category/watch/the-fred-biggie-smalls-show/">The Fred Biggie Smalls Show</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_37_5ca799cfbde33" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="640" href="https://generationiron.com/category/watch/lost-scenes/">The Lost Scenes</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_38_5ca799cfbdf13" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="14846" href="https://generationiron.com/category/watch/the-muscle-mogul/">The Muscle Mogul</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_39_5ca799cfbdff0" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="1615" href="https://generationiron.com/category/watch/this-or-that/">This Or That</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_40_5ca799cfbe0c4" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="637" href="https://generationiron.com/category/watch/train-big/">Train BIG</a><a class="mega-menu-sub-cat-td_uid_1_5ca799cfb7981" id="td_uid_41_5ca799cfbe1a9" data-td_block_id="td_uid_1_5ca799cfb7981" data-td_filter_value="633" href="https://generationiron.com/category/watch/kai-words-of-wisdom/">Words Of Wisdom</a></div></div><div id="td_uid_1_5ca799cfb7981" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://generationiron.com/watch-trailer-brandon-curry-stars-in-new-digital-series-off-season-with-the-currys/" rel="bookmark" title="WATCH TRAILER: Brandon Curry Stars In New Digital Series ‘Off Season With The Currys’"><img width="218" height="150" class="entry-thumb" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/maxresdefault-32-218x150.jpg" srcset="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/maxresdefault-32-218x150.jpg 218w, https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/maxresdefault-32-436x300.jpg 436w" sizes="(-webkit-min-device-pixel-ratio: 2) 436px, (min-resolution: 192dpi) 436px, 218px" alt="" title="WATCH TRAILER: Brandon Curry Stars In New Digital Series ‘Off Season With The Currys’"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div>                <a href="https://generationiron.com/category/watch/" class="td-post-category">Originals</a>            </div>
+                <div class="td-module-thumb"><a href="https://generationiron.com/strength-wars-powerlifter-vs-street-workout-rematch-s2-ep7/" rel="bookmark" title="Strength Wars: Powerlifter Vs Street Workout REMATCH! (S2 EP7)"><img width="218" height="150" class="entry-thumb" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/04/maxresdefault-12-218x150.jpg" srcset="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/04/maxresdefault-12-218x150.jpg 218w, https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/04/maxresdefault-12-436x300.jpg 436w" sizes="(-webkit-min-device-pixel-ratio: 2) 436px, (min-resolution: 192dpi) 436px, 218px" alt="" title="Strength Wars: Powerlifter Vs Street Workout REMATCH! (S2 EP7)"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div>                <a href="https://generationiron.com/category/watch/strength-wars/" class="td-post-category">Strength Wars</a>            </div>
 
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://generationiron.com/watch-trailer-brandon-curry-stars-in-new-digital-series-off-season-with-the-currys/" rel="bookmark" title="WATCH TRAILER: Brandon Curry Stars In New Digital Series ‘Off Season With The Currys’">WATCH TRAILER: Brandon Curry Stars In New Digital Series ‘Off Season…</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="https://generationiron.com/strength-wars-powerlifter-vs-street-workout-rematch-s2-ep7/" rel="bookmark" title="Strength Wars: Powerlifter Vs Street Workout REMATCH! (S2 EP7)">Strength Wars: Powerlifter Vs Street Workout REMATCH! (S2 EP7)</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://generationiron.com/watch-generation-iron-3-hadi-choopan-official-trailer/" rel="bookmark" title="WATCH: Generation Iron 3 Hadi Choopan Official Trailer"><img width="218" height="150" class="entry-thumb" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/GI-3-Hadi-Choopan-Trailer-ALT-YT-218x150.jpg" srcset="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/GI-3-Hadi-Choopan-Trailer-ALT-YT-218x150.jpg 218w, https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/GI-3-Hadi-Choopan-Trailer-ALT-YT-436x300.jpg 436w" sizes="(-webkit-min-device-pixel-ratio: 2) 436px, (min-resolution: 192dpi) 436px, 218px" alt="Hadi Choopan Generation Iron 3" title="WATCH: Generation Iron 3 Hadi Choopan Official Trailer"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div>                <a href="https://generationiron.com/category/watch/gi-exclusive/" class="td-post-category">GI Exclusives</a>            </div>
+                <div class="td-module-thumb"><a href="https://generationiron.com/hunt-for-hardcore-the-hardcore-facility-formerly-known-as-world-gym/" rel="bookmark" title="Hunt For Hardcore: The Hardcore Training Facility Formerly Known As World Gym (Episode 5)"><img width="218" height="150" class="entry-thumb" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/04/Hunt-For-Hardcore-World-Gym-FB-218x150.jpg" srcset="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/04/Hunt-For-Hardcore-World-Gym-FB-218x150.jpg 218w, https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/04/Hunt-For-Hardcore-World-Gym-FB-436x300.jpg 436w" sizes="(-webkit-min-device-pixel-ratio: 2) 436px, (min-resolution: 192dpi) 436px, 218px" alt="Hunt For Hardcore World Gym Rich Gaspari Generation Iron" title="Hunt For Hardcore: The Hardcore Training Facility Formerly Known As World Gym (Episode 5)"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div>                <a href="https://generationiron.com/category/watch/" class="td-post-category">Originals</a>            </div>
 
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://generationiron.com/watch-generation-iron-3-hadi-choopan-official-trailer/" rel="bookmark" title="WATCH: Generation Iron 3 Hadi Choopan Official Trailer">WATCH: Generation Iron 3 Hadi Choopan Official Trailer</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="https://generationiron.com/hunt-for-hardcore-the-hardcore-facility-formerly-known-as-world-gym/" rel="bookmark" title="Hunt For Hardcore: The Hardcore Training Facility Formerly Known As World Gym (Episode 5)">Hunt For Hardcore: The Hardcore Training Facility Formerly Known As World…</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://generationiron.com/watch-generation-iron-3-kai-greene-official-trailer/" rel="bookmark" title="WATCH: Generation Iron 3 Kai Greene Official Trailer"><img width="218" height="150" class="entry-thumb" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/maxresdefault-23-218x150.jpg" srcset="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/maxresdefault-23-218x150.jpg 218w, https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/maxresdefault-23-436x300.jpg 436w" sizes="(-webkit-min-device-pixel-ratio: 2) 436px, (min-resolution: 192dpi) 436px, 218px" alt="" title="WATCH: Generation Iron 3 Kai Greene Official Trailer"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div>                <a href="https://generationiron.com/category/watch/gi-exclusive/" class="td-post-category">GI Exclusives</a>            </div>
+                <div class="td-module-thumb"><a href="https://generationiron.com/the-bodybuilding-coach-complete-guide-to-getting-huge-arms/" rel="bookmark" title="The Bodybuilding Coach: Complete Guide To Getting Huge Arms"><img width="218" height="150" class="entry-thumb" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/04/maxresdefault-8-218x150.jpg" srcset="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/04/maxresdefault-8-218x150.jpg 218w, https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/04/maxresdefault-8-436x300.jpg 436w" sizes="(-webkit-min-device-pixel-ratio: 2) 436px, (min-resolution: 192dpi) 436px, 218px" alt="" title="The Bodybuilding Coach: Complete Guide To Getting Huge Arms"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div>                <a href="https://generationiron.com/category/watch/" class="td-post-category">Originals</a>            </div>
 
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://generationiron.com/watch-generation-iron-3-kai-greene-official-trailer/" rel="bookmark" title="WATCH: Generation Iron 3 Kai Greene Official Trailer">WATCH: Generation Iron 3 Kai Greene Official Trailer</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="https://generationiron.com/the-bodybuilding-coach-complete-guide-to-getting-huge-arms/" rel="bookmark" title="The Bodybuilding Coach: Complete Guide To Getting Huge Arms">The Bodybuilding Coach: Complete Guide To Getting Huge Arms</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://generationiron.com/watch-generation-iron-3-regan-grimes-official-trailer/" rel="bookmark" title="WATCH: Generation Iron 3 Regan Grimes Official Trailer"><img width="218" height="150" class="entry-thumb" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/maxresdefault-20-218x150.jpg" srcset="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/maxresdefault-20-218x150.jpg 218w, https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2018/11/maxresdefault-20-436x300.jpg 436w" sizes="(-webkit-min-device-pixel-ratio: 2) 436px, (min-resolution: 192dpi) 436px, 218px" alt="" title="WATCH: Generation Iron 3 Regan Grimes Official Trailer"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div>                <a href="https://generationiron.com/category/watch/gi-exclusive/" class="td-post-category">GI Exclusives</a>            </div>
+                <div class="td-module-thumb"><a href="https://generationiron.com/watch-ifbb-indy-pro-2019-final-results-report-analysis/" rel="bookmark" title="WATCH: IFBB Indy Pro 2019 Final Results Report &amp; Analysis"><img width="218" height="150" class="entry-thumb" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/03/IFBB-Indy-Pro-2019-Results-FB-218x150.jpg" srcset="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/03/IFBB-Indy-Pro-2019-Results-FB-218x150.jpg 218w, https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/uploads/2019/03/IFBB-Indy-Pro-2019-Results-FB-436x300.jpg 436w" sizes="(-webkit-min-device-pixel-ratio: 2) 436px, (min-resolution: 192dpi) 436px, 218px" alt="IFBB Indy Pro 2019 Results Generation Iron" title="WATCH: IFBB Indy Pro 2019 Final Results Report &amp; Analysis"><span class="td-video-play-ico"><img width="40" height="40" class="td-retina" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"></span></a></div>                <a href="https://generationiron.com/category/watch/gi-exclusive/" class="td-post-category">GI Exclusives</a>            </div>
 
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://generationiron.com/watch-generation-iron-3-regan-grimes-official-trailer/" rel="bookmark" title="WATCH: Generation Iron 3 Regan Grimes Official Trailer">WATCH: Generation Iron 3 Regan Grimes Official Trailer</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="https://generationiron.com/watch-ifbb-indy-pro-2019-final-results-report-analysis/" rel="bookmark" title="WATCH: IFBB Indy Pro 2019 Final Results Report &amp; Analysis">WATCH: IFBB Indy Pro 2019 Final Results Report &amp; Analysis</a></h3>            </div>
         </div>
-        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_5bf7ce7597628" data-td_block_id="td_uid_1_5bf7ce7597628"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_1_5bf7ce7597628" data-td_block_id="td_uid_1_5bf7ce7597628"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_5ca799cfb7981" data-td_block_id="td_uid_1_5ca799cfb7981"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_1_5ca799cfb7981" data-td_block_id="td_uid_1_5ca799cfb7981"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-43263"><a>Profiles</a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-61804"><a href="https://generationiron.com/network/">The Network</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-28500"><a href="https://generationiron.com/team-generation-iron/">Team GI</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-45115"><a href="https://generationiron.com/content-partners/">GI Content Partners</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-37001"><a href="https://generationiron.com/generation-irons-bodybuilding-awards/">Bodybuilding Awards</a>
 	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-60351"><a href="https://generationiron.com/bodybuilding-awards-2018/">2018 Awards</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-54046"><a href="https://generationiron.com/bodybuilding-awards-2017/">2017 Awards</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-54045"><a href="https://generationiron.com/bodybuilding-awards/">2016 Awards</a></li>
 	</ul>
@@ -1369,17 +1228,21 @@ tdBlocksArray.push(block_td_uid_1_5bf7ce7597628);
 		<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-57812"><a href="https://generationiron.com/power-30/">2017 List</a></li>
 	</ul>
 </li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-60005"><a href="https://generationiron.com/gi-show/">GI Show</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-28552"><a href="https://generationiron.com/subscribe/">Subscribe</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-28473"><a href="https://generationiron.com/advertise-with-us/">Advertise</a></li>
 <li class="shopcss menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-28290"><a href="https://shop.generationiron.com/">SHOP</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-52500"><a href="https://generationiron.com/gi-international/"><i class="fa fa-globe"></i>International</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-52500"><a href="https://generationiron.com/gi-brands/"><i class="fa fa-globe"></i>GI Brands</a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-61805"><a href="https://www.youtube.com/user/BodybuildingRev">Strength Wars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-61806"><a href="https://gymfuckery.com/">Gym F#*kery</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-52501"><a href="https://generationiron.com/brasil/">GI Brasil</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-52502"><a href="https://generationiron.com/persia/">GI Persia</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-53172"><a href="https://generationiron.com/ru/">GI Russian</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-57398"><a href="https://www.instagram.com/generationironarabic/?hl=en">GI Arabic</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-57398"><a href="https://www.instagram.com/generationiron.arabic/">GI Arabic</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-61105"><a href="https://www.instagram.com/generationironjp/?hl=en">GI Japan</a></li>
 </ul>
 </li>
 </ul></div></div>
@@ -1416,7 +1279,7 @@ tdBlocksArray.push(block_td_uid_1_5bf7ce7597628);
         <div class="td-header-container td-header-row td-header-header">
             <div class="td-header-sp-recs">
                 <div class="td-header-rec-wrap">
-    <div class="td-a-rec td-a-rec-id-header  td-rec-hide-on-m td-rec-hide-on-tl td-rec-hide-on-tp td_uid_33_5bf7ce759f10b_rand td_block_template_1"><div id="c6991_0_10" class="sam-container sam-place" data-sam="1"></div></div>
+    <div class="td-a-rec td-a-rec-id-header  td-rec-hide-on-m td-rec-hide-on-tl td-rec-hide-on-tp td_uid_42_5ca799cfc2e04_rand td_block_template_1"><div id="c4825_0_10" class="sam-container sam-place" data-sam="1"></div></div>
 </div>            </div>
         </div>
     </div>
@@ -1510,7 +1373,7 @@ Email: <a href="mailto:info@generationiron.com">info@generationiron.com</a></p>
             </a>
         </span>
         <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.instagram.com/generationironofficial" title="Instagram">
+            <a target="_blank" href="https://www.instagram.com/generationiron" title="Instagram">
                 <i class="td-icon-font td-icon-instagram"></i>
             </a>
         </span>
@@ -1535,10 +1398,10 @@ Email: <a href="mailto:info@generationiron.com">info@generationiron.com</a></p>
                 <div class="td-pb-span td-sub-footer-menu">
                         <div class="menu-footer-container"><ul id="menu-footer" class="td-subfooter-menu"><li id="menu-item-28275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-28275"><a href="https://generationiron.com/network/">The Network</a></li>
 <li id="menu-item-28276" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-28276"><a href="https://generationiron.com/write-generation-iron/">Write For Us</a></li>
-<li id="menu-item-28278" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-28278"><a href="https://generationiron.com/brand-ambassador-program/">Ambassador Program</a></li>
 <li id="menu-item-28568" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item td-menu-item td-normal-menu menu-item-28568"><a href="https://generationiron.com/privacy-policy/">Privacy Policy</a></li>
 <li id="menu-item-28571" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-28571"><a href="https://generationiron.com/dmca-policy/">DMCA Policy</a></li>
 <li id="menu-item-28279" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-28279"><a href="https://generationiron.com/contact-us/">Contact</a></li>
+<li id="menu-item-62756" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-62756"><a href="https://generationiron.com/disclaimer/">DISCLAIMER</a></li>
 </ul></div>                </div>
 
                 <div class="td-pb-span td-sub-footer-copy">
@@ -1549,7 +1412,7 @@ Email: <a href="mailto:info@generationiron.com">info@generationiron.com</a></p>
 </div><!--close td-outer-wrap-->
 <!--------mobile sticky banner--------->
 <div id="mobile-bottom-banner">
-	<div id="c4578_0_11" class="sam-container sam-place" data-sam="1"></div></div>
+	<div id="c6835_0_11" class="sam-container sam-place" data-sam="1"></div></div>
 
 
 <!-- Start Klaviyo // Plugin Version: 1.3.2 -->
@@ -1572,7 +1435,7 @@ _learnq.push(["account", "NpdZP9"]);
         Version: 8.1.1 (rara)
         Deploy mode: deploy
         
-        uid: 5bf7ce75a3037
+        uid: 5ca799cfc74db
     -->
 
     
@@ -1718,8 +1581,8 @@ var superpwa_sw = {"url":"\/superpwa-sw-1.js"};
 </script>
 <script type="text/javascript" src="https://generationiron.com/wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js"></script>
 <script type="text/javascript" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=8.1.1"></script>
-<script type="text/javascript" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-includes/js/comment-reply.js?ver=4.8.4"></script>
-<script type="text/javascript" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-includes/js/wp-embed.js?ver=4.8.4"></script>
+<script type="text/javascript" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-includes/js/comment-reply.min.js?ver=4.8.9"></script>
+<script type="text/javascript" src="https://cdn2-thevladarcompany.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=4.8.9"></script>
 
 <!-- JS generated by theme -->
 
@@ -1781,7 +1644,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/pro
 
 Page Caching using disk 
 Content Delivery Network via cdn2-thevladarcompany.netdna-ssl.com
-Database Caching 55/107 queries in 0.061 seconds using disk
+Database Caching using disk
 
-Served from: generationiron.com @ 2018-11-23 04:55:01 by W3 Total Cache
+Served from: generationiron.com @ 2019-04-05 14:09:19 by W3 Total Cache
 --></body></html>
