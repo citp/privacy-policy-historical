@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemds.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423150837id_/https%3A//www.ratemds.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemds.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406003459id_/https%3A//www.ratemds.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RateMDs
 
@@ -38,6 +38,12 @@
 #### Security
 
   * Your RateMDs.com Account Information is password-protected for your privacy and security.
+
+
+
+#### Google reCaptcha
+
+  * We use the reCAPTCHA service provided by Google Inc. (Google) to protect your internet queries to this site. This plugin determines whether the query was made by a person in order to prevent certain website functions from being abused by spam bots. For the analysis, reCAPTCHA evaluates various information (e.g. IP address, how long the visitor has been on the website, or mouse movements made by the user). The data collected during the analysis will be forwarded to Google. By using the RateMDs.com, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For more information about Google reCAPTCHA and Google’s privacy policy, please visit the following links: 
 
 
 
