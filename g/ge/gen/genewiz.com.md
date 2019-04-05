@@ -1,66 +1,138 @@
-> *The following text is extracted and transformed from the genewiz.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501201409id_/http%3A//www.genewiz.com/public/US-EU-Safe-Harbor-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genewiz.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405170527id_/https%3A//www.genewiz.com/en/Public/Company/Policies/Privacy-Policy) for the most accurate reproduction.*
 
-# US-EU Safe Harbor Privacy Policy - GENEWIZ
+# Privacy Policy - Company - GENEWIZ
 
-GENEWIZ, Inc. and its affiliates (the “Company”) are committed to upholding the highest ethical standards in its business practices and strives to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business. This Safe Harbor Privacy Policy sets forth the privacy principles that the Company follows with respect to personal consumer information transferred from the European Economic Area (EEA) (which includes the twenty-eight member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) and from Switzerland to the United States.
+Last Updated: 05/18/2018
 
-The Company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the Company’s certification, please visit <http://www.export.gov/safeharbor/>.
+GENEWIZ (“us”, “we”, or “our”) values your privacy. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our websites including, [www.genewiz.com](https://www.genewiz.com/), [www.genewizweek.com](http://www.genewizweek.com/), clims.genewiz.com, and web.genewiz.com, and the choices you have associated with that data.
 
-**SAFE HARBOR**
+## I. Information Collection and Use
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles (the "U.S.-EU Safe Harbor Principles") and frequently asked questions (collectively the “U.S.-EU Safe Harbor Framework”) to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. The EEA also has recognized the U.S. Safe Harbor as providing adequate data protection. The United States Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland have agreed on a similar set of data protection principles (the "U.S.-Swiss Safe Harbor Principles") and frequently asked questions (collectively the “U.S.-Swiss Safe Harbor Framework) to enable U.S. companies to satisfy the requirement under Swiss law that adequate protection be given to personal information transferred from Switzerland to the United States. Consistent with its commitment to protect personal privacy, The Company adheres to the U.S.-EU and U.S.-Swiss Safe Harbor Principles (hereinafter “Safe Harbor Principles”). 
+### Data Collected
 
-**SCOPE**
+  1. #### Personal Data
 
-This Safe Harbor Privacy Policy (the "Policy") applies to all personal information received from customers, our employees, and others with whom we do business by the Company in the United States from the European Economic Area and from Switzerland, in any format including electronic, paper or verbal.
+When you navigate our website or use our services, you may be asked to provide certain personal information that can be used to contact or identify you. This information may include, but is not limited to:
 
-**DEFINITIONS**
+    * Email address
+    * First name and last name
+    * Country
+    * Institution
 
-  
+#### How does GENEWIZ Use Your Personal Data?
 
+This personal data may be used to contact you with newsletters, marketing, or promotional materials that may be of interest to you. You may opt out of receiving these communications from GENEWIZ at any time by following the communication preference link in our emails or by contacting us. We will never sell your personal data.
 
-For purposes of this Policy, the following definitions shall apply:
+  2. #### Site Analytics
 
-"Agent" means any third party that collects or uses personal information under the instructions of, and solely for, the Company or to which the Company discloses personal information for use on the Company's behalf.
+We may collect information on how you accessed and used our websites. This information may include information such as your computer’s Internet Protocol (IP) address, web browser use, location information, information accessed, time and date of visit, and other data.
 
-“Affiliates” means any individual, corporation, company, partnership, trust, limited liability company, association or other business entity which directly or indirectly controls, is controlled by or is under common control of the Company.
+#### How does GENEWIZ Use Site Analytics?
 
-"Personal information" means any information or set of information that identifies or is used by or on behalf of the Company to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information.
+Site analytics helps GENEWIZ better understand our audience and how they utilize our site. This information allows us to optimize our website for better user experience and create content tailored to your needs. 
 
-"Sensitive personal information" means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. In addition, the Company will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+  3. #### Cookies
 
-**PRIVACY PRINCIPLES**
+Cookies are small pieces of text sent by your web browser by a website you visit. A cookie file is stored in your web browser and allows us or a third-party to recognize you and make your next visit easier and the website more useful to you.
 
-  
+#### How Does GENEWIZ Use Cookies?
 
-
-The privacy principles in this Policy are based on the Safe Harbor Principles.
-
-NOTICE: Where the Company collects personal information directly from individuals in the EEA, it will inform them about the purposes for which it collects and uses personal information about them and the choices and means, if any, the Company offers individuals for limiting the use and disclosure of their personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to the Company, or as soon as practicable thereafter, and in any event before the Company uses or discloses the information for a purpose other than that for which it was originally collected or discloses information to a non-agent third party.
-
-Where the Company receives personal information from its subsidiaries, affiliates or other entities in the EEA, it will use and disclose such information in accordance with the notices provided by such entities and the choices made by the individuals to whom such personal information relates.
-
-**DATA INTEGRITY:**  The Company will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. The company will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. We will only collect and store personal information that is relevant to fulfill the purpose of the request and will retain such information no longer than appropriate to fulfill the purpose of the request.
-
-**SECURITY** : The Company will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
-
-**ENFORCEMENT** : The Company will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that the Company determines intentionally violates this policy will be subject to disciplinary action up to and including termination of employment.
-
-**CONTACT INFORMATION**
+    * **Analytical/performance cookies.** They allow us to recognize and count the number of visitors and see how visitors move around our websites. This helps us improve the way the websites work, for example, by ensuring that users are finding what they are looking for easily.
+    * **Functionality cookies.** These are used to recognize you when you return to our websites. This enables us to remember your information and auto-populate forms for you. 
+    * **Targeting cookies.** These cookies record your visit to the websites, the pages you have visited, and the links you have followed. We use this information to make content displayed more relevant to your interests. We may also share this information with third parties for this purpose.
 
   
 
 
-Questions or comments regarding this Policy should be submitted to the Company by mail as follows:
+### Third Party Cookies
 
-GENEWIZ, Inc.  
-Legal Department  
-115 Corporate Boulevard  
-South Plainfield, NJ 07080
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. We suggest you check the third-party websites for more information about their cookies and how to manage them.
+
+Below is a list of some of the third-party partners who may set cookies on your device:
+
+  1. #### Facebook
+
+Facebook uses cookies to anonymously record that a user has clicked on a Facebook ad link that referred the user to any GENEWIZ website.
+
+For further information: [https://www.facebook.com/help/cookies](https://www.facebook.com/policies/cookies/)
+
+  2. #### Twitter
+
+Twitter uses cookies to anonymously record that a user has clicked on a Twitter ad link that referred the user to any GENEWIZ website. 
+
+For further information: <https://twitter.com/privacy>
+
+  3. #### LinkedIn
+
+LinkedIn uses cookies to anonymously record that a user has clicked on a LinkedIn ad link that referred the user to any GENEWIZ website.
+
+For further information: <https://www.linkedin.com/legal/cookie-policy>
+
+  4. #### Google
+
+Google uses cookies to anonymously record that a user has clicked on a Google link that referred the user to any GENEWIZ website.
+
+For further information: [https://www.google.com/policies/technologies/cookies](https://www.google.com/policies/technologies/cookies/)
+
+  5. #### Hubspot
+
+We utilize a Hubspot tracking code that sets cookies when you visit our website. For further information:  
+<https://knowledge.hubspot.com/articles/KCS_Article/Reports/What-cookies-does-HubSpot-set-in-a-visitor-s-browser>
+
+  6. #### Hotjar
+
+We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on this [link](https://www.hotjar.com/legal/policies/privacy).
+
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site by following this [opt-out link](https://www.hotjar.com/legal/compliance/opt-out).
+
 
   
 
 
-**EFFECTIVE DATE**
+## II. Managing your data
 
-8 January, 2016
+#### Confidentiality
+
+GENEWIZ keeps client's Information with the same degree of care it holds its own confidential information, including written Information relating to the services; data; know-how; assay methods; technical and non-technical materials. GENEWIZ will not use the Information except for the services to be performed pursuant to the client's order or to optimize the client's customer experience. GENEWIZ will disclose the Information only to its officers, employees and affiliates directly concerned with the services, but will neither disclose the Information to any third party nor use the Information for any other purpose unless such materials: i. were known to GENEWIZ prior to the order, as evidenced by GENEWIZ's written records; ii. are or become generally available to the public through no fault of GENEWIZ; iii. are received by GENEWIZ in good faith from a third party, not in breach of an obligation of confidentiality; iv. are independently developed, discovered or arrived at by GENEWIZ without use of or reference to Confidential Information; or v. are disclosed, pursuant to a requirement of law.
+
+#### Intellectual Property
+
+At GENEWIZ, we understand that protection of our clients' IP is of the utmost importance. We stand by our emphasis on long-term collaborations and meet this challenge by providing comprehensive protective measures.
+
+Our strict company-wide IP policy is based upon:
+
+  * Preparing our management and research teams with the correct mindset for quality IP protection through rigorous, repeated training.
+  * Preventing information leaks in all possible forms.
+  * Distinct projects are physically isolated from each other through our laboratory organization.
+  * Laboratory notebooks are strictly monitored, regulated, and filed. Notebooks never leave the premises and can be returned to the client upon request. Digital data is protected by a comprehensive information security system encompassing our network.
+  * Ensuring employees' legal compliance with company regulations.
+  * All GENEWIZ employees are required to sign a CDA agreement before joining the company.
+
+
+
+#### Retaining and Transferring Data
+
+GENEWIZ will retain your data for as long as it is necessary to provide services to you and others or as long as required by laws and regulations. For EU Customers, some data may be transferred to other GENEWIZ facilities outside of the EU when it is necessary for service completion. In certain cases, GENEWIZ may disclose your data if required by the law. GENEWIZ will never transfer your data to a third party.
+
+#### Your Rights
+
+GENEWIZ aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us by phone, email, or on our websites “contact us” page.
+
+In certain circumstances, you have the right:
+
+  * To access and receive a copy of the Personal Data we hold about you
+  * To change any Personal Data held about you that is inaccurate
+  * To request the deletion of Personal Data held about you
+
+
+
+You have the right to data portability for the information you provide to GENEWIZ. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+
+  
+
+
+## III. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or on our website, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
