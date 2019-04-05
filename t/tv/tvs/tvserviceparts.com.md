@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvserviceparts.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722104026id_/https%3A//www.tvserviceparts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvserviceparts.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405055254id_/https%3A//www.tvserviceparts.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 * * *
 
@@ -49,7 +49,7 @@ TVserviceParts.com has the discretion to update this privacy policy at any time
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ### Contacting us
 
@@ -57,7 +57,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 TVserviceParts.com
 
-http://www.TVserviceParts.com
+https://www.TVserviceParts.com
 
 1522 Constitution Blvd Ste 164 Salinas, Ca. 93905
 
