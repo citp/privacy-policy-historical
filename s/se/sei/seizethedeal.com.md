@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020115402id_/https%3A//www.seizethedeal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405192002id_/https%3A//www.seizethedeal.com/privacy) for the most accurate reproduction.*
 
-# Seize the Deal | Boise, ID | Savings, Coupons on Local Restaurants, Entertainment, Retail, Spas and More!
+# Seize the Deal | Duluth, MN | Savings, Coupons on Local Restaurants, Entertainment, Retail, Spas and More!
 
 **READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.**
 
