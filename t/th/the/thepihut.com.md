@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907074421id_/https%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406000703id_/https%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – The Pi Hut
+# Privacy Statement | The Pi Hut
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from thepihut.com (the “Site”).
 
