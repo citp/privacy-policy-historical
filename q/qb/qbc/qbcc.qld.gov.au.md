@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205141226id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405152120id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Queensland Building and Construction Commission
 
@@ -54,13 +54,13 @@ Depending upon the type of enquiry, application or form you have submitted, we m
 
 
 
-QBCC may disclose the information you provide, to other agencies pursuant to Sections 28A and 28B of The QBCC Act 1991 (The Act)
+QBCC may disclose the information you provide, to other agencies pursuant to Sections 28A, 28B and 110(3) of The QBCC Act 1991 (The Act).
 
-Section 28A and 28B of The Act permit the QBCC to disclose the information you provide, including personal information, to relevant agencies for the following reasons;
+These sections of The Act permit the QBCC to disclose the information you provide, including personal information, to relevant agencies for the following reasons;
 
   * Information, in relation to a notifiable incident, is relevant to the functions of a health and safety regulator;
-  * To help the relevant agency perform its functions; or 
-  * The disclosure is reasonably necessary for protecting the health and safety of a person or property.
+  * The disclosure to any court, tribunal or authority is required to enable the agency  to perform its functions; or 
+  * The disclosure is reasonably necessary for protecting the health and safety of a person or property
 
 
 
@@ -70,19 +70,33 @@ If you're a QBCC licensee, your personal details may be used to send you importa
 
 The information you provide when submitting Notifiable Work may be made available to licensed plumbers and other licensed building industry practitioners for the purposes of conducting work at the property. The information may be stored by the QBCC and/or their agents and contractors and made available to the property owner or person who requested the work and will be used for administration, compliance, statistical research and evaluation of the plumbing and drainage laws. Your personal information may be disclosed to other government agencies, local government authorities and third parties for purposes relating to administering and monitoring compliance with the _Plumbing and Drainage Act 2002_. Personal information will otherwise only be disclosed to third parties with your consent or in accordance with the _Information Privacy Act 2009_.
 
+### Educational materials
+
+An object of the Queensland Building and Construction Commission Act 1991 (QBCC Act) is to be proactive in educating those who undertake building work and consumers.
+
+In regards to education, the QBCC Act states:
+
+Part 1 – Preliminary (3 Objects of the Act):
+
+(c) to provide support, education and advice for those who undertake building work and consumers;
+
+ Section 20J
+
+(j) providing and promoting consumer education;
+
+(k) publishing information about building products, including, for example— (i) the uses for which particular building products are not suitable; and (ii) how to use particular building products to ensure their use is safe and complies with relevant legislation;
+
+In line with the above object of the Act, QBCC may send (whether by phone, email, SMS, post or facsimile) you material it considers to provide support, education and advice. This may include updates to keep you abreast of industry news, opportunities to submit feedback on discussion papers, educational information and professional development opportunities including seminars and events. We may also send you information on behalf of Queensland Government departments including the Department of Housing and Public Works.
+
+We may use your personal details to email you a survey to help us measure your experience with the QBCC. 
+
 ### Safer Buildings and combustible cladding checklist
 
 The information, including personal information, you provide will be stored by the QBCC and shared with other government departments for the purposes of providing you with a response, for administration purposes, and compliance matters. Collected information will otherwise only be disclosed to third parties with your consent or unless authorised or required by law.
 
-### Marketing
+### Project bank accounts
 
-We will also send (whether by phone, email, SMS, post or facsimile), updates to keep you abreast of industry news, opportunities to submit feedback on discussion papers, educational information and professional development opportunities including seminars and events. We may also send you information on behalf of Queensland Government departments including Department of Housing and Public Works.
-
-We may use your personal details to email you a survey to help us measure your experience with the QBCC. 
-
-You may opt out at any time if you no longer wish to receive specific types, or all, marketing information. In order to do so, you will need to request that we no longer send marketing materials to you or disclose your information to other organisations for marketing purposes. 
-
-You can make this request by emailing [digitalsupport@qbcc.qld.gov.au](mailto:digitalsupport@qbcc.qld.gov.au), or by "unsubscribing" from the email or other marketing messages you no longer wish to receive.
+The QBCC collects information relating to project bank accounts pursuant to Chapter 2 of the _Building Industry Fairness (Security of Payment) Act 2017_. This information is used for the establishment, opening and closing of the project bank accounts, investigations and notifications in relation to the bank accounts. This information could be disclosed to other parties as stated on the relevant forms and may be subject to application for access under the _Right to Information Act 2009_ (RTI Act) and _Information Privacy Act 2009_ (IP Act).
 
 ### Disclosure of personal information
 
@@ -101,9 +115,7 @@ We may also disclose your personal information to third parties, including advis
 
 Some of the third parties to whom we disclose your personal information may be located outside Australia. For example, we may disclose your personal information to external national or overseas facilities in the course of conducting information and data processing, back up and scanning or for the purposes of obtaining other services from third parties.
 
-The countries in which these third parties are located will depend on the circumstances.  However, in the course of our ordinary business operations we commonly disclose personal information to third parties located in the United States of America. 
-
-We will not give your personal information to third parties without your consent, unless as set out  above or required by law.
+We will not give your personal information to third parties without your consent, unless as set out above or required by law.
 
 ### Insurance information statement
 
@@ -134,13 +146,13 @@ If you access an unsecured part of our websites, that is, a public page that doe
 
 
 
-#### Cookies
+### Cookies
 
 A 'cookie' is a small text file which is placed on your internet browser which we access each time you visit our website. When you visit the secured pages of our website (i.e. pages that you have to provide login details to access) we use cookies for security and personalisation purposes. When you visit the unsecured pages of our website (i.e. public pages that you can access without providing login details) we use cookies to obtain information about how our website is being used.
 
 You may change the settings on your browser to reject cookies, however, doing so will prevent you from access to the secured pages of our website.
 
-#### Security
+### Security
 
 Parts of this site transmit information securely across the internet. However this is not always feasible. We recognise that there may be risks transmitting information across the internet. We will notify you where personal information is not transmitted securely.
 
