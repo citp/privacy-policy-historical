@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vettery.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011095331id_/https%3A//www.vettery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vettery.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405115452id_/https%3A//www.vettery.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Vettery
 
