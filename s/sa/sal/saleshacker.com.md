@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227233508id_/https%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405092116id_/https%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sales Hacker
 
@@ -193,7 +193,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 ### **Contacting Us**
 
-If there are any questions regarding this privacy policy you may **[contact us](https://www.saleshacker.com/contact/)** using the information below.
+If you have questions regarding this privacy policy or about Sales Hacker’s privacy practices, you may **[contact us](https://www.saleshacker.com/contact/)** using the information below.
 
 Sales Hacker Inc.
 
@@ -203,4 +203,6 @@ Armonk, NY 10504
 
 U.S.A.
 
-privacy@saleshacker.com
+Request access to your personal data here: [Privacy Request Form](http://preferences.saleshacker.com/privacy_requests)
+
+Regarding other privacy-related matters, email us at [privacy@saleshacker.com](mailto:privacy@saleshacker.com)
