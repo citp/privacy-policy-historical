@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msa.edu.eg privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203094252id_/http%3A//msa.edu.eg/msauniversity/about-msa/welcome-to-msa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msa.edu.eg privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405124747id_/http%3A//www.msa.edu.eg/msauniversity/about-msa/welcome-to-msa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - MSA University
 
