@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keysnews.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228100803id_/http%3A//keysnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysnews.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405150126id_/https%3A//keysnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,12 +14,12 @@ We care about your privacy. We will not sell your name or email address to any t
 
 
 
-Keysnews.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Cooke Communications Florida, d/b/a The Citizen (“we” or “us”) through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy. Questions regarding privacy issues should be directed to our Publisher:
+Keysnews.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Adams Publishing Group (“we” or “us”) through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy. Questions regarding privacy issues should be directed to our Publisher:
 
-Paul Clarin  
+Richard Tamborrino  
 Publisher  
 The Citizen  
-E-mail: [pclarin@keysnews.com](mailto:pclarin@keysnews.com)
+E-mail: [rtamborrino@keysnews.com](mailto:rtamborrino@keysnews.com)
 
 ### Children’s Privacy
 
@@ -53,7 +53,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **Vendors and Service Providers.** To make our sites more valuable to our visitors, we may offer some features in conjunction with other providers (“Provider Partners”). In some instances, our Provider Partners will have the same access to your information as we do. Their use of the information will be subject to the terms of their respective privacy policies, which you can find on their websites.
 
-**Our Affiliates.** We may share the information that we collect from you with any wholly or majority-owned subsidiary of Cooke Communications so that we and they can provide you with products and services provided by these entities that we believe may be of interest to you.
+**Our Affiliates.** We may share the information that we collect from you with any wholly or majority-owned subsidiary of Adams Publishing Group so that we and they can provide you with products and services provided by these entities that we believe may be of interest to you.
 
 **Statistical Information.** Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our sites, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to third parties as we see fit.
 
