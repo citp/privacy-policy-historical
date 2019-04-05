@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bellacor.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908185346id_/https%3A//www.bellacor.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellacor.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405175807id_/https%3A//www.bellacor.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | BELLACOR.COM’S Commitment To Privacy
+# Privacy Policy | Bellacor
 
   
   
