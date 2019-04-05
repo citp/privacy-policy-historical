@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wetravel.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116222916id_/https%3A//www.wetravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetravel.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405162019id_/https%3A//www.wetravel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wetravel
 
 **Privacy Policy**
 
-This Privacy Policy was last updated on July 14, 2015.
+This Privacy Policy was last updated on May 04, 2018.
 
 Our Privacy Policy:
 
@@ -56,7 +56,7 @@ When you visit the Service, whether as a Member or a non-registered user just br
 
 Listed trips
 
-If you post a trip, we may publish that trip publicly via the Service and may enable third parties to publish your trip on their websites through the use of an HTML “widget” or other. We may also display the geographical location of your trip and your current location in the form of a map so that potential Travelers can see the general area and neighborhood of your Listing, but the actual street address will not be disclosed until you enter into a confirmed transaction with another Member. If you request to make a booking via the Service, Wetravel may share the following information about you with the applicable Wetravel Trip Organizer (“Trip Organizer”): your first and last name and a link to your Wetravel Account profile page. All of this information will enable the Trip Organizer to decide whether to confirm or reject your booking. When a Trip Organizer confirms a booking we may share pieces of the Trip Organizer’s Identify Information, including, but not limited to, full name, phone number, the Experience’s starting address and the Trip Organizer’s email address, with the applicable Traveler selected by the Trip Organizer and we may share pieces of the Traveler’s Identify Information with the Trip Organizer, including, but not limited to, full name, phone number and email address, so that the Traveler and Trip Organizer may contact one another directly. In no event is a Traveler's Billing Information shared with a Trip Organizer.
+If you post a trip, we may publish that trip publicly via the Service and may enable third parties to publish your trip on their websites through the use of an HTML “widget” or other. We may also display the geographical location of your trip and your current location so that potential Travelers can see the destination of your trip. If you request to make a booking via the Service, Wetravel may share pieces of the Traveler’s Identify Information with the Trip Organizer, including, but not limited to, full name, phone number and email address. When a Trip Organizer receives a booking we may share pieces of the Trip Organizer’s Identify Information, including, but not limited to, full name, phone number, the trip’s starting location and/or address and the Trip Organizer’s email address, with the applicable Traveler, so that the Traveler and Trip Organizer may contact one another directly. Booking or rejecting a customer's request is solely within the control and discretion of the Travel Organizer. Wetravel has no control or influence with the Travel Organizers as to their decisions. In no event is a Traveler's full payment information shared with a Trip Organizer.
 
 Testimonials
 
@@ -100,4 +100,44 @@ To keep your Personal Data accurate, current, and complete, please contact us as
 
 Please also feel free to contact us if you have any questions about Wetravel’s Privacy Policy or the information practices of this Site.
 
-If you have any questions about this Privacy Policy, please [contact us](https://www.wetravel.to/contact)
+Dispute Resolution
+
+If you have a complaint about WeTravel’s privacy practices you should write to us at: WeTravel Inc, Attn: Privacy Officer, 480 2nd Street, Suite #201, San Francisco, CA 94107 or by contacting us via [email](https://www.wetravel.com/contact). We will take reasonable steps to work with you to attempt to resolve your complaint.
+
+EEA, SWITZERLAND AND UK ONLY 
+
+The EU General Data Protection Regulation (GDPR) 
+
+In May 2018, a new data privacy law known as the EU General Data Protection Regulation (or the "GDPR") becomes effective. The GDPR requires WeTravel and Travel Organizers using the Service to provide Users with more information about the processing of their Personal Data. Here is what you need to know: 
+
+Legal grounds for processing your Personal Data The GDPR requires us to tell you about the legal ground we're relying on to process any Personal Data about you. The legal grounds for us processing your Personal Data for the purposes set out in this privacy policy above will typically be because: 
+
+• you provided your consent; • it is necessary for our contractual relationship; • the processing is necessary for us to comply with our legal or regulatory obligations; and/or • the processing is in our legitimate interest as a payment platform for travel organizers (for example, to protect the security and integrity of our systems and to provide you with customer service, etc.). 
+
+Transfers of Personal Data 
+
+As WeTravel is a global company, we may need to transfer your Personal Data outside of the country from which it was originally provided. This may be intra-group or to third parties that we work with who may be located in jurisdictions outside the EEA, Switzerland and the UK which have no data protection laws or laws that are less strict compared with those in Europe. Whenever we transfer Personal Data outside of the EEA, Switzerland or the UK, we take legally required steps to make sure that appropriate safeguards are in place to protect your Personal Data. Feel free to contact us for more information about the safeguards we have put in place to protect your Personal Data and privacy rights in these circumstances. 
+
+Personal Data retention 
+
+We retain your Personal Data for as long as necessary to provide you with our Services, or for other important purposes such as complying with legal obligations, resolving disputes, and enforcing our agreements. If you have an account with us, we will typically retain your Personal Data for a period of 90 days after you have requested that your account is closed or if it's been inactive for 7 years. 
+
+Your rights. 
+
+Data protection law provides you with rights in respect of Personal Data that we hold about you, including the right to request a copy of the Personal Data, request that we rectify, restrict or delete your Personal Data, object to profiling and unsubscribe from marketing communications. 
+
+For the most part, you can you can exercise these rights by logging in and visiting the Profile and My Trips pages or changing the "cookie settings" in your browser. If you can't find what you're looking for in the Profile or My Trips pages, please contact us. Please note that requests to exercise data protection rights will be assessed by us on a case-by-case basis. There may be circumstances where we are not legally required to comply with your request because of the laws in your jurisdiction or because of exemptions provided for in data protection legislation. 
+
+If you have a complaint about how we handle your Personal Data, please get in touch with us as set forth in section “Dispute Resolution” to explain. If you are not happy with how we have attempted to resolve your complaint, you may contact the relevant data protection authority. 
+
+WeTravel as a data controller and a data processor 
+
+EU data protection law makes a distinction between organizations that process Personal Data for their own purposes (known as "data controllers") and organizations that process personal data on behalf of other organizations (known as "data processors"). If you have a question or complaint about how your Personal Data is handled, these should always be directed to the relevant data controller since they are the ones with primary responsibility for your Personal Data. 
+
+WeTravel may act as either a data controller or a data processor in respect of your Personal Data, depending on the circumstances. 
+
+For example, if you create an account with us to organize travel, WeTravel will be a data controller in respect of the Personal Data that you provide as part of your account. We will also be a data controller of the Personal Data that we have obtained about the use of the Applications or WeTravel Properties, which could relate to Organizers or participants. We use this to conduct research and analysis to help better understand and serve Users of the Services as well as to improve our platform and might provide you with more targeted recommendations about travel offerings we think may be of interest to you. 
+
+However, if you register for an trip as a participant, we will process your Personal Data to help administer that trip on behalf of the Organizer (for example, sending confirmation, promotional and feedback emails, processing payments, etc.) and to help the Organizer target, and understand the success of, their trip and trip planning (for example, providing trip reports, using analytics to gain insights into the effectiveness of various sales channels, etc.). In these circumstances, WeTravel merely provides the "tools" for Organizers; WeTravel does not decide what Personal Data to request on registration forms, nor is it responsible for the continued accuracy any Personal Data provided. Any questions that you may have relating to your Personal Data and your rights under data protection law should therefore be directed to the Organizer as the data controller, not to WeTravel.
+
+If you have any questions about this Privacy Policy, please [contact us](https://www.wetravel.com/contact).
