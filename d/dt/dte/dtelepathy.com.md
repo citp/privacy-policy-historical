@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219162124id_/https%3A//www.dtelepathy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405221725id_/https%3A//www.dtelepathy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Telepathy
 
