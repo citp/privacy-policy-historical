@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618125849id_/https%3A//www.swimsuitsforall.com/help/privacyPolicyPopup.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405215203id_/https%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.*
 
-# 
-
-### PRIVACY POLICY
+# Swimsuits For All | Privacy Policy
 
 Privacy Policy Last updated on: July 25, 2017
 
-[swimsuitsforall.com](https://web.archive.org/) is part of the FULLBEAUTY Brands family of companies, which includes several different brands ("Brands", "we" or "us"). Your privacy is important to us and we are committed to protecting your privacy. In order to help our customers better understand our policies regarding the collection and use of your personal information, your options regarding the collection, use and disclosure of your personal information, and steps we have taken to secure your personal information. We have created this standardized Privacy Policy as well as [Terms of Use](https://www.swimsuitsforall.com/help/termsOfUse.php "swimsuitsforall Terms of Use") that apply to all our Brands and the websites maintained by the Brands (collectively the "Site"). By visiting the Site directly or through another site, you accept the practices described in this Privacy Policy. 
+[swimsuitsforall.com](https://web.archive.org/) is part of the FULLBEAUTY Brands family of companies, which includes several different brands ("Brands", "we" or "us"). Your privacy is important to us and we are committed to protecting your privacy. In order to help our customers better understand our policies regarding the collection and use of your personal information, your options regarding the collection, use and disclosure of your personal information, and steps we have taken to secure your personal information. We have created this standardized Privacy Policy as well as [Terms of Use](https://www.swimsuitsforall.com/help/termsOfUse.php "swimsuitsforall Terms of Use") that apply to all our Brands and the websites maintained by the Brands (collectively the "Site"). By visiting the Site directly or through another site, you accept the practices described in this Privacy Policy.
 
 We are not responsible for the content or privacy practices on any web site not operated by FULLBEAUTY Brands to which the Site links or that links to the Site. 
 
@@ -47,7 +45,7 @@ In October 2015, the European Court of Justice invalidated the U.S.-E.U. Safe Ha
 
 #### Who is FULLBEAUTY Brands
 
-FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: fullbeauty.com®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), swimsuitsforall® (swimsuitsforall.com), Roaman's® (roamans.com), KingSize® (kingsizedirect.com), BrylaneHome® (brylanehome.com) and Bargain Catalog Outlet – BCO® (bcoutlet.com). FULLBEAUTY Brands offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
+FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: fullbeauty.com®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), swimsuitsforall® (swimsuitsforall.com), Roaman's® (roamans.com), KingSize® (kingsizedirect.com) and BrylaneHome® (brylanehome.com). FULLBEAUTY Brands offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
 
 #### What Information Do We Collect?
 
@@ -115,73 +113,64 @@ You can update or correct your name, address, telephone number or email address 
 
 Brand | Edit Information Online | Postal Address | Customer Service Number | Fax Number  
 ---|---|---|---|---  
-Bargain Catalog Outlet |  Please visit My Account on  
-[www.bcoutlet.com](http://www.bcoutlet.com/) |  BCO  
+BrylaneHome | Please visit My Account on  
+[www.brylanehome.com](http://www.brylanehome.com/) | BrylaneHome  
 500 S Mesa Hills Dr  
-El Paso, TX 79912  |  (888) 289-2815
-
-  TDD Hearing Impaired:  
-(888) 355-3096 
-
-| (888) 355-3098  
-BrylaneHome |  Please visit My Account on  
-[www.brylanehome.com](http://www.brylanehome.com/) |  BrylaneHome  
-500 S Mesa Hills Dr  
-El Paso, TX 79912  |  (800) 677-0339
-
-  TDD Hearing Impaired:  
-(800) 528-5149 
-
-| (800) 528-5152  
-Jessica London |  Please visit My Account on  
-[www.jessicalondon.com](http://www.jessicalondon.com/) |  Jessica London  
-500 S Mesa Hills Dr  
-El Paso, TX 79912  |  (800) 441-1362
-
-  TDD Hearing Impaired:  
-(800) 978-8798 
-
-| (800) 448-5767  
-KingSize |  Please visit My Account on  
-[www.kingsizedirect.com](http://www.kingsizedirect.com/) |  KingSize  
-500 S Mesa Hills Dr  
-El Paso, TX 79912  |  (800) 677-0249
-
-  TDD Hearing Impaired:  
-(800) 682-8095 
-
-| (800) 682-8109  
-fullbeauty |  Please visit My Account on  
-[www.fullbeauty.com](http://www.fullbeauty.com/) |  fullbeauty  
-500 S Mesa Hills Dr  
-El Paso, TX 79912  |  (800) 400-5527
+El Paso, TX 79912 | (800) 677-0339
 
 TDD Hearing Impaired:  
-(800) 456-7161 
+(800) 528-5149
+
+| (800) 528-5152  
+Jessica London | Please visit My Account on  
+[www.jessicalondon.com](http://www.jessicalondon.com/) | Jessica London  
+500 S Mesa Hills Dr  
+El Paso, TX 79912 | (800) 441-1362
+
+TDD Hearing Impaired:  
+(800) 978-8798
+
+| (800) 448-5767  
+KingSize | Please visit My Account on  
+[www.kingsizedirect.com](http://www.kingsizedirect.com/) | KingSize  
+500 S Mesa Hills Dr  
+El Paso, TX 79912 | (800) 677-0249
+
+TDD Hearing Impaired:  
+(800) 682-8095
+
+| (800) 682-8109  
+fullbeauty | Please visit My Account on  
+[www.fullbeauty.com](http://www.fullbeauty.com/) | fullbeauty  
+500 S Mesa Hills Dr  
+El Paso, TX 79912 | (800) 400-5527
+
+TDD Hearing Impaired:  
+(800) 456-7161
 
 | (800) 456-9838  
-Roaman's |  Please visit My Account on  
-[www.roamans.com](http://www.roamans.com/) |  Roaman’s  
+Roaman's | Please visit My Account on  
+[www.roamans.com](http://www.roamans.com/) | Roaman’s  
 500 S Mesa Hills Dr  
-El Paso, TX 79912  |  (800) 677-0229
+El Paso, TX 79912 | (800) 677-0229
 
-  TDD Hearing Impaired:  
-(800) 274-0260 
+TDD Hearing Impaired:  
+(800) 274-0260
 
 | (800) 274-3102  
-Woman Within |  Please visit My Account on  
-[www.womanwithin.com](http://www.womanwithin.com/) |  Woman Within  
+Woman Within | Please visit My Account on  
+[www.womanwithin.com](http://www.womanwithin.com/) | Woman Within  
 500 S Mesa Hills Dr  
-El Paso, TX 79912  |  (800) 677-0216
+El Paso, TX 79912 | (800) 677-0216
 
-  TDD Hearing Impaired:  
-(800) 456-7161 
+TDD Hearing Impaired:  
+(800) 456-7161
 
 | (800) 456-9838  
-swimsuitsforall |  Please visit My Account on  
-[www.swimsuitsforall.com](https://www.swimsuitsforall.com/) |  swimsuitsforall  
+swimsuitsforall | Please visit My Account on  
+[www.swimsuitsforall.com](https://www.swimsuitsforall.com/) | swimsuitsforall  
 500 S Mesa Hills Dr  
-El Paso, TX 79912  | (888) 241-SWIM | NA  
+El Paso, TX 79912| (888) 241-SWIM| NA  
   
 #### How Can I Opt Out of Receiving Further Communications?
 
