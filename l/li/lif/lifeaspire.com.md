@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeaspire.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203171536id_/http%3A//www.lifeaspire.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeaspire.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405104529id_/http%3A//www.lifeaspire.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Life Aspire: Privacy Policy
 
@@ -10,7 +10,7 @@ LifeAspire.com may contain links to other websites. Once you leave the website w
 
 Advertisers on LifeAspire.com may use cookies on our site. Our partners include: Google Adsense.  
 Google Adsense, and as a 3rd party advertising vendor, uses cookies to aid in serving targeted ads on LifeAspire.com. Google's use of the DoubleClick cookie enables it to serve ads to users based on other sites as well as information from LifeAspire.com.  
-You are able to opt out of the use of the DoubleClick cookie by visiting the [AddSettings](http://www.google.com/settings/ads) or [aboutads.info](http://www.aboutads.info/). The advertising servers use a specific technology and algorithms for the advertisements and links that appear on LifeAspire.com send directly to your browsers. LifeAspire.com does not access or control cookies that are used by Google Adsense. 
+You are able to opt out of the use of the DoubleClick cookie by visiting the [AddSettings](https://www.google.com/settings/ads) or [aboutads.info](http://www.aboutads.info/). The advertising servers use a specific technology and algorithms for the advertisements and links that appear on LifeAspire.com send directly to your browsers. LifeAspire.com does not access or control cookies that are used by Google Adsense. 
 
 Please Note: Policy Section Updated February 25, 2015
 
