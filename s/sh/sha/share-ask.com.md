@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the share-ask.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906170207id_/http%3A//share-ask.com/privacy-policy-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the share-ask.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406012248id_/https%3A//share-ask.com/privacy-policy-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy – Privacy & Terms | Share-Ask
 
@@ -31,7 +31,7 @@ We do not use cookies.
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for [marketing](https://e76bdwsr88uko56k03w5okleqc.hop.clickbank.net/?tid=WORK+AT+HOME), advertising, or other uses.
 
 **Online Privacy Policy Only**
 
@@ -52,3 +52,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 > [Home](https://share-ask.com/)
 
 This policy is powered by Trust Guard PCI compliance.
+
+85total visits,1visits today
