@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilesmspk.net privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822161027id_/https%3A//www.mobilesmspk.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesmspk.net privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405133748id_/https%3A//www.mobilesmspk.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MobileSMSPK.net
 
@@ -59,4 +59,4 @@ You agree that all Collected Information (whether or not collected prior to or a
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact at: **admin@MobileSMSPK.net**
 
-(Last Updated on May 1, 2017) 
+(Last Updated on January 1, 2019) 
