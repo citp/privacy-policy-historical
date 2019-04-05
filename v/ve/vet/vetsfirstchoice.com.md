@@ -1,86 +1,101 @@
-> *The following text is extracted and transformed from the vetsfirstchoice.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226082738id_/http%3A//www.vetsfirstchoice.com/privacy-policy-2018) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetsfirstchoice.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405065720id_/http%3A//www.vetsfirstchoice.com/privacy-policy-2018) for the most accurate reproduction.*
 
 # Privacy Policy - Vets First Choice
 
-**VETS FIRST CHOICE PRIVACY POLICY**
+**PRIVACY POLICY**
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY.**
+Last Updated: February 7, 2019
 
-Last Updated: July 3, 2018.
+[CLICK HERE TO VIEW AND DOWNLOAD](http://s3.amazonaws.com/dev-wordpress-geb-vfcb2b-cdn/wp-content/uploads/PrivacyPolicy.pdf).
 
-Direct Vet Marketing, Inc. and its consolidated affiliates (hereinafter, “ **Vets First Choice** ,” “ **we** ,” “ **us** ”, “ **our** ”) is committed to protecting the privacy and security of your personal information.  This Privacy Policy (the **“Privacy Policy”** ) describes how we may collect, use and disclose your personal information when you use our group of web sites, including including [www.vetsfirstchoice.com](http://www.vetsfirstchoice.com/), [www.vparx.com](http://www.vparx.com/), [www.roadrunnerpharmacy.com](http://www.roadrunnerpharmacy.com/), [www.atlasdrugs.com](http://www.atlasdrugs.com/), [www.vetdata.com](http://www.vetdata.com/) other affiliated websites, our mobile applications and all content and services available through our website and our mobile applications (collectively, the “ **Site** ”). This Privacy Policy does not address personal information that you provide to us in other contexts ( _e.g._ , through a business relationship not handled through the Site).
+**Introduction**
 
-  1. **Acceptance of Privacy Policy.**
+At Covetrus, we’re committed to protecting the privacy and security of your information.  Whether you are a veterinary healthcare provider or a pet or horse owner, we know the privacy of your information is important. This policy is designed to help you understand what information we collect, why we collect it, how we use it, and how you can manage your information with us.  Covetrus strives to improve the health of companion animals and horses, and to improve the experience of the people involved along the way.  Information you provide to us allows us to alert pet owners when their pet’s medication is running out, to notify veterinary healthcare providers when a patient is overdue for a visit, or to make sure we always stock enough of the products you rely on us to provide.  In order to do these things, we collect both personal and non-personal information in a few different ways.
 
+**Information you provide to us**
 
+We collect information at several different points as we interact with you.  This includes when you create an account, order from the online store, chat with customer service, speak with your account representative, use one of our products or services, register for our newsletter, participate in promotions, or participate in surveys. The information we collect includes things like the name of a pet owner or veterinarian, a pet’s name, pet health updates, mailing addresses, email addresses, telephone numbers, payment information, and passwords.
 
-By using the Site, or downloading any application from the Site, you signify your acceptance of this Privacy Policy and the Vets First Choice Terms of Service (the **“Terms of Service”** ).  If you do not agree to the terms of this Privacy Policy, please do not use the Site.  Your continued use of the Site following the posting of changes to this Privacy Policy will mean that you accept those changes.
+**Information we collect when you use our product and services**
 
-  2. **How We Collect Information.**
+When you use our products and services, we collect information about how you are using them and how well those products and services are working.  For example, this can include usage data, device data, or patient information management systems (PIMS) data. Our products, websites and emails utilize technology to collect information.  This includes things like web beacon data in emails, and via cookies and flash cookie data and device data such as IP addresses, operating system types, and browser types when you use our website.  You can adjust your settings in your device browser to disable some of these if you prefer not to share this information.  We also collect data when you use our veterinary healthcare products, including information in user accounts.  Each of our veterinary healthcare products is subject to your consent when you subscribe to the product, and each product has its own terms and conditions.  You can withdraw your consent at any time by unsubscribing from the product and discontinuing use.
 
+**What we do with data – Veterinary healthcare providers**
 
+For veterinary healthcare providers accessing our website, platform, PIMS systems, or other products, or downloading apps from our websites, we collect data in user accounts, and we may access, use and archive information, including to ensure that digital prescriptions and patient records are always consistent, and that you have a complete view of your patient records.  We may share your clinic’s name, sales volume, and products sold with manufacturers and other industry partners in order to comply with contractual obligations, such as providing information to our manufacturers as an authorized distributor of a product subject to drug supply chain security and transparency reporting requirements, or for manufacturer marketing purposes. Our websites, platforms, products, and apps may also each be subject to additional terms and conditions.  In addition:
 
-We gather the following personal and non-personal information about users:
-
-(i) _Automatic Information_. This includes which pages of the Site were visited, the order in which the pages of the Site were visited, and the hyperlinks which were “clicked,” IP addresses and the general geographic location of the IP address, operating system, and browser software used by each Site user, and cookies. This type of data allows us to serve you better and more efficiently, personalize your experience with the Site and services offered on the Site, determine the length of time each user spends at any particular area of the Site, and ascertain the specific functionality that users choose to use. Cookies also may be used to facilitate a user’s log-in. If you reject our cookies, certain of the functions and conveniences of the Site may not work properly, but you do not have to accept our cookies in order to use portions of the Site.
-
-(ii) _Information You Provide to Us_. We collect personal information from users at several different points on this Site, including when you create an account, order from the online store, provide patient prescription information, utilize social media and live chat, subscribe to e-mail newsletters, send e-cards or e-mail, participate in contests, sweepstakes and other promotions, or participate in online polls and surveys.  This type of information may include names, mailing addresses, e-mail addresses, telephone numbers, credit card information, and passwords. You acknowledge and agree that you are required to provide accurate and current information when registering for an account on our Site.
-
-(iii) _Mobile Information_.  When you use or download our mobile apps or subscribe to SMS text alerts, we may receive information about your location from your mobile device, as well as your mobile device’s unique identifier.  We may use this information to provide location-based services, advertising, search results, or other personalized content directly to you.  You can turn off location services on your device when accessing our Site.
-
-(iv) _Newsletter Subscriptions_. When you subscribe to our newsletter, we use contact information collected during subscription to send you the newsletter.
-
-(v) _Promotions_. Any information you provide related to a contest, sweepstakes or other promotion to us or any third party administering the promotion is subject to the terms and conditions of that promotion, and we may collect and use that information, as may the third party administering the promotion. This type of information may include your name, mailing address, e-mail address, and telephone number.
-
-(vi) _Direct Communications with Us_. When you send an e-mail message to or otherwise contact us, we may use the information provided by you to respond to your communication and/or as described in this Privacy Policy, and we may archive that information.
-
-(vii) _Downloads_. When you download any application from this Site, we may access the information on your veterinary software patient information management system (PIMS), and we may collect, use and archive that information, as may the third party administering the application.
-
-  3. **How We Use and Disclose Information Collected Through the Site.** We use your personal information to provide the products and services offered through the Site, and to improve your user experience. Unless you give us permission to do so, we will not share your personal information with third parties other than as specified in this Privacy Policy. We may also share your personal information collected from the Site for the following purposes:
+  * We do not share personally identifiable information from your customers (including pet owner names, addresses, emails, telephone numbers, or health information on an individually identifiable animal), with any other veterinary healthcare providers, corporate veterinary groups, industry partners, manufacturers, or anyone else, without your express consent to share that information.
+  * We may share your own data with you, as a veterinary healthcare provider, so you can use that information to deliver the best possible care to your patients.
+  * We share data analytics, based on de-identified information, with manufacturers and industry partners. For example, this may include data such as total sales of a medication in a certain region or overall compliance percentages of animals with a particular disease, in order to identify trends in the market and inform overall animal care outcomes.
+  * We work with manufacturers on targeted manufacturer marketing programs. Your participation in any targeted manufacturer marketing program is on an opt-in basis, and any non-de-identified data would only be shared with manufacturers with your consent.
 
 
 
-(i) _Disclosures to Third Parties Assisting in Our Operations_. We may share your personal information under confidentiality agreements and any legally required data processing agreements with other companies that work with, or on behalf of, Vets First Choice to provide products and services, such as those who are providing email solutions, providing cloud hosting services, analyzing data and usage of the Site, or providing support and maintenance services for the Site, as well as legal, regulatory, audit and other professional advisors. These companies may use your personal information to assist us in our operations or for our legitimate business interests.  However, these companies do not have any independent right to share this information.
+**What we do with data – Pet and horse owners**
 
-(ii) _Business Transfers_. We may share your personal information with other business entities in connection with the sale, assignment, merger or other transfer of all or a portion of Vets First Choice’s business to such business entity.  We will require any such successor business entity to honor the terms of this Privacy Policy.
+For pet and horse owners accessing veterinarian storefronts or otherwise using our services, we collect data to help improve your user experience, and help identify and close gaps in your animal’s care. Information we collect provides insights, which we help turn into action, which means healthier and happier pets and horses!
 
-(iii) _Disclosures Under Special Circumstances_. We may share your personal information with government authorities in response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us. We also may share information when we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of the Site, our users, customers, or others; and in connection with our Terms of Service and other applicable agreements. In the event that we are legally compelled to disclose your information to a third party, we will attempt to notify you unless doing so would violate law or a court order. We reserve the right to report any suspected illegal activity to, and cooperate with, law enforcement individuals or entities for investigation or prosecution.
-
-(iv) _Promotional Offers_. Sometimes we send offers to our customers on behalf of our Site, our affiliate companies, or on behalf of other third-party partners or companies.  If you do not want promotional offers, you can always adjust your preferences by unsubscribing.
-
-  4. **Cookies and Web Beacons.** We use cookies and web beacons on our Site and in our emails to you. Cookies are unique identifiers that are transferred to your computer or mobile device to provide you with personalized features, advertising, and storage of items in your shopping basket when you are browsing the Site. Cookies may be used in many ways: they allow us to verify the login status of customers using products or services linked directly with our Site, track point of entry to point of registration for those users participating in our affiliate signup programs, and track and measure the success of a particular marketing campaign. Cookies also allow us to track overall site usage and determine areas users prefer, enabling us to make your visit to our Site easier by recognizing you when you return and helping to provide you with a customized experience.  You have the ability to accept or decline cookies by modifying the settings in your browser. If you choose to disable cookies, you may still use our Site; however, you may have limited access to some areas within our Site. For more information on how to manage cookies, click [here](http://www.aboutcookies.org/). We also provide you with an option to opt-out of receiving certain cookies associated with our online advertising. Flash cookies are also created by certain content on our pages using Adobe® Flash®, such as product tutorials. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).  When we send you emails, we may include a web beacon to allow us to determine the number of people who open our emails. When you click on a link in an email, we record this individual response to allow us to customize our offerings to you.
+  * We share information with your veterinarian, including any medication or prescription diet purchases you make, so that it can be added to your animal’s medical records.
+  * We use your information to provide customer service to you, like checking order status or working with your veterinarian to confirm your prescription.
+  * We do not share your personal information in any way that is not covered in this policy without getting your consent first.
 
 
 
-Some of our web pages, emails, and other online content may contain electronic images known as web beacons, also known as single-pixel GIFs, which are invisible graphical images. These web beacons allow us to count users who have visited our web pages, seen our ads, or opened our email. Web beacons collect only limited information, such as a cookie identifier, time and date of a page being viewed, and a description of the page on which the Web Beacon resides (the URL).
+**What we do with data – All users**
 
-  5. **Response to “Do Not Track” Signals.** Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates, although web browsers incorporate and activate this functionality in different ways, and it is not always clear whether users intend for these signals to be transmitted. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. Vets First Choice currently does not take action in response to these signals, but, if and when a standard is established and accepted, we may reassess how to respond to these signals.
-  6. **Linked Sites and Social Media.** Our Site may contain links and/or references to web sites and other services operated by third party companies that we believe may be of interest to you. We do not endorse, do not control, and are not responsible for the privacy practices of these third-party sites. Through the Site, you can also choose to access certain social media platforms that are owned and/or controlled by third parties, including, without limitation, Facebook, Instagram, and Twitter. When you elect to access and use any third-party website or social media platform, you will be sharing your information with those sites. The information that you share will be governed by the privacy policies and terms of service of the providers of such third-party website or social media platform. We have no control over, or liability or responsibility for the privacy practices or other actions of third-party sites, including social media, that may be enabled within and/or otherwise accessible through the Site.
-  7. **Security.** The security and confidentiality of your personal information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Despite our efforts to protect your personal information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the internet will be intercepted. As part of our efforts to protect your personal information, we have taken, or have taken through our service providers, the following steps:
+When you use our products and services, we may also use your information:
 
-
-
-(i) Requiring both a personal username and a password in order for you to access your Personal Information;
-
-(ii) Using firewalls to protect information held in our servers;
-
-(iii) Utilizing Secure Socket Layer (SSL) encryption in transmitting personal information to our servers.
-
-(iv) Monitoring the limited number of personnel who have potential access to personal information; and
-
-(v) Routinely backing up the systems to protect the integrity of personal information.
-
-  8. **Changes to This Privacy Policy.** This Privacy Policy may be revised from time to time as we add new features and services, as laws change, and as industry privacy and security best practices evolve. If we update the Privacy Policy, we will let you know about our changes we consider material by placing a note on the Site or you may receive an email with notification of the updated Privacy Policy. Please review this Privacy Policy periodically, and especially before you provide any personal information. This Privacy Policy was last updated on the date indicated above. Small changes or changes that do not significantly affect individual privacy interests may be made at any time and without prior notice.
-  9. **Children’s Privacy.**
+  * In order to maintain and improve our products and services by making sure they are working well.  For example, knowing which pages of our website frequently result in calls from confused customers helps us know where we need to improve our site design.
+  * To help develop new products and services.  For example, tracking the number of calls for basic pharmacy refills enabled us to develop a Refill App to make things easier on our pet owners.
+  * In order to personalize your experience with our products and services according to the information we collect.  This means we talk to cat owners about cats, and dog owners about dogs — or we remind you when your prescription needs to be refilled so that it arrives before your current medication runs out.
+  * To provide services to you, including through our contractors.  This includes sharing your address with providers of delivery services like UPS or FedEx, or sharing information with third parties that provide Covetrus with email solutions, cloud hosting services, payment processing, website support and maintenance, and legal, regulatory, or audit services.
+  * For regulatory compliance.  We maintain prescription records as required by state and federal law, and we may share your personal information to comply with state boards of pharmacy, DEA, FDA, and other regulatory agency laws, rules, and regulations.  This can include providing required personal information in connection with mandatory controlled substance prescription disclosures to state regulatory agencies, and providing disclosures of prescription records in response to state or federal regulatory agency request.
+  * For legal reasons.  We may share your personal information to comply with inquiries from governmental authorities, or to protect, defend, exercise legal rights or claims, in connection with end user license agreements, terms of service or other applicable agreements, or as otherwise required by law. If we are legally required to share your information, we will attempt to notify you, unless such notification would violate law or court order.
+  * In the event of business transfer. If Covetrus is involved in a sale of assets, merger, acquisition, business transfer, or other change of control, we may share your information with other entities involved. We will require any such successor business entity to honor this Privacy Policy, and we will notify you of any changes that could affect your information.  In the event of a business transfer, unless we are otherwise required by law to retain or provide your information to the other entity, you may request that your information be deleted from our records.
 
 
 
-(i) _Under Age 13_. We do not knowingly collect or retain personally identifiable information about persons under 13 years of age. Any person who provides their personal information to Vets First Choice via the Site represents that they are 13 years of age or older. The Site does not knowingly solicit or collect personally identifiable information online from children under the age of 13 without prior verifiable parental consent.  If we learn that a child under the age of 13 has submitted personally identifiable information online without parental consent, we will take all reasonable measures to delete such information from our databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 13, please contact us at legal@vetsfirstchoice.com.
+**Managing your data**
 
-(ii) _Under Age 18_.  We do not sell products on this Site for purchase by children under the age of 18.  Children under 18 years of age may only use this Site with the authorization of a parent or legal guardian. Minors under 18 years of age may have the personal information that they have provided to us through the Site deleted by contacting us at [legal@vetsfirstchoice.com](mailto:legal@vetsfirstchoice.com) and requesting deletion.  Please note that, while we make reasonable efforts to comply with such requests, deletion of your personal information does not ensure complete and comprehensive removal of that data from all our systems and back-up systems.
+  * You can adjust and manage the privacy of your information via our websites, which allow you to opt out of certain features that we offer. By adjusting your device or browser settings, you can manage information by adjusting your personal profile, your subscriptions, your cookies, and your location services.
+  * You can opt out of emails through links in the emails you receive from us. Every email you receive from us will give you the ability to unsubscribe from receiving future emails.
+  * All use of products is subject to the user consent in the product’s subscription terms and conditions for each product.  You can withdraw your consent at any time by unsubscribing from the product and discontinuing use.
+  * By Contacting Us. You can also contact us anytime at [support@Covetrus.com](mailto:support@newco.com) if you would like to change or update your personal information.  In some cases, we may have to keep certain information for legal or business reasons (like prescription records).
 
-  10. **Accessing, Changing or Deleting Your Personal Information.** If you would like to change, update, or delete your information from our systems, you can e-mail us at any time at support@vetsfirstchoice.com. Vets First Choice reserves the right, from time to time, to re-contact former users of the Site.
-  11. Website Visitors from Outside the United States. Vets First Choice and its servers are located in the United States and are subject to the applicable laws of the United States (where data privacy laws are less stringent than in the European Union and some other jurisdictions). If you choose to access or use the Site, you consent to the transfer, use and disclosure of information in accordance with this Privacy Policy and subject to such applicable laws.
-  12. **Contact.** If you have questions or concerns about this Privacy Policy or privacy practices on this Site, please do not hesitate to contact us at: Vets First Choice, 7 Custom House Street, Suite 5 Portland, ME 04101, or email us at: [Legal@vetsfirstchoice.com](mailto:Legal@vetsfirstchoice.com).
 
 
+**How we protect your data – Technical safeguards**
+
+The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your information. As part of our efforts to protect your information, we have technical safeguards in place across our products and services, which may include the following:
+
+  * Requiring a password or a unique token in order for you to access your personal information;
+  * Using firewalls to protect information held in our servers;
+  * Utilizing Secure Socket Layer (SSL) encryption in transmitting personal information to our servers;
+  * Limiting the number of personnel who have potential access to personal information; and
+  * Routinely backing up the systems to protect the integrity of personal information.
+
+
+
+There is always some risk that an unauthorized third party may find a way around our security systems. In the event of a security breach, the first thing we would do is notify you.  This notice would include what happened, what information was breached, what Covetrus is doing to respond, and who to contact with questions.
+
+**Protecting children’s privacy**
+
+Covetrus does not knowingly sell products to, solicit, collect or retain personal information about children under the age of 18 without parental consent.  If we learn that a child under 18 has submitted information to us without parental consent, we will take all reasonable measures to delete it from our databases and not use the information for any purpose (except where necessary to protect the child or others).  If you become aware of any personally identifiable information we have collected from children under 18, please contact us at _legal@Covetrus.com._
+
+**About this policy**
+
+We comply with data privacy regulations applicable in the jurisdictions in which we operate.  We review and may revise this policy from time to time as we add new features and services, as laws change, and as industry best practices evolve. We indicate the date the most recent changes were published on this page.  If we update the privacy policy with significant changes, we will let you know, for example by placing a note on our website. Please review this policy periodically, and especially before you provide any information to us.
+
+This Policy applies to website visitors, veterinary healthcare providers, pet and horse owners, application and product users, and other customers of the Covetrus, Inc. and affiliated entities.  This includes Covetrus Animal Health, Covetrus Software and Solutions, Covetrus Pharmacy Management, SmartPak, Roadrunner Pharmacy, Atlas Pharmaceuticals, and Veterinary Data Services (VetData) and other related entities and affiliates.  By using our website, downloading any application from our web site, or using our products or services, you signify your acceptance of this privacy policy.
+
+This Privacy Policy doesn’t apply to other companies that advertise our services, or to services offered by other companies, including those that may be linked to from our services.
+
+**How to contact us with questions**
+
+If you have any questions about this policy or our practices at Covetrus, please contact us.
+
+Covetrus, Inc.  
+7 Custom House Street  
+Portland, ME 04101
+
+Policy Updated: February 7, 2019
