@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230023918id_/https%3A//www.dnamagazine.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405032117id_/https%3A//www.dnamagazine.com.au/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DNA Magazine Australia
 
@@ -103,25 +103,35 @@ Our Amazon store is _DNA Magazine_. If you purchase from our Amazon store, Amazo
 
 
 
-You can view the [Amazon (AU) privacy policy here](https://www.amazon.com.au/gp/help/customer/display.html?ref_=v_sp_privacy_help&nodeId=468496).
+[Amazon (AU) privacy policy](https://www.amazon.com.au/gp/help/customer/display.html?ref_=v_sp_privacy_help&nodeId=468496)
 
 DNA is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.au and affiliated sites.
 
 **DNAnews and other Email Newsletters and Communications**
 
-We use MailChimp for email subscribers to this Website and for DNAstore and Subscription Management. You can view the [MailChimp privacy policy here](https://mailchimp.com/legal/privacy/), and they have a [Knowledge Base post specific to GDPR here](https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation). We do not sell the emails collected or give them away to any 3rd party. We will only use the emails for DNA newsletters; DNA marketing or promotional materials. You can unsubscribe at any time, and we will make certain to delete your data from our MailChimp dashboard.
+We use MailChimp for email subscribers to this Website and for DNAstore and Subscription Management. We do not sell the emails collected or give them away to any 3rd party. We will only use the emails for DNA newsletters; DNA marketing or promotional materials. You can unsubscribe at any time, and we will make certain to delete your data from our MailChimp dashboard.
+
+[MailChimp privacy policy](https://mailchimp.com/legal/privacy/)
+
+[Knowledge Base post specific to GDPR](https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation)
 
 **DNA Website Blog Comments**
 
-We use Disqus for comments on the DNA website. You can view the [Disqus privacy policy here,](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) and they have a [Knowledge Base post specific to GDPR here](https://blog.disqus.com/update-on-privacy-and-gdpr-compliance). You can [remove your account from Disqus](https://help.disqus.com/commenting/deleting-your-account) at any time, but Disqus does not delete your comments from the DNA blog. We will have to clean up by querying the wordpress database manually as at the time of this privacy policy we are unaware of any DGPR compliant plugin.
+We use Disqus for comments on the DNA website. They have a [Knowledge Base post specific to GDPR here](https://blog.disqus.com/update-on-privacy-and-gdpr-compliance). You can [remove your account from Disqus](https://help.disqus.com/commenting/deleting-your-account) at any time, but Disqus does not delete your comments from the DNA blog. We will have to clean up by querying the wordpress database manually as at the time of this privacy policy we are unaware of any DGPR compliant plugin.
+
+[Disqus privacy policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy)
 
 **DNA subscriptions**
 
-We use WooCommerce (Memberships and Subscriptions) for subscriptions to DNA magazine. You can cancel your membership at anytime, but this will not automatically delete your account login from our Website. We will manually remove your account when cancelled or requested. All Personal Data collected during the financial transaction is not stored by this Website and it handled by Stripe (Stripe Elements). You can view the [Stripe privacy policy here](https://stripe.com/au/privacy).
+We use WooCommerce (Memberships and Subscriptions) for subscriptions to DNA magazine. You can cancel your membership at anytime, but this will not automatically delete your account login from our Website. We will manually remove your account when cancelled or requested. All Personal Data collected during the financial transaction is not stored by this Website and it handled by Stripe (Stripe Elements).
+
+[Stripe privacy policy](https://stripe.com/au/privacy)
 
 **DNA website membership**
 
-We use WooCommerce (Memberships and Subscriptions) for registrations to the DNA website. You can cancel your membership at anytime, but this will not automatically delete your account login from our Website. We will manually remove your account when cancelled or requested. You can view the [WooCommerce privacy policy here](https://woocommerce.com/privacy-policy/).
+We use WooCommerce (Memberships and Subscriptions) for registrations to the DNA website. You can cancel your membership at anytime, but this will not automatically delete your account login from our Website. We will manually remove your account when cancelled or requested.
+
+[WooCommerce privacy policy](https://woocommerce.com/privacy-policy/)
 
 **DNAstore**
 
@@ -139,15 +149,21 @@ We use WooCommerce for processing purchases made through DNAstore.  You can can
 
 When using the Stripe payment gateway, you are not sharing your credit card information either with us, or  WooCommerce.
 
-You can view the [WooCommerce privacy policy here](https://woocommerce.com/privacy-policy/) and the [Stripe privacy policy here](https://stripe.com/au/privacy).
+[WooCommerce privacy policy](https://woocommerce.com/privacy-policy/)
+
+[Stripe privacy policy](https://stripe.com/au/privacy)
 
 **DNAsupport**
 
-We use FreshWorks (FreshDesk, FreshCaller and FreshChat) for all DNAsupport interactions with you. We will manually remove your details when cancelled or requested. You can view the [FreshWorks  privacy policy here](https://www.freshworks.com/privacy/).
+We use FreshWorks (FreshDesk, FreshCaller and FreshChat) for all DNAsupport interactions with you. We will manually remove your details when cancelled or requested.
+
+[FreshWorks  privacy policy](https://www.freshworks.com/privacy/)
+
+[Freshworks Data Processing Addendum](https://www.freshworks.com/data-processing-addendum/)
 
 **DNA mailing procurement**
 
-We use Guardian Mail Services for the mail processing and fulfilment of DNA monthly print subscriptions. You can view the [Guardian Mail privacy policy here](http://guardianmail.com.au/3.html). Information shared with Guardian Mail to fulfil subscription mailing each month includes:
+We use Guardian Mail Services for the mail processing and fulfilment of DNA monthly print subscriptions. Information shared with Guardian Mail to fulfil subscription mailing each month includes:
 
   * Name
   * Shipping Address
@@ -155,13 +171,19 @@ We use Guardian Mail Services for the mail processing and fulfilment of DNA mont
 
 
 
+[Guardian Mail privacy policy](http://guardianmail.com.au/3.html)
+
 **DNA App, Digital and Online Editions**
 
-We use Pocketmags (Jellyfish Connect Ltd) for all DNA Digital and Online Edition interactions with you. You can view the [Pocketmags privacy policy here](https://pocketmags.com/privacy-policy).
+We use Pocketmags (Jellyfish Connect Ltd) for all DNA Digital and Online Edition interactions with you.
+
+[Pocketmags privacy policy](https://pocketmags.com/privacy-policy)
 
 **Jetpack**
 
-We use Jetpack (part of Automattic) to back-up, secure and provide the additional features, listed below, to the Site. You can view the [Automattic  privacy policy here](https://automattic.com/privacy/).
+We use Jetpack (part of Automattic) to back-up, secure and provide the additional features, listed below, to the Site.
+
+[Automattic  privacy policy](https://automattic.com/privacy/)
 
 **– Activity Log**
 
@@ -339,5 +361,3 @@ This Privacy Policy may change from time to time. In the case of significant cha
   * Postal Address: PO Box 503, BAULKHAM HILLS NSW 1775, AUSTRALIA
 
 
-
-**Last update** : 24 May 2018
