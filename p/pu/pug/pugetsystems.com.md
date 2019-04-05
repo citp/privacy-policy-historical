@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pugetsystems.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229144801id_/https%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pugetsystems.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405083048id_/https%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://www.pugetsystems.com/)
 
 ## https://www.pugetsystems.com
 
@@ -25,7 +23,7 @@ This notice applies to all information collected or submitted on the [Puget Cust
 
 ## Data Security
 
-One of the biggest concerns in conducting business online is knowing that your credit card information is kept secure. Any time any personal information is submitted to us, our site uses full 128bit SSL encryption. This information is stored as plain text in our password protected SQL database, with the exception of credit card information. This information is encrypted before it is sent. Credit card information is not stored in our database, as we have no need to keep it once your order has been completed.
+One of the biggest concerns in conducting business online is knowing that your credit card information is kept secure. Any time any personal information is submitted to us, our site uses full 256bit SSL encryption. This information is stored as plain text in our password protected SQL database, with the exception of credit card information. This information is encrypted before it is sent. Credit card information is not stored in our database, as we have no need to keep it once your order has been completed.
 
 ## The Way We Use Information
 
@@ -42,6 +40,25 @@ Our traffic logging is the most complex of our systems. In short, every page vis
 When you first find our site, a variable called a "referrer" can tell us how you found us. We flag and log all external referrers to aid us in gauging the effectiveness of marketing campaigns.
 
 Every email sent to and from pugetsystems.com is analyzed. If it can be affiliated with a client account, it is logged to that account and stored on our server. Email headers and email content is logged and available for our review at any time.
+
+## Cookie Policy for Puget Systems
+
+#### What Are Cookies
+
+As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the sites functionality.
+
+#### Disabling Cookies
+
+You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.
+
+#### The Cookies We Set
+
+  * **Site preferences cookies** : In order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.
+
+  * **Google Analytics cookies** : This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
+
+
+
 
 ## How To Contact Us
 
