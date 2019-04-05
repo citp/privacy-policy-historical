@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecad.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172209id_/https%3A//www.filecad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecad.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405211618id_/https%3A//www.filecad.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Filecad
 
@@ -6,7 +6,9 @@ If you require any more information or have any questions about our privacy poli
 
 At www.filecad.com we consider the privacy of our visitors to be extremely important. This privacy policy ("Policy") document describes in detail the types of personal information is collected and recorded by www.filecad.com ("we" or "us") with respect to your access and use of filecad's online file storage and sharing service located at www.filecad.com and our desktop and mobile applications or softwares, so you can make an informed decision about using filecad service.
 
-We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used.
+At www.filecad.com we do not share, sell, rent, or distribute to any third party outside of our website with the exception to legal purposes, regulation, or governmental authority.
+
+We reserve the right to change the provisions of this Policy at any time. Any changes made to the above privacy policy are active as soon as they are updated. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used.
 
 ### What is Personal Information?
 
@@ -14,7 +16,9 @@ As used in this Policy, the term "personally identifiable information" means inf
 
 ### What Information Do We Collect?
 
-Active Collection: We collect information from you in various ways when you use the Service and Apps. For example, we collect information: (i) that you voluntarily provide to us (such as when you send us an email); and (ii) to which you provide us access. Such information may include personal information, such as your name, email address, date of birth, social network data and performance related data. When using our Apps we will collect information such as device type, operating system type and version. Personal and demographic information may also be collected if you provide such information in connection with posting data, providing access to your online groups and other activities in connection with the Service.
+Active Collection: We collect information from you in various ways when you use the Service and Apps. For example, we collect information: (i) that you voluntarily provide to us (such as when you send us an email); and (ii) to which you provide us access. Such information may include personal information, such as your name, email address, date of birth, social network data and performance related data. When using our Apps we will collect information such as device type, operating system type and version. Personal and demographic information may also be collected if you provide such information in connection with posting data, providing access to your online groups and other activities in connection with the Service. Any data supplied by our payment gateways in order to process your order may also be stored for each registered user. These include address data, company name, your payment account email and your full name.
+
+We do not collect and store any information such as credit card details.
 
 Passive Collection: When you use the Service and our Apps, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring website, and your activity on the Service. We may also automatically collect certain logistical information in server logs, including information about how you use various features of the Service and information about the number, frequency and length of each session.
 
@@ -35,6 +39,14 @@ www.filecad.com uses cookies to store information about visitors' preferences, t
   * __Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
 
+
+### Do we use other cookies?
+
+Some of our pages or sites may use additional or different cookies to the ones described above. If so the details of these will be provided in the specific cookie agreement notice for that particular page.
+
+### How to control Cookies?
+
+You can control and delete cookies if you wish to do so. For details on this please go to aboutcookies.org. You have the ability to delete all cookies that are already on your computer and most internet browsers have the ability to prevent them from being placed if configured to do so. As an added note, certain functionality on our site may not work as intended if this is done.
 
 ### How Do We Use the Personally Identifiable Information We Collect?
 
