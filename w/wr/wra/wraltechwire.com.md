@@ -1,215 +1,67 @@
-> *The following text is extracted and transformed from the wraltechwire.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624052716id_/http%3A//www.wral.com/rs/page/1020577) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wraltechwire.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406011329id_/http%3A//wraltechwire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: WRAL.com
+# Privacy Policy | WRAL TechWire
 
-##### _Last Updated and Effective Date: April 23, 2013_
+At WRAL TechWire we are committed to safeguarding and preserving the privacy of our visitors.
 
-This Privacy Policy does not govern the following features, activities or services provided for your convenience on WRAL.com, WRALSportsFan.com, HighSchoolOT.com, AmericanTobaccoHistoricDistrict.com, WRALTechWire.com and WILM-TV.com or other Services:
+This Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site and how we use cookies on this website.
 
-  * [eHarmony](http://www.eharmony.com/privacy/policy/)
-  * [FinancialContent](http://www.financialcontent.com/privacy.php)
-  * [Tributes](http://www.tributes.com/global/privacy)
-  * [WeatherCall](http://www.weathercall.net/wc_privacy.html)
+We do update this Policy from time to time so please do review this Policy regularly.
 
+## Information That We Collect
 
+In running and maintaining our website we may collect and process the following data about you:
 
-Please see the separate privacy policy for each service provider.
+  * Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
+  * Information provided voluntarily by you. For example, when you register for information or make a purchase.
+  * Information that you provide when you communicate with us by any means.
 
-We are committed to protecting your privacy. We know that you care about how Personal Information about you is used and shared, and we appreciate your trust that we will use that information carefully and sensibly in accordance with this Privacy Policy.
 
-This Privacy Policy governs the personally identifiable information (“Personal Information”) collected and used by the flagship website of Capitol Broadcasting Company, Inc. ("CBC," "we," "our," "us"), WRAL.com, WRALSportsFan.com, HighSchoolOT.com, AmericanTobaccoHistoricDistrict.com, WRALTechWire.com and WILM-TV.com ("Sites") and the various online and offline services, mobile applications ("apps"), widgets, social networking platforms, and any other services owned, operated or provided by CBC that have an authorized link to this Privacy Policy (collectively, "Services"). (For a list of our Services, [click here](http://cbc-raleigh.com/terms_use.asp).) By visiting or using our Services, you accept the practices described in this Privacy Policy. This Privacy Policy is hereby incorporated into CBC’s Terms of Use Agreement (“TOU”) by reference, which also governs our Services. Any capitalized terms not defined in this Privacy Policy will have the same meaning as defined in the TOU.
 
-  1. Your California Privacy Rights
-  2. Types of information we collect and use
-  3. Monitoring Technologies 
-  4. Disclosure of Personal Information to Third Parties
-  5. How we protect your Personal Information
-  6. Customized Content & Advertising 
-  7. Safeguarding Children’s Privacy
-  8. Your choices for the collection, use and sharing of your Personal Information
-  9. How to access, update, correct, or delete your Personal Information
-  10. Hyperlinks to third party websites
-  11. Notification of changes to the Privacy Policy
-  12. Contact Us/Report Misconduct
+## Use of Cookies
 
+Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer in order to assist us in improving our website.
 
+We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally; it is statistical data which does not identify any personal details whatsoever.
 
-#### General
+Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
-Our Services are designed and targeted to audiences in the U.S. and are governed by and operated in accordance with the laws of the U.S. If you are not a U.S. citizen or do not reside in the U.S., by using these Services and/or providing us with your Personal Information, you voluntarily consent to our collection, transfer, use, and disclosure of your Personal Information to the U.S. You also agree to waive any claims that may arise under your own national laws.
+You can adjust the settings on your computer to decline any cookies if you wish. This can be done within the “settings” section of your computer. For more information please read the advice at [AboutCookies.org](http://www.aboutcookies.org/).
 
-Our Services are generally targeted to adults. Unless we indicate otherwise, you must be at least 18 years old to register and to use the Services.
+## Use of Your Information
 
-#### 1\. Your California Privacy Rights
+We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:
 
-Under the California "Shine the Light Act," if you reside in California and have an established business relationship with us, you have the right to receive information about our online and offline opt-out/opt-in policies of sharing your Personal Information with affiliated entities or non-affiliated third parties, such as our advertisers, sponsors and promotional partners (collectively, "Advertisers") for direct marketing purposes. If you wish to learn about our opt-out/opt-in policies, please send your written request following the instructions below. We will not accept requests via the telephone or facsimile.
+  * To provide information to you that you request from us relating to our products or services.
+  * To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
+  * To inform you of any changes to our website, services or goods and products.
 
-  * We may not be able to respond to requests that are not labeled or sent properly, or do not have complete information.
-  * For all requests, include your full name, street address, city, state and zip code, and the name of the Services to which you are requesting the information.
-  * In your email request, you must state "Re: Your California Privacy Rights" in the subject line and send your email to [privacy_admin@cbc-raleigh.com](mailto:privacy_admin@cbc-raleigh.com?subject=Re:%20Your%20California%20Privacy%Rights).
-  * In your postal request, you must send a letter or post card to:   
-Capitol Broadcasting Company, Inc.   
-Attn: Privacy Administrator/Your California Privacy Rights   
-2619 Western Boulevard   
-Raleigh, NC 27606   
 
 
+If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
 
+**We never give your details to third parties to use your data to enable them to provide you with information regarding unrelated goods or services.**
 
-Non-affiliated third parties are independent from CBC and if you wish to receive information about your disclosure choices or stop communications from such third parties, you will need to contact those non-affiliated third parties directly.
+## Storing Your Personal Data
 
-#### 2\. Types of information we collect and use
+In operating our website it may become necessary to transfer data that we collect from you to locations outside of the United States for processing and storing. By providing your personal data to us, you agree to this transfer, storing and processing. We do our utmost to ensure that all reasonable steps are taken to make sure that your data is stored securely.
 
-We collect and/or use information in three (3) categories: (1) Personal Information that you voluntarily provide when you register or participate in any features or activities on this Site or other Services online or offline, (2) information that we passively collect as you navigate or use our Services such as IP Address, unique device ID, or transaction and viewing history; and (3)Non-Personal Information that cannot be used to identify or contact a specific individual, such as anonymous and aggregated information. We may also collect and use Personal Information about other people when you participate in certain programs and features or when you submit news stories or nominations for community awards or recognition that involve other people.
+Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, sending such information is entirely at your own risk.
 
-Below is a description of the types of information we collect and how we use it:
+## Disclosing Your Information
 
-#### WRAL.com
+We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
 
-Only registered users may post information or comments or use certain Site features, activities and services. We require you to provide your e-mail address, zip code, gender, month and year of birth. We use this registration information to create a unique profile for you, to communicate with you regarding your registration, and to verify your eligibility. Learn More
+  * In the event that we sell any or all of our business to the buyer.
+  * Where we are legally required by law to disclose your personal information.
+  * To further fraud protection and reduce the risk of fraud.
 
-You can register for other features and activities on WRAL.com with the submission of your email address. You may be required to submit additional Personal Information such as your name and text message number. Click here for more information. You may opt-out of any feature or activity by accessing your account or the Site’s Email Alert Center.
 
-#### Polls & Surveys.
 
-LEARN MORE
+## Third Party Links
 
-#### Purchases & Shopping.
+On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
 
-LEARN MORE
+## Contacting Us
 
-#### Public Forums
-
-LEARN MORE
-
-#### Comments / Questions / Consumer Complaints
-
-LEARN MORE
-
-#### SeeClickFix — City of Raleigh Street Repair. 
-
-LEARN MORE
-
-#### Promotions, Contests & Sweepstakes
-
-LEARN MORE
-
-#### Mobile Apps
-
-You can access WRAL.com content, features and activities via various apps designed for Apple (iPad, iPod and iPhone),Google Android, and Amazon Kindle Play devices, mobile web and in the future, other mobile app platforms. Click [here](http://www.wral.com/wral-tv/page/5787234/) for a list of our mobile sites and apps. Our app privacy statement can be reviewed at the App stores prior to your download and in the "About" section within the apps.
-
-Based on an app’s specific functions and services, we may collect or access the following:
-
-  * Name, postal address (city, state and/or zip code), telephone or text message number, or email address
-  * Location-based information (precise and approximate past, current, or history)
-  * Financial Information (credit card and transaction information)
-  * IP Address or unique device IDs 
-  * Type of phone or other mobile device used and phone features
-  * USB storage and SD card
-  * System tools
-  * Browser history and phone or text log
-
-
-
-We ask for your consent prior to collecting or accessing Personal Information and location-based information. You may withdraw your consent by changing your options or disabling a service according to your device settings.
-
-We and/or our Operational Service Providers (third party owned companies that provide or perform services and functions on our behalf that support our businesses and operations) will collect or access certain information to:
-
-  * Operate and store information necessary for the app to function as requested or to prevent shut down or sleep mode.
-  * Monitor to measure our effectiveness, analyze trends and improve our services, features and activities.
-  * Monitor and analyze your usage to serve customized advertising that supports free content and features. For more details about customized advertising, see the Personalized Content and Advertising section.
-
-
-
-We may also share individual or aggregated Personal Information with third parties such as ad networks, data analytic providers, operating systems and platforms, and social networks.
-
-#### Smart TV Widgets
-
-You may download our Smart TV widget via Yahoo!’s Connected TV service. We do not collect Personal Information such as email address or a unique ID. We do collect statistics regarding your usage of the Smart TV service but such information cannot be used to identity a specific individual or device. The Yahoo! Privacy Policy governs your download. 
-
-#### Off–line 
-
-We collect Personal Information via postal mail, telephone, over-the-air, and in-person for various purposes, including contests, sweepstakes, promotions, purchases and other transactions, special events, surveys, voting, public affairs, and news gathering. 
-
-We may combine your Personal Information collected online or offline with information obtained from our Facebook Fan pages or use of other Facebook features and services, other social network and mobile platforms, or our family of affiliated companies, Operational Service Providers, or other companies, such as credit bureaus, background check firms, marketing research companies, and/or Advertisers.
-
-#### 3\. Monitoring Technologies
-
-In order to manage and evaluate usage of our Site and other Services, improve our content and operations, provide advertising support for free content and features, measure the effectiveness of our advertising, and protect the security of our Site, we monitor your activity and usage via your IP Address and/or unique device ID. LEARN More
-
-Like most standard websites or online services, WRAL.com and other Services may use cookies, web beacons and other similar technology that improve the user’s experience by allowing the website to recognize the user’s computer or device. You may configure your browser to reject cookies. If you do so, you might not be able to log-in to your account, access important functions, features and activities or enjoy certain conveniences or customized and personalized features of our Site and other Services. Click here for more information about cookies, web beacons and IP Addresses.
-
-If you do not want to help us improve our Site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by [clicking here](http://www.adobe.com/privacy/opt-out.html).
-
-If you leave WRAL.com to visit our Advertisers' websites, some of those Advertisers also may place cookies on your computer. We don't have access to those cookies or to any information they contain, and the use and collection of your Personal Information by Advertisers is governed by the Advertiser's Privacy Policy, which may be different from ours.
-
-Because cookies are stored on your hard drive, not on our Site or other Services, you can set your browser to decline cookies and can delete them from your computer. However, if you don't accept cookies, you may need to re-enter your log-in information each time you visit our Site and Services, and you may not be able to take advantage of various features or activities.
-
-We reserve the right to collect Personal Information using any new technology yet to be developed and to use such technology to provide new services and features to you, as well as for marketing and promotional purposes. Specific information regarding your choice to opt-out to such use will be provided when the new technology, service, or feature is introduced.
-
-#### 4\. Disclosure of Personal Information to Third Parties
-
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We will not rent, sell, or share your Personal Information with unaffiliated companies or people except: 1) as necessary to provide you with products or services you've requested; 2) when we have your permission; or 3) as follows:
-
-  * We will disclose your Personal Information to trusted partners and Operational Service Providers who work on our behalf under confidentiality agreements. These entities will use your Personal Information to help us serve you. However, these entities are not allowed to share your Personal Information without authorization or to use it for their own marketing or promotional purposes.
-  * We will disclose your Personal Information to conform to legal requirements or to respond to a subpoena, search warrant or other legal process, whether or not a response is required by applicable law.
-  * We will disclose your Personal Information to enforce our TOU, or to protect the rights, property or safety of CBC, other users and visitors, our Advertisers and other customers, the public, or our employees. 
-  * As our business grows, we may buy or sell various assets. In the event that all or some of our assets are acquired by another company, Personal Information may be among the transferred assets.
-
-
-
-#### 5\. How we protect your Personal Information
-
-We have taken reasonable steps to protect the security and confidentiality of the Personal Information we collect and use. We implement and maintain reasonable physical, technical and administrative procedures to protect your Personal Information from unauthorized collection, use, disclosure, and disposal and request our Operational Service Providers to do the same. However, no physical or electronic security system is impenetrable, and we cannot guarantee the security of our servers or databases, nor can we guarantee that the information that you supply to us won't be intercepted during transmission over the Internet. 
-
-It is important for you to protect against unauthorized access to your accounts, especially on a shared computer or device, by logging out when you are finished using our Site and other Services and by keeping any passwords confidential. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time.
-
-Additionally, we cannot control and therefore cannot be responsible for any unauthorized third party use of your Personal Information that you make publicly available.
-
-#### 6\. Customized Content & Advertising
-
-Advertising helps us to support the free Services, Internet and broadcast content we provide to you. We use anonymous, aggregated information to serve customized ads. (For example, we are able to provide the age range, gender, and geographic location of the audience our Advertisers will be reaching.) When we aggregate your information, no specific individual can be identified.
-
-We, our Operational Service Providers, and Advertisers use cookies, web beacons and other similar technology to enrich your experience on our Services by serving relevant, tailored and personalized advertising and/or content. (Please note that we do not control Advertiser cookies or web beacons, and their use of such technology is not subject to this Privacy Policy.) Customized advertising and content is based on information you provide to us; your use of our content, features and activities; your visits, search, transaction and/or purchase history; visits to our Facebook Fan page or use of other Facebook features and services, or other social network platforms, and/or projections made about you based on all of these elements. (Click here for information about IP Addresses, cookies and web beacons.) 
-
-Click here for examples of advertising featured on our Services and how they deliver personalized and customized advertising.
-
-To opt-out of Network Advertising, please [click here](http://www.aboutads.info/choices/).
-
-Please be aware that opting out of a Network Advertising service doesn't mean that you will not receive online ads. It only means that the network from which you opted out will no longer deliver ads tailored to your preferences and interests, but you will continue to receive advertising.
-
-#### 7\. Safeguarding Children's Privacy
-
-Protecting the privacy of children is especially important. Generally, we will not knowingly collect online Personal Information or any other identifying data from children under 13 years of age. Should we discover that a child under the age of 13 submitted Personal Information to our Site, apps, or other Internet-based Services without first obtaining verifiable parental consent, we will immediately reject any such entry and delete that information from our database (to the extent technically feasible), unless such information meets an exception under the Children's Online Privacy Protection Act ("COPPA").
-
-Comments that pertain to programming or operations of our Stations are subject to Federal Communications Commission ("FCC") regulations that require television licensees to post such comments in the applicable Station’s FCC Public Inspection File. Except to meet FCC, or other regulatory and legal purposes, we will not knowingly use, distribute or disclose any child's Personal Information to unaffiliated third parties without prior parental consent. We will promptly remove such information from our database (to the extent technically feasible) if a parent withdraws his or her consent to our use of the child’s Personal Information. 
-
-For more information about the safety of children on the Internet, [click here.](http://www.onguardonline.gov/topics/protect-kids-online)
-
-#### 8\. Your choices for the collection, use and sharing of your Personal Information
-
-Users who no longer wish to receive alerts, notifications, or promotional messages from us via email may choose to unsubscribe via the Mailing List Admin page on WRAL.com, WRALSportsFan.com, HighSchoolOT.com, AmericanTobaccoHistoricDistrict.com, WRALTechWire.com and WILM-TV.com. All emails and newsletters also include opt-out instructions. Alerts sent via text message also have an opt-out mechanism.
-
-We may share your Personal Information directly with our Advertisers for their direct marketing and promotional purposes only if you have granted your permission to do so. Depending on the activity, event or feature, you will have an opportunity to either “opt-in” or “opt-out” of such sharing at the time of registration, delivery of the activity, event or feature, or by contacting the Service via [this feedback form.](http://www.wral.com/feedback/?d_id_person=214)
-
-You must use the designated method to notify us of your opt-out request, as we cannot guarantee that other methods of notification will be effective or timely. Please be aware that we may continue to contact you for administrative, transactional or informational purposes related to your use of our Services, including follow-up messages regarding contests you have entered or other transactions you have undertaken. By law, such messages are not considered to be unsolicited commercial messages.
-
-#### 9\. How to access, update, correct, or delete your Personal Information
-
-You can access and edit your registration information, including your e-mail address and options for receiving news and information and advertising emails, and can delete your registration and member name at any time by going to the Registration page. If you terminate your site registration, your email address will remain in our archived records after your account has been closed given the technical limitations of our system. However it will be moved to an inactive status.
-
-For mobile apps, you may access and update or change your Personal Information via "Settings." You may also delete an app or disable a service according to your device settings. For other Services, please access your account or send an e-mail to our [Privacy Administrator.](mailto:privacy_admin@cbc-raleigh.com)
-
-We retain your Personal Information as long as it takes to provide the Services and as required by our corporate policies and laws. Upon your request, we also will remove your Personal Information from our active database(s). Given the limitations of our computer systems, corporate business policies, and the requirements of federal or state laws, we may not be able to delete all of your Personal Information from our internal or back-up files. You may be entitled to access such Personal Information or restrict the use of such Information under local or state laws. Please contact our [Privacy Administrator.](mailto:privacy_admin@cbc-raleigh.com) MORE.
-
-#### 10\. Hyperlinks to Third Party Websites
-
-Our Sites and users who post information on those sites may provide links to third party websites whose privacy policies, terms and conditions, and/or business practices we do not control, including the use of cookies, web beacons or other monitoring technologies When you access another website, use of any information you provide is governed by the privacy policy of the operator of the website you're visiting. When linking to another website a user should read the privacy policy stated on that website. Our Privacy Policy only governs information collected on this Site and our Services.
-
-#### 11\. Notification of changes to Privacy Policy
-
-Because the web is an evolving medium and we strive to use new technology to provide innovative features and activities, we will need to change our Privacy Policy from time to time. When we update our Privacy Policy, we will post a notice on our Site and applicable Services and update the "Last Updated/ Effective Date." For material changes, we will also notify you via email, push alert, or the preferred mode of contact you selected. However, we are not able to notify you of changes in our app privacy policy via the app given technical limitations. Such notification must be provided via other means as listed above. By continuing to use this Site or other Services after we post any such changes, you have accepted the Privacy Policy as modified.
-
-#### 12\. Contacting Us / Report Misconduct
-
-For more information, or if you have questions about this Privacy Policy, please contact us via our [Privacy Administrator.](mailto:privacy_admin@cbc-raleigh.com) Also, if you see behavior or communications on any of Services that you consider inappropriate or abusive, please let us know immediately. 
+Please do not hesitate to contact us regarding any matter relating to this Privacy and Cookies Policy via our [contact page](https://web.archive.org/contact/).
