@@ -1,5 +1,7 @@
-> *The following text is extracted and transformed from the mangalorean.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316110617id_/http%3A//www.mangalorean.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangalorean.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405075641id_/https%3A//www.mangalorean.com/privacy-policy) for the most accurate reproduction.*
 
-# Mangalorean.com - Mangalore News Articles, Classifieds to Around the World
+# Privacy Policy - Mangalorean.com
 
-Mangalorean.com collects some basic information from you (the user) when you join our community. Only part of that information is open to other members who might choose to contact you. We restrict non-members from contacting you by using a login mechanism. The information itself does not contain any mailing address, so you will not be getting any junk mail from other third parties. Mangalorean.com will not offer any information about you to any third party unless we receive your prior consent. We value your privacy and we pledge to keep it. 
+#### Security of your Information
+
+We take reasonable steps to ensure the security of all information we collect from you, including against risks such as loss or unauthorized access, destruction, use, modification or disclosure of data. For example, your personal information is maintained in a secure environment which can be accessed only by authorized personnel. Any acts of commission and omission beyond our reasonable control will not render us liable to you. However, no data transmission over the internet or information stored on servers accessible through the intranet/internet can be guaranteed to be fully secure. These activities are undertaken at your risk.
