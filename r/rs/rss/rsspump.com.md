@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsspump.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007100218id_/http%3A//applify.me/cookies_and_privacy_policy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsspump.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405023350id_/https%3A//applify.me/cookies_and_privacy_policy.txt) for the most accurate reproduction.*
 
 # 
 
