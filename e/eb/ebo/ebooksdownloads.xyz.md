@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebooksdownloads.xyz privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030163432id_/http%3A//www.ebooksdownloads.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooksdownloads.xyz privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406010200id_/http%3A//www.ebooksdownloads.xyz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | e-Book Download
+# Privacy Policy | eBooks Downloads
 
 ## Privacy Policy:
 
