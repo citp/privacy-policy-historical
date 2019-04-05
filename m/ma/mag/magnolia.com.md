@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnolia.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923220351id_/https%3A//help.magnolia.com/hc/en-us/articles/204592859-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnolia.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405183256id_/https%3A//help.magnolia.com/hc/en-us/articles/204592859-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Magnolia Market Helpdesk
 
@@ -6,7 +6,7 @@ At Magnolia, we respect our guests and understand that you are concerned about p
 
 This Policy may change as we continue to develop our websites, mobile applications and online services or programs (collectively “websites”), so we encourage you to refer to this Policy on an ongoing basis, so that you understand our current Policy.
 
-If you have any questions or concerns, please don't hesitate to contact us at shop@magnoliamarket.com.
+If you have any questions or concerns, please don't hesitate to contact us at shop@magnolia.com.
 
 \----
 
@@ -30,7 +30,7 @@ We will retain your personal information as long as necessary to fulfill the pur
 
 **SECTION 2 – YOUR CONSENT**
 
-In many circumstances, we will not collect or process your personal information without your consent.  We will ask for your express consent where required or where we find it appropriate. If you choose not to consent, please do not use our website, products, or services, and do not provide us with any personal information.  You may withdraw your consent at any time by emailing us at shop@themagnoliamarket.com or mailing us at: Magnolia Market 7503 Bosque Boulevard, Suite 201, Waco, Texas 76712 United States.
+In many circumstances, we will not collect or process your personal information without your consent.  We will ask for your express consent where required or where we find it appropriate. If you choose not to consent, please do not use our website, products, or services, and do not provide us with any personal information.  You may withdraw your consent at any time by emailing us at shop@magnolia.com or mailing us at: Magnolia Market 7503 Bosque Boulevard, Suite 201, Waco, Texas 76712 United States.
 
 **SECTION 3 – HOW WE SHARE YOUR INFORMATION**
 
@@ -125,7 +125,7 @@ Name of Agent of Request: Stone Crandall
 
 By mail: 7503 Bosque Blvd., Suite 203, Waco, Texas 76712 United States
 
-By email: shop@magnoliamarket.com (please add “California Minor Removal Request” to the subject line)
+By email: shop@magnolia.com (please add “California Minor Removal Request” to the subject line)
 
 **SECTION 7 – YOUR CALIFORNIA RIGHTS**
 
@@ -139,7 +139,7 @@ If our business undergoes a fundamental change such as, for example, a sale, mer
 
 **SECTION 9 – ACCESS AND CORRECTIONS**
 
-You may contact us at any time at shop@magnoliamarket.com to (1) see what personal information we have about you, if any, (2) change or correct any personal information we have about you, 3) have us delete any personal information we have about you, or 4) express any complaints or concerns you have about our use of your personal information. It is not technologically possible to change or delete each and every instance of the information we hold on you from our systems, and data may remain in non-erasable or aggregate form. We may retain data in our backup or temporary systems. We may also retain some information for longer periods as required or permitted by law, contract, or auditing requirements.
+You may contact us at any time at shop@magnolia.com to (1) see what personal information we have about you, if any, (2) change or correct any personal information we have about you, 3) have us delete any personal information we have about you, or 4) express any complaints or concerns you have about our use of your personal information. It is not technologically possible to change or delete each and every instance of the information we hold on you from our systems, and data may remain in non-erasable or aggregate form. We may retain data in our backup or temporary systems. We may also retain some information for longer periods as required or permitted by law, contract, or auditing requirements.
 
 **SECTION 10  – INFORMATION RECEIVED FROM NON-U.S. RESIDENTS **
 
