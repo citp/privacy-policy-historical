@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hashtagbasketball.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222093338id_/https%3A//hashtagbasketball.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hashtagbasketball.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405041755id_/https%3A//hashtagbasketball.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Policy | Hashtag Basketball
 
