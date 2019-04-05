@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the cryptocurrencynews.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614213046id_/https%3A//cryptocurrencynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptocurrencynews.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405142542id_/https%3A//cryptocurrencynews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Crypto Currency News
+# Privacy Policy | Crypto Currency News
 
 #### Our Business
 
-Coinbit Blockchain Solutions Inc  is a technology platform that facilitates the ‘bidded’ buying and selling of online media advertising inventory for publishers, advertisers and advertising networks.
-
-We recognize privacy is important to our users. This policy describes how and why Coinbit Blockchain Solutions Inc, collects non-personally identifiable data (anonymous data) from users and website visitors, publishers and end users of publisher sites to Coinbit Blockchain Solutions Inc (http://www.cryptocurrencynews.com), and how that data will be used. Coinbit Blockchain Solutions Inc is committed to respecting the privacy of non-personal identifiable data and anonymous user data gathered.
+We recognize privacy is important to our users. This policy describes how and why Market Jar Media Inc., collects non-personally identifiable data (anonymous data) from users and website visitors, publishers and end users of publisher sites to Market Jar Media Inc. (http://www.cryptocurrencynews.com), and how that data will be used. Market Jar Media Inc. is committed to respecting the privacy of non-personal identifiable data and anonymous user data gathered.
 
 ### Information We Collect
 
 #### Anonymous User Information (Data)
 
-Non-personal information is any information that does not personally identify you. We obtain non-personal information about you from information that you provide to us (anonymous information may be automatically provided to our Web servers by your computer). This information is collected when Publishers, advertisers, and ad networks use the Coinbit Blockchain Solutions Inc Platform.
+Non-personal information is any information that does not personally identify you. We obtain non-personal information about you from information that you provide to us (anonymous information may be automatically provided to our Web servers by your computer). This information is collected when Publishers, advertisers, and ad networks use the Market Jar Media Inc. Platform.
 
 Additionally, certain other information (such as cookies, described below) may be transmitted by our Web server to your computer. That information does not contain any personally identifiable information. Specific types of anonymous information are described below:
 
@@ -30,7 +28,7 @@ In order to properly manage our website we may anonymously log information on ou
 
 #### How We Use Information Collected
 
-Coinbit Blockchain Solutions Inc uses non-personally identifiable data collected from users and website visitors in order to:
+Market Jar Media Inc. uses non-personally identifiable data collected from users and website visitors in order to:
 
   1. To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
   2. To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
@@ -45,11 +43,11 @@ Coinbit Blockchain Solutions Inc uses non-personally identifiable data collected
 
 We may also use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion
 
-With respect to data collected via the Coinbit Blockchain Solutions Inc Platform, we may combine Non-Personal Information with data collected from other sources and disclose the Non-Personal Information and combined information to participating advertisers and ad networks so that they can determine whether to bid on ad inventory and in order to improve the relevance of the advertising presented to Users. Examples of such data include: (a) country, city, and other geo-location details based upon the IP address of the User; (b) category and keyword information based upon the Publisher website URL; and (c) other data from advertisers and data providers that would help in ad targeting (e.g., an advertiser that wants to advertise to Users who have previously visited the advertiser’s website).
+With respect to data collected via the Market Jar Media Inc. Platform, we may combine Non-Personal Information with data collected from other sources and disclose the Non-Personal Information and combined information to participating advertisers and ad networks so that they can determine whether to bid on ad inventory and in order to improve the relevance of the advertising presented to Users. Examples of such data include: (a) country, city, and other geo-location details based upon the IP address of the User; (b) category and keyword information based upon the Publisher website URL; and (c) other data from advertisers and data providers that would help in ad targeting (e.g., an advertiser that wants to advertise to Users who have previously visited the advertiser’s website).
 
 #### How we protect the Collected Information.
 
-Information that we collect is stored on servers that Coinbit Blockchain Solutions Inc solely manages, using standard security procedures and practices appropriate to the nature of the information in an effort to protect information from unauthorized access, destruction, use, modification, or disclosure. If we learn that we have unexpectedly stored personal information (e.g., if we become aware that a URL that we store contains personal information), we will use commercially reasonable efforts to anonymize or purge this information.
+Information that we collect is stored on servers that Market Jar Media Inc. solely manages, using standard security procedures and practices appropriate to the nature of the information in an effort to protect information from unauthorized access, destruction, use, modification, or disclosure. If we learn that we have unexpectedly stored personal information (e.g., if we become aware that a URL that we store contains personal information), we will use commercially reasonable efforts to anonymize or purge this information.
 
 #### Changes to Policy
 
@@ -115,9 +113,10 @@ EU data protection law makes a distinction between organisations that process Pe
 
 If you have any inquiries or concerns regarding this Privacy Policy or our privacy practices, or to exercise your rights, please contact us by emailing us at INFO AT cryptocurrencynews DOT com or writing to us at: 
 
-#### Coinbit Blockchain Solutions Inc.  
-422 Richards ST Suite 170  
-Vancouver, Canada  
+#### Market Jar Media Inc.  
+#170 – 422 Richards Street  
+Vancouver, BC, Canada  
+V6B 2Z4  
 
 
 #### Contact us
