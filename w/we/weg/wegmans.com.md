@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004044950id_/https%3A//www.wegmans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405043017id_/https%3A//www.wegmans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Wegmans
 
@@ -20,7 +20,7 @@ We collect the following information which you provide to us:
   * Payment information, such as your credit or debit card number and expiration date
   * Questions, communications and other content you submit
   * Wegmans.com login credentials, including your password
-  * Purchases made with your Shoppers Club card or number
+  * Purchases made with your Shoppers Club account or number
   * Job application information
 
 
