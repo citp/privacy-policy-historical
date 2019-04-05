@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910034920id_/https%3A//www.gowfb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405192444id_/https%3A//www.gowfb.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | GoWFB.com
+# Privacy – Wholesale Furniture Brokers
 
 Wholesale Furniture Brokers is committed to protecting your privacy and has implemented a verified P3P Privacy Policy. To learn more about P3P Privacy Policies, visit the [FAQ of P3P policies](http://www.w3.org/P3P/p3pfaq).
 
@@ -8,7 +8,7 @@ Wholesale Furniture Brokers is committed to protecting your privacy and has impl
 
 Security involves making sure that any sensitive information you may provide to us is handled in a safe and secure manner. Privacy refers to information we gather about you, and what we do with that information once we have it.
 
-For more information about security and privacy on our site, send an e-mail to [Admin@GoWFB.com](mailto:Admin@GoWFB.com).
+For more information about security and privacy on our site, send an e-mail to [Sales@GoWFB.com](mailto:Sales@GoWFB.com).
 
 **What personal information do we collect and how do we use it?**
 
@@ -18,10 +18,10 @@ You may decline to provide any personal information to Wholesale Furniture Broke
 
 All of your personal information is removed from the system when you delete your account. Any personally identifying information pertaining to an order is retained only as long as legally required.
 
-If you find any discrepancies in your personal information, you can contact us at [Admin@GoWFB.com](mailto:Admin@GoWFB.com) to have the information corrected.
+If you find any discrepancies in your personal information, you can contact us at [Sales@GoWFB.com](mailto:Sales@GoWFB.com) to have the information corrected.
 
 **What happens when I submit an e-mail to Wholesale Furniture Brokers?**
 
 We read every message that arrives and warrants a response. We try to respond as soon as possible to all emails. We keep e-mail addresses on file in a secure server for documentation and to make sure that we respond appropriately to you.
 
-If you have any specific questions about the above information, please [contact us](https://www.gowfb.com/contact-us).
+If you have any specific questions about the above information, please [contact us](https://web.archive.org/pages/contact-us).
