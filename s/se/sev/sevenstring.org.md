@@ -1,22 +1,77 @@
-> *The following text is extracted and transformed from the sevenstring.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218012527id_/http%3A//www.sevenstring.org/forum/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenstring.org privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405081520id_/http%3A//www.sevenstring.org/help/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | SevenString.org
 
-**Sevenstring.org Privacy Policy**  
-Revised January 2008 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@sevenstring.org. 
+  * 
 
-At www.sevenstring.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by sevenstring.org and how it is used. 
 
-**Log Files**
+[ ](http://sevenstring.org/)
 
-Like many other Web sites, sevenstring.org makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. This information is purged at select intervals and is never in any way shared with ANY outside agency. 
+  * 
 
-**Cookies and Web Beacons**
 
-Sevenstring.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+We are SevenString.org ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20190405081520id_/http%3A//www.sevenstring.org/help/misc/contact).
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense. These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.sevenstring.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. Sevenstring.org has no access to or control over these cookies that are used by third-party advertisers. 
+## What information we hold about you
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Sevenstring.org’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+The type of data that we collect and process includes:
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
+
+
+
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
+
+We collect some or all of this information in the following cases:
+
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
+
+
+
+## How your personal information is used
+
+We may use your personal information in the following ways:
+
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
+
+
+
+## Other ways we may use your personal information.
+
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
+
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
+
+## Keeping your data secure
+
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190405081520id_/http%3A//www.sevenstring.org/help/help/cookies).
+
+## Rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20190405081520id_/http%3A//www.sevenstring.org/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20190405081520id_/http%3A//www.sevenstring.org/help/misc/contact) to ask us to complete or correct that information.
+
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20190405081520id_/http%3A//www.sevenstring.org/help/misc/contact) if you would like us to remove your personal data.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
+
+  * 
+
