@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awea.org privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527104003id_/https%3A//www.awea.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awea.org privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405235844id_/https%3A//www.awea.org/disclaimers/privacy-policy) for the most accurate reproduction.*
 
-# American Wind Energy Association Privacy Policy
+# American Wind Energy Association | AWEA
 
 **I. Introduction**
 
@@ -30,7 +30,7 @@ To the extent we are able to do so, we may link your Non-Personally Identifiable
 
 **III.   Sharing of Personally Identifiable Information**
 
-We may share your email address with other organizations that are co-sponsors or co-presenters of an AWEA event.  lf you are a non-member, we will also use your email address for AWEA-related promotional purposes.  We do not disclose your email address to non-related third parties for marketing purposes.  If you wish to be removed from our email distribution list, please call AWEA at (202) 383-2500 **.** We also share information with our affiliates and within AWEA to improve service to our members and to enhance our organization's effectiveness.
+We may share your email address with other organizations that are co-sponsors or co-presenters of an AWEA event.  lf you are a non-member, we will also use your email address for AWEA-related promotional purposes.  We do not disclose your email address to non-related third parties for marketing purposes.  If you wish to be removed from our email distribution list, please call AWEA at (202) 383-2500 **.**  We also share information with our affiliates and within AWEA to improve service to our members and to enhance our organization's effectiveness.
 
 AWEA may provide your personal information to service providers or contractors to perform functions on its behalf, such as, but not limited to, companies or individuals hired to: communicate news, deliver AWEA's promotional materials via e-mail and direct mail, assist with organizing, operating or marketing AWEA events, promote AWEA's social media presence and activities, to develop, enhance, market or provide any of AWEA's products or services, to process credit card payments and to assist AWEA with sending communications and performing other marketing and support functions.  All third-party operational service providers used by the AWEA are required to comply with AWEA's Privacy Policy and practices. Also, AWEA may use third-party social media platforms, including third-party social media websites, to communicate with you. 
 
