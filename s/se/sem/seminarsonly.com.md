@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seminarsonly.com privacy policy that was archived on 2018-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180716222618id_/https%3A//www.seminarsonly.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seminarsonly.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405140933id_/https%3A//www.seminarsonly.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : www.seminarsonly.com
 
@@ -26,7 +26,7 @@ seminarsonly.com does use cookies to store information about visitors preference
 
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to seminarsonly.com and other sites on the Internet. 
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – https://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …. 
 
