@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shakespearesglobe.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107135451id_/http%3A//www.shakespearesglobe.com/about-us/policies-and-procedures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakespearesglobe.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405092635id_/https%3A//www.shakespearesglobe.com/about-us/policies-and-procedures/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Shakespeare's Globe
 
-Last updated in September 2018.
+Last updated in February 2019.
 
 ### We collect personal data from you when you use our websites and services...
 
@@ -20,7 +20,7 @@ The information that we collect may include your name, email and postal address,
 
 We also record the way you use our websites, apps, and social media channels, and we use this data to learn, for example, how many people visit our pages, and what they are trying to find. To find out more about how this works, please read our [Cookie policy](https://web.archive.org/about-us/policies-and-procedures/cookie-policy "Cookie policy").
 
-We use your data to provide you with our services but also to promote, analyze and improve our services. For example, we use your data to send you booking information and help with any questions you may have, collect your payments, and to make your experience more enjoyable when you visit us in person or online. If you have opted-in to receive marketing messages from us, then we may use personal data such as your purchase history, location, as well as the preferences you selected when you created your account, to promote and tell you about related products and services that we think you might be interested in.
+We use your data to provide you with our services but also to promote, analyze and improve our services. For example, we use your data to send you booking and appropriate pre-visit information, to help with any questions you may have, collect your payments, and to make your experience more enjoyable when you visit us in person or online. If you have opted-in to receive marketing messages from us, then we may use personal data such as your purchase history, location, as well as the preferences you selected when you created your account, to promote and tell you about related products and services that we think you might be interested in.
 
 ## Who else has access to your data.
 
@@ -34,17 +34,17 @@ Apart from our Service Providers, we may also use and share your data with other
 
 ## Your rights over your data.
 
-You have the right to be informed about how we use your data. We cover all of the important points in this privacy notice but if you have any questions, then don’t hesitate to email us at [data.p@shakespearesglobe.com](mailto:data@shakespearesglobe.com).
+You have the right to be informed about how we use your data. We cover all of the important points in this privacy notice but if you have any questions, then don’t hesitate to email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6d2d7c2d7f6c5ded7ddd3c5c6d3d7c4d3c5d1dad9d4d398d5d9db).
 
 If you decide to give us permission to collect and use your data, then you have the right to withdraw your consent at any time. However, because of how our systems work, this also means that we will no longer be able to offer you certain services such as online booking and shopping or access to our educational content or press materials.
 
 You can also request a copy or summary of the information that we hold about you, or ask us to correct any personal information you think is inaccurate. Your first request for information will be fulfilled free of charge but we will charge £10 for further requests or enquiries which we deem to be unfounded or excessive.
 
-The quickest way of requesting a summary of the data we hold about you is to complete a [Subject Access Request Form](https://web.archive.org/uploads/editor/files/Shakespeares_Globe_Subject_Access_Request_Form.docx) _._ Please complete the form and return it to [data.p@shakespearesglobe.com](mailto:data.p@shakespearesglobe.com) or via post to the address listed on the form.
+The quickest way of requesting a summary of the data we hold about you is to complete a [Subject Access Request Form](https://web.archive.org/uploads/editor/files/Shakespeares_Globe_Subject_Access_Request_Form.docx) _._ Please complete the form and return it to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5b1b4a1b4fba595a6bdb4beb0a6a5b0b4a7b0a6b2b9bab7b0fbb6bab8) or via post to the address listed on the form.
 
 You may ask us to delete the personal data we hold on you. We will consider your request and not reasonably refuse it. If we agree to your request, we will remove any information that identifies you as an individual. In both cases we may retain anonymised data (for example, your booking history) for business purposes.   
 
-To make a request for any of the above, please email us at [data.p@shakespearesglobe.com](mailto:data@shakespearesglobe.com).
+To make a request for any of the above, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f397928792b3809b92989680839692819680949f9c9196dd909c9e).
 
 Please note: if you have an account on [Teach Shakespeare](http://teach.shakespearesglobe.com/), you can remove any data held on this site yourself.  Log in to edit your profile, where you will be able to cancel your account.
 
@@ -80,12 +80,12 @@ As part of any recruitment process, we collect personal data relating to job app
 
 **Data and Privacy Policy Enquiries**
 
-[data.p@shakespearesglobe.com](mailto:data.p@shakespearesglobe.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1773766376396757647f767c7264677276657264707b7875723974787a)
 
 **General Enquiries**
 
 Telephone: +44 (0)20 7902 1400  
-Email: [info@shakespearesglobe.com](mailto:info@shakespearesglobe.com)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6afa8a0a986b5aea7ada3b5b6a3a7b4a3b5a1aaa9a4a3e8a5a9ab)
 
 **Address**
 
