@@ -1,0 +1,543 @@
+<!--The following is the downloaded HTML source of the ninjaforms.com privacy policy that was archived on 2019-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190405125337id_/https%3A//ninjaforms.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PHJG4VK"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MWMR2Q4"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#ef4748">
+	<meta name="msapplication-navbutton-color" content="#ef4748">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://ninjaforms.com/xmlrpc.php">
+	<link rel="shortcut icon" href="https://s8754.pcdn.co/wp-content/uploads/2016/04/nf-favicon.png">		<link rel="apple-touch-icon-precomposed" href="https://s8754.pcdn.co/wp-content/uploads/2016/04/nf-favicon.png">
+		<link rel="icon" sizes="192x192" href="https://s8754.pcdn.co/wp-content/uploads/2016/04/nf-favicon.png">	<title>Privacy Policy - Ninja Forms</title>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+	var gtm4wp_scrollerscript_debugmode         = false;
+	var gtm4wp_scrollerscript_callbacktime      = 100;
+	var gtm4wp_scrollerscript_readerlocation    = 150;
+	var gtm4wp_scrollerscript_contentelementid  = "content";
+	var gtm4wp_scrollerscript_scannertime       = 60;
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- Social Warfare v3.5.4 https://warfareplugins.com --><meta property="og:description" content="Ninja Forms is committed to protecting your privacy, and that includes protecting the privacy of any data you share with us. This policy sets out what data we collect, what we do with your data, when and how we store"><meta property="og:title" content="Privacy Policy"><meta property="article_author" content="https://www.facebook.com/jameslaws"><meta property="article_publisher" content="https://www.facebook.com/jameslaws"><meta property="fb:app_id" content="529576650555031"><meta property="og:type" content="article"><meta property="og:url" content="https://ninjaforms.com/privacy-policy/"><meta property="og:site_name" content="Ninja Forms"><meta property="article:published_time" content="2018-05-11T14:55:45+00:00"><meta property="article:modified_time" content="2018-05-11T14:55:45+00:00"><meta property="og:updated_time" content="2018-05-11T14:55:45+00:00"><meta name="twitter:title" content=""><meta name="twitter:description" content=""><meta name="twitter:image" content=""><meta name="twitter:creator" content=""><meta name="twitter:card" content="summary"><style>@font-face {font-family: "sw-icon-font";src:url("https://s8754.pcdn.co/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.5.4");src:url("https://s8754.pcdn.co/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.5.4#iefix") format("embedded-opentype"),url("https://s8754.pcdn.co/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=3.5.4") format("woff"),
+	url("https://s8754.pcdn.co/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=3.5.4") format("truetype"),url("https://s8754.pcdn.co/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=3.5.4#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+<!-- Social Warfare v3.5.4 https://warfareplugins.com -->
+
+
+<!-- This site is optimized with the Yoast SEO plugin v10.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://ninjaforms.com/privacy-policy/">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//ninjaforms.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//js.jilt.com">
+<link rel="dns-prefetch" href="//js.stripe.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Ninja Forms » Feed" href="https://ninjaforms.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Ninja Forms » Comments Feed" href="https://ninjaforms.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s8754.pcdn.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s8754.pcdn.co/wp-includes/js/wp-emoji-release.min.js?ver=5.1.1" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="social-warfare-block-css-css" href="https://s8754.pcdn.co/wp-content/plugins/social-warfare/assets/js/post-editor/dist/blocks.style.build.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://s8754.pcdn.co/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="conductor-flexbox-css" href="https://s8754.pcdn.co/wp-content/plugins/conductor/assets/css/conductor-flexbox.css?ver=1.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="conductor-widget-css" href="https://s8754.pcdn.co/wp-content/plugins/conductor/assets/css/widgets/conductor-widget.css?ver=1.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="holler-css-css" href="https://s8754.pcdn.co/wp-content/plugins/holler-box/assets/css/holler-frontend.min.css?ver=1.5.0" type="text/css" media="all">
+<link rel="stylesheet" id="holler-pro-css-css" href="https://s8754.pcdn.co/wp-content/plugins/hollerbox-pro/assets/css/holler-pro-frontend.min.css?ver=0.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="holler-fomo-css-css" href="https://s8754.pcdn.co/wp-content/plugins/hollerbox-sales/assets/css/holler-box-fomo.min.css?ver=0.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="if-menu-site-css-css" href="https://s8754.pcdn.co/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="colorbox-css" href="https://s8754.pcdn.co/wp-content/plugins/simple-colorbox/themes/theme1/colorbox.css?ver=5.1.1" type="text/css" media="screen">
+<link rel="stylesheet" id="social_warfare-css" href="https://s8754.pcdn.co/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=3.5.4" type="text/css" media="all">
+<link rel="stylesheet" id="edd-recurring-css" href="https://s8754.pcdn.co/wp-content/plugins/edd-recurring/assets/css/styles.css?ver=2.7.25" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="https://s8754.pcdn.co/wp-content/themes/parallelus-caliber/style.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="theme-skin-css" href="https://s8754.pcdn.co/wp-content/themes/ninja-theme/style-skin-ninjaforms.css?ver=1525202173" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://s8754.pcdn.co/wp-content/themes/ninja-theme/assets/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="theme-bootstrap-css" href="https://s8754.pcdn.co/wp-content/themes/ninja-theme/assets/css/bootstrap.min.css?ver=13949403d2f8cd452f737fed02730bf6" type="text/css" media="all">
+<link rel="stylesheet" id="theme-style-css" href="https://s8754.pcdn.co/wp-content/themes/ninja-theme/style.css?ver=13949403d2f8cd452f737fed02730bf6" type="text/css" media="all">
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='theme-ie-only-css'  href='https://s8754.pcdn.co/wp-content/themes/ninja-theme/assets/css/ie-only.css?ver=13949403d2f8cd452f737fed02730bf6' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="ahoy-site-css" href="https://s8754.pcdn.co/wp-content/uploads/ahoy/ahoy-site-styles.css?ver=1540480462" type="text/css" media="all">
+<link rel="stylesheet" id="theme-custom-css" href="https://s8754.pcdn.co/wp-content/uploads/ninja-theme/cache/a85fb4d0019d65dc7b2226c32af334fd.css?ver=13949403d2f8cd452f737fed02730bf6" type="text/css" media="all">
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"https:\/\/ninjaforms.com\/wp-admin\/admin-ajax.php","position_in_cart":"","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","is_checkout":"0","default_gateway":"stripe","redirect_to_checkout":"1","checkout_page":"https:\/\/ninjaforms.com\/checkout\/","permalinks":"1","quantities_enabled":"","taxes_enabled":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.9.12"></script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9.2"></script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-youtube.js?ver=1.9.2"></script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.9.2"></script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-includes/js/imagesloaded.min.js?ver=5.1.1"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv-printshiv.min.js?ver=5.1.1'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js?ver=5.1.1'></script>
+<![endif]-->
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/themes/ninja-theme/assets/js/ie10-viewport-bug-workaround.js?ver=1"></script>
+<script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var edd_global_vars = {"ajaxurl":"https:\/\/ninjaforms.com\/wp-admin\/admin-ajax.php","checkout_nonce":"118f8101d7","checkout_error_anchor":"#edd_purchase_submit","currency_sign":"$","currency_pos":"before","decimal_separator":".","thousands_separator":",","no_gateway":"Please select a payment method","no_discount":"Please enter a discount code","enter_discount":"Enter discount","discount_applied":"Discount Applied","no_email":"Please enter an email address before applying a discount code","no_username":"Please enter a username before applying a discount code","purchase_loading":"Please Wait...","complete_purchase":"Free Download","taxes_enabled":"1","edd_version":"2.9.12","checkout_page":"https:\/\/ninjaforms.com\/checkout\/?cart-item-added=1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/edd-modify-checkout/assets/js/edd-checkout-global.js?ver=1531247908"></script>
+<link rel="https://api.w.org/" href="https://ninjaforms.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ninjaforms.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s8754.pcdn.co/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.1.1">
+<link rel="shortlink" href="https://ninjaforms.com/?p=935667">
+<link rel="alternate" type="application/json+oembed" href="https://ninjaforms.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fninjaforms.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://ninjaforms.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fninjaforms.com%2Fprivacy-policy%2F&amp;format=xml">
+<meta name="generator" content="Easy Digital Downloads v2.9.12">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-585774-19"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-585774-19', { 'anonymize_ip': true });
+      </script><!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+      fbq('init', '1591573757801924');
+      fbq('track', 'PageView');
+      
+      
+
+    </script>
+
+    <noscript><img height='1' width='1' style='display:none' src='https://www.facebook.com/tr?id=1591573757801924&ev=PageView&noscript=1'/></noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Google Tag Manager -->
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-MWMR2Q4');
+    </script>
+    <!-- End Google Tag Manager -->
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"James Laws"});//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PHJG4VK');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- Simple Colorbox Plugin v1.6.1 by Ryan Hellyer ... https://geek.hellyer.kiwi/products/simple-colorbox/ -->
+
+<!-- BEGIN OGADWP v5.4.0.0-dev Universal Analytics - https://deconf.com/open-google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-585774-19', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<!-- END OGADWP Universal Analytics -->
+		<style type="text/css" id="wp-custom-css">
+			#edd_sl_license_keys > tbody > tr > td > span.edd_sl_status_label, #edd_sl_license_keys > tbody > tr > td > span.edd_sl_license_status.edd-sl-inactive{
+display:none;
+}		</style>
+		</head>
+
+<body class="page-template-default page page-id-935667 style-skin-ninjaforms ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHJG4VK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><br style="display:none;">
+
+		<div id="wrapper">
+
+		
+		
+<div class="navbar-wrapper">
+	<header class="navbar navbar-default top-nav navbar-sticky navbar-fixed-top" id="top">
+		<div class="container-fluid container-xl">
+
+			<div class="navbar-header">
+
+				<a href="https://ninjaforms.com/" title="Ninja Forms" rel="home" class="navbar-brand scrolling-logo"><div class="logo-scroll"><img src="https://s8754.pcdn.co/wp-content/uploads/2016/04/ninja-forms-logo-header.png" alt="Ninja Forms"></div><div class="logo-responsive"><img src="https://s8754.pcdn.co/wp-content/uploads/2016/04/ninja-forms-logo-header-mobile.png" alt="Ninja Forms"></div></a>				<button class="navbar-toggle squeeze collapsed" type="button" data-toggle="collapse" data-target="#navbar-main">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="squeeze-box">
+						<span class="squeeze-inner"></span>
+					</span>
+				</button>
+			</div>
+
+
+			<nav class="collapse navbar-collapse" id="navbar-main">
+			<ul id="nav-right" class="nav navbar-nav navbar-right"><li id="menu-item-31368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-31368 dropdown show-on-hover"><a href="https://ninjaforms.com/pricing/" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Pricing <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-181304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181304"><a href="https://ninjaforms.com/user-reviews/">What others are saying</a></li>
+</ul>
+</li>
+<li id="menu-item-33998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33998 dropdown show-on-hover"><a href="https://ninjaforms.com/extensions/" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Add-Ons <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-97219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97219"><a href="https://ninjaforms.com/checkout/">Checkout</a></li>
+</ul>
+</li>
+<li id="menu-item-346126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-346126 dropdown show-on-hover"><a href="/documentation/" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Get Help <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-98471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98471"><a href="/documentation/">Documentation</a></li>
+	<li id="menu-item-96922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96922"><a href="https://ninjaforms.com/contact/">Contact Us / Support</a></li>
+	<li id="menu-item-98065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98065"><a href="https://ninjaforms.com/about/">Who’s Behind Ninja Forms?</a></li>
+</ul>
+</li>
+<li id="menu-item-31372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31372"><a href="https://ninjaforms.com/blog/">Blog</a></li>
+<li id="menu-item-624679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-624679"><a href="https://ninjaforms.com/login/">Login</a></li>
+<li id="menu-item-495513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-495513"><a href="/?s="><i class="fa fa-search" aria-hidden="true"></i></a></li>
+</ul>			</nav>
+
+		</div>
+	</header>
+</div>
+
+		
+		<div id="middle">
+
+		
+	
+		
+				<div class="section-wrapper">
+			<div class="container">
+				<div class="row">
+		
+					
+<div class="col-md-24">
+
+	<article id="page-935667" class="post-935667 page type-page status-publish hentry">
+
+						<header class="entry-header">
+			<h1 class="entry-title">Privacy Policy</h1>
+		</header>
+				
+		<div class="entry-content">
+						<p>Ninja Forms is committed to protecting your privacy, and that includes protecting the privacy of any data you share with us. This policy sets out what data we collect, what we do with your data, when and how we store your data, and what you can do if you have questions or wish to exercise rights you have with respect to your data.</p>
+<h2>What data do we collect, and why?</h2>
+<p>Through the use of pages on this website and interaction with our products and services, we may collect data from you. Sometimes the data we collect relates to you or identifies you. In this policy, data that relates to or identifies a natural person is defined as “personal data.” “Data” always includes personal data. Our goal is always to maintain the highest levels of privacy and security with your personal data, in keeping with the principles of the Federal Trade Commission Act and related regulations, the General Data Protection Regulation, and applicable local privacy laws. We will always try to give you appropriate notice of what data we collect and how we will use it, and we will only process your data when we consider it fair and lawful to do so.</p>
+<p>We may collect the following data from you:</p>
+<ul>
+<li>Records of your visits to the site, through cookies and otherwise (which records may include: traffic data; location information; logs; information about your computer or mobile device such as if applicable your IP address, operating system, mobile carrier, or device identifying<br>
+information)</li>
+<li>Records of correspondence between us and you (for example, records of your and our communication for purposes of support services)</li>
+<li>Comments, posts, or other data you upload to our site (for example, in the comments section of our blog posts)</li>
+<li>Information you provide by completing forms on our website or in our products and services&nbsp;(for example, purchase information and information you provide when subscribing to&nbsp;newsletters or contacting us)</li>
+</ul>
+<p>Sometimes the reason for collection will be obvious (such as when you give us your email address to&nbsp;allow us to contact you). When it is not, we will describe to you at the time of collection the purpose for&nbsp;collecting the data and if possible ask for your consent. To the extent possible, we anonymize or&nbsp;pseudonymize data we collect from you.</p>
+<p>In general, we do not intentionally collect sensitive personal data. Sensitive personal data is data of the&nbsp;kind regulated by Article 9 or Article 10 of the GDPR, such as personal identity numbers; financial&nbsp;account information; information concerning racial or ethnic origin; political opinions; religious,&nbsp;philosophical, or other beliefs; membership in trade unions or professional or trade associations;&nbsp;physical or mental health information; biometric data; genetic data; data concerning sexual activity or&nbsp;orientation; or data concerning criminal records or suspected criminal activity. However, if you provide&nbsp;us with sensitive personal data, whether through the website or through any of our products or services,&nbsp;you explicitly consent to our use and processing of that data.</p>
+<p>Additionally, we do not intentionally collect personal data from anyone under the age of eighteen (18),&nbsp;and to the extent reasonably possible we take steps to verify that you are a legal adult when we collect&nbsp;data from you. By using our website, products, or services, and by submitting any data to us, you&nbsp;warrant that you are eighteen (18) years of age or older.</p>
+<h2>How do we use data we collect from you?</h2>
+<p>We use the data we collect from you to provide information, services, or products you have requested or&nbsp;purchased, and to allow you to interact with us and the website.<br>
+This may include sending you emails from time to time; these emails always contain either information&nbsp;you have requested or that you have consented to receive, or information we have a legitimate interest&nbsp;in delivering (such as notices of product changes). You can always unsubscribe from any email list by&nbsp;clicking the indicated link in the email.</p>
+<p>Additionally, our website uses cookies to obtain your IP address, browser information, and information&nbsp;about the technology you use to interact with us by placing a piece of software into your browser. If you&nbsp;wish to change the way cookies work or remove them, you can do so by changing your browser’s&nbsp;preferences or settings. Doing so may impact the way the website appears or functions for you.</p>
+<p>When applicable we analyze this information to improve our website, improve the products and&nbsp;services we provide, and to protect us and you from malicious web activity. We may share this&nbsp;information with third parties. Those third parties and their respective privacy policies are as follows:</p>
+<ul>
+<li>Google Analytics (https://policies.google.com/privacy)</li>
+<li>Facebook Pixel (https://www.facebook.com/privacy/explanation)</li>
+<li>Active Campaign (https://www.activecampaign.com/privacy-policy/)</li>
+<li>Optimizely (https://www.optimizely.com/privacy/)</li>
+</ul>
+<h2>How long do we keep your data?</h2>
+<p>In general, we keep your data only as long as necessary to provide the service or product you requested.&nbsp;If you are a customer who has an account with us, we will keep the data connected to your account until&nbsp;you ask us to destroy it. This is in order to help us remember information about previous interactions&nbsp;with you (for example, records of support service) or in order to comply with our legal and contractual&nbsp;obligations. Ordinarily, if your account is inactive, your data will only be stored so that the account can&nbsp;be reactivated in the future, and your data will not be processed for any other purpose. You can ask us to&nbsp;destroy your data at any time by following the procedures outlined in this policy, but if we do not have&nbsp;certain information about you, it may be impossible for us to provide any products or services to you.</p>
+<h2>Where is your data stored?</h2>
+<p>We are a business located in the United States. When we store your data, it is stored in the United&nbsp;States. However, data we collect may be routed or transferred internationally by us or by our business&nbsp;partners during the course of providing products and services to you and others.</p>
+<h2>How do we ensure your data is secure?</h2>
+<p>We take a number of steps to ensure that data we collect is protected from unauthorized access,&nbsp;alteration, disclosure, or destruction, including the following:</p>
+<ul>
+<li>Many of our services are encrypted using SSL.</li>
+<li>We regularly review our data collection, storage, and processing practices, including physical&nbsp;and electronic security measures.</li>
+<li>We restrict access to your personal data to only those employees, agents, and business partners&nbsp;who need access to it in order to deliver requested products and services.</li>
+<li>All of our employees, agents, and business partners are subject to strict confidentiality and nondisclosure&nbsp;obligations, the violation of which may result in termination and/or liability.</li>
+<li>All of our employees and agents receive regular appropriate training, including training in&nbsp;information privacy suitable to their respective fields and disciplines.</li>
+</ul>
+<h2>Do we share your data?</h2>
+<p>We may transfer your data to our business partners, some of whom may be located in other countries.&nbsp;We strive to do business only with partners who uphold high standards of data privacy and security, and&nbsp;whenever we transfer data to a third party, we take steps to make sure that the data will remain secure&nbsp;and private as required by applicable law and our internal guidelines.</p>
+<p>Sometimes we may be required to share your data for specific purposes. These purposes may include:</p>
+<ul>
+<li>In order for us to comply with a legal obligation or to detect, prevent, or otherwise address fraud&nbsp;or crime</li>
+<li>In order to detect or correct technical or security issues</li>
+<li>In order to apply or enforce our Terms and Conditions, or to protect the rights, property, or&nbsp;safety of us, you, our customers, our business partners, others, or the public</li>
+<li>In order to maintain continuity of service in the event that we sell or liquidate some or all of our&nbsp;business or assets</li>
+</ul>
+<p>Additionally, our website may contain links to our business partners or other third parties. Please&nbsp;understand that those websites have their own policies, and we do not accept any responsibility or&nbsp;liability for your use of those websites or any products or services available there.</p>
+<h2>What about data we obtain from third parties?</h2>
+<p>Sometimes we may obtain your personal data from a third party, either through the use of our website&nbsp;or through some of our products or services. Due to the nature of our products, it is possible that we&nbsp;may even obtain your data unsolicited from a third party. We may also obtain your personal data from&nbsp;our business partners through contractual relationships or through software they develop. We apply the&nbsp;same standards of security and privacy to all personal data in our possession, and you have rights with&nbsp;respect to your data regardless of its source. When and to the extent possible, we will notify you of the&nbsp;source if we obtain your data from a third party without your consent within at least thirty (30) days</p>
+<h2>Are you required to supply us with your personal data?</h2>
+<p>Sometimes we have to have your personal data in order to interact with you. Supplying some personal&nbsp;information is a prerequisite to purchasing products or services from us, obtaining support services, or&nbsp;using the website. If you do not provide the requested data in those instances, you will not be able to&nbsp;purchase any products or services from us, you will not have access to support services, and you may&nbsp;lose some functionality when interacting with the website, respectively.</p>
+<h2>What rights do you have with respect to your personal data?</h2>
+<p>You have a right to know if we have any of your personal data and to have access to that data, and you&nbsp;have the right to have any incorrect personal data corrected. If you have given us consent to have or use&nbsp;your data, you have the right to withdraw that consent at any time. You also have the right to have your&nbsp;personal data erased or to transport your data. Ordinarily we do not use automated decision-making&nbsp;with respect to any personal data, but if we do, you have the right to object.</p>
+<p>You have the right to lodge a complaint with a supervisory authority. Which authority is appropriate&nbsp;varies depending on your jurisdiction. If you wish to lodge a complaint, we can assist you in&nbsp;determining where the complaint should be lodged.</p>
+<p>You may contact us at any time at <a href="https://ninjaforms.com/contact">https://ninjaforms.com/contact</a>, to exercise any of these rights.&nbsp;Understand that sometimes we have to have your data in order to interact with you, and so exercising&nbsp;some or all of these rights might impact your ability to use our website or our products and services.</p>
+<h2>What if you have further questions?</h2>
+<p>If you have any additional questions about our privacy practices, please contact us at&nbsp;<a href="https://ninjaforms.com/contact">https://ninjaforms.com/contact</a>.</p>
+<div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_other_full_color swp_individual_full_color scale-100 scale-full_width" data-min-width="1100" data-float-color="#ffffff" data-float="none" data-float-mobile="none" data-transition="slide"><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Privacy+Policy&amp;url=https%3A%2F%2Fninjaforms.com%2Fprivacy-policy%2F" data-link="https://twitter.com/intent/tweet?text=Privacy+Policy&amp;url=https%3A%2F%2Fninjaforms.com%2Fprivacy-policy%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+						   e.setAttribute('type','text/javascript');
+						   e.setAttribute('charset','UTF-8');
+						   e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+						   document.body.appendChild(e);
+						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fninjaforms.com%2Fprivacy-policy%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fninjaforms.com%2Fprivacy-policy%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_google_plus" data-network="google_plus"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://plus.google.com/share?url=https%3A%2F%2Fninjaforms.com%2Fprivacy-policy%2F" data-link="https://plus.google.com/share?url=https%3A%2F%2Fninjaforms.com%2Fprivacy-policy%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_google_plus_icon"></i><span class="swp_share">+1</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button total_shares total_sharesalt"><span class="swp_count ">0 <span class="swp_label">Shares</span></span></div></div><div class="swp-content-locator"></div>								</div><!-- .entry-content -->
+
+	</article><!-- #page-935667 -->
+</div>
+
+
+						</div>
+			</div>
+		</div>
+		
+		
+		
+	
+	</div> <!-- /#middle -->
+
+	
+		
+				<footer id="footer" style="background-color:#2e3030;">
+			<div class="container">
+				<div id="static-content-402968" class="static-content "><div class="row">
+<div class="col-md-6"><div id="nav_menu-9" class="widget scg_widget footer-left widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-402974" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-402974"><a>PRODUCT INFO</a>
+<ul class="sub-menu">
+	<li id="menu-item-860732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-860732"><a href="https://ninjaforms.com/pricing/">Pricing</a></li>
+	<li id="menu-item-402978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402978"><a href="https://ninjaforms.com/extensions/">Add-Ons</a></li>
+	<li id="menu-item-402980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402980"><a href="https://ninjaforms.com/user-reviews/">Testimonials</a></li>
+	<li id="menu-item-402979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402979"><a href="https://downloads.wordpress.org/plugin/ninja-forms.zip">Download</a></li>
+	<li id="menu-item-402977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402977"><a href="https://ninjaforms.com/terms-conditions/">Terms &amp; Conditions</a></li>
+	<li id="menu-item-938322" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-935667 current_page_item menu-item-938322"><a href="https://ninjaforms.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-402982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-402982"><a>ABOUT</a>
+<ul class="sub-menu">
+	<li id="menu-item-402983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402983"><a href="https://ninjaforms.com/about/">Contributors</a></li>
+</ul>
+</li>
+<li id="menu-item-402984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-402984"><a href="#">MAKE MONEY</a>
+<ul class="sub-menu">
+	<li id="menu-item-402985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402985"><a href="https://ninjaforms.com/collaborating-developers-guide/">Develop Extensions</a></li>
+	<li id="menu-item-617682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-617682"><a href="http://developer.ninjaforms.com">Developer Tools</a></li>
+	<li id="menu-item-402986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402986"><a href="https://ninjaforms.com/affiliate-signup/">Become an Affiliate</a></li>
+</ul>
+</li>
+<li id="menu-item-402987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-402987"><a>SUPPORT</a>
+<ul class="sub-menu">
+	<li id="menu-item-402990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402990"><a href="/documentation/">Documentation</a></li>
+	<li id="menu-item-402991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402991"><a href="https://ninjaforms.com/contact/">Contact Us</a></li>
+	<li id="menu-item-402989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402989"><a href="https://ninjaforms.com/your-account/">Your Account</a></li>
+</ul>
+</li>
+</ul></div></div></div>
+<div class="col-md-18 main-footer-content"><div id="text-21" class="widget scg_widget footer-right widget_text"><h4 class="widgetTitle">Companies we trust our business with &amp; strategic partners:</h4>			<div class="textwidget"><div class="ftr-trusted-companies"><a href="https://chrislema.com"><img style="height:20px !important;" src="https://s8754.pcdn.co/wp-content/themes/ninja-theme/images/logo-chrislema.png" alt="Chris Lema"></a><a href="https://easydigitaldownloads.com/?ref=522"><img style="height:34px !important;" src="https://s8754.pcdn.co/wp-content/themes/ninja-theme/images/logo-edd.png" alt="EDD"></a><a href="https://www.godaddy.com"><img src="https://s8754.pcdn.co/wp-content/themes/ninja-theme/images/logo-godaddy.png" alt="GoDaddy"></a>
+<a href="http://pagely.7eer.net/c/127879/141222/2787"><img src="https://s8754.pcdn.co/wp-content/themes/ninja-theme/images/logo-pagely.png" alt="Pagely"></a><a href="http://para.llel.us"><img style="height: 30px !important;" src="https://s8754.pcdn.co/wp-content/themes/ninja-theme/images/logo-parallelus.png" alt="parallelus"></a><a href="http://www.shareasale.com/r.cfm?b=346200&amp;u=649095&amp;m=28169&amp;urllink=&amp;afftrack="><img style="height:18px !important;" src="https://s8754.pcdn.co/wp-content/themes/ninja-theme/images/logo-studiopress.png" alt="StudioPress"></a></div></div>
+		</div><div id="text-23" class="widget scg_widget footer-right widget_text">			<div class="textwidget"><div>Copyright © 2010&nbsp;·&nbsp;WP Ninjas, LLC</div></div>
+		</div></div>
+</div></div>			</div>
+		</footer>
+		
+	
+	</div> <!-- / #wrapper -->
+
+		<script>
+			(function( i, s, o, g, r, a, m ){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
+			(i[r].q=i[r].q||[]).push( arguments )},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName( o )[0];a.async=1;a.src=g;m.parentNode.insertBefore( a, m )
+			})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+			
+			ga( 'create', 'UA-585774-19', 'auto' );
+
+			
+			ga( 'send', 'pageview' );
+
+			
+		</script><!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MWMR2Q4"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->            <style type="text/css">
+            #hwp-860421, #hwp-860421 a, #hwp-860421 i, #hwp-860421 .holler-inside { color: #333333 !important; }
+            #hwp-860421, #hwp-860421 .hwp-row { background-color: #ffffff }
+            #hwp-860421 .hwp-email-btn, .hwp-floating-btn.hwp-btn-860421 { background-color: ; }
+            </style>
+
+            
+            <div id="hwp-860421" class="holler-box hwp-hide hwp-bottomleft fomo">
+
+                <div class="holler-inside">
+                
+                    <div class="hwp-close"><i class="icon icon-cancel"></i></div>
+
+                    
+                    <div class="hwp-box-rows">
+
+                                                
+                        <div class="hwp-row hwp-first-row">
+
+                            
+                        </div>
+
+                    </div>
+
+                <div class="hwp-row hwp-note-optin hwp-email-row hwp-hide">
+                                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="hwp_hp" tabindex="-1" value=""></div>
+                
+                
+                <input type="email" name="email" class="hwp-email-input " placeholder="Enter email" autocomplete="on" autocapitalize="off">
+                <button class="hwp-email-btn">Send</button>
+                                </div>
+                
+                <div class="hwp-chat hwp-hide">
+                    
+                    <div class="hwp-row hwp-text">
+                        <input type="text" class="hwp-text-input" placeholder="Type your message">
+                        <i class="icon icon-mail"></i>
+                    </div>
+                </div>
+
+                
+                
+                </div>
+ 
+            </div>
+            <script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/fitvids-for-wordpress/jquery.fitvids.js?ver=1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var hollerVars = {"ajaxurl":"https:\/\/ninjaforms.com\/wp-admin\/admin-ajax.php","pluginUrl":"https:\/\/ninjaforms.com\/wp-content\/plugins\/holler-box\/","hwpNonce":"4cfe69db27","expires":"999","isMobile":"","active":["860421"],"860421":{"type":"fomo","showEmail":"","showChat":"","emailProvider":"default","redirect":"","ckApi":"","visitor":"all","hideBtn":"","optinMsg":"","placeholder":"Enter your email","confirmMsg":"","emailErr":"Please enter a valid email address.","display_when":"delay","delay":"5","showSettings":"always","hideForDays":"1","hide_after":"never","hide_after_delay":"3","devices":"desktop_only","bgColor":"#ffffff","btnColor1":"","position":"hwp-bottomleft","fomoLoopTimes":"3","fomoLoopDelay":"15","fomoDisplayTime":"3"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/holler-box/assets/js/holler-frontend.min.js?ver=1.5.0"></script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/hollerbox-pro/assets/js/holler-pro.min.js?ver=0.7.0"></script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-includes/js/masonry.min.js?ver=3.3.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var colorboxSettings = {"rel":"group","maxWidth":"95%","maxHeight":"95%","opacity":"0.6","current":"image {current} of {total}","previous":"previous","next":"next","close":"close","xhrError":"This content failed to load.","imgError":"This image failed to load.","slideshowStart":"start slideshow","slideshowStop":"stop slideshow"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/simple-colorbox/scripts/jquery.colorbox-min.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var socialWarfare = {"addons":[{"name":"Social Warfare - Pro","key":"pro","core_required":"3.3.0","product_id":63157,"store_url":"https:\/\/warfareplugins.com","version":"3.5.4","filepath":"\/dom8754\/wp-content\/plugins\/social-warfare-pro\/social-warfare-pro.php","license_key":true,"is_registered":true},"pro"],"post_id":"935667","floatBeforeContent":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=3.5.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ThemeJS = {"ajax_url":"https:\/\/ninjaforms.com\/wp-admin\/admin-ajax.php","assets_url":"https:\/\/ninjaforms.com\/wp-content\/themes\/ninja-theme\/assets\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/themes/ninja-theme/assets/js/theme-scripts.js?ver=1.0"></script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/themes/ninja-theme/assets/js/bootstrap.min.js?ver=1.0"></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://s8754.pcdn.co/wp-content/themes/ninja-theme/assets/js/flexibility.js?ver=1.0.6'></script>
+<![endif]-->
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/wp-gallery-custom-links/wp-gallery-custom-links.js?ver=1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jiltStorefrontParams = {"public_key":"pk_cc25e9ec911debfa605d051ad5105c3c","payment_field_mapping":{"edd_email":"email","edd_first":"first_name","edd_last":"last_name","card_address":"address1","card_address_2":"address2","card_city":"city","card_state":"state_code","card_zip":"postal_code","billing_country":"country_code"},"address_field_mapping":{"card_address":"line1","card_address_2":"line2","card_city":"city","card_state":"state","card_zip":"zip","billing_country":"country"},"cart_hash":"07c571ac964b8a90516a702fb66c607d","cart_token":"7f2d187d-7d48-4113-9a31-ec8988d0733a","ajax_url":"https:\/\/ninjaforms.com\/wp-admin\/admin-ajax.php","nonce":"a826194735","log_threshold":"900","x_jilt_shop_domain":"ninjaforms.com","shop_uuid":"70a1d8fa-30fd-415b-b4ae-d84411f65f64","show_email_usage_notice":"","popover_dismiss_message":"No thanks, I'll enter my email later.","platform":"edd","api_url":"https:\/\/api.jilt.com","recover_held_orders":"","capture_email_on_add_to_cart":"","show_marketing_consent_opt_in":"","checkout_consent_prompt":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://js.jilt.com/storefront/v1/jilt.js?ver=1.4.6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ahoy_site_vars = {"ajaxurl":"https:\/\/ninjaforms.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/ninjaforms.com\/wp-json\/ahoy\/v1","rest_nonce":null,"messages":{"781333":{"style":"auto","cookie":"once","cookie_days":"7","time_trigger":true,"time_trigger_delay":"8","exit_trigger":false,"scroll_trigger":false,"scroll_trigger_type":"distance","scroll_trigger_distance":"50","scroll_trigger_element_point":"e_top-s_bottom","scroll_trigger_element_type":"shortcode","scroll_trigger_element_selector":"","cta_link_target_blank":null,"cta_closedelay":"0","conditions":[]}},"delay_between_messages":"3","close_button_delay":"2","time_trigger_delay":"6","uid":"0","I10n":[],"disable_cookie_checks":"","page":"-1","generated":"1554468818","analytics_enabled":"1","exit_trigger_top_sensitivity":"10","exit_trigger_delay_sensitivity":"200"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-content/plugins/ahoy/assets/js/ahoy-site.min.js?ver=1.0.2"></script>
+<script type="text/javascript" src="https://s8754.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
+		<script type="text/javascript">
+		jQuery(document).ready(function () {
+			jQuery('p').fitVids();
+		});
+		</script><script type="text/javascript"> var swp_nonce = "b3f78d097c";var swpFloatBeforeContent = false;var swpClickTracking = false; swpPinIt={"enabled":false};</script><script type="text/javascript" id="custom-theme-js">jQuery(document).ready(function($){$('a.popupVideo, .popupVideo a').colorbox({href:function(){var id=$(this).data('videoid');url='https://www.youtube.com/embed/'+id+'?&amp;autoplay=1&amp;rel=0';if(!id)url=this.href;return url;},iframe:true,innerWidth:function(){w=$(this).data('width')||854;return w;},innerHeight:function(){h=$(this).data('height')||480;return h;}});});if (typeof jQuery.fn.fitVids === "undefined") { document.write("<script src='https://s8754.pcdn.co/wp-content/themes/ninja-theme/assets/js/jquery.fitvids.min.js'>\x3C/script>"); }</script><div class="ahoy-message  ahoy-message--781333  ahoy-message--style-auto" role="dialog" data-message-id="781333">
+
+	<div class="ahoy-message__container">
+
+		<div class="ahoy-message__heading">
+
+			<img alt="" src="https://secure.gravatar.com/avatar/83dbf52edf58452bf8b77effd07307f8?s=144&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/83dbf52edf58452bf8b77effd07307f8?s=288&amp;d=mm&amp;r=g 2x" class="avatar avatar-144 photo" height="144" width="144">
+			<div class="">
+
+				
+					<span class="heading-text__name">James Laws</span>
+
+				
+				
+					<span class="heading_text__job-title">Co-Founder</span>
+
+				
+			</div>
+
+		</div>
+
+		<div class="ahoy-message__body">
+
+			<div class="ahoy-message__content">
+									<p class="ahoy-message__content-headline">Tap into Enormous Savings by Becoming a Ninja Forms Member Today!</p>
+				
+				<p><strong>We are offering 3 great membership packages:</strong></p>
+<ul>
+<li><a href="https://ninjaforms.com/extensions/individual-membership/?utm_source=ahoy&amp;utm_medium=onsite&amp;utm_campaign=Black+Friday+2017">Personal Membership</a>: 50%+ in savings</li>
+<li><a href="https://ninjaforms.com/extensions/professional-membership/?utm_source=ahoy&amp;utm_medium=onsite&amp;utm_campaign=Black+Friday+2017">Professional Membership</a>: 50%+ in savings</li>
+<li><a href="https://ninjaforms.com/extensions/ninja-forms-membership-bundle/?utm_source=ahoy&amp;utm_medium=onsite&amp;utm_campaign=Black+Friday+2017">Agency Membership</a>: 80%+ in savings</li>
+</ul>
+<p>*compared to purchasing licenses à la carte</p>
+			</div>
+
+			
+			
+		</div>
+
+		<button type="button" class="ahoy-message__close" aria-label="Close">×</button>
+
+	</div>
+
+	
+	<div class="ahoy-message__button">
+		<button><img alt="" src="https://secure.gravatar.com/avatar/83dbf52edf58452bf8b77effd07307f8?s=144&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/83dbf52edf58452bf8b77effd07307f8?s=288&amp;d=mm&amp;r=g 2x" class="avatar avatar-144 photo" height="144" width="144"></button>
+	</div>
+
+
+</div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d68d988140","applicationID":"77416250","transactionName":"MlRTY0NQXUZRUkwMDAsecFRFWFxbH0FZAgY=","queueTime":0,"applicationTime":747,"atts":"HhNQFQtKTkg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
