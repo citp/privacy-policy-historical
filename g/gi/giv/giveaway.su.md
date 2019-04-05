@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giveaway.su privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018082846id_/https%3A//giveaway.su/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveaway.su privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405103809id_/https%3A//giveaway.su/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - GiveAway.su
 
