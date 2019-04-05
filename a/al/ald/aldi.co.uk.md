@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925081238id_/https%3A//www.aldi.co.uk/customer-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405204929id_/https%3A//www.aldi.co.uk/customer-services/privacy-notice) for the most accurate reproduction.*
 
-# Customer Services - Privacy Policy - ALDI UK
+# Customer Services - Privacy Notice - ALDI UK
 
-**ALDI STORES LIMITED CUSTOMER PRIVACY POLICY**
+**ALDI STORES LIMITED CUSTOMER PRIVACY NOTICE**
 
  **KEY PRINCIPLES**
 
@@ -29,17 +29,17 @@ In practice, this means that all personal data which we hold about you will be:
 
 
 
-This Privacy Policy is broken down into a number of layers to allow you to more easily find out more about how we use your personal data and the steps we take to protect it.
+This Privacy Notice is broken down into a number of layers to allow you to more easily find out more about how we use your personal data and the steps we take to protect it.
 
-## 1\. OVERVIEW OF THIS POLICY AND WHO WE ARE
+## 1\. OVERVIEW OF THIS NOTICE AND WHO WE ARE
 
-  * Purpose of this Privacy Policy
+  * Purpose of this Privacy Notice
 
-This Privacy Policy sets out how ALDI collects and processes your personal data as a customer. This principally relates to your use of our Site / App, whether you are using them to sign up to our newsletter, purchase a product or service, take part in a competition, or otherwise.
+This Privacy Notice sets out how ALDI collects and processes your personal data as a customer. This principally relates to your use of our Site / App, whether you are using them to sign up to our newsletter, purchase a product or service, take part in a competition, or otherwise.
 
-By visiting www.ALDI.co.uk and our associated ALDI domains (our “ **Site** ”), and in particular by submitting your personal data to us, you are accepting and consenting to the practices described in this Privacy Policy. This Privacy Policy applies whether you are visiting our Site through an internet browser or through an ALDI "App" on your device (an " **App** ").
+By visiting www.ALDI.co.uk and our associated ALDI domains (our “ **Site** ”), and in particular by submitting your personal data to us, you are accepting and consenting to the practices described in this Privacy Notice. This Privacy Notice applies whether you are visiting our Site through an internet browser or through an ALDI "App" on your device (an " **App** ").
 
-It is important that you read this Privacy Policy together with any other privacy policy we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This Privacy Policy supplements the other policies and is not intended to override them.
+It is important that you read this Privacy Notice together with any other privacy policy we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This Privacy Notice supplements the other policies and is not intended to override them.
 
 Finally, our Site and App are not intended for children and we do not knowingly collect data relating to children.
 
@@ -47,15 +47,15 @@ Close
 
   * Who we are
 
-We are ALDI Stores Limited (collectively referred to as " **ALDI** ", " **we** ", " **us** " or " **our** " in this Privacy Policy). We are registered in England & Wales under registration number 02321869. Our registered address is Holly Lane, Atherstone, Warwickshire, CV9 2SQ. Our VAT number is GB813053468. Our Data Controller Registration Number is Z5724527.
+We are ALDI Stores Limited (collectively referred to as " **ALDI** ", " **we** ", " **us** " or " **our** " in this Privacy Notice). We are registered in England & Wales under registration number 02321869. Our registered address is Holly Lane, Atherstone, Warwickshire, CV9 2SQ. Our VAT number is GB813053468. Our Data Controller Registration Number is Z5724527.
 
 Close
 
   * Contact details
 
-We welcome questions and comments regarding this Privacy Policy or our use of your data. If you would like to contact us please use the details below or any relevant links provided on our Site / App.
+We welcome questions and comments regarding this Privacy Notice or our use of your data. If you would like to contact us please use the details below or any relevant links provided on our Site / App.
 
-We have a Data Privacy Team responsible for overseeing questions in relation to this Privacy Policy and our use of your data. Their details are set out below:
+We have a Data Privacy Team responsible for overseeing questions in relation to this Privacy Notice and our use of your data. Their details are set out below:
 
 Email address: [privacy@aldi.co.uk](mailto:privacy@aldi.co.uk)
 
@@ -71,11 +71,11 @@ We always appreciate the chance to try to deal with any data protection concerns
 
 Close
 
-  * Changes to this Privacy Policy
+  * Changes to this Privacy Notice
 
-This Privacy Policy was last updated on 24th May 2018.
+This Privacy Notice was last updated on 16th January 2019.
 
-Any changes we may make to our Privacy Policy in the future will be posted on this page. We recommend that you check this page from time to time to take notice of any changes we make, as they are binding on you if you provide us with information after such a change has been made.
+Any changes we may make to our Privacy Notice in the future will be posted on this page. We recommend that you check this page from time to time to take notice of any changes we make, as they are binding on you if you provide us with information after such a change has been made.
 
 Close
 
@@ -101,7 +101,7 @@ Our Site / App may contain links to and from third-party websites, plug-ins and 
 
   * Governing Law and Jurisdiction
 
-This Privacy Policy is governed by English law and you can bring legal proceedings in respect of it in the English courts. If you live in Scotland you can bring legal proceedings in respect of it in either the Scottish or the English courts. If you live in Northern Ireland you can bring legal proceedings in respect of it in either the Northern Irish or the English courts.
+This Privacy Notice is governed by English law and you can bring legal proceedings in respect of it in the English courts. If you live in Scotland you can bring legal proceedings in respect of it in either the Scottish or the English courts. If you live in Northern Ireland you can bring legal proceedings in respect of it in either the Northern Irish or the English courts.
 
 Close
 
@@ -125,7 +125,7 @@ We may collect, use, store and transfer different kinds of personal data about y
     *  **Usage Data** includes information about how you use our Site / App, products and services.
     *  **Marketing and Communications Data** includes your preferences in receiving marketing communications from us and our third-parties and your communication preferences.
 
-We also collect, use and share “ **Aggregated Data** ”. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** reveal your identity. For example, we may aggregate our users’ Usage Data to calculate the percentage of those users accessing a specific Site / App feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this Privacy Policy.
+We also collect, use and share “ **Aggregated Data** ”. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** reveal your identity. For example, we may aggregate our users’ Usage Data to calculate the percentage of those users accessing a specific Site / App feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this Privacy Notice.
 
 We do not collect any “ **Special Category Data** ” about you. Special Category Data includes details about your race or ethnicity, religious or philosophical beliefs, sexual orientation, political opinions, trade union membership and information about your health, genetic or biometric data. Nor do we collect any information about criminal convictions and offences.
 
@@ -228,9 +228,9 @@ Close
 
   * How we use your personal data - Special Purposes 
 
-We may occasionally require your personal data for additional Special Purposes, such as our product review panels. [Click here](https://web.archive.org/how-we-use-your-personal-data-special-purposes) for a description of the ways in which we use your personal data, and which of the legal bases we rely on to do so, in respect of such special purposes. You may have been linked to this portion of this Privacy Policy from another website or app relating to one of these special purposes.
+We may occasionally require your personal data for additional Special Purposes, such as our product review panels. [Click here](https://web.archive.org/how-we-use-your-personal-data-special-purposes) for a description of the ways in which we use your personal data, and which of the legal bases we rely on to do so, in respect of such special purposes. You may have been linked to this portion of this Privacy Notice from another website or app relating to one of these special purposes.
 
-Please note that the rest of this Privacy Policy (whether it is regarding who we are, how to contact us, our complaints procedures or otherwise) will still apply to our handling of your data for these Special Purposes. In the event that there is a conflict between this “Special Purposes” section and the wider Privacy Policy, this “Special Purposes” section will apply.
+Please note that the rest of this Privacy Notice (whether it is regarding who we are, how to contact us, our complaints procedures or otherwise) will still apply to our handling of your data for these Special Purposes. In the event that there is a conflict between this “Special Purposes” section and the wider Privacy Notice, this “Special Purposes” section will apply.
 
 Close
 
@@ -251,6 +251,7 @@ We use cookies to:
     * allow you to use our Site / App in a way that makes your browsing experience more convenient. For example, by allowing you to store items in an electronic shopping basket;
     * place advertisements for our products / services on: (a) our Site / App; and (b) other sites / apps involved in advertising or partnership networks in which we participate;
     * personalise the advertisements which we place to you;
+    * make recommendations to you about products or services you might like, based on those products and services you have purchased, or those which have been purchased by other customers;
     * improve our Site / App. For example, knowing how our users navigate our Site / App and use its features allows us to streamline the user experience, speed up searches, identify bugs, make enhancements and ultimately get you to the right page and product faster;
     * review the popularity of our products and advertisements with reference to platform, location and other related factors;
     * estimate our audience size and usage pattern;
@@ -279,18 +280,18 @@ You can set your browser to accept or reject certain cookies or, if you prefer, 
 
   * Disclosure of your personal data
 
-First and foremost, you can rest assured that your personal data will not be shared with third-parties unnecessarily. We may disclose your personal data for the purposes set out in this Privacy Policy:
+First and foremost, you can rest assured that your personal data will not be shared with third-parties unnecessarily. We may disclose your personal data for the purposes set out in this Privacy Notice:
 
-    * if the possibility of such disclosure is otherwise stated in this Privacy Policy, our Terms of Use, our Terms and Conditions of Sale or otherwise when the personal data is collected from you;
+    * if the possibility of such disclosure is otherwise stated in this Privacy Notice, our Terms of Use, our Terms and Conditions of Sale or otherwise when the personal data is collected from you;
     * in particular, to the specific third-parties described in the tables in Section 4 (How we use your personal data – General Website) and Section 5 (How we use your personal data – Special Purposes)
     * to other companies in the ALDI Group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006). This includes ALDI Stores (Ireland) Limited, registered in Ireland under registration number 294035, whose registered address is at 67-68 Fitzwilliam Square, Dublin 2 D02 R284;
     * to service providers acting as processors or joint controllers who provide us with IT and system administration services;
     * to professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers who provide us with consultancy, banking, legal, insurance and accounting services;
     * to HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers who require reporting of processing activities in certain circumstances;
     * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to protect our rights, property, or safety, or the rights, property or safety of our customers, or others. This includes exchanging information with: (a) the police or other investigatory or law enforcement authorities; and (b) companies and organisations involved in fraud protection and credit risk reduction; and/or
-    * to third-parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this Privacy Policy.
+    * to third-parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this Privacy Notice.
 
-We require all third-parties to respect the security of your personal data and to treat it in accordance with the law. Unless specifically stated in this Privacy Policy, we do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+We require all third-parties to respect the security of your personal data and to treat it in accordance with the law. Unless specifically stated in this Privacy Notice, we do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
 Close
 
@@ -366,9 +367,9 @@ Close
 
   * Your Legal Rights
 
-Under certain circumstances, you have rights under data protection laws in relation to your personal data. If you wish to exercise any of the rights set out above, please contact us using the details set out in the “Contact Details” section in Section 1 (Overview of this policy and who we are). A summary of the rights you have is set out below:
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. If you wish to exercise any of the rights set out above, please contact us using the details set out in the “Contact Details” section in Section 1 (Overview of this Notice and who we are). A summary of the rights you have is set out below:
 
-    *  **Opting-out of Marketing** : You can ask us or third-parties to stop sending you marketing communications at any time by: (a) visiting our unsubscribe page ([www.aldi.co.uk/unsubscribe-me](http://www.aldi.co.uk/unsubscribe-me)) and following the instructions provided; (b) by using the “unsubscribe” link at the bottom of any marketing communications which we send to you; or (c) by contacting us at any time using the details set out in the “Contact Details” section Section 1 (Overview of this policy and who we are).
+    *  **Opting-out of Marketing** : You can ask us or third-parties to stop sending you marketing communications at any time by: (a) visiting our unsubscribe page ([www.aldi.co.uk/unsubscribe-me](http://www.aldi.co.uk/unsubscribe-me)) and following the instructions provided; (b) by using the “unsubscribe” link at the bottom of any marketing communications which we send to you; or (c) by contacting us at any time using the details set out in the “Contact Details” section Section 1 (Overview of this Notice and who we are).
     *  **Data Subject Access Requests** : You have the right to request access to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
     *  **Correction** : You have the right to request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
     *  **Erasure** : You have the right to request we erase your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. Please note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
@@ -394,4 +395,4 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 
 
-ajCnreWSpGCNjZTEttXBwquOpDzsZlzuaNIkZsWIDqPjngukErONgBZqjXLLvMunYtJbPoquLveLmufwfLPnvmZvHqlScdEDgCCqyOMuXuXmFukXHlcBWWZbefAdDdfMuFpvksjzDQpCrVBsTyQVeHJoGkbxfvRQvnaofoFfWLQ 
+LNqxwRIizAcfilLQlQRHDmSKmwCkJbFLhvYxlOXlbtGWSeVmJbTnLTufugzEdGqmzbNkrJLwuBsWOdLQwQLCBiicuoKuTRbwdemJQOhXjrOubWeDrQbgvfJThcPllZAbXhNQShrRLxSKanHrWQSSefdpzGvMoGRqoqqVEgpYsKWNLZpVgHKHDKHvTLEynMNLvDWemYcOvdQdgTukBdsAunjfKWkOFbm 
