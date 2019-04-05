@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealjumbo.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912132318id_/https%3A//dealjumbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealjumbo.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405201306id_/https%3A//dealjumbo.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Dealjumbo.com — Discounted design bundles with extended license!
 
@@ -41,7 +41,7 @@ The information that is collected is used to help understand the needs of the vi
 
 
 
-**It is possible to unsubscribe from the emails at any time! If you need some help with unsubscribe from our newsletters please contact us anytime via[email](https://web.archive.org/web/20180912132318id_/https://dealjumbo.com/privacy/info@dealjumbo.com)!**
+**It is possible to unsubscribe from the emails at any time! If you need some help with unsubscribe from our newsletters please contact us anytime via[email](https://web.archive.org/web/20190405201306id_/https://dealjumbo.com/privacy/info@dealjumbo.com)!**
 
 **Protecting Information**
 
