@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suburbia-unwrapped.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007001701id_/https%3A//www.suburbia-unwrapped.com/discosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suburbia-unwrapped.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405063803id_/https%3A//www.suburbia-unwrapped.com/discosure-and-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Suburbia Unwrapped
 
