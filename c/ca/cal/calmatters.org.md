@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calmatters.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227162738id_/https%3A//calmatters.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calmatters.org privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405025033id_/https%3A//calmatters.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CALmatters
 
