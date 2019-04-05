@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the hiptoro.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211141723id_/http%3A//www.hiptoro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiptoro.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405142707id_/https%3A//www.hiptoro.com/pg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Hiptoro
 
 ## Who we are
 
 Our website address is: http://www.hiptoro.com.
+
+Hiptoro.com’s Additional Privacy Policy: <https://g.ezoic.net/privacy/hiptoro.com>
 
 ## What personal data we collect and why we collect it
 
