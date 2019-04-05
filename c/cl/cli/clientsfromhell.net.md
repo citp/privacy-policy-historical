@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clientsfromhell.net privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202203329id_/https%3A//clientsfromhell.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientsfromhell.net privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405140819id_/https%3A//clientsfromhell.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clients From Hell
 
