@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vontobel.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230113822id_/https%3A//www.vontobel.com/en-int/legal-notice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vontobel.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405192807id_/https%3A//www.vontobel.com/en-int/legal-notice/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Vontobel Holding AG and any of its affiliates (“Vontobel”, “us” or “we”) appreciates highly your interest in our products and services. Your privacy is important to us and we want you to feel comfortable using our products and services and visiting our website. It is a major concern for Vontobel that your personal data is treated in a responsible manner and in compliance with legal requirements. To this end, we take a number of precautions, such as implementing robust technical and organizational security measures (e.g., password encryptions, firewalls, authentication technologies, access management, employee awareness-raising and training, appointment of a Data Protection Officer (DPO)).
 
-This privacy policy (together with our [Terms and Conditions of Use](https://web.archive.org/web/20181230113822id_/https://www.vontobel.com/en-int/legal-notice/terms-and-conditions-of-use) for our website, [Cookie Policy](https://web.archive.org/web/20181230113822id_/https://www.vontobel.com/en-int/legal-notice/cookie-policy) and any other document referred to herein, “Privacy Policy”) describes the way we process your personal data when you use our products and services, visit our website, use our mobile applications or register for any service, providing information about yourself (“Vontobel Services”). 
+This privacy policy (together with our [Terms and Conditions of Use](https://web.archive.org/web/20190405192807id_/https://www.vontobel.com/en-int/legal-notice/terms-and-conditions-of-use) for our website, [Cookie Policy](https://web.archive.org/web/20190405192807id_/https://www.vontobel.com/en-int/legal-notice/cookie-policy) and any other document referred to herein, “Privacy Policy”) describes the way we process your personal data when you use our products and services, visit our website, use our mobile applications or register for any service, providing information about yourself (“Vontobel Services”). 
 
 Please read our Privacy Policy carefully before registering for, or using any Vontobel Services and, in particular, before entering any personal data, to understand our views and practices regarding your personal data, how we will treat it and the basis on which it could be disclosed to third parties. **By registering for, or using any Vontobel Services you are confirming and consenting to the data privacy practices described in the Privacy Policy. If you do not agree to this statement, do not register for, or use any Vontobel Services and do not use our website.**
 
@@ -141,7 +141,7 @@ We use web analysis tools to get information about how people use our sites and 
 
 The transfer of information is done by using shortened IP addresses, which prevents the identification of individual end-user devices. Your IP address is not linked with other data from these third parties. Any onward transfer by third parties will only be based on legal regulations or as part of a data processing service agreement.
 
-For detailed information on the cookies or web analysis tools we use, the purposes for which we use them and how you can accept and/or decline them, please see our [Cookie Policy](https://web.archive.org/web/20181230113822id_/https://www.vontobel.com/en-int/legal-notice/cookie-policy).
+For detailed information on the cookies or web analysis tools we use, the purposes for which we use them and how you can accept and/or decline them, please see our [Cookie Policy](https://web.archive.org/web/20190405192807id_/https://www.vontobel.com/en-int/legal-notice/cookie-policy).
 
 ### 11\. Retargeting
 
