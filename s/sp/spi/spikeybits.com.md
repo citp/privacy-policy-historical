@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spikeybits.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012164516id_/https%3A//www.spikeybits.com/spikey-bits-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spikeybits.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405202837id_/https%3A//www.spikeybits.com/spikey-bits-privacy-policy) for the most accurate reproduction.*
 
 # Spikey Bits Privacy Policy - Spikey Bits
 
