@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesbox.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164302id_/http%3A//www.gamesbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesbox.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405034823id_/http%3A//www.gamesbox.com/privacy.php) for the most accurate reproduction.*
 
 # Webmasters FLASH - Play Free Flash Games Online at GamesBox.com GamesBox.com - Free Flash Games - Play Your Favorite Game Online Right Now!
 
