@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sevenly.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163904id_/https%3A//www.sevenly.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenly.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406004150id_/https%3A//www.sevenly.org/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Sevenly
+# Privacy Policy
 
 This website is managed by **Sevenly, Inc.** You can rest assured that your personal information will never be rented, sold, or otherwise shared with any third party.
 
