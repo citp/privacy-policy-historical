@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacehost.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024144034id_/http%3A//leapswitch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacehost.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405112344id_/https%3A//leapswitch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Leapswitch Networks Pvt. Ltd.
 
@@ -79,4 +79,4 @@ The information contained in this website is for general information purposes on
 If there are any questions regarding this privacy policy you may contact us using the information below:   
 Company Name: LeapSwitch Networks Pvt Ltd Address: 1, Sneh Classics Erandawane Nalstop Pune 411004, Maharashtra India   
 Telephone No: +91-20-69906990 / +91-20-32670900   
-E-Mail ID: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+E-Mail ID: support@leapswitch.com 
