@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the texthelp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180936id_/https%3A//www.texthelp.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texthelp.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405085952id_/https%3A//www.texthelp.com/en-gb/privacy) for the most accurate reproduction.*
 
-# Literacy, Accessibility & Dyslexia Software | Texthelp | Texthelp
+# Texthelp Privacy Policy | Texthelp
 
-## Privacy policy 
+## Website privacy policy 
 
 At Texthelp we’re firmly committed to Internet privacy.
 
 This privacy statement discloses our information gathering and dissemination practices for all non-excluded websites owned and operated by Texthelp. 
+
+For more information on our Information Security Policy and Texthelp Products Privacy Policy relating to our products that are GDPR, COPPA and FERPA compliant please visit [Information Security Policy](https://web.archive.org/information-security-policy/) and [Texthelp Products Privacy Policy](https://web.archive.org/google-privacy-policy/). 
 
 ### Environment variables
 
@@ -60,7 +62,7 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-Texthelp does not share this information with any Third Party. The only exception to this would be a company acting on our behalf for mailing purposes only. We only work with mailing companies who meet our own data policies. 
+Texthelp does not share this information with any Third Party. The only exception to this would be a company acting on our behalf for mailing purposes only. We only work with mailing companies who meet our own strict information security policies. 
 
 ### Supplementation information
 
