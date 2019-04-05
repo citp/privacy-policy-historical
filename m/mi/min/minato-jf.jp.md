@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minato-jf.jp privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824104743id_/https%3A//minato-jf.jp/AccountRegist/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minato-jf.jp privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405230321id_/https%3A//minato-jf.jp/AccountRegist/Privacypolicy) for the most accurate reproduction.*
 
 # JF Japanese e-Learning Minato - Privacy Policy
 
