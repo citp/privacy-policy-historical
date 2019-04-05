@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfmta.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003063010id_/https%3A//www.sfmta.com/terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmta.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405033935id_/https%3A//www.sfmta.com/terms-of-use) for the most accurate reproduction.*
 
 # Terms of Use | SFMTA
 
@@ -26,7 +26,7 @@ The use of the City and County of San Francisco accessibility guidelines will en
 
 This Privacy Policy outlines the types of information the SFMTA and its vendors (“we” or “us”) may gather when an SFMTA customer (“you”) visit the SFMTA’s website or when you access payment services at websites operated by SFMTA vendors, as well as some of the steps we take to safeguard that information.
 
-#### **INFORMATION COLLECTION**
+#### Information Collection
 
   * We do not collect personal information about you when you visit the SFMTA’s or its vendors’ websites unless you choose to provide that information.
   * We may collect limited information that your browser makes available automatically whenever you visit a website, but that information is generally limited to the internet address of your computer or network, the date, time, and page you visited the website, your browser and operating system, and the referring page (the last webpage you visited before clicking on a link to the SFMTA or vendor website).  See the description of the SFMTA’s use of Cookies, below.
@@ -35,32 +35,32 @@ This Privacy Policy outlines the types of information the SFMTA and its vendors 
 
 
 
-#### **INFORMATION YOU PROVIDE**
+#### **Information You Provide**
 
   * We may use information volunteered by you to help enhance our websites, and we may share information with City and County of San Francisco employees and SFMTA vendors for that purpose.  You voluntarily provide us information when you fill out the online feedback forms and/or “contact us” forms for our websites, or when you fill-out similar forms used for on-line payment for fares, citations, permits, and other payments.  
 
 
 
-#### **COOKIES**
+#### **Cookies**
 
   * The SFMTA and its vendors, including vendors that provide customer payment services, use "cookies" when providing online services, such as online payments. We use cookies to improve the quality of our service, to measure server and network performance, analyze user traffic patterns, and improve the content of our websites. 
   * The use of cookies is a standard practice among internet websites and most internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. However, some features of SFMTA and SFMTA vendor websites may not function or may be impaired properly if the user rejects cookies.
 
 
 
-#### **INFORMATION SHARING**
+#### **Information Sharing**
 
   * The SFMTA does not give, share, sell, rent or transfer any personal information to third parties, unless you consent.
 
 
 
-#### **LINKS**
+#### **Links**
 
   * We use link and search capabilities to navigate publicly available information from dozens of agencies that are not part of the SFMTA or the City and County of San Francisco.  The SFMTA nor the City exercises any control over the websites owned or operated by outside those agencies.  The privacy policies and procedures described here do not necessarily apply to websites owned or operated by those outside agencies.  You should contact those agencies and websites directly for information on their privacy, data collection and distribution policies.
 
 
 
-#### **SITE AND INFORMATION SECURITY**
+#### **Site and Information Security**
 
   * We monitor network traffic on its website(s) to identify unauthorized attempts to upload or change information or to otherwise cause damage to those sites. By accessing SFMTA websites, you expressly consent to such monitoring.
   * We take appropriate security measures to protect unauthorized access, alteration or destruction of data.
@@ -68,13 +68,13 @@ This Privacy Policy outlines the types of information the SFMTA and its vendors 
 
 
 
-#### **FARE PAYMENT VIA MOBILE TELEPHONE APPLICATION**
+#### **Fare Payment via Mobile Telephone Application**
 
-  * The SFMTA has partnered with Moovel to provide fare payment services using a mobile telephone application (“Fare Payment App”).  The access and use of the Fare Payment App are set out in the Terms of Service set out on the [Mobile Fare Payment Terms Of Service page](https://sfmta.transitsherpa.com/rider-web/terms-and-conditions), which are subject to this Privacy Policy.  Modifications to the Fare Payment App Terms of Service will be posted at that website.
+  * The SFMTA has partnered with GlobeSherpa to provide fare payment services using a mobile telephone application (“Fare Payment App”).  The access and use of the Fare Payment App are set out in the Terms of Service set out on the [Mobile Fare Payment Terms Of Service page](https://sfmta.transitsherpa.com/rider-web/terms-and-conditions), which are subject to this Privacy Policy.  Modifications to the Fare Payment App Terms of Service will be posted at that website.
 
 
 
-#### **POLICY CHANGES**
+#### **Policy Changes**
 
   * Please note this Privacy Policy can change from time to time. We expect most such changes to be minor, but we will post those changes as they occur.
 
@@ -86,7 +86,7 @@ All editorial and creative assets on this website, including the code used to cr
 
 ### Trademarks
 
-San Francisco Municipal Railway, SF Municipal Railway (O'Shaughnessy Logo), MuniMobile, SF _park,_ MUNI (the Muni "worm" logo), SFMUNI, the Muni Mobile logo, and the word MuniMobile are registered trademarks of the San Francisco Municipal Transportation Agency.
+San Francisco Municipal Railway, MuniMobile, SF _park,_  Muni, the Muni "worm" logo, O'Shaughnessy logo, SFMuni and  MuniMobile logo are registered trademarks of the San Francisco Municipal Transportation Agency.
 
 ### **External Linking Policy**
 
