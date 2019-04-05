@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randomnerdtutorials.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012003349id_/https%3A//randomnerdtutorials.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomnerdtutorials.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405184049id_/https%3A//randomnerdtutorials.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Random Nerd Tutorials
 
