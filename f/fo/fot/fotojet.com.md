@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotojet.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230120140id_/https%3A//www.fotojet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotojet.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405104103id_/https%3A//www.fotojet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
