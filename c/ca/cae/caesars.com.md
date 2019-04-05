@@ -1,251 +1,209 @@
-> *The following text is extracted and transformed from the caesars.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626220017id_/http%3A//caesarscorporate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caesars.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405123531id_/https%3A//www.caesars.com/corporate/corporate-social-responsibility/play/privacy) for the most accurate reproduction.*
 
-# Privacy | Caesars Entertainment Corporation
+# CSR - Responsible Gaming Privacy | Caesars Entertainment
 
-**Revised: November 3, 2015**
+****Revised: February 27, 2019 ([ **click here**](https://www.caesars.com/privacy-policy-faq) for more information about this update)
 
- **Corporate Privacy Policy**
+ **[Caesars Privacy Policy](https://web.archive.org/corporate/corporate-social-responsibility/play/privacy#privacy)**
 
- **Special Provisions for Financial Services Customers**
+[ **Special Provisions for U.S. Financial Services Customers**](https://web.archive.org/corporate/corporate-social-responsibility/play/privacy#financial)
 
- **Online Privacy Policy**
+ **[Updating Email Preferences or Unsubscribing from Email](https://web.archive.org/corporate/corporate-social-responsibility/play/privacy#email)**
 
- **Unsubscribing from Email**
+ **[Opting Out of Direct Mail and Text Messages](https://web.archive.org/corporate/corporate-social-responsibility/play/privacy#DM)**
 
- **Opting Out of Direct Mail**
+Caesars Entertainment Corporation and its subsidiaries and affiliates (referred to in this Privacy Policy as ( **“Caesars,” “us,” “we,”**  and/or  **“our”** ) value you as a customer and take your personal privacy seriously. In the course of providing you with products and services, we may collect certain information from or about you. We are providing this Privacy Policy to explain our practices and policies for collecting, using and sharing information collected from or about you when you visit, access, or use, or provide information to us in connection with, one of the Caesars Properties, Caesars Websites or Caesars Mobile Apps, as each term is defined below in Section A.1. (referred to together as the  **“Caesars Services”** ). By visiting, accessing, or using, or providing information to us in connection with, the Caesars Services, you expressly consent to our collection, storage, use and sharing of your information as described in this Privacy Policy. Please note that if you disagree with anything in this Privacy Policy, you should not visit, access, or use, or provide information to us in connection with, the Caesars Services.
 
- **[Caesars Windsor Privacy Policy](https://www.caesars.com/caesars-windsor/privacy)**
+This Privacy Policy does not create a contractual obligation between you and Caesars, and it is subject to our Terms of Service located at [www.caesars.com/terms](http://www.caesars.com/terms) . If you have questions about this Privacy Policy, please contact us at 1-877-716-4500 or click [ _here_](https://totalrewards.custhelp.com/app/ask_first) to send an email.
 
-* * *
+This Privacy Policy does not apply to the activities of any properties other than the Caesars Properties (defined below in Section A.1.), or to Caesars affiliates or properties located outside of the United States. The privacy notice for the Caesars Windsor property may be found [ _here_](https://www.caesars.com/caesars-windsor/privacy).  The privacy notice for the [ _Caesars properties_](http://www.caesars.co.uk/casinos/) located in the United Kingdom, Egypt and South Africa may be found [ _here_.](http://www.caesars.co.uk/privacy-policy)
 
- **CORPORATE PRIVACY POLICY**
+##  **1\. Defined Terms**
 
-We value you as a customer and take your personal privacy seriously. In the course of providing you with products and services, we may collect certain personal information that we understand may be considered private or confidential. We are therefore providing this Privacy Policy to explain our practices and policies for collecting, using and sharing information collected from or about you. In this Privacy Policy, terms such as “us” “we” and/or “our” refer to Caesars Entertainment Corporation and its subsidiaries and affiliates, the Total Rewards casinos and resorts owned, operated or managed by them or their affiliates (the full list is available at [www.totalrewards.com/our-casinos](http://www.totalrewards.com/our-casinos)) (“Total Rewards Casinos,”), Bill’s Gamblin’ Hall & Saloon, Caesars Interactive Entertainment, Inc., including but not limited to WSOP.com and their respective websites. This Privacy Policy does not apply to any properties that are not Total Rewards Casinos (other than to Bill’s Gamblin’ Hall & Saloon) or to Caesars affiliates or properties outside of the United States and the term “Total Rewards” refers to our Total Rewards® loyalty program. The privacy practices and policies for the Caesars Windsor property may be found in the [Caesars Windsor Privacy Policy](https://www.caesars.com/caesars-windsor/privacy).
+As used in this Privacy Policy:
 
- **Our Privacy Principles**
+As used in this Privacy Policy:
 
-  * We protect, according to strict standards of security and confidentiality, all nonpublic personal information we collect about our customers.
-  * We maintain physical, electronic and organizational safeguards to protect this information.
-  * We require any person or organization providing products or services to customers on our behalf to protect the confidentiality of this information.
-  * We permit only authorized employees and contractors, including but not limited to consultants, to have access to nonpublic personal information of our customers.
-  * We afford former customers the same protections as existing customers with respect to the use and sharing of their information.
+(a)        **“Caesars Property( ies)” **refers to the casinos, hotel-casinos and entertainment facilities located in the United States that are owned, operated or managed by Caesars. (A current list of Caesars casinos and hotel-casinos is available at [totalrewards.com/our-casinos](http://www.totalrewards.com/our-casinos), except that Caesars Windsor is not a Caesars Property as defined in the Privacy Policy.  The Caesars Windsor privacy notice can be found [ _here_.](https://www.caesars.com/caesars-windsor/privacy))
 
+(b)      **  “Caesars Websites”** refers to websites owned or operated by Caesars that display this Privacy Policy, including, but not limited to, caesars.com and [https://www.caesars.com/total-rewards.](https://www.caesars.com/total-rewards)
 
+(c)      **  “Caesars Mobile Apps”** refers to mobile applications owned or operated by Caesars that display this Privacy Policy, including, but not limited to, the  _Caesars Rewards_ ® mobile application.
 
- **Information We May Collect**
+(d)        **“Personal Information”** refers to any information by which you can be personally identified, such as your first name, last name, address, phone number, email address, credit card number, social security number, driver license number, passport number, license plate number, geolocation information, Caesars Rewards number, date of birth, purchase information, gaming activity information, biometric information and other similar information.
 
-We collect and use information we believe is necessary to administer our business and provide you with the products and services you request. We may collect and maintain both Personal and Non-Personal Information needed for these purposes.
+(e)      **  “Non-Personal Information”** refers to information by which you cannot be personally identified.
 
-“Personal Information” includes any information by which you can be personally identified, such as your first name, last name, address, phone, email address, credit card number, social security number, Total Rewards number, date of birth, purchase information, gaming information and other similar information. You may provide us with Personal Information under a wide range of circumstances, such as when you submit information to us through our websites or mobile applications, sign up for email or text messages, install or use one of our mobile applications, sign up for Total Rewards, log in as a Total Rewards member, book a reservation, enter an online promotion, sign up or log in to play one of our free social games or our real money gaming online games at WSOP.com, request information, submit an application for employment, apply for credit or provide feedback in a survey.
+(f)      **  “Caesars Rewards” **or **“Caesars Rewards Program”** refers to Caesars’ Caesars Rewards® loyalty program.
 
-“Non-Personal Information” is information about you that does not personally identify you. Information of this type is most commonly obtained through your use of our websites, mobile applications and visits to our businesses.
+##  **2\. Information We May Collect.   **
 
- **How We May Use Your Information**
+ ** ** We collect and use information we believe is necessary to administer and promote our business and provide you with the products and services you request. We may collect and maintain both Personal Information and Non-Personal Information needed for these purposes.  Your Personal Information and/or Non-Personal Information will be referred as your “information” in this Privacy Policy.
 
-We will use the information you provide to us for the specific purposes for which you provided the information, as stated at the time of collection. The following are some other ways in which we may use your information to administer our business and provide you with the products and services you request:
+##  **3\. How We Collect Your Information.**
 
-  * to operate our Total Rewards program;
-  * to notify you about promotions and special offers regarding products and services provided by us or our affiliates or other associated third parties;
-  * to improve the products and services we provide you and develop new products and services;
-  * to improve our websites and mobile applications;
-  * to track your use of our websites and mobile applications for our internal market research;
-  * to ask for your participation in our internal market research;
-  * to generate aggregate statistical studies about our customers;
-  * to contact you in response to your inquiries, comments and suggestions;
-  * to provide you with a secure and safe environment;
-  * to protect and defend our rights or property or enforce our agreements with you;
-  * to cash your checks, extend you credit, process credit card, ACH and/or other financial transactions; and
-  * to contact you otherwise when necessary;
-  * otherwise with your consent or as permitted or required by law.
+(a)           _ _Information You Directly Provide to Us__. You may provide information directly to us under a wide range of circumstances, such as when you submit information to us through the Caesars Websites or Caesars Mobile Apps, sign up to receive email or text messages from us, sign up to access WiFi at a Caesars Property, park at a Caesars Property, install or use one of the Caesars Mobile Apps, sign up for Caesars Rewards, log in as a Caesars Rewards member, book a reservation for a Caesars Property, enter an online promotion, request information from us, scan your ID at check-in kiosk at a Caesars Property, submit an application for employment, apply for credit or provide feedback in a survey.
 
+(b) ** _           _** _ _Information Automatically Collected Through the Caesars Websites_._
 
-
- **Information Disclosure to Affiliated Entities**
-
-For business purposes, we may share certain Personal and Non-Personal Information we receive from you, and about your transactions with us, with our affiliates, including our owned, operated, and managed casinos, online and web based businesses, and other corporate entities or affiliates. Doing so allows us to provide the products and services you have requested and quickly respond to applications for credit or other financial services. We may also disclose your Personal Information to our affiliates if you participate in our “self-restriction” or “self-exclusion” programs. Please see[Know When to Stop Before You Start®](http://www.caesarspalace.com/corporate/about-us-responsible-gaming.html)for more information.
-
- **Information Disclosure to Non-Affiliated Entities**
-
-As permitted by law, we may share the information we collect from and about you with non-affiliated third parties.
-
-Information may be shared with or collected by third party service providers who provide us with services such as data hosting or processing, credit card processing, credit checks or processing and fulfilling reservations or purchases. We require these providers to exercise reasonable care to protect your Personal Information and restrict the use of your Personal Information to the purposes for which it was provided to them.
-
-We may share certain limited information about you with other companies with whom we have joint marketing agreements or other businesses with whom we have a contractual relationship (“Joint Marketing Partners”), who may contact you as part of a third party promotional program or loyalty program. These businesses generally include financial services companies, such as banks and insurance companies, other service providers, such as airlines and car rental agencies, and retailers, but may include others.
-
-We may transfer or provide a copy of your Personal Information to non-affiliated third parties in connection with an acquisition, merger, restructuring, sale, reorganization or other transfer involving any of our properties or all or any portion of our business.
-
-We may also disclose your Personal Information to third parties for the following purposes:
-
-  * as required by law or regulation;
-  * to comply with legal, regulatory or administrative requirements of any governmental authorities, including but not limited to gaming regulators;
-  * to comply with a court order, subpoena, search warrant or other valid legal process;
-  * in connection with any legal action, claim or dispute, including but not limited to the collection of debts; and
-  * for the protection of persons or property.
-
-
-
- **Your Choice to Share Information**
-
-If you are a Total Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions: First, [click here](https://www.totalrewards.com/mytotalrewards/?showglba=true) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.” Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.” Click “Save Changes” to ensure your preference settings are set.
-
-If you are not a Total Rewards customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form](https://www.caesars.com/content/dam/corporate/about/privacy_policy_form.pdf)([PDF](http://get.adobe.com/reader/)), complete it and mail it to:
-
-Caesars Operating Company, Inc.  
-ATTN: Loyalty Marketing  
-P.O. Box 98905  
-Las Vegas, NV 89193
-
-Opting out will not prevent your Personal Information from being shared with our affiliates for any purpose or used for other non-marketing purposes described above in this Privacy Policy.
-
- **How to Access, Update and Correct Personal Information**
-
-In order to ensure that all of your Personal Information is correct and up to date, visit a Total Rewards Casino and speak to a customer service representative. As a Total Rewards member, you may also review and update your profile by logging into your account, at http://www.totalrewards.com
-
- **Changes in Privacy Policy**
-
-Over time, it may be necessary to modify or supplement our Privacy Policy. When we make changes, we will post the changes to our websites and change the date at the top of the policy. The amended Privacy Policy will be effective upon posting on the Site. We encourage you to visit our websites from time to time to review our Privacy Policy in the event it has changed. Your continued provision of information to us or use of our websites following the posting of changes to the Privacy Policy means that you accept the changes and our use of your Personal Information in accordance with the revised Privacy Policy. If we make any material changes, we will also provide our current Financial Services customers with revised notices as described below.
-
- **Legal Gaming Age Policy**
-
-Persons under the age of twenty-one (21) are not permitted to gamble at our properties and/or online or through any web or mobile application, or loiter on any of our casino properties located in the United States. Any offers we make or any contests we conduct, unless otherwise noted, are not open to persons younger than the legal gaming age in the applicable jurisdiction. Persons younger than this legal age are not allowed to use our websites, accept offers, or win contests, and we do not knowingly collect information from such persons for gaming-related offers. We reserve the right to verify age at any time for any reason and may decline to provide products, services or access rights to any person who does not have valid age identification.
-
- **Video Surveillance**
-
-We use surveillance systems to monitor all gaming areas and other public or sensitive areas of our properties. Video surveillance cameras are used for security purposes and to protect us, our customers and employees against potential violations of criminal or civil laws. Surveillance camera output is monitored by our employees and contractors and may be viewed by law enforcement and regulatory authorities.
-
- **Your California Privacy Rights**
-
-As provided under California Civil Code Section 1798.83, also known as the “Shine The Light” law, we provide our customers with the ability to “opt out” of having their personal information shared with non-affiliated third parties for their direct marketing purposes.
-
- **Contact Us**
-
-Should you have additional questions, comments or concerns, please contact us by writing to:
-
-Caesars Operating Company, Inc.  
-ATTN.: Loyalty Marketing  
-P.O. Box 98905  
-Las Vegas, NV 89193-8905
-
- **SPECIAL PROVISIONS FOR WSOP.COM**
-
- **UNSUBSCRIBING FROM EMAIL**
-
-If you are a WSOP.com customer and would prefer not to receive further emails from us, please follow the unsubscribe link in the email.
-
-You will be removed from the mailing list within 7 days of receiving your request.
-
- **OPTING OUT OF DIRECT MAIL POLICY**
-
-We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-342-7724, Prompt 2. Your name and address will be removed from that mailing list within 30 days after your request.
-
- **YOUR CHOICE TO SHARE INFORMATION**
-
-If you are not an Action Club customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form(PDF)](https://www.caesars.com/content/dam/corporate/about/privacy_policy_form.pdf), complete it and mail it to:
-
-Caesars Operating Company, Inc. ATTN: Loyalty Marketing P.O. Box 98905 Las Vegas, NV 89193
-
-Opting out will not prevent your Personal Information from being shared with our affiliates for any purpose or used for other non-marketing purposes described above in this Privacy Policy.
-
- **RESPONSIBLE GAMING**
-
-WSOP.com takes responsible gaming very seriously. Our policy can be found by visiting the following page:[click here](http://www.wsop.com/legal/responsible-gaming.asp).
-
- **CONTACT US**
-
-Should you have additional questions, comments or concerns, please contact us by visiting the following page:[click here](http://www.wsop.com/contact/).
-
-* * *
-
- **SPECIAL PROVISIONS FOR FINANCIAL SERVICES CUSTOMERS**
-
- **Information Collected in Connection with Financial Services**
-
-If you are a customer who utilizes our credit or check cashing, counter check account and/or cash advance services (“Financial Services”), there are additional categories of information we may collect from or about you:
-
-  * Information we receive on applications for credit or other financial services, such as your name, address, telephone number, Social Security number and other identifying information.
-  * Information we receive about you from others, including credit bureaus, relating to your credit history and financial transactions with others.
-  * Information about your transactions with us, including your payment history and/or gaming activity with any Total Rewards Casinos.
-
-
-
- **Annual Notices**  
-We will inform you of our Privacy Policy at least once a year, as long as you are a current Financial Services customer of ours. If you no longer have a customer relationship with us, we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future. Our current form of notice with additional information about our privacy practices and choices you can make about how we share your information can be found [here](http://caesarscorporate.com/glba-notice). If you prefer that we not share your personal information, please [click here](https://www.totalrewards.com/content/cet-tr/en/contact-us/preferences.html)‚ log in to your Total Rewards online account and then click on “Manage My Preferences.” You can update your sharing preferences on this page. Click “Save Changes” when you are finished. If you do not yet have a Total Rewards online account, [click here](https://www.totalrewards.com/mytotalrewards/#set-up) to create one.
-
- **Material Changes to Our Privacy Policy**
-
-If we make any material changes to our Privacy Policy as relates to Financial Services, we will provide our current Financial Services customers with revised notices that describe our new policies and procedures that apply to them.
-
-* * *
-
- **ONLINE PRIVACY POLICY**
-
-In addition to the practices and policies described above, the following apply to our websites (each a “Site”).
-
- **A. Additional Information We May Collect**
-
- **Traffic Data**
-
-We automatically track and collect general log information when you visit our Site, including your: (i) Internet Protocol (IP) address, (ii) domain server, (iii) operating system, and (iv) type of Web browser as well as the pages you visit on our Site (collectively “ **Traffic Data** “). Traffic Data does not personally identify you, but is helpful for marketing purposes and for improving your experience on the Site. We use the Traffic Data to report aggregated website activity and to better understand the needs of our users so we can make informed decisions regarding the content and design of the Site. It enables us:
+(i)             _Traffic Data_.  We automatically track and collect general log information when you visit the Caesars Websites, including your: (A) Internet Protocol (IP) address, (B) domain server, (C) operating system, and (D) type of Web browser as well as the pages you visit on the Caesars Websites (collectively “ **Traffic Data** “). Traffic Data does not personally identify you, however, if you choose to provide us with Personal Information, we may store some items of your Personal Information and use it with the Traffic Data to better personalize your experience on the Caesars Websites. We use the Traffic Data to report aggregated website activity and to better understand the needs of our users so we can make informed decisions regarding the content and design of the Caesars Websites. It enables us:
 
   * to estimate our audience size and usage pattern;
   * to learn what information is of most and least interest;
   * to speed up your searches; and
-  * to learn of any possible Site performance problems.
+  * to learn of any possible Caesars Website performance problems.
 
 
 
 We may collect Traffic Data through various technologies including, but not limited to, cookies, IP addresses, and transparent GIFs (Graphics Interchange Format, a software technology also known as a pixel tag).
 
- **Personal Information**
+(ii)            _Data Collected Using Cookies and Other Technologies_. We also automatically collect information from you using cookies and other technologies on the Caesars Websites. Cookies are small text files offered to your computer by servers in order to keep track of your browser as you navigate the Caesars Websites. Cookies may be stored on your hard drive in which case they remain on your hard drive until deleted, or in temporary memory in which case they are deleted when you shut down your browser or turn off your computer. We may use cookies and similar technologies to identify who you are and may use them when you visit the Caesars Websites, click on our ads, or open our emails. Cookies also enable us to remember your user preferences for the Caesars Websites. Cookies and other technologies may also be used for site maintenance and analysis, performing network communications, authenticating users, serving contextual advertisements, and protecting against fraud and theft.  You can block or remove cookies using your Internet browser’s settings. If you block or remove cookies, your ability to perform certain transactions, use certain functionality, and access certain content on the Caesars Websites may be affected. To find out more about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-You may provide us with Personal Information when you use the Site or websites operated by our service providers by completing online forms or entering information where requested, or by sending us emails or text messages.
+(iii) _           _ _Information Collected by Third Parties through Third Party Links and Content_ _. **   **_The Caesars Websites and Caesars Mobile Apps may include links to other websites and other content from third party businesses.  These third party businesses may use cookies, web beacons or other similar technology to collect information about you.  Caesars does not have access to or control over these third parties or the cookies, web beacons or other technology that these third parties may use.  We are not responsible for the privacy practices of these third parties or the content on any third party website.  You are encouraged to review the privacy policies of the different websites you visit and of the advertisers whose ads you may choose to click while on the Caesars Websites (see Section A.7. below for additional information about Online Advertising).
 
- **Cookies and Other Technologies**
+(iv)         _Information Collected by Third Party Analytics Services_.  We may work with third party analytics services to help us understand how the Caesars Websites or Caesars Mobile Apps are being used, such as tracking the frequency and duration of use of the Caesars Websites or Caesars Mobile Apps. These analytics services may use cookies and other technologies to collect information about the content you view, what websites you visit immediately prior to and after visiting the Caesars Websites, and your system information and geographic information. The information generated by these technologies about your use of the Caesars Websites or Caesars Mobile Applications will be transmitted to and stored by the applicable analytics services. The information collected by these analytics services allows us to analyze your use of the Caesars Websites or Caesars Mobile Apps.
 
-We use cookies and other technologies on our Sites. Cookies are small text files offered to your computer by servers in order to keep track of your browser as you navigate the Site. Cookies may be stored on your hard drive in which case they remain on your hard drive until deleted, or in temporary memory in which case they are deleted when you shut down your browser or turn off your computer. We may use cookies and similar technologies to identify who you are and may use them when you visit our Site, click on our ads, or open our emails. Cookies also enable us to remember your user preferences for our Site. In addition, if you choose to provide us with Personal Information, we may store some items of your Personal Information and use it with the Traffic Data to better personalize your experience on our Site. Cookies and other technologies may also be used for site maintenance and analysis, performing network communications, authenticating users, serving contextual advertisements, and protecting against fraud and theft. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  To opt out of Caesars cookies used for this online advertising, [click here](http://dtmc.caesars.com/adinfo/choice/prod/?type=fpc&cid=2981&cname=Caesars%20Entertainment&cmagic=7ea4e7&clogo=caesars.jpg&loc=us&lang=en-us).   To opt out of Total Rewards cookies used for this online advertising, [click here](http://dtmc.totalrewards.com/adinfo/choice/prod/?type=fpc&cid=2981&cname=Total%20Rewards&cmagic=7ea4e7&clogo=caesars.jpg&loc=us&lang=en-us).   You can block or remove cookies using your Internet browser’s settings. If you block or remove cookies, your ability to perform certain transactions, use certain functionality, and access certain content on our Site may be affected.
+(v)           _Information You Share on Third Party Websites or through Social Media Services_. **   **The Caesars Websites may include links to third party websites and social media services where you will be able to post comments, stories, reviews or other information.  Your use of these third party websites and social media services may result in the collection or sharing of information about you by these third party websites and social media services. We encourage you to review the privacy policies and settings on the third party websites and social media services with which you interact to make sure you understand the information that may be collected, used, and shared by those third party websites and social media services.  We may also monitor sentiments regarding Caesars that you publicly post on social media services or customer review sites.  We may reach out to you regarding these postings to address customer service issues and to otherwise help ensure that you have a positive customer experience.
 
-Third-party advertising companies that work with us may also use cookies and other similar technologies to collect Non-Personal Information to provide you with advertisements that are likely to be of interest to you.   To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+(vi)          _Information You Post on the Caesars Websites_. **   **If you post information on any public areas of the Caesars Websites, that information may be collected and used by Caesars, other users of the Caesars Websites, and the public generally.  We strongly recommend that you do not post any information through the Caesars Websites that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
 
- **B. Online Security**
+(c)            _ _Information Obtained from Other Sources__.  We may obtain information about you from other sources, including service providers, third party services, publicly available sources or Joint Marketing Partners (defined below), and we may combine such information with information we have collected about you as described in this Privacy Policy. To the extent we combine such third party information with other Personal Information we have collected, we will treat the combined information as Personal Information under this Privacy Policy. We are not responsible for the accuracy of any information provided by third parties or third party policies or practices.
 
-We use reasonable security safeguards to protect the Personal Information that we collect from unauthorized access. However, due to the design of the Internet, we cannot guarantee that communications between you and our servers will be completely secure or free from unauthorized access by third parties.
+(d) _           _Information We Automatically Collect Through the Caesars Mobile Apps, including Location Information_._  If you install or use one of the Caesars Mobile Apps, we may collect and use information regarding your mobile device, including but not limited to technical information about your mobile device, system and application software, and peripherals, that is gathered periodically to facilitate any upgrades, product support and other services to you (if any) related to the Caesars Mobile Apps, and to provide services or technologies to you. In addition, if you install one of the Caesars Mobile Apps and allow your device to share location information with our Mobile App, we may be able to automatically identify and collect the location of your mobile device, including GPS location, which is the real-time geographic location of your mobile device.  We may use your location information to provide you with more relevant content and useful app features, such as wayfinding services at Caesars Properties.  We may also use this data for statistical or business-related purposes to improve our products, services and properties.  If you allow a Caesars Mobile App to send you push notifications, your location information may be used to send real-time offers for goods and services at Caesars Properties that are close to your location.  You may adjust your device settings to turn off push notifications at any time.  Location information may also be collected and used to tailor your marketing offers to your specific interests.  You may choose not to share your location details with us by adjusting or turning off your mobile device’s location services settings; however, by doing so, you may not be able to use certain features provided through the Caesars Mobile App.   Please note that even if you adjust the settings in your mobile device to turn off location sharing (via GPS data), we may be able to collect information about the location of your mobile device if you are located on one of the Caesars Properties through your WiFi, Bluetooth, and other device settings.  See subsection (f) below for more information.
 
- **C. External Links**
+(e) ** _           _** _ _Information We Automatically Collect When You Use Our WiFi Services__. If you use WiFi services that we make available at a Caesars Property, we might collect information about your use of our WiFi services, including your IP address, WiFi information (such as SSID), mobile carrier, the websites you visit, the type of device and browser you are using, your device identification number, bandwidth used and session time. See subsection (f) below for more information regarding the collection of information regarding your physical location if you are located on one of the Caesars Properties.
 
-The Site may contain hyperlinks to other websites that may have information policies and practices that are different from ours. The fact that we have provided a link to a site is NOT an endorsement, authorization, sponsorship, or affiliation by us with respect to such site, its owners, or its providers. Links to other websites are provided only as a convenience to you. We are not responsible for the content, validity, privacy policies or reliability of any website linked to this Site that is not within our family of properties. There are risks in using any information, software, products or services found on the Internet, and you should make sure that you completely understand these risks before using, relying upon, or purchasing anything via the Internet.
+(f)            _ _Information We Automatically Collect from Mobile Devices on Caesars Properties__.  If you have a mobile device, are located on a Caesars Property and have your WiFi or Bluetooth functionality enabled, we may collect information concerning your mobile device, including the type of device, device ID, and the precise physical location of your device within and around the Caesars Properties (including geolocation and beacon-based location), for analytics and non-marketing related purposes, such as enabling us to understand our customers’ preferences and use of our properties, including general traffic patterns.  With your consent, we might also use your location information for marketing purposes, such as to provide you with real-time offers and personalized promotions.  If you do not want information concerning your precise location to be collected on Caesars Properties, you may adjust your mobile device location sharing settings and disable the WiFi and Bluetooth functionality in your mobile device settings.
 
- **D. Terms of Use**
+##  **4\. How We May Use Your Information.   **
 
-Your use of our Site constitutes your acceptance of the terms and conditions in this Privacy Policy as modified from time to time. By using our Site, you represent that you are of the legal gaming age in the applicable jurisdiction where you reside.
+We will use the information you provide to us for the specific purposes for which you provided the information, as stated at the time of collection, and as otherwise described in the Privacy Policy or permitted by law. The following are some other ways in which we may use your information to administer or promote our business and provide you with the products and services you request or may be of interest to you;
 
- **E. Non-U.S. Residents**
+  * to operate our Caesars Rewards Program;
+  * to improve the products and services we provide you and develop new products and services;
+  * to improve the Caesars Properties, Caesars Websites and Caesars Mobile Apps;
+  * to track your use of the Caesars Properties, Caesars Websites and Caesars Mobile Apps for our internal market research;
+  * to create a more accurate and complete customer profile to better understand the products and services you want to use;
+  * to notify you about promotions and special offers regarding products and services provided by us or our affiliates or other associated third parties, including our Joint Marketing Partners (defined below);
+  * to ask for your participation in our internal market research;
+  * to generate aggregate statistical studies about our customers;
+  * to contact you in response to your inquiries, comments and suggestions;
+  * to provide a secure and safe environment for our guests;
+  * to protect and defend our rights or property or enforce our agreements with you;
+  * to perform background checks for any reason (to the extent permitted by applicable laws), which includes but is not limited to any investigation into your identity, any credit checks or any inquiries into your personal history
+  * to cash your checks, extend you credit, process credit card, ACH and/or other financial transactions;
+  * to contact you otherwise when necessary; and
+  * otherwise with your consent or as permitted or required by law.
 
-Unless otherwise specified, our Site and material provided on our Site are solely for promoting products, programs, and business operations within the U.S. If you do not reside in the U.S. and are visiting this Site, if you provide Personal Information to us, it may be transferred to and processed on computers in the U.S. and other countries. Do not provide your Personal Information to us if you do not want this information to be transferred outside of your country, or if the laws in your country restrict these types of transfers. Instead, please contact us using the information provided in the section titled “Contact Us.” Your provision of Personal Information to us will be handled in accordance with this Privacy Policy. Your provision of Personal Information to us through this Site means that you agree to the terms of this Privacy Policy.
 
-* * *
 
- **MOBILE APPLICATION PRIVACY POLICY**
+##  **5\. How We Share Your Information with Our Affiliates.  **
 
-If you install or use one of our mobile applications, we may collect and use technical data and related information, including but not limited to technical information about your mobile device, system and application software, and peripherals, that is gathered periodically to facilitate any upgrades, product support and other services to you (if any) related to the application, and to provide services or technologies to you.
+For business purposes, we may share certain information we receive from you, and about your transactions with us, with our affiliates, including our owned, operated, and managed casinos, hotels, online and web based businesses, and other corporate entities or affiliates. Doing so allows us to provide the products and services you have requested and quickly respond to applications for credit or other financial services. We may also disclose your Personal Information to all Caesars Properties and other affiliates if you participate in our “self-restriction” or “self-exclusion” programs. Please click [ _here_](http://caesarscorporate.com/about-caesars/responsible-gaming/) for more information.
 
-You may install and download our applications without providing any personal information to us. However, in order to use certain features of our mobile applications we may need to collect your personal information. For example, in order to benefit from an application’s location-based features, such as receiving special offers for casinos or resorts close to your location, you must allow the application to transmit, collect, maintain, process and use your location data, including the real-time geographic location of your mobile phone (the “Location Data”). You may withdraw this consent at any time by turning off the location services settings on your mobile device. Disabling such features will not impact the non location-based functionality of the application. We may also offer the ability to sign up for certain products or services through a mobile application, in which case you will need to provide the personal information necessary to sign up for the applicable product or service. For example, you may be able to register for the Total Rewards program through a mobile application by providing your name, contact information and date of birth, as well as a user name, password and answers to security questions. Personal information collected through our applications will be maintained, used and disclosed in accordance with our Corporate Privacy Policy.
+##  **6\. How We Share Your Information with Non-Affiliated Third Parties.   **
 
-* * *
+ ** ** As permitted by law, we may share the information we collect from and about you with non-affiliated third parties as follows:
 
- **UNSUBSCRIBING FROM EMAIL**
+(a)           _ _Third Party Service Providers__.  Your information may be shared with or collected by third party service providers who provide us with services, including but not limited to data hosting or processing, credit card processing, credit or background checks, or processing and fulfilling reservations or purchases. We require these providers to exercise reasonable care to protect your Personal Information and restrict the use of your Personal Information to the purposes for which it was provided to them.
 
-If you are a Total Rewards member and would prefer not to receive further emails from us, you may click on the “unsubscribe” link found on the bottom of all our email communications. You can also unsubscribe at any customer service center at any Total Rewards Casino or by calling 1-800-342-7724, Prompt 2.
+(b)           _ _Third Party Joint Marketing Partners__.  We may share certain limited information about you with other companies with whom we have joint marketing or similar agreements, or other businesses with whom we have a contractual relationship (“ **Joint Marketing Partners** ”), who may contact you with marketing and promotional offers. These businesses generally include financial services companies, such as banks and insurance companies, other service providers, such as airlines, hotels and car rental agencies, and retailers, but may include others.  If you would like us to stop providing your information to these Joint Marketing Partners, you may opt-out in accordance with Section A.8. below.
 
-If you are not a Total Rewards member and would prefer not to receive further emails from us, you may click on the “unsubscribe” link found on the bottom of all our email communications.
+(c)            _ _Business Transfers; Bankruptcy__. In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets (for example, a sale of one of the Caesars Properties to a third party), we may transfer or allow third parties to use information owned or controlled by us. We reserve the right, in connection with these types of transactions, to transfer or assign your information and other information we have collected from our customers to third parties or to authorize third parties to use any such information retained by us.  Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity.
 
-* * *
+(d)           _ _Response to Subpoenas or Court Orders or to Protect Rights and to Comply with Our Policies__. To the extent permitted by law, we will disclose your information to government authorities or third parties: (i) if required to do so by law, or in response to a subpoena or court order, search warrant or other valid legal process, (ii) to comply with legal, regulatory or administrative requirements of any governmental authorities, including but not limited to gaming regulators, (iii) in connection with any legal action, claim or dispute, including but not limited to the collection of debts, (iv) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large, or (v) we believe that you have abused a Caesars Website or Caesars Mobile Application by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
 
- **OPTING OUT OF DIRECT MAIL POLICY**
+(e)           _ _Aggregate Information__.  We may share your information with affiliated or non-affiliated third parties on an anonymous, aggregate basis. While this information will not identify you personally, in some instances these third parties may be able to combine this aggregate information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally.
 
-We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-342-7724, Prompt 2. Your name and address will be removed from that mailing list within 30 days after your request.
+##  **7\. Online Advertising; Tracking**.
 
-* * *
+(a)            _Online Advertising_.  Caesars and third parties may use the information collected through the Caesars Websites using cookies, web beacons, and other similar technologies to help manage online advertising programs.  This information may enable advertising services to track the actions of users online over time and across different web sites or platforms to measure statistics relating to marketing efforts, and to deliver electronic advertisements that may be more relevant to individual consumers and that will improve the consumer experience.  For information about how tracking works for online advertising purposes, and what happens when you elect a do-not-track option, visit <http://www.aboutads.info/choices>.  For more information about the Network Advertising Initiative opt-out process, you may visit the Network Advertising Initiative website, available at: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-[ ](http://caesarscorporate.com/about-caesars/environmental-sustainability/)
+(b)           _Do Not Track_. **   **Your browser may allow you to adjust your browser settings so that “do not track” requests are sent to the websites that you visit.  However, at the present time we do not disable tracking technology that may be active on the Caesars Websites in response to any “do not track” requests that we receive from your browser.
 
-We're committed to improving the world we live in through new ideas that reduce our environmental footprint. [Learn More](http://caesarscorporate.com/about-caesars/environmental-sustainability/)
+##  **8\. Your Choice to Share Information**. 
+
+If you are a Caesars Rewards member and prefer that we not share your Personal Information with our Joint Marketing Partners (defined in Section A.6(b) above), you can update your sharing preferences in the Profile section of your online Caesars Rewards account at [www.totalrewards.com](http://www.totalrewards.com/).
+
+If you are not a Caesars Rewards customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [ _click here to download the opt-out form_ , complete it and mail it to:](https://www.caesars.com/content/dam/corporate/about/privacy_policy_form.pdf)
+
+Caesars Enterprise Services, LLCATTN: Loyalty MarketingP.O. Box 98905Las Vegas, NV 89193
+
+Opting out by following the instructions above will not prevent your Personal Information from being shared with our affiliates for any purpose or used for other non-marketing purposes described above in this Privacy Policy, subject to applicable law.
+
+##  **9\. Your California Privacy Rights**.  
+
+As provided under California Civil Code Section 1798.83, also known as the “Shine The Light” law, we provide our customers with the ability to “opt out” of having their Personal Information shared with affiliated and non-affiliated third parties for their direct marketing purposes.  You may opt-out of having your Personal Information shared with affiliated and non-affiliated third parties for their direct marketing purposes in accordance with the opt-out process described in Section A.8.
+
+##  **10\. Security.   **
+
+We maintain physical, electronic and organizational safeguards that reasonably and appropriately protect against the loss, misuse and alteration of the information under our control. With regard to information that you transfer to us through one of the Caesars Websites or Caesars Mobile Apps, please be aware that no data transmission over the Internet or a wireless network can be guaranteed to be 100% secure. As a result, Caesars cannot guarantee or warrant the security of any information you transmit on or through the Caesars Websites or Caesars Mobile Apps and you do so at your own risk.
+
+##  **11\. How to Access, Update and Correct Personal Information**. 
+
+In order to ensure that all of your Personal Information is correct and up to date, visit a Caesars Property and speak to a customer service representative. As a Caesars Rewards member, you may also review and update your profile by logging into your account at [http://www.totalrewards.com](http://www.totalrewards.com/).
+
+##  **12\. Changes to Our Privacy Policy**. 
+
+Over time, it may be necessary to modify or supplement our Privacy Policy. When we make changes, we will post the changes to the Caesars Websites and change the effective date at the top of the Privacy Policy. We encourage you to visit the Caesars Websites from time to time to review our Privacy Policy in the event it has changed. Your continued provision of information to us or use of the Caesars Services following the posting of changes to the Privacy Policy means that you accept the changes and our use of your Personal Information in accordance with the revised Privacy Policy. If we make any material changes to the Privacy Policy, we will notify you of changes at least thirty (30) days before the effective date of the changes.  If you have provided us with your email address we will also notify you of material changes to this Privacy Policy by sending an email at least thirty (30) days before the effective date of the changes to the email address you most recently provided to us. We encourage you to keep the email address you provide to us current, and to promptly notify us of any changes to your email address, so that you may receive any notices we send to you regarding material changes to this Privacy Policy. If you do not agree to the changes, you should discontinue your use of the Caesars Services prior to the time the modified Privacy Policy takes effect.
+
+##  **13\. Legal Gaming Age Policy**. 
+
+Persons under the age of twenty-one (21) are not permitted to loiter or gamble at any casino at a Caesars Property or gamble online or through any Caesars Website or Caesars Mobile App. Any offers we make or any promotions we conduct, unless otherwise noted, are not open to persons younger than the legal gaming age in the applicable jurisdiction. Persons younger than this legal age are not allowed to accept gaming-related offers, or win promotions, and we do not knowingly collect information from such persons for gaming-related offers. We reserve the right to verify age at any time for any reason and may decline to provide products, services or access rights to any person who does not have valid age identification.
+
+##  **14\. Responsible Gaming.      **
+
+We take responsible gaming very seriously.  Click [ _here_](https://web.archive.org/corporate/corporate-social-responsibility/play/responsible-gaming)   to learn more about our corporate commitment to responsible gaming.
+
+##  **15\. Video Surveillance and Facial Recognition Technologies**. 
+
+ We use surveillance systems to monitor all gaming areas and other public or sensitive areas of the Caesars Properties. Video surveillance cameras may be used for security purposes and to protect us, our customers and employees against potential violations of criminal or civil laws. Some video surveillance systems may incorporate facial recognition technologies that can be used, in the discretion of our employees, for additional surveillance and screening of individuals at Caesars Properties.  In addition, cameras and facial recognition technologies may also be used at Caesars Properties to enhance your customer experience and provide services to you. Surveillance camera output is monitored by our employees and contractors and may be viewed by law enforcement and regulatory authorities.
+
+##  **16\. Non-U.S. Residents.   **
+
+Unless otherwise specified, the Caesars Websites and Caesars Mobile Apps and material provided on or through the Caesars Websites and Caesars Mobile Apps are solely intended for users located in the United States and for promoting products, programs, and business operations within the United States. If you do not reside in the United States and you choose to access or use the Caesars Websites and/or Caesars Mobile Apps, or visit the Caesars Properties, and provide your Personal Information to us, it may be transferred to, processed and maintained on servers or databases located outside of the country or jurisdiction where you are located. If you do not want your information transferred to, processed, or maintained outside of the country or jurisdiction where you are located, you should not use the Caesars Websites and/or Caesars Mobile Apps or visit the Caesars Properties.
+
+ _General Data Protection Regulation_ **:   **If you reside in or are a citizen of a European Union member country, you may have certain rights under the EU General Data Protection Regulation 2016/679 (“GDPR”).  If you have any questions related to the GDPR with respect to any personal data collected by our U.S. properties, please email [GDPR@caesars.com](mailto:GDPR@caesars.com).  If you have GDPR-related questions about personal data collected by our properties in the United Kingdom, South Africa or Egypt, please visit <https://www.caesars.co.uk/privacy-policy/> for more information.
+
+##  **17\. Contact Information**. 
+
+Should you have additional questions, comments or concerns regarding this Privacy Policy or how we collect and use your information, you may contact us by writing to:
+
+Caesars Enterprise Services, LLCATTN.: Loyalty MarketingP.O. Box 98905Las Vegas, NV 89193-8905
+
+[Back to Top](https://www.caesars.com/corporate-new/corporate-social-responsibility/play/data-protections-and-privacy#top)
+
+ **B.**   **SPECIAL PROVISIONS FOR FINANCIAL SERVICES CUSTOMERS**
+
+##  **1\. Information Collected in Connection with Financial Services.    **
+
+  1. If you are a customer who utilizes the credit, check cashing, front money, counter check account and/or cash advance services (“ **Financial Services** ”) at a Caesars Property in the United States, there are additional categories of information we may collect from or about you:
+
+
+  * Information we receive on applications for credit or other financial services, such as your name, address, telephone number, Social Security number and other identifying information.
+  * Information we receive about you from others, including credit bureaus, relating to your credit history and financial transactions with others.
+  * Information about your transactions with us, including your payment history and/or gaming activity with any Caesars Property.
+
+
+
+##  **2\. Annual Notices.   **
+
+As long as you are a current Financial Services customer (for example, if you have an outstanding casino marker), we will provide you with a copy of our current Financial Services privacy notice annually.  If you no longer have a Financial Services customer relationship with us, we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future. Our current form of notice with additional information about our privacy practices relating to Financial Services information and the choices you can make about how we share your information can be found [here](http://caesarscorporate.com/glba-notice). To manage how we share your Personal Information, you can fill out and return the Mail-In Form found [here](http://caesarscorporate.com/glba-notice).  Alternatively, you can manage how we share your Personal Information in the “Manage My Preferences” section of your online Caesars Rewards account.
+
+##  **3\. Material Changes to Our Privacy Policy**. 
+
+If we make any material changes to our Privacy Policy as relates to Financial Services, we will provide our current Financial Services customers with revised notices that describe our new policies and procedures that apply to them.
+
+[Back to Top](https://www.caesars.com/corporate-new/corporate-social-responsibility/play/data-protections-and-privacy#top)
+
+If you receive email communications from us and would prefer not to receive further email communications from us, you may click on the link found on the bottom of all our email communications and follow the instructions to either change your email preferences or unsubscribe from all emails.
+
+If you are a Caesars Rewards member, you can also unsubscribe from receiving email communications from us at any Caesars Rewards Center at any Caesars Property or by calling 1-877-716-4500, or you can manage your email communication preferences by logging into your online Caesars Rewards account.
+
+Regardless of your decision to unsubscribe from receiving email communications from us, we may still contact you to respond to an inquiry we receive from you, regarding transactions and for transactional purposes (e.g., sales confirmations, service/reminder notices, and account maintenance).
+
+[Back to Top](https://www.caesars.com/corporate-new/corporate-social-responsibility/play/data-protections-and-privacy#top)
+
+If you have provided your mailing address to us, we may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the Caesars Rewards center at any Caesars Property or call 1-877-716-4500. Your name and address will be removed from that mailing list within 30 days after your request. In addition, if you have opted-in to receive text messages from us, we may send text messages to the number provided that corresponds to your device. To opt out of mobile messaging from us, reply “stop” to text messages that you receive from us.
+
+[Back to Top](https://www.caesars.com/corporate-new/corporate-social-responsibility/play/data-protections-and-privacy#top)
