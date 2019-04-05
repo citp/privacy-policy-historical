@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019140906id_/https%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405235433id_/https%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy || ZERO MOTORCYCLES
-
-[Privacy Policy](https://web.archive.org/legal/privacy-policy.php)
-
-[Terms of Service](https://web.archive.org/legal/terms-of-service.php)
-
-[Terms of Sale](https://web.archive.org/legal/terms-of-sale.php)
-
-[UK Terms and Conditions](https://web.archive.org/web/20181019140906id_/https%3A//www.zeromotorcycles.com/legal/terms-and-conditions.php)
-
-[French Terms and Conditions](https://web.archive.org/web/20181019140906id_/https%3A//www.zeromotorcycles.com/legal/french-terms-and-conditions.php)
-
-[Spanish Terms and Conditions](https://web.archive.org/web/20181019140906id_/https%3A//www.zeromotorcycles.com/legal/spanish-terms-and-conditions.php)
-
-[German Terms and Conditions](https://web.archive.org/web/20181019140906id_/https%3A//www.zeromotorcycles.com/legal/german-terms-and-conditions.php)
-
-[Italian Terms and Conditions](https://web.archive.org/web/20181019140906id_/https%3A//www.zeromotorcycles.com/legal/italian-terms-and-conditions.php)
-
-| 
 
 We (‘Zero Motorcycles’, ‘Zero’, ‘we’ or ‘our’) respect your privacy and value your trust in us. Our website at [www.zeromotorcycles.com](http://www.zeromotorcycles.com/) and our mobile application are operated by Zero Motorcycles, Inc (United States). Our registered office is at 380 El Pueblo Road, Scotts Valley, CA 95066, United States of America (“USA”). 
 
@@ -109,7 +91,7 @@ We process your personal data based on the following legal grounds:
 
 We process your personal data for the following purposes, based on the noted legal grounds: 
 
-| Legal ground(s)| Purpose  
+Legal ground(s)| Purpose  
 ---|---  
  | For cont(r)act purposes:  
 A| the execution of the service agreement.  
@@ -153,24 +135,6 @@ You will not have to pay a fee to access your personal information (or to exerci
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal information is not disclosed to any person who has no right to receive it. All requests will be executed in accordance with the law, subject to legally available exceptions, within four weeks. If you want to exercise any of the above rights, please contact us by using the contact details below. 
 
-By email:   
----  
-[privacy@zeromotorcycles.com](mailto:privacy@zeromotorcycles.com)  
-By mail:  
-North America:  
-380 El Pueblo Road  
-Scotts Valley, CA 95066  
-USA  |  Europe (European representative):  
-Oester 12  
-1723 HW Noord-Scharwoude  
-Netherlands   
-By phone:  
-North America:  
-(888) 786-9376  |  Europe (European representative):  
-+31 (0) 72 5112014   
-Opt-out:   
-through the opt-out options in our e-mails (for marketing purposes)   
-  
 If you have a complaint or question, you may contact us through the following email address: [privacy@zeromotorcycles.com](mailto:privacy@zeromotorcycles.com). Please make sure you include as much information as reasonably possible. We will review complaints and questions within four weeks. We make every effort to resolve disputes. You may contact the applicable Supervisory Privacy Authority to file a complaint, should you be unsatisfied with our outcome. 
 
 Back to top
@@ -262,63 +226,10 @@ Settings on your mobile device may include advertising options. On your iPhone o
 
 Back to top
 
-## Does Zero share my information?
-
-We may share your personal data with our data processors and/or third parties in accordance with this Privacy and Cookie Policy and relevant law and regulations. 
-
-We use data processors to process your personal data. These data processors act as data processors of Zero Motorcycles. Your personal data may be processed on secure servers within the EU and the USA. Zero Motorcycles has taken all necessary measures in accordance with the relevant European and US privacy regulations to facilitate the lawful processing of your personal data. Below is an overview of our data processors: 
-
-Data processor:| Description of activities of data processor:| Data processors Privacy Policy:  
----|---|---  
-Amazon| Facilitates a global content delivery network.| [Privacy Policy](https://aws.amazon.com/privacy/)  
-Google Analytics| Gathers website usage statistics.| [Privacy Policy](https://policies.google.com/privacy?hl=en)  
-Flurry Analytics| Gathers Zero Motorcycles App usage statistics.| [Privacy Policy](https://policies.oath.com/us/en/oath/privacy/index.html)  
-Salesforce| Facilitates customer inquiries and sales information.| [Privacy Policy](https://www.salesforce.com/company/privacy/)  
-Pardot| Facilitates advertising and social media platform interactions and customer communications.| [Privacy Policy](https://www.salesforce.com/company/privacy/)  
-Quantcast| Gathers website user interest statistics.| [Privacy Policy](https://www.quantcast.com/privacy/)  
-Company Contractors| People who provide support serviced to Zero Motorcycles.| N/A  
-(Other) IT-providers| Facilitate IT-services.| N/A  
-  
-We may disclose your personal data to third parties. Zero Motorcycles has taken all necessary measures in accordance with the relevant European and US privacy regulations to facilitate the lawful processing of your personal data. Below is an overview of third parties that may receive your personal data: 
-
-Receiver:| Description receiver:  
----|---  
-Zero Motorcycles Dealers| Companies we contract with to sell motorcycles directly to customers.  
-Zero Motorcycles Distributors| Companies we contract with to supply motorcycles to companies who sell to customers.  
-Zero Motorcycles personnel| People who are employed by Zero Motorcycles.  
-Promotional third parties| Companies we contract with to send promotional or communication materials.  
-Company contractors| People who provide support services to Zero Motorcycles.  
-  
-We will not disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when Zero Motorcycles, in good faith, is assured that the disclosure of the requested information is necessary and legitimate to protect the safety or rights of a third party or to protect our rights. 
-
-Back to top
-
 ## Children’s privacy
 
 Zero’s website and app are not designed for or directed to children under the age of 16. We never knowingly collect personal information from anyone under the age of 16 without parental consent. If we learn that we have collected personal information from a child under 16 without parental consent, we will delete the information as soon as possible. 
 
-Back to top
-
-## How do I contact Zero Motorcycles?
-
-If you have any questions or concerns about Zero’s Privacy Policy, please contact us through one of the following means: 
-
-By email:   
----  
-[privacy@zeromotorcycles.com](mailto:privacy@zeromotorcycles.com)  
-By mail:  
-North America:  
-380 El Pueblo Road  
-Scotts Valley, CA 95066  
-USA  |  Europe (European representative):  
-Oester 12  
-1723 HW Noord-Scharwoude  
-Netherlands   
-By phone:  
-North America:  
-(888) 786-9376  |  Europe (European representative):  
-+31 (0) 72 5112014   
-  
 Back to top
 
 ## Changes to Zero Motorcycle’s Privacy Policy
