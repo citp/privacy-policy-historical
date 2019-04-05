@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goddessinthehouse.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831052217id_/https%3A//goddessinthehouse.com/2010/08/1175) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goddessinthehouse.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405210520id_/https%3A//goddessinthehouse.com/2010/08/1175) for the most accurate reproduction.*
 
 # | Diaries of a Domestic Goddess
 
