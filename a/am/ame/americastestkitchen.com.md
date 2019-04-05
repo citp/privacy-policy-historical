@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226121431id_/https%3A//www.americastestkitchen.com/guides/corporate-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405214029id_/https%3A//www.americastestkitchen.com/guides/corporate-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporate Pages
 
@@ -64,14 +64,14 @@ We are committed to privacy, and we support current industry initiatives to pres
 
 America's Test Kitchen   
 Customer Service   
-21 Dry D
+21 Drydock Avenue, 2nd Floor
 
-For more details about web pages for children, please see the [separate privacy policy notice](https://www.americastestkitchen.com/guides/corporate-pages/america-s-test-kitchen-kids-privacy-policy) for America's Test Kitchen Kids pages.ock, 2nd Floor
-
-Boston, MA 02110   
+Boston, MA 02210   
 617-232-1000
 
 We will address any issue to the best of our abilities.
+
+For more details about web pages for children, please see the [separate privacy policy notice](https://www.americastestkitchen.com/guides/corporate-pages/america-s-test-kitchen-kids-privacy-policy) for America's Test Kitchen Kids pages.
 
 ## CALIFORNIA RESIDENTS
 
