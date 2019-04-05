@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syncios.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220221307id_/http%3A//www.syncios.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncios.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405112710id_/http%3A//syncios.com/privacy.html) for the most accurate reproduction.*
 
 # SynciOS Privacy Policy.
 
@@ -10,7 +10,7 @@ We will only collect your personal information for defined purposes. We do not d
 
 ## What information do we collect? What do we use it for?
 
-We partner with PayPal, RegNow and SWREG to provide you safe and fast e-commerce services. When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you.
+We partner with PayPal and 2CHECKOUT to provide you safe and fast e-commerce services. When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you.
 
 Actually, We dose not deal with the transaction and will not get your credit card information. We only keep your user name, email address and the info of the product you purchase. This information is kept for customer services purpose only.
 
@@ -22,9 +22,9 @@ The e-commerce partners we select are the leading companies in software distribu
 
 PayPal is the safer, easier way to pay and get paid online that has been in operation since 1998. It has become a global leader in online payment solutions with more than 164 million accounts worldwide. We uses Pal pay to provide you with very secure and fast online purchase. [Read the Privacy Policy of PayPal ](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
 
-**SWREG**
+**2CHECKOUT**
 
-SWREG offers merchant accounts, a paypal alternative, affordable ecommerce, payment processing, ecommerce solution, and an online software store with the ability to sell shareware. SWREG offers numerous customer payment options including: Visa, MasterCard, American Express, Discover, JCB, Switch, Solo, Paypal, US Check, UK Cheque, International Money Order, EFT, ACH, BACS, Wire Transfer, Credit Card by Phone or Fax with 16 toll-free international numbers. [Read the Privacy Policy of SWREG](https://cs.mycommerce.com/privacy-policy/swreg)
+2CHECKOUT offers merchant accounts, a paypal alternative, affordable ecommerce, payment processing, ecommerce solution, and an online software store with the ability to sell shareware. 2CHECKOUT offers numerous customer payment options including: Visa, MasterCard, American Express, Discover, JCB, Switch, Solo, Paypal, US Check, UK Cheque, International Money Order, EFT, ACH, BACS, Wire Transfer, Credit Card by Phone or Fax with 16 toll-free international numbers. 
 
 ## About cookies
 
