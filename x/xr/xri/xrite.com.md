@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xrite.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231083316id_/https%3A//www.xrite.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xrite.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406011650id_/https%3A//www.xrite.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Policy does not apply to X-Rite Sites that do not link to this Priv
 
 ### Summary
 
-This summary section provides a brief overview of our Privacy Policy. Please read the [full Privacy Policy](https://web.archive.org/web/20181231083316id_/https%3A//www.xrite.com/legal/privacy-policy-detail) for more detailed information.
+This summary section provides a brief overview of our Privacy Policy. Please read the [full Privacy Policy](https://web.archive.org/web/20190406011650id_/https%3A//www.xrite.com/legal/privacy-policy-detail) for more detailed information.
 
   * Information We Collect
   * How We Use Your Information
