@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230220658id_/http%3A//www.saskatchewan.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406171231id_/https%3A//www.saskatchewan.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Government of Saskatchewan
 
@@ -39,7 +39,7 @@ By using Saskatchewan.ca, you agree that we may collect, use and disclose your p
 If you provide personal information, it is your responsibility to keep this information up-to-date through your Saskatchewan.ca Account. We will only use it or disclose it: 
 
   * for the purposes for which it was obtained or compiled, or a use consistent with that purpose; or
-  * for any other use or disclosure permitted in accordance with [ _The Freedom of Information and Protection of Privacy Act_](http://www.publications.gov.sk.ca/freelaw/documents/English/Statutes/Statutes/F22-01.pdf) __ and its associated [regulations](http://www.publications.gov.sk.ca/freelaw/documents/English/Regulations/Regulations/F22-01R1.pdf). 
+  * for any other use or disclosure permitted in accordance with [_The Freedom of Information and Protection of Privacy Act_](http://www.publications.gov.sk.ca/freelaw/documents/English/Statutes/Statutes/F22-01.pdf) and its associated [regulations](http://www.publications.gov.sk.ca/freelaw/documents/English/Regulations/Regulations/F22-01R1.pdf).
 
 
 
@@ -73,13 +73,13 @@ We won’t share your information with any other organizations for marketing, ma
 
 Payment transactions are always encrypted.
 
-Following a link to another website
+#### Following a link to another website
 
 If you link to another website from this one, ensure you read and understand the applicable privacy policy on that website.
 
 #### Your rights
 
-To better understand your privacy rights please refer to the Office of the [Saskatchewan Information and Privacy Commissioner. ](http://www.oipc.sk.ca/)
+To better understand your privacy rights please refer to the Office of the [Saskatchewan Information and Privacy Commissioner.](http://www.oipc.sk.ca/)
 
 #### More Information
 
@@ -87,6 +87,6 @@ Questions or concerns regarding our management of this privacy statement may be 
 
 Digital Strategy and Operations  
 Ministry of Central Services  
-3303 Hillsdale Street   
+220 - 3303 Hillsdale Street   
 Regina, SK S4S 6W9  
 [onlineservices@gov.sk.ca](mailto:onlineservices@gov.sk.ca)
