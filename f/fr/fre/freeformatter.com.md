@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeformatter.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210082250id_/http%3A//www.freeformatter.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeformatter.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406221947id_/https%3A//www.freeformatter.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Freeformatter.com
 
