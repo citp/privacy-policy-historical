@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linear.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012025538id_/http%3A//www.analog.com/en/about-adi/landing-pages/001/privacy_security_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linear.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406162949id_/https%3A//www.analog.com/en/about-adi/landing-pages/001/privacy_security_statement.html) for the most accurate reproduction.*
 
 # Privacy & Security Statement | Analog Devices
 
@@ -159,7 +159,7 @@ These cookies are used to recognize you when you return to our website. This ena
 **Targeting/Profiling Cookies:**  
 These cookies record your visit to our website and/or your use of the services, the pages you have visited and the links you have followed. We will use this information to make the website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
-To view a detailed list of cookies used on analog.com, [click here](http://www.analog.com/en/about-adi/landing-pages/001/cookies.html).
+To view a detailed list of cookies used on analog.com, [click here](https://www.analog.com/en/about-adi/landing-pages/001/cookies.html).
 
 **Marketing Communications to You**
 
@@ -168,7 +168,7 @@ You can register to receive newsletters or similar information on our products a
 When providing personal data to receive gated content, software, or other information/services, you are asked to provide consent for our processing of your personal data. You are under no obligation to provide such consent. You may choose to withdraw your consent at any time by:
 
   * Clicking the unsubscribe link contained in all emails sent by ADI
-  * Updating privacy settings [here](http://www.analog.com/en/landing-pages/001/privacy-settings.html)
+  * Updating privacy settings [here](https://www.analog.com/en/landing-pages/001/privacy-settings.html)
   * Sending us an email at [external.webmaster@analog.com](mailto:external.webmaster@analog.com)
 
 
@@ -367,7 +367,7 @@ These cookies are used to recognize you when you return to our website. This ena
 **Targeting/Profiling Cookies:**  
 These cookies record your visit to our website and/or your use of the services, the pages you have visited and the links you have followed. We will use this information to make the website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
-To view a detailed list of cookies used on analog.com, [click here](http://www.analog.com/en/about-adi/landing-pages/001/cookies.html).
+To view a detailed list of cookies used on analog.com, [click here](https://www.analog.com/en/about-adi/landing-pages/001/cookies.html).
 
 **Marketing Communications to You**
 
@@ -376,7 +376,7 @@ You can register to receive newsletters or similar information on our products a
 When providing personal data to receive gated content, software, or other information/services, you are asked to provide consent for our processing of your personal data. You are under no obligation to provide such consent. You may choose to withdraw your consent at any time by:
 
   * Clicking the unsubscribe link contained in all emails sent by ADI
-  * Updating privacy settings [here](http://www.analog.com/en/landing-pages/001/privacy-settings.html)
+  * Updating privacy settings [here](https://www.analog.com/en/landing-pages/001/privacy-settings.html)
   * Sending us an email at [external.webmaster@analog.com](mailto:external.webmaster@analog.com)
 
 
