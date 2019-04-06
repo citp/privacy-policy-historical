@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the futbin.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624053740id_/https%3A//www.futbin.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the futbin.com privacy policy that was archived on 2019-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190406041835id_/https%3A//www.futbin.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
     <!-- Basic -->
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQEEU1NaDBADVlhUAQAHXg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="description" content="">
     <meta name="author" content="FUTBIN">
     <meta name="apple-itunes-app" content="app-id=1080465358">
@@ -12,18 +12,29 @@
 <!--    <meta name="viewport" content="width=device-width, initial-scale=1.0">-->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title></title>
-    <script>
-        window.jQuery || document.write('<script src="https://cdn.futbin.com/design/js/jquery.min.js"><\/script>')
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+       window.jQuery || document.write('<script src="https://cdn.futbin.com/design/js/jquery.min.js"><\/script>')
+      //  window.jQuery || document.write('<script src="https://code.jquery.com/jquery-3.3.1.min.js"><\/script>')
     </script><script src="https://cdn.futbin.com/design/js/jquery.min.js"></script>
 
+<!--    <script-->
+<!--            src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"-->
+<!--            integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="-->
+<!--            crossorigin="anonymous"></script>-->
 
-    <link rel="stylesheet" href="https://cdn.futbin.com/design/css/main.css?v=120618002713">
 
-    <link rel="stylesheet" href="https://cdn.futbin.com/design/css/custom.min.css?v=220618014126">
-   
-    <script type="text/javascript" src="https://cdn.futbin.com/design/js/cookieconsent.latest.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.futbin.com/design/css/main.css?v=190918175217">
+    <link rel="stylesheet" href="https://cdn.futbin.com/design/css/mdb.css?v=220319084746">
+<!--    --><!--        <link rel="stylesheet" href="--><!--/design/css/mdb.css?v=--><!--"/>-->
+<!--    --><!--        <link rel="stylesheet" href="--><!--/design/css/mdb.min.css?v=--><!--"/>-->
+<!--    -->
+<!--    <link rel="stylesheet" href="--><!--/design/css/custom.min.css?v=--><!--"/>-->
 
-    <script src="https://cdn.futbin.com/design/js/main.js?v=250717005957" type="text/javascript"></script>
+
+
+
+    <script src="https://cdn.futbin.com/design/js/main.js?v=190918175213" type="text/javascript"></script>
 
         <link rel="apple-touch-icon" sizes="57x57" href="https://cdn.futbin.com/design/img/favic/apple-icon-57x57.png?v=17">
     <link rel="apple-touch-icon" sizes="60x60" href="https://cdn.futbin.com/design/img/favic/apple-icon-60x60.png?v=17">
@@ -81,567 +92,936 @@
                 a.document.write('<script src="https://hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" async>'+'</scr'+'ipt>');
                 a.document.close()
             })();
-        </script></head><body class="skin-black"><div id="vmv3-ad-manager" style="display:none"><iframe id="vmv3-frm" src="javascript:false" width="0" height="0" data-mode="scan" data-site-id="58e515dc46e0fb0001c45588"></iframe></div>
+        </script></head><body class=""><div id="vmv3-ad-manager" style="display:none"><iframe id="vmv3-frm" src="javascript:false" width="0" height="0" data-mode="scan" data-site-id="58e515dc46e0fb0001c45588"></iframe></div>
         <!-- / Venatus Market Ad-Manager (futbin.com) -->
 
     
 
 
 
-    <meta name="general_csrf-name" content="c9c1bf8f6c613a47d445464d79015c47ea6e66105729e6de72608f413e2db79397e0271e22189869b25f5820bd95fd8eecd69816ae2f2b01def772eddb0e4a18"><meta name="general_csrf-value" content="835fe9bd987667496584b2edac0e65ef0e6d3cafc0b59d347fd63812a595cf947baf6af43f7877530d314f78c189f0fdf4682263b9bdb4e5e7e29ec34598b993">
+    <meta name="general_csrf-name" content="7dde50e70a5e6238f42477f5c02e128b6e06f5e4b3aedfedce86ecc31fa8d7aeac10811f5d6b5e92337194fe2c95e727694ea9a75940d745d90ccf2ed5e41478"><meta name="general_csrf-value" content="15e159cb734ee171d7f1320a1a732c7bbb176078e49af3d84259e73071c63fe2e95a48cad9cb49f84cf2d685c23fa85ee5da73c130dbdac368716a5dcd34a84d">    
+
+
+            <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+        <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+        <script>
+            window.addEventListener("load", function(){
+                window.cookieconsent.initialise({
+                    "palette": {
+                        "popup": {
+                            "background": "#eaf7f7",
+                            "text": "#5c7291"
+                        },
+                        "button": {
+                            "background": "#55cca2",
+                            "text": "#ffffff"
+                        }
+                    },
+                    "content": {
+                        "href": "https://www.futbin.com/privacy"
+                    }
+                })});
+        </script>
+        
+
+
 
 
 <div id="fb-root"></div>
-<div id="web-info" data-image-url="https://cdn.futbin.com" data-main-year="18" data-cdn-url="https://cdn.futbin.com" style="display: none;"></div>
+<div id="web-info" data-image-url="https://cdn.futbin.com" data-main-year="19" data-cdn-url="https://cdn.futbin.com" style="display: none;"></div>
 
 <script>
     window.cdn_url = "https://cdn.futbin.com";
-    window.main_year = "18";
+    window.main_year = "19";
 </script>
 
-<div class="pure-container" data-effect="pure-effect-slide">
-    <input type="checkbox" id="pure-toggle-left" class="pure-toggle" data-toggle="left">
-		<span>
-			<span class="mobile_menu_icons">
-				<label class="pure-toggle-label" for="pure-toggle-left" data-toggle-label="left">
-                    <i class="icon-menu7 mobile_menu_icon"></i>
-                </label>
-			</span>
 
-
-			<span class="pull-right mobile_menu_icons mobile_home">
-				<span class="header_search_li" style="position: relative; top: -1px; margin-right: 1px;">
-					<a class="pure-search-icon" style="cursor: pointer;"><i class="icon-search" style="font-size: 24px;"></i></a>
-				</span>
-
-
- <div class="dropdown" style="display: inline-block;">
-     <button class="btn btn-primary dropdown-toggle btn-dropdown-select-platform-mobile" type="button" data-toggle="dropdown">
-         <a class="scaledropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" data-placement="bottom" id="platform_switch"><img class="nav-bar-platform" src="https://cdn.futbin.com/design/img/logos/small/ps_white.png"></a>         <span class="caret"></span></button>
-     <ul class="dropdown-menu header-dropdown-platform">
-         <li><a class="change-platform" data-platform="ps4" href="javascript:void(0)" style="padding: 5px;"><img class="nav-bar-platform" style="width: 30px;" src="https://cdn.futbin.com/design/img/logos/small/ps_blue.png"></a></li>
-         <li><a class="change-platform" data-platform="xone" href="javascript:void(0)" style="padding: 5px;"><img class="nav-bar-platform" style="width: 30px;" src="https://cdn.futbin.com/design/img/logos/small/xbox_green.png"></a></li>
-         <li><a class="change-platform" data-platform="pc" href="javascript:void(0)" style="padding: 5px;"> <img class="nav-bar-platform" style="width: 30px;" src="https://cdn.futbin.com/design/img/logos/small/pc_orange.png"></a></li>
-     </ul>
- </div>
-
-				<a href="/" class="pure-home-icon"><i class="icon-home5"></i></a>
-
-                 <a class="nav-item cal cal-nav top_nav_li_float_right open_ide_nav pure-home-icon pure-icon-side-nav"> <i class="icon-eye"></i></a>
-
-
-
-			</span>
-		</span>
-
-    <div class="pure-drawer" data-position="left">
-
-        <div>
-            <ul class="nav-primary">
-                                                    <li style="background: #97c024; ">
-                        <a href="https://lh3.googleusercontent.com/HvUo5duMTguG-dRivZ8Lo2CV1zOkNL65p3PYjtkxYIhNNcyIHZJ55LKUhOC_PkL6nMg=w300"><i class="icon-android"></i> Download FUTBIN for Android</a>
-                    </li>
-                                <li><a href="/players"><i class="icon-list"></i> Players</a></li>
-                <style>
-
-                    .wc_nav_m {
-                        transition: all 0.3s ease;
-                    }
-
-                    .wc_nav_m img {
-                        width: 60px;
-                    }
-
-                    .wc_nav_m:hover {
-                        opacity: 0.8;
-                    }
-
-                </style>
-                <li class="nav-item"><a class="single_nav_fix wc_nav_m" href="/world-cup"><img src="/design/img/shapes/wc/18/wc_logo_2.png" style="width: 15px;"> World Cup</a></li>
-                <li class="nav-item"><a class="single_nav_fix wc_nav_m" href="/world-cup/players">World Cup Players</a></li>
-                <li class="nav-item"><a class="single_nav_fix wc_nav_m" href="/world-cup-builder"> World Cup Squad Builder</a></li>
-                <li class="nav-item"><a class="single_nav_fix wc_nav_m" href="/world-cup-builder/draft"> <img style="width: 20px; position: relative; top:-2px;" src="/design/img/shapes/wc/18/draft/draft-card-small-78.png"> WC Draft Simulator</a></li>
-                <li class="nav-item"><a href="/world-cup/squad-building-challenges"><img alt="sbc_logo" style="width: 20px;" src="/design/img/shapes/wc/18/sbc_small.png"> World Cup  SBC</a></li>
-                <li class="nav-item"><a class="single_nav_fix wc_nav_m" href="/world-cup/kits">World Cup Kits</a></li>
-                <li class="nav-item"><a class="single_nav_fix wc_nav_m" href="/world-cup/stadiums">World Cup Stadiums</a></li>
-                <li class="nav-item"><a class="single_nav_fix" href="/tots" style="color: #2d5fdf; font-weight: 500;"> TOTS</a></li>
-                <li class="nav-item"><a href="/stats-calculator"><i class="icon-calculator2"></i> Stats Calculator</a></li>
-                <li><a href="/18/rating-refresh"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/icons/rr/18/r_refresh_nav.png?v=1"> Ratings Refresh</a> </li>
-                <li><a href="/squad-builder"><i class="icon-hammer-wrench"></i> Squad Builder</a></li>
-                <li><a href="/18/tactics-builder/"><i class="icon-hammer-wrench"></i> Mobile Builder (Custom Tactics)</a></li>
-                <li><a href="/draft-simulator"><i class="icon-stack-user"></i> Draft Simulator</a></li>
-                <li><a style="color: #ff9000;" data-ul="packs_ul" class="pure-dd-menu" href="javascript:void(0);"> <i class="icon-stack4"></i> Packs <i class="icon-arrow-down"></i></a></li>
-                <li class="pure-sub-ul packs_ul" style="display: none;">
-                    <ul class="pure-sub-ul packs_ul">
-                        <li><a href="/18/packs"><i class="icon-stack4"></i> Packs </a></li>
-                        <li><a href="/packs/leaderboard"><i class="icon-podium2"></i> Leaderboard </a></li>
-                    </ul>
-                </li>
-
-
-                <li><a data-ul="sbc_ul" class="pure-dd-menu" href="javascript:void(0);">Squad Building Challenges <i class="icon-arrow-down"></i></a></li>
-                <li class="pure-sub-ul sbc_ul" style="display: none;">
-                    <ul class="pure-sub-ul market_ul">
-                        <li><a class="single_nav_fix" href="/squad-building-challenges"><i class="icon-station2"></i> Active Challenges</a></li>
-                        <li><a href="/stc/challenges"><i class="icon-menu2"></i> Challenges List Filter</a></li>
-                        <li><a href="/stc/squads"><i class="icon-users4"></i> Community SBC Solutions</a></li>
-                        <li><a href="/stc/cheapest"><i class="icon-podium2"></i> Cheapest Players By Rating</a></li>
-                        <li><a href="/sbc-rating-combinations"><i class="icon-cube3"></i> SBC Rating Combinations</a></li>
-
-                        <li class="dropdown-header-nav" style="padding-left: 5px; margin-top: 10px;">Club</li>
-                        <li><a href="/stc/analyze"><i class="icon-binoculars2"></i> SBC Club Analyzer</a></li>
-                                            </ul>
-                </li>
-
-                <li class="nav-item"><a class="single_nav_fix" href="/squad-battles/points"><img style="width: 20px;" src="https://cdn.futbin.com/design/img/sb_small_bw.png"> Squad Battles</a></li>
-
-
-                <li><a href="/pgp"><i class="icon-stats-bars"></i> PGP</a></li>
-                <li><a href="/squads">All TOTWs</a></li>
-                <li><a data-ul="market_ul" class="pure-dd-menu" href="javascript:void(0);">Market <i class="icon-arrow-down"></i></a></li>
-                <li class="pure-sub-ul market_ul" style="display: none;">
-                    <ul class="pure-sub-ul market_ul">
-                        <li><a href="/market/"><i class="icon-chart"></i>  Index100</a></li>
-                        <li><a href="/market/Special">IndexSpecial</a></li>
-                        <li><a href="/market/OnesToWatch">IndexOnesToWatch</a></li>
-                        <li><a href="/market/Gold">IndexGold</a></li>
-                        <li><a href="/market/Silver">IndexSilver</a></li>
-<!--                        <li><a href="/market/Legends">IndexLegends</a></li>-->
-                    </ul>
-                </li>
-                <li><a data-ul="club_items_ul" class="pure-dd-menu" href="javascript:void(0);">Club Items  <i class="icon-arrow-down"></i></a></li>
-                <li class="pure-sub-ul club_items_ul" style="display: none;">
-                    <ul class="pure-sub-ul club_items_ul">
-                        <li><a href="/consumables">Consumables</a></li>
-                        <li><a href="/18/club_items/kits">Kits</a></li>
-                        <li><a href="/18/club_items/badges">Badges</a></li>
-                        <li><a href="/18/club_items/balls">Balls</a></li>
-                        <li><a href="/18/club_items/stadiums">Stadiums</a></li>
-                    </ul>
-                </li>
-                                    <li class="" style="cursor:pointer;">
-                        <a href="/account/login"><i class="fa fa-sign-in"></i>  Login</a>
-                    </li>
-                    <li class="" style="cursor:pointer;">
-                        <a href="/account/register"><i class="fa fa-users"></i> Register</a>
-                    </li>
-                            </ul>
-        </div>
-    </div>
-    <div class="pure-pusher-container">
-
-    </div>
-    <label class="pure-overlay" for="pure-toggle-left" data-overlay="left">
-
-    </label>
-</div>
 <header>
 
-    <div class="container">
-
-
-
-
-        <div class="span12">
-
-
-
-            <nav>
-                <ul class="nav nav-pills nav-main" id="menu2">
-                    <li class="logo_li">
-                        <a href="/" class="logo_link"><img alt="logo" src="https://cdn.futbin.com/design/img/small-futbin-logo.png?v=5"></a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a href="/18/players" class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false"><i class="icon-list2"></i> Players</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/18/players">FIFA 18 Players</a></li>
-                            <li><a href="/18/world-cup/players"><img style="width: 13px; position: relative; top: -1px;" src="/design/img/shapes/wc/18/wc_logo_2.png"> FIFA WC 18 Players</a></li>
-                            <li><a href="/18/rating-refresh"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/icons/rr/18/r_refresh_nav.png?v=1"> Ratings Refresh</a> </li>
-                            <li><a href="/18/skill-upgrades"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/icons/rr/18/r_refresh_nav.png?v=1"> Skill Upgrades</a> </li>
-                            <li><a href="/18/pgp"><i class="icon-stats-bars"></i> PGP</a></li>
-                            <li><a href="/popular"><i class="icon-fire popular-nav"></i> Popular </a></li>
-                            <li><a href="/latest"><i class="icon-new new-players-nav"></i> New FIFA 18 Players</a></li>
-                            <li><a href="/special/Transfers"><i class="icon-tab"></i> Transfers</a></li>
-
-
-                            <li><a href="/priceranges"><i class="icon-database pr-nav"></i> Price Range Updates</a></li>
-                            <li><a href="/18/clubs">FIFA 18 Clubs</a></li>
-                            <li><a href="/18/nations">FIFA 18 Nations</a></li>
-                            <li><a href="/18/leagues">FIFA 18 Leagues</a></li>
-                            <li><a href="/squads">FIFA 18 TOTWs</a></li>
-
-                            <li class="dropdown-submenu">
-                                <a href="#">FUT 17</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="/17/players">Players</a></li>
-                                    <li><a href="/17/special/Transfers"><i class="icon-tab"></i> Transfers</a></li>
-                                    <li><a href="/17/skill-upgrades"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/r_refresh_nav.png"> Skill Upgrades</a> </li>
-                                    <li><a href="/17/rating-refresh"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/r_refresh_nav.png"> Ratings Refresh</a> </li>
-                                    <li><a href="/17/squads">TOTWs</a></li>
-                                    <li><a href="/17/leagues">Leagues</a></li>
-                                    <li><a href="/17/clubs">Clubs</a></li>
-                                    <li><a href="/17/nations">Nations</a></li>
-                                    <li><a href="/17/club_items/kits">Kits</a></li>
-                                    <li><a href="/17/club_items/badges">Badges</a></li>
-                                    <li><a href="/17/club_items/balls">Balls</a></li>
-                                    <li><a href="/17/club_items/stadiums">Stadiums</a></li>
-                                </ul>
-                            </li>
-
-                            <li class="dropdown-submenu">
-                                <a href="#">FUT 16</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="/16/players">Players</a></li>
-                                    <li><a href="/16/squads">TOTWs</a></li>
-                                    <li><a href="/16/leagues">Leagues</a></li>
-                                    <li><a href="/16/clubs">Clubs</a></li>
-                                    <li><a href="/16/nations">Nations</a></li>
-                                    <li><a href="/16/club_items/kits">Kits</a></li>
-                                    <li><a href="/16/club_items/badges">Badges</a></li>
-                                    <li><a href="/16/club_items/balls">Balls</a></li>
-                                    <li><a href="/16/club_items/stadiums">Stadiums</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown-submenu">
-                                <a href="#">FUT 15</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="/15/players">Players</a></li>
-                                    <li><a href="/15/squads">TOTWs</a></li>
-                                    <li><a href="/15/leagues">Leagues</a></li>
-                                    <li><a href="/15/clubs">Clubs</a></li>
-                                    <li><a href="/15/nations">Nations</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <style>
-
-                        .wc_nav {
-                            transition: all 0.3s ease;
-                        }
-
-                        .wc_nav img {
-                            width: 55px;
-                        }
-
-                        .wc_nav:hover {
-                            opacity: 0.8;
-                        }
-
-                    </style>
-<!--                    <li class="nav-item"><a  class="single_nav_fix wc_nav"  href="/world-cup"><img src="/design/img/shapes/wc/18/wc_nav.png"></a></li>-->
-
-                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/world-cup"><img style="width: 13px; position: relative; top: -1px;" src="/design/img/shapes/wc/18/wc_logo_2.png"> WC</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/world-cup">Main</a></li>
-                            <li><a href="/world-cup/players">Players Database</a></li>
-                            <li><a href="/world-cup/upgrades">Latest Upgrades</a></li>
-                            <li><a href="/world-cup/latest">Latest Players</a></li>
-                            <li><a href="/world-cup-builder"><i class="icon-hammer-wrench nav-small-icons"></i> World Cup Squad Builder</a></li>
-                            <li><a href="/world-cup-builder/draft"><img style="width: 20px; position: relative; top:-2px;" src="/design/img/shapes/wc/18/draft/draft-card-small-78.png"> WC Draft Simulator</a></li>
-                            <li><a href="/world-cup/squad-building-challenges"><img alt="sbc_logo" style="width: 20px;" src="/design/img/shapes/wc/18/sbc_small.png"> SBC</a></li>
-                            <li><a href="/world-cup/kits">Kits</a></li>
-                            <li><a href="/world-cup/stadiums">Stadiums</a></li>
-                            <li><a href="/world-cup/groups">Groups</a></li>
-                            <li><a href="/world-cup/schedule">Schedule</a></li>
-
-
-                        </ul>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/squad-building-challenges"><img alt="sbc_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/sbc_small_color.png">  SBC</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="single_nav_fix" href="/squad-building-challenges"><i class="icon-station2"></i> Active Challenges</a></li>
-                            <li><a href="/stc/challenges"><i class="icon-menu2"></i> Challenges List Filter</a></li>
-                            <li><a href="/stc/squads"><i class="icon-users4"></i> Community SBC Solutions</a></li>
-                            <li><a href="/stc/cheapest"><i class="icon-podium2"></i> Cheapest Players By Rating</a></li>
-                            <li><a href="/sbc-rating-combinations"><i class="icon-cube3"></i> SBC Rating Combinations</a></li>
-
-                            <li class="dropdown-header-nav" style="padding-left: 5px; margin-top: 10px;">Club</li>
-                            <li><a href="/stc/analyze"><i class="icon-binoculars2"></i> SBC Club Analyzer</a></li>
-                            
-
-
-                        </ul>
-                    </li>
-
-
-                    <li class="nav-item"><a class="single_nav_fix" href="/tots" style="color: #001f9e; font-weight: 500;"> TOTS</a></li>
-                    <li class="nav-item"><a class="single_nav_fix" href="/squad-battles/points"><img style="width: 20px;" src="https://cdn.futbin.com/design/img/sb_small_bw.png"> SB</a></li>
-
-<!--                    <li><a href="/--><!--/rating-refresh"><img  style="width: 15px;" alt="rr_logo" class="sbc_nav" src="--><!--icons/rr/--><!--/r_refresh_nav.png?v=1"> RR</a> </li>-->
-                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/18/packs"><i class="icon-stack4"></i>  Packs</a>
-                        <ul class="dropdown-menu">
-                            <li><a class="single_nav_fix" href="/18/packs"><i class="icon-stack4"></i> Packs</a></li>
-                            <li><a href="/packs/leaderboard"><i class="icon-podium2"></i> Leaderboard  </a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item"><a class="single_nav_fix" href="/draft-simulator"><i class="icon-stack-user nav-small-icons"></i>  Draft</a></li>
-                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/squad-builder"><i class="icon-hammer-wrench nav-small-icons"></i> Squad Builder</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/squad-builder"><i class="icon-hammer-wrench"></i> FIFA 18 Squad Builder</a></li>
-                            <li><a href="/world-cup-builder"><img src="/design/img/shapes/wc/18/wc_logo_2.png" style="width: 12px;">  World Cup Squad Builder</a></li>
-                            <li><a href="/world-cup-builder/draft"><img style="width: 20px; position: relative; top:-2px;" src="/design/img/shapes/wc/18/draft/draft-card-small-78.png"> WC Draft Simulator</a></li>
-                            <li><a href="/draft-simulator"><i class="icon-stack-user"></i> FUT 18 Draft</a></li>
-                            <li><a href="/18/tactics-builder/"><i class="icon-hammer-wrench"></i> FIFA 18 Custom Tactics Builder</a></li>
-
-                        </ul>
-                    </li>
-
-
-
-                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#"><i class="icon-stats-dots"></i>  Market</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/market/"><i class="icon-chart"></i>  Index100</a></li>
-                            <li><a href="/market/Special"><img alt="Market Gold" class="market-nav-card" src="https://cdn.futbin.com/content/fifa18/img/cards/med/goldinform.png?v=2"> IndexSpecial</a></li>
-                            <li>
-                                <a href="/market/OnesToWatch">
-                                    <img alt="Market OTW" class="market-nav-card" src="/content/fifa18/img/cards/med/otw.png?v=2">
-                                    IndexOnesToWatch
-                                </a>
-
-                            </li>
-                            <li><a href="/market/Gold"><img alt="Market IF" class="market-nav-card" src="https://cdn.futbin.com/content/fifa18/img/cards/med/goldrnif.png?v=2"> IndexGold</a></li>
-                            <li><a href="/market/Silver"><img alt="Market Silver" class="market-nav-card" src="https://cdn.futbin.com/content/fifa18/img/cards/med/silverrnif.png?v=2"> IndexSilver</a></li>
-                            <li><a href="/market/Icons"><img alt="Market Icons" class="market-nav-card" src="https://cdn.futbin.com/content/fifa18/img/cards/med/icon.png?v=2"> IndexIcons</a></li>
-                            <li><a href="/market/PathToGlory"><img alt="Market PTG" class="market-nav-card" src="https://cdn.futbin.com/content/fifa18/img/cards/med/marquee.png?v=2"> IndexPathToGlory</a></li>
-                            <li class="dropdown-submenu">
-                                <a href="/market/86">Index81 to 86</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="/market/86">Index86</a></li>
-                                    <li><a href="/market/85">Index85</a></li>
-                                    <li><a href="/market/84">Index84</a></li>
-                                    <li><a href="/market/83">Index83</a></li>
-                                    <li><a href="/market/82">Index82</a></li>
-                                    <li><a href="/market/81">Index81</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#"><i class="icon-shield2"></i> Items</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/consumables">Consumables</a></li>
-
-                            <li><a href="/18/club_items/kits"><i class="icon-tshirt"></i> FIFA 18 Kits</a></li>
-                            <li><a href="/18/club_items/badges"><i class="icon-price-tag2"></i> FIFA 18 Badges</a></li>
-                            <li><a href="/18/club_items/balls"><i class="icon-soccer"></i> FIFA 18 Balls</a></li>
-                            <li><a href="/18/club_items/stadiums"><i class="icon-ticket"></i> FIFA 18 Stadiums</a></li>
-
-                        </ul>
-                    </li>
-
-
-                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="/squads"><i class="icon-collaboration"></i> Squads</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/community/squads/builder">FUT 18 Community Squads</a></li>
-                            <li><a href="/community/squads/draft">FUT 18 Community Drafts</a></li>
-                            <li><a href="/path-to-glory"><img alt="Market Gold" class="market-nav-card" src="/content/fifa18/img/cards/tiny/ptgs.png?v=2"> Path To Glory </a></li>
-                            <li><a href="/tots"><img alt="Market Gold" class="market-nav-card" src="/content/fifa18/img/cards/tiny/totsg.png?v=2"> TOTS   </a></li>
-                            <li class="all-totws-li"><a style="color: #ffeb7e;" href="/squads">All TOTWs</a></li>
-
-                            <li class="divider"></li>
-
-
-                                                                <li style="background: #e7e507; text-align: center; border-bottom: 1px solid #231f5c;">
-                                        <a style="color: #231f5c;" data-original-title="22.06.18" data-rel="tooltip" data-placement="right" href="/18/totw/CEH">
-                                            CEH                                        </a>
-                                    </li>
-                                                                    <li style="background: #e7e507; text-align: center; border-bottom: 1px solid #231f5c;">
-                                        <a style="color: #231f5c;" data-original-title="20.06.18" data-rel="tooltip" data-placement="right" href="/18/totw/TOTMD1">
-                                            TOTMD1                                        </a>
-                                    </li>
-                                                                    <li style="background: #000000; text-align: center; border-bottom: 1px solid #ffeb7e;">
-                                        <a style="color: #ffeb7e;" data-original-title="30.05.18" data-rel="tooltip" data-placement="right" href="/18/totw/TOTW37">
-                                            TOTW37                                        </a>
-                                    </li>
-                                                                    <li style="background: #0234b8; text-align: center; border-bottom: 1px solid #dcc775;">
-                                        <a style="color: #dcc775;" data-original-title="25.05.18" data-rel="tooltip" data-placement="right" href="/18/totw/TOTS-Calcio-A">
-                                            TOTS-Calcio-A                                        </a>
-                                    </li>
-                                                                    <li style="background: #0234b8; text-align: center; border-bottom: 1px solid #dcc775;">
-                                        <a style="color: #dcc775;" data-original-title="25.05.18" data-rel="tooltip" data-placement="right" href="/18/totw/TOTS-Ligue1">
-                                            TOTS-Ligue1                                        </a>
-                                    </li>
-                                
-                            <li class="divider"></li>
-
-                            <li style="font-weight:bold;"><a href="/17/squad-builder">FUT 17 Squad Builder</a></li>
-
-                        </ul>
-
-                    </li>
-
-                    <li class="nav-item"><a class="single_nav_fix" href="/news"><i class="icon-magazine nav-small-icons"></i>  Articles</a></li>
-
-                    <li class="nav-item dropdown">
-                        <a class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#"><i class="icon-wrench"></i> Tools</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/user/club"><i class="icon-tshirt"></i> Import</a></li>
-                            <li><a href="/stats-calculator"><i class="icon-calculator2"></i> Stats Calculator</a></li>
-                            <li><a href="/calculator"><i class="icon-calculator3"></i> FUT Calculator</a></li>
-                            <li><a href="/fut-card-creator"><i class="icon-screwdriver2"></i> FUT Card Creator</a></li>
-                            
-                            
-                        </ul>
-
-                    </li>
-
-
-
-                    <li class="nav-item cal cal-nav top_nav_li_float_right open_ide_nav" onmouseover="clearInput()" style="cursor:pointer; color:#fff">
-                        <a class="single_nav_fix"> <i class="icon-eye nav-eye"></i></a>
-                    </li>
-
-
-
-                    <li class="top_nav_li_float_right nav_gen_swi dropdown" id="header-change-platform" style="cursor:pointer; color:#fff;">
-                        <a class="scaledropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" data-placement="bottom" id="platform_switch"><img class="nav-bar-platform" src="https://cdn.futbin.com/design/img/logos/small/ps_white.png"></a>
-                        <ul class="dropdown-menu header-dropdown-platform">
-                            <li><a class="change-platform" data-platform="ps4" href="javascript:void(0)"><img class="nav-bar-platform" src="https://cdn.futbin.com/design/img/logos/small/ps_blue.png"></a></li>
-                            <li><a class="change-platform" data-platform="xone" href="javascript:void(0)"><img class="nav-bar-platform" src="https://cdn.futbin.com/design/img/logos/small/xbox_green.png"></a></li>
-                            <li><a class="change-platform" data-platform="pc" href="javascript:void(0)"><img class="nav-bar-platform" src="https://cdn.futbin.com/design/img/logos/small/pc_orange.png"></a></li>
-                        </ul>
-                    </li>
-
-
-                    <li class="nav-item dropdown top_nav_li_float_right lang_li">
-                        <a href="#" role="button" class="dropdown-toggle" data-toggle="dropdown" style="position: relative; top: -1px;margin-right: 5px;">
-                            <span><img alt="uk" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/UnitedKingdom.png"></span>                        </a>
-                        <ul class="dropdown-menu" role="menu" style="right: 0; left: auto; width: 200px;">
-                            <li>
-                                <a href="#" data-lang="en" class="myLang" tabindex="-1">
-                                    <span><img alt="uk" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/UnitedKingdom.png"></span> English
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="fr" class="myLang" tabindex="-1">
-                                    <span><img alt="fr" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/France.png"> français / French</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="es" class="myLang" tabindex="-1">
-                                    <span><img alt="es" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Spain.png"> Español / Spanish</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="zh" class="myLang" tabindex="-1">
-                                    <span><img alt="cn" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/China.png"> 中文 / Chinese</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="ar" class="myLang" tabindex="-1">
-                                    <span><img alt="ar" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/SaudiArabia.png"> العربية / Arabic</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="de" class="myLang" tabindex="-1">
-                                    <span><img alt="de" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Germany.png"> Deutsch / German</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="da" class="myLang" tabindex="-1">
-                                    <span><img alt="da" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Denmark.png"> Dansk / Danish</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="nl" class="myLang" tabindex="-1">
-                                    <span><img alt="nl" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Netherlands.png"> Dutch / Nederlands</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="it" class="myLang" tabindex="-1">
-                                    <span><img alt="it" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Italy.png"> Italiano / Italian</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a data-lang="he" class="myLang" tabindex="-1" style="cursor: pointer;">
-                                    <span><img alt="he" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Israel.png"> עברית / Hebrew</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="pt" class="myLang" tabindex="-1">
-                                    <span><img alt="pt" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Brazil.png"> Português / Portuguese</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="ru" class="myLang" tabindex="-1">
-                                    <span><img alt="ru" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Russian.png"> Россия / Russian</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="cs" class="myLang" tabindex="-1">
-                                    <span><img alt="cs" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Czech_Republic.png"> Česká / Czech</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="ja" class="myLang" tabindex="-1">
-                                    <span><img alt="ja" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/japan.png"> 日本語 / Japanese</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="tr" class="myLang" tabindex="-1">
-                                    <span><img alt="tr" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Turkey.png"> Türkçe / Turkish</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="nn" class="myLang" tabindex="-1">
-                                    <span><img alt="nn" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Norway.png"> Norge / Norwegian</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="pl" class="myLang" tabindex="-1">
-                                    <span><img alt="pl" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Poland.png"> POLSKA / Polish</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" data-lang="se" class="myLang" tabindex="-1">
-                                    <span><img alt="se" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Sweden.png"> Sverige / Swedish</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-
-
-
-
-
-
-                                            <li class="top_nav_li_float_right" style="cursor:pointer;">
-                            <a href="/account/login" class="single_nav_fix"><i class="fa fa-sign-in"></i>  Login</a>
-                        </li>
-
-                    
-                                            <li class="nav-item header_search_li top_nav_li_float_right">
-                            <a class="nav-search-a"><i class="icon-search" style="font-size: 20px; "></i></a>
-                        </li>
-                    
-
-                </ul>
-
-
-
-            </nav>
-        </div>
-
-
-    </div>
-    <!--		<section class="page-top"></section>-->
+
+<!--MOBILE NAV -->
+    <style>
+        @media (min-width: 990px) {
+            #slide-out {
+                display: none;
+            }
+        }
+    </style>
+     <script>
+         $( document ).ready(function() {
+             // SideNav Button Initialization
+             $(".button-collapse-2").sideNav();
+// SideNav Scrollbar Initialization
+             var sideNavScrollbar = document.querySelector('.custom-scrollbar-2');
+             Ps.initialize(sideNavScrollbar);
+         });
+
+     </script>
+
+
+     <!-- Sidebar navigation -->
+     <div id="slide-out" class="side-nav side-nav-mobile fut-19-cyan-pink-gradient fixed">
+         <div class="row co-12 text-center pb-0 mb-0" style="height: 50px;">
+
+
+
+            <div class="col-6 pt-2">
+                <li class="list-inline-item">
+                    <div class="switch">
+                        <label>
+                            <i class="icon-sun pr-1"></i><input class="theme-switch notxtselect hide" type="checkbox"><span class="lever"></span><i class="icon-moon pl-1"></i>
+                        </label>
+                    </div>
+                </li>
+            </div>
+             <!-- langs -->
+
+             <div class="col-6 pt-2">
+                 <li class="list-inline-item dropdown" id="lang-nav-item">
+                     <div class="nav-link dropdown-toggle waves-effect waves-light" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                         <span><img alt="uk" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/UnitedKingdom.png"></span>                     </div>
+                                          <div class="dropdown-menu dropdown-menu-right dropdown-default" aria-labelledby="navbarDropdownMenuLink" style="height: 300px; overflow-y: scroll;">
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="en" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="uk" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/UnitedKingdom.png"> English</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="fr" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="fr" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/France.png"> français / French</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="es" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="es" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Spain.png"> Español / Spanish</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="zh" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="cn" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/China.png"> 中文 / Chinese</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="ar" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="ar" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/SaudiArabia.png">  العربية / Arabic</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="de" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="de" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Germany.png"> Deutsch / German</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="da" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="da" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Denmark.png"> Dansk / Danish</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="nl" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="nl" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Netherlands.png"> Dutch / Nederlands</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="it" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="it" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Italy.png"> Italiano / Italian</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="he" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="he" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Israel.png"> עברית / Hebrew</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="pt" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="pt" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Brazil.png"> Português / Portuguese</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="ru" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="ru" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Russian.png"> Россия / Russian</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="cs" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="cs" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Czech_Republic.png"> Česká / Czech</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="ja" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="ja" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/japan.png"> 日本語 / Japanese</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="tr" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="tr" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Turkey.png"> Türkçe / Turkish</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="nn" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="nn" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Norway.png"> Norge / Norwegian</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="pl" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="pl" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Poland.png"> POLSKA / Polish</span>
+                             </a>
+                                                      <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="se" style="    color: inherit; height: 30px; line-height: 30px;">
+                                 <span><img class="nav-lang-img" alt="se" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Sweden.png"> Sverige / Swedish</span>
+                             </a>
+                                              </div>
+                 </li>
+             </div>
+         </div>
+         <ul class="custom-scrollbar-2">
+
+
+
+                          <li class="pl-3 pt-3">
+                 <a href="/account/login" class="waves-effect text-white d-inline"><i class="fa fa-sign-in"></i>  Login</a>
+                 <a href="/account/register" class="waves-effect text-white d-inline ml-1"><i class="fa fa-users"></i> Register</a>
+             </li>
+
+             
+
+
+             <!-- Side navigation links -->
+             <li>
+                 <ul class="collapsible collapsible-accordion mt-0" style="padding-bottom: 200px;">
+
+                     <!-- CHANGE PLATFORM -->
+                     <li><a class="collapsible-header waves-effect arrow-r">     <img class="nav-bar-platform" src="https://cdn.futbin.com/design/img/logos/small/ps_white.png"> Change Platform <i class="fa fa-angle-down rotate-icon"></i></a>
+                         <div class="collapsible-body">
+                             <ul>
+                                 <li><a class="change-platform pl-4" data-platform="ps4" href="javascript:void(0)" style="padding: 5px;"><img class="nav-bar-platform" style="width: 20px; position: relative; top: -2px;" src="https://cdn.futbin.com/design/img/logos/small/ps_white.png"> Playstation 4</a> </li>
+                                 <li><a class="change-platform pl-4" data-platform="xone" href="javascript:void(0)" style="padding: 5px;"><img class="nav-bar-platform" style="width: 20px; position: relative; top: -2px;" src="https://cdn.futbin.com/design/img/logos/small/xbox_white.png"> XBOX ONE</a> </li>
+                                 <li><a class="change-platform pl-4" data-platform="pc" href="javascript:void(0)" style="padding: 5px;"> <img class="nav-bar-platform" style="width: 20px; position: relative; top: -2px;" src="https://cdn.futbin.com/design/img/logos/small/pc_white.png"> PC</a> </li>
+
+
+                             </ul>
+                         </div>
+                     </li>
+
+                     
+
+                     <li><a class="collapsible-header waves-effect arrow-r"><i class="icon-fire "></i> Live <i class="fa fa-angle-down rotate-icon"></i></a>
+                         <div class="collapsible-body">
+                             <ul>
+
+                                 <li><a href="/fut-live-scores" class="waves-effect"><i class="icon-feed"></i>  FUT Live Scores</a></li>
+                                 <li><a href="/otw" class="waves-effect"><i class="icon-eye"></i> OTW Watch</a></li>
+                                 <li><a href="/totw-predictions" class="waves-effect"><i class="icon-trophy4"></i> TOTW Contenders</a></li>
+                                 <li><a href="/potm-contenders" class="waves-effect"><i class="icon-racing"></i> POTM Contenders</a></li>
+
+
+                             </ul>
+                         </div>
+                     </li>
+
+                     <li>
+                         <a class="waves-effect" href="https://forums.futbin.com" style="font-weight: bold;">
+                             <i class="icon-comment" style="position: relative; top: 1px;"></i> Zones
+                         </a>
+                     </li>
+
+                     <li>
+                         <a class="waves-effect" href="/division-rivals/division">
+                             <img style="width: 20px;" src="/design/img/rivals_small_19.png">
+                             Division Rivals
+                         </a>
+                     </li>
+
+                     <li><a href="/champions/leaderboard" class="waves-effect"><img alt="p" style="width: 22px;" src="/design/img/champs_small_19.png"> FUT Champions</a></li>
+                     <li><a href="/picks" class="waves-effect"><img alt="p" style="width: 22px;" src="/design/img/shapes/picks/picks-icon.png"> Picks</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+                     <!-- PLAYER MENU  -->
+                     <li><a class="collapsible-header waves-effect arrow-r"><i class="icon-collaboration"></i> Players <i class="fa fa-angle-down rotate-icon"></i></a>
+                         <div class="collapsible-body">
+                             <ul>
+                                 <li><a href="/19/players" class="waves-effect"> Players</a></li>
+<!--                                 <li><a href="/--><!--/world-cup/players" class="waves-effect">FIFA WC 18 --><!--</a></li>-->
+                                 <li><a href="/19/rating-refresh" class="waves-effect"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/icons/rr/19/r_refresh_nav.png?v=1"> Winter Refresh</a></li>
+                                 <li><a href="/19/skill-upgrades" class="waves-effect"> <img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/icons/rr/19/r_refresh_nav.png?v=1"> Skill Upgrades</a></li>
+                                 <li><a href="/19/pgp" class="waves-effect"><i class="icon-stats-bars"></i> PGP </a></li>
+                                 <li><a href="/popular" class="waves-effect"><i class="icon-fire text-danger"></i> Popular </a></li>
+                                 <li><a href="/latest" class="waves-effect"><span class="pulse-pink"></span> FIFA 19 New Players</a></li>
+                                 <li><a href="/special/Transfers" class="waves-effect"><i class="icon-tab"></i> Transfers </a></li>
+
+
+                             </ul>
+                         </div>
+                     </li>
+
+                     <!-- Mews  link -->
+                     <li><a href="/news" class="waves-effect"><i class="icon-magazine nav-small-icons"></i> Articles</a></li>
+
+                     <!-- Builder Battles link -->
+                     <li><a href="/squad-builder" class="waves-effect"><i class="icon-hammer-wrench nav-small-icon"></i> Squad Builder   </a></li>
+
+                     <!-- Draft  link -->
+                     <li><a href="/draft-simulator" class="waves-effect"><i class="icon-stack-user nav-small-icons"></i> Draft</a></li>
+
+
+                     <!-- SBC MENU  -->
+                     <li><a class="collapsible-header waves-effect arrow-r"><img alt="sbc_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/sbc_small_color.png">  SBC <i class="fa fa-angle-down rotate-icon"></i></a>
+                         <div class="collapsible-body">
+                             <ul>
+                                 <li><a href="/squad-building-challenges" class="waves-effect"><i class="icon-station2"></i> Active Challenges </a></li>
+                                 <li><a href="/stc/challenges" class="waves-effect"><i class="icon-menu2"></i> Challenges List Filter</a></li>
+                                 <li><a href="/stc/squads" class="waves-effect"><i class="icon-users4"></i> Community SBC Solutions</a></li>
+                                 <li><a href="/stc/cheapest" class="waves-effect"><i class="icon-podium2"></i> Cheapest Players By Rating</a></li>
+                                 <li><a href="/sbc-rating-combinations" class="waves-effect"><i class="icon-cube3"></i> SBC Rating Combinations</a></li>
+
+                                 <h6 class="dropdown-header text-white">Club</h6>
+                                 <li><a href="/stc/analyze" class="waves-effect"><i class="icon-binoculars2"></i> SBC Club Analyzer</a></li>
+                                                              </ul>
+                         </div>
+                     </li>
+
+                     <!-- WC MENU  -->
+<!--                     <li><a class="collapsible-header waves-effect arrow-r">  <img  style="width: 13px; position: relative; top: -1px;" src="/design/img/shapes/wc/18/wc_logo_2.png">--><!-- <i class="fa fa-angle-down rotate-icon"></i></a>-->
+<!--                         <div class="collapsible-body">-->
+<!--                             <ul>-->
+<!--                                 <li><a href="/world-cup" class="waves-effect">--><!--</a></li>-->
+<!--                                 <li><a href="/world-cup/players" class="waves-effect">--><!--</a></li>-->
+<!--                                 <li><a href="/world-cup/upgrades" class="waves-effect">--><!--</a></li>-->
+<!--                                 <li><a href="/world-cup/latest" class="waves-effect">--><!-- </a></li>-->
+<!--                                 <li><a href="/world-cup-builder" class="waves-effect"><i class="icon-hammer-wrench nav-small-icons"></i> --><!-- </a></li>-->
+<!--                                 <li><a href="/world-cup-builder/draft" class="waves-effect"><img style="width: 20px; position: relative; top:-2px;" src="/design/img/shapes/wc/18/draft/draft-card-small-78.png" /> WC --><!-- </a></li>-->
+<!--                                 <li><a href="/world-cup/squad-building-challenges" class="waves-effect"><img alt="" style="width: 20px;" src="/design/img/shapes/wc/18/sbc_small.png"> SBC</a></li>-->
+<!--                                 <li><a href="/world-cup/kits" class="waves-effect">--><!--</a></li>-->
+<!--                                 <li><a href="/world-cup/stadiums" class="waves-effect">--><!--</a></li>-->
+<!--                                 <li><a href="/world-cup/groups" class="waves-effect">--><!--</a></li>-->
+<!--                                 <li><a href="/world-cup/schedule" class="waves-effect">--><!--</a></li>-->
+<!---->
+<!--                             </ul>-->
+<!--                         </div>-->
+<!--                     </li>-->
+
+
+
+                     <!-- Squad Battles link -->
+                     <li><a href="/squad-battles/points" class="waves-effect"><img style="width: 20px;" src="/design/img/sb_small_19.png"> Squad Battles</a></li>
+
+
+                     <!-- Packs MENU  -->
+                     <li><a class="collapsible-header waves-effect arrow-r"><i class="icon-stack4"></i>  Packs <i class="fa fa-angle-down rotate-icon"></i></a>
+                         <div class="collapsible-body">
+                             <ul>
+                                 <li><a href="/19/packs" class="waves-effect"><i class="icon-stack4"></i> Packs</a></li>
+                                 <li><a href="/packs/leaderboard" class="waves-effect"> Leaderboard </a></li>
+                             </ul>
+                         </div>
+                     </li>
+
+                     <!-- Market MENU  -->
+                     <li><a class="collapsible-header waves-effect arrow-r" <i="">  Market <i class="fa fa-angle-down rotate-icon"></i></a>
+                         <div class="collapsible-body">
+                             <ul>
+                                 <li><a href="/market/auctions" class="waves-effect"><i class="icon-stats-dots"></i>&gt;  Auctions</a></li>
+                                 <li><a href="/market" class="waves-effect"><i class="icon-chart"></i>  Index100</a></li>
+                                 <li><a href="/market/Special" class="waves-effect"> <img alt="Market Gold" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/goldinform.png?v=2"> IndexSpecial</a></li>
+                                 <li><a href="/market/OnesToWatch" class="waves-effect"><img alt="Market OTW" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/otw.png?v=2"> IndexOnesToWatch</a></li>
+                                 <li><a href="/market/Gold" class="waves-effect"><img alt="Market IF" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/goldrnif.png?v=2"> IndexGold</a></li>
+                                 <li><a href="/market/Silver" class="waves-effect"><img alt="Market Silver" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/silverrnif.png?v=2"> IndexSilver</a></li>
+                                 <li><a href="/market/Icons" class="waves-effect"><img alt="Market Icons" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/icon.png?v=2"> IndexIcons</a></li>
+                                 <li><a href="/market/UCL" class="waves-effect"><img alt="Market UCL" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/ucl_rare.png?v=2"> IndexUCL</a></li>
+                                 <li><a href="/market/UCLLive" class="waves-effect"><img alt="Market Live UCL" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/ucl_live.png?v=2"> IndexLiveUCL</a></li>
+                                 <li><a href="/market/86" class="waves-effect">Index86</a></li>
+                                 <li><a href="/market/85" class="waves-effect">Index85</a></li>
+                                 <li><a href="/market/84" class="waves-effect">Index84</a></li>
+                                 <li><a href="/market/83" class="waves-effect">Index83</a></li>
+                                 <li><a href="/market/82" class="waves-effect">Index82</a></li>
+                                 <li><a href="/market/81" class="waves-effect">Index81</a></li>
+
+
+                             </ul>
+                         </div>
+                     </li>
+
+                     <!-- SBC MENU  -->
+                     <li><a class="collapsible-header waves-effect arrow-r"> <i class="icon-collaboration desk-nav-img"></i> Squads <i class="fa fa-angle-down rotate-icon"></i></a>
+                         <div class="collapsible-body">
+                             <ul>
+                                 <li class="m-0 p-0">
+                                     <a class="dropdown-item rounded waves-effect waves-light" style="background: #001253; color: #00f7dc !important;" href="/rttf">
+                                         RTTF                                       </a>
+                                 </li>
+
+                                 <li><a href="/community/squads/builder" class="waves-effect">    FUT 19 Community Squads </a></li>
+                                 <li><a href="/community/squads/draft" class="waves-effect">   FUT 19 Community Drafts </a></li>
+<!--                                 <li><a href="/tots" class="waves-effect"> <img alt="Market Gold" class="market-nav-card" src="/content/fifa19/img/cards/tiny/totsg.png?v=2"> TOTS</a></li>-->
+                                 <li><a href="/squads" class="waves-effect"> All TOTWs</a></li>
+
+                                                                          <li class="m-0 p-0">
+                                             <a class="waves-effect" style="background: #000000; color: #ffeb7e !important;" data-original-title="03.04.19" data-rel="tooltip" data-placement="right" href="/19/totw/TOTW29">
+                                                 TOTW29                                             </a>
+                                         </li>
+                                                                          <li class="m-0 p-0">
+                                             <a class="waves-effect" style="background: #000000; color: #ffeb7e !important;" data-original-title="27.03.19" data-rel="tooltip" data-placement="right" href="/19/totw/TOTW28">
+                                                 TOTW28                                             </a>
+                                         </li>
+                                                                          <li class="m-0 p-0">
+                                             <a class="waves-effect" style="background: #d50c63; color: #16f7c3 !important;" data-original-title="22.03.19" data-rel="tooltip" data-placement="right" href="/19/totw/FUT Birthday">
+                                                 FUT Birthday                                             </a>
+                                         </li>
+                                                                          <li class="m-0 p-0">
+                                             <a class="waves-effect" style="background: #000000; color: #ffeb7e !important;" data-original-title="20.03.19" data-rel="tooltip" data-placement="right" href="/19/totw/TOTW27">
+                                                 TOTW27                                             </a>
+                                         </li>
+                                                                          <li class="m-0 p-0">
+                                             <a class="waves-effect" style="background: #000000; color: #ffeb7e !important;" data-original-title="13.03.19" data-rel="tooltip" data-placement="right" href="/19/totw/TOTW26">
+                                                 TOTW26                                             </a>
+                                         </li>
+                                 
+                             </ul>
+                         </div>
+                     </li>
+
+
+
+                     <!-- TOOLS MENU  -->
+                     <li><a class="collapsible-header waves-effect arrow-r"><i class="icon-wrench desk-nav-img"></i> Tools <i class="fa fa-angle-down rotate-icon"></i></a>
+                         <div class="collapsible-body">
+                             <ul>
+                                 <li><a href="/user/club" class="waves-effect"><i class="icon-tshirt"></i> Import</a></li>
+                                 <li><a href="/squad-calculator" class="waves-effect"><i class="icon-calculator4 text-pink"></i> Squad Calculator </a></li>
+                                 <li><a href="/stats-calculator" class="waves-effect"><i class="icon-calculator2"></i> Stats Calculator </a></li>
+                                 <li><a href="/calculator" class="waves-effect"><i class="icon-calculator3"></i> FUT Calculator</a></li>
+                                 <li><a href="/fut-card-creator" class="waves-effect"><i class="icon-screwdriver2"></i> FUT Card Creator</a></li>
+                                                              </ul>
+                         </div>
+                     </li>
+
+                     <!--Social-->
+                     <li>
+                         <ul class="social">
+                             <li><a href="https://www.facebook.com/pages/biz/FUTBIN-1438762766367500/" target="_blank" class="icons-sm fb-ic"><i class="fa fa-facebook"> </i></a></li>
+                             <li><a href="https://twitter.com/FUTBIN" target="_blank" class="icons-sm tw-ic"><i class="fa fa-twitter"> </i></a></li>
+                         </ul>
+                     </li>
+
+                     <li class="pt-3"><a style="height: auto; line-height: unset;" href="/user/logout" class="waves-effect btn btn-sm btn-danger"> <i class="fa fa-power-off"></i> Logout</a></li>
+
+                     <!-- SBC MENU  -->
+<!--                     <li><a class="collapsible-header waves-effect arrow-r"><i class="fa fa-envelope-o"></i> Contact me<i class="fa fa-angle-down rotate-icon"></i></a>-->
+<!--                         <div class="collapsible-body">-->
+<!--                             <ul>-->
+<!--                                 <li><a href="ggggggg" class="waves-effect">FAQ</a></li>-->
+<!--                             </ul>-->
+<!--                         </div>-->
+<!--                     </li>-->
+                 </ul>
+             </li>
+             <!--/. Side navigation links -->
+         </ul>
+         <div class="sidenav-bg rgba-white-slight"></div>
+     </div>
+     <!--/. Sidebar navigation -->
+
+
+
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark primary-color fixed-top pb-1" id="desk-nav" style="max-width: 100vw;">
+
+       <div class="container">
+           <!-- Navbar brand -->
+           <a class="navbar-brand mr-1" href="/">
+               <img src="https://cdn.futbin.com/design/img/small-futbin-logo.png?v=5" height="30" alt="">
+           </a>
+
+           <!-- Collapse button -->
+           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggler-icon"></span>
+           </button>
+
+           <!-- SideNav slide-out button -->
+           <a href="#" data-activates="slide-out" class=" button-collapse-2 nav-mobile-item"><i class="fa fa-bars text-white"></i></a>
+
+
+
+               <form class="form-inline form-mobile-search col-8 px-0 m-0">
+                   <div class="md-form my-0">
+                       <input id="nav_search_bar_mobile" class=" nav_search_bar_mobile w-100 form-control mr-sm-2 px-0 m-0" type="text" autocomplete="off" placeholder="Search..." aria-label="Search">
+                   </div>
+               </form>
+
+
+
+           <!-- SideNav slide-out button -->
+           <a href="javascript:void(0)" class="nav-mobile-item-close-search" style="display: none;"><i class="icon-cross2 text-white"></i></a>
+
+
+
+           <!--/ home logo-->
+           <a href="/" class="mobile-futbin-logo nav-mobile-item">
+               <img src="https://cdn.futbin.com/design/img/small-futbin-logo.png?v=5" height="30" alt="">
+           </a>
+
+           <!-- Choose lang  -->
+           <div class="collapse navbar-collapse" id="main-site-nav">
+
+               <!-- Links -->
+               <ul class="navbar-nav mr-auto">
+
+
+                   <li class="nav-item dropdown">
+                       <a class="nav-link " href="/players" id="navbarDropdownPlayersLink" aria-haspopup="true" aria-expanded="false">
+                              Players                       </a>
+                       <ul class="dropdown-menu" aria-labelledby="navbarDropdownPlayersLink">
+                           <li><a href="/19/players" class="dropdown-item">FIFA 19 Players</a></li>
+
+                           <li><a href="/19/rating-refresh" class="dropdown-item"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/icons/rr/19/r_refresh_nav.png?v=1"> Winter Refresh</a></li>
+                           <li><a href="/19/skill-upgrades" class="dropdown-item"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/icons/rr/19/r_refresh_nav.png?v=1"> Skill Upgrades</a></li>
+                           <li><a href="/19/pgp" class="dropdown-item"><i class="icon-stats-bars"></i> PGP</a></li>
+                           <li><a href="/popular" class="dropdown-item"><i class="icon-fire popular-nav"></i> Popular </a></li>
+                           <li><a href="/latest" class="dropdown-item"><i class="icon-new new-players-nav"></i> New FIFA 19 Players</a></li>
+                          <li> <a class="dropdown-item" href="/picks"><img alt="sbc_logo" class="sbc_nav desk-nav-img" style="width: 20px;" src="/design/img/shapes/picks/picks-icon.png"> Picks</a></li>
+                           <li><a href="/special/Transfers" class="dropdown-item"><i class="icon-tab"></i> Transfers</a></li>
+                           <li><a href="/priceranges" class="dropdown-item"><img src="/design/img/coins_bin.png" style="width: 15px;"> Price Range Updates</a></li>
+                           <li><a class="dropdown-item" href="/squads">TOTWs</a></li>
+                           <li><a class="dropdown-item" href="/leagues">FIFA 19 Leagues</a></li>
+                           <li><a class="dropdown-item" href="/clubs">FIFA 19 Clubs</a></li>
+                           <li><a class="dropdown-item" href="/nations">FIFA 19 Nations</a></li>
+
+
+                           <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">FUT 18</a>
+                               <ul class="dropdown-menu">
+                                   <li><a class="dropdown-item" href="/18/players">Players</a></li>
+                                   <li><a class="dropdown-item" href="/18/squad-builder">Squad Builder</a></li>
+                                   <li><a class="dropdown-item" href="/18/draft-simulator">Draft Simulator</a></li>
+                                   <li><a class="dropdown-item" href="/18/special/Transfers"><i class="icon-tab"></i> Transfers</a></li>
+                                   <li><a class="dropdown-item" href="/18/skill-upgrades"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/icons/rr/18/r_refresh_nav.png?v=1"> Skill Upgrades</a> </li>
+                                   <li><a class="dropdown-item" href="/18/rating-refresh"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/icons/rr/18/r_refresh_nav.png?v=1g"> Ratings Refresh</a> </li>
+                                   <li><a class="dropdown-item" href="/18/squads">TOTWs</a></li>
+                                   <li><a class="dropdown-item" href="/18/leagues">Leagues</a></li>
+                                   <li><a class="dropdown-item" href="/18/clubs">Clubs</a></li>
+                                   <li><a class="dropdown-item" href="/18/nations">Nations</a></li>
+                                   <li><a class="dropdown-item" href="/18/club_items/kits">Kits</a></li>
+                                   <li><a class="dropdown-item" href="/18/club_items/badges">Badges</a></li>
+                                   <li><a class="dropdown-item" href="/18/club_items/balls">Balls</a></li>
+                                   <li><a class="dropdown-item" href="/18/club_items/stadiums">Stadiums</a></li>
+
+                               </ul>
+                           </li>
+
+
+                           <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#"><img src="/design/img/shapes/wc/18/wc_logo_2.png" style=" width: 10px;"> FUT 18 WC</a>
+                               <ul class="dropdown-menu">
+                                   <li><a class="dropdown-item" href="/world-cup">Main</a></li>
+                                   <li><a class="dropdown-item" href="/world-cup/playerss">Players</a></li>
+                                   <li><a class="dropdown-item" href="/world-cup/upgrades"><i class="icon-tab"></i> Upgrades</a></li>
+                                   <li><a class="dropdown-item" href="/world-cup/latest">  Latest</a> </li>
+                                   <li><a class="dropdown-item" href="/world-cup-builder">Squad Builder</a></li>
+                                   <li><a class="dropdown-item" href="/world-cup-builder/draft">Draft Simulator</a></li>
+                                   <li><a class="dropdown-item" href="/world-cup/squad-building-challenges"><img src="/design/img/shapes/wc/18/sbc_small.png" style="width: 10px;"> SBC </a></li>
+                                   <li><a class="dropdown-item" href="/world-cup/kits">Kits</a></li>
+                                   <li><a class="dropdown-item" href="/world-cup/groups">Groups</a></li>
+                                   <li><a class="dropdown-item" href="/world-cup/stadiums">Stadiums</a></li>
+
+                               </ul>
+                           </li>
+
+                           <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">FUT 17</a>
+                               <ul class="dropdown-menu">
+                                   <li><a class="dropdown-item" href="/17/players">Players</a></li>
+                                   <li><a class="dropdown-item" href="/17/special/Transfers"><i class="icon-tab"></i> Transfers</a></li>
+                                   <li><a class="dropdown-item" href="/17/skill-upgrades"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/r_refresh_nav.png"> Skill Upgrades</a> </li>
+                                   <li><a class="dropdown-item" href="/17/rating-refresh"><img style="width: 15px;" alt="rr_logo" class="sbc_nav" src="https://cdn.futbin.com/design/img/r_refresh_nav.png"> Ratings Refresh</a> </li>
+                                   <li><a class="dropdown-item" href="/17/squads">TOTWs</a></li>
+                                   <li><a class="dropdown-item" href="/17/leagues">Leagues</a></li>
+                                   <li><a class="dropdown-item" href="/17/clubs">Clubs</a></li>
+                                   <li><a class="dropdown-item" href="/17/nations">Nations</a></li>
+                                   <li><a class="dropdown-item" href="/17/club_items/kits">Kits</a></li>
+                                   <li><a class="dropdown-item" href="/17/club_items/badges">Badges</a></li>
+                                   <li><a class="dropdown-item" href="/17/club_items/balls">Balls</a></li>
+                                   <li><a class="dropdown-item" href="/17/club_items/stadiums">Stadiums</a></li>
+
+                               </ul>
+                           </li>
+
+                           <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">FUT 16</a>
+                               <ul class="dropdown-menu">
+                                   <li><a class="dropdown-item" href="/16/players">Players</a></li>
+                                   <li><a class="dropdown-item" href="/16/squads">TOTWs</a></li>
+                                   <li><a class="dropdown-item" href="/16/leagues">Leagues</a></li>
+                                   <li><a class="dropdown-item" href="/16/clubs">Clubs</a></li>
+                                   <li><a class="dropdown-item" href="/16/nations">Nations</a></li>
+                                   <li><a class="dropdown-item" href="/16/club_items/kits">Kits</a></li>
+                                   <li><a class="dropdown-item" href="/16/club_items/badges">Badges</a></li>
+                                   <li><a class="dropdown-item" href="/16/club_items/balls">Balls</a></li>
+                                   <li><a class="dropdown-item" href="/16/club_items/stadiums">Stadiums</a></li>
+
+                               </ul>
+                           </li>
+
+                           <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">FUT 15</a>
+                               <ul class="dropdown-menu">
+                                   <li><a class="dropdown-item" href="/15/players">Players</a></li>
+                                   <li><a class="dropdown-item" href="/15/squads">TOTWs</a></li>
+                                   <li><a class="dropdown-item" href="/15/leagues">Leagues</a></li>
+                                   <li><a class="dropdown-item" href="/15/clubs">Clubs</a></li>
+                                   <li><a class="dropdown-item" href="/15/nations">Nations</a></li>
+                               </ul>
+                           </li>
+                       </ul>
+                   </li>
+
+
+
+                   <li class="nav-item dropdown">
+                       <a href="/squad-building-challenges" class="nav-link" id="navbarDropdownSbc" data-hover="dropdown" data-delay="0" data-close-others="false">
+                           <img alt="sbc_logo" class="sbc_nav desk-nav-img" src="https://cdn.futbin.com/design/img/sbc_small_color.png">
+                       </a>
+                       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownSbc">
+                           <a class="dropdown-item" href="/squad-building-challenges"><i class="icon-station2"></i> Active Challenges</a>
+                           <a class="dropdown-item" href="/stc/challenges"><i class="icon-menu2"></i> Challenges List Filter</a>
+                           <a class="dropdown-item" href="/stc/squads"><i class="icon-users4"></i> Community SBC Solutions</a>
+                           <a class="dropdown-item" href="/stc/cheapest"><i class="icon-podium2"></i> Cheapest Players By Rating</a>
+                           <a class="dropdown-item" href="/sbc-rating-combinations"><i class="icon-cube3"></i> SBC Rating Combinations</a>
+
+                           <h6 class="dropdown-header">Club</h6>
+                           <a class="dropdown-item" href="/stc/analyze"><i class="icon-binoculars2"></i> SBC Club Analyzer</a>
+                           
+                       </div>
+                   </li>
+
+                   <li class="nav-item">
+                       <a data-placement="bottom" data-toggle="tooltip" data-original-title="Division Rivals" class="nav-link" href="/division-rivals/division"><img style="width: 20px;" class="desk-nav-img" src="https://cdn.futbin.com/design/img/rivals_small_19.png"> </a>
+                   </li>
+
+                   <li class="nav-item">
+                       <a data-placement="bottom" data-toggle="tooltip" data-original-title="FUT Champions" class="nav-link" href="/champions/leaderboard"><img alt="sbc_logo" class="sbc_nav desk-nav-img" style="width: 20px;" src="/design/img/champs_small_19.png"> </a>
+                   </li>
+
+                   <li class="nav-item">
+                       <a data-placement="bottom" data-toggle="tooltip" data-original-title="Squad Battles" class="nav-link" href="/squad-battles/points"><img style="width: 20px;" class="desk-nav-img" src="https://cdn.futbin.com/design/img/sb_small_19.png"> </a>
+                   </li>
+
+
+
+<!--                   <li class="nav-item">-->
+<!--                       <a class="nav-link" href="/division-rivals"><img style="width: 20px;" class="desk-nav-img" src="--><!--rivals_small_19.png"> </a>-->
+<!--                   </li>-->
+
+                   <li class="nav-item">
+                       <a data-placement="bottom" data-toggle="tooltip" data-original-title="Draft Simulator" class="nav-link" href="/draft-simulator"><img style="width: 20px;" class="desk-nav-img" src="https://cdn.futbin.com/design/img/draft_small_19.png"></a>
+                   </li>
+
+
+
+                   <li class="nav-item dropdown">
+
+
+
+                       <a href="/squad-builder" class="nav-link" id="navbarDropdownPacks" data-hover="dropdown" data-delay="0" data-close-others="false">
+                           <i class="icon-hammer-wrench nav-small-icons desk-nav-img"></i> Builder                       </a>
+                       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownSquadBuilder">
+                           <a class="dropdown-item" href="/squad-builder"><i class="icon-hammer-wrench"></i> FIFA 19 Squad Builder</a>
+                           <a class="dropdown-item" style="color: #e91e63 !important;" href="/custom-squad-builder/"><i class="icon-hammer-wrench" style="color: #e91e63 !important;"></i> Custom Squad Builder</a>
+                           <a class="dropdown-item" href="/draft-simulator"><i class="icon-stack-user"></i> FUT 19 Draft Simulator</a>
+<!--                           <a class="dropdown-item"  href="/world-cup-builder"><img src="/design/img/shapes/wc/18/wc_logo_2.png" style="width: 12px;">  World Cup Squad Builder</a>-->
+<!--                           <a class="dropdown-item"  href="/world-cup-builder/draft"><img style="width: 20px; position: relative; top:-2px;" src="/design/img/shapes/wc/18/draft/draft-card-small-78.png" /> WC Draft Simulator</a>-->
+
+                           <!--                           <a class="dropdown-item"  href="/18/tactics-builder/"><i class="icon-hammer-wrench"></i> FIFA --><!-- Custom Tactics Builder</a>-->
+                       </div>
+                   </li>
+
+
+
+
+
+                   <li class="nav-item dropdown">
+                       <a href="/fut-live-scores" class="nav-link" id="navbarDropdownPacks" data-hover="dropdown" data-delay="0" data-close-others="false">
+                           <i class="icon-fire desk-nav-img"></i>  Live                       </a>
+                       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownPacks">
+                           <a class="dropdown-item" href="/fut-live-scores"><i class="icon-feed"></i>  FUT Live Scores</a>
+                           <a class="dropdown-item" href="/otw"><i class="icon-eye"></i> OTW Watch</a>
+                           <a class="dropdown-item" href="/totw-predictions"><i class="icon-trophy4"></i> TOTW Contenders</a>
+                           <a class="dropdown-item" href="/potm-contenders"><i class="icon-racing"></i>  POTM Contenders </a>
+
+                       </div>
+                   </li>
+
+
+
+                   <li class="nav-item dropdown">
+                       <a href="/packs" class="nav-link" id="navbarDropdownPacks" data-hover="dropdown" data-delay="0" data-close-others="false">
+                           <i class="icon-stack4 desk-nav-img"></i>  Packs                       </a>
+                       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownPacks">
+                           <a class="dropdown-item" href="/19/packs"><i class="icon-stack4"></i> Packs</a>
+                           <a class="dropdown-item" href="/packs/leaderboard"><i class="icon-podium2"></i> Leaderboard  </a>
+                       </div>
+                   </li>
+
+
+
+
+
+
+                   <!-- MARKET DD -->
+                   <li class="nav-item dropdown">
+                       <a class="nav-link " href="/" id="navbarDropdownMarketLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           <i class="icon-stats-dots desk-nav-img"></i>  Market                       </a>
+                       <ul class="dropdown-menu" aria-labelledby="navbarDropdownMarketLink">
+                           <li><a href="/market/auctions" class="dropdown-item" style="color: #de0063 !important;"><i class="icon-stats-dots"></i>&gt;  Auctions</a></li>
+                           <li><a class="dropdown-item" href="/market/"><i class="icon-chart"></i>  Index100</a></li>
+                           <li>
+                               <a class="dropdown-item" href="/market/Special">
+                                   <img alt="Market Gold" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/goldinform.png?v=2"> IndexSpecial
+                               </a>
+                           </li>
+                           <li>
+                               <a class="dropdown-item" href="/market/OnesToWatch">
+                                   <img alt="Market OTW" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/otw.png?v=2"> IndexOnesToWatch
+                               </a>
+                           </li>
+                           <li><a class="dropdown-item" href="/market/Gold"><img alt="Market IF" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/goldrnif.png?v=2"> IndexGold</a></li>
+                           <li><a class="dropdown-item" href="/market/Silver"><img alt="Market Silver" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/silverrnif.png?v=2"> IndexSilver</a></li>
+                           <li><a class="dropdown-item" href="/market/Icons"><img alt="Market Icons" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/icon.png?v=2"> IndexIcons</a></li>
+                           <li><a class="dropdown-item" href="/market/UCL"><img alt="Market UCL" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/ucl_rare.png?v=2"> IndexUCL</a></li>
+                           <li><a class="dropdown-item" href="/market/UCLLive"><img alt="Market UCL Live" class="market-nav-card" src="https://cdn.futbin.com/content/fifa19/img/cards/tiny/ucl_live.png?v=2"> IndexLiveUCL</a></li>
+                           <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Index 81-86</a>
+                               <ul class="dropdown-menu">
+                                   <li><a class="dropdown-item" href="/market/86">Index86</a></li>
+                                   <li><a class="dropdown-item" href="/market/85">Index85</a></li>
+                                   <li><a class="dropdown-item" href="/market/84">Index84</a></li>
+                                   <li><a class="dropdown-item" href="/market/83">Index83</a></li>
+                                   <li><a class="dropdown-item" href="/market/82">Index82</a></li>
+                                   <li><a class="dropdown-item" href="/market/81">Index81</a></li>
+
+<!--                                   <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Subsubmenu</a>-->
+<!--                                       <ul class="dropdown-menu">-->
+<!--                                           <li><a class="dropdown-item" href="#">Subsubmenu action</a></li>-->
+<!--                                           <li><a class="dropdown-item" href="#">Another subsubmenu action</a></li>-->
+<!--                                       </ul>-->
+<!--                                   </li>-->
+<!--                                   <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">Second subsubmenu</a>-->
+<!--                                       <ul class="dropdown-menu">-->
+<!--                                           <li><a class="dropdown-item" href="#">Subsubmenu action</a></li>-->
+<!--                                           <li><a class="dropdown-item" href="#">Another subsubmenu action</a></li>-->
+<!--                                       </ul>-->
+<!--                                   </li>-->
+
+
+
+                               </ul>
+                           </li>
+                       </ul>
+                   </li>
+
+                   <!-- SQUADS DD -->
+                   <li class="nav-item dropdown">
+                       <a class="nav-link " href="/squads" id="navbarDropdownMarketLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           <i class="icon-collaboration desk-nav-img"></i> Squads                       </a>
+                       <ul class="dropdown-menu" aria-labelledby="navbarDropdownMarketLink">
+                           <li class="m-0 p-0" style=" text-align: center; ">
+                               <a class="dropdown-item rounded waves-effect waves-light" href="https://forums.futbin.com">
+                                   Zones
+                               </a>
+                           </li>
+                           <li class="m-0 p-0" style=" text-align: center; ">
+                               <a class="dropdown-item rounded waves-effect waves-light" style="background: #001253; color: #00f7dc !important;" href="/rttf">
+                                   RTTF
+                               </a>
+                           </li>
+
+                           <li><a class="dropdown-item" href="/community/squads/builder">
+                                   FUT 19 Community Squads                               </a></li>
+                           <li>
+                               <a class="dropdown-item" href="/community/squads/draft">
+                                   FUT 19 Community Drafts                               </a>
+                           </li>
+<!--                           <li>-->
+<!--                               <a class="dropdown-item" href="/tots" >-->
+<!--                                   <img alt="Market Gold" class="market-nav-card" src="/content/fifa18/img/cards/tiny/totsg.png?v=2"> TOTS-->
+<!--                               </a>-->
+<!--                           </li>-->
+                           <li>
+                               <a class="dropdown-item" href="/squads">
+                                   All TOTWs
+                               </a>
+                           </li>
+
+                                                              <li class="m-0 p-0" style=" text-align: center; ">
+                                       <a class="dropdown-item rounded" style="background: #000000; color: #ffeb7e !important;" data-original-title="03.04.19" data-rel="tooltip" data-placement="right" href="/19/totw/TOTW29">
+                                           TOTW29                                       </a>
+                                   </li>
+                                                                  <li class="m-0 p-0" style=" text-align: center; ">
+                                       <a class="dropdown-item rounded" style="background: #000000; color: #ffeb7e !important;" data-original-title="27.03.19" data-rel="tooltip" data-placement="right" href="/19/totw/TOTW28">
+                                           TOTW28                                       </a>
+                                   </li>
+                                                                  <li class="m-0 p-0" style=" text-align: center; ">
+                                       <a class="dropdown-item rounded" style="background: #d50c63; color: #16f7c3 !important;" data-original-title="22.03.19" data-rel="tooltip" data-placement="right" href="/19/totw/FUT Birthday">
+                                           FUT Birthday                                       </a>
+                                   </li>
+                                                                  <li class="m-0 p-0" style=" text-align: center; ">
+                                       <a class="dropdown-item rounded" style="background: #000000; color: #ffeb7e !important;" data-original-title="20.03.19" data-rel="tooltip" data-placement="right" href="/19/totw/TOTW27">
+                                           TOTW27                                       </a>
+                                   </li>
+                                                                  <li class="m-0 p-0" style=" text-align: center; ">
+                                       <a class="dropdown-item rounded" style="background: #000000; color: #ffeb7e !important;" data-original-title="13.03.19" data-rel="tooltip" data-placement="right" href="/19/totw/TOTW26">
+                                           TOTW26                                       </a>
+                                   </li>
+                               
+                       </ul>
+                   </li>
+
+                   <!-- ARTICLES -->
+                   <li class="nav-item"><a class="nav-link" href="/news"><i class="icon-magazine nav-small-icons desk-nav-img"></i>  Articles</a></li>
+
+                   <li class="nav-item dropdown">
+
+
+                       <a href="/19/players" class="nav-link" id="navbarDropdownMenuItems" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">
+                           <i class="icon-shield2"></i> Items                       </a>
+
+                       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuItems">
+                               <a class="dropdown-item" href="/consumables">Consumables</a>
+                               <a class="dropdown-item" href="/19/club_items/kits">Kits</a>
+                               <a class="dropdown-item" href="/19/club_items/badges">Badges</a>
+                               <a class="dropdown-item" href="/19/club_items/balls">Balls</a>
+                               <a class="dropdown-item" href="/19/club_items/stadiums">Stadiums</a>
+                       </div>
+
+                   </li>
+
+                   <!-- TOOLS DD -->
+                   <li class="nav-item dropdown">
+
+
+                       <a href="/19/players" class="nav-link" id="navbarDropdownMenuTools" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">
+                           <i class="icon-wrench desk-nav-img"></i> Tools                       </a>
+
+                       <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuTools">
+                           <a class="dropdown-item" href="/user/club"><i class="icon-tshirt"></i> Import</a>
+                           <a class="dropdown-item" style="color: #de0063 !important; font-weight: 500;" href="/squad-calculator"><i class="icon-calculator4"></i> Squad Calculator</a>
+                           <a class="dropdown-item" href="/stats-calculator"><i class="icon-calculator2"></i> Stats Calculator</a>
+                           <a class="dropdown-item" href="/calculator"><i class="icon-calculator3"></i> FUT Calculator</a>
+                           <a class="dropdown-item" href="/fut-card-creator"><i class="icon-screwdriver2"></i> FUT Card Creator</a>
+                           
+                           
+                       </div>
+
+                   </li>
+
+                   <li class="nav-item">
+                       <a style="font-weight: bold; " data-placement="bottom" data-toggle="tooltip" data-original-title="Forums" class="nav-link" href="https://forums.futbin.com">
+                           <i class="icon-comment" style="position: relative; top: 1px;"></i> Zones</a>
+                   </li>
+
+
+
+
+               </ul>
+
+
+               <ul class="navbar-nav ml-auto nav-flex-icons">
+
+                                          <li class="nav-link header_search_li top_nav_li_float_right">
+                           <i class="icon-search text-white" style="cursor: pointer;"></i>
+                       </li>
+                   
+                   <li class="nav-item">
+                       <div class="switch">
+                           <label>
+                               <i class="icon-sun pr-1"></i><input class="theme-switch notxtselect hide" type="checkbox"><span class="lever"></span><i class="icon-moon pl-1"></i>
+                           </label>
+                       </div>
+                   </li>
+
+
+                                      <li class="nav-item">
+                       <a class="nav-link waves-effect waves-light" href="/account/login">
+                          Login
+                       </a>
+                   </li>
+                   
+                   <li class="nav-item dropdown">
+                       <div class="dropdown d-inline change-platform-mobile">
+
+                               <a class="nav-link dropdown-toggle m-0 p-2 shadow-none" data-toggle="dropdown" id="platform_switch"><img class="nav-bar-platform" src="https://cdn.futbin.com/design/img/logos/small/ps_white.png"></a>
+                           <span class="caret"></span>
+                           
+
+                           <ul class="dropdown-menu header-dropdown-platform" style="min-width: 60px;">
+                               <li><a class="change-platform" data-platform="ps4" href="javascript:void(0)" style="padding: 5px;"><img class="nav-bar-platform" style="width: 30px;" src="https://cdn.futbin.com/design/img/logos/small/ps_blue.png"></a></li>
+                               <li><a class="change-platform" data-platform="xone" href="javascript:void(0)" style="padding: 5px;"><img class="nav-bar-platform" style="width: 30px;" src="https://cdn.futbin.com/design/img/logos/small/xbox_green.png"></a></li>
+                               <li><a class="change-platform" data-platform="pc" href="javascript:void(0)" style="padding: 5px;"> <img class="nav-bar-platform" style="width: 30px;" src="https://cdn.futbin.com/design/img/logos/small/pc_orange.png"></a></li>
+                           </ul>
+                       </div>
+                   </li>
+
+                   <li class="nav-item dropdown" id="lang-nav-item">
+                       <a class="nav-link dropdown-toggle waves-effect waves-light langs-dd" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                           <span><img alt="uk" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/UnitedKingdom.png"></span>                       </a>
+                                              <div class="dropdown-menu dropdown-menu-right dropdown-default" aria-labelledby="navbarDropdownMenuLink">
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="en">
+                                   <span><img class="nav-lang-img" alt="uk" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/UnitedKingdom.png"> English</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="fr">
+                                   <span><img class="nav-lang-img" alt="fr" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/France.png"> français / French</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="es">
+                                   <span><img class="nav-lang-img" alt="es" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Spain.png"> Español / Spanish</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="zh">
+                                   <span><img class="nav-lang-img" alt="cn" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/China.png"> 中文 / Chinese</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="ar">
+                                   <span><img class="nav-lang-img" alt="ar" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/SaudiArabia.png">  العربية / Arabic</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="de">
+                                   <span><img class="nav-lang-img" alt="de" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Germany.png"> Deutsch / German</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="da">
+                                   <span><img class="nav-lang-img" alt="da" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Denmark.png"> Dansk / Danish</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="nl">
+                                   <span><img class="nav-lang-img" alt="nl" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Netherlands.png"> Dutch / Nederlands</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="it">
+                                   <span><img class="nav-lang-img" alt="it" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Italy.png"> Italiano / Italian</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="he">
+                                   <span><img class="nav-lang-img" alt="he" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Israel.png"> עברית / Hebrew</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="pt">
+                                   <span><img class="nav-lang-img" alt="pt" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Brazil.png"> Português / Portuguese</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="ru">
+                                   <span><img class="nav-lang-img" alt="ru" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Russian.png"> Россия / Russian</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="cs">
+                                   <span><img class="nav-lang-img" alt="cs" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Czech_Republic.png"> Česká / Czech</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="ja">
+                                   <span><img class="nav-lang-img" alt="ja" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/japan.png"> 日本語 / Japanese</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="tr">
+                                   <span><img class="nav-lang-img" alt="tr" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Turkey.png"> Türkçe / Turkish</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="nn">
+                                   <span><img class="nav-lang-img" alt="nn" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Norway.png"> Norge / Norwegian</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="pl">
+                                   <span><img class="nav-lang-img" alt="pl" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Poland.png"> POLSKA / Polish</span>
+                               </a>
+                                                          <a class="dropdown-item waves-effect waves-light myLang" href="#" data-lang="se">
+                                   <span><img class="nav-lang-img" alt="se" style="width:20px;" data-original="https://cdn.futbin.com/design/img/flag/24/Sweden.png"> Sverige / Swedish</span>
+                               </a>
+                                                  </div>
+                   </li>
+
+                   <li class="nav-item open_ide_nav">
+                       <a class="nav-link waves-effect waves-light">
+                           <i class="icon-eye nav-eye"></i>
+                       </a>
+                   </li>
+               </ul>
+               <!-- Links -->
+
+<!--               <form class="form-inline">-->
+<!--                   <div class="md-form my-0">-->
+<!--                       <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">-->
+<!--                   </div>-->
+<!--               </form>-->
+           </div>
+           <!-- Collapsible content -->
+       </div>
+
+    </nav>
+    <!--/.Navbar-->
+
+
+
 
 </header>
-    <div id="top_nav_bar_search" class="top_nav_search_area" style="display: none">
-        <div class="top_search_area">
-            <div class="search_area">
-                <input placeholder="Search for FUT 18 Player..." style="height: 40px !important;" class="nav_search_bar nav_search_bar_top" autocomplete="off" type="text">
-            </div>
+    <div class="row" id="search-row-main">
+        <div class="container">
+            <form id="top_nav_bar_search" class="form-inline f row px-0 m-0 mb-1">
+                <div class="md-form col-12 search_area ">
+                    <input id="nav_search_bar" placeholder="Search for FUT 19 Player..." class="nav_search_bar nav_search_bar_top w-100 form-control mr-sm-2 px-0 m-0" type="text" autocomplete="off" aria-label="Search">
+                </div>
+            </form>
         </div>
     </div>
 
@@ -658,8 +1038,8 @@
             <div class="side-bar-tab active" id="latest_watched_tab">Watched Players</div>
 
             
-            <div class="latest-squads-csrf-name hidden" data-value="959df8d8d4a3da0c00f0cc93562f4e0994322e883dc2bf5cfaa4ecc76437b48d2386f045430924bd97eacfbbcc7640be4b0c45ef830f04e127260bd56a51c6c4" style="display: none;"></div>
-            <div class="latest-squads-csrf-value hidden" data-value="5bd1e3430a45b70373886ad8841227aea4b2203d850f04f85bc91f498dfcdf5c0695826786ac9bcf94fa715c879a6345dd81d70d2cbf6330b09343d2efb4b6c7" style="display: none;"></div>
+            <div class="latest-squads-csrf-name hidden" data-value="bd29b8df3f135c8d9b39cbb5177d83aa254857d1c541e4510ca5b9efd41efe9b3794eecd51c5d950231ba8d0c468984fe6c1f3726dd89e5ba360a25f269f8be8" style="display: none;"></div>
+            <div class="latest-squads-csrf-value hidden" data-value="829108f1d0b81cd4de2cebf2cb0d1326751d0a7e83712d7c87ecd10025068c3900d941f8c6169b68ce4e09ec46273983acddb1b0c08f7cfeca6298e768a1e426" style="display: none;"></div>
 
             <div class="side-bar-tab" id="user_latest_squads_tab">My Squads</div>
             <div class="side-bar-tab" id="user_latest_public_squads_tab">Watched Squads</div>
@@ -671,7 +1051,7 @@
         <div id="user-latest-squads-content" style="display: none;"></div>
 
         <div id="latest-players-watched">
-            <div class="latest-players-watched-title"><i class="icon-eye"></i> Latest FIFA 18 players watched by you</div>
+            <div class="latest-players-watched-title"><i class="icon-eye"></i> Latest FIFA 19 players watched by you</div>
             <div id="watched-content">
                 <div></div>
             </div>
@@ -902,165 +1282,227 @@
     </div>
 </div>
 
+<!-- Footer -->
+<footer class="page-footer font-small unique-color-dark">
 
-
-
-<footer>
-    <div class="full-width-footer">
+    <div style="background-color: #55cca2;">
         <div class="container">
-            <div class="row">
-                <div class="span3">
-                    <h4 class="footer_h4">Latest Squads</h4>
-                    <div>
-                        <ul class="unstyled">
 
-                            
-                            <li style="font-weight:bold;"><a href="/squads">All TOTWs</a></li>
-                        </ul>
-                    </div>
+            <!-- Grid row-->
+            <div class="row py-4 d-flex align-items-center">
+
+                <!-- Grid column -->
+                <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
+                    <h6 class="mb-0">Contact us on social networks!</h6>
                 </div>
+                <!-- Grid column -->
 
-                <div class="span3">
-                    <h4 class="footer_h4">FUTBIN App</h4>
-                    <ul class="unstyled">
-                        <li>
-                            <a href="https://play.google.com/store/apps/details?id=com.futbin" class=""><i class="fa fa-android fa-2x" aria-hidden="true"></i> <span class="footer_and_text"> FUTBIN for Android</span></a>
-                        </li>
+                <!-- Grid column -->
+                <div class="col-md-6 col-lg-7 text-center text-md-right">
 
-                        <li class="">
-                            <a href="https://itunes.apple.com/us/app/futbin/id1080465358?mt=8" class=""><i class="fa fa-apple fa-2x" aria-hidden="true"></i> <span class="footer_and_text">FUTBIN for iOS</span></a>
-                        </li>
-                        <li style="font-size: 18px; margin-top:10px; padding-left: 10px;">
-                            <a href="/app"> More Details</a>
-                        </li>
-                    </ul>
+                    <!-- Facebook -->
+                    <a href="https://www.facebook.com/FUTBIN-1438762766367500/" class="fb-ic">
+                        <i class="fa fa-facebook white-text mr-4"> </i>
+                    </a>
+                    <!-- Twitter -->
+                    <a href="https://twitter.com/FUTBIN" class="tw-ic">
+                        <i class="fa fa-twitter white-text mr-4"> </i>
+                    </a>
+
+
+                    <!--Instagram-->
+<!--                    <a class="ins-ic">-->
+<!--                        <i class="fa fa-instagram white-text"> </i>-->
+<!--                    </a>-->
+
                 </div>
-
-                <div class="span3">
-                    <h4 class="footer_h4">Site Map</h4>
-                    <ul class="unstyled">
-                        <li><a href="/squad-builder"> Squad Builder</a></li>
-                        <li><a href="/18/players"> FUT 18 Players Database</a></li>
-                        <li><a href="/squad-building-challenges"> Squad Building Challenge</a></li>
-                        <li><a href="/consumables"> Consumables</a></li>
-                        <li><a href="/calculator"> Squad Calculator</a></li>
-                        <li>                                 <a href="/account/login" style="cursor:pointer;">Login</a> /
-                                <a href="/account/register" style="cursor:pointer;"> Register</a>
-
-                            </li>
-                    </ul>
-                </div>
-
-                <div class="span3">
-                    <h4 class="footer_h4">Languages</h4>
-                    <ul class="unstyled footer-lang-list">
-                        <li>
-                            <a href="#" data-lang="en" class="myLang" tabindex="-1">
-                                <span><img alt="uk" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/UnitedKingdom.png"></span> English
-                            </a>
-                            <a href="#" data-lang="fr" class="myLang" tabindex="-1">
-                                <span><img alt="fr" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/France.png"> French</span>
-                            </a>
-                            <a href="#" data-lang="es" class="myLang" tabindex="-1">
-                                <span><img alt="es" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Spain.png"> Spanish</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" data-lang="zh" class="myLang" tabindex="-1">
-                                <span><img alt="cn" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/China.png">  Chinese</span>
-                            </a>
-                            <a href="#" data-lang="ar" class="myLang" tabindex="-1">
-                                <span><img alt="ar" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/SaudiArabia.png"> Arabic</span>
-                            </a>
-                            <a href="#" data-lang="de" class="myLang" tabindex="-1">
-                                <span><img alt="de" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Germany.png"> German</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" data-lang="da" class="myLang" tabindex="-1">
-                                <span><img alt="da" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Denmark.png">  Danish</span>
-                            </a>
-                            <a href="#" data-lang="nl" class="myLang" tabindex="-1">
-                                <span><img alt="nl" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Netherlands.png">  Nederlands</span>
-                            </a>
-                            <a href="#" data-lang="it" class="myLang" tabindex="-1">
-                                <span><img alt="it" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Italy.png">   Italian</span>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a data-lang="he" class="myLang" tabindex="-1" style="cursor: pointer;">
-                                <span><img alt="he" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Israel.png"> Hebrew </span>
-                            </a>
-                            <a href="#" data-lang="pt" class="myLang" tabindex="-1">
-                                <span><img alt="pt" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Brazil.png"> Portuguese</span>
-                            </a>
-                            <a href="#" data-lang="ru" class="myLang" tabindex="-1">
-                                <span><img alt="ru" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Russian.png"> Russian</span>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="#" data-lang="cs" class="myLang" tabindex="-1">
-                                <span><img alt="cs" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Czech_Republic.png"> Czech</span>
-                            </a>
-                            <a href="#" data-lang="ja" class="myLang" tabindex="-1">
-                                <span><img alt="ja" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/japan.png"> Japanese</span>
-                            </a>
-                            <a href="#" data-lang="tr" class="myLang" tabindex="-1">
-                                <span><img alt="tr" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Turkey.png"> Turkish</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" data-lang="nn" class="myLang" tabindex="-1">
-                                <span><img alt="nn" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Norway.png"> Norwegian</span>
-                            </a>
-                            <a href="#" data-lang="pl" class="myLang" tabindex="-1">
-                                <span><img alt="pl" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Poland.png"> Polish</span>
-                            </a>
-                            <a href="#" data-lang="se" class="myLang" tabindex="-1">
-                                <span><img alt="se" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Sweden.png"> Swedish</span>
-                            </a>
-                        </li>
-
-                    </ul>
-                </div>
+                <!-- Grid column -->
 
             </div>
+            <!-- Grid row-->
+
         </div>
     </div>
-    <div class="footer-copyright">
-        <div class="container">
-            <div class="row">
-                <div class="span4">
-                    <p style="font-size: 10px;">FUTBIN.com Copyright 2014. All FIFA assets are property of EA Sports.</p>
 
-                </div>
-                <div class="span3">
-                    <ul class="unstyled" style="margin-left: 40%; font-size:20px;">
-                        <li><a href="https://www.facebook.com/pages/FUTBIN/1438762766367500" target="_blank" data-placement="top" data-rel="tooltip" title="Facebook"><i class="fa fa-facebook socf"></i></a>
-                            <a style="margin-left:10px;" href="https://twitter.com/FUTBIN" target="_blank" data-placement="top" data-rel="tooltip" title="Twitter"><i class="fa fa-twitter soct"></i></a></li>
+    <!-- Footer Links -->
+    <div class="container text-center text-md-left mt-5">
 
-                    </ul>
-                </div>
-                <div class="span5" style="text-align: right;">
+        <!-- Grid row -->
+        <div class="row mt-3">
 
-                    <nav id="sub-menu">
-                        <ul>
+            <!-- Grid column -->
+            <div class="col ">
 
-                            <li><a href="/tos">TOS</a></li>
-                            <li><a href="/privacy">Privacy Policy</a></li>
-                            <li><a href="/about">About</a></li>
-                            <li><a href="#" id="scrollToTop">Back To Top <i style="color: #326d59;" class="fa fa-chevron-up"></i></a></li>
-
-                        </ul>
-                    </nav>
-                </div>
+                <!-- Content -->
+                <h6 class="text-uppercase font-weight-bold">Latest Squads</h6>
+                <hr class="primary-color accent-2 mb-2 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                                    <p>
+                            <a data-original-title="03.04.19" data-rel="tooltip" data-placement="right" href="/totw/TOTW29">
+                                TOTW29                            </a>
+                        </p>
+                                            <p>
+                            <a data-original-title="27.03.19" data-rel="tooltip" data-placement="right" href="/totw/TOTW28">
+                                TOTW28                            </a>
+                        </p>
+                                            <p>
+                            <a data-original-title="22.03.19" data-rel="tooltip" data-placement="right" href="/totw/FUT Birthday">
+                                FUT Birthday                            </a>
+                        </p>
+                                            <p>
+                            <a data-original-title="20.03.19" data-rel="tooltip" data-placement="right" href="/totw/TOTW27">
+                                TOTW27                            </a>
+                        </p>
+                                            <p>
+                            <a data-original-title="13.03.19" data-rel="tooltip" data-placement="right" href="/totw/TOTW26">
+                                TOTW26                            </a>
+                        </p>
+                    
             </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col ">
+
+                <!-- Links -->
+                <h6 class="text-uppercase font-weight-bold">Useful Links </h6>
+                <hr class="primary-color accent-2 mb-2 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                <p>
+                    <a href="/squad-builder">Squad Builder</a>
+                </p>
+                <p>
+                    <a href="/squad-building-challenges">SBC</a>
+                </p>
+                <p>
+                    <a href="/draft-simulator">Draft</a>
+                </p>
+                <p>
+                    <a href="/players">FIFA 19 Players</a>
+                </p>
+
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col">
+
+                <!-- Links -->
+                <h6 class="text-uppercase font-weight-bold">FUTBIN Application</h6>
+                <hr class="primary-color accent-2 mb-2 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                <p>
+                    <a href="https://play.google.com/store/apps/details?id=com.futbin"><i class="fa fa-android" aria-hidden="true"></i> FUTBIN For Android</a>
+                </p>
+                <p>
+                    <a href="https://itunes.apple.com/us/app/futbin/id1080465358?mt=8"><i class="fa fa-apple" aria-hidden="true"></i> FUTBIN For iOS</a>
+                </p>
+                <p>
+                    <a href="/app">More Details</a>
+                </p>
+
+
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-4 ">
+
+                <!-- Links -->
+                <h6 class="text-uppercase font-weight-bold">Languages</h6>
+                <hr class="primary-color accent-2 mb-2 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                <ul class="list-unstyled footer-lang-list">
+                    <li>
+                        <a href="#" data-lang="en" class="myLang" tabindex="-1">
+                            <span><img alt="uk" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/UnitedKingdom.png"></span> English
+                        </a>
+                        <a href="#" data-lang="fr" class="myLang" tabindex="-1">
+                            <span><img alt="fr" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/France.png"> French</span>
+                        </a>
+                        <a href="#" data-lang="es" class="myLang" tabindex="-1">
+                            <span><img alt="es" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Spain.png"> Spanish</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-lang="zh" class="myLang" tabindex="-1">
+                            <span><img alt="cn" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/China.png">  Chinese</span>
+                        </a>
+                        <a href="#" data-lang="ar" class="myLang" tabindex="-1">
+                            <span><img alt="ar" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/SaudiArabia.png"> Arabic</span>
+                        </a>
+                        <a href="#" data-lang="de" class="myLang" tabindex="-1">
+                            <span><img alt="de" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Germany.png"> German</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-lang="da" class="myLang" tabindex="-1">
+                            <span><img alt="da" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Denmark.png">  Danish</span>
+                        </a>
+                        <a href="#" data-lang="nl" class="myLang" tabindex="-1">
+                            <span><img alt="nl" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Netherlands.png">  Nederlands</span>
+                        </a>
+                        <a href="#" data-lang="it" class="myLang" tabindex="-1">
+                            <span><img alt="it" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Italy.png">   Italian</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a data-lang="he" class="myLang" tabindex="-1" style="cursor: pointer;">
+                            <span><img alt="he" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Israel.png"> Hebrew </span>
+                        </a>
+                        <a href="#" data-lang="pt" class="myLang" tabindex="-1">
+                            <span><img alt="pt" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Brazil.png"> Portuguese</span>
+                        </a>
+                        <a href="#" data-lang="ru" class="myLang" tabindex="-1">
+                            <span><img alt="ru" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Russian.png"> Russian</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#" data-lang="cs" class="myLang" tabindex="-1">
+                            <span><img alt="cs" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Czech_Republic.png"> Czech</span>
+                        </a>
+                        <a href="#" data-lang="ja" class="myLang" tabindex="-1">
+                            <span><img alt="ja" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/japan.png"> Japanese</span>
+                        </a>
+                        <a href="#" data-lang="tr" class="myLang" tabindex="-1">
+                            <span><img alt="tr" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Turkey.png"> Turkish</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" data-lang="nn" class="myLang" tabindex="-1">
+                            <span><img alt="nn" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Norway.png"> Norwegian</span>
+                        </a>
+                        <a href="#" data-lang="pl" class="myLang" tabindex="-1">
+                            <span><img alt="pl" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Poland.png"> Polish</span>
+                        </a>
+                        <a href="#" data-lang="se" class="myLang" tabindex="-1">
+                            <span><img alt="se" style="width:20px;" src="https://cdn.futbin.com/design/img/flag/24/Sweden.png"> Swedish</span>
+                        </a>
+                    </li>
+
+                </ul>
+
+
+            </div>
+            <!-- Grid column -->
+
         </div>
+        <!-- Grid row -->
+
     </div>
+    <!-- Footer Links -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2018 Copyright
+         <a href="https://www.futbin.com"> FUTBIN.com</a>  All FIFA assets are property of EA Sports.
+        <a class="ml-3" href="/tos">TOS</a>
+        <a class="ml-3" href="/privacy">Privacy Policy</a>
+        <a class="ml-3" href="/contact">Contact</a>
+    </div>
+    <!-- Copyright -->
+
 </footer>
-<!--</div>-->
+<!-- Footer -->
+
+
 
 <div style="display: none;">
 
@@ -1070,10 +1512,10 @@
 
 
 
-    <script src="https://cdn.futbin.com/design/js/custom.min.js?v=170618094205" type="text/javascript"></script>
+    <script src="https://cdn.futbin.com/design/js/custom.min.js?v=200319090652" type="text/javascript"></script>
 
-
-
+<script src="https://cdn.futbin.com/design/js/material/mdb.min.js?v=190918175213" type="text/javascript"></script>
+<script src="https://cdn.futbin.com/design/js/sidenav.js?v=190918175213" type="text/javascript"></script>
 <script>$("a[data-rel]").tooltip();</script>
 <script>
 
@@ -1112,11 +1554,85 @@
 <!-- Venatus Market Placement (Futbin - Rich Media - 1x1) -->
                     <div class="vm-placement" data-id="595a11d946e0fb000149eb54" style="display:none"></div>
                     <!-- / Venatus Market Placement (Futbin - Rich Media - 1x1) -->
-                    
+                    <!-- Button trigger modal -->
+<!--<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#report-comment-modal">-->
+<!--    Launch demo modal-->
+<!--</button>-->
+
+<!-- Modal -->
+<div class="modal fade" id="report-comment-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-notify modal-danger" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title text-white" id="exampleModalLabel">Report</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+               <h6>Please report a comment in the next cases:</h6>
+                <ul>
+                    <li>Contains any racism or violence</li>
+                    <li>Spam</li>
+                    <li>There's a Bug</li>
+                    <li>Anything else that you find disturbing</li>
+                </ul>
+
+            </div>
+            <div class="modal-footer justify-content-center">
+                <button type="button" class="btn btn-outline-danger" data-dismiss="modal">Cancel</button>
+                <button type="button" id="report-comment-modal-btn" data-comment-id="" class="btn btn-danger">
+                    <i class="icon-warning"></i>  Report
+
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="rules-comment-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-notify modal-danger" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title text-white" id="exampleModalLabel">Dos and don'ts</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>We have decided to add comments to facilitate communication and interaction between FUTBIN users. We believe and hope that we can build a stable community in FUTBIN and that comments will be a part of it. We have created a guideline, which will help you to understand how to use our comments system.</p>
+                <h6 class="text-success">Do's:</h6>
+                <ul>
+                    <li>Comment your opinion on things, and/or add valuable information</li>
+                    <li>Reply to other comments in a respectful manner</li>
+                    <li>Report comments which are offensive</li>
+                </ul>
+
+                <h6 class="text-danger">Don'ts</h6>
+                <ul>
+                    <li>Use any racism</li>
+                    <li>Attack or threat other users. It's ok to disagree with others, but keep the comments polite and respectful</li>
+                    <li>Spam or post spam content</li>
+                    <li>Link other websites</li>
+                </ul>
+
+                <div class="text-center text-danger">
+                    Violation of the above rules can lead to account closure.
+                </div>
+
+            </div>
+            <div class="modal-footer justify-content-center">
+                <button type="button" class="btn btn-outline-danger" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
 
 <!--</div>-->
+<div id="site-backdrop" style="display: none;"></div>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e92f15713e","applicationID":"32966108","transactionName":"NVRVZ0AHVkNTWxcMXgwedlBGD1deHUgRDEcDUk4=","queueTime":0,"applicationTime":29,"atts":"GRNWEQgdRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
 </body></html>
