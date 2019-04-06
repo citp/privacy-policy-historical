@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227163812id_/https%3A//www.todayshomeowner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406175310id_/https%3A//www.todayshomeowner.com/privacy-policy) for the most accurate reproduction.*
 
 # TodaysHomeowner.com Privacy Policy | Today's Homeowner
 
