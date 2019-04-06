@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceentry.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819140630id_/https%3A//www.raceentry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceentry.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406092440id_/https%3A//www.raceentry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
