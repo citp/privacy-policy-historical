@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayporno.fm privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906150740id_/https%3A//www.gayporno.fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayporno.fm privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406100423id_/https%3A//www.gayporno.fm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for gayporno.fm
 
