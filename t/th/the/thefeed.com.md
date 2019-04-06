@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030182702id_/https%3A//thefeed.com/15152714/policies/30370056.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefeed.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406040714id_/https%3A//thefeed.com/15152714/policies/30370056.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,8 @@ For more insight, you may also want to read Shopify’s Terms of Service (https:
 
 SECTION 5 - THIRD-PARTY SERVICES
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.   
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us. From time to time, we may also partner with other trusted brands and may share information with them if we believe they offer products and services that may be of interest to you.
+
 However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.   
 For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.   
 In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.   
@@ -80,6 +81,7 @@ If our store is acquired or merged with another company, your information may be
 QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at matt@thefeed.com or by mail at   
-TheFeed   
-5660 Valmont Rd Boulder Colorado US 80301   
+The Feed   
+1668 Valtec Ln Unit H   
+Boulder CO 80301   
 \----
