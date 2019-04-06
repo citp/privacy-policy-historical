@@ -1,52 +1,151 @@
-<!--The following is the downloaded HTML source of the vivaglammagazine.com privacy policy that was archived on 2018-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229122007id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivaglammagazine.com privacy policy that was archived on 2019-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190406201420id_/https%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta charset="UTF-8">
 <meta content="yes" name="apple-mobile-web-app-capable">
 <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
 <meta name="fb:use_automatic_ad_placement" content=" enable=true">
 <meta property="fb:pages" content="189884174447338">
 <meta name="google-site-verification" content="JAYJ5Txr5jDZpy7kqH0B6D8zK3sH66ZFxyKpgYqOayg">
-<link rel="shortcut icon" href="http://vivaglammagazine.com/wp-content/uploads/2014/06/favicon.ico"><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://vivaglammagazine.com/feed/">
-<link rel="alternate" type="text/xml" title="RSS .92" href="http://vivaglammagazine.com/feed/rss/">
-<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://vivaglammagazine.com/feed/atom/">
-<link rel="pingback" href="http://vivaglammagazine.com/xmlrpc.php">
+<link rel="shortcut icon" href="https://vivaglammagazine.com/wp-content/uploads/2014/06/favicon.ico"><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://vivaglammagazine.com/feed/">
+<link rel="alternate" type="text/xml" title="RSS .92" href="https://vivaglammagazine.com/feed/rss/">
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://vivaglammagazine.com/feed/atom/">
+<link rel="pingback" href="https://vivaglammagazine.com/xmlrpc.php">
 <meta property="og:description" content="Compassionate Glam &amp; Ethical Luxury">
-<title>Privacy Policy - VIVA GLAM MAGAZINE</title>
-<style>@font-face {font-family: "sw-icon-font";src:url("http://vivaglammagazine.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.3.1");src:url("http://vivaglammagazine.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.3.1#iefix") format("embedded-opentype"),url("http://vivaglammagazine.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=3.3.1") format("woff"),
-	url("http://vivaglammagazine.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=3.3.1") format("truetype"),url("http://vivaglammagazine.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=3.3.1#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+
+<script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+
+            // 
+            // Get screen dimensions, device pixel ration and set in a cookie.
+            // 
+            
+                            var screen_width = Math.max( screen.width, screen.height );
+            
+            var devicePixelRatio = window.devicePixelRatio ? window.devicePixelRatio : 1;
+
+            document.cookie = 'resolution=' + screen_width + ',' + devicePixelRatio + '; path=/';
+
+        </script>
 
 
-<link rel="canonical" href="http://vivaglammagazine.com/privacy/">
-<meta property="og:locale" content="en_US">
+<script type="text/javascript">
+
+            //
+            // Anonymous self calling Javascript function to avoid polluting the global namespace.
+            //
+
+            (function () {
+
+                //
+                // Get the resolution cookie.
+                //
+
+                var resolution = null;
+
+                var cookies = document.cookie.split( ';' );
+
+                for ( var k in cookies ) {
+
+                    var cookie = cookies[k].trim();
+
+                    if ( cookie.indexOf( 'resolution' ) === 0 ) {
+
+                        resolution = cookie;
+
+                    }
+
+                }
+
+
+
+                //
+                // Adds the resolution information to image src attributes.
+                //
+
+                function handle_images () {
+
+                    var imgs = document.querySelectorAll( 'img' );
+
+                    for ( var k = 0; k < imgs.length; k++ ) {
+
+                        var img = imgs[k];
+
+                        if ( img.complete || img.getAttribute( 'data-adaptive-images' ) ) {
+
+                            continue;
+
+                        }
+
+                        var src = img.getAttribute( 'src' );
+                        var new_src = src.indexOf( '?' ) >=0 ? src + '&' + resolution : src + '?' + resolution;
+
+                        img.removeAttribute( 'src' );
+                        img.setAttribute( 'src', new_src );
+                        img.setAttribute( 'data-adaptive-images', true );
+
+                    }
+
+                }
+
+
+
+                // 
+                // Start running periodically, as images are available in the DOM.
+                // 
+
+                var handler = window.setInterval( handle_images, 10 );
+
+                document.addEventListener( 'DOMContentLoaded', function ( event ) {
+
+                    window.clearInterval( handler );
+                    handle_images();
+
+                });
+
+            })();
+
+        </script>
+ <title>Privacy Policy - VIVA GLAM MAGAZINE™</title>
+
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - VIVA GLAM MAGAZINE">
-<meta property="og:description" content="Protecting your private information is our priority. This Statement of Privacy applies to the www.vivaglammagazine.com and Viva Glam Magazine and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Viva Glam Magazine include www.vivaglammagazine.com and VGM. The VGM website is a Online Magazine site. By using …">
-<meta property="og:url" content="http://vivaglammagazine.com/privacy/">
-<meta property="og:site_name" content="VIVA GLAM MAGAZINE">
+<meta property="og:title" content="Privacy Policy - VIVA GLAM MAGAZINE™">
+<meta property="og:description" content="Protecting your private information is our priority. This Statement of Privacy applies to the www.www.vivaglammagazine.com and Viva Glam Magazine and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Viva Glam Magazine include www.www.vivaglammagazine.com and VGM. The VGM website is a Online Magazine site. By using …">
+<meta property="og:url" content="https://vivaglammagazine.com/privacy">
+<meta property="og:site_name" content="VIVA GLAM MAGAZINE™">
+<meta property="og:updated_time" content="2018-05-28T13:35:37+00:00">
+<meta property="article:publisher" content="https://www.facebook.com/vivaglammagazine">
+<meta property="article:author" content="https://www.facebook.com/vivaglammagazine/">
+<meta property="article:published_time" content="2014-07-01T13:25:38+00:00">
+<meta property="article:modified_time" content="2018-05-28T13:35:37+00:00">
+<meta property="fb:app_id" content="1923155921341058">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Introduction and Definitions - Updated 5/25/18 This Privacy Policy governs all websites, apps, and other Services that link to, or contain references to, this document and are published or made available by Viva Glam Magazine, its parent, subsidiaries and affiliates ('we', 'us' or 'our'). Please read this Privacy Policy carefully. It summarizes the various ways we acquire and treat your Data when you access, visit and/or use the Service. It also governs your Data that we may acquire offline. This Privacy Policy does not cover information collected on sites, applications, destinations, or services linked to from the Service that we">
+
+
+<link rel="canonical" href="https://vivaglammagazine.com/privacy/">
+<meta property="og:locale" content="en_US">
 <meta property="article:publisher" content="https://www.facebook.com/vivaglammagazine">
 <meta property="article:author" content="https://www.facebook.com/vivaglammagazine/">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Introduction and Definitions – Updated 5/25/18 This Privacy Policy governs all websites, apps, and other Services that link to, or contain references to, this document and are published or made available by Viva Glam Magazine, its parent, subsidiaries and affiliates (“we”, “us” or “our”). &nbsp;Please read this Privacy Policy carefully. &nbsp;It summarizes the various ways […]">
-<meta name="twitter:title" content="Privacy Policy - VIVA GLAM MAGAZINE">
+<meta name="twitter:description" content="Introduction and Definitions – Updated 5/25/18 This Privacy Policy governs all websites, apps, and other Services that link to, or contain references to, this document and are published or made available by Viva Glam Magazine, its parent, subsidiaries and affiliates (“we”, “us” or “our”). Please read this Privacy Policy carefully. It summarizes the various ways […]">
+<meta name="twitter:title" content="Privacy Policy - VIVA GLAM MAGAZINE™">
 <meta name="twitter:site" content="@vivaglammag">
 <meta name="twitter:creator" content="@VivaGlamMag">
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"http:\/\/vivaglammagazine.com\/","sameAs":["https:\/\/www.facebook.com\/vivaglammagazine","https:\/\/www.instagram.com\/vivaglammag","https:\/\/www.linkedin.com\/in\/katarina-van-derham-140a9529\/","https:\/\/www.youtube.com\/user\/VIVAGLAMMAGAZINE","https:\/\/www.pinterest.com\/vivaglammag\/","https:\/\/twitter.com\/vivaglammag"],"@id":"#organization","name":"VIVAGLAMMAGAZINE","logo":""}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/vivaglammagazine.com\/","sameAs":["https:\/\/www.facebook.com\/vivaglammagazine","https:\/\/www.instagram.com\/vivaglammag","https:\/\/www.linkedin.com\/in\/katarina-van-derham-140a9529\/","https:\/\/www.youtube.com\/user\/VIVAGLAMMAGAZINE","https:\/\/www.pinterest.com\/vivaglammag\/","https:\/\/twitter.com\/vivaglammag"],"@id":"#organization","name":"VIVAGLAMMAGAZINE","logo":""}</script>
 
-<link rel="dns-prefetch" href="//vivaglammagazine.com">
 <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
-<link rel="dns-prefetch" href="//vjs.zencdn.net">
 <link rel="dns-prefetch" href="//netdna.bootstrapcdn.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="VIVA GLAM MAGAZINE » Feed" href="http://vivaglammagazine.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="VIVA GLAM MAGAZINE » Comments Feed" href="http://vivaglammagazine.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="VIVA GLAM MAGAZINE » Privacy Policy Comments Feed" href="http://vivaglammagazine.com/privacy/feed/">
+<link rel="alternate" type="application/rss+xml" title="VIVA GLAM MAGAZINE™ » Feed" href="https://vivaglammagazine.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="VIVA GLAM MAGAZINE™ » Comments Feed" href="https://vivaglammagazine.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="VIVA GLAM MAGAZINE™ » Privacy Policy Comments Feed" href="https://vivaglammagazine.com/privacy/feed/">
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/vivaglammagazine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/vivaglammagazine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://vivaglammagazine.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
+		</script><script src="https://vivaglammagazine.com/wp-includes/js/wp-emoji-release.min.js?ver=5.1.1" type="text/javascript" defer=""></script>
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -61,60 +160,65 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="minimal-insta-css" href="http://vivaglammagazine.com/wp-content/plugins/minimalist-instagram-widget/wp-insta.css" type="text/css" media="all">
-<link rel="stylesheet" id="advpsStyleSheet-css" href="http://vivaglammagazine.com/wp-content/plugins/advanced-post-slider/advps-style.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="easy_author_image-css" href="http://vivaglammagazine.com/wp-content/plugins/easy-author-image/css/easy-author-image.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="sb_instagram_styles-css" href="http://vivaglammagazine.com/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.10" type="text/css" media="all">
+<link rel="stylesheet" id="minimal-insta-css" href="https://vivaglammagazine.com/wp-content/plugins/minimalist-instagram-widget/wp-insta.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://vivaglammagazine.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="wc-vendors-css" href="https://vivaglammagazine.com/wp-content/plugins/woo-gutenberg-products-block/build/vendors.css?ver=1.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="wc-featured-product-editor-css" href="https://vivaglammagazine.com/wp-content/plugins/woo-gutenberg-products-block/build/featured-product.css?ver=1.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="advpsStyleSheet-css" href="https://vivaglammagazine.com/wp-content/plugins/advanced-post-slider/advps-style.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="easy_author_image-css" href="https://vivaglammagazine.com/wp-content/plugins/easy-author-image/css/easy-author-image.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="sb_instagram_styles-css" href="https://vivaglammagazine.com/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.12" type="text/css" media="all">
 <link rel="stylesheet" id="sb-font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="lightweight-youtube-channel-widget-css" href="http://vivaglammagazine.com/wp-content/plugins/lightweight-youtube-channel-widget/assets/css/youtube-channel.min.css?ver=10.0" type="text/css" media="all">
-<link rel="stylesheet" id="videojs-plugin-css" href="http://vivaglammagazine.com/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="videojs-css" href="//vjs.zencdn.net/4.5/video-js.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="social_warfare-css" href="http://vivaglammagazine.com/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=3.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="parent-style-css" href="http://vivaglammagazine.com/wp-content/themes/devoe/style.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="reset-css" href="http://vivaglammagazine.com/wp-content/themes/devoe/css/reset.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="mvp-fontawesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="mvp-style-css" href="http://vivaglammagazine.com/wp-content/themes/devoe-child/style.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="lightweight-youtube-channel-widget-css" href="https://vivaglammagazine.com/wp-content/plugins/lightweight-youtube-channel-widget/assets/css/youtube-channel.min.css?ver=10.0" type="text/css" media="all">
+<link rel="stylesheet" id="socialsnap-styles-css" href="https://vivaglammagazine.com/wp-content/plugins/socialsnap-plus/assets/css/socialsnap.css?ver=1.1.4" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="https://vivaglammagazine.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.5.7" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://vivaglammagazine.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.5.7" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="https://vivaglammagazine.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.5.7" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="parent-style-css" href="https://vivaglammagazine.com/wp-content/themes/devoe/style.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="reset-css" href="https://vivaglammagazine.com/wp-content/themes/devoe/css/reset.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="mvp-fontawesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="mvp-style-css" href="https://vivaglammagazine.com/wp-content/themes/devoe-child/style.css?ver=5.1.1" type="text/css" media="all">
 <!--[if lt IE 10]>
-<link rel='stylesheet' id='iecss-css'  href='http://vivaglammagazine.com/wp-content/themes/devoe-child/css/iecss.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='iecss-css'  href='https://vivaglammagazine.com/wp-content/themes/devoe-child/css/iecss.css?ver=5.1.1' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="media-queries-css" href="http://vivaglammagazine.com/wp-content/themes/devoe/css/media-queries.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="media-queries-css" href="https://vivaglammagazine.com/wp-content/themes/devoe/css/media-queries.css?ver=5.1.1" type="text/css" media="all">
 <link rel="stylesheet" id="googlefonts-css" href="//fonts.googleapis.com/css?family=Oswald:400,700|Open+Sans:300,400,600,700,800" type="text/css" media="screen">
 <link rel="stylesheet" id="studio-fonts-css" href="//fonts.googleapis.com/css?family=Oswald%3A400%2C700%7COpen%2BSans%3A300%2C400%2C600%2C700%2C800%26subset%3Dlatin%2Clatin-ext&amp;ver=1.0.0" type="text/css" media="all">
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/plugins/ad-inserter-pro/includes/js/ai-jquery.js?ver=4.9.8"></script>
+<link rel="stylesheet" id="sv-wc-payment-gateway-payment-form-css" href="https://vivaglammagazine.com/wp-content/plugins/woocommerce-gateway-authorize-net-aim/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/css/frontend/sv-wc-payment-gateway-payment-form.min.css?ver=5.3.0" type="text/css" media="all">
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
-/*
- http://www.gnu.org/licenses/gpl.html [GNU General Public License]
- @param {jQuery} {base64Encode:function(input))
- @param {jQuery} {base64Decode:function(input))
- @return string
-*/
-function ai_insert(insertion,selector,insertion_code){jQuery(selector).each(function(index,element){var ai_debug=typeof ai_debugging!=="undefined";if(typeof jQuery(this).attr("id")!="undefined")selector_string="#"+jQuery(this).attr("id");else if(typeof jQuery(this).attr("class")!="undefined")selector_string="."+jQuery(this).attr("class").replace(" ",".");else selector_string="";var insertion_function=insertion;var ai_code=jQuery(insertion_code);jQuery(".ai-selector-counter",ai_code).text(index+1);
-jQuery(".ai-debug-name.ai-main",ai_code).text(insertion.toUpperCase()+" "+jQuery(this).prop("tagName").toLowerCase()+selector_string);jQuery(this)[insertion_function](ai_code);if(ai_debug)console.log("AI INSERT",insertion,selector)})}
-function ai_insert_viewport(element){var ai_debug=typeof ai_debugging!=="undefined";if(ai_debug)console.log("AI VIEWPORT INSERTION: class",element.attr("class"));var visible=element.is(":visible");var block=element.data("block");if(visible){var insertion_code=element.data("code");var insertion_type=element.data("insertion");var selector=element.data("selector");if(typeof insertion_code!="undefined")if(typeof insertion_type!="undefined"&&typeof selector!="undefined"){var selector_exists=jQuery(selector).length;
-if(ai_debug)console.log("AI VIEWPORT VISIBLE: block",block,insertion_type,selector,selector_exists?"":"NOT FOUND");ai_insert(insertion_type,selector,jQuery.base64Decode(insertion_code));if(selector_exists)element.removeClass("ai-viewports")}else{if(ai_debug)console.log("AI VIEWPORT VISIBLE: block",block);var ai_code=jQuery(jQuery.base64Decode(insertion_code));element.after(ai_code);element.removeClass("ai-viewports")}}else{if(ai_debug)console.log("AI VIEWPORT NOT VISIBLE: block",block);var debug_bar=
-element.prev();if(debug_bar.hasClass("ai-debug-bar")&&debug_bar.hasClass("ai-debug-script")){debug_bar.removeClass("ai-debug-script");debug_bar.addClass("ai-debug-viewport-invisible")}}}(function($){$(document).ready(function(){$(".ai-viewports").each(function(index,element){ai_insert_viewport($(this))})})})(jQuery);(function($){$(document).ready(function(){$(".ai-viewports").each(function(index,element){ai_insert_viewport($(this))})})})(jQuery);
-(function($){var keyString="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var uTF8Encode=function(string){string=string.replace(/\x0d\x0a/g,"\n");var output="";for(var n=0;n<string.length;n++){var c=string.charCodeAt(n);if(c<128)output+=String.fromCharCode(c);else if(c>127&&c<2048){output+=String.fromCharCode(c>>6|192);output+=String.fromCharCode(c&63|128)}else{output+=String.fromCharCode(c>>12|224);output+=String.fromCharCode(c>>6&63|128);output+=String.fromCharCode(c&63|128)}}return output};
-var uTF8Decode=function(input){var string="";var i=0;var c=c1=c2=0;while(i<input.length){c=input.charCodeAt(i);if(c<128){string+=String.fromCharCode(c);i++}else if(c>191&&c<224){c2=input.charCodeAt(i+1);string+=String.fromCharCode((c&31)<<6|c2&63);i+=2}else{c2=input.charCodeAt(i+1);c3=input.charCodeAt(i+2);string+=String.fromCharCode((c&15)<<12|(c2&63)<<6|c3&63);i+=3}}return string};$.extend({base64Encode:function(input){var output="";var chr1,chr2,chr3,enc1,enc2,enc3,enc4;var i=0;input=uTF8Encode(input);
-while(i<input.length){chr1=input.charCodeAt(i++);chr2=input.charCodeAt(i++);chr3=input.charCodeAt(i++);enc1=chr1>>2;enc2=(chr1&3)<<4|chr2>>4;enc3=(chr2&15)<<2|chr3>>6;enc4=chr3&63;if(isNaN(chr2))enc3=enc4=64;else if(isNaN(chr3))enc4=64;output=output+keyString.charAt(enc1)+keyString.charAt(enc2)+keyString.charAt(enc3)+keyString.charAt(enc4)}return output},base64Decode:function(input){var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i=0;input=input.replace(/[^A-Za-z0-9\+\/=]/g,"");while(i<
-input.length){enc1=keyString.indexOf(input.charAt(i++));enc2=keyString.indexOf(input.charAt(i++));enc3=keyString.indexOf(input.charAt(i++));enc4=keyString.indexOf(input.charAt(i++));chr1=enc1<<2|enc2>>4;chr2=(enc2&15)<<4|enc3>>2;chr3=(enc3&3)<<6|enc4;output=output+String.fromCharCode(chr1);if(enc3!=64)output=output+String.fromCharCode(chr2);if(enc4!=64)output=output+String.fromCharCode(chr3)}output=uTF8Decode(output);return output}})})(jQuery);
+/* <![CDATA[ */
+var ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR","visible":"VISIBLE","hidden":"HIDDEN"};
+/* ]]> */
 </script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/plugins/advanced-post-slider/js/advps.frnt.script.js?ver=4.9.8"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js?ver=4.9.8"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4"></script>
-<link rel="https://api.w.org/" href="http://vivaglammagazine.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://vivaglammagazine.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://vivaglammagazine.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.9.8">
-<link rel="shortlink" href="http://vivaglammagazine.com/?p=4693">
-<link rel="alternate" type="application/json+oembed" href="http://vivaglammagazine.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://vivaglammagazine.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;format=xml">
-<script type="text/javascript">var ajaxurl = "http://vivaglammagazine.com/wp-admin/admin-ajax.php";</script><script type="text/javascript" data-cfasync="false">var _mmunch = {'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false};_mmunch['page'] = true; _mmunch['pageData'] = {"ID":4693,"post_name":"privacy","post_title":"Privacy Policy","post_type":"page","post_author":"1","post_status":"publish"};</script><script data-cfasync="false" src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-plugin="cc_mm" data-mailmunch-site-id="435171" async=""></script> <script type="text/javascript" async="" defer="" data-pin-color="red" data-pin-hover="false" src="http://vivaglammagazine.com/wp-content/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/pinit.js"></script>
-<script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/ad-inserter-pro/includes/js/ai-jquery.js?ver=5.1.1+2.4.12"></script>
+<script type="text/javascript">
+function ai_insert(insertion,selector,insertion_code){if(selector.indexOf(":eq")!=-1)var elements=jQuery(selector);else var elements=document.querySelectorAll(selector);Array.prototype.forEach.call(elements,function(element,index){var ai_debug=typeof ai_debugging!=="undefined";if(element.hasAttribute("id"))selector_string="#"+element.getAttribute("id");else if(element.hasAttribute("class"))selector_string="."+element.getAttribute("class").replace(new RegExp(" ","g"),".");else selector_string="";var template=
+document.createElement("div");template.innerHTML=insertion_code;var ai_selector_counter=template.getElementsByClassName("ai-selector-counter")[0];if(ai_selector_counter!=null)ai_selector_counter.innerText=index+1;var ai_debug_name_ai_main=template.getElementsByClassName("ai-debug-name ai-main")[0];if(ai_debug_name_ai_main!=null){var insertion_name="";if(insertion=="before")insertion_name=ai_front.insertion_before;else if(insertion=="after")insertion_name=ai_front.insertion_after;else if(insertion==
+"prepend")insertion_name=ai_front.insertion_prepend;else if(insertion=="append")insertion_name=ai_front.insertion_append;else if(insertion=="replace-content")insertion_name=ai_front.insertion_replace_content;else if(insertion=="replace-element")insertion_name=ai_front.insertion_replace_element;ai_debug_name_ai_main.innerText=insertion_name+" "+selector+" ("+element.tagName.toLowerCase()+selector_string+")"}var range=document.createRange();var fragment=range.createContextualFragment(template.innerHTML);
+if(insertion=="before")element.parentNode.insertBefore(fragment,element);else if(insertion=="after")element.parentNode.insertBefore(fragment,element.nextSibling);else if(insertion=="prepend")element.insertBefore(fragment,element.firstChild);else if(insertion=="append")element.insertBefore(fragment,null);else if(insertion=="replace-content")element.innerHTML=template.innerHTML;else if(insertion=="replace-element"){element.parentNode.insertBefore(fragment,element);element.parentNode.removeChild(element)}if(ai_debug)console.log("AI INSERT",
+insertion,selector,"("+element.tagName.toLowerCase()+selector_string+")")})}
+function ai_insert_viewport(element){function hasClass(element,cls){if(element==null)return false;if(element.classList)return element.classList.contains(cls);else return(" "+element.className+" ").indexOf(" "+cls+" ")>-1}function addClass(element,cls){if(element==null)return;if(element.classList)element.classList.add(cls);else element.className+=" "+cls}function removeClass(element,cls){if(element==null)return;if(element.classList)element.classList.remove(cls);else element.className=element.className.replace(new RegExp("(^|\\b)"+
+cls.split(" ").join("|")+"(\\b|$)","gi")," ")}var ai_debug=typeof ai_debugging!=="undefined";if(ai_debug)console.log("AI VIEWPORT INSERTION class:",element.getAttribute("class"));var visible=!!(element.offsetWidth||element.offsetHeight||element.getClientRects().length);var block=element.getAttribute("data-block");if(visible){var insertion_code=element.getAttribute("data-code");var insertion_type=element.getAttribute("data-insertion");var selector=element.getAttribute("data-selector");if(insertion_code!=
+null)if(insertion_type!=null&&selector!=null){var selector_exists=document.querySelectorAll(selector).length;if(ai_debug)console.log("AI VIEWPORT VISIBLE: block",block,insertion_type,selector,selector_exists?"":"NOT FOUND");if(selector_exists){ai_insert(insertion_type,selector,b64d(insertion_code));removeClass(element,"ai-viewports")}}else{if(ai_debug)console.log("AI VIEWPORT VISIBLE: block",block);var range=document.createRange();var fragment=range.createContextualFragment(b64d(insertion_code));
+element.parentNode.insertBefore(fragment,element.nextSibling);removeClass(element,"ai-viewports")}}else{if(ai_debug)console.log("AI VIEWPORT NOT VISIBLE: block",block);var debug_bar=element.previousElementSibling;if(hasClass(debug_bar,"ai-debug-bar")&&hasClass(debug_bar,"ai-debug-script")){removeClass(debug_bar,"ai-debug-script");addClass(debug_bar,"ai-debug-viewport-invisible")}removeClass(element,"ai-viewports")}}
+function b64e(str){return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g,function toSolidBytes(match,p1){return String.fromCharCode("0x"+p1)}))}function b64d(str){return decodeURIComponent(atob(str).split("").map(function(c){return"%"+("00"+c.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
+</script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/advanced-post-slider/js/advps.frnt.script.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4"></script>
+<link rel="https://api.w.org/" href="https://vivaglammagazine.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vivaglammagazine.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://vivaglammagazine.com/wp-includes/wlwmanifest.xml">
+<link rel="shortlink" href="https://vivaglammagazine.com/?p=4693">
+<link rel="alternate" type="application/json+oembed" href="https://vivaglammagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://vivaglammagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;format=xml">
+<script type="text/javascript">var ajaxurl = "https://vivaglammagazine.com/wp-admin/admin-ajax.php";</script><script type="text/javascript" data-cfasync="false">var _mmunch = {'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false};_mmunch['page'] = true; _mmunch['pageData'] = {"ID":4693,"post_name":"privacy","post_title":"Privacy Policy","post_type":"page","post_author":"1","post_status":"publish"};</script><script data-cfasync="false" src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-plugin="cc_mm" data-mailmunch-site-id="435171" async=""></script><script type="text/javascript" async="" defer="" data-pin-color="red" data-pin-hover="true" src="https://vivaglammagazine.com/wp-content/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/pinit.js"></script> <script>
 		</script>
-<script type="text/javascript"> document.createElement("video");document.createElement("audio");document.createElement("track"); </script>
-<meta property="fb:pages" content="2133401486881021">
+<style type="text/css">#ss-share-hub > a::after{background-color:#4f89e1} #ss-share-hub > a{color:#fff}</style>
 <style type="text/css">
 
 @import url(//fonts.googleapis.com/css?family=Vidaloka:100,200,300,400,500,600,700,800,900|Playfair+Display:100,200,300,400,500,600,700,800,900|Oswald:100,200,300,400,400italic,500,600,700,700italic,800,900|PT+Serif:100,200,300,400,400italic,500,600,700,700italic,800,900|Raleway:100,200,300,400,500,600,700,800,900&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
@@ -434,7 +538,7 @@ width:100%;
 max-width:600px;
 height:100%;
 max-height:400px;
-background: transparent url(https://vivaglammagazine.com/i/newsletter_bg.jpg) no-repeat;
+background: transparent url(https://www.vivaglammagazine.com/i/newsletter_bg.jpg) no-repeat;
 }
 
 .wpcc_txt {
@@ -623,12 +727,16 @@ ul.top-stories li {
 }
 }
 
-</style>
-<link rel="icon" href="http://vivaglammagazine.com/wp-content/uploads/2018/01/cropped-Logo-viva-glam-magazine-vgm-32x32.png" sizes="32x32">
-<link rel="icon" href="http://vivaglammagazine.com/wp-content/uploads/2018/01/cropped-Logo-viva-glam-magazine-vgm-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="http://vivaglammagazine.com/wp-content/uploads/2018/01/cropped-Logo-viva-glam-magazine-vgm-180x180.png">
-<meta name="msapplication-TileImage" content="http://vivaglammagazine.com/wp-content/uploads/2018/01/cropped-Logo-viva-glam-magazine-vgm-270x270.png">
-
+.noreferrer {
+text-decoration:none !important;
+}
+.noopener {
+text-decoration:none !important;
+}</style>
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>
 <script type="text/javascript">
     var analyticsFileTypes = [''];
     var analyticsSnippet = 'disabled';
@@ -643,28 +751,6 @@ ul.top-stories li {
  
 	ga('send', 'pageview');
 </script>
-<style type="text/css" id="wp-custom-css">
-			iframe.instagram-media {
-    position: static !important;
-}
-.author-bio {
-	display: none;
-}		</style>
-<style type="text/css">
-.ai-viewport-3                { display: none !important;}
-.ai-viewport-2                { display: none !important;}
-.ai-viewport-1                { display: inherit !important;}
-.ai-viewport-0                { display: none !important;}
-@media (min-width: 768px) and (max-width: 979px) {
-.ai-viewport-1                { display: none !important;}
-.ai-viewport-2                { display: inherit !important;}
-}
-@media (max-width: 767px) {
-.ai-viewport-1                { display: none !important;}
-.ai-viewport-3                { display: inherit !important;}
-}
-</style>
-<meta name="dailymotion-domain-verification" content="dmkq67cbyi1ki85fc">
 
 <script type="text/javascript">
   var blogherads = blogherads || {};
@@ -672,10 +758,7 @@ ul.top-stories li {
 </script>
 <script type="text/javascript" async="async" data-cfasync="false" src="https://ads.blogherads.com/static/blogherads.js"></script>
 <script type="text/javascript" async="async" data-cfasync="false" src="https://ads.blogherads.com/bh/41/412/412983/2609438/header.js"></script>
-
-<script data-cfasync="false" async="" src="https://a.pub.network/core/fscomscore.js"></script>
-
-<script type="text/javascript" src="https://nl.ads.justpremium.com/adserve/js.php?zone=48578"></script><script id="headerbidder" type="text/javascript" src="//s3.amazonaws.com/ssl-intgr-net/prebid/352.js"></script>
+<script id="headerbidder" type="text/javascript" src="//s3.amazonaws.com/ssl-intgr-net/prebid/352.js"></script>
 <script>
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
@@ -712,7 +795,7 @@ obApi('track', 'PAGE_VIEW');
   gtag('config', 'AW-818583422');
 </script>
 </head>
-<body class="page-template page-template-page-fullwidth page-template-page-fullwidth-php page page-id-4693">
+<body class="page-template page-template-page-fullwidth page-template-page-fullwidth-php page page-id-4693 woocommerce-js">
 <div id="site">
 <div class="fly-but-wrap">
 <span></span>
@@ -740,7 +823,7 @@ obApi('track', 'PAGE_VIEW');
 </li>
 </a>
 <a href="https://instagram.com/vivaglammag" alt="Instagram" target="_blank">
-<li class="inst-soc">
+<li class="inst-soc"> 
 <i class="fa fa-instagram fa-2"></i>
 </li>
 </a>
@@ -754,7 +837,7 @@ obApi('track', 'PAGE_VIEW');
 <i class="fa fa-youtube-play fa-2"></i>
 </li>
 </a>
-<a href="http://vivaglammagazine.com/feed/rss/" target="_blank">
+<a href="http://www.vivaglammagazine.com/feed/rss/" target="_blank">
 <li class="rss-soc">
 <i class="fa fa-rss fa-2"></i>
 </li>
@@ -768,7 +851,7 @@ obApi('track', 'PAGE_VIEW');
 <div class="fly-search-out">
 <div class="fly-search-in">
 <div class="fly-but-search left relative">
-<form method="get" id="searchform" action="http://vivaglammagazine.com/">
+<form method="get" id="searchform" action="https://vivaglammagazine.com/">
 <input type="text" name="s" id="s" value="Type search term and press enter" onfocus="if (this.value == &quot;Type search term and press enter&quot;) { this.value = &quot;&quot;; }" onblur="if (this.value == &quot;&quot;) { this.value = &quot;Type search term and press enter&quot;; }">
 <input type="hidden" id="searchsubmit" value="Search">
 </form> </div>
@@ -778,86 +861,84 @@ obApi('track', 'PAGE_VIEW');
 <div class="fly-menu-out">
 <div class="fly-menu-in">
 <nav class="main-menu left relative">
-<div class="menu-viva-america-container"><ul id="menu-viva-america" class="menu"><li id="menu-item-65463" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-65463"><a href="http://vivaglammagazine.com/category/videos/">Videos</a>
+<div class="menu-viva-america-container"><ul id="menu-viva-america" class="menu"><li id="menu-item-84836" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84836"><a href="https://vivaglammagazine.com/category/videos/">Videos</a>
 <ul class="sub-menu">
-<li id="menu-item-65458" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65458"><a href="http://vivaglammagazine.com/category/videos/beauty-videos/">Beauty Videos</a></li>
-<li id="menu-item-65459" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65459"><a href="http://vivaglammagazine.com/category/videos/entertainment-videos/">Entertainment Videos</a></li>
-<li id="menu-item-65460" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65460"><a href="http://vivaglammagazine.com/category/videos/fashion-videos/">Fashion Videos</a></li>
-<li id="menu-item-65461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65461"><a href="http://vivaglammagazine.com/category/videos/food-videos/">Food Videos</a></li>
-<li id="menu-item-65462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65462"><a href="http://vivaglammagazine.com/category/videos/love-videos/">Love Videos</a></li>
-<li id="menu-item-65464" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65464"><a href="http://vivaglammagazine.com/category/videos/90s-girl/">The 90s Girl</a></li>
-<li id="menu-item-79311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79311"><a href="http://vivaglammagazine.com/category/videos/viva-cannes/">Viva Cannes</a></li>
-<li id="menu-item-79312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79312"><a href="http://vivaglammagazine.com/category/videos/models-talk/">MODELS Talk</a></li>
-<li id="menu-item-65465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65465"><a href="http://vivaglammagazine.com/category/videos/wellness-videos/">Wellness Videos</a></li>
+<li id="menu-item-84837" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84837"><a href="https://vivaglammagazine.com/category/videos/beauty-videos/">Beauty Videos</a></li>
+<li id="menu-item-84838" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84838"><a href="https://vivaglammagazine.com/category/videos/entertainment-videos/">Entertainment Videos</a></li>
+<li id="menu-item-84839" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84839"><a href="https://vivaglammagazine.com/category/videos/fashion-videos/">Fashion Videos</a></li>
+<li id="menu-item-84840" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84840"><a href="https://vivaglammagazine.com/category/videos/food-videos/">Food Videos</a></li>
+<li id="menu-item-84841" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84841"><a href="https://vivaglammagazine.com/category/videos/love-videos/">Love Videos</a></li>
+<li id="menu-item-84843" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84843"><a href="https://vivaglammagazine.com/category/videos/90s-girl/">The 90s Girl</a></li>
+<li id="menu-item-84844" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84844"><a href="https://vivaglammagazine.com/category/videos/models-talk/">MODELS Talk</a></li>
+<li id="menu-item-84842" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84842"><a href="https://vivaglammagazine.com/category/videos/wellness-videos/">Wellness Videos</a></li>
 </ul>
 </li>
-<li id="menu-item-65470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65470"><a href="https://vivaglammagazine.jwpapp.com/">Trending Videos</a></li>
-<li id="menu-item-4636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-4636"><a href="http://vivaglammagazine.com/category/beauty/">Beauty</a>
+<li id="menu-item-84845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-84845"><a href="https://vivaglammagazine.jwpapp.com/">Trending Videos</a></li>
+<li id="menu-item-84846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84846"><a href="https://vivaglammagazine.com/category/beauty/">Beauty</a>
 <ul class="sub-menu">
-<li id="menu-item-65140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65140"><a href="http://vivaglammagazine.com/category/beauty/beauty-news/">Beauty News</a></li>
-<li id="menu-item-83021" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83021"><a href="http://vivaglammagazine.com/category/beauty/classic-beauty/">Classic Beauty</a></li>
-<li id="menu-item-5391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5391"><a href="http://vivaglammagazine.com/category/beauty/katarina-van-derham/">Katarina Van Derham</a></li>
-<li id="menu-item-5386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5386"><a href="http://vivaglammagazine.com/category/beauty/makeup-tips/">Makeup Tips</a></li>
-<li id="menu-item-62489" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62489"><a href="http://vivaglammagazine.com/category/beauty/skincare-tips/">Skincare Tips</a></li>
-<li id="menu-item-5390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5390"><a href="http://vivaglammagazine.com/category/beauty/hair-tips/">Hair Tips</a></li>
-<li id="menu-item-5392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5392"><a href="http://vivaglammagazine.com/category/beauty/nail-tips/">Nail Tips</a></li>
+<li id="menu-item-84847" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84847"><a href="https://vivaglammagazine.com/category/beauty/beauty-news/">Beauty News</a></li>
+<li id="menu-item-84848" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84848"><a href="https://vivaglammagazine.com/category/beauty/classic-beauty/">Classic Beauty</a></li>
+<li id="menu-item-84849" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84849"><a href="https://vivaglammagazine.com/category/beauty/katarina-van-derham/">Katarina Van Derham</a></li>
+<li id="menu-item-84850" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84850"><a href="https://vivaglammagazine.com/category/beauty/makeup-tips/">Makeup Tips</a></li>
+<li id="menu-item-84852" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84852"><a href="https://vivaglammagazine.com/category/beauty/skincare-tips/">Skincare Tips</a></li>
+<li id="menu-item-84853" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84853"><a href="https://vivaglammagazine.com/category/beauty/hair-tips/">Hair Tips</a></li>
+<li id="menu-item-84851" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84851"><a href="https://vivaglammagazine.com/category/beauty/nail-tips/">Nail Tips</a></li>
 </ul>
 </li>
-<li id="menu-item-4639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-4639"><a href="http://vivaglammagazine.com/category/fashion/">Fashion</a>
+<li id="menu-item-84854" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84854"><a href="https://vivaglammagazine.com/category/fashion/">Fashion</a>
 <ul class="sub-menu">
-<li id="menu-item-62561" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62561"><a href="http://vivaglammagazine.com/category/fashion/timeless-fashion/">Timeless Fashion</a></li>
-<li id="menu-item-62564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62564"><a href="http://vivaglammagazine.com/category/fashion/fashion-trends/">Fashion Trends</a></li>
-<li id="menu-item-62563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62563"><a href="http://vivaglammagazine.com/category/fashion/fashion-tips/">Fashion Tips</a></li>
-<li id="menu-item-62562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62562"><a href="http://vivaglammagazine.com/category/fashion/fashion-news/">Fashion News</a></li>
-<li id="menu-item-5402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5402"><a href="http://vivaglammagazine.com/category/fashion/jewelry-accessories/">Fashion Accessories</a></li>
-<li id="menu-item-5400" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5400"><a href="http://vivaglammagazine.com/category/fashion/fashion-editorials/">Viva Glam Fashion Editorials</a></li>
-<li id="menu-item-5396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5396"><a href="http://vivaglammagazine.com/category/fashion/vgm-supermodels/">Viva Glam Supermodels</a></li>
+<li id="menu-item-84859" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84859"><a href="https://vivaglammagazine.com/category/fashion/timeless-fashion/">Timeless Fashion</a></li>
+<li id="menu-item-84857" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84857"><a href="https://vivaglammagazine.com/category/fashion/fashion-trends/">Fashion Trends</a></li>
+<li id="menu-item-84856" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84856"><a href="https://vivaglammagazine.com/category/fashion/fashion-tips/">Fashion Tips</a></li>
+<li id="menu-item-84855" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84855"><a href="https://vivaglammagazine.com/category/fashion/fashion-news/">Fashion News</a></li>
+<li id="menu-item-84858" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84858"><a href="https://vivaglammagazine.com/category/fashion/jewelry-accessories/">Fashion Accessories</a></li>
+<li id="menu-item-84860" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84860"><a href="https://vivaglammagazine.com/category/fashion/fashion-editorials/">Fashion Editorials</a></li>
+<li id="menu-item-84861" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84861"><a href="https://vivaglammagazine.com/category/fashion/vgm-supermodels/">VIVA GLAM Supermodels</a></li>
 </ul>
 </li>
-<li id="menu-item-4641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-4641"><a href="http://vivaglammagazine.com/category/food/">Food</a>
+<li id="menu-item-84862" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84862"><a href="https://vivaglammagazine.com/category/food/">Food</a>
 <ul class="sub-menu">
-<li id="menu-item-5408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5408"><a href="http://vivaglammagazine.com/category/food/cooking-tips/">Cooking Tips</a></li>
-<li id="menu-item-5409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5409"><a href="http://vivaglammagazine.com/category/food/recipes/">Recipes</a></li>
-<li id="menu-item-5410" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5410"><a href="http://vivaglammagazine.com/category/food/restaurant-reviews/">Restaurant Reviews</a></li>
-<li id="menu-item-5411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5411"><a href="http://vivaglammagazine.com/category/food/baking/">Sweet Tooth</a></li>
-<li id="menu-item-5561" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5561"><a href="http://vivaglammagazine.com/category/food/wine-spirits/">Wine/Spirits</a></li>
+<li id="menu-item-84863" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84863"><a href="https://vivaglammagazine.com/category/food/cooking-tips/">Cooking Tips</a></li>
+<li id="menu-item-84864" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84864"><a href="https://vivaglammagazine.com/category/food/recipes/">Recipes</a></li>
+<li id="menu-item-84866" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84866"><a href="https://vivaglammagazine.com/category/food/restaurant-reviews/">Restaurant Reviews</a></li>
+<li id="menu-item-84868" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84868"><a href="https://vivaglammagazine.com/category/food/baking/">Sweet Tooth</a></li>
+<li id="menu-item-84867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84867"><a href="https://vivaglammagazine.com/category/food/wine-spirits/">Wine/Spirits</a></li>
 </ul>
 </li>
-<li id="menu-item-5167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5167"><a href="http://vivaglammagazine.com/category/entertainment/">Entertainment</a>
+<li id="menu-item-84869" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84869"><a href="https://vivaglammagazine.com/category/entertainment/">Entertainment</a>
 <ul class="sub-menu">
-<li id="menu-item-28749" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28749"><a href="http://vivaglammagazine.com/category/entertainment/set-visits-entertainment/">Viva Glam Set Visits</a></li>
-<li id="menu-item-5572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5572"><a href="http://vivaglammagazine.com/category/entertainment/interviews/">Celebrity Interviews</a></li>
-<li id="menu-item-5395" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5395"><a href="http://vivaglammagazine.com/category/entertainment/celebrity-style/">Celebrity Style</a></li>
-<li id="menu-item-5394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5394"><a href="http://vivaglammagazine.com/category/entertainment/celebrity-news/">Entertainment News</a></li>
-<li id="menu-item-5570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5570"><a href="http://vivaglammagazine.com/category/entertainment/events/">Events/Reviews</a></li>
-<li id="menu-item-28755" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28755"><a href="http://vivaglammagazine.com/category/entertainment/social-media-stars/">Influencers</a></li>
-<li id="menu-item-28750" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28750"><a href="http://vivaglammagazine.com/category/entertainment/viva-glam-crush/">VIVA GLAM CRUSH</a></li>
-<li id="menu-item-5168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5168"><a href="http://vivaglammagazine.com/category/viva-teen/">Viva Teen</a></li>
+<li id="menu-item-84873" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84873"><a href="https://vivaglammagazine.com/category/entertainment/set-visits-entertainment/">Viva Glam Set Visits</a></li>
+<li id="menu-item-84872" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84872"><a href="https://vivaglammagazine.com/category/entertainment/interviews/">Celebrity Interviews</a></li>
+<li id="menu-item-84875" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84875"><a href="https://vivaglammagazine.com/category/entertainment/celebrity-style/">Celebrity Style</a></li>
+<li id="menu-item-84870" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84870"><a href="https://vivaglammagazine.com/category/entertainment/celebrity-news/">Entertainment News</a></li>
+<li id="menu-item-84871" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84871"><a href="https://vivaglammagazine.com/category/entertainment/events/">Events/Reviews</a></li>
+<li id="menu-item-84876" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84876"><a href="https://vivaglammagazine.com/category/entertainment/social-media-stars/">Influencers</a></li>
+<li id="menu-item-84877" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84877"><a href="https://vivaglammagazine.com/category/entertainment/viva-glam-crush/">Viva Glam Crush</a></li>
+<li id="menu-item-84874" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84874"><a href="https://vivaglammagazine.com/category/viva-teen/">Viva Teen</a></li>
 </ul>
 </li>
-<li id="menu-item-9995" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-9995"><a href="http://vivaglammagazine.com/category/wellness/">Wellness</a>
+<li id="menu-item-84878" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84878"><a href="https://vivaglammagazine.com/category/wellness/">Wellness</a>
 <ul class="sub-menu">
-<li id="menu-item-5414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5414"><a href="http://vivaglammagazine.com/category/wellness/viva-fit/">Viva Fit</a></li>
-<li id="menu-item-5557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5557"><a href="http://vivaglammagazine.com/category/wellness/health/">Health and Wellness</a></li>
-<li id="menu-item-5558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5558"><a href="http://vivaglammagazine.com/category/wellness/sex-and-relationships/">Sex &amp; Relationships</a></li>
-<li id="menu-item-5555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5555"><a href="http://vivaglammagazine.com/category/wellness/sexy-mama/">Sexy Mama</a></li>
-<li id="menu-item-5571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5571"><a href="http://vivaglammagazine.com/category/wellness/great-mind/">Great Mind by Bo. L. Arnold</a></li>
-<li id="menu-item-29503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29503"><a href="http://vivaglammagazine.com/category/wellness/shifting-points/">Shifting Points by Myster Blu</a></li>
+<li id="menu-item-84879" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84879"><a href="https://vivaglammagazine.com/category/wellness/viva-fit/">Viva Fit</a></li>
+<li id="menu-item-84880" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84880"><a href="https://vivaglammagazine.com/category/wellness/health/">Health &amp; Wellness</a></li>
+<li id="menu-item-84881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84881"><a href="https://vivaglammagazine.com/category/wellness/sex-and-relationships/">Sex &amp; Relationships</a></li>
+<li id="menu-item-84882" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84882"><a href="https://vivaglammagazine.com/category/wellness/sexy-mama/">Sexy Mama</a></li>
+<li id="menu-item-84883" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84883"><a href="https://vivaglammagazine.com/category/wellness/great-mind/">Great Mind by Bo. L. Arnold</a></li>
+<li id="menu-item-84885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84885"><a href="https://vivaglammagazine.com/category/wellness/shifting-points/">Shifting Points by Myster Blu</a></li>
 </ul>
 </li>
-<li id="menu-item-28753" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28753"><a href="http://vivaglammagazine.com/category/travel/">Travel</a>
+<li id="menu-item-84886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84886"><a href="https://vivaglammagazine.com/category/travel/">Travel</a>
 <ul class="sub-menu">
-<li id="menu-item-5939" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5939"><a href="http://vivaglammagazine.com/category/travel/travel-tips-more/">Travel Tips</a></li>
-<li id="menu-item-28752" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28752"><a href="http://vivaglammagazine.com/category/travel/viva-america/">Viva America</a></li>
-<li id="menu-item-5416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5416"><a href="http://vivaglammagazine.com/category/travel/world-travels/">World Travel</a></li>
+<li id="menu-item-84887" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84887"><a href="https://vivaglammagazine.com/category/travel/travel-tips-more/">Travel Tips</a></li>
+<li id="menu-item-84888" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84888"><a href="https://vivaglammagazine.com/category/travel/viva-america/">Viva America</a></li>
+<li id="menu-item-84889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84889"><a href="https://vivaglammagazine.com/category/travel/world-travels/">World Travel</a></li>
 </ul>
 </li>
-<li id="menu-item-5546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5546"><a href="http://vivaglammagazine.com/category/more/">More</a>
+<li id="menu-item-84890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84890"><a href="https://vivaglammagazine.com/category/more/">More</a>
 <ul class="sub-menu">
-<li id="menu-item-41562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41562"><a href="http://vivaglammagazine.com/category/more/social/">Social</a></li>
-<li id="menu-item-5567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5567"><a href="http://vivaglammagazine.com/category/more/for-your-household/">For Your Household</a></li>
-<li id="menu-item-10253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10253"><a href="http://vivaglammagazine.com/category/more/living-large/">Living Large with Anicia</a></li>
-<li id="menu-item-5568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5568"><a href="http://vivaglammagazine.com/category/more/viva-tech/">Viva Tech</a></li>
+<li id="menu-item-84891" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84891"><a href="https://vivaglammagazine.com/category/more/for-your-household/">For Your Household</a></li>
+<li id="menu-item-84892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84892"><a href="https://vivaglammagazine.com/category/more/living-large/">Living Large with Anicia</a></li>
+<li id="menu-item-84893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84893"><a href="https://vivaglammagazine.com/category/more/viva-tech/">Viva Tech</a></li>
 </ul>
 </li>
 </ul></div> </nav>
@@ -875,7 +956,7 @@ obApi('track', 'PAGE_VIEW');
 <div id="main-nav-contain" class="relative">
 <div class="main-nav-contain-out">
 <div id="main-nav-logo" class="left relative">
-<a itemprop="url" href="http://vivaglammagazine.com"><img src="http://vivaglammagazine.com/wp-content/uploads/2018/12/VGM_NEWESTLOGOONLYVGM-1.png" alt="VIVA GLAM MAGAZINE"></a>
+<a itemprop="url" href="https://vivaglammagazine.com"><img src="http://www.vivaglammagazine.com/wp-content/uploads/2019/01/pink_micflag_vgm_logo-1.png" alt="VIVA GLAM MAGAZINE™"></a>
 </div>
 <div class="main-nav-contain-in">
 <div id="main-nav-right" class="left relative">
@@ -883,34 +964,34 @@ obApi('track', 'PAGE_VIEW');
 <ul class="feat-trend-list">
 <li class="trend-head">trending</li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/celebrity-travel-destinations-for-those-with-an-unlimited-budget/">Celebrity Travel Destinations for Those with an Unlimited Budget</a>
+<a href="https://vivaglammagazine.com/from-frida-to-cara-here-are-the-most-iconic-eyebrows/">From Frida to Cara: Here Are The Most Iconic Eyebrows</a>
 </li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/can-cbd-vape-oil-help-your-sex-drive-and-improve-your-fitness/">Can CBD Vape Oil Help Your Sex Drive and Improve Your Fitness?</a>
+<a href="https://vivaglammagazine.com/know-long-distance-relationship-worth/">How to Know if Your Long Distance Relationship is Worth It</a>
 </li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/express-yourself-how-to-find-your-personal-style/">Express Yourself! How to Find Your Personal Style</a>
+<a href="https://vivaglammagazine.com/experience-the-history-and-lore-of-the-winchester-mystery-house/">Experience the History and Lore of the Winchester Mystery House</a>
 </li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/the-body-always-wins/">The Body Always Wins</a>
+<a href="https://vivaglammagazine.com/claiming-your-truth-podcast-helps-you-heal-through-the-redemption-stories-of-others/">“Claiming Your Truth” Podcast Helps You Heal Through the Redemption Stories of Others</a>
 </li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/icebox-is-the-perfect-gift-for-the-makeup-lover-in-your-life/">ICEbOX is the Perfect Gift for the Makeup Lover in Your Life</a>
+<a href="https://vivaglammagazine.com/reduce-stress-by-visiting-these-global-wellness-experiences-2/">Reduce Stress by Visiting these Global Wellness Experiences</a>
 </li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/5-winter-coat-trends-you-need-to-know-about-this-season/">5 Winter Coat Trends You Need to Know About This Season</a>
+<a href="https://vivaglammagazine.com/how-to-wear-boho-chic-fashion-2/">How to Wear Boho-Chic Fashion</a>
 </li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/assessing-the-value-of-cbd-in-your-beauty-routine/">Assessing the Value of CBD in Your Beauty Routine</a>
+<a href="https://vivaglammagazine.com/how-to-fashionably-match-tights-to-your-outfit/">How to Fashionably Match Tights to Your Outfit</a>
 </li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/give-yourself-the-gift-of-good-skin-this-season-with-petra-medi-spa/">Give Yourself the Gift of Good Skin this Season with Petra Medi-Spa!</a>
+<a href="https://vivaglammagazine.com/tarrah-jewelry-keeps-you-up-to-date-with-the-latest-fashion-trends-2/">Tarrah Jewelry Keeps You Up-to-Date with the Latest Fashion Trends</a>
 </li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/a-guide-to-having-a-blissful-beach-getaway/">A Guide to Having a Blissful Beach Getaway</a>
+<a href="https://vivaglammagazine.com/get-a-quick-and-beautiful-makeup-look-with-woosh-beauty/">Get a Quick and Beautiful Makeup Look with Woosh Beauty</a>
 </li>
 <li class="trend-item">
-<a href="http://vivaglammagazine.com/mindful-eating-during-the-holidays/">Mindful Eating During the Holidays</a>
+<a href="https://vivaglammagazine.com/five-of-the-hottest-things-happening-in-vegas-this-year/">Five of the Hottest Things Happening in Vegas This Year</a>
 </li>
 </ul>
 </div> </div>
@@ -926,12 +1007,6 @@ obApi('track', 'PAGE_VIEW');
 <div id="main-content-wrap" class="left relative">
 <div class="sec-marg-out relative">
 <div class="sec-marg-in">
-<div id="leaderboard-wrapper"> <div id="leader-wrap" class="left relative">
-</div></div>
-</div>
-</div>
-<div class="sec-marg-out relative">
-<div class="sec-marg-in">
 <div id="main-content-contain" class="left relative infinite-content">
 <div id="content-wrap" class="left relative" itemscope="" itemtype="http://schema.org/Article">
 <article class="post-4693 page type-page status-publish hentry">
@@ -939,7 +1014,7 @@ obApi('track', 'PAGE_VIEW');
 <h1 class="post-title left" itemprop="name headline">Privacy Policy</h1>
 </div>
 <div id="post-area" class="left relative">
-<div class="post-body-out"> 
+<div class="post-body-out">
 <div class="post-info-left left relative">
 <div class="post-info-left-top left relative">
 </div>
@@ -947,9 +1022,9 @@ obApi('track', 'PAGE_VIEW');
 <div class="post-soc-out">
 <div class="post-soc-in">
 <div class="post-soc-share left relative">
-<a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://vivaglammagazine.com/privacy/&amp;t=Privacy Policy', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><div class="post-soc-fb left relative"><i class="fa fa-facebook fa-2"></i><span class="post-share-text">Share</span></div></a>
-<a href="#" onclick="window.open('http://twitter.com/share?text=Privacy Policy -&amp;url=http://vivaglammagazine.com/privacy/', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><div class="post-soc-twit left relative"><i class="fa fa-twitter fa-2"></i><span class="post-share-text">Tweet</span></div></a>
-<a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://vivaglammagazine.com/privacy/&amp;media=&amp;description=Privacy Policy', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><div class="post-soc-pin left relative"><i class="fa fa-pinterest fa-2"></i><span class="post-share-text">Pin</span></div></a>
+<a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=https://vivaglammagazine.com/privacy/&amp;t=Privacy Policy', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><div class="post-soc-fb left relative"><i class="fa fa-facebook fa-2"></i><span class="post-share-text">Share</span></div></a>
+<a href="#" onclick="window.open('http://twitter.com/share?text=Privacy Policy -&amp;url=https://vivaglammagazine.com/privacy/', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><div class="post-soc-twit left relative"><i class="fa fa-twitter fa-2"></i><span class="post-share-text">Tweet</span></div></a>
+<a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=https://vivaglammagazine.com/privacy/&amp;media=&amp;description=Privacy Policy', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><div class="post-soc-pin left relative"><i class="fa fa-pinterest fa-2"></i><span class="post-share-text">Pin</span></div></a>
 </div>
 </div>
 </div>
@@ -958,109 +1033,189 @@ obApi('track', 'PAGE_VIEW');
 <div class="post-body-in">
 <div id="content-area" class="left relative" itemprop="articleBody">
 <div class="content-main left relative">
+<div class="code-block code-block-9" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<a href="https://glamourgarden.com/product/glamour-garden-box-set/&#10;" target="_blank">
+<img src="https://vivaglammagazine.com/wp-content/uploads/2019/03/GLAMOUR-GARDEN-DISCOUNT-CODEmar2019.jpg" alt="Glamour Garden Box Sets">
+</a></div>
 <div class="mailmunch-forms-before-post" style="display: none !important;"></div><p><strong>Introduction and Definitions – Updated 5/25/18</strong></p>
-<p>This Privacy Policy governs all websites, apps, and other Services that link to, or contain references to, this document and are published or made available by Viva Glam Magazine, its parent, subsidiaries and affiliates (“we”, “us” or “our”<strong>)</strong>. &nbsp;Please read this Privacy Policy carefully. &nbsp;It summarizes the various ways we acquire and treat your Data when you access, visit and/or use the Service. &nbsp;It also governs your Data that we may acquire offline. This Privacy Policy does not cover information collected on sites, applications, destinations, or services linked to from the Service that we do not own or control.</p>
-<p>You can access this Privacy Policy any time in the footer of the Service’s home page, via the menu button/hamburger icon or on the Service description screen, or as otherwise indicated depending on the Service you are using. &nbsp;<strong>By purchasing a Product, registering for any aspect of the Service, or otherwise accessing, visiting or using the Service, you consent to this Privacy Policy.</strong>&nbsp;&nbsp;If you do not agree with the terms and conditions of this Privacy Policy, you should not access, visit and/or use the Service. &nbsp;We advise that you print or retain a digital copy a copy of this Privacy Policy for future reference.</p>
-<p>In addition to reviewing this Privacy Policy, please also review our&nbsp;User Agreement&nbsp;and any other terms and conditions that may be posted elsewhere in the Service or otherwise communicated to our users, because the User Agreement and all such terms and conditions are also part of the Agreement between you and us.</p>
-<p>All capitalized terms used in this Privacy Policy that are not otherwise defined have the meanings set forth in the&nbsp;Glossary. &nbsp;“Personally Identifiable Information” that alone or in combination with other information or in certain contexts can be used to identify, distinguish or trace you or your Device(s) is referred to in this document as “PII”. &nbsp;PII, together with all other information about you and/or your Device(s) that we acquire is referred to collectively as your “Data”.</p>
-<p>This Privacy Policy may be modified from time to time, so check back often. &nbsp;So that you are aware changes have been made, we will adjust the “Last Revised” date at the beginning of this document. &nbsp;If we make a significant change in the way we use or share your PII, we will also post on the Service a prominent notice that a change was made. Continued access of the Service by you will constitute your acceptance of any changes or revisions to the Privacy Policy.</p>
+<p>This Privacy Policy governs all websites, apps, and other Services that link to, or contain references to, this document and are published or made available by Viva Glam Magazine, its parent, subsidiaries and affiliates (“we”, “us” or “our”<strong>)</strong>.<br>
+Please read this Privacy Policy carefully.<br>
+It summarizes the various ways we acquire and treat your Data when you access, visit and/or use the Service.<br>
+It also governs your Data that we may acquire offline. This Privacy Policy does not cover information collected on sites, applications, destinations, or services linked to from the Service that we do not own or control.</p>
+<p>You can access this Privacy Policy any time in the footer of the Service’s home page, via the menu button/hamburger icon or on the Service description screen, or as otherwise indicated depending on the Service you are using.<br>
+<strong>By purchasing a Product, registering for any aspect of the Service, or otherwise accessing, visiting or using the Service, you consent to this Privacy Policy.</strong></p>
+<p>If you do not agree with the terms and conditions of this Privacy Policy, you should not access, visit and/or use the Service.<br>
+We advise that you print or retain a digital copy a copy of this Privacy Policy for future reference.</p>
+<p>In addition to reviewing this Privacy Policy, please also review our<br>
+User Agreement<br>
+and any other terms and conditions that may be posted elsewhere in the Service or otherwise communicated to our users, because the User Agreement and all such terms and conditions are also part of the Agreement between you and us.</p>
+<p>All capitalized terms used in this Privacy Policy that are not otherwise defined have the meanings set forth in the<br>
+Glossary.<br>
+“Personally Identifiable Information” that alone or in combination with other information or in certain contexts can be used to identify, distinguish or trace you or your Device(s) is referred to in this document as “PII”.<br>
+PII, together with all other information about you and/or your Device(s) that we acquire is referred to collectively as your “Data”.</p>
+<p>This Privacy Policy may be modified from time to time, so check back often.<br>
+So that you are aware changes have been made, we will adjust the “Last Revised” date at the beginning of this document.<br>
+If we make a significant change in the way we use or share your PII, we will also post on the Service a prominent notice that a change was made. Continued access of the Service by you will constitute your acceptance of any changes or revisions to the Privacy Policy.</p>
 <p><strong>The Types of Data Acquired About You</strong></p>
-<p><u>Personally Identifiable Information (PII)</u>. &nbsp;We acquire PII that may include, in certain contexts, your name and email address. &nbsp;We also acquire your IP address, User ID, and/or Device ID, which certain jurisdictions consider to be PII because it could be used to identify an individual or Device if it were combined with other identifying information.</p>
-<p><u>Sensitive PII</u>. &nbsp;We do not collect any sensitive personally identifiable information now will we ask for any specific data from you.</p>
-<p><u>Anonymous Data</u>. &nbsp;Some of the Data that we acquire cannot identify, distinguish or trace you or your Device, even if combined with other identifying information, and some Data that could be considered PII when combined with other identifying information is not used in a way that identifies, distinguishes or traces you or your Device, but is instead used in an anonymous way, often aggregated with other anonymous Data about other users.</p>
+<p><u>Personally Identifiable Information (PII)</u>.<br>
+We acquire PII that may include, in certain contexts, your name and email address.<br>
+We also acquire your IP address, User ID, and/or Device ID, which certain jurisdictions consider to be PII because it could be used to identify an individual or Device if it were combined with other identifying information.</p>
+<p><u>Sensitive PII</u>.<br>
+We do not collect any sensitive personally identifiable information now will we ask for any specific data from you.</p>
+<p><u>Anonymous Data</u>.<br>
+Some of the Data that we acquire cannot identify, distinguish or trace you or your Device, even if combined with other identifying information, and some Data that could be considered PII when combined with other identifying information is not used in a way that identifies, distinguishes or traces you or your Device, but is instead used in an anonymous way, often aggregated with other anonymous Data about other users.</p>
 <p><strong>How We Acquire Your Data</strong></p>
-<p><u>Data You Provide</u>. &nbsp;We mostly receive PII because you provide it to us. For instance, when you enter a contest, complete a survey, sign up for a newsletter, you may be provided, or required to choose, a password and/or User ID, as well as your name, telephone number(s), email and/or street address.</p>
-<p><u>Data Automatically Collected</u>. &nbsp;The Service may also automatically collect Data about you, your online behavior and your Device. &nbsp;The Data collected may include, without limitation, the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of you and/or your Device, as well as date/time stamp, IP address, pages visited, time of visits, Content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. The Service may collect your Data even if the Service is not open on your Device or you’re not logged in.</p>
-<p><u>Data Acquired Elsewhere</u>. &nbsp;We may also acquire your PII or other Data offline or otherwise outside of the Service. &nbsp;For example, we may purchase or otherwise acquire such Data from third party data suppliers. &nbsp;We reserve the right to merge or co-mingle this other Data with your PII and Data collected on or through the Service.</p>
-<p><u>Social Network Integration</u>. &nbsp;If you choose to access, visit and/or use any third party social networking service(s) that may be integrated with the Service, we may receive your Data that has been made available to those services, including information about your contacts on those services. &nbsp;For example, some social networking services allow you to push Content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service. Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service. &nbsp;Your decision to use a social networking service in connection with our Service is voluntary. However, you should make sure you are comfortable with your Data the third party social networking services may make available us by visiting those services’ privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, sell, share, and provide access to all of your Data that we receive through third-party social networking services in the same ways as all of your Data we receive through our Service (as described in Section IV below).</p>
-<p><u>Be Careful Publicly Posting PII</u>. &nbsp;Please be aware that Content and PII that you disclose in publicly accessible portions of the Service may be available to other users, and may also be made available outside the Service by third parties, so you should be mindful of all PII, especially sensitive PII, that you may wish to post.</p>
+<p><u>Data You Provide</u>.<br>
+We mostly receive PII because you provide it to us. For instance, when you enter a contest, complete a survey, sign up for a newsletter, you may be provided, or required to choose, a password and/or User ID, as well as your name, telephone number(s), email and/or street address.</p>
+<p><u>Data Automatically Collected</u>.<br>
+The Service may also automatically collect Data about you, your online behavior and your Device.<br>
+The Data collected may include, without limitation, the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of you and/or your Device, as well as date/time stamp, IP address, pages visited, time of visits, Content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. The Service may collect your Data even if the Service is not open on your Device or you’re not logged in.</p>
+<p><u>Data Acquired Elsewhere</u>.<br>
+We may also acquire your PII or other Data offline or otherwise outside of the Service.<br>
+For example, we may purchase or otherwise acquire such Data from third party data suppliers.<br>
+We reserve the right to merge or co-mingle this other Data with your PII and Data collected on or through the Service.</p>
+<p><u>Social Network Integration</u>.<br>
+If you choose to access, visit and/or use any third party social networking service(s) that may be integrated with the Service, we may receive your Data that has been made available to those services, including information about your contacts on those services.<br>
+For example, some social networking services allow you to push Content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service. Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service.<br>
+Your decision to use a social networking service in connection with our Service is voluntary. However, you should make sure you are comfortable with your Data the third party social networking services may make available us by visiting those services’ privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, sell, share, and provide access to all of your Data that we receive through third-party social networking services in the same ways as all of your Data we receive through our Service (as described in Section IV below).</p>
+<p><u>Be Careful Publicly Posting PII</u>.<br>
+Please be aware that Content and PII that you disclose in publicly accessible portions of the Service may be available to other users, and may also be made available outside the Service by third parties, so you should be mindful of all PII, especially sensitive PII, that you may wish to post.</p>
 <p><strong>How We Use Your Data</strong></p>
-<p><u>Processing Your Requests for Products</u>. &nbsp;We use your Data to process your request for Content and/or other Product(s). &nbsp;For example, if you subscribe to any of our Products we may use your e-mail address to send you a confirmation notice and your mailing address to send you the Product. Similarly, if you enter a contest, we will use your PII to notify you if you are a winner. &nbsp;If you enter a contest or submit Content to us (e.g., a “letter to our editors” or online review or comment), we may also publish your name, screen name, home town and other PII you have provided to us.</p>
-<p><u>Administering the Service</u>. We also use your Data for any lawful business purpose in connection with administering the Service, including without limitation for customer service, to help diagnose problems with servers, to improve Products that we offer by tailoring them to your needs, to gather broad demographic information, to analyze trends, to seek compatible advertisers, sponsors, clients and customers, and to track users’ movements around the Service and elsewhere on the web or across apps and/ devices. &nbsp;Your geographic location Data may specifically be used to show you Content (including advertising and sponsored messaging) based on geographic location.</p>
-<p><u>Access by Third Party Providers</u>. &nbsp;We may also allow access to your Data by Third Party Providers that provide us with services, such as technical maintenance, market research, community and forums management, auction services, e-commerce, personal/job search and other advertising functionality, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase or subscribe to any Product(s), we may forward your Data to Third Party Providers for services such as credit/debit card or other payment processing, order fulfillment, credit pre-authorization, and address verification. There are also times when you provide Data to us in areas of the Service that may be managed or participated in by one or more Third Party Providers. In such cases, the Data may be used by us and by such Third Party Provider(s), each pursuant to its own policies. While we may seek to require Third Party Providers to follow appropriate privacy policies and will not authorize them to use your Data except for the express purpose for which it is provided, we do not bear any responsibility for any actions or policies of third parties.</p>
-<p><u>Marketing Communications</u>. &nbsp;We may also use your Data to communicate with you about new features, events or Products offered by us, Third Party Providers, our advertisers, and other companies and individuals with which we have a relationship.</p>
-<p><u>Health, Safety, and Legal Requests</u>. &nbsp;We reserve the right to access, use, and share with others your Data for purposes of health, safety and other matters in the public interest. &nbsp;We may also provide access to your Data in order to cooperate with official investigations or legal proceedings brought by or otherwise involving governmental and/or law enforcement officials, as well as private parties, including, for example, in response to subpoenas, search warrants, court orders, or other legal process. We may also provide access to protect our rights and property and those of our agents, customers, and others including to enforce our agreements, policies, and terms of use.</p>
-<p><u>Employment Opportunities</u>. &nbsp;If you provide your PII to us in connection with an employment inquiry, without limiting the applicability of the rest of this Privacy Policy, we will use your PII to evaluate your job application, and for related recruiting, reporting and recordkeeping purposes. &nbsp;We may maintain your PII on file, whether we hire you or not, to administer your relationship with us and/or for job applicant related reporting and recordkeeping for as long as required or permitted by law.</p>
-<p><u>Transfer or Sale of Our Business</u>. &nbsp;As our business changes, we may buy or sell various assets owned or controlled by us. &nbsp;In the event all or a portion of the assets are sold, assigned, transferred or acquired by another company due to merger, divestiture, restructuring, reorganization, dissolution, financing, acquisition, bankruptcy or otherwise, your Data may be among the transferred assets.</p>
-<p><u>Combining Your Anonymous Data with PII</u>. &nbsp;We reserve the right to merge or co-mingle anonymous, non-personally identifiable Data about you, your offline and online behavior, and/or your Device (including its geographic location), with your PII for any lawful business purpose.</p>
+<p><u>Processing Your Requests for Products</u>.<br>
+We use your Data to process your request for Content and/or other Product(s).<br>
+For example, if you subscribe to any of our Products we may use your e-mail address to send you a confirmation notice and your mailing address to send you the Product. Similarly, if you enter a contest, we will use your PII to notify you if you are a winner.<br>
+If you enter a contest or submit Content to us (e.g., a “letter to our editors” or online review or comment), we may also publish your name, screen name, home town and other PII you have provided to us.</p>
+<p><u>Administering the Service</u>. We also use your Data for any lawful business purpose in connection with administering the Service, including without limitation for customer service, to help diagnose problems with servers, to improve Products that we offer by tailoring them to your needs, to gather broad demographic information, to analyze trends, to seek compatible advertisers, sponsors, clients and customers, and to track users’ movements around the Service and elsewhere on the web or across apps and/ devices.<br>
+Your geographic location Data may specifically be used to show you Content (including advertising and sponsored messaging) based on geographic location.</p>
+<p><u>Access by Third Party Providers</u>.<br>
+We may also allow access to your Data by Third Party Providers that provide us with services, such as technical maintenance, market research, community and forums management, auction services, e-commerce, personal/job search and other advertising functionality, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase or subscribe to any Product(s), we may forward your Data to Third Party Providers for services such as credit/debit card or other payment processing, order fulfillment, credit pre-authorization, and address verification. There are also times when you provide Data to us in areas of the Service that may be managed or participated in by one or more Third Party Providers. In such cases, the Data may be used by us and by such Third Party Provider(s), each pursuant to its own policies. While we may seek to require Third Party Providers to follow appropriate privacy policies and will not authorize them to use your Data except for the express purpose for which it is provided, we do not bear any responsibility for any actions or policies of third parties.</p>
+<p><u>Marketing Communications</u>.<br>
+We may also use your Data to communicate with you about new features, events or Products offered by us, Third Party Providers, our advertisers, and other companies and individuals with which we have a relationship.</p>
+<p><u>Health, Safety, and Legal Requests</u>.<br>
+We reserve the right to access, use, and share with others your Data for purposes of health, safety and other matters in the public interest.<br>
+We may also provide access to your Data in order to cooperate with official investigations or legal proceedings brought by or otherwise involving governmental and/or law enforcement officials, as well as private parties, including, for example, in response to subpoenas, search warrants, court orders, or other legal process. We may also provide access to protect our rights and property and those of our agents, customers, and others including to enforce our agreements, policies, and terms of use.</p>
+<p><u>Employment Opportunities</u>.<br>
+If you provide your PII to us in connection with an employment inquiry, without limiting the applicability of the rest of this Privacy Policy, we will use your PII to evaluate your job application, and for related recruiting, reporting and recordkeeping purposes.<br>
+We may maintain your PII on file, whether we hire you or not, to administer your relationship with us and/or for job applicant related reporting and recordkeeping for as long as required or permitted by law.</p>
+<p><u>Transfer or Sale of Our Business</u>.<br>
+As our business changes, we may buy or sell various assets owned or controlled by us.<br>
+In the event all or a portion of the assets are sold, assigned, transferred or acquired by another company due to merger, divestiture, restructuring, reorganization, dissolution, financing, acquisition, bankruptcy or otherwise, your Data may be among the transferred assets.</p>
+<p><u>Combining Your Anonymous Data with PII</u>.<br>
+We reserve the right to merge or co-mingle anonymous, non-personally identifiable Data about you, your offline and online behavior, and/or your Device (including its geographic location), with your PII for any lawful business purpose.</p>
 <p><strong>Sharing Your Data for Marketing; Opt-Out; How to Update Your Data</strong></p>
-<p><u>Sharing Your Data for Marketing</u>. &nbsp;Unless otherwise specified on the Service, we may sell or share your Data among our parent, subsidiaries, and affiliates and with other third parties who we think may offer or enable you to become aware of Products that may be of interest to you.</p>
-<p><u>How to Opt-Out of Sharing for Marketing</u>. &nbsp;If you do not wish to have PII such as your name, email address, postal address or phone number shared with third parties for their marketing purposes, contact our Privacy Policy Coordinator as described at the end of this document. &nbsp;But note that, in order for us to properly administer the Service, we must continue to share your Data with Third Party Providers as described in Section IV(C) above (if you object to such sharing, you should not use the Service). Note also that this option to opt-out applies only to PII, and not Anonymous Data.</p>
-<p><u>How to Opt-Out of Marketing Messages from Us</u>. &nbsp;If you do not wish to receive future marketing or other commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive. &nbsp;But note that you may continue to receive certain communications from us that are necessary for the Service, such as renewal notifications, invoices, technical notices, updates, security alerts, and support and administrative service bulletins.</p>
-<p><u>How to Update Your PII</u>. &nbsp;If you have registered on any part of the Service, please use the mechanism or contact information on the Service that allows you to change or update your member preferences, if available, to keep all such Data accurate and up-to-date. &nbsp;If no such mechanism or contact information is available on the Service, contact our Privacy Policy Coordinator as described below with your changes.</p>
+<p><u>Sharing Your Data for Marketing</u>.<br>
+Unless otherwise specified on the Service, we may sell or share your Data among our parent, subsidiaries, and affiliates and with other third parties who we think may offer or enable you to become aware of Products that may be of interest to you.</p>
+<p><u>How to Opt-Out of Sharing for Marketing</u>.<br>
+If you do not wish to have PII such as your name, email address, postal address or phone number shared with third parties for their marketing purposes, contact our Privacy Policy Coordinator as described at the end of this document.<br>
+But note that, in order for us to properly administer the Service, we must continue to share your Data with Third Party Providers as described in Section IV(C) above (if you object to such sharing, you should not use the Service). Note also that this option to opt-out applies only to PII, and not Anonymous Data.</p>
+<p><u>How to Opt-Out of Marketing Messages from Us</u>.<br>
+If you do not wish to receive future marketing or other commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive.<br>
+But note that you may continue to receive certain communications from us that are necessary for the Service, such as renewal notifications, invoices, technical notices, updates, security alerts, and support and administrative service bulletins.</p>
+<p><u>How to Update Your PII</u>.<br>
+If you have registered on any part of the Service, please use the mechanism or contact information on the Service that allows you to change or update your member preferences, if available, to keep all such Data accurate and up-to-date.<br>
+If no such mechanism or contact information is available on the Service, contact our Privacy Policy Coordinator as described below with your changes.</p>
 <ol start="6">
 <li><strong> Cookies and Related Technologies; Do Not Track (DNT)</strong></li>
 </ol>
-<p><u>Cookies/Local Device Storage</u>. &nbsp;The Service will at times place and/or store code or other types of information and/or software on your Device or within your browser, such as cookies (including flash cookies), locally shared objects, and HTML5 (collectively, “Local Device Storage”). We and Third Party Providers may use Local Device Storage in connection with the Service for any lawful business purpose, including without limitation to determine whether you have seen a particular advertisement before on the same or different Device and to otherwise control the display of ads, to track the movements of individual users through the Service and elsewhere on the web or across apps, devices, and geographic locations, to help diagnose problems with servers, to gather broad demographic information, to conduct research, to deliver editorial Content, to record registration and personalization information, and to otherwise administer the Service. &nbsp;For example, if you register on any part of the Service and are given the option to save your user name and password, we may provide this convenience to you via Local Device Storage. Local Device Storage may also collect and store your PII, which may be shared with our parent, subsidiaries, and affiliates and other third parties.</p>
-<p><u>You May Disable Local Device Storage</u>. &nbsp;If you do not want Local Device Storage, your Device or browser may include an option that allows you to not accept it. However, if you disable Local Device Storage, some portions of the Service may not function properly.</p>
-<p><u>Tracking Technologies</u>. &nbsp;In addition to Local Device Storage, we may use web beacons, web bugs, internet or pixel tags, clear gifs, digital fingerprinting (aka “Machine Identification”) and similar technologies (collectively, together with Local Device Storage, the “Tracking Technologies”) on the Service and in our communications with you, such as within e-mail and text messages and push notifications. &nbsp;We use Tracking Technologies to determine which of our messages have been opened by recipients, and for all or some of the same lawful business purposes we describe above for use of Local Device Storage.</p>
-<p><u>Do Not Track (DNT)</u>. &nbsp;Your browser setting may allow you to automatically transmit a “Do Not Track” (DNT) signal to websites and online services that you visit. There is no consensus among industry participants as to what DNT means in this context, and some browsers&nbsp;automatically apply DNT signals by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests. As a result, like many websites and online services, we do not alter our practices when the Service receives a DNT signal from a visitor’s browser.&nbsp;As discussed below, you may opt out of the use of your Data for online behavioral advertising by third parties at any time.&nbsp;To find out more about DNT, please visit&nbsp;<a href="http://allaboutdnt.com/">http://allaboutdnt.com</a>.</p>
+<p><u>Cookies/Local Device Storage</u>.<br>
+The Service will at times place and/or store code or other types of information and/or software on your Device or within your browser, such as cookies (including flash cookies), locally shared objects, and HTML5 (collectively, “Local Device Storage”). We and Third Party Providers may use Local Device Storage in connection with the Service for any lawful business purpose, including without limitation to determine whether you have seen a particular advertisement before on the same or different Device and to otherwise control the display of ads, to track the movements of individual users through the Service and elsewhere on the web or across apps, devices, and geographic locations, to help diagnose problems with servers, to gather broad demographic information, to conduct research, to deliver editorial Content, to record registration and personalization information, and to otherwise administer the Service.<br>
+For example, if you register on any part of the Service and are given the option to save your user name and password, we may provide this convenience to you via Local Device Storage. Local Device Storage may also collect and store your PII, which may be shared with our parent, subsidiaries, and affiliates and other third parties.</p>
+<p><u>You May Disable Local Device Storage</u>.<br>
+If you do not want Local Device Storage, your Device or browser may include an option that allows you to not accept it. However, if you disable Local Device Storage, some portions of the Service may not function properly.</p>
+<p><u>Tracking Technologies</u>.<br>
+In addition to Local Device Storage, we may use web beacons, web bugs, internet or pixel tags, clear gifs, digital fingerprinting (aka “Machine Identification”) and similar technologies (collectively, together with Local Device Storage, the “Tracking Technologies”) on the Service and in our communications with you, such as within e-mail and text messages and push notifications.<br>
+We use Tracking Technologies to determine which of our messages have been opened by recipients, and for all or some of the same lawful business purposes we describe above for use of Local Device Storage.</p>
+<p><u>Do Not Track (DNT)</u>.<br>
+Your browser setting may allow you to automatically transmit a “Do Not Track” (DNT) signal to websites and online services that you visit. There is no consensus among industry participants as to what DNT means in this context, and some browsers<br>
+automatically apply DNT signals by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests. As a result, like many websites and online services, we do not alter our practices when the Service receives a DNT signal from a visitor’s browser.<br>
+As discussed below, you may opt out of the use of your Data for online behavioral advertising by third parties at any time.<br>
+To find out more about DNT, please visit<br>
+<a href="http://allaboutdnt.com/">http://allaboutdnt.com</a>.</p>
 <p><strong>Online Behavioral Advertising (OBA) and How to Opt-Out of OBA</strong></p>
 <p>&nbsp;</p>
-<p><u>How OBA Works</u>. &nbsp;We and our Third Party Providers will at times also use Tracking Technologies for purposes of “online behavioral advertising” (OBA). &nbsp;OBA allows the serving of advertisements tailored to interests you have shown by browsing on the Service and on other sites, applications, destinations, and services, using the same or a different Device. &nbsp;To enable OBA, we and these Third Party Providers use Tracking Technologies to collect Data including for example the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of your Device, as well as date/time stamp, IP address, pages visited, time of visits, Content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. The use of Tracking Technologies by Third Party Providers is subject to their own privacy policies, not this Privacy Policy, and we have no responsibility or liability in connection therewith.</p>
-<p><u>Opt-Out of OBA</u>. &nbsp;If you do not want OBA, you may be able to opt-out by visiting&nbsp;<a href="http://www.aboutads.info/">http://www.aboutads.info</a>,&nbsp;<a href="https://www.networkadvertising.org/">http://www.networkadvertising.org</a>,&nbsp;<a href="http://www.youronlinechoices.com/uk/">http://www.youronlinechoices.com/uk/</a>&nbsp;and/or by clicking the “Ad Choices” icon that appears in advertising served through OBA. &nbsp;Please note that the option to opt-out applies only to tracking by Third Party Providers across this Service and other sites, applications, destinations, and services, and not tracking among pages within the Service itself. &nbsp;Residents of the European Economic Area (EEA) and Switzerland have additional options as described below in Section XI(B) to exercise choices with respect to OBA.</p><div class="code-block code-block-15" style="margin: 8px 0; clear: both;">
-
-<div id="skm-ad-medrec-2"></div>
-<script type="text/javascript">
-  blogherads.adq.push(['medrec', 'skm-ad-medrec-2']);
-</script>
-</div>
-<div class="mailmunch-forms-in-post-middle" style="display: none !important;"></div>
+<p><u>How OBA Works</u>.<br>
+We and our Third Party Providers will at times also use Tracking Technologies for purposes of “online behavioral advertising” (OBA).<br>
+OBA allows the serving of advertisements tailored to interests you have shown by browsing on the Service and on other sites, applications, destinations, and services, using the same or a different Device.<br>
+To enable OBA, we and these Third Party Providers use Tracking Technologies to collect Data including for example the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of your Device, as well as date/time stamp, IP address, pages visited, time of visits, Content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. The use of Tracking Technologies by Third Party Providers is subject to their own privacy policies, not this Privacy Policy, and we have no responsibility or liability in connection therewith.</p><div class="mailmunch-forms-in-post-middle" style="display: none !important;"></div>
+<p><u>Opt-Out of OBA</u>.<br>
+If you do not want OBA, you may be able to opt-out by visiting<br>
+<a href="http://www.aboutads.info/">http://www.aboutads.info</a>,<br>
+<a href="https://www.networkadvertising.org/">http://www.networkadvertising.org</a>,<br>
+<a href="http://www.youronlinechoices.com/uk/">http://www.youronlinechoices.com/uk/</a><br>
+and/or by clicking the “Ad Choices” icon that appears in advertising served through OBA.<br>
+Please note that the option to opt-out applies only to tracking by Third Party Providers across this Service and other sites, applications, destinations, and services, and not tracking among pages within the Service itself.<br>
+Residents of the European Economic Area (EEA) and Switzerland have additional options as described below in Section XI(B) to exercise choices with respect to OBA.</p>
 <p><strong>Transfer of Your Data Among Jurisdictions</strong></p>
-<p>We are a U.S.-based company. &nbsp;Your Data may be processed, transferred to, and maintained on, servers and databases located within the U.S. and elsewhere where the privacy laws may not be as protective as your jurisdiction. &nbsp;We reserve the right to transfer your Data to and from any state, province, country or other governmental jurisdiction. Your consent to this Privacy Policy followed by your submission or our collection of such Data represents your agreement to any such transfer.</p>
+<p>We are a U.S.-based company.<br>
+Your Data may be processed, transferred to, and maintained on, servers and databases located within the U.S. and elsewhere where the privacy laws may not be as protective as your jurisdiction.<br>
+We reserve the right to transfer your Data to and from any state, province, country or other governmental jurisdiction. Your consent to this Privacy Policy followed by your submission or our collection of such Data represents your agreement to any such transfer.</p>
 <p><strong>Data Security and Notification</strong></p>
 <p><u>Security Measures</u>. We take commercially reasonable security measures to protect against unauthorized access to, or unauthorized alteration, disclosure or destruction of, PII that you share with us.</p>
-<p><u>No Liability for Breach</u>. &nbsp;Because no data transmission is completely secure, and no system of physical or electronic security is impenetrable, we cannot guarantee the security of the Data that you send to us or the security of servers, networks or databases, and by using the Service you agree to assume all risk in connection with your Data. &nbsp;We are not responsible for any loss of such Data or the consequences thereof.</p>
-<p><u>Breach Notification</u>. &nbsp;In the event that we believe the security of your Data in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail, push notification, or otherwise.</p>
-<p><strong>Notice to California Customers – Your Privacy Rights</strong></p>
+<p><u>No Liability for Breach</u>.<br>
+Because no data transmission is completely secure, and no system of physical or electronic security is impenetrable, we cannot guarantee the security of the Data that you send to us or the security of servers, networks or databases, and by using the Service you agree to assume all risk in connection with your Data.<br>
+We are not responsible for any loss of such Data or the consequences thereof.</p>
+<p><u>Breach Notification</u>.<br>
+In the event that we believe the security of your Data in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail, push notification, or otherwise.</p>
+<p><strong>Notice to California Customers .¨ Your Privacy Rights</strong></p>
 <p>&nbsp;</p>
-<p><u>Shine the Light</u>. &nbsp;California’s “Shine the Light” law, Civil Code Section 1798.83, gives California customers the right to prevent our disclosure of their personal information to third parties for those third parties’ direct marketing purposes, and requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. &nbsp;Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above in Section V(C), if you wish to opt-out of our sharing of your Data with third parties for the third parties’ direct marketing purposes or to find out more about your opt-out rights, please contact our Privacy Policy Coordinator as described below.</p>
-<p><u>Online Erasure</u>. &nbsp;California’s “Online Erasure” law, Business and Professions Code Sections 22580-22582, requires operators of certain websites and online services to allow registered users who are under the age of 18 and residents of California to request removal of Content they post. If you fit that description and posted Content on a section of our Service that is directed to minors, you may request removal of the Content by contacting our Privacy Policy Coordinator as described below. &nbsp;In response to your request, we may elect to make the Content invisible to other users and the public (rather than deleting it entirely), in which case the Content may remain on servers we control and/or may be publicly available elsewhere if a third party copied and reposted the Content.</p>
+<p><u>Shine the Light</u>.<br>
+California’s “Shine the Light” law, Civil Code Section 1798.83, gives California customers the right to prevent our disclosure of their personal information to third parties for those third parties’ direct marketing purposes, and requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes.<br>
+Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above in Section V(C), if you wish to opt-out of our sharing of your Data with third parties for the third parties’ direct marketing purposes or to find out more about your opt-out rights, please contact our Privacy Policy Coordinator as described below.</p>
+<p><u>Online Erasure</u>.<br>
+California’s “Online Erasure” law, Business and Professions Code Sections 22580-22582, requires operators of certain websites and online services to allow registered users who are under the age of 18 and residents of California to request removal of Content they post. If you fit that description and posted Content on a section of our Service that is directed to minors, you may request removal of the Content by contacting our Privacy Policy Coordinator as described below.<br>
+In response to your request, we may elect to make the Content invisible to other users and the public (rather than deleting it entirely), in which case the Content may remain on servers we control and/or may be publicly available elsewhere if a third party copied and reposted the Content.</p>
 <p><strong>Notice to Residents of the European Economic Area (EEA) and Switzerland</strong></p>
-<p><u>Purposes of Processing</u>. &nbsp;As explained in Section IV above, we process your Data to process your requests for Products, administer the Service, facilitate access by Third Party Providers, make marketing communications, facilitate health, safety and legal requests, respond to your requests in connection with employment opportunities, transfer or sell our business, and to combine data sets. As explained in Sections V – VII, we may also use, transfer and otherwise process Data acquired from you directly or by use of Tracking Technologies, for marketing purposes, including to serve you with Online Behavioral Advertising (OBA).</p>
-<p><u>Legal Basis for Processing</u>. &nbsp;We serve you with OBA with your consent, and you have the right to withdraw consent at any time as described in Section VII above, by visiting our&nbsp;Consent Tool, or by contacting our Privacy Policy Coordinator described below. &nbsp;We rely on the legitimate interest basis of processing for the other activities described in subsection (A) above because processing Data is necessary to provide you with our Products and to respond to your requests, our activities are reasonably expected by our visitors, and those activities do not unduly and negatively affect the privacy rights of our visitors. When you make a purchase, enter a sweepstakes, or engage in another type of transaction with us, we may process your Data to fulfill that contract.</p>
+<p><u>Purposes of Processing</u>.<br>
+As explained in Section IV above, we process your Data to process your requests for Products, administer the Service, facilitate access by Third Party Providers, make marketing communications, facilitate health, safety and legal requests, respond to your requests in connection with employment opportunities, transfer or sell our business, and to combine data sets. As explained in Sections V .¨ VII, we may also use, transfer and otherwise process Data acquired from you directly or by use of Tracking Technologies, for marketing purposes, including to serve you with Online Behavioral Advertising (OBA).</p>
+<p><u>Legal Basis for Processing</u>.<br>
+We serve you with OBA with your consent, and you have the right to withdraw consent at any time as described in Section VII above, by visiting our<br>
+Consent Tool, or by contacting our Privacy Policy Coordinator described below.<br>
+We rely on the legitimate interest basis of processing for the other activities described in subsection (A) above because processing Data is necessary to provide you with our Products and to respond to your requests, our activities are reasonably expected by our visitors, and those activities do not unduly and negatively affect the privacy rights of our visitors. When you make a purchase, enter a sweepstakes, or engage in another type of transaction with us, we may process your Data to fulfill that contract.</p>
 <p><u>Transfers</u>. As described in Section VIII above, your Data may be processed in or transferred to the U.S. or elsewhere in the world. We will ensure that transfers of personal data to a third country or an international organization are subject to appropriate safeguards.</p>
-<p><u>Individual Rights</u>. If you are a resident of the EEA or Switzerland, you are entitled to the following rights. Contact our Privacy Policy Coordinator as described below to exercise these rights. &nbsp;<strong>Please note</strong>: In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing Data.</p>
+<p><u>Individual Rights</u>. If you are a resident of the EEA or Switzerland, you are entitled to the following rights. Contact our Privacy Policy Coordinator as described below to exercise these rights.<br>
+<strong>Please note</strong>: In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing Data.</p>
 <p>&nbsp;</p>
 <p><em>Right to access and rectify your Data</em>. You have the right to obtain information about our processing of Data and a copy of your Data that we store. You have the right to request that we update your Data if it is inaccurate or incomplete.</p>
 <p><em>Right to request erasure of your Data</em>. You have the right to have your Data erased from our systems if the Data is no longer necessary for the purpose for which it was collected or you withdraw consent and no other legal basis for processing exists.</p>
 <p><em>Right to restrict our processing of your Data</em>. You have the right to restrict our processing if you contest the accuracy of the Data we store about you, our processing is deemed unlawful and you oppose erasure of your Data, or we no longer need the Data for the purposes for which we collected it but we must store it to comply with our legal obligations.</p>
 <p><em>Right to portability of your Data</em>. You have the right to receive your Data and to transmit it to another controller where our processing is based on consent you gave us and was carried out by automated means.</p>
 <p><em>Right to object to our processing of your Data</em>. You have the right to object to our processing where we process Data based on legitimate interest.</p>
-<p><em>Right to lodge a complaint</em>.&nbsp;You have the right to lodge a complaint about our Data collection and processing actions to your data protection authority. Contact details for data protection authorities are available at&nbsp;<a href="https://protect-us.mimecast.com/s/siiaCERZArSM5wWuPPb-z">http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm</a>.</p>
-<p><u>EEA Representative</u>. &nbsp;If you are a Data Protection Authority in the EEA with questions about this policy or the Service, please contact us directly to our Privacy Policy Coordinator as described in Section XII below. &nbsp;Alternatively, you can contact our EEA Representative at the following address, who will forward your correspondence to us:</p>
+<p><em>Right to lodge a complaint</em>.<br>
+You have the right to lodge a complaint about our Data collection and processing actions to your data protection authority. Contact details for data protection authorities are available at<br>
+<a href="https://protect-us.mimecast.com/s/siiaCERZArSM5wWuPPb-z">http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm</a>.</p>
+<p><u>EEA Representative</u>.<br>
+If you are a Data Protection Authority in the EEA with questions about this policy or the Service, please contact us directly to our Privacy Policy Coordinator as described in Section XII below.<br>
+Alternatively, you can contact our EEA Representative at the following address, who will forward your correspondence to us:</p>
 <p>EEA GDPR Representative</p>
 <p>KVD Brand</p>
 <p>4821 Lankershim Blvd, F-345</p>
 <p>North Hollywood, CA 91601</p>
 <p><u>info@</u><u>kvdbrand.com</u></p>
-<p>As discussed above in Section V(B) and XI, you may opt-out of having PII such as your name, email address, postal address or phone number shared with third parties for their marketing purposes. &nbsp;If you wish to exercise this right, please contact our Privacy Policy Coordinator and state which of these items you wish to opt-out of sharing with third parties.</p>
+<p>As discussed above in Section V(B) and XI, you may opt-out of having PII such as your name, email address, postal address or phone number shared with third parties for their marketing purposes.<br>
+If you wish to exercise this right, please contact our Privacy Policy Coordinator and state which of these items you wish to opt-out of sharing with third parties.</p>
 <p>Also, as discussed above in Section V(D), if you have registered on any part of the Service and you wish to update or make changes to your PII on file with us, you may contact our Privacy Policy Coordinator.</p>
 <p><strong>Make sure to include enough information for us to help you, including for example your name, contact information, and the specific website, mobile site, application, and/or other service you’re contacting us about.</strong></p>
 <p><strong>Note: Only inquiries about this policy or your PII should be sent to the Privacy Policy Coordinator. No other communications will be accepted or responded to.</strong></p>
 <p>For communications on other matters, please contact us through the means described on the Service, if available (for example, in the “Contact Us” section).</p>
-<p><strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong>&nbsp;<strong>*</strong></p>
+<p><strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong><br>
+<strong>*</strong></p>
 <p><strong>If you don’t agree to the terms contained in this Privacy Policy, you must immediately exit the Service.</strong></p>
 <p>&nbsp;</p>
-<div class="mailmunch-forms-after-post" style="display: none !important;"></div><div class="swp_social_panel swp_horizontal_panel  swp_flat_fresh  swp_default_full_color
-                     swp_individual_full_color
-                     swp_other_full_color  scale-100 " data-min-width="1100" "="" data-float-color="#ffffff" data-float="none" data-float-mobile="none" style=""><div class="nc_tweetContainer swp_facebook" data-network="facebook"><a rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=http%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-link="https://www.facebook.com/share.php?u=http%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" class="nc_tweet"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span><span class="swp_count">1</span></a></div><div class="nc_tweetContainer swp_twitter" data-network="twitter"><a rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Privacy+Policy&amp;url=http%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;via=vivaglammag" data-link="https://twitter.com/intent/tweet?text=Privacy+Policy&amp;url=http%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;via=vivaglammag" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet noPop" onclick="var e=document.createElement('script');
-						   e.setAttribute('type','text/javascript');
-						   e.setAttribute('charset','UTF-8');
-						   e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
-						   document.body.appendChild(e);
-						"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div><div class="nc_tweetContainer swp_linkedin" data-network="linkedin"><a rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=http%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-link="https://www.linkedin.com/cws/share?url=http%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer total_shares total_sharesalt"><span class="swp_count ">1 <span class="swp_label">Shares</span></span></div></div><div class="swp-content-locator"></div><div class="code-block code-block-14" style="margin: 8px 0; clear: both;">
-
-<div id="skm-ad-banner-1"></div>
-<script type="text/javascript">
-  blogherads.adq.push(['banner', 'skm-ad-banner-1']);
-</script>
-
-</div>
-<div id="comments-anchor" class="spot-im-comments comments-area">
+<div class="mailmunch-forms-after-post" style="display: none !important;"></div><p><a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark" data-pin-color="red" data-pin-height="28"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png"></a></p> <div id="comments-anchor" class="spot-im-comments comments-area">
 <div data-spotim-module="recirculation" data-spot-id="sp_TT6GkY89"></div>
 <script async="" src="https://recirculation.spot.im/spot/sp_TT6GkY89" data-spotim-script="recirculation"></script>
-<script async="" data-spotim-module="spotim-launcher" data-article-tags="" src="https://launcher.spot.im/spot/sp_TT6GkY89" data-post-id="4693" data-post-url="http://vivaglammagazine.com/privacy/" data-short-url="http://vivaglammagazine.com/?p=4693" data-messages-count="10" data-wp-import-endpoint="http://vivaglammagazine.com/privacy/feed/spotim/" data-facebook-url="http://vivaglammagazine.com/privacy/" data-disqus-shortname="" data-disqus-url="http://vivaglammagazine.com/privacy/" data-disqus-identifier="4693 http://vivaglammagazine.com/?p=4693" data-community-question="" data-seo-enabled="true" data-wp-v="p-4.3.0/wp-4.9.8"></script>
+<script async="" data-spotim-module="spotim-launcher" data-article-tags="" src="https://launcher.spot.im/spot/sp_TT6GkY89" data-post-id="4693" data-post-url="https://vivaglammagazine.com/privacy/" data-short-url="https://vivaglammagazine.com/?p=4693" data-messages-count="10" data-wp-import-endpoint="https://vivaglammagazine.com/privacy/feed/spotim/" data-facebook-url="https://vivaglammagazine.com/privacy/" data-disqus-shortname="" data-disqus-url="https://vivaglammagazine.com/privacy/" data-disqus-identifier="4693 https://vivaglammagazine.com/?p=4693" data-community-question="" data-seo-enabled="true" data-wp-v="p-4.4.0/wp-5.1.1"></script>
 </div>
 </div>
 </div>
@@ -1079,7 +1234,7 @@ obApi('track', 'PAGE_VIEW');
 <div id="foot-top" class="left relative">
 <div class="foot-widget left relative">
 <div class="foot-logo left realtive">
-<img src="http://vivaglammagazine.com/wp-content/uploads/2017/05/vivaglam1-2.png" alt="VIVA GLAM MAGAZINE">
+<img src="http://www.vivaglammagazine.com/wp-content/uploads/2017/05/vivaglam1-2.png" alt="VIVA GLAM MAGAZINE™">
 </div>
 <div class="foot-info-text left relative">
 <p>Compassionate Glam &amp; Ethical Luxury, VIVA GLAM MAGAZINE is a fun, uplifting, and glamorous publication for women who strive to live to their fullest potential.</p>
@@ -1102,28 +1257,29 @@ obApi('track', 'PAGE_VIEW');
 <a href="https://youtube.com/VIVAGLAMMAGAZINE" alt="Youtube" target="_blank"><i class="fa fa-youtube-play fa-2"></i></a>
 </li>
 <li class="foot-soc-rss">
-<a href="http://vivaglammagazine.com/feed/rss/" target="_blank"><i class="fa fa-rss-square fa-2"></i></a>
- </li>
+<a href="http://www.vivaglammagazine.com/feed/rss/" target="_blank"><i class="fa fa-rss-square fa-2"></i></a>
+</li>
 </ul>
 </div>
 </div>
-<div id="text-46" class="foot-widget left relative widget_text"><h3 class="foot-head">Instagram</h3> <div class="textwidget"><div id="sb_instagram" class="sbi sbi_mob_col_auto sbi_col_4" style="width:100%; padding-bottom: 10px; " data-id="192316539" data-num="8" data-res="auto" data-cols="4" data-options="{&quot;sortby&quot;: &quot;none&quot;, &quot;showbio&quot;: &quot;true&quot;,&quot;feedID&quot;: &quot;192316539&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;5&quot;,&quot;mid&quot;: &quot;M2E4MWE5Zg==&quot;, &quot;disablecache&quot;: &quot;false&quot;, &quot;sbiCacheExists&quot;: &quot;true&quot;,&quot;callback&quot;: &quot;NWM0MzRmMzA5NTA2N.GNkZDkxMjM5ODk1ZGJlNzM2NTU=&quot;, &quot;sbiHeaderCache&quot;: &quot;true&quot;}"><div class="sb_instagram_header" style="padding: 10px; padding-bottom: 0;"></div><div id="sbi_images" style="padding: 5px;"><div class="sbi_loader"></div></div><div id="sbi_load" class="sbi_hidden"><a class="sbi_load_btn" href="javascript:void(0);" style="display: none; "><span class="sbi_btn_text">Load More...</span><div class="sbi_loader sbi_hidden"></div></a><div class="sbi_follow_btn"><a href="https://www.instagram.com/" style="" target="_blank"><i class="fa fab fa-instagram"></i>Follow on Instagram</a></div></div></div><script type="text/javascript">var sb_instagram_js_options = {"sb_instagram_at":"", "font_method":"svg"};</script><script type="text/javascript" src="http://vivaglammagazine.com/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.10"></script></div>
+<div id="text-46" class="foot-widget left relative widget_text"><h3 class="foot-head">Instagram</h3> <div class="textwidget"><div id="sb_instagram" class="sbi sbi_mob_col_auto sbi_col_4" style="width:100%; padding-bottom: 10px; " data-id="192316539" data-num="8" data-res="auto" data-cols="4" data-options="{&quot;sortby&quot;: &quot;none&quot;, &quot;showbio&quot;: &quot;true&quot;,&quot;feedID&quot;: &quot;192316539&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;5&quot;,&quot;mid&quot;: &quot;M2E4MWE5Zg==&quot;, &quot;disablecache&quot;: &quot;false&quot;, &quot;sbiCacheExists&quot;: &quot;true&quot;,&quot;callback&quot;: &quot;NWM0MzRmMzA5NTA2N.GNkZDkxMjM5ODk1ZGJlNzM2NTU=&quot;, &quot;sbiHeaderCache&quot;: &quot;true&quot;}"><div class="sb_instagram_header" style="padding: 10px; padding-bottom: 0;"></div><div id="sbi_images" style="padding: 5px;"><div class="sbi_loader"></div></div><div id="sbi_load" class="sbi_hidden"><a class="sbi_load_btn" href="javascript:void(0);" style="display: none; "><span class="sbi_btn_text">Load More...</span><span class="sbi_loader sbi_hidden"></span></a><span class="sbi_follow_btn"><a href="https://www.instagram.com/" style="" target="_blank" rel="noopener"><i class="fa fab fa-instagram"></i>Follow on Instagram</a></span></div></div><script type="text/javascript">var sb_instagram_js_options = {"sb_instagram_at":"", "font_method":"svg"};</script><script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.12"></script></div>
 </div><div id="mvp_facebook_widget-7" class="foot-widget left relative mvp_facebook_widget"><h3 class="foot-head">Facebook</h3>
 <iframe src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/vivaglammagazine/&amp;width=300&amp;height=260&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;show_border=true&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300; height:260px;" allowtransparency="true"></iframe>
 </div>
 </div>
 <div id="foot-bot" class="left relative">
 <div class="foot-menu relative">
-<div class="menu-bottom-container"><ul id="menu-bottom" class="menu"><li id="menu-item-46894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46894"><a href="http://vivaglammagazine.com/about/">About VIVA GLAM MAGAZINE</a></li>
-<li id="menu-item-29374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29374"><a href="http://vivaglammagazine.com/join-newsletter">Join Our Newsletter!</a></li>
-<li id="menu-item-29505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29505"><a href="http://vivaglammagazine.com/become-a-contributor/">Become a Contributor</a></li>
-<li id="menu-item-4711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4711"><a href="http://vivaglammagazine.com/terms/">Terms of Use Agreement</a></li>
-<li id="menu-item-4712" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4693 current_page_item menu-item-4712"><a href="http://vivaglammagazine.com/privacy/">Privacy Policy</a></li>
-<li id="menu-item-4708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4708"><a href="http://vivaglammagazine.com/contact/">Contact</a></li>
+<div class="menu-bottom-container"><ul id="menu-bottom" class="menu"><li id="menu-item-91711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91711"><a href="https://vivaglammagazine.com/book-a-viva-glam-style-photoshoot-and-get-published/">BOOK A “VIVA GLAM” STYLE PHOTOSHOOT</a></li>
+<li id="menu-item-46894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46894"><a href="https://vivaglammagazine.com/about/">About VIVA GLAM MAGAZINE</a></li>
+<li id="menu-item-29374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29374"><a href="http://www.www.vivaglammagazine.com/join-newsletter">Join Our Newsletter!</a></li>
+<li id="menu-item-29505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29505"><a href="https://vivaglammagazine.com/become-a-contributor/">Become a Contributor</a></li>
+<li id="menu-item-4711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4711"><a href="https://vivaglammagazine.com/terms/">Terms of Use Agreement</a></li>
+<li id="menu-item-4712" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4693 current_page_item menu-item-4712"><a href="https://vivaglammagazine.com/privacy/" aria-current="page">Privacy Policy</a></li>
+<li id="menu-item-4708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4708"><a href="https://vivaglammagazine.com/contact/">Contact</a></li>
 </ul></div>
 </div>
 <div class="foot-copy relative">
-<p>Copyright © 2018 VIVA GLAM MAGAZINE</p>
+<p>Copyright © 2019 VIVA GLAM MAGAZINE</p>
 </div>
 </div>
 </div>
@@ -1134,11 +1290,26 @@ obApi('track', 'PAGE_VIEW');
 </div>
 </div>
 </div>
-<script type="text/javascript" src="https://s3.amazonaws.com/ssl-intgr-net/tags/352_9.js"></script>
+<script>
+setTimeout (function() {Array.prototype.forEach.call (document.querySelectorAll (".ai-viewports"), function (element, index) {ai_insert_viewport (element);});}, 10);
+
+</script>
 
 <script type="text/javascript">
-var sbiajaxurl = "http://vivaglammagazine.com/wp-admin/admin-ajax.php";
+var sbiajaxurl = "https://vivaglammagazine.com/wp-admin/admin-ajax.php";
 </script>
+
+<script>
+			<!--
+			var sc_project=11934041;
+			var sc_security="3cc23a7a";
+			      var sc_invisible=1;
+			var scJsHost = (("https:" == document.location.protocol) ?
+				"https://secure." : "http://www.");
+			//-->
+					</script>
+<script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js" async=""></script> <noscript><div class="statcounter"><a title="web analytics" href="https://statcounter.com/"><img class="statcounter" src="https://c.statcounter.com/11934041/0/3cc23a7a/1/" alt="web analytics" /></a></div></noscript>
+
 <script type="text/javascript">
 jQuery(document).ready(function($) {
 
@@ -1177,20 +1348,310 @@ jQuery(document).ready(function($) {
 
 });
 </script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-includes/js/comment-reply.min.js?ver=4.9.8"></script>
+<div id="ss-all-networks-popup" class="ss-popup-overlay" data-copy="Copy link" data-share="Share via" data-nonce="13909f2288">
+<div class="ss-popup">
+<div class="ss-popup-heading">
+<span>Share via</span>
+<a href="#" id="ss-close-share-networks-modal" class="ss-close-modal" rel="nofollow"><i class="ss ss-close"></i></a>
+</div>
+<div class="ss-popup-content">
+<div class="ss-popup-networks ss-clearfix">
+<div class="ss-popup-network ss-popup-facebook">
+<a href="https://www.facebook.com/sharer.php?t=Privacy%20Policy&amp;u=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="facebook" class="ss-facebook-color" data-ss-ss-network-id="facebook" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" data-has-api="true" rel="nofollow">
+<i class="ss ss-facebook"></i>
+<span>Facebook</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-twitter">
+<a href="https://twitter.com/intent/tweet?text=Privacy+Policy&amp;url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="twitter" class="ss-twitter-color" data-ss-ss-network-id="twitter" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-twitter"></i>
+<span>Twitter</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-googleplus">
+<a href="https://plus.google.com/share?t=Privacy%20Policy&amp;url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="googleplus" class="ss-googleplus-color" data-ss-ss-network-id="googleplus" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-googleplus"></i>
+<span>Google+</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-linkedin">
+<a href="https://www.linkedin.com/shareArticle?title=Privacy%20Policy&amp;url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;mini=true" data-id="linkedin" class="ss-linkedin-color" data-ss-ss-network-id="linkedin" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-linkedin"></i>
+<span>LinkedIn</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-mix">
+<a href="https://mix.com/add?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="mix" class="ss-mix-color" data-ss-ss-network-id="mix" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-mix"></i>
+<span>Mix</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-pinterest">
+<a href="#" data-id="pinterest" class="ss-pinterest-color" data-ss-ss-network-id="pinterest" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" data-has-api="true" data-ss-ss-link="#" rel="nofollow">
+<i class="ss ss-pinterest"></i>
+<span>Pinterest</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-tumblr">
+<a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;title=Privacy%20Policy&amp;posttype=link" data-id="tumblr" class="ss-tumblr-color" data-ss-ss-network-id="tumblr" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" data-has-api="true" rel="nofollow">
+<i class="ss ss-tumblr"></i>
+<span>Tumblr</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-skype">
+<a href="https://web.skype.com/share?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="skype" class="ss-skype-color" data-ss-ss-network-id="skype" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-skype"></i>
+<span>Skype</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-buffer">
+<a href="https://buffer.com/add?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;text=Privacy%20Policy" data-id="buffer" class="ss-buffer-color" data-ss-ss-network-id="buffer" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" data-has-api="true" rel="nofollow">
+<i class="ss ss-buffer"></i>
+<span>Buffer</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-pocket">
+<a href="https://getpocket.com/save?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="pocket" class="ss-pocket-color" data-ss-ss-network-id="pocket" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-pocket"></i>
+<span>Pocket</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-vkontakte">
+<a href="https://vk.com/share.php?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="vkontakte" class="ss-vkontakte-color" data-ss-ss-network-id="vkontakte" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" data-has-api="true" rel="nofollow">
+<i class="ss ss-vkontakte"></i>
+<span>VKontakte</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-xing">
+<a href="https://www.xing.com/app/user?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;op=share" data-id="xing" class="ss-xing-color" data-ss-ss-network-id="xing" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-xing"></i>
+<span>Xing</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-reddit">
+<a href="https://www.reddit.com/submit?title=Privacy%20Policy&amp;url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="reddit" class="ss-reddit-color" data-ss-ss-network-id="reddit" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" data-has-api="true" rel="nofollow">
+<i class="ss ss-reddit"></i>
+<span>Reddit</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-flipboard">
+<a href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=Privacy%20Policy&amp;url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="flipboard" class="ss-flipboard-color" data-ss-ss-network-id="flipboard" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-flipboard"></i>
+<span>Flipboard</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-myspace">
+<a href="https://myspace.com/post?u=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="myspace" class="ss-myspace-color" data-ss-ss-network-id="myspace" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-myspace"></i>
+<span>MySpace</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-delicious">
+<a href="https://del.icio.us/post?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;title=Privacy%20Policy" data-id="delicious" class="ss-delicious-color" data-ss-ss-network-id="delicious" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-delicious"></i>
+<span>Delicious</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-amazon">
+<a href="https://www.amazon.com/gp/wishlist/static-add?u=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;t=Privacy%20Policy" data-id="amazon" class="ss-amazon-color" data-ss-ss-network-id="amazon" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-amazon"></i>
+<span>Amazon</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-digg">
+<a href="https://digg.com/submit?title=Privacy%20Policy&amp;url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="digg" class="ss-digg-color" data-ss-ss-network-id="digg" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-digg"></i>
+<span>Digg</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-evernote">
+<a href="https://www.evernote.com/clip.action?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="evernote" class="ss-evernote-color" data-ss-ss-network-id="evernote" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-evernote"></i>
+<span>Evernote</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-blogger">
+<a href="https://www.blogger.com/blog-this.g?u=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;n=Privacy%20Policy" data-id="blogger" class="ss-blogger-color" data-ss-ss-network-id="blogger" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-blogger"></i>
+<span>Blogger</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-livejournal">
+<a href="https://www.livejournal.com/update.bml?event=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;subject=Privacy%20Policy" data-id="livejournal" class="ss-livejournal-color" data-ss-ss-network-id="livejournal" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-livejournal"></i>
+<span>LiveJournal</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-baidu">
+<a href="http://cang.baidu.com/do/add?iu=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;it=Privacy%20Policy" data-id="baidu" class="ss-baidu-color" data-ss-ss-network-id="baidu" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-baidu"></i>
+<span>Baidu</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-newsvine">
+<a href="https://www.newsvine.com/_tools/seed&amp;save?u=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;h=Privacy%20Policy" data-id="newsvine" class="ss-newsvine-color" data-ss-ss-network-id="newsvine" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-newsvine"></i>
+<span>NewsVine</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-yummly">
+<a href="https://www.yummly.com/urb/verify?url=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;title=Privacy%20Policy&amp;yumtype=button" data-id="yummly" class="ss-yummly-color" data-ss-ss-network-id="yummly" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-yummly"></i>
+<span>Yummly</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-yahoo">
+<a href="https://compose.mail.yahoo.com/?body=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;subject=Privacy%20Policy" data-id="yahoo" class="ss-yahoo-color" data-ss-ss-network-id="yahoo" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-yahoo"></i>
+<span>Yahoo</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-whatsapp">
+<a href="https://api.whatsapp.com/send?text=Privacy%20Policy%20https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="whatsapp" class="ss-whatsapp-color" data-ss-ss-network-id="whatsapp" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-whatsapp"></i>
+<span>WhatsApp</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-viber">
+<a href="viber://forward?text=Privacy%20Policy%20https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="viber" class="ss-viber-color" data-ss-ss-network-id="viber" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-viber"></i>
+<span>Viber</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-sms">
+<a href="sms:?&amp;body=Privacy%20Policy%20https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="sms" class="ss-sms-color" data-ss-ss-network-id="sms" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-sms"></i>
+<span>SMS</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-telegram">
+<a href="https://t.me/share/url?url=Privacy%20Policy%20https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F" data-id="telegram" class="ss-telegram-color" data-ss-ss-network-id="telegram" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-telegram"></i>
+<span>Telegram</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-messenger">
+<a href="fb-messenger://share/?link=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;app_id=772401629609127" data-id="messenger" class="ss-messenger-color" data-ss-ss-network-id="messenger" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-messenger"></i>
+<span>Facebook Messenger</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-heart">
+<a href="#" data-id="heart" class="ss-heart-color" data-ss-ss-network-id="heart" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="like" rel="nofollow">
+<i class="ss ss-heart"></i>
+<span>Like</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-envelope">
+<a href="mailto:?body=https%3A%2F%2Fvivaglammagazine.com%2Fprivacy%2F&amp;subject=Privacy%20Policy" data-id="envelope" class="ss-envelope-color" data-ss-ss-network-id="envelope" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-envelope"></i>
+<span>Email</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-print">
+<a href="#" data-id="print" class="ss-print-color" data-ss-ss-network-id="print" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-print"></i>
+<span>Print</span>
+</a>
+</div>
+<div class="ss-popup-network ss-popup-copy">
+<a href="#" data-id="copy" class="ss-copy-color" data-ss-ss-network-id="copy" data-ss-ss-post-id="4693" data-ss-ss-location="popup" data-ss-ss-permalink="https://vivaglammagazine.com/privacy/" data-ss-ss-type="share" rel="nofollow">
+<i class="ss ss-copy"></i>
+<span>Copy Link</span>
+</a>
+</div>
+</div>
+<div class="ss-copy-action">
+<input type="text" readonly="readonly" value="https://vivaglammagazine.com/privacy/" class="ss-copy-action-field">
+<a href="#" class="ss-button" rel="nofollow">Copy<span class="ss-share-network-tooltip">Copied</span></a>
+<i class="ss ss-copy"></i>
+</div>
+<div class="ss-powered-by">Powered by <a href="https://socialsnap.com/?utm_source=WordPress&amp;utm_medium=link&amp;utm_campaign=inthewild" target="_blank" rel="nofollow"><i class="ss ss-socialsnap"></i>Social Snap</a></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-includes/js/comment-reply.min.js?ver=5.1.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var qpprFrontData = {"linkData":{"http:\/\/vivaglammagazine.com\/fashion-fashion-forward\/":[0,0,"http:\/\/vivaglammagazine.com\/category\/fashion\/"],"http:\/\/vivaglammagazine.com\/beauty-beauty-trends\/":[0,0,"http:\/\/vivaglammagazine.com\/category\/beauty\/"],"http:\/\/vivaglammagazine.com\/beauty-classic-beauty\/":[0,0,"http:\/\/vivaglammagazine.com\/category\/beauty\/"],"http:\/\/vivaglammagazine.com\/beauty-hair-secrets\/":[0,0,"http:\/\/vivaglammagazine.com\/category\/beauty\/hair-tips\/"],"http:\/\/vivaglammagazine.com\/store-shop-for-dazzling-accessories\/":[0,0,"http:\/\/vivaglammagazine.com\/shop\/"],"http:\/\/vivaglammagazine.com\/are-you-the-next-viva-glam-supermodel\/":[0,0,"http:\/\/vivaglammagazine.com\/2016-viva-glam-model-search\/"]},"siteURL":"http:\/\/vivaglammagazine.com","siteURLq":"https:\/\/vivaglammagazine.com"};
+var qpprFrontData = {"linkData":{"https:\/\/vivaglammagazine.com\/fashion-fashion-forward\/":[0,0,"http:\/\/www.www.vivaglammagazine.com\/category\/fashion\/"],"https:\/\/vivaglammagazine.com\/beauty-beauty-trends\/":[0,0,"http:\/\/www.www.vivaglammagazine.com\/category\/beauty\/"],"https:\/\/vivaglammagazine.com\/beauty-classic-beauty\/":[0,0,"http:\/\/www.www.vivaglammagazine.com\/category\/beauty\/"],"https:\/\/vivaglammagazine.com\/beauty-hair-secrets\/":[0,0,"http:\/\/www.www.vivaglammagazine.com\/category\/beauty\/hair-tips\/"],"https:\/\/vivaglammagazine.com\/store-shop-for-dazzling-accessories\/":[0,0,"http:\/\/www.www.vivaglammagazine.com\/shop\/"],"https:\/\/vivaglammagazine.com\/are-you-the-next-viva-glam-supermodel\/":[0,0,"http:\/\/www.www.vivaglammagazine.com\/2016-viva-glam-model-search\/"]},"siteURL":"https:\/\/vivaglammagazine.com","siteURLq":"https:\/\/vivaglammagazine.com"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.1.8"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/themes/devoe/js/scripts.js?ver=4.9.8"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/themes/devoe/js/jquery.nicescroll.js?ver=4.9.8"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/themes/devoe/js/retina.js?ver=4.9.8"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
-<script type="text/javascript" src="http://vivaglammagazine.com/wp-content/plugins/minimalist-instagram-widget/slimbox2.js"></script>
-<script type="text/javascript">var swpFloatBeforeContent = false;var swpClickTracking = false;</script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.1.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var socialsnap_script = {"ajaxurl":"https:\/\/vivaglammagazine.com\/wp-admin\/admin-ajax.php","on_media_width":"250","on_media_height":"250","nonce":"1e6b2ba230","click_tracking":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/socialsnap-plus/assets/js/socialsnap.js?ver=1.1.4"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/vivaglammagazine.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.5.7"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.7"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_b1a883f844e3d40e33052e565f3e11a5","fragment_name":"wc_fragments_b1a883f844e3d40e33052e565f3e11a5"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.5.7"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/themes/devoe/js/scripts.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/themes/devoe/js/jquery.nicescroll.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/themes/devoe/js/retina.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/woocommerce/assets/js/jquery-payment/jquery.payment.min.js?ver=3.0.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sv_wc_payment_gateway_payment_form_params = {"card_number_missing":"Card number is missing","card_number_invalid":"Card number is invalid","card_number_digits_invalid":"Card number is invalid (only digits allowed)","card_number_length_invalid":"Card number is invalid (wrong length)","cvv_missing":"Card security code is missing","cvv_digits_invalid":"Card security code is invalid (only digits are allowed)","cvv_length_invalid":"Card security code is invalid (must be 3 or 4 digits)","card_exp_date_invalid":"Card expiration date is invalid","check_number_digits_invalid":"Check Number is invalid (only digits are allowed)","check_number_missing":"Check Number is missing","drivers_license_state_missing":"Drivers license state is missing","drivers_license_number_missing":"Drivers license number is missing","drivers_license_number_invalid":"Drivers license number is invalid","account_number_missing":"Account Number is missing","account_number_invalid":"Account Number is invalid (only digits are allowed)","account_number_length_invalid":"Account number is invalid (must be between 5 and 17 digits)","routing_number_missing":"Routing Number is missing","routing_number_digits_invalid":"Routing Number is invalid (only digits are allowed)","routing_number_length_invalid":"Routing number is invalid (must be 9 digits)"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/woocommerce-gateway-authorize-net-aim/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/js/frontend/sv-wc-payment-gateway-payment-form.min.js?ver=5.3.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_authorize_net_aim_params = {"accept_js_enabled":"","login_id":"8Zf7bCY4Y","client_key":"","general_error":"An error occurred, please try again or try an alternate form of payment.","ajax_url":"https:\/\/vivaglammagazine.com\/wp-admin\/admin-ajax.php","ajax_log":"","ajax_log_nonce":"4f73a0de21"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/woocommerce-gateway-authorize-net-aim/assets/js/frontend/wc-authorize-net-aim.min.js?ver=3.14.5"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://vivaglammagazine.com/wp-content/plugins/minimalist-instagram-widget/slimbox2.js"></script>
+
+<script type="text/javascript">
+
+			var SocialSnapURL 				= window.location.href;
+			var SocialSnapShareCacheExpired = 1;
+				
+			if ( -1 !== SocialSnapURL.indexOf('?ss_cache_refresh') ) {
+
+				SocialSnapShareCacheExpired = true;
+
+			} else {
+
+				var SocialSnapServerTimestamp 	= 1554581661;
+				var SocialSnapBrowserTimestamp 	= Date.now();
+
+				if ( ! SocialSnapBrowserTimestamp ) {
+					SocialSnapBrowserTimestamp = new Date().getTime();
+				}
+
+				SocialSnapBrowserTimestamp = Math.floor( SocialSnapBrowserTimestamp / 1000 );
+
+				SocialSnapShareCacheExpired = SocialSnapShareCacheExpired && ( SocialSnapBrowserTimestamp - SocialSnapServerTimestamp < 60 );
+			}
+
+		</script>
+
 <script>
 window.addEventListener('load', function(){
 var seet_int = setInterval(function(){
@@ -1202,5 +1663,5 @@ clearInterval(seet_int);
 }, 700)
 })
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"701a9cf440","applicationID":"177347098","transactionName":"ZlxTbUYFXBVXWxIIXV8WcFpADV0IGUgHBlccX0RVWBNbAkJQ","queueTime":0,"applicationTime":768,"atts":"ShtQGw4fTxs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
