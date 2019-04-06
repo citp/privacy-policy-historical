@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eternalwarcry.com privacy policy that was archived on 2017-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170115235438id_/https%3A//eternalwarcry.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eternalwarcry.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406055904id_/https%3A//eternalwarcry.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eternal Warcry
 
   1. [Home](https://web.archive.org/)
-  2. [About](https://web.archive.org/about)
-  3. Privacy Policy
+  2. [ About ](https://web.archive.org/about)
+  3. [Privacy Policy](https://web.archive.org/about/privacy-policy)
 
 
 
