@@ -1,24 +1,35 @@
-> *The following text is extracted and transformed from the business.qld.gov.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903181321id_/https%3A//www.business.qld.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.qld.gov.au privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406075450id_/https%3A//www.business.qld.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Business Queensland
 
 The Queensland Government manages personal information in line with the [_Information Privacy Act 2009_](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2009-014).
 
-We collect and manage your personal information as described on this page, unless stated otherwise. 'Personal information' has a broad definition and may include, but is not limited to, your name, address, phone number, email address - basically any information from which you can be identified.
+'Personal information' has a broad definition and may include, but is not limited to, your name, address, phone number or email address - basically any information that will identify you.
+
+If you provide your personal information, we may collect and manage it in our Customer Relationship Management (CRM) system as described on this page, unless we tell you otherwise when we collect your personal information.
 
 ## Information we may request
 
-We may ask you to provide personal information if you request a service from us, submit an enquiry or seek feedback, but only in order to:
+We may ask you to provide information that includes personal information when we contact you, for example, if you:
 
-  * meet your needs (e.g. answer a question, or suggest appropriate content or services for you)
-  * better understand customer needs (e.g. assess or improve the quality of our services to you)
-  * meet legal requirements.
+  * request a service, submit an enquiry or seek feedback through the Business Queensland website
+  * attend 1 of our events or meetings (e.g. we may ask you to leave a business card or sign an attendance register)
+  * respond to 1 of our surveys
+  * apply to participate in our grant or mentoring programs.
 
 
 
-Business Queensland delivers services on behalf of more than a dozen Queensland Government departments. That number will grow as more agencies, including statutory authorities, migrate their business-facing services to Business Queensland.
+We will only request your personal information for the purposes of:
 
-The personal information you provide will be stored in our Customer Relationship Management (CRM) system and may be shared with authorised officers within other government agencies who also provide government services to business and industry. Your personal information will only be sought in order to respond to your specific request and consequent service requirements, to provide you with the best service possible.
+  * meeting your needs (e.g. providing a requested service or referring your request to the appropriate Queensland Government agency)
+  * seeking to better understand customer needs (e.g. collecting feedback and information on issues impacting small business, and assessing the quality of our services to you)
+  * to establish a register of our customers for the purpose of initiating future contact in relation to issues affecting small business and Queensland Government services.
+
+
+
+Business Queensland delivers information and services on behalf of multiple Queensland Government departments. The number of services will grow as more agencies, including statutory authorities, migrate their business-facing services to Business Queensland.
+
+The personal information you provide will be stored in our Customer Relationship Management (CRM) system. This information may be shared with authorised officers within other government agencies so they can respond to your specific request, or to engage with you as a small business operator to help improve the quality of government services provided to business and industry.
 
 ## Cookies
 
@@ -27,10 +38,10 @@ We use cookies to collect anonymous statistical information, including:
   * your browser, computer platform and screen resolution
   * your answers to optional questions in forms on our site
   * your traffic patterns through our site, such as: 
-    * the date and time of your visit
-    * the pages and documents accessed
-    * the subjects you searched for on our site
-    * the website you visited before ours
+    * date and time of your visit
+    * pages and documents accessed
+    * subjects you searched for on our site
+    * website you visited before ours
     * your ISP or server address.
 
 
@@ -50,21 +61,19 @@ Please note that a planned update of this site will include capacity for automat
 
 ## Use and disclosure of personal information
 
-To meet your needs or answer your questions, we may share your personal information with other government agencies who are also bound by the [_Information Privacy Act 2009_](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2009-014). Sharing of your information will be based on your needs and we will only disclose your personal information in order to meet your requested service requirements.
+To meet your needs or answer your questions, we may share your personal information with other Queensland Government agencies who are also bound by the [_Information Privacy Act 2009_](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2009-014). We will only disclose your personal information with those agencies in order to meet your requested service requirements.
 
-Information stored in the CRM may also be used for service analysis and to communicate to you relevant and related government services (e.g. workshops, seminars, grant programs, etc). You will be able to opt out of receiving any optional services at any time.
+Information stored in the CRM may also be used for service analysis and to communicate relevant and related government information and services to you (e.g. workshops, seminars, grant programs). You will be able to opt out of receiving these communications at any time.
 
 The Queensland Government is committed to ensuring you are satisfied with the service we provide and may from time to time invite you to complete a survey about your satisfaction. Surveys may be conducted by contracted service providers who will be required to comply with the provisions of the _Information Privacy Act 2009_.
 
 We will not add you to a mailing list, or give your personal information to third parties without your consent, except to provide you with services or improve our service to you, as indicated above, unless required by law.
 
-In the future, you may be able to sign on to our site using a secure, government authentication process which will give us information about your business from the Australian Business Register. This will allow pre-filling of online forms and other facilities to streamline the use of our services. If you choose to sign in, your business information may be linked to the information above, with the aim of improving our service to you. You will be able to opt out of this proposed service at any time.
-
 ## Applications for access to or amendment of personal information
 
- **Informal** access to your personal information, or requests for amendment of your personal information, may be organised by filling in an ‘Ask a question’ feedback form on our website.
+To update your contact information, please contact the program area you have been engaging with directly, or enter your details and phone number in the 'Ask a question' feedback form in the footer below.
 
- **Formal** requests for documents or amendment of personal information must be made via a Right to Information application on the prescribed statutory forms, copies of which are available at [www.rti.qld.gov.au](http://www.rti.qld.gov.au/). Prior to lodging an access or amendment application for information held by this department, please contact RTI Services for advice at [rtiservices@des.qld.gov.au](mailto:rtiservices@des.qld.gov.au).
+Formal requests for documents or amendment of personal information must be made by using a Right to Information application on the prescribed statutory forms. Copies of the forms are available from [www.rti.qld.gov.au](http://www.rti.qld.gov.au/). Before lodging an access or amendment application for information held by this department, please contact RTI Services for advice at [rtiservices@des.qld.gov.au](mailto:rtiservices@des.qld.gov.au).
 
 ## Emails
 
@@ -74,7 +83,7 @@ Our internet service provider or information technology staff may monitor email 
 
 ## Website analytics
 
-We use Google Analytics on our website to gather anonymous information about visitors to our website. When you visit our web pages, your browser automatically sends anonymous information to Google. Examples of the information include the web address of the page you're visiting, your IP address and demographic information. Google may also use cookies.
+We use Google Analytics on our website to gather anonymous information about visitors to our website. When you visit our web pages, your browser automatically sends anonymous information to Google. Some examples of the type of information includes, the web address of the page you're visiting, your IP address and demographic information. Google may also use cookies.
 
 We use this data to analyse the pages that are visited to improve your experience and make sure our website is useful.
 
@@ -84,20 +93,20 @@ You can read more about [how Google uses data](https://www.google.com/policies/p
 
 Parts of this site transmit information securely across the internet, however, we recognise that there may be risks in doing so. Where we become aware of any security breach we will immediately move to correct the breach and endeavour to notify you as soon as possible.
 
-Where this site contains links to other Queensland Government agencies’ websites, the privacy or security terms set out there will apply to the material on those websites.
+Where this site contains links to other Queensland Government agencies' websites, the privacy or security terms set out there will apply to the material on those websites.
 
 Where this site contains links to non-Queensland Government websites, the Queensland Government is not responsible for the privacy or security practices or the content of any such websites and we encourage you to review the privacy policies of those sites.
 
 ## How you can complain about our handling of your personal information
 
-A privacy complaint is a complaint made by an individual about an act or practice of a department constituting a breach of our obligations under the _Information Privacy Act 2009_ in relation to that individual’s personal information.
+A privacy complaint is a complaint made by an individual about an act or practice of a department constituting a breach of our obligations under the _Information Privacy Act 2009_ in relation to that individual's personal information.
 
-Privacy complaints should be made no longer than 12 months from the date when the act or practice the complaint is about occurred.
+Privacy complaints should be made no longer than 12 months from the date when the act or practice the complaint is about occurred.
 
 If you wish to lodge a privacy complaint, please:
 
   * submit your complaint in writing
-  * state an address which we can use to contact you
+  * include your address which we can use to contact you
   * and
   * include details about the actions or practice you are complaining about.
 
@@ -105,11 +114,11 @@ If you wish to lodge a privacy complaint, please:
 
 Mark your complaint as Private and Confidential, and address it to:
 
-The Privacy Officer  
+Complaints  
 Legal Services  
 Department of Employment, Small Business and Training  
-PO Box 15483  
-CITY EAST  QLD  4002
+PO Box 15483  
+BRISBANE  QLD  4002
 
 Email: [corporate.legal@desbt.qld.gov.au](mailto:corporate.legal@desbt.qld.gov.au)
 
@@ -121,4 +130,4 @@ On completion, you will be advised in writing of the department's decision, incl
 
 ## More information
 
-If you would like to know more about information privacy, email us at [corporate.legal@desbt.qld.gov.au](mailto:corporate.legal@desbt.qld.gov.au) or go to the Office of the Information Commissioner's website at [www.oic.qld.gov.au](https://www.oic.qld.gov.au/).
+If you would like to know more about information privacy, contact us by email on [corporate.legal@desbt.qld.gov.au](mailto:corporate.legal@desbt.qld.gov.au) or online by using the Office of the Information Commissioner's website [www.oic.qld.gov.au](https://www.oic.qld.gov.au/).
