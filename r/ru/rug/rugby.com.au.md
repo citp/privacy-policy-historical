@@ -1,122 +1,275 @@
-> *The following text is extracted and transformed from the rugby.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073340id_/http%3A//www.rugby.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby.com.au privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406065131id_/https%3A//www.rugby.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rugby.com.au
+# Privacy Policy | RUGBY.com.au
 
-The Australian Rugby Union Limited respects the privacy of the individuals in relation to whom we collect, use, disclose and hold personal information.
+## Introduction and Scope
 
-Our Privacy Policy seeks to safeguard the privacy of your personal information by observing the Australian Privacy Policy Principles (APPs) contained in the Privacy Act 1988 (Cth) (Privacy Act).
+The Australian Rugby Union Limited ( **ARU** , 'we', 'us', 'our') respects the privacy of the individuals in relation to whom we collect, use, disclose and hold personal information and is committed to managing personal information in accordance with the Australian Privacy Principles ( **APPs** ) under the Privacy Act 1988 (Commonwealth).
 
-In addition to this policy, we may also have specific and additional privacy provisions which apply to certain activities and promotions. In the event of any inconsistency between the provisions of this Privacy Policy and those other specific and additional provisions, the specific and additional provisions will prevail.
+This Privacy Policy ( **Policy** ) sets out how we handle your personal information (including the collection, storage, use and disclosure of your personal information), how you can access and change your information and how you can provide us with feedback or make a complaint.
 
-This Privacy Policy (and our specific and additional privacy provisions) may be amended by the ARU from time to time.
+Where we refer to "Participant(s)" in this Policy we mean any person that, by way of registration or another process, has agreed to be bound by the ARU Constitution, ARU Policies and Codes or any laws, regulations and By-Laws of World Rugby applying from time to time. For the avoidance of doubt, a Participant includes any player (whether amateur or professional), referee, touch judge or other match official, selector, coach, trainer, manager or other team official and any individual involved in the organisation, administration or promotion of Rugby Union including a director, other officer, employee or volunteer of a Rugby Body.
 
-## What is personal information?
+## What information do we collect and how do we collect it?
 
-It is information or an opinion from which it is possible to determine your identity from ARU's database. Examples of personal information may include your name, postal address, email address, contact and social media details.
+#### Overview
 
-## How do we collect your information?
+The ARU will, where possible, collect personal information directly from you. This will be done in accordance with the APPs. We may collect your personal information on paper-based or electronic forms (online), over the phone or when you engage with us on social media or via our website.
+
+As appropriate, we will notify you of the collection of your personal information and tell you why we are collecting it and how we plan to use it, or these things will be obvious at the time when the information is collected.
+
+#### Participants
+
+When you register to become a Participant by way of an ARU Registration Form or online registration platform (i.e. RugbyLink or Interfuse) a record that contains personal information is made by the ARU (or on behalf of the ARU by the club you have registered with). If you are a junior participant, we will collect your personal information from your parent or guardian.
+
+Personal information about Participants is recorded in RugbyLink (the national player registration database) or Interfuse (the player registration database for NSW Premiership Rugby and NSW Suburban Rugby) in addition to the Australian Rugby Customer Relationship Management System, Salesforce.
+
+The personal information that the ARU holds may include:
+
+  * Your name, address, telephone and email contact details;
+  * Your gender, date of birth and marital status;
+  * Information about rugby clubs you have played with or participated in;
+  * Details of rugby programs you have participated in;
+  * Details of rugby club memberships you have purchased; 
+  * Details of any accreditations you hold; and
+  * Your playing status and history.
+
+
+
+If you are a match official the personal information the ARU holds may also include:
+
+  * Details of any accreditations you hold or courses you have completed (including, if required, working with children certification);
+  * Your availabilities and preferences (including times and locations/venues) for scheduling purposes; and
+  * Data relating to your performance as a match official for training and development purposes.
+
+
+
+If you are a coach the personal information the ARU holds may also include: 
+
+  * Details of any accreditations you hold or courses you have completed (including, if required, working with children certification); and
+  * Your Individual Development Plan (which may include your coaching history and developmental goals). 
+
+
+
+#### Sensitive Information
+
+With your consent we may also collect information about your health or other information which is defined by privacy laws as 'Sensitive Information'. Examples of circumstances in which this may occur include:
+
+  * collecting information about your health (such as injuries you have suffered e.g. concussions) to: 
+    * ensure our programs are run safely and you are participating in an appropriate competition;
+    * record and collate injury history, medications and supplement use for professional and semi-professional players through an athlete data management system in accordance with the ARU Medical Policy and ARU Sports Supplements Policy (and equivalent policies for the National Rugby Championship, Super Rugby U20s, Uni Sevens Series, Australian School Boys Championships and other ARU competitions); 
+    * administer competition rules; and
+    * administer anti-doping rules and the ARU Illicit Drug Policy;
+  * collecting information about your criminal history to determine your fitness to participate in rugby in the capacity in which you participate or intend to participate;
+  * collecting information about your racial or ethnic origin (such as when we conduct games or competitions for indigenous players);
+  * collecting information regarding your gender status for the purposes of ensuring you are safely participating in an appropriate competition; and
+  * collecting information to administer the Professional Players Code of Conduct and Anti-Corruption and Betting Policy (including any ARU policy or World Rugby regulation).
+
+
+
+#### Rugby supporters and other individuals
+
+We may collect information about individuals who are not Participants. This may include:
+
+  * Rugby supporters;
+  * Members of ARU supporter programs;
+  * Ticket purchasers; and
+  * Individuals who have made enquiries about the ARU and our programs.
+
+
 
 The ARU collects personal information in the course of administering the game of Rugby Union in Australia, including without limitation when we provide you with services, and when you:
 
   * Request services be provided to you;
-  * Purchase tickets for Rugby Union matches;
+  * Purchase tickets for Rugby Union matches; 
   * Enter into competitions and promotions;
-  * Subscribe to, or seek to be registered in or for, our membership programmes or newsletters; and/or
-  * Access our websites.
+  * Subscribe to, or seek to be registered in or for, our membership programs or newsletters; and/or
+  * Access our websites or social media platforms.
 
 
 
-We endeavour to collect your personal information directly in the course of administering the game of Rugby Union; however there may be instances where we collect this information from other entities, including:
+The personal information which the ARU collects and holds may include:
 
-  * Third parties whose data is procured by ARU;
-  * Ticketing agent(s);
-  * Our Members (including without limitation the Super Rugby Licensees and the State and Territory Unions); and/or
-  * ARU contractors or service providers who have obtained your personal information.
-
-
-
-We most commonly collect personal information in relation to rugby participants (both paid and unpaid), including without limitation players, officials, members, ticket purchasers, spectators, supporters, subscribers to our membership programmes, newsletters and promotional offers, and other persons.
-
-The types of personal information we may collect depends on the purpose for which it has been collected, but may include your name, address, email address, telephone number, playing history, purchasing preferences and financial details, among other things.
-
-We may also collect sensitive information about you (for example health information) where:
-
-  * You consent;
-  * The collection is required by law or for insurance purposes;
-  * The collection is necessary for your health and safety; and/or
-  * The collection is to establish, exercise or defend a legal or equitable claim.
+  * Your name, age, billing and/or shipping address, email address, gender, occupation and telephone number;
+  * Your game attendance history;
+  * Opinions and beliefs provided via surveys and questionnaires;
+  * Your credit card information; and
+  * Details of items ordered or purchased from us.
 
 
 
-As appropriate, we will notify you of the collection of your personal information and tell you why we are collecting personal information and how we plan to use it, or these things will be obvious when we collect the information.
+#### Prospective employees, interns and applicants
 
-No matter how we collect your personal information we will not seek to make any unreasonably intrusive enquiries of you or as to this information.
+We may collect personal information when recruiting personnel such as your name, contact details, qualifications and work history. Generally, we will collect this information directly from you. We may also collect personal information from third parties, such as recruitment agencies or referees you have nominated.
 
-## How do we use your personal information?
+Before offering you a position, we may collect additional details such as your tax file number and superannuation information.
 
-We use personal information about you for the following primary purposes:
+We may collect sensitive information in the process of conducting background checks in order to assess your suitability for certain roles (for example, positions which involve working with children and people with disabilities).
 
-  * Promotion and administration of the game of Rugby Union in Australia;
-  * Registration, selection and insurance purposes;
-  * Provision of rugby activities and rugby-related services;
-  * Assessing the level of interest in the game of Rugby Union; and
-  * Provision of rugby-related information, materials and promotional opportunities by the ARU to you.
+#### Personnel of other organisations
+
+We may collect personal information about individuals who interact with us (such as individual service providers and contractors to the ARU, as well as other individuals who interact with the ARU on a commercial basis). In such situations, this information would typically include your name, contact details, professional details and information regarding interactions with the ARU. This information is collected for the purpose of administration, management and operation of the ARU and its programs.
+
+#### Visitors to our web sites
+
+You may visit our web sites without identifying yourself. If you identify yourself (for example, by providing your contact details in an enquiry), any personal information you provide to the ARU will be managed in accordance with this Policy.
+
+When you visit our web sites, our systems may record certain information about your use of those websites, including which web pages you visit and the time and date of your visit. 
+
+We may use 'cookies' ( **Cookies** ) to collect some personal information about you. We will treat this information in the same way as other personal information we collect about you. You can use the settings in your browser to control how your browser deals with cookies. However, in doing so, you may be unable to access certain pages, features or content on our web site.
+
+We may also collect 'IP addresses' ( **IP Addresses** ) relating to you when you access and use the web sites. We may collect and manage IP addresses for internet session management and security purposes.
+
+#### Dealing with the ARU anonymously
+
+The ARU will provide individuals with the option of dealing with us anonymously or by pseudonym where it is lawful and practicable. However, choosing to do so may mean that you cannot participate in our programs. For example, it would not be practicable to be involved as a participant without identifying yourself.
+
+## How do we use and disclose your personal information?
+
+#### Participants
+
+If you are a Participant, we will use and disclose your personal information in order to:
+
+  * Organise, promote and conduct competitions and matches;
+  * Convene clinics, camps and player development activities;
+  * Assist with the education and development;
+  * Appoint and schedule;
+  * Select and administer teams; or
+  * Administer the rules of ARU competitions.
 
 
 
-We will not use personal information for secondary purposes (a purpose other than the primary purpose) unless:
+We may disclose your personal information to:
 
-  * You have consented to a secondary use or disclosure;
-  * You would reasonably expect us to use or disclose your personal information for the secondary purpose that is related to the primary purpose;
-  * It is to conform with the requirements of the law or to comply with legal process served upon us;
-  * It is to fulfil a permitted general situation or health situation under the Privacy Act;
-  * It is to conform and protect our interests in regards to World Rugby Regulation 6: Anti-Corruption and Betting - [Click here for details.](http://www.worldrugby.org/wr-resources/WorldRugbyDIR/Handbook/English/pubData/source/files/Regulation_206_1.pdf)
-  * It is to protect or defend our legal rights or property, or
-  * It is to investigate, prevent or take action regarding illegal activities, suspected fraud, or violations of the terms and conditions of using ARU websites, including rugby.com.au.
+  * A club you are registered with;
+  * Other governing bodies and competition administrators of Rugby Union;
+  * Persons and organisations responsible for administering anti-doping rules; 
+  * Sponsors, commercial partners and broadcasters (where you would reasonably expect us to do so); or
+  * Regulatory bodies and/or law enforcement. 
 
 
 
-Unless you inform us otherwise, we may disclose your information to our Members (including without limitation the Super Rugby Licensees and the State and Territory Unions) to enable them to promote and administer the game of Rugby Union in their area and provide rugby activities and rugby-related services.
+#### Rugby supporters and other individuals
 
-When you visit our website, the ARU may record anonymous information which tells us about visitors to our website but not the identity of those visitors. For example, we may collect information about the date, time and duration of visits and which pages of our website are most commonly accessed to help us gauge the usage of our website. We may also use "cookies". These are small pieces of information that allow an organisation to track the websites browsed by a person and customise website information to that person’s requirements and interests. You may be able to adjust your internet browser to disable cookies. If you do so, you may not be able to access some areas of our website or take advantage of the improved functionalities that cookies enable.
+We may use your personal information for the primary purpose for which it was collected and secondary purposes related to the primary purpose1. Such primary and secondary purposes may include, without limitation, use of your personal information to:
 
-When you visit our website, social media pages or other digital properties, the ARU may track anonymous information which tells us about visitors’ online behaviour, but not the identity of those visitors.
+  * Verify your identity;
+  * Develop, run, administer and market competitions, programs and activities relating to Rugby Union;
+  * Market products, services, merchandise and special offers made available by us or our respective corporate partners, licensees, suppliers and sponsors;
+  * Administer and manage our respective websites and provide you with access to those websites;
+  * Keep you informed of news and information (such as advance notice of ticket sales) relating to Rugby Union, including by distributing newsletters, publications and other communications via various media;
+  * Research and develop new competitions, programs, activities and other events relating to Rugby Union; or
+  * Research and develop new products, services and merchandise relating to Rugby Union.
 
-The security of your personal information is very important to us, and we are committed to protecting the information that we collect. We have security measures in place at our facilities to protect against the loss, misuse or alteration of information that ARU has collected from you at our website. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, ARU cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.
 
-We may use your personal information for direct marketing and for purposes set out in ‘use of your personal information’ where it is impracticable for us to obtain your prior written consent. When we do so, however, we will provide an express option for you to decline receiving any further marketing communications from us. Notwithstanding this, we will only send you promotional emails if you have elected to receive them or if they are in response to an email we have received from you.
 
-We may from time to time disclose your personal information to our service providers, agents and contractors to help us provide and market services to you. For example, we use third parties to provide credit card payment gateway services on our website. If you pay for services via our websites we will provide certain financial details to third parties to provide this service. If we disclose information to third parties, we generally require these parties to protect your information in the same way we do.
+#### Other uses and disclosures
 
-Unless you inform us otherwise, we may disclose your information to our sponsors and partners to enable them to provide you with information, materials and promotional opportunities.
+The ARU will also use and disclose personal information for a range of administrative, management and operational purposes. This includes:
 
-In some cases we may transfer personal information about you to someone who is in a foreign country (for example for the purposes of storing information, administering our overseas supporters program, a foreign rugby union, the International Rugby Board, or a foreign antidoping authority) As required by law, if we transfer personal information to a foreign country we will take reasonable steps to ensure that the overseas recipient does not breach the APPs or this Privacy Policy.
+  * Planning, managing, monitoring and evaluating our programs;
+  * Training staff, contractors, other workers and volunteers;
+  * Risk management and management of legal liabilities and claims;
+  * Responding to enquiries and complaints regarding our services;
+  * Obtaining advice from consultants and other professional advisers; and/or
+  * Responding to subpoenas and other legal orders and obligations.
 
-## Is my data secure and safe?
 
-The ARU will also take reasonable steps to protect your personal information from misuse, loss and unauthorised access, modification, interference or disclosure. Your information shall be protected either at ARU or in overseas storage facilities. However, as the internet is not a secure environment any information you send us via that method is sent at your own risk.
+
+We may use and disclose your personal information for other purposes explained at the time of collection or otherwise as set it out in the Policy.
+
+## How do we deal with unsolicited personal information?
+
+If we receive unsolicited personal information (for example a complaint or query about a rugby participant that contains personal information) we will assess, according to the APPs, and the limits of relevant policies and laws, whether the information could have been solicited. If this is not the case, we will, as soon as practicable (if it is lawful to do so) destroy the information or ensure that it is de-identified.
+
+## Is your personal information used for direct marketing?
+
+From time to time, we may contact you to provide you with information regarding other products, programs and services offered by us.2 This may include:
+
+  * Newsletters or other communications about our programs or information which we think might be of interest to you; and
+  * Promotional offers regarding our competitions, events and merchandise including offers from our corporate partners and sponsors. For an up to date list of the corporate partners from which you may receive such offers, please use the following link: [www.aru.com.au/SponsorOffersandPromotions](http://www.aru.com.au/SponsorOffersandPromotions)
+
+
+
+## What do I do if I no longer want to receive marketing communications from the ARU?
+
+If you do not wish to receive marketing material from the ARU, please click the unsubscribe link found in the footer of emails and at the bottom of text messages you receive from the ARU and its corporate partners and sponsors. 
+
+You can also contact us at any time to let us know that you would like to be removed from our direct marketing lists. Our contact details can be found at the conclusion of this Policy.
+
+## Will your personal information be sent offshore?
+
+In some cases, we may transfer personal information about you to individuals or organisations that are based in a foreign country (for example, a foreign rugby union, SANZAAR or World Rugby) including:
+
+  * To external providers for information storage purposes; 
+  * For the purposes of administrating or facilitating overseas supporter's programs;
+  * To a foreign rugby union or foreign anti-doping authority;
+  * To World Rugby (World Rugby); or
+  * To Foreign law enforcement (if necessary).
+
+
+
+As required by law, if we transfer personal information to a foreign country we will take reasonable steps to ensure that the overseas recipient does not breach the APPs or this Policy.
+
+## How do we hold the information we collect?
+
+The information we collect is held in multiple systems including local storage, cloud based and third-party systems (such systems may have data storage facilities offshore).
+
+## How secure is your personal information?
+
+The ARU will also take reasonable steps to protect your personal information from misuse, loss and unauthorised access, modification, interference or disclosure. Your information shall be protected either at the ARU or in overseas storage facilities. However, as the internet is not a secure environment, any information you send us via that method is sent at your own risk.
 
 Our website may contain links which enable you to access other websites. We are not responsible for the content or privacy practices of those sites.
 
 We will take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any legitimate purpose. This requirement does not apply where the information is contained in a Commonwealth record or where we are required by law or a court/tribunal order to retain the information.
 
-## Access, Correction and Inquiries
+## How can you ensure that the personal information we hold about you is accurate?
 
-The ARU will take reasonable steps to make sure that the personal information we hold on you is accurate, complete and up-to-date. If you think that any information we hold about you is inaccurate, please contact us.
+The ARU takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, we rely on the accuracy of personal information as provided to us both directly and indirectly.
 
-In some circumstances you may gain access to the personal information which the ARU (or third parties) hold on you. If you wish to know what sort of personal information the ARU holds in relation to you, for what purposes it is held, and how we collect, hold, use and disclose that information, please contact us. In situations where we have provided your information to third parties, you may also contact us to obtain or verify that information. Before supplying any personal information to you we must be reasonably satisfied as to your identity (for example, by having sighted a copy of your driver’s licence). The ARU is not under any obligation to provide personal information to you where we are not required to do so under the Australian Privacy Principals or otherwise at law.
+If you find that the personal information we hold about you is inaccurate, incomplete or out-of-date, please contact us immediately (our contact details are at the conclusion of this Policy) and we will take reasonable steps to ensure that it is corrected (including, if it is practicable to do so, taking reasonable steps to correct information disclosed to third parties). There will be no cost to you in relation to your request to have your personal information corrected. 
 
-All correction and access requests should be placed in writing and should set out as much information as you can about the information you seek in order to help us retrieve it. We may charge an access fee to cover our costs of supplying personal information to you.
+## How can you access the personal information we hold about you?
 
-ARU may modify or amend this Privacy Policy from time to time. In an effort to keep you informed of changes to this Privacy Policy, please note that the latest revision occurred in July 2009. Changes to this Privacy Policy will not affect our use of previously provided personal information.
+You have a right to request access to the personal information we hold about you. 
 
-## Have a Query, Question or Concern?
+To request access to your personal information, please contact our Privacy Officer using the contact details set out below. You will not be charged for making a request to access your personal information but you may be charged for the reasonable time and expense incurred in compiling information in response to your request and expenses incurred in providing access in the manner you have requested. If we are able to provide access, we will endeavour to do so within a reasonable period of time after the request is made. 
 
-If you have any queries or concerns about personal information which we may hold in relation to you, or our approach to privacy generally, please contact us:
+The ARU is not under any obligation to provide personal information to you where we are not required to do so under the APPs or otherwise at law. If we do refuse your request, we will provide you with reasons for our decision. If you would like to complain about our refusal to give you access to information please contact the Policy Officer on the details provided below. 
 
-**The Privacy Officer**  
-Ground Floor, 29-57 Christie Street  
-St Leonards NSW 2065  
-**Phone:** (02) 8005 5555  
-**Fax:** (02) 8005 5676  
-**Email:** [privacy@rugby.com.au](mailto:privacy@rugby.com.au)
+The following is a non-exhaustive list of reasons why your request for access to information may be refused:
+
+  * giving access may pose a threat to the life, health or safety of any individual, or to public health or public safety;
+  * giving access would have an unreasonable impact on the privacy of other individuals;
+  * the request for access is frivolous or vexatious; 
+  * the information relates to existing or anticipated legal proceedings;
+  * denying access is required or authorised by Australian law or a court/tribunal order;
+  * giving access would prejudice the investigation or hearing of suspected unlawful activity or misconduct; 
+  * giving access would likely prejudice one or more enforcement related activities conducted by or on behalf of the ARU; and/or
+  * giving access may reveal commercially sensitive information or decision-making processes.
+
+
+
+## How can you make a complaint about how your personal information is handled?
+
+You may contact the ARU at any time using the contact details below if you have any questions about this Policy or about how your personal information has been handled.
+
+The ARU takes all privacy complaints seriously and will investigate your complaint in a confidential manner. We will inform you of the outcome of the investigation within a reasonable period of time.
+
+## How are changes to this Privacy Policy made?
+
+The ARU may modify or amend this Policy from time to time. Please see the ARU website for the latest version of this Policy.
+
+Changes to this Policy will not affect our use of previously provided personal information.
+
+## How can I contact the ARU?
+
+The contact details for the ARU are:
+
+Post | Privacy Officer  
+Rugby Australia  
+PO BOX 800  
+Surry Hills NSW 2010  
+---|---  
+Email | [privacy@rugby.com.au](mailto:privacy@rugby.com.au)  
+Telephone | (02) 8005 5555
