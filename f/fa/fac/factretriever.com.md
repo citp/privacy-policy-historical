@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factretriever.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004163144id_/https%3A//www.factretriever.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factretriever.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406095956id_/https%3A//www.factretriever.com/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -57,7 +57,7 @@ We offer you the following choices about what information we collect from you an
 
 Accessing and Correcting Your Information
 
-Subject to applicable law, you may have certain additional rights to request access to and receive information about the personal information we maintain about you, update and correct inaccuracies in your personal information, and have your personal information blocked or deleted, as appropriate. For more information, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94f1f0fde0fbe6d4f2f5f7e0e6f1e0e6fdf1e2f1e6baf7fbf9). 
+Subject to applicable law, you may have certain additional rights to request access to and receive information about the personal information we maintain about you, update and correct inaccuracies in your personal information, and have your personal information blocked or deleted, as appropriate. For more information, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9bcbdb0adb6ab99bfb8baadabbcadabb0bcafbcabf7bab6b4). 
 
 Security
 
@@ -69,7 +69,7 @@ Fact Retriever is based in and operates the Website out of the United States. Wh
 
 Children Under the Age of 13
 
-The Website is not directed to, and Fact Retriever does not knowingly collect or solicit personal information from, children under the age of 13. If we learn we have collected or received personal information from a child under the age of 13, we will delete that information. If you believe we might have any information from or about a child under the age of 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ea8f8e839e8598aa8c8b899e988f9e98838f9c8f98c4898587). 
+The Website is not directed to, and Fact Retriever does not knowingly collect or solicit personal information from, children under the age of 13. If we learn we have collected or received personal information from a child under the age of 13, we will delete that information. If you believe we might have any information from or about a child under the age of 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f590919c819a87b593949681879081879c90839087db969a98). 
 
 Changes to Our Privacy Policy
 
@@ -77,4 +77,4 @@ Fact Retriever reserves the right to update or change this Privacy Policy at any
 
 Contact Us
 
-If you have any questions about this Privacy Policy or our privacy practices, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3752535e4358457751565443455243455e524152451954585a). 
+If you have any questions about this Privacy Policy or our privacy practices, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f2a2b263b203d0f292e2c3b3d2a3b3d262a392a3d612c2022). 
