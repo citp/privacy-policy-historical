@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sans.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229064521id_/https%3A//www.sans.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sans.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406033904id_/https%3A//www.sans.org/privacy) for the most accurate reproduction.*
 
 # SANS Institute | SANS Privacy Policy
 
-Updated: December 2017
+Updated: January 2019
 
 ### Overview
 
-Escal Institute of Advanced Technologies, Inc., which does business as SANS Institute, is sensitive to privacy issues on the Internet. We believe it is important that you understand how we treat the information you may provide to us. This privacy statement applies to information collected by the websites we manage and control, including sans.org, sans.edu, giac.org, securingthehuman.org, and other domains owned and operated by SANS, GIAC, and the Escal Institute, hereafter referred to collectively as SANS.
+Escal Institute of Advanced Technologies, Inc., which does business as SANS Institute, is sensitive to privacy issues on the Internet. We believe it is important that you understand how we treat the information you may provide to us. This privacy statement applies to information collected by the websites we manage and control, including sans.org, sans.edu, giac.org, and other domains owned and operated by The Escal Institute of Advanced Technologies, Inc. / dba SANS Institute, GIAC, and SANS Technology Institute hereafter referred to collectively as SANS.
 
 In the normal course of business, we will collect both personal information about you and non-personal information associated with you. We will always endeavor to protect this information, hold it in confidence, and protect it from theft. In general, we utilize both non-personal and personally identifiable information that you provide to us or that we collect in the normal course of business to communicate with you about our service and product offerings and deliver those offerings in an efficient manner. For these purposes, SANS employees, instructors or authorized contractors and third-party agents will have access to some or all of this non-personal and personally identifiable information.
 
@@ -107,7 +107,7 @@ SANS does not sell or trade your personal information. We may at times receive c
 
 SANS complies with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. SANS has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 
-In compliance with the Privacy Shield Principles, SANS commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact SANS at [gdprprivacy@sans.org](mailto:gdprprivacy@sans.org).
+In compliance with the Privacy Shield Principles, SANS commits to resolve complaints about your privacy and our collection or use of your personal information. Individuals with inquiries or complaints regarding this privacy policy should first contact SANS at [gdprprivacy@sans.org](mailto:gdprprivacy@sans.org).
 
 SANS has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to the EU Data Protection Authorities (DPAs), or where applicable instead, to the Swiss Federal Data Protection and Information Commissioner. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the following web site for more information and to file a complaint with the EU DPAs: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
 
