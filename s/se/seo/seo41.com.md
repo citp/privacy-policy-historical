@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo41.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109095611id_/http%3A//www.seo41.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo41.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406171211id_/http%3A//www.seo41.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
