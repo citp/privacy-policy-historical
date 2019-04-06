@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerretail.com.au privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403134727id_/http%3A//www.powerretail.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerretail.com.au privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406163411id_/https%3A//www.powerretail.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Power Retail
 
@@ -20,5 +20,5 @@ Any queries or complaints regarding this Privacy Policy or its implementation sh
 
 Privacy Officer  
 The Media Pad Pty Ltd  
-32 Ricketts Road,  
-Mount Waverley, VIC 3149
+445 Auburn Road,  
+Hawthorn, VIC 3122
