@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosalindfranklin.edu privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005181657id_/https%3A//www.rosalindfranklin.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosalindfranklin.edu privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406090318id_/https%3A//www.rosalindfranklin.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Rosalind Franklin University
 
