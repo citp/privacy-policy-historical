@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onerpm.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905225638id_/https%3A//onerpm.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onerpm.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406114942id_/https%3A//www.onerpm.com/legal/privacy) for the most accurate reproduction.*
 
-# ONErpm
+# Privacy Policy | Music Distribution | ONErpm
 
 **Privacy Policy**  
 _Last Amended: May 25, 2018  
