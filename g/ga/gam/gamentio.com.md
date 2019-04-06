@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamentio.com privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424230110id_/https%3A//gamentio.com/gamentioPP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamentio.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406201545id_/https%3A//gamentio.com/gamentioPP) for the most accurate reproduction.*
 
 # gamentioPP - gamentio
 
 ## PRIVACY POLICY
 
-This privacy policy forms part of our Website's Terms of Use Agreement. By accepting the Terms of Use Agreement and the Privacy Policy on the registration page, you consent to provide sensitive personal data or personal information and are aware of the purpose of sharing such information. Please do not register if you do not wish to share the mandatory personal information with Logic Simplified Pvt. Ltd. on their website www.gamentio.com (hereinafter referred as "Gamentio") requested at the time of registration. Registration procedure cannot be completed until information in the non-optional/mandatory fields is provided. Certain additional personal information may be requested by Gamentio for permitting you access to any Tournaments/Contests/Play with Points Games organized by Gamentio.
+This privacy policy forms part of our Website's Terms of Use Agreement. By accepting the Terms of Use Agreement and the Privacy Policy on the registration page, you consent to provide sensitive personal data or personal information and are aware of the purpose of sharing such information. Please do not register if you do not wish to share the mandatory personal information with Logic Simplified Pvt. Ltd. on their website www.gamentio.com (hereinafter referred as "Gamentio") requested at the time of registration. Registration procedure cannot be completed until information in the non-optional/mandatory fields is provided. Certain additional personal information may be requested by Gamentio for permitting you access to any Tournaments/Contests/Play with real money games organized by Gamentio.
 
 ## 1\. Policy objective:
 
@@ -44,7 +44,7 @@ This privacy policy forms part of our Website's Terms of Use Agreement. By accep
 
 **3.1.3** Photographs once provided by you for marketing purposes gives Gamentio irrevocable rights to use it and it is completely Gamentio's discretion to delete or not use it any further.
 
-**3.1.4** In order to play âGamentio Chipsâ games, you may be required to make online payments. To process such financial transactions, we may use third-party electronic payment processors or service providers (ESPs). By accepting this Privacy Policy, You expressly consent to Personal Information necessary for the processing of transactions being shared with ESPs. We take steps to ensure that our arrangements with ESPs protect your privacy.
+**3.1.4** In order to play âGamentio Coinsâ games, you may be required to make online payments. To process such financial transactions, we may use third-party electronic payment processors or service providers (ESPs). By accepting this Privacy Policy, You expressly consent to Personal Information necessary for the processing of transactions being shared with ESPs. We take steps to ensure that our arrangements with ESPs protect your privacy.
 
 **3.1.5** Gamentio may also use software applications for website traffic analysis and to gather statistics, used for advertising and for determining the efficacy and popularity of Gamentio among others.
 
