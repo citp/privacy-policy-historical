@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techcabal.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235215id_/http%3A//techcabal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcabal.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406112440id_/https%3A//techcabal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TechCabal
 
