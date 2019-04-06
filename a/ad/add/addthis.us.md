@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addthis.us privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107140503id_/https%3A//www.bezh.com/Privatlivspolitik.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addthis.us privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406171548id_/https%3A//www.bezh.com/Privatlivspolitik.html) for the most accurate reproduction.*
 
 # BEZH INTERNATIONAL | Privacy Policy :: Bezh privacy policy
 
@@ -17,8 +17,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
   
 When do we collect information?  
   
-We collect information from you when you register on our site, place an order, fill out a form Shopping online or enter information on our site.  
-  
+We Do not collect your information if you do not use the followings: when you register on our site, place an order, fill out a form Shopping online or enter information on our site. Using any of the followings, is considered as giving us the full rights to save your information, however we still have no data saved in our servers and we will not have.  
   
 How do we use your information?  
   
@@ -61,8 +60,14 @@ However, non-personally identifiable visitor information may be provided to othe
   
 Third party links  
   
-We do not include or offer third party products or services on our website.  
-  
+We do not include or offer third party products or services on our website.
+
+BITCOIN?  
+
+
+If you are paying for any of our products or services using Bitcoin, or if you are trading Bitcoins through our brokers (Bitcoinmoney.dk), all the risks are on your side. Bitcoin is Not safe. It is not trackable and will not be subject to any disputes in any court. It means that it is your risk to do Bitcoin business with us and we accept no responsibility if your Bitcoin gets Hacked, Lost, Stolen or disappeared by any of our services, products or websites. If you do not agree with these conditions, then please do not use our Bitcoin solutions.  
+
+
 Google  
   
 We have not enabled Google AdSense on our site but we may do so in the future.  
