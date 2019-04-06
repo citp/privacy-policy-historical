@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuresmag.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928064244id_/http%3A//www.futuresmag.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuresmag.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406114353id_/http%3A//www.futuresmag.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Futures Magazine
 
