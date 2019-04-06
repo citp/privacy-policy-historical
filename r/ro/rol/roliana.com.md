@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130034646id_/http%3A//roliana.com/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406202312id_/https%3A//roliana.com/ucp.php%3Fmode%3Dprivacy%26sid%3D39489f8f520d12019d23bd36c266f8a4) for the most accurate reproduction.*
 
 # Roliana - User Control Panel - Privacy policy
 
@@ -16,4 +16,4 @@ Your password is ciphered (a one-way hash) so that it is secure. However, it is 
 
 * * *
 
-[Back to login screen](https://web.archive.org/web/20171130034646id_/http%3A//roliana.com/ucp.php?mode=login)
+[Back to login screen](https://web.archive.org/web/20190406202312id_/https%3A//roliana.com/ucp.php?mode=login&sid=0d865b645a6d1fce161ee49927193684)
