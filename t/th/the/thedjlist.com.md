@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013020054id_/http%3A//thedjlist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406171756id_/https%3A//thedjlist.com/privacy) for the most accurate reproduction.*
 
-# The DJ List – your dj & edm music directory
+# The DJ List | Learn about DJs around the world
 
 ## Privacy
 
@@ -127,6 +127,44 @@ You may edit your The DJ List Account Information and your public The DJ List Pr
 
 Your The DJ List account can be deleted, but doing so will result in not being able to access any members-only area of The DJ List. There is a section of your Account Information specifically for deleting your account; go there for further information. Please contact [privacypolicy@thedjlist.com](mailto:privacypolicy@thedjlist.com) for further instructions about deleting or deactivating your The DJ List account. Residual information will remain within our archive records. 
 
-If you are participating in a The DJ List promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact [promotions@thedjlist.com.com](mailto:promotions@thedjlist.com). 
+If you are participating in a The DJ List promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact [promotions@thedjlist.com](mailto:promotions@thedjlist.com). 
 
 (top) **Updated: 2009-12-23 22:19:55 UTC**
+
+[](https://thedjlist.com/)
+
+[](https://itunes.apple.com/us/app/the-dj-list/id596075129?mt=8)
+
+[](https://play.google.com/store/apps/details?id=com.thedjlist.thedjlistapp)
+
+The world's largest DJ directory   
+bringing you DJ profiles since 1997
+
+[](https://www.bassline.com/events)
+
+[](https://itunes.apple.com/us/app/nofomo-city-guide-for-nightlife/id926014963?mt=8&uo=4)
+
+[](https://play.google.com/store/apps/details?id=com.nofomoglobal.nofomo)
+
+Discover DJ events, buy tickets and more, including   
+following your favorite venues, promoters and DJs
+
+[](http://www.bassline.com/news)
+
+[](https://itunes.apple.com/us/app/bassline/id1091454241?mt=8)
+
+[](https://play.google.com/store/apps/details?id=com.bassline.bassline)
+
+See news and events related to the world's top DJs
+
+[](http://www.edmjobs.com/)
+
+Press play on your music career for club,   
+festival and event job opportunities
+
+[](https://www.bassline.com/bars)
+
+[](https://play.google.com/store/apps/details?id=com.bassline.bars)
+
+Discover the best places for drinks in your city,   
+plus transactions and logistics made easy
