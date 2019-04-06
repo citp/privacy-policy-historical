@@ -1,619 +1,1207 @@
-<!--The following is the downloaded HTML source of the foodpanda.co.th privacy policy that was archived on 2016-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161116162223id_/https%3A//www.foodpanda.co.th/contents/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodpanda.co.th privacy policy that was archived on 2019-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190406171725id_/https%3A//www.foodpanda.co.th/contents/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" desktop js " lang="en-TH"><head><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script src="https://web.archive.org/web/20160917185558/https://www.google-analytics.com/analytics.js"></script><script src="https://web.archive.org/_/js/shopMain-3a4d505f8f04bdb03fab6b97af44ac2f.js"></script>
-    <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQUBUFZACQYEUlhQBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
-                
-            <title>Privacy policy | foodpanda</title>
-    
+<!DOCTYPE html><html class=""><!--<![endif]--><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9RJXV"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+        <title>Privacy policy | foodpanda | foodpanda</title>
+
+                                                            
+        <link rel="apple-touch-icon" sizes="57x57" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/apple-touch-icon-57x57.png?7dd7a44">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/apple-touch-icon-60x60.png?7dd7a44">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/apple-touch-icon-72x72.png?7dd7a44">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/apple-touch-icon-76x76.png?7dd7a44">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/apple-touch-icon-114x114.png?7dd7a44">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/apple-touch-icon-120x120.png?7dd7a44">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/apple-touch-icon-144x144.png?7dd7a44">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/apple-touch-icon-152x152.png?7dd7a44">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/apple-touch-icon-180x180.png?7dd7a44">
+        <link rel="icon" type="image/png" sizes="196x196" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/android-chrome-192x192.png?7dd7a44">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/favicon-16x16.png?7dd7a44">
+        <link rel="icon" type="image/png" sizes="96x96" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/favicon-96x96.png?7dd7a44">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/favicon-32x32.png?7dd7a44">
+        <link rel="manifest" href="/manifest.json">
+
+        <meta name="msapplication-TileColor" content="#d70f64">
+        <meta name="msapplication-square70x70logo" content="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/smalltile.png?7dd7a44">
+        <meta name="msapplication-square150x150logo" content="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/mediumtile.png?7dd7a44">
+        <meta name="msapplication-square310x310logo" content="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/largetile.png?7dd7a44">
+        <meta name="msapplication-wide310x150logo" content="https://assets.foodora.com/7dd7a44/img/favicon/foodpanda/widetile.png?7dd7a44">
+
+            <meta name="robots" content="index, follow">
+
+
             <meta name="description" content="Our privacy policy">
-    
-            <meta name="keywords" content="foodpanda, food">
-    
-            <meta name="robots" content="index,follow">
-    
-                        <meta name="format-detection" content="telephone=no">
-                                <meta name="mobile-web-app-capable" content="yes">
-                                <meta name="apple-mobile-web-app-capable" content="yes">
-                                <meta name="apple-mobile-web-app-status-bar-style" content="black">
-                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                                <meta name="revisit-after" content="3 days">
-                                <meta name="msapplication-tilecolor" content="#f75626">
-                                <meta name="msapplication-tileimage" content="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/mstile-144x144.png?v=1470719568">
-                                <meta name="msapplication-config" content="/browserconfig.xml">
-            
-            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-57x57.png?v=1470719568" sizes="57x57">
-            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-60x60.png?v=1470719568" sizes="60x60">
-            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-72x72.png?v=1470719568" sizes="72x72">
-            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-76x76.png?v=1470719568" sizes="76x76">
-            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-114x114.png?v=1470719568" sizes="114x114">
-            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-120x120.png?v=1470719568" sizes="120x120">
-            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-144x144.png?v=1470719568" sizes="144x144">
-            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-152x152.png?v=1470719568" sizes="152x152">
-            <link rel="apple-touch-icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-180x180.png?v=1470719568" sizes="180x180">
-            <link rel="apple-touch-icon-precomposed" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/apple-touch-icon-precomposed.png?v=1470719568">
-            <link rel="icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/favicon-32x32.png?v=1470719568" sizes="32x32">
-            <link rel="icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/favicon-192x192.png?v=1470719568" sizes="192x192">
-            <link rel="icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/favicon-96x96.png?v=1470719568" sizes="96x96">
-            <link rel="icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/favicon-16x16.png?v=1470719568" sizes="16x16">
-            <link rel="manifest" href="/manifest.json">
-            <link rel="shortcut icon" href="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/favicon.ico?v=1470719568">
-            <link rel="alternate" href="https://www.foodpanda.co.th/contents/privacy.htm" hreflang="en-TH">
-            <link rel="alternate" href="https://www.foodpanda.co.th/th/contents/privacy.htm" hreflang="th-TH">
-            <link rel="alternate" href="https://www.foodpanda.co.th/ru/contents/privacy.htm" hreflang="ru-TH">
-            <link rel="alternate" href="https://www.foodpanda.co.th/ja/contents/privacy.htm" hreflang="ja-TH">
-    
-                        <meta content="https://www.foodpanda.co.th/contents/privacy.htm" property="og:url">
-                                <meta content="foodpanda" property="og:site_name">
-            
-                    
-                    <link rel="stylesheet" href="/_/css/shopMain-7ad3775c59cc3c4547b678f2475b239e.css" media="all">
-        
-            
-                
-        <!--[if lte IE 9]>
-        <script src="/_/js/shopHeadIE-ab4399b2c089c09705e6ce591a05fc40.js"></script>
-    <![endif]-->
-    <script src="/_/js/shopHead-2dfff636b545514ef44a4e4f1a5350e3.js"></script>
-    <script>window.$LABChain = $LAB.script('/_/js/shopMain-3a4d505f8f04bdb03fab6b97af44ac2f.js');</script>
+        <link rel="canonical" href="https://www.foodpanda.co.th/contents/privacy.htm">
 
-        
-            <script src="//cdn.dynamicyield.com/api/8766594/api_dynamic.js"></script>
-    
-            <script src="//cdn.dynamicyield.com/api/8766594/api_static.js"></script>
-    
-        <script>
-    FD
-        .setControllerConfig('Prefill', 'customer.firstName', "")
-        .setControllerConfig('Prefill', 'customer.lastName', "")
-        .setControllerConfig('Prefill', 'customer.email', "")
-                    .setControllerConfig('Prefill', 'location.areaId', "")
-            .setControllerConfig('Prefill', 'location.areaName', "")
-                        .setControllerConfig('Prefill', 'location.addressName', "")
-            .setControllerConfig('Prefill', 'location.address', "")
-            .setControllerConfig('Prefill', 'location.latitude', "")
-            .setControllerConfig('Prefill', 'location.longitude', "")
-            .setControllerConfig('Prefill', 'location.street', "")
-            .setControllerConfig('Prefill', 'location.streetNumber', "")
-            .setControllerConfig('Prefill', 'location.houseNumber', "")
-            .setControllerConfig('Prefill', 'location.district', "")
-            .setControllerConfig('Prefill', 'location.postcode', "")
-            ;
-</script>
-            <script>
-    FD
-        .setControllerConfig('LocationSearch', 'vendorListUrl', "\/restaurants")
-        .setControllerConfig('LocationSearch', 'msgNoAreasFound', "No areas found matching your search.")
-        .setControllerConfig('LocationSearch', 'msgSelectAreaFromDropdown', "Please enter your location.")
-        .setControllerConfig('LocationSearch', 'suggestionUrl', "\/location-suggestions-ajax")
-        .setControllerConfig('LocationSearch', 'areaSuggestionUrl', "\/city-suggestions-ajax\/CITY_ID")
-            ;
-
-    FD.setControllerConfig('ChangeLocationLink', 'fromElementUrlForVendorListPage', "\/location\/get-location-search-box");
-</script>
-        
     
 
+            
+            <link rel="stylesheet" href="https://assets.foodora.com/7dd7a44/css/dist/th-default.css?7dd7a44">
                         
-            <script>
-                        var dataLayer = [{"area_id":"NA","area_name":"NA","city_id":"NA","city_name":"NA","lat":"NA","lng":"NA","country_id":"TH","app_version":"production|v1645.8.5|590d8e29aa07802523962507fec7a6b5ebe4be2d","ga_code":"UA-51354317-1","ga_domain":"foodpanda.co.th","language":"en_TH","visitor_id":"72ngjvoi272eoq275ic45bqpp5","landing_page":"\/contents\/privacy.htm","visitor_utm_source":"","visitor_utm_campaign":"","visitor_utm_content":"","visitor_utm_medium":"","visitor_utm_term":"","visitor_referer":"Direct","visitor_source":"https:\/\/www.foodpanda.co.th\/restaurant\/ct8ic\/carl-s-jr","ab_group":"a","platform":"pc","currency":"THB","page_type":"Content Page","newsletter_id":null,"customer_logged":0,"customer_id":"","customer_status":"NA","customer_control":0,"customer_lastname":"","customer_name":"","customer_vendor_id_list":"","customer_last_date":"NA","customer_first_date":"NA","customer_acquisition_voucher":"false"}];
 
-            tracking.setGtmActive(true);
-            tracking.setGtmId("GTM-TQZSPM");
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/jquery.min.js?7dd7a44"></script>
+    <!-- BEGIN TRACKJS -->
+    <script type="text/javascript">
+    window._trackJs = {
+        token: '5fd69569810247f6b32ca1b8cfa0b22b',
+        application: 'foodora-live',
+        enabled: true,
+        userId: 'anonymous',
+        network: {
+            error: false
+        },
+        onError: function (payload, error) {
+            var requestId = '82fae7d60db0ada1fef4e49d20a08e61';
+            var appVersion = '7dd7a44';
+            var appVersionName = 'B2C.19.14.7.1';
+            var featureFlags;
 
-            tracking.setGaActive(true);
+            try {
+                featureFlags = JSON.stringify(VOLO.configuration.features.flags);
+            } catch(e) {
+                featureFlags = '';
+            }
 
-            tracking.setOptimizelyActive(false);
-            tracking.setOptimizelyUrl("\/\/cdn.optimizely.com\/js\/566322169.js");
-            tracking.setOptimizelyAsync(false);
+            payload.metadata.push({
+                key: 'requestId',
+                value: requestId
+            });
 
-            tracking.initTracking();
-        </script>
+            payload.metadata.push({
+                key: 'appVersion',
+                value: appVersion
+            });
 
-        
-        <script>tracking.fireTracking();</script>
+            payload.metadata.push({
+                key: 'appVersionName',
+                value: appVersionName
+            });
 
+            payload.metadata.push({
+                key: 'features',
+                value: featureFlags
+            });
+
+            return !(typeof error === 'string' && null !== error.match(/(^400|^412).*/));
+        }
+    };
+</script>
+
+<script>
+    var trackJsDeferred = (function() {
+        var deferred = $.Deferred();
+
+        function deferTrackJsCall(callee, args) {
+            deferred.then(function() {
+                window.trackJs[callee].apply(window.trackJs, args);
+            });
+        }
+
+        function deferTrackJsConsoleCall(callee, args) {
+            deferred.then(function() {
+                window.trackJs.console[callee].apply(window.trackJs.console, args);
+            });
+        }
+
+        if (window._trackJs.enabled && !window.trackJs) {
+            window.trackJs = {
+                console: {}
+            };
+
+            ['watchAll', 'watch', 'track'].forEach(function(callee) {
+                window.trackJs[callee] = function() {
+                    deferTrackJsCall(callee, arguments);
+                }
+            });
+
+            ['debug', 'error', 'info', 'log', 'warn'].forEach(function(callee) {
+                window.trackJs.console[callee] = function() {
+                    deferTrackJsConsoleCall(callee, arguments);
+                }
+            });
+
+            window.onerror = function(message, source, lineno, colno, error) {
+                if (deferred.state() === 'pending') {
+                    trackJs.track(error || message);
+                }
+            }
+
+            window.addEventListener('unhandledrejection', function(e) {
+                if (deferred.state() === 'pending') {
+                    trackJs.track('Unhandled promise rejection due to {' + e.reason + '} Trace: ' + e.path);
+                }
+            });
+        }
+
+        return deferred;
+    })();
+</script>
+<!-- END TRACKJS -->
+    </head>
+    <body class="country-th static-page">
+                            
+    <div class="top-section">
+                <aside class="top-banner-container">
             
-            </head>
-<body class="  th ">
-                                <noscript>
-        <iframe
-            src="//www.googletagmanager.com/ns.html?id=GTM-TQZSPM"
-            height="0"
-            width="0"
-            style="display:none;visibility:hidden"
-        ></iframe>
-    </noscript>
-    
-    
-    <div class="page-wrapper js-sticky-height-calculate-container">
-        
-        <div class="content-wrapper">
-                                
-                    <div class="homepage-area-selection-container" data-bg="">
-                            <header class="">
-                                                    
-                <div class="container">
-                                            <a href="/" class="header-logo ">
-    <img alt="Logo" src="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/logo.png?v=1470719568">
+            
+    <div class="banner smartphone-banner ios-banner">
+        <span class="banner-close-button">
+            <svg class="svg-stroke-container" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <path fill="#D70F64" fill-rule="evenodd" d="M8 9.016l6.886 6.795a.658.658 0 0 0 .923 0 .637.637 0 0 0 0-.91L9.01 8l6.799-6.902a.637.637 0 0 0 0-.91.659.659 0 0 0-.923 0L8 6.983 1.114.188a.659.659 0 0 0-.923 0 .637.637 0 0 0 0 .911L6.99 8 .19 14.9a.637.637 0 0 0 0 .911.658.658 0 0 0 .923 0L8 9.016z"></path>
+</svg>
+        </span>
+        <span class="banner-icon ios-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="10 5 110 120" class="banner-logo-foodpanda">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#D70F64" d="M0 0h128v128H0z"></path>
+        <path fill="#FFF" fill-rule="nonzero" d="M49.379 51.783c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm0 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm0 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm29.892 0c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm0 0c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm-29.892 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm54.576 10.387l-.094-1.596c-.032-.125-.032-.25-.032-.375a31.453 31.453 0 0 0-.252-1.815c-.127-.782-.285-1.564-.442-2.346-.095-.501-.253-1.002-.38-1.534-.157-.625-.346-1.251-.536-1.877v-.031c-.19-.626-.41-1.22-.631-1.815-.221-.594-.442-1.189-.726-1.783a44.06 44.06 0 0 0-1.673-3.473c-.6-1.126-1.294-2.221-1.989-3.254.063-.062.158-.125.19-.187.19-.157.315-.282.505-.47l.031-.03c.063-.063.158-.157.19-.22l.473-.563c.063-.063.126-.156.19-.25.189-.25.347-.47.505-.72a.432.432 0 0 1 .094-.125c.032-.031.032-.063.063-.094.032-.031.032-.063.032-.063.126-.25.284-.5.379-.75.158-.313.316-.657.41-1.033.063-.125.095-.281.126-.407a8.17 8.17 0 0 0 .095-.406c.032-.157.095-.313.095-.47.063-.25.095-.531.126-.782.032-.031.032-.094.032-.125a.956.956 0 0 0 .031-.313c.032-.281.032-.563.032-.845 0-5.756-4.703-10.418-10.543-10.418-.316 0-.663.031-.979.063-.126.03-.284.03-.41.062a5.94 5.94 0 0 0-.79.125c-.315.063-.63.157-.946.25-.063.032-.158.032-.19.063-.284.094-.504.188-.757.282-.032 0-.032.031-.063.031-.316.125-.6.282-.884.438a5.568 5.568 0 0 0-.726.438.66.66 0 0 0-.19.125 9.214 9.214 0 0 0-.662.5 1.034 1.034 0 0 0-.253.189c-.19.156-.379.312-.536.469a.846.846 0 0 0-.221.25l-.032.031c-.19.188-.347.376-.505.564-.22.25-.41.531-.6.782-.063.062-.094.094-.126.156-.6-.281-1.2-.563-1.8-.782-.599-.25-1.199-.5-1.83-.72-.379-.156-.79-.281-1.2-.406-.347-.157-.694-.25-1.041-.344-.347-.094-.695-.188-1.073-.282-.253-.063-.505-.157-.758-.188-.347-.094-.694-.156-1.042-.25a25.037 25.037 0 0 0-1.483-.313 18.156 18.156 0 0 0-.537-.094c-.442-.062-.947-.156-1.42-.188-.284-.062-.537-.062-.82-.093-.632-.063-1.232-.126-1.895-.157-.063-.031-.158-.031-.19-.031-.757-.063-1.514-.063-2.272-.063a55.1 55.1 0 0 0-2.273.063c-.063 0-.126 0-.19.031-.63.031-1.262.063-1.893.157-.284.03-.537.062-.82.093l-1.421.188c-.19.031-.379.063-.537.094-.505.094-1.01.188-1.483.313a10.76 10.76 0 0 0-1.074.25l-.757.188c-.379.094-.726.188-1.073.282-.348.093-.695.187-1.042.344-.41.094-.79.25-1.2.406-.63.22-1.23.438-1.83.72-.6.25-1.2.5-1.8.782a.55.55 0 0 0-.126-.156 7.353 7.353 0 0 0-.6-.782c-.157-.188-.315-.376-.505-.564l-.031-.03c-.063-.063-.126-.157-.221-.251-.158-.157-.347-.313-.537-.47a.49.49 0 0 0-.252-.187c-.19-.188-.442-.344-.663-.5a.403.403 0 0 0-.19-.126c-.252-.156-.473-.313-.726-.438a7.72 7.72 0 0 0-.883-.438c-.032 0-.032-.031-.064-.031l-.757-.282c-.063-.031-.126-.031-.19-.062a8.351 8.351 0 0 0-.946-.25 5.94 5.94 0 0 0-.79-.126c-.126-.031-.284-.031-.41-.062a10.27 10.27 0 0 0-.978-.063c-5.84 0-10.543 4.662-10.543 10.418 0 .282.031.595.031.845.032.094.032.188.032.313 0 .031 0 .094.031.125.032.282.064.532.127.782l.094.47c.032.156.063.281.095.406.032.157.063.282.126.407.095.376.253.72.41 1.033.095.25.253.5.38.75a.096.096 0 0 1 .031.063c.032.031.032.063.063.094a.432.432 0 0 1 .095.125c.158.25.315.5.505.72.063.062.095.156.19.25l.473.563c.063.063.126.157.19.22l.03.03c.159.188.316.313.506.47.063.062.126.156.19.187a34.56 34.56 0 0 0-1.99 3.254c-.63 1.127-1.199 2.253-1.672 3.473-.253.594-.505 1.189-.726 1.783-.221.595-.442 1.22-.632 1.815v.031c-.19.626-.379 1.22-.536 1.877-.127.501-.253 1.002-.38 1.534a61.27 61.27 0 0 0-.441 2.346c-.095.626-.158 1.22-.253 1.815-.031.125-.031.25-.031.375a13.526 13.526 0 0 0-.095 1.596C24 62.92 24 63.67 24 64.422a39.189 39.189 0 0 0 5.776 20.524c.285.438.537.876.853 1.314.379.532.726 1.064 1.105 1.596.789 1.033 1.578 2.034 2.462 3.004l1.325 1.408a47.59 47.59 0 0 0 2.242 2.096c.41.344.789.657 1.199 1a39.696 39.696 0 0 0 9.375 5.539h.032c1.199.5 2.399.97 3.661 1.345 3.946 1.126 7.955 1.752 12.058 1.752a40.04 40.04 0 0 0 11.869-1.783 39.542 39.542 0 0 0 3.661-1.346h.032a39.696 39.696 0 0 0 9.375-5.537c.41-.313.789-.657 1.2-1.002a35.87 35.87 0 0 0 2.24-2.096c.442-.438.884-.938 1.326-1.408.884-.97 1.673-1.97 2.462-3.003.38-.532.758-1.064 1.105-1.596l.852-1.314a39.189 39.189 0 0 0 5.777-20.524c.031-.72 0-1.47-.032-2.221zm-39.962 3.003c1.8 0 6.913.313 6.913 1.971 0 2.941-6.313 5.069-6.913 4.912-.6.157-6.944-1.97-6.944-4.912.032-1.627 5.145-1.97 6.944-1.97zm-23.2-17.896c3.472-2.284 11.142-3.629 14.173.313 0 0 3.788 4.005.063 8.229-3.693 4.192-6.629 8.103-7.481 11.513-.852 3.41-2.241 4.787-4.987 4.818-2.747.031-8.113-4.192-8.776-10.95-.663-6.727 3.536-11.639 7.008-13.923zm33.017 27.22c0 4.724-4.387 8.54-9.817 8.54-5.397 0-9.816-3.816-9.816-8.54H73.81zm11.648-2.347c-2.746-.031-4.135-1.408-4.987-4.818-.853-3.41-3.757-7.321-7.481-11.513-3.725-4.193.063-8.229.063-8.229 2.998-3.942 10.7-2.597 14.173-.313 3.44 2.253 7.67 7.196 7.007 13.923-.663 6.758-6.029 10.981-8.775 10.95zm4.83-45.084c4.135 0 7.449 3.285 7.449 7.384a7.314 7.314 0 0 1-2.367 5.381l-.474-.563c-.41-.5-.82-.97-1.263-1.44-.41-.469-.852-.938-1.325-1.376a56.17 56.17 0 0 0-1.39-1.314 27.653 27.653 0 0 0-1.451-1.251c-.505-.407-1.01-.783-1.515-1.19-.474-.375-.947-.719-1.452-1.032-.063-.062-.095-.094-.158-.094-.505-.344-1.01-.657-1.515-.97a7.563 7.563 0 0 0-.663-.406 7.565 7.565 0 0 1 6.124-3.129zM30.47 34.45c0-4.068 3.314-7.384 7.45-7.384 2.525 0 4.734 1.252 6.092 3.16-.221.125-.442.25-.663.407-.505.313-1.01.626-1.516.97-.063.03-.094.062-.157.094-.505.312-.979.657-1.452 1.032-.505.375-1.01.75-1.515 1.189-.506.407-.979.813-1.452 1.251-.474.407-.947.845-1.39 1.314-.441.438-.883.908-1.325 1.377-.442.47-.852.939-1.263 1.44l-.473.562c-1.42-1.376-2.336-3.285-2.336-5.412zm48.8 17.333c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm-29.892 4.13c1.136 0 2.083-.94 2.083-2.066s-.947-2.064-2.083-2.064c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065zm29.892-4.13c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm-29.892 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm29.892 0c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm-29.892 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064z"></path>
+    </g>
+</svg>
+        </span>
+        <div class="banner-content">
+<h2 class="banner-title">Foodpanda - Local Food Delivery</h2>
+<p class="banner-ratings">
+<i class="icon-star"></i>
+<i class="icon-star"></i>
+<i class="icon-star"></i>
+<i class="icon-star"></i>
+<i class="icon-star"></i>
+200+ reviews
+</p>
+</div>
+<a href="https://bhpz.adj.st/?c=TH&amp;s=s&amp;adjust_t=pyyrku_lxentb_6pwh61&amp;adjust_campaign=TH_smallSmartbanner_AB-test_EN&amp;adjust_deeplink=foodpanda%3A%2F%2F%3Fc%3DTH%26s%3Ds" class="banner-view-button">
+View
 </a>
+    </div>
+
+    <div class="banner smartphone-banner android-banner">
+        <span class="banner-close-button">
+            <svg class="svg-stroke-container" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <path fill="#D70F64" fill-rule="evenodd" d="M8 9.016l6.886 6.795a.658.658 0 0 0 .923 0 .637.637 0 0 0 0-.91L9.01 8l6.799-6.902a.637.637 0 0 0 0-.91.659.659 0 0 0-.923 0L8 6.983 1.114.188a.659.659 0 0 0-.923 0 .637.637 0 0 0 0 .911L6.99 8 .19 14.9a.637.637 0 0 0 0 .911.658.658 0 0 0 .923 0L8 9.016z"></path>
+</svg>
+        </span>
+        <span class="banner-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="10 5 110 120" class="banner-logo-foodpanda">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#D70F64" d="M0 0h128v128H0z"></path>
+        <path fill="#FFF" fill-rule="nonzero" d="M49.379 51.783c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm0 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm0 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm29.892 0c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm0 0c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm-29.892 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm54.576 10.387l-.094-1.596c-.032-.125-.032-.25-.032-.375a31.453 31.453 0 0 0-.252-1.815c-.127-.782-.285-1.564-.442-2.346-.095-.501-.253-1.002-.38-1.534-.157-.625-.346-1.251-.536-1.877v-.031c-.19-.626-.41-1.22-.631-1.815-.221-.594-.442-1.189-.726-1.783a44.06 44.06 0 0 0-1.673-3.473c-.6-1.126-1.294-2.221-1.989-3.254.063-.062.158-.125.19-.187.19-.157.315-.282.505-.47l.031-.03c.063-.063.158-.157.19-.22l.473-.563c.063-.063.126-.156.19-.25.189-.25.347-.47.505-.72a.432.432 0 0 1 .094-.125c.032-.031.032-.063.063-.094.032-.031.032-.063.032-.063.126-.25.284-.5.379-.75.158-.313.316-.657.41-1.033.063-.125.095-.281.126-.407a8.17 8.17 0 0 0 .095-.406c.032-.157.095-.313.095-.47.063-.25.095-.531.126-.782.032-.031.032-.094.032-.125a.956.956 0 0 0 .031-.313c.032-.281.032-.563.032-.845 0-5.756-4.703-10.418-10.543-10.418-.316 0-.663.031-.979.063-.126.03-.284.03-.41.062a5.94 5.94 0 0 0-.79.125c-.315.063-.63.157-.946.25-.063.032-.158.032-.19.063-.284.094-.504.188-.757.282-.032 0-.032.031-.063.031-.316.125-.6.282-.884.438a5.568 5.568 0 0 0-.726.438.66.66 0 0 0-.19.125 9.214 9.214 0 0 0-.662.5 1.034 1.034 0 0 0-.253.189c-.19.156-.379.312-.536.469a.846.846 0 0 0-.221.25l-.032.031c-.19.188-.347.376-.505.564-.22.25-.41.531-.6.782-.063.062-.094.094-.126.156-.6-.281-1.2-.563-1.8-.782-.599-.25-1.199-.5-1.83-.72-.379-.156-.79-.281-1.2-.406-.347-.157-.694-.25-1.041-.344-.347-.094-.695-.188-1.073-.282-.253-.063-.505-.157-.758-.188-.347-.094-.694-.156-1.042-.25a25.037 25.037 0 0 0-1.483-.313 18.156 18.156 0 0 0-.537-.094c-.442-.062-.947-.156-1.42-.188-.284-.062-.537-.062-.82-.093-.632-.063-1.232-.126-1.895-.157-.063-.031-.158-.031-.19-.031-.757-.063-1.514-.063-2.272-.063a55.1 55.1 0 0 0-2.273.063c-.063 0-.126 0-.19.031-.63.031-1.262.063-1.893.157-.284.03-.537.062-.82.093l-1.421.188c-.19.031-.379.063-.537.094-.505.094-1.01.188-1.483.313a10.76 10.76 0 0 0-1.074.25l-.757.188c-.379.094-.726.188-1.073.282-.348.093-.695.187-1.042.344-.41.094-.79.25-1.2.406-.63.22-1.23.438-1.83.72-.6.25-1.2.5-1.8.782a.55.55 0 0 0-.126-.156 7.353 7.353 0 0 0-.6-.782c-.157-.188-.315-.376-.505-.564l-.031-.03c-.063-.063-.126-.157-.221-.251-.158-.157-.347-.313-.537-.47a.49.49 0 0 0-.252-.187c-.19-.188-.442-.344-.663-.5a.403.403 0 0 0-.19-.126c-.252-.156-.473-.313-.726-.438a7.72 7.72 0 0 0-.883-.438c-.032 0-.032-.031-.064-.031l-.757-.282c-.063-.031-.126-.031-.19-.062a8.351 8.351 0 0 0-.946-.25 5.94 5.94 0 0 0-.79-.126c-.126-.031-.284-.031-.41-.062a10.27 10.27 0 0 0-.978-.063c-5.84 0-10.543 4.662-10.543 10.418 0 .282.031.595.031.845.032.094.032.188.032.313 0 .031 0 .094.031.125.032.282.064.532.127.782l.094.47c.032.156.063.281.095.406.032.157.063.282.126.407.095.376.253.72.41 1.033.095.25.253.5.38.75a.096.096 0 0 1 .031.063c.032.031.032.063.063.094a.432.432 0 0 1 .095.125c.158.25.315.5.505.72.063.062.095.156.19.25l.473.563c.063.063.126.157.19.22l.03.03c.159.188.316.313.506.47.063.062.126.156.19.187a34.56 34.56 0 0 0-1.99 3.254c-.63 1.127-1.199 2.253-1.672 3.473-.253.594-.505 1.189-.726 1.783-.221.595-.442 1.22-.632 1.815v.031c-.19.626-.379 1.22-.536 1.877-.127.501-.253 1.002-.38 1.534a61.27 61.27 0 0 0-.441 2.346c-.095.626-.158 1.22-.253 1.815-.031.125-.031.25-.031.375a13.526 13.526 0 0 0-.095 1.596C24 62.92 24 63.67 24 64.422a39.189 39.189 0 0 0 5.776 20.524c.285.438.537.876.853 1.314.379.532.726 1.064 1.105 1.596.789 1.033 1.578 2.034 2.462 3.004l1.325 1.408a47.59 47.59 0 0 0 2.242 2.096c.41.344.789.657 1.199 1a39.696 39.696 0 0 0 9.375 5.539h.032c1.199.5 2.399.97 3.661 1.345 3.946 1.126 7.955 1.752 12.058 1.752a40.04 40.04 0 0 0 11.869-1.783 39.542 39.542 0 0 0 3.661-1.346h.032a39.696 39.696 0 0 0 9.375-5.537c.41-.313.789-.657 1.2-1.002a35.87 35.87 0 0 0 2.24-2.096c.442-.438.884-.938 1.326-1.408.884-.97 1.673-1.97 2.462-3.003.38-.532.758-1.064 1.105-1.596l.852-1.314a39.189 39.189 0 0 0 5.777-20.524c.031-.72 0-1.47-.032-2.221zm-39.962 3.003c1.8 0 6.913.313 6.913 1.971 0 2.941-6.313 5.069-6.913 4.912-.6.157-6.944-1.97-6.944-4.912.032-1.627 5.145-1.97 6.944-1.97zm-23.2-17.896c3.472-2.284 11.142-3.629 14.173.313 0 0 3.788 4.005.063 8.229-3.693 4.192-6.629 8.103-7.481 11.513-.852 3.41-2.241 4.787-4.987 4.818-2.747.031-8.113-4.192-8.776-10.95-.663-6.727 3.536-11.639 7.008-13.923zm33.017 27.22c0 4.724-4.387 8.54-9.817 8.54-5.397 0-9.816-3.816-9.816-8.54H73.81zm11.648-2.347c-2.746-.031-4.135-1.408-4.987-4.818-.853-3.41-3.757-7.321-7.481-11.513-3.725-4.193.063-8.229.063-8.229 2.998-3.942 10.7-2.597 14.173-.313 3.44 2.253 7.67 7.196 7.007 13.923-.663 6.758-6.029 10.981-8.775 10.95zm4.83-45.084c4.135 0 7.449 3.285 7.449 7.384a7.314 7.314 0 0 1-2.367 5.381l-.474-.563c-.41-.5-.82-.97-1.263-1.44-.41-.469-.852-.938-1.325-1.376a56.17 56.17 0 0 0-1.39-1.314 27.653 27.653 0 0 0-1.451-1.251c-.505-.407-1.01-.783-1.515-1.19-.474-.375-.947-.719-1.452-1.032-.063-.062-.095-.094-.158-.094-.505-.344-1.01-.657-1.515-.97a7.563 7.563 0 0 0-.663-.406 7.565 7.565 0 0 1 6.124-3.129zM30.47 34.45c0-4.068 3.314-7.384 7.45-7.384 2.525 0 4.734 1.252 6.092 3.16-.221.125-.442.25-.663.407-.505.313-1.01.626-1.516.97-.063.03-.094.062-.157.094-.505.312-.979.657-1.452 1.032-.505.375-1.01.75-1.515 1.189-.506.407-.979.813-1.452 1.251-.474.407-.947.845-1.39 1.314-.441.438-.883.908-1.325 1.377-.442.47-.852.939-1.263 1.44l-.473.562c-1.42-1.376-2.336-3.285-2.336-5.412zm48.8 17.333c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm-29.892 4.13c1.136 0 2.083-.94 2.083-2.066s-.947-2.064-2.083-2.064c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065zm29.892-4.13c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm-29.892 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064zm29.892 0c-1.136 0-2.083.938-2.083 2.064 0 1.127.947 2.065 2.083 2.065 1.137 0 2.083-.938 2.083-2.065 0-1.126-.946-2.064-2.083-2.064zm-29.892 0c-1.137 0-2.084.938-2.084 2.064 0 1.127.947 2.065 2.084 2.065 1.136 0 2.083-.938 2.083-2.065a2.072 2.072 0 0 0-2.083-2.064z"></path>
+    </g>
+</svg>
+        </span>
+        <div class="banner-content">
+<h2 class="banner-title">Foodpanda - Local Food Delivery</h2>
+<p class="banner-ratings">
+<i class="icon-star"></i>
+<i class="icon-star"></i>
+<i class="icon-star"></i>
+<i class="icon-star"></i>
+<i class="icon-star"></i>
+200+ reviews
+</p>
+</div>
+<a href="https://bhpz.adj.st/?c=TH&amp;s=s&amp;adjust_t=pyyrku_lxentb_6pwh61&amp;adjust_campaign=TH_smallSmartbanner_AB-test_EN&amp;adjust_deeplink=foodpanda%3A%2F%2F%3Fc%3DTH%26s%3Ds" class="banner-view-button">
+View
+</a>
+    </div>
+
+            <div class="rider-banner pink-banner top-banner">
+    <div class="pink-banner__content">
+        <svg class="svg-stroke-container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+    <path class="rider-icon__path" d="M44.66,9.09,31.19,5.18a4.66,4.66,0,0,0-2.59,0L11,10.13a4.62,4.62,0,0,0-3.37,4.36s0,0,0,.07v4C4.51,21.9.1,27.21,0,31.91A10.57,10.57,0,0,0,0,33a5,5,0,0,0,2.69,4.08,5.66,5.66,0,0,0,2.64.65,13.73,13.73,0,0,0,4.27-1,7.73,7.73,0,0,0,3.7,5.55A5.41,5.41,0,0,0,16,43a17.66,17.66,0,0,0,5.93-1.66l1.16.58a4.66,4.66,0,0,0,2.07.48,4.55,4.55,0,0,0,1.26-.17l18.16-5.91A4.62,4.62,0,0,0,48,31.87V13.51A4.64,4.64,0,0,0,44.66,9.09Zm-33.35,2,9-2.52,13.18,3.83A3.62,3.62,0,0,1,36,15.86v5L26.28,24V18.37a2.56,2.56,0,0,0-1.92-2.44L11.17,12.1a2.85,2.85,0,0,0-1.45,0A3.64,3.64,0,0,1,11.31,11.11ZM4.79,36a4,4,0,0,1-2.14-3.89c.17-2.62,2.47-5.88,5-8.82V33a2.53,2.53,0,0,0,1.52,2.29l.39.18c0,.1,0,.21,0,.32C7.84,36.31,6.09,36.61,4.79,36Zm16,4.75c-2,.66-4.14,1-5.61.37a4.89,4.89,0,0,1-3-4.48v0l4.23,2,4.58,2.13Zm2-.31-6-2.78-4.58-2.13s0-.08,0-.12c.91-4.8,6.24-12.14,9.08-15.16a1,1,0,0,0-.42-1.68l-1.21-.41a1,1,0,0,0-1.07.28c-1.78,1.95-7.92,9.28-8.92,15.48,0,.14-.06.28-.07.41l0,0A1.51,1.51,0,0,1,8.69,33V22.13c1.64-1.81,3.26-3.43,4.38-4.62a1,1,0,0,0-.43-1.68l-1.2-.41a1,1,0,0,0-1.08.28c-.36.4-.95,1-1.67,1.74v-3a1.5,1.5,0,0,1,.62-1.14A1.74,1.74,0,0,1,10.37,13a1.79,1.79,0,0,1,.51.07l13.19,3.83a1.55,1.55,0,0,1,1.17,1.46V39.08a1.48,1.48,0,0,1-.72,1.26A1.84,1.84,0,0,1,22.8,40.45ZM47,31.87a3.6,3.6,0,0,1-2.7,3.46L26.11,41.24a3.25,3.25,0,0,1-1.35.1,1.41,1.41,0,0,0,.31-.14,2.49,2.49,0,0,0,1.21-2.12v-5.5L47,27.11Zm0-14.5-9.89,3.16V15.86a4.64,4.64,0,0,0-3.34-4.42L22.12,8.06l6.76-1.91a3.77,3.77,0,0,1,1-.14,3.55,3.55,0,0,1,1,.15l13.47,3.92A3.59,3.59,0,0,1,47,13.51Z"></path>
+</svg>
+        <div class="text">Join our delivery team!</div>
+                <button class="button-apply" data-redirect-url="https://rider.foodpanda.co.th/?utm_source=foodpanda&amp;utm_medium=website&amp;utm_campaign=homepagebanner&amp;utm_content=applynow">APPLY NOW</button>
+    </div>
+    <div class="pink-banner__close-button close-button"></div>
+</div>
+        </aside>
+        
+        <header class="header ">
+    <div class="logo-wrapper">
+        
+<div class="logo logo-foodpanda">
+    <a href="/">
+        <div class="svg-logo-wrapper">
+                            <!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" height="26" class="logo-icon" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 198.2 200.3" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D70F64;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M99,148c13.5,0,24.4-9.6,24.4-21.4H74.7C74.7,138.4,85.5,148,99,148z"></path>
+		<g>
+			<path class="st0" d="M181.3,46c5.5-4.8,9.1-11.8,9.1-19.8c0-14.4-11.7-26.1-26.2-26.1c-9.3,0-17.4,4.8-22,12
+				c-13-6.3-27.6-9.9-43-9.9s-30,3.5-43,9.8c-4.7-7.2-12.7-12-22-12C19.8,0,8,11.7,8,26.1c0,7.9,3.5,15,9,19.7
+				C6.3,61.6,0,80.7,0,101.2c0,54.7,44.5,99.1,99.1,99.1s99.1-44.4,99.1-99.1C198.3,80.9,192,61.8,181.3,46z M99.2,192.8
+				c-50.4,0-91.4-41-91.4-91.4c0-19,5.8-36.6,15.7-51.2c9-13.2,21.4-24,35.8-31c12-5.9,25.5-9.2,39.8-9.2s27.8,3.3,39.9,9.2
+				c14.5,7,26.8,17.8,35.8,31c9.9,14.6,15.7,32.2,15.7,51.2C190.6,151.8,149.6,192.8,99.2,192.8z"></path>
+			<path class="st0" d="M99,120.5c1.5,0.4,17.2-4.9,17.2-12.3c0-4.1-12.7-4.9-17.2-4.9c-4.4,0-17.2,0.8-17.2,4.9
+				C81.8,115.6,97.5,120.9,99,120.5z"></path>
+			<path class="st0" d="M156.6,58.5c-8.6-5.7-27.7-9.1-35.1,0.8c0,0-9.4,10.1-0.2,20.6c9.3,10.5,16.4,20.3,18.5,28.8
+				s5.5,12,12.4,12.1c6.9,0,20.1-10.5,21.8-27.4C175.7,76.5,165.2,64.1,156.6,58.5z M136.9,80.1c-2.9,0-5.2-2.3-5.2-5.2
+				s2.4-5.2,5.2-5.2c2.9,0,5.2,2.3,5.2,5.2C142,77.7,139.7,80.1,136.9,80.1z"></path>
+			<path class="st0" d="M76.5,59.2c-7.5-9.8-26.6-6.5-35.1-0.8c-8.6,5.7-19.1,18-17.4,34.9c1.6,16.9,14.9,27.4,21.8,27.4
+				s10.3-3.5,12.4-12.1c2.1-8.5,9.3-18.3,18.5-28.8S76.5,59.2,76.5,59.2z M62.7,80.1c-2.9,0-5.2-2.3-5.2-5.2s2.3-5.2,5.2-5.2
+				c2.9,0,5.2,2.3,5.2,5.2C67.8,77.7,65.5,80.1,62.7,80.1z"></path>
+		</g>
+	</g>
+</g>
+</svg>
+                        <!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" height="30px" width="133px" d="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="150 -45 745 250" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D70F64;}
+</style>
+<g class="svg-stroke-container">
+	<g>
+		<path class="st0" d="M0,52.3h18.7V35c0-21,11.7-35,35-35l11.7,2.3v21L52.6,21c-7,0-10.5,4.7-10.5,11.7v19.6h23.3v21H42.1V162H18.8
+			V73.3H0.1L0,52.3L0,52.3z"></path>
+		<path class="st0" d="M125.8,50c30.3,0,57.2,23.3,57.2,57.2c0,33.8-26.8,57.2-57.2,57.2c-30.3,0-57.2-23.3-57.2-57.2
+			C68.7,73.3,95.5,50,125.8,50z M125.8,143.3c22.2,0,33.8-16.3,33.8-36.2c0-19.8-11.7-36.2-33.8-36.2c-22.2,0-33.8,16.3-33.8,36.2
+			S103.7,143.3,125.8,143.3z"></path>
+		<path class="st0" d="M250.4,50c30.3,0,57.2,23.3,57.2,57.2c0,33.8-26.8,57.2-57.2,57.2s-57.2-23.3-57.2-57.2
+			C193.3,73.3,220.1,50,250.4,50z M250.4,143.3c22.2,0,33.8-16.3,33.8-36.2c0-19.8-11.7-36.2-33.8-36.2c-22.2,0-33.8,16.3-33.8,36.2
+			S228.3,143.3,250.4,143.3z"></path>
+		<path class="st0" d="M429.9,162h-21l-2.3-9.3l-1.2-1.2l-1.2,1.2c-7,7-18.7,11.7-30.3,11.7c-30.3,0-56-23.3-56-57.2
+			c0-33.8,25.7-57.2,56-57.2c11.4,0,23.3,4.7,30.3,11.7l1.2,1.2l1.2-1.2V0h23.3V162z M375.1,71c-22.2,0-34.1,16.3-34.1,36.2
+			c0,19.8,11.9,36.2,34.1,36.2c19.8,0,33.8-16.3,33.8-36.2S394.9,71,375.1,71z"></path>
+		<path class="st0" d="M453.3,52.3h21l2.1,9.3l1.4,1.2l1.2-1.2c7-7,18.7-11.7,30.3-11.7c30.3,0,56,23.3,56,57.2
+			c0,33.8-25.7,57.2-56,57.2c-11.4,0-23.3-4.7-30.3-11.7l-1.2-1.2l-1.4,1.2v58.8h-23.1V52.3z M508.1,143.3
+			c22.2,0,33.8-16.3,33.8-36.2c0-19.8-11.7-36.2-33.8-36.2c-19.8,0-33.8,16.3-33.8,36.2S488.3,143.3,508.1,143.3z"></path>
+		<path class="st0" d="M624,93.9h19.1v-4.8c0-13.2-9-19.3-21.5-19.3c-10.1,0-16.9,4.8-20.6,14.7l-20.9-4.4
+			c4.6-18.7,20.6-30.5,41.7-30.5c29.4,0,44.1,14.5,44.1,43.7V162h-19.3l-2.2-14.5c-7.7,10.8-19.1,16.3-34.3,16.3
+			c-19.5,0-34-11.6-34-33.6C576.1,107.5,595.3,93.9,624,93.9z M614.1,143.5c7.7,0,14.5-2.4,20.2-7.2c5.9-5.1,8.8-11.9,8.8-20.9V113
+			h-20c-14.1,0-22.8,6.6-22.8,17.1C600.3,138,605.1,143.5,614.1,143.5z"></path>
+		<path class="st0" d="M687.5,52.3h21l2.3,9.3l1.2,1.2l1.2-1.2c4.7-7,16.3-11.7,25.7-11.7c28,0,44.3,18.7,44.3,44.3v67.7h-23.3V94.2
+			c-0.7-14.9-7.9-23.3-23.3-23.3c-13.8,0-25.2,11.2-25.7,24.7v66.3h-23.3L687.5,52.3L687.5,52.3z"></path>
+		<path class="st0" d="M910.2,162h-21l-2.3-9.3l-1.2-1.2l-1.2,1.2c-7,7-18.7,11.7-30.3,11.7c-30.3,0-56-23.3-56-57.2
+			c0-33.8,25.7-57.2,56-57.2c11.4,0,23.3,4.7,30.3,11.7l1.2,1.2l1.2-1.2V0h23.3V162z M855.3,71c-22.2,0-34.1,16.3-34.1,36.2
+			c0,19.8,11.9,36.2,34.1,36.2c19.8,0,33.8-16.3,33.8-36.2C889.2,87.3,875.2,71,855.3,71z"></path>
+		<path class="st0" d="M976.6,93.9h19.1v-4.8c0-13.2-9-19.3-21.5-19.3c-10.1,0-16.9,4.8-20.6,14.7l-20.9-4.4
+			c4.6-18.7,20.6-30.5,41.7-30.5c29.4,0,44.1,14.5,44.1,43.7V162h-19.3l-2.2-14.5c-7.7,10.8-19.1,16.3-34.3,16.3
+			c-19.5,0-34-11.6-34-33.6C928.7,107.5,947.8,93.9,976.6,93.9z M966.7,143.5c7.7,0,14.5-2.4,20.2-7.2c5.9-5.1,8.8-11.9,8.8-20.9
+			V113h-20c-14.1,0-22.8,6.6-22.8,17.1C952.9,138,957.7,143.5,966.7,143.5z"></path>
+	</g>
+</g>
+</svg>
+        </div>
+            </a>
+</div>
+    </div>
+
+    <div class="language-wrapper">
+        <div class="language-switch">
+                                                    
+        <a class="active" href="/contents/privacy.htm" data-locale="en">
+            en
+        </a>
+                                                    
+        <a class="" href="/th/contents/privacy.htm" data-locale="th">
+            th
+        </a>
+                                                    
+        <a class="" href="/ja/contents/privacy.htm" data-locale="ja">
+            ja
+        </a>
+    </div>
+    </div>
+
+    <div class="user-wrapper">
+        <div class="account header__account">
+                            <a class="show-login-modal account-link" data-ripple="">
+    <svg class="svg-stroke-container" width="24" height="22" viewBox="0 0 24 22" xmlns="http://www.w3.org/2000/svg">
+    <path d="M.5 21.5c.66-1.305 2.085-2.274 5.085-3.456 2.957-1.219 3.436-2.088 3.436-3.7 0-.38-.072-.472-.285-.749-.303-.39-.716-.924-.97-2.308l-.029-.126c-.618-.341-.972-.808-1.062-2.194 0-.688.192-1.115.384-1.366a52.882 52.882 0 0 1-.241-2c-.066-.879.19-2.286 1.124-3.405C8.588 1.423 9.818.5 12.014.5c2.273 0 3.52.963 4.166 1.77.91 1.134 1.122 2.51 1.03 3.343a19.481 19.481 0 0 1-.231 1.993c.187.249.375.661.375 1.318-.09 1.43-.444 1.896-.986 2.2l-.102.15c-.23 1.409-.659 1.945-.97 2.338-.216.272-.289.363-.289.732 0 1.564.497 2.47 3.447 3.704 2.786 1.098 4.204 2.054 5.046 3.403" stroke="#D70F64" fill-rule="nonzero" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+    <span class="login-label">
+        Login
+    </span>
+</a>
+
+                    </div>
+    </div>
+
+    <div class="order-components">
+        
+
                     
-                    <div class="header-links">
-                                                    <ul class="header-links__list">
-                                                                                                    
-                                                                        <li class="header-links__language-switch">
-        <a href="#" data-toggle="dropdown">
-            <i class="icon icon-contact"></i>
+            </div>
 
-            <span class="label">English</span>
+            <div class="cart-icon-wrapper">
+        </div>
+    </header>
 
-            <i class="icon-caret icon-down-arrow"></i>
-        </a>
-        <ul class="dropdown-menu" role="menu">
-                                                            <li class="language-switch__item selected">
-                    <a href="/contents/privacy.htm">
-                        <span>English</span>
-                    </a>
-                </li>
-                                                            <li class="language-switch__item ">
-                    <a href="/th/contents/privacy.htm?switch_language=1">
-                        <span>ไทย</span>
-                    </a>
-                </li>
-                                                            <li class="language-switch__item ">
-                    <a href="/ru/contents/privacy.htm?switch_language=1">
-                        <span>русский</span>
-                    </a>
-                </li>
-                                                            <li class="language-switch__item ">
-                    <a href="/ja/contents/privacy.htm?switch_language=1">
-                        <span>日本語</span>
-                    </a>
-                </li>
-                    </ul>
-    </li>
-
-                                
-                                                                                                            <li class="header-links__contact-us">
-    <a href="/contents/contact.htm">
-        <i class="icon icon-help"></i>
-
-        <span class="label">Help</span>
-    </a>
-</li>
-                                                                    
-                                                                    <li class="header-links__customer-account">
-            <a href="/login" class="js-auth-login" data-loading-text="Loading..." rel="nofollow">
-            <i class="icon icon-account"></i>
-            <span class="label">Log in or Sign up</span>
-        </a>
-    </li>
-                                                            </ul>
-                                            </div>
-                </div>
-            </header>
-        
-        
+        <aside class="top-flood-banner-container">
+            <div id="flood-banner-react-root"></div>
+        </aside>
 
             </div>
 
-                                <div class="breadcrumbs">
-            <div class="container">
-                                    <ol class="breadcrumbs__pages">
-                            <li class="breadcrumbs__pages__item" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-        <a href="https://www.foodpanda.co.th/" itemprop="url">
-            <span itemprop="title">Home</span>
-        </a>
-    </li>
+                        
+                    <div class="progress-bar"></div>
+        
+            <div class="modal-dialogs"><!-- here you can define your modals --></div>
 
-                                <li class="breadcrumbs__pages__item" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-        <a href="https://www.foodpanda.co.th/contents/privacy.htm" itemprop="url">
-            <span itemprop="title">Privacy policy</span>
-        </a>
-    </li>
+    <div class="modal-confirm-below-minimum-amount"></div>
+    <div class="modal-confirm-preorder"></div>
+    <div class="modal-upsell"></div>
 
-                    </ol>
-                            </div>
-        </div>
     
-                    
-    <div class="flash-messages">
-        <div class="container">
-                                </div>
+    <div class="modal fade" id="login-registration-modal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content" id="spinner-wrapper"></div>
+            <div class="modal-close-button"></div>
+        </div>
     </div>
 
-                    <main class="js-sticky-height-calculate-container">
-        <div class="container">
-                    <div class="static-page ">
-                    <h1>Privacy policy</h1>
+    
+    
+    
+    <div class="modal fade headline-content-footer-modal modal-verify-sms" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-close-button close" data-dismiss="modal"></div>
+                <h4 class="modal__h4 text-center">
+                    Verify                </h4>
+                <div class="modal-body">
+                    <div class="modal-verify-sms__text">
+                        We need to verify your mobile phone number. A text message with your code has been sent to: %phoneNumber%                    </div>
+                    <div class="error-message full modal-verify-sms__error modal-error-message hide" id="">
+    If you haven't received any text message, please contact our customer support.
+</div>
+                    <form class="modal-verify-sms__form">
+                        <label class="modal-verify-sms__form__label">
+                            <span class="modal-verify-sms__form__wrapper">
+                                
+<div class="input-box js-input-box ">
+    <input type="text" class="modal-verify-sms__verification-code-input " id="verification-code-input" name="verification-code-input" placeholder=" " value="">
+    <span class="sms-error-message modal-error-message input-message error hide"></span>
+            <label for="verification-code-input">Please enter your code</label>
+    </div>
+                            </span>
+                        </label>
+                        
+<button class="button full modal-verify-sms__submit" type="button">Verify</button>
+                    </form>
+                    <div class="text-center modal-verify-sms__resend">
+                        No text message received?                        <a class="resend-code">
+                            Resend code                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade headline-content-footer-modal modal-error-reorder error-modal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <h4 class="modal__h4 text-center">
+                    Oops, something went wrong
+                </h4>
+                <div class="modal-body error-modal__body">
+                    <div class="modal-error-error-message">
+                        Sorry, this order is not available for reorder at the moment. Please try again.
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    
+<button class="button-ghost full " type="button" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/template" id="template-login">
+            <div class="modal__padding-left-right">
+        <h4 class="modal__h4 text-center">Login</h4>
         
-        <div class="static-content ">
-            <p>
-	This policy explains how we, Foodpanda, a brand of <strong>http://www.foodpanda.co.th</strong>, use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).<br>
-	<br>
-	<strong>What information we collect about you?</strong><br>
-	<br>
-	We collect personal information from you when you order goods or services from us or use our website. We also collect information when you complete any customer survey. Website usage information may also be collected using cookies.<br>
-	<br>
-	<strong>Cookies and Google Analytics</strong><br>
-	<br>
-	Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.<br>
-	<br>
-	This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files saved on your computer, to help the website analyze how you use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. If this website anonymizes IP addresses, your IP address will be truncated by Google within a EU member state or other EEA state before being transmitted to the US. Only in exceptional situations will your full IP address be transmitted to Google servers in the United States and truncated there. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. You can also prevent Google from collecting information (including your IP address) via cookies and processing this information by downloading this browser plugin and installing it: <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a><br>
-	<br>
-	Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.<br>
-	<br>
-	<strong>How will we use the information we collect from you?</strong><br>
-	<br>
-	Information that we collect from you is used to process your order and to manage your account. We may also use your information to email you about other products or services that we think may be of interest to you.<br>
-	<br>
-	In processing your order we may send your information to credit reference and fraud prevention agencies.<br>
-	<br>
-	From time to time we may send your information to third parties which we consider may have goods or services which are of interest to you. If you do not wish to be contacted by third parties please email us at <a href="mailto:support@foodpanda.com">support@foodpanda.com</a><br>
-	<br>
-	<strong>Access to your information</strong><br>
-	<br>
-	You have a right to request a copy of the information we hold on you at any time. Please email us if you would like to receive a copy of this information – <a href="mailto:support@foodpanda.com">support@foodpanda.com</a>. There will be a small charge for processing this request.<br>
-	<br>
-	<strong>Other Websites</strong><br>
-	<br>
-	Our website may have links to other websites. This privacy policy only applies to this website. You should therefore read the privacy policies of the other websites when you are using those sites.</p>
+
+<div class="error-message full js-modal-error-message modal-error-message hide" id="" >
+    
+</div>
+
+<div class="modal-success-message modal__success-message__reset-password hide">
+    You've successfully set your password, you can now log in.</div>
+
+    <div class="facebook-button-wrapper js-facebook-button-wrapper" data-msg-no-email="Sorry, your account with facebook cannot be registered because an email address is missing.">
+        
+<button class="facebook-button button " data-target-path="&#x2F;contents&#x2F;privacy.htm"><span class="facebook-button__content">
+                          <span class="facebook-button__logo">Facebook login</span></span></button>
+    </div>
+    <div class="login-separator">Or</div>
+
+<form class="login-form js-login-form"
+      action="/async_login_check"
+      method="post"
+      role="form"
+      id="login-form"
+      data-server-errors="&quot;{}&quot;"
+      novalidate
+>
+    <input type="hidden" name="_csrf_token" value="1554571045:NJwvchzFLQgQ9uOBRo6Lqx2j4YjA/LjRFetPZmkTpSKEV+J2IGVLQhbX/GsCHHQOLZRk0DYG4BPquaxS4uObAg==:c+ciGwiMLfV7ckGNLeSS8TLzp3ubCTq3gTTstDp4PEWqadPVUC3ioBP3IJ88erXJG9xzFhLem+M4nPFsysfSkg==" >
+    <input type="hidden" name="_target_path" value="/contents/privacy.htm" >
+
+    
+<div class="input-box js-input-box ">
+    <input type="email" class=" " id="username" name="_username" placeholder=" " value="" data-toggle="tooltip" data-validation-msg="The user name you entered is wrong or does not exist" required="true"/>
+    
+            <label for="username">Email</label>
+    </div>
+    
+<div class="input-box js-input-box ">
+    <input type="password" class=" " id="password" name="_password" placeholder=" " value="" data-toggle="tooltip" data-validation-msg="The password you entered is incorrect" required="true"/>
+    <a class="position-absolute__top-right login__password__forgot-password-link js-login__password__forgot-password-link">Forgot?</a>
+            <label for="password">Password</label>
+    </div>
+    
+<button class="button full modal__padding-left-right" type="submit">Login</button>
+</form>
+                    <div class="text-center login-registration-link">Don't have an account? <a class="register-link">Signup here</a></div>
+            </div>
+
+    </script>
+    <script type="text/template" id="template-registration">
+            <div class="modal__padding-left-right">
+        <h4 class="modal__h4 text-center">Register</h4>
+        <div class="modal__padding-left-right">
+    </div>
+<div class="error-message full modal-error-message hide" id="" >
+    
+</div>
+
+
+    <div class="facebook-button-wrapper" data-msg-no-email="Sorry, your account with facebook cannot be registered because an email address is missing.">
+        
+<button class="facebook-button button full " data-target-path="&#x2F;contents&#x2F;privacy.htm"><span class="facebook-button__content">
+                        <span class="facebook-button__logo">Register with Facebook</span></span></button>
+    </div>
+    <div class="login-separator">Or</div>
+<form class="registration-form" action="/customer"
+      method="post"
+      role="form"
+      data-server-errors="&quot;{}&quot;"
+      novalidate
+>
+        
+<div class="input-box js-input-box ">
+    <input type="text" class=" " id="contact-information-first-name" name="customer[first_name]" placeholder=" " value="" data-toggle="tooltip" data-validation-msg="Please enter your name" required="true"/>
+    
+            <label for="contact-information-first-name">First name</label>
+    </div>
+
+        
+<div class="input-box js-input-box ">
+    <input type="text" class=" " id="contact-information-last-name" name="customer[last_name]" placeholder=" " value="" data-toggle="tooltip" data-validation-msg="Please enter your last name" required="true"/>
+    
+            <label for="contact-information-last-name">Last name</label>
+    </div>
+
+        
+<div class="input-box js-input-box ">
+    <input type="email" class=" " id="contact-information-email" name="customer[email]" placeholder=" " value="" data-toggle="tooltip" data-validation-msg="Please enter a valid email" required="true"/>
+    
+            <label for="contact-information-email">Email</label>
+    </div>
+
+        
+<div class="input-box js-input-box ">
+    <input type="tel" class=" " id="contact-information-mobile-number" name="customer[mobile_number]" placeholder=" " value="" data-toggle="tooltip" data-validation-msg="Please enter a valid mobile phone number" required="true"/>
+    
+            <label for="contact-information-mobile-number">Mobile Number</label>
+    </div>
+
+        
+<div class="input-box js-input-box ">
+    <input type="password" class=" " id="password" name="customer[password]" placeholder=" " value="" data-toggle="tooltip" data-validation-msg="You password is too short. Please use a password with at least 6 characters." required="true"/>
+    
+            <label for="password">Password</label>
+    </div>
+
+    
+    
+<button class="button full " type="submit">Register</button>
+
+    <input type="hidden" name="_target_path" value="/contents/privacy.htm" >
+</form>
+        <div class="text-center login-registration-link">You have an account? <a class="login-link">Login</a></div>
+    </div>
+    </script>
+    <script type="text/template" id="template-forgot-password">
+            <h4 class="modal__h4 text-center">Request new password</h4>
+    <div class="modal__padding-left-right">
+
+        <form class="forgot-password-form" action="/customer/forgot_password" method="post" role="form" novalidate>
+            
+<div class="input-box js-input-box ">
+    <input type="email" class=" " id="email" name="_email" placeholder=" " value="" data-toggle="tooltip" data-validation-msg="Please enter a valid email address." required="true"/>
+    
+            <label for="email">Email</label>
+    </div>
+            
+<button class="button full modal__padding-left-right" type="submit">Submit</button>
+        </form>
+
+        <div class="text-center login-registration-link">You have an account? <a class="login-link">Login</a></div>
+    </div>
+    </script>
+
+    <script type="text/template" id="template-map-modal-dialog">
+    <div class="modal map-modal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content map-modal__content">
+                <div class="modal-close-button" data-dismiss="modal"></div>
+                <div class="modal-body clearfix">
+                    <div class="map-modal__header">
+                        <div class="map-modal__header-content"></div>
+                    </div>
+                    <div class="map-modal__map">
+                        <!-- map goes here -->
+                        <form class="map-modal__autocomplete">
+                            <div class="map-modal-address-wrapper">
+                                <div class="address-search-container input-box">
+                                    <input type="text" class="map-modal__autocomplete__input"
+                                        data-msg_error_empty="Please enter building name or house number and street address"
+                                        data-msg_error_postcode="You need to pinpoint your exact location. Please drag the map."
+                                        data-msg_error_city="You need to pinpoint your exact location. Please drag the map."
+                                        data-msg_error_building="Please drag the map to your exact location"
+                                        data-msg_error_not_found="The address you entered was not found. Please check it."
+                                        data-msg_title_building="Please enter your street number"
+                                        data-msg_title_default="Please drag the map to your exact location."
+                                        data-msg_title_not_unique='Please drag the map to your exact location.'
+                                        data-msg_error_geolocation='It was not possible to detect your location'
+                                        data-msg_title_insert_postcode="Please enter your address"
+                                        data-msg_title_street_building="Please enter your street and street number"
+                                    />
+                                    <div class="address-suggestions"></div>
+                                    <span class="locate-me">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23" id="ic-locate-round">
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#D70F64" d="M11.5 22.5v-2.986l.471-.028a8.001 8.001 0 0 0 7.515-7.515l.028-.471H22.5h-2.986l-.028-.471a8.001 8.001 0 0 0-7.515-7.515l-.471-.028V.5v2.986l-.471.028a8.001 8.001 0 0 0-7.515 7.515l-.028.471H.5h2.986l.028.471a8.001 8.001 0 0 0 7.515 7.515l.471.028V22.5z"/>
+        <circle cx="11.5" cy="11.5" r="4" stroke="#D70F64"/>
+        <circle cx="11.5" cy="11.5" r="1" fill="#D70F64"/>
+    </g>
+</svg>
+
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="error-message full map-modal__error-message hide" id="" >
+    
+</div>
+                        </form>
+                        <span class="map-modal__map-center-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="40"><defs><path id="ic-location-pin" d="M11 25.96a12 12 0 1 1 2 0V37h-2V25.96z"/><filter id="ic-location-pin-shadow" width="208.3%" height="174.3%" x="-54.2%" y="-31.4%" filterUnits="objectBoundingBox"><feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/></filter></defs><g fill="none" fill-rule="evenodd"><ellipse cx="12" cy="37" fill="#000" fill-opacity=".16" rx="8" ry="3"/><use fill="#000" filter="url(#ic-location-pin-shadow)" xlink:href="#ic-location-pin"/><use fill="#D60E63" xlink:href="#ic-location-pin"/></g></svg>
+                        </span>
+                        <form class="map-modal__submit">
+                            
+<button class="button map-modal__submit__button button--disabled js-map-submit" type="button">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+            <div class="self-service-entry-button-container">
+        <div id="self-service-entry-button-react-root"></div>
+    </div>
+
+    <script type="text/javascript">
+        window.VOLO = window.VOLO || {};
+
+        VOLO.selfServiceEntryButtonProps = {
+            translations: {
+                buttonText: 'Help\x20center'
+            }
+        };
+    </script>
+        <div class="page-wrapper ">
+                <script type="text/javascript">
+        window.VOLO = window.VOLO || {};
+        VOLO.tagManager = {};
+        VOLO.tagManager.referrer = 'https://www.foodpanda.co.th/restaurant/t7qi/olive-greek-mediterranean-cuisine1';
+        VOLO.tagManager.pageType = '';
+
+        VOLO.Translations = {
+            header: {
+                button_more: 'more',
+                button_less: 'less'
+            },
+            home: {
+                postal_index_form_please_select_option: 'Please select an option'
+            },
+            vendorTileTags: {
+                freeDelivery: 'Free\x20Delivery',
+                deal: 'Deal',
+                freeGift: 'Free\x20Gift',
+                promoted: 'Promoted',
+                featured: 'Featured',
+                newRestaurant: 'New',
+                bestInTheCity: 'Buy\x201\x20Get\x202'
+            },
+            vendorTileInfo: {
+                minOrder: 'minimum',
+                noMinOrder: '\x3Cstrong\x3ENo\x3C\x2Fstrong\x3E\x20minimum',
+                freeDelivery: '\x3Cstrong\x3EFree\x3C\x2Fstrong\x3E\x20delivery',
+                deliveryFee: 'delivery\x20fee',
+                pickUpIn: 'Pick\x20up\x20in',
+                delivery_time_suffix: 'min',
+                distanceKM: 'km',
+                distanceMeter: 'm',
+                fromYou: 'away',
+                loyaltyPercentageTitle: 'Loyalty\x20Bonus',
+            },
+            checkout: {
+                none: 'none'
+            }
+        };
+
+        VOLO.configuration = VOLO.configuration || {};
+        VOLO.configuration.features = {
+            user: {"key":"207.241.231.144","ip":"207.241.231.144","custom":{"country_code":"th","platform":"b2c","cookie_key":"207.241.231.144"},"anonymous":true},
+            flags: {"city-page-limit":200,"hero-image":false,"vendor-dh-recommendation":"recommendations-off","global-search-rlp":false,"use-optimizely":false,"mBanner":1,"upsell-drinks":false,"should-confirm-preorder":"2","apple-pay-inline-setup":false,"saved-address":true,"new-search-flow":"NA","parallel-calls-rlp":"NA","df-info-icon":false,"cancellation-button":false,"time-range":"NA","variations":true,"should-check-for-app-updates":false,"menu-platform-specific-products":false,"rider-chat":false,"disable-migration-banner":true,"using-sherlock-as-api":true,"mov":"On","item-counter":false,"sameday-preorder-popup":true,"best-price":false,"zopim-chat":true,"deals":true,"payios":false,"reviews":"On","download-personal-data":false,"establishment-as-building":true,"show-subtitles-on-otp":false,"global-search-rdp":false,"when-component":true,"tracking-card-web":true,"distance-on-pickup":true,"suggest-config":"Off","cookies-banner":false,"sold-out-items":false,"hide-credit-card-holder-name":false,"separate-vendor-chain-meta":true,"rdp-dialog-no-location":false,"variations-line-rdp":false,"od-vd-rlp":"NA","map-initial-address":"on","always-display-item-modifier":false,"aggregate-regions":false,"subscriptions":false,"ab_test_flags":"vendor-tile-extra-info,swimlanes,upsell-drinks,self-service,when-component,apple-pay-inline-setup,rider-map","shadow":"NA","group-order-split-allowance":true,"df":"On","self-service":true,"reactify-voucher-wallet":false,"voucher-wallet":true,"address-tooltip":2,"bottom-bar":"NA","self-reference-canonical":true,"show-restaurant-contact-information":false,"vendor-dh-reco":false,"swimlanes":"config-1","verticals":"[     {        \u0022title_key\u0022: \u0022NEXTGEN_RESTAURANT_ENTRY_TAB\u0022,        \u0022vertical_types\u0022: [\u0022restaurants\u0022],        \u0022title_icon_res\u0022: \u0022ic_restaurants\u0022     },     {        \u0022title_key\u0022: \u0022NEXTGEN_SHOPS_ENTRY_TAB\u0022,        \u0022vertical_types\u0022: [\u0022groceries\u0022],        \u0022title_icon_res\u0022: \u0022ic_groceries\u0022     }   ]","prevent-duplicated-orders":false,"quick-reorder-in-rdp":"quick-reorder-off","should-use-mapped-toppings":true,"ab-test-flags":"new-search-flow,swimlanes,wsb,self-service,new-payment-selector,rider-map,delay-gmap,quick-reorder-in-rdp","show-cutlery-toggle":false,"no-delivery-time-on-rlp-rdp-checkout":false,"vendor-tile-extra-info":true,"redirect-chain-vendors":false,"closed-on-rlp":"NA","disable-rider-banner":false,"wsb":"On","vendor-sorting":true,"rating":"On","verticals-web":"[   \t{         \t\t\u0022title_key\u0022: \u0022NEXTGEN_RESTAURANT_ENTRY_TAB\u0022, \t\t\u0022title_key_web\u0022: \u0022restaurants.entry_tab\u0022,         \t\t\u0022vertical_types\u0022: [\u0022restaurants\u0022],         \t\t\u0022title_icon_res\u0022: \u0022ic_restaurants\u0022      \t},      \t{         \t\t\u0022title_key\u0022: \u0022NEXTGEN_SHOPS_ENTRY_TAB\u0022, \t\t\u0022title_key_web\u0022: \u0022shops.entry_tab\u0022,         \t \t\u0022vertical_types\u0022: [\u0022shops\u0022],         \t\t\u0022title_icon_res\u0022: \u0022ic_groceries\u0022      \t}    ]","additional-information-on-checkout":false,"help-center-access":false,"ios-app-reviews":true,"new-city-page":true,"login-registration-tabs":true,"new-payment-selector":true,"dish-detailed-information":false,"ratings-reviews":true,"rider-map":false,"eta-range-otp":2,"brand":"foodpanda","pagination":true,"chained-place-order":false,"index-secondary-language":true,"rdp-dialog":false,"timed-menus":false,"free-scroll-in-swimlanes":true,"quick-filters":true,"exposed-filters":"Off","delay-gmap":"no-delay","loyalty":false,"auto-apply":false,"preorder-popup-on-rdp":false,"show-price-from-with-non-zero-topping-price":false,"always-map":"n\/a","where-component":true,"disable-smartphone-banner":false,"out-of-stock-component":"NA","item-modifier-redesign":"item-modifier-redesign-off","ios-app-reviews-not-after-first":false,"always-open-item-modifier-foo":false,"promo-banner":true},
+            clientId: "588b668dd61cf00908688c6f"
+        };
+
+        VOLO.configuration.brand = 'foodpanda';
+        VOLO.configuration.appboyApiKey = 'c75f4e31-446b-411a-8b95-3e6897427041';
+        VOLO.configuration.countryCode = 'th';
+        // check parameters.yml for iso_country_code doc
+        VOLO.configuration.isoCountryCode = 'th';
+        VOLO.configuration.platform = "b2c"
+        VOLO.configuration.locale = 'en';
+        VOLO.configuration.address_config = {"establishments":true,"map_enabled":true,"update_map_input":true,"autocomplete_type":["address"],"hide_checkout_postal_code":true,"required_fields":["street","city"],"google_api_response_fields":{"postal_code":["sublocality_level_2","sublocality_level_1","administrative_area_level_2"],"city":["locality","administrative_area_level_1"]},"form_mappings":{"street":"address_line1","postcode":"address_line3","floor":"floor"},"format":":building, :street, :plz, :city","valid_address_input":"\\D+","escape_address":false,"building_format":":establishment :number"}
+        VOLO.configuration.dhGeocodingEnable = true;
+        VOLO.configuration.dhGeocodingBaseUrl = 'https\x3A\x2F\x2Fgeocoder.deliveryhero.io\x2Fapi\x2Fv1';
+        VOLO.configuration.dhGeocodingToken = '38606d2d\x2D1091\x2D4f45\x2Daf20\x2De33a4a99d24a';
+        VOLO.configuration.vendor_display_address_format = ':street, :plz :city.';
+        VOLO.configuration.sessionId = '';
+        VOLO.configuration.googleTagManagerContainerId = 'GTM-N9RJXV';
+        VOLO.configuration.appVersion = '7dd7a44';
+        VOLO.configuration.smallScreenMaxSize = 768;
+        VOLO.configuration.anchorScrollSpeed = 500;
+        VOLO.configuration.facebookAppId = '1441869016037016';
+        VOLO.configuration.ldMd5FlagsSum = '4f3cbadec9bdc633af2bb8b76db4e7ab';
+        VOLO.configuration.hasCustomerSmsConfirmation = true;
+        VOLO.configuration.isSmsNeededForVoucher = false;
+        VOLO.configuration.showCharityTipOnCart = false;
+        VOLO.configuration.orderTracking = {
+            interval: 30000
+        };
+        VOLO.configuration.paypalconfig = {"sellerId":"BFUE594S36E3Q","environment":"production"};
+        VOLO.configuration.paypal_in_context = true;
+
+        // cart layout and animation
+        VOLO.configuration.cartBottomMargin = 50;
+        VOLO.configuration.itemsOverflowingClassName = 'checkout__summary-overflowing';
+        VOLO.configuration.timeZone = 'Asia/Bangkok';
+        VOLO.configuration.currencySymbol = 'THB';
+        VOLO.configuration.decimalSeparator = '.';
+        VOLO.configuration.hideDecimalInCurrency = false;
+        VOLO.configuration.dynamicDeliveryFeeTooltip = false
+        VOLO.configuration.minimum_order_value_setting = 'deny_bellow_minimum';
+        VOLO.configuration.upsell = {
+            upsellValue: 0,
+            isEnabled: false,
+            randomNumberQualifier: 5
+        };
+        VOLO.configuration.reorderEnabled = true;
+        VOLO.configuration.corporateApi = 'https://th.fd-api.com/b2b/v1';
+        VOLO.configuration.apiUrl = 'https://th.fd-api.com/api/v5';
+        VOLO.configuration.apiKey = 'volo';
+        VOLO.configuration.paginationOffset = 48;
+
+        VOLO.configuration.pickupEnabled = true;
+        VOLO.configuration.allergensEnabled = false;
+
+        VOLO.configuration.languageId = 1;
+        VOLO.configuration.foodprintApiUrl = 'https://th.fd-api.com/foodprint/v1';
+
+        VOLO.configuration.thumborKey = 'ee7eimahni3leegh6iopeech8ohchei6ohngohxohpeer4thooXehohHie4u';
+        VOLO.configuration.thumborServerUrl = 'https://thumbor.foodora.com';
+
+        VOLO.configuration.supportedCreditCardNetworks = ["visa","mastercard"];
+
+        VOLO.configuration.googlePayConfig = {"gateway":"adyen","gatewayMerchantId":"Foodpanda_TH","environment":"PRODUCTION","merchantId":"02833103059499303272"};
+
+        VOLO.configuration.preorderThreshold = 1;
+
+        VOLO.configuration.shouldGeocodeOnCheckout = true;
+        VOLO.configuration.googleApiClientId = "gme-deliveryheroholding"
+        VOLO.configuration.googleApiChannel = "foodora"
+        VOLO.configuration.googleMapLocale = "en_TH";
+        dataLayer = [];
+
+        VOLO.riderTip = {"enabled":false,"choices":[1,2,3,4],"showOnMenuPage":true,"percentActive":false};
+    </script>
+
+    <script type="text/javascript">
+                                                            VOLO.customerData = [];
+        VOLO.isGuest = true;
+        VOLO.corporateCustomerInfo = [];
+    </script>
+            <div class="content-wrapper menu-bg">
+                                            <main>
+                    <div class="hero-banner-wrapper">
+        <div class="hero-banner-content">
+            
+                        
+
+            
+            
+        
+    
+                
+            
+        
+    
+                
+            
+        
+    
+                
+            
+        
+    
+                
+            
+        
+    
+                
+            
+        
+    
+                
+            
+        
+    
+                
+            
+        
+    
+                
+            
+        
+    
+    
+<div class="b-lazy aspect-ratio-40-11 hero-banner" data-src="https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=2000&amp;height=500|https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=4000&amp;height=1000" data-src-bp_300="https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=300&amp;height=75|https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=600&amp;height=150" data-src-bp_400="https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=400&amp;height=100|https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=800&amp;height=200" data-src-bp_600="https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=600&amp;height=150|https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=1200&amp;height=300" data-src-bp_800="https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=800&amp;height=200|https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=1600&amp;height=400" data-src-bp_1000="https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=1000&amp;height=250|https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=2000&amp;height=500" data-src-bp_1200="https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=1200&amp;height=300|https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=2400&amp;height=600" data-src-bp_1400="https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=1400&amp;height=350|https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=2800&amp;height=700" data-src-bp_biggest="https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=2000&amp;height=500|https://images.deliveryhero.io/image/foodpanda/cms-hero.jpg?width=4000&amp;height=1000"></div>
+            <div class="hero-banner-content__header">
+                <h1 class="hero-banner-content__title">Privacy policy | foodpanda</h1>
+            </div>
+        </div>
+    </div>
+    <div class="static-page__blocks-wrapper" data-no-turbolink="">
+        <div class="static-page__blocks">
+            <div class="static-page__block">
+                <p><strong>	Introduction</strong><br></p><p>
+This policy explains how we, FOODPANDA (Thailand) Co., Ltd. (hereinafter referred to as “foodpanda”), use the personal information which you provide to us when using our service, including but not limited to our website and mobile applications (jointly referred as “Website”).
+Please read this Privacy Policy and understand it before using our services. By visiting and/or ordering services on this Website, you agree and, where required, consent to the collection, use and transfer of your information as set out in this policy.
+</p><p><br><strong>	What information do we collect about you?</strong><br></p><p>
+We collect personal information from you when you order goods or services from us or use our Website. We also collect information when you complete any customer survey. Website usage information may also be collected using cookies (as defined below).
+foodpanda will collect information that personally identifies you and/or your location, where required (this may include your name, email address, home address, telephone number, geolocation, etc.), but only when you voluntarily give it to us. We collect this information exclusively to carry out the functions offered on the Website and to provide you with offers and information about foodpanda and other services we think you may be interested in. We might collect this personal information through: online food ordering; entry into competitions; subscribing to our newsletter; creating a user account; sending 'contact us' messages or other correspondence through the Website; or through advertising, research and direct marketing.
+We do not collect sensitive information about you.
+</p><p><br><strong>Cookies </strong><br></p><p>
+Some of the information collected will not personally identify you but will instead track your use of the Website so that we can better understand how the Website is used by customers and in turn enhance and improve your experience in ordering food. We may obtain this information by use of cookies. Cookies are a small data file transferred to your device that recognises and identifies your device and allows your device to 'remember' information from the Website for future use. Cookies do not contain any information that personally identifies you and we do not use cookies in order to obtain such information - your personal information can only be obtained by foodpanda if you actively provide it to us. We may collect technical information from your mobile device or your use of our services through a mobile device, for example, location data and certain characteristics of, and performance data about your device, carrier/operating system including device and connection type, IP address, mobile payment methods, interaction with other retail technology such as use of NFC Tags, QR Codes or use of mobile vouchers. Your device and/or the web browser should allow you to refuse cookies if you wish by changing the settings.
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
+</p><p><br><strong>	Storage and security of your personal information</strong><br></p><p>
+foodpanda will use all reasonable endeavours to maintain the security of your personal information and to protect your personal information from misuse, interference and loss and against unauthorised access, modification or disclosure. foodpanda will destroy any personal information it holds about you which it no longer requires under the terms of this Privacy Policy.
+Where you have chosen a password to access certain services of the Website, you are responsible for keeping your password confidential. We recommend not sharing your password with anyone.
+Due to the nature of the internet, foodpanda does not provide any guarantee or warranty regarding the security of your personal information during transmission to us or storage by us and you acknowledge that you disclose your personal information to us at your own risk. Please contact us immediately if you become aware or have reason to believe there has been any unauthorised use of your personal information in connection with the Website.
+</p><p><br><strong>	How will we use the information we collect from you?</strong><br></p><p>
+You consent to foodpanda collecting and using your personal information for processing and delivering the order/s placed on the Website and any other service provided through the Website. In particular you expressly consent that foodpanda may disclose your personal information, including your name, email address, physical address and telephone number to riders delivering your order, either employed by foodpanda or by third parties providing delivery services to foodpanda.
+You consent to foodpanda using your personal information for advertising and direct marketing purposes in order to inform you about the Website and the goods and services it provides, or other matters that it believes will be of interest to you.
+foodpanda may disclose your personal information, and you consent to the disclosure of your personal information, to:</p><p>
+
+
+- other entities within the foodpanda group of companies;</p><p>
+- third parties engaged by foodpanda or other members of the foodpanda group to perform functions or provide products and services on our behalf such as processing payments, mail outs, debt collection, research, statistical information, marketing and direct or indirect advertising.</p><p>
+If you would like to unsubscribe from receiving direct marketing communications from foodpanda or do not want us to share your personal information with other parties, please e-mail us at contact@foodpanda.co.th or follow the steps to unsubscribe which are presented in every communication you receive from us, requesting your personal information be removed from our mailing list. We will use reasonable endeavours to comply with your request within a reasonable period of receipt of your request.
+Please note that the withdrawal of any authorisations for processing of your personal information by third parties may result in us not being able to provide you with any services. 
+
+foodpanda reserves the right to disclose your personal information if it is required or authorised to do so by law, or, if it is reasonably necessary in its opinion to protect the rights or property of foodpanda or any third party, or to avoid injury to any person.
+If the foodpanda business is sold or merges with another entity then some or all of your personal information may be passed to a third party. 
+</p><p><br><strong>	Access to your information</strong><br></p><p>
+foodpanda will use all reasonable endeavours to keep personal information it holds accurate, complete, up-to-date, relevant and not misleading. Please contact us if you would like to access the personal information foodpanda holds about you. We will use reasonable endeavours to provide a complete list of your personal information within a reasonable period of receipt of your request. Please email us if you would like to receive a copy of this information – contact@foodpanda.co.th.  Foodpanda reserves the right to charge a nominal fee for the processing of this request in accordance with local legislation.
+You may contact us to correct any of your personal information that is inaccurate, incomplete or out-of-date, or to request that your personal information be deleted. We will use reasonable endeavours to correct or delete your personal information as requested within a reasonable period of receipt of your request. 
+Deletion of your account with foodpanda will not automatically delete the personal information held about you. If you would like foodpanda to delete all personal information together with the deletion of your account, please follow the steps mentioned-above. 
+Please note that the deletion of your personal information from our database will result in us not being able to provide you with any services. 
+If applicable, any legal requirement on us to maintain certain records of your personal information shall prevail over any of your requests. We may require you to prove your identity before providing you with copies of your personal information.
+</p><p><br><strong>	Changes to our Privacy Policy</strong><br></p><p>
+Foodpanda reserves the right to alter all or any part of this Privacy Policy. Any changes thereto will be notified via the Website and, where appropriate, through e-mail notification.
+</p><p><br><strong>	Other Websites</strong><br></p><p>
+Our Website may have links to other websites. This privacy policy only applies to the Website. You should therefore read the privacy policies of the other websites when you are using those sites.
+</p><p><br><strong>	Contact</strong><br></p><p>
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to: contact@foodpanda.co.th.
+            </p></div>
+        </div>
+    </div>
+            </main>
+            </div>
+                <footer class="footer footer-full js-footer">
+                    <div class="footer__wrapper__top">
+            <div class="footer__subscribe__txt">
+            <p>Want vouchers and the latest news from our restaurants? <b>Get our weekly email:</b></p>
+        </div>
+        <div id="footer-subscribe-react-root">
+        </div>
+
+
+        
+<div class="footer-logo-wrapper">
+    <div class="footer__logo">
+        <div>
+            <span><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1366 346" style="enable-background:new 0 0 1366 346;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D70F64;}
+</style>
+<g class="svg-stroke-container">
+	<g>
+		<path class="st0" d="M305.1,129.9h18.7v-17.3c0-21,11.7-35,35-35l11.7,2.3v21l-12.8-2.3c-7,0-10.5,4.7-10.5,11.7v19.6h23.3v21
+			h-23.3v88.7h-23.3v-88.7h-18.7V129.9z"></path>
+		<path class="st0" d="M430.9,127.6c30.3,0,57.2,23.3,57.2,57.2c0,33.8-26.8,57.2-57.2,57.2c-30.3,0-57.2-23.3-57.2-57.2
+			C373.8,150.9,400.6,127.6,430.9,127.6z M430.9,220.9c22.2,0,33.8-16.3,33.8-36.2c0-19.8-11.7-36.2-33.8-36.2
+			c-22.2,0-33.8,16.3-33.8,36.2C397.1,204.6,408.8,220.9,430.9,220.9z"></path>
+		<path class="st0" d="M555.5,127.6c30.3,0,57.2,23.3,57.2,57.2c0,33.8-26.8,57.2-57.2,57.2s-57.2-23.3-57.2-57.2
+			C498.4,150.9,525.2,127.6,555.5,127.6z M555.5,220.9c22.2,0,33.8-16.3,33.8-36.2c0-19.8-11.7-36.2-33.8-36.2
+			c-22.2,0-33.8,16.3-33.8,36.2C521.7,204.6,533.4,220.9,555.5,220.9z"></path>
+		<path class="st0" d="M735,239.6h-21l-2.3-9.3l-1.2-1.2l-1.2,1.2c-7,7-18.7,11.7-30.3,11.7c-30.3,0-56-23.3-56-57.2
+			c0-33.8,25.7-57.2,56-57.2c11.4,0,23.3,4.7,30.3,11.7l1.2,1.2l1.2-1.2V77.6H735V239.6z M680.2,148.6c-22.2,0-34.1,16.3-34.1,36.2
+			c0,19.8,11.9,36.2,34.1,36.2c19.8,0,33.8-16.3,33.8-36.2C714,164.9,700,148.6,680.2,148.6z"></path>
+		<path class="st0" d="M758.4,129.9h21l2.1,9.3l1.4,1.2l1.2-1.2c7-7,18.7-11.7,30.3-11.7c30.3,0,56,23.3,56,57.2
+			c0,33.8-25.7,57.2-56,57.2c-11.4,0-23.3-4.7-30.3-11.7l-1.2-1.2l-1.4,1.2V289h-23.1V129.9z M813.2,220.9
+			c22.2,0,33.8-16.3,33.8-36.2c0-19.8-11.7-36.2-33.8-36.2c-19.8,0-33.8,16.3-33.8,36.2C779.4,204.6,793.4,220.9,813.2,220.9z"></path>
+		<path class="st0" d="M929.1,171.5h19.1v-4.8c0-13.2-9-19.3-21.5-19.3c-10.1,0-16.9,4.8-20.6,14.7l-20.9-4.4
+			c4.6-18.7,20.6-30.5,41.7-30.5c29.4,0,44.1,14.5,44.1,43.7v68.7h-19.3l-2.2-14.5c-7.7,10.8-19.1,16.3-34.3,16.3
+			c-19.5,0-34-11.6-34-33.6C881.2,185.1,900.4,171.5,929.1,171.5z M919.2,221.1c7.7,0,14.5-2.4,20.2-7.2c5.9-5.1,8.8-11.9,8.8-20.9
+			v-2.4h-20c-14.1,0-22.8,6.6-22.8,17.1C905.4,215.6,910.2,221.1,919.2,221.1z"></path>
+		<path class="st0" d="M992.6,129.9h21l2.3,9.3l1.2,1.2l1.2-1.2c4.7-7,16.3-11.7,25.7-11.7c28,0,44.3,18.7,44.3,44.3v67.7h-23.3
+			v-67.7c-0.7-14.9-7.9-23.3-23.3-23.3c-13.8,0-25.2,11.2-25.7,24.7v66.3h-23.3V129.9z"></path>
+		<path class="st0" d="M1215.3,239.6h-21l-2.3-9.3l-1.2-1.2l-1.2,1.2c-7,7-18.7,11.7-30.3,11.7c-30.3,0-56-23.3-56-57.2
+			c0-33.8,25.7-57.2,56-57.2c11.4,0,23.3,4.7,30.3,11.7l1.2,1.2l1.2-1.2V77.6h23.3V239.6z M1160.4,148.6
+			c-22.2,0-34.1,16.3-34.1,36.2c0,19.8,11.9,36.2,34.1,36.2c19.8,0,33.8-16.3,33.8-36.2C1194.3,164.9,1180.3,148.6,1160.4,148.6z"></path>
+		<path class="st0" d="M1281.7,171.5h19.1v-4.8c0-13.2-9-19.3-21.5-19.3c-10.1,0-16.9,4.8-20.6,14.7l-20.9-4.4
+			c4.6-18.7,20.6-30.5,41.7-30.5c29.4,0,44.1,14.5,44.1,43.7v68.7h-19.3l-2.2-14.5c-7.7,10.8-19.1,16.3-34.3,16.3
+			c-19.5,0-34-11.6-34-33.6C1233.8,185.1,1252.9,171.5,1281.7,171.5z M1271.8,221.1c7.7,0,14.5-2.4,20.2-7.2
+			c5.9-5.1,8.8-11.9,8.8-20.9v-2.4h-20c-14.1,0-22.8,6.6-22.8,17.1C1258,215.6,1262.8,221.1,1271.8,221.1z"></path>
+	</g>
+	<g>
+		<path class="st0" d="M142.1,205.3c13.5,0,24.4-9.6,24.4-21.4h-48.7C117.8,195.7,128.6,205.3,142.1,205.3z"></path>
+		<g>
+			<path class="st0" d="M224.4,103.3c5.5-4.8,9.1-11.8,9.1-19.8c0-14.4-11.7-26.1-26.2-26.1c-9.3,0-17.4,4.8-22,12
+				c-13-6.3-27.6-9.9-43-9.9c-15.4,0-30,3.5-43,9.8c-4.7-7.2-12.7-12-22-12c-14.4,0-26.2,11.7-26.2,26.1c0,7.9,3.5,15,9,19.7
+				c-10.7,15.8-17,34.9-17,55.4c0,54.7,44.5,99.1,99.1,99.1c54.6,0,99.1-44.4,99.1-99.1C241.4,138.2,235.1,119.1,224.4,103.3z
+				 M142.3,250.1c-50.4,0-91.4-41-91.4-91.4c0-19,5.8-36.6,15.7-51.2c9-13.2,21.4-24,35.8-31c12-5.9,25.5-9.2,39.8-9.2
+				c14.3,0,27.8,3.3,39.9,9.2c14.5,7,26.8,17.8,35.8,31c9.9,14.6,15.7,32.2,15.7,51.2C233.7,209.1,192.7,250.1,142.3,250.1z"></path>
+			<path class="st0" d="M142.1,177.8c1.5,0.4,17.2-4.9,17.2-12.3c0-4.1-12.7-4.9-17.2-4.9c-4.4,0-17.2,0.8-17.2,4.9
+				C124.9,172.9,140.6,178.2,142.1,177.8z"></path>
+			<path class="st0" d="M199.7,115.8c-8.6-5.7-27.7-9.1-35.1,0.8c0,0-9.4,10.1-0.2,20.6c9.3,10.5,16.4,20.3,18.5,28.8
+				c2.1,8.5,5.5,12,12.4,12.1c6.9,0,20.1-10.5,21.8-27.4C218.8,133.8,208.3,121.4,199.7,115.8z M180,137.4c-2.9,0-5.2-2.3-5.2-5.2
+				c0-2.9,2.4-5.2,5.2-5.2c2.9,0,5.2,2.3,5.2,5.2C185.1,135,182.8,137.4,180,137.4z"></path>
+			<path class="st0" d="M119.6,116.5c-7.5-9.8-26.6-6.5-35.1-0.8c-8.6,5.7-19.1,18-17.4,34.9c1.6,16.9,14.9,27.4,21.8,27.4
+				c6.9,0,10.3-3.5,12.4-12.1c2.1-8.5,9.3-18.3,18.5-28.8C129,126.6,119.6,116.5,119.6,116.5z M105.8,137.4c-2.9,0-5.2-2.3-5.2-5.2
+				c0-2.9,2.3-5.2,5.2-5.2c2.9,0,5.2,2.3,5.2,5.2C110.9,135,108.6,137.4,105.8,137.4z"></path>
+		</g>
+	</g>
+</g>
+</svg>
+</span>
+                    </div>
+        <div>
+                    </div>
+    </div>
+
+                <div class="footer__social">
+            <ul>
+            <li>
+                <a href="https://www.facebook.com/FoodpandaThailand/" target="_blank">
+                    <i class="icon-ic_social_fb"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/foodpandathailand/" target="_blank">
+                    <i class="icon-ic_social_instagram"></i>
+                </a>
+            </li>
+</ul>
+        </div>
+    </div>
+
+</div>
+
+    
+    <script type="text/javascript">
+        window.VOLO = window.VOLO || {};
+
+        VOLO.footerInitialState = {
+            newsletterSubscribe: {
+                cities: [{"id":983099,"name":"Bangkok","is_top_city":null,"url_key":"bangkok","main_area":{}},{"id":1091714,"name":"Chiang Mai","is_top_city":null,"url_key":"chiang-mai","main_area":{}},{"id":1358278,"name":"Hat Yai","is_top_city":false,"url_key":"hat-yai","main_area":{}},{"id":654526,"name":"Hua Hin","is_top_city":null,"url_key":"hua-hin","main_area":{}},{"id":1350643,"name":"Khon Kaen","is_top_city":null,"url_key":"khon-kaen","main_area":{}},{"id":1358275,"name":"Korat","is_top_city":null,"url_key":"korat","main_area":{}},{"id":1151444,"name":"Nonthaburi","is_top_city":null,"url_key":"nonthaburi","main_area":{}},{"id":1180815,"name":"Pathum Thani","is_top_city":null,"url_key":"pathum-thani","main_area":{}},{"id":4192,"name":"Pattaya","is_top_city":null,"url_key":"pattaya","main_area":{}},{"id":791508,"name":"Phuket","is_top_city":null,"url_key":"phuket","main_area":{}},{"id":1250275,"name":"Samut Prakan","is_top_city":null,"url_key":"samut-prakan","main_area":{}},{"id":1306351,"name":"Samut Sakhon","is_top_city":null,"url_key":"samut-sakhon","main_area":{}},{"id":1358277,"name":"Ubon Ratchathani","is_top_city":false,"url_key":"ubon-ratchathani","main_area":{}},{"id":1358276,"name":"Udon Thani","is_top_city":false,"url_key":"udon-thani","main_area":{}}],
+                selectedCity: "",
+                emailValue: "",
+                translations: {
+                    signupButton: 'Signup\x20now',
+                    emailPlaceholder: 'Email',
+                    emailValidationError: 'Please\x20enter\x20a\x20valid\x20email\x20address.',
+                    cityValidationError: 'Please\x20select\x20your\x20city.',
+                    cityPlaceholder: 'City',
+                    successMessage: 'You\x20have\x20successfully\x20subscribed\x20to\x20our\x20newsletter'
+                }
+            }
+        };
+
+    </script>
+
+        
+        
+                    
+<div class="footer__wrapper__middle">
+                                    
+<a class="button-ghost footer__language-switch" href="/th/contents/privacy.htm">ไทย</a>
+                                
+<a class="button-ghost footer__language-switch" href="/ja/contents/privacy.htm">日本語</a>
+            
+    <nav class="footer__nav">
+	<ul>
+		<li>
+			<a href="https://www.foodpanda.co.th/contents/about.htm">About us</a></li>
+<li>
+			<a href="https://www.foodpanda.co.th/contents/press.htm">Press</a></li>
+
+                <li class="contact-link"><a href="https://www.foodpanda.co.th/help-center" data-no-turbolink="true" target="_blank">Help Center</a>
+                </li>
+		<li>
+			<a href="https://www.foodpanda.co.th/contents/terms-and-conditions.htm">Terms and conditions </a></li>
+		<li>
+			<a href="https://www.foodpanda.co.th/contents/privacy.htm">Privacy policy </a></li>
+
+		<li>
+			<a href="https://foodpandasg.formstack.com/forms/becomeapartner_th_en">Partner with us</a></li>
+
+		<li>
+			<a href="https://www.foodpanda.co.th/contents/jobs">Careers at foodpanda </a></li>
+		<li>
+			<a href="https://www.foodpanda.co.th/contents/foodpandacares">foodpanda cares</a></li>
+		<li>
+			<a href="https://www.foodpanda.co.th/contents/foodpanda-partnership-promotion">Promotions &amp; Discount Codes</a></li>
+		<li>
+			<a href="https://www.foodpanda.co.th/contents/free-delivery">Free Delivery</a></li>
+	</ul>
+</nav>
+<div class="footer__disclaimer">
+	© 2019 foodpanda</div>
+</div>
+
+        
+                                    <div class="footer__wrapper__bottom" data-no-turbolink="">
+    <div class="footer__popular">
+	<h4><a href="https://www.foodpanda.co.th/city/bangkok">Food delivery in Bangkok</a></h4>
+<p>	
+		</p><li><a href="https://www.foodpanda.co.th/restaurant/u5mq/jaw-nuew">Jaw Nuew</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u4el/kuruma-sushi-restaurant">Kuruma Sushi &amp; Restaurant</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/t3pz/holey-artisan-bakery">Holey Artisan Bakery</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u3qk/new-york-style-steak-and-burger">New York Style Steak and Burger</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u3eg/allmeatmore">Allmeatmore</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u4yn/zest">Zest</a>
+
+<p></p>
+
+	<h4><a href="https://www.foodpanda.co.th/city/chiang-mai">Food delivery in Chiang Mai</a></h4>
+<p>
+		</p></li><li><a href="https://www.foodpanda.co.th/restaurant/u3ln/pure-o-cha">Pure O Cha</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u9gk/yumototei">Yumototei</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/t8tv/kuakai-nimman">Kuakai Nimman</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/t9cb/vegan-heaven-chiang-mai">Vegan Heaven</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u9cg/ruen-rom-sai">Ruen Rom-Sai</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u2bd/kangsadan-bar-restaurant">Kangsadan Bar &amp; Restaurant</a>
+<p></p>
+</li></div>
+
+<div class="footer__popular">
+	<h4><a href="https://www.foodpanda.co.th/city/phuket">Food Delivery in Phuket</a></h4>
+<p>
+		</p><li><a href="https://www.foodpanda.co.th/restaurant/u8la/rim-bueng-restaurant">Rim Bueng Restaurant</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u6fr/hia-hoy">Hia Hoy</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u6du/totti-seafood">Totti Seafood</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u9ci/black-pepper-restaurant">Black Pepper Restaurant</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u2qn/super-zab-gai-super">Super Zab Gai Super</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u7nb/kaembum-steak">Kaembum Steak</a>
+<p></p>
+
+	<h4><a href="https://www.foodpanda.co.th/city/pattaya">Food Delivery in Pattaya</a></h4>
+<p>
+		</p></li><li><a href="https://www.foodpanda.co.th/restaurant/t6dq/76-subway-walking-street">Subway</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/t9ia/14-smokin-joe-s-bbq">Smokin Joe's BBQ</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/t0lr/30-alibaba">Alibaba</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/t8tn/04-pattayanis">Pattayanis</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/t7jy/70-the-sportsman">The Sportsman</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/t4xv/99-party-food">Party Food</a>
+<p></p>
+</li></div>
+
+<div class="footer__popular">
+	<h4><a href="https://www.foodpanda.co.th/city/samut-prakan">Food delivery in Samut Prakan</a></h4>
+<p>
+		</p><li><a href="https://www.foodpanda.co.th/restaurant/u2yo/ban-pla-jum">Ban Pla Jum</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u0jw/crab-club">Crab Club</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u8mo/kod-kraprow-tae">Kod Kraprow Tae</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u3to/sugoi-ramen-khon-kaen">Sugoi Ramen</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u3dm/hippo-house">Hippo House</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u6an/light-house">Light House</a>
+<p></p>
+
+	<h4>Food delivery in <a href="https://www.foodpanda.co.th/city/hua-hin">Hua Hin</a> and <a href="https://www.foodpanda.co.th/city/korat">Korat</a></h4>
+<p>
+		</p></li><li><a href="https://www.foodpanda.co.th/restaurant/u3fy/look-chin-mae-pra-norm">Look Chin Mae Pra Norm</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u4tg/baan-thalia">Baan Thalia</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u3ds/mhala-5-o-clock">Mhala 5 O'clock</a>, 
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u0qj/utopia-station">Utopia Station</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u5ch/aim-aem">Aim Aem</a>,
+		</li><li><a href="https://www.foodpanda.co.th/restaurant/u7wy/daeng-pedyang">Daeng Pedyang</a>
+<p></p>
+</li></div>
+
 <p>
 	&nbsp;</p>
 
-                    </div>
-
-            </div>
-        </div>
-    </main>
-
-                    </div>
-                <div class="mobile-apps">
-                    <div class="mobile-apps__container">
-                <div class="mobile-apps__inner">
-                                        <img alt="foodpanda mobile app" class="mobile-apps__banner" width="198" height="244" src="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/mobile_app.png?v=1470719568">
-                    <div class="mobile-apps__shadow"></div>
-
-                    <div class="mobile-apps__content">
-                        <div class="mobile-apps__title">
-                            foodpanda in your pocket!
-                        </div>
-                        <p class="mobile-apps__tagline">
-                            Get our app, it's the fastest way to order food on the go.
-                        </p>
-
-                        <div class="mobile-apps__icons">
-                                                            <a href="https://app.adjust.io/f6igys?campaign=TH_Homepage_iOS&amp;deep_link=foodpanda%3A%2F%2F%3Fc%3DTH%26s%3Ds%0A" target="_blank" class="app-icon" rel="nofollow">
-                                    <img alt="App Store" width="152" height="45" src="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/app-icon-ios.png?v=1470719568">
-                                </a>
-                                <br>
-                            
-                                                            <a href="https://app.adjust.io/dfv9zs?campaign=TH_Homepage_Android&amp;deep_link=foodpanda%3A%2F%2F%3Fc%3DTH%26s%3Ds%0A" target="_blank" class="app-icon" rel="nofollow">
-                                    <img alt="Google Play" width="129" height="45" src="//asia-public.foodpanda.com/assets/production/th/layout/themes/capricciosa_foodpanda/images/en/app-icon-android.png?v=1470719568">
-                                </a>
-                                <br>
-                                                    </div>
-                    </div>
-                </div>
-            </div>
-            </div>
-
-
-                    <footer>
-            <div class="container">
-                                                                                                <div class="newsletter js-newsletter" id="newsletter">
-                    <div class="newsletter__title">Subscribe to our newsletter:</div>
-            <div class="newsletter__usp">
-                <ul class="newsletter__usp__list">
-                    <li>Don't miss out on our great offers</li>
-                    <li>Receive deals from all our top restaurants via e-mail</li>
-                </ul>
-            </div>
-
-                            <form action="/newsletter/subscribe" method="post" class="form-vertical" novalidate="">
-                    <div class="newsletter__form">
-                            <input type="hidden" id="newsletter_subscribe__token" name="newsletter_subscribe[_token]" value="yoeBqc1GANRkJAsK-1zzEU6zi7tPpM7SW3thD7R83Ow">
-                        <div class="newsletter__form__city ">
-                                <select id="newsletter_subscribe_city" name="newsletter_subscribe[city]" required="required" class="form-control input-lg" data-prefill="location.cityId"><option value="" selected="selected">Please select your city</option><optgroup label="Popular Cities"><option value="1">Bangkok</option><option value="5">Chiang Mai</option><option value="2">Pattaya</option><option value="12">Phuket</option><option value="7">Samut Prakan</option></optgroup><optgroup label="More Cities"><option value="16">Hua Hin</option><option value="10">Nonthaburi</option><option value="11">Pathum Thani</option><option value="15">Samut Sakhon</option></optgroup></select>
-                                
-                        </div>
-                        <div class="newsletter__form__email ">
-                                <input type="email" id="newsletter_subscribe_email" name="newsletter_subscribe[email]" required="required" class="form-control input-lg" placeholder="Enter your e-mail" data-prefill="customer.email">
-                                
-                        </div>
-                        <div class="newsletter__form__submit">
-                            <button type="submit" id="newsletter_subscribe_subscribe" name="newsletter_subscribe[subscribe]" class="btn btn-primary btn-lg btn-block">Sign up now</button>
-                        </div>
-                                                    <div class="newsletter__form__terms_and_conditions">
-                                <input type="checkbox" id="newsletter_subscribe_termsAndConditionsAccepted" name="newsletter_subscribe[termsAndConditionsAccepted]" required="required" value="1">
-
-                                        
-        <label class="required" for="newsletter_subscribe_termsAndConditionsAccepted">            I have read and accepted the <a target="_blank" href="/contents/terms-and-conditions.htm">Terms and conditions</a> and <a target="_blank" href="/contents/privacy.htm">Privacy policy</a>
-                </label>
-                                    
-                        </div>
-                                            </div>
-                </form>
-                    
-        <script>
-            FD.setControllerConfig('Newsletter', 'enable', true);
-        </script>
-    </div>
-
-                        
-                                                    <div class="footer-block footer-block--no-mobile-separator">
-        <div class="row">
-                            <div class="footer-related footer-links">
-                    <div class="footer-links__title">Popular cities</div>
-                    <ul class="unstyled">
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok">Food delivery Bangkok</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/pattaya">Food delivery Pattaya</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/chiang-mai">Food delivery Chiang Mai</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/hua-hin">Food delivery Hua Hin</a></li>
-	<li>
-                <a href="https://www.foodpanda.co.th/restaurants/city/samut-prakan">Food delivery Samut Prakan</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/nonthaburi">Food delivery Nonthaburi</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/pathum-thani">Food delivery Pathum Thani</a></li>
-</ul>
-<h4>
-	<strong>Most Popular in Bangkok</strong></h4>
-<ul>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/pizza">Pizza delivery</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/japanese">Japanese Restaurant Bangkok</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/thai">Thai Restaurant Bangkok</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/desserts">cake delivery</a></li>
-</ul>
-                </div>
-            
-                            <div class="footer-related footer-links">
-                    <div class="footer-links__title">Popular cuisines</div>
-                    <ul class="unstyled">
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/thai">Thai food menu </a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/desserts">Cake &amp; Desserts menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/indian">Indian food menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/pizza">Pizza menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/japanese">Japanese food menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/sushi">Sushi menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/vietnamese">Vietnamese food menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/noodles">Noodles menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/chinese">Chinese food menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/mexican">Mexican food menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/breakfast">Breakfast menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/italian">Italian food menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/american">American food menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/salads-healthy-diet">Clean food &amp; Salad &amp; Healthy diet menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/chicken">Chicken menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/seafood">Seafood menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/sandwiches">Sandwiches menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/burger">Burger menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/bakery-café">Bakery &amp; Cafe menu</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants/city/bangkok/cuisines/isaan">Isaan food menu</a></li>
-
-</ul>
-                </div>
-            
-                            <div class="footer-related footer-links">
-                    <div class="footer-links__title">Popular restaurants</div>
-                    <ul class="unstyled">
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t8ea/mcdonalds-bangkok">McDonald's Delivery (Bangkok)</a></li>
-        <li>
-		<a href="https://www.foodpanda.co.th/restaurant/ce5hf/bonchon-chicken/">Bonchon Chicken</a></li>
-        <li>
-		<a href="https://www.foodpanda.co.th/restaurant/t2kr/pizza-hut/">Pizza Hut</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t5jf/pizza-mania">Pizza Mania</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t6ca/scoozi-pizzeria-italiana">Scoozi Pizza</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t0ky/pala-pizza-romana">Pala Pizza Romana</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/cd3lh/au-bon-pain">Au Bon Pain</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t4pw/le-lapin-sandwich-delivery">Le Lapin Sandwich Delivery</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t7ln/subway">Subway</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t6ev/beirut-restaurant-sukhumvit-39">Beirut (Sukhumvit 39)</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t3in/dressed-mercury-ville">Dressed (Mercury Ville - Sukhumvit)</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t0eq/bourbon-street">Bourbon Street</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t1ny/ootoya-bangkok">Ootoya</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/cn6tf/kyochon">Kyochon</a></li>
-        <li>
-		<a href="https://www.foodpanda.co.th/restaurant/co6vz/oishi-delivery/">Oishi delivery</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t4ro/hongkong-noodle">Hongkong Noodle</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/ct5ei/mos-burger-chit-lom">MOS Burger</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/cd3tm/the-terrace">The Terrace</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t5ev/bei-otto-deli">Bei Otto</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurant/t9ks/burger-factory">BURGER FACTORY</a></li>
-	<li>
-		<a href="https://sukishi.foodpanda.co.th/">Sukishi</a></li>
-	<li>
-		<a href="http://www.door2doorpattaya.com/">Door 2 Door Pattaya</a></li>
-	<li>
-		<a href="http://www.wowpattaya.com/">Waiter on Wheels Pattaya</a></li>
-	<li>
-		<a href="https://www.foodpanda.co.th/restaurants">All restaurants</a></li>
-
-</ul>
-                </div>
-            
-                            <div class="footer-related footer-links">
-                                                                                                <div class="footer-links__title">foodpanda</div>
-                            <ul>
-                                                                    <li>
-                                        <a href="/contents/about.htm">
-                                            About us
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/press.htm">
-                                            Press
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/contact.htm">
-                                            Contact
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/terms-and-conditions.htm">
-                                            Terms and conditions
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/privacy.htm">
-                                            Privacy policy
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/how-it-works">
-                                            How it Works
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/apps">
-                                            Free app for iOS, Android and Windows
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/corporate">
-                                            Corporate accounts
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/certified-partner">
-                                            Certified partner
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/panda-cares.htm">
-                                            Panda is here for you
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/foodpandacares">
-                                            foodpanda cares
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/Careers">
-                                            Careers
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/partnership-2016">
-                                            Promotions &amp; Discounts from foodpanda's Partners
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/blog">
-                                            Food &amp; Restaurant Reviews | Bangkok Travel Guide | Event, Lifestyle, Trends Update 2016 | foodpanda Magazine
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/Follow%20foodpanda">
-                                            Follow foodpanda
-                                        </a>
-                                    </li>
-                                                                    <li>
-                                        <a href="/contents/Become-foodpanda-restaurant">
-                                            How to become foodpanda's restaurant
-                                        </a>
-                                    </li>
-                                                            </ul>
-                                                            </div>
-                    </div>
-    </div>
-
-                <div class="footer-block footer-links footer-social">
-            <div class="footer-links__title">Get in touch</div>
-            <ul>
-                <li><a href="http://www.twitter.com/foodpanda_th" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/th/images/static/icons/twitter_sq.png"></a></li><li><a href="https://www.facebook.com/FoodpandaThailand" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/th/images/static/icons/facebook_sq.png"></a></li><li><a href="http://www.youtube.com/user/foodpandathailand/videos" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/th/images/static/icons/youtube_sq.png"></a></li><li><a href="https://www.linkedin.com/in/foodpandathailand" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/th/images/static/icons/Linkedin_sq.png">Linkedin</a></li><li><a href="https://instagram.com/foodpandathailand/" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/th/images/static/icons/Instagram_sq.png">Instagram</a></li><li><a href="http://magazine.foodpanda.co.th/" target="_blank" rel="nofollow" data-bg="//asia-public.foodpanda.com/dynamic/production/th/images/static/icons/Magazine_sq.jpg"></a></li>            </ul>
-        </div>
-    
-    
-        
-                    
-                    <div class="footer-links footer-block footer-block--no-mobile-separator footer-legal">
-    <ul>
-        <li>
-            <a target="_blank" href="/contents/terms-and-conditions.htm">
-                Terms and Conditions
-            </a>
-        </li>
-        <li>
-            <a target="_blank" href="/contents/privacy.htm">
-                Privacy Policy
-            </a>
-        </li>
-        <li>
-            © Copyright 2013 foodpanda is a registered trademark
-        </li>
-        <li>
-            foodpanda Thailand
-        </li>
-    </ul>
+<div class="home-cuisines">
+	<h4>
+		<strong>Popular Cuisines</strong></h4>
+	<ul class="home-cuisines__list" style="margin: 0;padding: 0; list-style: none; font-size: 16px;-webkit-columns: 4; -moz-columns: 4; columns: 4; column-width: auto; column-count: 4;">
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/american-delivery-bangkok">American</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/asian-delivery-bangkok">Asian</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/beverages-delivery-bangkok">Beverages</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/burger-delivery-bangkok">Burger</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/chinese-delivery-bangkok">Chinese</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/desserts-delivery-bangkok">Desserts</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/european-delivery-bangkok">European</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/fastfood-delivery-bangkok">Fastfood</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/halal-delivery-bangkok">Halal</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/healthy-delivery-bangkok">Healthy</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/indian-delivery-bangkok">Indian</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/italian-delivery-bangkok">Italian</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/japanese-delivery-bangkok">Japanese</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/korean-delivery-bangkok">Korean</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/mediterranean-delivery-bangkok">Mediterranean</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/mexican-delivery-bangkok">Mexican</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/middle-eastern-delivery-bangkok">Middle Eastern</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/pizza-delivery-bangkok">Pizza</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/sandwiches-delivery-bangkok">Sandwiches</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/seafood-delivery-bangkok">Seafood</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/sushi-delivery-bangkok">Sushi</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/thai-delivery-bangkok">Thai</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/vegetarian-delivery-bangkok">Vegetarian</a></li>
+		<li class="home-cuisines__list__item">
+			<a href="/cuisine/vietnamese-delivery-bangkok">Vietnamese</a></li>
+	</ul>
 </div>
-                            </div>
-        </footer>
-    
-    
-    <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content"></div>
-        </div>
-    </div>
 
-    
+<hr>
 
-        
-
-    </div>
+<style type="text/css">
+.othercountries { float:left; width:100%; height:auto; } .othercountries p { text-align: center; } .othercountries a { color:#666; cursor: pointer; }</style>
+<div class="othercountries">
+	<p>
+		<a href="https://www.foodpanda.bg/">Bulgaria</a> &nbsp; | &nbsp;
+<a href="https://www.foodpanda.ro/">Romania</a> &nbsp; | &nbsp;
+<a href="https://www.foodpanda.hk/">Hong Kong</a> &nbsp; | &nbsp;
+<a href="https://www.foodpanda.pk/">Pakistan</a> &nbsp; | &nbsp;
+<a href="https://www.foodpanda.com.bd/">Bangladesh</a> &nbsp; | &nbsp;
+<a href="https://www.foodpanda.sg/">Singapore</a> &nbsp; | &nbsp;
+<a href="https://www.foodpanda.my/">Malaysia</a> &nbsp; | &nbsp;
+<a href="https://www.foodpanda.ph/">Philippines</a> &nbsp; | &nbsp;
+<a href="https://www.foodpanda.com.tw">Taiwan</a></p>
+</div></div>
 
                     
+    </footer>
+        </div>
+                    <script src="https://maps.googleapis.com/maps/api/js?v=3.34&amp;libraries=places,geometry&amp;language=en_TH&amp;client=gme-deliveryheroholding&amp;channel=foodora"></script>
+        <script type="text/javascript" src="https://cdn.polyfill.io/v3/polyfill.min.js?flags=gated&amp;features=Intl.~locale.en,es5,es6,es7,Event,CustomEvent,Element.prototype.closest,Object.values,fetch&amp;unknown=polyfill"></script>
+    }
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/lodash.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/validate.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/blazy.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/js-cookie.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/bowser.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/moment.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/spin.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/jquery-plugins.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/backbone.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/react.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/main-chunk.chunk.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/router.bundle.js?7dd7a44"></script>
+    <script src="https://assets.foodora.com/7dd7a44/js/dist/thumbor-config.bundle.js?7dd7a44"></script>
+
+    <script src="/js/routing?callback=fos.Router.setData&amp;7dd7a44"></script>
+
+
+    <script type="text/javascript">
+                window.VOLO = window.VOLO || {};
+            </script>
+
+            <script src="https://assets.foodora.com/7dd7a44/js/dist/bootstrap.bundle.js?7dd7a44"></script>
     
     
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f77b1abc66","applicationID":"1546921","transactionName":"bldXNUJYXhAABxBZDVcddhRDTV8OTgILXwZJU1sFURdDCw4USlMPShxWDl5NQgwNCAFCTElTUgQKS1UNBQEWcQFNW1oP","queueTime":1,"applicationTime":97,"atts":"QhBUQwpCTR4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+            <script type="text/javascript">
+            if (window.VOLO && VOLO.tagManager) {
+                VOLO.tagManager.referrer = 'https://www.foodpanda.co.th/restaurant/t7qi/olive-greek-mediterranean-cuisine1';
+                VOLO.tagManager.pageType = 'Privacy policy';
+                VOLO.tagManager.pageCode = 'privacy.htm';
+            }
+        </script>
+        <!-- Google Tag Manager -->
+        
+                <script type="text/javascript">
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-N9RJXV');
+        </script>
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9RJXV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager -->
+            
+    <script>
+        (function() {
+            if (!trackJsDeferred) console.warn('TrackJs dependency broken'); // Spot out breaking the dependency while in dev env
+            if (!window._trackJs.enabled) return;
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', 'https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js');
+            xhr.msCaching = 'enabled';
+            xhr.addEventListener('load', function() {
+                window.trackJs = null;
+                eval(this.responseText);
+                trackJsDeferred && trackJsDeferred.resolve();
+            });
+            xhr.send();
+        })();
+    </script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f77b1abc66","applicationID":"66674442,97495756,49764655","transactionName":"bldXNUJYXhAABxBZDVcddhRDTV8OTjILXA1ldEcOXk1VDQUmEV4GVVdpIl9XRBEOCAhVEGVxWBJzVl4XEwsIXAdLCA8IXl1VGyAHEFkNVw==","queueTime":1,"applicationTime":175,"atts":"QhBUQwpCTR4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
