@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefrugalgirls.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118144106id_/http%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalgirls.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406162244id_/https%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - The Frugal Girls
 
@@ -6,7 +6,7 @@
 
 **Overview:**
 
-This privacy policy sets out how The Frugal Girls uses and protects any information that you give while using www.TheFrugalGirls.com.  Please Note: do not use this site or any affiliated services if you do not agree with this Privacy Policy and our [Disclosure Policy](http://thefrugalgirls.com/disclosure-policy-statement).
+This privacy policy sets out how The Frugal Girls uses and protects any information that you give while using www.TheFrugalGirls.com.  Please Note: do not use this site or any affiliated services if you do not agree with this Privacy Policy and our [Disclosure Policy](https://thefrugalgirls.com/disclosure-policy-statement).
 
 Your privacy is important to us. We will never sell, distribute, or share your personal information with anyone.  You have the right to erasure of personal data, known as the ‘Right to be Forgotten’.  If you request us to delete your personal information, we will do so.  Please contact us at: frugalgirls@gmail.com if you would like your personal information erased.
 
@@ -52,6 +52,6 @@ All giveaways hosted at TheFrugalGirls.com are open to U.S. residents age 18 and
 
 **Privacy Policy Changes:**
 
-The Frugal Girls reserves the right to change and update this Privacy Policy at any time.  If updated or changed, the revised Privacy Policy shall go into effect immediately.  Check this page regularly to ensure that you agree with the current Privacy Policy.  Do not use this site or any affiliated services if you do not agree with this Privacy Policy and our [Disclosure Policy](http://thefrugalgirls.com/disclosure-policy-statement).
+The Frugal Girls reserves the right to change and update this Privacy Policy at any time.  If updated or changed, the revised Privacy Policy shall go into effect immediately.  Check this page regularly to ensure that you agree with the current Privacy Policy.  Do not use this site or any affiliated services if you do not agree with this Privacy Policy and our [Disclosure Policy](https://thefrugalgirls.com/disclosure-policy-statement).
 
 _This policy was last updated: May 24, 2018_
