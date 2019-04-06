@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007012201id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406033640id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
 
 # CleverMedia Game Apps: For iOS and Android
 
@@ -38,4 +38,4 @@ Email address: We have provided a link to a form where you can [email us](http:/
 
 Mailing address: CleverMedia Inc., P.O. Box 200803, Denver, CO 80220, USA. Do not send us junk mail.
 
-Copyright 1995-2018 CleverMedia, Inc.
+Copyright 1995-2019 CleverMedia, Inc.
