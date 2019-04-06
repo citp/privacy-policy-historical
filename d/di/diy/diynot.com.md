@@ -1,41 +1,166 @@
-> *The following text is extracted and transformed from the diynot.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120084050id_/https%3A//www.diynot.com/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynot.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406130912id_/https%3A//www.diynot.com/docs/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-DIYnot Ltd has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: DIYnot.com. 
+## Owner and Data Controller
 
-## **What information are you collecting and how are you collecting it?**
+DIYnot Ltd, 147 Station Road North Chingford London United Kindgom E4 6AG
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We also use your IP address to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors. The IP address reveals nothing personal about you other than the IP address from which you have accessed our site. 
+**Owner contact email:** admin@diynot.com
 
-## **What are cookies and how does DIYnot.com use them?**
+## Types of Data collected
 
-A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer’s hard drive. A cookie cannot read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. As part of offering and providing customisable and personalised services, DIYnot.com uses cookies to store information about you. All sections of DIYnot.com where you are prompted to log-in or that are customisable require that you accept cookies. We may use cookies to better personalise the content and promotions that you see on our site Generally, we use cookies to remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalised service. This cookie is set when you register or “Log In” and is modified when you “Log Out” of our services. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site may be diminished and some features will not work as intended. Third parties may use cookies for the purpose of displaying advertising, to opt out of Google’s use of cookies, please visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Cookies; Usage Data; email address; geographic position; username. 
 
-## **Registration / DIYnot Network**
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.  
+Unless specified otherwise, all Data requested by this Website is mandatory and failure to provide this Data may make it impossible for this Website to provide its services. In cases where this Website specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.  
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.  
+Any use of Cookies – or of other tracking tools – by this Website or by the owners of third-party services used by this Website serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
 
-Our site’s registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about DIYnot.com only, no third party will gain access to your details. Users may opt-out of receiving the newsletter; see the choice/opt-out section below. If you supply us with your postal address on-line you will only receive the information for which you provided us your address. 
+Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party's consent to provide the Data to the Owner.
 
-## **What security precautions are in place to protect the loss, misuse, or alteration of my information?**
+## Mode and place of processing the Data
 
-Your personal registration information are password-protected so that you and only you have access to this personal information. You may edit your personal details by using your password at [www.diynot.com/network](http://www.diynot.com/network/). We recommend that you do not divulge your password to anyone. DIYnot.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out DIYnot.com and close your browser window when you have finished your work. This is to ensure that other users cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, DIYnot.com cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+### Methods of processing
 
-## **Public Forums**
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Website (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-This site makes forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+### Legal basis of processing
 
-## **Correct/Update/Unsubscribe**
+The Owner may process Personal Data relating to Users if one of the following applies:
 
-This site gives users the following options for changing and modifying information previously provided. You can edit this information by going to [www.diynot.com/network](http://www.diynot.com/network/), from here you can also unsubscribe and remove your personal details from DIYnot.com. 
+  * Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
+  * provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+  * processing is necessary for compliance with a legal obligation to which the Owner is subject;
+  * processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+  * processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 
-## **Contacting Us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, visit the [Contact Us](http://www.diynot.com/docs/contact.php) page for details about how to contact us. This site contains links to other sites. DIYnot Limited is not responsible for the privacy practices or the content of such Web sites. 
 
-## **What else should I know about my privacy?**
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on forums or through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords. Please be careful and responsible whenever you are online. 
+### Place
 
-## **Your Consent to this Agreement**
+The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
 
-By using our Web site, you consent to the collection and use of information by DIYnot.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+
+Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
+
+### Retention time
+
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
+
+Therefore:
+
+  * Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+  * Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
+
+
+
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
+
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+
+## The purposes of processing
+
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Analytics, Interaction with external social networks and platforms, Advertising, Contacting the User, Commercial affiliation, Content commenting, Displaying content from external platforms, Handling payments, Hosting and backend infrastructure, Location-based interactions, Managing contacts and sending messages, Registration and authentication, Social features and SPAM protection. 
+
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
+
+## Detailed information on the processing of Personal Data
+
+Personal Data is collected for the following purposes and using the following services:
+
+  *   *   *   *   *   * ### Displaying content from external platforms
+
+  *   * ### Hosting and backend infrastructure
+
+  * ### Interaction with external social networks and platforms
+
+  * ### Location-based interactions
+
+  * ### Managing contacts and sending messages
+
+  * ### Registration and authentication
+
+  *   * 
+
+
+## Further information about Personal Data
+
+  * ### DIYnot Combustion Chamber
+
+  * ### Selling goods and services online
+
+  * ### The Service is not directed to children under the age of 13
+
+
+
+
+## The rights of Users
+
+Users may exercise certain rights regarding their Data processed by the Owner.
+
+In particular, Users have the right to do the following:
+
+  * **Withdraw their consent at any time.** Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+  * **Object to processing of their Data.** Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+  * **Access their Data.** Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+  * **Verify and seek rectification.** Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+  * **Restrict the processing of their Data.** Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it. 
+  * **Have their Personal Data deleted or otherwise removed.** Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+  * **Receive their Data and have it transferred to another controller.** Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User's consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+  * **Lodge a complaint.** Users have the right to bring a claim before their competent data protection authority.
+
+
+
+### Details about the right to object to processing
+
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. 
+
+### How to exercise these rights
+
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+
+## Cookie Policy
+
+This Website uses Cookies. To learn more and for a detailed cookie notice, the User may consult the [Cookie Policy](https://www.iubenda.com/private/privacy-policy/1102484/cookie-policy "Cookie Policy").
+
+## Additional information about Data collection and processing
+
+### Legal action
+
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Website or the related Services.  
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities. 
+
+### Additional information about User's Personal Data
+
+In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request. 
+
+### System logs and maintenance
+
+For operation and maintenance purposes, this Website and any third-party services may collect files that record interaction with this Website (System logs) use other Personal Data (such as the IP Address) for this purpose. 
+
+### Information not contained in this policy
+
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document. 
+
+### How “Do Not Track” requests are handled
+
+This Website does not support “Do Not Track” requests.  
+To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies. 
+
+### Changes to this privacy policy
+
+The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Website and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. 
+
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required. 
+
+###  Definitions and legal references 
