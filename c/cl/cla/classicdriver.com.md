@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116063658id_/https%3A//www.classicdriver.com/en/page/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406065439id_/https%3A//www.classicdriver.com/en/page/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Classic Driver
 
