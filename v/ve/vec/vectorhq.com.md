@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorhq.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613160324id_/http%3A//www.vectorhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorhq.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406145802id_/https%3A//www.vectorhq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VectorHQ.com
 
