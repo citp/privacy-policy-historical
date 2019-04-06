@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111231722id_/https%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406154154id_/https%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhistleOut
 
