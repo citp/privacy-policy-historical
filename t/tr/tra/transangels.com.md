@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transangels.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813005911id_/https%3A//www.transangels.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transangels.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406050655id_/https%3A//www.transangels.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
