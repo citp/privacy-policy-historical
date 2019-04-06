@@ -1,41 +1,180 @@
-> *The following text is extracted and transformed from the iihf.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629055458id_/http%3A//www.iihf.com/iihf-home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iihf.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406101252id_/https%3A//www.iihf.com/en/static/5107/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# IIHF - Privacy Policy
 
-IIHF PRIVACY POLICY
+### INTERNATIONAL ICE HOCKEY FEDERATION PRIVACY POLICY
 
-The International Ice Hockey Federation (hereinafter referred to as “IIHF”) takes your privacy seriously. Please read the following Privacy Policy carefully to learn more about the IIHF’s use of your personal identifying information that the IIHF collects when you visit the IIHF Official Website at [www.iihf.com](http://www.iihf.com/) and/or any linked Website controlled by the IIHF Terms and Conditions (hereinafter referred to as “Website”). The IIHF is committed to undertaking reasonable measure to protect the privacy and security of all the personal information that is provided to it. Please read the following description of our policies and practices regarding your personal information. The IIHF reserves the right to change this Privacy Policy at any time without notice to you. You are, therefore, responsible for regularly reviewing this Privacy Policy. 
+The International Ice Hockey Federation (hereinafter referred to as “IIHF”) takes your privacy seriously. Please read the following Privacy Policy carefully to learn more about our use of Your personal identifying information that we collect when You access, use or register with the IIHF Digital Services. The IIHF is committed to undertaking reasonable measure to protect the privacy and security of all the personal information that is provided to us. The IIHF reserves the right to change this Privacy Policy at any time without notice to You. You are, therefore, responsible for regularly reviewing this Privacy Policy. Your continued use of the Digital Services after the entry into force of this revised Privacy Policy constitutes Your confirmation of Your reading and understanding of such changes. 
 
-This Privacy Policy covers the treatment of personally identifiable information that is collected when you are on this Website, and when you use the Services of the Website, as described in this Website’s Terms and Conditions and Privacy Policy. 
+### What does this Privacy Policy Cover?
 
-This Privacy Policy does not apply to the practices of companies or entities that the IIHF does not own or control, or to people that the IIHF does not employ or manage, including without limitation third-party advertisers or sponsors to whom you provide information. The IIHF is not responsible for privacy policies or practices of other websites to which you choose to link from the Website, and the IIHF encourages you to review the privacy policies of those other websites so you can understand how they collect, sue and share information. 
+This Privacy Policy applies to all IIHF digital services such as websites, newsletters, registration systems and online business resources (including but not limited to the IIHF extranet and intranet) offered on the www.iihf.com website or any other digital property created and operated by the IIHF (collectively referred to as “Digital Services”). The Privacy Policy covers the treatment of personally identifiable information that is collected when You are on, use or register for the IIHF Digital Services, as described in the IIHF Terms and Conditions and Privacy Policy.
 
-The IIHF does not collect personal identifying information when you access this Website’s homepage and browse this Website except as described in this Privacy Policy or the relevant part of this Website. When accessing this Website, the IIHF does automatically receive and record certain information on its server logs from your browser including, but not limited to, your Internet Protocol address (IP address) and the page you requested. Further, with respect to personal information, the IIHF and its agents and representatives collect personal information in a number of circumstances specifically including, but not limited to, when you register on this Website, when you use certain products or Services on this Website, and when you enter promotions or sweepstakes that are sponsored and/or offered by the IIHF or its Partners (hereinafter as defined in the IIHF Legal Terms) from time to time. 
+This Privacy Policy does not apply to the practices of companies or entities that the IIHF does not own or control, or to people that the IIHF does not employ or manage, including without limitation, third-party advertisers or sponsors to whom You provide information. The IIHF makes its content available on a variety of third party platforms like Facebook, Twitter or YouTube and these platforms are governed by their own terms and conditions and privacy policies that we strongly recommend You read. 
 
-When you register for and/or use certain products/Services on this Website, the IIHF may ask for and/or collect your name, home address, email address, etc. for purposes such as events and contests, registration for the IIHF Ice Times or similar, social media pages, and participation in other promotions and interactive online activities. Once you register with the IIHF and/or sign in to our products/Services you are not anonymous to the IIHF and are consenting to the IIHF’s collection of your personal information for IIHF’s use as defined herein. 
+### How do we collect information from You?
 
-Additionally, IIHF Partner websites may also collect personal information from you. The IIHF Partners websites contain privacy policies (sometimes referred to as privacy statements) that you should review to understand how the applicable IIHF Partners may use your personal information. The IIHF Partners, and not the IIHF, are responsible for the treatment of your personal information when the IIHF Partners utilize such. If you choose to register for an IIHF Partner’s websites at the same your register with the IIHF Website, the terms of the Privacy Policy of the IIHF Partner is incorporated herein by reference. 
+The IIHF collects information when You access, use and/or register on the IIHF Digital Services, when You enter into transactions, promotions, or sweepstakes that are sponsored and/or offered by the IIHF directly or via IIHF Partners from time to time, and when You register for the IIHF Ice Times or similar. The IIHF may also collect certain information when you visit our Digital Services (as a non-registered user), through cookies, pixels and similar technologies.
 
-Further, you have the opportunity to purchase IIHF Championship merchandise via a link to the IIHF Official World Championship Merchandizing Partner’s websites and the opportunity to purchase IIHF Championship tickets via a link to IIHF Championships Authorized Ticket Brokers. The IIHF Official World Championship Merchandizing Partner and IIHF Championships Authorized Ticket Brokers will collect personal information when you visit their websites in connection with processing your transaction. The IIHF Official World Championship Merchandizing Partner and IIHF Championships Authorized Ticket Brokers’ websites contain a privacy policy that you should review to understand how they may use your personal information. If you chose to provide the IIHF Official World Championship Merchandizing Partner and IIHF Championships Authorized Ticket Brokers with personal information in connection with the purchase of IIHF Championship merchandize or IIHF Championship Tickets, the IIHF Official World Championship Merchandizing Partner and the IIHF Championships Authorized Ticket Brokers, and not the IIHF, are responsible for the treatment of your personal information. 
+### What type of information is collected from You?
 
-All of your information is processed in Switzerland, and may be stored and used elsewhere depending on the location of the IIHF Partners, affiliates and other entities who are permitted to access such information under the terms of this Privacy Policy (and such locations may include countries which may not afford the same level of protection of such data as the country from which you provided the information). 
+You may provide us with information, including personally identifiable information, when you register on the Services, create a user account, communicate with us, complete certain transactions or subscribe to Digital Services such as event registration, professional online resources or media alerts.
 
-The IIHF uses information collected to customize the content you see on this Website, for research and development, to fulfill your requests for certain products and services, and to contact you. The IIHF may use your personal information such as your name, home address and email address to send you marketing communications, such as information about IIHF championships. While most the IIHF fans appreciate receiving marketing communications, we respect the right of each fan to control how his or her personal information is being used. If you do not wish to receive marketing communications from the IIHF, you can opt out when the personal information is collected. In addition, if you are receiving marketing communications from the IIHF and wish to unsubscribe, you can do so by following the opt-out instructions contained in the marketing communications. 
+The personal information we collect might include, but is not limited: address, email address, last name, first name, country of residence, date of birth, gender, screen name, IP address, login information, password, information regarding what pages accessed and when, and opt-in for game,  
+IIHF content preferences and promotional communications when lawful. To access certain  
+business resources, the IIHF may ask you to provide additional information such as your business  
+organization, job title, physical address, phone number and nationality.
 
-Further, the IIHF may use your personal information such as your name, home address and email address to send you offers from our Partners, and the IIHF may share such personal information with certain of these Partners so that they may send you offers directly, if you have not opted not to receive such information from our Partners. 
+The information requested will allow the IIHF to create and maintain Your user account and identify  
+you as one of our users.
 
-The IIHF may send personally identifiable information about you to other companies or people when the IIHF: (a) has your consent to share the information; (b) needs to share your information to provide the product or service you have requested; (c) provides the information to companies who work on behalf of the IIHF under confidentiality agreements; (d) responds to subpoenas, court orders or legal processes; or (e) believes it is necessary, as determined in its sole discretion, to investigate, prevent, or take action regarding illegal activities, suspected fraud, emergency situations involving potential threats to the physical safety of any person, violations of the IIHF’s Legal Terms, or as otherwise required by law. 
+**Automatic Information:** When You visit the IIHF website or certain IIHF digital properties, the IIHF  
+will use “cookies” to collect information. Cookies are small data files, which are transferred to a  
+computer’s hard disk to memorize information like registration IDs and passwords. A cookie will  
+typically contain the name of the domain from which the cookie has originated, the “lifetime” of the  
+cookie and various values.
 
-The IIHF may, from time to time, place a “cookie” on your computer. The IIHF third party service providers and Partners may use cookies as well. A cookie is a file written to your computer’s hard drive that records certain technical information about your internet usage, such as your IP address, computer and connection information such as a browser type and version, operating system and platform, and domain name. In addition, if you visit the IIHF Official World Championship Merchandizing Partner’s Website or the IIHF Championships Authorized Ticket Brokers, the IIHF and/or the IIHF Official World Championship Merchandizing Partner or IIHF Championship Authorized Ticket Brokers may also use cookies to collect information such as purchase history, clickstream to, through and from the IIHF Official World Championship Merchandizing Partner/ IIHF Official Championships Authorized Ticket Brokers’ Websites including products viewed or searched for. If you submit personal information to this Website, the IIHF may use cookies to keep track of such information so that you will not need to reenter this information during subsequent visits, to estimate and report the IIHF’s total audience size and keep track of your preferences you specify while using the Services. Further, the IIHF may use non-personal identifiable information about your visit to this Website and other websites to customize delivery of content to this Website and other websites. You may set your Internet browser preferences to notify you when you receive a cookie or decline acceptance of cookies. If you decline acceptance of cookies, however, you may experience less than optimal performance on this Website. 
+The IIHF uses “first party cookies – ID cookies” to enable certain features on the IIHF website or  
+certain IIHF digital properties, to better understand how You interact with the IIHF website and  
+digital properties and to monitor aggregate usage by IIHF website and IIHF digital properties’  
+users and web traffic routing. The IIHF uses either session cookies (duration of Your visit) or  
+persistent cookies (stays on Your computer until You clear your browser).
 
-The IIHF does not knowingly collect personal data from Children. The IIHF does not take specific steps to protect the privacy of children who disclose their personal information to the IIHF. 
+The IIHF also uses “third party cookies” to enable certain services to us such as analytics and  
+advertising. For example the IIHF uses google analytics to be able to measure traffic and  
+performance of Digital Services.
 
-The IIHF has adopted reasonable security measures, appropriate to the sensitivity of the personal information, against unauthorized access, disclosure, loss or destruction of personal information. These measures may include technological, physical and organization methods of security. However, the Internet is an open system and the IIHF cannot guarantee that unauthorized third parties will never be able to defeat those measures or sue your personal information for improper purposes. 
+You can always block cookies by updating Your web browser privacy settings. To do so, You will  
+have to access the “Help” menu in Your browser’s menu bar and search for the term “cookies”. If  
+You decline acceptance of cookies or block cookies, please note that You may experience less  
+customized experience on this Website. 
 
-If you communicate with the IIHF by email, you should note that the secrecy of Internet email is uncertain. By sending sensitive or confidential email messages or information which is not encrypted you accept the risk of such uncertainty and possible lack of confidentiality over the Internet. 
+### Why do You have to Register?
 
-The IIHF is subject to Swiss data protection laws when collecting and processing personal identifying information. 
+The IIHF content is generally available on the Digital Services without the need to register as a  
+user. However, certain personalization options, transactions or services (such as e-commerce,  
+newsletters, professional services or event registration services) offered on IIHF Digital Services  
+require that you register with the IIHF and provide certain information about You. 
 
-The IIHF maintains a file of the personal information that you provide. Only authorized IIHF employees and IIHF agents who need access to your personal information in the course of their duties will have access to the information. Upon written request, you have the right to access your file and to change or request correction of any erroneous or out-of-date personal information about you that is in the IIHF’s possession or control. In some limited circumstances, the IIHF may not be able to grant you access to your information, for example, if doing so would threaten the security of another individual. If you wish to access your personal information in the possession/control of the IIHF or make corrections to it, or if you have comments, complaints or questions about this Website, please email [webmaster@iihf.com](mailto:webmaster@iihf.com). 
+### How is Your Information Used?
 
-The IIHF reserves the right to modify this Privacy Policy at any time. If this Privacy Policy is modified, the IIHF will post the modified Privacy Policy and the date of the modification on this Website. Please review this Privacy Policy from time to time to ensure your familiarity with its terms. Your continued use of this Website constitutes your acceptance of the terms in this Privacy Policy, as amended from time to time. This Privacy Policy relates to all online and offline activities of the IIHF. 
+The IIHF uses and processes Your personal information collected to: 
+
+  * Customize the content You see on IIHF Digital Services
+  * For research, development and analytical purposes
+  * To fulfill Your requests for certain products and/or services
+  * ​To communicate with You
+  * For activities, promotions and/or campaigns of the IIHF or IIHF partners
+  * To send You communication when You have opted-in to receive certain types of information from the IIHF.
+
+
+
+The IIHF reviews its retention periods for personal information on a regular basis. The IIHF is  
+legally required to hold some types of information to fulfil our statutory obligations. The IIHF will  
+hold Your personal information on our systems for as long as is necessary for the relevant activity,  
+or as long as is set out in any relevant contract You hold with us. 
+
+### Who has access to Your personal information?
+
+The IIHF will not sell or rent Your personal information to third parties. The IIHF will not share Your  
+information with third parties for marketing purposes.
+
+**Third Party Service Providers working on IIHF’s behalf:** the IIHF may pass Your personal  
+information to our third-party service providers, agents, subcontractors and other associated  
+organizations for the purposes of completing tasks and providing services to You on our behalf (for  
+example to analyze IIHF Digital Platform fan usage, infrastructure and general IT services, email  
+communications and push notifications, accreditation, arranging travel or accommodation, etc.).  
+However, when the IIHF uses third party service providers, the IIHF discloses only the personal  
+information that is necessary to deliver the service. Further, we have a contract in place that  
+ensure confidentiality and requires them to keep Your information secure and not to use it for their  
+own direct marketing purposes. Please be assured that we will not release Your personal  
+information to third parties beyond the IIHF network for them to use for their own direct marketing  
+purposes, unless you have requested us to do so, or we are required to do so by law, for example,  
+by a court or for the purpose of prevention of fraud or other crimes.
+
+**Third Party Product Providers the IIHF works in association with:** the IIHF works closely with  
+various other third-party product providers (for example the IIHF Official World Championship  
+Merchandizing Partner and IIHF Championships Authorized Ticket Brokers) and various IIHF  
+Partners (NIKE, GRAF, etc.) which have links to their website via IIHF website or digital properties.  
+When utilizing Your information, the third-party service provider and IIHF Partner will be acting as  
+the data controller of Your information. The IIHF partners and third-party product provider, and not  
+the IIHF, are responsible for the treatment of your personal information when the IIHF partners or  
+third-party product provider utilize Your personal information. If You choose to directly register with  
+an IIHF partner or third-party product provider’s websites at the same time You register with the  
+IIHF Digital Services, the terms of the Privacy Policy of the IIHF partner or third-party service shall  
+be incorporate herein by reference. 
+
+### How do we Protect Your Personal Information?
+
+**Data Security:** The IIHF has adopted reasonable security measures, appropriate to the sensitivity  
+of the personal information, against unauthorized access, disclosure, loss or destruction of  
+personal information. These measures may include technological, physical and organization  
+methods of security. However, the Internet is an open system and we cannot guarantee that  
+unauthorized third parties will never be able to defeat those measures or use your personal  
+information for improper purposes.
+
+If You communicate with the IIHF by email, You should note that the secrecy of Internet email is  
+uncertain. By sending sensitive or confidential email messages or information which is not  
+encrypted You accept the risk of such uncertainty and possible lack of confidentiality over the  
+Internet.
+
+**International Transfer:** Your information is primarily processed in Switzerland and the European  
+Union but may be stored and used elsewhere depending on the location of affiliates, partners, and  
+other entities who are permitted to access such information under the terms of this Privacy Policy  
+(for example a company helping us provide a Digital Service). Such other locations, like the United  
+States of America, do not provide in their laws the level of protection of your privacy equivalent to  
+the one applied in the European Union or Switzerland. By accessing, using or registering for the  
+IIHF Digital Services or submitting personal information to the IIHF, you specifically agree to the  
+transfer any related purpose.
+
+**Children’s Privacy:** The IIHF does not knowingly collect personal information from Children. The  
+IIHF does not take specific steps to protect the privacy of children who disclose their personal  
+information to the IIHF. If the IIHF becomes aware that a child has provided us with person  
+information without parental consent, we will take steps to delete this information and close the  
+child’s account. 
+
+### What is the IIHF’s Legal Basis for Processing Your Personal Information?
+
+The IIHF mainly processes Your personal information to perform our obligations under the Terms  
+and Conditions but in certain cases, we also rely on other justifications:
+
+**Contractual necessity:** contractual necessity applies for all users who are of age to enter into a  
+contract by accepting our Terms and Conditions and justifies the following uses of Your personal  
+information: (a) providing the Digital Services and personalizing your experience of the Digital  
+Services; (b) managing registration and user accounts; (c) securing and developing the Digital  
+Services; (d) communicating with You in relation to the Services; (e) sharing data with our partners  
+who may offer You their services; and (f) providing You services or information that you have  
+requested. In these cases, you have the right to port Your data.
+
+**Consent:** We may process certain personal information based on explicit consent, which You can  
+withdraw at any time, for the following activities: (a) send you certain marketing communications directly from the IIHF or its partners. In these cases, You have the right to port your data and  
+withdraw Your consent.
+
+**Legitimate interests:** We rely on our **legitimate interests** to provide secure and efficient Digital  
+Services that are consistent with out Terms and Conditions so that our visitors, partners and fans  
+may receive high quality Digital Services and may enjoy content related to their interests.  
+Legitimate interests constitute a basis for the following activities: (a) making available through the  
+Digital Services publicly available information related to the IIHF, IIHF Competitions, ice hockey  
+leagues, clubs and players, ice hockey and news stories; (b) providing Digital Services and  
+personalizing your experience of the Digital Services to Your interests; (c) managing registrations;  
+(d) securing and developing the Digital Services; (e) communicating with you in relation to the  
+Digital Services; (f) sharing data with our partners who may offer you their services; (g) sending  
+you marketing communications, including via emails, if You have opted-in or can lawfully receive  
+such communications; and (h) sharing Your Personal information with third parties including law  
+enforcement authorities where we suspect an unlawful activity. In these cases, You have the right  
+to object to the processing of Your personal information or ask us to restrict such processing.
+
+**Legal Basis:** We reserve the right to disclose personal information we hold about You if we are  
+required to do so under applicable laws or pursuant to any judicial or administrative process, and to  
+the extent necessary to investigate, prevent, or take action regarding unlawful activities, or violation  
+of our Terms and Conditions under the legal basis described in this Privacy Policy 
+
+### How do You Access, Correct and Contact the IIHF
+
+To withdraw Your consent, access or rectify personal information, please adjust the respective  
+settings in the IIHF Digital Platform, including unsubscribing to marketing communications. Further,  
+to object to the processing of Your personal information, to withdraw Your consent or to request  
+access, deletion or correction of any erroneous or incomplete personal information, to exercise your  
+data portability right or for any questions related to this Privacy Policy, you can contact the IIHF at  
+office@iihf.com.  
+ 
