@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otticanet.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001214522id_/http%3A//www.otticanet.com/en/otticanet/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otticanet.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406104202id_/https%3A//www.otticanet.com/en/otticanet/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Otticanet.com
 
