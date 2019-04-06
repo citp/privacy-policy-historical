@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soul-cycle.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829021609id_/https%3A//www.soul-cycle.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-cycle.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406042526id_/https%3A//www.soul-cycle.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
