@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orumarketplace.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818145535id_/https%3A//www.orumarketplace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orumarketplace.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406174201id_/https%3A//www.orumarketplace.com/privacy.php) for the most accurate reproduction.*
 
 # ORU Marketplace
 
@@ -51,6 +51,6 @@ A data controller is a natural of legal person, public authority, agency or othe
 
 Processing is any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
 
-This Privacy Policy and Data Protection Policy has been updated on: May 24, 2018
+This Privacy Policy and Data Protection Policy has been updated on: February 25, 2019
 
 **Thank you and have an Orutopian day!**
