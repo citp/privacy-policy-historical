@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rayconglobal.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203190705id_/http%3A//rayconglobal.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayconglobal.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406111308id_/https%3A//rayconglobal.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Raycon
+# Privacy Policy – Raycon
 
 Raycon respects the privacy of our customers and users of our website and has therefore instituted the policy described below to ensure that your personal information is handled in a responsible manner. Our online Privacy Policy describes the type of personal and non-personal information we may collect from you when you visit our website, how we use the information, and when we share it with third parties.
 
@@ -9,6 +9,8 @@ Raycon respects the privacy of our customers and users of our website and has th
 Raycon collects data that you provide on rayconglobal.com as a result of credit card processing, email registrations, product registrations, customer service inquiry and requests for information from us, and the like (“transactions”). We may collect “personal” information and “non-personal” information. Personal information is namely your name, email address, billing address, shipping address, credit card information and other details you choose to provide during transactions. Non-personal information is information we may collect whenever you gain access to or browse our website, such as your IP address, device type, browser type, and operating system you use. Each time you visit our website, our web server may automatically recognize and collect this information. Other non-personal information also includes “cookies” which may be used to provide you with tailored information. A cookie is a small data file that a website can send to your browser, which may then be stored on your computer’s hard drive.
 
 Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
+
+Text Marketing and notifications (if applicable): By entering your phone number in the checkout and initialising a purchase, you agree that we may send you text notifications (for your order, including abandoned cart reminders) and text marketing offers. Text marketing messages will not exceed 5 per month. You can unsubscribe from further text messages by replying STOP. Message and data rates may apply.
 
 #### Section 2- Consent
 
