@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbr.com.sg privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215071905id_/https%3A//sbr.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbr.com.sg privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406193710id_/https%3A//sbr.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Singapore Business Review
 
