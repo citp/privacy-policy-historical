@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hourwristbands.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111052024id_/https%3A//24hourwristbands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourwristbands.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407001011id_/https%3A//24hourwristbands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 24HourWristbands.Com
 
@@ -6,7 +6,7 @@ NetBrands respects the privacy of anyone who uses any of NetBrands's Web sites a
 
 NetBrands gathers important information from our visitors and customers. We publish this Privacy Policy to communicate how we gather and use information about you, how we protect it, and how you can participate in its protection. 
 
-NetBrands will, from time-to-time, e-mail members of our e-mail list with special promotions and offers. This will help you take advantage of savings on products that may be of interest to you. If you do not wish to receive promotional e-mails, you can send an e-mail to [help@imprint.com](mailto:help@imprint.com) and please type "REMOVE FROM MAILING LIST" in the subject line of your e-mail. Removals are usually done within 24 hours. However, to ensure that the unsubscribe process has been completed successfully, please allow two weeks.
+NetBrands will, from time-to-time, e-mail members of our e-mail list with special promotions and offers. This will help you take advantage of savings on products that may be of interest to you. If you do not wish to receive promotional e-mails, you can send an e-mail to [[email protected]](https://24hourwristbands.com/cdn-cgi/l/email-protection#563e333a26163f3b26243f38227835393b) and please type "REMOVE FROM MAILING LIST" in the subject line of your e-mail. Removals are usually done within 24 hours. However, to ensure that the unsubscribe process has been completed successfully, please allow two weeks.
 
 NetBrands provides its service to you subject to the NetBrands Terms of Service and this Privacy Policy, which shall be deemed part of the [Terms of Service](https://24hourwristbands.com/terms-condition/ "Temrs and Condition"). We reserve the right to change this Privacy Policy. If we change it, we will provide notification of the change at least thirty (30) business days before the change takes effect and include directions for how you can respond to the change.
 
@@ -16,7 +16,7 @@ We require people who register to use a NetBrands online applications (the "Serv
 
 NetBrands does not distribute or share customer e-mail addresses, except as noted in its Terms of Service, or as may be required by law.
 
-NetBrands uses the information we collect to set up the Services for individuals and their organizations. We may also use the information to contact customers and prospects to further discuss their interest in our company, the Services we provide and ways we can improve them, and to send information such as announcements of promotions and events regarding our company or partners. We may also e-mail a customer newsletter and updates about the Services or the company. You can opt out of receiving these communications by replying to them at the time they are distributed or at any time by e-mailing [help@imprint.com](mailto:help@imprint.com).
+NetBrands uses the information we collect to set up the Services for individuals and their organizations. We may also use the information to contact customers and prospects to further discuss their interest in our company, the Services we provide and ways we can improve them, and to send information such as announcements of promotions and events regarding our company or partners. We may also e-mail a customer newsletter and updates about the Services or the company. You can opt out of receiving these communications by replying to them at the time they are distributed or at any time by e-mailing [[email protected]](https://24hourwristbands.com/cdn-cgi/l/email-protection#2048454c5060494d5052494e540e434f4d).
 
 All financial and billing information that we collect through a NetBrands Web site and the Services is used solely to bill for the Services. NetBrands does not use this billing information for marketing or promotional purposes. Except as we explicitly state at the time we request information, or as provided for in the NetBrands Terms of Service, we do not disclose to any third party the information provided.
 
@@ -44,12 +44,12 @@ NetBrands has security measures in place for the Services to help protect agains
 
 ## OPT-OUT POLICY
 
-NetBrands offers you a means to choose how we may use information you provided. If, at any time after registering for information or ordering the Services, you change your mind about receiving information from us or about sharing information with third parties, send us a request specifying your new choice. Send your request to [help@imprint.com](mailto:help@imprint.com).
+NetBrands offers you a means to choose how we may use information you provided. If, at any time after registering for information or ordering the Services, you change your mind about receiving information from us or about sharing information with third parties, send us a request specifying your new choice. Send your request to [[email protected]](https://24hourwristbands.com/cdn-cgi/l/email-protection#1078757c6050797d6062797e643e737f7d).
 
 ## CORRECTING AND UPDATING YOUR INFORMATION
 
-To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NetBrands Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [help@imprint.com](mailto:help@imprint.com) or by calling 1-877-508-4569.
+To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NetBrands Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [[email protected]](https://24hourwristbands.com/cdn-cgi/l/email-protection#224a474e52624b4f52504b4c560c414d4f) or by calling 1-877-508-4569.
 
 ## ADDITIONAL INFORMATION
 
-Questions regarding this Privacy Policy or the security practices of the Services should be directed to NetBrands's Security Administrator by e-mailing [help@imprint.com](mailto:help@imprint.com).
+Questions regarding this Privacy Policy or the security practices of the Services should be directed to NetBrands's Security Administrator by e-mailing [[email protected]](https://24hourwristbands.com/cdn-cgi/l/email-protection#92faf7fee2d2fbffe2e0fbfce6bcf1fdff).
