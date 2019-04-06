@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the androidgalaxy.org privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614120118id_/http%3A//www.androidgalaxy.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidgalaxy.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407001742id_/https%3A//www.androidgalaxy.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Android Galaxy
 
-This Privacy Policy governs the manner in which Android Galaxy collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.androidgalaxy.org/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Android Galaxy.
+This Privacy Policy governs the manner in which Android Galaxy collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://35.184.183.207/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Android Galaxy.
 
  **Personal identification information**
 
@@ -58,15 +58,15 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Android Galaxy](http://www.androidgalaxy.org/)  
-[http://www.androidgalaxy.org/contact-us/](http://www.androidgalaxy.org/)
+[Android Galaxy](http://35.184.183.207/)  
+[http://35.184.183.207/contact-us/](http://35.184.183.207/)
 
  **#39, 4th main, 2nd Cross**  
 **Mathikere Extension**  
 **560054 Bangalore,**  
 **Karnataka, India**  
 **+919739850630**  
-**admin@androidgalaxy.org**
+**admin@35.184.183.207**
     
     
      **This document was last updated on January 25, 2014**
