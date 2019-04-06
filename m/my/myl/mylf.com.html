@@ -1,0 +1,212 @@
+<!--The following is the downloaded HTML source of the mylf.com privacy policy that was archived on 2019-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190406023820id_/http%3A//www.mlfhelp.com/privacy%3F) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+		<meta name="csrf-token" content="wB57CNCuOL63J2TZSavra0DQh36FLT5VTXngnM7M">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Privacy Policy | MLF Help</title>
+
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<link rel="stylesheet" href="https://www.mlfhelp.com/css/style.css">
+
+		<!-- Favicon -->
+		<link rel="icon" href="https://www.mlfhelp.com/images/favicon.png">
+
+		    <link rel="stylesheet" href="https://www.mlfhelp.com/css/legacy.css">
+	</head>
+	<body>
+
+			      <header>
+	      <nav class="navbar navbar-inverse navbar-toggleable-md navbar-light bg-primary">
+			  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+			    <span class="navbar-toggler-icon"></span>
+			  </button>
+			  <a class="navbar-brand hidden-lg-up" href="#">Menu</a>
+			  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+			    <div class="navbar-nav">
+			      <a class="nav-item nav-link active" href="/">Home</a>
+			      <a class="nav-item nav-link" href="/sites">Our Sites</a>
+			      <a class="nav-item nav-link" href="/tos">Terms of Service</a>
+			      <a class="nav-item nav-link" href="/technicalsupport">Technical Support</a>
+			      <a class="nav-item nav-link" href="/cookies">Cookies</a>
+			    </div>
+			  </div>
+		</nav>
+	    	<div class="container">
+	    		<div class="row">
+			    	<div class="col-md-6">
+			    		<a href="//mlfhelp.com"><img class="img-responsive" src="/images/logo.png"></a>
+			    	</div>
+			    	<div class="col-md-6">
+			    		<p class="top-text">
+							Thank you for visiting our MLF Help Center, we are dedicated to providing you with an exceedingly pleasurable membership and outstanding customer service. Your satisfaction is our top priority and our MLF Help Center prides itself on quick responses and a pleasant experience concerning all membership related questions.
+			      		</p>
+			    	</div>
+			    </div>
+	    	</div>
+	    </header>
+	    
+	    <div id="main">
+			<div class="container">
+				<div class="row">
+    <div class="col-md-12 LegacyPage">
+        <h1>Neptune Media, LLC Privacy Notice</h1>
+<h2>Introduction</h2>
+<p>Neptune Media, LLC (“Neptune Media” or “We”) is committed to respecting your privacy and recognizes the need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. In order to provide you with the services you may request, including access to the member’s-only area of our sites (collectively "Services"), We collect and use your Personal Information.</p>
+<p>If you choose to provide us with your Personal Information through our websites ("Websites”) and/or through documents provided during your initial account setup and at any point thereafter, we may transfer your Personal Information within Neptune Media (its parent company and/or any subsidiaries) or to third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world as set forth in this Privacy Notice.</p>
+<p>Neptune Media strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Neptune Media intends to adhere to the principles set forth in this Privacy Notice even if, in connection with the above, we transfer your Personal Information from your country to other countries. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.</p>
+<p>To protect your privacy, we have adopted and comply with the following principles:</p>
+<ul>
+<li>Notice</li>
+<li>Choice</li>
+<li>Accountability for Onward Transfer</li>
+<li>Security</li>
+<li>Data Integrity &amp; Purpose Limitation</li>
+<li>Access</li>
+<li>Recourse, Enforcement &amp; Liability
+This Privacy Notice sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as 'you') of our Websites. This Website is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Website and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Website, you agree and consent to the terms of this Privacy Notice as amended from time to time, as well as the terms and conditions of this Website.</li>
+</ul>
+<h2>Acceptance of these Terms</h2>
+<p>By visiting or subscribing to this Website, you agree to the practices described in this Privacy Notice. We may at any time revise or amend any of these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Website (such as our advertisers) have different privacy practices from those stated in this Privacy Notice, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies which may collect personal information as a third-party web service provider that has an advertising banner or link on the Website.</p>
+<h2>Notice</h2>
+<p>Information Collection and Use
+You may access and browse our Website without disclosing any Personal Information. However, if you want to access Neptune Media’s Services, Neptune Media requests that you voluntarily supply it with Personal Information. We collect and use your Personal Information as follows:</p>
+<ul>
+<li>
+<em>Registration information</em> - When you sign up or use our Services, we ask for your personal information so that we can provide you with our Services. If you are a customer purchasing a product or service online using our Services, you may be required to provide your name and billing information, such as a credit or debit card number, card expiration date, card verification code (CVV), bank account number, address, and credentials to access the Website, such as a username/password and/or email address.</li>
+<li>
+<em>Information obtained from third parties</em> - In order to protect you from fraud or other misconduct, we may obtain information about you from third parties to verify the information you provide. For example, we may use card authorization and fraud screening services to verify that your credit or debit card information and address match the information that you provided to us.</li>
+<li>
+<em>Transaction information</em> - When you use our Services to purchase a product or service online, we collect information about each transaction, including the transaction amount, a description of the goods or services being purchased, your name, username/password and the payment information.</li>
+<li>
+<em>Log information</em> - When you use our Services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, the date and time of your request and one or more cookies that may uniquely identify your browser.</li>
+<li>
+<em>User communications</em> - When you send e-mail or other communication to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
+Neptune Media is the sole owner of the information collected. We will not sell, share, or rent this information to third parties, except as set forth in this Privacy Notice. We will not use any of your Personal Information to send you any promotional materials or advertisements unless you have requested that we do so. If you are a customer, you may receive from us order/cancellation e-mail confirmations that are automatically generated whenever an order/cancellation is placed through us and that confirm your purchase or cancellation with important details about your purchase or cancellation, including but not limited to, product purchased/cancelled, order/cancellation date, username/password and our customer service toll free telephone number that may be used for any inquiries about the purchase/cancellation.</li>
+</ul>
+<h2>Information Sharing</h2>
+<p>We ensure that your Personal Information will not be disclosed to anyone other than:</p>
+<ul>
+<li>Neptune Media's payment processors in order to process a payment and provide our Services to you;</li>
+<li>Our contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them;</li>
+<li>Companies that we may merge with or be acquired by. (Should such a combination occur, we will require that the new entity follow this Privacy Notice with respect to your Personal Information. If your Personal Information could be used contrary to this Privacy Notice, you will receive prior notice.);</li>
+<li>Law enforcement, government officials, or other third parties when (a) we are compelled to do so by a subpoena, court order or similar legal procedure; (b) we need to do so to comply with law; or (c) we believe in good faith that the disclosure of Personal Information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our agreement(s);</li>
+<li>Other third parties with your consent or direction to do so.</li>
+</ul>
+<h2>Legal Basis for Processing Your Personal Information</h2>
+<p>Our legal basis for collecting and using the Personal Information described above will depend on the personal information concerned and the specific context in which we collect it. However, we will normally collect Personal Information from you only where:</p>
+<ul>
+<li>We have your consent to do so</li>
+<li>We need the personal information to perform a contract with you</li>
+<li>The processing is in our legitimate interests and not overridden by your rights or</li>
+<li>We have a legal obligation to collect Personal Information from you
+<em>"Legitimate interests"</em> means the interests of our company in conducting and managing our business to enable us to give you the best service/products and the best and most secure experience. For example: we have an interest in keeping our network secure. It can also apply to processing that is in your interests as well. For example: we may process your Personal Information to protect you against fraud when transacting on our website. We process Personal Information for certain legitimate business purposes, which include some or all of the following:</li>
+<li>To enhance, modify, personalize or otherwise improve our services/communications for the benefit of our customers</li>
+<li>To identify and prevent fraud</li>
+<li>To enhance the security of our network and information systems
+When processing your Personal Information for our legitimate interests, we make sure to consider and balance any potential impact on you (both positive and negative) and your rights under the data protection laws. Our legitimate business interests do not automatically override your interests – we will not use your Personal Information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted by law). If you have any concerns about the processing, you have the right to object to processing that is based on our legitimate interests. For more information on your rights, please see "Your Rights" section below.</li>
+</ul>
+<h2>Choice</h2>
+<p>You may choose whether or not to provide Personal Information to us. If you choose not to provide the Personal Information we request, you can still visit most of Neptune Media 's Websites, but you will be unable to purchase a product or service online, setup an account with us and/or use any of our other paid Services. If you choose to have a relationship with us, such as a contractual or other business relationship, you will be required to provide Personal Information in connection with such relationship.</p>
+<h2>Accountability for Onward Transfer</h2>
+<p>When we transfer Personal Information to a third party we will ensure that our agreement with the third party provides that such Personal Information may only be processed for limited and specified purposes consistent with the consent you provided and that the third party will provide the expected level of protection as required by relevant law.</p>
+<h2>Security</h2>
+<p>We have implemented security policies, rules and technical measures to protect the Personal Information that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. Neptune Media utilizes HTTP Secure (HTTPS) and/or Transport Layer Security (TLS) when receiving and transmitting information electronically.
+We protect Personal Information by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
+Nonetheless, visitors and subscribers should consider all Personal Information, communications, and information provided to Neptune Media to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient.</p>
+<h2>Data Integrity &amp; Purpose Limitation</h2>
+<p>We will take reasonable steps to ensure that all personal information that we collect is accurate, complete, current and reliable for its intended use and purpose which may include those that reasonably serve payment processing, customer relations, compliance and legal considerations, auditing, security and fraud prevention, preserving or defending our legal rights or other reasonable uses in this context.</p>
+<p>You may send updates and corrections about your Personal Information to compliance@mlfhelp.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. We will retain your Personal Information only for as long as it is necessary for purposes as identified above.</p>
+<h2>Access</h2>
+<p>You may inquire about your Personal Information being held by Neptune Media by sending an email to compliance@mlfhelp.com. Upon meeting certain security measures, Neptune Media shall provide you with a copy of the Personal Information that it keeps about you. Prior to completing your request, Neptune Media may require that you provide us with certain items as a proof of your identity. Neptune Media reserves the right to refuse a request where the burden or expense of providing access would be disproportionate to the risks to your privacy or where the rights of persons other than You would be violated.</p>
+<h2>Recourse, Enforcement &amp; Liability</h2>
+<p>We are committed to investigate and expeditiously resolve complaints about your privacy and our collection or use of your Personal Information. Neptune Media uses the self-assessment method of verification of compliance.
+European Union and Swiss individuals with inquiries or complaints regarding this Privacy Notice should first contact us at compliance@mlfhelp.com or via post at Neptune Media, Attn: Chief Privacy Officer, 14 NE 1st Ave, Miami, FL 33132, USA.</p>
+<h2>Your Rights</h2>
+<p>You have the following data protection rights:</p>
+<ul>
+<li>You may email us at compliance@mlfhelp.com in order to access, correct, delete or update your Personal Information in our records. We will answer every email as promptly as possible.</li>
+<li>In addition, you can object to processing of your Personal Information, ask us to restrict processing of your Personal Information or request portability of your Personal Information. Again, you can exercise these rights by contacting us at compliance@mlfhelp.com.</li>
+<li>Similarly, if we have collected and processed your Personal Information on the basis of your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.</li>
+<li>We may use automated decision making in processing your Personal Information for some services and products. You can request a manual review of the accuracy of an automated decision if you are unhappy with it.</li>
+<li>You have a right to lodge a complaint with a supervisory authority if you believe that processing of your Personal Information relates to the infringement of any laws and regulations. For more information, please review Recourse, Enforcement &amp; Liability section above.</li>
+<li>If you have any privacy-related questions or unresolved problems, you may contact us at compliance@mlfhelp.com.</li>
+</ul>
+<h2>Cookies</h2>
+<p>Neptune Media uses 'cookie' technologies on some portions of Neptune Media's Websites. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Websites.</p>
+<p>Some of our third-party service providers may use cookies to collect personally identifiable information about your online activities over time and across third-party websites. Please visit <a href="webcookies.info">webcookies.info</a> and each third-party service providers' privacy policy for more information.</p>
+<p>We have no access to information collected by third parties' cookies and third parties have no access to information collected by ours.</p>
+<h2>Third Parties</h2>
+<p>Any websites displayed to you by our Websites as Internet search results or linked to Internet search results pages provided to you by our Websites have been developed by third parties over which Neptune Media exercises no control. Such websites may send their own cookies to end users, collect data, or solicit personal information from you. Neptune Media is not responsible for the privacy practices or the content of such websites, including such websites' use of any information collected when you are directed to or click through to such websites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those websites.</p>
+<h2>Data Retention</h2>
+<p>We retain Personal Information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). When we have no ongoing legitimate business need to process your Personal Information, we will either delete or anonymize it or, if this is not possible (for example, because your Personal Information has been stored in backup archives), then we will securely store your Personal Information and isolate it from any further processing until deletion is possible.</p>
+<h2>Children</h2>
+<p>Neptune Media does not request, or knowingly collect Personal Information from children under the age of 18. Neptune Media does not give children the ability to post messages or otherwise distribute information about themselves through our Website or through any other means.</p>
+<h2>Policy Changes</h2>
+<p>We may update or amend this Privacy Notice from time to time, to comply with law or to meet our changing business or legal requirements. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make. Any updates or amendments will be posted on our Website. By continuing to access our Website, your access and use will be subject to these updates and amendments.</p>
+<h2>Effective Date</h2>
+<p>This page was last updated on 2018-06-29. We may change this statement from time to time, so please check periodically.</p>
+
+
+        <a href="https://www.mlfhelp.com" class="home-btn">&lt; Click Here to go Back Home</a>
+    </div>
+</div>
+			</div>
+		</div>
+
+			    <footer>
+	    	<div class="container">
+	    		<div class="row">
+			    	<div class="col-md-6" align="center" style="padding-top: 15px;">
+			    		<div class="left-drop-container" style="">
+							<div class="left-drop-header">Chargebacks and Fraudulent Transactions</div>
+							<div class="left-drop-text">
+								In the event of charge back, our processors will comprehensively investigate the transaction. Falsified chargebacks may add you to the blacklist with our processor, which will complicate possibilities of future membership. Please contact our MLF Help Representative if you have any further questions.
+							</div>
+						</div>
+			    	</div>
+			    	<div class="col-md-6">
+			    		<div class="text-center right-drop">
+			    			<br>
+			    			<h2>CONTACT US</h2>
+			    			<p><img src="https://www.mlfhelp.com/images/email_open.png"> <a href="mailto:help@MLFHelp.com">help@MLFHelp.com</a></p>
+			    		</div>
+			    	</div>
+			    </div>
+	    	</div>
+	    </footer>
+	    
+		<!-- jQuery -->
+		<script src="//code.jquery.com/jquery.js"></script>
+		<!-- Bootstrap JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+		<script src="https://cdn.ravenjs.com/3.15.0/raven.min.js"></script>
+
+		<script type="text/javascript">
+            Raven.config('').install();
+		    $.ajaxSetup({
+		        headers: {
+		            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+		        }
+		    });
+		</script>
+		
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"83e6f5b429","applicationID":"95436849","transactionName":"MwNQZRRUCxZTBUBeDgpJc1ISXAoLHSdERz0sEkZBOnYKC0YUW1sNARRBbS5aCABxCVpDEwsKXlQUdRUXWxBVVBg=","queueTime":0,"applicationTime":74,"atts":"H0RTE1xOGBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
