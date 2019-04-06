@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelagiles.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605065701id_/http%3A//www.angelagiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelagiles.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406172431id_/https%3A//www.angelagiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Angela Giles
 
