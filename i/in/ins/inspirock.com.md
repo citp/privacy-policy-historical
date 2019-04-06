@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirock.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917202815id_/https%3A//www.inspirock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirock.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406161814id_/https%3A//www.inspirock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Inspirock
 
@@ -44,7 +44,7 @@ We do not rent or sell your PII. We will not share any Personal Data that we hav
 
 _Personal Data Shared with Our Services Providers_. We may engage third-party services providers to work with us to administer and provide the Services. These third-party services providers have informed us or the general public that they apply security measures they consider adequate for the protection of Personal Data within their system, or they have a general reputation for applying such measures. One example of this is if you request that a travel agent should contact you or provide assistance with booking. 
 
-_Personal Data Shared with Third-parties for Advertising and Research_. We may share non-PII Personal Data with third parties (for example Google Analytics, Data Management Platforms), for industry research and analysis, demographic profiling, advertising, analytics, collecting feedback, monitoring, and other similar purposes. For additional information regarding our disclosure of information to third-party advertising companies, please see our Cookie Policy ([www.inspirock.com/cookie-policy](https://www.inspirock.com/cookie-policy)). 
+_Personal Data Shared with Third-parties for Advertising and Research_. We may share non-PII Personal Data with third parties (for example Google Analytics, Data Management Platforms), for industry research and analysis, demographic profiling, advertising, sales, marketing, case-studies, analytics, collecting feedback, monitoring, and other similar purposes. For additional information regarding our disclosure of information to third-party advertising companies, please see our Cookie Policy ([www.inspirock.com/cookie-policy](https://www.inspirock.com/cookie-policy)). 
 
 _Personal Data Disclosed in Connection with Business Transactions_. Personal Data that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third-party acquirer in connection with the transaction. 
 
@@ -83,6 +83,8 @@ _Links to Other Sites_. Our Services may contain links to websites and services 
 _International Transfer_. Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. For example, if you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. 
 
 _Responding to Do Not Track Signals_. Our Site does not have the capability to respond to “Do Not Track” signals received from various web browsers. 
+
+_Use of Google Maps API_. Our Services use Google Maps API(s). Here is a link to their [Privacy Policy](https://www.google.com/policies/privacy). 
 
 ## Questions?
 
