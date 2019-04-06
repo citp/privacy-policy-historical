@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202033432id_/https%3A//www.infoblox.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406134545id_/https%3A//www.infoblox.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Infoblox
 
@@ -115,7 +115,7 @@ Security of personal information is of the utmost importance to Infoblox. Infobl
 
 
 
-Nevertheless, such security measures cannot prevent all loss, misuse or alteration of personal information and we are not responsible for any damages or liabilities relating to any such incidents to the fullest extent permitted by law. Where required under law, we will notify you of any such loss, misuse or alteration of personal information that affects you so that you can take the appropriate actions for the due protection of your rights. Infoblox also reviews its security procedures periodically to consider appropriate new technology and updated methods. If you have any questions about the security of your personal information, you may contact us at [privacy@infoblox.com](https://web.archive.org/web/20181202033432id_/https%3A//www.infoblox.com/company/legal/privacy@infoblox.com).
+Nevertheless, such security measures cannot prevent all loss, misuse or alteration of personal information and we are not responsible for any damages or liabilities relating to any such incidents to the fullest extent permitted by law. Where required under law, we will notify you of any such loss, misuse or alteration of personal information that affects you so that you can take the appropriate actions for the due protection of your rights. Infoblox also reviews its security procedures periodically to consider appropriate new technology and updated methods. If you have any questions about the security of your personal information, you may contact us at [privacy@infoblox.com](https://web.archive.org/web/20190406134545id_/https://www.infoblox.com/company/legal/privacy-policy/privacy@infoblox.com).
 
 ### Retention of Personal Information
 
@@ -163,11 +163,11 @@ Residents of the State of California, under California Civil Code § 1798.83, ha
 
 Infoblox qualifies for the alternative option. We have a comprehensive privacy policy, and provide you with details on how you may either opt-out or opt-in to the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year.
 
-If you are a California resident and request information about how to exercise your third party disclosure choices, please email us your request to [privacy@infoblox.com](https://web.archive.org/web/20181202033432id_/https%3A//www.infoblox.com/company/legal/privacy@infoblox.com).
+If you are a California resident and request information about how to exercise your third party disclosure choices, please email us your request to [privacy@infoblox.com](https://web.archive.org/web/20190406134545id_/https://www.infoblox.com/company/legal/privacy-policy/privacy@infoblox.com).
 
 ### Contact Us
 
-If you have any questions about this Policy, the practices of our Sites or Solutions, or your dealings with our Sites or Solutions, please contact us by sending an email to [privacy@infoblox.com](https://web.archive.org/web/20181202033432id_/https%3A//www.infoblox.com/company/legal/privacy@infoblox.com) or you can write to us at:
+If you have any questions about this Policy, the practices of our Sites or Solutions, or your dealings with our Sites or Solutions, please contact us by sending an email to [privacy@infoblox.com](https://web.archive.org/web/20190406134545id_/https://www.infoblox.com/company/legal/privacy-policy/privacy@infoblox.com) or you can write to us at:
 
 Infoblox Inc.   
 Attention: Privacy   
