@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodwatches.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903204852id_/https%3A//www.woodwatches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodwatches.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406060142id_/https%3A//www.woodwatches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jord, Inc.
 
