@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectalink.info privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227102602id_/http%3A//www.connectalink.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectalink.info privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406160725id_/https%3A//www.connectalink.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Connect A Link
 
