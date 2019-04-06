@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illusivelondon.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912170754id_/http%3A//www.illusivelondon.com/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illusivelondon.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406182521id_/https%3A//www.illusivelondon.com/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
