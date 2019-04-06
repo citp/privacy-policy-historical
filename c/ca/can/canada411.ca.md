@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canada411.ca privacy policy that was archived on 2016-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160229144611id_/http%3A//www.ypg.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada411.ca privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406110738id_/http%3A//www.ypg.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Legal Notice - Yellow Pages Canada
 
-Yellow Pages Digital & Media Solutions Limited together with its subsidiaries « we », « us », « YP ») has created this privacy statement (the « Statement ») is firmly committed to the protection of your privacy. This Statement sets out how we collect, use and secure the personal information of individuals using any website owned by us (each, a « YP Website »). This Statement reflects the requirements of Canada’s Federal and Provincial privacy legislation as well as our continuous commitment to protecting your personal information. This Privacy Statement is a simplified version of our Privacy Policy which is accessible by clicking here
+Yellow Pages Digital & Media Solutions Limited together with its subsidiaries « we », « us », « YP ») has created this privacy statement (the « Statement ») is firmly committed to the protection of your privacy. This Statement sets out how we collect, use and secure the personal information of individuals using any website owned by us (each, a « YP Website »). This Statement reflects the requirements of Canada’s Federal and Provincial privacy legislation as well as our continuous commitment to protecting your personal information.
 
 BY USING A YP WEBSITE, YOU AGREE TO BE BOUND BY THE FOLLOWING PRIVACY STATEMENT. IF YOU DO NOT AGREE WITH THIS STATEMENT, DISCONTINUE ALL USE OF THIS SITE IMMEDIATELY.
 
@@ -64,3 +64,11 @@ Yellow Pages Digital & Media Solutions Limited
 Île des Sœurs  
 Verdun, Québec H3E 2A5  
 privacy@yp.ca
+
+**8.   MyTime™ by Yellow Pages™ Services**
+
+The MyTime™ by Yellow Pages™ Services are made available by YP under licence from Melian Labs, Inc. You understand that in order to provide the MyTime™ by Yellow Pages™ Services, Melian Labs, Inc. will share information with third parties, which may include personal information that you supply in connection with your use of the MyTime™ by Yellow Pages™ Services.
+
+IN ADDITION TO AGREEING TO BE BOUND BY THIS PRIVACY STATEMENT, BY USING THE MYTIME™ BY YELLOW PAGES™ SERVICES, YOU AGREE TO BE BOUND BY MELIAN LABS, INC.’S PRIVACY POLICY AVAILABLE AT <http://www.mytime.com/terms/privacy>. IF YOU DO NOT AGREE WITH MELIAN LABS, INC.’S PRIVACY POLICY, DISCONTINUE ALL USE OF THE MYTIME™ BY YELLOW PAGES™ SERVICES IMMEDIATELY.
+
+Amended: September 2017
