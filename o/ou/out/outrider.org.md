@@ -1,100 +1,128 @@
-> *The following text is extracted and transformed from the outrider.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outrider.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406233339id_/https%3A//outrider.org/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Outrider
 
-**Go Daddy Respects Your Privacy**
+## Introduction
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+At the Outrider Foundation (the “Outrider,” “we,” “our,” or “us”) we believe in transparency and the protection of individuals’ privacy. As a result, we have implemented this online privacy policy (“Policy”) in order to describe the types of information we may collect from you or that you may provide to us when you visit our website [https://outrider.org/](https://web.archive.org/web/20190406233339id_/https://outrider.org/privacy-policy/outrider.org) (the “Site”) and how we use that information. If you do not agree with this Policy, please do not visit or use the Site.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## Outrider's Data Collection
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+_Information You Voluntarily Provide to Us._ We may collect personal information about you when you provide it to us while using or interacting with the Site. For example, when you decide to find out more information about the Site or pledge a donation, you may be asked to provide information that could personally identify you such as your name, postal address, email address, or any other identifier by which you may be identified online or offline.
 
-**Information Collection and Use**
+_Information We Collect Automatically When You Use the Site._ When you use or interact with our Site, we or third parties may use a variety of technologies that collect information automatically, including cookies, web beacons, flash cookies, and third party applications. Those technologies may collect, among other things, your IP address, device type, date and time of visit, browser type, and activities on the Site. The information may also be collected or received by or shared with third party vendors who assist us with these activities.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * _Cookies._ A cookie is a small text file that is sent to your browser when you access a website, including this Site. We use session cookies to ensure better performance and a more enjoyable and consistent user experience from your entry point into the Site. The session cookie is available only during the course of the browser session; the information is not sent to or stored on a computer's hard drive. Closing the browser or logging off will invalidate the session cookie. We also use machine cookies, which do remain on a computer hard drive, to gather aggregated, non-identifiable website statistics through our own or third party website analytics services (described below). You may prefer to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at the About Cookies website which offers guidance for all modern browsers.
+  * _Web Beacons._ “Web beacons” or “tracking pixels” are electronic images, tags or scripts that allow a website to access cookies and among other things, help track general usage patterns of visitors to a website. Web beacons can recognize certain types of information, such as cookies, time and date of a page view and a description of the page where the web beacon is placed. We and the third parties described below may use web beacons to compile information regarding your use of the Site.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## Third Party Data Collection
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Third parties that we engage may also automatically collect information about you. These third parties may collect information through a variety of methods, including third party analytics and online behavioral advertising.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+_Information from Emails._ We collect information on our email campaigns from our third party service providers. The information we collect from these third parties includes determining whether you have read an email sent by us or on our behalf, forwarded an email, and when and how many times you have opened an email. We may use this information to understand our audience, to improve the Site and our products and services, and to improve our marketing. If you wish to opt-out of receiving emails from us, please see the “Opt-out of Emails” section, below.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+_Information from Third Party Analytics._ We also use third party analytics on the Site, such as those provided by Google Analytics, to, for example, enable us to continually improve on the content we offer to you, for systems administration purposes, to evaluate your use of the Site, to compile reports on activity, to analyze performance metrics, and to collect and evaluate other information related to the Site. Some of our analytics can be used to track users over time, for geo-location purposes, and across third party websites.
 
-**Security**
+  * Google Analytics (Google Inc.) Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the data collected to track and examine the use of Outrider, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Please take note of Google's Data Processing Amendment. Personal data collected: cookie and usage data.
+  * Remarketing through Google Analytics for Display Advertising (Google Inc.) Google Analytics for Display Advertising is a Remarketing and Behavioral service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its cookies with the Adwords advertising network and the DoubleClick cookie. Personal data collected: cookie and usage data.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+_Information from Social Media Platforms._ We contract with third parties to gather and analyze data from social media platforms including Facebook and Twitter. For example, we use these third parties to help us understand your interaction between social media and our Site. One of the ways we obtain information is through web beacons or pixels. We also use the following social media services:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * Facebook Custom Audience (Facebook, Inc.) Facebook Custom Audience is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of Outrider with the Facebook advertising network. Personal data collected: cookie and email address.
+  * Facebook Remarketing (Facebook, Inc.) Facebook Remarketing is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of Outrider with the Facebook advertising network. Personal data collected: cookie and usage data.
+  * Facebook Like Button and Social Widgets (Facebook, Inc.) The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc. Personal data collected: cookie and usage data.
+  * Twitter Remarketing (Twitter, Inc.) Twitter Remarketing is a Remarketing and Behavioral Targeting service provided by Twitter, Inc. that connects the activity of Outrider with the Twitter advertising network. Personal data collected: cookie and usage data.
+  * Twitter Tweet Button and Social Widgets (Twitter, Inc.) The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc. Personal data collected: cookie and usage data.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+_Ads._ Ad services allow Outrider and its partners to inform, optimize and serve advertising based on past use of Outrider by the user. This activity is performed by tracking usage data and by using cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.
 
-**Sending Emails**
+  * AdWords Remarketing (Google Inc.) AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google that connects the activity of Outrider with the Adwords advertising network and the DoubleClick cookie. Personal data collected: cookie and usage data.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+## How We Use Collected Information
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+_Use of Information Collected Automatically._ We use information we collect automatically, which typically does not identify you, for various internal business purposes, including those described in this Policy. However, we may use information we collect automatically from your use of the Site that is not personal information and other information we collect or obtain that is otherwise de-identified, aggregated, or anonymous, for any purpose.
 
-**Third Party Service Providers**
+_Uses of Personal Information._ We may use your personal information:
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * To present our Site and its contents to you;
+  * To email you about updates about our causes;
+  * To provide you with information, products, newsletters, articles, updates, or services that you request from us;
+  * To notify you about changes to our Site or any products or services we offer or provide through it;
+  * In any other way we may describe when you provide the information;
+  * To improve the Site and any services offered through it;
+  * For any other purpose with your consent; or
+  * As generally permitted under applicable law.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## Disclosure of Your Information
 
-**Contests/Surveys**
+We may share your information, including your personal information with the following parties:
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+  * Our subcontractors, service providers, and other third parties we use to support our business and the Site;
+  * For any other purposes disclosed by us when you provide the information; or
+  * With your consent.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We may also share your personal information to comply with any court order or legal obligation, including responding to any lawful government or regulatory request, or if we believe disclosure is necessary to enforce or protect our rights, property, or safety, or that of our users or third parties.
 
-**What Happens to my Personal Information if I Opt Out?**
+## Data Integration
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+The information we collect automatically does not include personal information, but we may maintain it or associate it with personal information we collect in other ways. It helps us improve our Site and to deliver a better, more personalized experience, including by enabling us to: (a) estimate our audience size and usage patterns; (b) store information about your preferences, allowing us to customize our Site according to your individual interests; (c) speed up your searches; and (d) recognize you when you return to our Site.
 
-**Transfer of Data Abroad**
+## Your Choices About Our Collection, Use, and Disclosure
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We strive to provide you with information and choices regarding the information you provide to us and/or that we collect, including:  
+_Tracking Technologies._ You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent, when you access our Site. Information on deleting or controlling cookies can be found at www.aboutcookies.org. If you disable or refuse cookies in your browser, please note that some parts of our Site may then be inaccessible or may not function properly.  
+_Opt-Out of Emails._ You may opt-out of receiving future communications from us by using the unsubscribe process at the bottom of an email from us, or by emailing us at hello@outrider.org with “unsubscribe” in the subject line.  
+_Opt-Out of Ads._ You can opt out of online behavioral advertising from certain ads on third party websites by visiting [http://youradchoices.com](http://youradchoices.com/). Keep in mind that these opt-outs work using cookies, so if you delete your cookies, then you will need to opt out again. Also, as you use different devices or browsers, you will need to opt out on each browser and device individually. You can also help limit the amount of online and mobile advertising that you can receive by opting out of advertising from Network Advertising Initiative member companies at <http://www.networkadvertising.org/choices.>
 
-**Changes in Our Practices**
+## External Websites
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+_Third Party Links._ Our Site contains links to websites operated and maintained by third parties. We have no control over and are not responsible for the privacy policies or content on those websites, and any links to third party websites do not imply an affiliation between Outrider and the website owner, or any endorsement, approval or verification of any content contained on those websites. Privacy policies on third party websites may be different from our Policy. You access such links at your own risk. You should always read the privacy policy of a website before disclosing any of your information.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+_Social Media._ We may interact with you on social media, including on Facebook and Twitter. Please note that any content you post to social media platforms is subject to the specific social media platform’s terms of use and privacy policy.
 
-**Contacting Our Site**
+## Do Not Track
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+The Site does not respond to “do not track” requests. All traffic is treated as equal and processed the same. If you desire to have your browsing be private, we suggest that you use your web browser’s private or incognito function, or similar options.
 
-* * *
+## Notice to California Residents
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marking purposes. To make such a request, please send an email to hello@outrider.org or write us at: Outrider Foundation, 834 E. Washington Ave., Suite 333, Madison, Wisconsin 53703.
+
+## Children Under the Age of 13
+
+Our Site is not intended for anyone under the age of 13, and we do not knowingly collect personal information from children under 13. In the event that we learn that we have collected personal information from a child under the age of 13, without parental consent, we will delete that information and otherwise comply with the requirements of any applicable law including the Children’s Online Privacy Protection Act. If you believe that we might have any information from or about a child under the age of 13, please contact us at hello@outrider.org.
+
+## Security
+
+We strive to use reasonable means to secure your personal information; however, please keep in mind that the transmission of information over the Internet and on mobile platforms is not always secure, which means we cannot and do not guarantee the security or confidentiality of any personal information you provide to us. Given this reality, your use of our Site, and your decision to provide personal information to us, is at your own risk.
+
+## Changes to This Policy
+
+As a result, we may update this Policy at any time in our discretion to reflect material changes in the manner in which we deal with personal information. The Policy posted here will always be current. We encourage you to review it regularly. If we make a material change to the Policy, we will post the updated Policy on this page. Your continued use of this Site after we make changes is deemed to be your acceptance of any changes.
+
+## Contact Us
+
+To ask questions or comment about this Policy or to remove or change your contact information in our database, or to not receive future mailings or other communications, as well as other inquiries, please contact us at any time using one of the options below:
+
+  * Via e-mail: hello@outrider.org
+  * Via telephone: 608-237-3489
+  * Via mail: 
+
+
+
+                  Outrider Foundation  
+                  Attn: Digital Director  
+                  834 E. Washington Ave., Suite 333  
+                  Madison, Wisconsin 53703
