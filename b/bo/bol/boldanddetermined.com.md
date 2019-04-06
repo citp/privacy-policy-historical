@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boldanddetermined.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013220608id_/https%3A//boldanddetermined.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldanddetermined.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406154440id_/https%3A//boldanddetermined.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bold and Determined
 
@@ -50,7 +50,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms of Service
 
-Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://boldanddetermined.com/terms-of-service/>
+Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://boldanddetermined.com/terms-of-service/>
 
 ## Your Consent
 
@@ -64,4 +64,4 @@ This policy was last modified on November 6, 2013
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us [here](http://boldanddetermined.com/contact/).
+If there are any questions regarding this privacy policy you may contact us [here](https://boldanddetermined.com/contact/).
