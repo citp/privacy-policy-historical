@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the dirjournal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191649id_/https%3A//www.dirjournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirjournal.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406043118id_/https%3A//www.dirjournal.com/privacy.php) for the most accurate reproduction.*
 
 # DirJournal Local Search - Privacy Policy
-
-DirJournal has Turned 10 Years Old. Win an iPhone 7 Plus, $300 Cash and 5 Free Listings. **[Use the coupon DJTurns10 for a whopping 40% discount](https://web.archive.org/submit.php)**
 
 The Directory Journal feels strongly that your information and rights must be protected. To this end, we have prepared the following privacy policy to ensure all measures are taken to protect the interests of our visitors and provide a more pleasant site experience.
 
 ## Personal Information
 
-  * The Directory Journal is the sole owner of information collected on the website, [www.dirjournal.com](http://www.dirjournal.com/). 
+  * The Directory Journal is the sole owner of information collected on the website, [www.dirjournal.com](https://www.dirjournal.com/). 
   * The Directory Journal collects and uses personal in various ways including submission forms, registration, order forms, and emails. 
   * The information collected is used for specific business purposes and is not sold or distributed to any third parties. It is used only for the purposes which the visitor intended, be it site review, ad placement, etc… The primary exception to this policy would be if information were required to be distributed to any law enforcement person or agency as required by local laws.
   * Payment information is processed through a third party credit card processor and is not collected by The Directory Journal. This processor does not share, sell or otherwise use personal information for secondary purposes.
@@ -35,4 +33,4 @@ The Directory Journal contains links to other websites including submitted sites
 
 Any changes to the privacy policy will be posted within this document as well as on the homepage and any other pertinent location. It is important to us that our users be aware of any and all policies regarding the policies for collection and use of their information. Information will be used in the manner under which it was originally collected. 
 
-Our privacy policy extends only to this website, [www.dirjournal.com](http://www.dirjournal.com/). 
+Our privacy policy extends only to this website, [www.dirjournal.com](https://www.dirjournal.com/). 
