@@ -1,21 +1,86 @@
-> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127174508id_/https%3A//www.vivid.com/privacy/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivid.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406153428id_/https%3A//www.vivid.com/privacy/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Vivid | Celebrity Sex Tapes | Vivid Privacy Policy
 
-Vivid Entertainment, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+## PRIVACY POLICY
 
-We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and to gather broad demographic information.
+Last revised on June 1, 2018
 
-Our site's subscription forms require users to give us contact information (to include names and E-mail addresses), financial information (to include account or credit card numbers). We use customer contact information from the subscription form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Gamma Entertainment Inc. provides certain services of Vivid.com and shall be known as "We", "Us" and "Our". We understand the privacy of Vivid.com Users is very important. During the navigation of the website and the registration process Users may provide personal identifiable information about themselves, therefore We have developed this policy to protect User privacy while they enjoy Vivid.com.   
+Only adults who are at least 18 years old (21 years old in some jurisdictions) may navigate, purchase a membership or use Vivid.com. All other persons under this age must leave the site immediately.
 
-This site contains links to other sites. Vivid Entertainment, Inc. is not responsible for the privacy practices or the content of other such websites. Selection of an ad banner or link redirects User to a third party. Transactions that occur between the User and the third party are strictly between the User and the third party and are not the responsibility of Vivid Entertainment, Inc. Because Vivid Entertainment, Inc. is not responsible for the availability of these outside resources or their privacy policy or content, User should direct any concerns regarding any external link to its site administrator or Webmaster.
+What is collected  
+By navigating the site, signing up or communicating with the Our [Client Relations](http://www.vc-bill.com/) department We collect personal information provided such as name, email, zip, Payment Method details, IP address and login details (username and password). If Users choose to post information, messages or comments in public areas on vivid.com then any information about the User will be kept on vivid.com. Lastly, if Users send personal correspondence via email, ticket or chat such information will be maintained as a record of correspondence.
 
-Our site uses order forms for customers to request information, products, and services. We collect visitor's contact information (to include E-mail addresses), and financial information (to include account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Users should enjoy the full experience of vivid.com. By signing up with personal information or by the continued use and browsing of vivid.com Users are consenting to Our processing of personal information, communication with and analysis of the information provided by Users.
 
-Financial information that is collected is used to check the users' qualifications and to bill the user for products and services ordered.
+Why We Collect this Information  
+We use personal information to provide Users contractual access to Vivid.com, to process User authorized payments, communicate receipts, troubleshoot problems, resolve disputes, enforce any agreements or policies, and to facilitate viewing of Vivid.com. We may use the information collected to improve marketing, analyze site usage, improve content offerings, customize site layout and provide information about Vivid.com to its Users.
 
-Should the user utilize chat rooms, forums, message boards, and/or news groups, please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+We may use the Users and former Users' email addresses to communicate new services, subscription information and special offers from Us, Our partners or third parties. When Users and former Users are presented with special offers from Us, Our partners or third parties they may include consent to receive email solicitations, communications, newsletters, commercial advertising and other promotional or special event materials.
 
-Opting Out - Revocation of Consent To Email Procedure The Site also offers all Members and Users a procedure for opting out if the Member or User subsequently chooses to revoke or withdraw any consent to receive offers by sending an e-mail to support@vividcash.com and clearly stating that the Member or User has revoked or withdrawn consent to receive any future Offers. Members and Users may also Unsubscribe to Opt-In emails via Unsubscribe links at the bottom of a generated email to the Member or User.
+Third parties use personal information to complete transactions at Users’ request, including but not limited to joining Vivid.com or providing Users with requested products. By consenting to the terms and conditions of Vivid.com and taking any action to facilitate the completion of a transaction, Users agree to the use of personal information in this manner.
 
-You can send email to support@vivid.com You can send mail to the following postal address: Consumer Protection Dept. 26500 W, Agoura Rd, Calabasas, Ca. 91302
+All personal information regarding Users will be encrypted and retained in a secure manner. Any Payment Method details (i.e. credit card details) will only be retained for two (2) years after the last date of being processed or after it has expired, whichever is later.
+
+Who May Receive User Information  
+We are constantly striving to deliver the best to Users and We may use the information collected to deliver information targeted to User interests. Such information may be shared or licensed to Our partners, affiliated or unaffiliated third-party web service providers who display banners or links on Vivid.com. We encourage Users to read their policies, terms and conditions as they are not the same as Ours.
+
+Personal information is received by various financial institutions used to process Users’ payment method. Some personal information may also be stored in the Cloud which servers are located in the USA
+
+We may disclose personal information collected if required by law, court order or other governmental authority or when We believe in good faith that disclosing this information is otherwise necessary or advisable, including to identify, contact or bring legal action against someone who may be causing injury to or interfering with the rights or property of vivid.com or Us.
+
+In the event of a change of ownership (merger, acquisition, sale of assets) We reserve the right to transfer all User information collected in connection with vivid.com to such separate entity.
+
+Rights of Users residing in the European Union  
+> Users residing in the European Union may exercise their right to be forgotten in accordance with the General Data Protection Regulation (GDPR). Users must contact Client Relations providing all details necessary to identify the User and sufficient details regarding the membership(s) they wish to be deleted. We shall comply with this request in less than thirty (30) days where the request does not prove impossible or involve disproportionate effort for Us to comply.
+
+In accordance with this same regulation, Users residing in the European Union also have the right to obtain a copy of their personal information by contacting Client Relations. Such information will be provided to the User in digital format within less than thirty (30) days where the request does not prove impossible or involve disproportionate effort for Us to comply.
+
+Users residing in the European Union have the right to complain to the supervisory authority in their country
+
+Your Rights  
+Users have the right to stop receiving promotional emails from Us and may exercise this right at any time by clicking on the unsubscribe link at the bottom of any email, by visiting <http://www.td3x.com/>, or by contacting Our [Client Relations](http://www.famesupport.com/) department. Users may NOT opt out of receiving emails regarding account details such as responses to questions or membership purchase receipts. Users must directly contact Our partners or third parties from which they receive other communication for questions or to unsubscribe.
+
+Users have the right to withdraw their consent to processing the personal information necessary to provide access to vivid.com (such as debiting their payment method, streaming or downloading video and images, interacting with the website as a member). Users must contact [Client Relations](http://www.famesupport.com/) by telephone, email or chat to withdraw this consent. Please note this will remove all access to vivid.com.
+
+Users have the right to change their payment method where applicable (for example if their credit card expired or they wish to change the credit card associated with their Membership)
+
+Users who wish to make a change other personal information (rectification) must create a new membership. Such Users are solely responsible to cancel the initial membership they wanted to rectify when creating a new membership.
+
+Cookies  
+Cookies are pieces of information generated by web servers and stored on the computer or device used to access and surf websites for future access. Vivid.com uses cookies which are essential to the operation of the site in order for Users to view the content. Other cookies include analytical cookies which monitor the performance of Vivid.com and help Us provide better products or identify areas needing maintenance. Tracking cookies are used in relation to those who help promote Vivid.com. Functional cookies are helpful to record User preferences when returning to Vivid.com; for example, they are used to remember the scenes or photos stored in a favorites' folder or the preferred language to use when navigating Vivid.com and to provide features such as 1-Click purchasing. Finally, advertising cookies or third-party cookies may be used to provide specific advertising to Users which We believe are relevant to User interests. Please note We cannot control cookies placed on your computer or device by third party advertisers.
+
+How to control cookies  
+Users are not obligated to accept cookies and browsers can be modified to refuse cookies. Users may also delete cookies. If all cookies are refused, many websites may not function properly, including Ours. It is possible to modify browser settings to only accept cookies with consent before each cookie is placed on the computer or device used. This provides more control over what is placed on the computer or device, however it may slow down the web experience.
+
+Assistance in managing cookies may be found through the following browser links, choose a corresponding browser from the list and follow the instructions 
+
+  * [Internet Explorer](http://windows.microsoft.com/en-CA/internet-explorer/delete-manage-cookies)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Safari](https://support.apple.com/kb/PH19214?locale=en_US)
+  * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+  * [Opera](http://www.opera.com/help/tutorials/security/cookies/)
+
+
+
+Please remember disabling or refusing cookies may lead to many services on vivid.com being unavailable
+
+Web Beacons  
+In order to effectively deliver email communications and perform website analysis We may use web beacons. Web beacons are electronic files which count the Users who access Vivid.com or a specific page and can help Us identify if a cookie has been activated. Web beacons also allow Us to confirm an email message was successfully delivered and read. It is not possible to decline web beacons; however, by refusing cookies this can also prevent web beacons from being used.
+
+Security  
+We take reasonable precautions against external threats to maintain security of any information obtained from and about Users, and to protect against the loss, misuse and alterations of information under Our control. Our third-party payment processors provide Users with a secure web page through which billing information is submitted when purchasing a membership. All personally identifiable information held by Us is stored in a secure location (behind a firewall with limited administrative access).
+
+User login information must be protected by the User. We advise all Users NOT to share username or password details with anyone. It is the User's responsibility to keep password information confidential. A User's account may be deactivated for abuse if We assess a User's login details have been used by someone other than the registered User to Vivid.com.
+
+Legal  
+Personal information collected on and/or through Vivid.com is stored and processed in Canada, the Netherlands or the United States. By using Vivid.com Users consent to any transfer of such information outside the country in which they reside or access Vivid.com and to be bound by the laws of Canada or the United States - where personal information may be stored.
+
+This policy does not apply to any linked websites to Vivid.com. Please consult the privacy policy, terms and conditions of the website to which redirection may occur if clicking on any banner or advertisement.
+
+By using/navigating Vivid.com Users acknowledge they have read, understood and agree to be bound by this privacy policy and the terms and conditions of Vivid.com. Headings are for ease of reference only.
+
+Feel free to contact Us at Gamma Entertainment, 3300 Boulevard Cote Vertu, Suite 406, Montreal, QC, H4R 2B7, Canada. support@vc-bill.com, [online chat](http://www.famesupport.com/) or by telephone at 1-877-959-7338. Any questions regarding credit card or other billing matters, please feel free to contact Vivid Entertainment LLC at [support.vivid.com](https://support.vivid.com/)
+
+Data protection officer: Director of Legal Affairs, 3300 Boulevard Cote Vertu, Suite 406, Montreal, QC, H4R 2B7, Canada (GDPR@gammae.com)
