@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ahs.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122213955id_/https%3A//www.ahs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahs.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406043539id_/https%3A//www.ahs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: November 9, 2015
+Effective Date: January 1, 2019
 
-This Privacy Policy which details important information regarding the use and disclosure of user information collected on the website ahs.com, which is owned by The ServiceMaster Company and operated by the American Home Shield Corporation (“AHS”, “we” or “us”) and any successor website, (collectively the “Site”), and other interactive properties, including but not limited to any mobile applications enabling you to access the Site (the Site and other AHS interactive properties are collectively referred to herein as the “AHS Applications"). AHS provides this Privacy Policy to help you make an informed decision about whether to use, or continue to use, the products and services provided by AHS and/or accessed through the AHS Applications or offline ("Product(s)" and "Service(s)"). This Privacy Policy applies to your use of (1) the AHS Applications (however accessed and/or used, whether via personal computers, mobile devices or otherwise); (2) our Products and Services; (3) email or electronic catalogs and newsletters; (4) offline means such as direct mail, telephone and postal mail; and (5) any other means or applications in which you connect with AHS.
+This Privacy Policy which details important information regarding the use and disclosure of user information collected on the website ahs.com, which is owned and operated by the American Home Shield Corporation (“AHS”, “we” or “us”) on behalf of itself and its subsidiaries and any successor website, (collectively the “Site”), and other interactive properties, including but not limited to any mobile applications enabling you to access the Site (the Site and other AHS interactive properties are collectively referred to herein as the “AHS Applications"). AHS provides this Privacy Policy to help you make an informed decision about whether to use, or continue to use, the products and services provided by AHS and/or accessed through the AHS Applications or offline ("Product(s)" and "Service(s)"). This Privacy Policy applies to your use of (1) the AHS Applications (however accessed and/or used, whether via personal computers, mobile devices or otherwise); (2) our Products and Services; (3) email or electronic catalogs and newsletters; (4) offline means such as direct mail, telephone and postal mail; and (5) any other means or applications in which you connect with AHS.
 
 By accessing, using, registering with, or providing personal information to AHS, you explicitly accept, without limitation or qualification, (i) the collection, use, storage and transfer (including international transfer) of user information in the manner described in this Privacy Policy (as amended from time to time) and (ii) the AHS Terms of Use hereby incorporated by reference. THIS PRIVACY POLICY AFFECTS YOUR RIGHTS AND LIABILITIES UNDER THE LAW. If you do not agree to the terms of this Privacy Policy, do not access or use the AHS Applications or provide us with personal information.
 
@@ -72,7 +72,7 @@ If you wish to prevent your data from being used by Google Analytics, Google has
 We use your information, subject to applicable laws, in the following ways:
 
   * to allow you to register and create an account and profile;
-  * within The ServiceMaster Family of Brands which include American Home Shield, AmeriSpec, Furniture Medic, Merry Maids, ServiceMaster Clean, and Terminix.
+  * with American Home Shield or its subsidiaries, which inlude, HSA, OneGuard, and Landmark.
   * to deliver, provide or process payment for a product or service you have requested;
   * to enable you to provide us with feedback, to contact us and for us to contact you;
   * to administer promotions you enter such as a contest or sweepstakes;
@@ -132,11 +132,11 @@ To opt-out of marketing communications or to request to be added to our Do Not C
 
 Robert E. Schuerman, Assistant General Counsel  
 Administrator, AHS Privacy Policy   
-The ServiceMaster Company   
-860 Ridge Lake Road  
-Memphis, TN 38120
+American Home Shield Corporation  
+150 Peabody Place Suite 300  
+Memphis, TN 38103
 
-**If you receive marketing communications from one or more brands within the Service Master Family of Brands, you must opt-out individually from each of the brands from which you are receiving brand-specific marketing communications.**
+**If you receive marketing communications from American Home Shield or one of its subsidiaries, you must opt-out individually from each of the brands from which you are receiving brand-specific marketing communications.**
 
 Please note that even if you opt out of receiving promotional direct mail offers, we may continue to send you service notifications by direct mail that are related to your account(s) and our Products and Services you have requested or in which you are currently enrolled. 
 
@@ -166,8 +166,8 @@ We urge you to keep any password that you establish with us in a safe place and 
 
 Robert E. Schuerman, Assistant General Counsel  
 Administrator, AHS Privacy Policy   
-The ServiceMaster Company   
-860 Ridge Lake Road  
-Memphis, TN 38120
+American Home Shield Corporation  
+150 Peabody Place Suite 300  
+Memphis, TN 38103
 
-©2015 The American Home Shield Corporation. All rights reserved.
+©2019 The American Home Shield Corporation. All rights reserved.
