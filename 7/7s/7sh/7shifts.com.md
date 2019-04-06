@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7shifts.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002004015id_/https%3A//www.7shifts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7shifts.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406082037id_/https%3A//www.7shifts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 7shifts
 
@@ -12,9 +12,9 @@ This Privacy Policy aims to clearly outline our policies and procedures for coll
 
  This Privacy Policy explains what we do with your Personal Data when: 
 
-  * your organization signs up to the Service and you access the 7shifts Application using a business account via our website ([www.7shifts.com](http://www.7shifts.com/)), subdomain (*.7shifts.com), Apple App Store, Google Play Store, through applications on devices, through APIs, or through third-parties, or partner marketplaces (together, the " **Application Users** "); 
+  * your organization signs up to the Service and you access the 7shifts Application using a business account via our website ([www.7shifts.com](https://www.7shifts.com/)), subdomain (*.7shifts.com), Apple App Store, Google Play Store, through applications on devices, through APIs, or through third-parties, or partner marketplaces (together, the " **Application Users** "); 
   * you cease to access the 7shifts Application using a business account attached to your organization (“ **Former Application User** ”); 
-  * you visit our website [www.7shifts.com](http://www.7shifts.com/) (the " **Website** ") while browsing the internet (together, the " **Website Users** "); and
+  * you visit our website [www.7shifts.com](https://www.7shifts.com/) (the " **Website** ") while browsing the internet (together, the " **Website Users** "); and
   * you call our customer service team or sales team for any purpose (" **Phone User** "). 
 
 
