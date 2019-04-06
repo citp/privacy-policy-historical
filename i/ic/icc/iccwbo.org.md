@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231083500id_/https%3A//iccwbo.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406053944id_/https%3A//iccwbo.org/privacy) for the most accurate reproduction.*
 
 # Privacy - ICC - International Chamber of Commerce
 
@@ -8,7 +8,7 @@
 
 The International Chamber of Commerce (ICC) is the world business organization, the only representative body that speaks with authority on behalf of enterprises from all sectors in every part of the world. ICC was founded in 1919. Today it groups **over 6 million members in more than 100 countries**.
 
-The ICC International Secretariat is located at 33-43 avenue du Président Wilson, 75116 Paris, France. We can be reached by phone at +33 1 49 53 28 28 or by fax at +33 1 49 53 28 59.
+The ICC International Secretariat is located at 33-43 avenue du Président Wilson, 75116 Paris, France. We can be reached by phone at +33 1 49 53 28 28 or by fax at +33 (0) 1 86 26 67 44.
 
  **ICC Corporate Chart**
 
