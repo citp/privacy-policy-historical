@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alumbo.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227012452id_/https%3A//www.brandroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumbo.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406234330id_/https%3A//www.brandroot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
