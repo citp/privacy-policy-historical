@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japantravel.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905225836id_/https%3A//en.japantravel.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantravel.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406222303id_/https%3A//en.japantravel.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Policies | Japan Travel
 
@@ -24,7 +24,7 @@ We only collect information about you if we have a reason to do so – for examp
   * **Transaction and Billing Information:** If you buy something from us—a tour or activity from our shop, or a custom tour requiring accommodation and/or transportation, for example—you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information. 
   * **Customer Personal Information:** We keep a portion of personal information provided by customers in travel requests and other transactions as personal data. Japan Travel also handles personal data entrusted to it by other travel companies in order to provide travel arrangements requested by those companies.. 
   * **Communications with us:** You may also provide us information when you respond to surveys, communicate with our support team, or apply for a role with us. 
-  * **Technical, Usage and Location Information:** We automatically collect information on how you interact with the Services, such as the IP address from which you access the Services, date and time, information about your browser, operating system and computer or device, pages viewed, and items clicked. We may also collect location information, including location information automatically provided by your computer or device. We use [cookies](https://web.archive.org/web/20180905225836id_/https%3A//en.japantravel.com/policies/cookies) and similar technologies to collect some of this information. 
+  * **Technical, Usage and Location Information:** We automatically collect information on how you interact with the Services, such as the IP address from which you access the Services, date and time, information about your browser, operating system and computer or device, pages viewed, and items clicked. We may also collect location information, including location information automatically provided by your computer or device. We use [cookies](https://web.archive.org/web/20190406222303id_/https%3A//en.japantravel.com/policies/cookies) and similar technologies to collect some of this information. 
 
 
 
