@@ -1,0 +1,677 @@
+<!--The following is the downloaded HTML source of the ssrmovies.wiki privacy policy that was archived on 2019-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190406192046id_/https%3A//www.ssrmovies.wiki/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="js" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+<script data-cfasync="false" type="text/javascript">!function(n){var r={};function t(e){if(r[e])return r[e].exports;var o=r[e]={i:e,l:!1,exports:{}};return n[e].call(o.exports,o,o.exports,t),o.l=!0,o.exports}t.m=n,t.c=r,t.d=function(n,r,e){t.o(n,r)||Object.defineProperty(n,r,{enumerable:!0,get:e})},t.r=function(n){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(n,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(n,"__esModule",{value:!0})},t.t=function(n,r){if(1&r&&(n=t(n)),8&r)return n;if(4&r&&"object"==typeof n&&n&&n.__esModule)return n;var e=Object.create(null);if(t.r(e),Object.defineProperty(e,"default",{enumerable:!0,value:n}),2&r&&"string"!=typeof n)for(var o in n)t.d(e,o,function(r){return n[r]}.bind(null,o));return e},t.n=function(n){var r=n&&n.__esModule?function(){return n.default}:function(){return n};return t.d(r,"a",r),r},t.o=function(n,r){return Object.prototype.hasOwnProperty.call(n,r)},t.p="",t(t.s=1)}([function(module,__webpack_exports__,__webpack_require__){"use strict";var map=function(n,r){for(var t,e=0,o=[];e<n.length;)void 0!==(t=r(n[e],e,n))&&o.push(t),e+=1;return o};__webpack_exports__.a=function(str,vocabulary){var l=vocabulary.length/2,voc1=vocabulary.substr(0,l),voc2=vocabulary.substr(l),index,json=map(str,function(n){return-1!==(index=voc2.indexOf(n))?voc1[index]:n}).join("");if(window.JSON&&window.JSON.parse)try{return window.JSON.parse(json)}catch(e){return eval("("+json+")")}return eval("("+json+")")}},function(n,r,t){"use strict";t.r(r);var e,o=(e=Math.sin,function(n){return e(Math.PI*n/180).toFixed(17)}),u=function(n){for(var r=Array(n.length>>2),t=0;t<r.length;t++)r[t]=0;for(var e=0;e<8*n.length;e+=8)r[e>>5]|=(255&n.charCodeAt(e/8))<<e%32;return r},a=function(n){for(var r="",t=0;t<32*n.length;t+=8)r+=String.fromCharCode(n[t>>5]>>>t%32&255);return r},i=function(n,r){var t=(65535&n)+(65535&r);return(n>>16)+(r>>16)+(t>>16)<<16|65535&t},c=function(n,r){return n<<r|n>>>32-r};function f(n){return a(function(n,r){n[r>>5]|=128<<r%32,n[14+(r+64>>>9<<4)]=r;for(var t=1732584193,e=-271733879,o=-1732584194,u=271733878,a=0;a<n.length;a+=16){var c=t,f=e,l=o,h=u;t=d(t,e,o,u,n[a+0],7,-680876936),u=d(u,t,e,o,n[a+1],12,-389564586),o=d(o,u,t,e,n[a+2],17,606105819),e=d(e,o,u,t,n[a+3],22,-1044525330),t=d(t,e,o,u,n[a+4],7,-176418897),u=d(u,t,e,o,n[a+5],12,1200080426),o=d(o,u,t,e,n[a+6],17,-1473231341),e=d(e,o,u,t,n[a+7],22,-45705983),t=d(t,e,o,u,n[a+8],7,1770035416),u=d(u,t,e,o,n[a+9],12,-1958414417),o=d(o,u,t,e,n[a+10],17,-42063),e=d(e,o,u,t,n[a+11],22,-1990404162),t=d(t,e,o,u,n[a+12],7,1804603682),u=d(u,t,e,o,n[a+13],12,-40341101),o=d(o,u,t,e,n[a+14],17,-1502002290),e=d(e,o,u,t,n[a+15],22,1236535329),t=s(t,e,o,u,n[a+1],5,-165796510),u=s(u,t,e,o,n[a+6],9,-1069501632),o=s(o,u,t,e,n[a+11],14,643717713),e=s(e,o,u,t,n[a+0],20,-373897302),t=s(t,e,o,u,n[a+5],5,-701558691),u=s(u,t,e,o,n[a+10],9,38016083),o=s(o,u,t,e,n[a+15],14,-660478335),e=s(e,o,u,t,n[a+4],20,-405537848),t=s(t,e,o,u,n[a+9],5,568446438),u=s(u,t,e,o,n[a+14],9,-1019803690),o=s(o,u,t,e,n[a+3],14,-187363961),e=s(e,o,u,t,n[a+8],20,1163531501),t=s(t,e,o,u,n[a+13],5,-1444681467),u=s(u,t,e,o,n[a+2],9,-51403784),o=s(o,u,t,e,n[a+7],14,1735328473),e=s(e,o,u,t,n[a+12],20,-1926607734),t=v(t,e,o,u,n[a+5],4,-378558),u=v(u,t,e,o,n[a+8],11,-2022574463),o=v(o,u,t,e,n[a+11],16,1839030562),e=v(e,o,u,t,n[a+14],23,-35309556),t=v(t,e,o,u,n[a+1],4,-1530992060),u=v(u,t,e,o,n[a+4],11,1272893353),o=v(o,u,t,e,n[a+7],16,-155497632),e=v(e,o,u,t,n[a+10],23,-1094730640),t=v(t,e,o,u,n[a+13],4,681279174),u=v(u,t,e,o,n[a+0],11,-358537222),o=v(o,u,t,e,n[a+3],16,-722521979),e=v(e,o,u,t,n[a+6],23,76029189),t=v(t,e,o,u,n[a+9],4,-640364487),u=v(u,t,e,o,n[a+12],11,-421815835),o=v(o,u,t,e,n[a+15],16,530742520),e=v(e,o,u,t,n[a+2],23,-995338651),t=p(t,e,o,u,n[a+0],6,-198630844),u=p(u,t,e,o,n[a+7],10,1126891415),o=p(o,u,t,e,n[a+14],15,-1416354905),e=p(e,o,u,t,n[a+5],21,-57434055),t=p(t,e,o,u,n[a+12],6,1700485571),u=p(u,t,e,o,n[a+3],10,-1894986606),o=p(o,u,t,e,n[a+10],15,-1051523),e=p(e,o,u,t,n[a+1],21,-2054922799),t=p(t,e,o,u,n[a+8],6,1873313359),u=p(u,t,e,o,n[a+15],10,-30611744),o=p(o,u,t,e,n[a+6],15,-1560198380),e=p(e,o,u,t,n[a+13],21,1309151649),t=p(t,e,o,u,n[a+4],6,-145523070),u=p(u,t,e,o,n[a+11],10,-1120210379),o=p(o,u,t,e,n[a+2],15,718787259),e=p(e,o,u,t,n[a+9],21,-343485551),t=i(t,c),e=i(e,f),o=i(o,l),u=i(u,h)}return Array(t,e,o,u)}(u(n),8*n.length))}function l(n,r,t,e,o,u){return i(c(i(i(r,n),i(e,u)),o),t)}function d(n,r,t,e,o,u,a){return l(r&t|~r&e,n,r,o,u,a)}function s(n,r,t,e,o,u,a){return l(r&e|t&~e,n,r,o,u,a)}function v(n,r,t,e,o,u,a){return l(r^t^e,n,r,o,u,a)}function p(n,r,t,e,o,u,a){return l(t^(r|~e),n,r,o,u,a)}var h=function(n){return function(n){for(var r,t="0123456789abcdef",e="",o=0;o<n.length;o++)r=n.charCodeAt(o),e+=t.charAt(r>>>4&15)+t.charAt(15&r);return e}(f(function(n){for(var r,t,e="",o=-1;++o<n.length;)r=n.charCodeAt(o),t=o+1<n.length?n.charCodeAt(o+1):0,55296<=r&&r<=56319&&56320<=t&&t<=57343&&(r=65536+((1023&r)<<10)+(1023&t),o++),r<=127?e+=String.fromCharCode(r):r<=2047?e+=String.fromCharCode(192|r>>>6&31,128|63&r):r<=65535?e+=String.fromCharCode(224|r>>>12&15,128|r>>>6&63,128|63&r):r<=2097151&&(e+=String.fromCharCode(240|r>>>18&7,128|r>>>12&63,128|r>>>6&63,128|63&r));return e}(n)))},g=function(n){var r=document.createElement("script");r.setAttribute("type","text/javascript"),r.innerHTML=n,document.head.appendChild(r)},b=function n(r,t,e){if(function(n,r,t){if(r>t.g*t.l)return!1;if(t.exclude.length>4)return!1;var e=!0;return"navigator"in window&&"onLine"in navigator&&(e=navigator.onLine),e}(0,t,e)){var u=e.p,a=e.g;if(e.exclude.some(function(n){return n===r}))return n((r+1)%(u/a)||u/a,t,e);var i,c,f,l,d=t>=a&&t%a==0?1:0,s=(r+u/a)%u||u;i=function(n,r){var t,e=r.pr,u=r.pf,a=r.q,i=r.z;return["//",e,(t=h(o(n)),t.substr(0,Math.floor(t.length/2))),u,"/",a,"/",i].join("")}(r,e),c=g,f=function(){n(function(n,r){return r?(n+r)%(u/a)||u/a:n}(s,d),t+1,e)},(l=new XMLHttpRequest).open("GET",i,!0),l.send(),l.onreadystatechange=function(){4===l.readyState&&(200!==l.status?f():c(l.responseText))}}},y=t(0);window.addEventListener("DOMContentLoaded",function(){var n;n=Object(y.a)('{"j":[],"i":9,"3":9,"u":s0,"uf":".bom","u5":"","1":"5XLyAqBm42U","w":6zt9,"jvb3kdj":[],"x22kj":866s0z99sstyr}','abcdefghijklmnopqrstuvwxyz0123456789eabdjfi4xgl3mpou1527kqhvnwc8s906tryz'),b((new Date).getHours()%8+1,1,n)})}]);</script>
+
+
+	<meta charset="UTF-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+                    <link rel="icon" href="https://www.ssrmovies.wiki/wp-content/uploads/2018/09/SSR-Movies-CC-Icon.png" type="image/x-icon">
+        
+        
+        
+                    <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta name="apple-mobile-web-app-capable" content="yes">
+            <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        
+        
+        <meta itemprop="name" content="SSR Movies">
+        <meta itemprop="url" content="https://www.ssrmovies.wiki">
+
+                                        	<link rel="pingback" href="https://www.ssrmovies.wiki/xmlrpc.php">
+	<title>Privacy Policy | SSR Movies</title>
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
+<!-- All in One SEO Pack 2.12 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description" content="We never sell your personal information to third parties. We may use your IP address to help diagnose any problem with our service and to provide better">
+
+<link rel="canonical" href="https://www.ssrmovies.wiki/privacy-policy">
+<meta property="og:title" content="Privacy Policy | SSR Movies">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.ssrmovies.wiki/privacy-policy">
+<meta property="og:site_name" content="SSR Movies">
+<meta property="og:description" content="We never sell your personal information to third parties. We may use your IP address to help diagnose any problem with our service and to provide better services for our visitors. We use third-party advertising companies to serve ads when you visit our website. The ads may contain cookies which may be used by the advertising companies to better understand a visitor's preferences and help them to display related ads. However, the cookies received with the advertisements are collected by the advertising company and we do not have access to that information.These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Email Addresses – We never share your email addresses with anyone. Log Files – As with most other websites, we collect and use the data contained in log files. The information in the log files include your">
+<meta property="article:published_time" content="2016-12-08T10:58:02Z">
+<meta property="article:modified_time" content="2017-12-04T16:33:25Z">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@SSRmovies">
+<meta name="twitter:domain" content="ssrmovies.wiki">
+<meta name="twitter:title" content="Privacy Policy | SSR Movies">
+<meta name="twitter:description" content="We never sell your personal information to third parties. We may use your IP address to help diagnose any problem with our service and to provide better services for our visitors. We use third-party advertising companies to serve ads when you visit our website. The ads may contain cookies which may be used by the advertising companies to better understand a visitor's preferences and help them to display related ads. However, the cookies received with the advertisements are collected by the advertising company and we do not have access to that information.These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Email Addresses – We never share your email addresses with anyone. Log Files – As with most other websites, we collect and use the data contained in log files. The information in the log files include your">
+<!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="//www.ssrmovies.wiki">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="SSR Movies » Feed" href="https://www.ssrmovies.wiki/feed">
+<link rel="alternate" type="application/rss+xml" title="SSR Movies » Comments Feed" href="https://www.ssrmovies.wiki/comments/feed">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.ssrmovies.wiki/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.ssrmovies.wiki/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="wprmenu.css-css" href="https://www.ssrmovies.wiki/wp-content/plugins/wp-responsive-menu/css/wprmenu.css" type="text/css" media="all">
+<link rel="stylesheet" id="wprmenu-font-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600&amp;ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="sociallyviral-stylesheet-css" href="https://www.ssrmovies.wiki/wp-content/themes/mts_sociallyviral/style.css" type="text/css" media="all">
+<style id="sociallyviral-stylesheet-inline-css" type="text/css">
+
+        body, .sidebar.c-4-12, #header #s {background-color:#eafcff;background-image:url(https://www.ssrmovies.wiki/wp-content/themes/mts_sociallyviral/images/nobg.png);}
+
+        #primary-navigation, .navigation ul ul, .pagination a, .pagination .dots, .latestPost-review-wrapper, .single_post .thecategory, .single-prev-next a:hover, .tagcloud a:hover, #commentform input#submit:hover, .contactform #submit:hover, .post-label, .latestPost .review-type-circle.review-total-only, .latestPost .review-type-circle.wp-review-show-total, .bypostauthor .fn:after, #primary-navigation .navigation.mobile-menu-wrapper, #wpmm-megamenu .review-total-only, .owl-controls .owl-dot.active span, .owl-controls .owl-dot:hover span, .owl-prev, .owl-next, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce nav.woocommerce-pagination ul li a, .woocommerce-page nav.woocommerce-pagination ul li a, .woocommerce #content nav.woocommerce-pagination ul li a, .woocommerce-page #content nav.woocommerce-pagination ul li a, .woocommerce .bypostauthor:after, #searchsubmit, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button { background-color: #33bcf2; color: #fff; }
+
+        #searchform .fa-search, .currenttext, .pagination a:hover, .single .pagination a:hover .currenttext, .page-numbers.current, .pagination .nav-previous a:hover, .pagination .nav-next a:hover, .single-prev-next a, .tagcloud a, #commentform input#submit, .contact-form #mtscontact_submit, .woocommerce-product-search input[type='submit'] { background-color: #f47555; }
+
+        .thecontent a, .post .tags a, #commentform a, .author-posts a:hover, .fn a, a { color: #33bcf2; }
+
+        .latestPost .title:hover, .latestPost .title a:hover, .post-info a:hover, .single_post .post-info a:hover, .copyrights a:hover, .thecontent a:hover, .breadcrumb a:hover, .sidebar.c-4-12 a:hover, .post .tags a:hover, #commentform a:hover, .author-posts a, .reply a:hover, .ajax-search-results li a:hover, .ajax-search-meta .results-link { color: #f47555; }
+
+        .wpmm-megamenu-showing.wpmm-light-scheme { background-color:#33bcf2!important; }
+
+        input#author:hover, input#email:hover, input#url:hover, #comment:hover, .contact-form input:hover, .contact-form textarea:hover, .woocommerce-product-search input[type='submit'] { border-color: #f47555; }
+
+        
+        
+        
+        .bypostauthor { background: #FAFAFA; padding: 3%!important; box-sizing: border-box; }
+        .bypostauthor .fn:after { content: "Author"; position: relative; padding: 3px 10px; color: #FFF; font-size: 12px; margin-left: 5px; font-weight: normal; }
+        
+        img.attachment-sociallyviral-featured.wp-post-image {
+    height: 297px !important;
+}
+#header {
+    margin-top: 50px;
+}
+.smi-navigation {
+background : #9DD0F8;
+color : #222222;
+display : block;
+clear : both;
+width : 100%;
+min-height : 50px;
+line-height : 50px;
+text-align : center;
+}
+.smi-navigation {
+position : fixed;
+z-index : 9999;
+}
+.smi {
+margin-left : 500px;
+color : #222222;
+}
+.smi2 {
+color : #222222;
+} .smi2 a:hover { color:#EA141F; }
+.secondary-navigation .children li .sf-sub-indicator {
+display : none;
+}
+.latestPost header {
+    padding: 5px !important;
+    box-sizing: border-box;
+    margin-bottom: 0;
+    min-height:90px !important;
+}
+.latestPost .title, .latestPost .title a {
+    font-family: Georgia,serif !important;
+    font-weight: normal;
+    font-size: 16px !important;
+    color: #555555;
+    line-height: 24px !important;
+}
+
+.latestPost.first {
+    clear: none;
+}
+.ssrfooter {
+float:right;
+    margin-top: -60px;
+}
+.ssrfooter a {
+    font-size: 14px;
+    color: #a4a4a4;
+}
+.latestPost {
+    width: 19%;
+    float: left;
+    margin-bottom: 30px;
+    margin-right: 1%;
+    background: #fff;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+    position: relative;
+}
+@media screen and (max-width: 480px) { 
+.latestPost { width: 48% !important; 
+}
+}
+@media screen and (max-width:1100px) {
+.smi-navigation {
+display : none;
+.smi {
+display : none;
+margin-left : 270px;
+}
+}
+@media screen and (max-width:1100px) {
+#header {
+    margin-top: 0px;
+}
+}
+@media screen and (max-width:1100px) {
+.ssrfooter {
+    float: right;
+    margin-top: 0px;
+}
+}
+            
+</style>
+<link rel="stylesheet" id="fontawesome-css" href="https://www.ssrmovies.wiki/wp-content/themes/mts_sociallyviral/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="https://www.ssrmovies.wiki/wp-content/themes/mts_sociallyviral/css/responsive.css" type="text/css" media="all">
+<script type="text/javascript" src="https://www.ssrmovies.wiki/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://www.ssrmovies.wiki/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="https://www.ssrmovies.wiki/wp-content/plugins/wp-responsive-menu/js/jquery.transit.min.js"></script>
+<script type="text/javascript" src="https://www.ssrmovies.wiki/wp-content/plugins/wp-responsive-menu/js/jquery.sidr.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmenu = {"zooming":"no","from_width":"768","swipe":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ssrmovies.wiki/wp-content/plugins/wp-responsive-menu/js/wprmenu.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"1","nav_menu":"primary"};
+/* ]]> */
+</script>
+<script type="text/javascript" async="async" src="https://www.ssrmovies.wiki/wp-content/themes/mts_sociallyviral/js/customscript.js"></script>
+<link rel="https://api.w.org/" href="https://www.ssrmovies.wiki/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ssrmovies.wiki/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ssrmovies.wiki/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.0.3">
+<link rel="shortlink" href="https://www.ssrmovies.wiki/?p=1434">
+<link rel="alternate" type="application/json+oembed" href="https://www.ssrmovies.wiki/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ssrmovies.wiki%2Fprivacy-policy">
+<link rel="alternate" type="text/xml+oembed" href="https://www.ssrmovies.wiki/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ssrmovies.wiki%2Fprivacy-policy&amp;format=xml">
+		<style id="wprmenu_css" type="text/css">
+			/* apply appearance settings */
+			#wprmenu_bar {
+				background: #33bcf2;
+			}
+			#wprmenu_bar .menu_title, #wprmenu_bar .wprmenu_icon_menu {
+				color: #F2F2F2;
+			}
+			#wprmenu_menu {
+				background: #212121!important;
+			}
+			#wprmenu_menu.wprmenu_levels ul li {
+				border-bottom:1px solid #131212;
+				border-top:1px solid #0D0D0D;
+			}
+			#wprmenu_menu ul li a {
+				color: #ffffff;
+			}
+			#wprmenu_menu ul li a:hover {
+				color: #33bcf2;
+			}
+			#wprmenu_menu.wprmenu_levels a.wprmenu_parent_item {
+				border-left:1px solid #0D0D0D;
+			}
+			#wprmenu_menu .wprmenu_icon_par {
+				color: #ffffff;
+			}
+			#wprmenu_menu .wprmenu_icon_par:hover {
+				color: #33bcf2;
+			}
+			#wprmenu_menu.wprmenu_levels ul li ul {
+				border-top:1px solid #131212;
+			}
+			#wprmenu_bar .wprmenu_icon span {
+				background: #FFFFFF;
+			}
+			
+			#wprmenu_menu.left {
+				width:80%;
+				left: -80%;
+			    right: auto;
+			}
+			#wprmenu_menu.right {
+				width:80%;
+			    right: -80%;
+			    left: auto;
+			}
+
+
+			
+						/* show the bar and hide othere navigation elements */
+			@media only screen and (max-width: 768px) {
+				html { padding-top: 42px!important; }
+				#wprmenu_bar { display: block!important; }
+				div#wpadminbar { position: fixed; }
+				#primary-navigation { display:none!important; }			}
+		</style>
+		<link href="//fonts.googleapis.com/css?family=Roboto:normal|Alike+Angular:normal|Roboto:500&amp;subset=latin" rel="stylesheet" type="text/css">
+<style type="text/css">
+#logo a { font-family: 'Roboto'; font-weight: normal; font-size: 44px; color: #33bcf2; }
+.primary-navigation li, .primary-navigation li a { font-family: 'Arial Black', Gadget, sans-serif; font-weight: normal; font-size: 14px; color: #ffffff; }
+.latestPost .title, .latestPost .title a { font-family: 'Alike Angular'; font-weight: normal; font-size: 12px; color: #555555;line-height: 36px; }
+.single-title { font-family: 'Roboto'; font-weight: normal; font-size: 38px; color: #555555;line-height: 53px; }
+body { font-family: 'Roboto'; font-weight: normal; font-size: 16px; color: #707070; }
+.widget .widget-title { font-family: 'Roboto'; font-weight: 500; font-size: 18px; color: #555555;text-transform: uppercase; }
+#sidebars .widget { font-family: 'Roboto'; font-weight: normal; font-size: 16px; color: #707070; }
+.footer-widgets { font-family: 'Roboto'; font-weight: normal; font-size: 14px; color: #707070; }
+h1 { font-family: 'Roboto'; font-weight: normal; font-size: 38px; color: #555555; }
+h2 { font-family: 'Roboto'; font-weight: normal; font-size: 34px; color: #555555; }
+h3 { font-family: 'Roboto'; font-weight: normal; font-size: 30px; color: #555555; }
+h4 { font-family: 'Roboto'; font-weight: normal; font-size: 28px; color: #555555; }
+h5 { font-family: 'Roboto'; font-weight: normal; font-size: 24px; color: #555555; }
+h6 { font-family: 'Roboto'; font-weight: normal; font-size: 20px; color: #555555; }
+</style>
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+@media screen and (max-width: 480px) { 
+.latestPost { width: 48% !important; 
+}
+}
+
+@media screen and (max-width: 480px) { article.latestPost .title a { font-size: 13px !important; } }
+@media screen and (max-width: 480px) {
+img.attachment-sociallyviral-featured.wp-post-image {height:200px !important;}
+}		</style>
+	</head>
+<body id="blog" class="page-template-default page page-id-1434 main" itemscope="" itemtype="http://schema.org/WebPage">    
+<div class="smi-navigation">
+Saturday, 6th April 2019<a href="https://www.ssrmovies.wiki/dmca-policy" class="smi" target="blank">DMCA Policy</a> |
+<a href="https://www.ssrmovies.wiki/disclaimer" class="smi2" target="blank">Disclaimer</a> |
+<a href="https://www.ssrmovies.wiki/privacy-policy" class="smi2" target="blank">Privacy Policy</a> | 
+<a href="https://www.ssrmovies.wiki/how-to-download-movies" class="smi2" target="blank">How to Download</a> | 
+<a href="https://www.ssrmovies.wiki/contact-us" class="smi2" target="blank">Contact Us</a>
+</div>	
+<div class="main-container">
+
+		<header id="site-header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
+			<div class="container">
+				<div id="header">
+					<div class="logo-wrap">
+																												  <h2 id="logo" class="image-logo" itemprop="headline">
+										<a href="https://www.ssrmovies.wiki"><img src="https://www.ssrmovies.wiki/wp-content/uploads/2019/02/SSR-Movies-2019.png" alt="SSR Movies"></a>
+									</h2><!-- END #logo -->
+																		</div>
+
+											<div class="header-search"><form method="get" id="searchform" class="search-form" action="https://www.ssrmovies.wiki" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="What are you looking for?" autocomplete="off">
+		<button id="search-image" class="sbutton" type="submit" value="">
+	    		<i class="fa fa-search"></i>
+	    	</button>
+	</fieldset>
+</form>
+</div>
+					
+											<div class="header-social">
+					        					            					                <a rel="nofollow" href="https://plus.google.com/+Ssrmovies" class="header-google-plus" style="background: #dd4b39" target="_blank"><span class="fa fa-google-plus"></span></a>
+					            					        					            					                <a rel="nofollow" href="https://twitter.com/ssrmovies" class="header-twitter" style="background: #0eb6f6" target="_blank"><span class="fa fa-twitter"></span></a>
+					            					        					            					                <a rel="nofollow" href="https://www.reddit.com/user/SSRmoviesOfficial" class="header-reddit" style="background: #db551c" target="_blank"><span class="fa fa-reddit"></span></a>
+					            					        					            					                <a rel="nofollow" href="https://www.pinterest.com/ssrmovies/" class="header-pinterest" style="background: #c1224d" target="_blank"><span class="fa fa-pinterest"></span></a>
+					            					        					            					                <a rel="nofollow" href="https://www.youtube.com/" class="header-youtube" style="background: #dd4949" target="_blank"><span class="fa fa-youtube"></span></a>
+					            					        					    </div>
+					
+					
+
+			        											<div id="primary-navigation" class="primary-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+											<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+													<nav class="navigation clearfix mobile-menu-wrapper">
+																	<ul id="menu-menu-bar" class="menu clearfix"><li id="menu-item-5046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5046"><a href="https://www.ssrmovies.wiki/category/300mb-movies">300MB Movies</a></li>
+<li id="menu-item-5047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5047"><a href="https://www.ssrmovies.wiki/category/dual-audio-movies">Dual Audio Movies</a></li>
+<li id="menu-item-5048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5048"><a href="https://www.ssrmovies.wiki/category/bollywood-movies">Bollywood Movies</a></li>
+<li id="menu-item-5049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5049"><a href="https://www.ssrmovies.wiki/category/hollywood-movies">Hollywood Movies</a></li>
+<li id="menu-item-5050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5050"><a href="https://www.ssrmovies.wiki/category/dubbed-movies">Hindi Dubbed Movies</a></li>
+<li id="menu-item-5052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5052"><a href="https://www.ssrmovies.wiki/category/tv-shows">TV Shows</a></li>
+</ul>															</nav>
+											</div>
+					 
+
+				</div><!--#header-->
+			</div><!--.container-->
+		</header>
+					<div class="header-ad">
+				<h5 style="text-align: center;"><span style="color: #008000;">If Site Blocked on Your Network Use Our Proxy Site:- <a href="http://www.ssrmovies.xyz/" target="_blank" rel="nofollow noopener noreferrer"><span style="color: #333399;">SSRmovies.XYZ</span></a>  or Use VPN.</span></h5>			</div>
+			<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><div typeof="v:Breadcrumb" class="root"><a rel="v:url" property="v:title" href="https://www.ssrmovies.wiki">Home</a></div><div><i class="fa fa-angle-double-right"></i></div><div><span>Privacy Policy</span></div></div>
+<div id="page" class="single">
+			<article class="article">
+		<div id="content_box">
+							<div id="post-1434" class="g post post-1434 page type-page status-publish">
+					<div class="single_page">
+						<header>
+							<h1 class="title entry-title">Privacy Policy</h1>
+						</header>
+						<div class="post-single-content box mark-links entry-content">
+														<p>We never sell your personal information to third parties.<br>
+We may use your IP address to help diagnose any problem with our service and to provide better services for our visitors.<br>
+We use third-party advertising companies to serve ads when you visit our website. The ads may contain cookies which may be used by the advertising companies to better understand a visitor’s preferences and help them to display related ads. However, the cookies received with the advertisements are collected by the advertising company and we do not have access to that information.These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.<br>
+Email Addresses – We never share your email addresses with anyone.<br>
+Log Files – As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (airtel, bsnl, mtnl, tata etc…), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.<br>
+Cookies and Web Beacons – We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies.</p>
+																				</div><!--.post-content box mark-links-->
+					</div>
+				</div>
+				<!-- You can start editing here. -->
+<!-- If comments are closed. -->
+<p class="nocomments"></p>
+
+					</div>
+	</article>
+	<aside id="sidebar" class="sidebar c-4-12" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
+	<div id="text-12" class="widget widget_text"><h3 class="widget-title">★ Email Subscription</h3>			<div class="textwidget"><style> 
+#mbt-sub-box{background: -webkit-gradient(linear, left top, left bottom, from(#333), to(#1a2638));;border:1px 
+solid #1A2638; margin-bottom:10px;padding:10px;text-align:center;background: -moz-linear-gradient(top, #333, #1a2638)}
+#mbt-sub-box h2{margin-top:5px; color:#FFF;font-family:georgia;font-size:25px;margin-bottom:5px;padding:0;text-shadow:0 2px 3px #000;line-height:35px}
+#mbt-sub-box input{background: -moz-linear-gradient(center top , #FFFFFF, #EFEFEF) repeat scroll 0 0 transparentborder:medium none;font-size:14px;padding:10px;text-shadow:1px 1px 0 #FFF;width:90%; color:#666; font-family:georgia; margin-bottom:5px;}
+#mbt-sub-box .submit{border:1px 
+solid #369a18;background: -webkit-gradient(linear, left top, left bottom, from(#369a18), to(#205f0d));background: -moz-linear-gradient(center top , #369A18, #205F0D) repeat scroll 0 0 transparent;color:#FFF;cursor:pointer;font-weight:bold;margin-left:10px;text-shadow:0 1px 2px #000;width:95%; font-family:georgia; margin-left:5px;}
+#mbt-sub-box .submit:active{background: -moz-linear-gradient(center top , #46B725, #205F0D) repeat scroll 0 0 transparent}
+#mbt-sub-box .submit a:active{background: #205F0D} 
+</style>
+ 
+ 
+<b:if cond="data:blog.pageType == &quot;item&quot;"> 
+<div id="mbt-sub-box"><h2>Don't Miss Latest Update Movies  (Check Your Inbox)</h2><form action="https://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=SSRmovies', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow"><center> <input name="email" onblur="if (this.value == &quot;&quot;) {this.value = &quot;Enter Your Email Address...&quot;;}" onfocus="if (this.value == &quot;Enter Your Email Address...&quot;) {this.value = &quot;&quot;}" size="30" type="text" value="Enter Your Email Address..."> <input name="uri" type="hidden" value="ssrmovies"> <input name="loc" type="hidden" value="en_US"> <input class="submit" type="submit" value="Subscribe Now"></center></form></div> 
+</b:if></div>
+		</div><div id="text-13" class="widget widget_text"><h3 class="widget-title">★ Recommended</h3>			<div class="textwidget"><p><a href="https://bit.ly/2I6qbTv" target="_blank" rel="nofollow noopener"><img class="alignnone" src="https://1.bp.blogspot.com/-u5tCa4Z0NsE/XC3uTLYm-eI/AAAAAAAACEg/5dZKF1g4eOkphVch-lJ3xwbuga7kicH7wCLcBGAs/s1600/GFNBdwT.png" alt="" width="300" height="250"></a></p>
+</div>
+		</div><div id="mts_popular_posts_widget-3" class="widget widget_mts_popular_posts_widget horizontal-small"><h3 class="widget-title">★ Popular Posts</h3><ul class="popular-posts">			<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/2-0-2018-hindi-720p-hdrip-x264-1-3gb-download.html" title="2.0 (2018) Hindi 720p HDRip x264 1.3GB Download">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/28/5e900ca6436edf8d35c3f0829c71ad07.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/2-0-2018-hindi-720p-hdrip-x264-1-3gb-download.html" title="2.0 (2018) Hindi 720p HDRip x264 1.3GB Download">2.0 (2018) Hindi 720p HDRip x264&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 28, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 11</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/total-dhamaal-2019-hindi-720p-480p-hdrip-full-movie-download.html" title="Total Dhamaal (2019) Hindi 720p 480p HDRip Full Movie Download">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/24/4f1c7902e76fb8416328800c657d8377.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/total-dhamaal-2019-hindi-720p-480p-hdrip-full-movie-download.html" title="Total Dhamaal (2019) Hindi 720p 480p HDRip Full Movie Download">Total Dhamaal (2019) Hindi 720p 480p&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 24, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 11</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/wonder-woman-2017-english-720p-bluray-x264-1gb-hindi-subs.html" title="Wonder Woman (2017) English 720p BluRay x264 1GB Hindi Subs">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/08/06c5bcfb9b534eada025d13e753c5981.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/wonder-woman-2017-english-720p-bluray-x264-1gb-hindi-subs.html" title="Wonder Woman (2017) English 720p BluRay x264 1GB Hindi Subs">Wonder Woman (2017) English 720p BluRay&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 8, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 11</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/aquaman-2018-imax-dual-audio-hindi-org-720p-bluray-1-3gb-esubs.html" title="Aquaman (2018) IMAX Dual Audio Hindi ORG 720p BluRay 1.3GB ESubs">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/17/593acb6cd119f5766e7195f38149980d.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/aquaman-2018-imax-dual-audio-hindi-org-720p-bluray-1-3gb-esubs.html" title="Aquaman (2018) IMAX Dual Audio Hindi ORG 720p BluRay 1.3GB ESubs">Aquaman (2018) IMAX Dual Audio Hindi&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 17, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 10</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/shock-wave-2017-dual-audio-hindi-1080p-bluray-2-1gb-esubs.html" title="Shock Wave (2017) Dual Audio Hindi 1080p BluRay 2.1GB ESubs">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/22/171613a063828c9186fbeaacf7614d6f.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/shock-wave-2017-dual-audio-hindi-1080p-bluray-2-1gb-esubs.html" title="Shock Wave (2017) Dual Audio Hindi 1080p BluRay 2.1GB ESubs">Shock Wave (2017) Dual Audio Hindi&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 22, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 8</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/rangasthalam-2018-telugu-720p-web-dl-x264-1-2gb-hindi-subs.html" title="Rangasthalam (2018) Telugu 720p WEB-DL x264 1.2GB Hindi Subs">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/15/aa6145bb870bd0cf428d5d8aedef4d4e.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/rangasthalam-2018-telugu-720p-web-dl-x264-1-2gb-hindi-subs.html" title="Rangasthalam (2018) Telugu 720p WEB-DL x264 1.2GB Hindi Subs">Rangasthalam (2018) Telugu 720p WEB-DL x264&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 15, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 7</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/captain-marvel-2019-dual-audio-hindi-new-hdts-download.html" title="Captain Marvel (2019) Dual Audio Hindi NEW HDTS Download">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/25/cf5b07d53599c0a02e7ddc7cf16e3884.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/captain-marvel-2019-dual-audio-hindi-new-hdts-download.html" title="Captain Marvel (2019) Dual Audio Hindi NEW HDTS Download">Captain Marvel (2019) Dual Audio Hindi&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 26, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 7</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/hanna-s01-complete-english-720p-web-dl-x264-2-8gb-hindi-esubs.html" title="Hanna S01 Complete English 720p WEB-DL x264 2.8GB Hindi ESubs">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/29/f67ed3fa66c8a67f55825862cee2b789.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/hanna-s01-complete-english-720p-web-dl-x264-2-8gb-hindi-esubs.html" title="Hanna S01 Complete English 720p WEB-DL x264 2.8GB Hindi ESubs">Hanna S01 Complete English 720p WEB-DL&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 30, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 7</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/the-final-call-2019-hindi-web-series-complete-720p-web-dl-2gb.html" title="The Final Call 2019 Hindi WEB Series Complete 720p WEB-DL 2GB">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/02/23/b8d8d0c1f3902d6246b756fb002c0398.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/the-final-call-2019-hindi-web-series-complete-720p-web-dl-2gb.html" title="The Final Call 2019 Hindi WEB Series Complete 720p WEB-DL 2GB">The Final Call 2019 Hindi WEB&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 26, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 4</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/03/wonder-woman-2017-english-480p-bluray-x264-400mb-hindi-subs.html" title="Wonder Woman (2017) English 480p BluRay x264 400MB Hindi Subs">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/08/06c5bcfb9b534eada025d13e753c5981.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/03/wonder-woman-2017-english-480p-bluray-x264-400mb-hindi-subs.html" title="Wonder Woman (2017) English 480p BluRay x264 400MB Hindi Subs">Wonder Woman (2017) English 480p BluRay&nbsp;…</a>
+						</div>
+												<div class="post-info">
+															<span class="thetime updated"><i class="fa fa-clock-o"></i> March 8, 2019</span>
+																						<span class="thecomment"><i class="fa fa-comments"></i> 4</span>
+													</div> <!--end .post-info-->
+																	</div>
+				</div>
+			</div></li>		</ul>
+</div><div id="mts_recent_posts_widget-2" class="widget widget_mts_recent_posts_widget horizontal-small"><h3 class="widget-title">★ Recent Posts</h3><ul class="advanced-recent-posts">			<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/04/rising-star-s03-6-april-2019-hdtv-480p-full-show-download.html" title="Rising Star S03 6 April 2019 HDTV 480p Full Show Download">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/03/17/c5cc920da673683f7eca22467f77451c.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/04/rising-star-s03-6-april-2019-hdtv-480p-full-show-download.html" title="Rising Star S03 6 April 2019 HDTV 480p Full Show Download">Rising Star S03 6 April 2019&nbsp;…</a>
+						</div>
+												<div class="post-info">
+														<span class="thetime updated"><i class="fa fa-clock-o"></i> April 7, 2019</span>
+																					<span class="thecomment"><i class="fa fa-comments"></i> 0</span>
+													</div> <!--.post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/04/sa-re-ga-ma-pa-lil-champs-6-april-2019-full-show-download.html" title="Sa Re Ga Ma Pa Lil Champs 6 April 2019 Full Show Download">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/02/10/cbb30210ba836f7309a08c1ef1d1b862.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/04/sa-re-ga-ma-pa-lil-champs-6-april-2019-full-show-download.html" title="Sa Re Ga Ma Pa Lil Champs 6 April 2019 Full Show Download">Sa Re Ga Ma Pa Lil&nbsp;…</a>
+						</div>
+												<div class="post-info">
+														<span class="thetime updated"><i class="fa fa-clock-o"></i> April 7, 2019</span>
+																					<span class="thecomment"><i class="fa fa-comments"></i> 0</span>
+													</div> <!--.post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/04/the-voice-6-april-2019-hdtv-480p-full-show-download.html" title="The Voice 6 April 2019 HDTV 480p Full Show Download">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/02/04/50f2d033aee20b971f87ff4493da01eb.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/04/the-voice-6-april-2019-hdtv-480p-full-show-download.html" title="The Voice 6 April 2019 HDTV 480p Full Show Download">The Voice 6 April 2019 HDTV&nbsp;…</a>
+						</div>
+												<div class="post-info">
+														<span class="thetime updated"><i class="fa fa-clock-o"></i> April 6, 2019</span>
+																					<span class="thecomment"><i class="fa fa-comments"></i> 0</span>
+													</div> <!--.post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/04/criminal-justice-s01-hindi-complete-480p-web-dl-x264-1-4gb.html" title="Criminal Justice S01 Hindi Complete 480p WEB-DL x264 1.4GB">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/04/05/42e7282cd4ef2550774dac94a12f6c11.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/04/criminal-justice-s01-hindi-complete-480p-web-dl-x264-1-4gb.html" title="Criminal Justice S01 Hindi Complete 480p WEB-DL x264 1.4GB">Criminal Justice S01 Hindi Complete 480p&nbsp;…</a>
+						</div>
+												<div class="post-info">
+														<span class="thetime updated"><i class="fa fa-clock-o"></i> April 6, 2019</span>
+																					<span class="thecomment"><i class="fa fa-comments"></i> 0</span>
+													</div> <!--.post-info-->
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://www.ssrmovies.wiki/2019/04/division-19-2019-english-480p-hdrip-x264-300mb-esubs.html" title="Division 19 (2019) English 480p HDRip x264 300MB ESubs">
+													<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background:url('https://extraimage.net/images/2019/04/06/bce1150cccd06e9113f8d56cdfd2e1b0.jpg') no-repeat center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:65px;height:65px;" class="attachment-sociallyviral-widgetthumb  wp-post-image nelioefi" alt="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://www.ssrmovies.wiki/2019/04/division-19-2019-english-480p-hdrip-x264-300mb-esubs.html" title="Division 19 (2019) English 480p HDRip x264 300MB ESubs">Division 19 (2019) English 480p HDRip&nbsp;…</a>
+						</div>
+												<div class="post-info">
+														<span class="thetime updated"><i class="fa fa-clock-o"></i> April 6, 2019</span>
+																					<span class="thecomment"><i class="fa fa-comments"></i> 0</span>
+													</div> <!--.post-info-->
+																	</div>
+				</div>
+			</div></li>		</ul>
+</div></aside><!--#sidebar-->
+</div><!--#page-->
+</div><!--.main-container-->
+<footer id="site-footer" role="contentinfo" itemscope="" itemtype="http://schema.org/WPFooter">
+	<div class="container">
+		         <div class="copyrights">
+			<!--start copyrights-->
+<div class="row" id="copyright-note">
+<div class="copyright"><a href=" https://www.ssrmovies.wiki/" title=" 300MB Dual Audio Movies Free Download and Watch Online in HD">SSR Movies</a> Copyright © 2015 - 2019. </div>
+<a href="#blog" class="toplink"><i class=" fa fa-angle-up"></i></a>
+<div class="top">
+</div>
+</div>
+<!--end copyrights-->
+		</div> 
+<div class="ssrfooter">
+<a href="https://www.ssrmovies.wiki/dmca-policy" target="blank">DMCA Policy</a> |
+<a href="https://www.ssrmovies.wiki/disclaimer" target="blank">Disclaimer</a> |
+<a href="https://www.ssrmovies.wiki/privacy-policy" target="blank">Privacy Policy</a> |
+<a href="https://www.ssrmovies.wiki/contact-us" target="blank">Contact Us</a>
+</div>
+	</div><!--.container-->
+</footer><!--#site-footer-->
+        <!--start footer code-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-85299554-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-85299554-4');
+</script>    <!--end footer code-->
+    <script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.ssrmovies.wiki\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ssrmovies.wiki/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
+<script type="text/javascript" src="https://www.ssrmovies.wiki/wp-includes/js/wp-embed.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mts_ajax_search = {"url":"https:\/\/www.ssrmovies.wiki\/wp-admin\/admin-ajax.php","ajax_search":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" async="async" src="https://www.ssrmovies.wiki/wp-content/themes/mts_sociallyviral/js/ajax.js"></script>
+		<div id="wprmenu_bar" class="wprmenu_bar">
+			<div class="wprmenu_icon">
+				<span class="wprmenu_ic_1"></span>
+				<span class="wprmenu_ic_2"></span>
+				<span class="wprmenu_ic_3"></span>
+			</div>
+			<div class="menu_title">
+				MENU							</div>
+		</div>
+
+		<div id="wprmenu_menu" class="wprmenu_levels left wprmenu_custom_icons">
+						<ul id="wprmenu_menu_ul">
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5046"><a href="https://www.ssrmovies.wiki/category/300mb-movies">300MB Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5047"><a href="https://www.ssrmovies.wiki/category/dual-audio-movies">Dual Audio Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5048"><a href="https://www.ssrmovies.wiki/category/bollywood-movies">Bollywood Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5049"><a href="https://www.ssrmovies.wiki/category/hollywood-movies">Hollywood Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5050"><a href="https://www.ssrmovies.wiki/category/dubbed-movies">Hindi Dubbed Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5052"><a href="https://www.ssrmovies.wiki/category/tv-shows">TV Shows</a></li>
+			</ul>
+					</div>
+		
+</body></html>
