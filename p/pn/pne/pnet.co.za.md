@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pnet.co.za privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608024715id_/http%3A//www.pnet.co.za/About-Us/privacy-statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnet.co.za privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406205059id_/https%3A//www.pnet.co.za/m/%3Fevent%3Dcontent.privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-PNet and its associates are committed to respecting and protecting your privacy. We've structured our web sites so that, in general, you can visit PNet on the Web without identifying yourself or revealing any personal information.
+[ LOVE YOUR JOB ](https://www.pnet.co.za/m/)
+
+PNet and its associates are committed to respecting and protecting your privacy. We've structured our web sites so that, in general, you can visit PNet on the Web without identifying yourself or revealing any personal information. 
 
 Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with PNet.
 
@@ -51,7 +53,7 @@ In order to enable us to provide you with a personalised browsing experience, th
 This website uses cookies as they enable us to identify your computer when you visit the website. For example, cookies can make it possible for us to identify and automatically log in registered users of certain services on the website without the need for us to ask users for their registration details and password each time they visit. We also use cookies to develop a clearer picture of which parts of the website are the most popular to its visitors, and your preferences. Cookies are also used in behavioural advertising to identify users who share a particular interest so that they can be served more relevant adverts.  
 PNet makes use of the following cookie tracking technology via Google Inc. :
 
-  * Google Analytics features for Display Advertising including _Remarketing,  Google Display Network Impression Reporting and the DoubleClick Campaign Manager_. These enhancements in Google Analytics tracking allow for personalised advertisements (both Text Ads and Display Ads) to be displayed to users on other websites who are part of the Google Display Network and based on their visit to a PNET website.
+  * Google Analytics features for Display Advertising including _Remarketing,  Google Display Network Impression Reporting and the DoubleClick Campaign Manager_. These enhancements in Google Analytics tracking allow for personalised advertisements (both Text Ads and Display Ads) to be displayed to users on other website's who are part of the Google Display Network and based on their visit to a PNET website.
   *     * PNET makes use of Remarketing with Google Analytics to advertise online.
     * Third-party vendors, including Google, show your ads on sites across the Internet.
     * PNET and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise and serve ads based on a site users past visits to the PNET website.
@@ -65,4 +67,4 @@ PNet makes use of the following cookie tracking technology via Google Inc. :
 
 
 We encourage our site visitors to make use of the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) to customise their privacy settings.  
-If you wish to know more about cookies and how companies like PNET use them, please visit www.youronlinechoices.com or www.allaboutcookies.org. Information on these websites will assist you in exercising your privacy rights providing guidance on how to opt-out of future access or continued storage of information via cookies.
+If you wish to know more about cookies and how companies like PNET use them, please visit www.youronlinechoices.com or www.allaboutcookies.org. Information on these website's will assist you in exercising your privacy rights providing guidance on how to opt-out of future access or continued storage of information via cookies.
