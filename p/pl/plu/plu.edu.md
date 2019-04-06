@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plu.edu privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701094933id_/https%3A//www.plu.edu/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plu.edu privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406173909id_/https%3A//www.plu.edu/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | About PLU | Pacific Lutheran University
+# Privacy Statement | About | PLU
 
 ### Pacific Lutheran University Statement on Privacy
 
@@ -41,7 +41,7 @@ Individuals who submit a completed Photo Opt-Out Form are also responsible for r
 
 ### Photo/Video Opt-Out
 
-Complete and submit this form for the Marketing & Communications division **ONLY** if you do **NOT** give permission for your photo, audio, or video to appear in university publications and/or publicity, including the campus website and social media. This opt out request is effective for one year (September 1 – August 31). It must be accompanied by a current photo of the student and must be renewed each year in order to be valid. Please be advised that images and videos taken in public spaces and/or public events do not require authorization for publication.
+Complete and submit this form for the Marketing & Communications division **ONLY** if you do **NOT** give permission for your photo, audio, or video to appear in university publications and/or publicity, including the campus website and social media. This opt out request is effective for one year (September 1 - August 31). It must be accompanied by a current photo of the student and must be renewed each year in order to be valid. Please be advised that images and videos taken in public spaces and/or public events do not require authorization for publication.
 
 I **do not** authorize Pacific Lutheran University, or its officers, employees or agents, to record my photographs or other images or likenesses in the form of audio, video, or any other medium, or to use, reproduce, modify, distribute, or publicly exhibit such recordings, in whole or in part, for any purpose. Further, I do not consent to the use of my name, voice, or biographical material in connection with any such recording.
 
@@ -91,7 +91,7 @@ Photographs provided by PLU are to be used – with appropriate credit – for e
 
 ##### Video B-roll
 
-Broadcast news media requests for high-quality, downloadable campus B-roll should be directed to PLU Staff Videographer Rustin Dwyer at 253-535-7436 or [dwyerrj@plu.edu](mailto:dwyerrj@plu.edu).
+Broadcast news media requests for high-quality, downloadable campus B-roll should be directed to [marcom@plu.edu](mailto:marcom@plu.edu).
 
 ##### Broadcast Facilities
 
@@ -130,7 +130,7 @@ People with a PLU connection—meaning, for instance, the bride or groom is an a
 
 Email requests for permission to the division of Marketing & Communications at [marcom@plu.edu](mailto:marcom@plu.edu).
 
-  * The use of drones for filming or photography is prohibited without prior approval, proof of current FAA certification, and proof of required insurance (see Non-News Filming or Photography). Additionally, the university requires written approval from Joint Base Lewis McChord due to PLU’s location within a five-mile radius of the air base.
+  * The use of drones for filming or photography is prohibited without prior approval, proof of current FAA certification, and proof of required insurance (see Non-News Filming or Photography). Additionally, the university requires written approval from Joint Base Lewis McChord due to PLU’s location within a five-mile radius of the air base. [For more information review the Unmanned Aircraft Systems (Drones and Model Aircraft) Use Approval Policy](https://www.plu.edu/administrative-services/insurance/drone-policy/?webSyncID=dceb7ab3-7541-b079-3387-53a939da53e4&sessionGUID=03926e11-007b-a3e0-c593-0e3c04056b2c)
   * Use of PLU’s name, other trademarks and emblems, or images in connection with any photograph or film is prohibited without written permission by the university.
   * Indoor shooting at PLU is prohibited without permission by the university as described above and, in addition, permission by the university official or faculty member with responsibility for the space.  Indoor shooting is considered inherently disruptive of the functions of the university and requires written permission.
   * Filming or photography on PLU’s campus for academic purposes is limited only to PLU students, staff and faculty and others attending PLU academic programs, PLU-sponsored programs and other programs which occur on PLU’s campus and for which photography is part of the program. The resulting films and photographs may not be used for commercial purposes.
@@ -157,7 +157,7 @@ Use of this Site is subject to all applicable state and federal laws, as well as
 
 This Site collects two general types of information: (a) information you voluntarily provide to us, which may include personal information (such as your name, address, e-mail address, etc.), and (b) information we collect automatically when you visit this Site through cookies, third party tracking technologies and server logs.
 
-This Site will only collect personal information that you knowingly and voluntarily provide by, for example, responding to surveys, completing membership forms, sending e-mails, etc. It is this Site’s general practice to use personal information only for the purposes for which it was requested and any additional uses specifically stated on the Site. However, information collected through this Site may be subject to the University’s obligation to respond to subpoenas, court orders, and discovery requests. Further, the disclosure of information collected through this Site is subject to the provisions of the [Family Educational Rights & Privacy Act](https://web.archive.org/srr-policy/code-of-conduct/ferpa/).
+This Site will only collect personal information that you knowingly and voluntarily provide by, for example, responding to surveys, completing membership forms, sending e-mails, etc. It is this Site’s general practice to use personal information only for the purposes for which it was requested and any additional uses specifically stated on the Site. However, information collected through this Site may be subject to the University’s obligation to respond to subpoenas, court orders, and discovery requests. Further, the disclosure of information collected through this Site is subject to the provisions of the [Family Educational Rights & Privacy Act](https://www.plu.edu/srr/student-code-of-conduct/?webSyncID=dceb7ab3-7541-b079-3387-53a939da53e4&sessionGUID=03926e11-007b-a3e0-c593-0e3c04056b2c#1501806651679-6d7298fe-61d9).
 
 Although this Site has security measures in place to protect personal information provided to us by users, users should also take steps to protect personal information by, for example, closing all web browsers after using the Site. Information disclosed in chat rooms, news groups, forums, message boards and similar contexts may become public. Users should therefore exercise caution before disclosing personal information in such contexts.
 
@@ -190,9 +190,9 @@ You have the option of disabling or not accepting cookies by changing the prefer
 
 [Find out how to enable the do not track features for various browsers.](http://donottrack.us/)
 
-##### Third Party Tracking Technology
+##### Third Party Tracking and Retargeting Technology
 
-Pacific Lutheran University makes use of third party tracking technology such as Google Analytics and Siteimprove.
+Pacific Lutheran University makes use of third party tracking technology such as Google Analytics, Siteimprove, Facebook and Instagram.
 
 Google Analytics is used to obtain Site usage information such as users’ Internet Protocol (IP) addresses, Internet domain and host names, browser software, and the date and time that the Site is visited. Data obtained through Google Analytics does not include, and is not linked, to any personal information. Data from Google Analytics allows us to monitor the use of the Site, understand how users find our Site, and improve the Site’s function and content.
 
@@ -201,6 +201,10 @@ Site usage data collected through Google Analytics is not shared with other Goog
 Google provides more information about Google’s privacy practices and information on [how to opt-out of Google Analytics tracking of your web browsing](https://tools.google.com/dlpage/gaoptout/).
 
 Siteimprove is a third party application we use to track Quality Assurance and Web Accessibility compliance for our Site. It does not track any personal information. It monitors the content and design of the Site in order to stay aware of things such as misspellings and broken links, as well as level of compliance for Web Accessibility.
+
+This site makes use of Facebook and Instagram to collect or receive information from this website and elsewhere on the internet and uses that information to provide measurement services and targeted ads.
+
+You can opt-out of the collection and use of information for ad targeting at <http://optout.aboutads.info/>.
 
 ##### Server Logs
 
