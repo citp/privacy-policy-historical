@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobuna.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222004532id_/https%3A//www.nobuna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobuna.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406120314id_/https%3A//www.nobuna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nobuna
 
