@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepsdvn.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910030828id_/https%3A//freepsdvn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepsdvn.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406211203id_/https%3A//freepsdvn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • FreePSDvn
+# Privacy Policy - FreePSDvn
 
 **Privacy Policy for freepsdvn.com**
 
