@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gratitudelog.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211212925id_/https%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratitudelog.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407013404id_/https%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
 # Mindvalley | Privacy policy
 
