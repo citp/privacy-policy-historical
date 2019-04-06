@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secureaplus.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815145709id_/https%3A//www.secureaplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureaplus.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406103331id_/https%3A//www.secureaplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SecureAPlus
 
