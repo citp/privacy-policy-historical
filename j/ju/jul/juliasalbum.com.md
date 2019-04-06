@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juliasalbum.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021082741id_/https%3A//juliasalbum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juliasalbum.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406122152id_/https%3A//juliasalbum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Julia's Album
 
