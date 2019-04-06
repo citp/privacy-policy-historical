@@ -1,71 +1,129 @@
-> *The following text is extracted and transformed from the tradeviewforex.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127234447id_/https%3A//www.tradeviewforex.com/pdfs/open-live-account/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeviewforex.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406020518id_/https%3A//www.tradeviewforex.com/pdfs/TRADEVIEW-privacy-notice-reconsent-ENG.pdf) for the most accurate reproduction.*
 
-# Privacy
+# WHAT PERSONAL INFORMATION IS COLLECTED
 
-Privacy
- Policy
-
-
-                              TRADEVIEW LTD PRIVACY POLICY
-Tradeview LTD (“TRADEVIEW”) believes that the privacy and security of an individual’s
-personal financial information is important.
-Our most valued assets are our relationships with our Customers, and, therefore, we take
-your privacy concerns very seriously.
-We apply the following policies with respect to all of our customers who are individuals,
-even though we are only required to apply them to individuals who use our services for
-personal, family or household purposes.
-1. INFORMATION COLLECTION
-To serve our customers better, TRADEVIEW collects certain financial information on our
-customers. In the case of individuals, TRADEVIEW may collect nonpublic personal
-financial information about you from the following sources:
-        Application and Registration Information: Information that we receive from you
-        on the customer account application that you complete and other account
-        opening documents, including but not limited to, account name, mailing address,
-        phone number(s), banking information, e-mail address, annual income, net worth,
-        social security number, etc.
-        Transaction History: Information about your transactions with TRADEVIEW, with
-        our affiliate(s) and with nonaffiliated third parties in connection with opening or
-        servicing your account, such as bank references.
-        Credit Information: Information from a consumer reporting agency.
-2. INFORMATION DISCLOSURE
-TRADEVIEW does not disclose any of your nonpublic personal information to
-nonaffiliated third parties except as permitted by law and except as permitted under the
-terms and conditions agreed to in your Client Agreement. The law permits disclosure of
-your nonpublic personal information to nonaffiliated third parties in certain situations
-generally with respect to effecting, administering, enforcing, or servicing a transaction or
-financial product that you request or authorize. From time to time, TRADEVIEW and our
-affiliate(s) may share your nonpublic personal information with one another in order for
-each of us to better serve you as our customer. The nonpublic personal information that
-we may disclose to one another as affiliates includes, but is not limited to:
-                                                                                             Page 2 of 3
+HOW WE USE YOUR INFORMATION
+Tradeview Ltd, and its affiliate companies use your personal data to allow you
+access to requested products. By clicking the consent button on this email, you
+have agreed to be contacted by email. Tradeview may use your details to send
+you further educational materials to help you trade. This includes:
+     ● Market volatility and trading setup alerts
+     ● Promotions and products to help you trade better
+     ● Exclusive educational and market update webinars and newsletters
+You have the option to opt-out at any time from our emails by clicking the
+relevant unsub link at the bottom of the email communication.
+We use your information to:
+     ● Enable us to provide you with the services and information that you have
+        requested
+     ● Make certain that all content from out platform is presented in an effective
+        manner for you and your device
+     ● Analyze trends with our customers so that we can strategically improve and
+        develop our website
+     ● Supply you with information surrounding the products you have requested
+     ●   Also provide additional information on any other products that may interest
+        you, unless you have specified otherwise
+     ● Maintain steady a presence of assistance, for all your service needs
+     ● Alert you towards any changes of services.
+WHAT PERSONAL INFORMATION IS COLLECTED
+Tradeview collects and processes certain items of your personal data. For some
+individuals and companies that are part of our mailing list, this information is limited
+to simply your name, company and email address. For individuals and companies
+where we have a business relationship or we have explored the possibility of doing
+business, then we collect and process more types of information. This includes
+contact information: (name, address, email address and telephone number), ID
 
 
-       Application and Registration Information: Information that we receive from you
-       on your account application form and other account opening documents, such as
-       account name, mailing address, phone number(s), banking information, e-mail
-       address, annual income, net worth, social security number, etc.
-       Transaction History: Information about your transactions with us or about your
-       transactions with nonaffiliated third parties that we receive in connection with
-       opening or servicing your account.
-       Credit Information: Information we receive from a consumer reporting agency.
-3. DISCLOSURE OF FORMER CUSTOMER INFORMATION
-TRADEVIEW does not disclose any nonpublic personal information of former customers,
-except as permitted by law. Thus, should you close your account and become an
-inactive/former customer we will adhere to the measures delineated in this privacy
-policy.
-4. INFORMATION SAFEGUARDS
-TRADEVIEW maintains physical, electronic and procedural safeguards to guard your
-nonpublic personal information. As a result, only authorized employees who need to
-know your information in order to provide you with products or services will have access
-to your nonpublic personal information. We restrict the access of authorized employees
-to nonpublic personal information for business purposes only. These safeguards are used
-by all TRADEVIEW affiliates.
-5. ADVANCE NOTICE OF PROPOSED CHANGES
-If at any time in the future our privacy policy should change, we will give you advance
-notice of the proposed policy change, before it is implemented, and will explain your
-legal right to opt out of any such additional or changed disclosures.
-PHONE:          North America  + 1 514 613 0479
-                Europe         + 44 203 608 1936
-                Asia           + 85 258 083 392
-FAX:            North America  + 1 514 316 7383
-                                                                                         Page 3 of 3
+information for KYC purposes (copies of your ID card and passport and the relevant
+numbers, place and date of birth, gender). This information may also include details
+pertaining to convictions, court cases or claims, in order for client due diligence to
+be performed.
+Additional pieces of personal information may be collected and processed as part of
+the course of doing business, including tax status and residency information,
+professional and employment information, and financial information regarding
+source of funds.
+Your computer’s IP Address may be collected and logged as you interact with our
+website. This data does not include any personal information about you but can be
+used to identify the computer you are using.
+THE SOURCES OF YOUR PERSONAL INFORMATION
+The personal information we collect and process has been provided to us by you in
+order that we can include you in our mailing list and update you on developments in
+the sector relevant to your business or engage in business. Additional information
+has been collected through our correspondence with you and as part of compliance
+with regulatory requirements.
+User Access Request​- Tradeview must provide the following information free of
+charge:
+     ● What personal information pertaining to the user is being processed
+     ● Why is the information being processed
+     ● Who has access to this personal information about the user
+     ● Hows this personal information is being used in automated decisions
+     ● What processes are using this information
+ A user access request should be completed within 30 days and include a copy of
+ the personal information.
+STORAGE OF YOUR INFORMATION
+Tradeview is the controller of your personal data. That means we take
+responsibility for how your personal data is collected, used and protected. We
+take great care to ensure that the security and confidentiality of your personal
+data is always respected.
+Once your information is placed onto our servers, we employ strict procedures
+and security features to prevent all unauthorized access. We may keep your
+data for longer than 5 years if we cannot delete it for legal or regulatory reasons.
+If we do we will make sure that your privacy is protected and only use it for
+those purposes.
+You have the option to object to how we use your data, or ask us to delete it or
+
+
+restrict how we use it. Please be aware under certain circumstances it may not be
+possible to grant your request due to legal or regulatory claims.
+As the controller of your personal data, Tradeview is responsible for its security
+and we employ a number of sophisticated and robust IT practices to ensure your
+data remains secure. In the unlikely event of a breach in data security and
+unauthorised access takes place we will immediately implement our data security
+response plan and take appropriate action to mitigate the impact. We will also
+notify both you and the relevant regulatory authorities as required under data
+protection legislation.
+COOKIES
+Cookies are small information files that a website uses to track its visitors. Our
+website uses cookies and other web-based technologies to improve the overall
+capabilities of Tradeview. We enable the use of third-party services (like YouTube
+instructional videos) and distribute interest-based advertising on third-party
+websites. When you leave our website or click on any link that will direct you
+towards an external site, we are unable to control what cookies are set in. You will
+need to change your cookie preferences for those sites as well.
+ONLINE TRANSACTIONS
+All payment transactions are encrypted. In the areas of our website that process
+online transactions, make use of third party software providers. All of these
+third-party services are compliant with the relevant Payment Card Industry
+Standards.
+AUTOMATED PROCESSING AND PROFILING
+We do use automatic processing and profiling processes. These are automated
+functions which analyse clients’ personal data to predict service matters relating to
+the customer.
+PASSWORDS
+A password is required to access certain parts of our website. You are responsible
+for keeping this password safe and confidential. You must not share your
+password with anybody.
+DISCLOSURE OF YOUR INFORMATION
+We do not sell, license, lease or otherwise disclose your personal information to
+any third party for any reason. However, we may share your details so you can
+obtain access to a product or service. If you previously signed up to one of our
+demo accounts (for Metatrader, cTrader, Currenex), we share your personal data
+
+
+with these third-party trading platforms for the sole purpose of granting you access
+to these platforms.
+YOUR RIGHTS
+New data protection laws confer a number of rights on subjects that have personal
+data held by companies. You have the right to enquire and be told if we hold or
+process any of your personal information in addition to the right to be provided with
+a copy of your personal information that we hold. If any information is inaccurate
+you have the right to request it be corrected and where you feel we do not have the
+right to hold your personal information, or you wish us to no longer process your
+personal data, you may request that the data be erased.
+Tradeveiw is headquartered in George Town, Cayman Islands. You can contact us
+at any time to ask any questions or raise concerns about our personal data policies
+or practices, your data security and your legal rights under the various international
+data protection regimes. Contact us at (compliance@tradeviewforex.com, ​ ​Grand
+Cayman, KY1-1108;94 Solaris Avenue. Suite 1348 Camana Bay, Cayman Islands,
+Phone :+1 345 945 6271)
+Tradeview Ltd is a fully registered Broker/Dealer under the regulations of the
+Cayman Island Monetary Authority (CIMA).
