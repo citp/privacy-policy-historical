@@ -1,51 +1,169 @@
-> *The following text is extracted and transformed from the payhip.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715004636id_/http%3A//payhip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payhip.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406071458id_/https%3A//payhip.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Payhip
+# Privacy & Cookies Policy - Payhip
 
-### By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+As the operators of the website [https://payhip.com](https://payhip.com/) (" **Website** "), Payhip Ltd (" **We** ", " **Us** ") is committed to protecting and respecting your privacy. This Privacy and Cookies Policy (" **Policy** ") (together with and any other documents referred to therein) sets out the basis on which the personal data collected from you, or that you provide to Us will be processed by Us. Please read the following carefully to understand our views and practices regarding your personal data and how We will treat it.
 
-This Privacy Policy governs the manner in which payhip.com collects, uses, maintains and discloses information collected from users (each, a "User") and Clients (each, a "Client") of the http://payhip.com website ("Site"). This privacy policy applies to the Site, any and all products and services offered on payhip.com. For the purpose of this Site: the “User” shall be any person entered onto the Site, including subscribers to our newsletter, and the “Client” shall be any person who has registered with the Site. 
+For the purpose of the General Data Protection Regulation (" **GDPR** ", from the GDPR implementation date) or, until GDPR implementation date, the Data Protection Act 1998, (collectively the " **Data Protection Laws** "") the Data Controller is Payhip Limited.
 
-### Personal identification information of the Client
+### YOUR PERSONAL INFORMATION
 
-We will collect only that personal identification information from Clients that they voluntarily submit to us. When registering with the Site, we will ask the Clients to complete a questionnaire. However, refusal to enter the data which is marked with * shall prevent the Client from registration and use of our services. The Client, by filling in the data into the questionnaire, shall automatically grant his/her permission to use this data for the following purposes only:
+_Information we collect from you_
 
-a: For the performance of the contract between the Site and the Client – such data shall be kept no longer than 3 years from the last transaction of the Client.
+We collect and process some or all of the following types of information from you in the course of your use of the website or providing our services:
 
-b: For sending newsletters, periodic updates, and other notifications the Client.
+  * Information that you provide by filling in forms on the Website or filing in forms as part of the registration process. This includes information provided at the time of registering to use the Website, subscribing to our service, or requesting further information or services. We may also ask you for information when you report a problem with the Website.
+  * Specifically, personal details such as name, e-mail address, IP address, address (which may include separate billing and delivery address) or any information input by when using the Website, completing our survey forms, or using our Services.
+  * If you contact Us, We may keep a record of that correspondence.
+  * We may also ask you to complete surveys that We use for research purposes, although you do not have to respond to them.
+  * Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, and the resources that you access.
+  * We may also receive information about you from third parties if you use any websites or social media platforms operated by third parties (for example, Facebook, Instagram, Pinterest, Twitter or LinkedIn) and, if such functionality is available, you have chosen to link your account with your profile on those other websites or social media platforms.
 
-c: For sending questionnaires for improvement of the Site.
 
-d: For sending emails with commercial information of the Site, unless the Client refuses such information.
 
-We shall not transfer your personal data for any third parties, except when it is essential for the performance of the agreements between the Site and the Client, between the Client and his/her end-customer, between the Client and PayPal. 
+The provision of your name and e-mail address is required from you to enable Us to provide you with our Services. We will inform you at the point of collecting information from you, whether you are required to provide the information to Us.
 
-### Personal identification information of the User
+_Information We Collect From Other Sources_
 
-Users may visit our Site anonymously. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. If a User enters his/her personal information into the Site, he/she automatically grants the right to use this information only for the purpose it was entered into the Site, for example, sending newsletters, downloading free products, etc. 
+FullContact Inc. provides Us with the facility to link the data you provide to Us, with other publicly available information about you that you have published on the Internet – this may include sources such as LinkedIn and other social media profiles.
 
-### Web browser cookies
+### USES MADE OF YOUR INFORMATION
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+_Lawful basis for processing_
 
-### E-mails
+We process your data in order to perform our obligations pursuant to the [Terms and Conditions](https://web.archive.org/terms), as displayed on our Website. This is the lawful basis on which We collect and use your personal data.
 
-The email address the Users of the Clients provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If the User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
+If you are engaged by one of our sellers or suppliers, we may process your data in order to perform our obligations pursuant to a contract with that seller or supplier. Where we do so we rely on " _legitimate interest_ " and the legitimate interest is " _carrying out a contract with a seller or supplier_ ".
 
-### How we protect your information
+Where you have contacted us via e-mail and telephone or participated in any surveys, we rely on " _legitimate interest_ " and the legitimate interest is " _responding and contacting you regarding the enquiries you have made in relation to the services we offer_ ".
 
-We adopt effective and appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes only having obtained your prior permission. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes of statistics and improvement of our services. 
+To ensure that content on the Website is presented in the most effective manner for you and for the device(s) you use to access and view the Website. We rely on " _legitimate interest_ " as the legal basis for this processing, and the legitimate interest is the " _maintenance and improvement of our Website for the benefit of all our users_ ".
 
-### Third party websites
+We rely on your consent as the lawful basis where you have agreed to participate in a survey, and for the processing of such personal information as has been collected through that survey.
 
-This Privacy Policy applies for this Site only. Users may find content on our Site that link to the sites and services of our Clients, partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
+_Purposes of processing_
 
-### Changes to this privacy policy
+We use information held about you in the following ways:
 
-We have the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users and Clients to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+  * To carry out our obligations arising from any contracts entered into between you and Us. If you are a buyer this includes and is not limited to allowing you to download the products and informing the seller that you have purchased/downloaded their product. If you are a seller this includes and is not limited to notifying you of purchases and other information about our services.
+  * To provide you with our services.
+  * To provide you with information and offers that you request from Us or which We feel may interest you.
+  * To ensure that content on the Website is presented in the most effective manner for you and for the device(s) you use to access and view the Website.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
+  * We will not sell your data to third parties.
 
-### Contacting us
+_Marketing_
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: contact@payhip.com
+In addition to the above uses, where you have consented, permit selected third parties to use your information, to notify you about goods or services which may be of interest to you.
 
-This document was last updated on 7 May 2013.
+### DISCLOSURE OF YOUR INFORMATION
+
+We may disclose your personal data to third parties service providers, agents, subcontractors and other associated organisations for the purposes of completing tasks and providing services to you on our behalf (e.g. to host our servers).
+
+Payment is handled separately, and securely, through the payment processor you have selected during checkout ("Payment Processor"). Your payment card details are never collected by Us. If you want to find out more about how the Payment Processor processes your personal data, you can refer to their own privacy notice.
+
+We may also disclose your personal data to third parties:
+
+  * in the event that We sell or buy any business or assets, in which case We may disclose your personal data to the prospective seller or buyer of such business or assets; or
+  * if We or substantially all of our assets are acquired by a third party, in which case personal data held by Us about our customers will be one of the transferred assets; or
+  * if We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions and other agreements; or
+  * to protect Our rights, property, or safety or that of our affiliated entities and our users and any third party We interact with the to provide the Website; or
+  * to update the relevant seller of the individuals who have purchased/downloaded their products via our Website.
+  * in relation to selected third parties only, only to the extent that you have consented to such selected third parties notifying you about certain goods or services, which may be if interest to you.
+
+
+
+Other than as set out above, and save insofar as is necessary in order for Us to carry out our obligations arising from any contracts entered into between you and Us, We will not share your data with third parties unless We have procured your express consent to do so.
+
+### STORING YOUR PERSONAL DATA
+
+_Security_
+
+We take appropriate measures to ensure that any personal data are kept secure, including security measures to prevent personal data from being accidentally lost, or used or accessed in an unauthorised way. We limit access to your personal data to those who have a genuine business need to know it. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality. Where We have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential.
+
+We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where We are legally required to do so.
+
+Although We will do our best to protect your personal data, We cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once We have received your information, We will use strict procedures and security features to try to prevent unauthorised access.
+
+_Keeping your personal data up to date_
+
+If your personal details change you may update them by accessing the relevant page of the Website, or by contacting Us using the contact details below. If you have any questions about how We use data collected which relates to you, please contact Us by sending a request by email to the contact details below.
+
+We will endeavour to update your personal data within seven (7) working days of any new or updated personal data being provided to Us, in order to ensure that the personal data We hold about you is as accurate and up to date as possible.
+
+_How long we keep your personal data_
+
+  * We will hold details relating to any transaction you make, such as your name, e-mail address, IP address, billing address, location data for 10 years from the date of the transaction for EU VAT purposes in respect of digital products.
+  * In instances where you have not participated in a transaction We will hold your contact details, for as long as you are registered with the site and for 3 years after.
+  * If you are engaged by one of our sellers or suppliers, we will hold your contact details for the period that supplier or seller is registered with us and for 3 years after.
+  * Where you have contacted us via e-mail and telephone, We will hold your contact and enquiry details for 3 years, unless you register.
+  * Where you have participated in our surveys, We will hold your survey details for 2 years.
+
+_Where we store your personal data_
+
+All information We hold about you is stored on secure servers in the EU.
+
+The data that We collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). We will take all steps reasonably necessary to ensure that your data is held securely and in accordance with this Policy. Countries outside the EEA do not have the same data protection laws as the United Kingdom and EEA and we have therefore ensured that any of our suppliers who may transfer your personal data outside the EEA has put in place appropriate measures to protect your data, either by being a member of the US-EU Privacy Shield, or by entering into a European Commission approved contract (as permitted under Article 46(5) of the General Data Protection Regulation).
+
+We will not otherwise transfer your personal data outside the EEA or to any organisation (or subordinate bodies) governed by public international law or which is set up under any agreement between two or more countries. If you would like further information please contact Us (see ‘Contact' below).
+
+### YOUR RIGHTS
+
+Under the [General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) you have a number of important rights free of charge. In summary, those include rights to:
+
+  * access to your personal data and to certain other supplementary information that this Policy is already designed to address,
+  * require Us to correct any mistakes in your information which We hold,
+  * require the erasure of personal data concerning you in certain situations,
+  * receive the personal data concerning you which you have provided to Us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations,
+  * object at any time to processing of personal data concerning you for direct marketing,
+  * object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you,
+  * object in certain other situations to our continued processing of your personal data,
+  * otherwise restrict our processing of your personal data in certain circumstances,
+  * claim compensation for damages caused by our breach of any data protection laws.
+
+
+
+For further information on each of those rights, including the circumstances in which they apply, see the [Guidance from the UK Information Commissioner's Office (ICO) on individual's rights under the General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
+
+If you would like to exercise any of those rights, please:
+
+  * email, call or write to Us,
+  * let Us have enough information to identify you (user name, registration details),
+  * let Us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill), and
+  * let Us know the information to which your request relates ,including any account or reference numbers, if you have them.
+
+
+
+### HOW TO COMPLAIN
+
+We hope that We can resolve any query or concern you raise about our use of your information.
+
+The [General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) also gives you right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner.
+
+### CHANGES TO OUR PRIVACY POLICY
+
+We reserve the right to modify this Policy at any time. Any changes We may make to our Policy in the future will be notified and made available to you using the Website. Your continued use of the services and the Website shall be deemed your acceptance of the varied privacy policy.
+
+### INFORMATION ABOUT OUR USE OF COOKIES AND IP ADDRESSES
+
+We may collect information about your mobile phone, computer or other device from which you access the Website including where available your IP address, operating system and browser type, for systems administration and to report aggregate information to third parties affiliates. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. We may, however, use such information in conjunction with the data We have about you in order to track your usage of our services.
+
+Our Website uses cookies to distinguish you from other users of our Website. This helps Us to provide you with a good experience when you browse our Website and also allows Us to improve the Website. By using our Website you agree to our use of cookies as more specifically set out below.
+
+A cookie is a small file of letters and numbers that We store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
+
+The cookies We use include:
+
+  * " **Analytical** " cookies. They allow Us to recognise and count the number of visitors and to see how visitors move around the Website when they are using it. This helps Us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
+  * " **Strictly necessary** " cookies. These are cookies that are required for the operation of our Website. They include, for example, cookies that enable you to log into secure areas of our Website, use a shopping cart or make use of e-billing services.
+
+
+
+Please note that third parties affiliates may also use cookies, over which We have no control.
+
+You may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit our Website.
+
+### CONTACT
+
+All questions, comments and requests regarding this Privacy and Cookies Policy should be addressed to [privacy@payhip.com](mailto:privacy@payhip.com) write to Us at Payhip Limited, 1st Floor, 2 Woodberry Grove, London, N12 0DR.
