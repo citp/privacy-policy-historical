@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mashnol.org privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119172735id_/https%3A//mashnol.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashnol.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407001845id_/https%3A//www.mashnol.org/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy ~ Mashnol
+# Privacy Policy - Mashnol
 
 **PRIVACY POLICY**
 
