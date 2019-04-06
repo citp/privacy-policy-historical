@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222202811id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407011016id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Postable
 
