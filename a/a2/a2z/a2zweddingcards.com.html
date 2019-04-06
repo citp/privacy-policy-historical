@@ -1,392 +1,618 @@
-<!--The following is the downloaded HTML source of the a2zweddingcards.com privacy policy that was archived on 2016-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161110045202id_/https%3A//www.a2zweddingcards.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the a2zweddingcards.com privacy policy that was archived on 2019-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190406150017id_/https%3A//www.a2zweddingcards.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class=""><head>
-    <!--Start of Google Analytics code-->
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
+<!DOCTYPE html><html lang="en"><head>
+	<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/jquery-1.11.3.js"></script>
+	<!--Start of Google Analytics code-->
+	<script src="https://apis.google.com/js/platform.js?onload=renderButton" async="" defer=""></script>
+	<script>
+		var googleUser = {};
+		var startApp = function() {
+			gapi.load('auth2', function(){
+				auth2 = gapi.auth2.init({
+					client_id: '903399795212-tbkrp16if7n88ijnfd76ol3elhh1l423.apps.googleusercontent.com',
+					cookiepolicy: 'single_host_origin',
+				});
+				attachSignin(document.getElementById('customBtn'));
+			});
+		};
+
+		function attachSignin(element) {
+			auth2.attachClickHandler(element, {},
+				function(googleUser) {
+					var profile = googleUser.getBasicProfile();
+					var fbdata = {'id':profile.getId(), 'name': profile.getName(), 'image': profile.getImageUrl(), 'email': profile.getEmail()};
+					var form_data = {'ajax':'loginwithgplus','fbdata':JSON.stringify(fbdata)};
+					$.ajax({
+						type: "GET",
+						url: "https://www.a2zweddingcards.com/login/gplusLogin/",
+						data: form_data,
+						dataType: 'json',
+						success: function(ret) {
+							console.log(ret);
+							if(ret['result']=='failed'){
+								alert(ret['error']);
+							}else if(ret['url'] != ''){
+	                          window.location.href = ret['url']; 
+	                        }else{  
+								window.location.reload(); 
+							}
+						}
+					}); 
+				}
+			);
+		}
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		//Ecom Tracking
 		ga('create', 'UA-61578663-1', 'auto');
+		ga('require', 'ecommerce', 'ecommerce.js');
+		/*ga("set", "userId", "");*/
+
+		function addTrans(orderID,productname,total,shipping,tax,currency) {
+			ga('ecommerce:addTransaction', {
+				'id': orderID,
+				'affiliation': productname,
+				'revenue': total,
+				'shipping': shipping,
+				'tax': tax,
+				'currency': currency,
+			});
+		}
 		
-	ga('require', 'displayfeatures');
-	ga('send', 'pageview');	
-	//Ecom Tracking
-	ga('require', 'ecommerce', 'ecommerce.js');
-	ga('require', 'ecommerce');
-	function addTrans(orderID,productname,total,shipping,tax,currency) {
-		ga('ecommerce:addTransaction', {
-			'id': orderID,
-			'affiliation': productname,
-			'revenue': total,
-			'shipping': shipping,
-			'tax': tax,
-			'currency': currency,
-		});
-	}
+		function addItems(orderID,productname,category,price,qty,sku) {
+			ga('ecommerce:addItem', {
+				'id': orderID,
+				'name': productname,
+				'sku': sku,
+				'category': category,
+				'price': price,
+				'quantity': qty 
+			});
+		}
+	</script>
+
+	<!-- Facebook Pixel Code -->
+	<script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '327390698014559');
+	  fbq('track', 'PageView');
+	</script>
+	<!-- End Facebook Pixel Code -->
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+	<title>Privacy Policy of our website | A2zWeddingCards</title>
+			<meta name="description" content="It gives detailed information about our privacy policies.">
 	
-	function addItems(orderID,productname,category,price,qty,sku) {
-		ga('ecommerce:addItem', {
-			'id': orderID,
-			'sku': sku,
-			'name': productname,
-			'category': category,
-			'price': price,
-			'quantity': qty 
-		});
-	}
-	//End	  
-    </script>
-    <!--End of Google Analytics code-->
 
-<!-- start of onesignal script-->
-		<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
-    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>    <script>
+	<meta name="robots" content="ALL">
+		<link rel="canonical" href="https://www.a2zweddingcards.com/privacy-policy">
 
-      var OneSignal = OneSignal || [];
 
-      OneSignal.push( function() {
-        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
-        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
-        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
-
-        OneSignal.setDefaultNotificationUrl("https://www.a2zweddingcards.com/");
-        var oneSignal_options = {};
-
-        oneSignal_options['wordpress'] = true;
-oneSignal_options['appId'] = '891b48c6-9351-4eaa-b715-87b078b12c27';
-oneSignal_options['autoRegister'] = true;
-oneSignal_options['welcomeNotification'] = { };
-oneSignal_options['welcomeNotification']['title'] = "";
-oneSignal_options['welcomeNotification']['message'] = "";
-oneSignal_options['subdomainName'] = "a2zweddingcards";
-oneSignal_options['promptOptions'] = { };
-oneSignal_options['promptOptions']['actionMessage'] = 'We would like to share you latest Wedding Ideas and Inspirations.';
-oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = 'Are you Getting Hitched!!';
-oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = 'Your entire Wedding in One Place. Inspirations, Planning Ideas, DIY and Much More';
-oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = 'Are you Getting Hitched!!';
-oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = 'Your entire Wedding in One Place. Inspirations, Planning Ideas, DIY and Much More';
-oneSignal_options['notifyButton'] = { };
-oneSignal_options['notifyButton']['enable'] = true;
-oneSignal_options['notifyButton']['position'] = 'bottom-right';
-oneSignal_options['notifyButton']['theme'] = 'default';
-oneSignal_options['notifyButton']['size'] = 'small';
-oneSignal_options['notifyButton']['prenotify'] = true;
-oneSignal_options['notifyButton']['showCredit'] = true;
-oneSignal_options['notifyButton']['text'] = {};
-oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Click Here To Subscribe Us';
-oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'Thanks For Subscribing us. ';
-oneSignal_options['notifyButton']['offset'] = {};
-oneSignal_options['notifyButton']['offset']['bottom'] = '50px';
-
-        OneSignal.init(oneSignal_options);
-      });
-
-      function documentInitOneSignal() {
-        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
-
-        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
-          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
-      }
-
-      if (document.readyState === 'complete') {
-           documentInitOneSignal();
-      }
-      else {
-           window.addEventListener("load", function(event){
-               documentInitOneSignal();
-          });
-      }
-    </script>
+		<!-- Twitter Card data -->
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@A2zWeddingCards">
+		<meta name="twitter:title" content="Privacy Policy of our website | A2zWeddingCards">
+		<meta name="twitter:description" content="It gives detailed information about our privacy policies.">
+		<meta name="twitter:creator" content="@A2zWeddingCards">
+		<meta name="twitter:image:src" content="https://www.a2zweddingcards.com/assets_ltst/images/logo.png">
+		<!-- facebook meta data -->
+		<meta property="og:title" content="Privacy Policy of our website | A2zWeddingCards">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://www.a2zweddingcards.com/privacy-policy">
+		<meta property="og:description" content="It gives detailed information about our privacy policies.">
+		<meta property="og:image" content="https://www.a2zweddingcards.com/assets_ltst/images/oglogoa2z.png">
+		<meta property="og:site_name" content="A2zWeddingCards">
 	
-<!-- end of onesignal script-->     
+	<link rel="shortcut icon" href="https://www.a2zweddingcards.com/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.a2zweddingcards.com/assets_ltst/images/a2z_76x76.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.a2zweddingcards.com/assets_ltst/images/a2z_120x120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.a2zweddingcards.com/assets_ltst/images/a2z_152x152.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.a2zweddingcards.com/assets_ltst/images/a2z_180x180.png">
+		
+	<link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/assets_ltst/styles/style.css?v=0.1">
 
-    <link rel="shortcut icon" href="https://www.a2zweddingcards.com/favicon.ico" type="image/x-icon">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <meta name="msvalidate.01" content="BBB0F20FFD142CF0EBEB5AC8D1078494">
-    <title>
-    Privacy Policy of our website | A2zWeddingCards    </title>
-            <meta name="description" content="It gives detailed information about our privacy policies.">
-        <meta name="robots" content="ALL">
-<link rel="canonical" href="https://www.a2zweddingcards.com/privacy-policy">
-<link rel="alternate" hreflang="x-default" href="https://www.a2zweddingcards.com/privacy-policy">        <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@A2zWeddingCards">
-    <meta name="twitter:title" content="Privacy Policy of our website | A2zWeddingCards">
-    <meta name="twitter:description" content="It gives detailed information about our privacy policies.">
-    <meta name="twitter:creator" content="@A2zWeddingCards">
-    <meta name="twitter:image:src" content="https://www.a2zweddingcards.com/images/logo.png">
-    <!-- facebook meta data (awsm23729) -->
-    <meta property="og:title" content="Privacy Policy of our website | A2zWeddingCards">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.a2zweddingcards.com/privacy-policy">
-    <meta property="og:description" content="It gives detailed information about our privacy policies.">
-    <meta property="og:image" content="https://www.a2zweddingcards.com/images/logo.png">
-    <meta property="og:site_name" content="A2zWeddingCards">
-        <!--[if IE]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!-- Start CSS -->
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/styles/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/styles/style.css">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/styles/add-on-hover.css">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/styles/font-awesome.css">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/styles/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/styles/jquery-ui.css" media="all">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/styles/jquery-ui.min.css" media="all">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/styles/validationEngine.jquery.min.css">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/styles/jquery.slider.min.css">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/js/rangeslider/jquery-ui-slider-pips.css">
-    <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/js/fancybox/jquery.fancybox.css">
-    <!-- END CSS -->
+	<script type="application/ld+json">
+		{
+		"@context": "https://schema.org",
+		"@type": "Organization",
+		"url": "https://www.a2zweddingcards.com/",
+		"logo": "https://d193pe6xw0vlna.cloudfront.net/images/new_layout/A2zWeddingCards-Logo.jpg", 
+		"contactPoint":{
+			"@type": "ContactPoint",
+			"telephone": [ "+1 718 554 0985" ],
+			"contactType": "customer service",
+			"availableLanguage": [ "English", "Hindi" ],
+			"areaServed": ["US" , "GB" , "CA" , "BR" , "AU" , "IN" , "SA" ]
 
-    <!-- Start JS -->
-    <!--<script type="text/javascript" src="https://www.a2zweddingcards.com/js/jquery.min.js"></script>-->
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/jquery-1.11.3.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/accordian/raaccordion.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/jquery.validationEngine-en.min.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/jquery.validationEngine.min.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/fancybox/jquery.fancybox.min.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/jquery.elevatezoom.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/scroll.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/jquery-ui.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/rangeslider/jquery-ui-slider-pips.min.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/confirmon/jquery.easy-confirm-dialog.js"></script>
-
-    <!--Option Crousal starts-->
-    <link href="https://www.a2zweddingcards.com/styles/crousal/Crou-style.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/crousal/jquery.flexisel.js"></script>
-    <script type="text/javascript" src="https://www.a2zweddingcards.com/js/crousal/flexi-add.js"></script>
-    <!--Option Crousal Ends-->
-
-    <script>
-    $(function() {
-        window.prettyPrint && prettyPrint();
-        $(document).on('click', '.yamm .dropdown-menu', function(e) {
-            e.stopPropagation();
-        });
-    });
-	jQuery(document).ready(function() {
-		$('.btnPinIt').click(function() {
-			var url = $(this).attr('href');
-			var media = $(this).attr('data-image');
-			var desc = $(this).attr('data-desc');
-			window.open("//www.pinterest.com/pin/create/button/"+
-			"?url="+url+
-			"&media="+media+
-			"&description="+desc,"pinIt","toolbar=no, scrollbars=no, resizable=no, top=0, right=0, width=750, height=320");
-			return false;
-		});
-	});
+		},
+		"address": {
+			"@type": "PostalAddress",
+			"addressLocality": "Bothell",
+			"addressRegion": "WA",
+			"postalCode": "98021",
+			"streetAddress": "237th ST SE"
+		},
+		"founders": [
+			{
+				"@type": "Person",
+				"name": "Saurabh Agarwal"
+			}
+		],  
+		"description": "Customer Service",
+		"name": "A2zWeddingCards",
+		"telephone": "+1 718 554 0985",
+		"email": "info@a2zweddingcards.com",
+		"sameAs" : ["https://www.facebook.com/a2zweddingcard",
+			"https://twitter.com/a2zWeddingCards",
+			"https://plus.google.com/+A2zweddingcards",
+			"https://www.linkedin.com/company/a2zweddingcards",
+			"https://www.instagram.com/a2zweddingcards/",
+			"https://www.youtube.com/a2zweddingcards"
+		],
+		"potentialAction": {
+			"@type": "SearchAction",
+			"target": "https://www.a2zweddingcards.com/search?q={search_term_string}",
+			"query-input": "required name=search_term_string"
+		}
+		}
     </script>
-    <!-- END JS -->
-    </head>
-    <body>
-    <!--div class="container-fluid">
-        <div class="container top-offers"> 
-           <div class="col-md-4 col-xs-12 col-sm-12"> <a href="https://www.a2zweddingcards.com/designer-wedding-invitations"> <img src="https://www.a2zweddingcards.com/images/30-off.jpg"></a></div>
-            <div class="col-md-3 col-xs-12 col-sm-12"><a href="https://www.a2zweddingcards.com/wedding-invitations-offers"> <img src="https://www.a2zweddingcards.com/images/40-off.jpg"></a></div>
-            <div class="col-md-3 col-xs-12 col-sm-12"><a href="#"> <img src="https://www.a2zweddingcards.com/images/lucky-draw.jpg"></a></div>
-        </div>
-    </div-->
-<!--<div class="save-upto"> <a href="https://www.a2zweddingcards.com/wedding-invitations-offers" class="fixOfferImg"> <img src="https://www.a2zweddingcards.com/images/static-icon.png" style="width:100%"></a> </div>-->
-<header>
-      <div class="container-fluid">
-    <div class="row"> 
-          <div class="top-wrapper">
-        <div class="container">
-              <div class="social col-md-3 col-xs-12 col-sm-4 col-lg-3 hidden-sm"> <a rel="nofollow" href="https://www.facebook.com/a2zweddingcard"><i class="fa fa-facebook"></i></a> <a rel="nofollow" href="https://twitter.com/a2zWeddingCards"><i class="fa fa-twitter"></i></a> <a rel="nofollow" href="https://plus.google.com/+A2zweddingcards"><i class="fa fa-google-plus"></i></a> <a rel="nofollow" href="http://www.pinterest.com/a2zweddingcards/"><i class="fa fa-pinterest"></i></a> <a rel="nofollow" href="http://feeds.feedburner.com/a2zweddingcard"><i class="fa fa-rss"></i></a> <a rel="nofollow" href="https://www.linkedin.com/company/a2zweddingcards"><i class="fa fa-linkedin"></i></a> <a rel="nofollow" href="https://instagram.com/a2zweddingcards/"><i class="fa fa-instagram"></i></a> </div>
-              <div class="offer col-md-3 col-xs-12 col-sm-4 col-lg-3"> <!--<a href="https://www.a2zweddingcards.com/wedding-invitations-offers">--><img src="https://www.a2zweddingcards.com/images/top-strip.png"><!--</a>--> </div>
-              <div class="col-md-3 col-xs-12 col-sm-4 col-lg-3" style="color:white;font-size:13px;"><ul style="margin-top: 2px; margin-bottom: 0px;"><li style="text-align: center;"> <img src="https://www.a2zweddingcards.com/images/whatsapp_icon.png" style="width: 15px; margin-top: -3px;"> <a href="tel:+91-9829127575">+91-98291 27575 (24*7 Support)</a></li></ul></div>
-              <div class="contact col-md-3 col-xs-12 col-sm-4 col-lg-3 pull-right">
-            <ul>
-                                    <li><i class="fa fa-user"></i> <a href="https://www.a2zweddingcards.com/login">Sign In</a></li>
-                  <li><i class="fa fa-user"></i> <a href="https://www.a2zweddingcards.com/register">Sign Up</a></li>
-                                    <li><i class="fa fa-gift"></i> <a href="https://www.a2zweddingcards.com/offers">Offers</a></li>
-                </ul>
-          </div>
-            </div>
-      </div>
-          <div class="head-middle-wrap">
-        <div class="container">
-              <div class="logo col-md-4 col-lg-4 col-sm-6 col-xs-12"> <a href="https://www.a2zweddingcards.com/"><img src="https://www.a2zweddingcards.com/images/logo.png"></a> </div>
-              <!--<div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 text-center timer">
-                <h3 class="ClockText">Easter Sale is Here! Shop Now! WindUp in..</h3>
-                <div class="clock"></div>
-              </div>-->
-              <div class="right-wrap col-md-4 col-xs-12 col-sm-6 col-col-lg-3 pull-right">
-            <div class="search">
-                  <div class="search-input col-md-7 col-lg-7 col-sm-7 col-xs-7">
-                <form id="seachcard">
-                      <input type="text" name="searchableCardCode" id="searchableCardCode" placeholder="#Search type...">
-                      <a id="goBtn" href="javascript:void(0);"><i class="fa fa-search"></i></a>
-                    </form>
-              </div>
-                  <div class="currency col-md-5 col-lg-5 col-sm-5 col-xs-5 pull-right"> 
-                                <select name="currencyId" class="TSelectCurr" id="currencyId">
-                      <option selected="">Select Currency</option>
-                                            <option value="2">
-                   AUD                  -
-                  AUD Australia Dollars                  </option>
-                                            <option value="3">
-                   CAD                  -
-                  CAD Canada Dollars                  </option>
-                                            <option value="7">
-                   EUR                  -
-                  EUR Euro                  </option>
-                                            <option value="8">
-                   GBP                  -
-                  GBP UK Pounds                  </option>
-                                            <option value="22">
-                  ZAR                  -
-                  ZAR South Africa Rand                  </option>
-                                            <option value="23">
-                  AED                  -
-                  AED UAE Dirhams                  </option>
-                                          </select>
-              </div>
-                  <div class="clear"></div>
-                </div>
-            <div class="top-menu">
-                  <ul>
-                <li><a href="https://www.a2zweddingcards.com/blog">Blog</a></li>
-                <li><a href="https://www.a2zweddingcards.com/faq">FAQ'S</a></li>
-                <li><a href="https://www.a2zweddingcards.com/how-to-order-online">How to Order</a></li>
-                <li><a href="https://www.a2zweddingcards.com/24-live-support">24/7 Live Help</a></li>
-                <li><a href="https://www.a2zweddingcards.com/cart"><i class="fa fa-shopping-cart"></i> (<span class="cartTotal">0</span>)</a></li>
-              </ul>
-                </div>
-          </div>
-            </div>
-      </div>
-          <div class="clear"></div>
-          <div class="navbar yamm navbar-default menu-wrapper">
-        <div class="container">
-              <div class="navbar-header">
-            <button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-          </div>
-              <div id="navbar-collapse-1" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
-                  <li class="dropdown home"><a href="https://www.a2zweddingcards.com/"><i class="fa fa-home"></i></a> </li>
-                  <li class="dropdown"><a href="javascript:void(0);" data-toggle="dropdown" class="dropdown-toggle">Wedding Invitations<b class="caret"></b></a>
-                <ul class="dropdown-menu half">
-                      <li>
-                    <div class="yamm-content">
-                          <div class="row">
-                        <ul class="col-sm-6 list-unstyled">
-                                                            <li><a href="https://www.a2zweddingcards.com/hindu-wedding-cards">
-                                Hindu Wedding Cards                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/muslim-wedding-invitations">
-                                Islamic Wedding Invitations                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/rustic-wedding-invitations">
-                                Rustic Wedding Invitations                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/designer-wedding-invitations">
-                                Designer Invitations                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/sikh-wedding-invitations">
-                                Sikh Wedding Cards                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/scroll-invitations">
-                                Scroll Invitations                                </a></li>
-                              </ul><ul class="col-sm-6 list-unstyled">                              <li><a href="https://www.a2zweddingcards.com/indian-wedding-invitations">
-                                Indian Wedding Invitations                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/christian-wedding-invitations">
-                                Christian Invitations                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/south-indian-wedding-cards">
-                                South Indian Cards                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/gujarati-wedding-cards">
-                                Gujarati Kankotri                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/personal-invitations">
-                                Personal Cards                                </a></li>
-                              </ul><ul class="col-sm-6 list-unstyled">                              <li><a href="https://www.a2zweddingcards.com/cheap-wedding-invites-online">Cheap Wedding Cards</a></li>
-                            </ul>
-                      </div>
-                        </div>
-                  </li>
-                    </ul>
-              </li>
-                  <li class="dropdown"><a href="https://www.a2zweddingcards.com/new-arrival" class="dropdown-toggle">New Arrivals</a></li>
-                  <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Add-on Cards<b class="caret"></b></a>
-                <ul class="dropdown-menu half">
-                      <li>
-                    <div class="yamm-content">
-                          <div class="row">
-                        <ul class="col-sm-6 list-unstyled">
-                                                            <li><a href="https://www.a2zweddingcards.com/thank-you-cards">
-                                Thank You Cards                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/place-cards">
-                                Place Cards                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/program-booklet">
-                                Program booklet                                </a></li>
-                              </ul><ul class="col-sm-6 list-unstyled">                              <li><a href="https://www.a2zweddingcards.com/menu-cards">
-                                Menu cards                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/rsvp-cards">
-                                Rsvp cards                                </a></li>
-                              </ul><ul class="col-sm-6 list-unstyled">                            </ul>
-                      </div>
-                        </div>
-                  </li>
-                    </ul>
-              </li>
-                  <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Wedding Accessories<b class="caret"></b></a>
-                <ul class="dropdown-menu half">
-                      <li>
-                    <div class="yamm-content">
-                          <div class="row">
-                        <ul class="col-sm-6 list-unstyled">
-                                                            <li><a href="https://www.a2zweddingcards.com/money-envelopes">
-                                Money Envelopes                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/cake-sweet-boxes">
-                                Cake and Sweet Boxes                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/save-the-date-cards">
-                                Save The Date Cards                                </a></li>
-                                                          </ul>
-                        <ul class="col-sm-6 list-unstyled">
-                                                            <li><a href="https://www.a2zweddingcards.com/wedding-guest-book">
-                                Wedding Guest Book                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/carry-bags">
-                                Carry Bags                                </a></li>
-                                                            <li><a href="https://www.a2zweddingcards.com/envelop-seals">Envelope Seals</a></li>
-                            </ul>
-                      </div>
-                        </div>
-                  </li>
-                    </ul>
-              </li>
-                  <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Your Ideas Our Designs<b class="caret"></b></a>
-                <ul class="dropdown-menu half">
-                      <li>
-                    <div class="yamm-content">
-                          <div class="row">
-                        <ul class="col-sm-6 list-unstyled">
-                              <li><a href="https://www.a2zweddingcards.com/wedding-wordings/invitations-wordings">Invitation Wordings</a></li>
-                              <li><a href="https://www.a2zweddingcards.com/wedding-fonts">Invitation Fonts</a></li>
-                              <li><a href="https://www.a2zweddingcards.com/wedding-symbols/wedding-symbols">Printable Symbols</a></li>
-                            </ul>
-                        <ul class="col-sm-6 list-unstyled">
-                              <li><a href="https://www.a2zweddingcards.com/die-caste-symbols">Die Casted Symbols</a></li>
-                              <li><a href="https://www.a2zweddingcards.com/guest-name-printing">Guest Name &amp; Addressing</a></li>
-                            </ul>
-                      </div>
-                        </div>
-                  </li>
-                    </ul>
-              </li>
-                  <li class="dropdown"><a href="https://www.a2zweddingcards.com/become-a-dealer" class="dropdown-toggle">Become a Dealer</a></li>
-                  <li class="dropdown"><a href="https://www.a2zweddingcards.com/contact-us" class="dropdown-toggle">Contact Us</a></li>
-                  <li class="dropdown"><a href="https://www.a2zweddingcards.com/quick-list/compare" class="dropdown-toggle">Compare Cards</a></li>
-                </ul>
-          </div>
-            </div>
-      </div>
-        </div>
-  </div>
-    </header>
-<div class="clear"></div>
-<div class="container" id="cat-wrap">
-<div class="breadcrumb col-md-12 col-lg-12 col-xs-12 col-sm-12" xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a class="bread_active" rel="v:url" property="v:title" href="https://www.a2zweddingcards.com">Home</a></span> &gt;&gt; <span><a href="javascript:void(0);">Privacy Policy</a></span></div><div class="side-menu col-md-3 col-sm-3 hidden-xs">
+    <style>
+    	div.fadeMe {
+		    opacity: 0.9;
+		    filter: alpha(opacity=20);
+		    background-color: #fff;
+		    width: 100%;
+		    height: 100%;
+		    z-index: 10;
+		    top: 0;
+		    left: 0;
+		    position: fixed;
+		    z-index: 9999999;
+		}
+		
+	.wrap { position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
+	.text {color: #000; display: inline-block; margin-left: 5px;font-family: arial; }
+	.bounceball { position: relative; display: inline-block; height: 37px; width: 15px; }
+	.bounceball:before {
+  		position: absolute;
+  		content: '';
+  		display: block;
+  		top: 0;
+  		width: 15px;
+  		height: 15px;
+  		border-radius: 50%;
+  		background-color: #000;
+  		-webkit-transform-origin: 50%;
+  		transform-origin: 50%;
+  		-webkit-animation: bounce 500ms alternate infinite ease;
+  		animation: bounce 500ms alternate infinite ease;
+	}
+
+	@-webkit-keyframes bounce {
+	  0% {
+	    top: 30px;
+	    height: 5px;
+	    border-radius: 60px 60px 20px 20px;
+	    -webkit-transform: scaleX(2);
+	            transform: scaleX(2);
+	  }
+	  35% {
+	    height: 15px;
+	    border-radius: 50%;
+	    -webkit-transform: scaleX(1);
+	            transform: scaleX(1);
+	  }
+	  100% {
+	    top: 0;
+	  }
+	}
+
+	@keyframes bounce {
+	  0% {
+	    top: 30px;
+	    height: 5px;
+	    border-radius: 60px 60px 20px 20px;
+	    -webkit-transform: scaleX(2);
+	            transform: scaleX(2);
+	  }
+	  35% {
+	    height: 15px;
+	    border-radius: 50%;
+	    -webkit-transform: scaleX(1);
+	            transform: scaleX(1);
+	  }
+	  100% {
+	    top: 0;
+	  }
+	}
+
+
+	.fSType {
+		-webkit-animation: wipe 2s infinite;
+		-webkit-animation-timing-function: linear;
+		-webkit-mask-size: 932px 80px;
+		-webkit-mask-image: -webkit-gradient(linear, left top, right top, 
+				color-stop(0.00,  rgba(0,0,0,0)),
+				color-stop(0.25,  rgba(0,0,0,0.5)),
+				color-stop(0.3,  rgba(0,0,0,1)),
+				color-stop(0.35,  rgba(0,0,0,0.5)),
+				color-stop(0.6,  rgba(0,0,0,0)),
+				color-stop(1.00,  rgba(0,0,0,0)));
+	}
+
+	@-webkit-keyframes wipe {
+		0% {
+			-webkit-mask-position: 0px 0px;
+		}
+		100% {
+			-webkit-mask-position: 932px 0px;
+		}
+	}
+
+    </style>
+	<!-- <script type="text/javascript">
+		window.onload=function() {
+			//$( ".wrap" ).hide('slow');
+			$( ".fadeMe" ).fadeOut('slow');
+		}
+	</script> -->
+	<!-- Global site tag (gtag.js) - Google Ads: 949754766 -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-949754766"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'AW-949754766');
+	</script>
+
+</head>
+<body>
+	<script>
+	  fbq('track', 'ViewContent');
+	</script>
+	<!-- <div class="fadeMe">
+		<div class="wrap" style="display: block;">
+			<div class="loading">
+				
+				<div class="fSType"><img src="https://i1.wp.com/www.a2zweddingcards.com/blog/wp-content/uploads/2018/05/1.-A2zWeddingCards-Logo.jpg?ssl=1" ></div>
+			</div>
+		</div>
+	</div> -->
+	
+	<div class="new-layout">
+		<div class="top-strip-menu">
+			<div class="container">
+				<div class="top-left col-md-8 col-xs-12 col-sm-6 col-lg-6 hidden-xs">
+					<ul>
+						<li><a href="https://www.a2zweddingcards.com/24-live-support">24X7 Customer Support</a></li> | 
+						<li class="connect-with-us">
+							<a href="#">Get Assistance</a>
+							<span class="other_phone_number_new" style="display:none;">
+								<div class="phone_border">
+									<a href="mailto:info@a2zweddingcards.com"><p><span><i class="fa fa-envelope" aria-hidden="true"></i> info@a2zweddingcards.com</span></p></a>
+									<a href="https://web.whatsapp.com/send?phone=919829127575&amp;text=I%27ve%20a%20query"><p><span><i class="fa fa-whatsapp" aria-hidden="true"></i> +91-9829127575  (worldwide)</span></p></a>
+									<a href="tel:+17185540985"><p><span><i class="fa fa-phone"></i> +1 7185540985 (For US) </span></p></a>
+									<div class="clearfix"></div>
+								</div>
+							</span>
+						</li>
+						<!--<li class="top-offer-strip"><a href="https://www.a2zweddingcards.com/offers">Flat 20% Off On Wedding Invites</a></li>-->
+					</ul>
+				</div>
+
+				<div class="top-right col-md-4 col-xs-12 col-sm-6 col-lg-4">
+					<ul>
+
+												<li><a href="https://www.a2zweddingcards.com/login">Sign In</a> | <a href="https://www.a2zweddingcards.com/register">Sign Up</a></li>
+												 <li class="connect-with-us mobile-connect hidden-md hidden-sm hidden-lg">
+							<a href="#"><i class="fa fa-phone-square" aria-hidden="true"></i> 24*7 </a> 
+							<span class="other_phone_number_new" style="display:none;">
+								<div class="phone_border">
+									<a href="mailto:info@a2zweddingcards.com"><p><span><i class="fa fa-envelope" aria-hidden="true"></i> info@a2zweddingcards.com</span></p></a>
+									<a href="https://web.whatsapp.com/send?phone=919829127575&amp;text=I%27ve%20a%20query"><p><span><i class="fa fa-whatsapp" aria-hidden="true"></i> +91-9829127575  (worldwide)</span></p></a>
+									<a href="tel:+17185540985"><p><span><i class="fa fa-phone"></i> +1 7185540985 (For US) </span></p></a>
+									<div class="clearfix"></div>
+								</div>
+							</span>
+						</li>
+						<li>
+							<a href="https://www.a2zweddingcards.com/cart" id="cart-hover">Cart <i class="fa fa-shopping-cart" aria-hidden="true"></i> (<span class="cartTotal">0</span>)</a>
+							<!-- <div class="cart-hover-div hidden-xs">
+								<div class="your-shop-cart">Your Cart</div>
+																<div class="clearfix"></div>
+								<div class="cart-bottom">
+									<div class="cart-hover-text">Your cart is currently empty.<br>
+									<a href="https://www.a2zweddingcards.com">Click here</a> to Shopping.</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="clearfix"></div>
+															</div> -->
+						</li>
+
+						<li><a href="https://www.a2zweddingcards.com/offers"><i class="fa fa-gift" aria-hidden="true"></i> Offers</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+		<div class="middle-strip-wrap">
+			<div class="container">
+				<!--<div class="col-xs-12 hidden-lg hidden-md hidden-sm top-offer-strip" style="text-align: center;font-size: 12px;margin-bottom: 10px;"><a href="https://www.a2zweddingcards.com/offers">Flat 20% Off On Wedding Invites</a></div>-->
+				<div class="a2z-logo col-lg-4 col-md-4 col-sm-4 col-xs-12"><a itemprop="url" href="https://www.a2zweddingcards.com"><img itemprop="logo" src="https://i1.wp.com/www.a2zweddingcards.com/blog/wp-content/uploads/2018/05/1.-A2zWeddingCards-Logo.jpg?ssl=1" alt="A2zWeddingCards-Logo"></a></div>
+				<div class="Enq-search-btn col-lg-5 col-md-5 col-sm-6 col-xs-12">
+					<ul>
+						<li><form id="seachcard"><input type="text" id="searchableCardCode" name="searchableCardCode" placeholder="Search"> <a id="goBtn" href="javascript:void(0);"><span class="icon"><i class="fa fa-search" aria-hidden="true"></i></span></a></form></li>
+
+						<li>
+														<select name="currencyId" class="TSelectCurr" id="currencyId">
+								<option selected="">Select Currency</option>
+																	<option value="2">
+									AUD - Australia Dollars 
+									</option>
+																	<option value="3">
+									CAD - Canada Dollars 
+									</option>
+																	<option value="7">
+									EUR - Euro 
+									</option>
+																	<option value="8">
+									GBP - UK Pounds 
+									</option>
+																	<option value="22">
+									ZAR - South Africa Rand 
+									</option>
+																	<option value="23">
+									AED - UAE Dirhams 
+									</option>
+															</select>
+						</li>
+
+						<li class="hidden-xs hidden-sm"><a href="#" id="info-hover"><i class="fa fa-info-circle" aria-hidden="true"></i> Info</a>
+							<div class="info_menu">
+								<ul>
+									<li><a href="https://www.a2zweddingcards.com/how-to-order-online">How to order</a></li>
+									<li><a href="https://www.a2zweddingcards.com/faq">FAQ's</a></li>
+									<li><a href="https://www.a2zweddingcards.com/terms-conditions">Terms &amp; Conditions*</a></li>
+									<li><a href="https://www.a2zweddingcards.com/privacy-policy">Privacy Policy</a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+		<div class="wsmenucontainer clearfix">
+			<div class="container">
+				<div class="overlapblackbg"></div>
+				<div class="wsmobileheader clearfix"> <a id="wsnavtoggle" class="animated-arrow"><span></span></a> </div>
+				<!--Main Menu HTML Code-->
+				<div class="">
+					<div class="wsmain">
+						<nav class="wsmenu clearfix">
+							<ul class="mobile-sub wsmenu-list">
+								<li><a href="https://www.a2zweddingcards.com">Home</a></li>
+								<li>
+									<span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span>
+																			<a href="#">Wedding Invitations</a>
+																		<div class="megamenu clearfix">
+										<ul class="col-lg-3 col-md-3 col-xs-12 link-list">
+											<li class="title hidden-xs hidden-sm">Shop By Categories</li>
+																						<li><a href="https://www.a2zweddingcards.com/best-selling-wedding-invitations"><b style="color: #476bb7;">Best Selling Wedding Invitations</b></a></li>
+																							<li>
+													<a href="https://www.a2zweddingcards.com/all-wedding-invitations">
+														All Wedding Invitations													</a>
+												</li> 												<li>
+													<a href="https://www.a2zweddingcards.com/hindu-wedding-cards">
+														Hindu Wedding Cards													</a>
+												</li> 												<li>
+													<a href="https://www.a2zweddingcards.com/muslim-wedding-invitations">
+														Islamic Wedding Invitations													</a>
+												</li> 												<li>
+													<a href="https://www.a2zweddingcards.com/designer-wedding-invitations">
+														Designer Invitations													</a>
+												</li> 												<li>
+													<a href="https://www.a2zweddingcards.com/scroll-invitations" onclick="ga('send', 'event', 'Menu', 'Scroll Invitations', 'Card-Detail');">
+														Scroll Invitations													</a>
+												</li> 												<li>
+													<a href="https://www.a2zweddingcards.com/indian-wedding-invitations">
+														Indian Wedding Invitations													</a>
+												</li> 												<li>
+													<a href="https://www.a2zweddingcards.com/cheap-wedding-invites-online">
+														Cheap Wedding Invitations													</a>
+												</li> 												<li>
+													<a href="https://www.a2zweddingcards.com/premium-wedding-invitations-collection">
+														Premium Wedding Invitations													</a>
+												</li> 										</ul>
+										<ul class="col-lg-2 col-md-2 col-xs-12 link-list hidden-xs hidden-sm" style="margin-right: 50px;">
+											<li class="title">Shop By Theme</li>
+											<li><a href="https://www.a2zweddingcards.com/floral-wedding-invitations">Floral Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/paisley-pattern-wedding-invitations">Paisley Pattern Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/box-wedding-invitations">Box Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/peacock-wedding-invitations">Peacock Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/damask-pattern-wedding-invitations">Damask Pattern Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/unique-designs-wedding-invitations">Unique Designs Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/simple-theme-wedding-invitations">Simple Theme Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/elegant-wedding-invitations">Elegant Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/traditional-wedding-invitations">Traditional Wedding Invitations</a></li>
+										</ul>
+										<ul class="col-lg-2 col-md-2 col-xs-12 link-list hidden-xs hidden-sm" style="margin-right: 45px;">
+											<li class="title shop_process">Shop By Process</li>
+											<li><a href="https://www.a2zweddingcards.com/foil-stamped-wedding-invitations">Foil Stamped Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/laser-cut-wedding-invitations">Laser Cut Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/glitter-shine-wedding-invitations">Glitter Wedding Shine Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/elegant-embossed-wedding-invitations">Embossed Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/screen-printed-wedding-invitations">Silk Screen Wedding Invitations </a></li>
+											<li><a href="https://www.a2zweddingcards.com/foil-embossed-wedding-invitations">Foil Embossed Wedding Invitations</a></li>
+											<li><a href="https://www.a2zweddingcards.com/multi-colored-offset-printed-wedding-invitations">Multicolor Offset Printing</a></li>
+										</ul>
+										<ul class="col-lg-2 col-md-2 col-xs-12 link-list hidden-xs hidden-sm">
+											<li class="title shop_process">Paper Type</li>
+											<li><a href="https://www.a2zweddingcards.com/chic-wedding-invitations">Designer Paper</a></li>
+											<li><a href="https://www.a2zweddingcards.com/designer-wooly-wedding-invitations">Designer Wooly</a></li>
+											<li><a href="https://www.a2zweddingcards.com/luxe-cotton-wedding-invitations"> Handmade Cotton Paper</a></li>
+											<li><a href="https://www.a2zweddingcards.com/luxurious-shimmery-silk-wedding-invitations">Handmade Shimmer Paper</a></li>
+											<li><a href="https://www.a2zweddingcards.com/matte-wedding-invitations"> Matt Paper</a></li>
+											<li><a href="https://www.a2zweddingcards.com/shiny-shimmer-wedding-invitations">Shimmer Paper</a></li>
+											<li><a href="https://www.a2zweddingcards.com/tracing-paper-wedding-invitations"> Tracing Paper</a></li>
+											<li><a href="https://www.a2zweddingcards.com/vogue-velvet-wedding-invitations">Velvet</a></li>
+											<li><a href="https://www.a2zweddingcards.com/wooly-wedding-invitations"> Wooly</a></li>
+
+										</ul>
+										<ul class="col-lg-2 col-md-2 col-xs-12 link-list hidden-xs hidden-sm">
+											<li class="title">Color</li>
+											<li><a href="https://www.a2zweddingcards.com/color/red-wedding-invitations">Red</a></li>
+											<li><a href="https://www.a2zweddingcards.com/color/blue-wedding-invitations">Blue</a></li>
+											<li><a href="https://www.a2zweddingcards.com/color/green-wedding-invitations">Green</a></li>
+											<li><a href="https://www.a2zweddingcards.com/color/black-wedding-invitations">Black</a></li>
+											<li><a href="https://www.a2zweddingcards.com/color/white-offwhite-wedding-invitations">White</a></li>
+											<li><a href="https://www.a2zweddingcards.com/color/orange-wedding-invitations">Orange</a></li>
+											<li><a href="https://www.a2zweddingcards.com/color/yellow-wedding-invitations">Yellow</a></li>
+											<li><a href="https://www.a2zweddingcards.com/color/khaki-wedding-invitations">Khaki</a></li>
+											<li><a href="https://www.a2zweddingcards.com/color/pink-wedding-invitations">Pink</a></li>
+										</ul>
+										<!-- <a href="https://www.a2zweddingcards.com/best-selling-wedding-invitations?utm_source=Best-Selling&utm_medium=Mega-Menu&utm_campaign=Best%20Selling%20Wedding%20Invitations">
+										<div class="col-lg-5 col-md-5 col-xs-12 hidden-xs hidden-sm">
+											<div class="col-md-12 card_img_wrap"><img src="https://i2.wp.com/www.a2zweddingcards.com/blog/wp-content/uploads/2018/05/2.-best-selling-wedding-invitations-A2zWeddingCards.jpg?ssl=1" alt="Best Selling Wedding Invitations-A2zWeddingCards"></div>
+											<div class="col-md-12 paisley"><img src="https://i0.wp.com/www.a2zweddingcards.com/blog/wp-content/uploads/2018/05/3.-best-selling-wedding-cards-A2zWeddingCards.jpg?ssl=1" alt="Best Selling Wedding Cards-A2zWeddingCards"></div>
+										</div>
+										</a> -->
+									</div>
+								</li>
+								
+
+								<li><a class="blink" style="color: #772c37;font-weight: bold;" href="https://www.a2zweddingcards.com/new-arrival">New Arrival </a></li>
+
+								<li><a href="#">Add-on Cards </a>
+									<div class="megamenu clearfix halfmenu">
+										<ul class="col-lg-6 col-md-6 col-xs-12 link-list">
+																							<li><a href="https://www.a2zweddingcards.com/thank-you-cards">Thank You Cards</a></li>
+																							<li><a href="https://www.a2zweddingcards.com/save-the-date-cards">Save The Date Cards</a></li>
+																							<li><a href="https://www.a2zweddingcards.com/rsvp-cards">RSVP Cards</a></li>
+																							<li><a href="https://www.a2zweddingcards.com/place-cards">Place Cards</a></li>
+																							<li><a href="https://www.a2zweddingcards.com/menu-cards">Menu Cards</a></li>
+																							<li><a href="https://www.a2zweddingcards.com/program-booklet">Program Booklet</a></li>
+																					</ul>
+										<div class="col-lg-6 col-md-6 col-xs-12 hidden-xs hidden-sm">
+											<img src="https://i2.wp.com/www.a2zweddingcards.com/blog/wp-content/uploads/2018/05/4.-Wedding-Thank-You-Cards-A2zWeddingCards.jpg?ssl=1" alt="Wedding-Thank-You-Cards-A2zWeddingCards">
+										</div>
+									</div>
+								</li>
+								<li><a href="#">Wedding Accessories</a>
+									<div class="megamenu clearfix halfmenu">
+										<ul class="col-lg-6 col-md-6 col-xs-12 link-list">
+																							<li><a href="https://www.a2zweddingcards.com/money-envelopes">Money Envelopes</a></li>
+																							<li><a href="https://www.a2zweddingcards.com/cake-sweet-boxes">Cake and Sweet Boxes</a></li>
+																							<li><a href="https://www.a2zweddingcards.com/carry-bags">Carry Bags</a></li>
+																						<li><a href="https://www.a2zweddingcards.com/envelop-seals">Envelope Seals</a></li>
+										</ul>
+										<div class="col-lg-6 col-md-6 col-xs-12 hidden-xs hidden-sm">
+											<img src="https://i2.wp.com/www.a2zweddingcards.com/blog/wp-content/uploads/2018/05/5.-Wedding-Invitations-Carry-Bags-A2zWeddingCards.jpg?ssl=1" alt="Wedding-Invitations-Carry-Bags-A2zWeddingCards">
+										</div>
+									</div>
+								</li>
+								<li><a href="#">Your Ideas Our Designs</a>
+									<div class="megamenu clearfix halfmenu idea-designs">
+										<ul class="col-lg-6 col-md-6 col-xs-12 link-list">
+											<li><a href="https://www.a2zweddingcards.com/wedding-wordings/invitations-wordings">Invitation Wordings</a></li>
+											<li><a href="https://www.a2zweddingcards.com/wedding-fonts">Invitation Fonts</a></li>
+											<li><a href="https://www.a2zweddingcards.com/wedding-symbols/wedding-symbols">Printable Symbols</a></li>
+											<li><a href="https://www.a2zweddingcards.com/die-caste-symbols">Die Casted Symbols</a></li>
+											<li><a href="https://www.a2zweddingcards.com/guest-name-printing">Guest Name &amp; Addressing</a></li>
+										</ul>
+										<div class="col-lg-6 col-md-6 col-xs-12 hidden-xs hidden-sm">
+											<img src="https://i2.wp.com/www.a2zweddingcards.com/blog/wp-content/uploads/2018/05/6.-Wedding-Wording-Ideas-A2zWeddingCards.jpg?ssl=1" alt="Wedding-Wording-Ideas-A2zWeddingCards">
+										</div>
+									</div>
+								</li>
+								<li class="hidden-lg hidden-md"><a href="#">Info</a>
+									<div class="megamenu clearfix halfmenu">
+										<ul class="col-lg-6 col-md-6 col-xs-12 link-list">
+											<li><a href="https://www.a2zweddingcards.com/how-to-order-online">How to order</a></li>
+											<li><a href="https://www.a2zweddingcards.com/faq">FAQ's</a></li>
+											<li><a href="https://www.a2zweddingcards.com/terms-conditions">Terms &amp; Conditions*</a></li>
+											<li><a href="https://www.a2zweddingcards.com/privacy-policy">Privacy Policy</a></li>
+										</ul>
+									</div>
+								</li>
+								<li><a href="https://www.a2zweddingcards.com/contact-us">Contact Us</a></li>
+								<li class="blog"><a href="https://www.a2zweddingcards.com/blog">Blog</a>
+																	</li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+				<!--Menu HTML Code--> 
+			</div>
+		</div>
+		<div class="clearfix"></div>
+		<style>
+			.promoBarHome{
+			font-size: 14px;
+			text-align:center;	
+			color:#000;
+			font-family: Encode Sans Wide;
+			padding: 10px 0;
+			z-index:99999;
+			background:white;
+			width: 100%;
+			margin:0;
+			font-weight:600;
+
+			}
+			.promoBarHome a{
+				color:#000 !important;
+
+			}
+			.promoBarHome a:hover{
+				/* color:#000 !important; */
+				text-decoration: underline;
+				
+			}
+		</style>
+		
+		<div class="clearfix"></div>
+					<div class="main-layout-wrap">
+			            <div class="clearfix"></div>
+	            <div class="" style="border: 1px solid #ecdede; border-left: 0px; border-right: 0px;">
+	                <p class="promoBarHome">
+	                	<a href="https://www.a2zweddingcards.com/offers#spring">UPTO 20% SPRING SALE</a> 
+	                	 &nbsp;&nbsp;|&nbsp;&nbsp; 
+	                	<a href="https://www.a2zweddingcards.com/offers#combo">UPTO 25% COMBO PACKS</a>
+										&nbsp;&nbsp;|&nbsp;&nbsp; 
+	                	<a href="https://www.a2zweddingcards.com/refer-and-earn">REFER &amp; EARN</a>
+	                </p>
+	            </div>
+	            <!-- <div class=" hidden-sm ">
+	                <p class="promoBarHome">
+	                	<a href="https://www.a2zweddingcards.com/designer-wedding-invitations">FLAT 20% OFF: APPLY - "GET20"</a> <br>
+	                	<a href="https://www.a2zweddingcards.com/social-offer">GET 20% OFF ON WEDDING INVITATIONS > GET CODE</a>
+	                </p>
+	            </div> -->
+        	        	<div class="main-layout-wrap container">
+			<div class="breadcrumb col-md-12 col-lg-12 col-xs-12 col-sm-12" xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a class="bread_active" rel="v:url" property="v:title" href="https://www.a2zweddingcards.com">Home</a></span> &gt;&gt; <span><a href="javascript:void(0);">Privacy Policy</a></span></div>		<div id="dialog-top-confirm" title="Confirm" style="display:none;">
+			<p>Do you really want to delete selected card from cart?</p>
+		</div><style type="text/css">
+  h2.privacy1{
+    font-size: 15.5px;
+    margin: 0px;
+  }
+</style>
+<div class="side-menu col-md-3 col-sm-3 hidden-xs">
 <ul>
   <li><a href="https://www.a2zweddingcards.com/">Home</a></li>
   <li><a href="https://www.a2zweddingcards.com/about-us">About Us</a></li>
@@ -404,365 +630,548 @@ oneSignal_options['notifyButton']['offset']['bottom'] = '50px';
 </div>
 
 <div class="content-wrapper col-md-9 col-sm-9">
-<h1></h1>
+<h1>Privacy &amp; Security Policy</h1>
 <p>A2zWeddingCards is determined to respect your privacy. Any or all information collected / provided by you during the orders will be kept strictly confidential &amp; private and will not be sold/ reused/rented, loaned, or otherwise disclosed in ways that you have not consented to. A more elaborate explanation about how we safeguard your personal information is given below:<br>
 <br>
-Resale or disclosure of information to third parties :<br>
+</p><h2 class="privacy1"><b>Resale or disclosure of information to third parties :</b></h2><br>
 We does not sell, rent, trade or lease any personal/private information collected at our site www.a2zWeddingCards.com, including membership forms or email lists.<br>
 <br>
-Browser information collected on the website :<br>
+<h2 class="privacy1"><b>Browser information collected on the website :</b></h2><br>
 We analyze the website logs, to improve the quality of website etc. is strictly for our internal use. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals browsing the site at any time.<br>
 <br>
-Privacy of our email lists :<br>
-We might collect the email addresses as to make a comprehensive email lists to keep our members informed about new event/products/offers launching at our website. We do not sell, rent, trade, or lease the email addresses of our list to any individual or company. In addition to this, we have configured our list server software to refuse to disclose the email addresses of our subscribers to anyone but authorized a2zWeddingCards.com staff.</p>
-</div></div>
-
-<footer>
-  <div class="footer-wrap">
-    <div class="container">
-      <div class="col-md-3 col-xs-12 col-sm-4 col-lg-3">
-        <div class="fheading">Socialize With Us</div>
-        <span class="social-wrap"> <a rel="nofollow" href="https://www.facebook.com/a2zweddingcard"><i class="fa fa-facebook"></i></a> <a rel="nofollow" href="https://twitter.com/a2zWeddingCards"><i class="fa fa-twitter"></i></a> <a rel="nofollow" href="https://plus.google.com/+A2zweddingcards"><i class="fa fa-google-plus"></i></a> <a rel="nofollow" href="http://www.pinterest.com/a2zweddingcards/"><i class="fa fa-pinterest"></i></a> <a rel="nofollow" href="http://feeds.feedburner.com/a2zweddingcard"><i class="fa fa-rss"></i></a> <a rel="nofollow" href="https://www.linkedin.com/company/a2zweddingcards"><i class="fa fa-linkedin"></i></a> <a rel="nofollow" href="https://instagram.com/a2zweddingcards/"><i class="fa fa-instagram"></i></a> </span>
-        <div class="clear"></div>
-                <div class="hidden-xs hidden-sm">
-          <div class="fheading">Review Us</div>          
-            <div id="ww-widget-wwrated-2013" class="color-bronze"><a class="ww-top" target="_blank" title="Weddings, Wedding, Wedding Venues" href="http://www.weddingwire.com" rel="nofollow"></a><a class="ww-bottom" target="_blank" title="A2zWeddingCards Reviews, Seattle-Tacoma  Invitations" href="http://www.weddingwire.com/reviews/a2zweddingcards-bothell/861ca69f731a9dc2.html" rel="nofollow"></a></div>
-            <script type="text/javascript">
-            $(document).ready(function(){
-                setTimeout(function(){
-                    $.getScript('https://www.weddingwire.com/assets/vendor/widgets/ww-rated-2013.js').done(function( script, textStatus ) {
-                        WeddingWire.ensureInit(function() {WeddingWire.createWWRated2013({"vendorId":"861ca69f731a9dc2" }); });
-                    });
-                }, 5000);
-            });
-            </script>
-        </div>
+<h2 class="privacy1"><b>Privacy of our email lists :</b></h2><br>
+We might collect the email addresses as to make a comprehensive email lists to keep our members informed about new event/products/offers launching at our website. We do not sell, rent, trade, or lease the email addresses of our list to any individual or company. In addition to this, we have configured our list server software to refuse to disclose the email addresses of our subscribers to anyone but authorized a2zWeddingCards.com staff.<p></p>
+</div>		</div>
+    	</div>
+        <div class="clearfix"></div>
+        <footer class="new_footer">
+            <div class="container">
+              <style type="text/css"> h3.footer_title  { font-size: 16px; margin: 0px;  } </style>
+                <div class="col-md-2 col-lg-2 col-xs-12 col-sm-2 footer_block">
+                    <h3 class="footer_title">Customer Services</h3>
+                    <ul>
+                        <li><a href="https://www.a2zweddingcards.com/contact-us">Contact Us</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/faq">FAQ</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/testimonials">Testimonials</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/terms-conditions">Terms &amp; Conditions</a></li> 
+                        <li><a href="https://www.a2zweddingcards.com/blog">Blog</a></li>
+                    </ul>
                 </div>
-      <div class="col-md-3 col-xs-12 col-sm-4 col-lg-3">
-        <div class="fheading">Customer Service</div>
-        <ul>
-          <li><a href="https://www.a2zweddingcards.com/contact-us">Contact Us </a></li>
-          <li><a href="https://www.a2zweddingcards.com/faq">FAQ</a></li>
-          <li><a href="https://www.a2zweddingcards.com/testimonials">Testimonials</a></li>
-          <li><a href="https://www.a2zweddingcards.com/terms-conditions">Terms &amp; Conditions</a></li>
-          <li><a href="https://www.a2zweddingcards.com/blog">Blog</a></li>
-        </ul>
-        <div class="clear"></div>
-        <div class="fheading">Other Links</div>
-        <ul>
-          <li><a href="https://www.a2zweddingcards.com/become-a-dealer">Become a Dealer</a></li>
-          <li><a href="https://www.a2zweddingcards.com/printing-services">Printing Services</a></li>
-          <li><a href="https://www.a2zweddingcards.com/wedding-wordings/invitations-wordings">Wedding Invitation Wordings</a></li>
-          <li><a href="https://www.a2zweddingcards.com/recommend-to-friend">Recommend to a friend</a></li>
-        </ul>
-      </div>
-      <div class="col-md-3 col-xs-12 col-sm-4 col-lg-3">
-        <div class="fheading">Quick Links</div>
-        <ul>
-          <li><a href="https://www.a2zweddingcards.com/">Home</a></li>
-          <li><a href="https://www.a2zweddingcards.com/about-us">About Us </a></li>
-          <li><a href="https://www.a2zweddingcards.com/privacy-policy">Privacy Policy</a></li>
-          <li><a href="https://www.a2zweddingcards.com/sitemap">Site Map</a></li>
-          <li><a href="https://www.a2zweddingcards.com/feedback">Feedback</a></li>
-        </ul>
-        <div class="clear"></div>
-        <div class="hidden-xs hidden-sm">
-          <div class="fheading">Sign up for our newsletter</div>
-          <input id="newsletterfooter" name="newsletter" type="text" placeholder="Your Email" class="newsletter">
-          <a href="javascript:void(0);"><i class="fa fa-arrow-right" id="SignUpForNewslatterFooter"></i></a> <br>
-          <div id="SignUpMsgfooter"></div>
-        </div>
-      </div>
-      <div class="col-md-3 col-xs-12 col-sm-4 col-lg-3 hidden-xs hidden-sm">
-        <div class="fheading">Recent Post</div>
-        <div id="BlogPosts"></div>
-      </div>
+                <div class="col-md-2 col-xs-12 col-sm-2 col-lg-2 footer_block">
+                <h3 class="footer_title">Other Categories</h3>
+                    <ul>
+                        <li><a href="https://www.a2zweddingcards.com/christian-wedding-invitations">Christian Wedding Cards</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/sikh-wedding-invitations">Sikh Wedding Cards</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/south-indian-wedding-cards">South Indian Wedding Cards</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/gujarati-wedding-cards">Gujarati Wedding Cards</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/rustic-wedding-invitations">Rustic Wedding Cards</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+                <div class="col-md-2 col-lg-2 col-xs-12 col-sm-2 footer_block">
+                    <h3 class="footer_title">Quick Links</h3>
+                    <ul>
+                        <li><a href="https://www.a2zweddingcards.com">Home</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/about-us">About Us</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/sitemap">Site Map</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/feedback">Feedback</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-2 col-lg-2 col-xs-12 col-sm-2 footer_block">
+                    <h3 class="footer_title">Services</h3>
+                    <ul>
+                        <li><a href="https://www.a2zweddingcards.com/become-a-dealer">Become a Dealer</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/printing-services">Printing Services</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/wedding-wordings/invitations-wordings">Wedding Invitation Wordings</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/recommend-to-friend">Recommend to a friend</a></li>
+                        <li><a href="https://www.a2zweddingcards.com/how-to-order-online">How to Order</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 col-lg-4 col-xs-12 col-sm-4 footer_block">
+                    <div class="footer_title">Sign Up For Our Newsletter</div>
+                    <div class="sign_up">
+                    	<input type="text" id="newsletterfooter" name="newsletter" placeholder=" Your Email"> 
+                    	<button class="sign_up_btn" id="SignUpForNewslatterFooter">Sign Up</button>
+                        <div id="SignUpMsgfooter"></div>
+                    </div><br>
+                    
+                    <div class="footer_title">Let’s Get Social</div>
+                    <div class="social_icon_footer">
+                    	<a href="https://www.facebook.com/a2zweddingcard"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
+                        <a href="https://twitter.com/a2zWeddingCards"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
+                        <!-- <a href="https://plus.google.com/+A2zweddingcards"><i class="fa fa-google-plus" aria-hidden="true"></i></a>  -->
+                        <a href="https://www.pinterest.com/a2zweddingcards/"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a> 
+                        <a href="https://www.linkedin.com/company/a2zweddingcards"><i class="fa fa-linkedin" aria-hidden="true"></i></a> 
+                        <a href="https://www.instagram.com/a2zweddingcards/"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
+                        <a href="https://www.youtube.com/a2zweddingcards"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="copyright">© 2001-2019 Charu Overseas an ISO 9001 certified company. All rights reserved</div>
+        </footer>
+<script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/jquery-1.11.3.js"></script>
+        <style>
+     .fb_customer_chat_bounce_in_v2{
+     	max-height: none !important;
+     	
+     }
+        .share, .share:before, .share:after, .fab { height: 42px; width: 42px; border-radius: 50%; position: absolute; cursor: pointer; }
+        .share {
+          z-index:9999999;
+          position: fixed;
+          background: #d14836;
+          right:20px;
+          bottom:10px;
+        }
+        .share::before {
+          content: 'Live Chat';
+          z-index: 5;
+          transition: 0.3s;
+          padding: 6px 9px;
+          color: #fff;
+          text-align: center;
+          line-height: 14px;
+          font-size: 11px;
+          letter-spacing: 0.5px;
+        }
+
+        .share:after {
+          background: #d14836;
+          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+          transition: 0.39s;
+          top: 50%;
+          left: 50%;
+          -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+        }
+        .fab .fa {
+            font-size: 26px;
+            padding: 7px 8px;
+            color: #fff;
+        }
+
+        .fab .fa.fa-whatsapp {padding: 8px 10px;}
+        .fb_dialog.fb_dialog_advanced{width: 41pt !important;height: 41pt !important;}
+
+
+        .fab {
+          /*box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);*/
+          transition: 0.3s;
+          -webkit-animation: 0.3s down forwards;
+          animation: 0.3s down forwards;
+          opacity: 0;
+          will-change: animation;
+        }
+
+
+        .fab:nth-child(1) {
+          /*background: #01d300;*/
+          top: -132px;
+        }
+        .fab:nth-child(2) {
+          top: -66px;
+        }
+        .fab:nth-child(3) {
+          /*background: #559cb6;*/
+        }
+        .fab.active {
+          -webkit-animation: 0.48s up forwards;
+          animation: 0.48s up forwards;
+        }
+        .fab.active:nth-child(1) {
+          -webkit-animation-delay: 0.39s;
+          animation-delay: 0.39s;
+        }
+        .fab.active:nth-child(2) {
+          -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
+        }
+        .fab.no {
+          -webkit-animation: none;
+          animation: none;
+        }
+        @-webkit-keyframes up {
+          50% {
+            -webkit-transform: translateY(-170%);
+            transform: translateY(-170%);
+          }
+          100% {
+            opacity: 1;
+            -webkit-transform: translateY(-130%);
+            transform: translateY(-130%);
+          }
+        }
+        @keyframes up {
+          50% {
+            -webkit-transform: translateY(-170%);
+            transform: translateY(-170%);
+          }
+          100% {
+            opacity: 1;
+            -webkit-transform: translateY(-130%);
+            transform: translateY(-130%);
+          }
+        }
+        @-webkit-keyframes down {
+          0% {
+            opacity: 1;
+            -webkit-transform: translateY(-130%);
+            transform: translateY(-130%);
+          }
+          100% {
+            opacity: 0;
+            -webkit-transform: translateY(0);
+            transform: translateY(0);
+            top: 0;
+          }
+        }
+        @keyframes down {
+          0% {
+            opacity: 1;
+            -webkit-transform: translateY(-130%);
+            transform: translateY(-130%);
+          }
+          100% {
+            opacity: 0;
+            -webkit-transform: translateY(0);
+            transform: translateY(0);
+            top: 0;
+          }
+        }
+        .fb-customerchat iframe{
+            height:163px !important;
+            bottom: -15pt !important;
+            width:380px !important;
+            right: 50px !important;
+            z-index:9999 !important;
+            /*max-height: none !important;*/
+        }
+        .fb_customer_chat_bubble_pop_in{
+          right:-3pt !important;
+          bottom:-3pt !important;
+        }
+        @media (max-width:640px){
+          .fb-customerchat iframe{
+            width: 275px !important;
+              right: 50px !important;
+          }
+          .fb_customer_chat_bubble_pop_in {
+              right: -7pt !important;
+              bottom: -7pt !important;
+          }
+        }
+        .fb_customer_chat_bubble_animated_no_badge, .fb_customer_chat_bubble_animated_no_badge:hover{
+            box-shadow: none !important;
+        }
+      </style>
+<div class="share">
+    <div class="fab"> 
+        <a href="https://web.whatsapp.com/send?phone=919829127575&amp;text=I%27ve%20a%20query" target="_blank"><img src="https://www.a2zweddingcards.com/assets_ltst/images/whatsapp.png"></a>
+    </div> 
+    <div class="fab">
+        <a target="_blank" href="http://m.me/a2zweddingcard">
+            <img src="https://www.a2zweddingcards.com/assets_ltst/images/messanger.png">
+        </a>
     </div>
-  </div>
-  <div class="clear"></div>
-  <div class="container bottom-wrap">
-    <div class="payment"> <span>We Accept</span><img src="https://www.a2zweddingcards.com/images/we-accept.jpg"> <span>Our Courier</span><img src="https://www.a2zweddingcards.com/images/Our-Courier.jpg"> <span>Verified By</span><img src="https://www.a2zweddingcards.com/images/Verified-By.jpg"> </div>
-    <div class="copyright">© 2001-2016 Charu Overseas an ISO 9001 certified company. All rights reserved</div>
-  </div>
-</footer>
-<!-- start of live chat-->
-<div class="LiveChat">
-      <div id="ciTMPJ" style="z-index:100;position:absolute"></div>
-      <div id="scTMPJ" style="display:inline"></div>
-      <div id="sdTMPJ" style="display:none"></div>
-      <noscript>
-  <div style="display:inline"><a href="http://www.providesupport.com?messenger=0yr1ss66dcdwe0fkprhrpj3cwa" rel="nofollow">Customer Service Chat</a></div>
-  </noscript>
-      <script type="text/javascript">var seTMPJ = document.createElement("script");
-$(document).ready(function(){
-setTimeout(function(){
-seTMPJ.type = "text/javascript";
-var seTMPJs = (location.protocol.indexOf("https") == 0 ? "https" : "http") + "://image.providesupport.com/js/0yr1ss66dcdwe0fkprhrpj3cwa/safe-standard.js?ps_h=TMPJ&ps_t=" + new Date().getTime() + "&online-image=https://www.a2zweddingcards.com/images/online.png&offline-image=https://www.a2zweddingcards.com/images/offline.png";
-seTMPJ.src=seTMPJs;document.getElementById('sdTMPJ').appendChild(seTMPJ);
-},5000);
-});
-</script> 
+    <div class="fab">
+        <a href="http://messenger.providesupport.com/messenger/0yr1ss66dcdwe0fkprhrpj3cwa.html" onclick="window.open('http://messenger.providesupport.com/messenger/0yr1ss66dcdwe0fkprhrpj3cwa.html', 'newwindow', 'width=300,height=450'); return false;">
+            <img src="https://www.a2zweddingcards.com/assets_ltst/images/live-chat.png">
+        </a>
     </div>
-<!-- end of live chat-->
-<div id="div_wishlistitems" class="SaveToggle_Div"></div>
-<script type="text/javascript" src="https://www.a2zweddingcards.com/js/confirmon/jquery.easy-confirm-dialog.js"></script> 
-<script type="text/javascript">
- $('body').delegate('#goBtn', 'click', function() {
-	var cardCode = $('#searchableCardCode').val();
-	cardCode = cardCode.replace(/[^a-zA-Z0-9\- ]/g, "");	
-	$('#searchableCardCode').val(cardCode);					
-	if (cardCode != '')
-		location.href = "https://www.a2zweddingcards.com/search?q=" + (cardCode);
-});
-$('body').delegate('#searchableCardCode', 'keyup', function(e) {
-	if (e.keyCode == 13){
-		$('#goBtn').click();
-	}
-});
-$("#searchableCardCode").autocomplete({
-	source: "https://www.a2zweddingcards.com/ajaxForAll/getSearchSuggestion",
-	select: function( event, ui ) {
-		$('#searchableCardCode').val(ui.item.label);	
-		$('#goBtn').click();
-	}
-});
-$('body').delegate('.formErrorContent', 'click', function() {
-	$(this).parent().remove();
-});
-
-$('body').delegate('#currencyId', 'change', function() {
-	var id = $(this).val();
-	$.post("https://www.a2zweddingcards.com/ajaxForAll/saveCurrency", {'currencyId': id}, function() {
-		location.reload(true);
-	});
-});
-        
-$('body').delegate('.WishDiv', 'click', function() {
-	var cardId = $(this).attr('data-value');
-	var $this = $(this);
-	var HTML = '';
-	$.ajax({
-		type: "POST",
-		url: "https://www.a2zweddingcards.com/ajaxForAll/addToQuickList",
-		dataType: 'json',
-		data: {cardId: cardId},
-		success: function(card) {
-			if (card == false) {
-				showMessage('notice', "Sorry! maximum 4 card added in saved list.");
-			} else {
-				HTML = '<div class="itemContDiv" id="itemContDiv' + card.card_id + '"><div class="itemDesc_Div"><span class="ItemImg">';
-				HTML += '<img src="https://www.a2zweddingcards.com/upload/card_images/' + card.category_image_folder + '/small/' + card.card_small_image + '" alt="'+card.card_small_alt+'"></span>';
-				HTML += '<p class="itemText">' + card.category_name + '<br><span>Card Code : ' + card.card_code + '</span><br>$' + card.bulk_price + '</p>';
-				HTML += '<div class="ST_delete" id="ST_delete" data-value="' + card.card_id + '" data-id="' + card.savedlistId + '"><img src="https://www.a2zweddingcards.com/images/ST_delete.png" alt=""></div></div></div>';
-				$('.SaveToggle_Cont').slideDown();
-				$('#saveDataList').prepend(HTML);
-				$this.attr('data-id', card.savedlistId);
-				$this.removeClass('WishDiv').addClass('WishDivSaved');
-				$('#countSave').html(parseInt($('#countSave').html()) + 1);
-			}
-		}
-	});	
-});
-
-$('body').delegate('.ST_clear', 'click', function() {
-	$.ajax({
-		type: "POST",
-		url: "https://www.a2zweddingcards.com/ajaxForAll/removeAllFromQuickList"
-	});
-	$('.proContainerCat').children('.WishDivSaved').removeClass('WishDivSaved').addClass('WishDiv');
-	$('.itemContDiv').remove();
-	$('#countSave').html(0);
-});
-
-$('body').delegate('.WishDivSaved,.ST_delete', 'click', function() {
-	var cardId = $(this).attr('data-value');
-	var savelistId = $(this).attr('data-id');
-	$.ajax({
-		type: "POST",
-		url: "https://www.a2zweddingcards.com/ajaxForAll/removeFromQuickList",
-		data: {cardId: cardId, savelistId: savelistId}
-	});
-	$('#itemContDiv' + cardId).remove();
-	$('#proContainerCat' + cardId).children('.WishDivSaved').removeClass('WishDivSaved').addClass('WishDiv');
-	$('#countSave').html(parseInt($('#countSave').html()) - 1);
-});
-
-//For All Left Bar Filter Show Hide
-$(document).ready(function(){
-	});
-
-$("#ShowFilter" ).click(function() {
-  $( ".left-wrapper" ).slideToggle( "slow" );
-});
-
-$(document).ready(function(){
-	
-	$('body').delegate('#slide', 'click', function() {
-        $('#event').slideToggle();
+</div>
+<script>
+    $(".share").on('click', function(e) {
+    	console.log('a2z');
+        $(".fab").removeClass("no");
+        if(e.target != this) return;
+        $('.share, .fab').toggleClass("active");
     });
+</script>
+    		<!-- end of live chat-->
+		<!--<div id="div_wishlistitems" class="SaveToggle_Div"></div>-->
+        <!-- Start JS -->
 		
-    setTimeout(function(){
-        $.ajax({
-        type: "POST",
-        url: "https://www.a2zweddingcards.com/ajaxForAll/getBlogPosts",
-        }).done(function(result){
-                $('#BlogPosts').html(result);
-        });
-    }, 1000);
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/bootstrap.min.js"></script>
+        <!-- <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/accordian/raaccordion.js"></script> -->
+        <script type="text/javascript">
+        	!function(i){i.fn.raaccordion=function(){return this.each(function(){i(this).addClass("raccordion"),i(this).children("div:first").addClass("raccordion-title"),i(this).children("div").eq(1).addClass("raccordion-content"),i(this).children("div.raccordion-title").addClass("arrow-up")}),this.children("div.raccordion-title").click(function(){i(this).hasClass("arrow-up")?(i(this).siblings("div").slideToggle(),i(this).removeClass("arrow-up"),i(this).addClass("arrow-down")):(i(this).siblings("div").slideToggle(),i(this).removeClass("arrow-down"),i(this).addClass("arrow-up"))}),this}}(jQuery);
+        </script>
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/jquery.validationEngine-en.min.js"></script>
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/jquery.validationEngine.min.js"></script>
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/fancybox/jquery.fancybox.min.js"></script>
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/jquery.elevatezoom.js"></script>
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/scroll.js"></script>
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/jquery-ui.js"></script>
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/confirmon/jquery.easy-confirm-dialog.js"></script>
+    
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/crousal/jquery.flexisel.js"></script>
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/crousal/flexi-add.js"></script>
+        <script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/megamenu.js"></script>
+        
+        <link rel="stylesheet" type="text/css" href="https://www.a2zweddingcards.com/assets_ltst/styles/slick.css">
+   	<script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/slick.js"></script>
+    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
+        
+        <script>
+            $(function() {
+                window.prettyPrint && prettyPrint();
+                $(document).on('click', '.yamm .dropdown-menu', function(e) {
+                    e.stopPropagation();
+                });
+            });
 
-	setTimeout(function(){
-        $.ajax({
-        type: "POST",
-        url: "https://www.a2zweddingcards.com/ajaxForAll/getWishListItems",
-        }).done(function(result){
-                $('#div_wishlistitems').html(result);
-        });
-	}, 2000);
-});
+            $('body').delegate('.color-circle', 'click', function() { 
+			  var id = $(this).attr('data-id');
+			  var div_id = $(this).attr('data-div');
+			  var main = $(this).attr('data-main');
+			  $('#'+div_id+' .product-img a img').attr('src','https://www.a2zweddingcards.com/assets_ltst/images/loading_icon.gif');
+			  $.ajax({
+			    type: "POST",
+			    url: "https://www.a2zweddingcards.com/ajaxForms/fetch_multicolor_cards",
+			    data: {'card_id': id, 'div_id':div_id, 'main': main},
+			    dataType: 'html',
+			    //contentType: "application/x-www-form-urlencoded; charset=UTF-8", 
+			    success: function(msg) {
+			        if (msg) {
+			          $('#'+div_id).replaceWith(msg);
+			        }
+			    }
+			  });
+			});
 
-$('body').delegate('#SignUpForNewslatterFooter', 'click', function() {
-	$('#SignUpMsgfooter').html('');
-	$('#SignUpMsgfooter').show();
-	var newsletter = $('#newsletterfooter').val();
-	if(newsletter != ''){
-		$.ajax({
-			type: "POST",
-			url: "https://www.a2zweddingcards.com/ajaxForAll/signupnewsletter",
-			data: {newsletter: newsletter},
-			success: function(response) {
-				if(response == '1'){
-					$('#newsletterfooter').val('');
-					$('#SignUpMsgfooter').html('<span class="Green">Thank You! The Verification Mail Sent To Your Register Email ID.</span>');
-				}else if(response == '2'){
-					$('#SignUpMsg').html('<span class="Red">Enter Correct E-Mail ID.</span>');
-				}else{
-					$('#SignUpMsgfooter').html('<span class="Red">Sorry! You Have Already Register.</span>');
-				}
+      $(document).on('click', '.btnPinIt', function(){
+        var url = $(this).attr('href');
+        var media = $(this).attr('data-image');
+        var desc = $(this).attr('data-desc');
+        window.open("//www.pinterest.com/pin/create/button/"+
+            "?url="+url+
+            "&media="+media+
+            "&description="+desc,"pinIt","toolbar=no, scrollbars=no, resizable=no, top=0, right=0, width=750, height=320");
+        return false;
+      });
+
+      $(document).ready(function() {
+				/*var seTMPJ = document.createElement("script");
+				setTimeout(function(){
+				seTMPJ.type = "text/javascript";
+				var seTMPJs = (location.protocol.indexOf("https") == 0 ? "https" : "http") + "://image.providesupport.com/js/0yr1ss66dcdwe0fkprhrpj3cwa/safe-standard.js?ps_h=TMPJ&ps_t=" + new Date().getTime() + "&online-image=https://i1.wp.com/www.a2zweddingcards.com/blog/wp-content/uploads/2018/05/online.png?ssl=1&offline-image=https://i1.wp.com/www.a2zweddingcards.com/blog/wp-content/uploads/2018/05/offline.png?ssl=1";
+				seTMPJ.src=seTMPJs;document.getElementById('sdTMPJ').appendChild(seTMPJ);
+				},100);*/
+												setTimeout(function(){
+					$.ajax({
+						type: "POST",
+						url: "https://www.a2zweddingcards.com/ajaxForAll/getNewBlogPosts",
+					}).done(function(result){
+						$('#BlogPosts').html(result);
+						setTimeout(function(){
+							$('#myCarouselft').carousel();
+							$('#myCarouselft').find('.carousel-indicators li').click( function() {
+									var goTo = $(this).data('slide-to');
+									$('#myCarouselft').carousel(goTo); 
+							});
+						}, 100);
+					});
+				}, 0);
+							
+				setTimeout(function(){
+					$.ajax({
+					type: "POST",
+					url: "https://www.a2zweddingcards.com/ajaxForAll/getWishListItems",
+					}).done(function(result){
+							$('#div_wishlistitems').html(result);
+					});
+				}, 2000);
+            });
+        </script>
+        <!-- END JS -->
+		<script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/confirmon/jquery.easy-confirm-dialog.js"></script> 
+		<script type="text/javascript">
+		$('body').delegate('#goBtn', 'click', function() {
+			var cardCode = $('#searchableCardCode').val();
+			cardCode = cardCode.replace(/[^a-zA-Z0-9\- ]/g, "");	
+			$('#searchableCardCode').val(cardCode);					
+			if (cardCode != '')
+				location.href = "https://www.a2zweddingcards.com/search?q=" + (cardCode);
+		});
+		$('body').delegate('#searchableCardCode', 'keyup', function(e) {
+			if (e.keyCode == 13){
+				$('#goBtn').click();
+			}
+		});
+		$("#searchableCardCode").autocomplete({
+			source: "https://www.a2zweddingcards.com/ajaxForAll/getSearchSuggestion",
+			select: function( event, ui ) {
+				$('#searchableCardCode').val(ui.item.label);	
+				$('#goBtn').click();
+			}
+		});
+		$('body').delegate('.formErrorContent', 'click', function() {
+			$(this).parent().remove();
+		});
+		
+		$('body').delegate('#currencyId', 'change', function() {
+			var id = $(this).val();
+			$.post("https://www.a2zweddingcards.com/ajaxForAll/saveCurrency", {'currencyId': id}, function() {
+				location.reload(true);
+			});
+		});
 				
+		/*$('body').delegate('.WishDiv', 'click', function() {
+			var cardId = $(this).attr('data-value');
+			var $this = $(this);
+			var HTML = '';
+			$.ajax({
+				type: "POST",
+				url: "https://www.a2zweddingcards.com/ajaxForAll/addToQuickList",
+				dataType: 'json',
+				data: {cardId: cardId},
+				success: function(card) {
+					if (card == false) {
+						showMessage('notice', "Sorry! maximum 4 card added in saved list.");
+					} else {
+						HTML = '<div class="itemContDiv" id="itemContDiv' + card.card_id + '"><div class="itemDesc_Div"><span class="ItemImg">';
+						HTML += '<img src="https://a2zweddingcards.s3.amazonaws.com/card-images/small/' + card.card_small_image + '" alt="'+card.card_small_alt+'"></span>';
+						HTML += '<p class="itemText">' + card.category_name + '<br><span>Card Code : ' + card.card_code + '</span><br>$' + card.bulk_price + '</p>';
+						HTML += '<div class="ST_delete" id="ST_delete" data-value="' + card.card_id + '" data-id="' + card.savedlistId + '"><img src="https://www.a2zweddingcards.com/assets_ltst/images/ST_delete.png" alt=""></div></div></div>';
+						$('.SaveToggle_Cont').slideDown();
+						$('#saveDataList').prepend(HTML);
+						$this.attr('data-id', card.savedlistId);
+						$this.removeClass('WishDiv').addClass('WishDivSaved');
+						$('#countSave').html(parseInt($('#countSave').html()) + 1);
+					}
+				}
+			});	
+		});
+		
+		$('body').delegate('.ST_clear', 'click', function() {
+			$.ajax({
+				type: "POST",
+				url: "https://www.a2zweddingcards.com/ajaxForAll/removeAllFromQuickList"
+			});
+			$('.proContainerCat').children('.WishDivSaved').removeClass('WishDivSaved').addClass('WishDiv');
+			$('.itemContDiv').remove();
+			$('#countSave').html(0);
+		});
+		
+		$('body').delegate('.WishDivSaved,.ST_delete', 'click', function() {
+			var cardId = $(this).attr('data-value');
+			var savelistId = $(this).attr('data-id');
+			$.ajax({
+				type: "POST",
+				url: "https://www.a2zweddingcards.com/ajaxForAll/removeFromQuickList",
+				data: {cardId: cardId, savelistId: savelistId}
+			});
+			$('#itemContDiv' + cardId).remove();
+			$('#proContainerCat' + cardId).children('.WishDivSaved').removeClass('WishDivSaved').addClass('WishDiv');
+			$('#countSave').html(parseInt($('#countSave').html()) - 1);
+		});*/
+		
+		$("#ShowFilter" ).click(function() {
+		  $( ".left-wrapper" ).slideToggle( "slow" );
+		});
+		
+		$('body').delegate('#SignUpForNewslatterFooter', 'click', function() {
+			$('#SignUpMsgfooter').html('');
+			$('#SignUpMsgfooter').show();
+			var newsletter = $('#newsletterfooter').val();
+			if(newsletter != ''){
+				$.ajax({
+					type: "POST",
+					url: "https://www.a2zweddingcards.com/ajaxForAll/signupnewsletter",
+					data: {newsletter: newsletter},
+					success: function(response) {
+						if(response == '1'){
+							$('#newsletterfooter').val('');
+							$('#SignUpMsgfooter').html('<span class="Green">Thank You! The Verification Mail Sent To Your Register Email ID.</span>');
+						}else if(response == '2'){
+							$('#SignUpMsg').html('<span class="Red">Enter Correct E-Mail ID.</span>');
+						}else{
+							$('#SignUpMsgfooter').html('<span class="Red">Sorry! You Have Already Register.</span>');
+						}
+						
+						setTimeout(function(){
+							$('#SignUpMsgfooter').hide();
+						}, 5000);
+					}
+				});	
+			}else{
+				$('#SignUpMsgfooter').html('<span class="Red">Please Fill The Email Address!</span>');
 				setTimeout(function(){
 					$('#SignUpMsgfooter').hide();
-				}, 5000);
+				}, 3000);		
 			}
-		});	
-	}else{
-		$('#SignUpMsgfooter').html('<span class="Red">Please Fill The Email Address!</span>');
-		setTimeout(function(){
-			$('#SignUpMsgfooter').hide();
-		}, 3000);		
-	}
-});
-</script>
+		});
+		</script>
+        		<script>
+		var elementPosition = $('.promoBarHome').offset();
+		$(window).scroll(function(){
+			var width = screen.width;
+			if($(window).scrollTop() > elementPosition.top){
+				if(width <= 480){
+				  $('.promoBarHome').css('position','fixed').css('bottom','0').css('border-bottom', '1px solid #ddd');
+          $('.share').css('bottom','60px');
+        }else{
+					$('.top-strip-menu').css('position','static');
+					$('.promoBarHome').css('position','fixed').css('top','0').css('border-bottom', '1px solid #ddd');
 
-<!-- Popup Open Code For Festive Seasions -->
-<link rel="stylesheet" href="https://www.a2zweddingcards.com/styles/popup.css" type="text/css">
-<link rel="stylesheet" href="https://www.a2zweddingcards.com/styles/bootstrap-datepicker.css" type="text/css">
-<script src="https://www.a2zweddingcards.com/js/bootstrap-datepicker.js"></script> 
-<!--<div id="PopupOffers" class="PopupOffers">
-  <div class="popup-wrapper" style="background: none; border:none;"> <img src="https://www.a2zweddingcards.com/images/close.png" id="PopupOffersClose" class="PopupOffersClose" />
-  	<a href="https://www.a2zweddingcards.com/offers"><img class="offerimg" src="https://www.a2zweddingcards.com/images/final-popup.png" /></a>
-  </div>
-</div>
-<div id="PopupOffersDivOverlay" class="PopupOffersDivOverlay"></div>
--->
-<script>
-/*$(document).ready(function() {    
-    $('#PopupOffers').delay( 2000 ).show( "drop", {direction: "up"}, 500 );
-	setTimeout(function(){
-		$('#PopupOffersDivOverlay').show(); 
-	}, 2000);
-	        
-    $( "#PopupOffersClose" ).click(function() {
-        $('#PopupOffers').hide();
-        $('#PopupOffersDivOverlay').hide();
-    });    
-    $( "#PopupOffersDivOverlay" ).click(function() {
-        $('#PopupOffers').hide();
-        $('#PopupOffersDivOverlay').hide();
-    });
-});*/
-
-$(function () {
-	$('#wedding_date').datepicker({ autoclose: true});
-});
-
-$('body').delegate('#SignUpForNewslatter', 'click', function() {
-	$('#SignUpMsg').html('');
-	$('#SignUpMsg').show();
-	var newsletter = $('#newsletter').val();
-	var wedding_date = $('#wedding_date').val();
-	if(newsletter != ''){
-		$.ajax({
-			type: "POST",
-			url: "https://www.a2zweddingcards.com/ajaxForAll/signupnewsletter",
-			data: {newsletter: newsletter,wedding_date: wedding_date},
-			success: function(response) {
-				if(response == '1'){
-					$('#newsletter').val('');
-					$('#wedding_date').val('');
-					$('#SignUpMsg').html('<span class="Green">Thank You! The Verification Mail Sent To Your Register Email ID.</span>');
-					//setTimeout(function(){				
-//						$('#PopupOffers').hide();
-//						$('#PopupOffersDivOverlay').hide();					
-//					}, 5000);
-				}else if(response == '2'){
-					$('#SignUpMsg').html('<span class="Red">Enter Correct E-Mail ID.</span>');
-				}else{
-					$('#SignUpMsg').html('<span class="Red">Sorry! You Have Already Register.</span>');
+          $('.share').css('bottom','60px');
 				}
-				
+			}else {
+				$('.promoBarHome').css('position','static').css('border-bottom', 'none');
+        $('.share').css('bottom','10px');
+			}    
+		});
+
+
+
+
+		</script>
+        		<!-- Popup Open Code For Festive Seasions -->
+				<link rel="stylesheet" href="https://www.a2zweddingcards.com/assets_ltst/styles/popup.css" type="text/css">
+		<script>
+		$(function () {
+			$('#wedding_date').datepicker({ autoclose: true});
+		});
+		
+		$('body').delegate('#SignUpForNewslatter', 'click', function() {
+			$('#SignUpMsg').html('');
+			$('#SignUpMsg').show();
+			var newsletter = $('#newsletter').val();
+			var wedding_date = $('#wedding_date').val();
+			if(newsletter != ''){
+				$.ajax({
+					type: "POST",
+					url: "https://www.a2zweddingcards.com/ajaxForAll/signupnewsletter",
+					data: {newsletter: newsletter,wedding_date: wedding_date},
+					success: function(response) {
+						if(response == '1'){
+							$('#newsletter').val('');
+							$('#wedding_date').val('');
+							$('#SignUpMsg').html('<span class="Green">Thank You! The Verification Mail Sent To Your Register Email ID.</span>');
+						}else if(response == '2'){
+							$('#SignUpMsg').html('<span class="Red">Enter Correct E-Mail ID.</span>');
+						}else{
+							$('#SignUpMsg').html('<span class="Red">Sorry! You Have Already Register.</span>');
+						}
+						
+						setTimeout(function(){
+							$('#SignUpMsg').hide();
+						}, 3000);				
+					}
+				});	
+			}else{
+				$('#SignUpMsg').html('<span class="Red">Please Fill The Email Address!</span>');
 				setTimeout(function(){
 					$('#SignUpMsg').hide();
-				}, 3000);				
+				}, 3000);		
 			}
-		});	
-	}else{
-		$('#SignUpMsg').html('<span class="Red">Please Fill The Email Address!</span>');
-		setTimeout(function(){
-			$('#SignUpMsg').hide();
-		}, 3000);		
-	}
-});
-
-</script>
-<!-- End Popup Open Code For Festive Seasions --> 
-
-<!-- Count Down Clock -->
-<!--<link rel="stylesheet" href="https://www.a2zweddingcards.com/js/clock/flipclock.css">
-<script src="https://www.a2zweddingcards.com/js/clock/flipclock.js"></script>
-<script src="https://www.a2zweddingcards.com/js/clock/dailycounter.js"></script>
-<script type="text/javascript">
-    var clock;
-    $(document).ready(function() {
-		        var currentDate = new Date("Nov 09, 2016 09:52:06 PM");
-        var futureDate  = new Date("March 25, 2016");
-        
-		if(currentDate.getTime() >= futureDate.getTime()){		
-			var futureDate  = new Date("March 29, 2016");
-		}
+		});
 		
-		if(currentDate.getTime() < futureDate.getTime()){	
-			var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
-			clock = $('.clock').FlipClock(diff, {
-				clockFace: 'DailyCounter',
-				countdown: true,
-				stop: function() {
-				 location.reload();
-				}
-			});
-		}else{
-			$('.ClockText').html('Giant Easter Sale 2016! End!');		
-		}
-    });
-    $('.timer').click(function(){        
-        window.location.href = 'https://www.a2zweddingcards.com/wedding-card-offer';
-	});
-</script>-->
-<!-- End Clock -->
-<!--<link href="https://www.a2zweddingcards.com/js/jnotify/jNotify.jquery.css" type="text/css" rel="stylesheet">-->
-<link href="https://www.a2zweddingcards.com/js/jnotify/jNotify.jquery.min.css" type="text/css" rel="stylesheet">
-<!--<script type="text/javascript" src="https://www.a2zweddingcards.com/js/jnotify/jNotify.jquery.js"></script>-->
-<script type="text/javascript" src="https://www.a2zweddingcards.com/js/jnotify/jNotify.jquery.min.js"></script>
-
+		</script>
+				<script type="text/javascript" src="https://www.a2zweddingcards.com/assets_ltst/js/jnotify/jNotify.jquery.min.js"></script> 
+		
 <script type="text/javascript">
     function showMessage(type, message) {
 
@@ -836,4 +1245,4 @@ $('body').delegate('#SignUpForNewslatter', 'click', function() {
 
 
 
-</body></html>
+</div></body></html>
