@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyclassroom.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206062109id_/https%3A//www.dyclassroom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyclassroom.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406085617id_/https%3A//www.dyclassroom.com/privacy) for the most accurate reproduction.*
 
 # Privacy - DYclassroom | Have fun learning :-)
 
