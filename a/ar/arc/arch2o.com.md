@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arch2o.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228132359id_/http%3A//www.arch2o.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arch2o.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406132754id_/https%3A//www.arch2o.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Arch2O.com
 
@@ -164,10 +164,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 **and we will promptly remove you from** **ALL** correspondence.
 
-**Contacting Us**
-
 If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-info(at) arch2o.com
-
-_Last Edited on 2016-07-16_
