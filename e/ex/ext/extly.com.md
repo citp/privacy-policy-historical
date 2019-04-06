@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104022148id_/http%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406142030id_/https%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Extly - Empower your website with our solutions
 
 _Last update: May 22th, 2018_
 
-Extly CB is committed to protecting your privacy and your personal information when you are using our services and visiting our websites. This Privacy Policy explains how we collect your Personal Data, how we use these data, and your rights to control their use. This privacy policy applies to all data that we have collected or collect related to you, and according to our [Terms of Service.](http://www.extly.com/terms-of-use.html)
+Extly CB is committed to protecting your privacy and your personal information when you are using our services and visiting our websites. This Privacy Policy explains how we collect your Personal Data, how we use these data, and your rights to control their use. This privacy policy applies to all data that we have collected or collect related to you, and according to our [Terms of Service.](https://www.extly.com/terms-of-use.html)
 
-If you have any questions or comments, or if you want to update, delete, or change any Personal Data we hold, or you have a concern about the way in which we have handled any privacy matter, please use our [contact form](http://www.extly.com/contact-us.html) to send us a message.
+If you have any questions or comments, or if you want to update, delete, or change any Personal Data we hold, or you have a concern about the way in which we have handled any privacy matter, please use our [contact form](https://www.extly.com/contact-us.html) to send us a message.
 
 ### 1\. Who is collecting your data
 
@@ -109,11 +109,11 @@ You may send a written communication through our contact form in our Website, or
 
 We will give you access to any Personal Data we hold about you within 30 days of any request for that information. Unless it is prohibited by law, we will remove any Personal Data about an individual from our servers at your or their request. There is no charge for an individual to access or update their Personal Data.
 
-**Models, forms, and more information about your rights:** Official website of the [Spanish Data Protection Agency](https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/derechos/index-iden-idphp.php).
+**Models, forms, and more information about your rights:** Official website of the [Spanish Data Protection Agency](https://www.aepd.es/portalwebAGPD/CanalDelCiudadano/derechos/index-iden-idphp.php).
 
 **Possibility of withdrawing consent**. If you have given your consent for a specific purpose, you have the right to withdraw it at any time, without it affecting the lawfulness of the processing based on the consent before its withdrawal.
 
-**How to complain to the Control Authority.** If you consider that there is a problem with the way in which Extly is handling your Personal Data, you may address your complaints to Extly (indicated above) or to the corresponding Data Protection Authority, being the [Spanish Data Protection Agency](https://www.agpd.es/portalwebAGPD/index-iden-idphp.php) the one indicated in the case of Spain.
+**How to complain to the Control Authority.** If you consider that there is a problem with the way in which Extly is handling your Personal Data, you may address your complaints to Extly (indicated above) or to the corresponding Data Protection Authority, being the [Spanish Data Protection Agency](https://www.aepd.es/portalwebAGPD/index-iden-idphp.php) the one indicated in the case of Spain.
 
 ### 8\. Accuracy and Data Retention
 
@@ -122,7 +122,7 @@ We will retain the following data:
 
 **(a) Disaggregated data:** Disaggregated data will be retained without a deadline for deletion.
 
-**(b) Subscribers data:** During the time your account is active or as long as needed to provide you with our Services under our [Terms of Service](http://www.extly.com/terms-of-use.html). In any case, it will be the minimum necessary from time to time, currently subject to certain statutes of limitation terms:
+**(b) Subscribers data:** During the time your account is active or as long as needed to provide you with our Services under our [Terms of Service](https://www.extly.com/terms-of-use.html). In any case, it will be the minimum necessary from time to time, currently subject to certain statutes of limitation terms:
 
   * Four years: Law on Infringements and Sanctions in the Social Order (obligations regarding affiliation, registration, cancellation, contribution, payment of salaries…); Art. 66 ff. General Tax Law (Accounting Books…);
   * Five years: Art. 1964 Civil Code (personal actions without special time limit)
@@ -160,7 +160,7 @@ As an additional means of meeting the adequacy and security requirements under t
 
 #### Google
 
-In our websites, we use [Google Analytics](https://www.google.com/analytics/#) to analyze their use and optimize their performance.  
+In our websites, we use [Google Analytics](https://marketingplatform.google.com/about/analytics/#) to analyze their use and optimize their performance.  
 Google is a US company the data of which are in[ Google Cloud Locations](https://cloud.google.com/about/locations/). As described in their [Privacy Shield certification](https://www.privacyshield.gov/list), they comply with the EU-US and Swiss-US Privacy Shield as set forth by the US Department of Commerce regarding the collection, use and retention of Personal Data from European Union member countries and Switzerland, respectively.  
 Google is fully committed to GDPR compliance as described on their [Commitments to GDPR](https://cloud.google.com/security/gdpr/) that articulate the commitments with us. For all the previous services, as a commitment to privacy and security, we have signed the following documents:[ Data Processing Security Terms](https://cloud.google.com/terms/data-processing-terms) (Customers) contract, and an [EU Model Contract clauses.](https://cloud.google.com/terms/eu-model-contract-clause)
 
