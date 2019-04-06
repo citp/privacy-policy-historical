@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelawpages.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625112609id_/http%3A//www.thelawpages.com/legal-directory/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelawpages.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406185818id_/https%3A//www.thelawpages.com/legal-directory/privacypolicy.php) for the most accurate reproduction.*
 
 # thelawpages.com© Contact Form
 
@@ -13,6 +13,36 @@ Thelawpages.com may need to take personal data from You (including your name and
 We will not use or disclose your personal information given to us for communication with you for any other purpose.
 
 The Site offers a recruitment service. We will only provide information, offers and services that may be of interest to You where you have given your unambiguous consent. We will always disclose to you the type of information we collect. The Site will also provide links to a range of third party Sites. We encourage you to read the privacy statements on the other websites you visit.
+
+**Legal basis for processing**
+
+The Legal basis for processing is our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation), the wider public interest on the principles of Open Justice and the administration of justice (Criminal Proceedure Rules). 
+
+TheLawPages.Com serve legal professionals, the media and the public under the principles of Open Justice. We provide a professionals directory, Crown and High Court Lists and a Criminal Sentences Tool.
+
+**Court Lists**
+
+TheLawPages publishes 'Court lists' which gives the date, court name, case number and defendants name. For a full court list journalists should contact the court to obtain information including the defendants date of birth, current address and details of the charges against them. This information is disclosed to journalists to ensure the accurate identification of a defendant (even where it is not presented in open court). 
+
+Users of TheLawPages.Com have a legitimate interest which justifies the continued availability of court list data (See Criminal Procedure Rules). The court list data is placed on a public notice board and open to public inspection. Court hearings may be listed over several years. The court list data on TheLawPages.Com can be browsed for the previous 6 months and searched for a year. We do not allow search engines to serve cached version of the court lists. 
+
+There is a reasonable expectation that the defendants name would appear on the court lists. The information is factual and defendants are innocent until proven guilty. 
+
+Archives of the court lists, including indictments (where resporting restictions do not apply), may be available on The National Archives - http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/criminal-courts-england-wales-from-1972/ - and on other websites (including courtserve.net) which are not controlled by us. 
+
+**Sentences Tool**
+
+We provide some court case results - information linking [criminal offences](https://www.thelawpages.com/criminal-offence/criminal-offences.php), [defendants](https://www.thelawpages.com/court-cases/ "Find Criminal Defendants"), [barristers](https://www.thelawpages.com/legal-directory/barristers-3-criminal-barristers-9.php "criminal barristers"), [solicitors](https://www.thelawpages.com/legal-directory/criminal-law-firms-1-criminal-solicitors-9.php "criminal solicitors") and [judges](https://www.thelawpages.com/court-cases/ "Search Judges") \- to further Open Justice - 'Justice Seen, Justice Done'. 
+
+**Right to be forgotton**
+
+We anonymise data when a sentence is spent ([The Rehabilitation of Offenders Act 1974](https://www.legislation.gov.uk/ukpga/1974/53 "Rehabilitation of Offenders Act 1974")).
+
+We consider all requests for removal, especially where an individual might be identified due to an unusual name and there are concerns there is a negative effect on that individual or it would cause them unwarranted harm. 
+
+**Children and sensitive personal information**
+
+There are automatic reporting restrictions on the names of minors and we do not collect sensitive personal information. 
 
 ### Use of cookies
 
@@ -162,7 +192,7 @@ We are the data controller for purposes of the EU General Data Protection Regula
 
 ## Your Rights
 
-You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](http://www.thelawpages.com/contactus.php).
+You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.thelawpages.com/contactus.php?option=1).
 
 You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.
 
@@ -170,7 +200,7 @@ You may have additional rights pursuant to your local law applicable to the proc
 
 In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint:
 
-  * Directly with TheLawPages.Com by using [this form](http://www.thelawpages.com/contactus.php).
+  * Directly with TheLawPages.Com by using [this form](https://www.thelawpages.com/contactus.php?option=1). or write to us: Fortescue House, Court St, Trowbridge BA14 8FA
   * With the competent data protection authority - [https://ico.org.uk](https://ico.org.uk/). The name and contact details of the Data Protection Authorities in the European Union can be found [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
 
