@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timedoctor.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109134607id_/https%3A//www.timedoctor.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timedoctor.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406044529id_/https%3A//www.timedoctor.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Time Doctor
 
@@ -44,4 +44,4 @@ Cookies are small text files sent through your browser and saved in your hard dr
 
 ## How can we further help you?
 
-For more questions about this privacy policy, please [contact us](https://web.archive.org/web/20181109134607id_/https%3A//www.timedoctor.com/contact-us.html). 
+For more questions about this privacy policy, please [contact us](https://web.archive.org/web/20190406044529id_/https%3A//www.timedoctor.com/contact-us.html). 
