@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927161052id_/https%3A//www.anastasiabeverlyhills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406170751id_/https%3A//www.anastasiabeverlyhills.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Anastasia Beverly Hills
 
@@ -137,30 +137,48 @@ We will only share your personal data with third parties for them to use for the
 
 For more information on the privacy policies of our partners who act as independent data controllers, please direct your inquiries to:
 
-DHL International N.V. / S.A.  
-Woluwelaan 151  
-1831 Diegem  
-Belgium  
-BE 0406 796 224  
+DHL International N.V. / S.A.
+
+Woluwelaan 151
+
+1831 Diegem
+
+Belgium
+
+BE 0406 796 224
+
 <http://www.dhl.com/en/legal.html#privacy>
 
-Ingenico eCommerce Solutions SPRL (only acting as a Contracted Controller for the Fraud Expert tool)  
-Boulevard de la Woluwe, 102  
-1200 Brussels  
-Belgium  
-BE 0459.360.623  
+Ingenico eCommerce Solutions SPRL (only acting as a Contracted Controller for the Fraud Expert tool)
+
+Boulevard de la Woluwe, 102
+
+1200 Brussels
+
+Belgium
+
+BE 0459.360.623
+
 <https://payment-services.ingenico.com/be/en/cookie-policy>
 
-European Merchant Services B.V.  
-Diemen  
-The Netherlands  
-NL 34226533  
+European Merchant Services B.V.
+
+Diemen
+
+The Netherlands
+
+NL 34226533
+
 <https://emspay.eu/privacy-information-notice>
 
-Paypal Europe SARL & Cie, SCA  
-5th Floor, 22-24 Boulevard Royal  
-2449 Luxemburg  
-R.C.S Luxemburg B 118 349  
+Paypal Europe SARL & Cie, SCA
+
+5th Floor, 22-24 Boulevard Royal
+
+2449 Luxemburg
+
+R.C.S Luxemburg B 118 349
+
 <https://www.paypal.com/be/webapps/mpp/ua/privacy-full?locale.x=en_BE>
 
 **3\. INFORMATION WE RECEIVE FROM THIRD PARTIES**
@@ -253,5 +271,31 @@ If you have any queries, comments or requests regarding this Privacy Policy, you
 
 
 
+
+**14\. TERMS AND CONDITIONS – SMS DELIVERY ALERTS**
+
+Anastasia Beverly Hills offers its customers the convenient option to receive mobile alerts about their orders via SMS messages. Standard message and data rates most likely apply. SMS updates are unavailable for international phone numbers and for orders shipped via USPS (including domestic PO boxes and Puerto Rico).
+
+At any time, you can reply STOP to opt out. 
+
+You must be 18 years old or older to participate or have parent/guardian permission. U.S. residents only. 
+
+**How to enroll**
+
+During the checkout process, you will be prompted to provide your mobile number and to agree to these Terms & Conditions. 
+
+By enrolling in Mobile Order Alerts, you acknowledge and agree that Order Alert Messages about your order(s) will be sent to your mobile number. You also acknowledge and agree that those with access to that mobile number or the carrier account may be able to view your order information.
+
+Participation in Mobile Order Alerts is not a condition of purchase. However, if you decide to participate in Mobile Order Alerts, then there is a requirement that you agree to these Terms and Conditions. 
+
+**How to opt-out**
+
+You can easily stop receiving Mobile Order Alert messages from Anastasia Beverly Hills for your current order. You simply opt-out of Mobile Order Alerts by texting the word ‘STOP’ in a reply text message to one of the status Order Alert Messages you receive from us.
+
+Once you have taken this step to opt-out of Mobile Order Alerts, you will receive a final confirmation Mobile Order Alert message. After that, no further Mobile Order Alert messages will be sent to your mobile number concerning any orders, unless you opt-in for future orders.
+
+**Message and data rates**
+
+Message and data rates most likely apply, depending your carrier. All charges are billed by and payable to your mobile service provider.
 
 Copyright © 2018 Anastasia Beverly Hills, Inc. All worldwide rights reserved.
