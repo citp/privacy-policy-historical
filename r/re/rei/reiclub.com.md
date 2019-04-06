@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reiclub.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703120826id_/https%3A//www.reiclub.com/info.php%3Fsec%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reiclub.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406051305id_/https%3A//reiclub.com/info.php%3Fsec%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # 
 
@@ -71,7 +71,7 @@ USA
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]reiclub.com or write us at the following address:
+If you are a California resident and our customer, Cal. Civ. Code � 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]reiclub.com or write us at the following address:
 
 GRQ Properties, Inc. DBA REIClub  
 402-A W. Palm Valley Blvd. #192  
@@ -80,4 +80,4 @@ USA
 
 This privacy policy was last updated on 12-11-2009.
 
-Copyright © 2008-2009 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at REIClub.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2008-2009 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at REIClub.com.�All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
