@@ -1,25 +1,32 @@
-> *The following text is extracted and transformed from the wallstreet.org privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219173009id_/http%3A//www.wallstreet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreet.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406032747id_/https%3A//wallstreet.org/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Wallstreet.org
+# Privacy Policy | Wallstreet.org
 
-From time to time, WallStreet.org may either collect information from readers, or readers may post information on WallStreet.org. The website shall deem that it has been given the rights to use this shared information in perpetuity.
-
-The entire content of all emails sent to us on email addresses other than contact@WallStreet.org shall be considered as “on the record” information, and the website shall use any or all such information as per its discretion.
-
-All information, such as name, company, email address, physical address, or contact numbers of visitors or readers submitting content at contact@WallStreet.org shall be considered as “off the record” for publication uses and will not be referred to or used in any way, unless otherwise explicitly directed by the visitor or reader that such information is to be considered “on the record.”
-
-For the uses pertaining to publication, all information other than that mentioned above shall be considered as “on the record” by the website, unless otherwise explicitly directed by the user/tipster that such information be “off the record.”
-
-For reasons of compliance with laws and regulations of some countries, information submitted at contact@WallStreet.org may be subject to be disclosed to relevant authorities. Users/tipsters intending to avoid this should use some private, offshore email provider.
-
-The logs maintained by the website are for analytical purposes, which help the website in improving user experience and other benefits. There may be instances where the website may be compelled to disclose information in these logs to law enforcement officials, in which case the website would reasonably comply with such demands.
-
-If the user/tipster does not want their name or such information published, they should submit a written request at contact@WallStreet.org
-
-WallStreet.org may require email IDs or other personal information of its users/tipsters for some of its services, such as newsletters, and for filtering out issues such as repeat registrations.
-
-Some of the services provided on the website and the advertisers of this website make use of cookies. Usage of such cookies may not be in the notice of the website; hence, users/tipsters can disable/turn them off in their browsers.
-
-This website has links to other websites as well, where the privacy policies could vary by either being less or more comprehensive. In such instances, WallStreet.org bears no responsibility, as those are not its domain.
-
-At any point in time, the website retains the right to alter the privacy policy and other terms of use without prior notice.
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online  
+information practices and the choices you can make about the way your information is collected and used.  
+To make this notice easy to find, we make it available on our homepage and at every point where  
+personally identifiable information may be requested.  
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART  
+cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as  
+well as other sites on the internet.  
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the  
+following URL http://www.google.com/privacy_ads.html Tracking of users through the DART cookie  
+mechanisms are subject to Google’s own privacy policies.  
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to  
+measure advertisement effectiveness and other reasons that will be provided in their own privacy policies,  
+Wallstreet.org has no access or control over these cookies that may be used by third party advertisers.  
+**Collection of Personal Information**  
+When visiting Wallstreet.org, the IP address used to access the site will be logged along with the dates  
+and times of access. This information is purely used to analyze trends, administer the site, track users  
+movement and gather broad demographic information for internal use. Most importantly, any recorded IP  
+addresses are not linked to personally identifiable information.  
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy  
+policies on these websites. You should be aware that the privacy policies of these sites may differ from our  
+own.  
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.  
+If you have any questions regarding the privacy policy of Wallstreet.org then you may contact us at  
+inquiries[at]wallstreet.org
