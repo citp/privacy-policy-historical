@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824171527id_/http%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406070745id_/http%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | University of California, Riverside
 
