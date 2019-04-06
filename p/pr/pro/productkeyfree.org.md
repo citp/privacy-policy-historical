@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the productkeyfree.org privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705052254id_/http%3A//productkeyfree.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productkeyfree.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406190156id_/https%3A//productkeyfree.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+**5.00** avg. rating ( **84** % score) - **1** vote 
+
 ## Who we are
 
-Our website address is: http://productkeyfree.org.
+Our website address is: https://productkeyfree.org.
 
 ## What personal data we collect and why we collect it
 
-### Comments
+### 
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
@@ -38,7 +40,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ### Analytics
 
-## Who we share your data with
+## 
 
 ## How long we retain your data
 
