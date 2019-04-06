@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indianapublicmedia.org privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430230744id_/http%3A//indianapublicmedia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianapublicmedia.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406193758id_/https%3A//indianapublicmedia.org/about/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Indiana Public Media
+# About Indiana Public Media (WFIU Public Radio and WTIU Public TV)
 
-Effective Date JUne 25, 2009
+Effective Date June 25, 2009
 
 Indiana Public Media recognizes the importance of privacy to visitors of our Web sites and services (the “Indiana Public Media Web Sites” or “Service”). This Privacy Policy explains what type of information is collected from you when you visit the Indiana Public Media Web sites and how that information may be used. Please note that this Privacy Policy is separate and distinct from the privacy policies governing the web sites that may link to or from the Indiana Public Media Web Sites.
 
@@ -10,7 +10,7 @@ Indiana Public Media recognizes the importance of privacy to visitors of our Web
 
 Indiana Public Media will not collect personally-identifying information (such as your name, e-mail address, address, telephone number, credit card information) from you, other than what you supply to us on a voluntary basis.
 
-In order to participate in some activities Indiana Public Media asks visitors to provide certain personally identifiable information, such as when they:
+In order to participate in some activities Indiana Public Media asks visitors to provide certain personally identifiable information, such as when they: 
 
   * Register for certain features or services of the Indiana Public Media Web Sites (for example, the Indiana Public Media e-mail newsletter)
   * E-mail or share a page of the Indiana Public Media Web Sites
@@ -45,7 +45,7 @@ Indiana Public Media and the third party vendors that measure and analyze use of
 
 If you wish to prevent certain or all cookies or web beacons from being set to your hard drive you may disable them in your browser’s preferences, although your browser might then be unable to accommodate certain functionalities on the Indiana Public Media Web sites.
 
-### Use of Information
+Use of Information
 
 The use of personally-identifying information is limited to the following: managing and administering the Indiana Public Media Web sites; responding to user messages; listing name and location (city, state and/or country) information provided by users when broadcasting or publishing User Materials; contest management; editorial purposes such as contacting users for an online survey; sending Indiana Public Media e-mail newsletters and other communications, including marketing and promotional communications to users who have ‘opted in’ to the receipt of such communications; other internal Indiana Public Media purposes; and other purposes specified at the time the information is gathered. Indiana Public Media may contact users regarding their submissions in certain circumstances.
 
@@ -55,7 +55,7 @@ In addition, if you send User Materials to Indiana Public Media through our Web 
 
 Excluding information provided by the user when sending User Materials to Indiana Public Media, which may become public as discussed above, personally-identifying information collected by Indiana Public Media is not provided to outside parties except Indiana Public Media’s service vendors (for example: the NPR Online Shop and Indiana Public Media’s email list manager), and other third parties when the user specifically consents to such distribution (such as the disclosure of your name to a friend when you email a story to that friend). In these circumstances, the information is provided for the sole purpose of — and only to the extent necessary for — delivering the requested transcript or goods to the user, delivering communications from Indiana Public Media to users who have ‘opted in’ to the receipt of these communications, providing services for and on behalf of Indiana Public Media, or serving other internal Indiana Public Media purposes.
 
-Indiana Public Media also may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of the Indiana Public Media Web Sites, or (c) protect the personal safety or property of users of the Indiana Public Media Web Sites, the public or Indiana Public Media and its employees.
+Indiana Public Media also may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of the Indiana Public Media Web Sites, or (c) protect the personal safety or property of users of the Indiana Public Media Web Sites, the public or Indiana Public Media and its employees
 
 If you do not want your personally-identifying information to be collected or used for any of these purposes, please do not provide it (although if you do not provide it, you may not be able to use or participate in certain features of the Indiana Public Media Web Sites). You can also ‘opt out’ according to the process described below.
 
