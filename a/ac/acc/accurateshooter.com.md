@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accurateshooter.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229112840id_/http%3A//www.accurateshooter.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accurateshooter.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406210212id_/https%3A//www.accurateshooter.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy within AccurateShooter.com
 
@@ -19,4 +19,4 @@ We normally never send out unsolicited email except to Forum members who request
 **Network Advertising and Cookies**  
 Some of the advertisements in this site are delivered through advertising networks. Commonly, networks use the DoubleClick DART cookie to provide tracking on ad performance. Third party vendors may use cookies to serve ads based on a user’s prior visits to this website. When users visit a partner’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help better serve and manage ads on the publisher’s site(s) and across the web. Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at www.networkadvertising.org/managing/opt_out.asp .
 
-Tags: [Anti-spam](http://www.accurateshooter.com/tag/anti-spam/), [Email](http://www.accurateshooter.com/tag/email/), [Newsletter](http://www.accurateshooter.com/tag/newsletter/), [Privacy](http://www.accurateshooter.com/tag/privacy/)
+Tags: [Anti-spam](https://www.accurateshooter.com/tag/anti-spam/), [Email](https://www.accurateshooter.com/tag/email/), [Newsletter](https://www.accurateshooter.com/tag/newsletter/), [Privacy](https://www.accurateshooter.com/tag/privacy/)
