@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ichotelsgroup.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220224037id_/https%3A//www.ihg.com/content/us/en/customer-care/privacy_statement%2316) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichotelsgroup.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406164819id_/https%3A//www.ihg.com/content/us/en/customer-care/privacy_statement%23cookies-and-other) for the most accurate reproduction.*
 
 # Privacy Statement | IHG
 
