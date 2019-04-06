@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themonastery.org privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029060022id_/https%3A//www.themonastery.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themonastery.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406193806id_/https%3A//www.themonastery.org/privacy-policy) for the most accurate reproduction.*
 
 # Universal Life Church Monastery Privacy Policies
 
-_Our church changes constantly, so we may amend this Policy from time to time – your continued use of this service acts as your agreement to any amendments, of which you will always receive notice. This Policy was last revised on May 25, 2018._
+_Our church changes constantly, so we may amend this Policy from time to time – your continued use of this service acts as your agreement to any amendments, of which you will always receive notice. This Policy was last revised on December 20th, 2018._
 
 The Universal Life Church Ministries herein referred to as “the ULC”, “the Church”, “we”, and “our”) cares about the privacy of visitors (herein referred to as “you” and “yours”) to our site. We also know you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Please read on for a full discussion/understanding of privacy policy and how we may utilize, disclose, and protect this information. By visiting our websites, you accept the practices described in this Privacy Notice and our Terms of Use. 
 
@@ -37,6 +37,8 @@ The Church maintains that it is legally obligated to store some essential person
 **3.d**   We utilize carriers, such as the US Postal Service, to fulfill orders, deliver packages and mail. We also utilize companies to process credit card payments. These third parties have access to some of your personal information needed to perform their limited functions, but are not permitted to use it for other purposes.
 
 **3.e**   As part of our services, our websites often contain links to third-party websites, which may have privacy policies that differ from our own. The ULC is not responsible for the content or privacy practices on those websites. We recommend that you review the privacy policy posted on any site that you may access through our websites.
+
+**3.f**   Certain areas of the site may allow you to log-in to your account via a third-party, independent social media service. When you elect to do so, we may gain access to some of your account information associated with that service, such as your name or other information. The types of information that may be provided is determined and authorized by the policies of the specific third-party social media service used. You do not need to utilize a third-party social media service to access any area of the site, and you may disable the connection you’ve established between your account on the third-party social media service and our site at any time. 
 
 **4\. Those under the age of 18**
 
