@@ -1,15 +1,12 @@
-<!--The following is the downloaded HTML source of the briefingwire.com privacy policy that was archived on 2018-07-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180713131738id_/https%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the briefingwire.com privacy policy that was archived on 2019-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190406225450id_/https%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
-            <base href="http://www.BriefingWire.com/">
- 
-        
-        <link rel="alternate" type="application/rss+xml" title="Latest Press Releases from BriefingWire.com" href="http://www.BriefingWire.com/rss.ashx"> <!-- for blogs et al to know where rss file is -->
-        <link rel="image_src" href="http://www.briefingwire.com/Images/logobw1.jpg">  <!-- For Facebook -->
+        <link rel="alternate" type="application/rss+xml" title="Latest Press Releases from BriefingWire.com" href="/rss.ashx"> <!-- for blogs et al to know where rss file is -->
+        <link rel="image_src" href="/Images/logobw1.jpg">  <!-- For Facebook -->
         <!-- add canonicalization tag -->
 
-        <title>BriefingWire - Free Press Release Submission</title> 
+        <title>BriefingWire - Trusted Press Release Submission</title> 
         <meta name="description" content="Free Press Release submission and distribution service. Increase the visibility of your business by submitting your press release for free."> 
         <meta name="keywords" content="press release, press releases, free press release, free press releases, pr, free pr, free press release sites, free press release websites, press release submission, free press release submission, press release submission sites, free press release submission sites, free press release submission service, press release distribution, free press release distribution, press release distribution sites, free press release distribution sites, free press release distribution service, free press release posting, seo, search engine optimization, news, ranking, rankings, google ranking, increase google ranking, search results, increase my website revenue, website promotion, promote my site, promote my website, website marketing, market my site, market my website, website promotion, publication"> 
         <meta name="document-classification" content="PR Submission, Free Press Releases, Online Press Release Distribution, Submit Free Press Releases, Free PR Websites, PR Distribution">
@@ -18,134 +15,153 @@
         <meta name="msvalidate.01" content="C4EDB78CD479511F4552EBD198DA3252"> <!-- verify ownership for Bing Webmaster Central -->
         <meta name="verify-v1" content="ivXrCqEMewUnhJc9STGYuVXDbhc9O2vjH06zC3rD9CA="> <!-- verify ownership for Google Webmaster Tools -->
         
-        
+        <!-- payment styles -->
+        <link id="ctl00_bt1" rel="stylesheet" type="text/css" href="/BTStyles.css">
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" /> -->
+        <script type="text/javascript" src="App_Themes/javascript/vendor/jquery-2.1.4.min.js"></script>
+        <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="https://js.braintreegateway.com/web/dropin/1.9.4/js/dropin.min.js"></script>
+        <script type="text/javascript" src="App_Themes/javascript/demo.js"></script>
+        <!-- end payment styles -->
 
-        
-        <link id="ctl00_Link1" rel="stylesheet" type="text/css" href="http://www.briefingwire.com/BWStyles.css">
-        <link id="ctl00_Link2" rel="shortcut icon" href="http://www.briefingwire.com/Images/favicon.ico">
+        <link id="ctl00_Link1" rel="stylesheet" type="text/css" href="/BWStyles.css">
+        <link id="ctl00_Link2" rel="shortcut icon" href="/Images/favicon.ico">
 
-        <script type="text/javascript" language="Javascript1.2">
-            <!--
-            // Confirms permanant action with warning
-            function doConfirm() {
-                var answer = confirm("This is a permanent action. Please Confirm.")
-	            if (answer){
-	                return true;
-	            }
-	            else{
-		            return false;
-	            }
-            }
+        <script>
+            // count characters
+            function countChars(field, chars) {
+                var ctr = field.name.replace("ctl00$cphMain$", "");
+                var len = field.value.length;
+                if (len >= chars) {
+                    field.value = field.value.substring(0, chars);
+                }
+                $('#' + ctr + 'Ctr').text(chars - len);
+            };
             
-            // Calcs Total Cost of Premium PR && Toggles 'Free Press Release' (i.e. Create) and Paypal buttons
-            function getTotalCost() {
-                sTotalCost = 0;
-                if (document.getElementById('cbImg') != null && document.getElementById('cbImg').checked == true) {
-                    document.getElementById('amount_1').value = 10;
-                    sTotalCost = sTotalCost + 10;
-                }
-                else {
-                    document.getElementById('amount_1').value = 0;
-                }
-                if (document.getElementById('cbLinks') != null && document.getElementById('cbLinks').checked == true) {
-                    document.getElementById('amount_2').value = 10;
-                    sTotalCost = sTotalCost + 10;
-                }
-                else {
-                    document.getElementById('amount_2').value = 0;
-                }
-                if (document.getElementById('cbFPR') != null && document.getElementById('cbFPR').checked == true) {     //tbFPRCost
-                    sTotalCost = sTotalCost + Number(document.getElementById('tbFPRCost').value);
-                    document.getElementById('amount_3').value = Number(document.getElementById('tbFPRCost').value);
-                }
-                else {
-                    document.getElementById('amount_3').value = 0;
-                }
-                if (sTotalCost > 0) {
-                    document.getElementById('lblTotalCost').innerHTML = 'Total Cost: ' + formatNumber(sTotalCost.toString(), '$') + '&nbsp;&nbsp;';
-                    document.getElementById('cphMain_btnFreePR').style.visibility = "hidden";
-                    document.getElementById('cphMain_btnPayPal').style.visibility = "visible";
-                }
-                else {
-                    document.getElementById('lblTotalCost').innerHTML = '';
-                    document.getElementById('cphMain_btnFreePR').style.visibility = "visible";
-                    document.getElementById('cphMain_btnPayPal').style.visibility = "hidden";
-                }
-                return true;
-            }
-            
-            // Converts $ to impressions
-            function getNumImpressions(objThis, strThatID) {
-                var spend = objThis.value;
-                var numImps = spend * 1000; 
-                
-                if (spend >= 100) {
-                    numImps = numImps * 3;
-                }
-                
-                strVal = formatNumber(numImps, '');
-                document.getElementById(strThatID).innerHTML = strVal;
-                getTotalCost();
-                return true;
-            }
+            $(document).ready(function(){
 
-            // Formats numbers by adding commas (and prefix could be '$')
-            function formatNumber(nStr, prefix) {
-                var prefix = prefix || '';
-                nStr += '';
-                x = nStr.split('.');
-                x1 = x[0];
-                x2 = x.length > 1 ? '.' + x[1] : '';
-                var rgx = /(\d+)(\d{3})/;
-                while (rgx.test(x1))
-                    x1 = x1.replace(rgx, '$1' + ',' + '$2');
-                return prefix + x1 + x2;
-            }
-            
-            // Following 3 functions used to display field limits
-            function objLimit(objThis, objMax) {
-                if (objThis.value.length == objMax) return false;
-	            return true;
-            }
-            function objCount(objThis, objID, objMax) {
-                objObj = createObject(objID);
-                objVal = objThis.value;
-                //if (objVal) objVal = objVal.replace(/(\r\n)/g, '\n');   // USE objVal.replace(/(\r\n)/g, '\n') OR objVal.replace('\r\n', '\n')
-	            if (objVal.length > objMax) objVal = objVal.substring(0, objMax);
-	            //if (objObj) objObj.innerText = objMax - objVal.length;
-	            if (objObj) objObj.innerHTML = objMax - objVal.length;
-	            return true;
-            }
-            function createObject(objId) {
-	            if (document.getElementById) return document.getElementById(objId);
-	            else if (document.layers) return eval("document." + objId);
-	            else if (document.all) return eval("document.all." + objId);
-	            else return eval("document." + objId);
-            }
-            
-            //-->
+                // revert to standard css onFocus
+                $('input, textarea').focus(
+                function(){
+                    $(this).css({'borderColor' : '#CCC'});
+                });
+                $('select').focus(
+                function(){
+                    $(this).css({'borderColor' : '#CCC'});
+                });
+
+                // image upload
+                $('.fileInput').on('change', function() {
+                    // $("#filename").text($(this).val());
+                    $.each(this.files, function(i, file) {
+                        $('#fileInputDiv').text(file.name);
+                    });
+                });
+                $('#fileInput').on('dragenter', function() {
+                    $('div').addClass('dragover');
+                });
+                $('#fileInput').on('dragleave', function() {
+                    $('div').removeClass('dragover');
+                });
+
+            });
         </script>
+
+        <script type="text/javascript">
+
+            function insertAtCaret(areaId, text) {
+                var txtarea = document.getElementById('ctl00_cphMain_' + areaId);
+                if (!txtarea) return;
+            
+                var scrollPos = txtarea.scrollTop;
+                var strPos = 0;
+                var br = ((txtarea.selectionStart || txtarea.selectionStart == '0') ? "ff" : (document.selection ? "ie" : false));
+                if (br == "ie") {
+                    txtarea.focus();
+                    var range = document.selection.createRange();
+                    range.moveStart('character', -txtarea.value.length);
+                    strPos = range.text.length;
+                } else if (br == "ff") {
+                    strPos = txtarea.selectionStart;
+                }
+            
+                var front = (txtarea.value).substring(0, strPos);
+                var back = (txtarea.value).substring(strPos, txtarea.value.length);
+                txtarea.value = front + text + back;
+                strPos = strPos + text.length;
+                if (br == "ie") {
+                    txtarea.focus();
+                    var ieRange = document.selection.createRange();
+                    ieRange.moveStart('character', -txtarea.value.length);
+                    ieRange.moveStart('character', strPos);
+                    ieRange.moveEnd('character', 0);
+                    ieRange.select();
+                } else if (br == "ff") {
+                    txtarea.selectionStart = strPos;
+                    txtarea.selectionEnd = strPos;
+                    txtarea.focus();
+                }
+            
+                txtarea.scrollTop = scrollPos;
+            }
+        
+        </script>
+
+        
+
     </head>
     <body>
         <form name="aspnetForm" method="post" action="./Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWCAIDDxYCHgRUZXh0BTs8dGl0bGU+QnJpZWZpbmdXaXJlIC0gRnJlZSBQcmVzcyBSZWxlYXNlIFN1Ym1pc3Npb248L3RpdGxlPmQCBQ8WAh8BBbEBPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkZyZWUgUHJlc3MgUmVsZWFzZSBzdWJtaXNzaW9uIGFuZCBkaXN0cmlidXRpb24gc2VydmljZS4gSW5jcmVhc2UgdGhlIHZpc2liaWxpdHkgb2YgeW91ciBidXNpbmVzcyBieSBzdWJtaXR0aW5nIHlvdXIgcHJlc3MgcmVsZWFzZSBmb3IgZnJlZS4iIC8+ZAIHDxYCHwEFuwY8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0icHJlc3MgcmVsZWFzZSwgcHJlc3MgcmVsZWFzZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSwgZnJlZSBwcmVzcyByZWxlYXNlcywgcHIsIGZyZWUgcHIsIGZyZWUgcHJlc3MgcmVsZWFzZSBzaXRlcywgZnJlZSBwcmVzcyByZWxlYXNlIHdlYnNpdGVzLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24sIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uIHNpdGVzLCBmcmVlIHByZXNzIHJlbGVhc2Ugc3VibWlzc2lvbiBzZXJ2aWNlLCBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgZnJlZSBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2VydmljZSwgZnJlZSBwcmVzcyByZWxlYXNlIHBvc3RpbmcsIHNlbywgc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24sIG5ld3MsIHJhbmtpbmcsIHJhbmtpbmdzLCBnb29nbGUgcmFua2luZywgaW5jcmVhc2UgZ29vZ2xlIHJhbmtpbmcsIHNlYXJjaCByZXN1bHRzLCBpbmNyZWFzZSBteSB3ZWJzaXRlIHJldmVudWUsIHdlYnNpdGUgcHJvbW90aW9uLCBwcm9tb3RlIG15IHNpdGUsIHByb21vdGUgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBtYXJrZXRpbmcsIG1hcmtldCBteSBzaXRlLCBtYXJrZXQgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBwcm9tb3Rpb24sIHB1YmxpY2F0aW9uIiAvPmQCDw9kFgICBg9kFgICAQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgQCAw8QDxYGHg5EYXRhVmFsdWVGaWVsZAUEdmNpZB4NRGF0YVRleHRGaWVsZAUFdmFsdWUeC18hRGF0YUJvdW5kZ2QQFSUAC0FkdmVydGlzaW5nBEFydHMLQXV0b21vdGl2ZXMGQmVhdXR5BUJsb2dzCEJ1c2luZXNzCUNvbXB1dGVycwhDb25zdW1lcglFZHVjYXRpb24NRW50ZXJ0YWlubWVudAtFbnZpcm9ubWVudA1GYW1pbHkgJiBTZWxmDEZhcm1pbmcgJiBBZwdGYXNoaW9uCUZpbmFuY2lhbAVHYW1lcwpHb3Zlcm5tZW50BkhlYWx0aA1Ib21lICYgR2FyZGVuCEluZHVzdHJ5CEludGVybmV0A0xhdwlMaWZlc3R5bGUFTWVkaWEHTWVkaWNhbAVNdXNpYwROZXdzCk5vbiBQcm9maXQIUG9saXRpY3MHU2NpZW5jZQhTaG9wcGluZwdTb2NpZXR5BlNwb3J0cwpUZWNobm9sb2d5BlRyYWRlcwZUcmF2ZWwVJQJOUwNBRFYDQVJUA0FVVANCVFkDQkxPA0JVUwNDT00DQ09OA0VEVQNFTlQDRU5WA0ZBTQNGQVIDRkFTA0ZJTgNHQU0DR09WA0hFTANITkcDSU5EA0lOVANMQVcDTElGA01ESQNNRUQDTVVTA05FVwNOUEYDUE9MA1NDSQNTSE8DU09DA1NQTwNURUMDVFJEA1RSVhQrAyVnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBQ8QZGQWAGRkdc+tpe15HgdI2nv2FXIv68CAGQTS9F2TJHpJdIYyV7I=">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWCAIBDxYCHgRUZXh0BT48dGl0bGU+QnJpZWZpbmdXaXJlIC0gVHJ1c3RlZCBQcmVzcyBSZWxlYXNlIFN1Ym1pc3Npb248L3RpdGxlPmQCAw8WAh8BBbEBPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkZyZWUgUHJlc3MgUmVsZWFzZSBzdWJtaXNzaW9uIGFuZCBkaXN0cmlidXRpb24gc2VydmljZS4gSW5jcmVhc2UgdGhlIHZpc2liaWxpdHkgb2YgeW91ciBidXNpbmVzcyBieSBzdWJtaXR0aW5nIHlvdXIgcHJlc3MgcmVsZWFzZSBmb3IgZnJlZS4iIC8+ZAIFDxYCHwEFuwY8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0icHJlc3MgcmVsZWFzZSwgcHJlc3MgcmVsZWFzZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSwgZnJlZSBwcmVzcyByZWxlYXNlcywgcHIsIGZyZWUgcHIsIGZyZWUgcHJlc3MgcmVsZWFzZSBzaXRlcywgZnJlZSBwcmVzcyByZWxlYXNlIHdlYnNpdGVzLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24sIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uIHNpdGVzLCBmcmVlIHByZXNzIHJlbGVhc2Ugc3VibWlzc2lvbiBzZXJ2aWNlLCBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgZnJlZSBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2VydmljZSwgZnJlZSBwcmVzcyByZWxlYXNlIHBvc3RpbmcsIHNlbywgc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24sIG5ld3MsIHJhbmtpbmcsIHJhbmtpbmdzLCBnb29nbGUgcmFua2luZywgaW5jcmVhc2UgZ29vZ2xlIHJhbmtpbmcsIHNlYXJjaCByZXN1bHRzLCBpbmNyZWFzZSBteSB3ZWJzaXRlIHJldmVudWUsIHdlYnNpdGUgcHJvbW90aW9uLCBwcm9tb3RlIG15IHNpdGUsIHByb21vdGUgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBtYXJrZXRpbmcsIG1hcmtldCBteSBzaXRlLCBtYXJrZXQgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBwcm9tb3Rpb24sIHB1YmxpY2F0aW9uIiAvPmQCDw9kFgQCBg9kFgICAQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgQCAw8QDxYGHg5EYXRhVmFsdWVGaWVsZAUEdmNpZB4NRGF0YVRleHRGaWVsZAUFdmFsdWUeC18hRGF0YUJvdW5kZ2QQFSUAC0FkdmVydGlzaW5nBEFydHMLQXV0b21vdGl2ZXMGQmVhdXR5BUJsb2dzCEJ1c2luZXNzCUNvbXB1dGVycwhDb25zdW1lcglFZHVjYXRpb24NRW50ZXJ0YWlubWVudAtFbnZpcm9ubWVudA1GYW1pbHkgJiBTZWxmDEZhcm1pbmcgJiBBZwdGYXNoaW9uCUZpbmFuY2lhbAVHYW1lcwpHb3Zlcm5tZW50BkhlYWx0aA1Ib21lICYgR2FyZGVuCEluZHVzdHJ5CEludGVybmV0A0xhdwlMaWZlc3R5bGUFTWVkaWEHTWVkaWNhbAVNdXNpYwROZXdzCk5vbiBQcm9maXQIUG9saXRpY3MHU2NpZW5jZQhTaG9wcGluZwdTb2NpZXR5BlNwb3J0cwpUZWNobm9sb2d5BlRyYWRlcwZUcmF2ZWwVJQJOUwNBRFYDQVJUA0FVVANCVFkDQkxPA0JVUwNDT00DQ09OA0VEVQNFTlQDRU5WA0ZBTQNGQVIDRkFTA0ZJTgNHQU0DR09WA0hFTANITkcDSU5EA0lOVANMQVcDTElGA01ESQNNRUQDTVVTA05FVwNOUEYDUE9MA1NDSQNTSE8DU09DA1NQTwNURUMDVFJEA1RSVhQrAyVnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBQ8QZGQWAGQCDA8PFgIfAQUhwqkgMjAxOSBQcm9zZXJ2ZSBUZWNobm9sb2d5LCBJbmMuZGRkbQjr3Bah8hsjbFY4MxUbWM2Qv0l2ZMnVgvz20IfuwzE=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=PkRgn3JgxHwdFoQ8oVRMZiaAjHV-g2ly-XwEex3__KEv1L28bcCN5aDRcHMAXlBoBUjR6X-TrKNMDF392eZofZPmGYOKHIE6J_FnLfidnWsvM9KjX8CQ4DuROm7A_zjNyMQqXVQ98wb1y6LCqW2rkl7-W0lsUjor-fGReciEZBp6YOl8p37GFV6UGVq4RMo20&amp;t=72fc8ae3" type="text/javascript"></script>
+<script src="/WebResource.axd?d=6JUW6FFxTxquCeKBHZ4p8G1N85I3T5L7aRyjeXno8I-eDCAa94lIzDii2TOIqjfEke_rG0i2ZBtOnY8ExaZLXJCVzjVSLPEIwt6voM3JT3U1&amp;t=636765248300000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=2K6Wg3RtzivfzOVnWvFQwt_cfErkG7c9EgvX0WMwAJVPR7OV1Hp6Dlt1ZBXX5hscvC4d3keY_dsoTsqLve4LWHvHyVa9fdsOi0bM5HWKSTwabLO_WQ54LvgbIbXdfHeEG21w6m-Y2s_Q3-2khjn7PMaezva-3H4WrnOWpt_ZUdb7VVaNviMW54h3qfP0rq-h0&amp;t=ffffffff999c3159" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdACktkWnGAQ7rzOaln/QAY7cN7UlpaSz+cvkkyqSg243V8DuVt3kkHyJ6WN/t4495rGeg7MnL8wOiyWqm/VqqfkeWlWajZ8CtecuaR9dyIGiKhpqG2fPBrPBtgK0DS84BdzEkLHnLP3a3kJePpqTSarVsMlx8xe6YvGDVdEp6x7z42YXLokRFvuWNxfIL2hKJg60+nTh/rLOIrbyhbMY4QQADiF+xVcSZ04YRjk18wAyDXHcXn8VcNWa6CUqHe0cTVlXWJdUCP0qkf1Li1Sjf8MJvbMqEX6Hs6X2ECj01VbTY0ui03Y5o/INYAFeJ9RbEMeWgInWaKJNjRXvMZ7+1clvh+XEohtxeLwJjlZHkRxk2o3sU/2M6iCbPk71sTMCnn+YbQK09FiHrQBuCFYonWFgQbetPSDHw09yJ0eYgZzA+dmjt6BjLOknwWx3Ft7i/GamDVX008wl3y5GqVXHp5liEsS3bDx1AnzMTBy6VdduyBmrAYG5fpbYmrAdU60pDWbunETd3hdXJMt0rODBnDPWQ0RHQiK/U0oi5jvEtNS2hQ5LnVHU7QQMFeMe3vdj88IVxtAqOSPNoiW24Y/LTZpbkiJnNDu84a/s6SqsAFT/n4LvoC0Vy/YhPA8G8eMwPvCnc4gLvTVG9VfiFPQ0t0HpP1qWvGZHqrI+ncA+NPkWF50aE6LPprRWp3DjNNLBSAEGL3QZJKrZWe4WduQx9+jiwl0LmeiAa3AmM7gCTHCKTEWBJkduq98S7ewfEhMHVEVIn6k2N+DEgXtN7BDwvrjn7jRyXEjBhYYxOqybL/ABDX8Llfbl9variROBXq5uSlyOj903eda35M0QZXL4KMdtBsqDltHdu/QFku6RmeOgVg6+e9nqD/2zFBhDgiJjfxu+2AwrvpQkvalC5A10ETz4e">
-            
+<script src="/ScriptResource.axd?d=28c0jz5wGo2BES7jnbc7xylKmhum9JBCTE4jUtCTKpkZe0xgc6U6d2ZQhSOMfS1WrTXMFwYQnOu7ovha_lDuNHogBa5HOrWWfk5Axoetxx8LhbEHVwSYAw6u9yd9njk3SCclGDrS_IIL6V-i4TtVlznyhPxcowwXPcJIwuM8Po-eI7e8opyWHjzxWZzbJWul0&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdACm5j9sQOrkVRxGj3KG91/CK7UlpaSz+cvkkyqSg243V8DuVt3kkHyJ6WN/t4495rGeg7MnL8wOiyWqm/VqqfkeWlWajZ8CtecuaR9dyIGiKhpqG2fPBrPBtgK0DS84BdzEkLHnLP3a3kJePpqTSarVsMlx8xe6YvGDVdEp6x7z42YXLokRFvuWNxfIL2hKJg60+nTh/rLOIrbyhbMY4QQADiF+xVcSZ04YRjk18wAyDXHcXn8VcNWa6CUqHe0cTVlXWJdUCP0qkf1Li1Sjf8MJvbMqEX6Hs6X2ECj01VbTY0ui03Y5o/INYAFeJ9RbEMeWgInWaKJNjRXvMZ7+1clvh+XEohtxeLwJjlZHkRxk2o3sU/2M6iCbPk71sTMCnn+YbQK09FiHrQBuCFYonWFgQbetPSDHw09yJ0eYgZzA+dmjt6BjLOknwWx3Ft7i/GamDVX008wl3y5GqVXHp5liEsS3bDx1AnzMTBy6VdduyBmrAYG5fpbYmrAdU60pDWbunETd3hdXJMt0rODBnDPWQ0RHQiK/U0oi5jvEtNS2hQ5LnVHU7QQMFeMe3vdj88IVxtAqOSPNoiW24Y/LTZpbkiJnNDu84a/s6SqsAFT/n4LvoC0Vy/YhPA8G8eMwPvCnc4gLvTVG9VfiFPQ0t0HpP1qWvGZHqrI+ncA+NPkWF50aE6LPprRWp3DjNNLBSAEGL3QZJKrZWe4WduQx9+jiwl0LmeiAa3AmM7gCTHCKTEWBJkduq98S7ewfEhMHVEVIn6k2N+DEgXtN7BDwvrjn7jRyXEjBhYYxOqybL/ABDX8Llfbl9variROBXq5uSlyOj903eda35M0QZXL4KMdtBsqDltHdu/QFku6RmeOgVg19K8HI+TDm2hNltMjyJCleqWPDRbX9t/dKLWUzCE6+b">
+</div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
             <div style="width:1250px;">
             <table style="width:100%;" cellspacing="0">
                 <tbody><tr>
                 <td class="mainHeader" align="left" width="250">
-                    <a href="/" class="logoLink"><img id="ctl00_imgLogo" title="BriefingWire.com" alt="BriefingWire.com" border="0" src="http://www.briefingwire.com/Images/logobw2.jpg" height="40" width="250"></a>
+                    <a href="/" class="logoLink"><img id="ctl00_imgLogo" title="BriefingWire.com" alt="BriefingWire.com" border="0" src="/Images/logobw2.jpg" style="height:40px;width:250px;border-width:0px;"></a>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font class="ContentSmallGrey">Trusted Press Release Distribution</font>
                 </td>
 
@@ -154,8 +170,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 </td>
 
                 <td class="mainHeader" align="right">
-                <a id="ctl00_join" href="http://www.briefingwire.com/Join.aspx">Join</a>&nbsp;|
-                    <a id="ctl00_login" href="http://www.briefingwire.com/Login.aspx">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a id="ctl00_join" href="/plans.aspx">Plans</a>&nbsp;|
+                    <a id="ctl00_login" href="/Login.aspx">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;
                 
                 </td>
                 </tr>
@@ -168,28 +184,28 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <br>
                     <table id="ctl00_mod1" cellpadding="0" cellspacing="0">
 	<tbody><tr align="center" valign="top">
-		<td height="30" width="15"><img id="ctl00_Image1" alt="" border="0" src="http://www.briefingwire.com/Images/mod_CCCCCC_TL.gif" height="30" width="15"></td>
+		<td height="30" width="15"><img id="ctl00_Image1" alt="" border="0" src="/Images/mod_CCCCCC_TL.gif" style="height:30px;width:15px;border-width:0px;"></td>
 		<td height="30" width="170" bgcolor="#CCCCCC" align="center" valign="middle" class="modHeaderMediumBold">Briefing Search</td>
-		<td height="30" width="15"><img id="ctl00_Image2" alt="" border="0" src="http://www.briefingwire.com/Images/mod_CCCCCC_TR.gif" height="30" width="15"></td>
+		<td height="30" width="15"><img id="ctl00_Image2" alt="" border="0" src="/Images/mod_CCCCCC_TR.gif" style="height:30px;width:15px;border-width:0px;"></td>
 	</tr>
 	<tr align="center">
 		<td style="background-image:url(Images/mod_CCCCCC_ML.gif); background-repeat: repeat-y;"></td>
 		<td class="ContentSmall">
                         <div class="ContentXSmall">
-                        <div id="ctl00_Panel_FormSearchSimple">
+                        <div id="ctl00_Panel_FormSearchSimple" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_SearchSimple1')" style="width:100%;">
 			
                             <table width="170">
                                 <tbody><tr>
                                 <td width="50" align="right">Keyword:</td>
                                 <td width="120" align="left">
-                                    <input name="ctl00$modSearchKeyword" type="text" id="ctl00_modSearchKeyword" class="ContentXSmall">
+                                    <input name="ctl00$modSearchKeyword" type="text" id="ctl00_modSearchKeyword" class="SmFields ContentXSmall" style="width:85%;">
                                 </td>
                                 </tr>
                                 
                                 <tr>
                                 <td width="50" align="right">Category:</td>
                                 <td width="120" align="left">
-                                    <select name="ctl00$modSearchCategory" id="ctl00_modSearchCategory" class="ContentXSmall">
+                                    <select name="ctl00$modSearchCategory" id="ctl00_modSearchCategory" class="SmFields ContentXSmall" style="width:85%;">
 				<option value="NS"></option>
 				<option value="ADV">Advertising</option>
 				<option value="ART">Arts</option>
@@ -253,28 +269,28 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 		<td style="background-image:url(Images/mod_CCCCCC_MR.gif); background-repeat: repeat-y;"></td>
 	</tr>
 	<tr>
-		<td height="15"><img id="ctl00_Image3" alt="" border="0" src="http://www.briefingwire.com/Images/mod_CCCCCC_BL.gif" height="15" width="15"></td>
+		<td height="15"><img id="ctl00_Image3" alt="" border="0" src="/Images/mod_CCCCCC_BL.gif" style="height:15px;width:15px;border-width:0px;"></td>
 		<td style="background-image:url(Images/mod_CCCCCC_BM.gif); background-repeat: repeat-x;"></td>
-		<td height="15"><img id="ctl00_Image4" alt="" border="0" src="http://www.briefingwire.com/Images/mod_CCCCCC_BR.gif" height="15" width="15"></td>
+		<td height="15"><img id="ctl00_Image4" alt="" border="0" src="/Images/mod_CCCCCC_BR.gif" style="height:15px;width:15px;border-width:0px;"></td>
 	</tr>
 </tbody></table>
 
 
                     <table id="ctl00_links" cellpadding="0" cellspacing="5">
 	<tbody><tr>
-		<td><br><a id="ctl00_pr" href="http://www.briefingwire.com/submitPR.aspx">Submit Your Press Release</a></td>
+		<td><br><a id="ctl00_pr" href="/submitPR.aspx">Submit Your Release</a></td>
 	</tr>
 	<tr>
-		<td><a id="ctl00_dir" href="http://www.briefingwire.com/Directory.aspx">Biz Directory</a></td>
+		<td><a id="ctl00_dir" href="/Directory.aspx">Biz Directory</a></td>
 	</tr>
 	<tr valign="bottom">
-		<td><a id="ctl00_rss" href="http://www.briefingwire.com/rss.aspx">RSS Feed</a>&nbsp;<a href="/rss.aspx" class="logoLink"><img id="ctl00_Image5" alt="Subscribe to RSS Feed" border="0" src="http://www.briefingwire.com/Images/rss.gif" height="12" width="12"></a></td>
+		<td><a id="ctl00_rss" href="/rss.aspx">RSS Feed</a>&nbsp;<a href="/rss.aspx" class="logoLink"><img id="ctl00_Image5" alt="Subscribe to RSS Feed" border="0" src="/Images/rss.gif" style="height:12px;width:12px;border-width:0px;"></a></td>
 	</tr>
 	<tr>
-		<td><a id="ctl00_seo" href="http://www.briefingwire.com/SEO.aspx">SEO Tips</a></td>
+		<td><a id="ctl00_seo" href="/SEO.aspx">SEO Tips</a></td>
 	</tr>
 	<tr>
-		<td><a id="ctl00_hiw" href="http://www.briefingwire.com/FAQs.aspx">Questions?</a></td>
+		<td><a id="ctl00_hiw" href="/FAQs.aspx">Questions?</a></td>
 	</tr>
 </tbody></table>
 
@@ -290,7 +306,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                     <table width="100%" cellpadding="0" cellspacing="0">
                         <tbody><tr>
-                        <td height="550" style="background-image:url(Images/clr.gif); background-repeat: repeat-y;"></td>
+                        <td height="625" style="background-image:url(Images/clr.gif); background-repeat: repeat-y;"></td>
                         <td align="left" valign="top">
                             
     <table width="100%"><tbody><tr align="center"><td>
@@ -328,14 +344,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                         <tr>
                         <td style="text-align:center">
-                            <a id="ctl00_faqs" href="http://www.briefingwire.com/FAQs.aspx">FAQs</a>&nbsp;|
-                            <a id="ctl00_contact" href="http://www.briefingwire.com/Contact.aspx">Contact Us</a>&nbsp;|
-                            <a id="ctl00_tnc" href="http://www.briefingwire.com/TnC.aspx">Terms &amp; Conditions</a>&nbsp;|
-                            <a id="ctl00_pp" href="http://www.briefingwire.com/Privacy.aspx">Privacy Policy</a>
+                            <a id="ctl00_faqs" href="/FAQs.aspx">FAQs</a>&nbsp;|
+                            <a id="ctl00_contact" href="/Contact.aspx">Contact Us</a>&nbsp;|
+                            <a id="ctl00_tnc" href="/TnC.aspx">Terms &amp; Conditions</a>&nbsp;|
+                            <a id="ctl00_pp" href="/Privacy.aspx">Privacy Policy</a>
                         </td>
                         </tr>
 
-                        <tr><td class="ContentXSmall">© 2013 Proserve Technology, Inc.</td></tr>        
+                        <tr><td class="ContentXSmall"><span id="ctl00_copywrite">© 2019 Proserve Technology, Inc.</span></td></tr>        
                     </tbody></table>
 
                     </div></center>
@@ -364,8 +380,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 </tr>
             </tbody></table>
             
+
+          <!--Spinner-->
+          <div id="loader">
+            <div class="loadingmessage">
+              <img class="spinner" src="/Images/spinner.gif">
             </div>
-        </form>
+            </div>
+        
 
         <!-- For Google Analytics -->
         <script type="text/javascript">
@@ -380,4 +402,4 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <!-- End Google Analytics -->
     
 
-</body></html>
+</div></form></body></html>
