@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quadratec.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828001113id_/https%3A//www.quadratec.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quadratec.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406063855id_/https%3A//www.quadratec.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quadratec
 
