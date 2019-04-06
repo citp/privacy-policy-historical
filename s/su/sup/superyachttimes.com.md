@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superyachttimes.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825182116id_/https%3A//www.superyachttimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superyachttimes.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407003534id_/https%3A//www.superyachttimes.com/privacy) for the most accurate reproduction.*
 
 # SuperYacht Times
 
