@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijan.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228005405id_/https%3A//naijagists.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijan.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406183232id_/https%3A//naijagists.com/privacy) for the most accurate reproduction.*
 
 # PrivacyNaijaGistsBlog Nigeria, Nollywood, Celebrity ,News, Entertainment, Gist, Gossip, Inspiration, Africa | NaijaGistsBlog Nigeria, Nollywood, Celebrity ,News, Entertainment, Gist, Gossip, Inspiration, Africa
 
