@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rubyhornet.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215004912id_/http%3A//rubyhornet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubyhornet.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406053556id_/https%3A//rubyhornet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Ruby Hornet
 
-RUBYHORNET.COM respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site [www.rubyhornet.com](http://rubyhornet.com/) (the “Site”), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites
+RUBYHORNET.COM respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site [www.rubyhornet.com](https://rubyhornet.com/) (the “Site”), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites
 
 ###### INFORMATION AUTOMATICALLY COLLECTED BY THE SITE
 
@@ -26,4 +26,4 @@ RUBYHORNET.COM may update this Privacy Policy from time to time. We may notify y
 
 ###### TERMS OF USE
 
-Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](http://rubyhornet.com/tou/). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE.
+Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](https://rubyhornet.com/tou/). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE.
