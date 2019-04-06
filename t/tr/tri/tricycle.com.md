@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricycle.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226131324id_/https%3A//tricycle.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricycle.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406140316id_/https%3A//tricycle.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tricycle: The Buddhist Review
 
