@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sandiegocounty.gov privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107204041id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegocounty.gov privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406025808id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.*
 
-# Web and Privacy Policies
+# Security and Privacy Policies
 
 ### Information That May Be Collected And How It May Be Used
 
@@ -61,6 +61,23 @@ Presently, the County uses persistent cookies on some of its web applications.
 ### Security
 
 The County has taken several steps to safeguard the integrity of its telecommunications and computing infrastructure. Security measures have been integrated into the design, implementation and day-to-day practices of the entire operating environment as part of its continuing commitment to risk management.
+
+Our cyber security program is based on the same security standards that are required of the Federal and California State Governments as-well-as the financial payment industry. Protections include:
+
+  * Developing Information Security Policies, Standards Guidelines and Controls.
+  * Implementing countermeasures in aggregated layers that provides for a holistic cyber security defense.
+  * Conducting risk and vulnerability assessments and implementing risk mitigation measures.
+  * Promoting emplyee information and cyber security awareness training.
+  * Providing proactive threat protections, monitoring for malicious activity, and incident management.
+  * Maintainign compliance with Federal and State statutes and regulation
+
+
+
+For information about what you can do to protect yourself and your family from being a victim of cyber-crime, the US-CERT.GOV website has numerous tips and publications on topics like _Keeping Childrent Safe Online, Banking Securely Online, Shopping Safely Online, Avoiding Online Gaming Risks, Using Portable Devices, Secure Social Networking, Securing Your Computer and Home Networks_ and many others.
+
+    [US-CERT.GOV/PUBLICATIONS](https://www.us-cert.gov/security-publications)
+
+    [US-CERT.GOV/NCAS/TIPS](https://www.us-cert.gov/ncas/tips)
 
 This information should not be construed in any way as giving business, legal, or other advice. This information should not be construed as warranting as fail-proof the security of information provided through County-supported websites.
 
