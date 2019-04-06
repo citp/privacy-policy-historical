@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somersetlive.co.uk privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917151531id_/https%3A//www.somersetlive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somersetlive.co.uk privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406174801id_/https%3A//www.somersetlive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Somerset Live privacy policy
 
