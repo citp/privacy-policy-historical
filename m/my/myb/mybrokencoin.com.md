@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybrokencoin.com privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821210428id_/https%3A//mybrokencoin.com/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrokencoin.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407014740id_/https%3A//mybrokencoin.com/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy
 
