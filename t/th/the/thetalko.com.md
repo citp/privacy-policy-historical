@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetalko.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020023236id_/https%3A//www.thetalko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetalko.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406144132id_/https%3A//www.thetalko.com/privacy-policy) for the most accurate reproduction.*
 
-# TheTalko - The World's Most Entertaining & Insightful Site For Women.
+# TheTalko
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
