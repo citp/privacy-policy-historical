@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cupcakesandcashmere.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227222843id_/https%3A//cupcakesandcashmere.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupcakesandcashmere.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406055239id_/https%3A//cupcakesandcashmere.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy - Cupcakes & Cashmere
 
