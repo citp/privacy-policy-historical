@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtime.pro privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109212107id_/https%3A//www.sourcefabric.org/en/home/policies/2498/Sourcefabric-Privacy-and-Data-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtime.pro privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406234027id_/https%3A//www.sourcefabric.org/en/home/policies/2498/Sourcefabric-Privacy-and-Data-Policy.htm) for the most accurate reproduction.*
 
 # Sourcefabric Privacy and Data Policy | Sourcefabric
 
@@ -14,7 +14,7 @@ More information
 
 If you want to know exactly what information we store about you, please contact us by email at [privacy@sourcefabric.org](mailto:privacy@sourcefabric.org) (or write to Sourcefabric, z.ú., Salvátorská 10, 110 00 Prague 1, Czech Republic) and we’ll deal with your request within seven days.
 
-Unless otherwise specified, all Sourcefabric policies (such as Terms of Service and this Privacy and Data Policy, Security policy) are shared between Sourcefabric z.ú. and Sourcefabric GmbH. This document will refer to Sourcefabric z.ú. and Sourcefabric GmbH collectively as ‘Sourcefabric’ when describing practices that apply to both. We will refer to each individually when describing practices that only apply only to one.
+Unless otherwise specified, all Sourcefabric policies (such as Terms of Service and this Privacy and Data Policy, Security policy) are shared between Sourcefabric z.ú. and Sourcefabric GmbH. This document will refer to Sourcefabric z.ú., Sourcefabric Ventures s.r.o and Sourcefabric GmbH collectively as ‘Sourcefabric’ when describing practices that apply to both. We will refer to each individually when describing practices that only apply only to one.
 
 By using Sourcefabric websites and services offered by Sourcefabric, in particular Sourcefabric´s applications, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the website or our services.
 
