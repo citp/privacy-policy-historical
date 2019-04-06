@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiacustomercare.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224193947id_/http%3A//www.indiacustomercare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacustomercare.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406170029id_/https%3A//m.indiacustomercare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India Customer Care
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.indiacustomercare.com/contact). 
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://m.indiacustomercare.com/contact). 
 
 At [www.indiacustomercare.com](http://www.indiacustomercare.com/ "www.indiacustomercare.com"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.indiacustomercare.com](http://www.indiacustomercare.com/ "www.indiacustomercare.com") and how it is used. 
 
