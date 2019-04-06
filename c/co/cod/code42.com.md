@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the code42.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223172015id_/https%3A//www.code42.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the code42.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406044859id_/https%3A//www.code42.com/privacy-statement) for the most accurate reproduction.*
 
 # Code42 Privacy Statement | Code42
 
