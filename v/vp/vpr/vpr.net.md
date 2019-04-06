@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpr.net privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203161934id_/http%3A//digital.vpr.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpr.net privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406071631id_/https%3A//www.vpr.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Vermont Public Radio
 
@@ -57,13 +57,13 @@ As noted above, VPR engages with some outside companies to help us develop, oper
 In response to a subpoena, court order, or legal process, VPR will share only what is reasonable and necessary to comply with the legal request.
 
 **European Residents**  
-Your privacy rights are different if you reside in the European Union. If you would like a copy of your personal data, to update your data, lodge a complaint or to rescind your permissions, please [contact us](http://www.vpr.net/inside_vpr/contact_us/?subject=EU%20Resident%20Privacy%20Request).
+Your privacy rights are different if you reside in the European Union. If you would like a copy of your personal data, to update your data, lodge a complaint or to rescind your permissions, please [contact us](https://web.archive.org/contact).
 
 **Changes to Privacy Policy**  
 VPR may update and change these policies occasionally. Any changes to policy will be reflected on this page. Your continued use of the VPR.net platform is considered consent to these policies.
 
 **Contact Us**  
-For concerns or other questions, please [contact us](http://www.vpr.net/inside_vpr/contact_us/?subject=Privacy%20Policy).
+For concerns or other questions, please [contact us](https://web.archive.org/contact).
 
 Jonathan Butler  
 Director of Digital Strategies  
