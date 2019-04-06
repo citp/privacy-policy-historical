@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029084042id_/https%3A//www.cim.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406062023id_/https%3A//www.cim.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CIM
 
@@ -33,9 +33,16 @@ CIM does not store credit/debit card details, except for the purposes of process
 
 CIM may share your details with third parties for the purposes of conducting research on our behalf, including membership surveys, only when you have consented to your data being processed in this way. You may change your preferences at any time via our website.
 
-### Qualification assessment details
+### Qualifications
 
-Studying members’ examination grades will be shared with their CIM Accredited Study Centre (the educational institution which delivered the CIM qualification) and with the Department for Education. This data may also be shared with our Regulators: OfQual, CEA, Qualification Wales in the event of any investigations.
+  * **Assessment details** **:** Studying members’ examination grades will be shared with their CIM Accredited Study Centre (the educational institution which delivered the CIM qualification) and with the Department for Education. This data may also be shared with our Regulators: OfQual, CEA, Qualification Wales in the event of any investigations.
+  * **Exam venues:** If you are sitting your exam with an independent or bespoke exam venue, it may be necessary to share your name, contact email and telephone number with the venue. This will only be provided for the purpose of the centre contacting you regarding your attendance and if necessary collection of additional pre-agreed fees. The data is deleted/destroyed once the exam has been completed.
+
+
+
+### Job site
+
+When you complete your profile within the CIM job site, the information you provide becomes available to recruiters registered with the site. If you have uploaded your CV, our customers who ask for CVs matching your registered details will receive your CV and profile. These may be direct recruiters, employment consultants or other organisations. This site is administered on CIM’s behalf by LID Business Media, who also have access to your data solely for the purposes of delivering this service.
 
 ### Verification requests
 
