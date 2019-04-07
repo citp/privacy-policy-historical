@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heinnie.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009230544id_/http%3A//www.heinnie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heinnie.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407173425id_/https%3A//www.heinnie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Heinnie Haynes
 
@@ -35,12 +35,28 @@ The Heinnie Haynes web site Privacy Policy is a live document and will evolve an
 If you have any questions regarding the Privacy Policy of Heinnie Haynes or any information that Heinnie Haynes holds on you then you may contact us at:
 
 **Address: Heinnie Haynes**  
- **Unit 4-6 Windmill Industrial Estate**  
- **Wimborne Road**  
- **Barry**  
- **CF63 3DH**  
+ **Unit C Atlantic Gate,**  
+ **Atlantic Trading Estate**  
+ **BARRY**  
+ **CF63 3RF**  
  **United Kingdom**
 
 **Phone: 033 0300 0400**  
  **International: +44 1446 722500**  
  **Fax: 033 0300 0401**
+
+### What is this?
+
+*Please note this service is in the Beta stage so you may receive messages that are unrelated to your chosen categories.
+
+Get the latest news and products updates with Heinnie’s Push Notification service!
+
+This service is a handy tool that keeps you up-to-date with all the latest news and offers that Heinnie has to offer! You’ll receive instant notifications about Heinnie news, such as:
+
+Brand new items to Heinnie Haynes  
+Item re-stock  
+Special offers   
+Clearance  
+And more!
+
+Once subscribed, you can pick and choose what categories you receive notifications for, making it personal to you. You can even turn the notifications on and off, at the flick of a switch.
