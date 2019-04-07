@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoption.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227002156id_/https%3A//adoption.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoption.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408000926id_/https%3A//adoption.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Adoption.com
 
