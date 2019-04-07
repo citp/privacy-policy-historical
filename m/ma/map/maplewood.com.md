@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maplewood.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205211521id_/http%3A//maplewood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplewood.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407102803id_/http%3A//maplewood.com/privacy.html) for the most accurate reproduction.*
 
 # Maplewood Computing Privacy Statement
 
