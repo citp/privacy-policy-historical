@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cooksmarts.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929002455id_/https%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksmarts.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407030932id_/https%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cook Smarts
 
 **Cook Smarts, LLC Privacy Policy**
 
- **Last modified May 24, 2018**
+**Last modified May 24, 2018**
 
 Your privacy and security are incredibly important to us. We want you to feel comfortable using Cook Smarts, LLC’s website and services, so below is a description of how we collect, use, and protect your personal information.
 
