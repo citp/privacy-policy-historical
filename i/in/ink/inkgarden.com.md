@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkgarden.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207060557id_/http%3A//www.inkgarden.com/Content.aspx%3FPage%3DPrivacy%2BPolicy%26PK%3Db53baa0c-0d18-475c-badd-01a19bc5eaeb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkgarden.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408012524id_/http%3A//www.inkgarden.com/Content.aspx%3FPage%3DPrivacy%2BPolicy%26PK%3Db53baa0c-0d18-475c-badd-01a19bc5eaeb) for the most accurate reproduction.*
 
 # Stylish Designs You Customize - InkGarden.com Privacy Policy
 
