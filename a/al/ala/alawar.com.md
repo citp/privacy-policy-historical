@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904013908id_/https%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407091445id_/https%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Alawar Online Privacy Policy
 
 ## A. INTRODUCTION
 
-This privacy statement was last updated on 24th of May 2018. Alawar Entertainment, Inc., a Virginia corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for the internet websites alawar.com, alawarhry.cz, alawar.pl, alawar.es, alawar.fr, alawar.nl, alawar.com.br, alawar.com.pt, atarata.com, atarata.pl, atarata.cz, atarata.com/de, atarata.com/tr, atarata.ru, gamextazy.com and others (collectively, "Website"). While some of Alawar's Websites are deemed to be a U.S. websites, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the processing, collection, use, and retention of data from the European Union. Alawar will be the data controller within the meaning specified in The General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). Upon reading this privacy statement, you will know: 
+This privacy statement was last updated on October 22, 2018. Alawar Entertainment, Inc., a Delaware corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for the internet websites alawar.com, alawarhry.cz, alawar.pl, alawar.es, alawar.fr, alawar.nl, alawar.com.br, alawar.com.pt, atarata.com, atarata.pl, atarata.cz, atarata.com/de, atarata.com/tr, atarata.ru, gamextazy.com and others (collectively, "Website"). While some of Alawar's Websites are deemed to be a U.S. websites, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the processing, collection, use, and retention of data from the European Union. Alawar will be the data controller within the meaning specified in The General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679). Upon reading this privacy statement, you will know:
 
   1. The organization collecting the information.
   2. What Personal information of yours or third party Personal information is collected from you through the Website.
@@ -17,11 +17,11 @@ This privacy statement was last updated on 24th of May 2018. Alawar Entertainmen
 
 
 
-Questions regarding this statement should be directed to the Alawar Data Protection Officer by emailing [privacy@alawar.com](mailto:privacy@alawar.com) or writing at the following address: 
+Questions regarding this statement should be directed to the Alawar Data Protection Officer by emailing [privacy@alawar.com](mailto:privacy@alawar.com)or writing at the following address:
 
-Alawar Entertainment, Inc.   
-Data Protection Officer   
-901 N. Pitt Street Suite 325 Alexandria, VA 22314 
+Alawar Entertainment, Inc.  
+244 Fifth Avenue, Suite F164  
+New York, N.Y. 10001
 
 To return to the Alawar home page, please use the "Back" button on your browser.
 
@@ -95,10 +95,10 @@ You may set your browser to block cookies (consult the instructions for your par
 
 **We use the following Google Analytics cookies:**
 
-_ga (also known as _rollupGa). The cookie is used to collect information and report website usage statistics. It expires after 2 years.   
-_gid (also known as _rollupGa_gid). The cookie is used to distinguish users. It expires after 24 hours.   
-_gat. The cookie is used to throttle request rate. It expires after 1 minute.   
-_gac_. This cookie contains campaign related information for the user. AdWords website conversion tags will read this cookie in an anonymous form. It expires after 90 days. 
+_ga (also known as _rollupGa). The cookie is used to collect information and report website usage statistics. It expires after 2 years.  
+_gid (also known as _rollupGa_gid). The cookie is used to distinguish users. It expires after 24 hours.  
+_gat. The cookie is used to throttle request rate. It expires after 1 minute.  
+_gac_. This cookie contains campaign related information for the user. AdWords website conversion tags will read this cookie in an anonymous form. It expires after 90 days.
 
 **We use the following Doubleclick cookies:**
 
@@ -108,9 +108,9 @@ You can prevent Google’s collection and use of data (cookies and IP address) b
 
 **We use the following Yandex.Metrica cookies:**
 
-_ym_isad. This cookie helps to check if AdBlock is enabled in user browser. It expires after 24 hours.   
-_ym_uid. This cookie is used to collect information and report website usage statistics. We use these cookies to improve user experience. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. It expires after 2 years.   
-_ym_visorc. This cookie enables session replays. This cookie is used for Webvisor feature in Yandex.Metrica reports, which enables "Sessions replays" (<https://yandex.com/support/metrica/general/counter-webvisor.html>). Yandex ensures that all collected information is depersonalised. The cookie expires after less than 1 day. 
+_ym_isad. This cookie helps to check if AdBlock is enabled in user browser. It expires after 24 hours.  
+_ym_uid. This cookie is used to collect information and report website usage statistics. We use these cookies to improve user experience. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. It expires after 2 years.  
+_ym_visorc. This cookie enables session replays. This cookie is used for Webvisor feature in Yandex.Metrica reports, which enables "Sessions replays" (<https://yandex.com/support/metrica/general/counter-webvisor.html>). Yandex ensures that all collected information is depersonalised. The cookie expires after less than 1 day.
 
 We also use some additional Yandex.Metrica cookies with the following expiry terms: sync_cookie_csrf expires after 1 day, i expires after 10 years, yandexuid expires after 10 years, yp expires after 10 years, sync_cookie_ok expires after 2 days.
 
@@ -200,7 +200,7 @@ You have the right to obtain deletion by Alawar of Personal information concerni
 
 Alawar is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters that will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications are rare.
 
-You may access and correct your Personal information and privacy preferences, opt out of receiving emails, newsletters, the sharing or retention of any Personal information, by writing at [privacy@alawar.com](mailto:privacy@alawar.com) or regular mail at Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314.
+You may access and correct your Personal information and privacy preferences, opt out of receiving emails, newsletters, the sharing or retention of any Personal information, by writing at [privacy@alawar.com](mailto:privacy@alawar.com) or regular mail at Alawar Entertainment, Inc. 244 Fifth Avenue, Suite F164 New York, N.Y. 10001.
 
 To ensure that your request is honored, you must provide Alawar with information sufficient for us to accurately identify and access your records. The information we require is your full name, date of birth and the email address you provided to Alawar when you requested services or products. Alawar reserves the right to contact you to verify that we have accurately identified your record.
 
@@ -210,7 +210,7 @@ You also have the right to lodge a complaint at a supervisory authority.
 
 ## D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS
 
-Alawar takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your Personal information or you have other related inquiries or concerns, you may write or contact Alawar at [privacy@alawar.com](mailto:privacy@alawar.com) or Alawar Entertainment, Inc 901 N. Pitt Street Suite 325 Alexandria, VA 22314.
+Alawar takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your Personal information or you have other related inquiries or concerns, you may write or contact Alawar at [privacy@alawar.com](mailto:privacy@alawar.com) or Alawar Entertainment, Inc. 244 Fifth Avenue, Suite F164 New York, N.Y. 10001.
 
 In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Alawar Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
 
