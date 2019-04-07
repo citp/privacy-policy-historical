@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cartoonhd.online privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209130623id_/http%3A//cartoonhd.online/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonhd.online privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407084458id_/https%3A//cartoonhd.nl/pages/privacy) for the most accurate reproduction.*
 
-# Cartoon HD - Watch Movies Online Free
+# Cartoon HD - Watch Movies Online Free | Watch TV Series
 
 ### Cartoon HD Privacy Policy
 
-###### This Privacy Policy applies to information we collect about you at www.cartoonhd.watch (the "Website") and Cartoon HD applications and how we use this information.
+###### This Privacy Policy applies to information we collect about you at cartoonhd.nl (the "Website") and Cartoon HD applications and how we use this information.
 
 ###### **Collection of your Cartoon HD Information**
 
 ###### Your "Cartoon HD information" includes relevant technical information gathered or received while you use Cartoon HD. This technical information that may be collected or received includes: the type of browser you are using (e.g., Google Chrome, Internet Explorer, Safari), the type of operating system you are using (e.g., Windows or Mac OS), your CPU type, the manner in which you connect to the internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; pertinent Applications Installed; information about the version of service from an affiliate that you used prior to registering with the service; certain information about your geographic location; and the domain name of your Internet service provider.
 
-###### You may not be required to register for a "Cartoon HD account" for certain Services; however, there are some optional services available (for example, saving a video list) that require an "account". Registration functionality for Cartoon HD is provided by the Cartoon HD Network. If you choose to "Register an Account", you will need to register with and provide information to Cartoon HD. After registering you will obtain a Screen Name, or possibly other credential, issued by Cartoon HD (collectively, "Screen Name") in order to access and use these optional services. Your Screen Name and associated services account will then be subject to the Cartoon HD Terms of Service Agreement and Privacy Policies indicated in the registration process and available to view at any time on www.cartoonhd.watch.
+###### You may not be required to register for a "Cartoon HD account" for certain Services; however, there are some optional services available (for example, saving a video list) that require an "account". Registration functionality for Cartoon HD is provided by the Cartoon HD Network. If you choose to "Register an Account", you will need to register with and provide information to Cartoon HD. After registering you will obtain a Screen Name, or possibly other credential, issued by Cartoon HD (collectively, "Screen Name") in order to access and use these optional services. Your Screen Name and associated services account will then be subject to the Cartoon HD Terms of Service Agreement and Privacy Policies indicated in the registration process and available to view at any time on cartoonhd.nll.
 
 ###### **How Your Cartoon HD information is Used**
 
@@ -41,7 +41,7 @@
 
 ###### Cartoon HD and its advertisers may use advertising network providers to help present advertisements on Cartoon HD. These advertising networks may use cookies, web beacons, or similar technologies on your computer in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. The use of cookies, web beacons, or similar technologies by ad network providers is subject to their own privacy policies. Any choices that you have about these technologies will be presented here in the event we utilize the services of any advertising network provider. Therefore, you are encouraged to return to this section periodically for updated information about advertising networks.
 
-###### Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.tv/privacy/ads/). (Alternatively you can opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
+###### Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](https://www.google.tv/privacy/ads/). (Alternatively you can opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](https://www.networkadvertising.org/managing/opt_out.asp).) 
 
 ###### We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit http://networkadvertising.org/. 
 
@@ -57,7 +57,7 @@
 
 ###### **How to Contact Us**
 
-###### If you have any questions or concerns about Cartoon HD's Privacy Policy or its implementation, you may contact us at info@cartoonhd.mobi.
+###### If you have any questions or concerns about Cartoon HD's Privacy Policy or its implementation, you may contact us at support@cartoonhd.cc
 
 ###### **Changes to this Privacy Policy and Additional Information**
 
