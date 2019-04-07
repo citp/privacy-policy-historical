@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdata.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903175246id_/https%3A//www.sonicbids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdata.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407171304id_/https%3A//www.sonicbids.com/privacy) for the most accurate reproduction.*
 
 # Sonicbids
 
@@ -84,7 +84,7 @@ Please feel free to send an email to [needhelp@sonicbids.com](mailto:needhelp@so
 
 Sonicbids retails personally identifiable information for the maximum period allowable by law, where there is a reasonable business need to retain such data. You may contact us at [needhelp@sonicbids.com](mailto:needhelp@sonicbids.com) if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).
 
-### 6\. Additional Rights, Ruels, And Provisions For European Economic Area Users
+### 6\. Additional Rights, Rules, And Provisions For European Economic Area Users
 
 If you are the resident of a country in the EEA, you may have additional privacy rights available to you under applicable laws. We will process your requests in accordance with applicable data protection laws.
 
