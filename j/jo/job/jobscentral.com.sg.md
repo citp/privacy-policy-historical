@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscentral.com.sg privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914042639id_/https%3A//jobscentral.com.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscentral.com.sg privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407044712id_/https%3A//jobscentral.com.sg/privacy) for the most accurate reproduction.*
 
 # JobsCentral Singapore
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-CareerBuilder, LLC and its subsidiaries (including CareerBuilder (Singapore) Pte Ltd) and divisions (collectively, "CareerBuilder", "We" or "Our") has drafted its Privacy Policy to ensure that you can clearly understand our data and security practices and policies as you use websites and Apps owned by CareerBuilder (collectively, the "Sites"). This Privacy Policy describes the types of Personal Information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of your Personal Information. The phrase "Personal Information" refers to information that personally identifies you, such as your name, address, telephone number, email address, credit card number or other billing information. We also describe the measures we take to protect the security of your Personal Information and how you can contact us about our privacy practices. This Privacy Policy incorporates by reference the [Terms and Conditions](https://web.archive.org/privacy/terms) for the Sites, which apply to this Privacy Policy. To the extent permitted by applicable law, when you visit the Sites or provide us with information, you consent to our use and disclosure of the information we collect or receive as described in this Privacy Policy. 
+CareerBuilder, LLC and its subsidiaries (including CareerBuilder (Singapore) Pte Ltd) and divisions (collectively, "CareerBuilder", "We" or "Our") has drafted its Privacy Policy to ensure that you can clearly understand our data and security practices and policies as you use websites and Apps owned by CareerBuilder (collectively, the "Sites"). This Privacy Policy describes the types of Personal Information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of your Personal Information. The phrase "Personal Information" refers to information that personally identifies you, such as your name, address, telephone number, email address, credit card number or other billing information. We also describe the measures we take to protect the security of your Personal Information and how you can contact us about our privacy practices. This Privacy Policy incorporates by reference the [Terms and Conditions](https://web.archive.org/terms) for the Sites, which apply to this Privacy Policy. To the extent permitted by applicable law, when you visit the Sites or provide us with information, you consent to our use and disclosure of the information we collect or receive as described in this Privacy Policy. 
 
 Please review this Privacy Policy periodically as we may update it from time to time without prior notice to reflect changes in our data practices. We will post a prominent notice on our Sites to notify you of any significant changes to our Privacy Policy and indicate at the bottom of the notice when it was most recently updated. If we make material changes to the policy that will affect previously collected Personal Information, you will be notified and asked to consent to the updated Privacy Policy. Notwithstanding any of the foregoing, you will be notified and asked to affirmatively consent to any updated Privacy Policy if required by applicable law. 
 
@@ -66,7 +66,7 @@ In addition, when you visit our Sites or use our mobile applications, we may col
 
 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[ _(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## How We Use the Information We Collect
 
@@ -85,7 +85,7 @@ We may use the information we obtain about you to:
   * Analyze and enhance our marketing communications and strategies (including by identifying when emails we have sent to you have been received and read).
   * Analyze trends and statistics regarding visitors' use of our Sites, mobile applications and social media assets, and the jobs viewed or applied to on our Sites.
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users.
-  * Enforce our Sites' [Terms and Conditions](https://web.archive.org/privacy/terms). 
+  * Enforce our Sites' [Terms and Conditions](https://web.archive.org/terms). 
   * Comply with applicable legal requirements and industry standards and our policies.
 
 
@@ -94,7 +94,7 @@ We also use non-personally identifiable information and certain technical inform
 
 If we seek to use the information we obtain about you in other ways, we will provide specific notice and request your consent at the time of collection. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## Information We Share
 
@@ -116,7 +116,7 @@ CareerBuilder also may disclose specific user information when we determine, in 
 
 In addition, Personal Information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy or other corporate reorganization of CareerBuilder. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## CV Privacy Options
 
@@ -139,7 +139,7 @@ We attempt to limit access to our searchable CV database to legitimate users suc
 
 With respect to posting a CV or other information on the Sites, if you, your data, or the Sites you are using are subject to Directive 95/46/EC of the European Parliament and of the European Council, the local laws adopted by member states of the European Union pursuant thereto or other law that prohibits or limits the collection or processing of "sensitive" data or information such as age or gender as it relates to employment opportunities, you agree to refrain from providing such information to us and you accept that CareerBuilder will not be in any way liable for unlawful collection or processing of such information. Furthermore, you agree to hold CareerBuilder harmless and indemnify CareerBuilder for any damage arising from the collection or processing of such information. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## About Cookies, Tracking Choices, and Third Party Advertisers
 
@@ -153,25 +153,25 @@ We use third-party advertising companies who may place or access cookies on your
 
 These companies operate under their own privacy policies and CareerBuilder encourages you to be aware of the privacy policies of such companies. CareerBuilder does not have control over or access to any information contained in the cookies that are set on your computer by third party advertisers. 
 
-Our Site does not respond to web browser do-not-track signals. However, to help prevent and limit the automatic collection of information by any participating third party advertisers, including the collection of personally identifiable information about an individual's online activities over time and across third-party Web sites or online services, you may opt-out of such collection by clicking the Ad Choices icon located within the ad, by accessing the ["about ads" opt-out site](http://www.aboutads.info/choices/), or by accessing the [NAI opt-out site](http://www.networkadvertising.org/managing/opt_out.asp). Please note that this opt-out is cookie-based. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again. To obtain instructions regarding deleting or disabling cookies from third party advertising companies that are not members of the About Ads or NAI self-regulatory behavioral ad opt-out groups, please [click here](http://www.careerbuilder.com/Jobseeker/Page.aspx?pagever=remove-cookies). 
+Our Site does not respond to web browser do-not-track signals. However, to help prevent and limit the automatic collection of information by any participating third party advertisers, including the collection of personally identifiable information about an individual's online activities over time and across third-party Web sites or online services, you may opt-out of such collection by clicking the Ad Choices icon located within the ad, by accessing the ["about ads" opt-out site](http://www.aboutads.info/choices/), or by accessing the [NAI opt-out site](http://www.networkadvertising.org/managing/opt_out.asp). Please note that this opt-out is cookie-based. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again. To obtain instructions regarding deleting or disabling cookies from third party advertising companies that are not members of the About Ads or NAI self-regulatory behavioral ad opt-out groups, please [click here](https://www.careerbuilder.com/Jobseeker/Page.aspx?pagever=remove-cookies). 
 
-In addition, some of the employers that use our Sites may place cookies on your computer through their job postings and may use such cookies to distinguish your web browser uniquely. Often, employers use such information to track the effectiveness of their job postings by measuring how many users who view their postings later became job applicants. To obtain guidance regarding deleting or disabling cookies, please [click here](http://www.careerbuilder.com/Jobseeker/Page.aspx?pagever=remove-cookies). 
+In addition, some of the employers that use our Sites may place cookies on your computer through their job postings and may use such cookies to distinguish your web browser uniquely. Often, employers use such information to track the effectiveness of their job postings by measuring how many users who view their postings later became job applicants. To obtain guidance regarding deleting or disabling cookies, please [click here](https://www.careerbuilder.com/Jobseeker/Page.aspx?pagever=remove-cookies). 
 
 For additional information on third party cookies that may be used on the Sites, [click here](https://web.archive.org/privacy#15). 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## Access Your Information
 
 You may access Personal Information we maintain about you at any time by logging into your account. From there you may update and amend such information by making the necessary changes. You may also delete your account at any time by logging in to your account and making an account deletion request. Deleting your account will remove your Personal Information and CVs from our databases. However, if you have applied to a job in the past, that particular employer will still be able to access your application, including your CV and any other information you provided with such application. Further, you will not be able to delete data held by employers and other third parties that already have accessed and downloaded your information or CV. In addition, we will retain anonymous Aggregate Data for uses described above. Please allow up to thirty days to process your account deletion request. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## Links to Other Websites
 
 Our Sites may contain links to other sites for your convenience and information. These sites may be operated by companies not owned by CareerBuilder. In addition, if you are using our App through a social networking site, remember that our Apps may be served by or hosted by other sites. These other sites or linked third-party sites may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites not owned by CareerBuilder, any use of those sites, or those sites' privacy practices. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## International Data Transfers
 
@@ -183,7 +183,7 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, CareerBuilder 
 
 CareerBuilder has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by CareerBuilder, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## How We Protect Personal Information
 
@@ -193,7 +193,7 @@ Please note that no electronic transmission of information can be entirely secur
 
 To further protect yourself, you should safeguard your CareerBuilder account user name and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to our Sites. Please note that we will never ask for your CareerBuilder account user name or password via email. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## Some Important Tips To Use When Dealing With Prospective Employers
 
@@ -206,24 +206,24 @@ To further protect yourself, you should safeguard your CareerBuilder account use
 
 
 
-For additional details regarding How To Spot Fraud Online, please [click here](http://www.careerbuilder.com/JobSeeker/Info/privacy.aspx?version=fraud). We use secure socket layer (or "SSL") technology to protect credit card transactions. The SSL technology encrypts credit card numbers while in transit so that they are not intercepted by unintended third parties. We use BluePay Processing LLC to process credit card purchases and their privacy policy may be viewed [here](http://www.bluepay.com/privacy-policy). 
+For additional details regarding How To Spot Fraud Online, please [click here](https://www.careerbuilder.com/JobSeeker/Info/privacy.aspx?version=fraud). We use secure socket layer (or "SSL") technology to protect credit card transactions. The SSL technology encrypts credit card numbers while in transit so that they are not intercepted by unintended third parties. We use BluePay Processing LLC to process credit card purchases and their privacy policy may be viewed [here](http://www.bluepay.com/privacy-policy). 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## California, USA Residents
 
 California law permits its residents to request and receive information about a business' disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of any of the Sites, you can request a copy of this information from CareerBuilder by sending an email to [customer.service@careerbuilder.com](mailto:customer.service@careerbuilder.com) or a letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## Children's Privacy
 
 We do not knowingly collect or solicit information from anyone under the age of 13. If you are under 13, please do not use the Sites. In the event that we learn that we have collected personal information from a child under the age of 13, we will delete that information as quickly as possible. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
 
 ## How to Contact Us
 
 You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at [customer.service@careerbuilder.com](mailto:customer.service@careerbuilder.com) or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests. 
 
-[ _(Return to Top)_ ](https://web.archive.org/privacy#1)
+[_(Return to Top)_](https://web.archive.org/privacy#1)
