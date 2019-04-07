@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastmin-flights.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705030328id_/https%3A//lastmin-flights.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastmin-flights.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407161138id_/https%3A//lastmin-flights.com/privacy.php) for the most accurate reproduction.*
 
 # lastmin-flights.com - Privacy Policy
 
@@ -20,13 +20,13 @@ Most information that we collect from you is linked to non-personal identifiers 
 
 If you choose to register to our newsletter, we will also collect information from you that do enable you to be identified as an individual in the offline world, such as your name or email address ("Personal Information"). Whether or not you provide us with this kind information is always entirely under your control. In order to minimize the impact on your privacy, we will never knowingly collect more Personal Data than is strictly necessary to perform the activities described in this policy. 
 
-### How and when we collect this information?
+###  How and when we collect this information?
 
 We collect information that you voluntarily provide to us during your use of the Services. This can range from Non-Personal Information, such as the dates and desired destination you ask us to run a search against, to the Personal Information you are required to submit where you wish to register to our newsletter. 
 
 In addition to information that you voluntarily provide to us, we also collect certain Non-Personal Information directly from you as you use the Services, as well as indirectly where it is provided to us automatically by the third party application, social networking site (such as Facebook or Twitter) or other website (such as a promotion partner) that you connect to the Services from. 
 
-### How do we use this information?
+###  How do we use this information?
 
 ####  To deliver the Services 
 
@@ -48,13 +48,13 @@ We or our third party service providers may set analytics cookies. These allow u
 
 We use your Personal Information to contact you with email newsletters you have requested. We may also respond to communications you have sent us. 
 
-### Do any third parties collect information about me when I use the Services?
+###  Do any third parties collect information about me when I use the Services?
 
 Yes, when you make a booking with a third party travel provider to which you are referred to from our website. Note that any information you submit as part of the booking process may be collected by that third party in order to process the booking. Your information will be used by those third parties in accordance with their own terms and conditions and privacy policy, a link to which will be provided to you during the booking process. 
 
 In addition, third party advertisement services may collect Non-Personal Information from you as you use the Services via cookies and other similar technologies. This information enables you to be served with relevant advertisements, both on the Services and on third party websites and applications around the web. Further information about the use of such technologies, and how to stop them, is set out in the "How do we use cookies and other tracking technologies?" section below. 
 
-### How we share your Information?
+###  How we share your Information?
 
 As a search engine, this website only brokers the deals of the relevant travel provider websites. Accordingly, a booking is made on the pages of such travel provider booking website. In each case you enter into a contract with the relevant travel provider's website, data will be collected there directly by the third party. Please be aware that we are not responsible for the privacy practices of such third party websites. When you leave or otherwise cease using the Services, or transfer your information from the Services to a third party platform, we encourage you to read the applicable privacy policies of each and every third party platform that you allow collecting information from you. 
 
@@ -64,11 +64,11 @@ We may disclose information if required by law, for example to law enforcement o
 
 We may also share anonymous aggregated usage information with others.
 
-### How do we store your Information?
+###  How do we store your Information?
 
 Our servers and data centers are located in USA, and our travel providers may be located there and in other countries. By providing us information, you agree that your information may be transferred to and stored in these countries. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement in those countries according to laws in those countries. Subject to the applicable laws in such other countries, we will provide the necessary safeguards to maintain protections of your personal information, e.g. by obtaining from the data recipients contractual commitments based on the EU model clauses. 
 
-### How do we keep your Information safe and secure?
+###  How do we keep your Information safe and secure?
 
 We make the confidentiality and security of your Personal Information our highest priority and we limit access to it to our employees who need to come into contact with it in order to fulfill their role and enable the Services to be provided to you. 
 
@@ -76,15 +76,15 @@ Although we do our best to protect your Personal Information, the transmission o
 
 * * *
 
-## Cookies
+##  Cookies
 
-### Do we use Cookies? 
+###  Do we use Cookies? 
 
-A cookie is a small file, typically of letters and numbers, downloaded on to a device when the user accesses certain websites. Cookies are then sent back to originating website on each subsequent visit. Cookies are useful because they allow a website to recognize a user"s web browser or device. 
+A cookie is a small file, typically of letters and numbers, downloaded on to a device when the user accesses certain websites. Cookies are then sent back to originating website on each subsequent visit. Cookies are useful because they allow a website to recognize a user's web browser or device. 
 
 We use a combination of cookies and similar tracking technologies to collect, in line with this policy, Non-Personal Information from you relating to how you are using the Services. The primary purpose for our use of cookies is to ensure the optimal delivery of our services. In addition, we use third party cookies for statistics and to analyze user behavior. 
 
-### How do we use cookies and other tracking technologies?
+###  How do we use cookies and other tracking technologies?
 
 Cookies on our website may be set by us, by third parties under contract with us, or by independent third parties such as advertisers. 
 
@@ -105,7 +105,7 @@ Analytics Cookies (third party cookies) |  We also use cookies to monitor and un
   
 
 
-### How can I withdraw my consent to the use of cookies?
+###  How can I withdraw my consent to the use of cookies?
 
 **Withdrawing consent using your browser or device settings**
 
@@ -119,12 +119,12 @@ Please note these opt-out mechanisms might use a cookie on your device, and if y
 
 Below you can find out how to stop your information being used by each one of the third party providers we've partnered with for these purposes on a case-by-case basis: 
 
-Third Party Provider | Opt-out details  
+Third Party Provider |  Opt-out details  
 ---|---  
-Intent | You can set an Intent Media opt-out cookier at <https://intentmedia.com/opt-out/>  
-Media Alpha | You can follow the instructions for app and web/mobile web on this page: <https://www.facebook.com/help/568137493302217>  
-Smarter Travel (Booking Buddy) | For more information: <https://www.bookingbuddy.com/en-US/legal/>  
-Adara | For more information: <http://go.adara.com/e/414092/privacy-promise/n7ygt2/548309909>  
+Intent |  You can set an Intent Media opt-out cookier at <https://intentmedia.com/opt-out/>  
+Media Alpha |  You can follow the instructions for app and web/mobile web on this page: <https://www.facebook.com/help/568137493302217>  
+Smarter Travel (Booking Buddy) |  For more information: <https://www.bookingbuddy.com/en-US/legal/>  
+Adara |  For more information: <http://go.adara.com/e/414092/privacy-promise/n7ygt2/548309909>  
 SkyScanner |  For more information:   
 Privacy Policy: [https://www.skyscanner.co.il/media/privacypolicy](https://intentmedia.com/opt-out/)   
 Cookie Policy: [https://www.skyscanner.co.il/media/cookie-policy](https://intentmedia.com/opt-out/)  
@@ -132,7 +132,7 @@ Booking.com |  For more information:
 Privacy Policy: <https://www.booking.com/content/privacy.html>   
 Cookie Statement: <https://www.booking.com/content/privacy.html#cookie-statement>  
 Rentalcars |  You can opt-out here: <https://www.rentalcars.com/CookiePortal.do>  
-Google Adsense |  You can install a browser plugin to maintain your preference to opt out of personalized ads from Google, even if you've cleared your cookies. [Learn how](https://support.google.com/ads/answer/7395996?hl=en)  
+Google Adsense |  You can install a browser plugin to maintain your preference to opt out of personalized ads from Google, even if you've cleared your cookies. [ Learn how](https://support.google.com/ads/answer/7395996?hl=en)  
 Dunhill Travel Deals |  For more information: <https://www.dunhilltraveldeals.com/info/privacy.php>  
 Trvaelzoo |  For more information: <https://www.travelzoo.com/privacy/>  
   
@@ -140,27 +140,27 @@ Trvaelzoo |  For more information: <https://www.travelzoo.com/privacy/>
 
 Below you can find out how to stop your information being used by each one of the third party providers we've partnered with for these purposes on a case-by-case basis: 
 
-Third Party Provider | Opt-out details  
+Third Party Provider |  Opt-out details  
 ---|---  
-Facebook | You can follow the instructions for app and web/mobile web on this page: <https://www.facebook.com/help/568137493302217>  
-Google | You can opt-out on: <https://adssettings.google.com/>  
-Bing | You can opt-out on: <https://choice.microsoft.com/>  
-Yahoo | You can opt-out on: <https://aim.yahoo.com/aim/us/en/optout/>  
-Twitter | For more information: <https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads>  
+Facebook |  You can follow the instructions for app and web/mobile web on this page: <https://www.facebook.com/help/568137493302217>  
+Google |  You can opt-out on: <https://adssettings.google.com/>  
+Bing |  You can opt-out on: <https://choice.microsoft.com/>  
+Yahoo |  You can opt-out on: <https://aim.yahoo.com/aim/us/en/optout/>  
+Twitter |  For more information: <https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads>  
 Taboola |  For more information <https://www.taboola.com/cookie-policy>   
 You can opt-out on: [](https://www.taboola.com/cookie-policy#how-to-manage)  
 Outbrain |  For more information <https://www.outbrain.com/legal/privacy>  
-Yandex |  You can opt-out on:: <https://yandex.ru/tune/adv/>  
+Yandex |  You can opt-out on: <https://yandex.ru/tune/adv/>  
   
 
 
 * * *
 
-### Do we collect Personal Information from minors?
+###  Do we collect Personal Information from minors?
 
 We do not knowingly collect Personal information from minors. If we become aware that a minor is attempting to submit Personal Information, we will remove this information from our records. If you are the parent/legal guardian of a minor who has given us Personal Information, please contact us so we can delete it. 
 
-### How can I access or manage my Personal Information?
+###  How can I access or manage my Personal Information?
 
 You are entitled at any time to obtain information about all your Personal Information that we store, in accordance with applicable law and without any fee. However, in exceptional cases we ask you to pay reasonable fee before we provide the information if permitted by applicable law. Please note that Personal Information is only collected when a user chooses to register to our newsletter. 
 
