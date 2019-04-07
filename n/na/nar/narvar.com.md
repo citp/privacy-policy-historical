@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narvar.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625231308id_/https%3A//corp.narvar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narvar.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407043033id_/https%3A//corp.narvar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Narvar
 
@@ -23,29 +23,13 @@
 #### **1.1** _Personal Data Provided Through The Site or Services._ We collect Personal Data from you when you create an account, use or order products or services, request information (including a demo), ask to download content (such as a white paper or an e-book), communicate with customer service, or subscribe to emailing lists. The types of Personal Data that we collect vary based on your request, but generally include:
 
   * First and last name
-
-
   * Job title
-
-
   * Company name
-
-
   * Email address
-
-
   * Phone number
-
-
   * Mailing address
-
-
   * Narvar account password
-
-
   * Payment and billing information
-
-
   * Country location
 
 
@@ -91,14 +75,8 @@
 #### **3.1** _Service Providers._ We share your Personal Data with third parties who provide certain services to us to assist us in meeting business operation needs. These parties are authorized to process your Personal Data, on our behalf and pursuant to our instructions, only as necessary to provide these services to us. We share your Personal Data with our subsidiaries and the following service providers:
 
   * Providers who help us fulfill orders payment processing
-
-
   * Providers who help us fulfill customer subscriptions
-
-
   * Providers of website analytics services
-
-
   * Providers of cloud computing infrastructure
 
 
@@ -120,35 +98,15 @@
 #### **4.3** _Your Rights._ As a data controller, we are required to inform you of your rights under EU data protection law, including the European Union General Data Protection Regulation 2016/679 (“GDPR”). Subject to applicable law, you have the following rights in relation to your Personal Data:
 
   * **Right of access:** If you ask us, we will confirm whether we are processing your Personal Data and, if so, provide you with a copy of that Personal Data (along with certain other details). If you require additional copies, we may need to charge a reasonable fee.
-
-
   * **Right to rectification:** If your Personal Data is inaccurate or incomplete, you are entitled to have it rectified or completed. If we have shared your Personal Data with others, we will tell them about the rectification where possible. If you ask us, where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so that you can contact them directly.
-
-
   * **Right to erasure:** You may ask us to delete or remove your Personal Data and we will do so in some circumstances, such as where we no longer need it (we may not delete your data when other interests outweigh your right to deletion). If we have shared your data with others, we will tell them about the erasure where possible. If you ask us, where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so that you can contact them directly.
-
-
   * **Right to restrict processing:** You may ask us to restrict or ‘block’ the processing of your Personal Data in certain circumstances, such as where you contest the accuracy of that Personal Data or object to us processing it. We will tell you before we lift any restriction on processing. If we have shared your Personal Data with others, we will tell them about the restriction where possible. If you ask us, where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so that you can contact them directly.
-
-
   * **Right to data portability:** Effective 25 May 2018, you have the right to obtain your Personal Data from us that you consented to give us or that is necessary to perform a contract with you. We will give you your Personal Data in a structured, commonly used and machine-readable format. You may reuse it elsewhere.
-
-
   * **Right to object:** You may ask us at any time to stop processing your Personal Data, and we will do so:
-
-
-  * If we are relying on a legitimate interest to process your Personal Data — unless we demonstrate compelling legitimate grounds for the processing; or
-
-
-  * If we are processing your Personal Data for direct marketing.
-
-
+    * If we are relying on a legitimate interest to process your Personal Data — unless we demonstrate compelling legitimate grounds for the processing; or
+    * If we are processing your Personal Data for direct marketing.
   * **Right to withdraw consent:** If we rely on your consent to process your Personal Data, you have the right to withdraw that consent at any time. This will not affect the lawfulness of processing based on your prior consent.
-
-
   * **Right to lodge a complaint with the data protection authority:** If you have a concern about our privacy practices, including the way we have handled your Personal Data, you can report it to the data protection authority that is authorized to hear those concerns.
-
-
   * **Right to lodge a complaint with the data protection authority:** If you have a concern about our privacy practices, including the way we have handled your Personal Data, you can report it to the data protection authority that is authorized to hear those concerns.
 
 
@@ -178,8 +136,6 @@
 #### **5.6** _Recourse, Enforcement, Liability:_ In compliance with the Privacy Shield Principles, Narvar commits to resolve complaints about our processing of your Personal Data. Individuals with inquiries or complaints regarding this Private Shield Policy should first contact Narvar as follows:
 
   * **Email:** privacy@narvar.com
-
-
   * **Postal Mail:**  
 Narvar, Inc.  
 Attn: Narvar Legal  
