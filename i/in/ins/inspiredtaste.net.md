@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredtaste.net privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125194859id_/https%3A//www.inspiredtaste.net/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredtaste.net privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407225952id_/https%3A//www.inspiredtaste.net/privacy-and-terms) for the most accurate reproduction.*
 
 # Inspired Taste Privacy and Terms
 
