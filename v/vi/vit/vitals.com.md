@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitals.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223183526id_/https%3A//www.vitals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitals.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408013032id_/https%3A//www.vitals.com/about/privacy) for the most accurate reproduction.*
 
 # Find a Doctor, Doctor Reviews & Ratings | Vitals.com
 
