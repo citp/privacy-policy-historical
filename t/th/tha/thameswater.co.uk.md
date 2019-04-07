@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thameswater.co.uk privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912203634id_/https%3A//www.thameswater.co.uk/Legal/Privacy%3Futm_source%3DFooter%26utm_campaign%3DFooter%2520links%2520-%2520Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thameswater.co.uk privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407051221id_/https%3A//www.thameswater.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Legal | Thames Water
 
@@ -10,19 +10,19 @@ Property Searches
 
 Developer Services
 
+Social Community Forum
+
 * * *
 
-We may collect the following types of your personal data:
+We may collect the following types of personal data:
 
-  * your name, address, email address, telephone (landline) number, and mobile telephone number; 
+  * your name, address, email address, date of birth, telephone (landline) number, and mobile telephone number; 
   * information about your billing and payment history, and information we learn from the way you manage your account; 
   * information about your credit history with other credit providers which we obtain from credit reference agencies; 
-  * some of the information we collect about you may include special category data; If you have provided us with details of your health, we will use that information where you need to be treated as a Vulnerable or Priority Customer for water needs. 
+  * some of the information we collect about you may include special category data; if you have provided us with details of your health, we will use that information where you need to be treated as a Vulnerable or Priority Customer for water needs.
 
 
-
-If you volunteer other relevant information about your circumstances which affect your ability to pay your bills, we will take account of those details; and, 
-
+  * If you volunteer other relevant information about your circumstances which affect your ability to pay your bills, we will take account of those details;
   * Information about your use of our services, including information about your water usage which we collect from meters. 
 
 
@@ -44,7 +44,7 @@ Smart meters send us regular meter reads (hourly/daily/monthly), so we can:
 
 
 
-Find more information about how we use your data for the smart metering programme [here](https://web.archive.org/My-Account/Water-meters/More-information).
+Find more information about how we use your data for the smart metering programme [here](https://web.archive.org/my-account/water-meters/more-information).
 
 #### Customer Surveys
 
@@ -68,11 +68,11 @@ Customer data generated through these routes will only be used for the purpose o
 
 We collect and store the following information (which may include personal data) that you and/or your agent provide:
 
-  * Personal details you and/or your agent submit to us via this website: <https://www.thameswater-propertysearches.co.uk/> (the "Website"), such as name, address, and email address. This includes information provided at the time of registering with our site or when requesting services from us. 
-  * Details you and/or your agent submit which relate to the property on which searches are to be carried out, including the address, current registered proprietor, current use and future use. 
-  * Details of any contact you and/or your agent make to us, we may keep a record of that correspondence (including email). 
-  * Details of the transactions you and/or your agent carry out through the Website and of the fulfilment of your orders. 
-  * Details of your, and/or your agent, visits to the Website and the resources that you and/or your agent access. 
+  * personal details you and/or your agent submit to us via this website: <https://www.thameswater-propertysearches.co.uk/> (the "Website"), such as name, address, and email address. This includes information provided at the time of registering with our site or when requesting services from us. 
+  * details you and/or your agent submit which relate to the property on which searches are to be carried out, including the address, current registered proprietor, current use and future use. 
+  * details of any contact you and/or your agent make to us, we may keep a record of that correspondence (including email). 
+  * details of the transactions you and/or your agent carry out through the Website and of the fulfilment of your orders; and,
+  * details of your, and/or your agent, visits to the Website and the resources that you and/or your agent access. 
 
 
 
@@ -89,3 +89,13 @@ This could include contacting you to discuss your application and/or provide mor
 We won’t use this information for marketing purposes without contacting you to seek your consent.
 
 For more information about Developer Services please visit the website [here](https://developers.thameswater.co.uk/).
+
+#### Social Community Forum
+
+The objective of this project is to deliver a self-managed social community platform for end customers to help each other with standard queries, and share knowledge through discussion forums.
+
+End users need to register to this website to participate in any topics or threads in the forums. 
+
+As part of registration, we capture name, email address and display name.
+
+This isn’t a customer service channel so there will be no personal information posted in these forums. There will be moderators who will be monitoring the end user activity.
