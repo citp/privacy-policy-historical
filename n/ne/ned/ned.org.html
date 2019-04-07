@@ -1,0 +1,384 @@
+<!--The following is the downloaded HTML source of the ned.org privacy policy that was archived on 2019-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190407144908id_/https%3A//www.ned.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.ned.org/xmlrpc.php">
+<link rel="shortcut icon" href="https://www.ned.org/wp-content/themes/ned/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.ned.org/wp-content/themes/ned/favicon.ico" type="image/x-icon">
+<script src="//maps.google.com/maps/api/js?sensor=false"></script>
+<title>Privacy Policy – NATIONAL ENDOWMENT FOR DEMOCRACY</title>
+        <style type="text/css">
+        </style>
+        <link rel="dns-prefetch" href="//www.ned.org">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="NATIONAL ENDOWMENT FOR DEMOCRACY » Feed" href="https://www.ned.org/feed/">
+<link rel="alternate" type="application/rss+xml" title="NATIONAL ENDOWMENT FOR DEMOCRACY » Comments Feed" href="https://www.ned.org/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ned.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.ned.org/wp-includes/js/wp-emoji-release.min.js?ver=5.1.1" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://www.ned.org/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.ned.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="fts-feeds-css" href="https://www.ned.org/wp-content/plugins/feed-them-social/feeds/css/styles.css?ver=2.6.2" type="text/css" media="">
+<link rel="stylesheet" id="wpsm_infobox_bootstrap-front-css" href="https://www.ned.org/wp-content/plugins/info-box/assets/css/bootstrap-front.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="super-rss-reader-css-css" href="https://www.ned.org/wp-content/plugins/super-rss-reader--forked/public/srr-css.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="add-ons-plg-css" href="https://www.ned.org/wp-content/themes/ned/css/add-ons-plg.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome.min-css" href="https://www.ned.org/wp-content/themes/ned/css/font-awesome.min.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="ned-style-css" href="https://www.ned.org/wp-content/themes/ned/style.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="https://www.ned.org/wp-content/themes/ned/css/responsive.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css-css" href="https://www.ned.org/wp-content/themes/ned/fancybox/jquery.fancybox.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="Oswald-css" href="//fonts.googleapis.com/css?family=Oswald&amp;ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="rvm_jvectormap_css-css" href="https://www.ned.org/wp-content/plugins/responsive-vector-maps/css/jquery-jvectormap-2.0.3.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="rvm_frontend_css-css" href="https://www.ned.org/wp-content/plugins/responsive-vector-maps/css/rvm_frontend.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="msl-main-css" href="https://www.ned.org/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.5.3" type="text/css" media="all">
+<script type="text/javascript" src="https://www.ned.org/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ftsAjax = {"ajaxurl":"https:\/\/www.ned.org\/wp-admin\/admin-ajax.php"};
+var ftsAjax = {"ajaxurl":"https:\/\/www.ned.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/plugins/feed-them-social/admin/js/admin.js?ver=2.6.2"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/plugins/feed-them-social/feeds/js/fts-global.js?ver=2.6.2"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/plugins/responsive-vector-maps/js/regions-data/jquery-jvectormap-2.0.3.min.js?ver=2.0.3"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/plugins/super-rss-reader--forked/public/srr-js.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/themes/ned/js/jquery.bxslider.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/themes/ned/js/modernizr-2.5.3.min.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/themes/ned/fancybox/jquery.fancybox.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/themes/ned/js/jquery.lazyload.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/themes/ned/js/html5shiv.js?ver=5.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var data = {"adminurl":"https:\/\/www.ned.org\/wp-admin\/admin-ajax.php","theamurl":"https:\/\/www.ned.org\/wp-content\/themes\/ned"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/themes/ned/js/custom.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/themes/ned/js/jquery.jqtransform.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/themes/ned/js/jquery.countdown.min.js?ver=5.1.1"></script>
+<link rel="https://api.w.org/" href="https://www.ned.org/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ned.org/xmlrpc.php?rsd">
+<link rel="canonical" href="https://www.ned.org/privacy-policy/">
+<link rel="alternate" type="application/json+oembed" href="https://www.ned.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ned.org%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.ned.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ned.org%2Fprivacy-policy%2F&amp;format=xml">
+<style>.ms-parent-id-4 > .master-slider{ background:#000000; }
+.ms-parent-id-3 > .master-slider{ background:#000000; }
+.ms-parent-id-2 > .master-slider{ background:#000000; }
+.ms-parent-id-1 > .master-slider{ background:#000000; }</style>
+<script>var ms_grabbing_curosr = 'https://www.ned.org/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'https://www.ned.org/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.5.3 - Responsive Touch Image Slider | avt.li/msf">
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-356463-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+		<style type="text/css" id="wp-custom-css">
+			.democracy_story .entry-header img, .category-news .entry-header img, .single-post .entry-header img, .single-forumpub .entry-header img { display: none; }
+
+.page-id-206 .faq-page ul.faq-list li .faq-content, .page-id-7815 .faq-page ul.faq-list li .faq-content {	text-align: right; }
+
+.page-id-206 .faq-page ul.faq-list li.active h3, .page-id-206 .faq-page ul.faq-list li h3, .page-id-7815 .faq-page ul.faq-list li.active h3, .page-id-7815 .faq-page ul.faq-list li h3 {
+    padding-right: 85px;
+    text-align: right;
+}
+
+.top-content ul li { list-style-type: disc; margin-left: 15px; }
+
+.forum-news .forum-twts {
+	max-width: 400px; }
+
+blockquote {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.3;
+    font-family: 'dosisregular';
+    margin: 20px 0 20px 5%;
+    padding: 20px 25% 20px 40px;
+    background: url(https://www.ned.org/wp-content/themes/ned/images/quote.png) 0px -12px no-repeat;
+}
+
+.regions-page .home-slider-rgt-box {
+		height: 518px;
+    max-height: 518px !important;
+    overflow: hidden;
+}
+
+.home-blog-listing .right-sidebar {
+    height: 1217px;
+		max-height: 1217px;
+    overflow: hidden;
+}
+.home-blog-listing .right-sidebar {
+    padding: 40px !important;
+}
+
+.postid-5007 .top-block-right { height: 423px; }
+
+@media screen and (max-width: 768px) {
+.related-item .event-detail {
+    padding: 37px 30px !important;
+		height: 540px;
+	} 
+}		</style>
+		
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-356463-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+</head>
+<body class="page-template-default page page-id-45 _masterslider _ms_version_3.5.3 group-blog">
+<div id="wrapper">
+	<main>
+		<header id="masthead" class="site-header" role="banner">
+			<div class="top-menu-sec">
+				<div class="top-menu">
+					<ul id="menu-topmenu" class="menu"><li id="menu-item-12288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12288"><a href="https://www.ned.org/press-room/">Press Room</a></li>
+<li id="menu-item-7671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7671"><a href="https://www.ned.org/contact/">Contact Us</a></li>
+</ul>					<ul id="menu-language-menu" class="menu"><li id="menu-item-7699" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ned.org/apply-for-grant/">Apply for a Grant</a></li>
+<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ned.org/apply-for-grant/fr/">Une demande de subvention</a></li>
+<li id="menu-item-7698" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ned.org/apply-for-grant/pt/">Solicitar um subsídio</a></li>
+<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ned.org/apply-for-grant/ru/">подать заявку на грант</a></li>
+<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ned.org/apply-for-grant/es/">Aplicar a una subvención</a></li>
+<li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ned.org/apply-for-grant/ar/">التقدم بطلب للحصول على منحة</a></li>
+<li id="menu-item-7861" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.ned.org/apply-for-grant/fa/">درخواست برای کمک مالی</a></li>
+</ul>				</div>
+			</div>
+			<div class="container">
+				<div class="logo-sec">
+					<div class="logo">
+						<a href="https://www.ned.org/"><img src="https://www.ned.org/wp-content/themes/ned/images/logo.png" alt="NATIONAL ENDOWMENT FOR DEMOCRACY"></a>
+						</div>
+						<div class="logo-rgt">
+							<a class="agent-btn" href="/apply-for-grant/">Apply for a Grant</a>
+							<div class="search-icon"></div>
+							<div class="search-form">
+
+								<form role="search" method="get" id="searchform" class="searchform search-box" action="https://www.ned.org/">
+										<input type="submit" id="searchsubmit" value="" class="search-btn">
+										<input type="text" value="" name="s" id="s" class="search-text" placeholder="START TYPING...">
+								</form>
+							</div>
+							<div class="social-media-clear"></div>
+							<div class="social-media"><ul><li><a href="https://www.facebook.com/National.Endowment.for.Democracy" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/nedemocracy" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.youtube.com/user/nedontheweb" target="_blank"><i class="fa fa-youtube"></i></a></li><li><a href="https://www.linkedin.com/company/national-endowment-for-democracy/" target="_blank"><i class="fa fa-linkedin"></i></a></li><li><a class="do-subscribe" href="http://bit.ly/2ooWO39" target="_blank">Subscribe</a></li></ul></div>						</div>
+				</div>
+			</div>
+			<nav class="navigation-sec">
+				<div class=" large-container">
+					<button class="toggle-btn"></button>
+					<div class="nav-main">
+						<div class="navigation-lft">
+							<ul id="menu-main-menu" class="menu"><li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a href="https://www.ned.org/apply-for-grant/">GRANTS</a></li>
+<li id="menu-item-7679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7679"><a href="https://www.ned.org/regions/">Regions</a></li>
+<li id="menu-item-4316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4316"><a href="http://www.ned.org/about/">About</a>
+<div class="sub-menu"><ul>
+	<li id="menu-item-13123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13123"><a href="https://www.ned.org/about/">About the National Endowment for Democracy</a></li>
+	<li id="menu-item-4317" class="breakmenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4317"><a href="#">Who We Are</a>
+	<ul>
+		<li id="menu-item-4319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4319"><a href="http://www.ned.org/experts/carl-gershman/">Meet Our President</a></li>
+		<li id="menu-item-8362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8362"><a href="https://www.ned.org/about/board-of-directors/">Board of Directors</a></li>
+		<li id="menu-item-8356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8356"><a href="https://www.ned.org/about/staff/">Staff</a></li>
+		<li id="menu-item-8359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8359"><a href="https://www.ned.org/about/experts/">Experts</a></li>
+
+	</ul>
+</li>
+	<li id="menu-item-7676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7676"><a href="https://www.ned.org/about/history/">History</a></li>
+	<li id="menu-item-7834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7834"><a href="https://www.ned.org/about/how-we-work/">How We Work</a></li>
+	<li id="menu-item-12282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12282"><a href="http://www.ned.org/democracy-story/">Democracy Stories</a></li>
+	<li id="menu-item-7701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7701"><a href="https://www.ned.org/about/faqs/">Frequently Asked Questions</a></li>
+	<li id="menu-item-4321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4321"><a href="https://www.ned.org/featured-publications/">NED PUBLICATIONS</a></li>
+	<li id="menu-item-7705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7705"><a href="https://www.ned.org/about/jobs/">Careers</a></li>
+	<li id="menu-item-12022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12022"><a href="https://www.ned.org/about/testimonials/">Testimonials</a></li>
+
+</ul></div>
+</li>
+</ul>						</div>
+						<div class="navigation-rgt">
+							<ul id="menu-secondary-menu" class="menu"><li id="menu-item-7687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7687"><a href="https://www.ned.org/fellowships/">Fellowships</a>
+<div class="sub-menu"><ul>
+	<li id="menu-item-8485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8485"><a href="https://www.ned.org/fellowships/">Fellowships</a></li>
+	<li id="menu-item-7879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7879"><a href="https://www.ned.org/fellowships/reagan-fascell-democracy-fellows-program/">Reagan-Fascell Democracy Fellows</a>
+	<ul>
+		<li id="menu-item-17368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17368"><a href="http://www.ned.org/fellowships/reagan-fascell-democracy-fellows-program/applying-for-a-fellowship/">Apply for a Reagan-Fascell Democracy Fellowship</a></li>
+		<li id="menu-item-7871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7871"><a href="https://www.ned.org/fellowships/current-fellows/">Current Fellows</a></li>
+
+	</ul>
+</li>
+	<li id="menu-item-7877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7877"><a href="https://www.ned.org/fellowships/hurford-youth-fellows-program/">Hurford Youth Fellows</a></li>
+	<li id="menu-item-17782" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17782"><a href="https://www.ned.org/fellowships/penn-kemble-forum-on-democracy/">Penn Kemble Forum Fellows</a></li>
+	<li id="menu-item-7874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7874"><a href="https://www.ned.org/fellowships/visiting-fellows-program/">Visiting Fellows</a></li>
+
+</ul></div>
+</li>
+<li id="menu-item-7688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7688"><a href="https://www.ned.org/events/">Events</a>
+<div class="sub-menu"><ul>
+	<li id="menu-item-13125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13125"><a href="https://www.ned.org/events/">Events</a></li>
+	<li id="menu-item-11810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11810"><a href="http://www.ned.org/democracy-award/">Democracy Award</a>
+	<ul>
+		<li id="menu-item-20438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20438"><a href="https://www.ned.org/2018-democracy-award/">2018 Democracy Award</a></li>
+
+	</ul>
+</li>
+	<li id="menu-item-14995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14995"><a href="http://www.ned.org/democracy-award/democracy-service-medal/">Democracy Service Medal</a></li>
+	<li id="menu-item-11785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11785"><a href="https://www.ned.org/seymour-martin-lipset-lecture-on-democracy-in-the-world/">Lipset Lecture Series</a></li>
+
+</ul></div>
+</li>
+<li id="menu-item-7686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7686"><a href="https://www.ned.org/ideas/">Ideas</a>
+<div class="sub-menu"><ul>
+	<li id="menu-item-8486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8486"><a href="https://www.ned.org/ideas/">Ideas</a></li>
+	<li id="menu-item-22440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22440"><a href="https://www.ned.org/ideas/podcast/">Power 3.0 Podcast | Authoritarian Resurgence, Democratic Resilience</a></li>
+	<li id="menu-item-20675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20675"><a href="https://www.ned.org/ideas/focus-areas/">Forum Focus Areas</a></li>
+	<li id="menu-item-20674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20674"><a href="https://www.ned.org/ideas/latest-resources/">Forum Resources</a></li>
+	<li id="menu-item-8246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8246"><a href="/category/forum">Forum News</a></li>
+	<li id="menu-item-7850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7850"><a href="https://www.ned.org/ideas/about-the-forum-2/">About the Forum</a></li>
+	<li id="menu-item-7851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7851"><a href="https://www.ned.org/ideas/research-council/">Forum Research Council</a></li>
+	<li id="menu-item-7852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7852"><a href="https://www.ned.org/ideas/network-of-democracy-research-institutes-ndri/">Network of Democracy Research Institutes (NDRI)</a></li>
+	<li id="menu-item-7859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7859"><a href="https://www.ned.org/ideas/democracy-resource-center/">Library: Democracy Resource Center</a></li>
+	<li id="menu-item-11799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11799"><a href="https://www.ned.org/seymour-martin-lipset-lecture-on-democracy-in-the-world/">Lipset Lecture Series</a></li>
+
+</ul></div>
+</li>
+<li id="menu-item-4322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4322"><a href="https://www.ned.org/category/news/">News</a></li>
+</ul>						</div>
+						<form action="#" class="search-box-mobile">
+							<input type="submit" class="search-btn" value="">
+							<input class="search-text" type="text" value="" placeholder="SEARCH">
+						</form>
+					</div>
+				</div>
+				<div class="clear-nav"></div>
+			</nav>
+		</header>
+<div class="breadcrumbs"><div class="container"><ul id="breadcrumbs" class="breadcrumbs"><li class="item-home"><a class="bread-link bread-home" href="https://www.ned.org" title="Home">Home</a>|&nbsp;&nbsp;</li><li class="item-current item-45"><strong class="bread-current bread-45"> Privacy Policy</strong></li></ul></div></div>	<div class="large-container">
+					<article id="post-45" class="post-45 page type-page status-publish hentry">
+				<header class="entry-header">
+					<h1 class="entry-title">Privacy Policy</h1>				</header><!-- .entry-header -->
+				<div class="entry-content">
+					<p><b>Introduction </b></p>
+<p><span style="font-weight: 400;">This Privacy Notice describes NED’s policies and practices regarding its collection and use of your personal data, and sets forth your privacy rights. We recognize that information privacy is an ongoing responsibility, and so from time to time we will update this Privacy Notice as we undertake new personal data practices or adopt new privacy policies.</span></p>
+<p><span style="font-weight: 400;">The </span><span style="font-weight: 400;">National Endowment for Democracy (NED), located in Washington, DC, is a private, nonprofit charitable organization dedicated to the growth and strengthening of democratic institutions around the world primarily through the awarding of grants to nongovernmental organizations</span><span style="font-weight: 400;">. NED is committed to transparency as one of the core principles of democracy.</span></p>
+<p><span style="font-weight: 400;">NED collects personal information from those who choose to interact with us. With a few exceptions, this information is limited to the kinds of information that can be found on a business card: first name, last name, job title, employer name, work address, work email, and work phone number. We use this information to provide certain benefits, including distributing information updates, event invitations, and the like. We do not knowingly attempt to solicit or receive information from minors. We do not sell personal information to anyone and only share with third parties who are facilitating the delivery of NED offerings. </span></p>
+<p><span style="font-weight: 400;">You may enjoy many of NED’s offerings without giving us your personal data. The information on our website is available to the general public. With certain offerings, some personal information is necessary so that NED can provide you with what you requested. You may manage your NED subscriptions and you may opt-out of receiving general informational communication at any time.</span></p>
+<p><b>How to contact us</b></p>
+<p><span style="font-weight: 400;">If you have any questions or concerns about NED’s personal data policies or practices, or concerns about the sensitivity of the information you will be sharing with NED, please contact NED’s Data Privacy Officer:</span></p>
+<p><span style="font-weight: 400;">Data Privacy Officer </span><span style="font-weight: 400;"><br>
+</span><span style="font-weight: 400;">National Endowment for Democracy</span></p>
+<p><span style="font-weight: 400;">1025 F Street NW, Suite 800</span><span style="font-weight: 400;"><br>
+</span><span style="font-weight: 400;">Washington, DC, USA</span><span style="font-weight: 400;"><br>
+</span><span style="font-weight: 400;">privacy@NED.org</span><span style="font-weight: 400;"><br>
+</span><span style="font-weight: 400;">+1 202-378-9700</span></p>
+<p><b>How we collect and use your personal information you give to us </b></p>
+<p><span style="font-weight: 400;">NED receives data from you to provide you with benefits you have requested from us, including information on upcoming events, publications, and other content, or to review applications to become the recipient of a grant or fellowship, or seek employment from us. We may use this information to refine our offerings to better tailor them to your needs and to communicate with you about other NED offerings.</span></p>
+<p><b>When and how we share information with others </b></p>
+<p><span style="font-weight: 400;">As a recipient federal appropriations and funding from other entities, NED is required to provide certain information regarding parties who are beneficiaries of these funds.&nbsp; Such information may be shared in the course of fulfilling standard compliance and reporting requirements in adherence with the terms of the entity’s grant to NED, as well as to comply with U.S. law, to include the NED Act. &nbsp;These requirements also include provisions to protect individuals’ privacy.</span></p>
+<p><span style="font-weight: 400;">We do not reveal your personal data to third-parties for their independent use unless: (1) you request or authorize it; (2) the information is provided to a NED event co-sponsor on a per-event basis; (3) the information is provided to comply with the law, enforce an agreement we have with you, or to protect our rights, property or safety, or the rights, property or safety of our employees or others; (4) the information is provided to our agents, vendors or service providers who perform functions on our behalf; (5) to address emergencies or acts of God; or (6) to address disputes, claims, or to persons demonstrating legal authority to act on your behalf. We may also gather aggregated data about site visitors and disclose the results of such aggregated (but not personally identifiable) information to our partners or service providers.</span></p>
+<p><span style="font-weight: 400;">To protect personally identifiable information, NED’s internal systems follow appropriate best practice information security protocols. When sharing information, NED makes every effort to remain transparent about its activities, while still protecting sensitive and/or personally identifiable information.</span></p>
+<p><b>Use of the NED.org Website </b></p>
+<p><span style="font-weight: 400;">As is true of most other websites, NED’s website collects certain information automatically and stores it in log files. The information may include internet protocol (IP) addresses, the region or general location where your computer or device is accessing the internet, browser type, operating system and other usage information about the use of NED’s website, including a history of the pages you view. We use this information to help us design our site to better suit our users’ needs. We may also use your IP address to help diagnose problems with our server and to administer our website, analyze trends, track visitor movements, and gather broad demographic information that assists us in identifying visitor preferences. NED’s website also uses cookies. It does not track users when they cross to third party websites, does not provide targeted advertising to them, and therefore does not respond to Do Not Track (DNT) signals.</span></p>
+<ul>
+<li style="font-weight: 400;"><b>Cookies</b></li>
+</ul>
+<p><span style="font-weight: 400;">Cookies are pieces of data that a Web site transfers to a user’s hard drive for record-keeping purposes.</span></p>
+<p><span style="font-weight: 400;">The Site uses cookies to aggregate traffic data (e.g., what pages are the most popular). These cookies may be delivered in a first-party or third-party context. NED may also use cookies in association with e-mails delivered by NED. Our Site also captures limited information (user-agent, HTTP referrer, last URL requested by the user, client-side and server-side clickstream) about visits to our Site. We may use this information to analyze general traffic patterns and to perform routine system maintenance. You have many choices with regards to the management of cookies on your computer. All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies, please consult the privacy features in your browser.</span></p>
+<p><span style="font-weight: 400;">This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google. Google will use this information for the purposes of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using the NED website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</span></p>
+<p><span style="font-weight: 400;">NED also uses a marketing database management program that deploys a cookie when a user interacts with a marketing communication, such as a marketing email or a marketing-based landing page on our website. This cookie collects personal information such as your name, which pages you visit on the NED website, your history arriving at the NED website, and the like. We use this information to evaluate the effectiveness of our marketing campaigns. You may set your browser to block these cookies.</span></p>
+<ul>
+<li style="font-weight: 400;"><b>Do not track</b></li>
+</ul>
+<p><span style="font-weight: 400;">NED does not track its customers when they cross to third party websites, does not provide targeted advertising to them, and therefore does not respond to Do Not Track (DNT) signals.</span></p>
+<ul>
+<li style="font-weight: 400;"><b>Social Media</b></li>
+</ul>
+<p><span style="font-weight: 400;">The NED website uses interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to comment, “like”, or share information from the NED website through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your site visit to your personal data.</span></p>
+<p><span style="font-weight: 400;">While we encourage commenting and conversation on our social media profiles, please remember that they are a public forum and any information provided will be visible to the public. Please do not include personal details such as your telephone number, email address, or any other personal information that you do not want available to the general public.</span></p>
+<p><span style="font-weight: 400;">While some Personally Identifying Information (PII) may become available to NED through your use of social media (e.g., we can see your name and picture if you post a&nbsp;comment), we will not be collecting, sharing, or storing that information.</span></p>
+<p><span style="font-weight: 400;">Our presence on social media sites is not intended to endorse, recommend, or favor any third-party company or service provider.</span></p>
+<p><b>Security of your information </b></p>
+<p><span style="font-weight: 400;">NED endeavors to apply best available safeguards to protect the privacy and security of your personal data and to use it only consistent with your relationship with NED and the practices described in this Privacy Notice. To help protect the privacy of data and personally identifiable information you provide to NED, we maintain physical, technical and administrative safeguards. We update and test our security technology on an ongoing basis. We restrict access to your personal data to those employees who need to know that information to provide benefits to you. In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your information. We commit to taking appropriate disciplinary measures to enforce our employees’ privacy responsibilities.</span></p>
+<p><b>Changes and updates to the Privacy Notice </b><b><br>
+</b><b><br>
+</b><span style="font-weight: 400;">By using this Site or otherwise communicate with us, you agree to the terms and conditions contained in this Privacy Notice and/or any other agreement that we might have with you. If you do not agree to any of these terms and conditions, you should not use this Site or any NED offerings. You agree that any dispute over privacy or the terms contained in this Privacy Notice, or any other agreement we have with you, will be governed by the laws of the District of Columbia. You also agree to arbitrate such disputes in the District of Columbia, and to abide by any limitation on damages contained in any agreement we may have with you.</span></p>
+<p><span style="font-weight: 400;">As our organization may change from time to time, this Privacy Notice is expected to change as well. We reserve the right to amend the Privacy Notice at any time, for any reason, without notice to you, other than the posting of the amended Privacy Notice at this Site. You should check our Site frequently to see the current Privacy Notice that is in effect and any changes that may have been made to it. The provisions contained herein supersede all previous notices or statements regarding our privacy practices and the terms and conditions that govern the use of this Site.</span></p>
+<p><em>Last updated: June 13, 2018</em></p>
+					
+				</div>
+				
+			</article><!-- #post-## -->
+
+					</div>	
+
+<div class="footer-sec">
+	<div class="large-container">
+		<div class="footer-main">
+			<div class="footer-logo">
+				<a href="https://www.ned.org/"><img src="https://www.ned.org/wp-content/themes/ned/images/footer-logo-2.png" alt="NATIONAL ENDOWMENT FOR DEMOCRACY"></a>
+			</div>
+							<div class="contact">
+					<div class="contact-detail">
+						<span class="small-title">CONTACT US</span>
+						<a class="phone" href="callto:(202) 378-9700">(202) 378-9700</a> | <a class="info-mail" href="mailto:INFO@NED.ORG">INFO@NED.ORG</a> | 							<a class="info-mail" href="/privacy-policy/">Privacy Policy</a>
+					</div>
+				</div>
+						<div class="subscribe-btn">
+			    <a href="http://bit.ly/2ooWO39">SUBSCRIBE TODAY</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="copyright-sec">
+	<div class="large-container">
+		<div class="copyright-main">
+			<div class="social-media"><ul><li><a href="https://www.facebook.com/National.Endowment.for.Democracy" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/nedemocracy" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.youtube.com/user/nedontheweb" target="_blank"><i class="fa fa-youtube"></i></a></li><li><a href="https://www.linkedin.com/company/national-endowment-for-democracy/" target="_blank"><i class="fa fa-linkedin"></i></a></li></ul></div><p>1025 F Street NW. Suite 800, Washington DC 20004</p>			</div>
+		<div class="footer-link">
+<!--			-->		</div>
+	</div>
+</div>
+</main>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.ned.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ned.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-includes/js/masonry.min.js?ver=3.3.2"></script>
+<script type="text/javascript" src="https://www.ned.org/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c8eb398605","applicationID":"9433139","transactionName":"NlBXNhEADxcCAEBRWg8adAEXCA4KTBNVX1A=","queueTime":0,"applicationTime":300,"atts":"GhdUQFkaHBk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
