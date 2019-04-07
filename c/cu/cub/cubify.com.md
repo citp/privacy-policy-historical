@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubify.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813011249id_/https%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubify.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408005209id_/https%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
 
 # 3D Systems Corporation Privacy Policy | 3D Systems
 
@@ -63,14 +63,14 @@ All browsers permit you to reject and/or delete cookies either one at a time or 
   * Internet Explorer - [click to see page.](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11')
   * Chrome - [click to see page.](https://support.google.com/chrome/answer/95647?hl=en%27)
   * Firefox - [click to see page.](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-  * Safari - [click to see page.](https://support.apple.com/kb/ph21411?locale=en_US%27)
-  * Opera - [click to see page.](http://help.opera.com/Windows/9.51/en/cookies.html)
-  * Flash cookies - [click to see page.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+  * Safari - [click to see page.](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+  * Opera - [click to see page.](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/)
+  * Flash cookies - [click to see page.](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
   * iPhone, iPad and other equipment from Apple - [click to see page.](https://support.apple.com/en-us/HT201265)
   * HTML5 - cookies can be programmed through HTML5 local storage.
   * Android phones and other equipment - [click to see page.](https://hubpages.com/technology/How-to-delete-internet-cookies-on-your-Droid-or-any-Android-device)
-  * Windows 7 phones and other equipment - [click to see page.](http://www.wingadgetnews.com/delete-internet-cookies-cache-browsing-history-windows-phone-7)
-  * Flash cookies - [www.adobe.com](https://www.sitecore.com/trust/www.adobe.com)
+  * Windows 7 phones and other equipment - [click to see page.](https://answers.microsoft.com/en-us/windows/forum/windows_7-performance/remove-cookies-windows-7/6142f0f5-1590-4813-9817-cd7147dce7a2)
+  * Flash cookies - [www.adobe.com](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
   * Google cookies - Additionally, you may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://policies.google.com/technologies/ads), and you may opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/?c=1#!/). You may specifically opt out of data being collected and used by Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en).
 
 
