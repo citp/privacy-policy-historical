@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tightvnc.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220060636id_/https%3A//www.tightvnc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tightvnc.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407081141id_/https%3A//www.tightvnc.com/privacy.php) for the most accurate reproduction.*
 
 # TightVNC Website: Privacy Policy
 
