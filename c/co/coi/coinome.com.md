@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinome.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120192309id_/https%3A//www.coinome.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinome.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407064731id_/https%3A//www.coinome.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # COINOME - Privacy Policy - Coinome Crypto Currency Exchange
 
