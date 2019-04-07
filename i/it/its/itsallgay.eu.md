@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223001639id_/https%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallgay.eu privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407061115id_/https%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
 
 # GayForIt - Free Gay Porn Videos
 
 Privacy policy for www.gayforit.eu
 
-Do you need to register with the ICO? - ICO Data Protection Register Self Assessment  
-Online checklist tools to help you comply with the GDPR - Data Protection Self Assessment Toolkit  
-Determine your Lawful Basis for processing - Lawful Basis Interactive Guidance Tool  
 Privacy Policy Notice  
 The policy: This privacy policy notice is for this website; [www.gayforit.eu] and served by GF Networks Limited, 34 New House, 67-68 Hatton Garden London EC1N  
 8JY and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your   
