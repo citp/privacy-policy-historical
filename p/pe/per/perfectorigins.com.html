@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the perfectorigins.com privacy policy that was archived on 2017-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171110084142id_/http%3A//www.perfectorigins.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perfectorigins.com privacy policy that was archived on 2019-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190407064854id_/https%3A//www.perfectorigins.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-    <!-- fb meta -->
+<html><head>
+    <meta name="p:domain_verify" content="a4a8f428f1eb29016c70c309a82449ca">
+    <!-- fb meta 2-->
     <meta property="og:title" content="Perfect Origins">
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://www.perfectorigins.com/images/ogfb.png">
     <meta property="og:description" content="How long has it been since you looked and felt your best? 100% all-natural, results-getting solutions!">
+    <meta name="p:domain_verify" content="d6c7dfe5f08148819d8b92d4274057c9">
     <!-- twitter meta -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Perfect Origins">
@@ -18,125 +20,198 @@
     <meta itemprop="image" content="http://www.perfectorigins.com/images/ogfb.png">
     <meta charset="UTF-8">
     <meta name="google-site-verification" content="rnRVBBWe4c-FWCR7LU5nYwouA65a_EceC6DHjhiNp_0">
+    <meta name="p:domain_verify" content="a4a8f428f1eb29016c70c309a82449ca">
     <title>Perfect Origins</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <link rel="icon" href="https://www.perfectorigins.com/favicon.ico?v=2">
-    <link rel="stylesheet" type="text/css" href="/A.styles,,_bowtie-responsive.css+styles,,_layout.css,,qver==1.5+styles,,_animate.min.css+vendor,,_owlcarousel,,_owl.carousel.css+vendor,,_owlcarousel,,_owl.theme.css,Mcc.OkKJh1h-Gc.css.pagespeed.cf.nj9ztYdwAs.css">
-    
-    
-    
-    
+    <link rel="stylesheet" type="text/css" href="//www.perfectorigins.com/styles/bowtie-responsive.css">
+    <link rel="stylesheet" type="text/css" href="//www.perfectorigins.com/styles/layout.css?ver=1.6">
+    <link rel="stylesheet" type="text/css" href="//www.perfectorigins.com/styles/animate.min.css">
+    <link rel="stylesheet" href="//www.perfectorigins.com/vendor/owlcarousel/owl.carousel.css">
+    <link rel="stylesheet" href="//www.perfectorigins.com/vendor/owlcarousel/owl.theme.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:600,700" rel="stylesheet">
-    
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+
     <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="/styles/ie8.css"/>
+    <link rel="stylesheet" type="text/css" href="../styles/ie8.css"/>
     <script>
-    // Production steps of ECMA-262, Edition 5, 15.4.4.14
-    // Reference: http://es5.github.io/#x15.4.4.14
-    if (!Array.prototype.indexOf) {
-      Array.prototype.indexOf = function(searchElement, fromIndex) {
+        // Production steps of ECMA-262, Edition 5, 15.4.4.14
+        // Reference: http://es5.github.io/#x15.4.4.14
+        if (!Array.prototype.indexOf) {
+            Array.prototype.indexOf = function(searchElement, fromIndex) {
 
-        var k;
+                var k;
 
-        // 1. Let o be the result of calling ToObject passing
-        //    the this value as the argument.
-        if (this == null) {
-          throw new TypeError('"this" is null or not defined');
+                // 1. Let o be the result of calling ToObject passing
+                //    the this value as the argument.
+                if (this == null) {
+                    throw new TypeError('"this" is null or not defined');
+                }
+
+                var o = Object(this);
+
+                // 2. Let lenValue be the result of calling the Get
+                //    internal method of o with the argument "length".
+                // 3. Let len be ToUint32(lenValue).
+                var len = o.length >>> 0;
+
+                // 4. If len is 0, return -1.
+                if (len === 0) {
+                    return -1;
+                }
+
+                // 5. If argument fromIndex was passed let n be
+                //    ToInteger(fromIndex); else let n be 0.
+                var n = +fromIndex || 0;
+
+                if (Math.abs(n) === Infinity) {
+                    n = 0;
+                }
+
+                // 6. If n >= len, return -1.
+                if (n >= len) {
+                    return -1;
+                }
+
+                // 7. If n >= 0, then Let k be n.
+                // 8. Else, n<0, Let k be len - abs(n).
+                //    If k is less than 0, then let k be 0.
+                k = Math.max(n >= 0 ? n : len - Math.abs(n), 0);
+
+                // 9. Repeat, while k < len
+                while (k < len) {
+                    // a. Let Pk be ToString(k).
+                    //   This is implicit for LHS operands of the in operator
+                    // b. Let kPresent be the result of calling the
+                    //    HasProperty internal method of o with argument Pk.
+                    //   This step can be combined with c
+                    // c. If kPresent is true, then
+                    //    i.  Let elementK be the result of calling the Get
+                    //        internal method of o with the argument ToString(k).
+                    //   ii.  Let same be the result of applying the
+                    //        Strict Equality Comparison Algorithm to
+                    //        searchElement and elementK.
+                    //  iii.  If same is true, return k.
+                    if (k in o && o[k] === searchElement) {
+                        return k;
+                    }
+                    k++;
+                }
+                return -1;
+            };
         }
-
-        var o = Object(this);
-
-        // 2. Let lenValue be the result of calling the Get
-        //    internal method of o with the argument "length".
-        // 3. Let len be ToUint32(lenValue).
-        var len = o.length >>> 0;
-
-        // 4. If len is 0, return -1.
-        if (len === 0) {
-          return -1;
-        }
-
-        // 5. If argument fromIndex was passed let n be
-        //    ToInteger(fromIndex); else let n be 0.
-        var n = +fromIndex || 0;
-
-        if (Math.abs(n) === Infinity) {
-          n = 0;
-        }
-
-        // 6. If n >= len, return -1.
-        if (n >= len) {
-          return -1;
-        }
-
-        // 7. If n >= 0, then Let k be n.
-        // 8. Else, n<0, Let k be len - abs(n).
-        //    If k is less than 0, then let k be 0.
-        k = Math.max(n >= 0 ? n : len - Math.abs(n), 0);
-
-        // 9. Repeat, while k < len
-        while (k < len) {
-          // a. Let Pk be ToString(k).
-          //   This is implicit for LHS operands of the in operator
-          // b. Let kPresent be the result of calling the
-          //    HasProperty internal method of o with argument Pk.
-          //   This step can be combined with c
-          // c. If kPresent is true, then
-          //    i.  Let elementK be the result of calling the Get
-          //        internal method of o with the argument ToString(k).
-          //   ii.  Let same be the result of applying the
-          //        Strict Equality Comparison Algorithm to
-          //        searchElement and elementK.
-          //  iii.  If same is true, return k.
-          if (k in o && o[k] === searchElement) {
-            return k;
-          }
-          k++;
-        }
-        return -1;
-      };
-    }
     </script>
-     <![endif]-->
-     <!--[if IE 9 ]>
-     <link rel="stylesheet" type="text/css" href="/styles/ie9.css"/>
+    <![endif]-->
+    <!--[if IE 9 ]>
+    <link rel="stylesheet" type="text/css" href="/styles/ie9.css"/>
     <![endif]-->
     <!-- console.log polyfill -->
-    <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5234GT"></script><script>if(!(window.console&&console.log)){console={log:function(){},debug:function(){},info:function(){},warn:function(){},error:function(){}};}</script>
+    <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5234GT"></script><script async="" src="https://fullstory.com/s/fs.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5234GT"></script><script type="text/javascript" async="" src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-3.0.0-min.gz.js"></script><script src="https://connect.facebook.net/signals/config/1398625410155653?v=2.8.23&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5234GT"></script><script>
+        if(!(window.console && console.log)) {
+            console = {
+                log: function(){},
+                debug: function(){},
+                info: function(){},
+                warn: function(){},
+                error: function(){}
+            };
+        }
+    </script>
+    <script>
+        var config = {
+            basePath: "",
+            cartPage: "\/cart\/"
+        }
+    </script>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5234GT"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5234GT');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Start Adroll Pixel Code -->
+    <script type="text/javascript">
+        adroll_adv_id = "QWGXXSLSMNGD7KZCJ65VTV";
+        adroll_pix_id = "7SL7Y26KE5BJTMG7FEFBDA";
+        // OPTIONAL: provide email to improve user identification /
+        // / adroll_email = "username@example.com"; /
+        (function () {
+            var _onload = function () {
+                if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+                if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            };
+            if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+            else {window.attachEvent('onload', _onload)}
+        }());
+    </script>
+    <!-- End Adrool Pixel Code -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="/vendor/owlcarousel/owl.carousel.js.pagespeed.jm.pQeDoHZPvo.js"></script>
-    <script>var config={basePath:"",cartPage:"\/cart\/"}</script>
+    <script src="//www.perfectorigins.com/vendor/owlcarousel/owl.carousel.js"></script>
+    <script src="https://wchat.freshchat.com/js/widget.js"></script>
 
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
+<script>
+window['_fs_debug'] = false;
+window['_fs_host'] = 'fullstory.com';
+window['_fs_org'] = 'HW1MJ';
+window['_fs_namespace'] = 'FS';
+(function(m,n,e,t,l,o,g,y){
+    if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+    g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
+    o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+    y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+    g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
+    g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
+    g.consent=function(a){g("consent",!arguments.length||a)};
+    g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+    g.clearUserCookie=function(){};
+})(window,document,window['_fs_namespace'],'script','user');
+</script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="textpage">
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5234GT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5234GT');</script>
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5234GT"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5234GT');</script>
 <!-- End Google Tag Manager -->
 <header class="slide-1">
     <div class="filter"></div>
     <div class="top">
         <div class="container">
             <div class="row">
-                <div class="span-medium-14 span-large-12" style="text-align: left;">
+                <div class="span-medium-20 span-large-16" style="text-align: left;">
                     <ul>
-                        <li>Order By Phone: <span class="color-3"><a href="tel:1-800-815-6073" style="border: 0;">1-800-815-6073</a></span></li>
-                        <li style="display: inline-block;">
-                            <div id="proactivechatcontainerarace2cc9m" style="display: none;"> <div id="proactivechatdiv" style="position: absolute; display: none; float: left; top: 184px; left: 458px; z-index: 500;"><div style="float: left; width: 500px; background: #ffffff url('https://support.perfectorigins.com/__swift/themes/client/images/mainbackground.gif') repeat; border: solid 1px #bababa;">	<div style="background: #ffffff url('https://support.perfectorigins.com/__swift/themes/client/images/icon_proactiveuserbackground.gif') no-repeat bottom left; border: solid 1px #bababa; margin: 8px;">		<div style="text-align: center;margin-top: 15px;margin-bottom: 10px;"><img align="absmiddle" border="0" src="//support.perfectorigins.com/__swift/themes/client/images/kayako-logo-blue.png"></div>		<hr style="border: solid #d8dbdf; border-width: 1px 0 0; clear: both; height: 0; margin: 0; text-align: center">		<div style="padding-left: 100px; text-align: center; margin-top: 20px; height: 60px; overflow: hidden; font: 40px 'segoe ui','helvetica neue', arial, helvetica, sans-serif; color: #128dbe;width: 350px;">			Can I help you?		</div>		<div style="padding-left: 100px; vertical-align: top; margin-top: 0px; padding-top: 0px; height: 180px; font: 18pt 'segoe ui','helvetica neue', arial, helvetica, sans-serif; color: #4c5156;width: 350px;">			Our team is ready to assist you. Click "Chat Now" to be connected to one instantly.<br>			<div style="padding-top: 30px; padding-left: 90px; text-align: center;">				<div onclick="javascript:doProactiveRequest_fky2ewo4();" style="font-weight: normal;font-size: 19px;color: #5d9928;padding: 10px 25px 10px 25px;background-color: #fff;background: -moz-linear-gradient(top,#fafafa 0%,#e7ebf0);background: -webkit-gradient(linear, left top, left bottom, from(#ffffff),to(#f3f3f3));-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #cdd2d4;-moz-box-shadow: 0px 1px 1px #f8f8f8,inset 0px 1px 1px #fff;-webkit-box-shadow: 0px 1px 1px #f8f8f8,inset 0px 1px 1px #fff;box-shadow: 0px 1px 1px #f8f8f8,inset 0px 1px 1px #fff;text-shadow: 0px 1px 0px #fff;cursor: pointer;width: 100px;">					Chat Now				</div>			</div>		</div>	</div></div><div style="float: left; margin-left: -8px; margin-top: -8px;">	<a href="javascript:closeProactiveRequest_fky2ewo4();"><img align="absmiddle" border="0" src="//support.perfectorigins.com/__swift/themes/client/images/icon_close.png"></a></div></div><div id="inlinechatdiv" style="position: absolute; display: none; float: left; top: 44px; left: 383px; z-index: 500;"><div style="float: left; width: 600px; background: #ffffff; border: solid 1px #bcb5a6;"><iframe width="600" height="680" scrolling="auto" frameborder="0" src="" name="inlinechatframe" id="inlinechatframe">error: no iframe support detected</iframe></div><div style="float: left; margin-left: -8px; margin-top: -8px;"><a href="javascript: closeInlineProactiveRequest_fky2ewo4();"><img src="//support.perfectorigins.com/__swift/themes/client/images/icon_close.png" border="0" align="absmiddle"></a></div></div></div>
-                                <div id="swifttagcontainerarace2cc9m" style="display: inline;">
-                                    <span style="display: inline;">Live Support:</span>
-                                    <span style="display: inline;" id="swifttagdatacontainerarace2cc9m"><span><a href="javascript:startChat_fky2ewo4('0');" onmouseover="window.status='Click Here for Live Chat'; return true;" onmouseout="window.status=''; return true;">ONLINE</a></span></span>
-                                <script type="text/javascript" src="/scripts/chat/ChatSupport.js"></script></div>
+                        <li>Order By Phone: <span class="color-3"><a href="tel:1-800-815-6073" style="border: 0;">1-800-815-6073</a></span>
                         </li>
+                        <li class="canada-ship hide-it">Now Shipping from Canada</li>
                     </ul>
                 </div>
-                <div class="span-medium-10 span-large-12">
+                <div class="span-medium-4 span-large-6">
                     <ul>
                         <li>
                             <a style="text-transform: none;" href="/portal/log/in">Account log in</a>
@@ -159,7 +234,7 @@
         </div>
         <div class="row btns">
             <div class="span-mini-17 text-left" style="padding-right: 0;">
-                    <a class="store-btn" href="/portal/log/in">Login</a>
+                <a class="store-btn" href="/portal/log/in">Login</a>
                 <a class="store-btn" href="/store/">Store</a>
             </div>
             <div class="span-mini-7 text-right" style="padding-left:0;">
@@ -174,7 +249,8 @@
                     <li><a href="http://perfectorigins.com/articles/">Blog</a></li>
                     <li><a href="/about-us/">About us</a></li>
                     <li><a href="/contact/">Contact</a></li>
-                    <li><a href="javascript:startChat_fky2ewo4('0');" class="support">Live Support: <span>ONLINE</span></a></li>
+                    <li><a href="javascript:startChat_fky2ewo4('0');" class="support">Live Support: <span>ONLINE</span></a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -214,17 +290,17 @@
         </div>
     </div>
 
-<div class="content">
-    <div class="container">
-        <div class="row">
-            <div class="span-large-24">
-                <div class="slide">
-                    <h1>Privacy Policy</h1>
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="span-large-24">
+                    <div class="slide">
+                        <h1>Privacy Policy</h1>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
 </header>
 
 
@@ -232,29 +308,129 @@
     <div class="container">
         <div class="row">
             <div class="span-large-14 offset-large-5">
-                <p>Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.</p>
-                <p>The following Privacy Policy governs the online information collection practices of PERFECTORIGINS.COM. ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the PerfectOrigins.com website (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
-                <p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.</p>
+                <p>Your privacy is very important to us. We want to make your experience on the Internet as enjoyable
+                    and rewarding as possible, and we want you to use the Internet's vast array of information, tools,
+                    and opportunities with complete confidence.</p>
+                <p>The following Privacy Policy governs the online information collection practices of
+                    PERFECTORIGINS.COM. ("we" or "us"). Specifically, it outlines the types of information that we
+                    gather about you while you are using the PerfectOrigins.com website (the "Site"), and the ways in
+                    which we use this information. This Privacy Policy, including our children's privacy statement, does
+                    not apply to any information you may provide to us or that we may collect offline and/or through
+                    other means (for example, at a live event, via telephone, or through the mail).</p>
+                <p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of
+                    our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an
+                    evolving medium, we may need to change our Privacy Policy at some point in the future, in which case
+                    we'll post the changes to this Privacy Policy on this website and update the Effective Date of the
+                    policy to reflect the date of the changes. By continuing to use the Site after we post any such
+                    changes, you accept the Privacy Policy as modified.</p>
                 <h2>How We Collect and Use Information</h2>
-                <p>We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). PerfectOrigins.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. PerfectOrigins.com collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and email address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.</p>
-                <p>We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-                <p>We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features; advertising that appear on the Site; and, making other offers available to you via email, direct mail or otherwise. We also may provide your information to third parties, such as service providers contractors and third-party publishers and advertisers for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.</p>
-                <p>Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online - for example on message boards, web logs, through email, or in chat areas - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
-                <p>Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party's privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party's use of cookies or web beacons or use of your information, you should visit that party's website and review its privacy policy.</p>
-                <p>The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.</p>
-                <p>We may also make some content, products and services available through our Site or by emailing messages to you through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.</p>
-                <p>Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.</p>
-                <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.</p>
+                <p>We may collect and store personal or other information that you voluntarily supply to us online while
+                    using the Site (e.g., while on the Site or in responding via email to a feature provided on the
+                    Site). PerfectOrigins.com only contacts individuals who specifically request that we do so or in the
+                    event that they have signed up to receive our messaging, attended one of our events, or have
+                    purchased one of our products. PerfectOrigins.com collects personally identifying information from
+                    our users during online registration and online purchasing. Generally, this information includes
+                    name and email address for registration or opt-in purposes and name, postal address, and credit card
+                    information when registering for our events or purchasing our products. All of this information is
+                    provided to us by you.</p>
+                <p>We also collect and store information that is generated automatically as you navigate online through
+                    the Site. For example, we may collect information about your computer's connection to the Internet,
+                    which allows us, among other things, to improve the delivery of our web pages to you and to measure
+                    traffic on the Site. We also may use a standard feature found in browser software called a "cookie"
+                    to enhance your experience with the Site. Cookies are small files that your web browser places on
+                    your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies
+                    help us deliver advertisements, identify how many unique users visit us, and track user trends and
+                    patterns. They also prevent you from having to re-enter your preferences on certain areas of the
+                    Site where you may have entered preference information before. The Site also may use web beacons
+                    (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users
+                    who visit the Site or open HTML-formatted email messages.</p>
+                <p>We use the information we collect from you while you are using the Site in a variety of ways,
+                    including using the information to customize features; advertising that appear on the Site; and,
+                    making other offers available to you via email, direct mail or otherwise. We also may provide your
+                    information to third parties, such as service providers contractors and third-party publishers and
+                    advertisers for a variety of purposes. Unless you inform us in accordance with the process described
+                    below, we reserve the right to use, and to disclose to third parties, all of the information
+                    collected from and about you while you are using the Site in any way and for any purpose, such as to
+                    enable us or a third party to provide you with information about products and services. If you do
+                    not wish your information to be used for these purposes, you must send a letter to the Online
+                    Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken
+                    off any lists of information that may be used for these purposes or that may be given or sold to
+                    third-parties.</p>
+                <p>Please keep in mind that whenever you voluntarily make your personal information available for
+                    viewing by third parties online - for example on message boards, web logs, through email, or in chat
+                    areas - that information can be seen, collected and used by others besides us. We cannot be
+                    responsible for any unauthorized third-party use of such information.</p>
+                <p>Some of our third-party advertisers and ad servers that place and present advertising on the Site
+                    also may collect information from you via cookies, web beacons or similar technologies. These
+                    third-party advertisers and ad servers may use the information they collect to help present their
+                    advertisements, to help measure and research the advertisements' effectiveness, or for other
+                    purposes. The use and collection of your information by these third-party advertisers and ad servers
+                    is governed by the relevant third-party's privacy policy and is not covered by our Privacy Policy.
+                    Indeed, the privacy policies of these third-party advertisers and ad servers may be different from
+                    ours. If you have any concerns about a third party's use of cookies or web beacons or use of your
+                    information, you should visit that party's website and review its privacy policy.</p>
+                <p>The Site also includes links to other websites and provides access to products and services offered
+                    by third parties, whose privacy policies we do not control. When you access another website or
+                    purchase third-party products or services through the Site, use of any information you provide is
+                    governed by the privacy policy of the operator of the site you are visiting or the provider of such
+                    products or services.</p>
+                <p>We may also make some content, products and services available through our Site or by emailing
+                    messages to you through cooperative relationships with third-party providers, where the brands of
+                    our provider partner appear on the Site in connection with such content, products and/or services.
+                    We may share with our provider partner any information you provide, or that is collected, in the
+                    course of visiting any pages that are made available in cooperation with our provider partner. In
+                    some cases, the provider partner may collect information from you directly, in which cases the
+                    privacy policy of our provider partner may apply to the provider partner's use of your information.
+                    The privacy policy of our provider partners may differ from ours. If you have any questions
+                    regarding the privacy policy of one of our provider partners, you should contact the provider
+                    partner directly for more information.</p>
+                <p>Be aware that we may occasionally release information about our visitors when release is appropriate
+                    to comply with law or to protect the rights, property or safety of users of the Site or the
+                    public.</p>
+                <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event
+                    that we sell some or all of our assets, or one or more of our websites is acquired by another
+                    company, information about our users may be among the transferred assets.</p>
+                <h2>Use of Email Subscriber Information</h2>
+                  <p>We will at times "license" or "rent" your email to one of our third party affiliates to send you various offers. </p>
+                <p>You can always opt out of any emails that are sent at any time.</p>
+				<h2>General Data Privacy Regulation (GDPR)</h2>
+
+<p>The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union citizens. </p>
+
+<p>As a company that markets its site. Content, products and/or services on line we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site or services or products is governed by GDPR, we will abide by the relevant portions of the regulation.If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”</p>
+
+<p>To make any of these requests, please contact our GDPR contact at GDPR@perfectorigins.com</p>
+
+
                 <h2>Children's Privacy Statement</h2>
-                <p>This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.</p>
-                <p>This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.</p>
-                <p>Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties. We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.</p>
-                <p>Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site's online activities on providing personally identifiable information.</p>
+                <p>This children's privacy statement explains our practices with respect to the online collection and
+                    use of personal information from children under the age of thirteen, and provides important
+                    information regarding their rights under federal law with respect to such information.</p>
+                <p>This Site is not directed to children under the age of thirteen and we do NOT knowingly collect
+                    personally identifiable information from children under the age of thirteen as part of the Site. We
+                    screen users who wish to provide personal information in order to prevent users under the age of
+                    thirteen from providing such information. If we become aware that we have inadvertently received
+                    personally identifiable information from a user under the age of thirteen as part of the Site, we
+                    will delete such information from our records. If we change our practices in the future, we will
+                    obtain prior, verifiable parental consent before collecting any personally identifiable information
+                    from children under the age of thirteen as part of the Site.</p>
+                <p>Because we do not collect any personally identifiable information from children under the age of
+                    thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
+                    We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise
+                    distribute personally identifiable contact information through the Site.</p>
+                <p>Because we do not collect any personally identifiable information from children under the age of
+                    thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the
+                    Site's online activities on providing personally identifiable information.</p>
                 <h2>How do we store your information?</h2>
-                <p>Your information is stored at the list server that delivers PerfectOrigins.com content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver email to those who would like to receive PerfectOrigins.com material.</p>
-                <p>All of the messaging or emails that are sent to you by PerfectOrigins.com include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.</p>
+                <p>Your information is stored at the list server that delivers PerfectOrigins.com content and messaging.
+                    Your information can only be accessed by those who help manage those lists in order to deliver email
+                    to those who would like to receive PerfectOrigins.com material.</p>
+                <p>All of the messaging or emails that are sent to you by PerfectOrigins.com include an unsubscribe link
+                    in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe
+                    link that can be found in every communicaiton that we send you.</p>
                 <h2>Disclaimer</h2>
-                <p>Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.</p>
+                <p>Although it is highly unlikely, This policy may be changed at any time at our discretion. If we
+                    should update this policy, we will post the updates to this page on our Website.</p>
                 <p>If you have any questions or concerns regarding our privacy policy please direct them to :</p>
                 <p><a href="mailto:support@perfectorigins.com">support@perfectorigins.com</a></p>
             </div>
@@ -288,7 +464,9 @@
         </div>
     </div>
 </section>
+
 <footer class="">
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=358360227975989&amp;ev=PageView&amp;noscript=1">
     <div class="menu">
         <div class="container">
             <div class="row">
@@ -298,15 +476,15 @@
                 <div class="span-large-24 span-medium-24">
                     <div class="navbar">
                         <ul>
-                            <li><a href="https://perfectorigins.com/articles/">Articles</a></li>
-                            <li><a href="/autoship/">Autoship</a></li>
-                            <li><a href="/privacy-policy/">Privacy&nbsp;Policy</a></li>
-                            <li><a href="/clinical-research/">Clinical&nbsp;Research</a></li>
-                            <li><a href="https://perfectorigins.com/articles/prop-65-what-you-should-know/">California&nbsp;Residents</a></li>
-                            <li><a href="/terms/">Terms&nbsp;of&nbsp;Use</a></li>
-                            <li><a href="/our-guarantee/">Our&nbsp;Guarantee</a></li>
-                            <li><a href="/testimonials/">Testimonial&nbsp;Disclaimer</a></li>
-                            <li><a href="/contact/">Contact&nbsp;Us</a></li>
+                            <li><a href="https://perfectorigins.com/articles/" target="_blank">Articles</a></li>
+                            <li><a target="_blank" href="//www.perfectorigins.com/autoship/">Autoship</a></li>
+                            <li><a target="_blank" href="//www.perfectorigins.com/privacy-policy/">Privacy&nbsp;Policy</a></li>
+                            <li><a target="_blank" href="//www.perfectorigins.com/clinical-research/">Clinical&nbsp;Research</a></li>
+                            <li><a href="https://perfectorigins.com/articles/prop-65-what-you-should-know/" target="_blank">California&nbsp;Residents</a></li>
+                            <li><a target="_blank" href="//www.perfectorigins.com/terms/">Terms&nbsp;of&nbsp;Use</a></li>
+                            <li><a target="_blank" href="//www.perfectorigins.com/our-guarantee/">Our&nbsp;Guarantee</a></li>
+                            <li><a target="_blank" href="//www.perfectorigins.com/testimonial-policy/">Testimonial&nbsp;Disclaimer</a></li>
+                            <li><a target="_blank" href="//www.perfectorigins.com/contact/">Contact&nbsp;Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -317,8 +495,8 @@
         <div class="container">
             <div class="row">
                 <div class="span-large-5 span-medium-12 span-small-24">
-                    <a href="/">
-                        <img src="/images/logo-white.png" class="margin-auto img-responsive logo" alt="">
+                    <a href="https://www.perfectorigins.com/">
+                        <img src="//www.perfectorigins.com/images/logo-white.png" class="margin-auto img-responsive logo" alt="">
                     </a>
                 </div>
                 <div class="span-large-11 span-medium-12 span-small-24 help-padding">
@@ -331,15 +509,62 @@
                     </ul>
                 </div>
                 <div class="span-large-8 span-medium-24 span-small-24 help-padding">
-                    <p class="respo-center">Copyright © 2017 Perfect Origins LLC. All rights reserved.</p>
+                    <p class="respo-center">Copyright © 2019 Perfect Origins LLC. All rights reserved.</p>
                 </div>
             </div>
         </div>
     </div>
 </footer>
 
+<!-- Start Adroll Pixel Code -->
+<script type="text/javascript">
+    adroll_adv_id = "QWGXXSLSMNGD7KZCJ65VTV";
+    adroll_pix_id = "7SL7Y26KE5BJTMG7FEFBDA";
+    /* OPTIONAL: provide email to improve user identification */
+    /* adroll_email = "username@example.com"; */
+    (function () {
+        var _onload = function () {
+            if (document.readyState && !/loaded|complete/.test(document.readyState)) {
+                setTimeout(_onload, 10);
+                return
+            }
+            if (!window.__adroll_loaded) {
+                __adroll_loaded = true;
+                setTimeout(_onload, 50);
+                return
+            }
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {
+            window.addEventListener('load', _onload, false);
+        }
+        else {
+            window.attachEvent('onload', _onload)
+        }
+    }());
+</script>
+<!-- End Adrool Pixel Code -->
+
+
 <!-- Start Bing Universal Code -->
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5213682"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5213682&Ver=2" height="0" width="0" style="display:none; visibility: hidden;"></noscript>
+<script>(function (w, d, t, r, u) {
+        var f, n, i;
+        w[u] = w[u] || [], f = function () {
+            var o = {ti: "5213682"};
+            o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad")
+        }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () {
+            var s = this.readyState;
+            s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null)
+        }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i)
+    })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script>
+<noscript><img src="//bat.bing.com/action/0?ti=5213682&Ver=2" height="0" width="0"
+               style="display:none; visibility: hidden;"></noscript>
 <!-- End Bing Universal Code -->
 
 <!-- Start NuStar Pixel -->
@@ -354,36 +579,37 @@
 <script type="text/javascript" src="//secure.perfectorigins.com/cgi-bin/UCCustomFieldTrack?merchantId=VIKAS&amp;mapping=subid,source" async="true"></script>
 <!-- Ultracart tracking code end -->
 
-	<!-- SMART Pixel for Livlean START -->
-	<script type="text/javascript" src="https://a.remarketstats.com/px/smart/?c=216f2f45ecfcb2f"></script>
-	<!-- SMART Pixel for Livlean END -->
+<!-- SMART Pixel for Livlean START -->
+<script type="text/javascript" src="https://a.remarketstats.com/px/smart/?c=216f2f45ecfcb2f"></script>
+<!-- SMART Pixel for Livlean END -->
 
-	<!-- SMART Pixel for Perfect Biotics START -->
-	<script type="text/javascript" src="https://a.remarketstats.com/px/smart/?c=217143c89d1d021"></script>
-	<!-- SMART Pixel for Perfect Biotics START -->
+<!-- SMART Pixel for Perfect Biotics START -->
+<script type="text/javascript" src="https://a.remarketstats.com/px/smart/?c=217143c89d1d021"></script>
+<!-- SMART Pixel for Perfect Biotics START -->
 
-<!-- Start Adroll Pixel Code -->
-<script type="text/javascript">adroll_adv_id="QWGXXSLSMNGD7KZCJ65VTV";adroll_pix_id="7SL7Y26KE5BJTMG7FEFBDA";(function(){var _onload=function(){if(document.readyState&&!/loaded|complete/.test(document.readyState)){setTimeout(_onload,10);return}
-if(!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload,50);return}
-var scr=document.createElement("script");var host=(("https:"==document.location.protocol)?"https://s.adroll.com":"http://a.adroll.com");scr.setAttribute('async','true');scr.type="text/javascript";scr.src=host+"/j/roundtrip.js";((document.getElementsByTagName('head')||[null])[0]||document.getElementsByTagName('script')[0].parentNode).appendChild(scr);};if(window.addEventListener){window.addEventListener('load',_onload,false);}
-else{window.attachEvent('onload',_onload)}}());</script>
-<!-- End Adrool Pixel Code --><script src="https://cdn.ravenjs.com/3.15.0/raven.min.js"></script>
-<script>Raven.config('https://0995fe495e8e413cbd9e51c53a7af8b2@sentry.io/131172').install();</script>
-<script>//<![CDATA[
-function createCookie(name,value,days){if(days){var date=new Date();date.setTime(date.getTime()+(days*24*60*60*1000));var expires="; expires="+date.toGMTString();}
-else var expires="";document.cookie=name+"="+value+expires+"; path=/";}
-function readCookie(name){var nameEQ=name+"=";var ca=document.cookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1,c.length);if(c.indexOf(nameEQ)==0)return c.substring(nameEQ.length,c.length);}
-return null;}
-function getProductCount(){var products=readCookie("products");var countEl=document.getElementById("productCount");var countElMobile=document.getElementById("productCountMobile");if(countEl&&countElMobile){if(products!=null){countEl.textContent=JSON.parse(products).length;countElMobile.textContent=JSON.parse(products).length;}
-else{countEl.textContent="";countElMobile.textContent="";}}}
-function order(product){var products=readCookie("products");if(products!=null&&products!=""){products=JSON.parse(products);var alreadyInCart=false;for(var i=0;i<products.length;i++){if(products[i].itemId==product){alreadyInCart=true;products[i].quantity++;}}
-if(!alreadyInCart){products.push({"itemId":product,"quantity":1});}
-createCookie("products",JSON.stringify(products));window.location=config.cartPage;}
-else{products=[{"itemId":product,"quantity":1}];createCookie("products",JSON.stringify(products));window.location=config.cartPage;}}
-//]]></script>
-<script>getProductCount();</script>
-<script src="/scripts/MenuControl.js+OpenChatSupport.js.pagespeed.jc.bd9gCkGMj3.js"></script><script>eval(mod_pagespeed_6R8p5APmBS);</script>
-<script>eval(mod_pagespeed_Wql8eam74m);</script>
+<script src="https://cdn.ravenjs.com/3.15.0/raven.min.js"></script>
+<script>
+    Raven.config('https://0995fe495e8e413cbd9e51c53a7af8b2@sentry.io/131172').install();
+</script>
+<script src="//www.perfectorigins.com/scripts/CartTools.js"></script>
+<script>
+    getProductCount();
+    var _ip = "207.241.233.160";
+</script>
+<script src="//www.perfectorigins.com/js/loco.js"></script>
+<script src="//www.perfectorigins.com/scripts/MenuControl.js"></script>
+<!-- <script type="text/javascript" src="/scripts/OpenChatSupport.js"></script> -->
+
+<script src="https://snippets.freshchat.com/js/fc-pre-chat-form.js"></script>
+<script type="application/javascript" src="//www.perfectorigins.com/js/fresh-chat-form.js?v=2"></script>
+<script src="https://wchat.freshchat.com/js/widget.js" async=""></script>
+<script>
+    window.fcWidget.init({
+        token: "3157cb2c-0a6a-4ffc-a7aa-d7c8c5a9c05c",
+        host: "https://wchat.freshchat.com"
+    });
+</script>
+
 
 
 </body></html>
