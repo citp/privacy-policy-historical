@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825022915id_/https%3A//secure.vend-o.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407193440id_/https%3A//secure.vend-o.com/page/privacy) for the most accurate reproduction.*
 
 # Vendo
 
-[English](https://web.archive.org/web/20180825022915id_/https://secure.vend-o.com/page/privacy/?language=en)   [Français](https://web.archive.org/web/20180825022915id_/https://secure.vend-o.com/page/privacy/?language=fr)   [Deutsch](https://web.archive.org/web/20180825022915id_/https://secure.vend-o.com/page/privacy/?language=de)   [Español](https://web.archive.org/web/20180825022915id_/https://secure.vend-o.com/page/privacy/?language=es)
+[English](https://web.archive.org/web/20190407193440id_/https%3A//secure.vend-o.com/page/privacy?language=en)   [Français](https://web.archive.org/web/20190407193440id_/https%3A//secure.vend-o.com/page/privacy?language=fr)   [Deutsch](https://web.archive.org/web/20190407193440id_/https%3A//secure.vend-o.com/page/privacy?language=de)   [Español](https://web.archive.org/web/20190407193440id_/https%3A//secure.vend-o.com/page/privacy?language=es)
 
 At  we are committed to honoring the privacy of our users and suppliers. This privacy policy covers the processing of personally identifiable information shared through ´s services in accordance with the EU Personal Data Protection Regulation 2016/679.
 
@@ -103,7 +103,7 @@ is PCI compliant, and conforms with the security measures of the Payment Card in
 
 Finally, like most websites, we process small pieces of information, called cookies on your computer's hard drive. This information is required to provide you with our services at the same time it enable us to improve and optimize your user experience.
 
-Please read our Cookies Policy [here](http://secure.vend-o.com/page/cookies/).
+Please read our Cookies Policy [here](https://secure.vend-o.com/page/cookies/).
 
 **Use of Analytics programs** :
 
