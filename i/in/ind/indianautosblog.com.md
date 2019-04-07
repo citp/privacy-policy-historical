@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the indianautosblog.com privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524063004id_/https%3A//indianautosblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianautosblog.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407125416id_/https%3A//indianautosblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - Indian Autos Blog
 
-Nov 29, 2013 - 8:47pm IST
-
-**[Shrawan Raja](https://web.archive.org/author/notjustshrawan), **I'm the Founder & CEO of IndianAutosBlog.com. I love teamwork and talking about cars.
-
-This Privacy Policy governs the manner in which IndianAutosBlog.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [IndianAutosBlog.com](http://www.generateprivacypolicy.com/account/policies/edit/IndianAutosBlog.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by IndianAutosBlog.com.
+This Privacy Policy governs the manner in which IndianAutosBlog.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [IndianAutosBlog.com](https://indianautosblog.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by IndianAutosBlog.com.
 
 **Personal identification information**
 
@@ -70,9 +66,3 @@ IndianAutosBlog.com - 9, second street, race view colony, guindy, Chennai 600032
 shrawan@indianautosblog.com
 
 This document was last updated on November 29, 2013
-
-Contribute to IAB
-
-Submit Spyshots & get Bragging rights! [Click Here](https://web.archive.org/submit-spy-shots-and-get-bragging-rights)
-
-Custom Mods on your ride? Get it featured on IAB [Submit](https://web.archive.org/share-your-custom-car-bike)
