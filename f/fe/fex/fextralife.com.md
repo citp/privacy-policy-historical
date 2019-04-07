@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231003710id_/https%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407133921id_/https%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fextralife
 
