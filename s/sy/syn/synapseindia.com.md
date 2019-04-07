@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synapseindia.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231174704id_/https%3A//www.synapseindia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synapseindia.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407133934id_/https%3A//www.synapseindia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # SynapseIndia Privacy Policy
 
@@ -45,7 +45,7 @@ We do not include or offer third-party products or services on our website.
 
   * ## How does our site handle do not track signals?
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+We honor do not track signals and do not track plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
   * ## Does our site allow third-party behavioral tracking?
 
@@ -59,13 +59,13 @@ We do not specifically market to children under 13.
 
   * ## Fair Information Practices
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts plays a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts play a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
   * ## Individual Redress Principle
 
 We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
-  * ## CAN SPAM Act
+  * ## CAN-SPAM Act
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. 
 
