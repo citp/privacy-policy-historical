@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloveoldschoolmusic.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226205736id_/https%3A//www.iloveoldschoolmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveoldschoolmusic.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407132229id_/https%3A//www.iloveoldschoolmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - I Love Old School Music
 
