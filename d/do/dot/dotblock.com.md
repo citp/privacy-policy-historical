@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221062618id_/https%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407161537id_/https%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
 
-# DotBlock Privacy Policy | by DotBlock
-
-## Privacy Policy
+# DotBlock Privacy Policy | by DotBlock Managed Dedicated & Cloud Hosting
 
 DotBlock.com, Inc. (“DotBlock.com”, “we”, “us”, or “provider”) will not trade, sell, make available or disclose to any third party any form of personal information without your consent. We value our customers (“you”, “user”, or “end-user”) both current and potential, and want to ensure their privacy when using our services. The following Privacy Policy is enacted to explain how we collect and use information from our customers who use services from DotBlock.com and those who may have visited our website or communicated with DotBlock.com.
 
