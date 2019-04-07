@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokergo.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220151117id_/https%3A//www.pokergo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokergo.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407075722id_/https%3A//www.pokergo.com/privacy) for the most accurate reproduction.*
 
 # PokerGO - Privacy Policy
 
@@ -60,7 +60,7 @@ _Third-Party Providers_
 
 From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who we believe have privacy practices that are consistent with ours ("Third-Party Providers"). For example, we may contract with Third-Party Providers to provide certain services, such as hosting and maintenance, data storage and management, payment processing, and marketing and promotions. We only provide our Third-Party Providers with the information necessary for them to perform these services on our behalf. Each Service Provider is expected to use reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your Personal Data from unauthorized access, use or disclosure. Third-Party Providers are prohibited from using Personal Data other than as specified by Poker Central.
 
-As an example of services being provided by Third-Party Providers, payment processing services for goods and/or services purchased on the Site may be provided by NeuLion Limited, a subsidiary of NeuLion, Inc., on behalf of NeuLion, Inc., depending on the type of payment method used for the purchase of the goods and/or services.
+As an example of services being provided by Third-Party Providers, payment processing services for goods and/or services purchased on the Site may be provided by Endeavor Streaming Limited, a subsidiary of Endeavor Streaming, Inc., on behalf of Endeavor Streaming, Inc., depending on the type of payment method used for the purchase of the goods and/or services.
 
 _Joint Services_
 
