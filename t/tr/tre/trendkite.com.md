@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the trendkite.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203032242id_/https%3A//www.trendkite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendkite.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407071314id_/https%3A//www.trendkite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Whats New ](https://web.archive.org/privacy-policy/whats-new) |  [Download PDF Version](https://web.archive.org/hubfs/Privacy%20Policy/TrendKite_Website%20Privacy_Policy_25_May_2018.pdf)
+[Whats New ](https://web.archive.org/privacy-policy/whats-new) |  [Download PDF Version](https://web.archive.org/hubfs/Privacy%20Policy/TrendKite%20Website%20-%20Privacy%20Policy%20March%2027%202019.pdf)
 
-Welcome to TrendKite, and thanks visiting us! We put together this privacy notice to let you know how we collect and process your personal data when you visit our company sites, as well as your privacy rights and how the law protects you.
+Welcome to TrendKite, and thanks for visiting us! We put together this privacy notice to let you know how we collect and process your personal data when you visit our company sites, as well as your privacy rights and how the law protects you.
 
 We’ve done our best to keep this notice simple to read. That said, sometimes our lawyers can get pretty wordy. There’s a glossary at the bottom of the page to help you figure out some of the terms we use. As laws evolve, we may update this notice. The latest date of any updates will always be displayed at the top of this page. You can see a summary of the latest changes and prior versions by clicking the “What’s New” link at the top of the page. If you want to keep a copy of this notice for your records, you can download a PDF version at the link at the top of this page.
 
-If you have questions about this privacy notice or want to exercise any of your legal rights regarding your personal data, please drop us a line at [privacy@trendkite.com](mailto:privacy@trendkite.com). You can also send our legal team some snail mail at Legal Department, TrendKite Inc., 800 Brazos St., Ste. 340, Austin, TX 78701. Please include your name, address and any other information necessary to respond to your question or request.
+If you have questions about this privacy notice or want to exercise any of your legal rights regarding your personal data, please drop us a line at [privacy@cision.com](mailto:privacy@cision.com). You can also send our legal team some snail mail at Legal Department, TrendKite Inc., 800 Brazos St., Ste. 340, Austin, TX 78701. Please include your name, address and any other information necessary to respond to your question or request.
 
 **1\. WHO WE ARE**
 
-TrendKite Inc. and TrendKite Ltd. make up the TrendKite group of companies. This privacy notice is issued on behalf of the TrendKite group, so when we mention “TrendKite,” “we,” “us” or “our” in this privacy notice, we are referring to the relevant company responsible for processing your data. TrendKite Inc. is the controller and responsible for our sites. 
+TrendKite Inc. and TrendKite Ltd. make up the TrendKite group of companies. This privacy notice is issued on behalf of the TrendKite group, so when we mention “TrendKite,” “we,” “us” or “our” in this privacy notice, we are referring to the relevant company responsible for processing your data. TrendKite Inc. is the controller and responsible for our sites.
 
-**2\. THE DATA WE COLLECT ABOUT YOU**
+**2.**   **THE DATA WE COLLECT ABOUT YOU**
 
 When we say personal data, we’re referring to any information about an individual from which that person can be identified. This doesn’t include any information that’s been anonymized by removing identifying information.
 
@@ -43,7 +43,7 @@ We use the following methods to collect data from and about you:
 
 
 
-We may allow links to third-party websites, plug-ins and applications on our sites, which may allow third parties to collect or share data about you. We don’t control these third-party websites and are not responsible for their privacy statements, but we definitely encourage you to look for them and read them.
+We may allow links to third-party websites, plug-ins and applications on our sites, which may allow third parties to collect or share data about you. We don’t control these third-party websites and are not responsible for their privacy statements, but we definitely encourage you to look for them and read them
 
 **4\. HOW WE USE YOUR PERSONAL DATA**
 
@@ -59,31 +59,31 @@ Here’s how we use the personal data that we collect:
 
 
 
-We’ll send you marketing communications if you’ve requested information from us (including registering for a webinar, downloading content or asking for a demo) or purchased our products or services, unless you’ve opted out of receiving our marketing. If you want to opt out of communications from us or our third parties, follow the opt-out links on any marketing message sent to you or contact us at [marketing@trendkite.com](mailto:marketing@trendkite.com). Even if you opt out, we may still use your personal data and contact you if you’re a customer.
+We’ll send you marketing communications if you’ve requested information from us (including registering for a webinar, downloading content or asking for a demo) or purchased our products or services, unless you’ve opted out of receiving our marketing. If you want to opt out of communications from us or our third parties, follow the opt-out links on any marketing message sent to you or contact us at [marketing-admin@cision.com](mailto:marketing-admin@cision.com). Even if you opt out, we may still use your personal data and contact you if you’re a customer.
 
 **5\. COOKIES**
 
 We use cookies, web beacons, and similar technologies on our sites to distinguish you from other visitors, analyze trends, administer our sites, track usage, and gather demographic information about our visitors. A cookie is a small amount of data that is sent from a web server and stored on your device. Third parties (like advertising networks and web traffic analyzers) may also use cookies on our sites, over which we have no control. You can block cookies using the settings on your browser. However, if you use your browser settings to block all cookies you may not be able to access all or parts of our site. **By continuing to browse our site, you are agreeing to our use of cookies.**
 
-**6\. DISCLOSURES OF YOUR PERSONAL DATA  **
+**6\. DISCLOSURES OF YOUR PERSONAL DATA**
 
-We may have to share your personal data with Internal Third Parties, External Third Parties, or third parties as part of a merger, acquisition or similar corporate transaction. All third parties that we share your personal data with are expected to respect your personal data and treat it in accordance with applicable law. We only allow third party service providers to process your personal data for specific purposes and in accordance with our instructions. 
+We may have to share your personal data with Internal Third Parties, External Third Parties, or third parties as part of a merger, acquisition or similar corporate transaction. All third parties that we share your personal data with are expected to respect your personal data and treat it in accordance with applicable law. We only allow third party service providers to process your personal data for specific purposes and in accordance with our instructions.
 
 **7\. INTERNATIONAL TRANSFERS**
 
 If you’re in the European Economic Area (EEA), we transfer your data outside the EEA. When we do, we make sure your personal data is protected. For some service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, [click here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en). For service providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For more information about Privacy Shield, [click here](https://www.privacyshield.gov/Program-Overview).
 
-**8\. DATA SECURITY  **
+**8\. DATA SECURITY**
 
-We have appropriate administrative, physical, and technical safeguards in place to keep your personal information from wandering out of our control or being inappropriately accessed. This includes limiting access to your personal data and giving specific instructions on how to use your personal data. If we suspect your personal data has gone astray, we’ll let you know as soon as possible and notify any applicable regulator where we are legally required to do so. 
+We have appropriate administrative, physical, and technical safeguards in place to keep your personal information from wandering out of our control or being inappropriately accessed. This includes limiting access to your personal data and giving specific instructions on how to use your personal data. If we suspect your personal data has gone astray, we’ll let you know as soon as possible and notify any applicable regulator where we are legally required to do so.
 
-**9\. DATA RETENTION  **
+**9\. DATA RETENTION**
 
 We keep your personal data only as long as we need it to achieve the purposes for which we collected it. When deciding how long to keep your data, we consider the amount, nature and sensitivity of the data, the potential risk of harm if it’s accessed or used inappropriately, the purposes for which we collect and process it and whether we can achieve those purposes through other means, and any applicable legal requirements.
 
-**10.  ** **YOUR LEGAL RIGHTS**
+**10\. YOUR LEGAL RIGHTS**
 
-Under certain circumstances, you have rights under data protection laws in relation to your personal data. You can exercise any of your rights by contacting us at [privacy@trendkite.com](mailto:privacy@trendkite.com). We may need to ask you for specific information to confirm your identity and ensure your right to access your personal data or exercise your other rights. If you’re in the EEA:
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. You can exercise any of your rights by contacting us at [privacy@cision.com](mailto:privacy@cision.com). We may need to ask you for specific information to confirm your identity and ensure your right to access your personal data or exercise your other rights. If you’re in the EEA:
 
   * You can **request access** to your personal data to receive a copy of the personal data we hold.
   * You can **request correction** of the personal data that we hold about you.
@@ -95,7 +95,7 @@ Under certain circumstances, you have rights under data protection laws in relat
 
 
 
-**GLOSSARY   **
+  **GLOSSARY   **
 
 Here’s a short guide to some of the terms we used in this privacy notice:
 
