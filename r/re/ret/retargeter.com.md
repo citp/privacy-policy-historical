@@ -1,173 +1,124 @@
-> *The following text is extracted and transformed from the retargeter.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623154753id_/https%3A//retargeter.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retargeter.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407204912id_/https%3A//retargeter.com/website-privacy-policy) for the most accurate reproduction.*
 
-# Legal Privacy - Retargeter
+# Website Privacy Policy | ReTargeter
 
-**Effective Date: April 15, 2018**
+Last updated May 11, 2018  
+[View Archived Privacy Policy](https://retargeter.com/terms-conditions/)
 
-SellPoints, Inc. and its Affiliates, doing business as SellPoints and Retargeter (“we” or “us”) know that you care about how the information we receive from you is used and shared, and we take your privacy seriously. This Privacy Policy describes our privacy practices in relation to information that we collect through websites operated by us from which you are accessing this Privacy Policy (collectively, the “Domains”), through the software applications made available by us for use on or through computers and mobile devices that link to this Privacy Policy (the “Apps”), through our social media pages and apps (collectively, the “Social Media Pages”), and other services provided by us both online and offline; as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Domains, the Apps and the Social Media Pages, the “Sites”). “You” or a “user” refers to any individual who visits or otherwise uses the Sites. By using the Sites, you are accepting and agreeing to the practices outlined in this Privacy Policy.
+We have prepared this Website Privacy Policy to explain how, why, and when we collect data from you on our website.
 
-This Privacy Policy does not apply to the practices of third parties that we do not own or control, or to individuals that we do not employ or manage.
+Please note that this Privacy Notice only applies to data that we collect when you visit the SellPoints website at [www.SellPoints.com](https://www.sellpoints.com/) or our Retargeter website at [www.retargeter.com](https://retargeter.com/) (the “ **Sites** ”). To learn what data we collect when you visit the websites of our advertiser clients, please visit the [SellPoints Service Privacy Notice](https://retargeter.com/terms-conditions/).
 
-This Privacy Policy also does not apply to information that we receive or handle on behalf of our subscribers in our role as a service provider, such as information that we receive through Marketing Automation Software Services or other services offered by our affiliated companies, and partners, including any apps we make available for use by our subscribers (collectively, the “Services”). Such information is governed by the terms of the applicable services agreement, rather than this Privacy Policy.
+### **1\. About SellPoints’ Services**
 
-You can request a copy of this Privacy Policy by contacting us at privacy@retargeter.com.
+SellPoints provides targeted advertising services for our advertiser clients (“Advertisers”). When you visit a website operated by an Advertiser or a third party site where we could serve an ad to you, we may collect some or all of the data described in our _[Service Privacy Notice](https://retargeter.com/terms-conditions/)_. Our platform uses that data as well as other data described below to help Advertisers provide ads to you that are more relevant to you.
 
- **1\. What Types of Information Do we Collect About Our Users?**
+For example, if you visit an Advertiser’s website and shop for football helmets, our Platform (or another platform we work with) may later serve you with targeted ads for the Advertiser’s brand of football helmets as you browse the internet or through other channels, such as emails.
 
-Personal Information. “Personal Information” is information that identifies you as an individual or relates to an identifiable individual, including: name, title, company name, job function, expertise, postal address, telephone number, or email address. If you submit any Personal Information relating to other people to us or to our service providers in connection with the Sites, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
+### **2\. What data we collect and how we use it**
 
-Other Information. “Other Information” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual. This might include, for instance, browser and device information; App usage data; information collected through cookies, pixel tags, and other technologies; demographic information and other information provided by you; or aggregated information. We use this information to facilitate our operation of the Sites and for other purposes described below.
+We may collect the following categories of information on our website and use them for the purposes explained below.
 
-IP Address: Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever you access the Sites, along with the time of the visit and the page(s) that you visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses to calculate usage levels of the Sites, help diagnose problems with our servers, administer the Sites, and monitoring the regions from which you navigate to our Sites.
+  * Website activity: Data about your browsing activity on our website.
+  * Device and browser information: Technical information about the device or browser you use to access our website. For example, your device’s IP address, and (in the case of mobile devices) your device type and mobile device’s unique identifier such as the Apple IDFA or Android Advertising ID.
+  * Contact Information: If you choose to provide your name, email address or phone number.
+  * Account Information: If you open an account, we will collect your username and a password and other information to necessary to open and access your account.
+  * Customer Service Information: Information you may provide to customer service including survey responses.
+  * Financial Information: Credit card number or other payment account information. This information is collected directly by our payments processor and not stored at SellPoints.
+  * Third party information: We may collect additional information about you from third-party sources where we have the rights to do so.
 
- **2\. How Do We Collect Information?**
 
-Personal Information. We and our service providers may collect Personal Information in a variety of ways, including:
 
-Through the Sites: We may collect Personal Information through the Sites, e.g., when you request a free trial or demo, register for a webinar, contact us, subscribe to our email newsletter, download content (e.g. whitepapers), or register to use our Sites.
+We use this data to:
 
-Offline: We may collect Personal Information from you offline, such as when you attend one of our events, during phone calls with sales representatives, or when you contact customer service.
+  * To respond to your inquiries and fulfill your requests, such as to send you requested materials and newsletters, as well as information and materials regarding our products and services.
+  * To send administrative information to you, for example, information regarding our websites, services and changes to our terms, conditions, and policies.
+  * To communicate with you and provide you with related customer service.
+  * To send you marketing communications, including via email and SMS in compliance with applicable laws, that we believe may be of interest to you.
+  * To personalize your experience on the Sites by presenting products and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Sites and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+  * prevent potential fraud and enforce our Terms of Service.
 
-Through You: We may collect information such as your location or your preferred means of communication when you voluntarily provide it. Unless combined with Personal Information, this information does not personally identify you or any other user of the Sites. Note that there is no legal obligation for you to provide us with Personal Information and any information collected by us will be provided by you at your own will and with your consent.
 
-Information From Other Sources: In order to enhance our ability to provide relevant marketing, offers, and services to you, we may obtain information about you from other sources, such as public databases, joint marketing partners, social media platforms, as well as from other third parties.  
-Other Information. We and our service providers may collect Other Information in a variety of ways, including:
 
-Through Your Browser or Device: Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Apple), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Sites (such as the Apps) you are using.
+### **3\. Data Sharing**
 
-Through Your Use of the Apps: When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+We may disclose information about you:
 
-Through Cookies and Other Similar Technologies: Cookies, web beacons and other similar technologies may be used to collect Other Information. We may use third parties to serve advertisements on other websites that may be of interest to you, based on information collected about your use of our Sites and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags and web beacons). We do not recognize automated browser signals regarding tracking mechanisms, which may include ‘do not track’ instructions.
+  * With our service providers: Companies we contract with who help with parts of our business operations. We require that our service providers only use your information in connection with the services they perform for us.
+  * With your service providers: Companies under contract with, or acting on your behalf, who handle data (such as a customer lists) on your behalf.
+  * With our related companies
+  * In connection with legal proceedings: When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of SellPoints, our Advertisers or any other third party.
+  * In connection with a sale of our business: If a third party acquires some or all of our business or assets, we may disclose your information in connection with the sale.
+  * We also share technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other advertising companies in the digital advertising ecosystem. This enables them and us to better target ads to you.
 
-We also may use web analytics services, such as Google Analytics, which may use cookies and similar technologies to analyze how users use the Domains. The information generated about Domain usage (including your shortened IP address) may transmitted to such third party, and used to evaluate visitors’ use of the Domain, compile statistical reports on Domain activity, and provide other services related to the Site and Internet use. Such third parties may also collect information about Domain visitors’ use of other websites.
 
- **3\. How Do We Use Cookies and Web Beacons?**
 
-Cookies are small text files that can store information. There are two types of cookies: session cookies and persistent cookies. Session cookies expire when you close your browser, and persistent cookies stay on your computer until you delete them. We may use both session and persistent cookies to customize your web experience and to analyze web traffic.
+Finally, we may disclose aggregated, anonymized information to third parties.
 
-We use cookies and web beacons in the delivery of display advertisements to our website visitors and to our clients’ website visitors on various sites across the internet. This is how the process works:
+### **4\. Cookies and related technologies**
 
-You visit our client’s website. Our web beacon fires and drops a persistent cookie onto your browser. When you leave the client’s website and visit a second website, we and/or our ad technology are able to recognize that browser cookie and serve a display ad to you.
+The Sites website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
 
-These cookies do not store any PII, but they do record, among other information, the following: the set of people cookied, websites visited, where and when people viewed our ads, interactions (such as clicks) with an ad, and if a purchase was made. This type of information can in no way be used to identify a specific person or user of our service. This data will never be shared with third parties or used to display ads for a third party without explicit written permission from all parties.
+To get more information about the individual cookies dropped by our website, please see the Adjust Ad Preferences link on the footer of our website.
 
-The NPII collected by us in the aforementioned process will be kept by us indefinitely and will be securely maintained and archived. We do not link the NPII described here to any personally identifiable information provided to us.
+### **5\. Your choices and opting-out**
 
-We believe everyone should have control over which ads they see, and we allow anyone to opt out from being served retargeted ads by or through our service. If you use multiple browsers or devices, you will need to opt out on each browser or device, and if you delete your cookies you will need to opt out again.  
-Click here to opt out.
+We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads you receive and how we use your data:
 
- **4\. How Do We Use Other Personal Information?**
+  * You can opt out of receiving personalized ads served by us or on our behalf by following the instructions provided or by clicking _[here](https://www.usa.gov/optout-instructions)_.   Please note that, if you delete your cookies or upgrade your browser after having opted out, you will need to opt out again.
+  * In some cases we may link multiple browsers or devices to you. If you opt out on a browser or device and we have more linked to you, we will extend your opt out decision to the other linked browsers and devices. Since we only link users across browsers on devices in some conditions, there could be cases where you are still being tracked in a different browser or device we have not linked, and where we are treating you as a different user.
+  * We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
+  * We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (DAAC). You may opt out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAAC website [here](http://youradchoices.ca/choices/).
+  * We also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via their [Your Online Choices](http://www.youronlinechoices.com/)
+  * Please note that when using the ad industry opt-out tools described above:
 
-We may use Personal Information:
 
-To respond to your inquiries and fulfill your requests, such as to send you requested materials and newsletters, as well as information and materials regarding our products and services.
+  *     * If you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won’t be used by us for the purpose of targeting ads to you.
+    * If you use multiple browsers or devices you may need to execute this opt out on each browser or device.
+    * Other ad companies’ opt-outs may function differently than our opt-out.
 
-To send administrative information to you, for example, information regarding the Sites and changes to our terms, conditions, and policies.
 
-To communicate with you and provide you with related customer service.
+  * You can request that we stop email marketing to you. You can use the unsubscribe link in our marketing emails or contact [privacy@sellpoints.com](mailto:privacy@sellpoints.com) or [privacy@conversiondock.com/retargeter](mailto:privacy@conversiondock.com/retargeter).
 
-To send you marketing communications, including via email and SMS in compliance with applicable laws, that we believe may be of interest to you.
 
-To personalize your experience on the Sites by presenting products and offers tailored to you.
 
-To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+In addition, if you are located in the European Economic Area you may also have the right to access, correct or update some of the information we hold about you. You can also request that we delete your information. If you wish to exercise any of these rights, please contact us at [privacy@sellpoints.com](mailto:privacy@sellpoints.com) or [privacy@retargeter.com](mailto:privacy@retargeter.com).
 
-For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Sites and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
+### **6\. Data retention**
 
-As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+Identifiable information about you is held no longer than necessary for our business purposes or to meet legal requirements.
 
- **5\. How Will We Share Personal Information We Receive?**
+### **7\. Security**
 
-Information about our users is an integral part of our business. We only share your Personal Information as described in this Privacy Policy.
+We apply technical, administrative and organizational security measures to protect the data we collect against accidental or unlawful destruction and loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against other unlawful forms of processing.
 
-Subsidiaries and Affiliates:
+### **8\. International transfers**
 
-We may disclose Personal Information to our Subsidiaries and Affiliates for the purposes described in this Privacy Policy.
+We may transfer the information we collect about you to countries other than the country where we originally collected it for the purposes of storage and processing of data and operating our services. Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Notice and take steps, where necessary, to ensure that international transfers comply with applicable laws. For example, if we transfer your information from the European Economic Area to a country outside it, such as the United States, we will seek to take additional steps such as entering into EU compliant data transfer agreements with the data importer where necessary.
 
-Third-Party Business Partners:
+### **9.   Can Children Use Our Sites? **
 
-We partner with a variety of businesses and work closely with or assist them in marketing or selling products or services. In certain situations, these businesses operate within the Sites. We may disclose Personal Information to our partners for the purposes described above. Some of our third-party business partners may co-sponsor events and other offerings with Us. We may share Personal Information with these co-sponsors when you sign up for events or offerings to allow our partners to send you marketing communications and information that may be of interest to you, as permitted under applicable law.
+The Sites are not intended for minors under the age of 18. We do not knowingly or specifically collect information about minors under the age of 18 and believe that children of any age should get their parents’ or legal guardians’ consent before providing any Personal Information. If you believe that we have mistakenly or unintentionally collected such information, please notify us at [info@sellpoints.com](mailto:privacy@bluedrone.com), so that we may delete the information from our servers.
 
-Agents and Service Providers:
-
-We may contract with other companies and people to perform tasks on our behalf and may share your Personal Information with them to provide products or services to you, or to otherwise communicate with you, such as to provide marketing or offers on our behalf. Examples may include removing repetitive information from customer lists, analyzing data, providing marketing assistance, conducting billing, processing credit card payments, engaging technical support for our services, providing customer service, and performing analysis related to our products or services. We may also provide your Personal Information to agents and service providers to verify or compile aggregate usage data that we provide to our partners. When we share this information in this way, we seek to require the agent or service provider to maintain the privacy, confidentiality and security of the Personal Information.
-
-Sweepstakes:
-
-We may share Personal Information with business partners or other third party sponsors of sweepstakes, contests and similar promotions.
-
-Blog and Social Media Pages:
-
-Personal Information may also be disclosed by you through the Sites, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages). This information may appear in public ways, such as through search engines or other publicly available platforms, and may be “crawled” or searched by third parties.
-
-Please do not post any information that you do not want to reveal to the public at large.
-
-Business Transfers:
-
-In some cases, we may buy or sell assets or businesses. In these types of transactions, user information is typically one of the business assets that is transferred. We may disclose Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
-
-Protection of Us and Others:
-
-We may release Personal Information when we believe that release is necessary or appropriate (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce or apply our conditions of use and other agreements; (e) to protect our operations or those of any of our Affiliates; (f) to allow us to pursue available remedies or limit the damages that we may sustain; and (g) to protect the rights, privacy, property, or our safety, or the safety of our employees, our Affiliates, our users, or any other person or entity. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-
-Aggregated Data
-
-Aggregated Personal Information does not personally identify you or any other user of the Sites. We may monitor your use of our Services and compile information about such use, Personal Information and Other Information and data in an aggregate and anonymous manner to derive statistical and performance information related to the provision and operation of the SellPoints Services, or related to any other matter, and may make such information publicly available or privately available to third parties, provided that such information does not include any data that would enable the identification of you or your Personal Information, or the disclosure of Customer Confidential Information. We retain all rights, title and interest in and to such statistical and performance information.
-
- **6\. How Do We Use and Disclose Other Information?**
-
-We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it for all the purposes for which we use and disclose Personal Information.  
-In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we do, we will treat the combined information as Personal Information for as long as it is combined.
-
- **7\. How Do We Secure Personal Information About You?**
-
-We have implemented organizational, technical, and administrative measures to protect Personal Information within our organization, including security controls to prevent unauthorized access to our systems. While we take reasonable steps to secure your Personal Information from loss, misuse, interference and unauthorized access, modification and disclosure, you should be aware no security procedures or protocols are ever guaranteed to be 100% secure from intrusion or hacking, and there is therefore always some risk assumed by sharing Personal Information online. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of your account has been compromised), please immediately notify us in accordance with the “Questions, Concerns and Complaints” section below.
-
- **8\. How Can I Access, Correct, Amend or Remove Information About Me?**
-
-If you would like to access, correct, amend, remove or limit the use or disclosure of any Personal Information about you that has been collected and stored by Us, please notify us at privacy@retargeter.com that we may consider and respond to your request in accordance with applicable law.
-
-For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will respond to your request within 15 days.
-
-Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such access, change or deletion.
-
- **9\. For How Long Will We Retain Your Personal Information?**
-
-We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
-
- **10\. What Choices Do I Have?**
-
-You can always opt not to disclose information. However, if you elect to do so, we may be limited in responding to your inquiry or providing services to you.  
-You may opt-out of receiving marketing messages from Us or our Affiliates by unsubscribing through the unsubscribe or opt-out link in an email. We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages.
-
- **11\. Can Children Use Our Sites?**
-
-The Sites are not intended for minors under the age of 18. We do not knowingly or specifically collect information about minors under the age of 18 and believe that children of any age should get their parents’ or legal guardians’ consent before providing any Personal Information. If you believe that we have mistakenly or unintentionally collected such information, please notify us at privacy@retargeter.com, so that we may delete the information from our servers.
-
- **12\. Third Party Sites?**
+### **10\. Third Party Sites?  **
 
 The Sites may permit you to link to other websites on the Internet through direct links or through applications such as “share” or “Like” buttons, and other websites likewise may contain links to the Sites. The information practices or content of such other websites is governed by the privacy statements of those websites and not by this Privacy Policy. We encourage you to review the privacy policies found on such other websites, services, and applications to understand how your information may be collected and used.
 
 Similarly, please note that we are not responsible for the collection, use and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM, or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or the Social Media Pages.
 
- **13\. In-App Advertising and User Advertising IDS (AAID/IDFA)**
+### **11.    Sensitive Information**
 
-If you advertise in-app or user Advertising IDs (AAID/IDFA), we shall endeavor to include either (1) a functional opt-out, or (2) instructions on how a user may reset their Advertising IDs.
+We ask that you not send us or disclose any sensitive Personal Information ( _e.g._ , social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Sites or via other means.
 
- **14\. Sensitive Information**
+### **12\. Changes to this Privacy Notice**
 
-We ask that you not send us or disclose any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Sites or via other means.
+Changes to this Privacy Notice will be posted on this page. If we make a material change to our privacy practices, we will provide notice on the site or by other means as appropriate.
 
- **15\. Changes to this Privacy Policy**
+### **13\. Contact us about questions or concerns**
 
-We may amend this Privacy Policy from time to time. The “Effective Date” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Sites. Your use of the Sites following these changes means that you accept the revised Privacy Policy.
-
- **16\. International Transfer of Data**
-
-Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Sites or disclosing information to us you consent to the transfer of information to countries outside of your country of residence, including the United States, Australia, Germany, Ireland, Israel, Japan, the European Union and the UK, which may have different data protection rules than those of your country or the country in which you were located when you initially provided the information.
-
- **17\. Questions, Concerns or Complaints**
-
-Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at privacy@retargeter.com, or by mail at 1198 65th Street, Suite 250 Emeryville, CA. 94608 ATTN: Privacy Officer, Legal. Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us.
+Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at [info@sellpoints.com](mailto:privacy@bluedrone.com), or by mail at 1198 65th Street, Suite 250 Emeryville, CA.  94608 ATTN: Privacy Officer, Legal. Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us.
 
 We will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
