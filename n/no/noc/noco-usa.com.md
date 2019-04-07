@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noco-usa.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201032724id_/https%3A//no.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noco-usa.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407170909id_/https%3A//no.co/privacy-policy) for the most accurate reproduction.*
 
 # NOCO - Privacy Policy
 
