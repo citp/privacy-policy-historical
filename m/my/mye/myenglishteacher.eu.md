@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myenglishteacher.eu privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514170910id_/https%3A//www.myenglishteacher.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myenglishteacher.eu privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407025148id_/https%3A//www.myenglishteacher.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online English Teacher - MyEnglishTeacher.eu
 
@@ -93,6 +93,6 @@ http://myenglishteacher.eu-2/
 Lehel u. 61  
 Százhalombatta, Pest 2440  
 Hungary  
-info@myenglishteacher.eu
+[[email protected]](https://www.myenglishteacher.eu/cdn-cgi/l/email-protection)
 
 This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
