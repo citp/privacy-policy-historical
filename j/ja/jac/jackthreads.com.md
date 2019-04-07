@@ -1,19 +1,23 @@
-> *The following text is extracted and transformed from the jackthreads.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516105427id_/https%3A//www.jackthreads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackthreads.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407233559id_/https%3A//jackthreads.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – JackThreads
 
-JackThreads, Inc. (“ **JackThreads** ”) respects your concerns about privacy. This Privacy Policy describes the types of personal information we collect, how we use (and don’t use!) the information and with whom we share it. We also describe, among other things, the measures we take to protect the security of the information and how you can contact us about our privacy practices. We recognize that we must maintain and use your personal information responsibly.
+Privacy Policy
 
-When we say “ **we** ”, “ **our** ” or “ **us** ”, we mean collectively:
+Last Updated: August 16, 2017
 
-  * the main JackThreads site ([www.jackthreads.com](https://www.jackthreads.com/)); and
+JackThreads, Inc. (“JackThreads”) respects your concerns about privacy. This Privacy Policy describes the types of personal information we collect, how we use (and don’t use!) the information and with whom we share it. We also describe, among other things, the measures we take to protect the security of the information and how you can contact us about our privacy practices. We recognize that we must maintain and use your personal information responsibly.
+
+When we say “we”, “our” or “us”, we mean collectively:
+
+  * the main JackThreads site ([jackthreads.com](https://www.jackthreads.com/)); and
   * any and all email publications or other distributions in any form or format prepared and delivered by us to our customers.
 
 
 
-And, when we refer to “ **personal information** ”, we mean information by which you or the device you are using to connect to the Internet can be identified.
+And, when we refer to “personal information”, we mean information by which you or the device you are using to connect to the Internet can be identified.
 
-**_Information We Collect_**
+_Information We Collect_
 
 We may obtain personal information about you from various sources, including this and our other websites, mobile applications, when you call or email us or communicate with us through social media, or when you participate in events or other promotions. We also may obtain information about you from our business partners and other third parties. Any personal information you provide to us is maintained on secure servers and our internal systems.
 
@@ -26,7 +30,7 @@ The types of personal information we may obtain include:
   * Payment details (including payment card number, security code, expiration date, cardholder name and billing address);
   * Shipping information (including the shipping address and phone number);
   * Demographic information (such as age, date of birth and gender);
-  * Any content ( _e.g._ , comments, photographs, information and other materials) that you post directly on our sites (please bear in mind any personal information you submit can be read, collected or used by others; accordingly, please exercise caution when deciding to disclose any personal information in public activities or submissions);
+  * Any content ( _g._ , comments, photographs, information and other materials) that you post directly on our sites (please bear in mind any personal information you submit can be read, collected or used by others; accordingly, please exercise caution when deciding to disclose any personal information in public activities or submissions);
   * Information you provide by interacting with us through social media, including photographs;
   * Location information, such as the real-time geographic location of the device on which you install our mobile applications ( _note_ : when you use one of our applications on your mobile device you may be able to choose not to share your geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer);
   * Reading, browsing and shopping behavior and preferences, and a record of the purchases you make on our websites;
@@ -35,17 +39,21 @@ The types of personal information we may obtain include:
 
 
 
-In addition, we may use “cookies,” “device identifiers” or similar types of technology ( _e.g_., pixels tags, web beacons, clear GIFs, and local storage) to collect information about your use of our sites. We may use this information to help us enhance the efficiency and usefulness of our sites, to customize your visit to our sites, and for other purposes to make your visit more convenient or to enable us to enhance our services. For your information, “cookies” are files that are stored on your computer’s hard drive by a website, and “device identifiers” are files that are stored on your mobile device that identify your device. In addition, we may use third parties to provide products and services to you through our sites. These third parties may employ cookies, device identifiers, or similar technologies. _Note_ : most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of our sites’ features. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as targeted advertising opt-outs. Finally, your mobile device may provide you with information and choices on what data is shared with us.
+In addition, we may use “cookies,” “device identifiers” or similar types of technology ( _e.g_., pixels tags, web beacons, clear GIFs, and local storage) to collect information about your use of our sites. We may use this information to help us enhance the efficiency and usefulness of our sites, to customize your visit to our sites, and for other purposes to make your visit more convenient or to enable us to enhance our services. For your information, “cookies” are files that are stored on your computer’s hard drive by a website, and “device identifiers” are files that are stored on your mobile device that identify your device. In addition, we may use third parties to provide products and services to you through our sites. These third parties may employ cookies, device identifiers, or similar technologies. 
+
+ _Note_
+
+: most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of our sites’ features. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as targeted advertising opt-outs. Finally, your mobile device may provide you with information and choices on what data is shared with us.
 
 When you visit our sites, we may automatically collect certain non-identifying information about you, such as the computer operating system or mobile device that you use to access our sites, your Internet Protocol address, your browser type and settings, your bandwidth speed and information about the software programs that are installed on your computer, the date and time that you access our sites, the web pages you were visiting immediately before and after you came to our sites, the domain name of the website from which you linked to our sites, search terms that visitors use to reach our sites, information on actions taken on our sites (such as page views and site navigation patterns) and links and advertisements that you click on within our sites and other technical information that assists us in improving our services.
 
 We also may use third-party website analytics tools that collect information about visitor traffic on our sites and mobile applications. Without limiting the generality of the foregoing, we use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), and the Google Analytics tracking code implemented by us supports Display Advertising and its features (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting). We will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from such Display Advertising features unless you have first been provided with abundant notice of and given us your prior affirmative (i.e. opt-in) consent to, that merger. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize and serve ads based on your past visits to our sites. For example, we may use such analytics to (i) display content specific advertisements to visitors that have previously visited our sites when those visitors go to other websites (e.g., Google may show ads relating to our sites to those visitors across the Internet) and (ii) help us determine how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our sites. You can opt out of Google Analytics for Display Advertising and customize Google Display ads using the Google Ads Preferences Manager.
 
-**_How We DO NOT Use the Information We Collect_**
+_How We DO NOT Use the Information We Collect_
 
-Apart from the extraordinary circumstance of a sale of our entire company in a merger or similar type of transaction, **JackThreads will never rent or sell Your PERSONAL INFORMATION**. We appreciate your enthusiasm for our products and services, and we promise not to abuse that trust. We make this promise because we understand just how much you value your privacy.
+Apart from the extraordinary circumstance of a sale of our entire company in a merger or similar type of transaction, JackThreads will never rent or sell Your PERSONAL INFORMATION. We appreciate your enthusiasm for our products and services, and we promise not to abuse that trust. We make this promise because we understand just how much you value your privacy.
 
-**_How We DO Use the Information We Collect_**
+_How We DO Use the Information We Collect_
 
 We use the personal information you provide to us in several ways. Some examples follow:
 
@@ -76,13 +84,17 @@ We may combine the information we collect with publicly available information an
 
 We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
 
-**_Online Advertising_**
+_Online Advertising_
 
-_In a nutshell_ , we use standard tracking and delivery technology to serve you relevant advertising. For an explanation of that technology and how to control the tracking, the consumer awareness section of the Digital Advertising Alliance’s website ([www.aboutads.info/consumers](http://www.aboutads.info/consumers)) provides a good overview.
+_In a nutshell_
 
-_In a little further detail (but without limiting the generality of the foregoing)_ , on our sites we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on this and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for us and our business partners that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our sites and on third-party sites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
+, we use standard tracking and delivery technology to serve you relevant advertising. For an explanation of that technology and how to control the tracking, the consumer awareness section of the Digital Advertising Alliance’s website ([www.aboutads.info/consumers](http://www.aboutads.info/consumers)) provides a good overview.
 
-**_Information We Share_**
+_In a little further detail (but without limiting the generality of the foregoing)_
+
+, on our sites we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on this and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for us and our business partners that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our sites and on third-party sites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
+
+_Information We Share_
 
 We do not disclose personal information about you, except as expressly described in this Privacy Policy. For the sake of emphasis, JackThreads will never rent or sell your personal information.
 
@@ -90,23 +102,23 @@ We may share the personal information we collect with our parent, affiliate and 
 
 We also may disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal or fraudulent activity.
 
-**_Credit Card Companies_**
+_Credit Card Companies_
 
 Credit card transactions are handled by third party financial institutions and their vendors and contractors who receive credit card numbers and other personal information from us to verify the credit card numbers and process transactions. Although our treatment of this information is governed by this Privacy Policy, the use of your personal information by the third party financial institutions and their vendors and contractors will be subject to their own privacy policies.
 
-**_Your California Privacy Rights_**
+_Your California Privacy Rights_
 
-Beginning January 1, 2005, under California law, if you are a resident of California, you may make a written request to us about how we have shared your personal information with third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and address. Please submit a written request to the following address: California Policy Manager, JackThreads, Inc., 81 Prospect St., Brooklyn, NY 11201; or, email support(at)jackthreads(dot)com with the subject line “California Policy” and your request in the body of your email.
+Beginning January 1, 2005, under California law, if you are a resident of California, you may make a written request to us about how we have shared your personal information with third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and address. Please submit a written request to the following address: California Policy Manager, JackThreads, 463 7th Ave Suite 802 New York, NY 10018; or, email [legal@JAckThreads.com](mailto:legal@JAckThreads.com) with the subject line “California Policy” and your request in the body of your email.
 
-**_Access and Correction_**
+_Access and Correction_
 
 You may obtain a copy of certain personal information we maintain about you or update or correct inaccuracies in that information using the online account you may establish on our websites. In addition, if you believe other personal information we maintain about you is inaccurate, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section of this Privacy Policy. If we deny an access request, we will notify you of the reasons for the denial.
 
-**_Links to Other Websites; Social Media_**
+_Links to Other Websites; Social Media_
 
 To enhance your experience, our websites may include links to other, unaffiliated sites. Those websites will have their own privacy policies that you may wish to review. We have no responsibility for such linked websites or any use of those sites or those sites’ privacy practices. Our sites may contain links to our presence on various social media platforms.  As we do not operate or control such platforms, this Privacy Policy and our Terms of Use do not apply to your use of such platforms. In addition, you should be aware that personal information which you voluntarily include and transmit online in a publicly accessible blog, social network or other social media platform may be viewed and used by others. We are unable to control such uses of your personal information, and by using such services you assume the risk that the personal information provided by you may be viewed and used by third parties.
 
-**_How to Unsubscribe to JackThreads Emails and “Allied Info”_**
+_How to Unsubscribe to JackThreads Emails and “Allied Info”_
 
 You can unsubscribe from receiving JackThreads emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any JackThreads email and following the instructions. You can also unsubscribe by clicking on the "Unsubscribe" link on the bottom of the JackThreads homepage and following the instructions.
 
@@ -114,25 +126,25 @@ If you’ve been subscribing to our emails then from time to time you’ve also 
 
 You can unsubscribe from receiving Allied Info emails. However, if you do so, you will no longer receive JackThreads emails either. You can unsubscribe by clicking on the "Unsubscribe" link in the footer of any JackThreads email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the JackThreads homepage and following the instructions.
 
-**_How We Protect Personal Information_**
+_How We Protect Personal Information_
 
 We maintain administrative, technical and physical safeguards designed to assist us in protecting the personal information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. For example, we use [256-bit Secure Socket Layer (SSL) technology] to protect the security of your online order information. [SSL technology] encrypts your order information to protect it from being decoded by anyone other than us. We also limit access to personal information about you to employees or service providers who we believe reasonably need to come into contact with that personal information to provide products or services to you or in order to do their jobs.
 
 While we implement these and other security measures on our sites, please note that 100% security is not always possible. We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail, or that those measures will always be sufficient or effective. You play a role in protecting your information as well. Because your password permits access to your personal information, please keep your password secret and do not disclose it to others.
 
-**_Children’s Privacy_**
+_Children’s Privacy_
 
 We are concerned about the privacy of young children. Accordingly, we do not direct our websites to children under the age of thirteen. We require registered users of the site to be at least eighteen years old. If we learn that a user is under eighteen years of age, we will promptly delete any personal information that the individual has provided to us.
 
-**_Updates to this Privacy Notice_**
+_Updates to this Privacy Notice_
 
 This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a notice on our websites to notify you of any significant changes to our Privacy Policy and indicate at the top of the notice when it was most recently updated.
 
-**_How to Contact Us_**
+_How to Contact Us_
 
-If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at support(at)jackthreads(dot)com. You also may write to us at:
+If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at [legal@JackThreads.com](mailto:legal@JAckThreads.com). You also may write to us at:
 
 JackThreads, Inc.  
 Attn: Chief Technology Officer  
-81 Prospect St.  
-Brooklyn, NY 11201
+463 7th Ave Suite 802.  
+New York, NY 10018
