@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615011317id_/https%3A//www.meed.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407020435id_/https%3A//www.meed.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies | Meed
+# Privacy Policy and Cookies | MEED
 
 This Privacy Policy sets out how Meed Media FZ LLC collects and uses information from users (“User” or “you”) of our website and/or any website which is operated by Meed Media FZ LLC (“Meed Media FZ LLC”, “our”, “we” or “us”). This Privacy Policy applies to the Website and all products and services offered by Meed Media FZ LLC.
 
@@ -52,9 +52,11 @@ Unless we are given explicit permission to do so; we do not sell, trade, or rent
 
 ### List of our websites
 
-www.meed.com  
-www.meedprojects.com  
-buy.meed.com
+[www.meed.com](https://www.meed.com/)
+
+[www.meedprojects.com](https://premium.meedprojects.com/)
+
+[buy.meed.com](https://buy.meed.com/)
 
 ### Third party websites
 
@@ -74,16 +76,4 @@ By using this Website, you signify your acceptance of this policy. If you do not
 
 ### Contact us
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at unsubscribe@meed.com or alternatively:
-
-Data Protection Officer
-
-Meed Media FZ LLC
-
-John Carpenter House
-
-John Carpenter Street
-
-London EC4Y 0AN
-
-United Kingdom
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please feel free to contact our [Customer Success team](mailto:customerservice@meed.com) to speak with someone.
