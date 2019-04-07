@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikileaf.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227053928id_/https%3A//www.wikileaf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikileaf.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407235115id_/https%3A//www.wikileaf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Wikileaf
 
@@ -60,4 +60,4 @@ If you have any questions or concerns regarding the Privacy Policy Agreement rel
 
 **Email:** support@wikileaf.com
 
-**Telephone Number:** 206-771-1296
+**Telephone Number:** 206-802-1363
