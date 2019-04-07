@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcg.org privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310195711id_/https%3A//rcg.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcg.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407044028id_/https%3A//rcg.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,11 +14,11 @@ Users who sign up to one of our email subscription lists are required to supply 
 
 There are various ways in which we are permitted to obtain information about you through the following processes:
 
- _Email Subscription and Forms:_ Users may register for one of our email mailing lists or request literature from our websites. These inform users of various updates and changes to our websites or are to facilitate the efficient processing of literature requests.
+ **Email Subscription and Forms:** Users may register for one of our email mailing lists or request literature from our websites. These inform users of various updates and changes to our websites or are to facilitate the efficient processing of literature requests.
 
- _Cookies:_ A _cookie_ is a small data file that websites write to your hard drive when you visit them. It most often contains information such as a user ID that sites use to customize information presentation or track the visited pages. We use this information to optimize our site navigation, design and performance. You are always free to decline our “cookies” if your browser permits, but this may limit some aspects of website functionality.
+ **Cookies:** A _cookie_ is a small data file that websites write to your hard drive when you visit them. It most often contains information such as a user ID that sites use to customize information presentation or track the visited pages. We use this information to optimize our site navigation, design and performance. You are always free to decline our “cookies” if your browser permits, but this may limit some aspects of website functionality.
 
- _IP Addresses:_ We collect IP address information for the purposes of system administration, to report aggregate (collective) information, and to audit the use of our services and materials. Because we automatically collect and store statistics about your online activities on an aggregated basis, this information is not always personally identifiable. We do not link IP addresses to personal identification, unless given prior approval or to necessarily troubleshoot a problem.
+ **IP Addresses:** We collect IP address information for the purposes of system administration, to report aggregate (collective) information, and to audit the use of our services and materials. Because we automatically collect and store statistics about your online activities on an aggregated basis, this information is not always personally identifiable. We do not link IP addresses to personal identification, unless given prior approval or to necessarily troubleshoot a problem.
 
 #### How We Use and Disclose Your Information
 
@@ -46,10 +46,10 @@ While your privacy is very important to us, due to the existing legal and regula
 
 This site is the primary and official source of web-based information about The Restored Church of God. Recognizing that there are people who wish to promote our efforts on the Internet by maintaining web pages that parallel this website, we have adopted the following policy to ensure consistency and protect against error.
 
-All of the content and graphics contained in this website are copyrighted 2000-2013 and owned by The Restored Church of God. Certain items are also protected as a trademark or a registered trademark of The Restored Church of God. The Restored Church of God maintains and reserves exclusive rights to the license and use of the same.
+All of the content and graphics contained in this website are copyrighted 2000-2019 and owned by The Restored Church of God. Certain items are also protected as a trademark or a registered trademark of The Restored Church of God. The Restored Church of God maintains and reserves exclusive rights to the license and use of the same.
 
 We ask that any and all content and graphics that reference or relate to The Restored Church of God or this website be submitted to us for review and approval before being displayed on the Internet.
 
 #### User Complaints
 
-User complaints regarding our privacy practices should be sent to [Website Services](https://web.archive.org/web/20170310195711id_/https%3A//rcg.org/contact.html).
+User complaints regarding our privacy practices should be sent to [Website Services](https://web.archive.org/web/20190407044028id_/https%3A//rcg.org/contact.html).
