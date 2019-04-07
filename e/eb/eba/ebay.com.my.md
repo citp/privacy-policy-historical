@@ -1,28 +1,27 @@
-> *The following text is extracted and transformed from the ebay.com.my privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822073458id_/https%3A//pages.ebay.com.my/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com.my privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407041731id_/https%3A//pages.ebay.com.my/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
-This Privacy Notice was posted on **May 1, 2018**. It is effective immediately for new users, and from **June 1, 2018** for all other users. [See previous version of this Privacy Notice](http://pages.ebay.com.my/help/pp_previous.html).
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+This Privacy Notice was posted on **May 1, 2018**. It is effective immediately for new users, and from **June 1, 2018** for all other users. [See previous version of this Privacy Notice](https://web.archive.org/pages/help/pp_previous.html).
 
 eBay is committed to your privacy. This privacy notice explains our collection, use, disclosure, retention and protection of your personal information.
 
-Untuk membaca dokumen ini dalam Bahasa Melayu, [sila klik di sini](http://pages.ebay.com.my/help/policies/privacy-policy-bahasa.html).
+Untuk membaca dokumen ini dalam Bahasa Melayu, [sila klik di sini](https://web.archive.org/pages/help/policies/privacy-policy-bahasa.html).
 
   
 **Scope**
 
 This privacy notice applies to any eBay website, application, service or tool (collectively "Services") where this privacy notice is referenced, regardless of how you access or use them, including through mobile devices.
 
-**Learn more.**  
+**Learn more.**   
+   
   
 ---  
   
   
 **Personal information we collect**
 
-**What is Personal Information?** ****
+**What is Personal Information?**
 
 Personal Information is information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
@@ -30,7 +29,8 @@ We do not consider personal information to include information that has been ano
 
 We collect personal information from you when you use our Services.
 
-**Learn more.**  
+**Learn more.**   
+   
   
   
 **How we use your personal information**
@@ -38,6 +38,7 @@ We collect personal information from you when you use our Services.
 We use your personal information to provide and improve our Services, provide you with a personalised experience on our sites, contact you about your account and our Services, provide you customer service, provide you with personalised advertising and marketing, and to detect, prevent, mitigate and investigate fraudulent or illegal activities.
 
 **Learn more.**  
+   
   
   
 **Your choices about how we use your personal information**
@@ -45,11 +46,12 @@ We use your personal information to provide and improve our Services, provide yo
 You have choices about how we use your personal information to communicate with you, to send you marketing information, how we provide you with customised and relevant advertising, and whether you want to stay signed into your account.
 
 **Learn more.**  
+   
   
   
 **Ways you can access, control, and correct your personal information**
 
-We respect your right to access, correct, request deletion or request restriction of our usage of your personal information as required by applicable law. We also take steps to ensure that the personal information we collect is accurate and up to date. 
+We respect your right to access, correct, request deletion or request restriction of our usage of your personal information as required by applicable law. We also take steps to ensure that the personal information we collect is accurate and up to date.
 
   * You have the right to know what personal information we maintain about you
 
@@ -64,7 +66,9 @@ We respect your right to access, correct, request deletion or request restrictio
 
 
 
+  
 **Learn more.**  
+   
   
   
 **How we might share your personal information**
@@ -72,6 +76,7 @@ We respect your right to access, correct, request deletion or request restrictio
 We may disclose your personal information to other members of the eBay Inc. corporate family or to third parties. This disclosure may be required for us to provide you access to our Services, to comply with our legal obligations, to enforce our User Agreement, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We attempt to minimise the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. We do not sell, rent or otherwise disclose your personal information to third parties for their marketing and advertising purposes without your consent.
 
 **Learn more.**  
+   
   
   
 **How long we keep your personal information**
@@ -79,11 +84,12 @@ We may disclose your personal information to other members of the eBay Inc. corp
 We retain your personal information for as long as necessary to provide the Services you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our policies.
 
 **Learn more.**  
+   
   
   
 **Cookies & Similar Technologies**
 
-When you visit or interact with our sites, services, applications, tools or messaging, we or our authorised service providers may use cookies and other similar technologies to help provide you with a better, faster and safer experience, and for advertising and marketing purposes. You can read our full [User Cookie Notice](https://pages.ebay.com.my/help/account/cookies-web-beacons.html#full) for more information.  
+When you visit or interact with our sites, services, applications, tools or messaging, we or our authorised service providers may use cookies and other similar technologies to help provide you with a better, faster and safer experience, and for advertising and marketing purposes. You can read our full [User Cookie Notice](https://web.archive.org/pages/help/account/cookies-web-beacons.html#full) for more information.  
   
   
 **How do we protect your Personal Information**
@@ -101,6 +107,7 @@ We have established a set of global privacy standards for all eBay Inc. companie
 Learn more about who is your data controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this privacy notice, as well as any applicable national laws.
 
 **Learn more.**  
+   
   
   
 **Other important Privacy Information**
@@ -108,6 +115,7 @@ Learn more about who is your data controller, and is responsible for the collect
 This section describes some additional privacy information related to your use of our Services that you may find important.
 
 **Learn more.**  
+   
   
   
 **Contact Us**
@@ -120,9 +128,9 @@ Your right to file complaints with a data protection supervisory authority remai
   
 ## Scope
 
-This privacy notice applies to any eBay website, application, service or tool (collectively "Services") where this privacy notice is referenced, regardless of how you access or use them, including through mobile devices. 
+This privacy notice applies to any eBay website, application, service or tool (collectively "Services") where this privacy notice is referenced, regardless of how you access or use them, including through mobile devices.
 
-This privacy notice also applies to the provision of eBay services through any eBay partner's website, application, service or tool where it is referenced and where your listings and their content are published or advertised in accordance with the terms of this privacy notice. 
+This privacy notice also applies to the provision of eBay services through any eBay partner's website, application, service or tool where it is referenced and where your listings and their content are published or advertised in accordance with the terms of this privacy notice.
 
 We may amend this privacy notice at any time by posting the amended version on this site including the effective date of the amended version. We will announce any material changes to this privacy notice through the eBay Message Centre and/or via email.
 
@@ -136,7 +144,7 @@ We may also collect personal information from other sources, as described below.
 
 **Personal information you give us when you use our Services or register for an account with us**
 
-  * ****Identifying information such as your name, addresses, telephone numbers or email addresses when you register for an account with us.
+  * Identifying information such as your name, addresses, telephone numbers or email addresses when you register for an account with us.
 
   * Bidding, buying, or selling information you provide during a transaction, or other transaction-based content that you generate or that is connected to your account as a result of a transaction you are involved in.
 
@@ -150,7 +158,7 @@ We may also collect personal information from other sources, as described below.
 
   * You may also provide us other information through a web form, by updating or adding information to your account, through your participation in community discussions, member-to-member communications, chats, dispute resolution or when you otherwise communicate with us regarding our Services.
 
-  * Additional information we are required or authorised by applicable national laws to collect and process in order to authenticate or identify you or to verify the information we have collected. 
+  * Additional information we are required or authorised by applicable national laws to collect and process in order to authenticate or identify you or to verify the information we have collected.
 
 
 
@@ -192,7 +200,7 @@ We use the personal information we collect from you for a range of different bus
 
 **We use your personal information to fulfil a contract with you and provide you with our Services, to comply with our legal obligation, protect your vital interest, or as may be required for the public good. This includes** :
 
-  * To provide payment processing and account management, operate, measure and improve our Services, keep our Services safe, secure and operational, and customise site content that includes items and services that you may like in response to actions that you take. 
+  * To provide payment processing and account management, operate, measure and improve our Services, keep our Services safe, secure and operational, and customise site content that includes items and services that you may like in response to actions that you take.
 
   * To contact you regarding your account, to troubleshoot problems with your account, to resolve a dispute, to collect fees or monies owed or as otherwise necessary to provide you customer service.
 
@@ -202,11 +210,11 @@ We use the personal information we collect from you for a range of different bus
 
   * To provide other services requested by you as described when we collect the information.
 
-  * We use general location information to provide you with location based services (such as advertising, search results and other personalised content). 
+  * We use general location information to provide you with location based services (such as advertising, search results and other personalised content).
 
   * To prevent, detect, mitigate, and investigate fraud, security breaches or other potentially prohibited or illegal activities.
 
-  * To enforce our [User Agreement](http://pages.ebay.com.my/help/policies/user-agreement.html?rt=nc), this privacy notice, or other policies, and to monitor restrictions on offers to buy or sell outside of eBay and member-to-member communications for violations of our policies or applicable laws.
+  * To enforce our [User Agreement](https://web.archive.org/pages/help/policies/user-agreement.html?rt=nc), this privacy notice, or other policies, and to monitor restrictions on offers to buy or sell outside of eBay and member-to-member communications for violations of our policies or applicable laws.
 
 
 
@@ -219,7 +227,7 @@ We use the personal information we collect from you for a range of different bus
 
   * Contact you via email or postal mail in order to offer you coupons, discounts and special promotions, poll your opinions through surveys or questionnaires and inform you about our Services, as authorised by applicable law.
 
-  * Contact you about public policy matters, or other current events, related to your ability to use our Services. This could include an invitation to join a petition, letter writing, call or other sort of public policy related campaigns. 
+  * Contact you about public policy matters, or other current events, related to your ability to use our Services. This could include an invitation to join a petition, letter writing, call or other sort of public policy related campaigns.
 
   * Deliver targeted marketing, service updates and promotional offers based on your communication preferences.
 
@@ -236,15 +244,15 @@ We use the personal information we collect from you for a range of different bus
 
   * Provide you with marketing via telephone calls, SMS/text.
 
-  * Provide you with marketing from other eBay Inc. corporate family members. ****
+  * Provide you with marketing from other eBay Inc. corporate family members.
 
-  * Provide you with marketing from third parties. ****
+  * Provide you with marketing from third parties.
 
-  * Customise third party advertising you might see on third party websites. ****
+  * Customise third party advertising you might see on third party websites.
 
-  * Use your precise geo-location to provide location based services. ****
+  * Use your precise geo-location to provide location based services.
 
-  * Use your sensitive personal information to facilitate transactions in certain categories. ****
+  * Use your sensitive personal information to facilitate transactions in certain categories.
 
 
 
@@ -265,7 +273,7 @@ If you do not wish to receive marketing communications from us, you can unsubscr
 
 **Advertising**
 
-If you do not wish to participate in our advertising personalisation programs, you can opt-out by following the directions provided within the applicable advertisement, or through the programs described in our [User Cookie Notice](https://pages.ebay.com.my/help/account/cookies-web-beacons.html#full). The effect of an opt-out will be to stop personalised advertising, but it will still allow the collection of personal information as otherwise described in this privacy notice. We do not allow third parties to track or collect your personal information on our sites for their own advertising purposes, without your consent.
+If you do not wish to participate in our advertising personalisation programs, you can opt-out by following the directions provided within the applicable advertisement, or through the programs described in our [User Cookie Notice](https://web.archive.org/pages/help/account/cookies-web-beacons.html#full). The effect of an opt-out will be to stop personalised advertising, but it will still allow the collection of personal information as otherwise described in this privacy notice. We do not allow third parties to track or collect your personal information on our sites for their own advertising purposes, without your consent.
 
 **Staying Signed in**
 
@@ -306,7 +314,7 @@ We will honour any statutory right you might have to access, modify or erase you
 
 If you request that we stop processing some or all of your personal information or you withdraw (where applicable) your consent for our use or disclosure of your personal information for purposes set out in this privacy notice, we might not be able to provide you all of the Services and customer support offered to our users and authorised under this privacy notice and our User Agreement.
 
-Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable national laws. 
+Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable national laws.
 
 How we might share your personal information
 
@@ -329,7 +337,7 @@ We may disclose your personal information to the following parties for the follo
 
 **Service Providers and financial institutions partners as follows:**
 
-  * Third party service providers who help us to provide our Services, payment processing services, assist us in providing customised advertising, to assist us with the prevention, detection, mitigation, and investigation of potentially illegal acts, violations of our [User Agreement](http://pages.ebay.com.my/help/policies/user-agreement.html?rt=nc), fraud and/or security breaches, bill collection, affiliate and rewards programs, co-branded credit cards and other business operations.
+  * Third party service providers who help us to provide our Services, payment processing services, assist us in providing customised advertising, to assist us with the prevention, detection, mitigation, and investigation of potentially illegal acts, violations of our [User Agreement](https://web.archive.org/pages/help/policies/user-agreement.html?rt=nc), fraud and/or security breaches, bill collection, affiliate and rewards programs, co-branded credit cards and other business operations.
 
   * Third party financial institutions with whom we partner to offer financial products to you, for them to provide joint content and services (such as, registration, transactions and customer support). These third party financial institution partners will use your personal information to send you marketing communications only if you have requested their services.
 
@@ -376,7 +384,7 @@ We may disclose your personal information to the following parties for the follo
 
   * To facilitate the processing of payment cards when you pay within our Services with a payment card and we use PayPal to process your payment
 
-  * To facilitate delivery and related services for purchases you made using PayPal ****
+  * To facilitate delivery and related services for purchases you made using PayPal
 
 
 
@@ -391,11 +399,11 @@ Our specific retention times for personal information are documented in our regi
 
   * **How long is the personal information needed to provide our Services?** This includes such things as maintaining and improving the performance of our products, keeping our systems secure, and maintaining appropriate business and financial records. This is the general rule that establishes the baseline for most of our data retention periods.
 
-  *  **Is the personal information sensitive?** If so, a shortened retention time is generally appropriate.
+  * **Is the personal information sensitive?** If so, a shortened retention time is generally appropriate.
 
-  *  **Have you provided consent for a longer retention period?**  If so, we will retain data in accordance with your consent.
+  * **Have you provided consent for a longer retention period?**  If so, we will retain data in accordance with your consent.
 
-  *  **Are we subject to a legal, contractual, or similar obligation to retain your personal information?** Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or personal information retained for the purposes of litigation.
+  * **Are we subject to a legal, contractual, or similar obligation to retain your personal information?** Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or personal information retained for the purposes of litigation.
 
 
 
@@ -412,7 +420,9 @@ If you reside outside of the United States, you are contracting with one of our 
 
   * If you reside in a country within the European Union (except the United Kingdom) you are contracting with eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany;
 
-  * If you reside in the United Kingdom you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom;
+  * If you reside in the United Kingdom you are contracting with eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom;
+
+  * If you reside in India you are contracting with eBay Singapore Services Pte Ltd, 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315;
 
   * If you reside in any other country, you are contracting with eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Switzerland.
 
@@ -421,7 +431,7 @@ If you reside outside of the United States, you are contracting with one of our 
 
 
 
-The company you are contracting with is your data controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this privacy notice, as well as any applicable national laws. 
+The company you are contracting with is your data controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this privacy notice, as well as any applicable national laws.
 
 Your data controller may transfer data to other members of the eBay Inc. corporate family who have signed our BCRs, as described in this privacy notice.
 
@@ -443,15 +453,15 @@ To help protect your privacy, we allow only limited access to other users' conta
 
 When you transact with another user, we enable you to obtain or we may provide you with the personal information of the other user (such as their name, account ID, email address, contact details, delivery and billing addresses) to complete the transaction. Independent from us, you are the controller of such data and we encourage you to inform the other user about your privacy practices and respect their privacy. In all cases, you must comply with the applicable privacy laws, and must give the other user a chance to remove them from your database and them a chance to review what information you have collected about them.
 
-You may use the personal information that you have access to only for eBay transaction-related purposes, or for other services offered through eBay (such as escrow, postage, fraud complaints and member-to-member communications), and for purposes expressly consented by the user to whom the information relates. Using personal information of other users that you have access to for any other purpose constitutes a violation of our [User Agreement](http://pages.ebay.com.my/help/policies/user-agreement.html?rt=nc).
+You may use the personal information that you have access to only for eBay transaction-related purposes, or for other services offered through eBay (such as escrow, postage, fraud complaints and member-to-member communications), and for purposes expressly consented by the user to whom the information relates. Using personal information of other users that you have access to for any other purpose constitutes a violation of our [User Agreement](https://web.archive.org/pages/help/policies/user-agreement.html?rt=nc).
 
 **Unwanted or threatening email**
 
-We do not tolerate abuse of our Services. You do not have permission to add other users to your mailing list (email or postal), call, or send him/her text messages for commercial purposes, even if this user purchased something from you, unless the user has given his/her explicit consent. Sending unwanted or threatening email and text messages is against our [User Agreement](http://pages.ebay.com.my/help/policies/user-agreement.html?rt=nc). To report eBay-related spam or spoof emails please forward the email to [spam@ebay.com](mailto:spam@ebay.com) or [spoof@ebay.co.uk](mailto:spoof@ebay.com).
+We do not tolerate abuse of our Services. You do not have permission to add other users to your mailing list (email or postal), call, or send him/her text messages for commercial purposes, even if this user purchased something from you, unless the user has given his/her explicit consent. Sending unwanted or threatening email and text messages is against our [User Agreement](https://web.archive.org/pages/help/policies/user-agreement.html?rt=nc). To report eBay-related spam or spoof emails please forward the email to [spam@ebay.com](mailto:spam@ebay.com) or [spoof@ebay.co.uk](mailto:spoof@ebay.com).
 
 **Communication tools**
 
-We may scan messages automatically and check for spam, viruses, phishing and other malicious activity, illegal or prohibited content or violations of our User Agreement, this privacy notice or our other policies. 
+We may scan messages automatically and check for spam, viruses, phishing and other malicious activity, illegal or prohibited content or violations of our User Agreement, this privacy notice or our other policies.
 
 **Children's Privacy**
 
