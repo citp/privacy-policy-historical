@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110084142id_/http%3A//www.perfectorigins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407064854id_/https%3A//www.perfectorigins.com/privacy-policy) for the most accurate reproduction.*
 
 # Perfect Origins
 
@@ -27,6 +27,20 @@ We may also make some content, products and services available through our Site 
 Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
+
+## Use of Email Subscriber Information
+
+We will at times "license" or "rent" your email to one of our third party affiliates to send you various offers. 
+
+You can always opt out of any emails that are sent at any time.
+
+## General Data Privacy Regulation (GDPR)
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union citizens. 
+
+As a company that markets its site. Content, products and/or services on line we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site or services or products is governed by GDPR, we will abide by the relevant portions of the regulation.If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+To make any of these requests, please contact our GDPR contact at GDPR@perfectorigins.com
 
 ## Children's Privacy Statement
 
