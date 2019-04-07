@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juniqe.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206143328id_/https%3A//www.juniqe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniqe.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407184627id_/https%3A//www.juniqe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JUNIQE
 
@@ -52,7 +52,7 @@ We process your data in accordance with the following legal basis:
 \- When a legitimate interest on our part applies (article 6, paragraph 1, lit. f) GDPR), namely for the improvement of our service, the protection against misuse, and for our statistics
 
 **Third parties**  
-We forward your personal data to contracted service providers that we use to complete your order (e.g. manufacturers, shipping partners or payment service providers).
+If you made a purchase we forward your personal data to contracted service providers that we use to complete your order (e.g. manufacturers, shipping partners or payment service providers). If you have signed up for the newsletter, the personal data that you provided upon registration will be used to send you personalised newsletters. No data will be shared with third parties. Our privacy policies are in accordance with the Federal Data Protection Act (BDSG) and the Telemedia Act (TMG) of the Federal Republic of Germany.
 
 **Data sources**   
 The data we receive comes from you (including data about the devices you are using).
@@ -97,7 +97,10 @@ Unless otherwise specified when collecting the data, the provision of data is ne
 The easiest way to get in touch with us quickly is by contacting us via email at: [service@juniqe.com](mailto:service@juniqe.com)
 
 **Email newsletter**   
-When you subscribe to our newsletter, we use the data required to send you our email newsletter as well as data separately provided by you. Unsubscribing from our newsletter is possible at any time and can be done via a message using the contact method specified above, or by clicking on the unsubscribe link in our newsletter.
+By subscribing to our free newsletter you will be the first to learn about new products, valuable tips and news, as well as exclusive offers. After signing up you will receive a confirmation email with an activation link to begin receiving the newsletter. If you no longer wish to receive our newsletter you can unsubscribe at any time, simply by clicking the “unsubscribe" link in the footer of any of our newsletters or by sending an email to unsubscribe@juniqe.com.
+
+ **Product recommendations via email**  
+According to Section 7 para. 3 Act Against Unfair Competition (UWG) of the Federal Republic of Germany we are entitled to use the email address specified during a purchase in our shop for direct marketing activities for our own similar products or services. If you do not wish to receive our product recommendations any longer, you can unsubscribe from them at any time without costs other than the transmission costs pursuant to the basic tariffs being incurred in this regard. Unsubscription can simply be done by clicking the “unsubscribe" link in the footer of any of our product recommendations or by sending an email to [unsubscribe@juniqe.com](mailto:unsubscribe@juniqe.com).
 
 **Data security**   
 For every customer who registers accordingly, we set up a password-protected direct access to the inventory data we store on them via a customer account. Here, you can view data relating to your completed, open, and recently sent orders, in addition to managing your address data and newsletter settings. The transfer of this data to the following places is encrypted: 
@@ -175,18 +178,6 @@ Each time a page is requested, the following data is transmitted to and stored b
 
 Further information relating to this can be found in Snowplow’s privacy policy: <https://snowplowanalytics.com/privacy-policy/>
 
-**Hotjar**
-
-This website uses the web analysis service Hotjar by Hotjar Ltd, a European company based in Malta (Hotjar Ltd, Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe Tel.: +1 (855) 464-6788). 
-
-With this tool, we can track movements on websites where Hotjar is used with heatmaps. This shows us for example how far users scroll, which buttons they click and how often. Using this tool, it’s also possible to directly ask users of our website for feedback. In doing so, we gain valuable information that helps us make our website quicker and more customer-friendly. 
-
-When using this tool, we pay particular attention to protecting your personal data. We can only track which buttons you click and how far you scroll. On parts of the website where personal data relating to you or others is shown, Hotjar is deactivated, thus making these parts untrackable at any time. 
-
-Every user can prevent use of the Hotjar tool with a Do Not Track (DNT) header, so that no data about the visit of the respective website can be recorded. This refers to a setting that the current versions of most standard browsers support. To this end, your browser sends a request to Hotjar to deactivate tracking for that respective user. If you’re using different browsers and computers to visit our website, you will need to adjust the Do Not Track (DNT) header setting for each separately. 
-
-You can find detailed instructions with information for your browser at: <https://www.hotjar.com/opt-out>. Further information about Hotjar Ltd. and the Hotjar tool can be found at: [https://www.hotjar.com](https://www.hotjar.com/). Hotjar’s privacy policy can be found here: <https://www.hotjar.com/privacy>.
-
 **Dynamic Yield**
 
 This website uses Dynamic Yield, a recommendation tool by Dynamic Yield Ltd., Highlands House, Basingstoke Road, Spencers Wood, Reading, Berkshire, England RG7 1NT (Dynamic Yield). Our online service is optimised by the recommendation tool Dynamic Yield to make your visit to our website a personalised experience through tailored recommendations and content. In doing this, we use the content of your previously visited sites to recommend you comparable or thematically-related products or other content you might find relevant. 
@@ -235,6 +226,6 @@ In order to select a voucher offer you will currently find interesting, we will 
 This website uses Nosto, a web analysis service from Nosto Solutions GmbH, Schützenstr. 6, 10117 Berlin and Nosto Solutions Ltd., Bulevardi 21, 00180 Helsinki, Finland (“Nosto”). Nosto’s services make it possible to target visitors of our online shop who have already shown interest in our shop and products with personalised, interest-related adverts. Nosto collects and analyses the behaviour of customers on online shops and thus makes it possible to automatically calculate and display different types of intelligent product recommendations and other adverts. Nosto uses cookies. As a rule, information produced through these cookies on your use of this website is transferred to one of Nosto’s servers in the European Union and stored there. If IP-anonymisation is activated on this website, however, your IP address will be shortened by Nosto prior to this. Only in rare cases will your full IP address be transferred to Nosto’s servers and shortened there. Nosto uses this information on behalf of our website to evaluate your use of this website, show you personalised recommendations, compile reports on your website activities, and provide us with further services relating to your website and internet use.
 
 **Privacy policy last updated:**   
-May 3, 2018 
+March 27, 2019
 
 We reserve the right to change this privacy policy with future effect at any time.
