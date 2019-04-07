@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929115637id_/https%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407181221id_/https%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Retro Renovation
 
@@ -61,8 +61,8 @@ Following is more information on cookies that may be used on the site including 
   * Google’s use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
     * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). 
   * Third-party affiliate advertisements also are used on this site. Users may visit these websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability). 
-    * Amazon **[Privacy Policy](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496) **
-    * Ebay [**Privacy Policy**](https://www.ebay.com/%20--%C2%A0https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
+    * Amazon **[Privacy Policy](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)**
+    * Ebay [**Privacy Policy**](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260)
     * Impact [ **Privacy Policy**](https://impact.com/privacy-policy/)
   * Third-party ad networks also may serve ads on this site. Users may opt out of some third-party vendors’ uses of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
   * Users also can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
@@ -70,6 +70,18 @@ Following is more information on cookies that may be used on the site including 
 
 
 We have no access to or control over any cookies or other devises that are used by any third party advertisers or ad servers on our site.
+
+### Advertising Privacy Statement – AdThrive
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.  
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.  
+
+For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at retrorenovation@gmail.com and contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
 
 ### Embedded content from other websites
 
