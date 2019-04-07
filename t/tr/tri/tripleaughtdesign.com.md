@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the tripleaughtdesign.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704101203id_/https%3A//tripleaughtdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleaughtdesign.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407141835id_/https%3A//tripleaughtdesign.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Triple Aught Design
+
+[](https://web.archive.org/web/20190407141835id_/https://tripleaughtdesign.com/privacy/?pdf "View this page as a PDF")
 
 Triple Aught Design is committed to respecting the privacy rights of all visitors to our website. The following policy describes how Triple Aught Design collections protects and uses information we receive from visitors to our web site.
 
 ## What information does Triple Aught Design collection and how do we use it?
 
-When ordering products on our web site, we need you to provide your name, email address, billing and mailing addresses, phone number and credit card information. You may create a username and password to allow us to keep a user profile so that we may customize preferences for you as well as provide a faster method for you to submit information to us and receive back either the information or products desired. You are not required to create a username and password to make purchases on our website.
+When ordering products on our web site, we need you to provide your name, email address, billing and mailing addresses, phone number and credit card information. This information is required for us to process customer transactions. Providing a password allows us to provide a faster method for you to place subsequent orders.
 
-If you choose to register with us you will be asked if you would like to be on Triple Aught Design's mailing list or whether you would prefer to opt-out and not receive such mailings from Triple Aught Design.
+If you choose to join Triple Aught Design's mailing list, we will collect your email address, name and gender, and use these details to provide marketing or promotional content. You may opt out of our mailing list at any time by selecting the "Unsubscribe" link at the bottom of any newsletter, or by contact our Customer Support team. Registering for an account on our web site does not automatically subscribe you to our mailing list.
 
-Our web site contains an anonymous shopping feature whereby visitors who desire to purchase products can elect not to register. Those who elect to purchase products without registering will be asked only for information necessary to process the transaction. Information provided by anonymous shoppers will be retained only as necessary to process the transaction and maintain Triple Aught Design's sales records and will not be used for marketing purposes.
+When you enter a contest or other promotional feature, Triple Aught Design may again ask for your name, address, email address, username and password so that we are able to better administer the contest and notify winners.
 
-When you enter a contest of other promotional feature, Triple Aught Design may again ask for your name, address, email address, username and password so that we are able to better administer the contest and notify winners.
-
-We may also use the information we collect during the registration process to occasionally notify you about important functionality changes to the web site, new Triple Aught Design services, and special offers we think you will find valuable. If you would rather not receive this information, or would like to opt-out of any other information request or distribution, simply select "Safe Unsubscribe" on any Triple Aught Design email sent to you and follow the instructions provided.
+We may also use the information we collect during the registration process to occasionally notify you about important functionality changes to the web site or new Triple Aught Design services.
 
 ### California Privacy Rights (California Civil Code Section 1798.83)
 
@@ -38,7 +38,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 Triple Aught Design does not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Triple Aught Design's business, or servicing you as long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or other rights or safety. This information is also used to better understand visitor's use of Triple Aught Design's website and to support related transactions made on the website.
 
-However, this data in aggregate form may be provided to other parties for marketing, advertising, or other uses. Triple Aught Design may also use email addresses and other personally identifiable information to contact visitors who communicate with us. For example, we direct email to visitors who provide us with their email addresses for specific purposes such as receiving our email newsletters or being notified if they have won one of our contests. Each email newsletter always contains instructions on how to discontinue receipt of the newsletter. However, if a visitor at anytime chooses to no longer receive such information and opt-out from any future mailings, they should simple click "Safe Unsubscribe" on any Triple Aught Design email sent to them and follow the instructions provided.
+However, this data in aggregate form may be provided to other parties for marketing, advertising, or other uses. Triple Aught Design may also use email addresses and other personally identifiable information to contact visitors who communicate with us. For example, we direct email to visitors who provide us with their email addresses for specific purposes such as receiving our email newsletters or being notified if they have won one of our contests. Each email newsletter always contains instructions on how to discontinue receipt of the newsletter. However, if a visitor at anytime chooses to no longer receive such information and opt-out from any future mailings, they should simple click unsubscribe link on any Triple Aught Design email sent to them and follow the instructions provided.
 
 ### Third party links
 
@@ -56,13 +56,21 @@ Triple Aught Design welcomes your questions, comments, and concerns about privac
 
 Please also visit Triple Aught Design's terms and conditions establishing the use, disclaimers, and limitations of liability governing the use of the entire Triple Aught Design website.
 
+### Your Right to Data
+
+You may contact us using the details below to request access to the personal data that is processed about you, to have erroneous personal data corrected, to request that we erase your personal data, to request that the processing of your personal data is restricted, to exercise your right to data portability, to withdraw consent to particular processing (where such consent has been obtained) and to object to the processing of your personal data.
+
 ### Contact information
 
-This website is operated by: 
+This website is operated by:
 
 Triple Aught Design, LLC  
 660 22nd Street  
 San Francisco, CA 94107
+
+1-866-613-1386
+
+[support@tripleaughtdesign.com](mailto:support@tripleaughtdesign.com)
 
 ### Changes to our policy
 
