@@ -1,55 +1,29 @@
-<!--The following is the downloaded HTML source of the vitals.com privacy policy that was archived on 2018-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181223183526id_/https%3A//www.vitals.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitals.com privacy policy that was archived on 2019-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190408013032id_/https%3A//www.vitals.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" async-hide"><head>
         <meta charset="utf-8">
         <meta http-equiv="content-language" content="en-us">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W55B"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYAVlZTCBABUFJUAQAGXlA="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
-        <meta name="viewport" content="width=device-width, initial-scale=1">                                                                <script>
-    window.zdQueue = {
-        last: null,
-        updateSponsoredResultsParameters: function (params) {
-            this.last = params;
-            this.run();
-        },
-        run: function () {
-            if (this.last && window.ZD && window.ZD.updateSponsoredResultsParameters instanceof Function) {
-                window.ZD.updateSponsoredResultsParameters(this.last);
-                this.last = null;
-            }
-        }
-    };
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">                                    
+                <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W55B"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+            var s_not_pageview='y',
+                s_account="webmdcom",
+                s_site = "vitals",
+                s_company = "webmd";
 
-    //TODO This is a simple version that handles a single registered action, only
-    //     calls it once (i.e., only cares about the first event), and doesn't
-    //     pay attention to the groupId in the event (i.e., only good for a single widget).
-    window.zdGrid = {
-        eventTriggered: false,
-        action: null,
-        act: function(groupId) {
-            if (this.eventTriggered && this.action) {
-                this.action();
-            }
-        },
-        willDisplay: function(groupId, action) {
-            this.action = action;
-            this.act(groupId);
-        },
-        recordEvent: function(groupId) {
-            this.eventTriggered = true;
-            this.act(groupId);
-        }
-    };
-    window.addEventListener('zocdoc.timesgridWillDisplay', function(e) {
-        window.zdGrid.recordEvent(e.detail.groupId);
-    });
-</script>
-                <script>
+            // Global Context Data
+            var s_context;
+            s_context = s_context || {};
+        </script>
+        <script type="text/javascript" src="https://img.webmd.com/bi_common/bi_consumer.js"></script>
+
+        <script>
                             var dataLayer = dataLayer || [];
-            dataLayer.push({ "slim.routeName": "static\/root "});
+            dataLayer.push({ "slim.routeName": "static\/about "});
             dataLayer.push({ "contentGroup2": "Shop"});
 
-                            dataLayer.push({"gaServerAddr":"100.100.0.3"});
+                            dataLayer.push({"gaServerAddr":"192.168.7.185"});
                         
 
     dataLayer.push(
@@ -68,10 +42,9 @@
 
         </script>
 
-
         <script>
             var dataLayer = dataLayer || [];
-            dataLayer.push({"gaContentGroup":'Static Root'});
+            dataLayer.push({"gaContentGroup":'Static About'});
         </script>
         
                 <style>.async-hide { opacity: 0 !important} </style>
@@ -79,7 +52,7 @@
 h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
 })(window,document.documentElement,'async-hide','dataLayer',4000,
-{'GTM-T4BJJ5S':true});</script>
+{'GTM-W62MKH2':true});</script>
 
                 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -87,7 +60,7 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 ga('create', 'UA-2543312-1', 'auto');
-ga('require', 'GTM-T4BJJ5S');
+ga('require', 'GTM-W62MKH2');
 </script>
 
                 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -110,8 +83,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <link rel="icon" type="image/png" sizes="48x48" href="//mdxvitals-res.cloudinary.com/image/upload/v1503594470/logos/favicon-48x48.png">
         <link rel="icon" type="image/png" sizes="96x96" href="//mdxvitals-res.cloudinary.com/image/upload/v1503594470/logos/favicon-96x96.png">
         <link rel="icon" type="image/png" sizes="192x192" href="//mdxvitals-res.cloudinary.com/image/upload/v1503594846/logos/favicon-192.png">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-        <link rel="manifest" href="/image/favicons/manifest.json">
+                <link rel="preload" href="/font/MDX-Icons.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/font/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/font/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/font/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="//mdxvitals-res.cloudinary.com/image/upload/v1503595046/logos/ms-icon-144x144.png">
         <meta name="theme-color" content="#ffffff">
@@ -123,10 +98,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <meta http-equiv="Content-Language" content="EN">
         <meta name="distribution" content="Global">
         <meta http-equiv="Pragma" content="no-cache">
-        <meta name="copyright" content="Copyright 2018 Vitals">
+        <meta name="copyright" content="Copyright 2019 Vitals">
         <meta http-equiv="Reply-to" content="info@vitals.com">
 
-                                                                            <link href="//static2.vitals.com/styles/browse.min.63789ac3be.css" rel="stylesheet">
+                                                                            <link href="//static2.vitals.com/styles/browse.min.8aa6f6aa19.css" rel="stylesheet">
                     
                         <!--[if lt IE 9]>
             <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -134,60 +109,54 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <![endif]-->
 
         
-                    <link type="text/css" rel="stylesheet" href="//static2.vitals.com/styles/browse.min.63789ac3be.css"><link type="text/css" rel="stylesheet" href="//static2.vitals.com/styles/circular-progress-bar.min.95a6297e86.css"></head>
+                    </head>
     <body class="grey lighten-5">
                 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W55B"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         
-                                        <div class="valign-wrapper deep-purple" id="search-header">
-    <i class="icons-search hide-on-med-and-up white-text show-form"></i>
-    <a href="/" class="logo"><img src="//mdxvitals-res.cloudinary.com/image/upload/t_vitals_header_logo/logos/vitals-white-logo.png" alt="Find a doctor - doctor reviews and ratings"></a>
+                                        
+<div class="valign-wrapper deep-purple" id="search-header">
+    <i class="hide-on-tablet-and-up icons-search white-text show-form" data-header="vitals_logo"></i>
+    <a href="/" data-header="vitals_logo">
+        <img class=" logo lazyload" src="//mdxvitals-res.cloudinary.com/image/upload/q_auto/f_auto/w_170,dpr_auto/v1539285855/vitals-logo-02.png" data-header="vitals_logo" data-sizes="auto" data-src="//mdxvitals-res.cloudinary.com/image/upload/q_auto/f_auto/w_170,dpr_auto/v1539285855/vitals-logo-02.png" data-srcset="//mdxvitals-res.cloudinary.com/image/upload/q_auto/f_auto/w_170,dpr_auto/v1539285855/vitals-logo-02.png 1x,
+                        //mdxvitals-res.cloudinary.com/image/upload/q_auto/f_auto/w_170,dpr_2/v1539285855/vitals-logo-02.png 2x" alt="Find a doctor - doctor reviews and ratings">
+    </a>
 
-    <form class="search-box row white">
-        <i class="hide-on-med-and-up icons-cancel brand-text text-secondary hide-form"></i>
-        <div class="search-container col m6 s12">
-            <label for="search-query" class="hide-on-small-and-down">Find</label>
-            <i class="icons-search hide-on-med-and-up grey-text text-lighten-1"></i>
+    <form class="search-box">
+        <span class="hide-on-tablet-and-up white-text uppercase hide-form">cancel</span>
+        <div class="search-container">
+            <i class="fa fa-search grey-text text-darken-2"></i>
             <div class="input-field">
-                <input id="search-query" type="text" class="form-control fc-alt" label="Search Keyword" placeholder="Search by name, specialty, condition, etc">
+                <input class="form-control fc-alt" id="search-query" label="Search Keyword" placeholder="Name, Specialty, Facility" type="text">
             </div>
         </div>
-        <div class="location-container col m6 s12">
-            <label for="search-place" class="hide-on-small-and-down">Location</label>
-            <i class="icons-map-pin hide-on-med-and-up grey-text text-lighten-1"></i>
+        <div class="location-container">
+            <i class="fa fa-location-arrow grey-text text-darken-2"></i>
             <div class="input-field">
-                <input class="search-places-header" placeholder="Near you">
+                <input class="search-places-header" autocomplete="off" placeholder="City, State or Zip" type="text">
             </div>
         </div>
-        <div id="search-button" class="search-icon-holder btn btn-primary hide-on-small-and-down">
-            <i class="icons-search"></i>
+        <div id="search-button" class="btn btn-primary btn-search">
+            Find a Doctor
         </div>
     </form>
 
-    <button type="button" class="btn waves-effect sidenav-trigger" data-target="slide-out">
-        <i class="icons-menu"></i>
-        <span class="hide-on-med-and-down">Menu</span>
+    <button type="button" class="btn sidenav-trigger" data-target="slide-out">
+        <i class="fa fa-bars"></i>
+        <span class="hide-on-med-and-down">Browse</span>
     </button>
 </div>
 <script>
-    var homePageURL = window.location.origin;
-    var homePageURLvar2 = window.location.origin + '/';
-    var newHomePageURL = homePageURL + '/homepage2';
-    var newHomePageURLvar2 = homePageURL + '/homepage2/';
-    if (window.innerWidth <=600 &&
-        (document.referrer === ''
-            || document.referrer === newHomePageURL
-            || document.referrer === homePageURL
-            || document.referrer === homePageURLvar2
-            || document.referrer === newHomePageURLvar2)) {
-        var element = document.getElementById("search-header");
-        element.classList.add("show-form");
-        element.classList.add("white");
+    var searchPageURL = '/search',
+        searchHeader = document.getElementById("search-header");
+
+    if (window.innerWidth <=767 && (window.location.pathname === searchPageURL)) {
+        searchHeader.classList.add("show-form");
     }
 </script>
 
-            <div class="leaderboard grey lighten-3 center">
+            <div class="leaderboard center">
                             
                     </div>
                         
@@ -320,65 +289,64 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
     </div>
                                                                 
-                    <div class="hide-on-med-and-up sticky-mobile-banner center">
-                
-            </div>
-        
+                                    <div class="hide-on-med-and-up sticky-mobile-banner center">
+                    
+                </div>
+                    
                     <footer class="grey lighten-3">
     <div class="links container">
         <div class="grey lighten-3 footer-search-doctor-container">
             <h4 class="grey-text text-darken-2">Find Doctors by Name</h4>
             <ul>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/a">A</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/b">B</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/c">C</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/d">D</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/e">E</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/f">F</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/g">G</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/h">H</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/i">I</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/j">J</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/k">K</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/l">L</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/m">M</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/n">N</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/o">O</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/p">P</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/q">Q</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/r">R</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/s">S</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/t">T</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/u">U</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/v">V</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/w">W</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/x">X</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/y">Y</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="/directory/z">Z</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/a" data-footer="alpha">A</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/b" data-footer="alpha">B</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/c" data-footer="alpha">C</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/d" data-footer="alpha">D</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/e" data-footer="alpha">E</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/f" data-footer="alpha">F</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/g" data-footer="alpha">G</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/h" data-footer="alpha">H</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/i" data-footer="alpha">I</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/j" data-footer="alpha">J</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/k" data-footer="alpha">K</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/l" data-footer="alpha">L</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/m" data-footer="alpha">M</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/n" data-footer="alpha">N</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/o" data-footer="alpha">O</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/p" data-footer="alpha">P</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/q" data-footer="alpha">Q</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/r" data-footer="alpha">R</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/s" data-footer="alpha">S</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/t" data-footer="alpha">T</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/u" data-footer="alpha">U</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/v" data-footer="alpha">V</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/w" data-footer="alpha">W</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/x" data-footer="alpha">X</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/y" data-footer="alpha">Y</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="/directory/z" data-footer="alpha">Z</a></li>
                             </ul>
         </div>
         <div class="grey lighten-3 footer-links-container">
             <ul>
-                <li><a class="cyan-text text-darken-2" href="/feedback" rel="nofollow">DATA FEEDBACK</a></li>
-                <li><a class="cyan-text text-darken-2" href="/faq" rel="nofollow">FAQ</a></li>
-                <li><a class="cyan-text text-darken-2" href="/sitemap" rel="nofollow">SITEMAP</a></li>
-                                    <li><a class="cyan-text text-darken-2" href="http://www.vitalssolutions.com/" rel="nofollow">ABOUT</a></li>
-                    <li><a class="cyan-text text-darken-2" href="https://careers.vitals.com/jobs" rel="nofollow">CAREERS</a></li>
-                    <li><a class="cyan-text text-darken-2" href="http://www.vitalssolutions.com/vitals-smartshopper/" rel="nofollow">SMARTSHOPPER</a></li>
-                    <li><a class="cyan-text text-darken-2" href="http://www.vitalssolutions.com/vitals-choice/" rel="nofollow">VITALSCHOICE</a></li>
-                                <li><a class="cyan-text text-darken-2" href="/about/privacy" rel="nofollow">PRIVACY POLICY</a></li>
+                <li><a class="cyan-text text-darken-2" href="/faq" data-footer="corporate" rel="nofollow">FAQ</a></li>
+                <li><a class="cyan-text text-darken-2" href="/sitemap" data-footer="corporate" rel="nofollow">SITEMAP</a></li>
+                                    <li><a class="cyan-text text-darken-2" href="https://www.sapphire-digital.com" data-footer="corporate" rel="nofollow">ABOUT</a></li>
+                    <li><a class="cyan-text text-darken-2" href="https://careers.sapphire-digital.com" data-footer="corporate" rel="nofollow">CAREERS</a></li>
+                    <li><a class="cyan-text text-darken-2" href="https://www.sapphire-digital.com/smartshopper/" data-footer="corporate" rel="nofollow">SMARTSHOPPER</a></li>
+                    <li><a class="cyan-text text-darken-2" href="https://www.sapphire-digital.com/careselect/" data-footer="corporate" rel="nofollow">VITALSCHOICE</a></li>
+                                <li><a class="cyan-text text-darken-2" href="/about/privacy" data-footer="corporate" rel="nofollow">PRIVACY POLICY</a></li>
             </ul>
         </div>
     </div>
     <div class="copyright">
         <div class="container">
             <p class="grey-text text-darken-2">
-                Copyright © 2018 Vitals Patient Exchange. US Patent No. 8, 694, 441. All Rights Reserved. <br>
+                Copyright © 2019 Vitals Consumer Services, LLC. US Patent No. 8, 694, 441. All Rights Reserved.<br>
                 As more fully set forth in this website's <a class="cyan-text text-darken-2" href="/about/terms-of-use">terms of use</a>.
                 (1) nothing contained on or offered by or through this website should be construed as medical advice and
-                should not be relied upon for medical diagnosis or treatment. MDX Medical, Inc. ("MDX"). the provider of this
+                should not be relied upon for medical diagnosis or treatment. Vitals Consumer Services, LLC ("Vitals"). the provider of this
                 website, does not recommend or endorse any particular healthcare provider whose information or ratings appear
-                on this website; and (2) MDX has granted you a limited license to access and use this website for your own
+                on this website; and (2) Vitals has granted you a limited license to access and use this website for your own
                 noncommercial use. You are not permitted to copy, reproduce, distribute, transmit, mirror, frame, scrape,
                 extract, wrap, create derivative works of, reverse engineer, decompile or disassemble any part or aspect of
                 this website.
@@ -405,18 +373,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         </script>
 
-                            <script id="zocdoc_widget_script" async="" src="https://static.zocdoc.com/widget/zocdoc.widget.js" data-zd-sdk="" data-zd-token="INOA6sYz5ZZyfOvlacIGqTAkxZUU0QkV" data-zd-buttoncolor="#0099ED" data-zd-buttoncolorhover="#00A3EF" data-zd-buttoncoloractive="#00A3EF" data-zd-buttonbordercolor="#0099ED" data-zd-buttonbordercolorhover="#00A3EF" data-zd-buttonbordercoloractive="#00A3EF" data-zd-buttontextcolor="#FFFFFF" data-zd-buttontextcolorhover="#FFFFFF" data-zd-buttontextcoloractive="#FFFFFF" data-zd-margintoppx="7" data-zd-marginrightpx="0" data-zd-marginbottompx="14" data-zd-marginleftpx="0" data-zd-who="vitals">
-</script>
-            <script>
-                document.getElementById('zocdoc_widget_script').addEventListener('load', function (e) {
-                    zdQueue.run();
-                });
-            </script>
-        
                 
                     <aside id="slide-out" class="sidenav no-autoinit">
-    <h3 class="grey-text lighten-4">Professionals and Specialists</h3>
-    <ul>
+    <h3 class="grey-text text-darken-2">Professionals and Specialists</h3>
+    <ul data-sidenav="prof_spec">
         <li><a href="/dentists">Dentists</a></li>
         <li><a href="/podiatrists">Podiatrists</a></li>
         <li><a href="/chiropractors">Chiropractors</a></li>
@@ -436,8 +396,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><a href="/doctors">All Specialists</a></li>
     </ul>
 
-    <h3 class="grey-text lighten-4">Facilities</h3>
-    <ul>
+    <h3 class="grey-text text-darken-2">Facilities</h3>
+    <ul data-sidenav="facilities">
         <li><a href="/urgent-care">Urgent Care Centers</a></li>
         <li><a href="/pharmacy">Pharmacies</a></li>
         <li><a href="/nursing-home">Nursing Homes</a></li>
@@ -445,8 +405,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><a href="/group-practice">Group Practices</a></li>
     </ul>
 
-    <h3 class="grey-text lighten-4">Education</h3>
-    <ul>
+    <h3 class="grey-text text-darken-2">Education</h3>
+    <ul data-sidenav="education">
         <li><a href="/education/careguides/adult-asthma" rel="nofollow">Adult Asthma</a></li>
         <li><a href="/education/careguides/seasonal-allergies" rel="nofollow">Allergies</a></li>
         <li><a href="/education/careguides/atrial-fibrillation" rel="nofollow">Atrial Fibrillation</a></li>
@@ -459,21 +419,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><a href="/education/careguides/ibs" rel="nofollow">IBS</a></li>
         <li class="viewAll"><a href="/education/careguides" rel="nofollow">all care guides</a></li>
     </ul>
-    <ul class="social">
+    <ul class="social" data-sidenav="corporate">
         <li><a href="https://www.facebook.com/Vitals" rel="nofollow"><i class="icons-facebook"></i></a></li>
         <li><a href="https://twitter.com/Vitals" rel="nofollow"><i class="icons-twitter"></i></a></li>
-        <li><a href="https://plus.google.com/110112098290543938009/about" rel="nofollow"><i class="icons-google-plus"></i></a></li>
         <li><a href="https://www.linkedin.com/company/vitals-com" rel="nofollow"><i class="icons-linkedin"></i></a></li>
         <li><a href="http://pinterest.com/VitalsCom" rel="nofollow"><i class="icons-pinterest"></i></a></li>
     </ul>
 </aside>
         
         
-                        <script type="text/javascript">
+                                <script type="text/javascript">
     var load = (function() {
         // Function which returns a function
         function _load(tag) {
-            return function(url, integrity = false, crossorigin = false) {
+            return function(url, integrity, crossorigin) {
+                integrity = integrity || false;
+                crossorigin = crossorigin || false;
                 // This promise will be used by Promise.all to determine success or failure
                 return new Promise(function(resolve, reject) {
                     var element = document.createElement(tag);
@@ -521,9 +482,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     function loadAll() {
         Promise.all([
             // Load CSS and jQuery first
-                                                load.css('//static2.vitals.com/styles/browse.min.63789ac3be.css'),
-                                        load.css('//static2.vitals.com/styles/circular-progress-bar.min.95a6297e86.css'),
-            load.js('https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js'),
+                        load.js('https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js'),
         ]).then(function(){ return Promise.all([
             // Load all other 3rd party scripts
                             load.css('https://cdn.jsdelivr.net/npm/leaflet@1.3.4/dist/leaflet.min.css'),
@@ -538,15 +497,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             load.js('//static1.vitals.com/script/maps.min.5a0f5d934c.js'),
                                         load.js('//static1.vitals.com/script/features.min.cfcb76babe.js'),
                 load.js('//static1.vitals.com/script/slotConfig.min.b382e8db3c.js'),
-                load.js('//static1.vitals.com/script/globalMaterialize.min.5edaa8b41b.js')
+                load.js('//static1.vitals.com/script/globalMaterialize.min.39ce8e95c3.js')
                     ])}).then(function(){
             // This must be run after features is loaded and before search is loaded
-                          MDX.features = new MDX.Features({"dev.zocdocAdWidget":{"key":"dev.zocdocAdWidget","data":[],"active":true},"schema.summaryDescription":{"key":"schema.summaryDescription","data":[],"active":true},"schema.summaryRating":{"key":"schema.summaryRating","data":[],"active":true},"dev.sdPhpErrors":{"key":"dev.sdPhpErrors","data":[],"active":true},"sponsoredTabs.alzeto":{"key":"sponsoredTabs.alzeto","data":{"specs":["alim","derm","famp","genp","intm"],"targeting":"alzeto","copy":"Psoriasis Help"},"active":false},"searchHeader.useInstantSearch":{"key":"searchHeader.useInstantSearch","data":[],"active":true},"dev.useDrupalDrivers":{"key":"dev.useDrupalDrivers","data":[],"active":true},"trafficDriver.default":{"key":"trafficDriver.default","data":{"specs":["genp","intm"]},"active":false},"elasticSearch.browse":{"key":"elasticSearch.browse","data":{"indexName":"profile"},"active":true},"prs.usePrs2":{"key":"prs.usePrs2","data":[],"active":true},"showJsonld.enabled":{"key":"showJsonld.enabled","data":[],"active":false},"elasticSearch.profile":{"key":"elasticSearch.profile","data":{"indexName":"profile"},"active":true},"sponsoredTabs.artezno":{"key":"sponsoredTabs.artezno","data":{"specs":["acup","neur","pmed"],"targeting":"artezno","copy":"Migraine Help"},"active":false},"sponsoredTabs.qirtebrym":{"key":"sponsoredTabs.qirtebrym","data":{"specs":["geri","obgn","urol"],"targeting":"qirtebrym","copy":"OAB Help"},"active":false},"seo.notFound410":{"key":"seo.notFound410","data":[],"active":false},"live.trafficDrivers":{"key":"live.trafficDrivers","data":[],"active":true},"dev.newSummaryPage":{"key":"dev.newSummaryPage","data":[],"active":false},"prs.debugExposeToken":{"key":"prs.debugExposeToken","data":[],"active":false},"algoliaSearch.useCurl":{"key":"algoliaSearch.useCurl","data":[],"active":false},"sponsoredTabs.daelig":{"key":"sponsoredTabs.daelig","data":{"specs":["famp","genp","hema","hepa","infd","intm","path"],"targeting":"daelig","copy":"HIV Help"},"active":false},"algolia.browse":{"key":"algolia.browse","data":{"indexName":"vitals_browse"},"active":true},"dev.vitalsSolutionsLinks":{"key":"dev.vitalsSolutionsLinks","data":[],"active":true},"yext.enabled":{"key":"yext.enabled","data":[],"active":true},"groupPractice.routing":{"key":"groupPractice.routing","data":[],"active":true},"sponsoredTabs.aivunaj":{"key":"sponsoredTabs.aivunaj","data":{"specs":["adol","endo","famp","genp","hepa","intm","nutr","peds"],"targeting":"aivunaj","copy":"Diabetes Help"},"active":false},"dev.sdJsErrors":{"key":"dev.sdJsErrors","data":[],"active":true},"provider.match":{"key":"provider.match","data":[],"active":true},"algoliaSearch.useSwap":{"key":"algoliaSearch.useSwap","data":[],"active":false},"exp.materializeProfile":{"key":"exp.materializeProfile","data":[],"active":true},"seo.menuLocationLinkText":{"key":"seo.menuLocationLinkText","data":[],"active":false},"logging.404log":{"key":"logging.404log","data":[],"active":false},"addThisProfile.enabled":{"key":"addThisProfile.enabled","data":[],"active":false},"algolia.profile_highly_indexed":{"key":"algolia.profile_highly_indexed","data":{"indexName":"vitals_profile_highly_indexed"},"active":true},"algolia.profile":{"key":"algolia.profile","data":{"indexName":"vitals_profile"},"active":true},"dev.gpTabs":{"key":"dev.gpTabs","data":[],"active":false},"v2.enabled":{"key":"v2.enabled","data":[],"active":false},"schema.breadcrumbs":{"key":"schema.breadcrumbs","data":[],"active":false},"algolia.provider_reviews":{"key":"algolia.provider_reviews","data":{"indexName":"vitals_provider_reviews"},"active":true},"addThis.enabled":{"key":"addThis.enabled","data":[],"active":false},"prs.maintenance":{"key":"prs.maintenance","data":[],"active":false},"debug.debugInfo":{"key":"debug.debugInfo","data":[],"active":false},"algolia.insurance":{"key":"algolia.insurance","data":{"indexName":"insurance_companies"},"active":true}});
+                          MDX.features = new MDX.Features({"dev.zocdocAdWidget":{"key":"dev.zocdocAdWidget","data":[],"active":true},"schema.summaryDescription":{"key":"schema.summaryDescription","data":[],"active":true},"schema.summaryRating":{"key":"schema.summaryRating","data":[],"active":true},"dev.sdPhpErrors":{"key":"dev.sdPhpErrors","data":[],"active":true},"sponsoredTabs.alzeto":{"key":"sponsoredTabs.alzeto","data":{"specs":["alim","derm","famp","genp","intm"],"targeting":"alzeto","copy":"Psoriasis Help"},"active":false},"searchHeader.useInstantSearch":{"key":"searchHeader.useInstantSearch","data":[],"active":true},"dev.useDrupalDrivers":{"key":"dev.useDrupalDrivers","data":[],"active":true},"trafficDriver.default":{"key":"trafficDriver.default","data":{"specs":["genp","intm"]},"active":false},"elasticSearch.browse":{"key":"elasticSearch.browse","data":{"indexName":"profile"},"active":true},"prs.usePrs2":{"key":"prs.usePrs2","data":[],"active":true},"showJsonld.enabled":{"key":"showJsonld.enabled","data":[],"active":false},"elasticSearch.profile":{"key":"elasticSearch.profile","data":{"indexName":"profile"},"active":true},"sponsoredTabs.artezno":{"key":"sponsoredTabs.artezno","data":{"specs":["acup","neur","pmed"],"targeting":"artezno","copy":"Migraine Help"},"active":false},"sponsoredTabs.qirtebrym":{"key":"sponsoredTabs.qirtebrym","data":{"specs":["geri","obgn","urol"],"targeting":"qirtebrym","copy":"OAB Help"},"active":false},"seo.notFound410":{"key":"seo.notFound410","data":[],"active":false},"live.trafficDrivers":{"key":"live.trafficDrivers","data":[],"active":true},"dev.newSummaryPage":{"key":"dev.newSummaryPage","data":[],"active":false},"prs.debugExposeToken":{"key":"prs.debugExposeToken","data":[],"active":false},"algoliaSearch.useCurl":{"key":"algoliaSearch.useCurl","data":[],"active":false},"sponsoredTabs.daelig":{"key":"sponsoredTabs.daelig","data":{"specs":["famp","genp","hema","hepa","infd","intm","path"],"targeting":"daelig","copy":"HIV Help"},"active":false},"algolia.browse":{"key":"algolia.browse","data":{"indexName":"vitals_browse"},"active":true},"dev.vitalsSolutionsLinks":{"key":"dev.vitalsSolutionsLinks","data":[],"active":true},"yext.enabled":{"key":"yext.enabled","data":[],"active":true},"groupPractice.routing":{"key":"groupPractice.routing","data":[],"active":true},"sponsoredTabs.aivunaj":{"key":"sponsoredTabs.aivunaj","data":{"specs":["adol","endo","famp","genp","hepa","intm","nutr","peds"],"targeting":"aivunaj","copy":"Diabetes Help"},"active":false},"dev.sdJsErrors":{"key":"dev.sdJsErrors","data":[],"active":true},"provider.match":{"key":"provider.match","data":[],"active":true},"algoliaSearch.useSwap":{"key":"algoliaSearch.useSwap","data":[],"active":false},"exp.materializeProfile":{"key":"exp.materializeProfile","data":[],"active":true},"seo.menuLocationLinkText":{"key":"seo.menuLocationLinkText","data":[],"active":false},"logging.404log":{"key":"logging.404log","data":[],"active":false},"addThisProfile.enabled":{"key":"addThisProfile.enabled","data":[],"active":false},"algolia.profile_highly_indexed":{"key":"algolia.profile_highly_indexed","data":{"indexName":"vitals_profile_highly_indexed"},"active":true},"algolia.profile":{"key":"algolia.profile","data":{"indexName":"vitals_profile"},"active":true},"dev.gpTabs":{"key":"dev.gpTabs","data":[],"active":false},"v2.enabled":{"key":"v2.enabled","data":[],"active":false},"schema.breadcrumbs":{"key":"schema.breadcrumbs","data":[],"active":false},"algolia.provider_reviews":{"key":"algolia.provider_reviews","data":{"indexName":"vitals_provider_reviews"},"active":true},"addThis.enabled":{"key":"addThis.enabled","data":[],"active":false},"dev.paidSerp":{"key":"dev.paidSerp","data":[],"active":true},"prs.maintenance":{"key":"prs.maintenance","data":[],"active":false},"debug.debugInfo":{"key":"debug.debugInfo","data":[],"active":false},"algolia.insurance":{"key":"algolia.insurance","data":{"indexName":"insurance_companies"},"active":true}});
                     }).then(function() { return Promise.all([
             // Search is a special child
-                            load.js('//static1.vitals.com/script/search.min.c91205ac38.js')
+                            load.js('//static1.vitals.com/script/search.min.56d9557200.js')
                     ])}).then(function(){
-                                        load.js('//static1.vitals.com/script/bundle.min.adb7bae112.js')
+                                        load.js('//static1.vitals.com/script/bundle.min.a243687b6e.js')
                     }).then(function(){
                         // Finally, load everything else
                                                                     
@@ -594,7 +553,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             }
             // Materalize auto-init JS components.
             M.AutoInit();
-                    }).catch(function(err) {
+            // custom materialize js settings, should be loaded after Materalize auto-init in order not to be overwritten by the Materalize defaults
+                                                                                            }).catch(function(err) {
                     });
     }
 
@@ -614,6 +574,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         document.head.appendChild(js);
     }
 </script><script async="" crossorigin="anonymous" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6ebcccd32a","applicationID":"143661184","transactionName":"YQFaZkJTDUdSVkFaV1hLe0dDRgxZHEZBUkxfBxdAX10X","queueTime":0,"applicationTime":74,"atts":"TUZZEApJHkk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+            
 
 </body></html>
