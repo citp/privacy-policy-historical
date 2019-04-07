@@ -1,40 +1,72 @@
-> *The following text is extracted and transformed from the mykankenbag.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315143722id_/http%3A//www.mykankenbag.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykankenbag.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407235554id_/https%3A//www.mykankenbag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My Kanken Bag
+# Privacy Policy | My Kånken Bag
 
-By accessing or using this website operated by The Sporting Lodge Ltd you agree to the terms of the privacy policy, as outlined below.
+The Sporting Lodge Ltd t/a MyKankenbag.com – Privacy Notice
 
-#### Collection of Personal Information
+My kanken Bag are committed to protecting and respecting your privacy whilst remaining compliant with The General Data Protection Regulation (EU GDPR) and the Data Protection Act (DPA).
 
-**www.mykankenbag.com** and The Sporting Lodge Ltd collects information in order to record and support your participation in the activities you select. It does not however store credit card details. We also use information that you provide as part of our effort to keep you informed about product changes, special offers and other products and services.
+**How we use your personal information**
 
-We recognise and appreciate the importance of responsible use of this information. If you do not want the information you provide to be used to inform you of other products and special offers from us, and you indicate this preference when you provide the information to us, we will honour your preference. When you submit personal information with respect to a particular activity, such as ordering a product, you understand and agree that in order to complete the activity and update related files, we may need to transfer, store and process your information in any of the countries in which such entities maintain offices, including without limitation, the United Kingdom. Your personal information will not be transferred outside the European Union for any other purpose unless you give your consent.
+We will only use your personal information for the following purposes:
 
-#### Testimonials
+  * To provide you with details of our product ranges, services and promotions
+  * To process orders from you for goods and services
+  * To deal with any enquiries we receive from you
+  * For the purpose of any corrective action (including a product recall) which may be required in respect of any products we supply to you
+  * To comply with applicable laws, regulations and rules
+  * To notify you of changes to what we do
 
-We may use your testimonials and comments on our site and on marketing materials should you send them to us. However, we will never publish your full name without your permission.
 
-#### Updating your Personal Information
 
-You have the right to access and correct your personal information and privacy preferences.
+In connection with the above we may disclose or share your personal information with third parties that perform services on our behalf such as: Royal Mail or other couriers and Payment Providers. We will never share or sell your personal data for marketing purposes.
 
-This may be done by writing to us at:
+Our legal basis for these uses of your personal information may include that (a) it is necessary for our legitimate interests in operating our business and or providing you with goods and services, and or (b) it is necessary for the performance of contracts to which you are a party with us.
 
-**The Sporting Lodge Ltd**  
-Unit 1, Greenfield Farm Industrial Estate, Back Lane, Congleton, Cheshire, CW12 4TR, UK
+**Keeping in touch with you**
 
-Please include your name, address and/or email address when you contact us.
+From time to time we would also like to keep in touch with you, to provide you with details of new products and any forthcoming events that we are promoting.
 
-#### Copyright and Trademarks
+If you would like to unsubscribe you may do so at any time **here**. Or alternatively in the footer of any email sent. Please note: if you unsubscribe we may still need to contact you with important transactional information related to your order.
 
-All site design, text, graphics, the selection and arrangement thereof, and all software compilations, underlying source code, software (including applets) and all other material on this site are copyright of The Sporting Lodge Ltd and its affiliates, or their content and technology providers. ALL RIGHTS RESERVED.
+Your rights in relation to your personal information
 
-Permission is granted to electronically copy and to print in hard copy portions of the site for the sole purpose of placing an order with us or using the site as a shopping resource. Any other use of materials on this site, including reproduction for purposes other than those noted above, modification, distribution or republication without our prior written permission is strictly prohibited.
+You have various rights under the data protection law regarding the processing of your personal information, including rights to:
 
-All brand names, product names and titles used in the site are trademarks or trade names of their respective holders. No permission is given in respect of the use of any of these names or titles, and moreover any such use may constitute an infringement of the holders’ rights.
+  * Request access to personal information we hold about you and details of our processing of your personal information;
+  * Request us to correct any inaccurate information;
+  * Request us to delete personal information in certain circumstances
+  * Receive your personal information in a form suitable for transmission to a third party;
+  * Lodge a complaint with the UK Information Commissioners Office
 
-#### Privacy Policy
 
-My Kanken Bag and The Sporting Lodge Ltd is committed to protecting your privacy, and we comply with the data protection laws applicable to the UK. We use the information collected from you to process orders and to provide a more personalised shopping experience.
 
-**If you have any queries please contact us at the above address, use or contact form or call us on +44 (0)1260 270060.**
+You can make a written request to us in relation to these rights at any time by contacting
+
+Data Protection, My Kanken Bag, Unit A1, Millbrook Court, Middlewich, CW10 0GE, UK
+
+Alternatively you can email us info@mykankenbag.com
+
+Any information to which you are entitled will be provided within a reasonable timeframe.
+
+**Keeping your data safe**
+
+We understand how important keeping your data safe is we will take the upmost care and steps to protect it.
+
+All transactional areas of our website are protected with “https” technology.
+
+Access to your personal accounts are password protected.
+
+We are constantly monitoring and updating our systems for possible vulnerabilities and online attacks.
+
+**How long will we keep your data?**
+
+Orders – on completion of an order we’ll keep your data for five years to comply with our legal obligations.
+
+Warranties – if your item is included in a warranty your personal data will be kept for this warranty period.
+
+**How to contact us**
+
+Registered Address: Unit A1, Millbrook Court, Middlewich, CW10 0GE, UK
+
+Part of 445hasarrived Ltd |Vat No 973827377 | Company No 06983995
