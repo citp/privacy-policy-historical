@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621004042id_/http%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407035346id_/https%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
 
-# travelgirls.com-Privacy policy
+# TravelGirls.com-Privacy policy
 
 **By entering and/or registering on the Site you give your consent to and accept the following conditions  **:
 
