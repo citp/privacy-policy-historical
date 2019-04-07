@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the gmusicplus.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226171054id_/http%3A//www.gmusicplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmusicplus.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407075950id_/http%3A//www.gmusicplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GMusicPlus.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at gmusicplus@gmail.com
 
-At http://www.gmusicplus.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by us and how we use it.
+At https://www.gmusicplus.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by us and how we use it.
 
-Informations We Collect and How we Use it At http://www.gmusicplus.com/, all information collected are either by searching online Resource (Google) and on-on-one research findings which is used solely for Media Projections and Promotion of Such personality of Organization online.
+Informations We Collect and How we Use it At https://www.gmusicplus.com/, all information collected are either by searching online Resource (Google) and on-on-one research findings which is used solely for Media Projections and Promotion of Such personality of Organization online.
 
 Gmusicplus is an Online Magazine/Entertainment outfit aimed at Redefining, Re-branding and promoting gospel music/entertainment, its artists and more.
 
-Location :: http://www.gmusicplus.com/ is Located in Nigeria, Africa.
+Location :: https://www.gmusicplus.com/ is Located in Nigeria, Africa.
 
 **Cookies and Web Beacons**
 
@@ -44,7 +44,7 @@ This is information that we collect automatically about your visit during your t
 
 **How We Use Collected Information**
 
-The information http://www.gmusicplus.com/ collects from you, whether personal or technical, may be used by us for the following purposes:
+The information https://www.gmusicplus.com/ collects from you, whether personal or technical, may be used by us for the following purposes:
 
 To improve our customer service by responding to your requests more quickly and efficiently;
 
@@ -83,7 +83,7 @@ The right to refuse certain uses (such as for marketing purposes)
 
 **Children’s Information**
 
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://www.gmusicplus.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://www.gmusicplus.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. https://www.gmusicplus.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that https://www.gmusicplus.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
 **Online Privacy Policy Only**
 
