@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thieme.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831004126id_/https%3A//www.thieme.de/de/thieme-gruppe/privacy-policy-statement-Thieme-Publishers-New-York-EN.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thieme.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407211239id_/https%3A//www.thieme.de/de/thieme-gruppe/privacy-policy-statement-Thieme-Publishers-New-York-EN.htm) for the most accurate reproduction.*
 
 # privacy-policy-statement-Thieme-Publishers-New-York-EN
 
