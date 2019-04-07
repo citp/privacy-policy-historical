@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nips.cc privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124235135id_/https%3A//nips.cc/public/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nips.cc privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407222316id_/https%3A//nips.cc/public/PrivacyPolicy) for the most accurate reproduction.*
 
 # NIPS Privacy Policy
 
