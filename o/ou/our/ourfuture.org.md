@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourfuture.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214451id_/http%3A//ourfuture.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfuture.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407021756id_/https%3A//ourfuture.org/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | OurFuture.org by People's Action
 
 Campaign for America’s Future (“CAF”) is committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for information collected through our website and email lists. If you have questions about these policies, we encourage you to contact us through our [online feedback form](https://web.archive.org/contact).
 
