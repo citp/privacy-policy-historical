@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220195031id_/http%3A//www.bathandbodyworks.com/customer-care/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407225853id_/https%3A//www.bathandbodyworks.com/customer-care/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security | Bath & Body Works
 
@@ -78,7 +78,9 @@ We evaluate and select third-party service providers to help us provide certain 
 
 We contract with third-party advertising companies, which may collect information about your use and interactions with the Services over time and across third-party websites and online services, for use in delivering tailored online display and banner advertising to you on other websites and online services. To serve this advertising, these third-party companies place, use, or rely on the technologies described above, including cookies, clear gifs, device identifiers and similar technologies to obtain information about customer interactions with us through our Services and interactions with other online services. These companies use the information they collect to serve you ads that are targeted to your interests.
 
-For information about opt-out programs that these third party advertising companies participate in, and to opt out of the use of website browsing data for interest-based advertising by companies that participate in these programs, click the following: [NAI Opt Out](http://www.networkadvertising.org/choices/#completed) or [DAA Opt Out](http://www.aboutads.info/choices/). To opt out of the use of data collected from the mobile applications on your device to serve ads that are targeted to your interests, consult the settings on your device. You can also click the preference icon that may appear on some of our advertising served through use of these technologies.
+For information about opt-out programs that these third party advertising companies participate in, and to opt out of the use of website browsing data for interest-based advertising by companies that participate in these programs, click the following: [NAI Opt Out](http://www.networkadvertising.org/choices/#completed) or [DAA Opt Out](http://www.aboutads.info/choices/). To opt out of ads targeted to your interests through the use of data collected from the mobile applications on your device, consult the settings on your device. You can also click the preference icon that may appear on some of our advertising served through use of these technologies.
+
+Additionally, we may use similar online display and banner advertising technologies (such as those relying on our own first-party cookies), which require you to exercise your choice options in a different manner. Conversant is one such third-party advertising vendor, and delivers our ads through its own “enhanced online display advertising” service. You may opt-out of this specific Conversant service by [clicking here](http://dtmc.bathandbodyworks.com/adinfo/choice/prod/?type=fpc&cid=60847&cname=Bath%20and%20Body%20Works&cmagic=48be96&clogo=60847.png&loc=us&lang=en-us%27,%27_blank%27,%27status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758%27\);%22%3Eclick). By clicking, you will no longer receive our ads that are specifically delivered through Conversant’s enhanced online display advertising service. This will not affect other similar types of advertising and any choices that may be offered through those services, specifically.
 
 ### HOW DO OUR SERVICES INTERACT WITH THIRD-PARTY SERVICES AND CONTENT?
 
@@ -129,7 +131,7 @@ In the event we sell or transfer all or a portion of our business assets (includ
 You may remove yourself from the Bath & Body Works email list by following the removal instructions located at the bottom of each commercial email. Opting out of any of these emails will not stop operational or transactional messages such as password-reset or account related information from the brand or line of business in question, email confirmations of your online orders, or customer service communications. You may also call us at 1-800-756-5005. For Bath & Body Works Direct TDD, call 1-877-215-5245.
 
 Accessibility Support: 1-800-531-4504  
-See our [policy](http://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website.
+See our [policy](https://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website.
 
 We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your email address with the specific third party in question. Please review their privacy policies to see how they treat your personal information.
 
@@ -162,7 +164,7 @@ If you don't want your basic contact and purchase information shared with other 
 If you don't want your contact and purchase information shared with our sister brands for their direct marketing, please contact us at 1-800-395-1001 to make a request. For Bath & Body Works Store Relations TDD, call 1-866-315-3129.
 
 Accessibility Support: 1-800-531-4504  
-See our [policy](http://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website.
+See our [policy](https://www.bathandbodyworks.com/customer-care/accessibility-policy.html "Privacy Policy") on accommodating assistive readers for visiting our website.
 
 ### HOW DO YOU UPDATE YOUR PERSONAL INFORMATION?
 
@@ -193,7 +195,7 @@ US
 
 ### WHEN WAS THIS POLICY LAST UPDATED?
 
-This Policy was last updated on June 13, 2018.
+This Policy was last updated on March 18, 2019.
 
 ## Supplemental Privacy & Cookie Notice for Visitors from the European Economic Area
 
