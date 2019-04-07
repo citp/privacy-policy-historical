@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopaarons.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107190850id_/https%3A//www.aarons.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopaarons.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407070152id_/https%3A//www.aarons.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Policy Details and Info | Aaron's
 
