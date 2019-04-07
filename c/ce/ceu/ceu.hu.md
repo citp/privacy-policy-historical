@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceu.hu privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203160410id_/https%3A//www.ceu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceu.hu privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407173056id_/https%3A//www.ceu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Central European University
 
@@ -30,12 +30,12 @@ Phone: + 36 1 3273000
 
 ## 3\. Contact details of the Data Protection Officer
 
-Irisz Szel, Legal Counsel and Interim Data Protection Officer  
+Irisz Szel, Legal Counsel and Data Protection Officer  
 Central European University  
 1051 Budapest  
 Nador u. 9.  
 Phone: + 36 1 3273000  
-Email: [szeli@ceu.edu](mailto:szeli@ceu.edu)
+Email: [privacy@ceu.edu](mailto:privacy@ceu.edu)
 
 ## 4\. What is the purpose for processing your data?
 
