@@ -1,278 +1,113 @@
-> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614110150id_/http%3A//www.ucdenver.edu/policy/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407153229id_/http%3A//www.ucdenver.edu/policy/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | | Accredited Degrees, Research and Health Care | Denver, Colorado | University of Colorado Denver
 
-Please find the [University Privacy Policy (PDF) here​](https://web.archive.org/academics/research/AboutUs/regcomp/hipaa/Documents/2.2%20UCD%20-%20AMC%20NPP%209-2013.pdf).
+Your privacy is important to us, and we to go great lengths to protect it. Please find the [University Notice of Privacy Practices (PDF) here](https://web.archive.org/research/Research%20Administration%20Documents/2.2%20UCD%20-%20AMC%20NPP%209-2013.pdf).  
 
-### Notice of Privacy Practices  
-Effective: September 23, 2013
 
-#### Your Information. Your Rights. Our Responsibilities. 
+**Effective Date:** April 1, 2019  
 
-This notice describes the University of Colorado Anschutz Medical Campus’ practices, uses and disclosures of your medical information. The following are included as a part of these campuses:
 
-  * Any health care professional who treats you at any of our locations;  
+**Commitment to Individual Privacy :**  
 
-  * All departments and units of the University of Colorado that must use your medical information as a part of their job;  
 
-  * All employees, volunteers, and staff of the University of Colorado Denver;  
+The University of Colorado Denver | Anschutz Medical Campus (“CU Denver | Anschutz” or “we” or “University”) supports the protection of individual privacy and is committed to ensuring the confidentiality of personal information provided by its employees, students and other members of the University community.  This privacy policy provides a general description of the ways we collect information about individuals, how we may use or disclose this information, and how we safeguard this information. This policy covers the business practices of the CU Denver | Anschutz Campus.  
 
-  * Any business associate who performs work for us that requires them to access to your medical information;  
 
-  * All students in certified training programs.
+**Online Privacy Notice:**  
 
 
+​CU Denver | Anschutz supports the protection of the privacy of individuals who visit official campus websites (the “Site(s)”). It recognizes the numerous laws that govern the collection, storage, transfer, use and access to personal information. This statement extends to the collection of all personal information, regardless of source or medium; it does not govern or apply to the collection of data collected by a CU Denver | Anschutz covered component, as defined under the Health Insurance Portability and Accountability Act of 1996, as amended. 
 
-All of these entities, sites and locations will follow what is said in this notice. In addition, they may share medical information with each other for your treatment, payment or their health care operations described in this notice.
+This statement does not apply to websites that are created and maintained for purposes other than conducting official University business by individual faculty, staff or students using resources made available within a University domain.
 
-### Your Rights
+**​** **Collection of Information:**  
 
-**You have the right to:**
+It is the practice of CU Denver | Anschutz to collect the least amount of personal information required to fulfill its duties and responsibilities, to complete a particular transaction, or as required by law. Personal information includes, but is not limited to, your name, email address, postal address, telephone number, username and password, and other information specific to you. 
 
-  * Get a copy of your paper or electronic medical record 
-  * Amend your paper or electronic medical record  
+You may choose whether or not to provide personal information to CU Denver | Anschutz via the Internet. If you choose not to provide personal information, you can still visit most CU Denver | Anschutz Site(s), but you may be unable to access certain options, offers and services.
 
-  * Request confidential communication  
+For website administration purposes, non-personal information is collected for analysis (“Usage Information”). Usage Information includes, but is not limited to, number of visitors, number of page views, IP address, website pages visited prior to visiting the Site(s), browser information, technical information about your device, system, software, and peripherals. 
 
-  * Ask us to limit the information we share  
+Usage Information is used to help diagnose problems, assess what information is of most interest, determine technical design specifications, and identify system performance and/or problem areas, and other administrative functions. CU Denver | Anschutz may use Usage Information to facilitate the provision of software updates, product support and other services to you (if any). 
 
-  * Get a list of those with whom we’ve shared your information  
+**Sharing and Disclosing Your Information: ​**   
 
-  * Get a copy of this privacy notice  
 
-  * Choose someone to act for you  
+CU Denver | Anschutz may, for example, provide your personal information to third parties in the following instances: (i) to the extent necessary to comply with applicable law and our legal obligations, such as to comply with a subpoena or similar legal process; (ii) when CU Denver | Anschutz believes in good faith that disclosure is necessary to protect its rights, your safety or the safety of others; (iii) with third party vendors, consultants and other service providers who work for us and need access to your information to do that work; (iv) to investigate fraud, or respond to a government request; (v) to comply with an appropriate request under the Colorado Open Records Act (C.R.S. § 24-72-201 et. seq.); (vi) if you request that someone from CU Denver | Anschutz share your information; and (vii) in connection with or during negotiation of any merger, financing, acquisition, or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company.   
 
-  * File a complaint if you believe your privacy rights have been violated  
 
+**​Colorado Open Records Act (CORA):** As a public institution of the state of Colorado, the University must comply with CORA. Information we handle, including your personal information, may be available for request under CORA if it is not protected under any other law or specifically exempt from disclosure under CORA. We will not disclose information protected by law in response to a public records request.    
 
 
+**Protecting Your Information:**
 
-### Your Choices
+CU Denver | Anschutz has security policies and standards regarding the protection of personal information. These standards include both administrative and technical requirements to appropriately protect personal information. CU Denver | Anschutz has an information security officer and team who assist departments in providing appropriate protection for personal information. This includes active monitoring and assessments to detect potential security issues. 
 
-You have some choices in the way that we use and share information as we:
+When third party vendors, consultants, and other service providers who work for CU Denver | Anschutz handle your information, CU Denver | Anschutz relies on a combination of contractual requirements, third-party audits, security reviews and assessments and as assurances that personal information is appropriately protected.  
 
-  * Tell family and friends about your condition  
+**Third Party Tracking and Advertising:**
 
-  * Provide disaster relief  
+CU Denver | Anschutz is not responsible for the content or privacy statements of those links or the content of any third-party websites. If you are asked to supply personal information to those websites, we suggest you read carefully through the privacy statements of those websites or mobile applications.
 
-  * Include you in a directory  
+CU Denver | Anschutz may include information on the Site including social media features. These social media features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the social media feature to function properly. Social media features may be hosted by a third party or hosted directly on the CU Denver | Anschutz Sites. Your interactions with these social media features are governed by the privacy statement of the company providing them.
 
-  * Provide mental health care  
+CU Denver | Anschutz may use your information to re-target or re-market to you via advertisements on the Site. CU Denver | Anschutz may partner with a third party ad network to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on the Site and to then provide you with CU Denver | Anschutz advertising on other websites. We may also place a persistent third-party cookie on your hard drive if you sign on to ucdenver.edu or cuanschutz.edu. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by utilizing the Google opt-out tool or the Network Advertising Initiative website tool. Please note this does not opt you out of being served advertising. You may continue to receive generic non-targeted ads featuring CU Denver | Anschutz.
 
-  * Market our services  
+**Cookies, Web Beacons and Trackers:**
 
-  * Raise funds  
+CU Denver | Anschutz uses certain technologies to help us provide you with personalized service, and to help make our websites, applications and services perform better for you.
 
+Cookies are small text files sent from the Site and stored on your device. Use of cookies are a necessary and widely accepted technology utilized by the Site for functionality, performance, user tracking, and personalization.  Our Site cookies may be either session or persistent cookies or a combination or both: 
 
+  * **Session Cookies** are temporary cookies that identify and track users within our Site, applications or services which are deleted when you close your browser or leave your session in the application or service.
+  * **Persistent Cookies** are cookies which enable our websites, applications or services to “remember” who you are and to remember your preferences within our Site, applications or services and which will stay on your computer or device after you close your browser or leave your session in the application or service.
 
 
-### Our Uses and Disclosures
 
-We may use and share your information as we:
+CU Denver | Anschutz also uses another similar website technology known as web beacons to count users who have visited our Site after clicking through from one of our advertisements on another website or in emails and to collect details of any website services utilized. These web beacons collect limited information which does not identify particular individuals. While it is not possible for you to restrict the use of web beacons, because they are used in conjunction with cookies, you can effectively disable them by setting your browser to restrict or block cookies.
 
-  * Treat you  
+**Children’s Privacy:  **
 
-  * Run our organization  
+Any child under the age of 13 should not register to use any portion of the CU Denver | Anschutz website, or provide any personal information. It is not CU Denver | Anschutz’s desire or intent through its Site to collect and store any personal information from any person CU Denver | Anschutz actually knows to be under the age of 13. 
 
-  * Bill for your services  
+**Family Education Rights and Privacy Act (20 U.S.C. § 1232g):**
 
-  * Help with public health and safety issues  
+In general, the Family Education Rights and Privacy Act (“FERPA”) prohibits the release of students’ educational records.  However, the University of Colorado may release student directory information or student educational records if allowed or required by FERPA.  For more information about FERPA contact your campus registrar’s office.
 
-  * Do research  
+**  
+What You are Consenting to:  **
 
-  * Comply with the law  
+By using the Site(s), you are consenting to the use and processing of your information as set forth in this Privacy Notice, almost all of which activities will take place in the United States. If you reside outside the U.S., your information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By using the Site and providing information to us, you consent to such transfer to, and processing in, the U.S.
 
-  * Respond to organ and tissue donation requests  
+If CU Denver | Anschutz collects information based on your consent, CU Denver | Anschutz will conform to the processes outlined in any applicable consent form. If you provide information based on consent, you may generally withdraw your consent at any time. However, withdrawal will not affect the processing based on such consent prior to withdrawal. 
 
-  * Work with a medical examiner or funeral director  
+**  
+My Rights Regarding my Personal Information:  **
 
-  * Address workers’ compensation, law enforcement, and other government requests  
+The rights you have regarding the use and disclosure of your personal information depend on the nature of your relationship to CU Denver | Anschutz, applicable law, and the type of the information the University holds about you.  Please be aware that personal information rights under international, United States, and Colorado information and privacy laws may differ. Depending on the applicable law(s), you may have the right to request:
 
-  * Respond to lawsuits and legal actions  
+  * A list of the types of the personal information CU Denver | Anschutz has about you;
+  * That CU Denver | Anschutz correct inaccurate information about you (For example, updates to your name, contact information, etc.);
+  * That CU Denver | Anschutz delete information about you. (Depending on your role at CU Denver | Anschutz, the information CU Denver | Anschutz stores about you, applicable law, and the University of Colorado’s record retention requirements, CU Denver | Anschutz may not delete your information); and/or
+  * To have CU Denver | Anschutz stop processing your information. ​
 
 
 
+You should direct all requests to exercise these rights to the contact information provided in the Comments and Feedback section.
 
-### Your Rights
+**  
+Comments and Feedback:  **  
 
-**When it comes to your health information, you have certain rights.** This section explains your rights and some of our responsibilities to help you.
 
-**Get an electronic or paper copy of your medical record**
+Send comments or questions to [Reg.Compliance@ucdenver.edu](mailto:Reg.Compliance@ucdenver.edu). If you send comments, please include a mailing address. Do not send attachments with the message. (Due to concern about computer viruses and the damage they cause, email messages containing attachments will be deleted without opening them.)
 
-  * You can ask to see or get an electronic or paper copy of your medical record and other health information we have about you. Ask us how to do this.  
+**  
+Disclaimer:  **
 
-  * We will provide a copy or a summary of your health information, usually within 30 days of your request. We may charge a reasonable, cost-based fee.  
+The information provided in this Privacy Notice should not be construed as giving business, legal or other advice, or as guaranteeing the security of information provided through CU Denver | Anschutz’s websites.
 
+**  
+Updates:**
 
-
-
-**Ask us to amend your medical record**
-
-* You can ask us to amend health information about you that you think is incorrect or incomplete. Ask us how to do this.  
-
-* We may say “no” to your request, but we’ll tell you why in writing within 60 days.  
-**Request confidential communications**  
-
-* You can ask us to contact you in a specific way (for example, home or office phone) or to send mail to a different address.  
-
-* We will say “yes” to all reasonable requests.  
-**Ask us to limit what we use or share**  
-
-* You can ask us not to use or share certain health information for treatment, payment, or our operations. We are not required to agree to your request, and we may say “no” if it would affect your care.  
-
-* If you pay for a service or health care item out-of-pocket in full at time of service, you can ask us not to share that information for the purpose of payment or our operations with your health insurer. We will say “yes” unless a law requires us to share that information.  
-**Get a list of those with whom we’ve shared information**  
-
-* You can ask for a list (accounting) of the times we’ve shared your health information for six years prior to the date you ask, who we shared it with, and why.  
-
-* We will include all the disclosures except for those about treatment, payment, and health care operations, and certain other disclosures (such as any you asked us to make). We’ll provide one accounting a year for free but will charge a reasonable, cost-based fee if you ask for another one within 12 months.
-
-**Get a copy of this privacy notice**
-
-You can ask for a paper copy of this notice at any time, even if you have agreed to receive the notice electronically. We will provide you with a paper copy promptly.
-
-**Choose someone to act for you**
-
-  * If you have given someone medical power of attorney or if someone is your legal guardian, that person can exercise your rights and make choices about your health information.  
-
-  * We will make sure the person has this authority and can act for you before we take any action.  
-
-
-
-
-**File a complaint if you feel your rights are violated**
-
-  * You can complain if you feel we have violated your rights by contacting our Privacy Officer via phone (303) 724-0983 or email hipaa@ucdenver.edu  
-
-  * You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting [www.hhs.gov/ocr/privacy/hipaa/complaints/.](https://web.archive.org/policy/Pages/http;//www.hhs.gov/ocr/privacy/hipaa/complaints "HIPPA")
-  * We will not retaliate against you for filing a complaint.
-
-
-
-### Your Choices
-
-**For certain health information, you can tell us your choices about what we share.** If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.  
-In these cases, you have both the right and choice to tell us to:
-
-  * Share information with your family, close friends, or others involved in your care  
-
-  * Share information in a disaster relief situation  
-
-  * Include your information in a hospital directory  
-
-
-
-
-_If you are not able to tell us your preference, for example if you are unconscious, we may go ahead and share your information if we believe it is in your best interest. We may also share your information when needed to lessen a serious and imminent threat to health or safety._
-
-In these cases we never share your information unless you give us written permission:
-
-  * Marketing purposes  
-
-  * Sale of your information  
-
-  * Most sharing of psychotherapy notes  
-
-
-
-
-**In the case of fundraising:**  
-We may contact you for fundraising efforts, but you can tell us not to contact you again. Information used may include your name, address, phone number, the dates you received services, department(s) from which you received services, your treating physician(s), outcome information, and health insurance status to contact you in an effort to raise money for the School of Medicine. Your choice to opt-out will not be a condition of treatment or payment.
-
-### Our Uses and Disclosures
-
-**How do we typically use or share your health information?**  
-We typically use or share your health information in the following ways.
-
-**Treat you**
-
-We can use your health information and share it with other professionals who are treating you.
-
-Example: A doctor treating you for an injury asks another doctor about your overall health condition.
-
-**Run our organization**  
-We can use and share your health information to run our practice, improve your care, and contact you when necessary.
-
-Example: We use health information about you to manage your treatment and services.
-
- **Bill for your services**  
-We can use and share your health information to bill and get payment from health plans or other entities.  
-Example: We give information about you to your health insurance plan so it will pay for your services.
-
-### How else can we use or share your health information?
-
-We are allowed or required to share your information in other ways – usually in ways that contribute to the public good, such as public health and research. We have to meet many conditions in the law before we can share your information for these purposes.  
-For more information see: [www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html.](http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html "HIPPA")
-
-**Help with public health and safety issues**  
-We can share health information about you for certain situations such as:  
-
-
-  * Preventing disease  
-
-  * Helping with product recalls  
-
-  * Reporting adverse reactions to medications  
-
-  * Reporting suspected abuse, neglect, or domestic violence  
-
-  * Preventing or reducing a serious threat to anyone’s health or safety  
-
-
-
-
-**Do research**  
-We can use or share your information for health research.
-
-**Comply with the law**  
-We will share information about you if state or federal laws require it, including with the Department of Health and Human Services if it wants to see that we’re complying with federal privacy law.
-
-**Respond to organ and tissue donation requests**  
-We can share health information about you with organ procurement organizations.
-
-**Work with a medical examiner or funeral director**  
-We can share health information with a coroner, medical examiner, or funeral director when an individual dies.
-
-**Address workers’ compensation, law enforcement, and other government requests**  
-We can use or share health information about you:  
-
-
-  * For workers’ compensation claims  
-
-  * For law enforcement purposes or with a law enforcement official  
-
-  * With health oversight agencies for activities authorized by law  
-
-  * For special government functions such as military, national security, and presidential protective services  
-
-
-
-
-Respond to lawsuits and legal actions  
-We can share health information about you in response to a court or administrative order, or in response to a subpoena.
-
-### Our Responsibilities
-
-* We are required by law to maintain the privacy and security of your protected health information.  
-
-* We will let you know promptly if a breach occurs that may have compromised the privacy or security of your information.  
-
-* We must follow the duties and privacy practices described in this notice and give you a copy of it.  
-
-* We will not use or share your information other than as described here unless you tell us we can in writing. If you tell us we can, you may change your mind at any time. Let us know in writing if you change your mind.
-
-For more information see: [www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html](http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html "Health Information Privacy")
-
-### Changes to the Terms of this Notice
-
-We can change the terms of this notice, and the changes will apply to all information we have about you. The new notice will be available upon request, in our office, and on our web site.
-
-**_Contact Information_**  
-University of Colorado Denver Privacy Officer:  
-13001 E. 17th Place, MS F497  
-Aurora, CO 80045
-
-The University of Colorado Denver maintains a confidential reporting hotline, which may be accessed at:  
-[www.ethicspoint.com](https://web.archive.org/policy/Pages/www.ethicspoint.com "Ethics Point")
-
-​
+This Privacy Notice may be modified or updated at any time by CU Denver | Anschutz. 
