@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbbonline.in privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920144716id_/http%3A//www.fbbonline.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbbonline.in privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407121908id_/https%3A//www.fbbonline.in/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,8 @@ We do not sell or rent your personal information to third parties for their mark
 We may share personal information with our other corporate entities and affiliates. These entities and affiliates may market to you as a result of such sharing unless you explicitly opt-out.
 
 We may disclose personal information to third parties. This disclosure may be required for us to provide you access to our Services, to comply with our legal obligations, to enforce our User Agreement, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. 
+
+By signing up with fbbonline, you consent to the use of your email / mobile number, to reach out to you,with promotional content.
 
 We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
 
