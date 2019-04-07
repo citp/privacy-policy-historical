@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacher.org privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912231039id_/http%3A//www.teacher.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacher.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407152940id_/https%3A//www.teacher.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teacher.org
 
@@ -6,7 +6,7 @@ LAST MODIFIED: November 9, 2016
 
 ## INTRODUCTION
 
-Esyoh, LLC ( **"Company"** or **"We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes our privacy and data practices with respect to information we collect or receive relating to users of Teacher.org (the "Website").
+Teacher.org ( **"Company"** or **"We"** ) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes our privacy and data practices with respect to information we collect or receive relating to users of Teacher.org (the "Website").
 
 Please read this policy carefully to understand our policies and practices regarding your information. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy.
 
@@ -45,7 +45,7 @@ We collect several types of information from and about users of our Website. We 
 
 
 
- **We collect this information:**
+**We collect this information:**
 
   * Directly from you when you provide it to us.
 
@@ -57,7 +57,7 @@ We collect several types of information from and about users of our Website. We 
 
 
 
-###  **Information You Provide Directly to Us**
+### **Information You Provide Directly to Us**
 
 The information we collect on or through our Website may include:
 
@@ -79,7 +79,7 @@ The information we collect on or through our Website may include:
 
 When you provide comments to be posted in public areas of the Website, or transmitted to other users of the Website or third parties ("User Contributions"), you do so at your own risk. Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users of the Website who view your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-###  **Information We Collect Through Automatic Means**
+### **Information We Collect Through Automatic Means**
 
 As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your browsing actions and patterns, including:
 
@@ -172,13 +172,13 @@ At this time, we do not honor "Do Not Track" headers and similar mechanisms.
 
 We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-  * To our subsidiaries and corporate affiliates. Esyoh, LLC is the party responsible for the management of the personal information used by it and its corporate affiliates.
+  * To our subsidiaries and corporate affiliates. Teacher.org is the party responsible for the management of the personal information used by it and its corporate affiliates.
 
 
   * To contractors, service providers and other third parties we use to support our business.
 
 
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Esyoh LLC's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Esyoh, LLC about our Website users is among the assets transferred.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Teacher.org's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Teacher.org about our Website users is among the assets transferred.
 
 
   * Directly by you, on public pages to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to users of the Website and to the general public. We urge you to be very careful when deciding to disclose your personal information, or any other information, on the Website.
@@ -198,7 +198,7 @@ We may disclose personal information that we collect or you provide as described
 
 We may disclose other information about our users, and information that does not identify any individual:
 
-  * To our subsidiaries and corporate affiliates. Esyoh, LLC is the party responsible for the management of the personal information used by it and its corporate affiliates.
+  * To our subsidiaries and corporate affiliates. Teacher.org is the party responsible for the management of the personal information used by it and its corporate affiliates.
 
 
   * To contractors, service providers and other third parties we use to support and enhance our business.
@@ -216,7 +216,7 @@ We may disclose other information about our users, and information that does not
 
 In some instances, we may combine other information with personal information (such as combining your date of birth with your name). If we combine any other information with personal information, the combined information will be treated by us as personal information as long as it is combined.
 
-##  **RETENTION OF INFORMATION**
+## **RETENTION OF INFORMATION**
 
 We will retain your information for the period necessary to fulfill the purposes outlined in this policy unless a longer retention period is required or permitted by law.
 
@@ -252,7 +252,7 @@ Some other content or applications, including advertisements, on the Website are
 
 We do not control and we are not responsible for these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about the privacy and data practices of these providers, you should contact such providers directly.
 
-##  **THIRD PARTIES**
+## **THIRD PARTIES**
 
 This policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including our vendors or any other third party operating any site or service to which the Website links. The inclusion of a link on the Website does not imply endorsement of the linked site or service by us or by our affiliates.
 
@@ -267,20 +267,20 @@ We strive to provide you with choices regarding your information. We have create
   * You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable, delete or refuse cookies, please note that some parts of this Website may not function properly. When you disable or delete cookies you are also deleting any opt-out cookies you have set on that browser or device. You will need to re-set opt outs after you have disabled or deleted your cookies on that browser or device.
 
 
-  *  **Targeted Advertising** \- If you do not want us to use information that we collect or receive in connection with the Facebook Pixel, which delivers advertisements according to our advertisers' target-audience preferences, you can go to Facebook.com to view your options. We do not control third parties' collection or use of your information to serve interest-based advertising. You can find and manage many online ad cookies from companies by visiting the website http://www.aboutads.info/choices/.
+  * **Targeted Advertising** \- If you do not want us to use information that we collect or receive in connection with the Facebook Pixel, which delivers advertisements according to our advertisers' target-audience preferences, you can go to Facebook.com to view your options. We do not control third parties' collection or use of your information to serve interest-based advertising. You can find and manage many online ad cookies from companies by visiting the website http://www.aboutads.info/choices/.
 
 
-  *  **Promotional Offers from the Company** \- If you do not wish to have your contact information used by the Company to promote our own or third parties' products or services, you can opt out by sending us an e-mail stating your request to [privacy@esyoh.com](mailto:privacy@esyoh.com). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
+  * **Promotional Offers from the Company** \- If you do not wish to have your contact information used by the Company to promote our own or third parties' products or services, you can opt out by sending us an e-mail stating your request to [info@teacher.org](mailto:info@teacher.org). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
 
 
 
 ## ACCESSING AND CORRECTING YOUR INFORMATION
 
-You may send us an e-mail at [privacy@esyoh.com](mailto:privacy@esyoh.com) to request access to, correct or delete any personal information that you have provided to us. If we believe the change would violate any law or legal requirement or cause the information to be incorrect, we may not accommodate a request to change information.
+You may send us an e-mail at [info@teacher.org](mailto:info@teacher.org) to request access to, correct or delete any personal information that you have provided to us. If we believe the change would violate any law or legal requirement or cause the information to be incorrect, we may not accommodate a request to change information.
 
 If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use.
 
-##  **SENSITIVE INFORMATION**
+## **SENSITIVE INFORMATION**
 
 We ask that you not send us, and you not disclose, any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Website or otherwise to us.
 
@@ -290,7 +290,7 @@ We seek to use reasonable organizational, technical and administrative measures 
 
 ## CHILDREN UNDER THE AGE OF 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website, do not use any of the interactive or public comment features of this Website and do not provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [privacy@esyoh.com](mailto:privacy@esyoh.com).
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website, do not use any of the interactive or public comment features of this Website and do not provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [info@teacher.org](mailto:info@teacher.org).
 
 ## CHANGES TO OUR PRIVACY POLICY
 
@@ -298,9 +298,4 @@ It is our policy to post any changes we make to our privacy policy on this page 
 
 ## CONTACT INFORMATION
 
-To ask questions or comment about this privacy policy and our privacy and data practices, contact us at [privacy@esyoh.com](mailto:privacy@esyoh.com) or the following mailing address:
-
-Esyoh, LLC  
-Attn: Privacy Policy  
-2647 Gateway Rd., Ste. 105-409  
-Carlsbad, CA 92009.
+To ask questions or comment about this privacy policy and our privacy and data practices, contact us at [info@teacher.org](mailto:privacy@esyoh.com) or the following mailing address:
