@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611071911id_/https%3A//www.cleverbridge.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407020413id_/https%3A//www.cleverbridge.com/corporate/privacy-policy/%3FelqTrackId%3Ddcbf1ccbc42f4e1fa1db0b950c0ceffc) for the most accurate reproduction.*
 
 # Privacy Policy | cleverbridge
 
@@ -45,7 +45,7 @@ We collect the following Personal Information that you provide by using the Site
 
 **Requests and use of the Site**
 
-  * On certain Sites, we give users the option of providing us with account registration information. This information may include, among other things, your name, address, email address, and a password.</li
+  * On certain Sites, we give users the option of providing us with account registration information. This information may include, among other things, your name, address, email address, and a password.
   * When you contact us by email, fax, or telephone, or if you are using any of the email addresses, fax, or telephone numbers provided on the Site, then we may collect any Personal Information you choose to provide to us in connection with this communication.
   * If you fill out any of the contact forms of the Site, then we may collect your name, email address, the description of your request, company and country (where required), and any other information you choose to provide for the purpose of answering your request.
 
