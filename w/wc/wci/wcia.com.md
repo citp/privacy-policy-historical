@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226054608id_/https%3A//www.wcia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407233903id_/https%3A//www.wcia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
