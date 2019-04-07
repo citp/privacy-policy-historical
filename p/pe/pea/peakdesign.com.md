@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the peakdesign.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924070519id_/https%3A//www.peakdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakdesign.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407090727id_/https%3A//www.peakdesign.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Peak Design
+# Privacy Policy | Peak Design Official Site
 
 We hold the highest respect for your privacy at Peak Design and we know that you care how information about you is used and shared. This notice describes what information we collect from our website users and how we use it. **By visiting peakdesign.com, pkdsn.com, or giveashot.org, you are accepting the practices described within.**
 
-The last thing we want to do is violate your right to privacy and/or annoy the living daylight out of you. Hence, we’ve made it easy to opt out of our newsletter and opt out of having your data collected when you visit our site. 
+The last thing we want to do is violate your right to privacy and/or annoy the living daylight out of you. Hence, we’ve made it easy to opt out of our newsletter and opt out of having your data collected when you visit our site.
 
 Just submit [this form](https://goo.gl/forms/iEO75utYQGHsRTP03). If you have any questions at all about our Privacy Policy, please contact us at security@peakdesign.com.
+
+## WHAT INFORMATION DO WE COLLECT & RETAIN?
 
 ## ORDER FULFILLMENT INFORMATION
 
@@ -40,27 +42,44 @@ If you sign up or opt in to the [Peak Design Newsletter](http://eepurl.com/pq-oL
 
 We’re always trying to make our website a better experience for customers. To do this, we use third party tools to run A/B tests. During an A/B test, we split our website visitors into 2 groups and show each group a different page design. We then analytical tools to determine which group of customers was best able to accomplish their goals on our site. The winning page design is then implemented for 100% of website visitors. Our A/B testing and analytical tools do not collect or retain personally identifiable information. Instead, they collect and retain pages you visit on our website, things you click on, mouse movements, and how far down you scroll. You can opt out of having your data collected and retained by these services [here](https://goo.gl/forms/iEO75utYQGHsRTP03) (make sure you check the “forget me” box).
 
-Google Analytics is Google’s web analytics tool that helps website owners understand how their visitors engage with their website. Google Analytics collects information anonymously, and much like examining footprints in sand, it reports website trends without identifying individual visitors. Analytics uses its own cookie to track visitor interactions. The cookie is used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. A different cookie is used for each website, and visitors are not tracked across multiple sites. Analytics requires that all websites that use it must update their privacy policy to include a notice that fully discloses the use of Analytics. To disable this type of cookie, some browsers will indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis. In addition to declining cookies, you can also install the [Google Analytics Opt-out Add-on](https://tools.google.com/dlpage/gaoptout) in your browser, which prevents Google Analytics from collecting information about your website visits. 
+## How does Google Analytics work?
+
+Google Analytics is Google’s web analytics tool that helps website owners understand how their visitors engage with their website. Google Analytics collects information anonymously, and much like examining footprints in sand, it reports website trends without identifying individual visitors. Analytics uses its own cookie to track visitor interactions. The cookie is used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. A different cookie is used for each website, and visitors are not tracked across multiple sites. Analytics requires that all websites that use it must update their privacy policy to include a notice that fully discloses the use of Analytics. To disable this type of cookie, some browsers will indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis. In addition to declining cookies, you can also install the [Google Analytics Opt-out Add-on](https://tools.google.com/dlpage/gaoptout) in your browser, which prevents Google Analytics from collecting information about your website visits.
+
+## HOW DO WE PROTECT YOUR INFORMATION?
 
 Peak Design takes security seriously and cares about the integrity of your personal information. We use commercially reasonable physical, administrative, and technological methods to transmit and store your data in a secure, encrypted manner. However, Peak Design cannot guarantee that unauthorized third parties will never be able to defeat our security measures or use your personal information for improper purposes. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
+## DO WE SELL ANY INFORMATION TO OUTSIDE PARTIES?
+
 No, we don’t. We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## THIRD PARTY LINKS
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website or via our social media channels. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+## CHILDREN'S ONLINE PRIVACY PROTECTION ACT COMPLIANCE
+
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+## ONLINE PRIVACY POLICY ONLY
 
 This online privacy policy applies only to information collected through our website and not to information collected offline or through other platforms or channels
 
+## TERMS AND CONDITIONS
+
 Please also visit our Legal Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
+## YOUR CONSENT
+
 By using our site, you consent to this web site privacy policy.
+
+## CHANGES TO OUR PRIVACY POLICY
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 5/24/2018
 
+## CONTACTING US
+
 If there are any questions regarding this privacy policy you may contact us at security@peakdesign.com.
-
-  
-
