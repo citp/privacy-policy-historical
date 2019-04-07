@@ -1,79 +1,67 @@
-> *The following text is extracted and transformed from the gorgias.io privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512140702id_/https%3A//gorgias.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorgias.io privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407183218id_/https%3A//gorgias.io/privacy) for the most accurate reproduction.*
 
-# Gorgias - Privacy Policy
+# Gorgias - Privacy policy
 
-Will you read my e-mails or get my contacts? 
-    
+## Introduction
 
-No! The Chrome extension inserts snippets of text and reads words to insert the text. Variables such as your name or your contacts name maybe be used in templates. 
+This privacy policy is designed to inform users of our proprietary products available at https://gorgias.io, including all sub-sites and micro-sites controlled by us, and any related smartphone or mobile application (collectively, the “Service”) about how Gorgias Inc. (“Gorgias”, “we” or “us”) gathers and uses personal information submitted to Gorgias through the Service. Gorgias will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with all applicable U.S. laws. In this policy, “user” or “you” means any person viewing the Service or submitting any personal information to Gorgias in connection with using the Service.
 
-However none of that information is sent to our servers!
+By accessing our website, using the service, integrating with our systems, or by otherwise providing us with your personally identifying information, you are accepting the practices and policies described in the Privacy Policy. Our Privacy Policy may change from time to time, and any changes will be posted on this page, and if the changes are significant, we will provide a more prominent notice. If you have questions or concerns regarding the Privacy Policy, you should first contact us at support@gorgias.io.
 
-All is done locally on your computer. Not your contacts information, nor your e-mail contents will get to our servers.
+Our Privacy Policy does not apply to services offered by other companies or individuals, including third party services used by Gorgias. For these third party services, we encourage you to familiarize yourself with the applicable third party privacy policies.
 
-What data do you collect? 
-    
+## What information do we collect?
 
-By default only anonymous and quantitative data is collected.
+ **Personal Information** : If you sign up to create an account, we may ask you for certain personal information for the account, including the name of the individual creating the account, business email address, business phone number, company name, and payment information such as credit card number (the “Personal Information”). In addition, if you contact Gorgias and disclose additional personal information, we may store that Personal Information.
 
-**Anonymous** means that it's not possible for us to identify who is using the extension. We don't collect your email address, the email content or the sites you visit, etc...
+ **User Data** : When you use the service as well any related software and application, you transmit to Gorgias certain user-specific data (“User Data”), including to but not limited to your use of the Service, and additional information.
 
-**Quantitative** means that we send information about the usage. Here's an example of data we collect:
+ **Web Tracking Information** : We, and third party service providers that we engage to provide services to us (“Contractors”), may use web tracking technologies such as cookies, web beacons, pixel tags and clear GIFs in order to operate the Service efficiently and to collect data related to usage of the Service. Such collected data (“Web Tracking Information”) may include the address of the websites you visited before and after you visited the Gorgias website, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Service you visit and what links you clicked on, and whether you opened email communications we send to you. In order to collect Web Tracking Information and to make your use of the Service more efficient, we may store cookies on your computer. We may also use web tracking technologies that are placed in web pages on the Service or in email communications to collect information about actions that users take when they interact with the Service or such email communications, and our Contractors may also do so. We do not correlate Web Tracking Information to individual user Personal Information. Some Web Tracking Information may include data, such as IP address data, that is unique to you. You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Service, but this may affect the performance of the Service.
 
-  * When you insert a template in your email template we send how big was the template inserted - not the content of the template 
-  * When you create a new template we send how big was that template - not the content of the template 
-  * And so on..
+## How do we use the information we collect?
 
+ **Personal Information** : We will use and store Personal Information for the purpose of delivering the Service (including to establish or renew your Gorgias account), and to analyze and enhance the operation of the Service. We may also use Personal Information for the internal operational and administrative purposes of the Service. We may enter Personal Information into our contact management database, and may use such database to send you marketing materials and to contact you regarding your interest in Gorgias products and services.
 
+ **User Data** : We will use the User Data to provide the Service. We may aggregate User Data across all or a subset of users to create statistical information relating to the use of the Service, as described in “Aggregate Information” below.
 
-We collect this data using Mixpanel and Google Analytics which are the industries standard
+ **Aggregate Information** : We will also create statistical, aggregated data relating to our users and the Service for analytical purposes. Aggregated data is derived from Personal Information and User Data but in its aggregated form it does not relate to or identify any particular client or individual or any specific user’s data. This data is used to understand our customer base and to develop, improve and market our services.
 
-Any of the above information collection can be disabled from the _Options_ menu of the extension. No hard feelings. We respect your privacy. 
+ **Web Tracking Information** : We use Web Tracking Information to administer the Service and to understand how well our Service is working, to store your user preferences, and to develop statistical information on usage of the Service. This allows us to determine which features users like best to help us improve our Service, to personalize your user experience, and to measure overall effectiveness.
 
-What about my templates and other private data? 
-    
+ **Legal Exception** : Notwithstanding the above, Gorgias may use Personal Information and User Data to the extent required by law or legal process, or if in Gorgias’s reasonable discretion use is necessary to investigate fraud or any threat to the safety of any individual, to protect Gorgias’s legal rights or to protect the rights of third parties.
 
-Your data is your data. You own it. There is no lock-in, you can at any time, export, modify or close your account permanently. If you decide to take away your data with you we guarantee to take all the steps to ensure that your is safely erased (including backups). One exception to this is historical billing information (if any). 
+## What information do we disclose to third parties?
 
-We remind you that visiting our website can be done anonymously (there is a Google Analytics / Mixpanel snippet though). 
+ **Gorgias’s Disclosure of Personal Information** : Gorgias will not disclose Personal Information to any third party except to our Contractors who are bound by written obligations of confidentiality, or as described under “Permitted Disclosures” below.
 
-What do we use your information for? 
-    
+ **User Data** : We only disclose User Data to any of the designated administrators of the business entity that you establish via your account. Except as described above, we disclose User Data only to you, the user who submitted the User Data to Gorgias to our Contractors who are bound by obligations of confidentiality, and as described under “Permitted Disclosures” below.
 
-Any of the information we collect from you may be used in one of the following ways: 
+ **Web Tracking Information** : We disclose Web Tracking Information to Contractors, in order to analyze the performance of the Service and the behavior of users, and to operate and improve the Service.
 
-  * To personalize your experience (your information helps us to better respond to your individual needs). 
-  * To improve our website (we continually strive to improve our service based on the information and feedback we receive from you). 
-  * To improve customer service (your information helps us to more effectively respond to your customer service and support needs). 
+ **Aggregate Information** : We may disclose aggregated data that does not contain Personal Information that identifies any particular user or person to any third parties, such as potential customers, business partners, advertisers, and funding sources, in order to describe our business and operations.
 
+ **Permitted Disclosures** : Notwithstanding the foregoing, Gorgias reserves the right to disclose any information Gorgias collects in connection with the Service, without further notice to you (a) to any successor to Gorgias’s business as a result of any merger, acquisition or similar transaction; and (b) to any law enforcement or regulatory authority to the extent required by law or if, in Gorgias’s reasonable discretion, disclosure is necessary to investigate fraud or any threat to the safety of any individual, to protect Gorgias’s legal rights or to protect the rights of third parties.
 
+## How can you opt out of use and disclosure of your information?
 
-Do we use cookies? 
-    
+If you would like your Personal Information removed from our mailing list or database, please contact us at support@gorgias.io. In the event of any such removal, Gorgias may retain copies of information for its archives.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+## Access and updating of information
 
-Do we disclose any information to outside parties? 
-    
+You can update your Personal Information by using the profile editing tools on the Service. Gorgias will respond to any reasonable request by a user to review or amend his or her Personal Information held in our mailing list or database. Gorgias reserves the right to verify your identity in order to provide such access. Please contact us by sending an email to support@gorgias.io.
 
-We do not sell, trade, or otherwise transfer your personal information except in accordance with this policy. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+ **Security** : We will take security precautions to protect the security and integrity of your Personal Information and User Data in accordance with this policy and applicable law. However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur. Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.
 
-Online Privacy Policy Only 
-    
+ **Links** : The Service may contain links to other websites. Gorgias is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our site and review the privacy statements of each Web site they visit that collects information. This Privacy Policy applies solely to personal information collected by Gorgias.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline (via phone or in person). 
+ **Amendments** : Gorgias may modify or amend this policy from time to time. If we make any material changes, as determined by Gorgias, in the way in which Personal Information or User Data is collected, used or transferred, we will notify you of these changes by modification of this Privacy Policy, which will be available for review by you at the Service.
 
-Your Consent
-    
+ **Service Visitors from outside the United States** : Gorgias and its servers are located in the United States and are subject to the applicable state and federal laws of the United States. If you choose to access the Service, you consent to the use and disclosure of information in accordance with this privacy policy and subject to such laws.
 
-By using our site and/or extension, you consent to this privacy policy.
+ **Terms of Use** : This policy forms part of, and is subject to, the provisions of Gorgias’s Terms of Service on any applicable Subscription Agreement.
 
-Changes to our Privacy Policy
-    
+## Feedback
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+If there are any questions regarding this page, please contact us: [support@gorgias.io](mailto:support@gorgias.io)
 
-Feedback
-    
-
-If there are any questions regarding this privacy policy you may contact us: [support@gorgias.io](mailto:support@gorgias.io)
+## ‍
