@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricena.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109074304id_/http%3A//ae.pricena.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricena.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407194257id_/https%3A//ng.pricena.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Pricena - Privacy Policy
 
@@ -18,7 +18,7 @@ We will use the information you provide to enable us to better provide you with 
 ### Other uses of your personal information
 
 We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes. You can choose to opt out of this at any time. Any answers to surveys or opinion polls we may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address.  
-We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the 'unsubscribe' link in any email that we send to you. Within 7 working days (days which are neither (i) a Friday nor Saturday, nor (ii) a public holiday anywhere in the UAE) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.  
+We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the 'unsubscribe' link in any email that we send to you. Within 7 working days (days which are neither (i) a Friday nor Saturday, nor (ii) a public holiday anywhere in the Nigeria) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.  
 We may further anonymize data about users of the Site generally and use it for various purposes, including ascertaining the general location of the users and usage of certain aspects of the Site or a link contained in an email to those registered to receive them, and supplying that anonymized data to third parties such as publishers. However, that anonymized data will not be capable of identifying you personally.
 
 ### Competitions
@@ -43,6 +43,3 @@ We have in place appropriate technical and security measures to prevent unauthor
 ## 4\. Your rights
 
 If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes.
-
-Disclaimer: Pricena.com only acts as online price comparison website, all product names, trademarks, service marks, logos, brands, industrial models and designs featured or referred to within this site are the sole property of their respective owners and/or right holders and are only provided for the purpose of this site. Pricena.com acts as independent party and shall not be considered the representative, agent, employee, sponsor, joint venture partner or otherwise of such owners or right holders. © 2017 Pricena FZ LLC. All rights reserved.  
-
