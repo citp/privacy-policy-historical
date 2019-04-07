@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzaexpress.co.uk privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029222544id_/https%3A//www.pizzaexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzaexpress.co.uk privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407235653id_/https%3A//www.pizzaexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | PizzaExpress
 
