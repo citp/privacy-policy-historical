@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disruptorbeam.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106015921id_/https%3A//www.disruptorbeam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disruptorbeam.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407060953id_/https%3A//www.disruptorbeam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Disruptor Beam
 
