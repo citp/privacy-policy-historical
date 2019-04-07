@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monocle.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915124647id_/https%3A//monocle.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monocle.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407181858id_/https%3A//monocle.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Monocle
 
@@ -264,7 +264,7 @@ You can find instructions on how to control or delete cookies by clicking 'Help'
 
 For Google Analytics cookies you can also stop Google from collecting your information by downloading and installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
-You may [withdraw your consent](https://web.archive.org/web/20180915124647id_/https://monocle.com/about/privacy-policy/?revoke-cookies) for cookies to be set. Please note that by itself this action will neither delete any cookies nor prevent the future setting of cookies.
+You may [withdraw your consent](https://web.archive.org/web/20190407181858id_/https://monocle.com/about/privacy-policy/?revoke-cookies) for cookies to be set. Please note that by itself this action will neither delete any cookies nor prevent the future setting of cookies.
 
 Please note that by deleting our cookies or preventing future cookies your experience on our website will be limited.
 
