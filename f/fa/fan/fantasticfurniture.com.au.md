@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825235354id_/https%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407135957id_/https%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fantastic Furniture
 
@@ -6,7 +6,7 @@
 
 This privacy policy sets out how Fantastic Furniture Pty Limited (ABN 66 003 688 855) ("we", "us, "our") uses, discloses and protects any personal information about yourself that we collect when you use this website and otherwise interact with us.  You can be assured that the information collected will only be held, used or disclosed in accordance with this privacy policy. 
 
-We may make changes to this privacy policy from time to time (without notice to you) that are necessary for our business requirements or the law. This privacy policy was last updated on 15 July 2014. We encourage you to visit this site form time to time to ensure that you have read our most current privacy policy.
+We may make changes to this privacy policy from time to time (without notice to you) that are necessary for our business requirements or the law. This privacy policy was last updated on August 2018. We encourage you to visit this site form time to time to ensure that you have read our most current privacy policy.
 
  **What we collect**
 
