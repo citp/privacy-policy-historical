@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225105451id_/https%3A//www.zsl.org/terms-and-conditions/zsl-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407184234id_/https%3A//www.zsl.org/terms-and-conditions/zsl-privacy-policy) for the most accurate reproduction.*
 
 # ZSL Privacy Policy | Zoological Society of London (ZSL)
 
@@ -27,7 +27,7 @@ We’re ZSL, an international conservation charity, and our vision is a world wh
 
 ## 1\. What this privacy policy covers
 
-ZSL is committed to protecting your privacy in accordance with their obligations under data protection legislation. The current data protection law is found in the Data Protection Act 1998 but with effect from 25th May 2018, the main data protection law will be the General Data Protection Regulation as supplemented by the Data Protection Act 2018 and related laws.
+ZSL is committed to protecting your privacy in accordance with our obligations under data protection legislation. Current data protection law is found in the General Data Protection Regulation (as supplemented by the Data Protection Act 2018) and related law such as The Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
 This privacy policy explains what information ZSL collects about you and how it will be used. 
 
@@ -171,6 +171,17 @@ Where you are registered with the TPS we will only make calls to you if you have
 ### 3.3 Third parties
 
 ZSL will not sell your data. We will not share your data for marketing purposes unless you have actively consented to this. However, in some circumstances we may need to share your details with a third party for processing. This could be if we run an event in partnership with another organisation and they need your details in order to fulfil your tickets or experience. For example, if you are taking part in a running event with us, we may need to share your details to be able to send your race pack to you. We may also use a third party to process your personal details if we need to send your data to a mailing house in order to fulfil a postal mailing to you, this could include sending you a letter about your membership. 
+
+Some third parties provide ‘lookalike audiences’ or similar functions where they use data you have already provided to them directly to help create a ‘lookalike audiences’ for us (i.e. to help us better understand what a typical ZSL supporter is like). That third party then may serve advertising to that lookalike audience. In order to create a lookalike audience, ZSL may need to share some of your personal data with the third party. We consider that we are able to do this under ‘legitimate interests’. If we intend to use your data in this way then:
+
+  * we will only share the minimum possible data in order for the third party to identify whether or not you have already shared your personal data with them – if you have then they will use that information (that you have shared with them) to create the lookalike audience rather than the other information you have shared with ZSL; 
+  * we will only engage with the third party if we are satisfied that your data will be held in accordance with Data Protection law, including being held securely by them, and being securely deleted by them as soon as possible after it has been used for this purpose; and 
+  * we will only use your personal data in this way if you have opted in to receive marketing messages from ZSL. 
+
+
+
+Please note that we will never have access to the personal data you have provided to any such third party. Please also note that the use of your personal data by that third party is covered by their privacy policy and terms of use and not by that of ZSL.  
+ 
 
 ### 3.4 Fundraising
 
