@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030040427id_/https%3A//www.secureworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407232321id_/https%3A//www.secureworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Secureworks
 
