@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlywedsurvival.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818174638id_/https%3A//newlywedsurvival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlywedsurvival.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407073235id_/https%3A//newlywedsurvival.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Newlywed Survival
 
