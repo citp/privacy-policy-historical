@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telanganastateinfo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170513id_/https%3A//www.telanganastateinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telanganastateinfo.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407085345id_/https%3A//www.telanganastateinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Telangana State
 
 This Privacy Policy governs the manner in which Telangana State Info.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.telanganastateinfo.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Telangana State Info.com.
 
