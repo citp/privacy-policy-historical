@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitat.org privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920234636id_/https%3A//www.habitat.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitat.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407060912id_/https%3A//www.habitat.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Habitat for Humanity Int'l
 
@@ -152,7 +152,7 @@ Updating your preferences with Habitat for Humanity will not guarantee that you 
 
 ## IX. How long will Habitat for Humanity keep your personal information?
 
-We will hold your personal information on our systems only for as long as you continue to provide your consent, which consent will be presumed to expire after 24 months. Beyond that, we will hold your information only for as long as necessary to comply with our legal and regulatory obligations—such as, for example, to provide documentation on funding sources in connection with a review or audit of our compliance with U.S.C. Sec. 501(c)(3). 
+We will hold your personal information on our systems only for as long as you continue to provide your consent. If you are a U.S. or Canadian resident, your ongoing consent is presumed unless you inform us that you wish to be removed from our contact list. (Instructions for doing this are set forth below, in Section X.) If you are not a U.S. or Canadian resident, your consent will be presumed to expire after 24 months, unless renewed consent is provided by you. Beyond that, we will hold your information only for as long as necessary to comply with our legal and regulatory obligations—such as, for example, to provide documentation on funding sources in connection with a review or audit of our compliance with U.S.C. Sec. 501(c)(3). 
 
 If you request that we stop sending you marketing materials, we will keep a record of your contact details and appropriate information to enable us to comply with your request not to be contacted by us. 
 
