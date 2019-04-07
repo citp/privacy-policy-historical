@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopfactorydirect.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005052755id_/http%3A//shopfactorydirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopfactorydirect.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407054731id_/https%3A//shopfactorydirect.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Shop Factory Direct - Furniture, Bedroom, Living Room, Dining Room, Bathroom
 
