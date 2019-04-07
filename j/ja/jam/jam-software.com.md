@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121201108id_/https%3A//www.jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407091528id_/https%3A//jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # JAM Software - Privacy Policy
 
@@ -143,7 +143,7 @@ We have activated the IP anonymization feature on this website. Your IP address 
 
 #### Revocation of your consent to the processing of your data using Matomo (Piwik)
 
-To prevent your visits to be collected from the web analytics at this site you can change settings following this link: [Settings Webanalytics](https://web.archive.org/web/20181121201108id_/https%3A//www.jam-software.com/company/privacy.shtml)
+To prevent your visits to be collected from the web analytics at this site you can change settings following this link: [Settings Webanalytics](https://web.archive.org/web/20190407091528id_/https%3A//jam-software.com/company/privacy.shtml)
 
 ### Google Remarketing
 
