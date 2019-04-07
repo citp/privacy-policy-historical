@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the danettemay.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917062049id_/http%3A//danettemay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danettemay.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407091842id_/https%3A//danettemay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DanetteMay
+# Privacy Policy | DanetteMay
 
 Thank you for visiting a Mindful Health, LLC Website, which includes the following websites: danettemay.com, eatdrinkshrinkplan.com, flatabsdvd.com and foreverfitchallenge.com (hereinafter, the “Website(s)”). Mindful Health, LLC (hereinafter, “We”) understand the importance that Internet users place on privacy and this Privacy Policy describes how we use personal information that is collected in connection with any of our Websites.
 
