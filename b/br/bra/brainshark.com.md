@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824164925id_/https%3A//www.brainshark.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408124351id_/https%3A//www.brainshark.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brainshark
 
@@ -163,7 +163,8 @@ Brainshark’s data protection officer is Craig Tata (privacy@brainshark.com)
 
 Brainshark, Inc.  
 130 Turner Street, Building 1, Suite 100  
-Waltham, MA 02453
+Waltham, MA 02453  
+United States of America
 
 © 2018 Brainshark, Inc. All rights reserved. Brainshark, myBrainshark, and all other trademarks referenced herein are trademarks of Brainshark, Inc.
 
