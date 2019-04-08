@@ -1,50 +1,130 @@
-> *The following text is extracted and transformed from the orderhive.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225135104id_/http%3A//www.orderhive.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderhive.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408053347id_/https%3A//www.orderhive.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Orderhive
 
-### We respect your privacy
+**Last updated: 24 May 2018**
 
-We at Orderhive are committed towards respecting your privacy; this policy will give you detailed information regarding our online privacy practices followed to ensure maximum privacy to our users. Please note that Orderhive may change or update the policy by updating this page, kindly refer to this page from time to time to know any changes implemented. By accessing or using this website you are deemed to agree to the terms of this privacy policy, and if you do not agree with it, then you must not send us any personal information.
+   
+We at Orderhive (OpenXcell Technolabs Pvt Ltd) are committed to protecting your privacy. This Privacy Policy applies across all websites that we own and operate and all services we provide, and any other apps or services we may offer (for example, events or training). For the purpose of this notice, we’ll just call them our ‘services’. This Privacy Policy governs our data collection, processing and usage practices. It also describes your choices regarding use, access and correction of your personal information. If you do not agree with the data practices described in this Privacy Policy, you should not use our services.
 
-#### 1\. Information we collect:
+When we say ‘personal data’ we mean identifiable information about you, like your name, email, address, telephone number, bank account details, payment information, support queries, community comments and so on. If you can’t be identified (for example, when personal data has been aggregated and anonymized) then this notice doesn’t apply.
 
-    * We collect the below information during Register/Sign up:
-    * 1.1First Name, Last Name, Username, password, email address, Company name and contact number are essential fields to be filled in while registering or creating an account on Orderhive.
-    * 1.2You may also be asked to give billing information such as credit card billing information, your credit card type, number, expiry date and billing address.
-    * 1.3You may be also given the option to sign up for periodical updates and/or newsletters from Orderhive informing you of latest updates pertaining to features and deals.
+We may need to update this Privacy Policy from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we’ll make sure we let you know, usually through an email.
 
-#### 2\. How we collect information:
+#### Who are ‘we’?
 
-    * By the use of Cookies. The Site employs cookies to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
-    * Cookies are small pieces of information that are stored as text files by your Internet browser on your computer’s hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the Site. We need to use cookies to enable you to select products, place them in online shopping cart, and to finally purchase those products. We do keep a record of your browsing activity and purchase. Our cookies are not “spyware.”
-    * Any computer has the option to decline cookies. Your web browser options include an “enable” button to decline cookies. It is imperative that you understand by declining cookies you may be limiting your access to sections of our website.
-    * If our advertisers use cookies it will result from a click on their advertisement, and we do not have control over their cookies if used.
+When we refer to ‘we’ (or ‘our’ or ‘us’), that means Orderhive ( OpenXcell Technolabs Pvt Ltd ). and its wholly-owned subsidiaries. Our headquarters are in India but we also operate and have offices in several countries.
 
-#### 3\. Use of information:
+We provide an easy-to-use global cloud software platform for small and medium-sized businesses.
 
-    * 3.1To ensure great user experience through better navigation and detailed information
-    * 3.2As a part of security measures, we will send you an email confirming your registration on Orderhive.
-    * 3.3For our internal records and send you timely updates regarding addition of features and making the website more customized and personalized.
-    * 3.4If you agree to use our software or service, we will use the information for marketing purposes. If in case you don’t want any communication related to promotional activities, you can drop an email to support@orderhive.com.
-    * 3.5To know your feedback or opinion regarding the website, software and our services in general to better ourselves so that associating with Orderhive turns out to be extremely delightful and fulfilling.
+For European Union data protection purposes, when we act as a controller in relation to your personal data, our Data Protection Officer is our representative and can be contacted at [support@orderhive.com](mailto:support@orderhive.com).
 
-#### 4\. With whom we share your information:
+#### How we collect information
 
-    * 4.1We may share your information with any company who are offering anything on basis of your request.
-    * 4.2We may share your details with third party providers who supply services to us, or who process information on our behalf, incidental access to your information but will always take steps to ensure their security measures are adequate to protect your information. Any credit or debit card details are passed to our payment provider and your card issuer.
+When you visit our websites or use our services, we collect personal data.  We will only use and disclose such personal data as described in this Privacy Policy.
 
-#### 5\. Security of your information:
+#### Information you provide to us directly
 
-    * 5.1Your information is safe with Orderhive, this will be ensured by taking appropriate technical and organizational measures.
-    * 5.2We only use secure connection and service providers.
-    * 5.3We will store your details for required tax and legal reasons.
+When you visit or use some parts of our websites and/or services we might ask you to provide personal data to us. For example, we ask for your contact information when you sign up for a free trial, respond to a job application or an email offer, download an ebook, contact us with questions or request support. If you don’t want to provide us with personal information, you don’t have to, but it might mean you can’t use some parts of our websites or services.  
 
-#### 6\. Edit or change your information:
+#### Information we collect automatically
 
-    * You can access all your information provided via the software, you can easily change or edit your information at given point of time.
+While you use our site and services, we collect general information of the sort that web browsers, servers and network operators typically make available. These include things like your IP address and device type. We also collect information when you navigate through our websites and services, including what pages you looked at and what links you clicked on. This information helps us troubleshoot problems, understand how you use our site, improve our products and services, and help ensure that we continue to provide the best possible experience.
 
-#### 7\. Contacting Us:
+#### Information we get from third parties
 
-    * Orderhive welcomes queries or suggestions related to privacy policy, feel free to connect with us by dropping an email to [support@orderhive.com](mailto:support@orderhive.com) or call on +1-888-878-5538.
+The majority of information we collect, we collect directly from you. Sometimes we might collect personal data about you from other sources, such as publicly available materials or trusted third parties like our marketing and research partners. We use this information to supplement the personal data we already hold about you, in order to better inform, personalize and improve our services, and to validate the personal data you provide.  
+If we don’t collect your personal data, we may be unable to provide you with all our services, and some functions and features on our websites may not be available to you.
+
+#### Legal basis for processing Personal Information (EEA visitors only)
+
+Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. However, we will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you.
+
+#### How we use the information we collect
+
+We collect information to enable you to receive the benefit of our site, platforms, apps, products, and services. Subject to this Privacy Policy and your data preferences, we may use the information we collect for some or all of the following purposes:
+
+  * carry out our obligations and to provide you with agreed products and services;
+  * establish, maintain and administer your account;
+  * maintain, troubleshoot, and improve our site, platforms, apps, products, and services;
+  * develop new products and services;
+  * if your preferences permit, to provide you with recommendations and personalised products and services;
+  * measure performance of our site, platforms, apps, products, and services;
+  * secure and protect you, us, our site, platforms, apps, products, and services, and the public;
+  * meeting our legal, regulatory, and tax reporting obligations;
+  * communicate with you about our site, platforms, apps, products, and services—such as to notify of changes and updates, alert you to data or security breaches, and to provide you with customer support;
+  * with your explicit consent, to create or distribute promotional and marketing material that is relevant to you;
+  * for quality assurance and training purposes;
+  * **in the case of non-personally identifiable information only—or personal information only with your explicit consent** —to promote and market ourselves, our products and services, and our websites (including any social media pages maintained or operated by us such as Facebook, Instagram, Twitter, YouTube etc); and
+  * any other uses identified to you at the time of collecting your personal information or as reasonably contemplated by this Privacy Policy and our terms of service.
 
 
+
+#### How we share information we collect
+
+Personal information we collect stays within the Orderhive family, other than in the following circumstances:
+
+  * when you give us explicit consent to share your data;
+  * when we share it with the greater Orderhive family (i.e. with our affiliated and group companies);
+  * when we share it with our affiliates, partners, and other trusted organisations we work with to provide products and services to you;
+  * when we share it with trusted external service providers and data processors such as data centres, web hosts, cloud storage and cloud software providers, customer support providers, payment processors, debt collectors, accountants, and insurers;
+  * when we share it with prospective sellers or buyers of our business or assets; or when we share it with regulators and other relevant parties for the purpose of legal or contractual compliance, reporting purposes, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or the rights of third parties or the public at large.
+
+
+
+#### Your rights
+
+It’s your personal data and you have certain rights relating to it. You may unsubscribe from our marketing communications by following the unsubscribe instructions located on the bottom of our emails or by emailing us at [support@orderhive.com](mailto:support@orderhive.com)
+
+**Right of access:**
+
+  * know what personal data we hold about you, and to make sure it’s correct and up to date
+  * request a copy of your personal data, or ask us to restrict processing your personal data or delete it
+  * object to our continued processing of your personal data
+
+
+
+You can exercise these rights at any time by sending an email to support@orderhive.com and we will respond to your request within a reasonable period after the request is made.
+
+We do not typically charge a fee for reasonable requests for access to your personal information. However, we may charge a reasonable fee, which will be notified to you before we move forward with the request, for time and cost if an extended amount of time is required to collate and prepare material for you.
+
+If you’re not happy with how we are processing your personal data, please let us know by sending an email to [support@orderhive.com](mailto:support@orderhive.com). We will review and investigate your complaint, and try to get back to you within a reasonable time frame.
+
+#### Retention
+
+The length of time we keep your personal data depends on what it is and whether we have an ongoing business need to retain it (for example, to provide you with a service you’ve requested or to comply with applicable legal, tax or accounting requirements).
+
+We’ll retain your personal data for as long as we have a relationship with you and for a period of time afterwards where we have an ongoing business need to retain it, in accordance with our data retention policies and practices. Following that period, we’ll make sure it’s deleted or anonymized.
+
+#### International Transfer of Information
+
+Your information may be processed outside of the country where you live. For individuals in the European Economic Area (EEA), this means that your data may be transferred outside of the EEA. Regardless of where we use, process, or store your data, we will comply with the protections set out in this Privacy Policy. Where we disclose personal data to a third party in another country, we put safeguards in place to ensure your personal data remains protected.
+
+#### Cookies
+
+To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too. A cookie is a small text file that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
+
+Our site uses cookies to help us identify you from other users, track your usage of our site, and your website access preferences. We do or may use the following cookies:
+
+  * Strictly necessary cookies. These are cookies that are required for the operation of our site. They include, for example, cookies that enable you to log into secure areas of our site, use a shopping cart or make use of e-billing services.
+  * Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our site when they are using it. This helps us to improve the way our site works, for example, by ensuring that users are finding what they are looking for easily.
+  * Functionality cookies. These are used to recognize you when you return to our site. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * Targeting cookies. These cookies record your visit to our site, the pages you have visited and the links you have followed. We will use this information to make our site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+
+
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+You can control and/or delete cookies as you wish—for details, see [aboutcookies.org](http://www.aboutcookies.org/). You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+
+#### Business transfer
+
+If we, or substantially all of our assets, were acquired, or in the event that we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge and agree that if such transfers occur, that any acquirer of our business may continue to use your personal information as set forth in this Privacy Policy.
+
+#### Links to third party websites
+
+Our site may contain links to and from third party websites. If you click on such links, you do so at your own risk and subject to whatever privacy policy and/or website terms may govern the use of such websites. We have no control over, and are not responsible, nor liable for, the content, privacy practices or website terms of such websites or any information you provide to them. You should read the privacy policy of these third parties to find out how they handle your personal information when you visit their websites.
+
+#### How to contact us
+
+If you have any questions or feedback about this Privacy Policy or our services, please do get in touch with us at [ support@orderhive.com](mailto:support@orderhive.com)
