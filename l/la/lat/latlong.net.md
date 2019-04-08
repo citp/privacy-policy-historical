@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latlong.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625160538id_/https%3A//www.latlong.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latlong.net privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408110455id_/https%3A//www.latlong.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
