@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202200547id_/https%3A//www.winndixie.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408194240id_/https%3A//www.winndixie.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Policies | Winn-Dixie
+# 
 
 Winn-Dixie is committed to protecting the privacy of its customers, and we pledge to protect the security and privacy of your personal information. By viewing this website ([www.winndixie.com](https://web.archive.org/)), Winn-Dixie’s mobile applications, Winn-Dixie’s loyalty programs, or Winn-Dixie’s social media (collectively, the “Digital Marketing Program”), you acknowledge our information collection, use, storage and disclosure practices (collectively, “Privacy Practices”) and consent to the terms of this Privacy Policy. For the purpose of this Privacy Policy, “Winn-Dixie”, “we”, “our”, or “us” refers to Winn-Dixie Stores, Inc., a Florida corporation, and includes all of our Affiliates (as defined below). 
 
