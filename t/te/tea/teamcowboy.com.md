@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamcowboy.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207142818id_/http%3A//www.teamcowboy.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamcowboy.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408130500id_/http%3A//www.teamcowboy.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Manage your sports team schedule for free with Team Cowboy - Organize your sports team
 
