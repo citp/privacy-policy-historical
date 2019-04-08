@@ -1,106 +1,100 @@
-> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127164427id_/http%3A//dropps.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408045530id_/https%3A//www.dropps.com/pages/terms-conditions) for the most accurate reproduction.*
 
-# Dropps Privacy Policy | Dropps®
+# Privacy & Terms + Conditions – Dropps
 
-Cot’n Wash, Inc. (“Dropps”, “DROPPS”, “we”, “us” or “our”) values your privacy and is committed to protecting your personal information. Dropps is an online service that delivers unit dose laundry and household cleaning products to customers through individual shipments and membership subscriptions (“Services”). 
+### 1\. WHAT DO WE DO WITH YOUR INFORMATION?
 
-This Privacy Policy describes how and when DROPPS collects, uses and shares your information when you use our Services. Specifically, this Privacy Policy is intended to provide you with notice of the following:
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
-  * **  1\. INFORMATION COLLECTION AND USE**
-    * Information Collected Upon Registration
-    * Information that We Collect About You from Facebook
-    * Information We Collect Automatically
-  * **2\. COOKIES AND OTHER TRACKING TECHNOLOGY**
-    * Cookies Information
-    * Local Storage Objects
-    * Canvas and Browser Fingerprinting
-    * Log File Information or Log Data
-    * Clear Gifs Information
-    * Site Analytics
-    * Links
-    * Third Party Ad Networks
-  * **3\. DROPPS SUPPORTS DO NOT TRACK**
-  * **4\. INFORMATION SHARING AND DISCLOSURE**
-  * **5\. HOW WE PROTECT YOUR INFORMATION**
-  * **6\. MODIFYING YOUR PERSONAL INFORMATION**
-  * **7\. OUR POLICY TOWARDS CHILDREN**
-  * **8\. CHANGES TO THIS POLICY**
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
+### 2\. CONSENT
 
-This Privacy Policy applies to our family of websites (the “Site(s)”). These include www.dropps.com and any other site displaying this Policy that allows consumers to purchase memberships for the monthly delivery of products offered or made available through the Sites (“Membership(s)”).  
-By using our Sites and/or purchasing a Membership you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize DROPPS to use your information in the United States and any other country where DROPPS operates as described herein. Accordingly, please be sure to read this Privacy Policy before using the Services or submitting information to us.  
-This Privacy Policy may change from time to time and your continued use of the Services constitutes acceptance of such changes, so please check this Privacy Policy periodically for updates. This Privacy Policy is incorporated by reference into the Dropps Terms of Service (and in the event of any inconsistency between the Terms of Use and this Privacy Policy, this Privacy Policy shall govern). If you have any questions or comments about this Privacy Policy, please contact us at info@dropps.com.
+How do you get my consent?
 
- **1\. INFORMATION COLLECTION AND USE**  
-The information we collect from you enables us to fulfill your requests for our products (such as razors or other grooming products that you order and receive through your Membership); send you information or content we believe may be of interest to you; and keep you abreast of any updates related to our Site and your Membership. We also use this information to personalize and continually improve our Site, your experience, and ultimately serve you better.
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
- **Information Collected Upon Registration:** You may browse our Site without registering. However, if you would like to place an order, become a member, and/or request information from us, then you must complete the account registration process and become a member on our Sites. Whenever you create, register, or edit your DROPPS account, you provide some basic personal information, such as your name, email address, and password. In order to purchase our products, you must provide us with your credit card, debit card, or other type of acceptable payment information along with your billing and shipping address information. While you are free to choose not to provide this information, without it, we cannot provide you with any of our products and Services, or complete your Membership. Please safeguard your password and all personal information to avoid the risk of your private information being used by others without your consent, and any potential liability for the unauthorized use of our Sites or your account.
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
- **Information that We Collect About You from Facebook** : You may also login to our Site using your Facebook account. Facebook exclusively controls (and DROPPS has no control over) the information Facebook collects from you during the login process. If you login to our Site using Facebook, you must enter your Facebook email address and password. We will also request your permission to: (i) access and collect your Facebook basic information (this includes your name, profile picture, gender, networks, user IDs, list of friends, date of birth, email address, and any other information you have you have set to public on your Facebook account); (ii) send you email; (iii) post to your Wall; (iv) access posts in your news feed; and (v) access your Facebook data at any time, even if you are not using Facebook. Please note that if you grant DROPPS permission to access this information, then DROPPS will have access to such information regardless of your Facebook privacy settings and even if you have chosen not to make that information public. For information about how Facebook may disclose your information, including any information you make public, please consult the Facebook Privacy Policy. We have no control over how Facebook uses or discloses the personal information you provide it. We store the information that we receive from Facebook along with other information that we collect from or receive about you.
+How do I withdraw my consent?
 
- **Information We Collect Automatically:** When you visit the Sites and/or register for Membership, we may also collect certain additional information by automated means, such as cookies, web beacons, and other automated devices. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” (also known as an Internet tag, pixel tag or clear GIF) is used to transmit information back to a web server.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@dropps.com or mailing us at: Dropps, Two Logan Square, Suite 400, Philadelphia, PA 19103.
 
-We and/or our third party service partners may employ automated Canvas fingerprinting and other browser-fingerprinting techniques that extract and analyze information about your browser, operating system, and installed graphics hardware in conjunction with other user information (e.g. time-zone, language preference, etc.) to help verify your unique identity for fraud prevention purposes and to improve our Site and Services.
+### 3\. DISCLOSURE
 
-By using our Site and Services, you consent to the use of these browser-fingerprinting technologies. See below for more information on Canvas fingerprinting and ways to detect or block it. We may also use third-party website analytics tools (such as Omniture, Google Analytics, and Facebook Insights) that collect information about visitor traffic on the Sites that help us continue to improve the Site, performance and user experiences.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-The information we may collect by such automated means includes:
+### 4\. SHOPIFY
 
-  *  Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser, domain name and operating system type)
-  *  URLs that refer visitors to our Sites
-  *  Dates and times of visits to our Sites
-  *  Information on actions taken on our Sites (such as page views and site navigation patterns)
-  *  A general geographic location (such as country and city) from which a visitor accesses our Sites
-  *  Search terms that visitors use to reach our Sites and the webpage that led you to the Sites  
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
+Payment:
 
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-**2\. COOKIES AND OTHER TRACKING TECHNOLOGY**  
-Cookies Information: Cookies are small pieces of information that are issued to your computer when you visit a website and which store and sometimes track information about your use of the Service. DROPPS uses cookies to help recognize you as a repeat visitor, to improve the quality of our Service, and to try and make your browsing experience meaningful. When you enter our Sites, our web server sends a cookie to your computer that allows us to recognize your computer, but not the identity of the particular user. By associating the identification numbers in the cookies with other customer information when, for example, you login to the Service, we know that the cookie information relates to you.  
-Some of the cookies used by our Service are served by us, and some are served by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser settings to prevent cookies, or notify you each time a cookie is sent. You can also learn more about cookies by visiting www.allaboutcookies.org, which includes additional useful information on cookies and how to block them using different browsers. By blocking or deleting cookies used on our Service, you may not be able to take full advantage of our Service.  
-Local Storage Objects: We may use Flash Local Storage Objects (“Flash LSOs”) in order to store your Site preferences and to personalize your visit. Flash LSOs are different from browser cookies because of the amount and type of data stored. In addition, you cannot control, delete, or disable the acceptance of Flash LSOs through your browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash cookies, go to the Adobe Flash Player Help Page, choose “Global Storage Settings Panel” and follow the instructions. To see the Flash LSOs currently on your computer, choose the “Website Storage Settings Panel” and follow the instructions to review and, if you choose, to delete any specific Flash LSO.  
-Canvas and Browser Fingerprinting: As noted, we and/or our third party service partners may use Canvas fingerprinting and other browser-fingerprinting techniques for fraud prevention purposes and to improve the quality of our Site and Services. Canvas Fingerprinting takes advantage of the built-in features of HTML5 Canvas to draw a picture (unseen to you) in your browser. The results of the drawing differ based on a number of factors (such as your web browser version, operating system and its specific settings, and installed graphics hardware), and the Canvas object returned by HTML5 therefore helps to distinguish you from other users on the Internet and helps us to confirm your unique identity. There are several script-blocking browser extensions available for free download that block Canvas fingerprinting techniques, including the Privacy Badger web browser extension for Google Chrome and Mozilla Firefox (available for free download via the Electronic Frontiers Foundation website). You may also choose to disable JavaScript. Choosing either of these options may impair your ability to access the full functionality of our Site, however.  
-Log File Information or Log Data: Our servers automatically record information ("Log Data") created by your use of the Site or our Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, interact with our email notifications, or visit a third-party website that includes a DROPPS button or widget. DROPPS uses Log Data to provide our Services and to measure, customize, and improve them. We periodically delete all Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months, if not earlier.
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
- **Clear Gifs Information:** When you use the Service, we may employ clear gifs (a.k.a. Web Beacons), which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your DROPPS account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make DROPPS better for our users.
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
- **Site Analytics:** As noted, we may use automated devices and applications, such as Google Analytics, to evaluate usage of our Site. We also may use other analytic means to evaluate our Site. We use these tools to help us improve our Site, performance and user experiences.
+For more insight, you may also want to read Shopify’s Terms of Service [here](https://www.shopify.com/legal/terms) or Privacy Statement [here](https://www.shopify.com/legal/privacy).
 
- **Links:** DROPPS may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, to provide more relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+### 5\. THIRD-PARTY SERVICES
 
- **Third-Party Ad Networks:** We may use third parties such as network advertisers to serve advertisements on our Sites. We may display advertisements on our Sites, participate in third party ad networks and make specific offers from third-party companies available to users through our Sites. Some of the advertisements you see on the Sites are delivered by third parties who also collect information about your online activities, either on our Sites or across the Internet, through the use of cookies, web beacons, browser fingerprinting, and other technologies in an effort to understand your interests and deliver you advertisements that are tailored to those interests. These third parties include advertisers, advertising agencies, and ad networks that may collect information when you view or interact with one of their advertisements. Third parties that currently collect information on our Sites for the purpose of serving you with advertising tailored to your interests include, but are not limited to Atlas, BlueKai, DoubleClick, EyeWonder, Google,Mediamind, Audience Science and Pointroll. These companies may offer you a way to choose not to have your information used for advertising purposes. You can find more information by clicking on the company names above and following the links to each company's web site.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-In addition, some of these companies are members of the Network Advertising Initiative ("NAI"), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the NAI consumer opt out page. Also, through the Digital Advertising Alliance ("DAA"), several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different websites. To learn more and make choices about interest-based ads from participating third parties, please visit theDAA consumer opt out page. In the UK, the Internet Advertising Bureau ("IAB UK") has developed Good Practice Principles for Online Behavioural Targeting. More information and an opt-out page to manage online behavioral advertising preferences with IAB UK member companies are available at YourOnlineChoices.com. Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on our Sites, but these advertisements may not be as relevant to you.
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-Dropps does not have access to the information these third parties may collect about your interests to deliver relevant advertising to you, and this Privacy Policy does not cover the information practices of such third parties. DROPPS does work with third parties to help us track the ads that are delivered to you, in particular to control the number of times you receive the same ad, and to analyze the effectiveness of advertising on the Sites.
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
- **3\. DROPPS SUPPORTS DO NOT TRACK**  
-What is “Do Not Track”? Do Not Track (DNT) is a privacy preference that any user can set as a preference in their preferred web browsers. The United States Federal Trade Commission has endorsed DNT and California enacted a bill (AB370) that lets the sites you visit know that you do not want them collecting certain kinds of information about you across services that you have either directly or indirectly interacted with while on the page. The DNT browser setting is now supported by recent versions of major browsers, including Firefox 5+, Internet Explorer 9+, Safari 5.1+, and Chrome.
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-Dropps supports “Do Not Track” We are committed to providing you with meaningful choices about the information we collect to improve your Dropps experience. We fully support DNT and here’s how: When you turn on DNT in your browser, we stop collecting the unique browser cookie(s) that link(s) your browser to your Site(s) visits. This Privacy Policy and the Terms of Service, which you agree to be bound by upon completing the account registration process and becoming a Member of our Site, contains all the information, rules, and regulations on what information we and other third parties use, collect and track in order to better serve you. For all the details, including how to turn on DNT in your browser, please visit donottrack.us.
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
- **4\. INFORMATION SHARING AND DISCLOSURE**  
-We do not disclose your private personal information except in the limited circumstances described here.
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
- **Your Consent:** We may share or disclose your information at your direction, such as when you authorize a third-party web client or application as login credentials when you register for an Account or Membership .
+Links
 
- **Service Providers:** We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
- **Law and Harm:** Notwithstanding anything to the contrary in this Privacy Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect DROPPS's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
+### 6\. SECURITY
 
- **Business Transfers** : In the event that DROPPS is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
- **5\. HOW WE PROTECT YOUR INFORMATION**  
-We are committed to protecting the information we receive from you. We employ reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved. We have implemented commercially reasonable precautions, including, where appropriate, password protection, encryption, SSL, firewalls, and internal restrictions on who may access data to protect our Site and the information we collect from loss, misuse, unauthorized access, disclosure, alteration, and destruction. The Sites encrypt your credit card number, debit card number, or other payment and personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your personal computer to our servers. In addition, only those employees and third parties who absolutely need access to your information in order to perform their duties are allowed such access. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a password that nobody else knows or can easily guess, and keeping your password private. Also, you should never share your login information with others. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. To change your Facebook password, you must go to the Facebook site and follow its procedures for changing your password.
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
- **6\. MODIFYING YOUR PERSONAL INFORMATION**  
-You may modify any personal information that you have submitted by logging into your account and updating your profile information. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time. If you would like to access or modify your Facebook profile information, or adjust the types of information we receive from Facebook, you must adjust your Facebook account settings directly through Facebook. We have no control over how Facebook shares your information with us or other third parties. The information you provide to Facebook is subject to the Facebook Privacy Policy.  
-You may also cancel your DROPPS account at any time. Just login to your account and go to “Membership Settings”, then “Other Options”, and select “I want to cancel my membership.” We will try to cancel your account as soon as possible, but it may take up to fourteen (14) business days for our systems to completely implement the cancellation so that you may continue to receive some correspondence from us during that time.
+### 7\. COOKIES
 
- **7\. OUR POLICY TOWARDS CHILDREN**  
-Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at info@dropps.com We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account. You can find additional resources for parents and teens at www.connectsafely.org.
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
 
- **8\. CHANGES TO THIS POLICY**  
-We may revise this Privacy Policy from time to time. The most current version will govern our use of your information and will always be available for your review at http://www.dropps.com/pages/privacy-policy. If we make any change to this Privacy Policy that we in our sole discretion deem material, we will notify you via email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+
+_secure_session_id, unique token, sessional
+
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+
+### 8\. AGE OF CONSENT
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+### 9\. CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+### QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@dropps.com or by mail at Dropps
+
+Re: Privacy Compliance Officer  
+Two Logan Square, Suite 400, Philadelphia, PA 19103
