@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the technadu.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802000147id_/https%3A//www.technadu.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technadu.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408113954id_/https%3A//www.technadu.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # TechNadu's Privacy and Cookie Policy - TechNadu
 
 **Effective date** : 10th of May 2018
 
- _Your privacy is important to us. Please read this Privacy Policy carefully_
+_Your privacy is important to us. Please read this Privacy Policy carefully_
 
   1. ### Introduction
 
@@ -13,11 +13,11 @@
 
 We collect certain personal data from the individual user (“you” and “your”) through the website [https://www.technadu.com](https://www.technadu.com/) (the “Website”). This privacy policy (the “Privacy Policy”) contains our policies and procedures governing the collection and processing of personal data through the Website.
 
- **Definitions.** For the purposes of this Privacy Policy, the term “personal data” refers to any information relating to a natural person who can be identified, directly or indirectly, by using such information, and the term “processing” refers to the collection, storage, erasure, use, and disclosure of personal data.
+**Definitions.** For the purposes of this Privacy Policy, the term “personal data” refers to any information relating to a natural person who can be identified, directly or indirectly, by using such information, and the term “processing” refers to the collection, storage, erasure, use, and disclosure of personal data.
 
- **Data controller.** The entity responsible for collection and processing of your personal data is TechNadu, having a principal place of business at Kongu Nagar, Tiruppur – 7, Tamil Nadu 641607, India (“we”, “us”, and “our”).
+**Data controller.** The entity responsible for collection and processing of your personal data is TechNadu, having a principal place of business at Kongu Nagar, Tiruppur – 7, Tamil Nadu 641607, India (“we”, “us”, and “our”).
 
- **Term and termination.** This Privacy Policy enters into force on the effective date indicated at the top of the Privacy Policy and remains valid until terminated or updated by us.
+**Term and termination.** This Privacy Policy enters into force on the effective date indicated at the top of the Privacy Policy and remains valid until terminated or updated by us.
 
   2. ### Your Consent
 
@@ -47,7 +47,7 @@ We comply with data minimization rules and collect only a minimal amount of pers
 
 
 
- **Sensitive data**. We will not collect, under any circumstances, any sensitive data from you, such as your health information, opinion about your religious and political beliefs, racial origins, membership of a professional or trade association, or information about your sexual orientation.
+**Sensitive data**. We will not collect, under any circumstances, any sensitive data from you, such as your health information, opinion about your religious and political beliefs, racial origins, membership of a professional or trade association, or information about your sexual orientation.
 
   4. ### The purpose of personal data
 
@@ -81,10 +81,10 @@ When you visit the Website, we may collect non-personal data, such as your brows
 
 We WILL NOT send you any direct marketing communication, including newsletters, brochures, and advertisements, or contact you by phone or in any other manner, unless you provide us with your prior explicit consent to receive such marketing communication.
 
- **Opt-out from marketing communication.** In case you have provided us with your explicit consent to receive marketing communication, you can opt-out from receiving it at any time by:
+**Opt-out from marketing communication.** In case you have provided us with your explicit consent to receive marketing communication, you can opt-out from receiving it at any time by:
 
   * Clicking on the “unsubscribe” link contained in any of our marketing emails sent to you; or
-  * Contacting us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dcbfb3b2a8bdbfa89ca8b9bfb4b2bdb8a9f2bfb3b1).
+  * Contacting us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21424e4f5540425561554442494f4045540f424e4c).
 
 
   7. ### Protection of personal data
@@ -113,7 +113,7 @@ In certain situations, we may disclose your personal data to third parties. Such
 
 The third parties will access your personal data as a part of their partnership with us and only if such third parties agree to assure an adequate level of protection of your personal data that is consistent with this Privacy Policy. With the exceptions mentioned in this Privacy Policy, we do not disclose your personal data to third parties, unless we are legally bound to do so.
 
- **Your comments.** Please note that the comments submitted by you under the blog posts, articles, news, and instructions featured on the Website may be visible and accessible to other users of the Website. Please be sensible in disclosing any personal information about you or any third parties through the comments.
+**Your comments.** Please note that the comments submitted by you under the blog posts, articles, news, and instructions featured on the Website may be visible and accessible to other users of the Website. Please be sensible in disclosing any personal information about you or any third parties through the comments.
 
   9. ### Transfer of personal data outside the EEA
 
@@ -166,27 +166,27 @@ The Website may contain links to other websites (e.g., social media service prov
 
 The Website uses cookies. By using the Website, you agree to our use of cookies as described in this Privacy Policy. If you do not agree with our use of cookies, please refuse cookies. Below, you can find more information about what cookies we use, for what purposes we do so, and how to refuse cookies.
 
- **What is a cookie?**
+**What is a cookie?**
 
 A cookie is a small computer file. It typically consists of letters and numbers. When you visit a website, the website may send a cookie to your browser. Subsequently, the browser may store the cookie on your computer system. The main purpose of cookies is to allow a website to recognize user’s device. There are two types of cookies, namely, persistent cookies and session cookies. Persistent cookies remain valid until their expiration date, unless deleted by the user before that date. Session cookies will be stored on a web browser and will remain valid until the moment when the browser is closed. Cookies do not typically contain personal data. However, personal data stored by us may be linked to the information stored in and obtained from cookies. Web servers can use cookies to (1) identify and track users while they navigate through different pages on a website; and (2) identify users returning to a website.
 
- **What cookies do we use?**
+**What cookies do we use?**
 
 We use both session and persistent cookies. We use session cookies, such as [“gads”, “ga”], in order to verify your details until you are navigating from page to page on the Website. The session cookies enable you to avoid re-entering your details each time you enter a new page on the Website. We use persistent cookies, such as [“gid”, “cfduid”], in order to recognize you as a unique user when you return to the Website. We will not use cookies for purposes, which are not mentioned in this Privacy Policy.
 
- **Google Analytics**
+**Google Analytics**
 
 We use Google Analytics to analyze your use of the Website. Google Analytics generates statistical and other information about the Website by means of cookies. The information generated by Google Analytics in relation to the Website is used to create reports about the use of the Website. We use the following Google Analytics advertising features: (i) Remarketing with Google Analytics; (ii) Google Display Network Impression Reporting; (iii) Google Analytics Demographics and Interest Reporting; and (iv) Integrated services that require Google Analytics to collect data via advertising cookies and identifiers.
 
 If you would like to opt out from Google Analytics advertising features, you can do so through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI’s consumer opt-out). You can also install a Google Analytics opt-out browser add-on available at <https://tools.google.com/dlpage/gaoptout?hl=en>.
 
- **Third-party ads**
+**Third-party ads**
 
 Third-party vendors, including Google, use cookies to serve ads based on your prior visits to the Website. Google’s use of advertising cookies enables it and its partners to serve you ads based on your visits to the Website and/or other websites on the Internet. You may opt out of the use of personalized advertising by visiting <https://www.google.com/settings/u/0/ads/authenticated>. Alternatively, you may look for more information on how to opt out of a third-party vendor’s use of cookies for personalized advertising by visiting <http://www.aboutads.info/consumers>.
 
 Third-party vendors that are certified by Google for third-party ads may serve ads on the Website. The names of such third party-vendors and links to their websites can be found at <https://support.google.com/adsense/answer/94149?hl=en>. You may visit those websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability).
 
- **How to refuse cookies?**
+**How to refuse cookies?**
 
 If you do not agree to our use of cookies, you need to either (i) discontinue your use of the Website or (ii) set your browser to refuse cookies. If you would like to refuse our use of cookies, you can do so by checking your browser’s “help” information or visiting [http://www.whatarecookies.com](http://www.whatarecookies.com/) for further information. Please be aware that some parts of the Website may not function properly without cookies.
 
@@ -197,7 +197,7 @@ If you do not agree to our use of cookies, you need to either (i) discontinue yo
 
 We reserve the right to amend this Privacy Policy from time to time by posting an amended version on the Website. Your continued use of the Website after posting such an amended version will constitute your acknowledgment of the amendments and your consent to abide and be bound by the amended Privacy Policy. If we make significant amendments to the Privacy Policy, we will seek your explicit consent to the amendments.
 
- **Last amendment.** This Privacy Policy has been last amended on 8th of May 2018.
+**Last amendment.** This Privacy Policy has been last amended on 8th of May 2018.
 
   16. ### Contact details
 
@@ -206,8 +206,8 @@ We reserve the right to amend this Privacy Policy from time to time by posting a
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-  *  **Email:**[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4625292832272532063223252e282722336825292b)
-  *  **Contact form:**<https://www.technadu.com/contact-us>
-  *  **Mail:** TechNadu, Kongu Nagar, Tiruppur – 7, Tamil Nadu 641607, India
+  * **Email:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6d5d9d8c2d7d5c2f6c2d3d5ded8d7d2c398d5d9db)
+  * **Contact form:** <https://www.technadu.com/contact-us>
+  * **Mail:** TechNadu, Kongu Nagar, Tiruppur – 7, Tamil Nadu 641607, India
 
 
