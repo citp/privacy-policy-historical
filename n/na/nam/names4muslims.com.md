@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the names4muslims.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218140809id_/http%3A//www.names4muslims.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the names4muslims.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408031534id_/https%3A//www.names4muslims.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Policy
 
@@ -29,3 +29,11 @@ www.names4muslims.com has no access to or control over these cookies that are us
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.names4muslims.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so
+
+#### Our Key Advertising Partners
+
+Our key advertising partners are listed below. These companies are under contract to the www.names4muslims.com but the data they collect will also be subject to their privacy policies and they may allow other companies to use cookies and tracking technologies to collect information about your website usage and your interaction with their adverts. Click on their name to find out more and to opt-out from your data being used by them for OBA purposes.
+
+##### Ad trading, ad serving and targeting
+
+[G](https://www.google.com/intl/en/policies/technologies/ads/)[oogle DoubleClick, AdSense and AdWords](https://www.google.com/intl/en/policies/technologies/ads/)
