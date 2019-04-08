@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020132723id_/https%3A//creativepool.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408125305id_/https%3A//creativepool.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Creativepool
 
