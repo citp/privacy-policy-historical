@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaweekly.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722070746id_/http%3A//www.usaweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaweekly.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408165555id_/https%3A//www.usaweekly.com/privacy) for the most accurate reproduction.*
 
 # USA Weekly - U.S. News, World News, and Breaking News
 
