@@ -1,59 +1,179 @@
-> *The following text is extracted and transformed from the thesportreview.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002055633id_/https%3A//www.thesportreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportreview.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409001038id_/https%3A//www.thesportreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Sport Review
 
-We may collect, store and use the following kinds of personal data:
+### This is the Privacy Policy for The Sport Review Limited and for certain services provided through our website, www.thesportreview.com (“our site”).
 
-(a) information about your computer and about your visits to and use of this website, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views;
+This policy explains how we make use of personal data we collect. We are committed to your right to privacy and will only use your data as set out in this Privacy Policy. 
 
-(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
+Please read this information carefully. By using our site and submitting information, you consent to the collection and use of your personal data by us as described in this Privacy Policy.
 
-(c) information that you provide to us for the purpose of requesting a quotation from us;
+We occasionally modify our Privacy Policy and will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Please check our Privacy Policy frequently to ensure that you are aware of any changes. You will find the date on which this Privacy Policy was last updated at the bottom of this page.
 
-(d) any other information that you choose to send to us.
+We collect different types of information about our users for three main reasons:
 
-Using your personal data: Personal data submitted to The Sport Review will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+1) To provide personalised services and marketing to users;
 
-We may use your personal information to:
+2) To help us to monitor and improve the services we offer;
 
-(a) administer The Sport Review website;
+3) To sell advertising space on the site and personalised adverts. This helps us to keep the site free for people who visit it;
 
-(b) improve your browsing experience by personalising the website;
+In summary, we might use your information to:
 
-(c) enable your use of the services available on the website;
+• Remember when you visit our websites and track your browsing patterns by using [cookies](https://www.thesportreview.com/cookie-policy/);
 
-(d) supply to you the services purchased via the website;
+• Place your anonymised information into audience segments to identify your interests so that we might serve you with advertisements and offers that will interest you;
 
-(e) send statements and invoices to you, and collect payments from you;
+• Ensure any products or services you receive are correctly administered;
 
-(f) send you general (non-marketing) commercial communications;
+• Communicate with you by email, post, telephone, SMS text message, social media or mobile push message to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) but only according to the permissions you give us;
 
-(g) send you email notifications which you have specifically requested;
+• Ensure materials on our site and applications are presented in the most effective manner for you and your computer or mobile device;
 
-(j) deal with enquiries and complaints made by or about you relating to the website;
+• Collate and log numeric internet addresses to improve our site and to monitor site usage. This allows us to assess and understand customer feedback and identify usage hotspots.
 
-**We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.**
+#### The legal basis for processing your Personal Data
 
-#### How we use Cookies
+In order to comply with applicable data protection laws, we are required to set out the legal basis for processing your Personal Data. 
 
-### Like most websites, The Sport Review uses cookies.
+In accordance with the purposes for which we collect and use your Personal Data, as set out above, the legal basis for processing your personal data will typically be one of the following:
 
-Cookies are small text files stored on your computer by your browser. 
+• our own or our third parties’ legitimate business interests (for example, in maintaining and promoting our business by providing customers with feedback opportunities or other instances where we have 
 
-#### The Sport Review uses the following types of Cookies:
+• carried out a legitimate interests assessment and have established an existing legitimate interest);
 
-**1) Analytics Cookies:** To track how many individual readers we have and how often they visit the website. We collect data enabling us to know which of our pages are most frequently visited, by which types of users and from which countries.
+• the performance of a contract that we have in place with you;
 
-**2) Advertising Cookies:** We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
+• your consent where appropriate;
 
-**3) Third-party service Cookies:** Social networking websites, including Facebook and Twitter, may drop Cookies on your computer when you use them on our site or if you are already logged in to them.
+• to protect your vital interests; or
 
-**4) Personalisation Cookies:** We use Cookies to remember the personal details (name, email address and URL) you entered when leaving a comment on an article to save you having to enter the same information when commenting again.
+• compliance with our legal obligations.
 
-**5) Media player Cookies:** Flash Cookies may be used to store user preferences for media player functionality and without them, some interactive content may not function properly.
+#### Our values
 
-**By continuing to use this website you are agreeing to the use of Cookies as described above.**
+We will respect your privacy and you will only receive marketing communications from us and, if you agree, from other organisations we have carefully chosen. 
 
-You may refuse to accept Cookies by activating the setting on your browser which allows you to refuse the setting of all or some Cookies. However, if you use your browser settings to block all Cookies (including essential Cookies) you may not be able to access all or some parts of the website.
+We will make sure it is clear when you can make these choices. For example, we have boxes you are able to tick to opt in if you want to receive marketing.
 
-To find out more about Cookies and how to disable them, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+We may occasionally contact you with information or questions about your registration, your subscription account or postings, for example, with reminders, warnings or copyright requests.
+
+We will be clear in our dealings with you as to what information we will collect about you and how we will use it.
+
+Our site is accessible via the internet. This means that people around the world who access our site will be able to see anything you post on the sites, for example, comments about an article. If, for example, you were to write a defamatory comment on one of our articles we may be required by a court to disclose your personal data.
+
+You have the right to ask us not to use your personal data for marketing purposes. You can request that you stop receiving information from us at any time by emailing us at: **contact[at]thesportreview.com**
+
+We invest in high-quality security and do our utmost to protect user privacy. It is worth remembering that no data transmission over the Internet can be entirely secure and therefore we cannot guarantee the security of your personal data and/or use of our site. Any information that you send is at your own risk and may be read by others. However, once we have received your personal data we use strict procedures to protect the security of your personal data.
+
+#### 1) What information do we collate?
+
+When you interact with one of our services we will have gathered information when you register, when you use our site through cookies or if you choose to reveal information in postings and when you enter sales promotions and competitions. Please see our [Cookie Policy](https://www.thesportreview.com/cookie-policy/) for more information.
+
+We may use this information in the following ways:
+
+• to provide our service(s) to you as a user of our site to enhance your user experience
+
+• to carry out our obligations arising from any contracts entered into between you and us
+
+• to ensure that content from our site is presented in the most effective manner for you and your devices
+
+• to identify you when you visit our site, to notify you about changes to our site, to help diagnose problems with our server and to administer our site.
+
+#### 2) Social media tools
+
+We use a number of social media tools and external applications to enhance the experience of our website. For example, social media platforms such as Twitter and Facebook (through the use of sharing buttons), or embedded content from YouTube. 
+
+As a result, you may be sent cookies from these third-party websites. We don’t control the settings of these cookies so please check those websites from more information about how they use and manage their cookies.
+
+#### 3) Use of children’s data
+
+We do not knowingly collect or store any personal data about children under the age of 16.
+
+#### 4) Who we share data with
+
+We will not share your personal data with others for marketing purposes unless you have given us your permission. If we have your permission, we will share your information only with other organisations we have chosen carefully.
+
+We may make the services of other organisations available through our site, although we are not necessarily operating these sites. We process any information which we collect when you access a service provided by another organisation under this privacy policy. It is important that you appreciate that information these other organisations collect is governed by their own privacy policies.
+
+We may access and release personal data to satisfy relevant laws and government requests, to operate our systems properly and to protect both us and our users.
+
+Any other organisations that access your information in the course of providing services on our behalf will be governed by strict contractual restrictions to make sure that they protect your information and keep to data-protection and privacy laws which apply.
+
+We may use service providers to help us run these sites (or services available on the sites), some of which may be based outside the European Economic Area (EEA). Some of our web pages use plug-ins from other organisations. A plug-in is a (sometimes essential) piece of software code that enables an application or program to do something it couldn’t by itself. There are plug-ins for social media networking.
+
+Those other organisations may use information about your visit to our site on their pages. If you browse these pages while still also logged in to your account with us, information they collect may be connected to your account on their site. For more information on how these organisations use information, please read their respective privacy policies.
+
+#### 5) Why we share your information
+
+We may share your personal data with third parties in the following circumstances:
+
+• For marketing purposes provided always that you consent to us sharing such information with third parties by notifying us via our site or in other communications (e.g. opting in by ticking the relevant box(s) on the sites at the point of registration);
+
+• To other members of our group, our partners and service providers (for example people who provide technical services to our site) for the purpose of managing or administering certain aspects of our site, or to help us develop new services;
+
+• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation and/or in order to enforce or apply any other agreements between you and us; or
+
+• To protect the rights, property or safety of ourselves or other users.
+
+#### 6) Advertising
+
+When you use our site, if you’ve given the relevant Consent, you will see adverts either for our products and services, or those of our advertising partners.
+
+Some of these adverts will be based on aggregate information (for example, men in Manchester) and some of them will be based on your individual browsing patterns and the way you have interacted with our site. We then display advertising on our site that is based on these perceived interests.
+
+You may also see adverts on our site based on your browsing patterns and interactions on another site . For example, if you have visited the website of an online clothes shop, you may start seeing ads on our site from that same shopping site displaying special offers or showing you the products that you were browsing. This allows companies to advertise to you if you leave their website without making a purchase. You can opt out of this by not accepting cookies on their sites.
+
+In some instances, if you’ve given the relevant Consent, third parties will collect data directly from your web browser and the processing of this data is subject to their own privacy policies. This will allow them to show you relevant adverts on their sites based on your behaviour on our site. You can control which third parties are collecting data in this way by customising your **Cookie Settings** in our site menu bar, or by clicking here.
+
+If you opt out of marketing communications such as emails, this does not mean that you will no longer receive advertising when you are using our site.
+
+#### 7) Links
+
+Please note that our site may from time to time contain links to and from other websites. If you follow a link to any of these websites, please note that we are not responsible for the privacy practices or the content of such websites and the information practices of those websites are not covered by this Privacy Policy. 
+
+Please check the individual privacy policy of any website before you submit any personal data to them.
+
+#### 8) Data Storage and retention
+
+All information you provide to us is stored on our secure servers. 
+
+Where we have given you (or where you have chosen) a password or other data which enables you to access certain parts of a website, you are responsible for keeping this password and any other log-in details confidential and we recommend that you do not share your password or other log-in details with anyone. You will be responsible for all activity under your username/log-in details. We will keep your personal data for only so long as is necessary or as otherwise required by applicable law.
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the EEA. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+#### 9) Data subject rights
+
+As a data subject you may have rights in relation to your personal data which include: 
+
+**•  Right to rectification.** You may request that we rectify any inaccurate or incomplete personal data. 
+
+**•  Right to withdraw consent.** You may at any time withdraw your consent to the processing of your personal data carried out by us on the basis of your previous consent. Such withdrawal will not affect the lawfulness of processing based on such previous consent.
+
+**• Right to make a subject access request (SAR).** You may request in writing copies of your personal data. However, compliance with such requests is subject to certain limitations and exemptions and the rights of other individuals. Each request should make clear that a SAR is being made. You may also be required to submit proof of your identity and any payment permitted by law, where applicable. 
+
+**•  Right to object to processing including automated processing and profiling.** We do not always make automated decisions about data subjects. However, we may rely on information provided by third parties such as credit reference agencies which may score data subjects on the basis of automated decisions. Profiling may be carried out for business administration purposes, such as monitoring trends in user visits of our website and in order to deliver relevant ads to users’ devices. We will comply with valid objection requests unless we have a compelling overriding legitimate ground for the continuation of our processing or we have another lawful reason to refuse such request. We will comply with each valid opt-out request in relation to marketing communications.
+
+**•  Right to erasure.** You may request that we erase your personal data. We will comply, unless there is a lawful reason for not doing so. For example, there may be an overriding legitimate ground for keeping the personal data, such as, our business record retention obligations that we have to comply with. 
+
+**•  You may request that we restrict our processing of your personal data in various circumstances.** We will comply, unless there is a lawful reason for not doing so, such as, a legal obligation to continue processing your personal data in a certain way.
+
+**•  Right to data portability.** In certain circumstances, you may request we provide a copy of your personal data in a structured, commonly used and machine-readable format and have it transferred to another provider of the same or similar services. To the extent it applies to us a controller we will comply with such transfer request. Please note that a transfer to another provider does not imply erasure of your personal data which may still be retained for legitimate and lawful purposes.
+
+**•  Right to lodge a complaint with the supervisory authority.** We suggest that you contact us about any questions or complaints in relation to how we process your personal data. However, each data subject has the right to contact the relevant supervisory authority directly.
+
+This Privacy Policy should be read together with our [Cookie Policy](https://www.thesportreview.com/cookie-policy/) and Cookie Settings.
+
+#### Legal information and how to contact us
+
+Under the EU General Data Protection Regulation (GDPR) we have to say who the ‘data controller’ is for services provided through our site. 
+
+The controller is the department responsible for protecting information and, in our case, is The Sport Review Limited, 16 Beaufort Court, Admirals Way, London, E14 9XL.
+
+You can contact us via the following email address: **contact[at]thesportreview.com**
+
+If you would like to exercise your data subject rights or have any questions about this Privacy Policy, please address your request to the ‘Data Protection Team’ at the address shown or email above. 
+
+_**Last updated:** 24 May 2018_
