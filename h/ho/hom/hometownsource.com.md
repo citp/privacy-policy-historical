@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometownsource.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614102549id_/https%3A//www.hometownsource.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownsource.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408201450id_/https%3A//www.hometownsource.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | hometownsource.com
 
@@ -61,3 +61,7 @@ Various Web sites may be linked to from this site. If you link to another site, 
 7\. Contact Us
 
 If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us at the email address on our About Us or our Contact Us page on this site. You will be required to provide identifier information to assure that this information is not released to others. We reserve the right to modify this policy in the future. If we do so, notice will be posted on our home page. 
+
+[](http://apge.collegehoops.upickem.net/)
+
+[](https://www.hometownsource.com/site/reader_perks.html/)
