@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuevillage.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011155705id_/https%3A//www.valuevillage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuevillage.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408090115id_/https%3A//www.valuevillage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Value Village
 
@@ -118,10 +118,6 @@ Headquarters Address
 Bellevue, WA 98004  
 Telephone: (425) 462-1515  
 Fax: (425) 451-2250
-
-Mailing Address  
-P.O. Box 808  
-Bellevue, WA 98009
 
 **_Your California Privacy Rights_**  
 California Civil Code Section 1798.83 permits customers of Savers who are California residents to request certain information regarding its disclosure of their Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [customercare@savers.com](https://web.archive.org/help/contact).
