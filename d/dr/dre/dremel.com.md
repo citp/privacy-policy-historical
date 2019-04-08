@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dremel.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128105259id_/https%3A//www.dremel.com/en_US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dremel.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408185622id_/https%3A//www.dremel.com/en_US/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - dremel.com
 
