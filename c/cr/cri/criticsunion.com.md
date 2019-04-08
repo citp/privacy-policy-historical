@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the criticsunion.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517134521id_/http%3A//shihs4ac.us-02.live-paas.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticsunion.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408092853id_/https%3A//criticsunion.com/privacy-policy) for the most accurate reproduction.*
 
 # - CriticsUnion
 
-  
-
-
   * ## Privacy Policy:
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/criticsunion.com).  
+
 
 CriticsUnion (" **CriticsUnion** ") operates criticsunion.com and may operate other websites. It is CriticsUnion's policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -17,7 +18,7 @@ CriticsUnion also collects potentially personally-identifying information like I
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to CriticsUnion's websites choose to interact with CriticsUnion in ways that require CriticsUnion to gather personally-identifying information. The amount and type of information that CriticsUnion gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [criticsunion.com](http://shihs4ac.us-02.live-paas.net/) to provide a username and email address. Those who engage in transactions with CriticsUnion are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, CriticsUnion collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with CriticsUnion. CriticsUnion does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to CriticsUnion's websites choose to interact with CriticsUnion in ways that require CriticsUnion to gather personally-identifying information. The amount and type of information that CriticsUnion gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [criticsunion.com](https://criticsunion.com/) to provide a username and email address. Those who engage in transactions with CriticsUnion are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, CriticsUnion collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with CriticsUnion. CriticsUnion does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -44,5 +45,4 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 Although most changes are likely to be minor, CriticsUnion may change its Privacy Policy from time to time, and in CriticsUnion's sole discretion. CriticsUnion encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a criticsunion.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 
-  
 
