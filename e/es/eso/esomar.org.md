@@ -1,69 +1,132 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413051208id_/https%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408112122id_/https%3A//www.esomar.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ESOMAR
-
-* * *
 
 **This is the Privacy Policy of ESOMAR B.V. and The Society of ESOMAR (“ESOMAR”).**
 
 **ESOMAR, as Controller, complies with the Personal Data Protection Act of the Netherlands, which is based on the EU Data Protection directive.**
 
-## What is Personal Data?
+As the self-regulatory body of the data, research, insight and data analytics community, we are committed to achieving the highest standards to protect your personal data and safeguard your privacy.
 
-Personal data is the information that identifies you, such as your name, address, email or postal address.
+This privacy notice has been prepared to better inform you should you be concerned with how your ‘Personal Data’ is being used by our services online and offline. Personal data can be understood as information that can be used on its own or with other information to identify, contact, locate you or others as individuals.
 
-## What is it used for?
+Please read our privacy notice carefully to get a clear understanding of how we collect, use, protect or otherwise handle personal data on all our services.
 
-ESOMAR collects and processes personal data of members and customers. ESOMAR is convinced that a privacy policy is of utmost importance.
+## Who are we and who to contact in case of concerns?
 
-ESOMAR respects the personal data of members and customers and does not sell, rent, loan, trade or otherwise transfer any personal data to any third party unless this is necessary to deliver ESOMAR’s products and services.
+This is the privacy notice of the entities collectively known as ESOMAR, which comprises of the ESOMAR Society and ESOMAR B.V. Both entities are headquartered in the Netherlands.
 
-ESOMAR does not request personal data from you, other than to process a transaction or application for ESOMAR membership and/or company listing in the ESOMAR Directory, a registration for an ESOMAR event, or an order for an ESOMAR publication, such as the online Directory of ESOMAR Members* or for analytical research. If you have authorized ESOMAR to store and/or use credit card details provided by you via [https://payment.esomar.org](https://payment.esomar.org/) this information will be stored in a PCI DSS-certified e-payment solution (Payment Card Industry Data Security Standard), hosted by a 3rd party. PCI is the global security standard established by the international credit card organizations. The greatest data security and protection from non-payments is guaranteed through encryption of the data.
+Should you have any questions about this privacy notice, wish to exercise your data subjects’ rights, or have any concerns about our data collection practices, you can contact us by e-mail at [ privacy@esomar.org](mailto:privacy@esomar.org), by telephone at +31 20 661 41 21, or by post at ESOMAR, Atlas Arena, Hoogoorddreef 5, 1101 BA Amsterdam, The Netherlands.
 
-ESOMAR will also use your personal data to inform you about activities, products and services of ESOMAR and relevant third parties, unless you have notified ESOMAR that you do not to wish to receive such information.
+Should you be unhappy with the way we are dealing with your personal details or the way we are addressing your concerns, please note that as a data subject you always have the right to refer a complaint to our supervisory authority, the Dutch Data Protection Authority: the Autoriteit Persoonsgevens which can be reached at [ https://www.autoriteitpersoonsgegevens.nl/](https://www.autoriteitpersoonsgegevens.nl/) or with the supervisory authority in the country you are residing.
 
-ESOMAR will only share your personal information with a third party if you expressly ask to receive information from them. Credit card details will never be shared with any third party. Please note that to stop receiving information from a third party, you will need to contact them directly.
+## What personal data do we process?
 
-*Only ESOMAR Members are entitled to access the ESOMAR Directory of Members.
+ESOMAR processes personal data for a variety of purposes relating to our activities. We collect this personal data from our members, existing and prospective customers.
 
-## The use of e-mail
+We may collect, process, and use the following personal details for our services:
 
-ESOMAR will only use the e-mail address of member and customers, outside the scope of membership or a transaction, for the purpose where a member and/or customer has given opt-in. ESOMAR will always provide you in every e-mail, where relevant, with an unsubscribe link.
+  * Your name
+  * Your gender
+  * Your company
+  * Your job title
+  * Your nationality
+  * Your birthdate
+  * Your role and specialisation
+  * Your contact details (including postal or email address, telephone number)
+  * Credit card and financial information
+  * Photography and video recordings
+  * Your curriculum vitae (also known as a resume)
+  * Your passport or identity card
+  * Proof of enrolment or diplomas
 
-Receiving information by e-mail, means that you receive the latest information and updates that can have an effect on your day-by-day operation.
 
-If any customer or members’ personal data, or information provided in the ESOMAR Directory of Members or the Directory of Research Organisations is incorrect or out-of-date, please contact us in writing (or email with the necessary changes): [customerservice@esomar.org](mailto:customerservice@esomar.org)
 
-## The Directory of ESOMAR Members
+You can view and edit your personal data through your personal [MyESOMAR](https://www.esomar.org/my-esomar) account in order to correct any details which we may hold about you that is out of date or incorrect.
 
-The ESOMAR Directory of Members may not be used for mailings, electronic or otherwise for direct marketing purposes. Unsolicited commercial email for sales or promotional purposes is spam and is illegal in many countries. ESOMAR recognises the importance of data privacy regulations and reminds members that they are responsible for any misuse of the Directory within their organisation or by third parties contracted to provide their organisation with services.
+## Why do we process this personal data?
 
-ESOMAR Members should not send unsolicited email to other members unless it is for a specific purpose relating to that member, e.g. to ask for a bid for a project.
+In accordance with our legal and ethical obligations, we strive to minimize the personal data we collect and use about you to those required for the service.
 
-ESOMAR reserves the right to withdraw membership services from those who misuse the ESOMAR Directory. ESOMAR reserves also the right of seed-addresses to monitor the use of the ESOMAR Directory in accordance with this policy.
+ESOMAR operates a wide variety of services and platforms for the benefit of its members, the broader data, research and insights community, or the general public. These include but are not limited to platforms such as our Research World Connect blog, the ESOMAR Directory, the Serene platform for our disciplinary processes, our artificial intelligence: ANA to access research papers and content, and others.
 
-## Links to Other Websites
+Nonetheless, we may need to collect and process your personal data when you:
 
-This privacy policy only applies to [esomar.org](http://www.esomar.org/). This privacy policy does not extend to third party websites.
+  * Navigate our services in order to personalise your experience based on your declared preferences or pricing segments;
+  * Register for a service provided by ESOMAR in order to ensure the right services are delivered to you in accordance with your selections and preferences;
+  * Make a purchase on any of our platforms in order to complete the transaction;
+  * Respond to or participate in a survey, contest, or a marketing communication in order to inform you about our activities, the results; 
+  * Make a customer service request or submit a complaint in the context of our disciplinary process.
 
-## How to opt out?
 
-If you do not wish to receive information about ESOMAR's activities, products and/or services or offers of other relevant third parties, please inform us through our [online form](http://visitor.constantcontact.com/manage/optin/ea?v=001_D6q8SmIH1obPhVvmZLuKw==) or by mail or email at the following address:
 
-ESOMAR  
-Atlas Arena, Azië building - 5th floor  
-Hoogoorddreef 5  
-1101 BA Amsterdam  
-The Netherlands  
-Tel: +31 20 664 2141  
-Fax: +31 20 664 2922  
-Email: [customerservice@esomar.org](mailto:customerservice@esomar.org)
+## Under what legal basis do we process your personal data?
 
-## Updating your Personal / Company Information?
+ESOMAR, being a data controller, established in the European Union complies with the European Union’s General Data Protection Regulation (GDPR). Accordingly, for all processing activities we are required to inform you under which basis we collect, process, and use your personal data.
 
-If any personal data, or information provided in the ESOMAR Directory of Members or the Directory of Research Organisations is incorrect or out-of-date, please email the necessary changes to: [customerservice@esomar.org](mailto:customerservice@esomar.org)
+## Services relating to our membership offer 
 
-If you have any questions about ESOMAR’s Privacy Policy, please contact: [k.joe@esomar.org](mailto:k.joe@esomar.org)
+Most of our services form an integral part of our membership subscription offer, a contractual arrangement between ESOMAR and its members. We collect and process personal data in order to fulfill the contractual obligations that result from this agreement.
+
+Our membership offer enables our members to benefit from facilitated networking (via events, webinars, a public registry, and online discussion platforms…), access to exclusive content produced by ESOMAR and its members, and protection and coverage under our disciplinary process. We therefore collect personal details in order to deliver these subscribed services and to personalise a member’s experience.
+
+In order to finalise a membership subscription, and in accordance with our application procedures, personal details may be shared with other ESOMAR members part of the network for the purposes of verifying your credentials and subsequently for the purposes of delivering the services mentioned above. These ESOMAR members, who may be located outside the European Union, have access to your details, for the purposes of verifying and completing the contracting phase or the delivery of services at a local level.
+
+ESOMAR publishes a list of its members in order to enable business partners and the general public to confirm your membership status and coverage under our disciplinary process.
+
+## Marketing communications
+
+ESOMAR regularly sends out newsletters containing information about upcoming activities and events, industry news and updates, and special offers you may qualify for. For you to receive these newsletters, we collect and process your personal details to ensure they reach you and that we filter content that does not interest you.
+
+We may also collect your email address as part of the consent verification process ensuring that we do not send marketing communications to individuals who have not requested it. On the basis of our legitimate interest to do so, we collect and process details provided by you for this purpose and retain the data for a period not exceeding 2 weeks.
+
+These communications form an integral part of the membership offer and are therefore communicated in the context of that contractual arrangement. However, we also target marketing communications to individuals who have opted in for our communications with consent.
+
+## Event services
+
+ESOMAR endeavours to facilitate the most comprehensive networking experience possible and accordingly works with sponsors and partners to expand networking opportunities such as offering platforms to:
+
+  * Disseminate knowledge and content, 
+  * Access and share photos of event attendees on a third-party platform, 
+  * Participate and contribute to surveys and discussions through platforms like the ESOMAR App or similar third-party platforms, 
+  * Provide you with relevant and related marketing messages and special offers, 
+  * Connect you with other event delegates through the ESOMAR App.
+
+
+
+ESOMAR event attendees benefit from these services as part of our contractual service agreement upon registration.
+
+## Content services
+
+ESOMAR provides a wide array of content-driven services like our webinars which allow our users to gain new knowledge and insights on a wide variety of topics.
+
+Some of the content provided are provided by sponsoring organisations who provide you with the content in exchange for your contact details in order to provide you further relevant marketing information.
+
+These personal details are collected by our partner ON24 when you register and consent to attending one of our events and then subsequently shared with the sponsoring organisations under the contracting terms.
+
+## Who do we share your personal data with?
+
+In order to deliver our services, we may sometimes partner with third-parties in order to deliver the best experience possible for you. These partners are contractually bound with us in order to ensure that your personal data benefits from the same levels of protection as they have when handled directly by ESOMAR. Currently, our partners include:
+
+  * Netsuite: Netsuite owned by Oracle is our partner delivering our customer relationship management platform enabling us to deliver personalized experiences for all our users and customers. It is also the platform managing our subscribers for our marketing communications ensuring that we respect users' consent and preferences.
+  * On24: On24 is a US-based company, selected as our partner to deliver our webinar platform, enabling us to offer online webinars and digital events. On24 holds registration details that are shared to ESOMAR and third-parties providing sponsored content.
+  * SmugMug: SmugMug is a US-based company given access to photos of event attendees for the purposes of capturing key highlights of the event. These are used by attendees for personal purposes and by ESOMAR for marketing purposes particularly to secure new sponsors for future events.
+  * Office 365: Office365 owned by Microsoft is our partner delivering our business suite of tools used by our staff to communicate and deliver our core services. ESOMAR attributes O365 licenses to trusted and appointed volunteers for the purposes of their mission as national representatives of ESOMAR, as members of our statutory committees or our sounding boards. These licenses are granted to individuals based in and outside of the EU who sign specific agreements regarding their access and use of our platforms and any personal data found within them.
+  * Corllete Labs: Corllete Labs is our EU-based partner delivering our suite of tools used by our staff to operate our disciplinary procedures and queries desk. Accordingly Corllete Labs has access to the personal details and case files of active cases exclusively in order to provide technical support to participants and individuals involved in the disciplinary process or service desk.
+  * FocusVision: FocusVision is our delivering our survey tool.
+  * DataIM
+
+
+
+## For how long do we retain the data?
+
+In accordance with the GDPR, ESOMAR retains your personal details for as long as is necessary for the initial purpose for which it was collected. As a result, depending on the service you use we may retain your data for differing periods of time. Nonetheless, as an indication: 
+
+  * We retain your personal details collected with consent for our marketing communications for a period that does not exceed 2 years.
+  * We retain your personal details collected in the context of our membership services for the duration of the membership contract and a further period for 5 years for historical archiving purposes.
+  * We retain your personal details for transaction purposes for a period of 5 years in accordance with Dutch laws applying to financial records.
+
+
 
 ## Use of cookies
 
@@ -73,7 +136,7 @@ ESOMAR uses cookies to help the server identify you when you log in to secure ar
 
 We also use cookies to track our online traffic flow (through Google Analytics, Google DoubleClick, and Crazy Egg), to share links on social networks (through AddThis and Google +1), and to personalise information in online forms.
 
-You have the opportunity to set your web browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Information supplied by cookies can help ESOMAR provide you with a better user experience. Please note that not accepting cookies may affect your ability to access certain parts of our website. [You can view the list of cookies used by ESOMAR here.](https://www.esomar.org/cookies.php)
+You have the opportunity to set your web browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Information supplied by cookies can help ESOMAR provide you with a better user experience. Please note that not accepting cookies may affect your ability to access certain parts of our website. [You can view the list of cookies used by ESOMAR here.](https://www.esomar.org/cookies)
 
 ## Applicable Law
 
@@ -83,4 +146,4 @@ This privacy policy is governed by and construed in accordance with the law of t
 
 ESOMAR reserves the right to change any of the terms of this privacy policy at any time and without notice. ESOMAR therefore recommends that you review this privacy policy from time to time, or before making a transaction.
 
-Last update: Amsterdam, 11 June 2014
+Last update: Amsterdam, 15 May 2018
