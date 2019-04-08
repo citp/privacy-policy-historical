@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wsc.co.uk privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003201906id_/http%3A//www.wsc.co.uk/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsc.co.uk privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408122011id_/https%3A//www.wsc.co.uk/privacy) for the most accurate reproduction.*
 
-# When Saturday Comes - Privacy & cookies
+# When Saturday Comes - PRIVACY
 
-The policy: This privacy policy is for this website www.wsc.co.uk and served by When Saturday Comes Ltd, Studio 202, E1 Business Centre, 7 Whitechapel Road, London E1 1DU, UK and governs the privacy of its users who choose to use it. It explains how we comply with the GDPR (General Data Protection Regulation), the DPA (Data Protection Act) [pre GDPR enforcement] and the PECR (Privacy and Electronic Communications Regulations).
+This privacy policy is for this website www.wsc.co.uk and served by When Saturday Comes Ltd, Studio 202, E1 Business Centre, 7 Whitechapel Road, London E1 1DU, UK and governs the privacy of its users who choose to use it. It explains how we comply with the GDPR (General Data Protection Regulation), the DPA (Data Protection Act) [pre GDPR enforcement] and the PECR (Privacy and Electronic Communications Regulations).
 
 This policy will explain areas of this website that may affect your privacy and personal details, how we process, collect, manage and store those details and how your rights under the GDPR, DPA & PECR are adhered to. Additionally it will explain the use of cookies or software, advertising or commercial sponsorship from third parties and the download of any documents, files or software made available to you (if any) on this website. Further explanations may be provided for specific pages or features of this website in order to help you understand how we, this website and its third parties (if any) interact with you and your computer / device in order to serve it to you. Our contact information is provided if you have any questions.
 
@@ -66,8 +66,8 @@ There may be instances where our website features social sharing buttons, which 
 ](http://www.legislation.gov.uk/uksi/2003/2426/contents/made "Privacy and Electronic Communications Regulations 2003")[The Guide to the PECR 2003  
 ](https://ico.org.uk/for-organisations/guide-to-pecr/ "Privacy and Electronic Comms Regulations The Guide")[Twitter Privacy Policy  
 ](http://twitter.com/privacy "Twitter Privacy Policy")[Facebook Privacy Policy  
-](http://www.facebook.com/about/privacy/ "Facebook Privacy Policy")[Google Privacy Policy  
-](http://www.google.com/privacy.html "Google Privacy Policy")[](http://www.google.com/privacy.html "Google Privacy Policy")[Pure360 Privacy Policy](https://www.pure360.com/privacy/ "Facebook Privacy Policy")
+](http://www.facebook.com/about/privacy/ "Facebook Privacy Policy")[Google Privacy Policy](http://www.google.com/privacy.html "Google Privacy Policy")[  
+](http://www.google.com/privacy.html "Google Privacy Policy")
 
 v2.1 May 2018 Edited & customised by When Saturday Comes Ltd
 
