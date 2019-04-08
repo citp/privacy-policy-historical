@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223174022id_/https%3A//www.farmersalmanac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408164031id_/https%3A//www.farmersalmanac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Usage - Farmers’ Almanac
 
@@ -23,10 +23,8 @@ We will occasionally send out information on products, services, special deals, 
 
 **Customer Service**
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.  
-**Other Information**
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
-We share your mailing address with some carefully screened vendors whom we feel may provide products and services that will be of benefit to you. If you do not want us to share your mailing information please contact us here and we will opt you out of these offers.  
 **Agents**
 
 We use outside suppliers and shipping companies to fulfill some orders. These companies do not retain, share, store or use personally identifiable information for any other purposes.
