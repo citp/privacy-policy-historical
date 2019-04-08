@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106014055id_/https%3A//www.unos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408051316id_/https%3A//www.unos.com/privacy.php) for the most accurate reproduction.*
 
 # Uno Pizzeria & Grill: Privacy Policy
 
 ### Uno Restaurant Holdings Corporation  
 Website Privacy Policy
 
-Last Revised: March 22, 2018
+Last Revised: March 20, 2019
 
 #### General
 
@@ -67,6 +67,10 @@ With most Internet browsers, you can erase cookies from your computer hard drive
 
 Some uses of cookies in connection with our websites may be under the control of unaffiliated entities that the Company retains for the management of certain programs and fulfillment of specific visitor/customer requests. The Company requires these entities to confine their use of cookies to the uses permitted by this Policy, but the Company cannot be responsible for third party uses of cookies.
 
+#### Location Information
+
+This site uses location data provided by your web browser if allowed. If you GPS location cannot be determined then your IP address is used to locate you. This information is not stored by UNO in any way. Location data is collected for the purpose of assigning your closest physical restaurant location to customize the web experience. Location data is not required to use or access this website.
+
 #### Offline v. Online Practices
 
 This Policy applies solely to the Company's information-gathering and dissemination practices in connection with its websites in the United States, and does not apply to any of our practices conducted offline or outside of the United States.
@@ -84,7 +88,36 @@ Uno Restaurant Holdings Corporation
 Boston, MA 02132  
 [privacy@unos.com](mailto:privacy@unos.com)
 
-Sign up now for exclusive savings, invites and the latest news sent straight to your inbox - starting with a **FREE** welcome gift.
+##### Eat, Drink & be happy for Hours.
 
-[Become an Insider](https://web.archive.org/eclub.php)   
+##### Shareable  
+Appetizers
 
+  
+
+
+### In the Bar  
+All Day, Every Day
+
+##### Rotating Taps
+
+  
+
+
+### National, Regional  
+& Local Craft Beers
+
+##### Classic  
+Margarita
+
+  
+
+
+### Another Reason  
+To visit bar Uno
+
+Sign up now for exclusive savings, invites and the latest news sent straight to your inbox - starting with a **FREE APPETIZER** * welcome gift.
+
+[Become an Insider](https://web.archive.org/eclub.php)
+
+*With purchase of entree. Offer only for new eClub subscribers.
