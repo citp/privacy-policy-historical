@@ -1,200 +1,272 @@
-> *The following text is extracted and transformed from the mcvuk.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223053005id_/https%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcvuk.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408185855id_/https%3A//www.mcvuk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Future
-
-(Updated May 2018)
+# Privacy Policy – MCV
 
 **Introduction**
 
-This policy covers the processing of personal data by Future plc, whose registered address is at Quay House, The Ambury, Bath, BA1 1UA, and its associated group companies (“ **Future** ”, “ **we** ” or “ **us** ”). Future is committed to protecting the privacy of your personal information whilst striving to provide the very best user experience. We want our websites to be safe and enjoyable for everyone.
+Biz Media UK Ltd takes your privacy seriously. Below you can find more information about the personal data we collect, how we use it, and how we protect it. We endeavour to comply with relevant data protection legislation. This Privacy Policy covers:
 
-Under the General Data Protection Regulation (GDPR) and related laws, we have a legal duty to protect the personal information we collect from you. GDPR says that ‘personal data’ is any information relating to a living individual who can be identified, either directly or indirectly, from that information. This could include your name, email address, postal address or telephone number, or information collected online and used to identify you.
+  * audiomediainternational.com
+  * bikebiz.co.uk
+  * bikebiz.com
+  * bikebizawards.com
+  * licensing.biz
+  * mcvuk.com
+  * pcr-online.biz
+  * toynews-online.biz
+  * mcvawards.com
+  * futuregamessummit.co.uk
+  * futuregamessummit.com
+  * pcr-awards.com
+  * womeningamesawards.com
+  * develop-online.net
+  * developawards.com
 
-For the purposes of GDPR, the ‘Data Controller’ for all Future services based in the UK is Future Publishing Limited. For all services based in the United States, the Data Controller is Future US, Inc, and in Australia it is Future Publishing (Overseas) Limited. As Data Controller we are responsible for, and control, the processing of your personal data for the purposes of Future’s services.  
-We have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this privacy notice. If you have any comments, concerns or questions, including any requests to exercise your legal rights, you can contact our DPO.
 
-**We encourage you to read this policy in full but please click on the links below for a shortcut to the following sections:**  
-Contact details  
-What data do we collect and how do we use it?  
-What lawful bases do we rely on for processing?  
-Who may we share your data with?  
-What data is collected on our websites?  
-Links to other websites  
-Storage and retention of data  
-Security  
-Protecting children’s privacy  
-Your rights  
-Policy changes  
-Further information
 
-**Contact details**
+**Who we are?**
 
-Future’s Data Protection Officer can be contacted:  
-By email: DPO@futurenet.com  
-By telephone: +44 (0)1225 442244  
-By post: Data Protection Enquiries, Future Publishing Limited, Quay House, The Ambury, Bath, BA1 1UA
+Biz Media UK Ltd is a B2B publishing, marketing and events company. Our portfolio is a valuable hub of news and product information, offering registrants the opportunity to stay connected with the latest industry updates, and allowing advertisers to connect directly to decision makers through sponsorship opportunities, print and online advertisements and direct marketing campaigns. Biz Media UK Ltd is a subsidiary of Datateam Business Media Ltd, and as such, any data you voluntarily give us may be shared within the group of companies. Each company is registered with the Information Commissioner’s Office (the UK’s independent body set up to uphold information rights) as a data controller.
 
-**What data do we collect and how do we use it?**
+**Our business address is:**
 
-**Information you provide to us** | When you participate in, access, purchase or sign up to any of our services, activities or online content, such as magazine subscriptions, newsletters, surveys, competitions or events, we receive personal information about you which we use to provide these services. This may consist of data such as your name, email address, postal address and telephone number. You will be able to select how we use your information for marketing purposes and you can update your marketing preferences at any time.  
----|---  
-**Ordering a product  
-or service from us** | If you order a product or service from us, you will need to provide certain personal details, including payment information, so the order can be fulfilled. In some cases, we will use or direct you to a third party which will collect this information from you and fulfill your order. For example, if you order a subscription to our publications, you may be able to access those products through a digital newsstand such as Apple Newsstand.  
-**Attending an event** | If you attend one of our events, awards or conferences we may receive personal information about you, including your name and contact details and any dietary and accessibility requirements.  
-**Content you share with us** | When you choose to share comments, photos, videos and other content with, us we may receive personal information about you.  
-**Information  
-collected online** | We may collect information about how you use our websites or other content online, and the device you use to access the services. Please see **What data is collected on our websites?** and our [Cookies Policy](https://www.futureplc.com/cookies-policy) for further details about how we use this data and information on opting out.  
- 
+**Biz Media Limited**
 
-**eCommerce**
+Registered office address: 15A London Road, Maidstone, Kent ME16 8LY  
+Telephone: +44 (0) 1622 687 031
 
-| Some of our websites contain links to products and services offered by third party websites. If you click on those links we will use data collected about your activity on our site to direct you to the third party site. We and the third party may collect data to show us that you have clicked on the link and whether you purchased any products and services. We may receive a commission from the third party if you link to their site from a Future site and purchase goods and services from them.   
-**Email communications** | We use web beacons in our emails to track the success of our marketing campaigns. If you open an email from us, we can see which of the pages of our website you visited. Our web beacons don’t store any information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened an email from us. We may keep track of the emails that we send you. We also keep a record of what communications you have selected to receive or not to receive. If you would like to opt out of receiving such emails you can unsubscribe at any time or contact our DPO.  
-**Information from other sources** | We may receive information about you from other sources (for example, missing information about your postal or email addresses) and add it to the personal information we hold about you. We may also receive data from other sources, such as our business partners, and social media platforms.  
-  
-**What lawful bases do we rely on for processing?**
+Registration Number in the Data Protection Register: A8432122  
+Company number: 03035679  
+VAT ID: 311956901
 
-In order to process your personal data, we must have a lawful reason for doing so. GDPR sets out six lawful bases under which organisations can collect, use and store personal data. We rely on four of the lawful bases:
+If you have any questions regarding this privacy policy, you can [send us a message](mailto:subscriptions@biz-media.co.uk).
 
-Necessary for the performance of a contract  
-If you are our customer, for example a subscriber of a magazine or an attendee at one of our events, we will process your personal data on the basis that it is necessary for us to provide our products and services to you.
+**Other companies in Datateam Business Media Limited’s group:**
 
-Consent  
-In some instances we rely on your specific consent to process your personal information. This is where you have actively agreed and ‘opted-in’, for example to receive marketing communications from us, and you have the right to withdraw your consent at any time.
+**Datateam Business Media Limited**
 
-Compliance with laws  
-We may have to process and share your personal data in order to comply with our legal obligations, or to protect our rights or the rights of others. For example, we are required to collect certain information from you when processing your subscription payment for tax or financial reporting reasons.
+Company number: 01771113  
+VAT ID: 927118425  
+Registration Number in the Data Protection Register: ZA369905
 
-Legitimate interests  
-In some situations we rely on our legitimate business interests in order to collect and use your personal data. In these situations, we have conducted a balancing test to carefully consider the impact of the processing on your interests, rights and freedoms. We will only undertake the processing if we are satisfied there is no negative impact on you. We rely on Legitimate Interests for the following activities:
+Registered office address: 15A London Road, Maidstone, Kent ME16 8LY  
+Telephone: +44 (0) 1622 687 031
 
-  * providing, maintaining, improving and developing our products and services;
-  * sending direct marketing communications about our products and services to customers;
-  * sending marketing communications related to the products and services of carefully selected companies in a business-to-business context;
-  * managing suppression and unsubscribe requests;
-  * researching publicly available business contact details;
+[www.datateam.co.uk](http://www.datateam.co.uk/)
 
-  * managing certain aspects of our events;
-  * analysing the use of our products and services;
-  * using analytics to identify usage trends and determining the effectiveness of campaigns;
-  * allowing you to comment on on our sites;
-  * dealing with queries and complaints;
-  * personalising your experience on our sites;
-  * identifying fraudulent behaviour and ensuring our websites and systems are secure.
+**  
+PMGroup Worldwide Limited**
 
+Company number: 02244376  
+VAT ID: 528388707  
+Registration Number in the Data Protection Register: Z9333811
 
+Registered office address: 15a London Road, Maidstone, England, ME16 8LY  
+Correspondence address: Mansard House, Church Road, Little Bookham, Surrey KT23 3JG
 
-If you object to our reliance on Legitimate Interests for any purpose please contact our DPO.
+[www.pmgrouplive.com](http://www.pmgrouplive.com/)
 
-**Who may we share your data with?**
+**Pharma Times Media Limited**
 
-Agents  
-We use third parties to perform certain functions on our behalf including fulfilling orders, sending emails, organising and managing events, running competitions and promotions, conducting surveys or polls, removing repetitive information from customer lists, comment hosting, website analysis, data analysis and processing credit card payments. They will have access to your personal information if necessary to perform their function but they cannot use it or disclose it for any other purpose, unless you have specifically given them consent to do so.
+Company number: 09019637  
+VAT ID: 187032113
 
-Aggregate information  
-We may share aggregated, non-personally identifiable information, such as demographics and website usage statistics, with advertisers, sponsors and other organisations.
+Registered office address: 15a London Road, Maidstone, England, ME16 8LY  
+Correspondence address: Mansard House, Church Road, Little Bookham, Leatherhead, Surrey, KT23 3JG
 
-Option to receive marketing information from associated third parties  
-Throughout the website you may be given the opportunity to receive marketing information which may be of interest to you from associated third parties. Only if you elect to receive such information, will we share your personal information with our associated third parties and they are only permitted by us to use it for the purpose of providing you with the marketing information you have requested. The use of your personal information by such third parties will be subject to their own privacy policy and practices. We are not responsible for the privacy policy or practices of any such third party. If you do not want to receive marketing information from associated companies you can notify us of this as part of the registration process. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing our DPO at DPO@futurenet.com giving your email address and details of the information you no longer wish to receive.
+[www.pharmatimes.com](http://www.pharmatimes.com/)
 
-Products or services offered in partnership with third parties  
-Certain products or services available through this website may be provided to you in partnership with a third party. That third party may require you to disclose personal information to them in order to receive such products or services. If you request a product or service offered in partnership with a third party, the identity of the third party will be disclosed to you and your personal information will be transferred to that third party. The use of your personal information by that third party is subject to its privacy policy and practices and we are not responsible for this.
+**Hayward Medical Communications Limited**
 
-Group Companies  
-We only share your personal information with our group companies if you have elected to receive marketing information from them which may be of interest to you. They are only permitted by us to use it for the purpose of providing you with the marketing information you have requested. If you do not want to receive marketing information from our group companies you can notify us and you can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive or by emailing our DPO at DPO@futurenet.com, giving your email address and details of the information you no longer wish to receive.
+Company number: 02625630  
+VAT ID: 596092111  
+Registration Number in the Data Protection Register: ZA321938
 
-Third-Party Ad Serving and Audience and Traffic Measurement Services
+Registered office address: 15a London Road, Maidstone, England, ME16 8LY  
+Correspondence address: The Pines, Fordham Road, Newmarket, CB8 7LG
 
-We may use a third-party network advertiser to serve the advertisements on this website or we may use an audience or traffic measurement service to analyse the traffic on this website. Network advertisers are third parties that display advertisements based on your visits to this website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. Audience and traffic measurement services allow us to collect traffic and behavioural information from the website by monitoring anonymous visitor activity. This website’s advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Please see **What data is collected on our websites?** and our [Cookies Policy](https://www.futureplc.com/cookies-policy) for further details and information on opting out.
+[www.hayward.co.uk](http://www.hayward.co.uk/)
 
-Auditing organisations  
-We may share your personal data with the Audit Bureau of Circulations, a third-party auditing organisation. This is so they can verify aggregated statistics about circulation and usage of our products, or review our policies, processes and procedures for compliance with relevant standards. You can view their privacy policy by following this link: [www.abc.org.uk/privacy-policy](http://www.abc.org.uk/privacy-policy)
+**Wisepress Limited**
 
-**What data is collected on our websites?**
+Company number: 01674260  
+VAT ID: 318386442  
+Registration Number in the Data Protection Register: Z6526276
 
-‘Cookies’ are small data files which are sent to your computer, mobile phone or other device so that the website can remember information about your browsing activity. We use cookies on our websites for a variety of purposes:
+Registered office address: 15a London Road, Maidstone, England, ME16 8LY  
+Correspondence address: 15 Lyon Road, London, SW19 2RL
 
-Information storage and access  
-The storage of information, or access to information that is already stored, on your device such as advertising identifiers, device identifiers, cookies, and similar technologies.
+[www.wisepress.com](http://www.wisepress.com/)
 
-Content selection, delivery, reporting  
-The collection of information, and combination with previously collected information, to select and deliver content for you, and to measure the delivery and effectiveness of such content. This includes using previously collected information about your interests to select content, processing data about what content was shown, how often or how long it was shown, when and where it was shown, and whether the you took any action related to the content, including for example clicking on content. This does not include personalisation, which is the collection and processing of information about your use of this service to subsequently personalise content and/or advertising for you in other contexts, such as websites or apps, over time.
+**What personal information we collect?**
 
-Measurement  
-The collection of information about your use of the content, and combination with previously collected information, used to measure, understand, and report on your usage of the service. This does not include personalisation, the collection of information about your use of this service to subsequently personalise content and/or advertising for you in other contexts, i.e. on other service, such as websites or apps, over time.
+  *     *       1. When registering on one of our  **websites** , applying for a  **subscription** or  **service _,_**  completing online or paper forms, or calling us, you may be asked to provide your full name, email address, postal address, phone number, job title, company name or other details about your job role or company, what sort of content you would like to hear about or how you would like to be contacted. We ask for this information to improve your experience and deliver content that is relevant to you.
 
-Personalisation  
-The collection and processing of information about your use of this service to subsequently personalise advertising and/or content for you in other contexts, such as on other websites or apps, over time. Typically, the content of the site or app is used to make inferences about your interests, which inform future selection of advertising and/or content.
 
-Ad selection, delivery, reporting
 
-The collection of information, and combination with previously collected information, to select and deliver advertisements for you, and to measure the delivery and effectiveness of such advertisements. This includes using previously collected information about your interests to select ads, processing data about what advertisements were shown, how often they were shown, when and where they were shown, and whether you took any action related to the advertisement, including for example clicking an ad or making a purchase. This does not include personalisation, which is the collection and processing of information about your use of this service to subsequently personalise advertising and/or content for you in other contexts, such as websites or apps, over time.
+**Do we use ‘cookies’?**
 
-Please see our [Cookies Policy](https://www.futureplc.com/cookies-policy/) for more information.
+Biz Media’s websites use a variety of technologies including cookies to understand how you use the websites. These include:
 
-**Links to other websites**
+  *     *       * **Google Analytics** , which builds up a standard internet log with information and details of visitor behaviour patterns. We use this service to determine the amount of visitors to our site, and its separate parts. This information does not identify anyone.
+      * **Yudu Ltd** (address: Primrose Studios, Primrose Road, Clitheroe, Lancs., BB7 1BT; company registration number 4452936), which provides online publishing applications allowing us to upload our magazines online or provide mobile applications for iOS and Android. When you access the digital editions of our magazines, available online, or when you use our mobile applications Datateam Business Media will be the data controller, while Yudu Ltd will be the processor. We have an agreement in place insuring your data is collected and processed in compliance with the law and it is kept secure. You can find more about the information Yudu collects in their privacy policy (<https://www.yudu.com/about/privacy>).
+      * **LeadBoxer** (address: Singel 542, 1017 AZ Amsterdam, Netherlands), which gives real-time information about who is on and interacting with our websites and lead generation assets.
 
-Our websites may include links to third party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and, when you leave our website, we encourage you to read the privacy notice of every website you visit. We may monetise some of these links through the use of third party affiliate programmes. Notwithstanding such affiliate programmes, we are not responsible for the content or privacy policies of these websites or for third party advertisers, nor for the way in which they use information they collect about you.
 
-**Storage and retention of data**
 
-Your information is collected and stored on our secure systems, mainly based in the UK and European Economic Area (EEA). Where we use third party service providers to store data, we have appropriate agreements in place to ensure that your personal data is protected. Your personal data may be transferred to a country outside the EEA if, for example, a supplier or service is based outside the EEA. We will take all steps reasonably necessary to ensure your data is treated securely, including ensuring the location has been granted ‘adequacy status’ by the European Commission, or using our agreement with the supplier contains model contractual clauses approved by the European Commission, or ensuring the company we are transferring the data to is certified under the EU-US Privacy Shield.
+Biz Media’s web servers automatically record information when you visit one of our websites. This includes your IP address, the date and time you visited our websites, the browser and language you use.
 
-We hold personal data for a variety of different purposes and the length of time we keep your data will vary depending on the services or products we are providing. We will only keep your data for a reasonable period of time, which is based on the purpose for which we are using your data. Once that purpose has been fulfilled, we will securely delete that data or anonymise your information (so that we, or anyone else, can no longer tell that data relates to you) unless we are required to retain the data longer for legal, tax or accounting reasons.
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow), that enables the site’s or service provider’s systems to recognise your browser, and capture and remember certain information. For instance, we use cookies to help us understand your preferences based on previous or current site activity, which enables us to provide you with personalised services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Security**
+**We use cookies to:**
 
-We are committed to protecting the personal data we hold. In accordance with GDPR, we adopt appropriate technical and organisational measures to help prevent unauthorised access to your information and ensure data is held securely. We also require any third parties to whom we may transfer personal data to have appropriate security measures in place. We ask third parties to complete Data Security Questionnaires so we can be sure they are a safe place for your data.
+  *     *       * Provide access to certain parts of our websites
+      * Keep track of selections you make when using some of our website tools
+      * Understand and save user’s preferences for future visits
+      * Keep track of advertisements and related performance
+      * Track users’ website activity*
 
-**Protecting children’s privacy**
 
-Our products and services are for a general audience and not aimed at children. However, we recognise that some of our publications, for example in our Knowledge and Gaming portfolios, may appeal to a younger audience. We do not knowingly collect any personal information from children under the age of sixteen or send any marketing communications to children. If we are running a competition which might be of interest to children, our competition rules specify that a parent or guardian must consent to entry. If, in the future, we collect personally identifiable information from children in connection with our products and services, we will do so in compliance with all relevant laws and regulations including, without limitation, obtaining parental consent where necessary. The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit <https://www.google.co.uk/intl/en/safetycenter/families/start/> for more information about keeping your family safe online. If you are a parent or guardian and are concerned that we may be processing personal data related to your child, please contact our DPO.
 
-**Your rights**
+*We may use trusted third-party services that track this information on our behalf
 
-You have the right to request:
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. The exact way will depend upon your internet browser and the settings are usually found under privacy or security – the [All about Cookies website](http://www.allaboutcookies.org/manage-cookies/index.html) offers guidance for all modern browsers.
 
-  * Access to the personal data we hold about you.
-  * The correction of your personal data when incorrect, out of date or incomplete.
-  * The erasure of your personal data.
-  * That we stop using your personal data for direct marketing if you object to it.
-  * That we stop any consent-based processing of your personal data after you withdraw that consent.
-  * The right to request a transfer of your data to another service provider.
+**What happens if I disable cookies?**
 
+If you turn cookies off, some of the features that make your site experience more efficient may not function properly and some account management features may not work.
 
+To find more about how we use cookies and what they are, please read our Cookie Policy.
 
-Your right to withdraw consent  
-Whenever you have given us your consent to use your personal data, you have the right to change your mind at any time and withdraw that consent.
+**Do Not Track browser settings**
 
-Where we rely on our legitimate interest  
-In cases where we are processing your personal data on the basis of our legitimate interest, you can ask us to stop for reasons connected to your individual situation. We must then do so unless we believe we have a legitimate overriding reason to continue processing your personal data.
+“Do Not Track” (DNT) is a feature offered by some browsers. When enabled it requests that your browsing is not tracked (such as by third party ad networks, social networks and analytic companies). Datateam Business Media does not currently support DNT requests.
 
-Direct marketing  
-You have the right to stop the use of your personal data for direct marketing activity through all channels, or selected channels. We must always comply with your request. Remember, you can always stop direct marketing messages by clicking on an unsubscribe link in any of our emails or getting in touch with us.
+**Mobile Applications**
 
-Exercising your rights  
-If you wish to exercise any of your rights please contact the Data Protection Officer:  
-By post: Future Publishing Limited, Quay House, The Ambury, Bath BA1 1UA; or  
-By email: DPO@futurenet.com.
+When you download or use our applications on your mobile or other devices, we might access or store information on your equipment. In most cases such information is used in a similar way to a web browser cookie. It enables our apps to remember you or provide you with the personalised content you have requested.
 
-We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). If you have authorised a third party to submit a request on your behalf, we will ask them to prove they have your permission to act. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. If this is case, we will notify you and keep you updated.
+Your web browser or device may provide us with the following information: device identifier, IP address, MAC address, IMEI number, app ID, GPS location.
 
-No fee usually required  
-You will not usually have to pay a fee to access your personal data (or to exercise any of the rights), however, we may charge a reasonable fee if your request is unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. If we choose not to action your request we will explain to you the reasons for our refusal.
+**When do we collect information?**
 
-Information Commissioner’s Office  
-If you feel you need to, you also have the right to make a complaint at any time to the ICO, the UK data protection supervisory authority (www.ico.org.uk).
+We collect information from you when you register on our websites, apps, during our events, place an order, subscribe to a newsletter or product, respond to a survey, fill out a form or enter information on our websites or apps.
 
-**Policy changes**
+**How do we use your information and when will we contact you?**
 
-We may amend this Privacy Policy from time to time, so we encourage you to check it periodically. If we make material changes we will endeavour to provide you with appropriate notice before such changes take effect.
+  *     *       1. To analyse how our products and services are used
+      2. To improve the products and services we offer
+      3. To improve the user experience on our websites
+      4. To provide you with tailored services based on the preferences you have stated
+      5. To provide you with tailored services based on your usage patterns
+      6. To provide you with  **e-Alerts** that you have subscribed to
+      7. To provide you with bespoke advertising based on your interests
+      8. To process transactions in a timely manner
+      9. To respond to any user enquiries (via live chat, email, telephone or post)
+      10. To administer a contest, promotion, survey or other website feature
+      11. To send periodic service administration emails regarding your orders, products, services and preferences. This means we may contact you using the details you provided for reasons related to the services you subscribed to or your activity on our website (e.g. to remind you of your password, to update you with information about our events you’re attending, competitions you’re entering, and the outcome of your participation, deliver tickets to you, to let you know of any changes to our services, if our site and services are expected to experience downtime for maintenance, to notify you of updates to our Privacy and Cookies Polices or Terms and Conditions of use, to inform you that your account has become dormant or out of date and to ask if you would like to continue using it again before we close it).
+      12. To ask your views about our products or services.
+      13. To deliver the magazine you are subscribed to
+      14. For our legitimate interests, which have been balanced against your own interests:
+      * Direct marketing – to inform you of new or similar products, upcoming events, industry news, identify business development opportunities and possibilities for new partnerships. We will process your data with the intention to contact you only if we think the communication, product or service is relevant to your interests. We’ll inform you upon registration that your data will be used in such manner and give you the option to opt-out either at the point of registration or with every subsequent communication.
+      * Suppression – to make sure that we do not contact you in the future if you have expressed your wish to unsubscribe.
+      * Personalisation – to personalise the content you see on our website, based on your interests and occupation, improving your experience.
+      * Web analytics – to assess the number of visitors to different pages and optimise them for future marketing campaigns. Keeping your customer details up-to-date – we might use external sources or service providers to verify the accuracy of the customer data you submit, or insure that your details are still correct after a certain period of inactivity.
+      * ABC auditing – to demonstrate that we present our circulations in a factual and independently verified manner.
+      15. Miscellaneous processing connected to any of the above.
 
-**Further information**
 
-General information about data protection may be found at the Information Commissioner’s website: <https://ico.org.uk/>
 
-For more information about cookies please visit <http://www.allaboutcookies.org/> and for more information about how to manage cookies please refer to our [Cookies Policy](https://www.futureplc.com/cookies-policy/).
+**How do we protect your personal information?**
 
-Information about direct marketing may be found at the Direct Marketing Association’s website: <https://dma.org.uk/>
+Biz Media is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and protect the information we collect.
 
-To unsubscribe from all emails contact: DPO@futurenet.com
+Any financial transactions are processed through a secure gateway provider and are not stored or processed on our servers.
+
+**Do we share information with anyone else?**
+
+We do not sell, trade, or otherwise transfer personal data to third parties outside of our group of companies, unless: we have informed you of this and you have provided your consent; the disclosure is to fulfil our legitimate interest; or it is required or permitted by law (when government bodies and law enforcement agencies require us to).
+
+We might share your information across our group of companies (Datateam Business Media, PMGroup Worldwide, Pharma Times, Hayward and, Wisepress), where these companies have the legitimate interest to process your personal information.
+
+Additionally, we might share your details with website hosting partners, service providers and other parties who assist us in operating our website, conducting our business, or serving our users, where this is necessary to provide you with a service you have requested. Some of them might be based outside of the EU. We are transferring the data to them in a secure manner and we have agreements in place to protect your information.
+
+Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third Party Links**
+
+Biz Media’s websites contain links to external websites. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content, activities or privacy of these linked sites and any data you share. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**How long will we keep your information?**
+
+We will hold your personal data for as long as is necessary for the relevant activity, or as long as is set out in any relevant contract you hold with us.
+
+If you have not used or updated your account in the last two years, we might class it as dormant or delete it. We will email you to remind you before deletion. Please check your inbox regularly to see if we have sent you any emails about this.
+
+**Your Rights**
+
+You have the following rights regarding processing of your personal information:
+
+  *     *       1. The right to request access to, or copies of, your personal information
+
+
+
+You have the right to access your personal data and supplementary information free of charge, as well as find out for what purposes we process it. We will ask for proof of ID. The documents we accept are: passport, driving licence, birth certificate, utility bill (from last 3 months), current vehicle registration document, bank statement (from last 3 months), and rent book (from last 3 months). Please do not send over originals via post!
+
+We will do our best to respond at least within one calendar month. If we need more time we will get in touch to let you know.
+
+  *     *       2. The right to request amendment to your personal information
+
+
+
+You have the right to request from us to update or amend any personal information we hold about you that is inaccurate or incomplete.
+
+  *     *       3. The right to erasure or restriction of the processing of your personal information
+
+
+
+You can request from us to delete or remove your personal data where there is no compelling reason for its continued processing. We can refuse your request if we have an overriding legitimate interest to continue the processing, if we need to comply with a legal obligation for the performance of a public interest task or exercise of official authority, archiving purposes in the public interest, scientific research, historical research or statistical purposes, or the exercise or defence of legal claims.
+
+  *     *       4. The right to withdraw consent
+
+
+
+You can withdraw your consent for us to process your personal data for specific purposes. In this case we are permitted to store your personal information but not further process it for the specified purpose. We might keep only a few details in order to ensure we respect your wishes in the future.
+
+  *     *       5. You have the right to complain to the Information Commissioner’s Office
+
+
+
+If you got in touch with us and you’re not happy with the outcome you can forward your complaint to the Information Commissioner’s Office (UK’s independent body set up to uphold information rights). You can find more about how to complain here: <https://ico.org.uk/concerns/>
+
+**You can exercise all other rights at any time by contacting us by:**
+
+  *     *       * Emailing [subscriptions@bizmediauk.co.uk](mailto:subscriptions@bizmediauk.co.uk)
+      * Post at 15A London Road, Maidstone, Kent ME16 8LY
+
+
+
+**How to unsubscribe from direct marketing?**
+
+  *     *       * Email us at [subscriptions@bizmediauk.co.uk](mailto:subscriptions@bizmediauk.co.uk)
+      * Or follow the instructions at the bottom of any email you receive from us and we will promptly remove you from all specified correspondence.
+
+
+
+**Changes to our Privacy and Cookies Policy**
+
+We might update our Privacy or Cookie Policy from time to time. You may wish to check it each time you submit personal information to us. The date of the most recent revisions will appear on this page. If you do not agree to these changes, please do not continue to use our websites or to submit personal information to us. You can delete your account and information at any time. If significant changes are made, for example how we would like to use your personal information, we will provide a more prominent notice as an email notification of Privacy Policy changes.
+
+**Useful Definitions**
+
+**Data or Personal Data –  **means any information relating to an “identified or identifiable natural person” (‘data subject’); who can be identified, directly or indirectly by such information.
+
+**Process / Processing –  **any handling of personal information, by manual or automated means, including but not limited to:  obtaining, recording, holding, organisation, adaptation, alteration, retrieval, consultation, disclosure, transmission, dissemination or otherwise making available, alignment, combination, blocking, erasure or destruction.
+
+**Processor**  – any person (other than an employee of the data controller) who processes the data on behalf of the data controller.
+
+**Controller**  – means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes for which and the manner in which any personal data are, or are to be, processed.
+
+**Data subject**  – an individual who is the subject of personal data.
+
+**Third Party**  – any individual or organisation outside Biz Media or the Datateam group of companies.
