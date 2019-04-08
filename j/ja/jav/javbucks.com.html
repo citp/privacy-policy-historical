@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the javbucks.com privacy policy that was archived on 2017-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170807213135id_/https%3A//javbucks.com/external.php%3Fpage%3Dprivacy%26) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the javbucks.com privacy policy that was archived on 2019-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190408192300id_/https%3A//javbucks.com/external.php%3Fpage%3Dprivacy%26) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
     <!--[if IE 6]><link rel="stylesheet" href="/style/ie6.css" type="text/css" /><![endif]-->
     <!--[if IE 7]><link rel="stylesheet" href="/style/ie7.css" type="text/css" /><![endif]-->
     
-            <script type="text/javascript" src="jscript/aff_all.js"></script>
+            <script type="text/javascript" async="" src="https://widget.intercom.io/widget/ipskx1c2"></script><script type="text/javascript" src="jscript/aff_all.js"></script>
         <script type="text/javascript" src="jscript/jquery.main.js"></script>
             
         <script type="text/javascript">
@@ -28,6 +28,17 @@
 </head>
 
 <body style=""><div class="warning-cookies js-warning-cookies"><p class="warning-cookies__text">We use cookies to ensure that we give you the best experience on our website. If you continue we assume that you consent to receive all cookies on our website. <a class="warning-cookies__link" href="external.php?page=privacy">More info</a></p><button class="warning-cookies__close js-warning-cookies-close"><svg class="warning-cookies__close-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M23.7 22.3L13.4 12 23.7 1.7c0.4-0.4 0.4-1 0-1.4 -0.4-0.4-1-0.4-1.4 0L12 10.6 1.7 0.3c-0.4-0.4-1-0.4-1.4 0 -0.4 0.4-0.4 1 0 1.4L10.6 12 0.3 22.3c-0.4 0.4-0.4 1 0 1.4 0.4 0.4 1 0.4 1.4 0L12 13.4l10.3 10.3c0.4 0.4 1 0.4 1.4 0C24.1 23.3 24.1 22.7 23.7 22.3z"></path><rect width="24" height="24" fill="none"></rect></svg></button></div>
+
+<script>
+  window.intercomSettings = {
+    app_id: "ipskx1c2",
+    "source": "Javbucks.com"
+  };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/ipskx1c2';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+
+
 <div style="position:absolute;left:0;top:-200px;"><img alt="" src="/images/drop1.png"><img alt="" src="/images/drop.png"><img alt="" src="/images/drop-t.png"><img alt="" src="/images/drop-b.png"><img alt="" src="/images/flags/jp.gif"><img alt="" src="/images/flags/jp.gif"></div>
 <div class="overlay" style="display:none;">
 </div>
@@ -64,7 +75,7 @@
 
                     <div class="drop">
                         <ul>
-                                                                                                                                                                                                                                                                                                                                                        <li><a href="/set_lang.php?lang=jp" title="日本語"><img src="/images/flags/jp.gif" alt="日本語">日本語</a></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                                                                                                                                                                                                                                                                                                                                        <li><a href="/set_lang.php?lang=jp" title="日本語"><img src="/images/flags/jp.gif" alt="日本語">日本語</a></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
                     </div>
                 </div>
 
@@ -108,7 +119,7 @@ The Site includes third party advertising and links to other web sites. These co
                     <li><a href="external.php?page=contact&amp;" title="Need Help?">Need Help?</a></li>
                 </ul>
                 <p>If you need to contact us regarding your personally, please <a href="external.php?page=contact&amp;" title="contact us here"> contact us here</a>.</p>
-            	                <p>© 2017 JAVBucks</p>
+            	                <p>© 2019 JAVBucks</p>
             </div>
         </div>
     </div>
@@ -201,12 +212,13 @@ The Site includes third party advertising and links to other web sites. These co
     } else {
        $(".js-warning-cookies-styles").detach();
     }
+
     $(document).ready(function() {
         var $warningBlock = $('.js-warning-cookies'),
             $warningClose = $(".js-warning-cookies-close"),
             $warningStyles = $(".js-warning-cookies-styles");
 
-        $warningClose.on('click', function () {
+        $warningClose.click(function(){
             set_cookie('warning-cookies', 1, 999999999);
             $warningBlock.detach();
             $warningStyles.detach();
