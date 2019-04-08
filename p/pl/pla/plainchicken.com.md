@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plainchicken.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925183439id_/http%3A//www.plainchicken.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plainchicken.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408053257id_/http%3A//www.plainchicken.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Plain Chicken
+# Privacy Policy | Plain Chicken®
 
 Plain Chicken (www.plainchicken.com) (“Website”) is governed by the following Privacy Policy.  
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website.  
