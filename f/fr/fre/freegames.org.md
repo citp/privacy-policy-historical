@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freegames.org privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525024556id_/http%3A//freegames.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames.org privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408040509id_/https%3A//freegames.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FreeGames.org
+# FreeGames.org Privacy Policy | FreeGames.org
 
 Here at FreeGames.org your privacy is important to us. That is why we have created this page to outline the information we collect and store about visitors to our website.
 
@@ -14,7 +14,7 @@ For our statistics FreeGames.org logs vistor pageviews and some limited informat
 
 ## Rating Games
 
-If you rate one of the games on our site your IP address will be logged. The sole purpose of this is to check that the same user doesn't rate a game more than once.
+If you rate one of the games on our site your IP address will be logged. The sole purpose of this is to check that the same user doesn’t rate a game more than once.
 
 ## Email Enquiries
 
@@ -22,7 +22,7 @@ In order to use our contact form you must enter your name, email address and mes
 
 ## Game Cookies
 
-There are many games hosted on FreeGames.org that make the use of "cookies". A cookie is a small file of information that the site can access again later on. The main way in which these are used is to save your progess in a game. If you close a page then return to it later on the information held in the cookie lets the game know where you left off so you can continue from that point. Cookies are only used on FreeGames.org to improve your experience of the site and they do not store personal information such as your name.
+There are many games hosted on FreeGames.org that make the use of “cookies”. A cookie is a small file of information that the site can access again later on. The main way in which these are used is to save your progess in a game. If you close a page then return to it later on the information held in the cookie lets the game know where you left off so you can continue from that point. Cookies are only used on FreeGames.org to improve your experience of the site and they do not store personal information such as your name.
 
 ## Links to external websites
 
@@ -30,11 +30,4 @@ On some pages FreeGames.org may link to external websites. If you follow a link 
 
 ## Questions/Complaints
 
-If you have any questions or complaints about our privacy policy please contact us using [this form](http://freegames.org/blog/contact-us/).
-
-[
-
-  
-We need you! I'm working with the Psychology boffins at Bangor University to better understand why people enjoy casual games. Click here to complete a short and fun survey and you could win a Kindle!
-
-](http://www.surveygizmo.eu/s3/90030332/Bangor-gaming-survey?refer=freegames.org)
+If you have any questions or complaints about our privacy policy please contact us using [this form](https://freegames.org/contact/).
