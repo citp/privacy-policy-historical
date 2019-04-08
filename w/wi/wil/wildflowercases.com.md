@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildflowercases.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222034643id_/http%3A//www.wildflowercases.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildflowercases.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408184823id_/http%3A//www.wildflowercases.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Wildflower Cases
 
