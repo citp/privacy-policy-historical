@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicalkenya.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129143513id_/http%3A//www.magicalkenya.com/wp-content/uploads/2017/05/KTB-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicalkenya.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408131050id_/http%3A//www.magicalkenya.com/wp-content/uploads/2017/05/KTB-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
