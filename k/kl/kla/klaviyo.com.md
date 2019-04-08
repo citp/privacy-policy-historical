@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klaviyo.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913061306id_/https%3A//www.klaviyo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klaviyo.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408170127id_/https%3A//www.klaviyo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Klaviyo
+# Privacy Policy | Klaviyo
 
 #### Last updated: May 22, 2018
 
