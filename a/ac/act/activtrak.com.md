@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928014834id_/https%3A//activtrak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408130951id_/https%3A//activtrak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActivTrak
 
