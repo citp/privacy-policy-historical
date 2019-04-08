@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identifix.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601144440id_/https%3A//www.identifix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identifix.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408032334id_/https%3A//www.identifix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Identifix
 
