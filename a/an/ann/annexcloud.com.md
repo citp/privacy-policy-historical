@@ -1,111 +1,278 @@
-> *The following text is extracted and transformed from the annexcloud.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218101847id_/http%3A//www.annexcloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annexcloud.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408051230id_/https%3A//www.annexcloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Annex Cloud Privacy Policy
 
-This page informs you of Social Annex, Inc. (dba Annex Cloud) ("us", "we", or "our") policies regarding the collection, use and disclosure of Personal Information we receive from users of our Services. This privacy policy applies to the Annex Cloud Platform (“Platform”) and the Customer Loyalty, Referral Management, User Generated Content, and Registration services (collectively, the “Services”) provided to customers who have engaged Annex Cloud (“Customers”). We collect Personal Information from Customers and, on behalf of our Customers, from individual end users (“End Users”).
+Effective date: February 21, 2019
 
-We use Personal Information only for providing and improving our Services. By using our Services, you agree to the collection and use of information in accordance with this policy.
+Social Annex, Inc. dba Annex Cloud ("us", "we", or "our") operates the <https://www.annexcloud.com/> website (the "Service").
 
-#### **Personal Information We Collect**
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We collect Personal Information from Customers and, on behalf of our Customers, from individual end users (“End Users”). As part of our Services to our Clients, we provide Consumers the ability to submit images, reviews, questions and answers, and to comment on or rate goods, products and services on websites and mobile applications (collectively, “User-Generated Content”). You should be aware that any information provided in the area that is intended to collect such User-Generated Content will be published on a publicly facing website or mobile application and will be read, collected, and used by Annex Cloud, its subsidiaries, vendors and Clients. User-Generated Content is used for providing Services to our Clients, marketing research, new product development, to personalize or improve our Services, to detect fraudulent activities and for analytical purposes. 
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from <https://www.annexcloud.com/>
 
-We may collect Personal Information from End User’s who: 
+#### **Definitions**
 
-  * 1\. upload user-generated content to Customer digital properties (such as a Customer’s website);
-  * 2\. use Customer hashtags or branded location tags on their social media posts;
-  * 3\. interact with the user galleries and then buy products directly from a Customer digital property.
-  * 4\. engage with a loyalty program which could include sharing on social media, posting recommendations, and reviewing products.
-  * 5\. refer products or services to friends using our Referral services.
+  * ##### **Service**
 
 
 
-We may collect information such as your name, email address and phone number and information regarding your social media accounts. You may, however, use our services without providing such information.
 
-We may collect name and email addresses of referrals (“friends”) gathered as part of our referral services such as Refer A Friend. We store the names and email addresses of referrals, however we do not use this information for any marketing purposes.
+Service is the <https://www.annexcloud.com/> website operated by Social Annex, Inc. dba Annex Cloud 
 
-We may collect information from End Users such as public uploads and posts, including publicly posted photographs, social media username, caption information (if any) and location tag information (if any). When End Users upload user-generated content directly to a Customer digital property, Annex Cloud may collect your name or username and email address, as well as your photo. When End Users interact with the image galleries and then make a purchase directly from a Customer digital property, Annex Cloud may collect purchase information (including purchased product ID, transaction ID, transaction price, date of purchase, unique ID that our Customer may have assigned to you), email and username (if provided by End Users to Customers). Annex Cloud does not collect information from private social media accounts or posts set as private. 
+  * ##### **Personal Data**
 
-####  End User Account Information 
 
-In order to use Annex Cloud Services as part of a Customers digital property, End Users may have to create an account. During the course of creating an account, you may be asked to submit information, such as but not limited to, your name, email address, mailing address or phone number, and other data (collectively, "Customer Account Info"). The Customer Account Info may be collected by both Annex Cloud and the applicable Annex Cloud Customer. Annex Cloud uses Customer Account Info to assist with the creation of an account, to detect fraud and inauthentic content, to personalize your services, to provide you the ability to review, comment on or rate products, or to otherwise create content across Customer digital properties. 
 
-#### Social Media Features 
 
-Our Site includes social media features, including Social Login features. These features may collect your IP address, information about which page you are visiting, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly by our Services. Your interactions with these features are governed by the privacy policy of the social media company providing them. 
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession). 
 
-#### Use of Personal Information
+  * ##### **Usage Data**
 
-Customers: We use the Personal Information we have collected from you to provide you with information about and access to our Services, to communicate with you about updates, maintenance, outages or other technical matters concerning our Services, to respond to your questions or inquiries regarding our Site or Services and to allow you to download information such as whitepapers.
 
-End Users: We only process Personal Information we collect from you to provide the services for which our Customers have engaged us. Our Customers use the information we collect in accordance with their own privacy policies. The Personal Information Annex Cloud collects from End Users helps our Customers communicate with End Users regarding content that they have submitted through our Services, or to administer a promotion, survey or other feature. Furthermore, our Customers to whom you have submitted content through any of Annex Cloud Services or whose brand hashtags or branded location tags you have included in your social media posts, or whose products you have purchased from a Customer digital property after interacting with the user galleries, reviews, or any other user-generated content on those digital properties, may use your username or email address to communicate with you, in addition to using your photo.
 
-We may also use the information we collect automatically from End Users of our Services to improve the Services we offer to our Customers, and to improve marketing, analytics and the functionality of the Services.
 
-We do not sell your name, phone number, email or the email addresses of referrals, to third parties.
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit). 
 
-#### Retention Of Personal Information
+  * ##### **Cookies**
 
-Annex Cloud will retain Personal Information for as long as needed to provide the Services or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-#### Access to Personal Information
 
-Annex Cloud acknowledges that individuals have the right to access the personal information/data that we maintain about them. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to [info@annexcloud.com](mailto:info@annexcloud.com) or (866) 802-8806). If requested to remove data, we will respond within a reasonable timeframe.
 
-#### Log Data
+Cookies are small pieces of data stored on your device (computer or mobile device). 
 
-Like many site operators, we collect information that your browser sends whenever you visit our Site or use our Services ("Log Data"). 
+  * ##### **Data Controller**
 
-This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this data for purposes of analyzing trends, administering the Site and Services, tracking users’ movements around the Site and Services, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by the third parties mentioned above on an individual as well as aggregated basis.
 
-#### Communications 
 
-We may use your Personal Information to contact Customers with newsletters, marketing or promotional materials and other information on an Opt-in basis. If you are a Customer and no longer wish to receive these communications you can follow the unsubscribe instructions contained in those emails or contact us directly (see Contact Us below). 
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed. 
 
-We also occasionally send Customers communications about the functioning of our Services and similar service-related communications when it is necessary or useful to do so. Generally, Customers may not opt-out of these communications. If you do not wish to receive these communications, you have the option to deactivate your account, or provide an alternative email address for contact by contacting us at [privacy@annexcloud.com](mailto:privacy@annexcloud.com).
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data. 
 
-#### Cookies
+  * ##### **Data Processors (or Service Providers)**
 
-Cookies are files with small amounts of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer's hard drive.
 
-We use cookies to analyze End User interactions with our Services and purchases on the digital properties of those Customers who have chosen to implement them. End Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use the Services, but your ability to use some features or areas of our Services may be limited. 
 
-Because there is not yet a common understanding of how to interpret web browser-based “Do Not Track” (“DNT”) signals other than cookies, we do not currently respond to undefined “DNT” signals to the Site.
 
-#### Third Party Data
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller. 
 
-Annex Cloud uses cookies or similar technologies from third party providers to assist us with analyzing site traffic, help us determine the effectiveness of content on our site, and related activities. 
+We may use the services of various Service Providers in order to process your data more effectively. 
 
-We disclose certain data collected by our Services, (e.g. User-Generated Content) as well as consumer Account Info and aggregated and anonymized data to third-party service providers (e.g. data storage and processing facilities, email service providers, ) in order for those service providers to perform business functions for us or on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us.
+  * ##### **Data Subject (or User)**
 
-We disclose User-Generated Content, Customer Account Info and aggregated and anonymized data to our partners for use in their products and services. For example, we provide reviews about retailers to Google for use in Google's products and services such as AdWords. If you do not want us to share your personal information with these companies, you may opt-out as described in this policy. 
+Data Subject is any living individual who is using our Service and is the subject of Personal Data. 
 
-Annex Cloud may rely on third parties to transfer personal information. Only information that is in the specific scope of use as outlined in this privacy policy, and has affirmative consent, will be transferred. All third party’s used by Annex Cloud are under contract and required to comply with US-EU Privacy Shield principles as described below. Annex Cloud will take steps that are appropriate and reasonable to make sure that the third party is actually complying with these principles. These steps may include monitoring and evaluating mechanisms. To learn more about the Privacy Shield program, please visit <https://privacyshield.gov/>
+#### Information Collection and Use 
 
-#### Security 
+We collect several different types of information for various purposes to provide and improve our Service to you. 
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+#### Types of Data Collected
 
-#### Business Transfer 
+##### **Personal Data**
 
-In the event that Annex Cloud - or substantial portion of all of its assets - are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, such databases containing Personal Information may be one of the transferred assets. In the event of such a transfer, Annex Cloud will place a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to: 
 
-#### Important Notices to Non-United States Residents 
+    * Email address
+    * First name and last name
+    * Phone number
+    * Cookies and Usage Data
 
-It is important to note that the Site is operated in the United States. If you are located outside of the United States, please be aware that any visitor information you provide to us will be transferred to the United States. By using the Site and/or providing us with your visitor information, you consent to this transfer. 
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send. 
 
-#### Changes To This Privacy Policy 
+##### **Usage Data**
 
-This Privacy Policy is effective as of the date stated at the top of this policy, and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. 
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data. 
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. 
+##### **Tracking & Cookies Data**
 
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. 
 
-#### Contact Us 
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service. 
 
-If you have any questions about this Privacy Policy, please contact us at [info@annexcloud.com](mailto:info@annexcloud.com) or by mailing us at the following address:
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. 
 
-Annex Cloud, Inc., 5301 Beethoven St #260, Los Angeles, CA 90066, USA Phone: 1 (866) 802-8806 
+Examples of Cookies we use:
+
+    * **Session Cookies.** We use Session Cookies to operate our Service.
+    * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+    * **Security Cookies.** We use Security Cookies for security purposes.
+
+#### Use of Data
+
+Social Annex, Inc. dba Annex Cloud uses the collected data for various purposes:
+
+    * To provide and maintain our Service
+    * To notify you about changes to our Service
+    * To allow you to participate in interactive features of our Service when you choose to do so
+    * To provide customer support
+    * To gather analysis or valuable information so that we can improve our Service
+    * To monitor the usage of our Service
+    * To detect, prevent and address technical issues
+    * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+#### Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Social Annex, Inc. dba Annex Cloud legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Social Annex, Inc. dba Annex Cloud may process your Personal Data because:
+
+    * We need to perform a contract with you
+    * You have given us permission to do so
+    * The processing is in our legitimate interests and it's not overridden by your rights
+    * To comply with the law
+
+#### Retention of Data
+
+Social Annex, Inc. dba Annex Cloud will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies. 
+
+Social Annex, Inc. dba Annex Cloud will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods. 
+
+#### Transfer of Data 
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. 
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there. 
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+
+Social Annex, Inc. dba Annex Cloud will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information. 
+
+#### Disclosure of Data
+
+##### **Business Transaction**
+
+If Social Annex, Inc. dba Annex Cloud is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy. 
+
+##### **Disclosure for Law Enforcement**
+
+Under certain circumstances, Social Annex, Inc. dba Annex Cloud may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency). 
+
+##### **Legal Requirements**
+
+Social Annex, Inc. dba Annex Cloud may disclose your Personal Data in the good faith belief that such action is necessary to: 
+
+    * To comply with a legal obligation
+    * To protect and defend the rights or property of Social Annex, Inc. dba Annex Cloud
+    * To prevent or investigate possible wrongdoing in connection with the Service
+    * To protect the personal safety of users of the Service or the public
+    * To protect against legal liability
+
+#### Security of Data
+
+The security of your data is important to us but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security. 
+
+#### "Do Not Track" Signals 
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. 
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser 
+
+#### Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Social Annex, Inc. dba Annex Cloud aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. 
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us. 
+
+In certain circumstances, you have the following data protection rights: 
+
+    * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you. 
+    * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+    * **The right to object.** You have the right to object to our processing of your Personal Data.
+    * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+    * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+    * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Social Annex, Inc. dba Annex Cloud relied on your consent to process your personal information.
+
+Please note that we may ask you to verify your identity before responding to such requests. 
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA). 
+
+#### Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. 
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+
+In the context of onward transfers of data to third parties, Annex Cloud has responsibility for the processing of personal information it receives under Privacy Shield and subsequently transfers to a third party acting as an agent on our behalf. Annex Cloud shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless Annex Cloud proves it is not responsible for the event giving rise to damage. 
+
+#### Analytics 
+
+We may use third-party Service Providers to monitor and analyze the use of our Service. 
+
+##### **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. 
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+#### Behavioral Remarketing 
+
+Social Annex, Inc. dba Annex Cloud uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service. 
+
+    * ##### **Google AdWords**
+
+Google AdWords remarketing service is provided by Google Inc. 
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page:<http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+    * ##### **Facebook**
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook:<https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA  <https://www.aboutads.info/choices/>,the Digital Advertising Alliance of Canada in Canada [ ](http://youradchoices.ca/) or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. 
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy:<https://www.facebook.com/privacy/explanation>
+
+
+
+
+#### Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit 
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services. 
+
+#### Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children"). 
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers. 
+
+#### Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. 
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy. 
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. 
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+#### Social Annex, Inc. adheres to the Privacy Shield Principles.
+
+##### **Privacy Policy: EU-US and Swiss-US Privacy Shields**
+
+Social Annex, Inc. complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries and Switzerland, respectively. Social Annex, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Social Annex, Inc. commits to resolve complaints about privacy and our collection or use of your personal information. European Union and/or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Social Annex, Inc at:[ info@annexcloud.com ](mailto:info@annexcloud.com) or (866-802-8806) 
+
+Social Annex, Inc has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to ICDR/AAA, an alternative dispute resolution provider located in the United States and operated by the International Centre for Dispute Resolution, American Arbitration Association. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [ http://go.adr.org/privacyshield.html ](http://go.adr.org/privacyshield.html) for more information and to file a complaint. 
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
+
+Social Annex, Inc. is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). In certain situations, Social Annex, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+#### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us: 
+
+  * By email: [privacy@annexcloud.com](mailto:privacy@annexcloud.com)
+
+
