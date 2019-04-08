@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229110303id_/https%3A//www.sutherlandglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408041219id_/https%3A//www.sutherlandglobal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sutherland Global Services
+# Privacy Policy | Sutherland
+
+###### Last Updated: February 27, 2019
 
 #### Introduction
 
@@ -10,26 +12,21 @@ We at Sutherland Global Services, Inc. and our Affiliated Companies worldwide ("
 
 Sutherland’s Privacy Policy outlines how Sutherland collects, uses, shares, and secures your Personal Data. This policy also describes your choices regarding use, access, and correction of Personal Data.
 
-  
+In furtherance of the Sutherland’s commitment to this Policy, Sutherland has certified to adhere to the Privacy Principles set forth in the EU-US Privacy Shield and with the General Data Privacy Regulation regarding Personal Data related to customer, partners or employees of the Company resident in the European Economic Area and processed in support of the Company’s. Company adheres to the Privacy Shield principles as respectively agreed to by the U.S. Department of Commerce and the European Commission. With respect to Personal Data received or transferred pursuant to Privacy Shield, Sutherland is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
+For additional details, please refer to the Privacy Shield section of this Policy.
 
 #### Personal Data
 
 Personal Data is any data relating to an identified or identifiable natural person. Your name, address, phone number and bank account number are examples of Personal Data.
 
-  
-
-
 #### Personal Data that we process and for what purposes
 
 Sutherland processes your Personal Data to ensure the efficiency and effectivity of Sutherland business relationships, commercial transactions, marketing and employment practices. Processing will always be based on legitimate grounds or your consent.
 
-  
-
-
 #### Collection and Use of Personal Data
 
-Sutherland may collect Personal Data (which covers any data that may be used to identify an individual) from you when you visit Sutherland website. The type of Personal Data collected and their Purpose of Use include (but are not limited to) the items outlined in the table below as follows:  
+Sutherland may collect Personal Data (which covers any data that may be used to identify an individual) from you when you visit Sutherland website. The type of Personal Data collected and their Purpose of Use include (but are not limited to) the items outlined in the table below as follows:  
 
 **Personal Data Type Collected** |  **Purpose of Use**  
 ---|---  
@@ -170,35 +167,21 @@ If Sutherland intends to use and transfer of Personal Data for purposes beyond o
 
 In addition, Sutherland may need to transfer Personal Data within Sutherland or to Sutherland's third-party service providers, across borders, outside of your country or jurisdiction around the world pursuant to our processes.
 
-  
-
-
 #### Choice
 
-The choice of whether  to provide Personal Data to Sutherland is up to you. The notice Sutherland provides when it collects Personal Data which will assist in how you prefer to allow us to use your Personal Data. When you do not want to provide your Personal Data, you can still visit most Sutherland's websites,.
-
-however, please note that you may be unable to access certain options, offers, and services that involve our interaction with you. If you chose to have a relationship with Sutherland, such as a contractual or other business relationship or partnership, Sutherland will naturally continue to contact you in connection with that business relationship.
+The choice of whether to provide Personal Data to Sutherland is up to you. The notice Sutherland provides when it collects Personal Data which will assist in how you prefer to allow us to use your Personal Data. When you do not want to provide your Personal Data, you can still visit most of Sutherland's websites; however, please note that you may be unable to access certain options, offers, and services that involve our interaction with you. If you chose to have a relationship with Sutherland, such as a contractual or other business relationship or partnership, Sutherland will naturally continue to contact you in connection with that business relationship.
 
 You may sign-up and consent to receive email or newsletter communications from Sutherland. If you would like to discontinue receiving these communications, you may update your preferences by using the “Unsubscribe” link found in emails or by contacting Sutherland using the information in the “Contact Data” section of this Policy.
 
-  
-
-
 #### Cookies and Other Tracking Technologies
 
-This site uses cookies to store information on your computer. Some are essential to make Sutherland site work; others help Sutherland improve the user experience. A "cookie" is a small text file that may be used, for example, to collect data about website activity. Some cookies and other technologies may serve to recall Personal Data previously indicated by a web user. For greater details, please refer to Sutherland [Cookie Policy](https://web.archive.org/cookie-policy) to learn more.
+This site uses cookies to store information on your computer. Some are essential to make Sutherland site work; others help Sutherland improve the user experience. A "cookie" is a small text file that may be used, for example, to collect data about website activity. Some cookies and other technologies may serve to recall Personal Data previously indicated by a web user. For greater details, please refer to Sutherland [Cookie Policy to learn more](https://www.sutherlandglobal.com/cookie-policy).
 
-If you wish to opt out of interest-based advertising, [click here](http://preferences-mgr.truste.com/) or if located in the European Union, [click here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
-
-  
-
+If you wish to opt out of interest-based advertising, click [here](http://preferences-mgr.truste.com/) or if located in the European Union, click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
 
 #### Log Files
 
 Log files may record data such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; internet service provider, clickstream patterns; the files viewed on Sutherland website (e.g., HTML pages, graphics, etc.), referring and exit pages and dates and times that Sutherland site is accessed to analyze trends in the aggregate and administer the site.
-
-  
-
 
 #### Security
 
@@ -206,45 +189,27 @@ Wherever your Personal Data may be held within Sutherland or on its behalf, Suth
 
 If you have any questions about the security of your Personal Data, you can contact Sutherland at privacy@sutherlandglobal.com.
 
-  
-
-
 #### Legal
 
 Sutherland may be required to disclose Personal Data in connection with a lawful request from law enforcement, public authorities, or other national security request.
 
 Sutherland may also disclose your Personal Data as required by law, such as to comply with a subpoena or other legal process, when Sutherland believes in good faith that disclosure is necessary to protect Sutherland’s rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-  
-
-
 #### Data Retention
 
 Sutherland will not store your data longer than necessary for the purpose for which we have processed your data. How long we retain your data depends on the type of data and the purpose for which we process your data.
 
-  
-
-
 #### Data Subject Rights
 
-To exercise any of the following rights, please contact us at marketing@sutherlandglobal.com
-
-  
-
+To exercise any of the following rights, please contact us at marketing@sutherlandglobal.com.
 
 #### Right to Request Access
 
 You may request details of Personal Data which Sutherland holds about you. Upon request, Sutherland will provide a copy of such Personal Data within a reasonable timeframe. If you would like a copy of your Personal Data Sutherland maintains, please write to us at marketing@sutherlandglobal.com.
 
-  
-
-
 #### Right to Rectification
 
 If you believe that any Personal Data Sutherland is holding about you is incorrect or incomplete, please contact Sutherland as soon as possible, at the address below. Sutherland will promptly correct any Personal Data found to be incorrect.
-
-  
-
 
 #### Right to Object
 
@@ -257,9 +222,6 @@ You may choose to object to the collection or use of your Personal Data:
 
 Please note that your objection may be overridden by the legitimate interests of Sutherland to process and collect your Personal Data.
 
-  
-
-
 #### Right to Erasure
 
 To the extent legally permissible, you may be entitled to have certain Personal Data erased in the following circumstances:
@@ -269,7 +231,6 @@ To the extent legally permissible, you may be entitled to have certain Personal 
   * The Personal Data has been unlawfully processed
   * The Personal Data has reached the maximum defined retention period to be erased or for compliance with a legal obligation to which Sutherland is subject
 
-  
 
 
 #### Right to Restriction of Processing
@@ -281,22 +242,17 @@ You may have the right to restrict further processing of your Personal Data in t
   * The Personal Data Sutherland has reached the defined retention period no longer needs the Personal Data for the purposes of the processing, but you require the Personal Data to establish, exercise, or defend legal claims.
   * You object to the processing and the processing of your Personal Data may be restricted pending the verification of the legitimacy of Sutherland’s grounds to override your rights as a data subject.
 
-  
 
 
 #### Right to Portability
 
 You have the right to receive your Personal Data in a structured, commonly used and machine-readable format.  Sutherland will assist in the transmission of such data to another entity, upon request, to the extent technically feasible.
 
-  
-
-
 #### Sharing with Service Providers
 
+We may share your Personal Data as described, and for the purposes identified, under the “Collection and Use of Personal Data” section above with third-party service providers who provide us services that assist Sutherland in its business activities which may include marketing, advertising our product/service offerings,  customer support, recruiting and management of employee data, payroll support, maintaining and improving our service offerings, and cloud services infrastructure, among other things.  
+
 Service providers provide certain services available on www.sutherlandglobal.com on Sutherland's behalf. Sutherland may provide data, including Personal Data, which Sutherland collects on the web, through third-party service providers to help it deliver programs, products, data, and services. Service providers are also an important means by which Sutherland maintains its website and mailing lists. These service providers are authorized to use your Personal Data only as necessary to provide these services to us.
-
-  
-
 
 #### Children's Privacy
 
@@ -304,28 +260,42 @@ Sutherland’s website is a general audience website. Accordingly, Sutherland do
 
 #### Commitment
 
-Sutherland is committed to privacy. Protecting your privacy online is an evolving area, and this  website is constantly evolving to meet these demands.
+Sutherland is committed to privacy. Protecting your privacy online is an evolving area, and this website is constantly evolving to meet these demands.
 
-If you have any comments or questions regarding Sutherland’s [Privacy Policy](https://web.archive.org/privacy-policy) please contact Sutherland at privacy@sutherlandglobal.com. While Sutherland cannot guarantee privacy perfection, Sutherland will address any issue to the best of its abilities as soon as possible.
+If you have any comments or questions regarding Sutherland’s Privacy Policy, please contact Sutherland at [privacy@sutherlandglobal.com](mailto:privacy@sutherlandglobal.com).  While Sutherland cannot guarantee privacy perfection, Sutherland will address any issue to the best of its abilities as soon as possible.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at:  
-<https://feedback-form.truste.com/watchdog/request>
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-  
+#### EU-U.S. Privacy Shield
 
+Sutherland and the following subsidiaries, Sutherland Healthcare Solutions Inc., Sutherland Government Solutions Inc., Nuevora Inc., Sutherland Global Services New York Inc., SGS USA Inc., Adventity Inc., Sutherland Global Collection Services LLC, Sutherland Mortgage Services Inc., Sutherland Global Services SPV Inc. and Sutherland Global Holdings Inc. participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework.  We are committed to subjecting all Personal Data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov
+
+Sutherland is responsible for the processing of Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  We comply with the Privacy Shield Principles for all onward transfers of Personal Data from the EU, including the onward transfer liability provisions.
+
+With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, Sutherland is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. Anent the discussion under the Legal heading above, in certain situations, we may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website, <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.  
 
 #### Contact Data
 
-Sutherland Global Services Inc.  
-1160 Pittsford Victor Road  
-Pittsford, NY 14534  
-Facsimile: 585-419-3717
+Sutherland Data Privacy Office
 
-  
+Attention. Chief Data Privacy Officer
 
+Sutherland Global Services Inc.,
+
+1160 Pittsford Victor Road
+
+Pittsford, NY 14534
+
+privacy@sutherlandglobal.com
 
 #### Changes to This Privacy Policy
 
 You should review this Privacy Policy on a routine basis as Sutherland reserves the right change this Privacy Policy, or any portion thereof, an updated version of our Privacy Policy will be posted to our website.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=749d4c88-fbe4-41e3-adf4-437089a494a7)
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=04143508-7b45-42e8-a0e9-a4a77b9a5cc0)
