@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templates.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624135959id_/https%3A//www.templates.com/pages/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templates.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408082207id_/https%3A//www.templates.com/pages/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Templates.com Privacy Policy - Templates
 
@@ -58,7 +58,7 @@ Templates.com may otherwise disclose your personal information when:
 
 **Consent**
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Templates.com. If you have provided personal information to Templates.com and no longer consent to its use or disclosure as outlined herein, please notify Templates.com at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Templates.com. If you have provided personal information to Templates.com and no longer consent to its use or disclosure as outlined herein, please notify Templates.com at privacy@templates.com.
 
 **Security**
 
