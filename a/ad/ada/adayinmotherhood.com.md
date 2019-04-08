@@ -1,99 +1,85 @@
-> *The following text is extracted and transformed from the adayinmotherhood.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122184800id_/https%3A//www.adayinmotherhood.com/anti-spam_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adayinmotherhood.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408152103id_/https%3A//www.adayinmotherhood.com/anti-spam_policy) for the most accurate reproduction.*
 
 # Privacy Policy/ Disclaimer - A Day in Motherhood
 
-A Day in Motherhood prohibits the use of their website and/or services in any manner associated with the transmission, distribution or delivery of any unsolicited bulk or unsolicited commercial e-mail ("Spam"). You may not use any A Day in Motherhood services to send Spam. You also may not deliver Spam or cause Spam to be delivered to any customers of A Day in Motherhood.
+This privacy policy applies to the use of the A Day in Motherhood family of websites.
 
-In compliance with the CAN-SPAM Act of 2003 (15 U.S.C. 7701, et seq., Public Law No. 108-187, was S.877 of the 108th United States Congress), e-mail sent, or caused to be sent, to or through the A Day in Motherhood webiste or service may not:
+https://www.ADayinMotherhood.com
 
-  * use or contain invalid or forged headers;
-  * use or contain invalid or non-existent domain names;
-  * employ any technique to otherwise misrepresent, hide or obscure any information in identifying the point of origin or the transmission path;
-  * use other means of deceptive addressing;
-  * use a third party's internet domain name, or be relayed from or through a third party's equipment, without permission of the third party;
-  * contain false or misleading information in the subject line or otherwise contain false or misleading content;
-  * fail to comply with additional technical standards described below;
-  * otherwise violate our Terms of Use.
+We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
+### Comments
 
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-A Day in Motherhood does not authorize the harvesting, mining or collection of e-mail addresses or other information from or through the website or its services. A Day in Motherhood does not permit or authorize others to use the A Day in Motherhood services to collect, compile or obtain any information about its customers or subscribers, including but not limited to subscriber e-mail addresses. 
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-A Day in Motherhood does not permit or authorize any attempt to use its services in a manner that could damage, disable, overburden or impair any aspect of any of the services, or that could interfere with any other party's use and enjoyment of any A Day in Motherhood service.
+### Media
 
-If A Day in Motherhood believes that unauthorized or improper use is being made of any service, it may, without notice, take such action as it, in its sole discretion, deems appropriate, including blocking messages from a particular internet domain, mail server or IP address. A Day in Motherhood may immediately terminate any account on any service which it determines, in its sole discretion, is transmitting or is otherwise connected with any e-mail that violates this policy.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Nothing in this policy is intended to grant any right to transmit or send e-mail to, or through, the A Day in Motherhood website and/or services. Failure to enforce this policy in every instance does not amount to a waiver of A Day in Motherhood's rights.
+### Log Files and Cookies
 
-Unauthorized use of any A Day in Motherhood services in connection with the transmission of unsolicited e-mail, including the transmission of e-mail in violation of this policy, may result in civil, criminal, or administrative penalties against the sender and those assisting the sender. 
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Violators of the CAN SPAM Act may be subject to “cease and desist” orders or penalties from the FTC (Federal Trade Commission) of up to $11,000 per violation. Criminal prosecution is also possible in the case of egregious offenders, which can result in penalties such as fines, forfeiture of proceeds and equipment. The worst offenders can also be subject to prison time.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-A Day in Motherhood  
-http://192.138.17.90/~adayinm/
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-lomargie@rfehosting.com
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-**Giveaway/ Review Disclaimer**
+This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
 
-_**[ADayinMotherhood.com](https://web.archive.org/web/20180122184800id_/https%3A//2011/) is the writer and distributor of  posts, reviews, giveaways, deals and any other material presented {unless otherwise indicated}.  100% of the opinions and writings are [ADayinMotherhood.com’s](https://web.archive.org/web/20180122184800id_/https%3A//2011/) and can not be duplicated without prior permission.  Images and links were used with permission from the website/ promoters discussed. **_
+### With respect to Ad Servers
 
-_**[ADayinMotherhood.com](https://web.archive.org/web/20180122184800id_/https%3A//2011/) is not responsible for the delivery of the winners prizes.  All complaints  and dissatisfactions with the website or products within are to be discussed with the sponsoring company. **_
+To try and bring you offers that are of interest to you, we have relationships with other companies like Google (www.google.com/adsense http://www.google.com/adsense ) that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, browser used, interest categories based on information collected from web surfing habits, or if you have Flash installed and clickstream information. For further information, consult the privacy policy of:  
+http://www.google.com/privacy.html
 
-_**Giveaway winners are chosen by a random generator and failure to follow the rules of entry disqualifies that entry.**_ _ **By entering this giveaway, you understand and agree that[ADayinMotherhood.com](https://web.archive.org/web/20180122184800id_/https%3A//2011/) is is no way responsible for the production, delivery, or quality of the received product.**_
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Privacy Policy**
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
+We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
 
-When accessing our Website, A Day in Motherhood will learn certain information about you during your visit.
+### Links to Other Websites
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
 
-**What Are Cookies?**
+### Registration and Use of Personal Information
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.  
-**IP Addresses**
+Registration is not required in order to use or access this website.
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.  
-**Email Information**
+### How Long We Retain Your Data
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.  
-**How Do We Use the Information That You Provide to Us?**
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-A Day in Motherhood will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+### What Rights You Have Over Your Data
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-**  
-A Special Note About Children**
+### Where We Send Your Data
 
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.  
-**How Do We Protect Your Information and Secure Information Transmissions?**
+Visitor comments may be checked through an automated spam detection service.
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .
 
-A Day in Motherhood may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+### Security
 
-For site security purposes and to ensure that this service remains available to all users, A Day in Motherhood uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
-**Policy Changes**
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
 
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+You may submit any questions you may have about our security procedures by emailing us at lori@adayinmotherhood.com
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+### Legal Disclaimer
 
-**  
-Contact**
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial  
+proceeding, court order or legal process served on our website.
 
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+### Contact Details
 
-A Day in Motherhood  
-www.adayinmotherhood.com
+If you have any questions or concerns regarding this privacy policy, or you wish to contact us please email us at:
 
-lomargie@rfehosting.com
+lori at a day in motherhood dot com
 
-**Links Disclaimer**
-
-The A Day in Motherhood web site may contain links to many other web sites. A Day in Motherhood cannot guarantee the accuracy of information found at any linked site. Links to or from external web sites sites not owned or controlled by A Day in Motherhood does not constitute an endorsement by A Day in Motherhood or any of its employees of the sponsors of these sites or the products or information presented there.
+This privacy policy was last updated on 05-23-2018.
