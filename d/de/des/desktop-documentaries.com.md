@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928162122id_/http%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktop-documentaries.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408074748id_/https%3A//www.desktop-documentaries.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ If Desktop-Documentaries.com is sold, the information we have obtained from you 
 
 ### **How You Can Correct or Remove Information**
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](http://www.desktop-documentaries.com/contact.html) page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](https://www.desktop-documentaries.com/contact.html) page.
 
 * * *
 
