@@ -1,0 +1,479 @@
+<!--The following is the downloaded HTML source of the elevatedx.com privacy policy that was archived on 2019-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190408143103id_/https%3A//www.elevatedx.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
+
+<link rel="icon" type="image/png" href="https://elevatedx.com/images/favicon3.png">
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Elevated X: Leading Adult CMS Software &amp; Hosting Plans</title>
+	<meta name="description" content="ElevatedX Privacy Policy">
+	<meta name="author" content="Elevated X, sales@elevatedx.com">
+	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->
+
+	<!-- Mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<!-- CSS -->
+	
+	<link href="//fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.0/animate.min.css">
+	
+	<link rel="stylesheet" href="js/flexslider/flexslider.css">
+	
+	<link rel="stylesheet" href="css/base.css?v=2.0">
+	<link rel="stylesheet" href="css/style.css?v=2.0">
+	<link rel="stylesheet" href="css/responsive.css?v=2.0">
+
+	<!-- Favicons -->
+	<!--<link rel="shortcut icon" href="/favicon.ico">-->
+
+	<!-- jQuery Stuff -->
+	<script type="text/javascript" src="js/modernizr.js"></script><!--//modernizr-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.11.1.min.js"><\/script>')</script><script src="js/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script><!--//jquery migrate-->
+	
+	<script type="text/javascript" src="js/jquery.meanmenu.min.js"></script><!--//meanmenu-->
+	<script type="text/javascript" src="js/flexslider/jquery.flexslider-min.js"></script><!--//flexslider-->
+	
+	<!-- Owl Carousel CSS and JS Assets -->
+	<link href="js/carousel/owl.carousel.css" rel="stylesheet">
+	<link href="js/carousel/owl.theme.css" rel="stylesheet">
+	<script src="js/carousel/owl.carousel.min.js"></script>
+	
+	<script type="text/javascript" src="js/custom.js"></script><!--//custom jquery-->
+	<!--[if lt IE 9]><script src="js/jq.respond.js"></script><![endif]--><!--//IE responsive web design-->
+</head>
+<body>
+<!--[if lt IE 7]><p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p><![endif]-->
+
+<div class="demo-area">
+	<div class="demo_overlay"></div>
+	<div class="demo">
+		<a href="#close" class="demo_close">X</a>
+
+		<script>
+		var subm = 0;
+		function registerfunc(v)
+		{
+		  if (subm == 1)
+		  {
+			  return false;
+		  }
+
+		  subm = 1;
+		    
+		  $.post("ajax_register.php", { name: v.email.value, email: v.email.value },
+		   function(data) {
+			 if (data == 1)
+		     {
+				//alert("A password has been emailed to you.\n\nBe sure to check your spam folder. \n\nIf you don't receive the email please email sales@elevatedx.com");
+				var outputMsg = "A password has been emailed to you.<br/><br/>Be sure to check your spam folder. <br/><br/>If you don't receive it, please email <a href='mailto:sales@elevatedx.com'>sales@elevatedx.com</a>";
+				$(".message_box p#outputMsg").html(outputMsg);
+				$(".message-overlay").fadeIn();
+
+				v.email.value = "";
+				$(".trigger_demologin").click();
+		     }
+		     else
+		     {
+		        //alert("Error: " + data);
+		        var outputMsg = "Error: " + data;
+		        $(".message_box p#outputMsg").html(outputMsg);
+				$(".message-overlay").fadeIn();
+		        subm = 0;
+		     }
+		   });
+
+		  return false;
+		}
+
+		</script>
+
+		<form onsubmit="return registerfunc(this)">
+			<h2>View a live demo of Elevated X</h2>
+
+			<input autocomplete="new-email" name="email" type="email" class="inputTxt" placeholder="Email address">
+
+			<input type="submit" class="inputSubmit" value="Send demo password">
+
+			<br>No spam - your email address is safe.
+			
+			<br>	<br>
+
+			Already have a password? <a href="#login" class="trigger_demologin"><strong>Click here to login</strong></a>
+
+		</form>
+	</div><!--//demo-->
+</div><!--//demo-area-->
+
+<script>
+jQuery(function($) {
+	$('a.close_message_box').click(function(e){
+		e.preventDefault();
+		$('.message-overlay').fadeOut();
+	});
+});
+</script>
+<div class="message-overlay" style="display:none;">
+	<div class="middle">
+		<div class="message_box">
+			<a href="#close" class="close_message_box">X</a>
+			<h3>Elevated X Demo Sign-Up</h3>
+			<p id="outputMsg"></p>
+		</div>
+	</div>
+</div><div class="demologin-area">
+	<div class="demologin_overlay"></div>
+	<div class="demo">
+		<a href="#close" class="demologin_close">X</a>
+
+<script>
+function loginfunc(v)
+{
+  $.post("ajax_login.php", { login: v.email.value, password: v.password.value },
+   function(data) {
+     if (data == 1)
+     {
+		document.location = "demoareas.php";
+     }
+     else
+     {
+        alert("Error: " + data);
+     }
+   });
+
+  return false;
+}
+
+</script>
+
+<form name="loginfrm" onsubmit="return loginfunc(this)">
+
+			<h2>Elevated X CMS demo</h2>
+
+			<p class="last">Login to see the award winning Elevated X CMS in action.</p>
+
+			<input autocomplete="off" name="email" class="inputTxt" placeholder="Email address">
+			<input autocomplete="new-password" name="password" type="password" class="inputTxt" placeholder="Password">
+
+			<input type="submit" class="inputSubmit" value="Login">
+
+
+			<p class="last">Forgot your password? <a href="#demo" class="trigger_demo"><strong>Click here to request a new one</strong></a></p>
+
+		</form>
+	</div><!--//demologin-->
+</div><!--//demologin-area-->
+<div id="header">
+	<div class="wrapper">
+
+		<div id="logo">
+			<h1>
+				<a href="index.php" title="Elevated X">
+					<img src="images/logo.png" alt="Elevated X">
+					<span class="hide">Elevated X</span>
+				</a>
+			</h1>
+		</div><!--//logo-->
+		
+		<nav>
+			<ul>
+				<li><a href="about.php" class="">About</a></li>
+				<li><a href="customers.php" class="">Customers</a></li>
+				<li><a href="features.php" class="">Features</a></li>
+				<li><a href="themes.php" class="">Themes</a></li>
+				<li><a href="pricing.php" class="">Pricing</a></li>
+				
+
+
+								<li><a href="#demo" class="trigger_demo">Demo</a></li>
+							</ul>
+		</nav><!--//menu-->
+	
+	</div><!--//wrapper-->
+</div><!--//header-->
+<div class="header-spacer"></div>
+
+<div class="clear"></div>
+
+<style>
+.section li {margin-top:5px; list-style-position:inside; list-style-type:disc; text-indent:-2em; padding-left:2em; line-height:130%; }
+.red {color: #ff0000;}
+</style>
+
+<div class="section text-center noBottomPadding animated fadeInDown" id="intro" data-animation="fadeInDown" style="opacity: 0;">
+	<div class="wrapper">
+	
+		<h2>ElevatedX.com Privacy Policy</h2>
+		<h4>Last Updated: May 15, 2018</h4>
+	
+	</div><!--//wrapper-->
+</div><!--//section intro-->
+
+<div class="section animated fadeInDown" data-animation="fadeInDown" style="opacity: 0;">
+	<div class="wrapper">
+
+<p>Elevated X, Inc. (the "Company") respects your privacy and is committed to protecting it through this privacy policy (the "policy"). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at www.elevatedx.com or support.elevatedx.com (collectively, the "Website") and the Company's practices for collecting, using, keeping, protecting, and disclosing that information.</p>
+<p><strong>This policy applies to information the Company collects:</strong></p>
+<ul>
+	<li>On the Website (including desktop and mobile versions).</li>
+	<li>In email, text, and other electronic messages between you and the Company.</li>
+	<li>When you interact with the Company's advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.</li>
+	<li>When you interact with the Website through third-party social media platforms. It does not apply to information collected by:</li>
+	<li>the Company offline or through any other means, including on any other website operated by the Company or any third party (including the Company's affiliates and subsidiaries); or</li>
+	<li>any third party (including the Company's affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from (or on) the Website.</li>
+</ul>
+
+<p></p>
+
+<div style="border:1px solid #808080;padding:8px; line-height:130%;">
+	<span class="red">Important:</span> Please read this policy carefully to understand the Company's policies and practices regarding your information and how the Company will treat it. If you do not agree with the Company's policies and practices, your choice is not to use the Website. <span class="red">By accessing or using the Website, you agree to this policy and consent to the Company's collection, use, disclosure, retention, and protection of your personal information as described in this policy.</span> The Company may change this policy on one or more occasions. The Company will consider your continued use of the Website after the Company makes changes as your acceptance of the changes, so please check this policy frequently for updates.
+</div>
+
+<p></p>
+<p><strong>1. Are minors welcome?</strong></p>
+<p>The Company does not collect or solicit any information from anyone under the age of 13 or allow people under the age of 13 to register for the Website. The Website and its content are not directed at children under the age of 13. If the Company learns that it has collected personal information from a child under age 13 without parental consent, the Company will delete that information as quickly as possible. If you believe that the Company might have any information from or about a child under 13, please contact the Company.</p>
+<p><strong>2. What types of information does the Company collect about you and how is it collected?</strong></p>
+<p>The Company may collect several types of information from and about users of the Website, including information:</p>
+<ul>
+	<li>by which you may be personally identified, including your company name, job title, address, phone number, billing and delivery information, email address, credit card information, or any other information that the Company collects that is defined as personal or personally identifiable information under law ("personal information");</li>
+	<li>that is about you but individually does not identify you, including your location or any other optional information you provide about yourself; or</li>
+	<li>about your Internet connection, the equipment you use to access the Website, and traffic and usage details. The Company collects this information:</li>
+	<li>Directly from you when you provide it to the Company.</li>
+	<li>Automatically as you navigate through the Website. Information collected automatically may include usage details, browser agent, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.</li>
+	<li>From third parties, for example, the Company's business partners.<br>
+	<br></li>
+</ul>
+
+<p></p>
+<p><strong>Information You Provide to the Company</strong></p>
+<p>The information the Company collects on or through the Website may include:</p>
+
+<ul>
+	<li>Information that you provide by filing in forms on the Website. This includes information provided at the time of subscribing to the Company's service or requesting further services. The Company may also ask you for information when you report a problem with the Website.</li>
+	<li>Records and copies of your correspondence (including email addresses), if you contact the Company.</li>
+	<li>Your responses to surveys that the Company might ask you to complete for research purposes.</li>
+	<li>Details of transactions you carry out through the Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through the Website.</li>
+	<li>Your search queries on the Website.</li>
+</ul>
+<p><strong>Information the Company Collects through Automatic Data Collection Technologies</strong></p>
+<p>As you navigate through and interact with the Website, the Company may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:</p>
+<ul>
+	<li>Details of your visits to the Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.</li>
+	<li>Information about your computer and Internet connection, including your IP address, operating system, and browser type.</li>
+	<li>Information about your mobile device and Internet connection, including the device's unique device identifier, IP address, operating system, browser type, mobile network information, and the device's telephone number.</li>
+</ul>
+<p>The Company also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).</p>
+<p>The information the Company collects automatically is statistical data and does not include personal information, but the Company may keep it or associate it with personal information the Company collects in other ways or receive from third parties. It helps the Company to improve the Website and to deliver a better and more personalized service, including by allowing the Company to:</p>
+
+<ul>
+	<li>Estimate the Website's audience size and usage patterns.</li>
+	<li>Store information about your preferences, thus allowing the Company to customize the Website according to your individual interests.</li>
+	<li>Speed up your searches.</li>
+	<li>Recognize you when you return to the Website.</li>
+</ul>
+<p>The technologies the Company uses for this automatic data collection may include:</p>
+
+<ul>
+	<li>
+		<b>Cookies (or browser cookies).</b> A cookie is a small file placed on the hard drive of your computer. Your browser stores cookies in a manner associated with each website you visit. The Company uses cookies to enable its servers to recognize your browser and tells the Company how and when you visit the Website and use the services. You may refuse to accept browser cookies by activating the appropriate setting on your browser. But if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser settings so that it will refuse cookies, the Company's system will issue cookies when you direct your browser to the Website. If you want to learn more about cookies, please visit <a href="www.allaboutcookies.org">www.allaboutcookies.org</a> or <a href="www.youronlinechoices.eu">www.youronlinechoices.eu</a>.
+	</li>
+	<li><b>Flash Cookies.</b> Certain features of the Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on the Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, you can access your Flash management tools from Adobe's website.</li>
+	<li>
+		<b>Web Beacons.</b> Pages of the Website (and the Company's emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). If you want to learn more about web beacons, please visit <a href="http://www.allaboutcookies.org/web-beacons/">www.allaboutcookies.org/web-beacons/</a>.
+	</li>
+</ul>
+<p>The Company does not collect personal information automatically, but it may tie this information to personal information about you that the Company collects from other sources or you provide to the Company.</p>
+<p><strong>Third-party Use of Cookies and Other Tracking Technologies</strong></p>
+<p>Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.</p>
+<p>The Company does not control third-party tracking technologies or how third parties' use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.</p>
+
+<p></p>
+<p><strong>3. How does the Company use your information?</strong></p>
+<p>The Company may use information that it collects about you or that you provide to the Company, including any personal information:</p>
+<ul>
+	<li>To present the Website and its contents to you.</li>
+	<li>To provide you with information, products, or services that you request from the Company.</li>
+	<li>To fulfill any other purpose for which you provide it.</li>
+	<li>To provide you with notices about your account, including expiration and renewal notices.</li>
+	<li>To carry out the Company's obligations and enforce its rights arising from any contracts entered into between you and the Company, including for billing and collection.</li>
+	<li>To notify you about changes to the Website or any products or services the Company offers or provides through the Website.</li>
+	<li>To allow you to participate in any interactive features on the Website.</li>
+	<li>To monitor and analyze trends, usage, and activities in connection with the Website and for marketing or advertising purposes.</li>
+	<li>To investigate and prevent fraudulent transactions, unauthorized access to the Website, and other illegal activities.</li>
+	<li>To personalize the Website content, features, or advertisements.</li>
+	<li>In any other way the Company may describe when you provide the information.</li>
+	<li>For any other purpose with your consent.</li>
+</ul>
+<p>The Company may also use your information to contact you about the Company's own and third parties' goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please send the Company an email at <a href="mailto:privacy@elevatedx.com">privacy@elevatedx.com</a>. For more information, see What choices do you have about how the Company uses and discloses your information.</p>
+<p>The Company may use the information it has collected from you to allow the Company to display advertisements to its advertisers' target audiences. Even though the Company does not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.</p>
+
+<p></p>
+<p><strong>4. With whom does the Company share your information?</strong></p>
+<p>The Company may disclose aggregated information about its users, and information that does not identify any individual, without restriction.</p>
+<p>The Company may disclose personal information that it collects or you provide as described in this policy:</p>
+
+<ul>
+	<li>To the Company's subsidiaries and affiliates.</li>
+	<li>To contractors, service providers, and other third parties the Company uses to support its business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which the Company discloses it to them.</li>
+	<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by the Company about the Website's users is among the assets transferred.</li>
+	<li>To third parties to market their products or services to you if you have not opted out of these disclosures. The Company contractually requires these third parties to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. For more information, see What choices do you have about how the Company uses and discloses your information.</li>
+	<li>To fulfill the purpose for which you provide it.</li>
+	<li>For any other purpose disclosed by the Company when you provide the information.</li>
+	<li>With your consent. The Company may also disclose your personal information:</li>
+	<li>To comply with any court order, law, or legal process, including to respond to any government or regulatory request.</li>
+	<li>To enforce or apply the terms of use, content management software license agreement, and other agreements, including for billing and collection purposes.</li>
+	<li>If the Company believes disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, its customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</li>
+</ul>
+
+<p></p>
+<p><strong>5. What choices do you have about how the Company uses and discloses your information?</strong></p>
+<p>The Company provides you the ability to exercise certain controls and choices regarding the Company's collection, use, and sharing of your information. In accordance with local law, your controls and choices may include:</p>
+
+<ul>
+	<li>You may correct, update, and delete your account information.</li>
+	<li>You may change your choices for subscriptions and newsletters.</li>
+	<li>You may choose whether or not to receive offers from the Company.</li>
+	<li>You may choose whether you received targeted advertising from the Company or its partners.</li>
+</ul>
+
+<p></p>
+<p><strong>6. How do you access and correct your information?</strong></p>
+<p>You can send the Company an email at <a href="mailto:privacy@elevatedx.com">privacy@elevatedx.com</a> to request access to, correct, or delete any personal information that you have provided to the Company. The Company cannot delete your personal information except by also deleting your account. The Company will not accommodate a request to change information if it believes the change would violate any law or legal requirement or cause the information to be incorrect.</p>
+
+<p></p>
+<p><strong>7. How does the Company protect your personal information?</strong></p>
+<p>The Company has implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, change, and disclosure. All information you provide to the Company is stored on its secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.</p>
+<p>The safety and security of your information also depends on you. Where the Company has given you (or where you have chosen) a password for access to certain parts of the Website, you are responsible for keeping this password confidential. The Company asks you not to share your password with anyone. Unfortunately, the transmission of information over the Internet is not completely secure. Although the Company does its best to protect your personal information, the Company cannot guarantee the security of your personal information transmitted to the Website. Any transmission of personal information is at your own risk. The Company is not responsible for circumvention of any privacy settings or security measures contained on the Website.</p>
+
+<p></p>
+<p><strong>8. International Users</strong></p>
+<p>This policy is intended to cover collection of information on or through the Website from residents of the United States. If you are visiting the Website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where the Company's servers are located and the Company's central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that the Company seeks to take reasonable steps to make sure that your privacy is protected. By using the Company's services, you acknowledge that your information may be transferred to the Company's facilities and those third parties with whom the Company shares it as described in this policy. When you provide personal information to the Company through the Website, you consent to the processing of your data in, and the transfer of your data to, the United States or any other country in which the Company or its affiliates, subsidiaries, or service providers host these services.</p>
+
+<p></p>
+<p><strong>9. Do Not Track Policy</strong></p>
+<p>Do Not Track ("DNT") is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. The Company is committed to providing you with meaningful choices about the information it collects and that is why the Company provides you the ability to opt out. But the Company does not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information, visit www.allaboutdnt.com.</p>
+
+<p></p>
+<p><strong>10. Your California Privacy Rights</strong></p>
+<p>California Civil Code § 1798.83 permits users of the Website that are California residents to request certain information about the Company's disclosure of personal information to third parties for their direct marketing purposes. To make this request, please send an email to <a href="mailto:privacy@elevatedx.com">privacy@elevatedx.com</a>. Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for marketing purposes, please send an email to <a href="mailto:privacy@elevatedx.com">privacy@elevatedx.com</a>. Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law.</p>
+
+<p></p>
+<p><strong>11. Links to Other Websites</strong></p>
+<p>The Website may contain links to other websites. Please be aware that the Company is not responsible for the content or privacy practices of those other websites. The Company encourages its customers to be aware when they leave the Website and to read the privacy statements of any other website that collects personally identifiable information.</p>
+
+<p></p>
+<p><strong>12. No Rights of Third Parties</strong></p>
+<p>This policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the Website.</p>
+
+<p></p>
+<p><strong>13. Changes to Privacy Policy</strong></p>
+<p>The Company will post any changes it makes to this policy on this page. If the Company makes material changes to how it treats your personal information, the Company will notify you by email to the email address identified in your account or through a notice on the Website homepage. This policy identifies when the Company last updated it at the top of the page. You are responsible for making sure the Company has an up-to-date active and deliverable email address for you, and for frequently visiting the Website and this policy to check for any changes.</p>
+
+
+<p></p>
+<p><strong>14.  Legal basis for processing your personal information - EEA visitors/customers</strong></p>
+<p>
+	
+	If you are located in the European Economic Area ("EEA"), our legal basis for personal data collection and use as described above depends on the purpose for which the information is collected. With the exception of data collected for web site functionality and error reporting, we normally collect personal information only when we have a customer's consent and the information is provided to us directly from you, as needed in order for us to perform based on a contract with you, to provide services where processing is in our legitimate business interests or when we have a legal obligation to collect personal information. </p><p>This includes personal information used for creation of your customer account, which is mandatory and the consequence of not providing this information is not being able to use our services. </p><p>If you have questions about or need further information concerning the data we collect, use of this data, retention of this data or the legal basis on which we collect and use your personal information, please contact us at <a href="mailto:privacy@elevatedx.com">privacy@elevatedx.com</a></p>
+
+
+
+
+
+
+<p></p>
+<p><strong>15. Personal Data and Information Retention</strong></p>
+<p>Email addresses associated with product demo requests are purged/removed from the system automatically after 30 days. </p><p>Software customers' digitally signed product license agreements, merchant terms of service agreements and payment processing terms of use agreement data consisting of name job title and IP address is purged/removed from the system automatically after 6 years of inactivity. </p><p>Customer account data which consists of contact name, email address, business name and purchase history is stored indefinitely unless a customer requests removal of this data. </p><p>Email addresses used for product newsletters are stored until a user opts-out by requesting removal by emailing <a href="mailto:privacy@elevatedx.com">privacy@elevatedx.com</a> or clicking a link to "unsubscribe" in any email received.   </p><p>Data related to software error reporting consisting of IP address, browser cookie values, user agent, server-state variables, user name and password is automatically purged/removed after 7 days. </p><p>Data related to payment extensions consisting of customer ID and notes left by customer are purged/removed after 24 hours.</p><p>Post data for PayPal payments are purged/removed after 3 days. </p><p>CMS customer support account and ticket information is kept until 90 days after the cancellation date. Non CMS customer support account and ticket information is kept until the support account has been inactive for 90 days and support ticket statuses are all marked as closed.
+</p>
+
+<p></p>
+<p><strong>16. Information Removal Requests</strong></p>
+<p>To request that your information be deleted, please contact us at <a href="mailto:privacy@elevatedx.com">privacy@elevatedx.com</a>.</p>
+
+
+<p></p>
+<p><strong>17. Contact Information</strong></p>
+<p>To ask questions or comment about this policy and the Company's privacy practices, contact the Company at <a href="mailto:privacy@elevatedx.com">privacy@elevatedx.com</a>.</p>
+	
+	</div><!--//wrapper-->
+</div><!--//section intro-->
+
+<p>&nbsp;</p>
+<br>
+<p>&nbsp;</p><br>
+
+
+<div class="clear"></div>
+
+<div id="footer" class="animated" data-animation="fadeInUp" style="opacity: 0;">
+	<div class="wrapper">
+
+		<ul class="footer-links">
+			<li><a href="about.php">About</a></li>
+			<li><a href="customers.php">Customers</a></li>
+			<li><a href="features.php">Features</a></li>
+			<li><a href="themes.php">Themes</a></li>
+			<li><a href="pricing.php">Pricing</a></li>
+			<li><a href="#demo" class="trigger_demo">Demo</a></li>
+		</ul>
+		
+		<hr>
+		
+		<div class="bottom">
+			<div class="bottom-block copyr">
+				Contents © 2006-2019 Elevated X, Inc.
+			</div>
+			<div class="bottom-block more-links">
+				<a href="tos.php">Terms of Service</a>
+				<a href="privacy.php">Privacy Policy</a>
+			</div>
+			<div class="bottom-block contact">
+				<a href="mailto:sales@elevatedx.com">sales@elevatedx.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; Skype elevatedx
+			</div>
+			<div class="bottom-block social">
+				<a href="https://twitter.com/elevatedx" class="social_twitter"><span class="hide">Twitter</span></a>
+			</div>
+		</div>
+	
+	</div><!--//wrapper-->
+</div><!--//footer-->
+
+
+<style>
+.gdprbox
+{
+	position:fixed;
+	width:100%;
+	background-color:#d3fdd5;
+	bottom:0px;
+	z-index:10000;
+	color:#343434;
+	padding:10px;
+	text-align: center;
+}
+</style>
+<script>
+function gdpragree()
+{
+	document.cookie = "gdpragree=1; path=/"; 
+	$(".gdprbox").fadeOut();	
+}
+</script>
+
+
+<div class="gdprbox">
+This website uses cookies to personalize content and to analyze our traffic. You consent to our cookies if you continue to use our website. Read our <a href="privacy.php">Privacy Policy</a> to learn more. Please <a href="javascript:gdpragree()"> Agree</a> or <a href="http://google.com">Exit</a>
+		
+</div>
+
+
+
+
+</body></html>
