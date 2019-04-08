@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trueos.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224054354id_/http%3A//www.freenas.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueos.org privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408045253id_/https%3A//www.trueos.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FreeNAS - Open Source Storage Operating System
+# Privacy Policy - TrueOS
 
 At iXsystems, we value user privacy and are committed to disclosing how information is collected and used. This Privacy Policy outlines how iXsystems collects, uses, maintains, and discloses information collected from users of our website, products, and services (“Products”).
 
@@ -14,13 +14,13 @@ To ensure necessary and optimal performance of the Products, we may collect non-
 
 ### Cookies
 
-freenas.org may use “cookies” to enhance your experience. Your web browser places cookies on your hard drive for record-keeping purposes and sometimes to track information about you, including how you interact with our Products. User may choose to set their web browser to refuse cookies, or to alert when a website attempts to use a cookie. If you do so, note that some pieces of our website may not function as well.
+trueos.org may use “cookies” to enhance your experience. Your web browser places cookies on your hard drive for record-keeping purposes and sometimes to track information about you, including how you interact with our Products. User may choose to set their web browser to refuse cookies, or to alert when a website attempts to use a cookie. If you do so, note that some pieces of our website may not function as well.
 
 ### How We Use Your Information
 
 iXsystems may collect and use your personal and non-personal information for the following purposes:
 
-  * _To run and operate freenas.org_ – We may need your information to display content on the website correctly.
+  * _To run and operate trueos.org_ – We may need your information to display content on the website correctly.
   * _To improve customer service_ – Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * _To personalize your experience_ – We may use aggregated information to understand how our users interact with our website.
   * _To make improvements to our website –_ We may use feedback you give to improve our Products..
@@ -46,7 +46,7 @@ iXsystems uses third party service providers to help us operate our business and
 
 ### Third Party Websites
 
-You may find content on freenas.org that links to websites operated by our affiliates, Open Source partner projects, or services of other partners. We do not control the content or links that appear on these websites and are not responsible for the practices employed by websites that link to our website. In addition, these websites, including their content and links, may be constantly changing and these sites operate under different privacy policies. Browsing and interaction on any other website, including websites which have a link to our website, is subject to that website’s own terms and policies. iXsystems collects information through third party analytics providers that allows us to analyze trends, demographics, and various statistics about your interaction with our website. Any analytics data collected does not contain personal identifiable information.
+You may find content on trueos.org that links to websites operated by our affiliates, Open Source partner projects, or services of other partners. We do not control the content or links that appear on these websites and are not responsible for the practices employed by websites that link to our website. In addition, these websites, including their content and links, may be constantly changing and these sites operate under different privacy policies. Browsing and interaction on any other website, including websites which have a link to our website, is subject to that website’s own terms and policies. iXsystems collects information through third party analytics providers that allows us to analyze trends, demographics, and various statistics about your interaction with our website. Any analytics data collected does not contain personal identifiable information.
 
 ### Changes to This Privacy Policy
 
@@ -54,7 +54,7 @@ iXsystems may update this privacy policy at any time. We encourage users to freq
 
 ### Your Acceptance of These Terms
 
-By using this website, you are agreeing to our terms of use and Privacy Policy. If you do not agree with this policy, you must not use [www.freenas.org](https://www.freenas.org/). Continued use of our website following the posting of changes to this policy will be understood as your acceptance of any changes.
+By using this website, you are agreeing to our terms of use and Privacy Policy. If you do not agree with this policy, you must not use [www.trueos.org](http://www.trueos.org/). Continued use of our website following the posting of changes to this policy will be understood as your acceptance of any changes.
 
 ### GDPR Compliance
 
