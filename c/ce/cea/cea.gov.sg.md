@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cea.gov.sg privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907183704id_/https%3A//www.cea.gov.sg/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cea.gov.sg privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408031852id_/https%3A//www.cea.gov.sg/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
