@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329200838id_/http%3A//www.jobstreet.com.sg/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408143055id_/https%3A//www.jobstreet.com.sg/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JS AboutUs SG
 
@@ -79,7 +79,7 @@
 
       4. ###### If you wish to stop JobStreet.com from processing this type of personal information about you, JobStreet.com will no longer be able to provide the relevant services to you.
 
-      5. ###### In addition, JobStreet.com may ask your permission to post your testimonial or success story. If you agree to post your material on JobStreet.com Websites, you should be aware that any personal information you submit can be read, collected, or used by other users of the JobStreet.com Websites and could be used to send you unsolicited messages. If you wish to update or delete your testimonial, you can contact us [here](http://myjobstreet.jobstreet.com.sg/home/feedback.php?site=my&sub=policy).
+      5. ###### In addition, JobStreet.com may ask your permission to post your testimonial or success story. If you agree to post your material on JobStreet.com Websites, you should be aware that any personal information you submit can be read, collected, or used by other users of the JobStreet.com Websites and could be used to send you unsolicited messages. If you wish to update or delete your testimonial, you can contact us [here](https://myjobstreet.jobstreet.com.sg/home/feedback.php?site=my&sub=policy).
 
     3. ###### When you visit the JobStreet.com Websites
 
@@ -189,7 +189,7 @@
 
     1. ###### JobStreet.com is committed to keeping personal information secure. JobStreet.com has appropriate technical, administrative and physical procedures in place to protect personal information from loss, theft and misuse, as well as against unauthorized access, disclosure, alteration and destruction. Sensitive information (such as a credit card number) entered on our payment gateway services are encrypted during the transmission of that information using secure socket layer technology (SSL).
 
-    2. ###### No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us [here](http://myjobstreet.jobstreet.com.sg/home/feedback.php?site=my&sub=policy).
+    2. ###### No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us [here](https://myjobstreet.jobstreet.com.sg/home/feedback.php?site=my&sub=policy).
 
   7. ###### **TO WHOM PERSONAL INFORMATION IS DISCLOSED**
 
@@ -241,9 +241,9 @@
 
   8. ###### **YOUR OBLIGATIONS REGARDING YOUR PERSONAL INFORMATION**
 
-    1. ###### You are responsible for providing accurate, not misleading, complete and up-to-date information to JobStreet.com about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes inaccurate, misleading, incomplete and out-of-date by contacting JobStreet.com [here](http://myjobstreet.jobstreet.com.sg/home/feedback.php?site=my&sub=policy).
+    1. ###### You are responsible for providing accurate, not misleading, complete and up-to-date information to JobStreet.com about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes inaccurate, misleading, incomplete and out-of-date by contacting JobStreet.com [here](https://myjobstreet.jobstreet.com.sg/home/feedback.php?site=my&sub=policy).
 
-    2. ###### In the circumstances you may need to provide to JobStreet.com personal information about someone other than yourself (for example, your referee or guarantor). If so, we rely on you to inform these individual that you are providing their personal information to JobStreet.com, to make sure they consent to you giving us their information and to advise them about where they can find a copy of this Privacy Notice (on our website at [Privacy Policy](http://www.jobstreet.com.sg/aboutus/privacy_policy.htm))
+    2. ###### In the circumstances you may need to provide to JobStreet.com personal information about someone other than yourself (for example, your referee or guarantor). If so, we rely on you to inform these individual that you are providing their personal information to JobStreet.com, to make sure they consent to you giving us their information and to advise them about where they can find a copy of this Privacy Notice (on our website at [Privacy Policy](https://www.jobstreet.com.sg/aboutus/privacy_policy.htm))
 
   9. ###### **TRANSFER OF YOUR PERSONAL INFORMATION OUTSIDE OF YOUR LOCAL JURISDICTION**
 
@@ -263,13 +263,13 @@
 
   11. ###### **YOUR CONSENT**
 
-    1. ###### In using the JobStreet.com Services and/or the JobStreet.com Websites, you consent to the collections and use of the personal information by JobStreet.com in the ways described hereinabove (which may change from time to time) unless and until you inform JobStreet.com to the contrary [here](http://myjobstreet.jobstreet.com.sg/home/feedback.php?site=my&sub=policy).
+    1. ###### In using the JobStreet.com Services and/or the JobStreet.com Websites, you consent to the collections and use of the personal information by JobStreet.com in the ways described hereinabove (which may change from time to time) unless and until you inform JobStreet.com to the contrary [here](https://myjobstreet.jobstreet.com.sg/home/feedback.php?site=my&sub=policy).
 
     2. ###### Further, you consent to your referees, the school/college/university/institute where you have studied, the professional qualifying bodies where you received your accreditation and Employers to disclose your personal information to JobStreet.com.
 
   12. ###### **CONTACT INFORMATION**
 
-    1. ###### If you still have questions about this Privacy Notice, please visit [Help](http://myjobstreet.jobstreet.com.sg/home/help.php) or [Frequently Asked Questions](http://myjobstreet.jobstreet.com.sg/home/help.php) on the JobStreet.com Websites. JobStreet.com requests your name, phone number, email address and comments so that JobStreet.com may respond to your concerns effectively and works to improve the JobStreet.com Services and/or JobStreet.com Websites.
+    1. ###### If you still have questions about this Privacy Notice, please visit [Help](https://myjobstreet.jobstreet.com.sg/home/help.php) or [Frequently Asked Questions](https://myjobstreet.jobstreet.com.sg/home/help.php) on the JobStreet.com Websites. JobStreet.com requests your name, phone number, email address and comments so that JobStreet.com may respond to your concerns effectively and works to improve the JobStreet.com Services and/or JobStreet.com Websites.
 
 
 
