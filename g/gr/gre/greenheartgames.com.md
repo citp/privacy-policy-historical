@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenheartgames.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726011731id_/https%3A//www.greenheartgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenheartgames.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408232729id_/https%3A//www.greenheartgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Greenheart Games
 
@@ -53,7 +53,7 @@ Greenheart Games Pty. Ltd. has the discretion to update this privacy policy at a
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.greenheartgames.com/terms-of-use/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.greenheartgames.com/terms-of-use/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
