@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207224303id_/http%3A//www.churchstaffing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408122023id_/https%3A//www.churchstaffing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for ChurchStaffing - Church Jobs & Pastor Jobs
 
