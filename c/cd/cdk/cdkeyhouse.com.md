@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdkeyhouse.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208213011id_/https%3A//www.cdkeyhouse.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdkeyhouse.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408094617id_/https%3A//www.cdkeyhouse.com/content/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - CDKeyHouse
 
