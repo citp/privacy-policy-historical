@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bushdvd.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502235207id_/http%3A//www.bushdvd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bushdvd.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409000231id_/https%3A//www.bushdvd.com/privacy.asp) for the most accurate reproduction.*
 
 # Movie Rental XXX - Rent XXX DVDs Online - Adult Videos for Rent
 
@@ -19,7 +19,7 @@ You do have the right to change any of the requested personal information. To ch
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [customerservice@bushdvd.com](mailto:customerservice@bushdvd.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+We will only disclose your personal information to comply with a judicial proceeding, court order, or legal process served on our web site. 
 
 If you choose to write a review on this Web site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in the "Write a Review" portion of the web site. _To request removal of your personal information from the "Write a Review" page, contact us at[customerservice@bushdvd.com](mailto:customerservice@bushdvd.com)_. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
