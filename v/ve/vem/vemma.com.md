@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vemma.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904031711id_/https%3A//www.vemma.com/pdf/vemma_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vemma.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408140926id_/https%3A//www.vemma.com/pdf/vemma_privacy_policy.pdf) for the most accurate reproduction.*
 
-# 
+# PRIVACY POLICY
 
 PRIVACY POLICY
 The protection of personal information is crucial with the Vemma Nutrition Company
@@ -16,9 +16,10 @@ purchase of product or services, where applicable), provision of customer servic
 network management, customer surveys, provision of offers of related services and
 other exchanges of information.
 Vemma will not disclose or share personally identifiable information collected via the
-Internet or telephone with any other companies or organizations without the
-informed consent of the consumer providing the information (except as required by
-law).
+Internet or telephone with any other unaffiliated companies or organizations without
+the informed consent of the consumer providing the information (except as required
+by law). Vemma may, however, share your information with its affiliated companies,
+including Bode Pro, Inc.
 Vemma will use information received via e-mail, facsimile or regular mail from
 customers and other individuals only for purposes reasonably related to the subject
 matter of communication.
@@ -35,4 +36,4 @@ your use of the Internet.
 Consistent with these policies, Vemma prohibits the collection, distribution or
 gathering of personal or aggregate information, including Internet or e-mail
 addresses, about Vemma’s Affiliates, Customers or any of Vemma’s other users.
-                                                                          (rev. 1.15.2014)
+                                                                           (rev. 3.28.2019)
