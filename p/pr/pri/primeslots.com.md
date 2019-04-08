@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the primeslots.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111134947id_/https%3A//game.primeslots.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primeslots.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408020758id_/https%3A//game.primeslots.com/info/privacy) for the most accurate reproduction.*
 
 # Primeslots.com
 
-Aspire Global International LTD, which includes all of the entities specified below under “The Group” section, including its affiliates (collectively, the (“ **Company** ”) offers online gambling services (collectively, the **Services** via: 
+The Company (as defined in the Terms of Service/End User License Agreement applicable to you), offers online gambling services (collectively, the **“Services"** ).The Company forms part of the Aspire group of companies (the "Group", "we", "our" or "us") which includes the entities specified below under "The Group" Section below. We offer Services via: 
 
-  * Its own in-house brands (each, an **"In-House Brand"** ; together with the Company: **“Group”** , **"we"** , **"our"** or **"us"** ), and 
+  * our own in-house brands (each, an **"In-House Brand"** ; the terms "Group", "we", "our" or "us”, shall include any In-House Brand ), and 
   * Third party brands and their respective affiliates (each, **"White Label Brand"** ). 
 
 
@@ -47,13 +47,16 @@ We collect two types of information from our Users:
 
 The first type of information is information that identifies or may reasonably identify an individual reasonable effort ( **“Personal Information”** ). Personal Information which is being gathered may consist of the following: 
 
-    * **Registration details:** When you open an account and register to use the Services, you will be asked to provide us certain details about yourself, such as: first and last name, email address, gender, birth data, physical address, ID number, phone number, occupation, etc.
+    * **Registration details:** When you open an account and register to use the Services, you will be asked to provide us certain details about yourself, such as: first and last name, email address, gender, birth data, physical address, ID number, phone number, occupation, etc. In addition, we may collect certain information as required under various gambling regulations, as well as Know Your Client (“KYC”) and Anti-Money Laundering (“AML”) regulatory requirements, such as your source of funds.
   
 
     * **Governmental-issued ID:** In certain instances, you will be required to provide a copy of a governmental-issued ID, for identity verification process. Please note that this information is required for certain features of our Services.
   
 
     * **Payment information:** In order for you to enjoy all of the functions of the Services (e.g. place bets, perform purchases, play in tournaments, etc.), payment information will be collected from you, such as your credit card number and bank account details. 
+  
+
+    * **Gaming information** : in order for us to provide the Services, we automatically record different information related to your account and use of our Services, including with respect to your transactions, deposits, balances, bets, withdraws, bonuses and winnings. We also collect information regarding potential gambling problems or addictions, based on your patterns of gambling across our services, in order to ensure a responsible gaming environment and as required by law. 
   
 
     * **Voluntary information:** We also collect information which you provide us voluntarily. For example, when you respond to communications from us, communicate with us via email or share additional information about yourself through your use of the Services, such as on the chat feature and in games. 
@@ -145,7 +148,8 @@ The Group will use your Personal Information, such as your name, home address, e
 
 We may also share and disclose Personal Information with our Marketing Affiliates for the purpose of providing you different marketing offers, which we, or our Marketing Affiliates, believe are relevant for you, where we have a legitimate interest to do so or where we obtained your consent.. Our Marketing Affiliates may use this Personal Information for different marketing techniques, such as direct email, post, SMS and telephone marketing purposes. 
 
-You may at any time decline receiving further marketing offers from us or from our business partners and marketing affiliates by contacting us at to [support@primeslots.com](mailto:support@primeslots.com). Please note that even if you unsubscribe from our marketing mailing list, we may continue to send you service-related updates and notifications. 
+You may at any time decline receiving further marketing offers from us or from our business partners and marketing affiliates by contacting us at to [support@primeslots.com](mailto:support@primeslots.com). Please note that even if you unsubscribe from our marketing mailing list, we may continue to send you service-related updates and notifications.   
+We will occasionally send you push notifications concerning the Services and products, services, websites and applications which relate to us, as well as to keep you informed of the latest improvements, features and other developments related to the Service. You may opt-out of receiving these types of communications by turning off push notifications at the device level at any time. 
 
 **WITH WHOM WE SHARE INFORMATION?**
 
@@ -155,6 +159,7 @@ We share Personal Information with any of the following recipients:
   * White Label Brands, including any replacement service provider that the White Label Brand may engage to operate the White Label Brands (if applicable); 
   * Companies within the Group and other affiliated companies; 
   * Subcontractors and third party service providers, as well as their subcontractors, which by way of example include (but is not limited to) cloud computing companies, marketing affiliates, identity verification and fraud prevention services, and other data verifiers; 
+  * Gambling addiction bodies; 
   * Credit reporting agencies; 
   * Payment service providers, payment processors and banks; 
   * To any third parties who provide services in relation to the operation or promotion of the applicable In House Brand or the White Label Brands (if applicable); 
@@ -176,7 +181,8 @@ In addition to the purposes listed in this Privacy Policy, we share Personal Inf
 **TRANSFER OF INFORMATION**
 
 Since we operate globally, it may be necessary to transfer your Personal Information to countries outside the European Union. The data protection and other laws of these countries may not be as comprehensive as those in the European Union.   
-We use best efforts to ensure that your Personal Information is protected in accordance with our privacy policy, through contractual means (such as by using the contractual clauses approved by the relevant regulators for data transfer) or other means (such as ensuring that the jurisdiction imposes adequate safeguards for data protection). 
+We use best efforts to ensure that your Personal Information is protected in accordance with our Privacy Policy, through contractual means (such as by using the standard contractual clauses approved by the European Commission for data transfer, as available here) or other means (such as ensuring that the European Commission decisions determined that such jurisdictions offer adequate level of protection, as available here).   
+For more information about the transfer of your personal data outside of the EEA, please contact us (our contact details are available under the "HOW TO CONTACT US?" section). 
 
 **THIRD PARTY TRACKING TECHNOLOGIES**
 
@@ -255,7 +261,7 @@ We also allow third parties to collect information about you through Tracking Te
 
 **What are cookies?**
 
-Cookies are small text files (composed only of letters and numbers) that a web server places on your computer or mobile device when you visit a webpage. When used, the cookie can help make our Services more user-friendly, for example by remembering your language preferences and settings. You can find more information about cookies at all about cookies 
+Cookies are small text files (composed only of letters and numbers) that a web server places on your computer or mobile device when you visit a webpage. When used, the cookie can help make our Services more user-friendly, for example by remembering your language preferences and settings. You can find more information about cookies at all about cookies. [All about cookies](https://www.allaboutcookies.org/)
 
 Cookies are widely used in order to make websites work in an efficient way. The use of cookies allows you to navigate between pages efficiently. Cookies remember your preferences, and make the interaction between you and the Services smoother and more efficient. Cookies are also used to help ensure that the advertisements you see online are relevant to you and your interests. 
 
@@ -265,7 +271,7 @@ We store Tracking Technologies when you visit or access our Services (for exampl
 
 Both types of Tracking Technologies may be stored either for the duration of your visit on our Services or for repeat visits. 
 
-**Storing Tracking Technologies**
+**What types of Tracking Technologies do we use?**
 
 There are five main types of Tracking Technologies: 
 
@@ -339,6 +345,9 @@ The advertising service Criteo allows the display of targeted ads based on the u
 You can view the policy [here](http://www.criteo.com/en/privacy/) and you can disable it from [here ](http://www.criteo.com/deactivate-criteo-banners/)  
 **Other cookies** | Third party Tracking Technology | **Strictly necessary Tracking Technologies**  
 \- these unlisted cookies might be in use on internal sections of the Services, in order to customize and simplify the user experience on the site by remembering choices you made and your log in credentials.  
+**Xtreme push** | Third party Tracking Technology | **Marketing or Adbvertising tracking technologies**  
+Xtreme push services allows us to send web push notifications to users that have opted in to this service. Information is combined with our first party cookie to personalize messages. please refer to [Privacy policy here ](https://xtremepush.com/privacy-policy/Xtreme)  
+Marketing Tracking Pixel | Third party Tracking Technology  | Adoric is a platform that allows to display personalized message on the website based on information in users cookies. Adoric is as well using cookies to save information on how players are engaging to message displayed. [Privacy Policy](https://adoric.com/PRIVACY)  
   
 How to manage your cookie settings   
 Please note that we do not recognize or respond to automated browser signals regarding Tracking Technologies, including "Do Not Track" requests. However, there are various ways in which you can manage and control your cookie settings. Please remember that, by deleting or blocking cookies, some of the features of the Services may not work properly or as effectively. 
@@ -348,13 +357,13 @@ Please note that we do not recognize or respond to automated browser signals reg
 Most web browsers will provide you with some general information about cookies, enable you to see what cookies are stored on your device, allow you to delete them all or on an individual basis, and enable you to block or allow cookies for all websites or individually selected websites. You can also normally turn off third party cookies separately. Please note that the settings offered by a browser or device often only apply to that particular browser or device. 
 
     * Information about cookies is usually found in the "Help" section of the web browser. Below are some links to some commonly used web browsers: 
-      * Chrome 
-      * Chrome for mobile 
-      * Internet Explorer and Microsoft Edge 
-      * Mozilla Firefox 
-      * Safari 
-      * Opera 
-    * **Turning off third party cookies** :you can turn off certain third party cookies for advertising purposes by visiting the Network Advertising Initiative, located here: Network Advertising Initiative or the DAA opt-out program, which are located here: http://www.aboutads.info/choices/, here (for EU/EEA citizens): [youronlinechoices.eu](http://www.youronlinechoices.eu/) and here (for mobile devices): [aboutads.info/appchoices](http://www.aboutads.info/appchoices)
+      * [ Chrome](https://www.google.com/chrome//)
+      * [ Chrome for mobile](https://www.google.com/mobile/chrome/%20//)
+      * [Internet Explorer and Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge//)
+      * [Mozilla Firefox](https://web.archive.org/%E2%80%9D)
+      * [Safari](https://web.archive.org/%E2%80%9D)
+      * [Opera](https://web.archive.org/%E2%80%9D)
+    * **Turning off third party cookies** :you can turn off certain third party cookies for advertising purposes by visiting the Network Advertising Initiative, located here: [ Network Advertising Initiative ](http://optout.networkadvertising.org/?c=1#!%2F/) or the DAA opt-out program, which are located here: [ aboutads](http://www.aboutads.info/choices/) (for EU/EEA citizens): [youronlinechoices.eu](http://www.youronlinechoices.eu/) and here (for mobile devices): [aboutads.info/appchoices](http://www.aboutads.info/appchoices)
 
 
 
