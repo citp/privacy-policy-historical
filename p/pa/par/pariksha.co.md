@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pariksha.co privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116161216id_/https%3A//www.pariksha.co/users/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pariksha.co privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408073956id_/https%3A//www.pariksha.co/users/privacy) for the most accurate reproduction.*
 
 # Pariksha | Prepare Better
 
