@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reportgarden.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001234627id_/https%3A//reportgarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reportgarden.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408081628id_/https%3A//reportgarden.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Marketing Agency Software | Reportgarden
 
