@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sysomos.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202233118id_/https%3A//sysomos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysomos.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408070518id_/https%3A//sysomos.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | Sysomos
 
