@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderlic.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130085113id_/https%3A//www.wonderlic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderlic.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408160331id_/https%3A//www.wonderlic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Wonderlic
 
@@ -39,7 +39,7 @@ Wonderlic’s website may use content or provide links to third party websites. 
 
 **UPDATING AND CORRECTING INFORMATION**
 
-You may correct your personal information by contacting us by email (Attn: Customer Services), by mail at Wonderlic Customer Services, 400 Lakeview Parkway, Suite 200, Vernon Hills, IL 60061 or by phone at +1 877.605.9496.
+You may correct your personal information by contacting us by email (Attn: Customer Services), by mail at Wonderlic Customer Services, 544 Lakeview Parkway, Suite 210, Vernon Hills, IL 60061 or by phone at +1 877.605.9496.
 
 **CHANGES TO THIS POLICY**
 
@@ -48,8 +48,8 @@ Wonderlic may revise this policy from time to time. If there is a material chang
 If you have any questions regarding this Policy, you may contact us at:  
 David Arnold  
 Wonderlic, Inc.  
-400 Lakeview Parkway  
-Suite 200  
+544 Lakeview Parkway  
+Suite 210  
 Vernon Hills, IL 60061  
 +1 847.247.2602  
 [dave.arnold@wonderlic.com](mailto:dave.arnold@wonderlic.com)
