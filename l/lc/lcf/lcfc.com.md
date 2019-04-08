@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcfc.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226181253id_/https%3A//www.lcfc.com/club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcfc.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408022911id_/https%3A//www.lcfc.com/club/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Leicester City
 
