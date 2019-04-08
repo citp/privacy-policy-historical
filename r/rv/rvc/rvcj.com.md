@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvcj.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125085221id_/https%3A//www.rvcj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvcj.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408132213id_/https%3A//www.rvcj.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RVCJ Media
 
