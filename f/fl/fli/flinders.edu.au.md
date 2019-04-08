@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230190327id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409003820id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.*
 
 # Flinders University website privacy statement - Flinders University
 
@@ -8,28 +8,25 @@ If you are submitting personal details, credit card numbers, or other informatio
 
 ## Information logged
 
-When you visit this site, our server logs the following information which is provided by your browser for statistical purposes only:
+When you visit this site, our server logs may automatically log some or all of the following information:
 
   * the type of browser and operating system you are using
   * your top level domain name (for example .com, .gov, .au, .uk etc)
   * the address of the referring site (for example, the previous site that you visited)
-  * your server's IP address (a number which is unique to the machine through which you are connected to the Internet: usually one of your service provider's machines).
-
-
-
-In addition, our server logs the following information:
-
+  * your server's IP address (a number which is unique to the machine through which you are connected to the Internet: usually one of your service provider's machines)
+  * your computer's geographic location
   * the date and time of your visit
-  * the address of the pages accessed and the documents downloaded.
+  * the address of the pages accessed and documents downloaded.  
 
 
 
-All of this information we use only for statistical analysis or systems administration purposes. No attempt will be made to identify users, except in the unlikely event of an investigation where a law enforcement agency may exercise a warrant.  
+
+This information is collected, used and disclosed, including for future marketing purposes, in accordance with our [Privacy Policy](https://web.archive.org/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf "Privacy Policy").  
 
 
 ## Email addresses
 
-Our online forms may require you to provide contact details, your email address and other personal information. This personal information may be collected, used and disclosed by the University for the purposes of processing  and responding  to your requests, conducting the business of the University, and direct marketing the University’s services to you, in accordance with the [University's Privacy Policy](http://www.flinders.edu.au/ppmanual/governance/privacy-policy.cfm).
+Our online forms may require you to provide contact details, your email address and other personal information. This personal information may be collected, used and disclosed by the University for the purposes of processing  and responding  to your requests, conducting the business of the University, and direct marketing the University’s services to you, in accordance with the [University's Privacy Policy](https://web.archive.org/content/dam/documents/staff/policies/facilities-info-management/privacy-policy.pdf "Privacy Policy").
 
 ## Subscriptions
 
