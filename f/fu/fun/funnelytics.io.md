@@ -1,158 +1,206 @@
-> *The following text is extracted and transformed from the funnelytics.io privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424025847id_/http%3A//funnelytics.io/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnelytics.io privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408083428id_/https%3A//funnelytics.io/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy – Funnelytics
 
-Last updated: December 11, 2017
+### Last updated: February 25th, 2019
 
-White Coat Digital Inc. ("us", "we", or "our") operates the http://funnelytics.io website (the "Service").
+We value your privacy and are committed to protecting the personal information of our users. We have adopted this Privacy Policy (the “Policy”) to be clear about the data we collect, why we collect it, whom we share it with, how you can access it, and correct it when necessary.
 
-## Personal Information Collect, Use, Disclosure and Consent
+We have always safeguarded your Personal Information and recognize our duty to handle your data in a responsible manner. **We do not and will not sell your data to third parties**.
 
-Personal Information may include your name, email address, age, home address, phone number, marital status, income, credit history, medical information, education, employment information and social registration numbers.
+This Policy applies to the use of the[ https://funnelytics.io](https://funnelytics.io/) website, which includes the Funnelytics web application (the “Service”). Please read it carefully in order to understand when you may provide Personal information to us and how Funnelytics uses the Personal Information provided. By using our Service, you agree to the use of your personal information as described in this Policy. The terms “we”, “us” or “Funnelytics” are each intended as a reference to Funnelytics inc.
 
-We are committed to providing our clients, customers, members ("you", "your" or "them") with exceptional service. Providing exceptional service may involve the collection, use and, at times, the disclosure of your Personal Information. Protecting your Personal Information is one of our highest priorities. While we have always respected your privacy and safeguarded all Personal Information, we have strengthened our commitment to this goal. This is to continue to provide exceptional service to you and to comply with all laws regarding the collection, use and disclosure of Personal Information. We will inform you of why and how we collect, use and disclose Personal Information; obtain your consent, as required; and handle Personal Information according to applicable law. Our privacy commitment includes ensuring the accuracy, confidentiality, and security of your Personal Information and allowing you to request access to, and correction of, your personal information. 
+To make this Policy as clear as possible, we have determined the occasions when a customer would potentially share Personal Information with Funnelytics. The Policy is therefore divided as follows:
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+  * Learning about Funnelytics
+  * Opening a Funnelytics Account
+  * Using Funnelytics
+  * Getting help from Funnelytics
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We will only collect Personal Information that is necessary to fulfill the following purposes:
 
-  * To verify identity;
+We have then added different sections explaining in more detail how your personal information is used, how and when it might be shared, how you can access it and control your personal information, the ways we make sure your information is safe, and how to contact us.
 
-  * To identify your preferences;
+## Learning about Funnelytics
 
-  * To open and manage an account;
+As you look into your needs and gather information regarding what Funnelytics can do for your business, you may visit our website or contact one of our representatives via email or directly on our website through the available chat. As you learn about Funnelytics, you may voluntarily provide Personal Information, such as your name and your email address during these interactions.
 
-  * To ensure you receive a high standard of service;
+You may also provide information online via cookies or similar technologies when you visit our website. Cookies are files that hold a small amount of data about a certain user. That data may include an anonymous unique identifier. They are stored on the user’s computer or other devices’ hard drive. Cookies allow us to tailor your user experience whenever you visit our website.
 
-  * To meet regulatory requirements;
+When visiting our Service, you will have the opportunity to accept or decline the use of cookies. You can also instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-  * Other legal reasons as apply to the goods and services requested.
+We also use cookies for behavioural re-marketing purposes. These cookies allow us and our third-party vendors to inform, optimize, and serve ads based on your past visits to our Service.
 
+The data collected may include the type of browser you are using to access our Service, the page you were on before heading to our Service, the amount of time you spend on our Service, the pages you decide to visit, as well as the date and time you are accessing our Service on.
 
+We collect: name, email address, Internet Protocol (“IP”) address, and information provided by cookies or similar technology, such as the type and version of browser you are using to access our Service, the page you were on before heading to our website, the amount of time you spend on our Service, the pages you decide to visit, as well as the data and time you are accessing our Service on.
 
+Why: The data collected allows us to analyze how our website is used and accessed in order to increase our Service’s functionality and ultimately, optimize it to better meet our users’ needs. It also allows us to accompany you in the process of learning more about our Service and to ensure you receive a high standard of service when you first contact us.
 
-We will obtain your consent to collect, use or disclose Personal Information. In some cases, we can do so without your consent (see below). You can provide consent orally, in writing, electronically or through an authorized representative.
+To learn more about the third-party services we use or opt-out of their services, you may consult our complete list of third-party services in the “Whom we may disclose your information to and why” section of this Policy.
 
-You provide implied consent where our purpose for collecting using or disclosing your Personal Information would be considered obvious or reasonable in the circumstances. Consent may also be implied where you have notice and a reasonable opportunity to opt-out of having your Personal Information used for mail-outs, marketing or fundraising and you do not opt-out.
+## Opening a Funnelytics Account
 
-We may collect, use or disclose Personal Information without the consent:
+Once you have gathered enough information about Funnelytics, you may decide to open an account. When registering, you will be asked to provide Personal Information that may include elements such as your first and last name, and your email address.
 
-  * When permitted or required by law;
+ _We collect:_ your first and last name, and your email address.
 
-  * In an emergency that threatens an individual's life, health, or personal security;
+ _Why:_  We use this information to complete your registration, to open and manage your account, to establish a relationship with you, to update you on changes and new features, to inform you of any promotional materials that might be of interest to you, and to send you our newsletter. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-  * When the Personal Information is available from a public source;
+## Using Funnelytics
 
-  * When we require legal advice from a lawyer;
+Once your account is set up, you will be able to use the web app part of our Service. As you use our Service, you may decide to make some purchases (in the Vault, for instance) or to upgrade your account to Funnelytics Pro. The Vault will require you to provide additional Personal Information such as payment and billing information.
 
-  * For the purposes of collecting a debt or protection from fraud;
+ _We collect:_ first name, last name, address, and payment information.
 
-  * Other legally established reasons.
+ _Why:_ We use this information to complete your transaction and to process payments. **We do not store any payment or credit card information. We only use payment information in connection with the purchase of an additional product or service from Funnelytics**.
 
+Payment details you provide will be encrypted using secure sockets layer (SSL) technology before they are submitted. Payments are made through our payment gateway provider, Stripe.
 
+## Getting Help from Funnelytics
 
+From time to time, you may decide to contact our Customer Support department for instance with our Service. To be able to offer you the best assistance possible, we may collect certain data from you.
 
-We will not sell your Personal Information to other parties unless consent has been provided or implied. We retain your Personal Information for the time necessary to fulfill the identified purposes or a legal or business purpose. We will make reasonable efforts to ensure that your Personal Information is accurate and complete. You may request correction to your Personal Information to ensure its accuracy and completeness. A request must be in writing and provide sufficient detail to identify your Personal Information and the correction being sought.
+ _We collect:_ Contact information such as your name, email address, social media handles (if you contact us on our social media profiles), membership level, and the content of your communications with Funnelytics Customer Care.
 
-We are committed to ensuring the security of your Personal Information and may use passwords, encryption, firewalls, restricted employee access or other methods, in our discretion. We will use appropriate security measures when destroying your Personal Information such as shredding documents or deleting electronically stored information, in our discretion.
+ _Why:_ We collect this data to identify your identity, give you the best customer support possible, and to improve our Service.
 
-## Log Data
+## How we use personal information
 
-We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+We use the data we collect to provide you with the Service we offer, which includes using data to improve and personalize your experience. We also use the data we collect to communicate with you about your account, new features, and other types of updates. We use your data for the following purposes:
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
+  * To improve our Service by developing new features, doing research and maintaining the current performance of the Service;
+  * To offer you the best customer support there is;
+  * To guide our business decisions;
+  * To communicate with you, whether for marketing, advertising or account maintenance purposes. For instance, we may contact you by email to notify you of newly available features or updates.
 
-## Cookies
 
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
 
-We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. If you do not instruct your browser to refuse all cookies or to indicate when a cookie is being sent, your consent to our use of your Personal Information may be implied.
+## Whom we may disclose your information to and why
 
-## Behavioral Remarketing
+We do not and will not sell personal information about our customers. We only disclose your data as authorized in this Policy. We may however share information with the following types of parties:
 
-White Coat Digital Inc. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service. In certain circumstances, your implied consent to our accessing, using or disclosing may be provided if you do not instruct your web browser to refuse all cookies or to indicate when a cookie is sent or if you do not opt out of Google Analytics or other services, as indicated below.
+ _Third-party vendors:_ we may disclose your personal information to third-party vendors who carry out services such as credit card processing, email communications or hosting. We only share your personal data as necessary.
 
-  * Google
+### List of third-party vendors and their policies:
 
-Google AdWords remarketing service is provided by Google Inc.
+AdRoll:[ http://www.adroll.com/about/privacy](http://www.adroll.com/about/privacy?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36)
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+  * To opt-out of AdRoll:[ http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false&_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36)
 
-Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
 
-  * Facebook
+Amazon Web Services (hosting):[ https://aws.amazon.com/privacy/?nc1=f_pr](https://aws.amazon.com/privacy/?nc1=f_pr)
 
-Facebook remarketing service is provided by Facebook Inc.
+Beamer (content management system):[ https://www.getbeamer.com/privacy-policy/](https://www.getbeamer.com/privacy-policy/)
 
-You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+Canny (customer feedback management tool):[ https://canny.io/](https://canny.io/)
 
-To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/about/ads/#568137493302217>
+Convert.com (A/B testing tool):[ https://www.convert.com/privacy-notice/](https://www.convert.com/privacy-notice/)
 
-Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+  * To opt-out:[ https://www.convert.com/opt-out/](https://www.convert.com/opt-out/)
 
-For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
 
-  * AdRoll
 
-AdRoll remarketing service is provided by Semantic Sugar, Inc.
+Drip Ecommerce CRM (customer relation management software):[ https://www.drip.com/privacy](https://www.drip.com/privacy)
 
-You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: [http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
+Facebook (marketing/targeting):[ https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36)
 
-For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: <http://www.adroll.com/about/privacy>
+  * To learn more about Facebook’s cookie policy:[ https://www.facebook.com/about/privacy/cookies](https://www.facebook.com/about/privacy/cookies)
+  * To learn more about interest-based advertising from Facebook:[ https://www.facebook.com/help/164968693837950](https://www.facebook.com/help/164968693837950?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36)
+  * To opt-out of Facebook’s interest-based ads:[ https://www.facebook.com/about/ads/#568137493302217](https://www.facebook.com/about/ads/#568137493302217?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36)
 
 
 
+Google AdWords (marketing/targeting) & Google Analytics (analytics):[ http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36)
 
-## Service Providers
+  * To learn more about Google Analytics:[ https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245)
+  * To opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads:  [http://www.google.com/settings/ads](http://www.google.com/settings/ads?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36)
+  * To learn more about Google’s cookie policy:[ https://www.google.com/policies/technologies/cookies/](https://www.google.com/policies/technologies/cookies/)
+  * To install the Google Analytics Opt-out Browser Add-on:  [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36)
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-## Communications
+Intercom (chat services):[ https://www.intercom.com/terms-and-policies#privacy](https://www.intercom.com/terms-and-policies#privacy)
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+Stripe (credit card processor):[ https://stripe.com/ca/privacy](https://stripe.com/ca/privacy)
 
-## Business Transaction
+TapFiliate (affiliate tracking software):[ https://tapfiliate.com/privacy/](https://tapfiliate.com/privacy/)
 
-If White Coat Digital Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will make reasonable efforts to provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
+Userpilot (product experience software):[ https://userpilot.com/policy/](https://userpilot.com/policy/)
+
+Wicked Reports (marketing attribution software):[ https://www.wickedreports.com/privacy/](https://www.wickedreports.com/privacy/)
+
+Don’t forget you can opt-out from participating companies through the Digital Advertising Alliance in the USA [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36), the Digital Advertising Alliance of Canada in Canada [http://youradchoices.ca/](http://youradchoices.ca/?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36) or the European Interactive Digital Advertising Alliance in Europe [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/?_fs=cd60d661-4d03-4a80-afe8-9b8f73b31f36), or opt-out using your mobile device settings.
+
+ _Parties with whom it might be legally necessary:_ we may disclose your information if required to do so by law or in the good faith belief that such action is necessary to:
+
+  * Conform with the law or with any legal proceedings;
+  * Protect the rights or property of Funnelytics;
+  * Protect the safety of our product, our users, and their data.
+
+
+
+ _Parties who might take part in a financial transaction with Funnelytics:_ we may transfer your data in the event of a change of ownership, sale, merger, liquidation, reorganization or acquisition of Funnelytics. **We will only do so if the party acquiring your information agrees to comply to the terms of this Policy.**
+
+Please note that our Service may link to products or applications of third parties whose privacy practices may differ from Funnelytics’. If you click on a third-party link, you will be directed to that third party’s site. We strongly advise you to review the privacy policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
+
+## How to access and control your data
+
+You can review, edit or delete your personal information. If you wish to do so, please contact us via the support chat or email us at privacy@funnelytics.io. We will respond to your request as soon as possible. We guarantee a reply within 24 hours of you sending in a request. You request must provide sufficient detail to identify your Personal Information and the modification or deletion being sought.
+
+You may also modify your name, email, and the password associated with your account by accessing the dashboard.
+
+You can **always** opt out of receiving promotional emails and other types of marketing communication from us via the “unsubscribe” tab at the bottom of every email we send out.
+
+## Where your data is stored
+
+Your Personal Information is stored on our servers, maintained by Amazon Web Services (AWS). AWS is GDPR-compliant and EU-US Privacy Shield certified. Your information may also be stored in other countries, following a transfer to the third-parties we work with.
+
+## How long will your data be kept for
+
+We will retain all collected information for as long as necessary to provide the Service, as requested, or for other essential purposes such as complying with any legal obligations. As long as your account is active, we will keep your Personal Information on our systems. We will also dispose of your data if you decide to withdraw your consent. Once your data is removed, you will receive confirmation that your request has been fulfilled.
 
 ## Security
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+We use a variety of physical safeguards to make sure your data is adequately protected. For instance, when transferred to us and stored, your data is encrypted using 128-bit SSL.
 
-## International Transfer
+Access to our database can only be done through a secure VPN. This allows us to create a secure connection to a separate network at all times.
 
-Your information, including Personal Information, may be transferred to â€” and maintained on â€” computers located outside of your province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+We backup your data on a weekly basis on AWS S3. You may visit the AWS website to learn more about their security:[ https://aws.amazon.com/s3/faqs/](https://aws.amazon.com/s3/faqs/).
 
-If you are located outside Canada and choose to provide information to us, please note that we transfer the information, including Personal Information, to Canada and process it there.
+These backups can only be accessed by our Product team. Every member of this team has a different level of access based on the type of data that is needed for them to properly accomplish their work. No team member can access more than what it necessary.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+As for your account information, you can only access your Funnelytics account through the use of an individual user login and password. If you have any questions regarding the security of your Personal Information, please contact us via the support chat or email us at privacy@funnelytics.io
 
-## Links To Other Sites
+## Our policy towards children
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+Our Service does not address anyone under the age of 18 (“Minor”). We do not solicit or knowingly collect personally identifiable information from Minors. If you are a parent or guardian and you are aware that your Minor has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from Minors without verification of parental consent, we will delete any Personal Information we might have collected.
 
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+## Office of the Privacy Commissioner of Canada (OPC)
 
-## Children's Privacy
+If you are not satisfied by Funnelytics’ response following a request regarding the access of your personal information, you may contact the Office of the Privacy Commissioner of Canada (OPC), the public authority in charge of overseeing personal information handling practices in Canada.
 
-Our Service does not address anyone under the age of 18 ("Minor").
+Address:  
+30, Victoria Street  
+Gatineau, Quebec  
+K1A 1H3
 
-We do not knowingly collect personally identifiable information from Minors. If you are a parent or guardian and you are aware that your Minor has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from Minors without verification of parental consent, we take steps to remove that information from our servers.
+Website:[ https://www.priv.gc.ca/en](https://www.priv.gc.ca/en)  
+Toll-free: 1-800-282-1376  
+Phone: (819) 994-5444  
+TTY: (819) 994-6591
 
-## Changes To This Privacy Policy
+## Changes and updates to this Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy Policy from time to time to reflect recent customer feedback or changes regarding the Service. You are therefore advised to review this Privacy Policy periodically for any changes
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, by placing a prominent notice on our website, and by posting the new Privacy Policy on this page. Whenever we update our Policy, we will change the date at the very top of this Privacy Policy.
 
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+## Contacting us
 
-## Contact Us
+If you have any questions or concerns regarding the use of your Personal Information, please contact us via the support chat or email us at: [privacy@funnelytics.io](mailto:privacy@funnelytics.io)
 
-If you have any questions about this Privacy Policy, please contact us.
+Our address is: 144 Front St W, suite 640. Toronto, ON, M5J 2L7, Canada.
