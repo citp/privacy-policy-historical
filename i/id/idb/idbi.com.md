@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idbi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173248id_/https%3A//www.idbi.com/idbi-bank-policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idbi.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408161943id_/https%3A//www.idbi.com/idbi-bank-policies.asp) for the most accurate reproduction.*
 
 # Policies | IDBI Bank
 
