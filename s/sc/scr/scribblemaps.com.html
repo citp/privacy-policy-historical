@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scribblemaps.com privacy policy that was archived on 2018-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181026222945id_/https%3A//www.scribblemaps.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scribblemaps.com privacy policy that was archived on 2019-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190408194150id_/https%3A//www.scribblemaps.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" ng-app="app" class="ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -24,8 +24,8 @@
 
         <link rel="stylesheet" href="/assets/design2017/vendor/owl.carousel.2.3.4/assets/owl.carousel.min.css">
         <link rel="stylesheet" href="/assets/design2017/vendor/owl.carousel.2.3.4/assets/owl.theme.default.min.css">
-        <link rel="stylesheet" href="/assets/design2017/css/style.min.css?v=08292018">
-        <script id="coreCode" src="/assets/design2017/js/bundledCore.min.js?v=08292018" async=""></script>
+        <link rel="stylesheet" href="/assets/design2017/css/style.min.css?v=04042019">
+        <script id="coreCode" src="/assets/design2017/js/bundledCore.min.js?v=04042019"></script>
 
     
     
@@ -53,9 +53,9 @@
                             </li>
 
 
-                            <li>
-                                <a href="/pricing">Pricing</a>
-                            </li>
+                            <!-- <li>
+        <a href="/pricing">Pricing</a>
+    </li> -->
 
                             <li>
                                 <a href="http://blog.scribblemaps.com">Blog</a>
@@ -539,7 +539,7 @@
                 <div class="shell">
                     <div class="footer-bar-inner">
                         <p class="copyright">
-                            Copyright © 2018
+                            Copyright © 2019
                             <a href="http://52stairs.com/" target="_blank">52 Stairs Studio Inc</a>  All rights reserved
                         </p><!-- /.copyright -->
                         <ul>
@@ -672,6 +672,11 @@
                             <div class="errorWrapper">
                                 <div class="loginError ng-binding ng-hide" ng-show="resetError != null"></div>
                             </div>
+                        </div>
+                        <div class="loginConflict ng-hide" ng-show="loginView == 'loginConflict'">
+                            <span class="msg">You are logged in elsewhere. Logout other location?</span>
+                            <div class="btn btn-blue" id="registerNow" ng-click="attemptLogin(true)">Yes</div>
+                            <a ng-click="showLoginPanel()" class="backToLogin">Back To Login</a>
                         </div>
                         <div class="checkEmail ng-hide" ng-show="loginView == 'checkEmail'">
                             <span class="emailSent">Email Sent!</span>
