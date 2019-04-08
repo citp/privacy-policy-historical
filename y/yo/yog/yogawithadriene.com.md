@@ -1,159 +1,76 @@
-> *The following text is extracted and transformed from the yogawithadriene.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929094309id_/http%3A//yogawithadriene.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogawithadriene.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408193406id_/https%3A//do.yogawithadriene.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Yoga With Adriene, LLC
+Yoga With Adriene, LLC (the “Company”) respects the privacy concerns of the users of its website, www.yogawithadriene.com and the services provided therein (the “Site”). The Company thus provides this privacy statement to explain what information is gathered during a visit to the Site and how such information may be used.
 
-The last update to our Privacy Policy was posted on March 7, 2016. This document governs the privacy policy of our Website, [yogawithadriene.com](https://web.archive.org/web/20170929094309id_/http://yogawithadriene.com/privacy_policy/yogawithadriene.com). Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
+Your use of the Company’s services and this site are also governed by those of Yoga With Adriene, LLC, a Texas limited liability company. Please also review the Yoga With Adriene website Terms of Use at https://do.yogawithadriene.com/pages/terms and Privacy Policy https://do.yogawithadriene.com/pages/privacy-policy which also govern use of this Site.
 
-### Definitions
+**Use of Information:** As a general policy, no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Site. However, certain non-personal information is recorded by the standard operation of the Company’s internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience.
 
-“Non-Personal Information” (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser.
+The Site’s various mailing lists, downloads, special offers, contests, registration forms, and surveys may request that you give us contact information such as your name, mailing and/or e-mail address, demographic information such as your age and gender, and personal preference information such as your preferred software and interests. Information submitted at the time of submission will be used by the Company only as necessary for our legitimate business interests, including without limitation the improvement of our products, services and the contents of the Site. The Company may also share such information with our business and promotional partners to further those interests. Personally identifiable information is never sold or leased to any third parties. With your permission, we may use your contact information to send you information about our company and products. You may always opt-out of receiving future mailings as provided below. The Company does not store any credit card information it may receive in regard to a specific transaction and/or billing arrangement except as necessary to complete and satisfy its rights and obligations with regard to such transaction, billing arrangement, and/or as otherwise authorized by a user.
 
-“Personally Identifiable Information” (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service. PII may include information such as your name, address, phone number, credit card information, and other related information that you provide to us.
+The Company may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with the Company’s rights or property, other users of the Site, or anyone else that could be harmed by such activities.
 
-### Our Commitment to Your Privacy
+The Company may also be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.
+Please also note that third-parties who provide and/or publish content via the Company’s Service shall be deemed the data controllers for any personal data contained in the content uploaded by any such party to the Company’s Service ( **“Third-Party Content”** ) and any other personal data processed in relation to such **Third-Party Content**. This privacy policy only concerns the processing for which the Company is data controller. If you have any questions regarding personal data contained in the Third-Party Content, please contact the third-party provider responsible for such Third Party Content.
 
-Yoga With Adriene, LLC is committed to the security and privacy of all our customers. We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience.
+**Children Age 16 and Under:**  The Company recognizes the special obligation to protect personally identifiable information obtained from children age 16 and under. AS SUCH, IF YOU ARE 16 YEARS OLD OR YOUNGER, THE COMPANY REQUESTS THAT YOU NOT SUBMIT ANY PERSONAL INFORMATION TO THE SITE OR TO THE COMPANY. If the Company discovers that a child age 16 or younger has signed up on the Site or provided us with personally identifiable information, we will delete that child’s identifiable information from our records.
 
-Yoga With Adriene, LLC and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
+The Company nonetheless encourages parents to go online with their kids. Here are a few tips to help make a child’s online experience safer:
 
-### Links to Other Websites
+  * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc.
+  * Know the sites your kids are visiting and which sites are appropriate.
+  * Look for Website privacy policies. Know how your child’s information is treated.
+  * Check out the FTC’s site for more tips on protecting children's privacy online
 
-Our Website may contain links to other websites. You understand that these websites are not under our control and are not subject to our Privacy Policy. These websites will likely have their own privacy policies. We have no responsibility for these websites and provide links to these websites solely for your convenience.
 
-You acknowledge that your use and access of these websites is solely at your own risk. It is your responsibility to check the privacy policies of these websites to see how they treat your personal information.
 
-### Information We Collect
+**Use of Cookies:**  Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record-keeping purposes. Cookies make using our Site easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on our Site and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Site may not function properly or may be considerably slower.
 
-Generally, you control the amount and type of information you provide to us when using our Website. As a visitor to our Website, you can browse our Website to find out more about us. You are not required to provide us with any PII as a Visitor.
+Yoga With Adriene uses the following cookies on the Site:
 
-However, if you register as a Member to use our Website, you must provide PII in order for us to provide you with various features and/or functionality from our Website. As a Member, we collect your PII in the following ways:
+Cookie | Name | Purpose  
+---|---|---  
+_kjb_session | Kajabi session cookie | Tracks your active admin session so you don't need to re-login  
+kjba | Kajabi affiliate token | Tracks which affiliate has referred an offer purchase  
+_abv | Admin bar hidden | Tracks whether the user wishes their admin previewing bar to be hidden  
+  
+**  
+Malware/Spyware/Viruses:**  Neither the Company nor the Site knowingly permit the use of malware, spyware, viruses, and/or other similar types of software.
 
-#### At Member Registration
+**Links to External Sites:**  The Company is not responsible for the content or practices of third party websites that may be linked to the Site. The Company is also not responsible for any information that you might share with such linked websites. You should refer to each website’s respective privacy policy and practices prior to disclosing any information.
 
-When you register for membership, we collect your name and email address {and other information listed}.
+**Bulletin Boards and Chat Areas:**  Guests of the Site are solely responsible for the content of messages they post on the Company’s forums, such as chat rooms and bulletin boards. Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address, phone number) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other people. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features.
 
-#### Online Forms
+**Choice/Opt-Out:**  The Site may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list in order to discontinue any such future communications. In order to ensure immediate removal from any list, please follow the specific instructions set forth within the communications you receive from the Company which you no longer wish to receive. If you are unsuccessful in completing the instructions specified in any such communication, please e-mail us at connect@fwfg.com, including a copy of the undesired email attached to the request, and state you wish to be removed from the mailing list.
 
-There may be online forms used in our Website. The information you enter into these online forms may contain PII.
+**Transfer of Information Across National Borders:** Our site and various information we collect are operated on servers located in various jurisdictions, including the United States. When you access or use the Site and/or our services, personal information about you may be transferred outside the country in which you are situated to these other locations. The Company’s policies ensure that such personal information is protected to the same standard when processed by any Company entity or office around the world. We also ensure that appropriate contracts containing standard data protection clauses approved by the European Commission to protect that information and the rights of individuals are in place with any and all third-party service providers we may use.
 
-#### Mobile Application
+**Your Access to and Control Over Your Personally Identifiable Information:** At any time, but only once per calendar year, or as otherwise required under applicable law, users may contact Company to review the personally identifiable information that Company has collected about you. If you discover any errors, please notify Company and the information will be corrected. To review the personally identifiable information that company has collected about you, please send an email to connect@fwfg.com with the subject line: “Personal Information Review Request.” Users may also request that Company delete a user account(s) or, if you have not established a user account, your email address, and any related data at any time. If you wish to delete your user account(s), please email us at connect@fwfg.com with the words “Delete Account” in the subject line. If you do not have a user account and wish to delete your email address or other personally identifiable information that you might have provided through your use of the Site, any Games, and/or any Services, please email us at connect@fwfg.com with the words “Delete My Information” in the subject line.
 
-If you use our mobile application, you may have to provide PII in order to use it.
+You may also choose to confirm that the Company does not use your personal information in certain ways and/or to otherwise “opt out” of certain uses of that personal information, including without limitation (i) when your personal may to be disclosed to a third party unrelated to the Company and/or parties directly related to providing your Services and/or (ii) when your personal information may be used for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by you. If you wish to limit your personal data in either such way, or have other questions about how the Company may use your personal data, please contact us at connect@fwfg.com with the words “Privacy Request” in the subject line.
 
-#### Premium Features
+**Contact Information for Complaints or Concerns:**  If you have any complaints or concerns about the Company or about this privacy statement, please contact:
 
-Our Website may offer premium features for which you must pay to use. If we were to charge you for the use of these premium features, we would need to collect payment source information (i.e. credit card) to bill you for using such premium features.
+Via email: connect@fwfg.com
 
-### Computer Information Collected
+or 
 
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered NPI. We may also collect any of the following:
+Via regular mail: 
 
-#### Cookies
+Yoga With Adriene, LLC   
+Attn: Privacy Policy/Legal   
+1108 Lavaca Ste. 110-188  
+Austin, TX 78701
 
-Our Website uses “Cookies.” A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to identify the areas of our Website that you have visited. We may also use Cookies to identify you as a Member so that you can access various parts or features of our Website. Finally, we may use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access features on our Website correctly or at all. We never place PII in Cookies.
+Information provided by you via general e-mail inquiries to the Company such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
 
-#### Web Beacons
+If you are a resident of the EU and have an unresolved data privacy concern or personal information collection, use, or disclosure concern, you may file a complaint/inquiry with us at: connect@fwfg.com
 
-We may also use a technology called, web beacons, to collect general information about your use of our Website and your use of special promotions or newsletters. The information we collect by Web Beacons allows us to statistically monitor the number of people that open our emails. Our Web Beacons are not used to track your activity outside of our Website. We do not link NPI from Web Beacons to PII without your permission.
+**Security/How Your Personally Identifiable Information Is Protected:** Security for all personally identifiable information is extremely important to us. We have implemented technical, administrative and physical security measures to attempt to protect your personally identifiable information from unauthorized access and improper use. We also protect your personally identifiable information offline. Only employees who need the information to perform a specific job (for example, customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. We continually review all such measures and update them when appropriate. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Company cannot ensure or warrant the security of any information you transmit via the internet. By transmitting any such information to Company, you accept that you do so at your own risk.
 
-#### Automatic Information
+**Your Acceptance of These Terms:**  By using the Site, you accept the policies and restrictions set forth in this Online Privacy Policy. If you do not agree to this policy, please do not use the Site. This Online Privacy Policy may be revised from time to time by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Online Privacy Policy to which you are bound.
 
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
-
-#### Google Ad and Content Network Privacy Policy
-
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following link:  
-<http://www.google.com/policies/technologies/ads>
-
-#### Google Analytics Privacy Policy
-
-Our website uses “Google Analytics” to collect information about the use of our site. Google Analytics collects information such as how often users visit our site, what pages they visit when they do so, and what other sites they used prior to coming to our site. We use the information we get from Google Analytics to improve our site. Google Analytics collects only the IP address assigned to you on the date you visit our site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our site is restricted by the Google Analytics Terms of Use.  
-<http://www.google.com/analytics/terms/us.html>  
-You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.  
-<https://tools.google.com/dlpage/gaoptout>
-
-### How Information is Used
-
-We use the information we receive from you as follows:
-
-#### Providing and Improving Our Website
-
-We may use the PII you provide to us along with any computer information we receive to provide our Website to you as well as to make improvements to it.
-
-#### Communications and Email Alerts
-
-When we communicate with you about our Website, we will use the email address you provided when registering as a Member. We may also send you Website alerts regarding your use of our Website. Finally, we may also send you emails with promotional information about our Website or offers from us or our affiliates, unless you have opted out of receiving such information. You can change contact preferences at any time through your account. While you can opt-out of promotional messages, you cannot opt-out of receiving Website alerts.
-
-#### Sharing Information with Affiliates and Other Third Parties
-
-We do not sell, rent, or otherwise provide your PII to third parties for marketing purposes. However, we may use your Non Personal Information for data aggregation purposes which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PII. We may provide your PII to affiliates that provide services with regards to our Website (i.e. payment processors, webhosting companies, etc.); such affiliates will only receive information necessary to provide the respective Websites and will be bound by confidentiality agreements limiting the use of such information.
-
-#### Community Discussion Boards
-
-Our Website may offer the capability for Users to communicate with each other through online Community Discussion Boards. We do not filter or monitor what is posted on such discussion boards. If you chose to post on these discussion boards, you should use care when exposing any PII as such information is not protected by our Privacy Policy nor are we liable should you choose to disclose PII through such postings.
-
-#### Legally Required Releases of Information
-
-We may be legally required to disclose your PII, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, our Users, employees, and affiliates.
-
-#### Disclosures to Successors
-
-If our business is acquired or merges, in whole or in part, with another business that would become responsible for providing the Website to you, we retain the right to transfer your PII to the new business. The new business would retain the right to use your PII according to the terms of this Privacy Policy as well as to any changes to this Privacy Policy as instituted by the new business.
-
-### Protecting the Privacy Rights of Third Parties
-
-We believe in everyone’s right to privacy. If any postings you make to our Website contain information about third parties, you need to make sure you have permission to include them in your posting. While we are not legally liable for the actions of our Users, we will remove any postings for which we are notified that such postings violate the privacy rights of others.
-
-### Changing Your Information
-
-You may change your PII at any time using facilities found on our Website. If you need assistance with updating your PII or removing yourself from our mailing lists, just send us an email with your request or contact us using the Contact us information found on our Website.
-
-### Opting Out of Sharing Information
-
-You can always opt out of future unaffiliated third-party disclosures of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept.
-
-### “Do Not Track” Settings
-
-Some web browsers have settings that enable you to request that our Website does not track your movement within our Website. Our Website does {IF NOT OBEYING: NOT} obey such settings when transmitted to and detected by our Website. {IF OBEYING: Due to circumstances that are outside our control (i.e. internet transmission issues, web browser/web server incompatibilities, etc.), we may not always be able to detect and honor this setting. However, this does not change our compliance in any other way with our Privacy Policy.
-
-**Change and Turn off tracking features in your browser.** You can turn off tracking features and other security settings in your browser by visiting the following links:
-
-For Internet Explorer visit: <http://goo.gl/0taI7I>  
-For Mozilla Firefox visit: <http://goo.gl/IKxt9l>  
-For Google Chrome visit: <http://goo.gl/NQIkqE>  
-For Safari visit: <http://goo.gl/7XCOzL>
-
-**Google Analytics Opt-out Browser Add-on.** Google provides a free add-on to most major browsers that you can install to prevent your data from being collected and used by Google Analytics. Visit the following link to download the free Google Opt-out Add-on Tool:  
-<http://goo.gl/Ls82zv>
-
-### Protecting Your Child’s Privacy
-
-We follow the Children’s Online Privacy Protection Act (COPPA). Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website. We do not knowingly collect PII from a child. If you are a parent or guardian and believe your child is using our Website, please contact us. We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor do we have any liability to do so. If you are a child, please seek the permission of a parent or guardian before accessing our Website.
-
-### Our Email Policy
-
-We comply with the federal CAN-SPAM Act. You can always opt out of receipt of further email correspondence from us or our affiliates. We will not sell, rent, or trade your email address to any unaffiliated third-party without your permission except in the sale or transfer of our business.
-
-### Our Security Policy
-
-We have taken steps to build our Website using sophisticated encryption and authentication tools to protect the security of your PII. When we collect your PII through our Website, we will encrypt your PII before it travels over the Internet using industry standards as establishing for conducting secure online transactions. We also use industry standard technologies such as secure routers and fire walls to make sure that your PII is safe. Unfortunately, we cannot fully guarantee secure data transmission over the Internet because of its nature.
-
-Once we receive your PII, we have industry standard security measures in place to protect against the loss or misuse of your PII, though again, we cannot fully guarantee against such loss or misuse. We strongly urge you to protect any password you may have for our Website and not share it with anyone. You should always log out of our Website when you are done using it, especially if you are sharing a computer with someone else or are using a computer in a public place.
-
-### Use of Credit Cards
-
-You may have to provide a credit card to buy products and services from our Website. We use third-party billing services and HAVE NO CONTROL over these services. We use our commercially reasonable efforts to make sure that your credit card number is kept STRICTLY CONFIDENTIAL by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number.
-
-### Changes to Our Privacy Policy
-
-As necessary to address changes in laws or our business practices, we may modify our Privacy Policy, in whole or in part, to address these changes. We will typically notify users by some message on our Website home page that our Privacy Policy has changed. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies. We encourage you to review our Privacy Policy periodically to make sure you still agree with it.
-
-### Questions about Our Privacy Policy
-
-If you have any questions about our Privacy Policy, please contact us using the Contact us information found on our Website.
-
-Copyright © Orion Systems. This document, or any portion of, may not be copied or duplicated in any way without the written permission of Orion Systems. [www.DisclaimerTemplate.com](http://www.disclaimertemplate.com/)
+Last Updated: February 15, 2019
