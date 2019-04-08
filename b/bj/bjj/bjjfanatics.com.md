@@ -1,0 +1,148 @@
+> *The following text is extracted and transformed from the bjjfanatics.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408061619id_/https%3A//bjjfanatics.com/pages/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy – BJJ Fanatics
+
+### Introduction.
+
+1.1 ZR Internet LLC (“Company,” or “we,” or “us,” or “our”) is committed to safeguarding the privacy of our website and service users (“users” or “you”) offered from time to time at [ ](https://bjjfanatics.com/)[https://bjjfanatics.com](https://bjjfanatics.com/).
+
+1.2 This policy applies where we are acting as a data controller with respect to your personal data, in other words, where we determine the purposes and means of the processing of that personal data.
+
+1.3 Terms of Service. Use of the Company Service is subject to the terms of our Terms of Service through our online form, which is hereby incorporated and made part of this Privacy Policy. By using the Company Service, you agree to be bound by our Terms of Service.
+
+1.4 Your use of the Company Service is subject to the terms and conditions set forth in this Privacy Policy (the “Privacy Policy”).
+
+1.5 We continually strive to find new ways to enhance your experience with the Company Service and we may modify this Privacy Policy from time to time to reflect changes in our privacy practices. You are encouraged to review this Privacy Policy periodically and to check the “Last Updated” date at the top of the Privacy Policy for the most recent version. If we make changes to this Privacy Policy, we will notify you here, by email, or by means of notice through the Website, the Application, or any other part of the Company Service.
+
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE COMPANY SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY ALL THE TERMS OF THIS PRIVACY POLICY AND OUR TERMS OF SERVICE. IF YOU DO NOT AGREE TO SUCH TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE COMPANY SERVICE.**
+
+2\. Types and Uses of Collected Information. Company collects two types of information about you:
+
+2.1 Personally Identifiable Information. Personally Identifiable Information is information that identifies a specific person. When you engage in certain activities via the Company Service, including but not limited to creating an account, sending feedback, or otherwise participating in the Company Service (collectively, “Identification Activities”), we may ask you to provide certain information about yourself. If you elect to engage in an Identification Activity we may ask you to provide us with certain personal information about yourself, such as your name, address (including zip code), email address, credit card information, telephone number and/or any other information you provide to us, to process your transaction, send communications about them to you, and populate forms for future transactions. When you enroll in the Company Service, we may also ask you to provide us with additional information, such as credit card information. Depending on the Identification Activity, some of the information we ask you to provide may be identified as mandatory and some identified as voluntary. If you do not provide mandatory information for an Identification Activity, you will not be permitted to engage in that Identification Activity with the Company Service. Depending on the Identification Activity, Company might not re-ask you for Personally Identifiable Information if such are already stored with us. If you enroll in the Company Service through a third party (such as Facebook or Google) then Company may receive Personally Identifiable Information from such third party and by using the Company Service, you consent to such receipt of Personally Identifiable Information and its use pursuant to this Privacy Policy by Company. We may use or share Personally Identifiable Information to provide products and/or services to you, to enable Third-Party advertisers to provide products and/or services to you, administer sweepstakes and contests, enhance the operation of the Company Service, improve our marketing and promotional efforts, analyze use of the Company Service, improve the Company Service, and tailor your experience with third parties as provided below in this Privacy Policy. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Terms of Service and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
+
+2.2 Non-Personally Identifiable Information. Non-Personally Identifiable Information is information that does not identify a specific person. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to the Company Service or otherwise participating in the Company Service, the URL of the website you visit after leaving the Company Service, the type of browser you are using, your Internet Protocol (“IP”) address, mobile carrier information, mobile device information, or general and/or aggregated location data that does constitute Personally Identifiable Information. We, and/or our authorized Third-Party Service Providers, may automatically collect this information when you visit or use the Company Service using electronic tools like Cookies and Web beacons or Pixel tags, as described below in this Privacy Policy. Most of the other information we collect for mobile, such as your mobile device identification and mobile device type, the request type, your mobile carrier, your mobile carrier user identification, and the content of your request, does not by itself identify you to Company, though it may be unique or consist of or contain information that you consider personal. We use Non-Personally Identifiable Information to troubleshoot, administer the Company Service, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third-Party Service Providers to measure the overall effectiveness of our products and services.
+
+### 3\. How we use your personal data.
+
+3.1 In this Section 2 we have set out: (a) the general categories of personal data that we may process; (b) the purposes for which we may process personal data; and (c) the legal bases of the processing.
+
+3.2 We may process data about your use of our website and services ("usage data"). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use]. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analyzing the use of the website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+
+3.3 We may process your account data ("account data"). The account data may include your name and email address. The source of the account data is you. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+
+3.4 We may process your information included in your personal profile on our website ("profile data"). The profile data may include your name, address, telephone number, email address, profile pictures, gender, date of birth, relationship status, interests and hobbies, educational details and employment details. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+
+3.5 We may process information that you post for publication on our website or through our services ("publication data"). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+
+3.6 We may process information contained in any inquiry you submit to us regarding goods and/or services ("inquiry data"). The inquiry data may be processed for the purposes of offering, marketing and selling relevant goods and/or services to you. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+
+3.7 We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our website ("transaction data"). The transaction data may include first and last names, an email address to be used as a login, billing contact information, credit card number and a password. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract and our legitimate interests.
+
+3.8 We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters ("notification data"). The notification data may be processed [for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+
+3.9 We may process information contained in or relating to any communication that you send to us ("correspondence data"). The correspondence data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+
+3.10 We may process any of your personal data identified in this policy where necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others.
+
+3.11 In addition to the specific purposes for which we may process your personal data set out in this Section 2, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+3.12 Please do not supply any other person's personal data to us unless we prompt you to do so and have that person or person’s authorization to do so.
+
+### 4\. Providing your personal data to others
+
+4.1 We may disclose your personal data to any member of our group of companies, this means our subsidiaries, our ultimate holding company and all its subsidiaries insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
+
+4.2 Financial transactions relating to our website and services may be handled by our payment services providers. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+
+4.3 We may disclose your inquiry data to one or more of those selected third-party suppliers of services via APIs identified on our website for the purpose of enabling them to connect your account with their Services. Each such third party will act as a data controller in relation to the inquiry data that we supply to it. Each such third party will supply to you a copy of its own privacy policy, which will govern that third party's use of your personal data.
+
+4.4 In addition to the specific disclosures of personal data set out in this Section 3, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+
+4.5 We may use Third Party Service Providers to serve ads when you participate in the Company Service. These companies may use Non-Personally Identifiable Information about your visits and use of the Company Service, and visits to other websites or locations to provide, through the use of network tags, advertisements about goods and services that may be of interest to you.
+
+4.6 We use MailerLite to manage our email marketing subscriber list and to send emails to our subscribers. MailerLite is a third-party provider, which may collect and process your data using industry standard technologies to help us monitor and improve our newsletter. MailerLite’s privacy policy is available at [ ](https://www.mailerlite.com/privacy-policy)<https://www.mailerlite.com/privacy-policy>. You can unsubscribe from our newsletter by clicking on the unsubscribe link provided at the end of each newsletter.
+
+### 5\. About cookies
+
+5.1 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+5.2 Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+5.3 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+5.4 We use cookies for the following purposes: (a) authentication - we use cookies to identify you when you visit our website and as you navigate our website. (b) status - we use cookies to help us to determine if you are logged into our website. (c) personalization - we use cookies [to store information about your preferences and to personalize the website for you. (d) security - we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally. (e) advertising - we use cookies to help us to display advertisements that will be relevant to (f) analysis - we use cookies [to help us to analyze the use and performance of our website and services; and (g) cookie consent - we use cookies [to store your preferences in relation to the use of cookies more generally.
+
+### 6\. Cookies used by our service providers
+
+6.1 Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
+
+6.2 We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: https://www.google.com/policies/privacy/.
+
+### 7\. Managing cookies
+
+7.1 Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links: (a) https://support.google.com/chrome/answer/95647?hl=en (Chrome); (b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox); (c) http://www.opera.com/help/tutorials/security/cookies/ (Opera); (d) https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete- manage-cookies (Internet Explorer); (e) https://support.apple.com/kb/PH21411 (Safari); and (f) https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).
+
+7.2 Blocking all cookies will have a negative impact upon the usability of many websites.
+
+7.3 If you block cookies, you will not be able to use all the features on our website.
+
+### 8\. Security of Information. 
+
+You can access your Personally Identifiable Information via the Company Service with your password and username. This password is encrypted. We advise against sharing your password with anyone. If you access your account via a third-party site or service, you may have additional or different sign-in protections via that third-party site or service. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-in mechanism appropriately and limiting access to your computer, browser, or mobile device by signing off after you have finished accessing your account. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. If we believe that the security of your information may have been compromised, we may seek to notify you of that development.
+
+We are committed to taking all reasonable precautions to safeguard the privacy of personal information which has been provided by its users. We use technical, contractual, administrative and physical security steps to protect your personal information. Security measures such as restricted access and the use of passwords and encryption have been adopted to protect your personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. Our employees have been trained to respect your privacy at all times and those employees with access to your personal information shall use your personal information strictly in accordance with this Privacy Policy. We will protect your credit card information by using industry standard encryption technology.
+
+Please be aware that no data transmission over the Internet or via e-mail is completely secure and therefore we cannot guarantee protection of all personal information in all cases. For example, we cannot guarantee protection against interception, misappropriation, misuse, or alteration, or that your information will not be disclosed or accessed by the unauthorized acts of others. Consequently, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. If you provide us with your credit card number, you should not send it electronically unless the email is encrypted, or your browser indicates that the access to our website is secure. Materials posted  
+to online forums such as bulletin boards or chat rooms are public, not secure, and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in unsolicited messages from other parties.
+
+### 9\. Analytics
+
+We continuously improve our websites and our products, and we utilize different third-party web analytics tools to help us do so. We are interested in how visitors use our websites, our desktop tools, our mobile applications, what they like and dislike, and where they have problems. Our products, desktop tools and mobile applications use analytical tools to understand feature usage patterns, to enhance and improve your product experience and offer you specific usage tips and guidance. In connection with normal business operations, as well as to increase functionality and enhance your user experience, this usage information may be linked to personal information that we have about individual users. We maintain ownership of this data and we do not share this type of data about individual users with third parties.
+
+This information is used solely to assist us in maintaining a more effective and useful websites and products for our customers. This data will not be shared with third parties without your prior consent or unless required by law.
+
+### 10\. Your rights
+
+10.1 In this Section we have summarized the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
+
+10.2 Your principal rights under data protection law are: (a) the right to access;  
+(b) the right to rectification; (c) the right to erasure; (d) the right to restrict processing; (e) the right to object to processing; (f) the right to data portability; (g) the right to complain to a supervisory authority; and (h) the right to withdraw consent.
+
+10.3 You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. You can access your personal data by visiting your profile when logged in.
+
+10.4 You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
+
+10.5 In some circumstances you have the right to the erasure of your personal data without undue delay, and at the latest within one month of receiving your valid request. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully process. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims.
+
+10.6 In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful, but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defense of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defense of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
+
+10.7 You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defense of legal claims.
+
+10.8 You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
+
+10.9 You have the right to object to our processing of your personal data for scientific or historical research purposes or statistical purposes on grounds relating to your particular situation, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
+
+10.10 To the extent that the legal basis for our processing of your personal data is: (a) consent; or (b) that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract, and such processing is carried out by automated means, you have the right to receive your personal data from us in a  
+structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.
+
+10.11 If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+
+10.12 To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+
+### 11\. Children.
+
+The Company Service are not directed to people under the age of eighteen (18). If you become aware that your child has provided us with personal information without your consent, please contact us at the email address listed below. If we become aware that a child under eighteen (18) has provided us with personal information, we take steps to remove such information and terminate the child’s account.
+
+### 12\. Retaining and deleting personal data
+
+12.1 This Section 12 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
+
+12.2 Personal data that we process for any purpose or purposes shall be kept until such time as we receive a request for deletion from you.
+
+12.3 Notwithstanding the other provisions of this Section 12, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+### 13\. Notice of Privacy Rights to California Residents. 
+
+California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (“COPPA”) and the California Business and Professions Code. As required by COPPA, we will provide you with the categories of Personally Identifiable Information that we collect through the Company Service and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. COPPA further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or physical mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with our marketing partners. The request should be sent to the attention of our legal department and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.
+
+14\. Who can I ask if I have additional questions? For additional inquiries about the privacy of your information, you can contact us by emailing us at [support@bjjfanatics.com](mailto:support@bjjfanatics.com).
