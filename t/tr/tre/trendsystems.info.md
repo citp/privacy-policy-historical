@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendsystems.info privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207022936id_/http%3A//trendsystems.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendsystems.info privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408113438id_/http%3A//trendsystems.info/privacy) for the most accurate reproduction.*
 
 # privacy – trendsystems.info
 
