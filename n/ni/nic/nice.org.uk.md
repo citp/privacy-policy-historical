@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nice.org.uk privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912062112id_/https%3A//www.nice.org.uk/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nice.org.uk privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408212930id_/https%3A//www.nice.org.uk/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | NICE
 
@@ -76,7 +76,21 @@ For more information about how MailChimp process personal data please see their�
 
 The legal basis we rely on to process your personal data is your consent under article 6(1)(a) of the GDPR. You can unsubscribe at any time by following instructions in your newsletter.
 
-Back to top 
+Back to top
+
+* * *
+
+## NICE conference
+
+We use a third party to organise and facilitate the NICE conference, currently this is Dods Parliamentary Communications Limited (“Dods”).
+
+When you register for NICE Conference 2019, you data will be collected by Dods and used for the purposes set out in their [privacy notice](http://www.niceconference.org.uk/privacy-policy).
+
+Dods will share your name, job title and contact information with us, this is so we can contact you about future NICE conferences. In the event that we use another third party to organise and facilitate future NICE conferences, we will share your data with them for the sole purpose of telling you about the NICE conference.
+
+If you do not wish for us to share your data with third parties and/or you would like to be removed from our NICE conference contact list, you can do this by emailing [nice@nice.org.uk](mailto:nice@nice.org.uk).
+
+The legal basis we rely on to process your data is Article 6 (1)(f) of the GDPR ‘…legitimate interests…’.
 
 * * *
 
@@ -132,6 +146,8 @@ If your application to join the panel is unsuccessful - we will hold your data f
 
 The legal basis we rely on to process your data is Article 6(1)(e) of the GDPR ‘…exercise of official authority…’ 
 
+Back to top
+
 ### Audience insight community
 
 The purpose of the audience insight community is to ensure the views, experiences, needs and expectations of NICE's current and potential audiences are systematically gathered and interpreted to support product and service planning, development and evaluation.
@@ -173,6 +189,8 @@ The legal basis we rely on to process your data is Article 6(1)(e) of the GDPR �
 ### Registering as a stakeholder and commenting on consultations
 
 All of our guidance, quality standards, and other products are developed taking into account the opinions and views of the people who will be affected by them, including patients, carers and members of the public, as well as health and social care professionals, NHS organisations, industry, social care businesses and local government.
+
+Back to top
 
 ### Consultations
 
@@ -240,9 +258,40 @@ For student champions we rely on Article 6(1)(b) – ‘processing is necessary 
 
 If you are a workshop attendee the legal basis we rely on to process your personal data is your consent under article 6(1)(a) of the GDPR.
 
-You can withdraw your consent at any time by contacting us at [studentchampions@evidence.nhs.uk](mailto:studentchampions@evidence.nhs.uk)[](mailto:studentchampions@evidence.nhs.uk)
+You can withdraw your consent at any time by contacting us at [studentchampions@evidence.nhs.uk](mailto:studentchampions@evidence.nhs.uk)
 
-Back to top 
+### Joint Information Group
+
+The Joint Information Group (JIG) brings together information specialist representatives from NICE, organisations contracted by NICE, and from related organisations.
+
+If you join the group as a representative you will be asked to provide your name and email address. This information will be used to subscribe you to the Joint Information Group mailing list (JIG@jiscmail.ac.uk) so that you receive communications about meetings and related activities.
+
+More information about how JiscMail process your data can be found [here](https://www.jiscmail.ac.uk/policyandsecurity/#10).
+
+If you no longer wish to be part of the group you can unsubscribe from the JIG list at any time [here](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=JIG&A=1) –  if you have changed role/ organisation we would encourage you to contact Janette Boynton at NICE so we can ensure a new representative from your organisation is invited to the group.
+
+#### Stakeholder updates
+
+Twice a year JIG representatives will ask all relevant organisations to supply a ‘stakeholder update’ for the group, for example, about any IS-related projects they have been working on and to include contact details where relevant. Stakeholder updates will be circulated to the full NICE IS network. This includes to ISs working at the following organisations: NICE, EPPI-Centre, External Assessment Centres (medical technologies), InterTASC ISSG/External Assessment Groups (diagnostics), National Guideline Alliance, National Guideline Centre, Public Health England and to members of the Cochrane Information Retrieval Methods Group. The purpose of including a contact name and email address is to enable members of the network to engage with each other about projects and developments.
+
+The legal basis we rely on for processing your personal data is Article 6(1)(f) ‘…for the purposes of the legitimate interests…’
+
+### Field team
+
+We use a Microsoft Dynamics customer relationship management system to process data, including personal data. The types of personal data we collect are name, job title and contact information. This data is used to help us plan, implement and evaluate the effectiveness of our engagement programmes and improve the service we offer.
+
+We may provide anonymised feedback to internal teams within NICE and on occasion may provide personal contact details to internal teams within NICE to:
+
+  * help them to evaluate similar NICE products, services and programmes to those we have engaged with you about
+  * raise awareness of and send invitations to events organised, or supported by NICE, again only for related topics
+
+
+
+We routinely delete personal data 3 years after the last time that we have engaged with the individual that it relates to.
+
+The legal basis we rely on to process your data is Article 6(1) (e) of the GDPR‘…exercise of official authority…’. 
+
+Back to top
 
 * * *
 
@@ -266,7 +315,65 @@ Back to top
 
 * * *
 
+## Our products
+
+We use lots of data to inform our products and help us make decisions, some of the data we use is personal data. Instances where we use identifiable and/or pseudonymised data are detailed below.
+
+Information about how your confidential patient data is used in the health and care system for reason beyond your individual care, along with the choices you have about whether you want your data to be used in this way can be found in the ‘national data opt-out’ section, under the ‘your rights’ heading.
+
+### Hospital Episode Statistics (HES)
+
+[HES data](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics) contains details of all admissions, A&E attendances and outpatient appointments at NHS hospitals in England.
+
+At NICE we use pseudonymised HES data to help inform reports, templates and statements that sit alongside our guidance. These implementation tools detail the potential impact of implementing guidance on NHS finances and other resources (workforce, capacity and demand, infrastructure and training and education). Many of these outputs are published on our website – we do not publish or share it with third parties.
+
+We obtain HES data from [NHS Digital](https://digital.nhs.uk/) under a Data Sharing Agreement (DSA). We are the data controller for the information we process under this DSA.
+
+The types of data we process include:
+
+  * clinical information about diagnoses and operations
+  * patient information, such as age group, gender and ethnicity
+  * administrative information, such as dates and methods of admission and discharge
+  * geographical information such as where patients are treated and the area where they live
+
+
+
+We routinely delete HES data after 12 months, HES data in a publishable format is retained for as long as it has business value.
+
+The legal basis we rely on to process this data is Article 6(1)(e) of the GDPR ‘…exercise of official authority…’ 
+
+And for the processing of special category data Article 9(2)(j) of the GDPR ‘…statistical purposes…’
+
+Back to top
+
+* * *
+
 ## Our services
+
+### Health Tech Connect
+
+Health Tech Connect is an online, single point of entry that connects companies to relevant information and support to help the development, evaluation and adoption of health technologies in the UK. It is a database owned by NHS England and hosted by the National Institute for Health and Care Excellence (NICE).
+
+When an individual registers to use HealthTech Connect for the first time to input details about their health technology, we ask for the name of their Organisation and personal details including the name, email address and phone number of the person registering. We ask the individual registering for the name and contact details of a responsible Director within their company to ensure the appropriate authority and approvals are in place for entering and sharing details of the health technology.
+
+We use this data:
+
+  * to complete the organisation and user registration processes that are described on the HealthTech Connect website
+  * for authentication purposes when users log into the secure section of the HealthTech Connect website
+  * to communicate with users about database service problems, update releases, technical developments, user-initiated enquiries and training events and presentations
+  * to communicate with users, on behalf of the HealthTech Connect User Group or Oversight and Governance Committee, about changes to the database structure, the record management process, user agreement content, opportunities to participate in the management or development of the service or other relevant notifications about the service
+  * to communicate with users as a part of the HealthTech Connect record quality assurance process
+  * to resolve technical problems or help maintain the database.
+
+
+
+The legal basis we rely on to process your data is Article 6(1)(e) of the GDPR ‘…exercise of official authority…’
+
+We also use user data to:
+
+  * share your name and contact details, only with your explicit consent, with authorised data accessors who aim to provide help and support to your company for the development, evaluation and adoption of your technology.
+
+
 
 ### META tool
 
@@ -373,6 +480,38 @@ If you are an external expert who we have entered into a contract with, we ask f
 Please note that on request we will pass your details onto the company whose products you are advising on/ reviewing.
 
 The legal basis we rely on to process your data is Article 6(1) (e) of the GDPR ‘…exercise of official authority…’ 
+
+### Science Policy and Research
+
+When you submit an enquiry to NICE’s Science Policy and Research Programme, we ask you to provide your personal data so we can contact you about your enquiry.
+
+If you have a general enquiry we will store your personal data for 1 year and delete it if we have no further interaction with you.
+
+If your enquiry is about involvement in or supporting a research project but no activity to progress this takes place we will store your personal data for 1 year and delete it if we have no further interaction with you.
+
+If we offer a letter of support for your research we keep a copy of this on record, we will delete other personal data after 2 years.
+
+If we support or collaborate with you on an application for a research project including for funding and this is not successful we will store your personal data for 2 years after the decision date.
+
+If you contact us in relation to a live project we collaborate on or are involved with we may be subject to the privacy notice of the project management office or funder. Please see the relevant projects or funder’s websites for their privacy notice. If we are the data controller we will hold your personal data for 6 years after the project ends. You can [email us](mailto:research@nice.org.uk) if you are unsure which privacy notice your personal data is subject to.
+
+If we support or collaborate with you on an application for research funding and this is successful we will store your personal data for 6 years after the project end date.
+
+All research projects we support, collaborate or participate in will be entered on NICE’s research register to comply with NICE’s Research Governance Policy.
+
+The legal basis we rely on to process your data is Article 6(1) (e) of the GDPR ‘…exercise of official authority…
+
+### Science Policy and Research events
+
+Your personal data will be processed to organise and manage the event and any subsequent events related to it. This can include, creating a contact list, asking about any special requirements (to accommodate dietary requirements or reasonable adjustments) and details needed to support booking travel, accommodation or paying expenses.
+
+Your personal data will be held for 6 years after the last meeting, or the project end date, whichever is the later.
+
+The legal basis we rely on to process your data is Article 6(1) (e) of the GDPR
+
+‘…exercise of official authority…’.
+
+When we process information about dietary or access requirements we rely on Article 9(2)(b) of the GDPR ‘processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller or of the data subject in the field of employment and social security and social protection law…’.
 
 Back to top 
 
@@ -483,7 +622,7 @@ We use a third-party survey provider to administer our staff surveys. They are p
 
 #### Payroll and Pensions 
 
-We use NHS Shared Business Services (SBS) to help manage our payroll. SBS access relevant information about you through ESR THIS IS SO THEY CAN pay your salary and any expenses you may claim, to make appropriate deductions and to comply with our legal and statutory obligations.
+We use NHS Shared Business Services (SBS) to help manage our payroll. SBS access relevant information about you through ESR this is so they can pay your salary and any expenses you may claim, to make appropriate deductions and to comply with our legal and statutory obligations.
 
 #### Legal basis for processing
 
@@ -569,6 +708,32 @@ The Freedom of Information Act 2000 provides a right of access to recorded infor
 
 If you would like to find out more, please see our [freedom of information page](https://www.nice.org.uk/freedom-of-information).
 
+## National data opt out
+
+We are one of many organisations working in the health and care system to improve care for patients and the public.
+
+Whenever you use a health or care service, such as attending Accident & Emergency or using Community Care services, important information about you is collected in a patient record for that service. Collecting this information helps to ensure you get the best possible care and treatment.
+
+The information collected about you when you use these services can also be used and provided to other organisations for purposes beyond your individual care, for instance to help with:
+
+  * improving the quality and standards of care provided
+  * research into the development of new treatments
+  * preventing illness and diseases
+  * monitoring safety
+  * planning services
+
+
+
+Most of the time, anonymised data is used for research and planning so that you cannot be identified in which case your confidential patient information isn’t needed.
+
+You have a choice about whether you want your confidential patient information to be used in this way. If you are happy with this use of information you do not need to do anything. If you do choose to opt-out your confidential patient information will still be used to support your individual care.
+
+To find out more or to register your choice to opt out, please visit [www.nhs.uk/your-nhs-data-matters](http://www.nhs.uk/your-nhs-data-matters).
+
+We do not process any identifiable patient data at NICE and are in compliance with the national data opt-out policy.
+
+Information about how we use pseudonymised data can be found under the ‘our products’ section of this privacy notice.
+
 ## Useful information
 
 ### Links to other websites
@@ -583,8 +748,8 @@ Our public task consists of the functions we are under a legal duty to perform.
 
 These are set out in:
 
-  * the [Health and Social Care Act 2012](http://www.legislation.gov.uk/ukpga/2012/7/contents/enacted)(HSCA 2012)
-  * the [National Institute for Health and Social Care Excellence (Constitution and Functions) and the Health and Social Care Information Centre (Functions) Regulations 2013](http://www.legislation.gov.uk/uksi/2013/259/made)(the 2013 Regulations). 
+  * the [Health and Social Care Act 2012](http://www.legislation.gov.uk/ukpga/2012/7/contents/enacted) (HSCA 2012)
+  * the [National Institute for Health and Social Care Excellence (Constitution and Functions) and the Health and Social Care Information Centre (Functions) Regulations 2013](http://www.legislation.gov.uk/uksi/2013/259/made) (the 2013 Regulations). 
 
 
 
@@ -592,7 +757,7 @@ You may also find [our charter](https://www.nice.org.uk/about/who-we-are/our-cha
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 25th May 2018.
+We keep our privacy notice under regular review. This privacy notice was last updated on 12 December 2018.
 
 ## Our Data Protection Officer
 
@@ -619,7 +784,7 @@ Piccadilly Plaza
 Manchester  
 M1 4BT
 
-If you want to make a complaint about the way we have processed your personal data please follow our [general complaints policy and procedure](https://www.nice.org.uk/Media/Default/About/Who-we-are/Policies-and-procedures/General-Complaints-Policy-Procedure-Nov15.pdf).
+If you want to make a complaint about the way we have processed your personal data please follow our [general complaints policy and procedure](https://www.nice.org.uk/Media/Default/About/Who-we-are/Policies-and-procedures/general-complaints-policy-and-procedure.pdf).
 
 If you feel that we have not met our responsibilities under the General Data Protection Regulation, you have a right to request an independent assessment from the Information Commissioner’s Office (ICO). You can find more details on their [website](https://ico.org.uk/).
 
