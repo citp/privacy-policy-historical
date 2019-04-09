@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119105711id_/https%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409142355id_/https%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
