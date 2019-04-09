@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vandyke.com privacy policy that was archived on 2018-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181106191340id_/https%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vandyke.com privacy policy that was archived on 2019-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190409201848id_/https%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="uk-notouch flexbox"><!-- InstanceBegin template="/Templates/generaltemplate.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta charset="UTF-8">
@@ -465,22 +465,24 @@ If you wish to review or have questions regarding your information, please email
 </div> <!-- end of container div -->
 <script type="text/javascript" src="/css/jquery.plugins.min.js"></script>
 <script type="text/javascript" src="/css/scripts.min.js"></script>
-
+<script type="text/javascript" src="/css/vds_gdpr.js"></script>
 <!-- load customer quotes javascript after jquery -->
 <!-- InstanceBeginEditable name="dateStamp" -->
 <!-- This page was last updated on 2009-27-10 yyyy-dd-mm -->
 <!-- InstanceEndEditable --><!-- #BeginLibraryItem "/Library/tracking_code.lbi" --><!-- Begin web analytics code --><!-- Piwik -->
 <script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.vandyke.com/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 1]); /*vandyke 1, whatsnew 2, forums 3 */
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
+var _paq = _paq || [];
+if (typeof get_gdpr_pref !== 'function' || !get_gdpr_pref(CookieClass.ANALYTIC))
+	_paq.push(['disableCookies']);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+	var u="//piwik.vandyke.com/";
+	_paq.push(['setTrackerUrl', u+'piwik.php']);
+	_paq.push(['setSiteId', 1]); /*vandyke 1, whatsnew 2, forums 3*/
+	var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
 </script>
 <noscript><p><img src="//piwik.vandyke.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code --><!-- End web analytics code -->
