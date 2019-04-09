@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the meundies.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224120035id_/https%3A//www.meundies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meundies.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409082116id_/https%3A//www.meundies.com/privacy) for the most accurate reproduction.*
 
 # MeUndies | The World's Most Comfortable Underwear for Men & Women - MeUndies
 
 Free US Shipping & Returns 
 
-**Need a Last Minute Gift?** Customize a [Gift Card](https://www.meundies.com/giftcard) and Call it a Day 🎁 
+**Experience mind-blowing softness or get your money back** ☁️
 
-**Need a Last Minute Gift?** Customize a [Gift Card](https://www.meundies.com/giftcard) and Call it a Day 🎁 
+**Try it for 90 days.** Experience Mind-blowing softness or get your money back ☁️
 
 Last Updated: May 25, 2018 
 
