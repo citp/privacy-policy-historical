@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yarnspirations.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729080310id_/https%3A//www.yarnspirations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarnspirations.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409143455id_/https%3A//www.yarnspirations.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Yarnspirations
 
@@ -8,7 +8,7 @@
 
 Spinrite LP (“Spinrite”, “we”, “us” or “our”) respects your privacy and pledges to earn and keep your trust. All personal information that we collect from you is maintained in accordance with this Privacy Policy (the “Policy”) and will not be used in ways that are contrary to this Policy. “Personal information” is any information that identifies you, or by which your identity could be deduced. **(Business contact information is a category of personal information (e.g., an individual’s name, business title, business address or business telephone number), which is defined as any information used for the purpose of communicating or facilitating communication with an individual in relation to their employment, business or profession. Organizations can collect, use and disclose business contact information without consent as long as it is used solely for the purpose of communicating or facilitating communication with someone with respect to his/her job.**
 
-This policy is incorporated by reference to our [Terms of Use](http://www.yarnspirations.com/terms.html).
+This policy is incorporated by reference to our [Terms of Use](https://www.yarnspirations.com/terms.html).
 
 #### Your Consent
 
@@ -24,7 +24,7 @@ Like many other websites, we also use passive tracking technologies and third-pa
 
 **Cookies**
 
-At times we send your computer a "cookie," a small piece of data that is stored in a file on your hard drive. The use of cookies is standard procedure for websites, and those from our website are secure and do not carry viruses. We use cookies to give you better, more personalized service once you've become a member of our website. This information is for internal use only; we don't share it with others. You're always free to decline our cookies if your browser permits, but some parts of our website may not work properly for you if you do. You can read our complete Cookies Policy [here](http://www.yarnspirations.com/cookies.html).
+At times we send your computer a "cookie," a small piece of data that is stored in a file on your hard drive. The use of cookies is standard procedure for websites, and those from our website are secure and do not carry viruses. We use cookies to give you better, more personalized service once you've become a member of our website. This information is for internal use only; we don't share it with others. You're always free to decline our cookies if your browser permits, but some parts of our website may not work properly for you if you do. You can read our complete Cookies Policy [here](https://www.yarnspirations.com/cookies.html).
 
 **IP Address Tracking**
 
@@ -95,7 +95,7 @@ You have some choices when it comes to online behavioural advertising: [We adher
 
 
 
-For more information, including how to opt out of having your online behavior collected for advertising purposes or to exercise choice for companies participating in the DAA tool, please see [www.aboutads.info](https://web.archive.org/web/20180729080310id_/https%3A//www.yarnspirations.com/www.aboutads.info). Choices you make are both browser and device-specific.
+For more information, including how to opt out of having your online behavior collected for advertising purposes or to exercise choice for companies participating in the DAA tool, please see [www.aboutads.info](https://web.archive.org/web/20190409143455id_/https%3A//www.yarnspirations.com/www.aboutads.info). Choices you make are both browser and device-specific.
 
 #### Do Not Track
 
