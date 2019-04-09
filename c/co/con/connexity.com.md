@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109100331id_/https%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410005522id_/https%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connexity
 
@@ -159,9 +159,11 @@ Cheshire SK9 5AF
 United Kingdom  | 
 
 **United Kingdom**  
-Connexity UK Ltd.  
-111 Buckingham Palace Rd., 4th Floor  
-London SW1WOSR
+Connexity UK Limited  
+Level 4  
+Aviation House  
+125 Kingsway  
+London WC2B 6NH
 
 **Germany**  
 Connexity Europe GmbH  
