@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creflodollarministries.org privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210142020id_/http%3A//www.creflodollarministries.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creflodollarministries.org privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409205744id_/https%3A//www.creflodollarministries.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Entering into God's Rest Part 1-1 | CDM International
 
