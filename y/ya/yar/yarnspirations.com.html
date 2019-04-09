@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yarnspirations.com privacy policy that was archived on 2018-07-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180729080310id_/https%3A//www.yarnspirations.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yarnspirations.com privacy policy that was archived on 2019-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190409143455id_/https%3A//www.yarnspirations.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -145,7 +145,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -191,6 +197,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -235,10 +268,7 @@ CQuotient.getCQUserId = function () {
 
 <!-- UI -->
 
-
-
-
-<link rel="stylesheet" href="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1532701007147/css/style.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1554782244272/css/style.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -295,7 +325,7 @@ window.location.reload();
 
 
 <script>
-dataLayer = [{"demandwareID":"abaNf3ETLq7nYjxZuwQKSRTBMh","loggedInState":false,"pageLanguage":"en_US","currency":"USD"},{}];
+dataLayer = [{"demandwareID":"acYcFIxmLzBKaIJX6ZFXXGnGl3","loggedInState":false,"pageLanguage":"en_US","currency":"USD"},{}];
 </script>
 <!-- Google Tag Manager -->
 <noscript>
@@ -410,7 +440,7 @@ dataLayer = [{"demandwareID":"abaNf3ETLq7nYjxZuwQKSRTBMh","loggedInState":false,
 <div class="html-slot-container" data-slot-id="header-banner">
 
 
-<div class="header-promotion">Free Standard Shipping for orders over $60</div>
+<div class="header-promotion">Free Standard Shipping for orders over $60. <a href="/promotional-details.html" style="color:white;">View details</a></div>
 
 
 </div> 
@@ -426,7 +456,7 @@ dataLayer = [{"demandwareID":"abaNf3ETLq7nYjxZuwQKSRTBMh","loggedInState":false,
 
 <svg class="icon menu-icon svg-menu-icon-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#menu-icon"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#menu-icon"></use>
 
 </svg>
 
@@ -435,8 +465,8 @@ dataLayer = [{"demandwareID":"abaNf3ETLq7nYjxZuwQKSRTBMh","loggedInState":false,
 </button>
 <div class="primary-logo">
 <a href="/" title="| Yarnspirations Home">
-<img src="/on/demandware.static/Sites-yarnspirations-Site/-/default/dw33aa92eb/images/logo.svg" alt="" class="desktop-logo">
-<img src="/on/demandware.static/Sites-yarnspirations-Site/-/default/dw50995012/images/logo-mobile.svg" alt="" class="mobile-logo">
+<img src="/on/demandware.static/Sites-yarnspirations-Site/-/default/dw33aa92eb/images/logo.svg" alt="Yarnspirations – Largest online collection of yarn, knitting patterns &amp; crochet patterns." class="desktop-logo">
+<img src="/on/demandware.static/Sites-yarnspirations-Site/-/default/dw50995012/images/logo-mobile.svg" alt="Yarnspirations – Largest online collection of yarn, knitting patterns &amp; crochet patterns." class="mobile-logo">
 </a>
 </div>
 <button class="search-toggle">
@@ -446,7 +476,7 @@ dataLayer = [{"demandwareID":"abaNf3ETLq7nYjxZuwQKSRTBMh","loggedInState":false,
 
 <svg class="icon search-mobile svg-search-mobile-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#search-mobile"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#search-mobile"></use>
 
 </svg>
 
@@ -548,7 +578,7 @@ dataLayer = [{"demandwareID":"abaNf3ETLq7nYjxZuwQKSRTBMh","loggedInState":false,
 
 <svg class="icon search svg-search-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#search"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#search"></use>
 
 </svg>
 
@@ -567,7 +597,7 @@ dataLayer = [{"demandwareID":"abaNf3ETLq7nYjxZuwQKSRTBMh","loggedInState":false,
 
 <svg class="icon close svg-close-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#close"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#close"></use>
 
 </svg>
 
@@ -575,7 +605,7 @@ dataLayer = [{"demandwareID":"abaNf3ETLq7nYjxZuwQKSRTBMh","loggedInState":false,
 </div>
 <div class="primary-logo">
 <a href="/" title="| Yarnspirations Home">
-<img src="/on/demandware.static/Sites-yarnspirations-Site/-/default/dw50995012/images/logo-mobile.svg" alt="" class="mobile-logo">
+<img src="/on/demandware.static/Sites-yarnspirations-Site/-/default/dw50995012/images/logo-mobile.svg" alt="Yarnspirations – Largest online collection of yarn, knitting patterns &amp; crochet patterns." class="mobile-logo">
 </a>
 </div>
 
@@ -675,7 +705,7 @@ dataLayer = [{"demandwareID":"abaNf3ETLq7nYjxZuwQKSRTBMh","loggedInState":false,
 
 
 
-<a class="has-sub-menu" href="http://www.yarnspirations.com/yarn">
+<a class="has-sub-menu" href="https://www.yarnspirations.com/yarn">
 Yarn
 </a>
 
@@ -685,7 +715,7 @@ Yarn
 
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 
 </svg>
 
@@ -696,7 +726,7 @@ Yarn
 
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 
 </svg>
 
@@ -721,7 +751,7 @@ Boutiques
 
 
 
-<a href="http://www.yarnspirations.com/yarn/boutiques" class="mobile-only has-sub-menu">
+<a href="https://www.yarnspirations.com/yarn/boutiques" class="mobile-only has-sub-menu">
 Boutiques
 </a>
 
@@ -731,7 +761,7 @@ Boutiques
 
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 
 </svg>
 
@@ -742,7 +772,7 @@ Boutiques
 
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 
 </svg>
 
@@ -753,7 +783,7 @@ Boutiques
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/boutiques/bernat">
+<a href="https://www.yarnspirations.com/yarn/boutiques/bernat">
 Bernat
 </a>
 </li>
@@ -761,7 +791,7 @@ Bernat
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/boutiques/caron">
+<a href="https://www.yarnspirations.com/yarn/boutiques/caron">
 Caron
 </a>
 </li>
@@ -769,7 +799,7 @@ Caron
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/boutiques/lily-sugarn-cream">
+<a href="https://www.yarnspirations.com/yarn/boutiques/lily-sugarn-cream">
 Lily Sugar'n Cream
 </a>
 </li>
@@ -777,7 +807,7 @@ Lily Sugar'n Cream
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/boutiques/patons">
+<a href="https://www.yarnspirations.com/yarn/boutiques/patons">
 Patons
 </a>
 </li>
@@ -785,7 +815,7 @@ Patons
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/boutiques/phentex">
+<a href="https://www.yarnspirations.com/yarn/boutiques/phentex">
 Phentex
 </a>
 </li>
@@ -793,7 +823,15 @@ Phentex
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/boutiques/new-exclusive">
+<a href="https://www.yarnspirations.com/yarn/boutiques/sugar-bush">
+Sugar Bush
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.yarnspirations.com/yarn/boutiques/new-exclusive">
 New &amp; Exclusive
 </a>
 </li>
@@ -814,7 +852,7 @@ Color
 
 
 
-<a href="http://www.yarnspirations.com/yarn/color" class="mobile-only has-sub-menu">
+<a href="https://www.yarnspirations.com/yarn/color" class="mobile-only has-sub-menu">
 Color
 </a>
 
@@ -824,7 +862,7 @@ Color
 
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 
 </svg>
 
@@ -835,7 +873,7 @@ Color
 
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 
 </svg>
 
@@ -846,7 +884,7 @@ Color
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Black">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Black">
 Black
 </a>
 </li>
@@ -854,7 +892,7 @@ Black
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Blue">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Blue">
 Blue
 </a>
 </li>
@@ -862,7 +900,7 @@ Blue
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Brown">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Brown">
 Brown
 </a>
 </li>
@@ -870,7 +908,7 @@ Brown
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Gray">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Gray">
 Gray
 </a>
 </li>
@@ -878,7 +916,7 @@ Gray
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Green">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Green">
 Green
 </a>
 </li>
@@ -886,7 +924,7 @@ Green
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Multi%2FVarg">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Multi%2FVarg">
 Multi/Varg
 </a>
 </li>
@@ -894,7 +932,7 @@ Multi/Varg
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Off-White">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Off-White">
 Off-White
 </a>
 </li>
@@ -902,7 +940,7 @@ Off-White
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Orange">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Orange">
 Orange
 </a>
 </li>
@@ -910,7 +948,7 @@ Orange
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Pink">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Pink">
 Pink
 </a>
 </li>
@@ -918,7 +956,7 @@ Pink
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Purple">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Purple">
 Purple
 </a>
 </li>
@@ -926,7 +964,7 @@ Purple
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Red">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Red">
 Red
 </a>
 </li>
@@ -934,7 +972,7 @@ Red
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=White">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=White">
 White
 </a>
 </li>
@@ -942,7 +980,7 @@ White
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Yellow">
+<a href="https://www.yarnspirations.com/yarn?prefn1=refinementColor&amp;color=true&amp;prefv1=Yellow">
 Yellow
 </a>
 </li>
@@ -963,7 +1001,7 @@ Weight
 
 
 
-<a href="http://www.yarnspirations.com/yarn/weight" class="mobile-only has-sub-menu">
+<a href="https://www.yarnspirations.com/yarn/weight" class="mobile-only has-sub-menu">
 Weight
 </a>
 
@@ -973,7 +1011,7 @@ Weight
 
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 
 </svg>
 
@@ -984,7 +1022,7 @@ Weight
 
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 
 </svg>
 
@@ -995,7 +1033,7 @@ Weight
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/weight/-1-super-fine--fingering-">
+<a href="https://www.yarnspirations.com/yarn/weight/-1-super-fine--fingering-">
 #1 Super Fine (Fingering)
 </a>
 </li>
@@ -1003,7 +1041,7 @@ Weight
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/weight/-2-sport--fine-">
+<a href="https://www.yarnspirations.com/yarn/weight/-2-sport--fine-">
 #2 Sport (Fine)
 </a>
 </li>
@@ -1011,7 +1049,7 @@ Weight
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/weight/-3-dk--light-">
+<a href="https://www.yarnspirations.com/yarn/weight/-3-dk--light-">
 #3 DK (Light)
 </a>
 </li>
@@ -1019,7 +1057,7 @@ Weight
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/weight/-4-worsted--medium-">
+<a href="https://www.yarnspirations.com/yarn/weight/-4-worsted--medium-">
 #4 Worsted (Medium)
 </a>
 </li>
@@ -1027,7 +1065,7 @@ Weight
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/weight/-5-bulky">
+<a href="https://www.yarnspirations.com/yarn/weight/-5-bulky">
 #5 Bulky
 </a>
 </li>
@@ -1035,7 +1073,7 @@ Weight
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/weight/-6-super-bulky">
+<a href="https://www.yarnspirations.com/yarn/weight/-6-super-bulky">
 #6 Super Bulky
 </a>
 </li>
@@ -1043,7 +1081,7 @@ Weight
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/weight/-7-jumbo">
+<a href="https://www.yarnspirations.com/yarn/weight/-7-jumbo">
 #7 Jumbo
 </a>
 </li>
@@ -1064,7 +1102,7 @@ Fiber
 
 
 
-<a href="http://www.yarnspirations.com/yarn/fiber" class="mobile-only has-sub-menu">
+<a href="https://www.yarnspirations.com/yarn/fiber" class="mobile-only has-sub-menu">
 Fiber
 </a>
 
@@ -1074,7 +1112,7 @@ Fiber
 
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 
 </svg>
 
@@ -1085,7 +1123,7 @@ Fiber
 
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 
 </svg>
 
@@ -1096,7 +1134,7 @@ Fiber
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/fiber/acrylic">
+<a href="https://www.yarnspirations.com/yarn/fiber/acrylic">
 Acrylic
 </a>
 </li>
@@ -1104,7 +1142,7 @@ Acrylic
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/fiber/blend">
+<a href="https://www.yarnspirations.com/yarn/fiber/blend">
 Blend
 </a>
 </li>
@@ -1112,7 +1150,7 @@ Blend
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/fiber/cotton">
+<a href="https://www.yarnspirations.com/yarn/fiber/cotton">
 Cotton
 </a>
 </li>
@@ -1120,7 +1158,7 @@ Cotton
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/fiber/nylon">
+<a href="https://www.yarnspirations.com/yarn/fiber/nylon">
 Nylon
 </a>
 </li>
@@ -1128,7 +1166,7 @@ Nylon
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/fiber/polyester">
+<a href="https://www.yarnspirations.com/yarn/fiber/polyester">
 Polyester
 </a>
 </li>
@@ -1136,7 +1174,7 @@ Polyester
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/fiber/silk">
+<a href="https://www.yarnspirations.com/yarn/fiber/silk">
 Silk
 </a>
 </li>
@@ -1144,7 +1182,7 @@ Silk
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/fiber/wool">
+<a href="https://www.yarnspirations.com/yarn/fiber/wool">
 Wool
 </a>
 </li>
@@ -1165,7 +1203,7 @@ Project Type
 
 
 
-<a href="http://www.yarnspirations.com/yarn/project-type" class="mobile-only has-sub-menu">
+<a href="https://www.yarnspirations.com/yarn/project-type" class="mobile-only has-sub-menu">
 Project Type
 </a>
 
@@ -1175,7 +1213,7 @@ Project Type
 
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 
 </svg>
 
@@ -1186,7 +1224,7 @@ Project Type
 
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 
 </svg>
 
@@ -1197,7 +1235,7 @@ Project Type
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/project-type/baby">
+<a href="https://www.yarnspirations.com/yarn/project-type/baby">
 Baby
 </a>
 </li>
@@ -1205,7 +1243,7 @@ Baby
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/project-type/classic">
+<a href="https://www.yarnspirations.com/yarn/project-type/classic">
 Classic
 </a>
 </li>
@@ -1213,7 +1251,7 @@ Classic
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/project-type/fashion">
+<a href="https://www.yarnspirations.com/yarn/project-type/fashion">
 Fashion
 </a>
 </li>
@@ -1221,7 +1259,7 @@ Fashion
 
 
 <li>
-<a href="http://www.yarnspirations.com/yarn/project-type/sock">
+<a href="https://www.yarnspirations.com/yarn/project-type/sock">
 Sock
 </a>
 </li>
@@ -1234,16 +1272,20 @@ Sock
 
 </ul>
 
-<div class="banner"><div class="banner-block" style="border: 1px solid #efefef;"><img alt="Online Yarn Store" src="http://www.yarnspirations.com/on/demandware.static/-/Sites-site-catalog-yarnspirations/default/dw2b23c436/header-banners/MegaBlock-CaronCakes-03-1x.jpg" title="">
+<div class="banner"><div class="banner-block" style="border: 1px solid #efefef;"><img alt="Online Yarn Store" src="https://www.yarnspirations.com/on/demandware.static/-/Sites-site-catalog-yarnspirations/default/dw509d4a08/header-banners/meganav-030519-ez-knitting-desktop@1x.jpg" title="">
 <div class="info light">
 <div>
-<br><p class="banner-category-single-intro-text smaller black">COLLECTION</p>
+<!--
+<br /><<p class="banner-category-single-intro-text smaller black">COLLECTION</p>
 
-<p class="banner-homepage-single-title-text-another">Caron Cakes<br>
+<p class="banner-homepage-single-title-text-another">Caron Cakes<br />
 </p>
 
-<p class="banner-homepage-single-body-text smaller">This versatile self-striping yarn <br> comes in a wide variety of colors!</p><br>
-<a class="button secondary smaller" href="http://www.yarnspirations.com/yarn/retail-exclusive-yarns">View Collection</a></div>
+<p class="banner-homepage-single-body-text smaller">This versatile self-striping yarn <br/> comes in a wide variety of colors!</p><br />
+<a class="button href=""https://www.yarnspirations.com/yarn/retail-exclusive-yarns">View Collection</a>-->
+
+<a href="https://www.yarnspirations.com/lookbook-2019-03-blanket-ez-pattern-collection.html" class="button secondary" style="width: 300px; height: 300px; border: none; background: none;"></a>
+</div>
 
 </div>
 </div></div>
@@ -1259,7 +1301,7 @@ Sock
 
 
 
-<a class="has-sub-menu" href="http://www.yarnspirations.com/knit-patterns">
+<a class="has-sub-menu" href="https://www.yarnspirations.com/knit-patterns">
 Knit Patterns
 </a>
 
@@ -1269,7 +1311,7 @@ Knit Patterns
 
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 
 </svg>
 
@@ -1280,7 +1322,7 @@ Knit Patterns
 
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 
 </svg>
 
@@ -1307,89 +1349,89 @@ Knit Patterns
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="c0d6ccfdedf372dd94ec418322" -->
 <div class="column">
-<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="http://www.yarnspirations.com/knit-patterns/baby">Baby</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
+<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="https://www.yarnspirations.com/knit-patterns/baby">Baby</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
 
 <ul class="level-3">
-	<li><a href="http://www.yarnspirations.com/knit-patterns/baby/afghans-blankets">Afghans &amp; Blankets</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/baby/sweaters-cardigans">Sweaters &amp; Cardigans</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/baby/hats">Hats</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/baby/booties">Booties</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/baby">View More</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/baby/afghans-blankets">Afghans &amp; Blankets</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/baby/sweaters-cardigans">Sweaters &amp; Cardigans</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/baby/hats">Hats</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/baby/booties">Booties</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/baby">View More</a></li>
 </ul>
 &nbsp;
 
-<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="http://www.yarnspirations.com/knit-patterns/men">Men</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
+<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="https://www.yarnspirations.com/knit-patterns/men">Men</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
 
 <ul class="level-3">
-	<li><a href="http://www.yarnspirations.com/knit-patterns/men/hats">Hats</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/men/scarves">Scarves</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/men">View More</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/men/hats">Hats</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/men/scarves">Scarves</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/men">View More</a></li>
 </ul>
 </div>
 
 <div class="column">
-<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="http://www.yarnspirations.com/knit-patterns/home-decor">Home Décor</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
+<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="https://www.yarnspirations.com/knit-patterns/home-decor">Home Décor</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
 
 <ul class="level-3">
-	<li><a href="http://www.yarnspirations.com/knit-patterns/home-decor/afghans-blankets">Afghans &amp; Blankets</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/home-decor/dishcloths">Dishcloths</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/home-decor/pillows-poufs">Pillows &amp; Poufs</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/home-decor/kitchen-decor">Kitchen Décor</a></li>
-	<li><strong><a href="http://www.yarnspirations.com/knit-patterns/home-decor">View More</a></strong></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/home-decor/afghans-blankets">Afghans &amp; Blankets</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/home-decor/dishcloths">Dishcloths</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/home-decor/pillows-poufs">Pillows &amp; Poufs</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/home-decor/kitchen-decor">Kitchen Décor</a></li>
+	<li><strong><a href="https://www.yarnspirations.com/knit-patterns/home-decor">View More</a></strong></li>
 </ul>
 &nbsp;
 
-<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="http://www.yarnspirations.com/knit-patterns/charity">Charity</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
+<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="https://www.yarnspirations.com/knit-patterns/charity">Charity</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
 
 <ul class="level-3">
-	<li><a href="http://www.yarnspirations.com/knit-patterns/charity/afghans-blankets">Afghans &amp; Blankets</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/charity/shawls-wraps">Prayer Shawls</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/charity">View More</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/charity/afghans-blankets">Afghans &amp; Blankets</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/charity/shawls-wraps">Prayer Shawls</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/charity">View More</a></li>
 </ul>
 </div>
 
 <div class="column">
-<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="http://www.yarnspirations.com/knit-patterns/women">Women</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
+<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="https://www.yarnspirations.com/knit-patterns/women">Women</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
 
 <ul class="level-3">
-	<li><a href="http://www.yarnspirations.com/knit-patterns/women/sweaters-cardigans">Sweaters &amp; Cardigans</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/women/hats">Hats</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/women/shawls-wraps">Shawls &amp; Wraps</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/women/vests">Vests</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/women">View More</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/women/sweaters-cardigans">Sweaters &amp; Cardigans</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/women/hats">Hats</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/women/shawls-wraps">Shawls &amp; Wraps</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/women/vests">Vests</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/women">View More</a></li>
 </ul>
 &nbsp;
 
-<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="http://www.yarnspirations.com/knit-patterns/pets">Pets</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
+<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="https://www.yarnspirations.com/knit-patterns/pets">Pets</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
 
 <ul class="level-3">
-	<li><a href="http://www.yarnspirations.com/knit-patterns/pets/dogs">Dogs</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/pets/cats">Cats</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/pets">View More</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/pets/dogs">Dogs</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/pets/cats">Cats</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/pets">View More</a></li>
 </ul>
 </div>
 
 <div class="column">
-<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="http://www.yarnspirations.com/knit-patterns/kids">Kids</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
+<p class="has-sub-menu-parent"><a class="has-sub-menu-content" href="https://www.yarnspirations.com/knit-patterns/kids">Kids</a> <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg> <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></p>
 
 <ul class="level-3">
-	<li><a href="http://www.yarnspirations.com/knit-patterns/kids/sweaters-cardigans">Sweaters &amp; Cardigans</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/kids/hats">Hats</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/kids/toys">Toys</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/kids/gloves-mittens">Gloves &amp; Mittens</a></li>
-	<li><a href="http://www.yarnspirations.com/knit-patterns/kids">View More</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/kids/sweaters-cardigans">Sweaters &amp; Cardigans</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/kids/hats">Hats</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/kids/toys">Toys</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/kids/gloves-mittens">Gloves &amp; Mittens</a></li>
+	<li><a href="https://www.yarnspirations.com/knit-patterns/kids">View More</a></li>
 </ul>
 </div>
 
 <div class="banner">
 	<div class="banner-block">
-		<img alt="Knit For the Road Blanket" src="http://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dwf2e6f80b/images/header-banners/Category_MegaNav_KnitForTheRoadBlanket.jpg" title="">
+		<img alt="Brioche Cables Knit Hat" src="https://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dw18901058/images/header-banners/MegaBlock-Briocheknithats@1x.jpg" title="">
 		<div class="info light">
-		<div class="icon-block"><svg class="icon heart-full svg-heart-full-dims"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#heart-full" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></div>
+		<!--<div class="icon-block"><svg class="icon heart-full svg-heart-full-dims"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#heart-full" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></div>-->
 
-		<div class="sub-title">our pick</div>
-			<h1>Knit for the Road Blanket</h1>
-			<a class="button secondary" href="http://www.yarnspirations.com/patons-knit-for-the-road-blanket/PAK0502-010176M.html">View Pattern</a>
+		<!--<div class="sub-title">our pick</div>-->
+			<p class="nav-image-title">Brioche Cables <br> Knit Hat</p>
+			<a class="button secondary" href="https://www.yarnspirations.com/caron-x-pantone-brioche-cables-knit-hat/CAK0116-012083M.html">View Pattern</a>
 		</div>
 	</div>
 </div>
@@ -1412,7 +1454,7 @@ Knit Patterns
 
 
 
-<a class="has-sub-menu" href="http://www.yarnspirations.com/crochet-patterns">
+<a class="has-sub-menu" href="https://www.yarnspirations.com/crochet-patterns">
 Crochet Patterns
 </a>
 
@@ -1422,7 +1464,7 @@ Crochet Patterns
 
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 
 </svg>
 
@@ -1433,7 +1475,7 @@ Crochet Patterns
 
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 
 </svg>
 
@@ -1461,133 +1503,134 @@ Crochet Patterns
 <div class="content-asset"><!-- dwMarker="content" dwContentID="4c641ec9c9ee63531fff435d02" -->
 <div class="column">
 <p class="has-sub-menu-parent">
-<a href="http://www.yarnspirations.com/crochet-patterns/baby" class="has-sub-menu-content">Baby</a>
+<a href="https://www.yarnspirations.com/crochet-patterns/baby" class="has-sub-menu-content">Baby</a>
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 </svg>
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 </svg>
 </p>
 <ul class="level-3"> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/baby/afghans-blankets">Afghans &amp; Blankets</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/baby/hats">Hats</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/baby/booties">Booties</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/baby/toys">Toys</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/baby">View More</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/baby/afghans-blankets">Afghans &amp; Blankets</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/baby/hats">Hats</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/baby/booties">Booties</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/baby/toys">Toys</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/baby">View More</a></li> 
 </ul>
 <br>
 <p class="has-sub-menu-parent">
-<a href="http://www.yarnspirations.com/crochet-patterns/men" class="has-sub-menu-content">Men</a>
+<a href="https://www.yarnspirations.com/crochet-patterns/men" class="has-sub-menu-content">Men</a>
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 </svg>
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 </svg>
 </p>
 <ul class="level-3"> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/men/hats">Hats</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/men/scarves">Scarves</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/men">View More</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/men/hats">Hats</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/men/scarves">Scarves</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/men">View More</a></li> 
 </ul>
 </div>
 <div class="column">
 <p class="has-sub-menu-parent">
-<a href="http://www.yarnspirations.com/crochet-patterns/home-decor" class="has-sub-menu-content">Home Décor</a>
+<a href="https://www.yarnspirations.com/crochet-patterns/home-decor" class="has-sub-menu-content">Home Décor</a>
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 </svg>
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 </svg>
 </p>
 <ul class="level-3"> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/home-decor/afghans-blankets">Afghans &amp; Blankets</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/home-decor/dishcloths">Dishcloths</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/home-decor/pillows-poufs">Pillows &amp; Poufs</a></li>
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/home-decor/baskets">Baskets</a></li> 
-    <li><strong><a href="http://www.yarnspirations.com/crochet-patterns/home-decor">View More</a></strong></li>
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/home-decor/afghans-blankets">Afghans &amp; Blankets</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/home-decor/dishcloths">Dishcloths</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/home-decor/pillows-poufs">Pillows &amp; Poufs</a></li>
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/home-decor/baskets">Baskets</a></li> 
+    <li><strong><a href="https://www.yarnspirations.com/crochet-patterns/home-decor">View More</a></strong></li>
 </ul>
 <br>
 <p class="has-sub-menu-parent">
-<a href="http://www.yarnspirations.com/crochet-patterns/charity" class="has-sub-menu-content">Charity</a>
+<a href="https://www.yarnspirations.com/crochet-patterns/charity" class="has-sub-menu-content">Charity</a>
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 </svg>
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 </svg>
 </p>
 <ul class="level-3"> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/charity/afghans-blankets">Afghans &amp; Blankets</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/charity/prayer-shawls">Prayer Shawls</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/charity">View More</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/charity/afghans-blankets">Afghans &amp; Blankets</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/charity/prayer-shawls">Prayer Shawls</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/charity">View More</a></li> 
 
 </ul>
 </div>
 <div class="column">
 <p class="has-sub-menu-parent">
-<a href="http://www.yarnspirations.com/crochet-patterns/women" class="has-sub-menu-content">Women</a>
+<a href="https://www.yarnspirations.com/crochet-patterns/women" class="has-sub-menu-content">Women</a>
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 </svg>
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 </svg>
 </p>
 <ul class="level-3"> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/women/shawls-wraps">Shawls &amp; Wraps</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/women/sweaters-cardigans">Sweaters &amp; Cardigans</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/women/hats">Hats</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/women/bags-purses">Bags &amp; Purses</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/women">View More</a></li>
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/women/shawls-wraps">Shawls &amp; Wraps</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/women/sweaters-cardigans">Sweaters &amp; Cardigans</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/women/hats">Hats</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/women/bags-purses">Bags &amp; Purses</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/women">View More</a></li>
 </ul>
 <br>
 <p class="has-sub-menu-parent">
-<a href="http://www.yarnspirations.com/crochet-patterns/pets" class="has-sub-menu-content">Pets</a>
+<a href="https://www.yarnspirations.com/crochet-patterns/pets" class="has-sub-menu-content">Pets</a>
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 </svg>
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 </svg>
 </p>
 <ul class="level-3"> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/pets/dogs">Dogs</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/pets/cats">Cats</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/pets">View More</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/pets/dogs">Dogs</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/pets/cats">Cats</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/pets">View More</a></li> 
 
 </ul>
 </div>
 <div class="column">
 <p class="has-sub-menu-parent">
-<a href="http://www.yarnspirations.com/crochet-patterns/kids" class="has-sub-menu-content">Kids</a>
+<a href="https://www.yarnspirations.com/crochet-patterns/kids" class="has-sub-menu-content">Kids</a>
 <svg class="icon drawer-open svg-drawer-open-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-open"></use>
 </svg>
 <svg class="icon drawer-close svg-drawer-close-dims menu-item-toggle"> 
-    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
+    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#drawer-close"></use>
 </svg>
 </p>
 <ul class="level-3"> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/kids/hats">Hats</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/kids/sweaters-cardigans">Sweaters &amp; Cardigans</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/kids/toys">Toys</a></li> 
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/kids/afghans-blankets">Afghans &amp; Blankets</a></li>
-    <li><a href="http://www.yarnspirations.com/crochet-patterns/kids">View More</a></li>
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/kids/hats">Hats</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/kids/sweaters-cardigans">Sweaters &amp; Cardigans</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/kids/toys">Toys</a></li> 
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/kids/afghans-blankets">Afghans &amp; Blankets</a></li>
+    <li><a href="https://www.yarnspirations.com/crochet-patterns/kids">View More</a></li>
 </ul>
 </div>
+
 
 <div class="banner">
 	<div class="banner-block">
-		<img alt="Cute Crochet Carry-all" src="http://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dw8d6c2e79/images/header-banners/Category_MegaNav_CrochetCarryAll.jpg" title="">
+		<img alt="Color Block Bobble Scarf" src="https://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dwe4c1e8a3/images/header-banners/MegaBlock-crochetcolorblockbobble@1x.jpg" title="">
 		<div class="info light">
-		<div class="icon-block"><svg class="icon heart-full svg-heart-full-dims"> <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#heart-full" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></div>
+		<!--<div class="icon-block"><svg class="icon heart-full svg-heart-full-dims"> <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#heart-full" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg></div>-->
 
-		<div class="sub-title">our pick</div>
-			<h1>Cute Crochet<br>Carry-all</h1>
-			<a class="button secondary" href="http://www.yarnspirations.com/bernat-cute-crochet-carry-all/BRC0103-010160M.html">View Pattern</a>
+		<!--<div class="sub-title">our pick</div>-->
+			<p class="nav-image-title">Color Block <br> Bobble Scarf</p>
+			<a class="button secondary" href="https://www.yarnspirations.com/bernat-crochet-color-block-bobble-scarf/BRC0125-012046M.html">View Pattern</a>
 		</div>
 	</div>
 </div>
@@ -1608,7 +1651,7 @@ Crochet Patterns
 <li>
 
 
-<a class="" href="http://www.yarnspirations.com/craft-patterns">
+<a class="" href="https://www.yarnspirations.com/craft-patterns">
 Craft Patterns
 </a>
 
@@ -1625,7 +1668,7 @@ Craft Patterns
 <li>
 
 
-<a class="" href="http://www.yarnspirations.com/accessories">
+<a class="" href="https://www.yarnspirations.com/accessories">
 Accessories
 </a>
 
@@ -1642,7 +1685,7 @@ Accessories
 <li>
 
 
-<a class="" href="http://www.yarnspirations.com/clearance">
+<a class="" href="https://www.yarnspirations.com/clearance">
 Clearance
 </a>
 
@@ -1659,7 +1702,7 @@ Clearance
 <li>
 
 
-<a class="" href="http://www.yarnspirations.com/lookbook?folderID=lookbooks">
+<a class="" href="https://www.yarnspirations.com/lookbook?folderID=lookbooks">
 Lookbooks
 </a>
 
@@ -1676,7 +1719,7 @@ Lookbooks
 <li>
 
 
-<a class="" href="http://www.yarnspirations.com/bloghome">Blog</a>
+<a class="" href="https://www.yarnspirations.com/bloghome">Blog</a>
 
 
 </li>
@@ -1778,7 +1821,7 @@ Lookbooks
 
 <svg class="icon user svg-user-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#user"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#user"></use>
 
 </svg>
 
@@ -1816,7 +1859,7 @@ Lookbooks
 
 <svg class="icon flag-icon-en_us svg-flag-icon-en_us-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en_us"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en_us"></use>
 
 </svg>
 
@@ -1837,7 +1880,7 @@ Lookbooks
 
 <svg class="icon flag-icon-en_us svg-flag-icon-en_us-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en_us"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en_us"></use>
 
 </svg>
 
@@ -1845,7 +1888,7 @@ Lookbooks
 
 
 
-<a href="http://www.yarnspirations.com/privacy.html" data-currency="USD" data-locale="en_US" class="locale selected">United States</a>
+<a href="https://www.yarnspirations.com/privacy.html" data-currency="USD" data-locale="en_US" class="locale selected">United States</a>
 
 
 </div>
@@ -1859,7 +1902,7 @@ Lookbooks
 
 <svg class="icon flag-icon-en_ca svg-flag-icon-en_ca-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en_ca"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en_ca"></use>
 
 </svg>
 
@@ -1867,7 +1910,7 @@ Lookbooks
 
 
 
-<a href="http://www.yarnspirations.com/ca-en/privacy.html" data-currency="CAD" data-locale="en_CA" class="locale">Canada</a>
+<a href="https://www.yarnspirations.com/ca-en/privacy.html" data-currency="CAD" data-locale="en_CA" class="locale">Canada</a>
 
 
 </div>
@@ -1881,7 +1924,7 @@ Lookbooks
 
 <svg class="icon flag-icon-en_gb svg-flag-icon-en_gb-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en_gb"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en_gb"></use>
 
 </svg>
 
@@ -1889,7 +1932,7 @@ Lookbooks
 
 
 
-<a href="http://www.yarnspirations.com/gb/privacy.html" data-currency="USD" data-locale="en_GB" class="locale">United Kingdom</a>
+<a href="https://www.yarnspirations.com/gb/privacy.html" data-currency="USD" data-locale="en_GB" class="locale">United Kingdom</a>
 
 
 </div>
@@ -1903,7 +1946,7 @@ Lookbooks
 
 <svg class="icon flag-icon-en svg-flag-icon-en-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#flag-icon-en"></use>
 
 </svg>
 
@@ -1911,7 +1954,7 @@ Lookbooks
 
 
 
-<a href="http://www.yarnspirations.com/row-en/privacy.html" data-currency="USD" data-locale="en" class="locale">Rest of the World</a>
+<a href="https://www.yarnspirations.com/row-en/privacy.html" data-currency="USD" data-locale="en" class="locale">Rest of the World</a>
 
 
 </div>
@@ -1927,6 +1970,22 @@ Lookbooks
 </nav>
 
 <div id="mini-cart">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2034,7 +2093,7 @@ Lookbooks
 
 <svg class="icon cart svg-cart-dims ">
 
-<use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#cart"></use>
+<use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#cart"></use>
 
 </svg>
 
@@ -2111,11 +2170,11 @@ Filter
         </li>
     
         <li>
-            <a href="/knit-abbreviations.html" title="Knit Abbreviations">Knit Abbreviations</a>
+            <a href="/abbreviations.html" title="Abbreviations">Abbreviations</a>
         </li>
     
         <li>
-            <a href="/crochet-abbreviations.html" title="Crochet Abbreviations">Crochet Abbreviations</a>
+            <a href="/wholesale-inquiries.html" title="Wholesale Inquiries">Wholesale Inquiries</a>
         </li>
     
         <li>
@@ -2124,6 +2183,18 @@ Filter
     
         <li>
             <a href="/terms.html" title="Terms of Use">Terms of Use</a>
+        </li>
+    
+        <li>
+            <a href="/rules-and-regulations.html" title="Charity Stitchers Award">Charity Stitchers Award</a>
+        </li>
+    
+        <li>
+            <a href="/promotional-details.html" title="Promotional Details">Promotional Details</a>
+        </li>
+    
+        <li>
+            <a href="/rules-and-regulations-ezparty-sweepstake.html" title="#EZParty Sweepstakes">#EZParty Sweepstakes</a>
         </li>
     
 
@@ -2159,7 +2230,7 @@ Filter
 
 <p>Spinrite LP (“Spinrite”, “we”, “us” or “our”) respects your privacy and pledges to earn and keep your trust. All personal information that we collect from you is maintained in accordance with this Privacy Policy (the “Policy”) and will not be used in ways that are contrary to this Policy. “Personal information” is any information that identifies you, or by which your identity could be deduced. <b>(Business contact information is a category of personal information (e.g., an individual’s name, business title, business address or business telephone number), which is defined as any information used for the purpose of communicating or facilitating communication with an individual in relation to their employment, business or profession. Organizations can collect, use and disclose business contact information without consent as long as it is used solely for the purpose of communicating or facilitating communication with someone with respect to his/her job.</b><br>
 <br>
-This policy is incorporated by reference to our <a href="http://www.yarnspirations.com/terms.html">Terms of Use</a>.</p>
+This policy is incorporated by reference to our <a href="https://www.yarnspirations.com/terms.html">Terms of Use</a>.</p>
 
 <h4>Your Consent</h4>
 
@@ -2175,7 +2246,7 @@ This policy is incorporated by reference to our <a href="http://www.yarnspiratio
 
 <p><b>Cookies</b></p>
 
-<p>At times we send your computer a "cookie," a small piece of data that is stored in a file on your hard drive. The use of cookies is standard procedure for websites, and those from our website are secure and do not carry viruses. We use cookies to give you better, more personalized service once you've become a member of our website. This information is for internal use only; we don't share it with others. You're always free to decline our cookies if your browser permits, but some parts of our website may not work properly for you if you do. You can read our complete Cookies Policy <a href="http://www.yarnspirations.com/cookies.html" id="cookies">here</a>.</p>
+<p>At times we send your computer a "cookie," a small piece of data that is stored in a file on your hard drive. The use of cookies is standard procedure for websites, and those from our website are secure and do not carry viruses. We use cookies to give you better, more personalized service once you've become a member of our website. This information is for internal use only; we don't share it with others. You're always free to decline our cookies if your browser permits, but some parts of our website may not work properly for you if you do. You can read our complete Cookies Policy <a href="https://www.yarnspirations.com/cookies.html" id="cookies">here</a>.</p>
 
 <p><b>IP Address Tracking</b></p>
 
@@ -2425,9 +2496,9 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
 <div class="content-asset"><!-- dwMarker="content" dwContentID="a71465cbb0014a146f6dd3fdf1" -->
 <div class="footer-sign-up">
     <picture>
-        <source media="(min-width: 2890px)" srcset="http://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dw1b66c2c1/images/global/footer-sign-up-bg@3x.jpg">
-        <source media="(min-width: 1445px)" srcset="http://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dwaff068f9/images/global/footer-sign-up-bg@2x.jpg">
-        <img class="desktop-only" src="http://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dwf23c36dd/images/global/footer-sign-up-bg.jpg" alt="Stay in the loop and be inspired!" style="height: 325px;">
+        <source media="(min-width: 2890px)" srcset="https://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dw1b66c2c1/images/global/footer-sign-up-bg@3x.jpg">
+        <source media="(min-width: 1445px)" srcset="https://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dwaff068f9/images/global/footer-sign-up-bg@2x.jpg">
+        <img class="desktop-only" src="https://www.yarnspirations.com/on/demandware.static/-/Library-Sites-SpinriteSharedLibrary/default/dwf23c36dd/images/global/footer-sign-up-bg.jpg" alt="Stay in the loop and be inspired!" style="height: 325px;">
     </picture>
     <div class="sign-up-wrap">
 		<div class="sign-up-inside">
@@ -2438,7 +2509,7 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
 			<div class="form-sign-up">
 				<form action="#" method="post" id="email-footer-signup">
 					<svg class="icon email svg-email-dims ">
-						<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#email"></use>
+						<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#email"></use>
 					</svg>
 					<input type="email" class="input-text required sign-up-input validate-email" name="sign-up" id="sign-up" placeholder="Your Email Address" aria-invalid="false">
 					<button type="submit">SIGN-UP</button>
@@ -2447,44 +2518,45 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
 			<div class="bottom-note">
 				You can unsubscribe from this publication at any time by clicking "unsubscribe" in any of the emails you receive from Yarnspirations.
 			</div>
-			<div class="gdpr-note">	By signing up for email from Yarnspirations.com, I acknowledge I've read and agree to the <a href="http://www.yarnspirations.com/row-en/privacy.html"><u>Privacy Policy</u></a> and <a href="http://www.yarnspirations.com/row-en/terms.html"><u>Terms of Use</u></a>.
+				 <div class="gdpr-note">	By signing up for email from Yarnspirations.com, I acknowledge I've read and agree to the <a href="https://www.yarnspirations.com/row-en/privacy.html"><u>Privacy Policy</u></a> and <a href="https://www.yarnspirations.com/row-en/terms.html"><u>Terms of Use</u></a>.
 			</div>
 		</div>
     </div>
+</div>
 </div>
 <div class="footer-top">
     <div class="footer-top-wrap">
         <div class="footer-top-item">
             <svg class="icon secure svg-secure-dims">
-                <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#secure"></use>
+                <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#secure"></use>
             </svg>
             <div class="top-item-title">Safe &amp; Secure</div>
             <div class="top-item-subtitle">Privacy Guaranteed</div>
         </div>
         <div class="footer-top-item">
             <svg class="icon free-sheeping svg-free-sheeping-dims">
-                <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#free-sheeping"></use>
+                <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#free-sheeping"></use>
             </svg>
             <div class="top-item-title">Free Shipping</div>
             <div class="top-item-subtitle">On Orders Over $60</div>
         </div>
         <div class="footer-top-item desktop-only">
             <svg class="icon inspired svg-inspired-dims">
-                <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#inspired"></use>
+                <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#inspired"></use>
             </svg>
             <div class="top-item-title">Get Inspired!</div>
             <div class="top-item-subtitle">And Inspire Others</div>
         </div>
         <div class="footer-top-item">
             <svg class="icon returns svg-returns-dims">
-                <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#returns"></use>
+                <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#returns"></use>
             </svg>
             <div class="top-item-title">Returns</div>
             <div class="top-item-subtitle">45 Day Hassle Free</div>
         </div>
         <div class="footer-top-item">
             <svg class="icon satisfaction svg-satisfaction-dims">
-                <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#satisfaction"></use>
+                <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#satisfaction"></use>
             </svg>
             <div class="top-item-title">Satisfaction</div>
             <div class="top-item-subtitle">Quality Guaranteed</div>
@@ -2498,19 +2570,22 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
         <h4 class="toggle">BOUTIQUES</h4>
         <ul class="toggle-content">
             <li>
-                <a href="http://www.yarnspirations.com/yarn/boutiques/bernat" title="Go to BERNAT">BERNAT</a>
+                <a href="https://www.yarnspirations.com/yarn/boutiques/bernat" title="Go to BERNAT">BERNAT</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/yarn/boutiques/caron" title="Go to CARON">CARON</a>
+                <a href="https://www.yarnspirations.com/yarn/boutiques/caron" title="Go to CARON">CARON</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/yarn/boutiques/patons" title="Go to PATONS">PATONS</a>
+                <a href="https://www.yarnspirations.com/yarn/boutiques/patons" title="Go to PATONS">PATONS</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/yarn/boutiques/lily-sugarn-cream" title="Go to LILY SUGAR’N CREAM">LILY SUGAR’N CREAM</a>
+                <a href="https://www.yarnspirations.com/yarn/boutiques/lily-sugarn-cream" title="Go to LILY SUGAR'N CREAM">LILY SUGAR'N CREAM</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/yarn/boutiques/phentex" title="Go to PHENTEX">PHENTEX</a>
+                <a href="https://www.yarnspirations.com/yarn/boutiques/phentex" title="Go to PHENTEX">PHENTEX</a>
+            </li>
+ <li>
+                <a href="https://www.yarnspirations.com/yarn/boutiques/sugar-bush" title="Go to SUGAR BUSH">SUGAR BUSH</a>
             </li>
         </ul>
     </div>
@@ -2518,13 +2593,13 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
         <h4 class="toggle">PATTERNS</h4>
         <ul class="toggle-content">
             <li>
-                <a href="http://www.yarnspirations.com/knit-patterns" title="Go to KNIT PATTERNS">KNIT</a>
+                <a href="https://www.yarnspirations.com/knit-patterns" title="Go to KNIT PATTERNS">KNIT</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/crochet-patterns" title="Go to CROCHET PATTERNS">CROCHET</a>
+                <a href="https://www.yarnspirations.com/crochet-patterns" title="Go to CROCHET PATTERNS">CROCHET</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/craft-patterns" title="Go to CRAFT PATTERNS">CRAFT</a>
+                <a href="https://www.yarnspirations.com/craft-patterns" title="Go to CRAFT PATTERNS">CRAFT</a>
             </li>
         </ul>
     </div>
@@ -2532,20 +2607,18 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
         <h4 class="toggle">INSPIRATION</h4>
         <ul class="toggle-content">
             <li>
-                <a href="http://www.yarnspirations.com/bloghome" title="Go to Blog Page">BLOG</a>
+                <a href="https://www.yarnspirations.com/bloghome" title="Go to Blog Page">BLOG</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/lookbook?folderID=lookbooks" title="Go to Lookbooks">Lookbooks</a>
+                <a href="https://www.yarnspirations.com/lookbook?folderID=lookbooks" title="Go to Lookbooks">Lookbooks</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/about-us.html" title="Go to About Us Page">ABOUT US</a>
+                <a href="https://www.yarnspirations.com/about-us.html" title="Go to About Us Page">ABOUT US</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/knit-abbreviations.html" title="Go to Knit Abbreviations Page">KNIT ABBREVIATIONS</a>
+                <a href="https://www.yarnspirations.com/abbreviations.html" title="Go to Abbreviations Page">ABBREVIATIONS</a>
             </li>
-            <li>
-                <a href="http://www.yarnspirations.com/crochet-abbreviations.html" title="Go to Crochet Abbreviations Page">CROCHET ABBREVIATIONS</a>
-            </li>
+            
         </ul>
     </div>
     <div class="footer-item clearfix">
@@ -2555,7 +2628,7 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
                 <a href="https://www.yarnspirations.com/contactus" title="Go to Contact Us">Contact Us</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/faq.html" title="Go to FAQ">FAQ</a>
+                <a href="https://www.yarnspirations.com/faq.html" title="Go to FAQ">FAQ</a>
             </li>
             <li>
                 <a href="https://www.yarnspirations.com/account" title="Go to Your Account">Your Account</a>
@@ -2564,13 +2637,13 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
                 <a href="https://www.yarnspirations.com/orderhistory" title="Go to Order Status">Order Status</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/shipping-policy.html" title="Go to Shipping Policy">Shipping Policy</a>
+                <a href="https://www.yarnspirations.com/shipping-policy.html" title="Go to Shipping Policy">Shipping Policy</a>
             </li>
             <li>
-                <a href="http://www.yarnspirations.com/return.html" title="Go to Return Policy">Return Policy</a>
+                <a href="https://www.yarnspirations.com/return.html" title="Go to Return Policy">Return Policy</a>
             </li>
 <li>
-                 <a href="https://www.spinriteyarns.com/wholesale-inquiries/" target="_blank" title="Go to Wholesale">Wholesale</a>
+                <a href="https://www.spinriteyarns.com/wholesale-inquiries/" target="_blank">Wholesale Inquiries</a>
             </li>
 
         </ul>
@@ -2580,50 +2653,50 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
         <div class="social-links">
             <a href="https://www.pinterest.com/yarnspirations" target="_blank" title="pinterest">
                 <svg class="icon pinterest svg-pinterest-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#pinterest"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#pinterest"></use>
                 </svg>
             </a>
             <a href="https://www.facebook.com/yarnspirations" target="_blank" title="facebook">
                 <svg class="icon facebook svg-facebook-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#facebook"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#facebook"></use>
                 </svg>
             </a>
             <a href="https://www.instagram.com/yarnspirations" target="_blank" title="instagram">
                 <svg class="icon instagram svg-instagram-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#instagram"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#instagram"></use>
                 </svg>
             </a>
             <a href="https://twitter.com/Yarnspirations1" target="_blank" title="twitter">
                 <svg class="icon twitter svg-twitter-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#twitter"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#twitter"></use>
                 </svg>
             </a>
             <a href="https://www.youtube.com/user/Yarnspirations" target="_blank" title="youtube">
                 <svg class="icon youtube svg-youtube-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#youtube"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#youtube"></use>
                 </svg>
             </a>
         </div>
         <div class="secure-info">
             <div class="secure-title">
                 <svg class="icon lock svg-lock-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#lock"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#lock"></use>
                 </svg>
                 100% SECURE PAYMENT PROCESS
             </div>
         </div>
         <div class="secure-icons">
              <svg class="icon visa svg-visa-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#visa"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#visa"></use>
                 </svg>
  <svg class="icon mastercard svg-mastercard-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#mastercard"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#mastercard"></use>
                 </svg>
  <svg class="icon americanexpress svg-americanexpress-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#americanexpress"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#americanexpress"></use>
                 </svg>
  <svg class="icon paypal svg-paypal-dims ">
-                    <use xlink:href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#paypal"></use>
+                    <use xlink:href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Images-Show#paypal"></use>
                 </svg>
         </div>
     </div>
@@ -2634,7 +2707,7 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
 
 
 
-</div>
+</footer></div>
 <div class="copyright">
 <div class="copyright-wrap clearfix">
 
@@ -2649,7 +2722,7 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
 
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="116c1dc3f190a33f314620c2d6" -->
-<div class="copy-links"><a class="first" href="http://www.yarnspirations.com/privacy.html" title="Go to Privacy Policy">Privacy Policy</a>| <a href="http://www.yarnspirations.com/terms.html" title="Go to Terms of Use">Terms of Use</a>| <a class="last" href="http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/SiteMap-Start" title="Go to Site Map">Site Map</a></div>
+<div class="copy-links"><a class="first" href="https://www.yarnspirations.com/privacy.html" title="Go to Privacy Policy">Privacy Policy</a>| <a href="https://www.yarnspirations.com/terms.html" title="Go to Terms of Use">Terms of Use</a>| <a class="last" href="https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/SiteMap-Start" title="Go to Site Map">Site Map</a></div>
 
 <div class="copy"><span class="desktop">Copyright © 1996-</span><script>document.write(new Date().getFullYear())</script>2020 Spinrite Yarns Online Inc. &nbsp; | &nbsp; All Rights Reserved.</div>
 </div> <!-- End content-asset -->
@@ -2660,7 +2733,7 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
 
 </div>
 </div>
-</footer>
+
 
 
 <div class="cookie-bar-container">
@@ -2691,14 +2764,14 @@ Email: inquire@yarnspirations.com (please add “California Minor Removal Reques
 <![endif]-->
 
 
-<script src="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1532701007147/js/plugins.min.js"></script>
+<script src="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1554782244272/js/plugins.min.js"></script>
 
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
 window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products.","SIMPLE_SEARCH":"Enter Keyword or Item No.","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","QUANTITY":"Quantity","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COUPON_ERROR":"Coupon Error","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"Out of Stock","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","INVALID_POSTAL":"Please enter a valid Postal Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","IN_STOCK":"In Stock","OUT_OF_STOCK":"Out of Stock","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","PREV":"Prev Step","NEXT":"Next Step","VIEW_ALL_SHADES":"View all shades","HIDE_ALL_SHADES":"Hide all shades","VARIATIONS_DIALOG_TITLE":"Select Your Color","ERROR_MAX_QTY":"Max quantity for this product is","SUCCESS_SUBSCRIPTION":"Thank you for your subscription!","SUCCESS_PDP_EMAIL":"success! your design will arrive shortly.","ERROR_PDP_EMAIL":"We apologize, there was an error submitting your email","SE_US_CA_STATE_PLACEHOLDER":"Enter State/Province","SE_OTHER_STATE_PLACEHOLDER":"State/Province not required","SE_US_ZIP_PLACEHOLDER":"Enter Zip Code","SE_OTHER_ZIP_PLACEHOLDER":"Enter Postal Code","ADDING_TO_CART":"Adding to your cart...","ADDED_CART_MESSAGE":"Successfully added to your cart!","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Out of Stock","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","PATTERN_SIZE_ATTRIBUTE_ID":"pattern_size","VIEW_ALL_BRAIDS":"View All Shades","HIDE_ALL_BRAIDS":"Hide All Shades","PASSWORD_CONSTRAINTS":{"forceLetters":false,"forceMixedCase":false,"forceNumbers":false,"minLength":8,"minSpecialChars":0,"specialCharacters":"$%/()[]{}=?!.,-_*|+~#"},"INVALID_PASSWORD":"Please enter at least 8 characters."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Page-Include","continueUrl":"http://www.yarnspirations.com/pageshow","staticPath":"/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1532701007147/","addGiftCert":"/on/demandware.store/Sites-yarnspirations-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-yarnspirations-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.yarnspirations.com/detailsaddress","paymentsList":"https://www.yarnspirations.com/paymentsettings","addressesList":"https://www.yarnspirations.com/listaddress","wishlistAddress":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Address-Delete","getProductUrl":"/productshow","getBonusProducts":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-yarnspirations-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.yarnspirations.com/selectshipping","resetPaymentForms":"/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/addcompare","compareRemove":"/removecompare","compareEmptyImage":"/on/demandware.static/Sites-yarnspirations-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-AddCouponJson","refreshCouponHtml":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-RefreshCouponHtml","storesInventory":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-yarnspirations-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-yarnspirations-Site/en_US/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-yarnspirations-Site/en_US/CSRF-Failed","content":"/pageshow","qasVerifyAddress":"/on/demandware.store/Sites-yarnspirations-Site/en_US/QAS-VerifyAddress","qasUpdateAddress":"/on/demandware.store/Sites-yarnspirations-Site/en_US/QAS-UpdateAddress","getCustomKitTotalPrice":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetCustomKitTotalPrice","getCustomKitContrastColors":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetCustomKitContrastColors","qasVerifyEmail":"/on/demandware.store/Sites-yarnspirations-Site/en_US/QAS-VerifyEmail","displayAllVariations":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-displayAllVariations","getStateHtml":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Address-GetStateHtml","amplienceImageUrl":"//x1.adis.ws/v1/media/graphics/i/yarnspirations/","subscriptionOptIn":"/on/demandware.store/Sites-yarnspirations-Site/en_US/MarketingCloud-SubscriptionOptIn"};
+window.Urls = {"appResources":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Page-Include","continueUrl":"https://www.yarnspirations.com/pageshow","staticPath":"/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1554782244272/","addGiftCert":"/on/demandware.store/Sites-yarnspirations-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-yarnspirations-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.yarnspirations.com/detailsaddress","paymentsList":"https://www.yarnspirations.com/paymentsettings","addressesList":"https://www.yarnspirations.com/listaddress","wishlistAddress":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Address-Delete","getProductUrl":"/productshow","getBonusProducts":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-yarnspirations-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.yarnspirations.com/selectshipping","resetPaymentForms":"/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/addcompare","compareRemove":"/removecompare","compareEmptyImage":"/on/demandware.static/Sites-yarnspirations-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-AddCouponJson","refreshCouponHtml":"https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/Cart-RefreshCouponHtml","storesInventory":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-yarnspirations-Site/en_US/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-yarnspirations-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-yarnspirations-Site/en_US/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-yarnspirations-Site/en_US/CSRF-Failed","content":"/pageshow","qasVerifyAddress":"/on/demandware.store/Sites-yarnspirations-Site/en_US/QAS-VerifyAddress","qasUpdateAddress":"/on/demandware.store/Sites-yarnspirations-Site/en_US/QAS-UpdateAddress","getCustomKitTotalPrice":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetCustomKitTotalPrice","getCustomKitContrastColors":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-GetCustomKitContrastColors","qasVerifyEmail":"/on/demandware.store/Sites-yarnspirations-Site/en_US/QAS-VerifyEmail","displayAllVariations":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Product-displayAllVariations","getStateHtml":"/on/demandware.store/Sites-yarnspirations-Site/en_US/Address-GetStateHtml","amplienceImageUrl":"https://x1.adis.ws/v1/media/graphics/i/yarnspirations/","subscriptionOptIn":"/on/demandware.store/Sites-yarnspirations-Site/en_US/MarketingCloud-SubscriptionOptIn"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"COOKIE_HINT":false,"CHECK_TLS":false,"QAS_ENABLED":true,"CONTENT_CHAR_LIMIT":200,"CONTENT_SHOWMORE":"Show More","CONTENT_SHOWLESS":"Show Less"};
 }());
 </script>
@@ -2710,10 +2783,7 @@ window.User = {"zip":null,"storeId":null};
 }());
 </script>
 
-
-
-
-<script src="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1532701007147/js/app.min.js" async=""></script>
+<script src="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1554782244272/js/app.js" async=""></script>
 
 <script>
 pageContext = {"title":"content","type":"content","ns":"content"};
@@ -2725,13 +2795,13 @@ var keywords = "";
 
 
 
-</div>
+
 <!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/__Analytics-Start";
+        var trackingUrl = "https://www.yarnspirations.com/on/demandware.store/Sites-yarnspirations-Site/en_US/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -2743,9 +2813,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1532701007147/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1554782244272/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1532701007147/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-yarnspirations-Site/-/en_US/v1554782244272/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
