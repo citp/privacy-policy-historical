@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the krify.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202112315id_/https%3A//krify.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krify.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409173637id_/https%3A//krify.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Krify
 
-### Privacy Policy
+Privacy Policy
 
 This privacy policy is applicable to Krify website. This privacy statement governs the information that we collect from you when you use this website. This policy covers how Krify website collects, uses and protects the information that we gather through your use of Krify website and online/offline communications. We may collect this information through online/offline registrations, communications, interactions and sales inquiries. Please note that this policy may still apply if you choose private browsing.
 
@@ -25,3 +25,6 @@ Whatever may be the mode of information, we want to convey that we respect the p
 **Cookies**
 
  A cookie is a small amount of encrypted data that is saved on your hard drive to deliver web content to you. Our website uses cookies that enables you to sign in and help in personalizing your online experience. Many browsers save cookies by default. We use cookies to save your information and preferences.
+
+  
+
