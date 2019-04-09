@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214210437id_/https%3A//nethouseprices.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409163509id_/https%3A//nethouseprices.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy | Nethouseprices.com
 
@@ -141,7 +141,7 @@ Two types of cookies are used on this Website:
 
 Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.
 
-Find out more about [cookies](http://www.allaboutcookies.org/cookies/) by contacting us at [info@nethouseprices.com](https://web.archive.org/web/20181214210437id_/https%3A//nethouseprices.com/information/info@nethouseprices.com) or visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Find out more about [cookies](http://www.allaboutcookies.org/cookies/) by contacting us at [info@nethouseprices.com](https://web.archive.org/web/20190409163509id_/https%3A//nethouseprices.com/information/info@nethouseprices.com) or visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 How we use cookies on our Website and what information we collect
 
