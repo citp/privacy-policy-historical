@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231142823id_/https%3A//www.wildearth.com.au/view/privacy-and-security-policy/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409220245id_/https%3A//www.wildearth.com.au/view/privacy-and-security-policy/1) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
@@ -17,8 +17,6 @@ How do we do this?  
  \- We employ Secure Socket Layer (SSL) protocols to ensure information provided over the internet is transmitted securely.
 
  \- All Cardholder information is stored and processed in accordance with the Payment Card Industry Data Security Standard (PCI DSS).
-
-## 
 
 **PRIVACY POLICY**
 
