@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jomres.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626193353id_/https%3A//www.jomres.net/2-uncategorised/49-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jomres.net privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409130057id_/https%3A//www.jomres.net/2-uncategorised/49-privacy-policy) for the most accurate reproduction.*
 
 # Jomres the Online Booking System for Joomla and WordPress - Privacy Policy
 
