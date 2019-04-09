@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109062054id_/https%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409133007id_/https%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Property Guide
 
@@ -10,7 +10,7 @@ At the Global Property Guide (GPG) we collect different types of information abo
 
   1. To help us to monitor and improve the services we offer.
   2. To sell advertising space on the site. This helps us to keep the site free for people who visit it.
-  3. If we have permission from the user, or where otherwise allowed by law, to market services to them. This includes two sites that we do not operate but whose products are marketed through our site: the property listing site [search.globalpropertyguide.com](https://web.archive.org/web/20181109062054id_/https%3A//www.globalpropertyguide.com/search.globalpropertyguide.com) and the residential mortgage site [www.SimonConn.com](https://web.archive.org/web/20181109062054id_/https%3A//www.globalpropertyguide.com/www.SimonConn.com)
+  3. If we have permission from the user, or where otherwise allowed by law, to market services to them. This includes two sites that we do not operate but whose products are marketed through our site: the property listing site [search.globalpropertyguide.com](https://web.archive.org/web/20190409133007id_/https%3A//www.globalpropertyguide.com/search.globalpropertyguide.com) and the residential mortgage site [www.SimonConn.com](https://web.archive.org/web/20190409133007id_/https%3A//www.globalpropertyguide.com/www.SimonConn.com)
 
 
 
