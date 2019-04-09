@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the opensea.io privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816161739id_/https%3A//opensea.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensea.io privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409194631id_/https%3A//opensea.io/privacy) for the most accurate reproduction.*
 
-# OpenSea: Buy Crypto Assets, CryptoKitties, Collectibles on Ethereum & more
+# OpenSea: Buy Crypto Collectibles, CryptoKitties, Decentraland, and more on Ethereum
 
 [OpenSea](https://web.archive.org/assets)
 
 You are on the OpenSea test network (rinkeby.opensea.io). Go to [OpenSea.io](https://opensea.io/) to hop off the test network.
 
-  * Stream
+  * Rankings
+  * Activity
   * Browse
   * Develop
   * Help
   * My Account
+  * [ _notifications_](https://web.archive.org/account#bids)
 
 
 
-Version 1.1
+Version 1.2
 
-Last Revised: June 8, 2018
+Last Revised: October 26, 2018
 
 Ozone Networks, Inc. d/b/a OpenSea (“Company,” “we” or “us”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [https://opensea.io ](https://opensea.io/)(the “Site”) and online services (collectively, the “Service”).
 
-  1.  **Questions; Contacting Company; Reporting Violations**. If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address: [Ozone Networks, Inc., 972 Mission Street, San Francisco, CA 94103].
+  1.  **Questions; Contacting Company; Reporting Violations**. If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address: [105 East 24th St. Apmt 4D, New York, NY 10010].
   2.  **User Consent**. By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy. For conducting cryptocurrency transactions we use third-party electronic wallet extensions such as (but not limited to) MetaMask; your interactions with MetaMask and/or any third-party electronic wallet extensions are governed by the applicable privacy policies. In the case of MetaMask, its privacy policy is available at <https://metamask.io/privacy.html>.
   3.  **A Note About Children**. We do not intentionally gather Personal Data from visitors who are under the age of 13. If a child under 13 submits Personal Data to Company and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at the address indicated in Section 1 above.
   4.  **A Note to Users Outside of the United States. If you are a non-U.S. user of the Service, by visiting the Service and providing us with data, you acknowledge and agree that your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. By providing your data, you consent to such transfer.**
