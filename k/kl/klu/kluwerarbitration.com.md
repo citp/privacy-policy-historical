@@ -1,139 +1,233 @@
-> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120114310id_/https%3A//lrus.wolterskluwer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409205329id_/https%3A//lrus.wolterskluwer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Wolters Kluwer Legal & Regulatory
 
-The Wolters Kluwer Legal & Regulatory U.S. division of CCH Incorporated (“ _ **WKL** **& R**_,” “ _ **CCH**_ ,” “ _ **us**_ ,” “ _ **our**_ ” or “ _ **we**_ ”) has developed this privacy statement for you, the visitor/user, to demonstrate its commitment to privacy on the Internet. This statement ( ** _“Privacy Statement”_** or ** _“Statement_** ”) applies to the information gathering, use and dissemination practices for WKL&R operated eStores and other Web-enabled and accessible services and applications (collectively, the “ _ **Services**_ ”), including www.lrus.wolterskluwer.com and all other Web sites, mobile applications and Internet-accessible products and services operated by WKL&R (collectively, the “ _ **WKL &R Properties**_”). By entering or using any WKL&R Property or Service, you are acknowledging and accept these terms as applying to such use.
+### Privacy Notice and Cookies Policy
 
- **1\. Application**  
-This Privacy Statement applies to the online collection of personal information via the WKL&R Properties and Services. This Privacy Statement does not apply to information collected in any other way such as offline.
+ _Last updated: March 19, 2019_
 
- **2\. Collection of Information from the WKL &R Properties**
+The Wolters Kluwer Legal & Regulatory U.S. division of CCH Incorporated (“ **we** ,” “ **us** ,” “ **our** ,” or “ **Wolters Kluwer LRUS** ”) is committed to protecting the privacy of anyone who visits our websites or registers to use our services or attends our online events. This Privacy Notice and Cookies Policy (the “ **Notice** ”) is designed to tell you about our practices regarding collection, use, storage, and disclosure of information we collect via our websites or any of our mobile applications and the consent required for those activities. This Notice applies to any of our websites, applications, products, software, or services that display a link to this Notice (the “ **Websites** ”). Please be sure to carefully read this Notice in its entirety before using or submitting information to these sites.
 
-We collect several types of information from users in various ways. Specifically, we collect information directly from users that they voluntarily provide and also through the use of automated tools to log users’ use of the Services. We use this information primarily to provide users with the Services they have chosen and to personalize their experience, delivery of services and provide other relevant information. Much of the information we collect (beyond the information provided directly by you) is not personally identifiable about you.
+**Your use of this website**  
+Use of this Website constitutes your agreement to the terms of this Notice and the application of any applicable laws and regulations. Whenever you submit personal data and any other information via the Websites, you acknowledge that data and information will be collected, used and disclosed in accordance with this Notice.   
+Our services are geared towards professionals and not aimed at children.  In compliance with the United States Children's Online Privacy Protection Act (COPPA), we do not seek information from children 13 and under.
 
- **(a) User-Supplied Information**
+**Information we collect**  
+We will use and process your personal data lawfully, fairly and in a transparent manner. We will collect and use your personal data solely for the specified and legitimate purposes stated in this Notice.  We use your personal data to:
 
-We require users to provide us with personal information as a condition of using or accessing certain of our Services. This information may include name, email address, phone number, email address, payment card information, and/or certain additional categories of information. This information is used by us to verify that you are an authorized user of a Service, and whether on your own behalf or through a subscription obtained by your employer or organization. 
+  * set up your account and verify your identity;
+  * provide the products or services and related activities you request;
+  * provide direct and digital marketing communications via email, direct mail and telephone communication or through personalized online experiences;
+  * provide you with best-practice and thought leadership content that is relevant to your job function and/or company;
+  * contact you, if you request that we contact you or send you information;
+  * provide customer service when you contact us;
+  * improve the quality, content and overall user experience of the Websites;
+  * notify you of new features and updates to the Websites or any of our products;
+  * administer surveys, contests and other promotional events; and
+  * address other business needs such as website administration, security and fraud prevention, legal compliance and business continuity.
 
-If you contact us for customer support, we may ask you to provide information about your computer or mobile device or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control purposes.
 
-For some of our Services, we may make chat rooms, forums, message boards, news groups, and/or offer the ability to post/share content on social media available to you. Any information posted or disclosed in these areas is public. As such, you should exercise caution when disclosing personal information in these areas, as this information is made available to other users. Do not disclose information in these public forums that might be considered confidential or proprietary or that you do not wish to be publicly available or that you are prohibited from disclosing.
 
- **(b) User Data Collection**
+**Information you provide to us**  
+The Websites actively collect information from their visitors both by asking you specific questions when you interact with us such as:
 
-We may collect non-personally identifiable information in connection with your use of our Services and visits to the WKL&R Properties. For example, as you browse the WKL&R Properties we may collect information about your visit to monitor statistics such as the number of people that visit the WKL&R Properties or use our mobile applications, which page(s) are visited on our sites, from which domain our visitors come (e.g., google.com), and which browsers people use to visit our websites (e.g. Safari, Microsoft Internet Explorer, etc.). We also may compile statistics that show the numbers and frequency of visitors to our websites and applications, including individual pages. These aggregated statistics may be used internally to improve our Services and the WKL&R Properties and for product development and marketing purposes generally. The information we collect in Web server logs helps us administer our sites, analyze usage, protect the website and its content from inappropriate use, and improve user experience. In addition, aggregated statistics (which may contain personally identifiable information) may also be provided to advertisers and other third parties.
+  * registering on our Websites;
+  * requesting or signing up to receive information from us;
+  * making a purchase;
+  * signing up for a webinar;
+  * entering into promotions or contests;
+  * accessing certain parts of the Websites;
+  * benefiting from specified Website features;
 
- **(c) Device Information  
+
+
+or otherwise by permitting you to communicate directly with us via e-mail.
+
+You can choose not to enter any of your Personal Data into the Websites. However, if you choose not to provide us with your Personal Data in these circumstances, we may be unable to respond to your inquiry, engage in further communications with you and/or provide the requested products or services.   
+We will, depending on the nature of your communication with us with respect to your visit to the Websites, use your Personal Data as follows:
+
+  * **_If you are making an inquiry about how our products or services could help your business_** : we will use your Personal Data to respond to any inquiry you may make and/or provide you with information that you request from us because it is in our legitimate interests to use your Personal Data to communicate with you, to respond to your request and develop the relationship between us;
+  * **_If you view or download a content asset (e.g., news article, white paper, case study, competitive analysis, etc.)_** : we will use your Personal Data to provide you with information and materials that could be relevant or related to the content asset that you viewed or downloaded because it is in our legitimate interests to use your Personal Data to communicate with you and develop the relationship between us;
+  * **_If you are making an inquiry about how your business could support or work with our business_** : we will use your Personal Data to consider how your business could support or work with our business because it is in our legitimate interests to use your Personal Data to consider whether it would be beneficial to work with your business;
+  * **_If you are an existing customer, supplier, or partner of ours and you are making an inquiry about your agreement or relationship with us_** : we will use your Personal Data to respond to you as an existing customer, supplier or partner of ours in relation to a pre-existing agreement or relationship because it is in our legitimate interests to use your Personal Data to manage your business' relationship with us. It may also be necessary for us to: 
+    * use your Personal Data to perform an agreement with your business, where we would be unable to provide those products or services to or receive them from your business without that information (for example, if a particular product, service or information is to be provided to you at your business, we would be unable to provide that service or information unless we were able to use your Personal Data for that reason);
+    * use your Personal Data to comply with a legal obligation relating to how we manage our business or our relationship with your business;
+  * **_If you are member of the public and you are making an inquiry about whether you could work for us_** : we will use your Personal Data to consider and decide how to respond to your inquiry because it is in our legitimate interests to use your Personal Data to consider whether we have any suitable job vacancies and to contact you about them. It may also be necessary for us to use your Personal Data to comply with a legal obligation relating to how we manage our business; 
+  * **_If you are making any other type of inquiry, such as to "request a demo"_** : we will use your Personal Data to consider and respond to your inquiry because it is in our legitimate interests to use your Personal Data in order to determine how to answer your query and/or provide you with the relevant information and/or service, or information on related products or content. Depending on the subject of your inquiry, it may also be necessary for us to use your Personal Data to comply with a legal obligation relating to how we manage our business or our relationship with your business; 
+  * **_If we do not know you or your role at your business_** : we may also use your Personal Data to confirm your identity and the business that you work for, as well as your role at that business. We do this because it is in our legitimate interests to make sure that your inquiry is genuine and is not being made for fraudulent reasons or is not spam. We may also do this because we may be subject to legal obligations which require us to confirm the details that you provide to us before entering into a relationship with you; and
+  * **_If you opt-in to receive marketing communications_** : in some circumstances we may present you with an option to opt-in to receive marketing communications, in which case we will use your Personal Data to contact you to share information about the relevant and related products, services, news and events. In those circumstances, when you enter your contact details for this reason and submit the form, you will be consenting to us contacting you for these purposes and we will only be able to send you marketing communications if you have provided your consent.
+
+
+
+When you provide us with your information, you are giving your consent for your Personal Data to be used by us to contact you by email, direct mail and telephone, and to deliver personalized website experiences, to share information about relevant products, services, best practice information, industry news and events. Where we have obtained your consent, you are entitled to withdraw your consent to us contacting you or to otherwise amend your communication preferences by contacting us at the email address listed under Contact Information below.
+
+Additionally, when we communicate via email with you to market or promote our products or services, if you decide that you do not want to receive any correspondence from us about the products or services we could provide your business, including communications regarding product information, press releases, newsletters, marketing, promotions, and/or other topics please click the "unsubscribe" link provided in that promotional email message or go to [Communication Preferences](http://preferences.wolterskluwerlr.com/LP=174). Withdrawing your consent will not affect our use of the Personal Data prior to you withdrawing that consent but it will mean that we will not be able to contact you about the products and services we may be able to offer you or your business in the future.
+
+We will let you know where you must provide us with Personal Data in order to perform an agreement with you or your business or to comply with a legal obligation. 
+
+**Information we collect from your browser and your device**  
+As you navigate through the Websites, we will automatically collect information about your interaction with the Websites such as your IP address, traffic data, clickstream information, time stamp, location data, web logs, other communication data and the resources that you access and actions that you take (such as downloading content, submitting a form, making a purchase, etc.) when you visit the Websites and your browser or other applications on your device interact with it. We automatically collect this data using various technologies such as cookies, web logs and beacons and internet tags as described below. This information allows us to better tailor our content to users’ needs and is only gathered while you are on the Websites. 
+
+We automatically receive and record such information on our server logs from your browser. As discussed below, we use this information to diagnose problems with our server, report aggregate information for statistical analysis, determine the fastest route for your computer to connect to the Websites and administer and improve the Websites.
+
+To the extent this information constitutes personal data, we use it to ensure that content from the Websites is presented in the most effective manner for you and your device because it is in our legitimate interests to improve our customers' online experience in relation to the Websites.
+
+**Sharing of information with third parties**     
+Except as described below, we do not sell, rent or lease your Personal Data to third parties. We may share your Personal Data with third parties in certain situations in order to confirm your identity, respond to your query, facilitate your use of the Websites or consummate corporate transactions or comply with law. By visiting the Websites you agree to the following disclosures:
+
+  * we may check your Personal Data by searching for your name and that of your business in publicly available and private databases of businesses and individuals, which will use the details entered by us to provide us with the search results. For example, we may use databases such as those retained by LinkedIn or data.com for this purpose;
+  * we may pass your information on to selected third parties including:
+  * our service providers and sub-contractors for the performance of any contract we enter into with them or you;
+  * our business partners, but only to the extent you have purchased or expressed an interest in a product or service of such business partner or interacted with or otherwise authorized the sharing of your Personal Data with such business partner;
+  * advertisers and advertising networks and affiliates and affiliate networks that require the data to select and serve ads to you and others;
+  * a purchaser or successor entity in the event of a sale or other corporate transaction involving some or all of our business or as needed to affect the sale or transfer of business assets, or as needed for external audit, compliance or corporate governance related matters;
+  * analytics and search engine providers that assist us on the improvement and optimization of the Websites; and
+  * a third party to which we have a duty to disclose or share your information (i) to enforce or apply our terms of use and other agreements; (ii) as required by applicable law, court orders, government regulators or legal process (including subpoenas); (iii) as necessary to protect the property, safety and rights others. This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction.
+  * We reserve the right to sell, lease or rent individually identifying information (except for credit/debit card numbers, expiration dates and CVV codes, unless you consent otherwise) and non-individually identifiable information to unaffiliated third parties for their direct marketing purposes.  Where we are required by law to seek your consent to using your individually identifying information in this way, we will do so.  If you prefer that we not share any of your personal information with unaffiliated third parties for them to market to you, please let us know by contacting us at the email address listed under Contact Information below. 
+
+
+
+We also may share your Personal Data with our affiliates for the purposes set forth in this Notice because we rely on our affiliates to help us operate Wolters Kluwer LRUS.  Additionally, within Wolters Kluwer LRUS, we help support the operations of our Dutch affiliate, Kluwer Law International B.V. (“ **KLI** ”).  In that regard, if you are a customer of KLI, you may be visiting some of our Websites, specifically our [eCommerce Website](https://web.archive.org/store/ "Store") and its related marketing pages, to do business with KLI and as such we may also share your Personal Data with KLI.  KLI’s privacy notice can be found at [http://www.kluwerlaw.com/privacy-policy/ ](http://www.kluwerlaw.com/privacy-policy/).    
+
+**Use of cookies**  
+Our Websites use “cookies” to enhance your use of the Websites and/or services and to monitor your activity during your visit(s) to the Websites. Cookies are small text files that are stored on your browser and the hard drive of your computer, mobile or other handheld device. The cookies store information about your visit to the Websites and distinguish you from other users. Our use of cookies allows us to provide you with a good experience when you browse our Websites.
+
+The use of cookies helps us to display content on the Websites and also allows us to obtain and analyze statistics about the use of the Websites so that we can improve them. By continuing to use the Websites you consent to our use of cookies as explained in this Notice.
+
+Below is a description of the types of cookies used on the Websites and provides detail about what they are used for. When you use the Websites for the first time, cookies that are essential to make the Websites operate (see those identified as "essential cookies" below) will have been set. If you do not want other cookies set, please adjust your browser settings as described below under “Disabling or deleting cookies.”
+
+Some cookies are deleted when you close your browser. These are known as session cookies. Others remain on your device until they expire or you delete them.  These are known as persistent cookies and enable us to remember things about you as a returning visitor. 
+
+If you do not want cookies to be stored, then you may turn off certain cookies described below individually or you can select the appropriate options on your web browser to delete some or all cookies. Please note, however, that if you block some or all cookies (including essential cookies) you may not be able to use or access all or parts of the Websites, such as being able to log on to member-specific areas.
+
+**How we use Cookies on our Websites**  
+_Session Cookies_  
+We use session cookies for the following purposes:
+
+  * To control access to paid for subscription content.
+  * To allow you to carry information across pages of our Website and avoid having to re-enter information.
+  * To allow you to access stored information for future use, such as registration.
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our Website and to help us improve the structure of our Websites.
+
+
+
+_Persistent Cookies_  
+We use persistent cookies for the following purposes:
+
+  * To control access to paid for subscription content.
+  * To help us recognize you as a unique visitor (just a number) when you return to our Websites and to allow us to tailor content to match your preferred interests.
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our Websites and to help us improve the structure of our Websites.
+  * To internally identify you by account name, email address, customer ID, and location (geographic and computer ID/IP address).
+  * To tailor content to your preferences.
+
+
+
+_Third Party Cookies_  
+Third parties serve cookies via our Websites. These are used for the following purposes:
+
+  * To serve content on our Websites and external websites and track whether this content is clicked on by users.
+  * To control how often you are shown particular content.
+  * To count the number of anonymous users of our Websites.
+  * For Website usage analysis.
+  * To link the information we store in cookies to any personally identifiable information you submit while on our Websites.
+
+
+
+**Disabling or deleting cookies    
 **  
-We may collect non-personal information about the mobile device or other device you use to access our Services and the WKL&R Properties, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
+You can set your browser so that installed cookies are deleted and you do not receive cookies during your next use of the website. Below are links to instruction on how to remove different types of cookies from different browsers:
 
- **(d) Location Information**
+  * [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+  * [Mozilla](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer#w_cookie-settings)
+  * [Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Safari](https://support.apple.com/guide/safari/welcome/mac)
+  * [Opera](https://www.opera.com/help/tutorials/security/privacy/)
 
-Some of our Services can deliver content based on your current location if you choose to enable that feature of the application. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the application. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an application does not have that feature, the application will not transmit to us, and we will not collect or store, location information.
 
- **(e) Cookies and Similar Tracking Technologies**
 
-In order to offer and provide a customized and personal service, we may use cookies to store and help track information about you, as well as Web beacons, HTML5 local storage and other similar technologies to manage access to and use of our Services, recognize you and provide personalization, as well as to help us understand where our visitors are going and how much time they spend there. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer’s hard drive. We use cookies and similar technologies to help remind us who you are and to help you navigate our sites during your visits. Cookies allow us to save passwords and preferences for you so you won’t have to reenter them each time you visit.
+If you disable or delete cookies, it may be that you do not have access to (parts of) the Websites or that the Websites do not work optimally. To find out more about these functions, it is best to consult your browser instructions or the help function of your browser.
 
-Internet cookies may save data about individual visitors, such as the visitor’s name, password, user-name, shopping cart, screen preferences, the pages of a site viewed by the visitor, and the advertisements viewed or clicked by the visitor. When you revisit a WKL&R Property, the site may recognize you by the Internet cookie and customize your experience accordingly. If you prefer, you can set your browser to either notify you when you receive a cookie or to refuse to accept cookies. You should understand that some features of many sites or applications may not function properly if you do not accept cookies. 
+Please note that Google and other third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies as a result of you visiting other websites, over which we have no control. 
 
-You have the right and ability to delete certain cookies placed on your computer hard drive. Doing so will erase the data about you when you revisit a WKL&R Property since you will not be recognized.   
-Our websites and applications also may use local shared objects, also known as “Flash cookies” to store your preferences or display content based upon what you view on our websites to personalize your visit. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here.
+We do not currently commit to responding to web-browser do not track signals or other mechanisms that provide users the ability to exercise choice regarding the collection of Personal Data about a user's online activities over time and across third-party websites or online services (“DNT”). This is due in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators. We will continue to monitor developments around DNT browser technology and reassess our practices with respect to DNT as needed. 
 
- **(f) Do Not Track**
+**Security**  
+We have implemented appropriate technical and organizational measures on our servers, which are designed to protect your Personal Data from accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data transmitted, stored or otherwise processed. 
 
-We do not use tracking cookies in order to generate or place targeted third party advertisements. Some browsers have a ‘do-not-track’ feature. When this feature is activated, we will “honor” such feature and as a result, not track site utilization to generate any targeted third party advertising based on such use.
+You should keep in mind that Internet transmissions (including emails) are never completely secure or error-free. As such, you should take steps to protect yourself, especially online and take special care in deciding what information you send to us via e-mail or other transmissions. Moreover, where you use passwords, ID numbers, or other special access features on the Websites, it is your responsibility to safeguard them. You should choose a strong password, do not use the same password that you use on other websites and do not share your password with anyone else.  Also remember to sign out of our Websites and close your browser window when you have finished to ensure that others who may have access to your computer cannot access your Personal Data.
 
- **3\. How we use User Information**
+**Links to other websites, social media and public forums**  
+This site may contain links or references to other websites. Please be aware that we do not control other websites and, except as otherwise noted in the applicable website, this Notice does not apply to those websites. We encourage you to read the privacy and cookie policy of every website you visit. We are not responsible for the security or privacy of any information collected by these third parties.
 
-We use the information gathered from the Services and WKL&R Properties to provide Services to users, to maintain the security and integrity of our Services, for the purpose of conducting market research or surveys on our behalf, and for the administration, review and/or the improvement of the content of our Services. Aggregate data on users’ home servers may be used for internal purposes or provided to third parties, such as advertisers. 
+We may offer certain “share” or “social media” functionality on some of our Websites.  If you choose to use these functions, we may and/or the third party social media networks may collect certain information about you depending on the function or feature you use.  With respect to the social media features (such as allowing you to post information about your activities or share your information with others on a social media site), the collection and use of information by and your interactions with the third party social media network will be governed by the privacy policy of the company providing those social media features.  We are not responsible for the security or privacy of any information collected by these third parties. 
 
-Personal information, such as names, postal and email addresses, phone numbers, and other personal information that users voluntarily provide to us may be added to our contact databases and used for future calls and mailings regarding our Services, site or application updates, new products and services, upcoming events, and status of orders placed online. We also may enhance or merge user information with data from third parties for purposes of marketing products or services. If you do not wish to receive offers related to additional products and services that may be of interest to you, you may opt out from emails and by contacting us using the information below.
+By providing us with Personal Data about other people, you warrant that they have provided you with their consent to receive the relevant “share” or “social media” communication. 
 
-In some circumstances, the information you provide is aggregated with other data for statistical analysis and internal research purposes to help us understand who is using our sites and Services and become better equipped to serve your needs. We also keep this information in a contact database for future reference, as needed.
+Some of our Websites may provide forums and other areas where you can communicate with others and publicly post information. All the information (including any of your Personal Data) you post will not be private and will be accessible by anyone with Internet access, and may be read, collected, and used by others. You should use caution when posting any Personal Data to these public areas. 
 
-We may use demographic and preference information to allow advertising on one or more of our Services that can be targeted to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, improving both the viewer’s experience and the effectiveness of the ads.
+**Marketing and customer relationship software applications**  
+Your Personal Data may be held in our marketing automation software (Eloqua) and customer relationship management software (Salesforce) for the purposes outlined above, and to properly track compliance, such as previous consent or opt-ins, as well as your company’s relationship history with us.   
+For more information on how these applications use your Personal Data, please follow the links listed below:
 
-We may remarket your information. Remarketing is a way for us to connect with users, based upon your past interactions with our Websites. We may hire third-party marketing vendors, such as Google, to perform remarketing services. As a result, such third-party vendors, including Google, may show our ads on sites on the internet, and may use cookies to serve specific ads based on a user’s prior visits to our Website(s). Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page at http://www.google.com/privacy_ads.html. This information is used only for remarketing purposes and will not be used by them for any other purpose.
+  * [Eloqua](https://www.oracle.com/marketingcloud/about/events/gdpr.html)
+  * [Salesforce](https://help.salesforce.com/articleView?id=Salesforce-Services-Trust-and-Compliance-Documentation&language=en_US&type=1)
+  * [Pardot](http://www.pardot.com/legal/permission-based-marketing-policy/)
+  * [Salesforce Marketing Cloud (ExactTarget)](https://www.marketingcloud.com/au/anti-spam-policy/)
+  * [SendGrid](https://sendgrid.com/policies/email/)
+  * [Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en)
+  * [Google Adwords](https://policies.google.com/privacy?hl=en&gl=us)
+  * [Cybba](https://cybba.com/about/legal/terms-conditions/)
+  * [Conductor](https://www.wework.com/legal/privacy)
+  * [Commission Junction](https://www.conversantmedia.com/legal/privacy)
+  * [Microsoft Bing Ads](https://advertise.bingads.microsoft.com/en-us/resources/policies/privacy-and-data-protection-policies)
+  * [Ucommerce](https://ucommerce.net/company/data-privacy-and-cookie-policy/)
+  * [Umbraco](https://ucommerce.net/company/data-privacy-and-cookie-policy/)
+  * [Crazy Egg](file:///C:/Users/Jennifer.Cusenza/Wolters%20Kluwer/OneDrive%20-%20Wolters%20Kluwer/Policies/Privacy%20Policy/January%202019/%E2%80%A2%09https:/www.crazyegg.com/privacy)
+  * [IBM Analytics](https://www.ibm.com/privacy/us/en/)
+  * [Customer Gauge (Net Promoter Score)](https://customergauge.com/privacy-policy)
+  * [Commerce Register, Inc.](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.cridps.com%2Fresources%2Flegal%2F&data=02%7C01%7CJanet.LeVee%40wolterskluwer.com%7C20ed036872a44f9e14a208d6a1b06f2d%7C8ac76c91e7f141ffa89c3553b2da2c17%7C0%7C0%7C636874176479937940&sdata=JOLSHaWfQDOiyyQCcWOVcc%2B6L9VzcKbKDr4WGRei%2BjY%3D&reserved=0)
 
- **4\. Sharing User Information**
 
-We share information collected though the Services and the WKL&R Properties as follows:
 
- **(a) Transactions**
+**European data protection legislation**  
+For the purposes of this Notice, **"** European Data Protection Legislation **"** means all applicable legislation relating to data protection in the European Economic Area ( **"** EEA **"** ), including the EU General Data Protection Regulation 2016/679 ( **"** GDPR **"** ) and all legislation implementing or made under or pursuant to or replacing or superseding the GDPR. Where this Notice uses terms which are defined in the GDPR, the definitions set out in the GDPR will apply.
 
-We disclose information you provide to us to third parties in order to complete a transaction that you requested or as otherwise permitted by your organization’s customer agreement(s) (if any). For example, we contract with other companies to provide certain services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. These service providers are restricted from using this data in any way other than to provide services to us, and they may not share, resell or use the data for their own direct marketing purposes.
+**"** Personal Data **"** is data relating to you from which you can be reasonably identified. Examples of Personal Data include your full name, email address, postal address, telephone number, job title or the company you work for. We recognize that your Personal Data is valuable and we process it in accordance applicable law, and, to the extent that it applies to your Personal Data, with European Data Protection Legislation.
 
- **(b) Site Usage Vendors**
+_Data Controller_  
+We are the data controller responsible for the processing of your Personal Data collected from the Websites under the European Data Protection Legislation (to the extent that it applies to Personal Data collected about you) and other applicable law.
 
-We use one or more third party web analytics service vendors to provide us information, reports and analysis about the usage and browsing patterns of users of our Services and visitors to the WKL&R Properties. These services may collect information sent by your browser as part of a web page request, including your IP address or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. The information generated by the cookie about your use of the website (including your IP address) may be transmitted to, and stored at, data warehouses of ours or such vendors.
+_Your Rights under the European Data Protection Legislation_  
+With respect to the Personal Data that we collect about you from the Websites, to the extent that you are located in the EEA, under European Data Protection Legislation you have the right to:
 
- **(c) Corporate Accounts**
+  * request access to that Personal Data;
+  * receive a copy of the Personal Data that you have provided to us in a structured commonly used format so that you can share it with others;
+  * where Personal Data is inaccurate or incomplete, ask for Personal Data to be rectified or completed;
+  * request the transfer of your Personal Data to another party;
+  * ask that Personal Data be erased;
+  * object to us processing your Personal Data by asking for the processing of that Personal Data to be restricted or stopped. For example, if we use your Personal Data for marketing purposes; and
+  * make a complaint to a European data protection authority about the manner in which we process your Personal Data.
 
-If you have a corporate account with WKL&R, we may also share your information in accordance with your organization’s customer agreement(s) (if any) for products and services (including disclosure of personal information to the subscribing organization by agreement).
 
- **(d) Sharing Functionality**
 
-You may elect to share content from the WKL&R Properties and/or Services to your friends using “sharing” functionality. In such case we will ask for your friend’s name and e-mail address and we will send your friend a one-time e-mail inviting them to visit the applicable web page. We do not permanently store the names and email addresses of your friends and do not use that data for marketing purposes, other than sending the aforementioned one-time e-mail.
+Please contact the person listed under “Contact Information” below to exercise these rights or for additional information. When you contact us to exercise the above rights, we may ask for further information from you, to confirm your identity, as we take the protection of your Personal Data seriously.  If you have an online account with us, you may be able to log into your account to access and update the information you have provided to us. 
 
- **(e) Business Transactions**
+**International data transfers**  
+We store and process your personal data in the United States. We may transfer and access such information from around the world, including other countries in which we have operations or in which our hosted service providers’ cloud servers are located.   By providing us with your personal data, you consent to this transfer. Your data shall be protected in accordance with this Notice regardless of where it is processed or stored. 
 
-We reserve the right to transfer or sell, in whole or part, any and all information collected through the Services or the WKL&R Properties as described herein to one or more entities in connection with the sale of all or some of the assets of WKL&R or its affiliates or subsidiaries through any corporate transaction, liquidation or bankruptcy process.
+**Changes to this Privacy Notice**  
+We may from time to time amend this Notice to reflect any changes in WK's practices, services and legal obligations. If WK makes any material changes to the way WK collects, uses or shares your Personal Data, WK will notify you of those changes by posting an updated notice on the specific site to which it relates or by an electronic communication to you, which will indicate the effective date of the proposed changes. Your continued use of our Websites and our products and services following the effective date of a change to this Notice signifies your acceptance and agreement to the terms of the revised notice. WK encourages you to periodically visit this page to determine the current terms to which you are bound. This Notice has been revised at the “Last Updated” date displayed at the top of this Notice.
 
- **(f) Business Partners**
+**Contact information**  
+If you have any questions, comments or concerns about this Notice or our privacy practices or wish to file a complaint, please contact us in one of the following ways:
 
-We may share your personal information with one or more parties that also have your personal information in order to enhance one or both of our advertising or promotional endeavors.
+**Wolters Kluwer Legal & Regulatory U.S. Privacy Officer: **
 
- **(g) Affiliated Companies**
+Email:   WKLRUS-PRIVACY@wolterskluwer.com
 
-We may share with our affiliated companies in the US and abroad information supplied by users and collected about how users use the WKL&R Properties and Services.
+Address:
 
- **(h) Unaffiliated Third Parties**
-
-WKL&R reserves the right to sell or rent individually identifying information (except for credit/debit card numbers, expiration dates and CVV codes, unless you consent otherwise) and non-individually identifiable to unaffiliated third parties for their direct marketing purposes. If you would prefer that we not share any of your personal information with unaffiliated third parties for them to market to you, please let us know by contacting us using the contact information below.
-
- **5\. Notice to Users/Visitors Residing Outside the United States**
-
-WKL&R’s operations are located primarily in the United States. If you provide information to us or visit or use any of our Services or any of the WKL&R Properties, this information will be collected, maintained, and processed in the United States. Some WKL&R affiliates and subsidiaries with whom WKL&R shares user information are located outside the United States. By using a Service or visiting a WKL&R Property, you unambiguously understand and agree to such collection, maintenance, and processing in the United States. If you do not want to have your information processed and stored in the United States, please do not use our Services or visit any WKL&R Property.
-
- **6\. E-mail and E-Newsletter Communications**
-
-We may communicate with you via e-mails or e-newsletters with news, promotional offerings, or services that we think may be of interest to you. When we communicate with you via e-mails or e-newsletters, we may insert pixel or html tags in the e-mails that, among other things, will tell us when emails are opened or when you click on promotions or other offerings from us. If you are a registered user (i.e., if you create a user account with us)and opt out of receiving marketing e-mails from us, you will continue to receive non-marketing (ie, informational or transactional) e-mail communications from us. If you are not a registered user and would rather not receive marketing e-mails or e-newsletters from us, you may “opt out” by following the “opt out” instructions in the email footer.
-
- **7\. Security Measures**
-
-WKL&R has implemented numerous security features designed to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For instance, when a visitor places an order on this site or application (if any) or accesses his or her account information (if any), such information is captured on a secure server that encrypts the provided information in transit to us and when stored by us. Please be advised, however, that while we endeavor to create secure and reliable environment for our Services, the confidentiality and security of any communication or material transmitted to/from us via our Services or via e-mail cannot be guaranteed. Thus, despite these measures, we cannot guarantee that such efforts will prevent unauthorized access to such information. Accordingly, we and our affiliates are not responsible for the security or confidentiality of information transmitted or accessible via the Internet.
-
-We store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. We also maintain policies or practices designed to limit access to your personal information to employees who need access in order to carry out their job responsibilities.
-
-Your access to many of our Services and content may be password protected. You should take precautions to protect your user names and passwords, and we recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe.
-
- **8\. Links to Other Sites**
-
-The Services and the WKL&R Properties may contain links to websites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites, and you should consult the privacy policies of those sites to learn about their practices. Other WKL&R affiliated websites and Web-enabled and accessible products and services may operate under their own online privacy policies.
-
- **9\. Note About Children**
-
-Our Services are not directed to or intended for children under the age of 13 and we do not knowingly collect any personal information from such users. If we become aware that any user under 13 has provided personal information to us or we knowingly collect any such information from a user under 13, we will promptly delete such information.
-
- **10\. Opt-Out Right**
-
-Visitors and users may opt out of having their personal information, used by us for marketing purposes by email or telephone or disclosed to third parties for their marketing purposes by contacting us via postal mail, email, or telephone at the addresses below, or by submitting an opt out form while the visitor accesses his or her email preferences.
-
- **11\. Access to and Ability to Correct Personal Data**
-
-We strive to maintain the accuracy of the personal information collected through our websites. Where we maintain specific personal information about you, we will provide you with access to personally identifiable information you provide through our Services for as long as we maintain that information in a readily accessible and retrievable format. We will also work with you to correct any information you submitted to us upon your request.
-
-In addition, there are additional means to correct, amend or delete your personal information or update your preferences. For example, you may cancel your registration or update your preferences at any time. Or, if you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the “unsubscribe” mechanism within the communications that you receive from us.
-
-The access and correction provisions of this Privacy Statement only apply to personally identifiable information collected from you through our Services.
-
- **12\. Our Right to Change Privacy Statement**
-
-We reserve the right to change this Privacy Statement at any time by posting a new or revised statement. This Privacy Statement was last revised and is effective as of February 7, 2018.
-
- **13\. How to Contact Wolters Kluwer**
-
-Wolters Kluwer Legal & Regulatory U.S. can be contacted:  
-By email to customer.service@wolterskluwer.com; or  
-By telephone to 800-234-1660.
+Attn: Wolters Kluwer Legal & Regulatory U.S. Privacy Officer  
+Wolters Kluwer  
+28 Liberty Street  
+New York, NY 10005-1400 USA
