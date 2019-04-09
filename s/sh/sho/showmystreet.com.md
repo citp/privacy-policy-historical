@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmystreet.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023211247id_/http%3A//showmystreet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmystreet.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409110537id_/https%3A//showmystreet.com/privacy.html) for the most accurate reproduction.*
 
 # showmystreet.com - privacy policy
 
