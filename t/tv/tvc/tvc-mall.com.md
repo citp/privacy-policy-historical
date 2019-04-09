@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the tvc-mall.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727184015id_/https%3A//www.tvc-mall.com/HelpCenter/Service/PrivacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvc-mall.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409232134id_/https%3A//www.tvc-mall.com/HelpCenter/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy-TVC-Mall.com
 
-Privacy Policy
+**Privacy Policy**
 
-Thank you for accessing the TVC-Mall.com Website (“Site”) operated by TVC-Tech Group Limited We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.  
+Thank you for accessing the TVC-Mall.com Website (“Site”) operated by tvc-mall.com We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.  
 This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.  
 privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.  
-We are not responsible for the content or privacy practices on any web site not operated by TVC-Tech Group Limited to which the Site links or that links to the Site. INFORMATION COLLECTION AND USE  
+We are not responsible for the content or privacy practices on any web site not operated by tvc-mall.com to which the Site links or that links to the Site. **INFORMATION COLLECTION AND USE**
 
-
-#### 1.Information Collection.
-
-  
-
+####  **1.Information Collection.**
 
 We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
@@ -40,18 +36,17 @@ We collect information from you in several different ways on this Site. One goal
 
 (e) Age. We respect children’s privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on the Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
 
-(f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information. 
+(f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information
 
-#### 2.Information Use and Disclosure.
+.
 
-  
-
+####  **2.Information Use and Disclosure.**
 
 (a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve the Sites’ content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site. In order to facilitate such use and the other use described in this Section 2, we may share your information with affiliates under TVC Tech’s control.
 
 (b) Communications with You: We will use your personal information to communicate with you about the Site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to request us to notify you of new brands or new products; to sign up for email newsletters and special offers. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails. Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
 
-(c) External Use. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under TVC Tech’s control, except that: 
+(c) External Use. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under TVC Tech’s control, except that:
 
 (i) As do most catalog and Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as the EMS Service, HongKong Post Service, and DHL Express) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
 
@@ -61,25 +56,23 @@ We collect information from you in several different ways on this Site. One goal
 
 (iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it’s possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
 
-(v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user. 
+(v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
-### DATA SECURITY
+###  **DATA SECURITY**
 
 The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
-While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline. 
+While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-### OPT OUT/CORRECTIONS
+###  **OPT OUT/CORRECTIONS**
 
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning, or emailing your request to TVC-Mall.com’s Customer Service Team.
 
-Please do not email your credit-card number or other sensitive information.  
-**COLLECTION, USE & DISCLOSURE OF INFORMATION**
+Please do not email your credit-card number or other sensitive information.
 
-As you might expect from us, the majority of information that we collect is obtained through the Site, and this Privacy Policy applies only to that online collection of personal information. We also may collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store it a locked repository or we will shred the fax if there is no need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn’t discuss or try to predict all of those methods or uses. As we mentioned, we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices. 
+  
+ **COLLECTION, USE & DISCLOSURE OF INFORMATION **As you might expect from us, the majority of information that we collect is obtained through the Site, and this Privacy Policy applies only to that online collection of personal information. We also may collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store it a locked repository or we will shred the fax if there is no need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn’t discuss or try to predict all of those methods or uses. As we mentioned, we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
-### UPDATES TO THIS POLICY
+###  **UPDATES TO THIS POLICY**
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact our customer service. Effective January 1, 2014 
-
-﻿ 
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact our customer service. Effective March 1, 2018
