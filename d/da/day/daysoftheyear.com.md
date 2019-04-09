@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the daysoftheyear.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223113445id_/https%3A//www.daysoftheyear.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysoftheyear.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410012138id_/https%3A//www.daysoftheyear.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Days Of The Year
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US and most international privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+  
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US and most international privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/daysoftheyear.com).  
+
 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -27,7 +30,7 @@ We may use the information we collect from you when you register, sign up for ou
 
 
 
-How do we protect your information? 
+How do we protect your information?
 
   * We only provide articles and information. We never ask for credit card numbers.
   * We use regular Malware Scanning.
