@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogercpareview.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316180522id_/https%3A//www.rogercpareview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogercpareview.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409161304id_/https%3A//www.rogercpareview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roger CPA Review
 
@@ -10,6 +10,12 @@ There are two types of information we may collect through your use of the Servic
   2. **“Non-Personal Information,”** which is information that does not identify you and cannot be used to contact you personally, including information about you such as your ZIP code, employer, college, and non-precise geolocation information (e.g., your city), as well as information about your computer and mobile device, such as your unique device ID, Internet Protocol (IP) address, or other persistent identifiers, and their hardware/software/firmware. Non- Personal Information also includes **“Usage Data,”** which is anonymous data tied to your computer and/or device, such as the actions you take within and outside of the Services, the browser and/or device you use, the date and time of your use of the Services, particular preferences you have chosen, and the URLs you visited and/or apps you used before and after using our Services.
 
 
+
+## Your California Privacy Right
+
+Under certain circumstances, California Civil Code Section 1798.83 requires that, upon receipt of a request by a California customer, a business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year for direct marketing purposes, as well as a list of the categories of personal information that were disclosed. However, the foregoing does not apply to businesses like ours that do not disclose Personal Information to third parties for direct marketing purposes without prior approval or that give customers a free mechanism to opt out of having their personal information disclosed to third parties for their direct marketing purposes. California users may request further information about our approach to this law by writing to us at [staff@rogercpareview.com](mailto:staff@rogercpareview.com), using the subject line “CA Request for Information,” and requesting further information
+
+California Do Not Track Disclosures: because we respect your privacy, we will abide by any “do not track” technology that you may choose to utilize, although, as described above with cookies, such technology may negatively affect the functionality of the Services.
 
 ## Personal Information, Non-Personal Information and Other Information That We Collect and How We Collect It
 
@@ -85,12 +91,6 @@ It is entirely your choice whether or not you provide Personal Information to us
 When we use third parties to assist us in processing your Personal Information we take reasonable steps to require that they comply with terms substantially similar to those in this Privacy Policy and otherwise protect your Personal Information.
 
 If you believe your Personal Information is being improperly used by us or any third party, please immediately notify us via email at [staff@rogercpareview.com](mailto:staff@rogercpareview.com).
-
-## Your California Privacy Right
-
-Under certain circumstances, California Civil Code Section 1798.83 requires that, upon receipt of a request by a California customer, a business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year for direct marketing purposes, as well as a list of the categories of personal information that were disclosed. However, the foregoing does not apply to businesses like ours that do not disclose Personal Information to third parties for direct marketing purposes without prior approval or that give customers a free mechanism to opt out of having their personal information disclosed to third parties for their direct marketing purposes. California users may request further information about our approach to this law by writing to us at [staff@rogercpareview.com](mailto:staff@rogercpareview.com), using the subject line “CA Request for Information,” and requesting further information
-
-California Do Not Track Disclosures: because we respect your privacy, we will abide by any “do not track” technology that you may choose to utilize, although, as described above with cookies, such technology may negatively affect the functionality of the Services.
 
 ## Legal Disclaimer
 
