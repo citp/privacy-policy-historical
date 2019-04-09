@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229090425id_/http%3A//www.bachpan.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409150725id_/http%3A//www.bachpan.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Baby Names With Meanings, Boy & Girl Names | Bachpan.Com
 
