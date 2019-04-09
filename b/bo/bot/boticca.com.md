@@ -1,151 +1,130 @@
-> *The following text is extracted and transformed from the boticca.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315062132id_/https%3A//boticca.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boticca.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409041604id_/https%3A//www.wolfandbadger.com/us/pages/privacy) for the most accurate reproduction.*
 
-# Privacy page
+# Privacy & Cookies Policy | Help | Wolf & Badger
 
-## Privacy policy
+  1. #### Introduction
 
-Effective Date: 24/11/2014
+This is the privacy and cookies policy for Wolf & Badger Limited ("we" or "us"), which operates the website www.wolfandbadger.com (the “Website”). We are committed to protecting your information and respecting your privacy. By using our Website, you accept that this privacy and cookies policy applies to you under our Terms & Conditions and consent to our use of cookies. Please read it carefully.
 
-This privacy policy applies to www.boticca.com owned and operated by Boticca.com Limited. This privacy policy describes how Boticca.com Limited collects and uses the personal information you provide on our web site: www.boticca.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+If we change our privacy and cookies policy, we will post any changes on this page and, where appropriate, notify you by e-mail. Please check back frequently to see any updates or changes to our privacy and cookies policy.
 
-Boticca.com Limited has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.boticca.com.
+For the purposes of General Data Protection Regulation, we are the "data controller" and are responsible for this privacy and cookies policy and the handling of your data. We are company number 06980629, VAT number GB982129993 and have our registered address at 10 Queen Street Place, London, United Kingdom, EC4R 1AG
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request)
+  2. #### Data we collect and store
 
-1\. BOTICCA.COM LIMITED
+In order to deliver our services to you effectively, we may ourselves, collect store and process the following data, which you give us directly when you interact with the Website: (i) contact data (e.g. name, address, city, postcode, telephone number, email address), (ii) financial data (e.g. bank account number, sort code, credit card details, debit card details), (iii) user identification data (e.g. IP address, login information, browser type and version, time zone setting, browser plug-in types, operating system and version) and (iv) user behaviour data (e.g. URL clickstreams, products/services viewed, page response times, download errors, page visit lengths, page interaction data, telephone numbers used to call us)
 
-Boticca.com Limited is a company registered in England and Wales with the company registration number 06843105 and having our place of business at Second Floor, Cardiff House, Tilling Road, London NW2 1LJ.
+This happens, e.g., when you create an account, complete online questionnaires, participate in any discussion board or social media function, enter a competition, correspond with us, receive any services, or make any transactions with us. The collection of this data is sometimes automatic.
 
-2\. INFORMATION COLLECTION AND USE
+**We hold only the necessary data to process your order and to issue personalised emails. We hold it  only for as long as it is still relevant, while you are actively engaging with our newsletters or website.**
 
-We collect the following personal information from you:
+  3. #### Data third parties collect
 
-  * Contact Information such as name, email address, mailing address, phone number
+Certain third party service providers we use may collect your data. We include, below, details on the relevant data collected, the purposes for which such data is collected and any third party providers we use that collect such data.
 
+    * **Google Analytics.** This is a web analytics service, which allows us to track the use of the Website, prepare reports on user activity and share them with other Google services (service provider - Google Inc.; place of processing - USA; [privacy policy](http://www.google.com/intl/en/policies/privacy/); [opt-out](https://tools.google.com/dlpage/gaoptout?hl=en).
+    * **Ometria.** This is a web analytics service, which allows us to track the use of the Website (service provider - Ometria Ltd.; place of processing - UK; [privacy policy](https://www.ometria.com/privacy-policy).
 
-  * Billing Information such as credit card number, and billing address
+    * **Qubit.**  This is a personalisation service (service provider - Qubit Digital Limited; place of processing - UK; [privacy policy](https://www.qubit.com/legal/privacy-and-cookie-policy/).
+    * **Criteo.**  This is an online advertising and remarketing service (service provider - Criteo S.A.; place of processing - France; [privacy policy](https://www.criteo.com/privacy/); [opt-out](https://www.criteo.com/privacy/).
 
+    * **Sift Science.** this is a fraud and malicious behavior detection service (service provider - Sift Science, Inc.; place of processing - USA; [privacy policy](https://siftscience.com/service-privacy).
 
-  * If you are a designer, our application form requires that you also submit additional information such as your gender and pictures of your designs and you may also upload videos to share your story which may contain your personal information and may be made public and collected by our site users
+    * **PayPal.** this service processes payments for us (service provider - PayPal, Inc.; place of processing - USA; [privacy policy](https://www.paypal.com/webapps/mpp/ua/privacy-full#2)
 
+    * [](https://www.paypal.com/webapps/mpp/ua/privacy-full#2)**Hotjar.** This is a screen recording service (service provider - Hotjar Ltd; place of processing - Malta, Europe; [privacy policy](https://www.hotjar.com/legal/policies/privacy%C2%A0)
 
+    * **Olark.  **This is a live chat customer support service (service provider - Habla, Inc.; place of processing - USA; [privacy policy](https://www.olark.com/privacy-policy/)
+    * **Olapic.  **This service collects user generated content for us (service provider - Olapic, Inc.; place of processing - USA, [privacy policy](http://www.olapic.com/privacy-policy/)
+    * **Facebook.**  This provides an online advertising and remarketing service for us (service provider - Facebook Ireland Ltd.; place of processing - US; [privacy policy](https://www.facebook.com/about/privacy/update)
+    * **SkimLinks.  **This is an affiliate service (service provider - Skimbit Ltd; place of processing - UK; [privacy policy](https://skimlinks.com/privacy-policy)
+    * **Pinterest.** This is a conversion tracking service for us (service provider - Pinterest, Inc; place of processing - US; [privacy policy](https://policy.pinterest.com/en/privacy-policy)
+  4. #### Cookies
 
-We use this information to:
+We use cookies to store and collect information regarding your use of our website.
 
-  * Fulfill your order
+A cookie is a small file containing data (a combination of letters and numbers) that our Website can send to your browser. It may be stored on your computer's hard drive and accessed by our web server or the servers of our third party service providers. This data can then be retrieved, which allows us to personalise your experience with us. To find out more, visit www.allaboutcookies.org.
 
+Cookies may be either "persistent" cookies or "session" cookies. Session cookies allow customers to carry information across website pages, without requiring those customers to re-enter that information. These cookies delete themselves automatically when you leave a website and go to another website, or when you shut down your browser.
 
-  * Send you an order confirmation
+Persistent cookies allow a website to recognise users when they return to the website and to remember certain information about those users' preferences. These cookies stay on your computer until you manually delete them (see below for details on how to delete cookies).
 
+Our Website uses cookies to help us personalize your experience on the Website. We may use both "persistent" and "session" cookies. We (or our third party service providers) may use the following types of cookies.
 
-  * Send you requested product or service information
+    * **Strictly necessary cookies.** These are cookies that are required for the operation of the Website. They include, for example, cookies that enable you to log into secure areas of the Website, use a shopping cart or make use of e-billing services.
 
+    * **Analytical/performance cookies.** These allow us to recognise and count the number of visitors and to see how visitors move around the Website when they are using it. This helps us to improve the way the Website works, for example, by ensuring that users are finding what they are looking for easily.
 
-  * Send product updates or warranty information
+    * **Functionality cookies.** These are used to recognise you when you return to the Website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
+Please note that where third parties use cookies we have no control over how those third parties use those cookies.
 
-  * Respond to customer service requests
+Unless you adjust your browser settings to refuse cookies, our system will issue cookies as soon you visit our site. You can block cookies by activating a setting on your browser allowing you to refuse the setting of cookies. You can also delete cookies through your browser settings. If you use your browser settings to disable, reject, or block cookies (including essential cookies), certain parts of our website will not function fully. In some cases, our website may not be accessible at all. For more information on how to control your cookie and browser settings, or on how to delete cookies on your hard drive, please visit www.allaboutcookies.org.
 
+If you have any concerns or questions, please email us at support@wolfandbadger.com.
 
-  * Administer your account
+  5. #### Where we store your data
 
+The personal data we collect is processed at our trading address and in any other places where the parties involved with the processing are located. As part of the services offered to you through our website, the data that we collect from you may be transferred to and stored in countries outside the European Economic Area (the "EEA"). It may also be processed by staff who work outside the EEA who work for us or one of our suppliers, for example in processing your payment details, fulfilling your order, and providing administration and support services.
 
-  * Send you a catalog
+By submitting your personal data, you agree to this transfer, storing or processing by us. If we transfer or store your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected as outlined in this privacy and cookies policy.
 
+  6. #### How your data is used
 
-  * Send you a newsletter
+We may use your data for the following purposes:
 
+    * **Marketing purposes.  **e.g. advertising, newsletters, public relations, providing information, products and services that you ask for or (with your consent) which we think may interest you, permitting (with your consent) certain third parties to provide information about goods or services that we feel may interest you.
 
-  * Send you marketing communications
+    * **Improving your experience of the Website.  **e.g. ensuring that our website content is presented to you in an effective manner, notifying you of any changes to our service, optimising the pages you are directed to.
 
+    * **Helping us to deliver our services to you better.** e.g. carrying out our obligations under any contracts entered into with you, measuring our performance in terms of sales or otherwise, maintaining accounts & records.
 
+  7. #### When we can give your data to third parties
 
-3\. INFORMATION SHARING
+We are allowed to release your information to businesses in our corporate group, business partners, suppliers and sub-contractors for the performance of any contract we enter into with you, to a potential purchaser of us or a business in our corporate group, to protect against fraud or credit risks, and as required by law or when we believe that disclosing the information is necessary to protect our rights, protect your safety or the safety of others or respond to a request from a governmental body.
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+We may also share your information with those third parties names in this privacy and cookies policy and any other advertisers or advertising networks that require the data to select and serve relevant adverts to you and others analytics and search engine providers that assist us in the improvement and optimisation of the Website.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+From time to time we may make parts of our mailing list available to carefully selected organisations whose products may be of interest. If you prefer not to receive such mailings or e-mails, or you do not wish to receive further mailings or e-mails please phone, e-mail or write to us.
+  8. #### **Marketing**
 
-We may also disclose your personal information:
+We may use your Identity, Contact, Technical Usage and profile data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide what products, services and offers may be relevant to you. 
 
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Boticca.com Limited is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so
+We might market to you via the following methods:
 
+\- **Email Marketing**. If you have previously bought products from us or have registered your details with us. We will only send you marketing communications if you opted into receiving marketing at the time or if you placed an order with us (you may withdraw consent at any time – see Opting out below).
 
+\- **Social Media**. We may also provide third party social media platforms with certain data in order to create targeted ads for you.
 
-4\. USER ACCESS AND CHOICE
+\- **Direct Mail**. We may occasionally send seasonal postal marketing. You can opt out of this at any time 
 
-If you have an account with us, either as user or a designer, when your personal information changes, or if you no longer desire our service, you may correct, update, amend or delete it by making the change on our member information page or by emailing our Customer Support at support@boticca.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+  9. #### **Opting Out**
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You can opt out of our email marketing at any time by unsubscribing from our newsletter or emailing [support@wolfandbadger.com](mailto:support@wolfandbadger.com) asking us to remove you from our mailing list. You can also call our team on 020 7229 4848.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at support@boticca.com
+To stop receiving marketing from us by post please also contact our team directly at support@wolfandbadger.com.
 
-5\. COOKIES AND OTHER TRACKING TECHNOLOGIES
+If you have opted out of our email marketing services, you may still continue to see target ads on social media platforms. Please check the social media platforms for more details on how to opt out of seeing these ads.
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
+  10. #### Your rights
 
-Technologies such as: cookies, beacons, tags and scripts are used by Boticca.com Limited and our partners (such as marketing partners, affiliates) or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+You may choose not to provide us with personal data and you may turn off cookies in your browser by changing its settings. If you make these decisions, you may continue to use the website and browse its pages. However, we may not be able to process transactions without personal data. You can ask us not to use your data for marketing. You can do this by ticking the relevant boxes on our forms, or by contacting us at any time at support@wolfandbadger.com.
 
-We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Under the Data Protection Act 1998, you have a right of access to the personal information we hold about you. If you wish to exercise this right, please send a request in writing to: Data Protection Manager, Wolf & Badger Limited, 8-9 Rivington Place, London EC2A 3BA. More details concerning the collection or processing of your data may be requested from us at any time.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+  11. #### Links to other websites
 
-5.1 Behavioral Targeting/ Re-Targeting
+We may show links on our website to the websites of other businesses. This privacy and cookies policy applies only to our website and not to any other websites. Each third party website may have privacy policies different from this privacy and cookies policy and you should comply with these policies. If you visit other websites, we are not responsible for the privacy practices or content of those sites.
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+  12. #### The security of your data
 
+We take your privacy seriously and have implemented this privacy and cookies policy to help keep your personal and financial information secure. We have physical, electronic, and managerial procedures to safeguard and secure the information we collect. To protect your financial information, we use SSL technology to encrypt all payment transactions. Unfortunately, no data transmission is guaranteed to be 100% secure and we therefore cannot guarantee the security of information you transmit to or from our website or through the use of our services, and you provide this information at your own risk.
 
-6\. SECURITY
+Wolf & Badger Limited cannot be held liable for theft, loss or unauthorised access, interception or damage to your data. You acknowledge that you understand these risks. Where we have given you a password, you are responsible for keeping such a password confidential. We ask that you do not share any password with anyone. If you believe your privacy has been breached, please contact us immediately on support@wolfandbadger.com.
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+  13. #### Miscellaneous
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@boticca.com
+If you provide us with personal information about other people, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. We may monitor and record phone conversations or email communications between you and our employees for training and quality assurance purposes. You can read more about data protection law by visiting the Information Commissioner's website, where you can also view our data protection notification. Thank you!
 
-7\. ADDITIONAL INFORMATION
 
-7.1 Links to 3rd party sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Boticca.com Limited. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
-
-7.2 Blog
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@boticca.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Our blog is also managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
-
-7.3 Public Member Directory
-
-When you register as a designer will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, you can contact us at support@boticca.com.
-
-7.4 Public Profiles
-
-The profile you create on our site will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
-
-7.5 Single Sign-On
-
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-7.6 Social Media Widgets
-
-Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-
-
-8\. CHANGES TO THIS POLICY
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-9\. CONTACT DETAILS
-
-Please direct any queries about this Intellectual Property Policy (preferably by fax or email) to:
-
-Boticca.com Limited  
-Attn: User Support Department  
-Second Floor, Cardiff House  
-Tilling Road  
-London NW2 1LJ  
-Email: [support@boticca.com](mailto:support@boticca.com)  
-Tel: +44 (0) 207 836 6566  
-Fax: +44 (0) 207 979 0053
-
-[](https://privacy.truste.com/privacy-seal/Boticca-com-Limited/validation?rid=fe17b867-8be7-4cbf-ab29-675e9a4999de "TRUSTe online privacy certification")
