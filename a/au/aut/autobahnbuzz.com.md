@@ -1,6 +1,65 @@
-> *The following text is extracted and transformed from the autobahnbuzz.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427110153id_/http%3A//autobahnbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobahnbuzz.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410012128id_/https%3A//autobahnbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Autobahn Buzz
+
+**WordPress database error:** [Table 'f7fb3775173781.wp_wassup_meta' doesn't exist]  
+`SELECT `meta_id` FROM wp_wassup_meta WHERE `wassup_key`='148.251.184.27' AND `meta_key`='_sessionhash' LIMIT 1`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_meta' doesn't exist]  
+`SHOW FULL COLUMNS FROM `wp_wassup_meta``
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_meta' doesn't exist]  
+`SELECT `meta_id` FROM wp_wassup_meta WHERE `wassup_key`='148.251.184.27' AND `meta_key`='_sessionhash' LIMIT 1`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_meta' doesn't exist]  
+`SHOW FULL COLUMNS FROM `wp_wassup_meta``
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_meta' doesn't exist]  
+`SELECT `meta_id` FROM wp_wassup_meta WHERE `wassup_key`='148.251.184.27' AND `meta_key`='hostname' LIMIT 1`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_meta' doesn't exist]  
+`SHOW FULL COLUMNS FROM `wp_wassup_meta``
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_meta' doesn't exist]  
+`SELECT `meta_id` FROM wp_wassup_meta WHERE `wassup_key`='148.251.184.27' AND `meta_key`='hostname' LIMIT 1`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_meta' doesn't exist]  
+`SHOW FULL COLUMNS FROM `wp_wassup_meta``
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_tmp' doesn't exist]  
+`SELECT SQL_NO_CACHE `wassup_id`, `ip`, `timestamp`, `username`, `spam`, `agent`, `referrer` FROM `wp_wassup_tmp` WHERE `ip`='148.251.184.27' AND `timestamp` >'1554787252' AND `agent`='Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)' ORDER BY `timestamp` LIMIT 1`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_tmp' doesn't exist]  
+`SELECT SQL_NO_CACHE `wassup_id`, `ip`, `timestamp`, `urlrequested`, `screen_res`, `username`, `browser`, `os`, `spider`, `feed`, `spam`, `language`, `agent`, `referrer` FROM `wp_wassup_tmp` WHERE `wassup_id`='0b_cfe75fabf04fb05649030280fbba6634' AND `timestamp` >'1554787114' ORDER BY `timestamp` DESC`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup' doesn't exist]  
+`SHOW COLUMNS FROM `wp_wassup` LIKE 'subsite_id'`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup' doesn't exist]  
+`CREATE TABLE `wp_wassup_tmp` LIKE `wp_wassup``
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_tmp' doesn't exist]  
+`SHOW FULL COLUMNS FROM `wp_wassup_tmp``
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup' doesn't exist]  
+`SHOW COLUMNS FROM `wp_wassup` LIKE 'subsite_id'`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup' doesn't exist]  
+`SHOW FULL COLUMNS FROM `wp_wassup``
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_tmp' doesn't exist]  
+`SELECT COUNT(`wassup_id`) AS in_temp FROM `wp_wassup_tmp` WHERE `wassup_id`='0b_cfe75fabf04fb05649030280fbba6634' AND `timestamp`>'1554787137' AND `spider`=''`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup' doesn't exist]  
+`SHOW COLUMNS FROM `wp_wassup` LIKE 'subsite_id'`
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup' doesn't exist]  
+`CREATE TABLE `wp_wassup_tmp` LIKE `wp_wassup``
+
+ **WordPress database error:** [Table 'f7fb3775173781.wp_wassup_tmp' doesn't exist]  
+`SHOW FULL COLUMNS FROM `wp_wassup_tmp``
+
+Privacy Policy | Autobahn Buzz
 
 ## Privacy Policy
 
@@ -45,3 +104,5 @@ If you have previously agreed to us using your personal information for direct m
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 E-mail:[info@autobahnbuzz.com](mailto:info@demolink.org)
+
+[Social Widgets](http://www.ab-weblog.com/en/wordpress-plug-ins/social-widgets/ "Facebook, Twitter & Google+ Social Widgets") powered by [AB-WebLog.com](http://www.ab-weblog.com/en/ "Software Developer Blog").
