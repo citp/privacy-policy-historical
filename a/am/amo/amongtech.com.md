@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amongtech.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119103439id_/http%3A//www.amongtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amongtech.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409080220id_/https%3A//www.amongtech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AmongTech
+# Privacy Policy - AmongTechAmongTech
 
 Effective date: June 18, 2018
 
@@ -130,8 +130,8 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
   * By email: contact@amongtech.com
-  * By visiting this page on our website: http://www.amongtech.com/contact-us/
+  * By visiting this page on our website: https://www.amongtech.com/contact-us/
 
 
 
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://www.amongtech.com/)
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More]()
