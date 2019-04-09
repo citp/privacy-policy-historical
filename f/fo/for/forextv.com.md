@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forextv.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125063943id_/https%3A//forextv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextv.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410012159id_/https%3A//forextv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - ForexTV
 
