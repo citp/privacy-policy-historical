@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliadventures.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127114845id_/http%3A//www.aliadventures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliadventures.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409092801id_/https%3A//www.aliadventures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ali's Adventures
 
@@ -31,11 +31,11 @@ _**How do we travel?** Unless otherwise noted, we pay for our own trips and expe
 – ask us to delete the data about you  
 – ask us to stop sending your newsletters
 
-Ali’s Adventures abides by GDPR regulations, so if you wish to have your information (e.g. comments removed) and you’re an EU resident, please[ get in touch](http://aliadventures.com/about-contact) with us. We are happy to amend/remove your information/comments/email from the mailing list if you contact us. We do not retain secondary copies of commenters/reader contact information without permission. Similarly, we do not resell or share your contact information with third parties. Similarly, once you opt out of the mailing list, you are _permanently_ removed.
+Ali’s Adventures abides by GDPR regulations, so if you wish to have your information (e.g. comments removed) and you’re an EU resident, please[ get in touch](https://aliadventures.com/about-contact) with us. We are happy to amend/remove your information/comments/email from the mailing list if you contact us. We do not retain secondary copies of commenters/reader contact information without permission. Similarly, we do not resell or share your contact information with third parties. Similarly, once you opt out of the mailing list, you are _permanently_ removed.
 
 ## Privacy Policy (aliadventures.com)
 
-Ali’s Adventures, found at http://aliadventures.com (“Website”) is governed by the following privacy policy (“Privacy Policy”). We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
+Ali’s Adventures, found at https://aliadventures.com (“Website”) is governed by the following privacy policy (“Privacy Policy”). We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
 ### **What information we collect**
 
@@ -89,16 +89,16 @@ We use the Google Adsense advertising network, which serves content and advertis
 
 ### **SENSITIVE PERSONAL INFORMATION**
 
-If you leave a comment, certain information (your name as you provide it) may be publicly visible, however your email address will not be. We will **not** contact you using your email as this goes against GDPR regulations, so if you wish to be contacted by Ali’s Adventures, please [contact us directly](http://aliadventures.com/about-contact). _Please do not request that we contact you in the comments._
+If you leave a comment, certain information (your name as you provide it) may be publicly visible, however your email address will not be. We will **not** contact you using your email as this goes against GDPR regulations, so if you wish to be contacted by Ali’s Adventures, please [contact us directly](https://aliadventures.com/about-contact). _Please do not request that we contact you in the comments._
 
 At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
 
 ### **CHILDREN’S INFORMATION**
 
-The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please [contact us immediately](http://aliadventures.com/about-contact). We will use our best efforts to promptly remove such information from our records.
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please [contact us immediately](https://aliadventures.com/about-contact). We will use our best efforts to promptly remove such information from our records.
 
 ### **CONTACT INFORMATION**
 
-If you have any questions about our Privacy Policy, please [**get in touch**](http://aliadventures.com/about-contact).
+If you have any questions about our Privacy Policy, please [**get in touch**](https://aliadventures.com/about-contact).
 
 Privacy Policy last updated May 23th, 2018.
