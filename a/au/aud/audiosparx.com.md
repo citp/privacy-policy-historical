@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229010504id_/https%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410002037id_/https%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
@@ -98,23 +98,23 @@ We reserve the right to modify this policy in the future.
 
 Back to Top
 
-dj sound effects download for mac,  
-100 hollywood sound effects,  
-sound effects theatre,  
-mp3 sounds,  
-sound effects lightsaber,  
-free horse noises downloads,  
-effects of music on society,  
-free wav sound bites,  
-sound clips from baseball movies,  
-atvs offroading laughing happy sound clips,  
-explosion sound effect,  
-sound chips for fx lightsaber,  
-road runner sound effect,  
-bull sound effect,  
-samples & sound effects,  
-sound effects animals,  
-downloadable keyboard sounds,  
-sound packs,  
-powerpoint sound clips,  
-fx 
+음향 효과,  
+downloading sound effects for plays and musicals,  
+sounds in wav format,  
+absolutely free sound effects of sirens,  
+free download sound effects mp3,  
+money sound effect,  
+hippo mating call sounds,  
+marshall 2 watt fx amp,  
+downloadable gun noises,  
+hallelujah sound effect,  
+free sound effects ice,  
+download countdown sound effects,  
+scratch sound effect,  
+boogie sound wav,  
+tasmanian waterfalls sound effect,  
+bottle spin sound effect,  
+aircraft sound effect,  
+sound effects in flash,  
+wav clip,  
+xp wav sounds 
