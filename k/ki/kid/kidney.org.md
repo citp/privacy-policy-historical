@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231114811id_/https%3A//www.kidney.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409105657id_/https%3A//www.kidney.org/about/privacy) for the most accurate reproduction.*
 
 # NKF Web Site Privacy Policy | National Kidney Foundation
 
