@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepcrawl.co.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223055624id_/https%3A//www.deepcrawl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepcrawl.co.uk privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409092050id_/https%3A//www.deepcrawl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DeepCrawl
 
@@ -45,7 +45,7 @@ information to us through data entry fields on the website), we may collect the 
 ● credit card information for transactions; and  
 ● data about your computer hardware and software (such as IP address, browser type, domain names, access times and referring website addresses).
 
-## How We Store And Use Yur Information
+## How We Store And Use Your Information
 
 We collect, store and use your personal information listed above for the following purposes:  
 ● to make this website available to you;  
@@ -152,7 +152,7 @@ If you wish to exercise any of the above rights, please write to us (either by p
 
 If you want us to stop using or to delete your personal information, you can contact us and tell us why. In certain circumstances we may not be able to stop using your personal information but, if that is the case, we'll let you know and tell you why. If you wish to do this, please write to us (either by post or by e-mail) at info@deepcrawl.com or write to us at 29 Throgmorton Street, London EC2N 2AT
 
-This website contains links to other websites operated by third parties.
+This website contains [links to other websites](http://test.chris24.co.uk/) operated by third parties.
 
 Please note that this privacy policy applies only to the personal information that we collect through this website and we cannot be responsible for personal  
 information that third parties may collect, store and use through their website.
