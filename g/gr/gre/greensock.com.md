@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greensock.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213040634id_/https%3A//greensock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greensock.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409180415id_/https%3A//greensock.com/privacy) for the most accurate reproduction.*
 
 # | GreenSock
 
@@ -54,7 +54,7 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding about you is incorrect or incomplete, email us as soon as possible at info@greensock.com. We will promptly correct any information found to be incorrect.
 
-#### Version: 1.19.0 updated 2017-01-17
+#### Version: 2.1.2 updated 2019-03-01
 
   *   * ###  github 
 
@@ -66,7 +66,7 @@ If you believe that any information we are holding about you is incorrect or inc
 Copy/paste this code into your HTML:
     
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script>
 
   * Robust
   * Lightweight
