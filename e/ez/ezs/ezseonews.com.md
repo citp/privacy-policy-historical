@@ -1,135 +1,193 @@
-> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905060600id_/http%3A//ezseonews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409212611id_/https%3A//ezseonews.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - ezSEO Newsletter
+# Privacy & Cookie Policy - ezSEONews
 
-**— IMPORTANT — PLEASE READ**
+**BACKGROUND:**
 
-This Privacy Policy describes the terms of our commitment to your privacy.
+ezSEONews understands that your privacy is important to you and that you care about how your personal data is used. We respect and value the privacy of everyone who visits this website, https://ezseonews.com and will only collect and use personal data in ways that are described here, and in a way that is consistent with our obligations and your rights under the law.
 
-**PERSONS OR PARTIES COVERED** This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as “Visitors” and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as “Subscribers” and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. “affiliates”) promoted by this website are called “Members” herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a “Customer” herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as “Website,” “Site,” and/or “Seller”.
+Please read this Privacy Policy carefully and ensure that you understand it. Your acceptance of this Privacy Policy is deemed to occur upon your first use of Our Site. If you do not accept and agree with this Privacy Policy, you must stop using Our Site immediately.
 
-**PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED**
+## 1\. Definitions and Interpretation
 
-In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use.
+In this Policy the following terms shall have the following meanings:
 
-**PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE**
+**“Account”** | means an account required to access and/or use certain areas and features of Our Site;  
+---|---  
+**“Cookie”** | means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in Part 14, below; and  
+**“Cookie Law”** | means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003;  
+  
+## 2\. Information About us
 
-This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA). If you are under the age of 18 you must leave this site immediately. Fraudulent use of this website may make you subject to civil or criminal sanctions.
+Our Site is owned and operated by:
 
-**VIEWING AND/OR USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS POLICY**
+## 3\. What Does This Policy Cover?
 
-Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website. If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site.
+This Privacy Policy applies only to your use of Our Site. Our Site may contain links to other websites. Please note that we have no control over how your data is collected, stored, or used by other websites and we advise you to check the privacy policies of any such websites before providing any data to them.
 
-**A NOTE TO CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 –OPPA)**
+## 4\. What is Personal Data?
 
-It is the intent of the Privacy Policy to comply with the California Act. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. This is not usually personally identifiable. If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties. There is no way you can modify this information and you have no right to do so. Under the terms of the purchase agreement, you have no right to view or receive any information about our database. In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in insure that the website is releasing information to the correct party. Other provisions of the OPPA may exempt this website from complying. While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information. (You should know that merchant service providers do not allow us access to your credit card information.) This Privacy Policy also is subject to change without notice. You are required to read it prior to using the website. By interacting with the website you agree to the terms and conditions of the Privacy Policy. By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
+Personal data is defined by the General Data Protection Regulation (EU Regulation 2016/679) (the “GDPR”) as ‘any information relating to an identifiable person who can be directly or indirectly identified in particular by reference to an identifier’.
 
-**ABOUT THE PERSONAL INFORMATION THIS WEBSITE COLLECTS AND HOW IT IS USED**
+Personal data is, in simpler terms, any information about you that enables you to be identified. Personal data covers obvious information such as your name and contact details, but it also covers less obvious information such as identification numbers, electronic location data, and other online identifiers.
 
-This website routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as:
+## 5\. What Are My Rights?
 
-**VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM ‘REGISTRATION'**
+Under the GDPR, you have the following rights, which we will always work to uphold:
 
-Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or ‘pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
+(a) The right to be informed about our collection and use of your personal data. This Privacy Policy should tell you everything you need to know, but you can always contact us to find out more or to ask any questions using the details in Part
 
-Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing. This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.
+(b) The right to access the personal data we hold about you. Part 13 will tell you how to do this.
 
-**ONLINE ORDERING**
+(c) The right to have your personal data rectified if any of your personal data held by us is inaccurate or incomplete. Please contact us using the details in Part 15 to find out more.
 
-Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website but does not provide complete credit card numbers. In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, CVV2 (back of card) number, and, occasionally a member password. You should consider all this information available to the website. This information is used to deliver the product, but under the Purchase Agreement you also approve its use for general solicitation purposes.
+(d) The right to be forgotten, i.e. the right to ask us to delete or otherwise dispose of any of your personal data that we have. Please contact us using the details in Part 15 to find out more.
 
-**VISITOR EMAIL INQUIRIES**
+(e) The right to restrict (i.e. prevent) the processing of your personal data.
 
-Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any ?submission? provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
+(f) The right to object to us using your personal data for a particular purpose or purposes.
 
-**CUSTOMER EMAIL OR TESTIMONIALS**
+(g) The right to data portability. This means that, if you have provided personal data to us directly, we are using it with your consent or for the performance of a contract, and that data is processed using automated means, you can ask us for a copy of that personal data to re-use with another service or business in many cases.
 
-If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit.
+(h) Rights relating to automated decision-making and profiling. We do not use your personal data in this way.
 
-Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
+For more information about our use of your personal data or exercising your rights as outlined above, please contact us using the details provided in Part 15.
 
-**INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS**
+Further information about your rights can also be obtained from the Information Commissioner’s Office or your local Citizens Advice Bureau.
 
-Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that ?cookies? will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
+If you have any cause for complaint about our use of your personal data, you have the right to lodge a complaint with the Information Commissioner’s Office.
 
-**INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS**
+## 6\. What Data Do We Collect?
 
-If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend. You must assume that referred emails or web pages may appear to come from your email. You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.
+Depending upon your use of our Site, we may collect some or all of the following personal and non-personal data (please also see Part 14 on our use of Cookies and similar technologies:
 
-**INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS**
+  * Name;
+  * Email address;
+  * IP address;
+  * Web browser type and version;
+  * Operating system;
+  * A list of URLs starting with a referring site, your activity on our Site, and the site you exit to;
+  * Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website;
+  * These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website;
 
-Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used by the site itself for product design or solicitation purposes. We will never sell or give away your email address to any other company.
 
-**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND ‘COOKIES'**
 
-Many websites, including this one, collect information about your computer, your email address, your IP address. You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected. This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
+## 7\. How Do You Use My Personal Data?
 
-“Cookies” is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you ‘logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.
+Under the GDPR, we must always have a lawful basis for using personal data. This may be because the data is necessary for our performance of a contract with you, because you have consented to our use of your personal data, or because it is in our legitimate business interests to use it. Your personal data may be used for one of the following purposes:
 
-Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use ‘cookies' and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
+  * Providing and managing your Account;
+  * Providing and managing your access to our Site;
+  * Personalising and tailoring your experience on our Site;
+  * Personalising and tailoring our products for you.
+  * Communicating with you. This may include responding to emails or calls from you.
+  * Supplying you with information by email that you have opted-in to (you may unsubscribe or opt-out at any time by clicking the unsubscribe link at the end of those emails).
+  * Analysing your use of our Site and gathering feedback to enable us to continually improve our Site and your user experience.
 
-**HOW INFORMATION MAY BE USED**
 
-Information collected by this site is never sold or rented to any other company, though we may use it to send you mailings you requested.
 
-**INFORMATION THAT IS NOT SHARED**
+With your permission and/or where permitted by law, we may also use your personal data for marketing purposes, which may include contacting you by email with information, news, and offers on our products. You will not be sent any unlawful marketing or spam. We will always work to fully protect your rights and comply with our obligations under the GDPR and the Privacy and Electronic Communications (EC Directive) Regulations 2003, and you will always have the opportunity to opt-out.
 
-Credit card information or other financial information is not usually known to the website. However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies. However, the provider of such information gives express permission to use it in fraud investigation or for litigation.
+Third Parties (including affiliate partners and Google Analytics) whose content appears on our Site may use third-party Cookies, as detailed below in Part 14. Please refer to Part 14 for more information on controlling cookies. Please note that we do not control the activities of such third parties, nor the data that they collect and use themselves, and we advise you to check the privacy policies of any such third parties.
 
-**BULLETIN BOARDS AND PUBLIC FORUMS**
+## 8\. How Long Will You Keep My Personal Data?
 
-Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk. You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
+We will not keep your personal data for any longer than is necessary in light of the reason(s) for which it was first collected. Your personal data will therefore be kept for the following periods (or, where there is no fixed period, the following factors will be used to determine how long it is kept):
 
-**SPAM**
+  * If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+  * For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an ‘unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
 
-**DATA SECURITY**
 
-This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as “hackers,” and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
+## 9\. How and Where Do You Store or Transfer My Personal Data?
 
-**QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
+We may store or transfer some or all of your personal data in countries that are not part of the European Economic Area (the “EEA” consists of all EU member states, plus Norway, Iceland, and Liechtenstein). These are known as “third countries” and may not have data protection laws that are as strong as those in the UK and/or the EEA. This means that we will take additional steps in order to ensure that your personal data is treated just as safely and securely as it would be within the UK and under the GDPR as follows.
 
-You may direct questions, comments or reports to: ****
+## 10\. Do You Share My Personal Data?
 
-**REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
+We will not share any of your personal data with any third parties for any purposes, subject to two important exceptions.
 
-This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
+  * In some limited circumstances, we may be legally required to share certain personal data, which might include yours, if we are involved in legal proceedings or complying with legal obligations, a court order, or the instructions of a government authority.
+  * Visitor comments may be checked through an automated spam detection service.
 
-**LATEST UPDATE**
 
-This Privacy Policy was last updated on: **3rd July 2006**
 
-**COPYRIGHT**
+## 11\. How Can I Control My Personal Data?
 
-This Privacy Policy is used under license. The copyright is owned by Mining Gold Corporation and IP Management, LLC.
+11.1. In addition to your rights under the GDPR, set out in Part 5, when you submit personal data via our Site, you may be given options to restrict our use of your personal data. In particular, we aim to give you strong controls on our use of your data for direct marketing purposes (including the ability to opt-out of receiving emails from us which you may do by unsubscribing using the links provided in our emails **).**
 
-**DISPUTES**
+11.2. You may also wish to sign up to one or more of the preference services operating in the UK: The Telephone Preference Service (“the TPS”), the Corporate Telephone Preference Service (“the CTPS”), and the Mailing Preference Service (“the MPS”). These may help to prevent you receiving unsolicited marketing. Please note, however, that these services will not prevent you from receiving marketing communications that you have consented to receiving.
 
-As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy (“CLAIM”) of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
+11.3. If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller.
+## 12\. Can I Withhold Information?
 
-In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal.
+You may access certain areas of our Site without providing any personal data at all. However, to use all features and functions available on our Site you may be required to submit or allow for the collection of certain data.
 
-The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, travel expenses.
+You may restrict our use of Cookies. For more information, see Part 14.
 
-**JURISDICTION AND VENUE**
+## 14\. How Can I Access My Personal Data?
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified.
+If you want to know what personal data we have about you, you can ask us for details of that personal data and for a copy of it (where any such personal data is held). This is known as a “subject access request”.
 
-**Apartado  
-Correos 4  
-38410 Los Realejos  
-Tenerife  
-Spain**
+All subject access requests should be made in writing and sent to the email address shown in Part 15.
 
-In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+There is not normally any charge for a subject access request. If your request is ‘manifestly unfounded or excessive’ (for example, if you make repetitive requests) a fee may be charged to cover our administrative costs in responding.
 
-**APPLICABLE LAW**
+We will respond to your subject access request within 28 days. Normally, we aim to provide a complete response, including a copy of your personal data within that time. In some cases, however, particularly if your request is more complex, more time may be required up to a maximum of three months from the date we receive your request. You will be kept fully informed of our progress.
 
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
+## 14\. How Do You Use Cookies?
 
-**COPYRIGHT AND LICENSE**
+Our Site may place and access certain first-party Cookies on your computer or device. First-party Cookies are those placed directly by us and are used only by us. We use Cookies to facilitate and improve your experience of our Site and to provide and improve our products and services. We have carefully chosen these Cookies and have taken steps to ensure that your privacy and personal data is protected and respected at all times.
 
-This “Privacy Policy” is copyrighted ? 2003-2006 by Mining Gold Corporation and and Nevada Processing Center, Inc (888) 214-3349, and is fully licensed for use by this website. If you wish to lawfully use this Terms of Use on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or this website.
+  * If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+  * If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+  * When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+  * If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+
+
+By using our Site, you may also receive certain third-party Cookies on your computer or device. Third-party Cookies are those placed by websites, services, and/or parties other than us. Third-party Cookies are used on our Site for affiliate tracking and analytics.
+
+Our Site uses analytics services provided by Google. Website analytics refers to a set of tools used to collect and analyse anonymous usage information, enabling us to better understand how our Site is used. This, in turn, enables us to improve our Site and the products and services offered through it.
+
+The analytics service(s) used by our Site use(s) Cookies to gather the required information. You do not have to allow us to use these Cookies, however whilst our use of them does not pose any risk to your privacy or your safe use of our Site, it does enable us to continually improve our Site, making it a better and more useful experience for you.
+
+The analytics service(s) used by our Site use(s) the following Cookies:
+
+Cookie Name | Default Expiration Date | Description  
+---|---|---  
+|  |   
+_ga | 2 years | Used to distinguish users.  
+_gid | 24 hours | Used to distinguish users.  
+_gat | 1 minute | Used to throttle request rate. If Google Analytics is deployed via Google Tag Manager, this cookie will be named _dc_gtm_<property-id>.  
+AMP_TOKEN | 30 seconds | Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.  
+_gac_<property-id> | 90 days | Contains campaign related information for the user. If you have linked your Google Analytics and AdWords accounts, AdWords website conversion tags will read  
+__utma | 2 years | Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated  
+__utmt | 10 minutes | Used to throttle request rate.  
+__utmb | 30 minutes | Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated  
+__utmc | End of Browser Session | Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user  
+__utmz | 6 months | Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.  
+__utmv | 2 years | Used to store visitor-level custom variable data. This cookie is created when a developer uses the _setCustomVar method with a visitor level custom variable. This cookie was also used for the deprecated _setVar method. The cookie is updated every time data is sent to Google Analytics.  
+  
+For full details, please see:
+
+<https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage>
+
+In addition to the controls that we provide, you can choose to enable or disable Cookies in your internet browser. Most internet browsers also enable you to choose whether you wish to disable all Cookies or only third-party Cookies. By default, most internet browsers accept Cookies, but this can be changed. For further details, please consult the help menu in your internet browser or the documentation that came with your device.
+
+You can choose to delete Cookies on your computer or device at any time, however you may lose any information that enables you to access Our Site more quickly and efficiently including, but not limited to, login and personalisation settings.
+
+It is recommended that you keep your internet browser and operating system up-to-date and that you consult the help and guidance provided by the developer of your internet browser and manufacturer of your computer or device if you are unsure about adjusting your privacy settings.
+
+## 15\. How Do I Contact You?
+
+To contact us about anything to do with your personal data and data protection, including to make a subject access request, please use the following details (for the attention of Andy Williams):
+
+Email address:
+
+## 16\. Changes to this Privacy Policy
+
+We may change this Privacy Notice from time to time. This may be necessary, for example, if the law changes, or if we change our business in a way that affects personal data protection.
+
+Any changes will be immediately posted on our Site and you will be deemed to have accepted the terms of the Privacy Policy on your first use of our Site following the alterations. We recommend that you check this page regularly to keep up-to-date.
