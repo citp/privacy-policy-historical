@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harcourts.co.nz privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220201303id_/https%3A//content.harcourts.co.nz/popup/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harcourts.co.nz privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409092704id_/https%3A//content.harcourts.co.nz/popup/privacypolicy) for the most accurate reproduction.*
 
 # Real Estate NZ, Houses for Sale, Rentals, Homes for Sale, Commercial Leasing
 
@@ -12,58 +12,26 @@ By using our websites (including our websites at  [www.harcourts.co.nz](http://
 
 ## COLLECTION OF YOUR PERSONAL INFORMATION
 
-The kinds of personal information we collect and hold about you, and our use of that information, is dependent on the products and services we provide to you. 
+The kinds of personal information we collect and hold about you, and our use of that information, is dependent on the products and services we provide to you.
 
 In addition to operating a national real estate franchise network, the products and services that we (and/or our franchisees and licensees) provide include providing real estate agency services for the buying, selling, leasing, development and advertising of residential, commercial and rural properties, business broking, training and providing services in connection with arranging utility connection, removalists, cleaners, conveyancing, financing and insurance.
 
-Generally, this personal information may include (but is not limited to) your name, address, date of birth, telephone number, email address, details of the products or services you have enquired about, property value, rental amounts, insurance details, references (in relation to rental arrangements and job applicants) and photo identification. In addition to the above information, when you enrol in a course we will collect information which may include credit card details for payment of course fees and for nationally recognised training identification documents such as birth certificates, drivers licenses and/or passports in order to create a Unique Student Identifier (USI) unless you can provide a USI to The Academy. Collection of your personal information may be required by law for the purpose of reporting to government agencies for planning, evaluative and administrative relating to your training or course.
+Generally, this personal information may include (but is not limited to) your name, address, date of birth, telephone number, email address, details of the products or services you have enquired about, property value, rental amounts, insurance details, references (in relation to rental arrangements and job applicants) and photo identification. There may be additional personal information collected by our real estate franchise network in order to meet their obligations under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and its regulations, including (but not limited to) your name, address, date of birth, trust deed(s), and source of wealth. In addition to the above information, when you enrol in a course we will collect information which may include credit card details for payment of course fees and for nationally recognised training identification documents such as birth certificates, drivers licenses and/or passports in order to create a Unique Student Identifier (USI) unless you can provide a USI to The Academy. Collection of your personal information may be required by law for the purpose of reporting to government agencies for planning, evaluative and administrative relating to your training or course.
 
 Generally, we collect your personal information directly from you unless it is impracticable or unreasonable to do so (for example where you deal with our franchisees, rather than us). From time to time, we may collect personal information about you from third parties (for example, from your representative, from publicly available sources, from your referees where you apply for a position with us, when you transact with our franchisees or if you apply to become a franchisee).
 
 If you enrol in a course we may also collect personal information about you from third parties, for example:
 
-  * from schools and other educational institutions where necessary to verify qualifications and course credits for enrolment and assessment purposes;
-  * from organisations where you may be completing a work placement, or practical component of your course;
-  * from your employer if your course is being supported by them or incorporated into your employment;
-  * from professional or member associations or government departments via website such as confirming membership or registration or license check.
-
-
+a. from schools and other educational institutions where necessary to verify qualifications and course credits for enrolment and assessment purposes;  
+b. from organisations where you may be completing a work placement, or practical component of your course;  
+c. from your employer if your course is being supported by them or incorporated into your employment;  
+d. from professional or member associations or government departments via website such as confirming membership or registration or license check.
 
 If you provide us with personal information about a third party, you represent, and we collect it on the basis that, you have that person's consent for us to collect and handle their personal information in accordance with this privacy policy.
 
 When collecting your personal information, we will take reasonable steps to provide you with certain information as required under the Privacy Act, including the purpose of collection, who we may disclose your personal information to, any law that requires or authorises us to collect the information and the main consequences if we do not collect all of the personal information we require. If we collect your personal information from another source, we will take reasonable steps to ensure you are aware of the fact and the circumstances of that collection.
 
 Generally, if we are unable to collect the personal information we require we may not be able to provide you with the products and services you seek. If the information provided is incorrect or incomplete, this may also prevent, limit or otherwise affect our ability to provide products or services to you.
-
-## PURPOSES FOR WHICH PERSONAL INFORMATION IS COLLECTED, HELD, USED AND DISCLOSED
-
-We will use and disclose your personal information for the purposes for which we collected it, and for other related purposes that you would reasonably expect. We may hold and process personal data that you provide to us in accordance with the GDPR.
-
-Generally, these purposes include responding to your enquiries, providing you (or arranging for our franchisees to provide you) with products and services such as those set out in the section above, providing you with marketing information about our products and services and those of our franchisees, obtaining your feedback on your customer experience, conducting promotional activities and for our general business operations (for example, recruitment, maintenance of our business records, compliance with our legal and insurance obligations and statistical purposes).
-
-By providing us with your personal information, you consent to us using your personal information for these purposes. You agree that we may send you such information by post or by electronic means such as email. You can opt-out of marketing and promotional communications at any time by contacting our Privacy Officer via the details shown below.
-
-If you are undertaking a Harcourts training course we may disclose information to a third party about you or your course for the purposes of assessing your progress, tracking your attendance, providing student support, issuing your results, and providing certificates of completion and/or Statement of Attainments (SoA for nationally recognised training).
-
-We may exchange your personal information within the Harcourts corporate group. We may also disclose your personal information to our franchisees, licensees, agents and contractors for the purposes set out above, and for the purposes of those parties providing services to us or performing business services or functions on our behalf.
-
-Apart from the above instances, we may also use and disclose your personal information with your consent and as otherwise required or permitted by law.
-
-## SENSITIVE INFORMATION
-
-We will only collect 'sensitive information' with your consent. We will assume that you have consented to us collecting all information which is provided to us by you for use in accordance with this policy, including any 'sensitive information', unless you tell us otherwise at the time you provide it to us.
-
-If you are enrolled in a Harcourts training course, we may collect information about you which is considered sensitive information for example, information about whether you identify you as Aboriginal or Torres Strait Islander; information which may disclose your racial or ethnic origin (such as your proficiency languages other than English); and information about your health or a disability where this is relevant to your training needs.
-
-## STORAGE AND SECURITY OF YOUR PERSONAL INFORMATION
-
-We may hold your personal information in electronic formats or in hard copy.
-
-We take reasonable steps to securely store your personal information to ensure it is protected from unauthorised access, modification and disclosure, and from other types of misuse, interference and loss. This includes electronic and physical security measures and procedures, staff training and use of password protection software.
-
-We will take reasonable steps to destroy or permanently de-identify your personal information when we no longer require it for any purpose for which it was collected. We may retain your personal information for as long as necessary to comply with any applicable law, for legal, insurance and corporate governance purposes, for the prevention of fraud and to resolve disputes. Your personal information may also be retained in our IT system back-up records.
-
-The transfer of data over the Internet is inherently insecure. We cannot guarantee the security, during transmission, of any personal information provided to us via our websites. Please bear this in mind when transmitting information by this means to us.
 
 ## ACCESS AND CORRECTION OF YOUR PERSONAL INFORMATION
 
@@ -111,7 +79,8 @@ We may amend, modify or replace this Privacy Policy at any time. You should revi
 
 For the purpose of the GDPR, we are the data controller and any enquiry regarding the collection or processing of your data should be addressed to our Privacy Officer at the contact details below.
 
-If you would like further information about the way we manage your personal information, or if you have a privacy-related complaint, please contact our Privacy Officer by telephone on [+61 7 3839 3226](tel:+61738393226), by mail at 31 Amy Johnson Place, Eagle Farm, QLD 4009, Australia or by email at [privacy@harcourts.com.au](mailto:privacy@harcourts.com.au).
+  
+If you would like further information about the way we manage your personal information, or if you have a privacy-related complaint, please contact our Privacy Officer by telephone on +64 9 520 5569, by mail at 7-9 Alpers Avenue, Newmarket, Auckland 1023, New Zealand or by email at privacy@harcourts.co.nz. 
 
 ## OFFICE OF THE PRIVACY COMMISSIONER
 
