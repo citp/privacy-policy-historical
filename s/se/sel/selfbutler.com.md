@@ -1,87 +1,177 @@
-> *The following text is extracted and transformed from the selfbutler.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174931id_/https%3A//selfbutler.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfbutler.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409095122id_/https%3A//selfbutler.com/privacy.php) for the most accurate reproduction.*
 
 # SelfButler - Be Inspired
 
 ### Overview
 
-SelfButler takes your privacy very seriously, and we appreciate the fact that by using our service you are placing a great deal of trust in us. Our service has been built from the ground up with your privacy foremost in mind. We know that privacy is an important issue for our clients, and it is thus an important issue for us. We make it our highest priority to secure and protect the confidentiality of the personally identifiable information that you provide to us.
+This Application collects some Personal Data from its Users.  
 
-This policy clearly explains the type of personally identifiable information we gather when you use the SelfButler service found on our web site: www.selfbutler.com. This privacy policy describes how we collect and use the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. This policy also outlines the steps we have taken to safeguard the data we collect, and it explains the control we provide to you over the data we collect.
 
-### Information we collect
+**Owner and Data Controller**  
+ExMarketPlace FZ LLC  
+Tower 3 - 3rd Floor - Office 302,  
+Dubai Design District,  
+Dubai,UAE  
 
-The only personally identifiable information we collect is information that you voluntarily provide to us. This includes your email address and optional demographic information (such as zip code, gender and year of birth), collected when you sign up for our newsletter, and the information you provide to us when you book a hotel reservation. Booking information, required by hotels, includes name, address, contact information, and the credit card details used to hold a reservation.
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputers, and enforce our agreements. If you wish to cancel your account or request that we no longer use or delete your information to provide you services, contact us and we will respond to your request within a reasonable timeframe.
+**Data retention Time**  
+Any user's recorded data is kept for the time necessary to provide the service requested by the User or stated by the purposes outlined in the Privacy Policy but not over 12 months. 
 
-### How we use the information we collect
+**Data cancellation request**  
+The User can always request that the Data Controller suspend or remove the data by contacting: **privacy@exmarketplace.com**.
 
-We use your information only for the explicit purposes for which you provide it. When you sign up for our newsletter, we use your email address for the purpose of delivering the specified newsletter to you. You will only receive the requested number of emails. We do not share your email address or your optional demographic data with any other party, unless you explicitly allow us to do so. We consider an explicit agreement to be a clear "opt-in" choice-a choice that requires you to take an action. We do not consider a box checked by default to be an explicit agreement.
+Owner contact email: **info@exmarketplace.com**
 
-When you book a hotel reservation with us, we deliver your information directly to the relevant hotel, and not to any other party. We store a copy of your booking information on our computers so that you can retrieve that information when you return to our site. However, for security purposes, we do not store your entire credit card number on our servers. Furthemore all credit/debit cards details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties. 
+### Types of Data collected
 
-When you use our "Email a Friend" feature, we use the names and email addresses provided by you for the sole purpose of sending an email from you to the recipient. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store any names or email addresses collected for this site feature.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: email address, first name, Cookies and Usage Data.  
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
+The Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.  
+All Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without any consequences on the availability or the functioning of the service.  
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.  
+Any use of Cookies - or of other tracking tools - by this Application or by the owners of third-party services used by this Application serves the purpose of providing the service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.  
+Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.  
 
-### Legal Disclaimer
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial/bankruptcy proceeding, court order, or legal process served on our Web site, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety of the safety of others, investigate fraud, or respond to a government request.
+### Mode and place of processing the Data
 
-If SelfButler is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
+**Methods of processing** The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.  
+**Place** The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.  
+**Retention time** Any user's recorded data is kept for the time necessary to provide the service requested by the User or stated by the purposes outlined in the Privacy Policy but not over 12 months.  
 
-### How we protect your information
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
+### The use of the collected Data
 
-The security of your personally identifiable information is important to us. When you enter sensitive information (such as your credit card number) on our reservation form, we encrypt that information using secure socket layer technology (SSL).
+The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Content commenting, Contacting the User, Heat mapping and session recording and Analytics.  
+The Personal Data used for each purpose is outlined in the specific sections of this document.  
 
-SelfButler uses the leading security technology available, including SSL, to protect and secure your information. We are certified by the industry-leading Verisign. To learn more about SSL, and for more information on our security certification, please click the Verisign logo.
 
-### Tracking Technologies
+### Detailed information on the processing of Personal Data
 
-We, SelfButler, and our partners, affiliates, or analytics or service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+Personal Data is collected for the following purposes and using the following services: 
 
-We use cookies to store the information you provide when you search for hotels (which might include location, activities, and/or dates) so that you don't have to re-enter that same information for new searches. We also use it to improve our service by helping us gauge our effectiveness in helping you find and book the ideal luxury hotel. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+**Analytics**  
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.  
+**Google Analytics (Google Inc.)**  
+Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
+Personal Data collected: Cookies and Usage Data.  
+Place of processing: United States   
+Privacy Policy: https://policies.google.com/privacy?hl=en  
+Opt Out: https://tools.google.com/dlpage/gaoptout?hl=en  
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at feedback (at) selfbutler.com.
 
-We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+### Contacting the User
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. We do not link this automatically collected data to other information we collect about you.
+Mailing list or newsletter SelfButler.com  
+By registering on the mailing list or for the newsletter, the User's email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.  
+Personal Data collected: email address and first name, comments.  
 
-### Behavioral Targeting / Re-Targeting
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our partner may use technologies such as cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may contact us to opt-out. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+### Content commenting
 
-### How we share information
+Content commenting services allow Users to make and publish their comments on the contents of this Application.  
+Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.  
+If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.  
+Comment system managed directly SelfButler.com  
+This Application has its own internal content comment system.  
+Personal Data collected: email address and first name.  
 
-We do not share your profile with other third parties, other than the instances detailed in the following two paragraphs.
 
-The information you provide to us when you book a hotel reservation is delivered directly to the relevant hotel, and is not shared with any other party. This information includes your name, address, contact information, and credit card details.
+### Heat mapping and session recording
 
-The information you provide when you sign up for our newsletter, including email address and optional demographic information (such as zip code, gender), is not shared with other parties unless you explicitly allow us to do so. All explicit agreements will be "opt-in", rather than "opt-out". This means that by default we will not share your information, unless you take an action that allows us to do so.
+Heat mapping services are used to display the areas of a page where Users most frequently move the mouse or click. This shows where the points of interest are. These services make it possible to monitor and analyze web traffic and keep track of User behavior.  
+Some of these services may record sessions and make them available for later visual playback.  
 
-We may provide your personally identifiable information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
 
-### Updating your information
+### Additional information about Data collection and processing
 
-We strive to give you full control over the information you provide to us. To unsubscribe from our newsletter and all promotional communications, we provide clear instructions on our web site (via the newsletter link found on every page). You may also unsubscribe via the link at the bottom of all emails delivered to you.
+The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
+The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities.  
 
-Due to the nature of the hotel industry's Global Distribution System (GDS), it is not currently feasible to automatically update the details of a reservation over our web site. Thus, should you need to make an update to your booking information, we ask that you contact us. We will be happy to assist you. 
 
-### Links to 3rd Party Sites
+**Additional information about User's Personal Data**  
+In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.  
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of SelfButler. If you submit personally identifiable information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-### Social Media Widgets
+**System logs and maintenance**  
+For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) use other Personal Data (such as the IP Address) for this purpose. 
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+**Information not contained in this policy**  
+More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document. 
 
-### Changes to this policy
+**The rights of Users**  
+Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.  
+This Application does not support "Do Not Track" requests.  
+To determine whether any of the third-party services it uses honor the "Do Not Track" requests, please read their privacy policies.  
 
-If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect.
+**Changes to this privacy policy**  
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller remove the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
 
-In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by SelfButler, or any subsidiary or affiliated entity, are sold, assigned, transferred or acquired by another company, the information from and about our sites' users may be among the transferred assets.
+### More on "COOKIE"
 
-If you have any questions or suggestions regarding our privacy policy, please contact us.
+**What is the definition of "cookies"?**  
+The "cookie" is a text file that can be stored in a dedicated space on the hard disk of the device used by the user (eg computer, tablet, smartphone, etc.) when the user visits the online service of SelfButler.com through their browser, and may be subject to user consent. The cookie identifies the device in which the cookie is stored for the entire period of validity or registration of the cookie.  
+During the visits of the online service of SelfButler.com, the information relating to the navigation data received from the user's device could be stored in "cookies" installed on that device. At the time of the first visit, the user will be informed about the use of cookies with an information contained in a banner. With the continuation of navigation after the display of the banner, the user consents to the use of cookies.  
+However, you can change the settings relating to cookies at any time. Below is more information about cookies and how to manage the settings related to them.  
+2 - Types of cookies used At the time of connection to our Site, except for the user's consent, various cookies may be installed on the user's device, in order to recognize the device used by the user for the duration of the validity period of cookies.  
+SelfButler.com uses cookies for the following purposes, except for the user's consent:  
+
+
+  * compiling statistics, monitoring traffic volumes and measuring the use of the various sections of the Website (eg titles and content visited, click flows), in order to improve the efficiency and usability of the SelfButler.com services;
+  * compute the total number of advertisements shown in the appropriate advertising spaces, identify the same and the number of their views, identify the number of users who click on each of them, and, when possible, the subsequent actions carried out by users on these pages in order to calculate the compensation due to commercial partners (eg communication and advertising agencies, websites, etc.), for statistical analysis purposes;
+  * customize the presentation of the Site to the display settings of the user's device (language, screen resolution, operating system, etc.) during the visit of the same, based on the hardware, software, video software of that device;
+  * personalize advertising space to the user's device display settings (language, screen resolution, operating system, etc.), based on the hardware, software, video software of that device;
+  * in the event that the user has provided personal data, including contact details, and has chosen to accept cookies at the time of registration or access to services, the navigation data acquired through cookies may be linked to the data user's personal data, for the purpose of sending advertising materials, or to show personalized advertisements on the user's device in the advertising spaces that use our cookies. These are advertising messages specifically intended for the user and which could be of interest to the user;
+  * keep the information contained in the forms filled out on the Website and the information relating to certain products or services selected through the Site (eg services to which the user has registered, contents of the cart, etc.);
+  * allow access to reserved and personalized areas, e.g. the account, based on username, password and other data to which the user has previously given access to SelfButler.com;
+  * implement security measures (for example, which allow the registered user to be recognized during subsequent visits after a certain period of time, by requesting to log in again).
+
+
+
+3 - Cookies related to the integration of third-party applications  
+SelfButler.com may include third-party software applications on the Site, which allow the user to share the content of the Site with other users or to inform other users about the visit or opinion related to that content. This is the case, in particular, of the "Share" and "Like" buttons on social networks (like Facebook, Twitter, etc.). The social networks that provide these buttons may use them to identify the user, even if the user has not clicked them while visiting the site. In fact, this kind of buttons could allow the social network to track the navigation on the site, simply because the user has logged in to their account on the social network from their device (so-called open session) during the visit to the Site. SelfButler.com has no control over the processes used by social networks to collect information about the site visit by the user or other related personal data. Please consult the personal data protection policies of these social networks in order to understand the purposes for which the collection of browsing data takes place through the aforementioned buttons, especially with regard to advertising purposes. Social network policies must allow you to exercise your personal choices through account settings.  
+4 - Choices about cookies  
+There are different ways to manage cookies. The settings chosen by the user could change the browsing experience and the conditions of access to some services that use cookies. It is possible to express or modify your choices regarding the use of cookies at any time, as described in the dialog window.  
+4.1 - Choices available through the browser  
+You can configure the browser to allow the storage of cookies on your device, to automatically reject them or to reject some. It is also possible to configure the browser in order to display the request for acceptance or refusal of cookies before the cookie is installed. For more information, see the sub-section c) "How to exercise choices in the browser".  
+(a) Acceptance of cookies  
+The user can decide whether or not to accept the installation of cookies on his device. The user is free to make his choice and to modify it at any time through the settings of the browser used on the device. If the browser is set to accept the installation of cookies on the user's device, the cookies used by the visited web pages will be temporarily stored in a dedicated space of the user's device. They will be readable only by those who install the cookie.  
+(b) Refusal of cookies  
+In the event that the user chooses to refuse the installation of cookies on their device, or in case of removal of cookies already stored, it will not be possible to use the functionalities necessary to navigate within certain sections of the Site. for example, some content or services that require logging in for access. Moreover, in relation to the technical compatibility, it may be impossible to recognize the type of browser used by the user on his device, the default language or the country from which the terminal is connected. If the browser is set to refuse the installation of cookies on the device, SelfButler.com assumes no responsibility for the reduced functionality of the services resulting from the failure to authorize the storage and display of information necessary for the full operation of the Site and services.  
+(c) How to exercise choices in the browser  
+Each browser offers different ways of managing cookies and their settings. The configuration of the browser is described in the "Help" menu of the toolbar located in most browsers, where information is provided about how to change the settings related to cookies.  
+For Internet Explorer ™: http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies,  
+For Safari ™: http://docs.info.apple.com/article.html?path=Safari/3.0/fr/9277.html,  
+For Chrome ™: http://support.google.com/chrome/bin/answer.py?hl=fr&hlrm=en&answer=95647,  
+For Firefox ™: http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20cookies,  
+For Opera ™: http://help.opera.com/Windows/10.20/fr/cookies.html.  
+"Flash" © cookies that use "Adobe Flash Player"  
+"Adobe Flash Player" ™ is an application that allows a quick display of dynamic content using the "Flash" computer language. This and other similar applications store settings, preferences and usage data through a technology similar to cookies. However, "Adobe Flash Player" ™ handles this information through an interface other than that provided by the user's browser. In the event that the user's device displays content developed with Flash technology, please access the Flash cookies management tool directly from the Adobe website http://www.adobe.com.  
+5 - Sharing the use of the terminal with other people  
+If the user's device is used by more than one person or if the same device has multiple browsers, it is not possible to be certain that the services and advertisements that appear on the user's device correspond to the use of the device in question by part of the user or to someone else's. If this is the case, sharing your device with others and configuring browser settings regarding cookies is a user's choice and will be under the responsibility of the latter.
+
+### Definitions and legal references
+
+**Personal Data (or Data)**  
+Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.  
+**Usage Data**  
+Information collected automatically through this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.  
+**User**  
+The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.  
+**Data Subject**  
+The legal or natural person to whom the Personal Data refers.  
+**Data Processor (or Data Supervisor)**  
+The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.  
+**Data Controller (or Owner)**  
+The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.  
+**This Application**  
+The means by which the Personal Data of the User is collected and processed.  
+**Cookies**  
+Small sets of data stored in the User's device.  
+**Legal information:**  
+Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.  
+This privacy policy relates solely to this Application.  
+
