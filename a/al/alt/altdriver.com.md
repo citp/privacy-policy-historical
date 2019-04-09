@@ -1,148 +1,191 @@
-> *The following text is extracted and transformed from the altdriver.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124083035id_/https%3A//altdriver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altdriver.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409035028id_/https%3A//altdriver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Engaging Car News, Reviews, and Content You Need to See – alt_driver
 
-**Effective Date** : October 1, 2014
+_Effective Date: This policy was last updated on   **10/31** ** _/2018_**_
 
-Thank you for your interest in alt_driver. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services (collectively, the “alt_driver Sites”). By using the alt_driver Sites, you consent to the use of your information and information about you in accordance with this Privacy Statement.
+## **Overview**
 
-This Privacy Statement applies to information collected through the alt_driver Sites and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties.  For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with alt_driver, please review their privacy policies.
+Thank you for visiting this website, which is operated by WOS, Inc. (“we,” “our,” or “us”), d/b/a Wide Open Media Group. This site is one of a network of ad-supported sites operated by Wide Open Media Group.
 
-Services offered by alt_driver are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us.
+Alt_driver takes privacy concerns seriously. This privacy policy outlines what information is collected when you visit our site.
 
-This Privacy Statement covers:
+This Privacy Policy explains the ways in which we collect information from you through your use of our websites, applications, mobile applications, and/or any services made available through such websites, applications, and/or mobile applications (collectively, the “Service”), and the ways that we and the other Wide Open Media Group Affiliates may use that information. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Statement carefully so that you understand our online privacy practices. By using our Service, you agree that your use, and any dispute over our online privacy practices, is governed by this Privacy Statement and our [Visitor Agreement](https://altdriver.com/visitor-agreement/). If you have questions regarding privacy issues, [please contact us](mailto:privacy@wideopenmediagroup.com).
 
-  * Information We Collect
-    * Information You Provide
-    * Automated Information
-    * Data Technologies
-    * Videos
-    * Location Information
-    * Publicly Posted Information
-    * Combined Information and Information from Other Sources
-    * How We May Use the Information We Collect
-    * Applications, Widgets and Social Media
-  * Advertising Networks
-  * Information We Share
-    * Affiliates
-    * Our Service Providers
-    * Corporate and Asset Transactions
-    * Other
-  * Your Choices
-  * Your California Privacy Rights
-  * Access and Correction
-  * Links
-  * Data Security
-  * Disputes
-  * How to Contact Us
+Alt_driver contains links to other sites and we are not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects Personally Identifiable Information (PII).
+
+Alt_Driver gathers information about its users mainly to enhance their experience on the site and on email newsletters. This information is used to bring you content that is relevant to your interests. Additionally, alt_driver, along with our advertising partners, gather information about you anonymously to provide you with advertising messages that are catered to your location and interests. You can opt out of information gathering for advertising purposes below.
+
+## **Transparency and Choice**
+
+Our goal is to be clear about what information we collect and how we use it.  No personal information is required to use our site.
+
+  *     * For email notification management or optout, please see Email Policy
+    * For information about social sharing information or social comments, please see Social Media Sharing and Comments
+    * For information about general comments, please email [privacy@wideopenmediagroup.com](mailto:privacy@wideopenmediagroup.com).
+
+
+  * For overview of types of cookies we use, please see Cookies
 
 
 
-**Information We Collect**  
-Information is gathered from the alt_driver Sites by us, our service providers, advertisers, sponsors and partners.
+## **Information Collected**
 
-Information You Provide. We may collect information that you choose to provide on the alt_driver Sites in a variety of ways, such as when you:
+**_Personal Information/ Information You Directly Provide To alt_driver:_**
 
-  1. register for one of our products or services. This information may include your name, address, telephone number, and email address;
-  2. make information available to us via social networking logins, such as Facebook or Twitter;
-  3. participate in chats, web forums or other interactive sessions;
-  4. subscribe to newsletters or provide feedback; and
-  5. participate in surveys, sweepstakes or other promotions.
+When registering, engaging, or signing up for newsletters, you may provide alt_driver with personal information, including but not limited to:
 
+  * Personal contact information (name, zip code, email address, phone numbers)
 
+  * Comments
 
-Automated Information. Information regarding your use of the alt_driver Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as:
+  * User names (including social media user names)
 
-  1. your IP address, the type of browser and operating system used;
-  2. date and time you access the alt_driver Site and pages you visit, and if you linked from or to another website, the address of that website;
-  3. email you open and links you click on within those emails; and
-  4. your ISP or mobile carrier, and the type of handheld or mobile device that you used.
+  * Correspondence with alt_driver staff
+
+  * Billing Information (for paid alt_driver products)
 
 
 
-Data Technologies. Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as “Data Technologies”). “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. “Local shared objects,” sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.
 
-One or more Data Technologies may be used on the alt_driver Sites and other websites and mobile applications (that may not be the alt_driver Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications.
+You are not required to provide alt_driver with any personal information in order to use the site. All information that is collected is the sole property of the site, and that information is not distributed outside of the site unless required by law.
 
-Videos. We may target and track the videos you view on alt_driver Sites. You consent to our tracking of your video viewing through the alt_driver Sites or a third party social media site as permitted by applicable law.
+**_Non-Personal Information Automatically Collected:_**
 
-Location Information. When you download or use the alt_driver Sites, we may collect physical location information that is sufficiently precise to allow us to locate a specific person or device (“Location Information”). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after you initially access or download the alt_driver Sites). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising and directions.
+This type of information is collected anonymously using tracking technology. No Personally Identifiable Information (PII) is collected through this methodology.  This information may include, but is not limited to:
 
-Publicly Posted Information. Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law.
+  * Hardware/software information (geographic location, IP address, browser type, device type, operating system, bandwidth, etc.)
 
-Combined Information and Information from Other Sources. We may combine information that you provide to us with information we receive from our affiliates and other sources, as well as with other information that is automatically collected.  The combined information may include information about your use of the alt_driver Sites, your use of other websites, devices and mobile applications and information from our affiliates and other sources.
+  * Analytics information (time spent on site, number of pages viewed, referring web page, browsing information, etc.)
 
-**How We May Use the Information We Collect**  
-We may use information we collect for the following purposes:
+  * Advertising information (type of ads seen, number of times ads were served, pages where the ads were served)
 
-  1. for everyday business purposes, such as establishing and managing your user account, providing products and services you request, and providing customer support;
-  2. to offer our other products or services and/or the products or services of others to you;
-  3. to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions;
-  4. to enable you to interact with alt_driver and our users and others through various means, such as through our message boards, blogs and social media;
-  5. to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services, applications and websites;
-  6. to diagnose and address technical and service problems;
-  7. to perform data analyses, including market and consumer research, trend analysis, demographic analysis and financial analysis;
-  8. to deliver content (including advertising) correlating to your interests and browsing and usage history, both within the alt_driver Sites and on other websites and applications;
-  9. to comply with applicable legal requirements and our policies; and
-  10. to contact you via telephone, text or chat. We will obtain your consent to contact you when and in the manner required by law.
+  * Information collected through HTML cookies, web beacons, and similar technologies.
 
 
 
-**Applications, Widgets and Social Media**  
-We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit. Integration between the alt_driver Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network’s application or widget. Please visit the applicable social media network’s privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network.
 
-**Advertising Networks**  
-Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called “online behavioral” or “interest-based” advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the alt_driver Sites and on third-party’s websites and mobile applications. This process allows alt_driver and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies.
+Information Collected Through Third-Party Sources
 
-We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement.
+This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources is PII. This type of information includes but is not limited to:
 
-Some companies disclose when they are using interest-based advertising programs on the alt_driver Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon in or around third-party advertisements on the alt_driver Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices), [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.ghosteryenterprise.com](http://www.ghosteryenterprise.com/). Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
+  * Demographic information (gender, age, household income, job title, interests, etc.)
 
-**Information We Share**  
-We do not sell or otherwise share information about you that we collect or receive, except as described below:
+  * Advertising information (clicks, interactions, post-impression performance data)
 
-  1. Affiliates. We may share information about you, including personal information, with our corporate affiliates, who will use it in accordance with their privacy policies.
-  2. Our Service Providers. We may engage third parties to provide the services offered through or in connection with the alt_driver Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement.
-  3. Corporate and Asset Transactions. If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction.
-  4. Other. We may access or disclose information, including personal information, to:
+  * Research information (data collected from partners such as Nielsen, Comscore, Quantcast, etc.)
 
 
 
-(a)  protect or defend our interests and the legal rights or property of alt_driver and our affiliates;  
-(b)  protect the rights, interests, safety and security of users of the alt_driver Sites or members of the public;  
-(c)  protect against fraud or for risk management purposes; or  
-(d)  comply with prudent legal practice as we may determine, and applicable law or legal process.
 
-**Your Choices**  
-You are entitled to make certain choices about how we communicate with you.
+## **What Is Done With The Collected Information?**
 
-  1. You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service.
-  2. If you do not want to receive marketing email from us, you can follow the unsubscribe link provided in those emails.
-  3. If you do not want to receive interest-based advertisements, you can opt out as discussed in the “Advertising Networks” section above.
-  4. You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or opting out at Ghosteryenterprise.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device.
-  5. If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out.
+Site Content: alt_driver partners with Zeta Global to provide you with content that is relevant and personalized to your reading interests. You can read[ Zeta Global’s privacy policy here](https://zetaglobal.com/privacy-policy/).
+
+Email Communications: alt_driver may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the site, alerts, and promotional messages from advertising partners.
+
+Site Analysis: alt_driver uses the information collected through third-party sources to learn and analyze how the site is used. We use this information to enhance the site by making improvements based on the data collected.
+
+Advertising: Display Ads are delivered from our adserver, DFP for Small Publishers powered by Google.  At times third-party information is used to deliver targeted ads to you, your location, and your interests. No PII is exchanged with any type of advertising message on alt_driver.
+
+## **How We Share Information Collected**
+
+There are very few specific circumstances when your information is shared outside of the company. These circumstances include but are not limited to:
+
+  * If you comment or use the Facebook, Twitter, Google+ and/or like apps on alt_driver, the information you submit (including your social media user name, etc) is or may be viewable to the public.
+
+  * Alt_driver may need to disclose personal information to comply with a judicial proceeding, a court order, or any other legal process.
+
+  * We employ third-party services to distribute email newsletters and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf.
+
+  * In the event alt_driver goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
 
 
-**Your California Privacy Rights**  
-California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain information about you to any third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below.
 
-Online Tracking Policy for California Residents. As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers, therefore we do not respond to them.
+ Alt_driver utilizes common social media sharing and commenting features from Facebook, Twitter, Pinterest and Google+.  In using these features, these services may set a cookie to properly execute the specified action.  These features may collect your IP address and information about the page and action you are visiting.  These services are not required in order to use the site and are governed by that company’s privacy policy:
 
-**Access and Correction**  
-Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within the alt_driver Sites, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section below.
+  * [Facebook Privacy](https://www.facebook.com/policy.php)
+  * [Google+ Privacy](https://policies.google.com/privacy?hl=en)
+  * [Pinterest Privacy](https://policy.pinterest.com/en/privacy-policy)
+  * [Twitter Privacy](https://twitter.com/en/privacy)
 
-**Links**  
-The alt_driver Sites may contain links to websites not operated by us, as well as third party widgets and applications discussed above. Once you leave the alt_driver Sites, we suggest that you review the applicable privacy policy of the third-party website or application. We are not responsible for the content or use of any websites or applications other than on the alt_driver Sites or the privacy practices of those websites or applications. ** **
 
-**Data Security**  
-We use commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard information about you in our possession against loss, theft and unauthorized use, disclosure or modification. Of course, despite these measures, we cannot guarantee perfect security of networks, servers and databases we operate or that are operated on our behalf.
 
-**Disputes**  
-If you choose to visit the alt_driver Sites, your visit and any dispute regarding privacy is subject to this Privacy Statement and our Visitor Agreement, including limitations on damages, resolution of disputes, and application of the law of the state of Georgia.
+## **Email Policy**
 
-**Updates to this Privacy Statement**  
-We may update this Privacy Statement to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Privacy Statement. We will provide you with additional notice of material changes by posting notice of the changes for thirty (30) days before we implement those changes.
+ Alt_driver does not allow any third-party company to use your email address for commercial purposes without your express permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt out of any specific newsletters or mailings, please email us at info@wideopenmediagroup.com to change your newsletter settings or use the unsubscribe feature within the newsletter.
 
-**How to Contact Us**  
-If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@altdriver.com](mailto:privacy@getniceride.com "privacy@getniceride.com")
+Additional details and privacy policy notice with contact information for Zeta Global can be found below:
+
+[Zeta Global Privacy Policy](https://zetaglobal.com/privacy-policy/)
+
+## **Cookies**
+
+A cookie (otherwise known as an HTTP cookie) is a small piece of code which can be sent from a web site or banner ad and stored on a user’s web browser. The cookie stores data such as preferences, previous activity, and other information. For more information on HTTP cookies and other online advertising definitions please visit [IAB’s web site](http://www.iab.net/).
+
+To comply with the European Union Directive 2009/136/EC, amending Directive 2002/58/EC on Privacy and Electronic Communications (otherwise known as the e-Privacy or Cookie Directive), we provide notice to consumers visiting our site from the EU about our cookie practices and obtain consent for such practices. By using our services, you agree to the use of cookies as detailed below.
+
+_**Performance Cookies**_
+
+These cookies collect information about visitor usage for the purpose of web analytics and high level demographics.  These cookies are only used to improve our site and the general experience.  They do not contain PII and they do not track any behavior on any other website.
+
+_**Functionality Cookies**_
+
+These cookies allow our site to remember volunteered information (such as username for commenting) to provide convenience or a more personalized experience.  If used, they will contain PII that you have provided.  These cookies do not track any behavior on any other website.
+
+_****Advertising Cookies****_
+
+These cookies contain browsing habits and general data (device type, location) specific to your device for more personalized ad targeting.
+
+_**Managing Cookies**_
+
+Cookie management is specific to your browser.  If you reject cookies, you will be able to use alt_driver, but some of the functionality may be limited.
+
+Common browser cookie management information:
+
+[Google Chrome Cookies](https://support.google.com/chrome/answer/95647?hl=en)  
+[Internet Explorer Cookies](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11-win-7)  
+[Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)  
+[Mozilla Firefox Cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)  
+[Safari Cookies](https://support.apple.com/kb/ph21411?locale=en_US)
+
+Additional third policy cookie information:
+
+[Comscore](https://www.comscore.com/About-comScore/Privacy-Policy)  
+[Google Analytics](https://support.google.com/analytics/answer/6004245)  
+[Google DoubleClick for Publishers](https://support.google.com/dfp_premium/answer/2839090?hl=en)  
+[Quantcast](https://www.quantcast.com/opt-out/)
+
+## **Notices**
+
+Children Under 13: alt_driver does not knowingly target advertising to, or collect information from children under the age of 13.
+
+Data Retention: Your personal information is retained for as long as necessary to fulfill the purposes outlined in this privacy policy.
+
+Security: alt_driver uses all reasonable means to safeguard data against unauthorized use and theft.
+
+Changes To This Policy: alt_driver may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy.
+
+Questions/Suggestions: If you have any questions or suggestions for this Privacy Policy, please contact the editor of alt_driver or email questions to [privacy@wideopenmediagroup.com](mailto:privacy@wideopenmediagroup.com). You can also reach us by mail at 801 Congress Ave, Suite 330, Austin, TX, 78701.
+
+## **For More Information**
+
+Below are links to the privacy policies of some of our partners and links to advertising opt outs.
+
+DFP for Small Publishers, powered by Google, is the adserving platform on alt_driver.
+
+If you want to opt out of receiving targeted ads from DFP, [visit this link](https://www.google.com/settings/ads). Opting out does not mean you will not get ads from DFP; it means DFP will not collect non-personal information about you or serve ads targeted to your interests.
+
+[Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/learn_more.asp) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners’ non-personal information tracking, visit the [NAI opt out](http://www.networkadvertising.org/managing/opt_out.asp) section. Opting out does not mean you will not receive advertising on alt_driver. It ensures that your non-personal information will not be automatically tracked by the sites you have opted out of.
+
+## **Contact Us**
+
+If you have questions about privacy please contact us at [privacy@wideopenmediagroup.com](mailto:privacy@wideopenmediagroup.com).
+
+Or send correspondence via mail to:
+
+Wide Open Media Group  
+801 Congress, Suite 330  
+Austin, TX  
+78701
