@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viber.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224202308id_/https%3A//www.viber.com/terms/viber-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viber.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409162130id_/https%3A//www.viber.com/terms/viber-privacy-policy) for the most accurate reproduction.*
 
 # Viber Privacy Policy | Viber
 
