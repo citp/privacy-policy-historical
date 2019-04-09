@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131103457id_/https%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409194355id_/https%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
 
 # CouponSurfer Privacy Policy
 
@@ -30,7 +30,7 @@ Third CouponSurfer sometimes uses third-parties for advertising and analytics fo
 
 In addition when you become a member, you can select whether to receive new coupon alerts emails and the CouponSurfer.com email newsletter. Besides the user confirmation message, you will only receive email from CouponSurfer.com if you choose to receive new coupon alerts and/or the CouponSurfer.com. You have the option to change your email preferences at any time if you wish to stop receiving email from CouponSurfer.com by going to [Your Account](https://www.couponsurfer.com/user_update.cfm) or contacting support@couponsurfer.com
 
-If you have agreed to participate in our [CouponSurfer Dining Rewards](https://web.archive.org/rewards) program, please visit the [Terms of Use](https://www.couponsurfer.com/rewards/terms-card-linking.cfm) to learn more about the date collection, use and sharing practices in connection with the program. If you would like to opt out of card linking and transaction monitoring in connection with the program, you may opt out [here](https://web.archive.org/web/20180131103457id_/https%3A//www.couponsurfer.com/rewards/manage-cards.cfm).
+If you have agreed to participate in our [CouponSurfer Dining Rewards](https://web.archive.org/rewards) program, please visit the [Terms of Use](https://www.couponsurfer.com/rewards/terms-card-linking.cfm) to learn more about the date collection, use and sharing practices in connection with the program. If you would like to opt out of card linking and transaction monitoring in connection with the program, you may opt out [here](https://web.archive.org/web/20190409194355id_/https%3A//www.couponsurfer.com/rewards/manage-cards.cfm).
 
 #### **Information Sharing and Disclosure**
 
@@ -38,4 +38,4 @@ CouponSurfer.com may use contractors or vendors to help us provide some of the s
 
 ###### **Updated 12/14/2017**. View our previous version [here](https://web.archive.org/privacy-102517.cfm).
 
-###### Copyright ©1998-2018 CouponSurfer, Inc. All rights reserved.
+###### Copyright ©1998-2019 CouponSurfer, Inc. All rights reserved.
