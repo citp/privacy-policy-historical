@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sulawines.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114538id_/http%3A//sulawines.com/aboutdata.aspx%3Fdatapage_id%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulawines.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409073306id_/https%3A//sulawines.com/aboutdata.aspx%3Fdatapage_id%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
-# 
+# Sula Vineyards Pvt. Ltd. - Taste The SULA Life
 
 This Privacy Policy governs the manner in which Sula Vineyards Private Limited collects, uses, maintains and discloses information collected from our website visitors. 
 
