@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alux.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231125827id_/https%3A//www.alux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alux.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409215544id_/https%3A//www.alux.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & What we do with your data - on Alux.com
 
