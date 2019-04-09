@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendersus.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928175718id_/http%3A//www.lendersus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendersus.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409155654id_/https%3A//www.lendersus.com/privacy-policy) for the most accurate reproduction.*
 
 # Lendersus.com Privacy Policy | Lendersus.com
 
@@ -114,7 +114,7 @@ See more at: <http://consumercal.org/california-online-privacy-protection-act-ca
 
 **Can change your personal information:**
 
-By emailing us, see: [www.lendersus.com/contact](http://www.lendersus.com/contact)
+By emailing us, see: [www.lendersus.com/contact](https://www.lendersus.com/contact)
 
 **How does our site handle Do Not Track signals?  
 **  
@@ -173,6 +173,6 @@ Follow the instructions at the bottom of each email and we will promptly remove 
 
 If there are any questions regarding this privacy policy, you may contact us using the information below:
 
-[www.lendersus.com/contact](http://www.lendersus.com/contact)
+[www.lendersus.com/contact](https://www.lendersus.com/contact)
 
 Last Edited on 2016-06-28
