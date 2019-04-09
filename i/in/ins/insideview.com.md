@@ -1,39 +1,58 @@
-> *The following text is extracted and transformed from the insideview.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021085324id_/https%3A//www.insideview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideview.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409164105id_/https%3A//www.insideview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - InsideView
+# Privacy Policy - InsideView
 
-## 2) Information We Collect From Our Subscribers
+## 3) Our Use and Disclosure of Subscriber Information
 
-**Information Our Subscribers Provide About Themselves or Their Business  
-**Our primary goal in collecting personal information from subscribers of the InsideView Service is to provide them with a smooth and efficient experience while communicating with us and using InsideView. This allows us to provide customized services and features that are most likely to meet subscribers’ needs and that make their experience easier and quicker.
+Except as set forth in this Privacy Policy or under express permission from the subscriber, at no time will We share the personal information that subscribers submit for InsideView access with anyone, including other subscribers.
 
-When an individual expresses an interest in obtaining information about InsideView or registering to use the Service, InsideView requires the individual to provide us with contact information such as name, company name, address, phone number, and email address. InsideView may then use the contact information provided to reach the individual via email or phone.
+**Subscriber’s Permission  
+**When subscribers provide us with personal information to include in a published individual Profile about the subscriber or any information to include in a published company Profile, the subscriber gives us permission to use and disclose that information for the purpose of providing the InsideView Service as described above.
 
-When a subscriber purchases services, InsideView may require the subscriber to provide financial qualification and billing information, such as billing name and address, payment/credit card number, and the number of employees within the organization that will be using the Service. InsideView may also ask for additional information, such as company annual revenues, number of employees, or industry.
+**Subscribers’ Information  
+**We use information We maintain about subscribers and other information We obtain from our subscriber’s current and past activities on the Site: (1) to perform the InsideView services requested, including emailing administrative and service notifications; (2) for marketing purposes (such as contacting subscribers to discuss interest in InsideView, and sending promotional communications or other information regarding InsideView and its partners, that may be customized based on usage patterns; (3) to check financial qualifications or collect payment; (4) to operate and improve the Site, including using aggregated Site usage data to understand utilization and improve the Service; (5) to resolve disputes; (6) to troubleshoot problems and enforce our Terms of Use; and (7) to allow subscribers to post comments within the blog section of the Site as well as submit testimonials and allow us to post these statements and testimonials along with the subscriber’s name on the Site.
 
-**Payment Card Information  
-**InsideView does not retain payment or credit card numbers. This information is passed on immediately to our payment card processing service, which is required to use this information only for the processing of each specific transaction.
+Subscribers should be aware that any information provided in these areas may be read, collected and used by others who access them.
 
-Once registered for the Service, a subscriber is able to add companies to his or her watch lists and automated search agents. We will retrieve and share information of interest to a subscriber, such as noteworthy events, address, phone number, and names of contacts on the companies that the subscriber wishes to watch.
+Subscribers may contact us to request removal of personal information from our blog or testimonials. See the [Contacting Us](https://www.insideview.com/privacy-policy/#contact) section of this Privacy Policy for contact details. As a subscriber, in some cases We may not be able to remove your personal information, in which case We will let you know if We are unable to do so and why.
 
-**Information Our Subscribers may Provide for the Lead Referral Program  
-**If a subscriber chooses to use our lead referral service to refer a third party to our site, the subscriber must first ensure that his/her business partner has agreed to share their contact or other information with us. In this case, we will ask for the third party’s contact name, email address and phone number. We will use this information to contact the third party (example, via a one-time email or phone call) about becoming a subscriber of InsideView. InsideView stores this information for the sole purpose of following up on the lead and tracking the success of our referral program.
+**IP Addresses  
+**InsideView uses IP addresses to help diagnose problems with our servers and to administer the Site. Generally, IP addresses tell us the location from which a person is connecting to us, what service provider the person is using, and which parts of the Site the User is visiting. We reserve the right to track IP addresses for the purposes of fraud prevention, and We reserve the right to release IP addresses to legal authorities.
 
-The third party may contact us to request that we remove his/her/its information from our lead referral contact list. See the [Contacting Us](http://www.insideview.com/privacy-policy/#contact) section of this Policy for contact details.
+**Behavioral Targeting / Re-targeting  
+**We partner with a third party ad network to either display advertising on our Site or to manage our advertising on other websites.  Our ad network partner uses cookies or similar technologies to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](https://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-**Usage Data We Gather  
-**We also receive and store certain types of information whenever an individual (subscriber or visitor) interacts with our Site. InsideView automatically receives and records information on its server logs from the individual’s browser including the individual’s IP address, browser type, date/time stamp, InsideView cookie information, the page(s) that the individual requested, internet service provider, operating system, clickstream data and the referring/exit pages. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you and site functionality.
+**To whom We may Disclose Information _  
+_** In certain situations, InsideView may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-**Cookies and Other Tracking Technologies  
-**Technologies such as cookies, beacons, tags and scripts or similar technologies
+InsideView may need or be required by law or legal process to disclose information about visitors, subscribers or Profiles to third parties. This includes: (a) to actual or potential parties to a lawsuit that InsideView is or may become involved in as required by law and when We believe that disclosure is necessary to protect our rights; (b) to comply with a facially valid judicial or governmental subpoena, warrant, or other order or legal process served on InsideView by a court or a government institution that has asserted its lawful authority to obtain the information; (c) if InsideView reasonably believes that such disclosures will potentially mitigate its liability; or (d) to enforce or defend its rights or any of its policies (such as the Terms of Use Agreement). Except in cases where prohibited by law enforcement agents or judicial decree, InsideView will inform the affected Customer(s) of such disclosures.
 
-are used by InsideView and our analytics/service providers. These technologies are used in analyzing trends, administering the Site, tracking users’ movements around the Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+**Disclosure to Service Providers  
+**InsideView may engage third parties to perform necessary business functions on its behalf, such as outside contractors or service providers (e.g. hosting company, consultants) for example, in connection with communications to users, payment processing and other aspects of Site operations. If it is necessary to perform their functions, these third parties may have access to Individual or Company information or Profiles. These third parties are required not to use any information or Profile for any purpose other than to provide services to InsideView. They are also required to protect the information and Profiles with adequate reasonable security measures.  Transfers to subsequent third parties are covered by the service agreements with Our customers.
 
-Cookies are small amounts of data sent to an individual’s browser from the InsideView Web servers and stored on the individual’s hard drive. InsideView uses cookies to deliver content specific to the individual’s interests and to keep track of user names and passwords during user sessions. An individual can control the use of cookies at the individual browser level. If an individual chooses not to accept cookies, his or her ability to use InsideView might be limited. We do not link the information we store in cookies to any personal information.
+**Transfer to Acquirer or Successor Entity  
+**Finally, if InsideView sells a substantial portion of its assets or is acquired, reorganized, merged into another entity, goes out of business or enters bankruptcy, it is likely that subscriber, Profile and other business information (including the Database) will be one of the business assets transferred in connection with such a transaction. You acknowledge that such transfers may occur and that any acquirer or successor of InsideView or its assets may continue to use your personal information as set forth in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-Generally, our Service automatically collects usage information, such as the numbers and frequency of visitors to our Site and its components, similar to TV ratings that indicate how many people watched a particular show
+**Frames  
+**Some of our pages utilize framing techniques to serve content from our partners while preserving the look and feel of our Site. Please be aware that you are providing your personal information to these third parties and not to InsideView or [insideview.com](https://www.insideview.com/). ** **
 
-Our third party tracking utility companies employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), which they use in combination with their cookies. These beacons help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. The use of clear gifs by our tracking utility company is not covered by our privacy policy. We do not tie the information gathered by clear gifs to our subscribers’ personal information. To manage local shared objects (“LSOs”), visit <https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
+**Import Contacts  
+**You can import contacts from your Outlook or other email account address book to share connections with other Subscribers within your account. This is completely voluntary and these contacts remain confidential and are not shared beyond your account.
 
-**Correspondence  
-**If an individual corresponds with InsideView via email, or other method regarding his or her activities or postings on the Site, InsideView will treat that email or other correspondence as ordinary business correspondence and will retain it according to its standard corporate information retention policies.
+**Outbound Links  
+**InsideView contains links for subscribers to access other (third party) sites. InsideView is not responsible for the privacy practices or the content of such websites. We encourage subscribers to review the terms, conditions and policies of such third party websites.
+
+**Social Media Features  
+**Our Site and/or Service may include Social Media Features, such as the Facebook Like button and hosted apps that launch the social media sites. These Features may collect your IP address and which page you are visiting on our site and may set a cookie in order to enable the Feature to function properly. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**Frames  
+**Some of our pages utilize framing techniques to serve content from our partners while preserving the look and feel of our Site. Please be aware that you are providing your personal information to these third parties and not to [insideview.com](https://www.insideview.com/). ** **
+
+**Import Contacts  
+**You can import contacts from your Outlook or other email account address book to share connections with other Subscribers within your account. This is completely voluntary and these contacts remain confidential and are not shared beyond your account.
+
+**Outbound Links  
+**InsideView contains links for subscribers to access other sites. InsideView is not responsible for the privacy practices or the content of such Web sites. We encourage subscribers to review the policies of these sites.
+
+**Social Media Features  
+**Our Web site includes Social Media Features, such as the Facebook Like button and hosted apps that launch the social media sites. These Features may collect your IP address and which page you are visiting on our site and may set a cookie in order to enable the Feature to function properly. Your interactions with these Features are governed by the privacy policy of the company providing it. 
