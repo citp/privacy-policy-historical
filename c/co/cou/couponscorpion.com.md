@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponscorpion.com privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217025538id_/https%3A//couponscorpion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponscorpion.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409151832id_/https%3A//couponscorpion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupon Scorpion
 
@@ -7,6 +7,14 @@ This privacy policy sets out how CouponScorpion.com uses and protects any inform
 CouponScorpion.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 CouponScorpion.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 4/12/2016.
+
+**Ezoic**
+
+This site utilizes the advertising services of Ezoic.com. Read the specific privacy policy [here](https://g.ezoic.net/privacy/couponscorpion.com).
+
+**Facebook**
+
+We use a Facebook pixel on this site so that we are able to show you ads that may be of interest to you. If you would like to opt out then please [update your settings on Facebook](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen).
 
 **What we collect**
 
@@ -59,6 +67,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 4561 Hamill Avenue, San Diego, CA 92111, USA.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us via our [contact page](https://couponscorpion.com/contact/).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
