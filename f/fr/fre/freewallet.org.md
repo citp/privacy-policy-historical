@@ -1,89 +1,72 @@
-> *The following text is extracted and transformed from the freewallet.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612231004id_/https%3A//freewallet.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewallet.org privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410004704id_/https%3A//freewallet.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our app. 
+This Privacy Policy ("Policy") describes our policies regarding the collection, usage, protection and processing of personally identifiable information received from Users ("User", "You") of the https://freewallet.org/ and its related applications and services ("Wallet", "We", "Our" or "Us").
 
-### What personal information do we collect from the people that visit our blog, website or app?
+We encourage you to read our Privacy Policy carefully before using our Wallet. We do not collect any information that may identify You without your permission. However by using the Wallet, you give us a consent and permission to collect, store and use the information about you, including your personal information, as prescribed by this Policy. You acknowledge and agree that such personal information may be transferred to and stored on the servers of the Wallet and the servers of authorized third parties.
 
-When ordering or registering in our app, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience. 
+1\. We may collect the information provided or generated whenever the User takes any action in our Wallet or omits to do it or otherwise uses Our services, such as without limitation:
 
-### When do we collect information?
-
-We collect information from you when you register in our app, Open a Support Ticket or edit information in the app. 
-
-### How do we use your information?
-
-We may use the information we collect from you when you register, make a money transfer, sign up for our newsletter, respond to a survey or marketing communication, or use certain other app features in the following ways: 
-
-  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions. 
+  * Information about yourself, which You may provide to Us, including, but not limited to the name, email address, mailing address, phone number, alias, password and photo used by you as an identifier of your account, that allow us to designate the specific wallet to you and provide you with the exclusive access to your funds.;
+  * IP address to identify the session and allow you to terminate the session that doesn’t belong to you;
+  * Cookies. Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to Your browser from the Wallet and stored on Your computer's hard drive. Like many Wallets, We use "cookies" to collect information. We use cookies on our Wallet to collect data about Your visit and to allow You to navigate from page to page without necessity to re-login each time, count visits, and see which areas and features of our Wallet are popular. You can control and/or delete cookies if you wish. You can delete all cookies that are already on Your computer and You can set most browsers to prevent them from being stored therein. If You do this, however, You may have to manually adjust some preferences every time You visit the Wallet and some services and functionalities may not work;
+  * The type (including identifiers) of the device of the mobile devices You use with the Wallet, platform type, geolocation information, internet service, operating system, browser, browser language etc. to provide the best service and identify possible issues with particular type of device or operating system or language;
+  * In-Wallet behavioral information such as without limitation Your visits of the Wallet, clicks on ads or other similar information including additional related data (or metadata), such as the time, date, and location related to such behavior. That information would help you to regain access to your wallet in case you lose your device or forget the password. It also allow us to analyse the usage of our wallet and may help us to design the better UI in the wallet;
+  * We use Google Analytics in Our Wallet. For more information about Google Analytics and its “do not track” policy, please visit <https://www.google.com/analytics/terms/us.html>
 
 
 
-###  How do we protect visitor information? 
+2\. We share some personal information with certain providers that perform services on our behalf. We only share the personal information which is necessary for them to perform those services. We require any provider with which we may share personal information to protect that data in a manner consistent with this policy and to limit the use of such personal information to the performance of services for Freewallet. Please note that those providers have its’ own privacy policies which will govern the shared information and which are available at the links below. In particular, we may share some information with:
 
-We do not use vulnerability scanning and/or scanning to PCI standards.  
-We never ask for personal or private information like ID or credit card numbers.   
-We use regular Malware Scanning. 
+Who | Information | Purpose | Privacy Policy  
+---|---|---|---  
+Firebase | 
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+  * Log information 
+    * device event information such as crashes, system activity, hardware settings, browser type, browser language.
+    * cookies that may uniquely identify browser or Google Account.
+  * Location information
+  * Unique application numbers
+  * Local storage
+  * Cookies and similar technologies
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information. 
+| for tracking installs and in-app user impersonalized behavior | <https://www.google.com/analytics/terms/us.html>  
+Appsflyer | 
 
-### Third-party disclosure
+  * unique identifiers and technical data, such as IP address, User agent, IDFA (Identifier For Advertisers) or Android ID (in Android devices);
+  * technical data regarding the End User’s operating system, device attributes and settings, applications, advertising opt-out signals, Google Advertiser ID, in-app events, device motion parameters and carrier
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+| for tracking installs and in-app user impersonalized behavior | <https://www.appsflyer.com/product/gdpr>  
+Changelly | User wallet address, transaction hash | Crypto assets exchange | <https://changelly.com/terms-of-use>  
+Bitrefill | Phone number to top up | top up phone |  <https://www.bitrefill.com/terms/>   
+<https://www.bitrefill.com/privacy/>  
+  
+3\. We implement a variety of security measures when You enter, submit, or access to our Wallet in order to maintain the safety of Your personal information. We do not use vulnerability scanning and/or scanning to PCI standards. We use regular malware scanning. Your personal information is contained behind secured networks and is only accessible by a limited number of staff who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information You supply is encrypted via Secure Socket Layer (SSL) technology.
 
-### Third-party links
+4\. Without prejudice to Our efforts on protection of Your information nothing herein constitutes a warranty of security of the Wallet, and You agree to transmit information at Your own risk. Please note, that the Wallet does not guarantee that Your information may not be accessed, disclosed, altered, or destroyed by breach of any of Our physical, technical, or managerial safeguards.
 
-Occasionally, at our discretion, we may include or offer third-party products or services in our app. These third-party providers have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked services. Nonetheless, we seek to protect the integrity of our app and welcome any feedback about these services.
+5\. We may use the information we collect from You in any ways in order to:
 
-### California Online Privacy Protection Act
+  * Deliver the type of content and product in which You are interested in;
+  * Improve customer service;
+  * Quickly process Your transactions;
+  * Provide responses to official requests of competent authorities;
+  * Send information and updates pertaining to Your use of the Wallet via periodic e-mails;
+  * Help you to regain the access to your wallet in case of lost devices or forgotten password.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. 
 
-See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
-### According to CalOPPA we agree to the following:
+6\. Notwithstanding anything to the contrary in this Privacy Policy, We may preserve or disclose Your information if we believe that it is reasonably necessary to comply with a law, regulation, legal process, or governmental request; to protect the safety of any person or assets and rights related thereto; to address fraud, security or technical issues. The Wallet may in particular share Your personal information with law enforcement, data protection authorities, government officials, and other authorities only when the Wallet is legally bound to do so or has to protect the safety of users and the Wallet.
 
-Users can visit our app anonymously by removing personal info from their account. Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our app or website. Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
+7\. You acknowledge and agree that the Wallet is not liable for any illegal or abusive use of Your information. You acknowledge and agree, that in case You share Your information from the Wallet in social or other networks, or other third-party sites and/or platforms, your information is subject to privacy policies of such third-party resources.
 
-Users will be notified of any privacy policy changes on our Privacy Policy Page. Users are able to change their personal information by logging in to their account and edeting their personal data.
+8\. The information which is no longer identifiable is eligible to be transferred to and to be shared with the third parties such as without limitation Our services' providers or advertising partners.
 
-### How does our app handle do not track signals?
+9\. We may, at Our sole discretion, include or offer third-party products or services in the Wallet. These third-party providers have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked services.
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+10\. In case You are EU citizen and want to exercise rights enshrined in art. 15 of GDPR, please write Us at [info@freewallet.org](mailto:info@freewallet.org) e-mail. You may reach the CB Data Protection Officer at [dpo@freewallet.org](mailto:dpo@freewallet.org)
 
-### Does our app allow third-party behavioral tracking?
+11\. The wallet may update this Policy at any time. We will notify you on any changes prior to the date when they become effective by email (sent to the e-mail address specified in your account) or in the announcement in the wallet or on the website.
 
-It's also important to note that we allow third-party behavioral tracking. We use Google Analytics to track user activity. All the tracked data is not personal. 
-
-### COPPA (Children Online Privacy Protection Act)
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.   
-We do not specifically market to children under 13.
-
-### Fair Information Practices
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. 
-
-### In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-
-We will notify the users via in-app notification within 7 business days.  
-We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-### CAN SPAM Act
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. 
-
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-[https://freewallet.org](https://freewallet.org/)  
-Beta payment solutions Inc  
-Corner Hutson & Eyre Street, Blake Building, Suite 302,  
-Belize City  
-[info@freewallet.org](mailto:%20info@freewallet.org)
+12\. If there are any questions regarding this Policy or feedback related thereto You may contact Us using the [info@freewallet.org](mailto:info@freewallet.org) e-mail.
