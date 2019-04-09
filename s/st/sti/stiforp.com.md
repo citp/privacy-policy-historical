@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stiforp.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113143502id_/https%3A//www.stiforp.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stiforp.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409033926id_/https%3A//www.stiforp.com/privacyPolicy) for the most accurate reproduction.*
 
 # stiforP :: Privacy Policy
 
