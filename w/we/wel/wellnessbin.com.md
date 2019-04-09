@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellnessbin.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727183138id_/http%3A//www.wellnessbin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellnessbin.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409020944id_/https%3A//www.wellnessbin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Wellnessbin
 
