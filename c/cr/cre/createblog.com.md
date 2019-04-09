@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createblog.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928031445id_/https%3A//www.createblog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createblog.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410001755id_/https%3A//www.createblog.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CreateBlog
 
