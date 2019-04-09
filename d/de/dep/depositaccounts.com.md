@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depositaccounts.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218144535id_/https%3A//www.depositaccounts.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depositaccounts.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409223743id_/https%3A//www.depositaccounts.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
