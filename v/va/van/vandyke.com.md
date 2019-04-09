@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106191340id_/https%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409201848id_/https%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.*
 
 # VanDyke Software - Privacy
 
