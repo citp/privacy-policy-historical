@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandpointcontent.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219144129id_/http%3A//brandpointcontent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandpointcontent.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409024957id_/https%3A//www.brandpointcontent.com/privacy-policy) for the most accurate reproduction.*
 
 # BrandpointContent - Privacy Policy
 
@@ -41,7 +41,7 @@ What is a cookie?
 A cookie is a small data file that certain Web sites write to your computer’s hard drive when you visit them. BrandpointContent will only use cookies to make your experience at our Web site more pleasant and never to track personally identifiable information about you. It is used for automatic login - so you don’t need to login each time you view an article. A cookie cannot read data off your hard disk or read cookie files created by other sites.
 
 Can I eliminate my information from BrandpointContent’s database?  
-Yes. BrandpointContent’s Opt-Out Policy is this: If at any time you would like to discontinue your relationship or part of your relationship with BrandpointContent, simply contact us at mediarelations@BrandpointContent.com to be removed.
+Yes. BrandpointContent’s Opt-Out Policy is this: If at any time you would like to discontinue your relationship or part of your relationship with BrandpointContent, simply contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to be removed.
 
 Can I update my information with BrandpointContent?  
 If at any time you believe the information submitted to or collected by BrandpointContent is in any way incorrect, simply update your information under the ’My Account’ link located on the upper right of the screen.
@@ -59,7 +59,7 @@ Data Security
 We take steps to protect personal information about you when we receive and store it. We have security measures in place to protect against the loss, misuse or alteration of the information under our control. We limit and control the number of employees who have access to this website’s servers and databases. You agree, however, that no organization can promise perfect security, and that we are not responsible for the illegal acts of third parties.
 
 Contact Us  
-If you have questions or comments about this Privacy Policy, please contact us info@brandpoint.com or send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following address: 
+If you have questions or comments about this Privacy Policy, please contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following address: 
 
 Privacy Officer, ARANet, Inc.  
 850 Fifth Street South,   
