@@ -1,124 +1,457 @@
-> *The following text is extracted and transformed from the katespade.co.uk privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212232927id_/http%3A//www.katespade.co.uk/uk/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katespade.co.uk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410124940id_/https%3A//www.katespade.co.uk/en-gb/customer-care/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy | Customer Service UK | Kate Spade New York
 
-  * ### FAQ
+1.             Who are we?
 
-  * ### ORDERING
+2.             What data is covered by this Privacy Notice?
 
-  * ### PAYMENT
+3.             What data do we collect from you?
 
-  * ### SHIPPING
+4.             How do we use your personal data?
 
-  * ### YOUR ORDER
+5.             How do we use cookies?
 
-  * ### RETURNS
+6.             With which third parties do we share your personal data?
 
-  * ### GIFT SERVICES
+7.             Do we transfer personal data outside the EEA?
 
-  * ### YOUR ACCOUNT
+8.             What are your rights?
 
-  * ### CORPORATE
+9.             How do we protect your personal data?
 
-  * ### PRIVACY & SECURITY 
+10.           How long do we keep your personal data?
 
-  * ### PRODUCT INFORMATION AND CARE
+11.           How can you contact us?
+
+12.           Which version of this Privacy Notice applies?
+
+Tapestry Inc. and its affiliated companies (collectively "Tapestry", "we" or "us"), including Coach Stores Limited operating Kate Spade (“Kate Spade”) are committed to protecting your privacy and ensuring the highest level of security for your personal data.
+
+Tapestry and Kate Spade have prepared this Privacy Notice for:
+
+  * in-store and online customers including potential customers and consumers (for example, individuals who have signed up to any of Kate Spade’s marketing messages); and
+  * visitors of www.katespade.co.uk and any successor website or application thereto (collectively referred to as the " **website** ").
 
 
 
+This Privacy Notice explains the types of personal data Tapestry and Kate Spade collects about you, how we use that data, who we share it with, and how we protect it.
 
-### Need Help ?
+Please read the following carefully to understand Tapestry's views and practices regarding your personal data.
 
-If you have any questions or need help please give us a call at   
-[ 0800 240 4320 ](tel:0800 240 4320)   
-8am - 8pm monday to friday,   
-10am - 6pm saturday & sunday.   
-calls made to 0800 240 4320 may be subject to a charge.
+**1.               Who are we?**
 
-last updated jan 16th, 2017
+For the purposes of applicable data protection laws, the responsible party is Tapestry Inc. of 10 Hudson Yards, New York, NY, 10001, U.S.A. and Coach Stores Limited, 2 Cavendish Square, London, W1G 0PU, United Kingdom.  
 
-this privacy policy applies to your use of the website located at www.katespade.co.uk, for purposes of this privacy policy, "company", "we" or "us") that are related to www.katespade.co.uk (collectively, the "site") (unless a different policy is provided on a particular site or application, in which case such different policy shall apply). company operates the "site"; and has created this privacy policy to inform you what information we collect on the site, how we use your information and the choices you have about the way your information is collected and used. please read this privacy policy carefully. your use of the site indicates that you have read and accepted our privacy practices, as outlined in this privacy policy. in addition, please read our terms of use which also govern your use of this site. please be advised that the practices described in this privacy policy apply to information gathered by us or our subsidiaries, affiliates or agents: (i) through this site, (ii) where applicable, through our customer service department in connection with this site, (iii) through our free-standing retail stores, and (iv) through sweepstakes and other promotional programs.
+**2.               What data is covered by this Privacy Notice?**
 
-we reserve the right to modify, update, add to, discontinue, remove or otherwise change any portion of this privacy policy, in whole or in part, at any time. when we amend this privacy policy, we will revise the "last updated" date located at the top of this privacy policy. for changes to this privacy policy that we consider to be material, we will place a notice on www.katespade.co.uk by revising the link on the home page to read substantially as "updated privacy policy" for a reasonable amount of time. if you provide information to us or access or use the site in any way after this privacy policy has been changed, you will be deemed to have consented and agreed to such changes. the most current version of this privacy policy will be available on the site and will supersede all previous versions of this privacy policy.
+This Privacy Notice covers all personal data processed by Tapestry and Kate Spade which means information (either in isolation or in combination with other information) that enables Tapestry to identify you directly or indirectly. This includes the types of information set out below. 
 
-if you have any questions regarding this privacy policy, you should contact our customer service department by email at [customer_care@katespade.eu](mailto:customer_care@katespade.eu.).
+**3.               What data do we collect from you?**
 
-as explained in more detail below, we may allow ad exchanges, web analytics vendors, social networking platforms and other third-parties to collect certain data and anonymous information when you visit our site. These companies may use anonymous information (e.g., search and click stream information, browser type, time and date, the identity or type of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. by way of example, these companies may use a cookie or web beacon to collect this information. our site does not recognize browser "do not track" signals, and we can't always control third party cookies stored on your machine from visiting our site, but you may visit the relevant third party's website directly to manage cookies stored on your machine by them, and several of our service providers who utilize these cookies or beacons on our site enable you to opt out of this behavioural advertising. to learn more about how to opt out of the behavioural advertising conducted by these providers you can visit <http://www.youronlinechoices.com/uk>
+We may collect data about you from the following sources:
 
-## what information about me is collected and stored?
+1\. Information we receive from you
 
-personal data ("pd") is data which relates to a living individual who can be identified from those data, or from those data and other information which is in the possession of, or is likely to come into our possession (such as your real name, address, phone number or email address). for example, when you create an account with us, your account information is stored on this site's server. we may also ask you to provide us with certain pd in connection with the use of the site, in connection with the services provided by our customer service department, in connection with a brick and mortar transaction (except where prohibited by law) or in connection with an off-line promotion or sweepstakes. for example, we may ask you to provide certain pd when you register with us, place an order on the site, choose to sign up for an email newsletter, or participate in a promotional event. this information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. this information may also be used to contact you about sales, special offers and new website features, unless you have opted not to receive promotional communications in connection with this Site. You can opt out by contacting our customer service department by email at customer_care@katespade.eu. we may also ask you to provide us with demographic information, information regarding your interests or similar information. providing us with information about yourself is voluntary, and you can always choose not to provide certain information, but then you may not be able to take advantage of or participate in some of the site's features. we do not collect pd through third party advertisements on our site and the pd we collect is not sold to third parties.
+We may collect personal data (such as your name, postal and email address, telephone number, nationality, birth day and month, payment card information,  or other personal characteristics or preferences) that you provide when you interact with us such as when you:
 
-usage information: when your computer contacts our web servers (for example, when you visit this site, or view an html e-mail), our web servers automatically collect site usage information. site usage information is anonymous information that describes how our visitors use and navigate our site. it can include the number and frequency of visitors to each webpage and the length of their stays, browser type, referrer data that identifies the web page visited prior and subsequent to visiting our site, and ip addresses (see below for more information on ip addresses). we also may determine the applicable technology available in order to serve you the most appropriate version of a web page, e-mail or similar service. this information is used to analyze and improve this site and to provide our customers with a fulfilling shopping experience.
+  * buy our products online;
+  * register to our online account;
+  * fill in our in-store customer card (e.g. to hear from us about our products and initiatives, to find out how to participate to our in-store events, competitions or promotions);
+  * request product customisation;
+  * sign up to our marketing lists or other marketing initiatives such as sweepstakes and surveys;
+  * contact our Customer Service (e.g. via phone, email, chat, SMS) and subsequently correspond with us; and
+  * submit a product review on any of our websites.
 
-browser cookies: like many websites, we may use browser "cookies". cookies are a website's way of remembering who you are. a cookie is a small text file that is stored on your computer's hard drive or stored temporarily in your computer's memory. there are two kinds of cookies: those that are "session" oriented and those that are "persistent". session cookies delete from your computer when you close your browser. persistent cookies retain information for later use tomorrow, next week, next month, or whenever they are set to expire. we use cookies to help us to identify account holders and to optimize their experience on our site. also, we will use cookies to monitor and maintain information about your use of this site. most web browsers accept cookies automatically. you can delete cookies manually or set your browser to automatically delete cookies on a pre-determined schedule. for example, in the internet explorer menu bar, select: tools>internet options>browsing history>delete to view manual and automatic options. if you decline to accept cookies, you may not be able to take advantage of or participate in certain features of this site.
 
-flash cookies: our site may enable the use of the adobe flash player. adobe's flash player is used by many websites that offer video and other interactive content. by default, your use of the adobe flash player generates "flash cookies" (also known as "persistent identification elements" or "local shared objects"). adobe provides a short disclosure about flash cookies in its end user license agreement, stating "use of the web players, specifically the flash player, will enable the software to store certain user settings as a local shared object on our computer. these settings are not associated with you, but allow you to configure certain settings within the flash player". the adobe flash player (and similar applications) use flash cookies to remember user settings, preferences and usage similar to the browser cookies referenced above, but flash cookies can store more information than browser cookies and are managed through a different interface than the one provided by your web browser. you can control the degree to which you accept flash cookies by accessing your adobe flash player management tools directly through the settings manager for adobe flash, located at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. if you do not allow flash cookies to take any space on your computer or device, you may not be able to take advantage of or participate in certain features on the site. as of the "last updated" date of this privacy policy, users with a computer running the windows operating system can view flash cookie files by clicking Start > Settings > Control Panel > Flash Payer. and users with a computer running the Apple operating system can view flash cookie files by selecting System Preferences (under Other) and clicking on Flash Player.. flash cookies, or lso files are stored typically with an ".SOL" extension. to the extent the Google Display Network does not allow flash cookies to be used for behavioural advertising, ad delivery, or multi-site advertising, company conforms to that.
 
-The adobe flash player is not the only technology being used in the ever-shifting online and mobile content environment. HTML5 is an increasingly popular web standard used for presenting content, especially content delivered to mobile devices. HTML is the mark-up language used for the world wide web. almost all web pages you visit on the Internet are based around HTML code. HTML5 is simply the fifth and latest iteration of this mark-up language that allows for more interactive web pages. one of the real benefits of HTML5 is its potential to standardize the highly fragmented rich-media universe. some HTML5 code may allow your response to advertising and other activities to be monitored across websites and such information to be stored on your computer or mobile device. technology solutions that allow users to opt-out of or block this sort of tracking are being developed through browser add-ons and other tools. to the extent the Google Display Network does not allow HTML5 local storage to be used for behavioural advertising, ad delivery, or multi-site advertising, company conforms to that.
+2\. Information we collect about you
 
-use of web beacons: our web pages or e-mail messages may contain a small graphic image called a web beacon, which is sometimes also called a "clear gif", that allows us to monitor and collect certain limited information about our users, such as the type of browser requesting the web beacon, the ip address of the computer that the web beacon is sent to and the time the web beacon was viewed. web beacons can be very small or invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail, including html based content, can act as a web beacon. we may use web beacons to count visitors to our web pages or to monitor how our users navigate our site, and we may include web beacons in e-mail messages in order to count how many messages we sent were actually opened or acted upon. we use web beacons to compile aggregate statistics about our site and our marketing campaigns.
+We collect information about you from the following sources:
 
-use of ip addresses: an ip address is a number that is assigned to your computer or network when you are linked to the internet. when you request pages from this site, our servers log your ip address. we may use ip address for a number of purposes, such as system administration, to report aggregate information to our business partners or to audit the use of the site. we may associate your ip address with the pd you provide.
+  * your customer transactions trail and purchase history;
+  * your social media interactions with us (e.g. if you "like" or "share" something you see on our social media platforms);
+  * your use of our website and other third-party websites on which you may be displayed our adverts. In particular, we may collect:
 
-we also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
 
-opting out of the use of tracking mechanisms that retain pd. you always have the option of "opting out" of company's use of cookies, web beacons or other tracking mechanisms. Choosing to opt out means your browser will no longer be associated with a unique cookie, but will instead store a non-unique cookie value of "ID=OPT_OUT". By opting out, you have not disabled the cookie functionality within your browser, you will continue to retain an anonymous cookie. cookies are specific to your browser. If you use multiple types of browsers on one computer (e.g., Internet Explorer and Netscape Navigator) you will need to opt out separately for each browser. Cookies are also unique to each computer. therefore you must opt out separately on all computers you use. If you delete all of your cookies, you will be deleting the "Opt Out" cookie, and will therefore have to go through the opt out process again to reactivate your opted-out status. If you wish to opt out of these practices, you can do so by clicking [media.katespade.com/optout.html](http://media.katespade.com/optout.html).
+  * technical information, including your IP address, browser type and version, device identifier, location and time zone setting, network and/or service provider, operating system and platform, page response times, and download errors;
+  * information about your visit, including the websites you visit before and after our website and products you viewed or searched for; and
+  * length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouseovers) and methods used to browse away from the page.
 
-## is information collected from children?
 
-we do not knowingly sell or ship any items ordered through this website directly to anyone who we know to be under the age of 16, nor do we collect any pd from anyone who we know to be under the age of 16. if you are under the age of 18, you should use this website only with the involvement of a parent or guardian and should not submit any pd to us. if we discover that a person under the age of 16 has provided kate spade with pd, kate spade will use commercially reasonable efforts to delete such person's pd from its system.
 
-## company's use and disclosure of collected information
+ To learn more about our purposes of use of cookies or similar digital tracking technologies (used to collect the information above), please see "How do we use cookies?" below.
 
-use by company: we may use your pd to provide you with requested information, services or content, to contact you in connection with a promotion, or for other purposes disclosed when you provide the information. we may also contact you from time to time on behalf of one of our affiliated companies or an external business partner who offers similar products and services to us with information that may be of interest to you. we may also contact you regarding any problems or questions we have relating to your use of our website, or notify you of changes to our privacy policy, terms of use or other policy or terms that affect you and your use of our website. we may also use information about our users, including pd, for internal purposes.
+  * your interaction with our marketing emails to measure marketing effectiveness (for example, we collect information about whether / when you have opened an email from us, and if you have clicked a link in the email or forwarded the email);
+  * your interactions with our online adverts to measure advertisement effectiveness;
+  * the in-store capture cards which you may  fill in and return to us during one of your visits to our stores;
+  * the CCTV footages recorded in our stores; and
+  * information we draw from our sources listed above and information we obtain from third parties (including publicly available information) where we have a legal basis to do so. We combine all this information to better understand who you are, your preferences etc. to enhance your customer experience with us (at "How do we use your personal data?").
 
-## with whom does company share information?
 
-we may provide information to select outside companies when we believe their products or services may be of interest to you. if you opt in to receive communications from a third party, your information will be subject to the third party's privacy policy and not this privacy policy. therefore, if you later decide that you do not want that third party to use your information, you will need to contact the third party directly. In addition, company may share your pd with third parties under the following circumstances:
 
-third parties providing services on our behalf: we may engage third parties to perform services in connection with the operation of our business. examples of these services include: (a) payment processing and authorization, (b) fraud protection and credit risk reduction, (c) product customization, (d) order fulfilment, (e) shipping, (f) marketing and promotional material distribution, (g) site evaluation, and (h) data collection, storage, management, analysis and, where applicable, cleansing. these third parties may have access to this site's user information, including pd, to the extent it is needed to perform their duties and functions. We also provide some pd (including your email address) to third parties which provide services on our behalf such as Facebook, Google and Criteo, for the purposes of displaying advertisements regarding our products and services which may be of interest to you when you visit and/or log on to the third party's site. 
+**4.               How do we use your personal data?**
 
-company's security: we may release information about our users, including pd, when legally required to do so, at the request of governmental authorities conducting an investigation, or to verify or enforce compliance with the policies governing our site and applicable laws. we may also disclose such user information whenever we believe disclosure is necessary to protect the rights, property or safety of company or any of our respective affiliates, business partners, customers or others.
+| 
 
-aggregate information: we may disclose anonymous aggregated user statistics to third parties for a variety of purposes, including describing our services to prospective partners and other third parties. examples of such anonymous information include the number of users who visited this site during a specific time period or purchased a specific product through this site.
+We use your personal data for the following purpose(s):
 
-promotions: if you choose to enter a contest, sweepstakes or promotion, your pd may be disclosed to third parties in connection with such promotion, including without limitation for purposes of posting your entry with attribution or otherwise as permitted in the official rules for the promotion in question, fulfilling your prize or including your name on a winners list. also, by entering a promotion, we may request that you to consent to the use of your pd or other information, such as name, voice or likeness, in advertising, promotional and marketing materials. in addition, we may offer certain promotional content, such as a sweepstakes, sponsored by or co-branded with a third party, who may obtain the pd that you submit.
+| 
 
-corporate change: in addition, we reserve the right to disclose, share and/or otherwise transfer user information, including without limitation pd, in connection with a corporate merger, acquisition, consolidation, the sale of a portion of our business or the sale of substantially all of company's assets, or other fundamental corporate change, whatever form it may take. you will be notified via e-mail or prominent notice on our site prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. company may transfer or share a copy of pd collected from this web site, off-line or otherwise, to the buyer of that portion of its business relating to that information.
+Based on the following justification:  
+  
+---|---|---  
+  
+1
 
-## what steps are taken to keep personal information secure?
+| 
 
-we use a security protocol that is common in the industry for encrypting sensitive information and personal information that we collect. If you place an order through this site, you will be asked to set up an account and provide an email address and password. you must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. if you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our customer service department by email at [customer_care@katespade.eu](mailto:customer_care@katespade.eu)
+Process your online payment and complete your online purchase with us.
 
-we strive to ensure the security of your pd on our systems, including limiting access to the pd contained on our servers. whenever you give company sensitive or confidential information, that information is transmitted through a secure connection with your web browser. unfortunately, no security measures are perfect or impenetrable and no data transmission over the internet can be guaranteed to be 100% secure. company cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. we cannot ensure the security of any information you transmit to company and you do so at your own risk.
+| 
 
-## your choices/unsubscribe
+Necessary to perform your purchase contract with us.  
+  
+2
 
-you can unsubscribe from receiving promotional material from this site by clicking on an "unsubscribe" hyperlink contained in promotional emails we send to you. additionally you can also email us at customer_care@katespade.eu or write to us at kate spade new york, attn: customer service, 182 regent street, london, w1b 5th. If you no longer wish to receive Kate Spade advertisements when you log in to certain third party sites, such as Facebook and Google you will need to change your settings on that site. If you no longer want us to share your email address with certain third parties for the purposes of that site displaying specific advertisements to you, please unsubscribe from our marketing email list by emailing us at customer_care@katespade.eu or writing to us at kate spade new york, attn: customer service, 182 regent street, london, w1b 5th. Please note that if you request that we no longer share your email address with certain third party sites, you may still receive Kate Spade advertisements unless you change your settings on that site. because customer lists are often prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers and online advertisements after you send us a request not to use your information for specified marketing purposes. we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately. we appreciate your patience and understanding in giving us time to carry out your request.
+| 
 
-even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. in In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
+Create your personal account on our website and enable your access to such account.
 
-if you want to opt out of having your pd shared with third parties for marketing purposes, you must opt-out at each of our sites where you register and whenever you provide pd to us. please bear in mind that this opt-out choice for "third parties" will not apply to company, company licensees and/or co-branding participants, as described below. please also keep in mind that any opt-out choices you make will not apply in situations where (a) you either have made, simultaneously make, or later make a specific request for information from us, or (b) company uses your pd for either operational purposes (e.g. to complete transactions requested by you, or to send you administrative communications either about your account with us or about features of our sites, including any future changes to this privacy policy, the terms of use, or any other policy or terms that affect you and your use of our site) or fulfilment purposes (e.g. sharing with companies that facilitate communications and transactions with you).
+| 
 
-finally, if you do not exercise your opt-out choices upon registration or otherwise at the time the pd is provided, it may take some time to process your opt-out choices. our systems require time to update, and promotional mailings using pd shared before your opt-out may already be in process. thus, your pd might continue to be shared with third parties for promotional purposes for some time after you make your request, for similar reasons, if your pd is shared with a third party, company largely or completely loses control over how that information is used. thus, even after you have opted out of allowing us to share your pd, you might continue to receive promotional materials from third parties unless and until you duly register your opt-out request with each third party in question.
+Necessary to perform your contract with us for the provision of the services (online personal account).  
+  
+3
 
-## what happens when i link to or from another website?
+| 
 
-please be aware that when you are navigating our website or viewing an email or other content provided by kate spade, you may have the opportunity to click on links that take you outside of kate spade's service to other websites or online content that are beyond kate spade's control. if you "click" on the link to such a third party, the "click" takes you to a third party's website or online content. we have no control over and are not responsible for the content of any third party websites to which you navigate. please be advised that the practices described in this privacy policy do not apply to information gathered through these other websites. we encourage you to be aware of when you leave this website and to read the privacy policies of each and every website that you visit.
+Use your personal account on our website including, for example, saving billing details and delivery address for future purchases, saving data to process products returns).
 
-if you have accessed this website through a link from certain of our advertising or marketing partners, this website may include a frame of the applicable advertising or marketing partner. nevertheless, the information you provide to us through these framed web pages is collected by us, and our use of this information is governed by this privacy policy.
+| 
 
-## what about online surveys?
+Necessary for our legitimate interest to provide you with an enhanced customer experience on our website (e.g. smooth and quicken your online transactions). It is also in your interest to benefit from an enhanced customer experience.
 
-we may from time to time conduct on-line surveys. when you complete an online survey, we may ask for certain information including your age, zip code, shopping habits, email and/or mailing address. this information will be treated in accordance with this privacy policy.
+For certain specific data uses (such as for processing your product returns), the use of your data is necessary to perform your contract with us.  
+  
+4
 
-## collection in and transfer to the united states
+| 
 
-this website is operated in the european union and the united states. if you are located in the european union, canada or elsewhere outside of the united states, please be aware that any information you provide to us will be collected in or transferred to the united states. by using our website, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+Personalise and optimise your online shopping experience with us (for example, recording certain information from your past purchases which can be re-used in your future purchases such as address, saving your favourite store locations)
 
-## sharing pages with friends
+| 
 
-the site may offer you the possibility to connect your accounts from third party social media sites, such as facebook and twitter, through an application programming interface (api) or other software. by allowing the site to connect with your accounts on such third party sites, you consent to our accessing the information in those accounts, which information may include pd. you likewise consent to our publishing on the site any such information or actions you take on such third party sites. additionally, you understand that by accessing the site via your social media account, activity you engage in through the site may be published on the third party site. it is your choice whether to use any such third party sites, and you understand that in some instances such third party sites may request to access and publish information about you or your friends from company.
+Necessary for our legitimate interest to provide you with an enhanced customer experience on our website. It is also in your interest to benefit from an enhanced customer experience.  
+  
+5
 
-© 2017 kate spade & company all rights reserved.
+| 
+
+Enable you to use our "gift registry” feature online (even if you are have not registered for an online account with us).
+
+| 
+
+Necessary for our legitimate interest to provide you with an enhanced customer experience on our website. It is also in your interest to benefit from an enhanced customer experience.  
+  
+|  |   
+  
+6
+
+| 
+
+Provide you with customer support for any enquiry or request related to a product you have bought.
+
+| 
+
+Necessary to perform your purchase contract with us (where customer support for certain enquiries or requests is envisaged in our contract with you).
+
+Necessary to comply with a legal obligation we are subject to (where such obligation exists which requires us to respond to a specific enquiry from you or enable the exercise of your rights, for example under consumer law).  
+  
+7
+
+| 
+
+Provide you with customer support for any enquiry or request you submit to us in relation to a product you would like to buy or a general enquiry or request.
+
+| 
+
+Necessary for our legitimate interest to establish or maintain a relationship with you. It is also in your interest to receive a response from us when you contact us.  
+  
+8
+
+| 
+
+Use the product reviews you provide on our website, or through third parties.
+
+| 
+
+Necessary for our legitimate interest to receive feedback on our products and use such feedback to improve the way we present our products on our website to other potential buyers.  
+  
+9
+
+| 
+
+Customise a product you have specifically requested.
+
+| 
+
+Necessary to perform your contract with us.  
+  
+10
+
+| 
+
+Monitor the effectiveness of our adverts online and our marketing campaigns (e.g. by monitoring if / when / how you interact with online ads or an emails you receive from us).
+
+| 
+
+Necessary for our legitimate interest to improve our marketing strategy, expand our customer base and retain current customers, and better allocate our marketing resources.  
+  
+11
+
+| 
+
+Offer targeted advertising to you which is tailored to your needs, preferences, tastes and habits.
+
+| 
+
+Necessary for our legitimate interest to show you the products we think you will mostly like from us. It is also in your interest to receive customised offers so you do not have to spend too much time browsing our broad range of products.  
+  
+13
+
+| 
+
+Contact you with communications such as emails, or by SMS (if you provide such information in our in-store capture cards or online) to tell you about your purchase our products, offers and campaigns. 
+
+| 
+
+With your consent where this is required by applicable law. Where your consent is not required by law (depending on the means of communications used), this data use is necessary for our legitimate interest to let you know about us your purchases and our products.  
+  
+14
+
+| 
+
+Perform researches and surveys about our products and customer experience, product development and product testing.
+
+| 
+
+Necessary for our legitimate interest to constantly improve our offers, products and services to you.  
+  
+15
+
+| 
+
+Enable you to take part to our contests, sweepstakes, competitions, promotions and similar events and initiatives for customers.
+
+| 
+
+Necessary to perform your contract with us (based on your written acceptance of our terms and conditions of entry to participate to such contests, sweepstakes, competitions and other promotions).
+
+Necessary for our legitimate interest to engage and retain customers, incentivise customers to buy our products or reward our customers.  
+  
+16
+
+| 
+
+Offer enhanced customisation and client care to our clienteling customers.
+
+| 
+
+Necessary for our legitimate interest to engage and retain customers, incentivise customers to buy our products or reward our customers. It is also in your interest, as a clienteling customer, to benefit from advantages and offers we offer to you.  
+  
+17
+
+| 
+
+Interact with you through our social media platforms, measure the effectiveness of our social media campaigns and perform some of the purposes above (e.g. advertising, enable you to take part to our contests, sweepstakes, surveys etc.) via social media.
+
+| 
+
+Necessary for our legitimate interest to expand and retain our customer base and promote our products also via social media.  
+  
+18
+
+| 
+
+Enable your voluntary participation to our social media campaigns, including the use of your images
+
+| 
+
+Necessary to perform your contract with us (based on your written acceptance of our terms and conditions of entry to participate to such campaigns).
+
+Necessary for our legitimate interest to expand and retain our customer base and promote our products also via social media.  
+  
+19
+
+| 
+
+Improve the functionality and user-friendliness of our website.
+
+| 
+
+Necessary for our legitimate interest to constantly monitor and improve our online presence and services to you.  
+  
+20
+
+| 
+
+Fraud detection in relation to online payments and, more generally, prevention against any illegal activity.
+
+| 
+
+Necessary to perform your contract with us (including by complying with our contractual obligations to ensure the security and confidentiality of your payment data).
+
+Necessary for our legitimate interest to prevent illegal activities which could harm you and us.  
+  
+21
+
+| 
+
+Enable a corporate transaction such as a merger or acquisition whereby data assets must be merged or transferred as part of the transaction.
+
+| 
+
+Necessary for our legitimate interest to corporate re-organisation and/or compliance with regulatory or statutory requirements.  
+  
+22
+
+| 
+
+Respond to or address enquiries or requests from law enforcement bodies, regulators or other public authorities.
+
+| 
+
+Necessary for the purposes of complying with legal requirements to which we are subject.  
+  
+Where we rely on the necessity for a legitimate interest to use your personal data, we will do so solely on the basis of a previous thorough assessment of our legitimate interest against your privacy rights and we will carefully conduct a balancing exercise to ensure that our data processing is proportionate to your rights.
+
+**5.               How do we use cookies?**
+
+As many other organisations, we use cookies or similar digital tracking technologies on our website for a number of purposes as set out below. Cookies (or other similar technologies) can be placed on our website by us or by third-party partners we engage for our purposes.
+
+Third-party cookies may be deployed on our behalf also on third-party websites (e.g. to measure ads effectiveness). Please note that we are not in control of and responsible for any cookies placed on our website by third parties without our authorization or third parties who are not acting on our behalf.
+
+We respect applicable law about cookies. In particular, we use cookies only with your authorization where this is required by applicable law. In any case, you may opt-out from cookies at any time by changing your browser settings accordingly. However, as a consequence of your opt-out, certain functions, portions or features of our website may cease working or may prevent you from fully benefiting of our online services.
+
+Categories of cookies
+
+Some cookies are deleted when you close down your browser. These are known as  **session cookies**. Others remain on your device until they expire or you delete them from your cache. These are known as  **persistent cookies**  and these types enable us to remember things about you as a returning visitor. The main categories of cookies we use include:
+
+  * **Strictly necessary cookies** : These cookies are essential in order to enable you to move around the website and use its features, and ensuring the security of your online transactions with us and online access to our website. Without these cookies services you have asked for, such as completing a transaction, cannot be provided. These cookies don’t gather information about you for the purposes of marketing.
+  * **Performance cookies** : These cookies allow us to count the number of visitors and collect information about how visitors use a web site, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor although they may collect the IP address of the device used to access the site. All information these cookies collect is anonymous and is only used to improve how a website works and the user experience. By using our websites you agree that we can place these types of cookies on your device, however you can block these cookies using your browser settings (please see "How to manage your cookies" section below).
+  * **Functionality cookies** : These cookies allow us to recognise you when you return to our website and allows the website to remember choices you make (such as your user name). They may also be used to provide services you have requested such as watching a video. The information these cookies collect is anonymised (i.e. it does not contain your name, address, account details, etc.) and they do not track your browsing activity across other websites. By using our websites you agree that we can place these types of cookies on your device, however you can block these cookies using your browser settings (please see "How to manage your cookies" section below).
+  * **First and third party cookies** : Whether a cookie is a first or third party cookie depends on which website the cookie comes from. First party cookies are those set by or on behalf of the website visited. All other cookies are third party cookies. Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+  * **Personalization cookies:** Cookies may also be used on our website to personalize your shopping experience and enable you to use certain function (such as “add to gift registry” or “save for later”, to deliver ads which might be relevant to you, or for us to conduct internal testing on what works best for our customers. 
+
+
+
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). Alternatively, you can search the Internet for other independent information on cookies.
+
+Except for strictly necessary cookies, all cookies will be kept in accordance with the principle set out in section 10 of this Privacy Notice.
+
+Purposes of use of cookies
+
+We use cookies for the following purposes:
+
+  * Enable basic functioning of our website;
+  * Web analytics to improve our website (structure, features, accessibility and usability, content) or to fix any technical issue through gathering relevant technical data;
+  * Enable certain basic functions of online browsing and shopping with us (for example, save information you generated or provided on our website such as preferred items, items placed in the cart, billing address to save time and effort when you next return to our website or shop with us);
+  * Monitor the effectiveness of our online ads and marketing (by recording your interactions with our ads on third-party websites, our social media platforms or our marketing emails); and
+  * Learn more about your preferences and Internet browsing habits to provide you with tailored advertising (you certainly don't want to hear from us about something you are not interested into).
+
+
+
+How to manage your cookies?
+
+The browsers of most computers, smartphones and other web-enabled devices are typically set up to accept cookies. If you wish to amend your cookie preferences for this website or any other websites, you can do this through your browser settings. Your browser’s ‘help’ function will tell you how to do this. If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Visit <http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html>  to see these.
+
+However, please remember that cookies are often used to enable and improve certain functions on our website. If you choose to switch certain cookies off, it is likely to affect how our website works.
+
+**6.               With which third parties do we share your personal data?**
+
+Your personal data may be shared with third parties in certain circumstances:
+
+Tapestry's group of companies: We may share your personal data among our group of companies, including our subsidiaries, head office and branches, in order to open your account with us, administer our services and products, provide you with customer support, process your payments, understand your preferences, offer targeted advertising, send you information about products and services that may be of interest to you and conduct the other activities described in this Privacy Notice.
+
+Our service providers: We use other companies, agents or contractors to perform services on our behalf or to assist us with the provision of the Tapestry services and products to you. We may share personal data with the following categories of service provider:
+
+  * infrastructure and IT service providers, including cloud service providers;
+  * marketing, advertising and communications agencies;
+  * online payment and fraud prevention service providers;
+  * delivery / logistics service providers (for home delivery of products you have bought online);
+  * external auditors and advisers (e.g. social media consulting);
+  * providers of services related to some enhanced online features such as customer review;
+  * cookie analytics providers;
+  * online advertisers; and
+  * providers of website testing / analytics services.
+
+
+
+In the course of providing such services, these service providers may have access to your personal data. However, we will only provide our service providers with personal data which is necessary for them to perform their services, and we require them not to use your information for any other purpose. We will use our best efforts to ensure that all our service providers keep your personal data secure.
+
+Third parties permitted by law: In certain circumstances, we may be required to disclose or share your personal data in order to comply with a legal or regulatory obligation (for example, we may be required to disclose personal data to the police, regulators, government agencies or to judicial or administrative authorities).
+
+We may also disclose your personal data to third parties where disclosure is both legally permissible and necessary to protect or defend our rights, matters of national security, law enforcement, to enforce our contracts or protect your rights or those of the public.
+
+Third parties connected with business transfers: We may transfer your personal data to third parties in connection with a reorganisation, restructuring, merger, acquisition or transfer of assets, provided that the receiving party agrees to treat your personal data in a manner consistent with this Privacy Notice.
+
+Please note our website may, from time to time, contain links to and from the websites of our partners or affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we have no control over how they may use your personal data. You should check the privacy policies of third party websites before you submit any personal data to them.
+
+**7.               Do we transfer personal data outside the EEA?**
+
+Your personal data may be transferred to and processed in the U.S. or other countries located outside the European Economic Area ("EEA") including Hong Kong by our affiliates and our service providers. We will take all steps that are reasonably necessary to ensure that your personal data is treated securely and in accordance with this Privacy Notice as well as applicable data protection laws, including, where relevant, by entering into EU standard contractual clauses (or equivalent measures) with the party outside the EEA.
+
+You may ask for further information on the safeguards that we have put in place to safeguard the transfer of your data to outside of the EEA by contacting us as indicated below at "How can you contact us"?
+
+**8.               What are your rights?**
+
+If you are in the European Economic area, you have the following rights:
+
+  * **Access**. You have the right to request a copy of the personal data we are processing about you. For your own privacy and security, at our discretion we may require you to prove your identity before providing the requested information...
+  * **Rectification.** You have the right to have incomplete or inaccurate personal data that we process about you rectified.
+  * **Deletion.** You have the right to request that we delete personal data that we process about you, except we are not obliged to do so if we need to retain such data in order to comply with a legal obligation or to establish, exercise or defend legal claims **.**
+  * **Restriction.** You have the right to restrict our processing of your personal data where you believe such data to be inaccurate; our processing is unlawful; or that we no longer need to process such data for a particular purpose unless we are not able to delete the data due to a legal or other obligation or because you do not wish for us to delete it.
+  * **Portability.** You have the right to obtain personal data we hold about you, in a structured, electronic format, and to transmit such data to another data controller, where this is (a) personal data which you have provided to us, and (b) if we are processing that data on the basis of your consent or to perform a contract with you.
+  * **Objection.** Where the legal justification for our processing of your personal data is our legitimate interest, you have the right to object to such processing on grounds relating to your particular situation. We will abide by your request unless we have compelling legitimate grounds for the processing which override your interests and rights, or if we need to continue to process the data for the establishment, exercise or defence of a legal claim.
+  * **Withdrawing Consent.** If you have consented to our processing of your personal data, you have the right to withdraw your consent at any time, free of charge. This includes cases where you wish to opt out from marketing messages that you receive from us.
+
+
+
+You can make a request to exercise any of these rights in relation to your personal data by contacting us as indicated below at "How can you contact us?".
+
+You also have the right to lodge a complaint with the local data protection authority if you believe that we have not complied with applicable data protection laws. Please [click here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080) for a list of local data protection authorities in the EEA countries.
+
+**9.               How do we protect your personal data?**
+
+We have implemented technical and organisational security measures to safeguard the personal data in our custody and control. Such measures include, for example, limiting access to personal data only to employees and authorised service providers who need to know such information for the purposes described in this Privacy Notice, as well as other administrative, technical and physical safeguards.
+
+While we endeavour to protect our systems, sites, operations and information against unauthorised access, use, modification and disclosure, due to the inherent nature of the Internet as an open global communications vehicle and other risk factors, we cannot guarantee that any information, during transmission or while stored on our systems, will be absolutely safe from intrusion by others.
+
+**10.         How long do we keep your personal data?**
+
+We will only retain your personal data for as long as necessary for the purpose for which that data was collected and to the extent permitted by applicable laws. When we no longer need to use personal data, we will remove it from our systems and records and/or take steps to anonymise it so that you can no longer be identified from it (unless we need to keep your information to comply with legal or regulatory obligations to which we are subject).
+
+**11.         How can you contact us?**
+
+If there are any questions or concerns regarding this Privacy Notice or the data collection practices outlined herein, or if you want to exercise any of your rights, please contact us as follows:
+
+§     by email: privacy@tapestry.com
+
+§     by phone: Kate Spade Customer Care: (local rates apply) United Kingdom: 0800 240 4320
+
+§     by post: Privacy Department, Coach Stores Limited, 2 Cavendish Square, London, W1G 0PU, United Kingdom.
+
+Alternatively, you can contact our Data Protection Officer:
+
+§     by email: Attn: Data Protection Officer, Kate Spade, privacy@tapestry.com
+
+§     by post: Attn: Data Protection Officer, Kate Spade, Kate Spade, Coach Stores Limited, 2 Cavendish Square, London, W1G 0PU
+
+**12.         Changes to this Privacy Notice**
+
+This Privacy Notice is written in English and may be translated into other languages. In the event of any inconsistency between the English version and the translated version of this notice, the English version shall prevail.
+
+We reserve the right to change our Privacy Notice from time to time including where this is necessary due to changes to our data processing practices or activities. If we decide to change our Privacy Notice we will notify you of these changes via email where we have a direct relation with you and post an alert on the home page of our website.
+
+Last revised date: _May 25, 2018_.
