@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the proioxis.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930133835id_/http%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proioxis.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410191729id_/https%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CEOWORLD magazine
 
 This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by CEOWORLD magazine LTD and its subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
 
-At [CEOWORLD magazine](http://ceoworld.biz/), we very much appreciate your readership and understand the importance of your personal privacy. This policy is available to help you understand the handling of information while you’re on the site.
+At [CEOWORLD magazine](https://ceoworld.biz/), we very much appreciate your readership and understand the importance of your personal privacy. This policy is available to help you understand the handling of information while you’re on the site.
 
  **Use of Personal Information**
 
