@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makespace.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009023454id_/https%3A//makespace.com/p/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makespace.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410034733id_/https%3A//makespace.com/p/legal/privacy) for the most accurate reproduction.*
 
 # MakeSpace - Privacy Policy
 
