@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230030032id_/http%3A//www.tntdrama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410144455id_/http%3A//www.tntdrama.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TNTdrama.com
 
-**What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates and unaffiliated third parties. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
+**What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among WarnerMedia, its affiliates, including AT &T, Inc. and Warner Media, LLC, and unaffiliated third parties. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos. **
 
-Thank you for visiting www.tntdrama.com, a digital service presented to you by Turner Broadcasting System, Inc. ("Turner", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among Turner's network of affiliated and operated digital services ("Turner Network"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with Turner or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). A representative list of Turner Affiliates is available **here**. "Users" are persons that use the Services.
+Thank you for visiting www.tntdrama.com, a digital service presented to you by WarnerMedia ("WarnerMedia", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among WarnerMedia's network of affiliated and operated digital services ("WarnerMedia Network"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with WarnerMedia or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
+
+A representative list of WarnerMedia Affiliates is available at  **[https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English.](https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English)**
 
 #### I. The Information We Collect
 
@@ -18,7 +20,7 @@ At some Services, you may also be able to submit Information about other people.
 
 _2\. Information That is Passively or Automatically Collected._
 
-We, and our "Partners" who include Turner Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled **Cookies, and Other User and Ad-Targeting Technologies** for more information about how the foregoing Information may be collected and used.
+We, and our "Partners" who include WarnerMedia Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access, or in connection with, our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, device attributes, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled **Cookies, and Other User and Ad-Targeting Technologies** for more information about how the foregoing Information may be collected and used.
 
 _3\. Geo-location Information_
 
@@ -60,7 +62,7 @@ When you provide information from your social media account, it can help enable 
 
 We or a Partner may use "cookies" or similar technologies to associate certain of the Information with a unique identifier that then associates the Information with your device or browser. For information about how these technologies work and how we may use them, please go to Section IV, titled **Cookies, And Other User And Ad-Targeting Technologies**. Sometimes, we may associate cookies with the Information, including de-identified, "hashed," or anonymous versions of Information you have provided (such as during registration), in order to send or help our Partners send ads and offers based on your presumed interests or demographic information.
 
-We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with our Service, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Service, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our [**Terms of Use**](http://www.tntdrama.com/terms.html) for details on our use of content you submit.
+We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with our Service, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Service, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our [**Terms of Use**](https://www.tntdrama.com/terms.html) for details on our use of content you submit.
 
 #### III. Information Sharing and Disclosure
 
@@ -70,11 +72,13 @@ We may disclose the Information as follows:
 
 2\. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request or similar request.
 
-3\. With third parties in order to investigate, prevent, or take action (in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or the Services, or violations of our policies, the law or our [**Terms of Use**](http://www.tntdrama.com/terms.html), to verify or enforce compliance with the policies governing our Services.
+3\. With third parties in order to investigate, prevent, or take action (in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or the Services, or violations of our policies, the law or our [**Terms of Use**](https://www.tntdrama.com/terms.html), to verify or enforce compliance with the policies governing our Services.
 
 4\. We may transfer some or all of your Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets, or if a substantial portion of our or of a business unit's assets is sold or merged in this way.
 
-5\. We may share the Information with Turner Affiliates, so they can provide, improve and communicate with you about their own, or their marketing partners' products and services. A representative list of our affiliates is available in the **Turner Affiliates** section below.
+5\. We may share the Information with WarnerMedia Affiliates, so they can provide, improve and communicate with you about their own, or their marketing partners' products and services.
+
+A representative list of WarnerMedia Affiliates is available at  **<https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English>**.
 
 6\. We may share the Information with unaffiliated Partners and third parties (e.g., our third party service providers, advertisers, advertising networks and platforms, agencies, other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that wish to market products or services to you. If you wish to opt out from such sharing please visit the **How to Contact Us/Opting Out of Marketing Communications** section below for further instructions.
 
@@ -86,9 +90,9 @@ We use cookies and other technologies both to provide our Services to you and to
 
 #### 1\. Cookies.
 
-To enhance your online experience, we and our Partners use "cookies", "web beacons" or other tracking technologies. Cookies are text files placed in your computer's browser to store your preferences. We use cookies or other tracking technologies to understand Service and Internet usage and to improve or customize the products, content, offerings, services or advertisements on our Services. For example, we may use cookies to personalize your experience at our Services (e.g., to recognize you by name when you return to a Service), save your password in password-protected areas, and enable you to use shopping carts on our Services. We also may use cookies or other tracking technologies to help us offer you products, content, offerings or services that may be of interest to you and to deliver relevant advertising when you visit this Service, a Turner Affiliate's Service, or when you visit other websites or applications. We or a third party platform with whom we work may place or recognize a unique cookie on your browser to enable you to receive customized content, offers, services or advertisements on our Services or other sites. These cookies contain no information intended to identify you personally. The cookies may be associated with de-identified demographic or other data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may share with a service provider solely in hashed, non-human readable form.
+To enhance your online experience, we and our Partners use "cookies", "web beacons" or other tracking technologies. Cookies are text files placed in your computer's browser to store your preferences. We use cookies or other tracking technologies to understand Service and Internet usage and to improve or customize the products, content, offerings, services or advertisements on our Services. For example, we may use cookies to personalize your experience at our Services (e.g., to recognize you by name when you return to a Service), save your password in password-protected areas, and enable you to use shopping carts on our Services. We also may use cookies or other tracking technologies to help us offer you products, content, offerings or services that may be of interest to you and to deliver relevant advertising when you visit this Service, a WarnerMedia Affiliate's Service, or when you visit other websites or applications. We or a third party platform with whom we work may place or recognize a unique cookie on your browser to enable you to receive customized content, offers, services or advertisements on our Services or other sites. These cookies contain no information intended to identify you personally. The cookies may be associated with de-identified demographic or other data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may share with a service provider solely in hashed, non-human readable form.
 
-We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our Partners also may use cookies or other tracking technologies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or Services. This also helps us, our service providers and Partners provide more relevant advertising.
+We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our Partners also may use cookies or other tracking technologies to manage and measure the performance of advertisements displayed on or delivered by or through the WarnerMedia Network and/or other networks or Services. This also helps us, our service providers and Partners provide more relevant advertising.
 
 #### 2\. Syncing Cookies and Identifiers.
 
@@ -96,7 +100,7 @@ We may work with our Partners (for instance, third party ad platforms) to synchr
 
 #### 3\. Locally Stored Objects.
 
-Services on the Turner Network may employ locally stored objects ("LSOs") and other client side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences and usage similar to browser cookies, or in order to target or help our Partners target ads, analyze ad performance, or perform user, website or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [**Adobe's website**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly. In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings.
+Services on the WarnerMedia Network may employ locally stored objects ("LSOs") and other client side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences and usage similar to browser cookies, or in order to target or help our Partners target ads, analyze ad performance, or perform user, website or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [**Adobe's website**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly. In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings.
 
 #### 4\. Disabling Cookies
 
@@ -118,11 +122,11 @@ Our unaffiliated Partners and third parties may themselves set and access their 
 
 #### V. Your Ad Choices
 
-Advertising enables us to provide the rich content for which Services on the Turner Network are known, and to provide much of this content free of cost to our Users. Thus, we strive to provide you with ads that are relevant to you and for products you may want.
+Advertising enables us to provide the rich content for which Services on the WarnerMedia Network are known, and to provide much of this content free of cost to our Users. Thus, we strive to provide you with ads that are relevant to you and for products you may want.
 
-However, we also offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our [**Ad Choices**](http://www.tntdrama.com/ad-choices.html) page, which has general information about certain companies that place these ads. You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the [**NAI Service**](http://www.networkadvertising.org/), and the Digital Advertising Alliance (the "DAA") at the [**DAA consumer choice Service**](http://www.aboutads.info/). Turner is a participant in the online industry's self-regulatory program administered by the DAA and has agreed to adhere to the DAA's principles applicable to interest-based ads.
+However, we also offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our  page, which has general information about certain companies that place these ads. You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the [**NAI Service**](http://www.networkadvertising.org/), and the Digital Advertising Alliance (the "DAA") at the [**DAA consumer choice Service**](http://www.aboutads.info/). WarnerMedia is a participant in the online industry's self-regulatory program administered by the DAA and has agreed to adhere to the DAA's principles applicable to interest-based ads.
 
-The tools provided on the [**Ad Choices**](http://www.tntdrama.com/ad-choices.html) page, as well as the [**DAA opt-out page**](http://www.aboutads.info/choices) and the [**NAI opt-out page**](http://www.networkadvertising.org/managing/opt_out.asp) are provided by third parties, not Turner. Turner does not control or operate these tools or the choices that advertisers and others provide through these tools.
+The tools provided on the Ad Choices page, as well as the [**DAA opt-out page**](http://www.aboutads.info/choices) and the [**NAI opt-out page**](http://www.networkadvertising.org/managing/opt_out.asp) are provided by third parties, not WarnerMedia. WarnerMedia does not control or operate these tools or the choices that advertisers and others provide through these tools.
 
 When using a mobile application you may receive tailored in-application advertisements. Depending on your device, you may be able to reset your mobile device's advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact (or review the applicable privacy web page of) the applicable platform operator.
 
@@ -130,7 +134,7 @@ When using a mobile application you may receive tailored in-application advertis
 
 #### 1\. How We Respond to Do Not Track Signals
 
-At this time Services on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions.
+At this time Services on the WarnerMedia Network do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions.
 
 #### 2\. Linked Services
 
@@ -138,7 +142,7 @@ Some of the Services contain links to or integrations with other services such a
 
 #### 3\. International Transfer
 
-This Service is governed by and operated in accordance with US law. If you are located outside of the US, you use this Service at your own risk. Turner is a company that operates globally so it is necessary to transfer your Information internationally. In particular, your Information will be transferred to and processed in the United States where many of our central databases operate. By using this Service, you (a) acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your Information being collected, processed and transferred as set forth in this Privacy Policy and US law.
+This Service is governed by and operated in accordance with US law. If you are located outside of the US, you use this Service at your own risk. WarnerMedia is a company that operates globally so it is necessary to transfer your Information internationally. In particular, your Information will be transferred to and processed in the United States where many of our central databases operate. By using this Service, you (a) acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your Information being collected, processed and transferred as set forth in this Privacy Policy and US law.
 
 #### 4\. Data Security
 
@@ -167,50 +171,16 @@ If you have signed up to receive our e-mails and prefer not to receive marketing
 
 #### 7\. California Residents -- Your California Privacy Rights
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above in **How to Contact Us/Opting Out of Marketing Communications**, if you wish to opt-out of our sharing of your personal Information with third parties for the third parties' direct marketing purposes or to find out more about your opt-out rights, please contact our Privacy Policy Coordinator as described above.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
 
-#### VII. List of Turner Affiliates
+As discussed above in **How to Contact Us/Opting Out of Marketing Communications**, if you wish to opt-out of our sharing of your personal Information with third parties for the third parties' direct marketing purposes or to find out more about your opt-out rights, please contact our Privacy Policy Coordinator as described above.
 
-Below is a representative list of some of the Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. We may update this list from time-to-time, so please check back periodically to keep up-to-date.
+#### VII. List of WarnerMedia Affiliates
 
-BLEACHER REPORT, INC.  
-CABLE NEWS INTERNATIONAL, INC.  
-CABLE NEWS NETWORK, INC.  
-CARTOON INTERACTIVE GROUP, INC.  
-CARTOON NETWORK ENTERPRISES, INC.  
-CNE TOURS, INC. (F/K/A CARTOON NETWORK SHOP, INC.)  
-CNN INTERACTIVE GROUP, INC.  
-COURT TV DIGITAL LLC  
-COURTROOM TELEVISION NETWORK LLC  
-GREAT BIG STORY, LLC  
-RETRO, INC.  
-SUPERSTATION, INC.  
-TBS INTERACTIVE GROUP, INC.  
-TCM INTERACTIVE GROUP, INC.  
-THE CARTOON NETWORK, INC.  
-TNT INTERACTIVE GROUP, INC.  
-TNT ORIGINALS, INC.  
-TURNER BROADCASTING SALES, INC.  
-TURNER CLASSIC MOVIES, INC.  
-TURNER DIGITAL BASKETBALL SERVICES, INC.  
-TURNER DIGITAL ENTERTAINMENT, LLC  
-TURNER ENTERTAINMENT NETWORKS, INC.  
-TURNER FESTIVALS, INC. (F/K/A TURNER DIRECT RETAILING, INC.)  
-TURNER MEDIA VENTURES, INC.  
-TURNER NETWORK SALES, INC.  
-TURNER NETWORK TELEVISION, INC.  
-TURNER PAGES, INC.  
-TURNER SPORTS INTERACTIVE, INC.  
-TURNER SPORTS, INC. 
-
-Below is a list of some of the Time Warner companies that are affiliated with the Turner group companies and with whom we may share Information we collect at our Services. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.
-
-Warner Bros. Entertainment, Inc.  
-Home Box Office, Inc.  
-Time Warner, Inc.
+Please visit  **<https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English>** to see a representative list of WarnerMedia companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. This list also includes companies that are affiliated with the WarnerMedia group companies and their affiliates, with whom we may share Information we collect on our Services. We may update this list from time-to-time, so please check back periodically to keep up-to-date.
 
 #### VIII. Updates & Effective Date
 
 From time to time, we may update this Privacy Policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and with whom we share it.
 
-The Privacy Policy posted on this Service was updated on July 17, 2017.
+The Privacy Policy posted on this Service was updated on September 28, 2018.
