@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getwestlondon.co.uk privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817034127id_/https%3A//www.getwestlondon.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getwestlondon.co.uk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410202555id_/https%3A//www.mylondon.news/privacy-policy) for the most accurate reproduction.*
 
-# Get West London: Number one for news, opinion, sport & celebrity gossip
+# Privacy Policy - MyLondon
 
 **WHO WE ARE**
 
