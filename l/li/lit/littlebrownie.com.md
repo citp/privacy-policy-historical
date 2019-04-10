@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlebrownie.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917202856id_/http%3A//www.kelloggcompany.com/en_US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebrownie.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410182541id_/http%3A//www.kelloggcompany.com/en_US/privacy-policy.html) for the most accurate reproduction.*
 
 # Kellogg Company | Privacy Policy |
 
@@ -7,31 +7,29 @@
 
 
 
- **KelloggCompany.com Privacy Policy**
-
-Updated December 16, 2012
+**KelloggCompany.com Privacy Policy**
 
 Kellogg Company, (the "Company"), has created this privacy policy for www.KelloggCompany.com (the "Site") in order to demonstrate its firm commitment to privacy. (“We” or “Us”, as used in this Privacy Policy, may include the Kellogg family of companies, and websites within the Kellogg family of companies.) The following discloses Kellogg Company's information gathering and dissemination practices for the information collected through this Site. We encourage you to read this Policy before using this Site. Your use of this Site signifies that you agree with all terms of this Policy, so please do not use this Site if you disagree with any part of this Policy.
 
- **PRIVACY STATEMENT**
+**PRIVACY STATEMENT**
 
- **I. Kellogg Company’s Collection and Use of Information**
+**I. Kellogg Company’s Collection and Use of Information**
 
- **A. Personally Identifiable Information**
+**A. Personally Identifiable Information**
 
 We will collect personally identifiable information about you, such as your name, postal address, telephone number, e-mail address, when you provide it to us while on this Site. You may provide personally identifiable information when you create an account, enter a sweepstakes on this Site or on a third party site, sign up for email communications, participate in a survey, contact customer service, engage in a promotion online or instore or otherwise interact with this Site. Your personally identifiable information may be used by us for all legal purposes, which may include, but are not limited to, responding to your requests, processing your transactions, for administrative purposes such as conducting contests, tracking which parts of the Site are of interest to you, and processing prizes. If you choose to opt-in, you may receive certain future information or communications from Kellogg Company, and we may share your personally identifiable information with Kellogg Company’s subsidiaries or affiliated entities ("Affiliated Entities") for purposes of sending you information about the programs of Kellogg Company or its Affiliated Entities and, occasionally, sending you advertising/promotional material from some of their advertising and strategic partners (see the Opt-In/Choice section below). We may also use your personally identifiable information for internal business purposes, such as optimizing Site experiences and analyzing and managing our businesses.
 
- **Note Regarding Use of this Site by Children**
+**Note Regarding Use of this Site by Children**
 
 We request that children do not provide personally identifiable information through the Site.
 
- **B. Demographic Information**
+**B. Demographic Information**
 
 We may also collect demographic data, such as your gender and postcode, when you provide this information to us. Demographic data may be used to tailor your experience at this Site, such as showing you content including special events and advertising that you might be interested in, and displaying the content according to your postcode.
 
 On occasion, aggregate information that does not identify any particular user may be compiled and shared with subsidiaries and affiliates of Kellogg Company, and other third parties as described in Section II below.
 
- **C. Passive Collection of Non-Personal Information**
+**C. Passive Collection of Non-Personal Information**
 
 This Site often requires the use of encrypted or non-encrypted cookies. Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most websites and help facilitate users' ongoing access to and use of a particular website, for example by providing information used to deliver content specific to your interests and for other purposes, such as security and other account administrative functions, and which may track personal identifying information.
 
@@ -57,47 +55,47 @@ This information is collected for Kellogg Company’s internal use such as to en
 
 We may use both personally identifiable information and non-personally identifiable information, individually or together, to improve our marketing and promotional efforts, improve our products and services, better understand customer interests and preferences, and /or provide you relevant information. We may enhance or merge personally identifiable information that you provide with data obtained from third parties.
 
- **II. Disclosure of Information to Third Parties**
+**II. Disclosure of Information to Third Parties**
 
 Kellogg Company may share personally identifiable information, including information that you provide on the Site, with third parties as described below.
 
- **A. Affiliated Entities**
+**A. Affiliated Entities**
 
 We may share any information, including personally identifiable information that you provide on the Site, with our subsidiaries and affiliates worldwide, for the purposes described in Section I(A).
 
- **B. Strategic Partners**
+**B. Strategic Partners**
 
 From time to time we may enter into a special relationship with another company that is not owned by or affiliated with Kellogg Company to provide additional features on this Site. These special relationships may include business partners, sponsors and co-branded sites (referred to here as "co-branded pages"). Any information, including personally identifiable information that you provide on one of these co-branded pages, may be shared with these third party partners. By participating in activities or providing your information on these co-branded pages, you also consent to our providing your personally identifiable information to those third parties. Since these third parties will use your information in accordance with their own privacy practices, you should check their websites for information regarding their privacy policies.
 
- **C. Service Providers**
+**C. Service Providers**
 
 We may use third party service providers to help us operate our business and this Site or administer activities on our behalf, such as sending emails, order fulfillment and sweepstake administration. We may share your information with these third parties for those limited purposes. For instance, if you participate in a sweepstake, game or loyalty program resulting in a prize or award, we will share personally identifiable information about you with our games and merchandise fulfillment and management agencies.
 
- **D. Ad Networks**
+**D. Ad Networks**
 
 We may have relationships with third party service providers known as Ad Networks to serve ads on our behalf across the internet. Using Cookies and Pixel Tags (also known as Web Beacons), Ad Networks collect anonymous information about your visits to our web site and other web sites in order to deliver advertisements that may be of particular interest to you. This process does not involve the collection of any personally identifiable information. The Ad Networks do not know your name, phone number, address, email address or any personally identifiable information We do not share any personally identifiable information about you with these advertising networks. To find out more about how the networks manage the privacy of information in conjunction with delivering ads online and how to opt-out of information collection by these networks please go to: [http://www.youradchoices.com](http://www.youradchoices.com/) or [http://www.networkadvertising.org](http://www.networkadvertising.org/). We do not operate or control these sites, and are not responsible for the opt-out choices available there.
 
- **E. Other Disclosures**
+**E. Other Disclosures**
 
 Personally identifiable information of any individual user may be shared with other companies outside Kellogg Company: (i) as permitted by law, (ii) in the event of a transfer of ownership, assets or a bankruptcy of Kellogg Company, (iii) where we determine that disclosure of specific information is necessary to comply with the request of a law enforcement or regulatory agency or other legal process, or (iv) to protect the interests or safety of Kellogg Company or other visitors to this Site.
 
- **F. User Generated Content Functions**
+**F. User Generated Content Functions**
 
 This Site enables users to submit their own content in “Challenges” and other functions on the Site. Please remember that any information you disclose in connection with a submission becomes public information and you should exercise caution when deciding to disclose your personal, financial or other information in a submission. Kellogg Company cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law or your personal privacy and safety and is not responsible for the results of such postings.
 
- **G. Sweepstakes, Contests etc.**
+**G. Sweepstakes, Contests etc.**
 
 We may operate sweepstakes, contests, raffles and similar promotions through the Site that may require online registration. We typically ask you for certain personally identifiable information when you enter and, if applicable, win a sweepstake, contest, raffle or similar promotion. We may share this personally identifiable information with third party sponsors of such sweepstakes, contests, raffles and promotions (irrespective of whether it is hosted by us), or otherwise in accordance with the rules applicable to such sweepstakes, contest, raffle or promotion. You should carefully review the rules of each sweepstake, contest, raffle and promotion in which you participate through the Site, as they may contain additional important information about Kellogg Company's or a sponsor’s use of your personally identifiable information. Insofar as the terms and conditions of such rules concerning the treatment of your personally identifiable information conflict with this Privacy Statement, the terms and conditions of such rules shall control.
 
- **III. LINKS AND THIRD PARTIES' PRIVACY PRACTICES**
+**III. LINKS AND THIRD PARTIES' PRIVACY PRACTICES**
 
 This Site may contain links to other sites that are not operated by Kellogg Company. **KELLOGG COMPANY IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF SUCH OTHER WEBSITES, INCLUDING WEBSITES OPERATED BY AFFILIATED ENTITIES**. We provide such links only as a convenience and the inclusion of a link on the site does not imply endorsement of the linked site by Kellogg Company. If you provide any personally identifiable information through any such third party website, your transaction will occur on such third party's website (and not on this site) and the personally identifiable information you provide will be collected by and controlled by the privacy policy of that third party. Kellogg Company recommends that you review the privacy policy of third party websites arrived at from links on this Site.
 
- **IV. SECURITY**
+**IV. SECURITY**
 
 This Site has security measures in place to help protect against the loss, misuse and alteration of the personally identifiable information under its control. Kellogg Company employs reasonable security measures consistent with standard industry practice to help protect against public access to personally identifiable and account activity information collected on and used by Kellogg Company at this Site. For instance, access to our databases with personally identifiable information is logged for security purposes and access is limited to key personnel. Personally identifiable information and account activity are also protected through the use of user names and passwords. In order to help maintain the security of your information, you should protect the confidentiality of your user name and password.
 
- **V. OPT-IN/CHOICE**
+**V. OPT-IN/CHOICE**
 
 This Site may provide you with the opportunity to opt-in to receive marketing communications from Kellogg Company. If you do not opt-in, Kellogg Company will not send you its promotional offers. You may also opt-out of marketing communications at any time by clicking the “unsubscribe” link in the body of the communication. However, regardless of your opt-in preferences, Kellogg Company may still at times need to send program e-mails for administrative reasons. If you opt to receive communications from multiple brands within the Kellogg family of companies and then change your election, you may need to opt-out individually from each of the brands to which you agreed to receive brand-specific communications.
 
@@ -131,15 +129,15 @@ Battle Creek, MI 49016
 
 Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former users of the site for important administrative purposes. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
 
- **VI. UPDATES TO THIS PRIVACY POLICY**
+**VI. UPDATES TO THIS PRIVACY POLICY**
 
 Kellogg Company reserves the right to make changes in this Privacy Policy. These changes will take effect immediately upon posting. For your convenience, the last revised date of the current policy will be posted at the top of this page. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, please do not continue using the Site.
 
- **VII. GOVERNING LAW**
+**VII. GOVERNING LAW**
 
 This Privacy Policy is governed by the laws of the State of Michigan, USA, without regard to its choice of law provisions.
 
- **VIII. CONTACTING KELLOGG COMPANY**
+**VIII. CONTACTING KELLOGG COMPANY**
 
 If you have any questions about this Privacy Policy or the practices of this Site, you may contact:
 
