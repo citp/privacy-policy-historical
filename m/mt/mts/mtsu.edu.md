@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927125312id_/http%3A//mtsu.edu/policies/general/121.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411002531id_/https%3A//www.mtsu.edu/policies/general/121.php) for the most accurate reproduction.*
 
 # 121 | Middle Tennessee State University
 
