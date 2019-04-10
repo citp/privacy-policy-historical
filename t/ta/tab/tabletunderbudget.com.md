@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabletunderbudget.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124083747id_/https%3A//tabletunderbudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabletunderbudget.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410075412id_/https%3A//tabletunderbudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tablet Under Budget
 
