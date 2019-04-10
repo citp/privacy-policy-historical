@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairyseason.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928072942id_/https%3A//www.fairyseason.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairyseason.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410072348id_/https%3A//www.fairyseason.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,7 @@ To avoid misunderstandings and to provide you a 100% safe and secure shopping ex
 
 At FAIRYSEASON, we are 100% committed to protecting the privacy and security of our customers and site visitors. We totally appreciate and respect how important privacy is. We’ll protect your data like it’s our own. We’ll always keep your data safe and secure. We will only use your data to up your experience.
 
-You decide what and how you hear from us. We protect your privacy and your rights through the use of the European Commission’s standard data protection clauses. More information about these is available here [ _https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087_](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087)
-
-If you have any questions about how we Protect Your Privacy, contact us at e-mail: **service@fairyseason.com**
+In Accordance to the Personal Data (Privacy) Ordinance (Cap. 486), BestWo International Co., Limited is committed to protecting the privacy of your personal data. After providing your personal information, if you want to change your information or access your personal information, please contact us at e-mail: **service@fairyseason.com**
 
 **1.** **W** **hat personal information is collected?**
 
@@ -119,3 +117,5 @@ We use cookies when you visit our site. There are four main types of cookies –
 Please note that by deleting or disabling future cookies, your user experience may be affected and you might not be able to take advantage of certain functions of our site.
 
 By using our site, you agree to us placing these sorts of cookies on your device and accessing them when you visit the site in the future.Further information about cookies can be found at [ _https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/  _](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/).
+
+You decide what and how you hear from us. We protect your privacy and your rights through the use of the European Commission’s standard data protection clauses. More information about these is available here [ _https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087_](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087)
