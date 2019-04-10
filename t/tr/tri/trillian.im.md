@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trillian.im privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903172712id_/https%3A//www.trillian.im/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trillian.im privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410191756id_/https%3A//trillian.im/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trillian
 
