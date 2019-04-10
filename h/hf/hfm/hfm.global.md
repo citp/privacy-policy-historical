@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hfm.global privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815194200id_/https%3A//www.pageantmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hfm.global privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410063251id_/https%3A//www.pageantmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Pageant Media
 
