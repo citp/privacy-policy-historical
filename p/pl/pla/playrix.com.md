@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113110423id_/https%3A//www.playrix.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410075512id_/https%3A//www.playrix.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - Playrix
 
 _Last modified: May 25, 2018_
 
-[Privacy Notice](https://web.archive.org/web/20181113110423id_/https%3A//www.playrix.com/eu_privacy/index.html) for the EU users of our software and our EU business partners and suppliers. 
+[Privacy Notice](https://web.archive.org/web/20190410075512id_/https%3A//www.playrix.com/eu_privacy/index.html) for the EU users of our software and our EU business partners and suppliers. 
 
 We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices.
 
@@ -109,7 +109,7 @@ By using the Playrix website, our products, or our services, you signify your un
 
 ### Advertising ID
 
-The advertising ID is a unique, user-resettable ID for advertising, provided by the mobile device’s operating system. We may use this ID to enhance serving and taregting capabilities, re-target specific campaigns, pass the ID to our partners. Advertising ID does not reveal any information about the user or the device. If you prefer to opt-out or reset your Advertising ID please follow these standard instructions:
+The advertising ID is a unique, user-resettable ID for advertising, provided by the mobile device’s operating system. We may use this ID to enhance serving and targeting capabilities, re-target specific campaigns, pass the ID to our partners. Advertising ID does not reveal any information about the user or the device. If you prefer to opt-out or reset your Advertising ID please follow these standard instructions:
 
   * iOS - [Opt out of interest-based ads in the App Store and Apple News](https://support.apple.com/en-us/HT202074)
   * Android - [Opt out of seeing personalized ads](https://support.google.com/ads/answer/2662922?hl=en)
