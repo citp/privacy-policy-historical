@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmeds.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907054026id_/https%3A//www.netmeds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmeds.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410053855id_/https%3A//www.netmeds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Netmeds.com
 
@@ -37,7 +37,7 @@ Welcome to www.netmeds.com ("Netmeds.com", "Netmeds", "Website", "Pharmacy", or 
   * As a New Customer, when you register/create an account, place your order, or upload your medical prescription at Netmeds.com;
   * As an Existing Customer, when you update your existing profile on Netmeds.com;
   * When you sign up for enewsletters at Netmeds.com;
-  * When you use [Refer & Earn](https://web.archive.org/web/20180907054026id_/https%3A//www.netmeds.com/refer-earn) programme, Ask Our Pharmacist service, Contact Us or submit your Testimonials at Netmeds.com.
+  * When you use [Refer & Earn](https://web.archive.org/web/20190410053855id_/https%3A//www.netmeds.com/refer-earn) programme, Ask Our Pharmacist service, Contact Us or submit your Testimonials at Netmeds.com.
 
 
 
