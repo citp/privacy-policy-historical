@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the p3g.tv privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206152219id_/http%3A//www.p3g.tv/resources/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the p3g.tv privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410105221id_/http%3A//www.p3g.tv/resources/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy - P3G.tv
 
