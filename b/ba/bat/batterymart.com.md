@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129024836id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410234010id_/https%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
 
 # BatteryMart.com Privacy Statement - BatteryMart.com
 
@@ -52,13 +52,22 @@ To ensure that you receive important e-mails from BatteryMart.com, please do one
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All credit card transactions are conducted on a secure server enabled with a secure certificate. Credit card data is only used during a transaction and is not stored on our servers.
 
+## Cookie Policy
+
+BatteryMart.com uses cookies, which are small text files that are placed on your device for things such as user verification. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. You can find info on this for the most popular browsers here:
+
+[Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)  
+[Safari](https://support.apple.com/kb/ph21411?locale=en_US)  
+[Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)  
+[Microsoft Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) & [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+
 ## Third Party Tracking and Data Collection
 
 Third parties that support BatteryMart.com by serving advertisements or content, or providing other services, such as tracking site usage or providing content and ads, may also use cookies, pixels, web beacons and other tracking and data collection technologies described above to collect information about BatteryMart.com users. We do not control these third parties and their use of these tracking technologies is governed by the privacy policies of the third parties using such technologies. Users can opt-out of the collection of use of information for ad targeting here: <http://www.aboutads.info/choices>
 
 ## Contacting Us
 
-If you have any questions about this privacy statement, the practices of this site, or ordering with this Web site, you can [contact us](http://www.batterymart.com/c-contact-us.html).
+If you have any questions about this privacy statement, the practices of this site, or ordering with this Web site, you can [contact us](https://www.batterymart.com/c-contact-us.html).
 
   
 
