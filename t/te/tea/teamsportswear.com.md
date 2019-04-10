@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamsportswear.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816022640id_/https%3A//www.logosoftwear.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsportswear.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410034247id_/https%3A//www.logosoftwear.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LogoSportswear.com Privacy Policy
 
