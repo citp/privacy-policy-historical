@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animalpak.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215132303id_/https%3A//www.animalpak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalpak.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410184313id_/https%3A//www.animalpak.com/privacy) for the most accurate reproduction.*
 
-# Privacy - AnimalPak
+# Privacy / Privacy / AnimalPak
 
 At Animal, we take your privacy and your personal info very seriously. We know if we screw up, even once, we could lose your trust. And trust is something we've been working hard to earn every single day—since 1983. In order to earn your trust, we do our utmost to protect your personal info. When you provide info to us at this website, FORVM (forum), social media sites, emails, and customer service, this below is what we do with that info.
 
@@ -128,4 +128,4 @@ From time to time we may modify or amend this Privacy Statement in order to comp
 
 If you have any questions about our handling of Personal Information, please contact us at ANIMAL at 3 Terminal Road, New Brunswick, New Jersey, 08901 or email us at [info@Animalpak.com](mailto:info@Animalpak.com). You can also call us toll-free at (800) 872-0101 or (732) 545-3130 (international).
 
-Copyright © 2018 Universal Nutrition. All rights reserved
+Copyright © 2019 Universal Nutrition. All rights reserved
