@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssireview.org privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225050333id_/https%3A//ssir.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssireview.org privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410174331id_/https%3A//ssir.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
