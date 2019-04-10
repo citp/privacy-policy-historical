@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hasoffers.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909035016id_/https%3A//www.hasoffers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasoffers.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410070005id_/https%3A//www.hasoffers.com/privacy-policy) for the most accurate reproduction.*
 
 # HasOffers Privacy Policy
 
-### Effective August 17, 2018
+### Effective October 4, 2018
 
 HasOffers by TUNE (“HasOffers”, “TUNE”, “we”, “us”, “our”) provides solutions for performance marketers. This Privacy Policy is provided to help you understand how TUNE processes end user data on behalf of advertising networks who use the HasOffers platform. It does not state the use practices or policies of our clients, of the websites or apps on which ads are shown, or of other parties. 
 
@@ -94,7 +94,7 @@ HasOffers also supports server-to-server measurement for some clients. With any 
 
 ## What Information Does HasOffers Collect From Clients?
 
-Signing up as a Client requires setting up a HasOffers account. To do this, we will need contact details – including mailing and/or billing address, email address, company name, and website URL. Clients will also need to provide a user name and password to set up a HasOffers account. Please note that TUNE treats all Client contact details as confidential business information that will only be used to service Client accounts and respond to Client, Affiliate or Publisher inquiries in accordance with a contractual agreement or applicable agreement by and between the partes.
+Signing up as a Client requires setting up a HasOffers account. To do this, we will need contact details – including mailing and/or billing address, email address, company name, and website URL. Clients will also need to provide a user name and password to set up a HasOffers account. Please note that TUNE treats all Client contact details as confidential business information that will only be used to service Client accounts and respond to Client, Affiliate or Publisher inquiries in accordance with a contractual agreement or applicable agreement by and between the parties.
 
 ## In Which Instances Might HasOffers Share End User Data With Third Parties?
 
@@ -107,6 +107,8 @@ End users can disable cookies in most internet browsers. An overview of the proc
 End users can also disable collection of Ad Identifiers for targeted advertising by enabling the Limit Ad Tracking setting on their smartphone. End users can also reset the Ad Identifier altogether using their smartphone’s privacy settings.
 
 End users should also note that TUNE collects information on behalf of its clients. To opt out, please see optoutmobile.com or contact the data controller directly. We will actively work with our clients to fulfill such requests as reasonable and required by law. 
+
+HasOffers is a participant of the Google Third Party Serving Compatibility Program. Clients that choose to advertise with Google must abide by Google’s Third-Party Ad Serving Policy available at <https://support.google.com/adspolicy/answer/94230>, as well as privacy principles to which HasOffers ascribes, including with regard to data collection, functional cookie opt-outs, and ad identifier tracking. 
 
 ## How Does TUNE Adhere to GDPR Principles?
 
