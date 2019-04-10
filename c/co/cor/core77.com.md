@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the core77.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212141711id_/https%3A//www.core77.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the core77.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411003022id_/https%3A//www.core77.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Core77
 
