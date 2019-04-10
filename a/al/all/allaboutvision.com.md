@@ -1,54 +1,135 @@
-> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218121352id_/https%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410031935id_/https%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
 
 # AllAboutVision.com Privacy Policy
 
-AllAboutVision.com's policy is to respect the privacy of visitors to our website. This policy describes how we gather information from our site's visitors and what we do with it.
+[__](https://www.facebook.com/allaboutvision)[__](https://twitter.com/allaboutvision)[__](https://www.pinterest.com/allaboutvision/)Join Us!
 
-## How We Collect Information
+AllAboutVision.com's policy is to respect the privacy of visitors to our website. This privacy statement describes how and why we gather information from our site's visitors and what we do with it. 
 
-Our web server, like all web servers, will automatically recognize each visitor's Internet address (or "IP address"). This does not provide us with personally identifiable information. Our server logs will record page views and the serving of images and other files, and can associate those actions with particular visitor sessions, but this information is not tied to any individual visitor's identity. We use Google Analytics for this same purpose.
+Your personal data means any information relating to you, in particular your name and contact details such as your home address, your telephone number or your email address.
 
-You can visit our website without revealing any information about yourself. Our site is not set up to track, collect or distribute personal information about you (such as name, address, e-mail address, or telephone number) unless you voluntarily provide this information, such as when you ask us to e-mail a friend or you provide this information when you fill out a "contact us" form.
+Please take the time to read this privacy statement, as it is important that you understand how we are using your personal data and how we are protecting your privacy. 
 
-## How We Use Information
+If you have any questions regarding our use of your personal data, you can contact us:
 
-We automatically use electronic records to compile statistics about how collectively our visitors interact with our website. These statistics contain no personal information.
+ **\-- Email:** [admin@allaboutvision.com](mailto:admin@allaboutvision.com)
 
-On certain pages, you may have the opportunity to provide personally identifiable information. **When you voluntarily provide us with information about yourself, you consent to our use of it in accordance with this policy**.
+ **\-- Postal mail:** All About Vision, 1920 McKinney, Dallas, TX 75201 
 
-We use the personally identifiable information only for clearly stated purposes. For example, we may use your email address to respond to a question you have sent us. We never add email addresses to lists for purposes of additional communication, unless you have asked us to. **Your personally identifiable information will be provided to third parties only at your request**. Examples of this include but are not limited to: (1) We may provide your medical question to an [eye doctor](https://www.allaboutvision.com/locator/) for a response; (2) If you use a feedback form in an advertising section, the information will be sent to the advertiser; (3) If you provide your personal information for purposes of a product rebate or value-added service, it will be provided to a third party for fulfillment.
+## How we collect data
 
-We may share this information in aggregate form with our advertisers, but we never supply without your permission personal information such as "Jen Jones wears [contact lenses](https://www.allaboutvision.com/contacts/)" or "Sue Smith has [astigmatism](https://www.allaboutvision.com/conditions/astigmatism.htm)."
+Our web server, like all web servers, will automatically recognize each visitor's internet address (or "IP address"). This does not provide us with personally identifiable information. Our server logs will record page views and the serving of images and other files, and can associate those actions with particular visitor sessions. 
 
-Unless otherwise required by law or if pertinent to a judicial or governmental investigation, personally identifiable information is not shared with other organizations or persons. Should we ever need to make an exception, we will say so at the point where you are giving the information.
+On certain pages, you may have the opportunity to provide personally identifiable information. When you voluntarily provide us with information about yourself, you consent to our use of your personal information in accordance with this policy
 
-Information submitted or provided to us by a website user or any person or entity regarding us or our products or services, including but not limited to ideas for new products or services or modifications to existing products or services, shall be deemed to be non-confidential, and we shall be free to reproduce, use, disclose and distribute such information to others without limitation or attribution.
+## What personal information we collect
 
-  * **Cookies.** Cookies are small text files that websites store on your computer's hard drive. When they are supplied from our site, they may contain information you have given us and are intended to be a convenience to you. They may enable the functionality of certain interactive features. They also may anonymously record how often you visit our website, or what pages you looked at.
+### Data we collect when you visit our website
 
-  AllAboutVision.com cookies only store personally identifying information that you have provided to us. They are not capable of obtaining additional personally identifying information.
+When you access our website, we automatically collect and store some of your data in our server logs and in cookies, which are small files we sent to your computer when you visit our website.
 
-  * **Children.** We are very concerned about protecting the children who use our site. We never share with outside companies the personally identifying information that children provide, and use it only for the stated purpose, such as contacting the winner of a children's contest.
+This data does not allow us to directly identify you; however, it records data related to your browsing on our website, such as pages that you accessed, the date and time you accessed these pages, your search queries, information on your device (hardware model, operating system version, unique device identifier, internet protocol address, hardware settings, browser type, browser language), the date and time of your request and referral URL.
 
-  In some cases we require a parent's written permission for children under 13 to participate in surveys or contests. In cases where we would normally post a person's first name on our site (such as a contest winner), we will choose a false name for any child under 18, if a parent asks us to do so.
+We may use third-party advertising companies or affiliates to display advertisements on our website. These third-party advertising companies or affiliates may separately place or recognize a cookie file on your browser in the course of delivering advertisements to AllAboutVision.com. We cannot see the information collected or stored in third-party cookies. We do not provide data about you to these third-party advertisers.
 
+You can opt out of the collection of your personal data when you visit AllAboutVision.com. To do this, you will need to configure your browser to not accept cookies (for information, refer to the "help" section of your web browser). 
 
+### Data we collect when you visit our site or sign up for offers
 
+Some of the services offered on our website require you to sign up for them. If you want to use these services, we will ask you to provide us with personal data, and we thank you for providing us with complete and accurate data. Please inform us, too, if your data needs to be updated. 
 
-## Google Analytics
+If you do not provide us with complete and accurate data, or if you do not inform us that your data needs to be updated, we may not be able to provide you with the services you requested.
 
-We have enabled Google Analytics Demographics and Interest Reporting. This allows us to see aggregated demographic information about our visitors, which we may report to customers and other interested parties. This does not provide information to us that can be associated with individuals. You have the opportunity to opt out of this reporting; please see [Google Analytics' currently available opt-outs. __](https://tools.google.com/dlpage/gaoptout/)
+We continue to evolve the services offered on AllAboutVision.com and may in the future collect the following categories of your personal data: 
 
-## Third Party Advertising
+\-- **Identification data,** including your name, telephone number, email address, home address, login and password, photograph and date of birth (or age).
 
-Some ads on our site are served by third-party advertising companies. These companies may use information about your visits to this and other websites in order to provide advertisements on other sites and other interactive media about goods and services that may be of interest to you. [This page __](http://optout.networkadvertising.org/?c=1#!/)has more information about that practice and your choices relative to targeted advertising, inlcuding your ability to opt out of online behavioral advertising.
+\-- **IT data,** including data related to your browsing on our website, such as the pages that you accessed, the date and time you accessed these pages, your search queries, information on your device (hardware model, operating system version, unique device identifiers, internet protocol address, hardware settings, browser type, browser language), the date and time of your request and referral URL.
 
-## Other Websites
+## How we use the personal data we collect
 
-You have the opportunity to access other sites from AllAboutVision.com, by clicking either on a site's link or on an advertisement. Please be aware that these sites are outside the control of AllAboutVision.com and that their privacy policies are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection. 
+We only use your personal data within the limits authorized by the laws and regulation. 
 
-Back to top
+We do not make any automated decisions solely on automatic processing which may produce legal effects concerning you, or similarly significantly affect you.
 
-Page updated June 2018
+We use your personal data for the following purposes:
 
-[ __](https://www.facebook.com/allaboutvision) [ __](https://twitter.com/allaboutvision) [ __](https://www.pinterest.com/allaboutvision/) Join Us!
+ **\-- Marketing services:** We may use your identification data to facilitate delivery of marketing offers and services. 
+
+**\-- Website improvements:** We anonymize your IT data and use it to improve your experience on our website, identify and report any bugs and issues, assess the impact of changes we make on customer behavior, analyze and improve the performance of the website. Such a process is operated for our legitimate interest.
+
+## How long we keep personal data we collect
+
+The period for which we store your personal data is detailed below:
+
+### Category data and retention period
+
+ **\-- Identification data,** excluding ophthalmic prescription and medical data: **12 years**
+
+ **\-- IT data:** **12 years**
+
+ **\-- Financial data:** This is not stored on any of our systems.
+
+## Personal data we share
+
+We inform you that we may share your personal data with affiliated entities (members of the Essilor Group).
+
+ **\-- Identification data:** Online transaction processing, order fulfilment marketing, promotional communications, order analysis – worldwide
+
+ **\-- IT data:** Analyzing customer website and purchase behavior and other data available for marketing and promotional communications – worldwide
+
+## How we protect personal data
+
+We have measures in place to protect your personal data against unauthorized access, use or disclosure, including without limitation:
+
+We implement and maintain sophisticated technical measures to ensure that your personal data is recorded and processed in complete confidentiality and security.
+
+We restrict access to your personal data and monitor the access, use and transfer of personal data.
+
+All of our employees who have access to your personal data are required to enter into non-disclosure or similar agreements, which imposes obligations on them to comply with our data privacy and confidentiality requirements.
+
+We require any business partners and third-party service providers with whom we may share your personal data to comply with any applicable data privacy and confidentiality requirements.
+
+We provide data privacy training on a regular basis to our employees and third parties who have access to personal data.
+
+## What rights you have
+
+Under applicable data protection laws and regulations, you have the right:
+
+To access, rectify and or erase your personal data.
+
+To restrict or object to the processing of your data information.
+
+To tell us that you do not want to receive marketing information.
+
+To require us to transfer some of your personal data (in certain circumstances) to you or a third party. 
+
+We are committed to enable you to exercise your rights: To do so, you can contact us by email or postal mail (as detailed above). Please provide the following information when exercising your data privacy rights:
+
+\-- **Your full name and contact information**.
+
+\-- **Your specific data privacy request** (in other words, what rights you want to exercise).
+
+\-- **The date of the application** and your signature (if you sent your application by postal mail).
+
+If you do not get satisfaction by contacting us, you can lodge a complaint about our processing of your personal data with a data protection authority.
+
+### Changes to this privacy notice
+
+We at AllAboutVision.com regularly review our compliance with our privacy statement, in particular to make it compliant with new laws and regulations regarding data protection. Though this privacy statement may change from time to time, we will not reduce your rights without your explicit consent.
+
+## Cookie policy
+
+We use "cookies," which are files stored on your devices' hard drive by your browser. Cookies help us identify account holders and to optimize shopping experience by allowing us to hold selections in a shopping cart when a user exits AllAboutVision.com. 
+
+We recommend that you leave cookies "turned on" so that we may offer a better shopping experience. You may occasionally get cookies from companies advertising on our behalf. These cookies are not covered in our policy statement nor do we have control over these cookies.
+
+If you want, you can refuse the use of cookies through the settings or options of your browser. Please note: If you have modified the cookie settings of our website, you may not be able to use some parts of AllAboutVision.com. 
+
+## Our commitment to you
+
+Thank you for turning to and relying on AllAboutVision.com to learn about eye conditions, eyeglasses, sunglasses contacts and overall eye health. Thank you, too, for reading this privacy statement outlining how we protect your personal data.
+
+Page updated March 9, 2019
+
+[ __](https://www.facebook.com/allaboutvision)[ __](https://twitter.com/allaboutvision)[ __](https://www.pinterest.com/allaboutvision/)Join Us!
