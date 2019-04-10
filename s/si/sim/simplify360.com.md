@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplify360.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117220154id_/http%3A//simplify360.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplify360.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410092223id_/http%3A//simplify360.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Simplify360 | Privacy Policy
 
