@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smtp2go.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915071949id_/https%3A//www.smtp2go.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smtp2go.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410090908id_/https%3A//www.smtp2go.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SMTP2GO
 
