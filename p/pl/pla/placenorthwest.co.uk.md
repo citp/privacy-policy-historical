@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819095218id_/https%3A//www.placenorthwest.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410074706id_/https%3A//www.placenorthwest.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Place North West | Privacy Policy
 
@@ -253,7 +253,7 @@ Using your data where appropriate and requested to create website profiles for u
 (d) Profile
 
 | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
-Sending partner content which we deem to be relevant by email (paid-for mailshots from advertisers)  | (a) Identity 
+Sending partner content which we deem to be relevant by email (paid-for mailshots from advertisers and event sponsor communication)  | (a) Identity 
 
 (b) Contact
 
