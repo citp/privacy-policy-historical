@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinklily.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602093121id_/https%3A//pinklily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinklily.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410114509id_/https%3A//pinklily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Pink Lily Boutique
+# Privacy Policy | Explore The Collection at Pink Lily Boutique
 
 **What information do we collect?**
 
