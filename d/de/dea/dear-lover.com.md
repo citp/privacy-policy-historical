@@ -1,14 +1,19 @@
-> *The following text is extracted and transformed from the dear-lover.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507165450id_/https%3A//www.dear-lover.com/Privacy-Policy-i176.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dear-lover.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410144342id_/https%3A//www.dear-lover.com/Privacy-Policy-i176.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.dear-lover.com
 
-**Privacy Policy**
+**Privacy Policy** ****
 
-This privacy statement discloses the privacy practices for [www.dear-lover.com](http://www.dear-lover.com/) We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us.
+This privacy statement discloses the privacy practices for [www.dear-lover.com](http://www.dear-lover.com/) We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us.  
+Information Collection and Use [www.dear-lover.com](http://www.dear-lover.com/) collects information from our users at several different points on our website.  
 
-Information Collection and Use [www.dear-lover.com](http://www.dear-lover.com/)
 
- collects information from our users at several different points on our website. **Order**  
+Direct Sexy Lingerie Limited
+
+RM 1902 EASEY COMM BLDG 253-261 HENNESSY ROAD WANCHAI HK   
+service@dear-lover.com
+
+**Order**  
 We request information from the user on our order form when making a purchase. Here is where a user must provide their contact information, like name and shipping address, and financial information, like credit card number and expiration date. This information is used for billing purposes and to fill the customer's order. If we have difficulty processing an order, this contact information is used to communicate with the customer. **Cookies**  
 A cookie is a piece of data stored on the user's hard drive containing information about the user. We use both session and persistent cookies. Cookies enable us to track and target the interests of our users in the aggregate by analyzing popular areas and products to enhance future experiences on our site. Cookies do not cause damage to your computer systems or files, and only the web site that transferred a particular cookie to you can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there are simple procedures in most browsers that allow you to delete existing cookies, to automatically decline cookies, or to be given the choice of declining or accepting the transfer of particular cookies to your computer. **Aggregate Information**  
 [www.dear-lover.com](http://www.dear-lover.com/) uses aggregate information from demographic surveys, traffic patterns and IP addresses to customize our site. Aggregate information is occasionally shared with third parties for purposes such as planning or executing advertising or promotions. **Catalog, Newsletters etc.**  
