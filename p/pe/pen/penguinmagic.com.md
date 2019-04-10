@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the penguinmagic.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519204129id_/http%3A//www.penguinmagic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguinmagic.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410143017id_/http%3A//www.penguinmagic.com/about/privacy) for the most accurate reproduction.*
 
-# Penguin Magic Privacy Policy
-
-|  ****  
-[](https://web.archive.org/p/2787)   
-**** |  | 
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -88,44 +84,3 @@ USA
 support@penguinmagic.com  
 800-880-2592  
 
-
-|  |  [](https://web.archive.org/p/7031)   
-
-
-0 0 : 0 0 : 0 0  remaining
-
-[](https://web.archive.org/p/A17450)
-
-  
-[](https://web.archive.org/.php)
-
-0 0 : 0 0 : 0 0  remaining
-
-[](https://web.archive.org/p/7085)
-
-[](https://itunes.apple.com/us/app/coolbox/id582690613) [](http://play.google.com/store/apps/details?id=com.penguinmagic.coolbox)
-
-[](https://web.archive.org/p/1902)   
-[](https://web.archive.org/partner/welcome.php)
-
-[Act Builder beta](https://web.archive.org/acts.php)
-
-  1. Paul Anfuso
-  2. Y. Ethan Oum
-  3. Twitch Reents
-  4. Kevin Bryan
-  5. Gaijin
-
-
-
-[](https://web.archive.org/nextvideo.php)
-
-[](https://web.archive.org/randomtrick.php)
-
-[](https://web.archive.org/specialordercatalog.php)
-
-[](https://web.archive.org/demovideos.php)
-
-[](https://web.archive.org/psypher.php)
-
-| 
