@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the songs.pk privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106233138id_/https%3A//songspk.im/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songs.pk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410065357id_/https%3A//songspk.name/page/privacy) for the most accurate reproduction.*
 
-# Privacy Page - Songs.pk
+# Songs.PK - Privacy Download Mp3 Songs Desinode.com
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit this site, and how we safeguard your information. We never sell your personal information to third parties. As with most other websites, we collect and use the data contained in log files.
 
