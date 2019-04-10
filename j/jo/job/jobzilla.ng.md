@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobzilla.ng privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323111547id_/https%3A//www.jobzilla.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobzilla.ng privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410223141id_/https%3A//www.jobzilla.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ services on the website (“Website Services”), you acknowledge that you
 accept the practices and policies outlined in this Privacy Policy and  
 our use of your information in accordance with this Privacy Policy.
 
-**Log Files**
+ **Log Files**
 
 As with most other websites, we collect and use the data  
 contained in log files. The information in the log files include your  
@@ -21,7 +21,7 @@ such as AOL or Shaw Cable), the browser you used to visit our site
 (such as Internet Explorer or Firefox), the time you visited our site  
 and which pages you visited throughout our site.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 We do use cookies to store information, such as your  
 personal preferences when you visit our site. This could include only  
@@ -39,7 +39,7 @@ New York real estate ads to someone in New York, for example) or
 showing certain ads based on specific sites visited (such as showing  
 cooking ads to someone who frequents cooking sites).
 
-**DoubleClick DART cookies**
+ **DoubleClick DART cookies**
 
 We also may use DART cookies for ad serving through Google’s  
 DoubleClick, which places a cookie on your computer when you are  
@@ -54,7 +54,7 @@ viewing a non-related site, such as on a site about hockey). DART uses
 information about you, such as your name, email address, physical  
 address, telephone number, social security numbers, bank account  
 numbers or credit card numbers. You can opt-out of this ad serving on  
-all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx](https://www.doubleclick.com/privacy/dart_adserving.aspx)
 
 You can chose to disable or selectively turn off our cookies  
 or third-party cookies in your browser settings, or by managing  
@@ -68,7 +68,7 @@ of any advertising program. Unless you have settings that disallow
 cookies, the next time you visit a site running the advertisements, a  
 new cookie will be added.
 
-**Third Party Sites**  
+ **Third Party Sites**  
 jobzilla.ng does not control the privacy policies of third party  
 sites or service providers to which we provide links. These third party  
 sites or service providers may use cookies to provide a service or serve  
@@ -76,14 +76,14 @@ ads based on a user’s prior visits to jobzilla.ng. Please be aware
 that if you click on an ad or third party link, you will be subject to  
 the third party’s privacy policy.
 
-**Changes to the jobzilla.ng Privacy Policy**  
+ **Changes to the jobzilla.ng Privacy Policy**  
 You agree that jobzilla.ng may amend this policy from time  
 to time by posting the revised Privacy Policy on this Website. Your  
 continued use of any portion of the Website or jobzilla.ng service  
 following the posting of the revised policy will constitute your  
 acceptance of the changes.
 
-**Information Collected From Users**  
+ **Information Collected From Users**  
 In the course of your browsing the Website, jobzilla.ng may  
 collect the IP address of the computer through which your visit is  
 enabled; cookie information; information regarding the pages, links,  
@@ -105,7 +105,7 @@ you disable cookies, you may not be able to use the Website Services.
 Please note that jobzilla.ng does not and cannot read cookies set by  
 other websites.
 
-**Your obligations to other Users**  
+ **Your obligations to other Users**  
 As a User, you have certain obligations to other Users. Some of  
 these obligations are imposed by applicable law and regulations, and  
 others have become commonplace in user-friendly communities of  
@@ -116,7 +116,7 @@ deemed to be injurious, violent, offensive, or which may otherwise
 violate the purpose and spirit of jobzilla.ng and its community of  
 Users.
 
-**Information security**  
+ **Information security**  
 We take appropriate security measures to protect against  
 unauthorized access to or unauthorized alteration, disclosure or  
 destruction of data. However, no data transmission over the Internet can  
@@ -126,7 +126,7 @@ do so at your own risk. We restrict access to personal information to
 employees, contractors and agents who need to know that information in  
 order to process it on our behalf.
 
-**Use of Information Collected**  
+ **Use of Information Collected**  
 We use the information we collect to provide our services and features  
 to you, to measure and improve those services and features, and to  
 provide you with customized user experience. We may contact you with  
@@ -156,5 +156,5 @@ Acquirer Company in accordance with the terms and conditions of this
 Privacy Policy. jobzilla.ng will not track your Internet usage  
 outside of the confines of the jobzilla.ng Website.
 
-**How to contact us**  
-You can contact jobzilla.ng by sending an email to **info@jobzilla.ng**
+ **How to contact us**  
+You can contact jobzilla.ng by sending an email to **info[at]jobzilla.ng**
