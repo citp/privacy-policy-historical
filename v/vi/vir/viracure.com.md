@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viracure.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909141200id_/https%3A//www.viracure.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viracure.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410044357id_/https%3A//www.viracure.com/viracure/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Viracure
+# Viracure Privacy Policy | Viracure
 
-We, Viracure Limited, take your privacy very seriously. This privacy policy governs and details the main privacy principles we apply regarding information and data collected through the services provided through our website: [www.viracure.com](https://web.archive.org/web/20150909141200id_/https%3A//www.viracure.com/en/www.viracure.com) (the “Website”). 
+We, Viracure Limited, take your privacy very seriously. This privacy policy governs and details the main privacy principles we apply regarding information and data collected through the services provided through our website: [www.viracure.com](https://www.viracure.com/) (the “Website”). 
 
 BY VISITING OUR WEBSITE, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT.
 
@@ -26,7 +26,7 @@ Most browsers are initially set up to accept cookies and similar technologies, b
 
 As we continue to develop our business, we might sell or buy our assets and rights. In such transactions, customer information generally is one of the transferred business assets in such transaction. We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our End User License and or Terms of Use or protect our others rights. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-You have a right to access the personal data that is held about you. To obtain a copy of your personal information, please send an email to [support@viracure.com](mailto:support@viracure.com): (in the title, copy and paste this: “Obtain a copy of my personal information”) or submit such application at: <https://www.viracure.com/en/homepage-responsive/#nav_section_support>.
+You have a right to access the personal data that is held about you. To obtain a copy of your personal information, please send an email to [support@viracure.com](mailto:support@viracure.com): (in the title, copy and paste this: “Obtain a copy of my personal information”) or submit such application at: [www.viracure.com/support/viracure/contact](https://www.viracure.com/support/viracure/contact/).
 
 Our Website and our newsletter may include various links to third party websites or promote third party products. We are not responsible for the privacy practices of such third parties in any way. We strongly suggest that you refer to their privacy policy before accessing any website or making any purchase from them. 
 
