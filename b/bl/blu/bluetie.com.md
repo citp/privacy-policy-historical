@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315064646id_/http%3A//www.bluetie.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410180613id_/https%3A//bluetie.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# BlueTie - Privacy Policy
+# Privacy Policy
 
 ## 1\. General
 
@@ -59,7 +59,7 @@ The Web Site is not directed at individuals under thirteen years of age, and Blu
 
 The Web Site allows links to various other web sites. We assume no responsibility for the information practices of sites you are able to access through the Web Site. Furthermore, a link to another does not imply an affiliation or an endorsement of that linked site.
 
-## 13\. Security
+## 13\. Data Security and Integrity
 
 Please keep in mind that whenever you give out personal information online — for example, via instant messaging or online meetings— that information can be collected and used by people you don’t know. While BlueTie strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
 
@@ -69,11 +69,37 @@ In certain areas BlueTie uses SSL-encryption to protect data transmissions.
 
 Your account on the Web Site is password protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. BlueTie will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to sign out of your account on the Web Site and close your browser window when you have finished your work. This will ensure that others cannot access your personal information and correspondence if your computer is accessible to others, if you share a computer with someone else, or if you use a computer in a public place like a library or Internet cafè.
 
-## 14\. Privacy Policy Changes
+## 14\. Data Sharing and Disclosure
+
+**Compliance with Laws and Law Enforcement Requests; Protection of Our Rights**
+
+We may, in certain situations, be required to disclose personal information in response to lawful requests by public authorities, including to comply with or meet national security or law enforcement requirements.  We may disclose personal information in response to subpoenas, court orders, or legal process to establish or excise our legal rights, or to defend against legal claims.  We may also share personal information if we believe it is necessary in the investigation of, or to prevent illegal activities, fraud, potential threats to the physical safety of any person, the protection of minors, violations of our Service Agreement, or otherwise required by law.
+
+**Third Party Service Providers**
+
+We may share information, including personal information, with our approved third-party service providers that we use for Services delivery such as archiving, backups, encryption, customer relationship systems and other services.  Approved third-party services may have access to your personal information for the purposes of providing these services.  BlueTie does not permit the use of your personal information by third-parties for the purposes of marketing or for any other purpose other than the intended purpose of the service they provide to BlueTie.
+
+**Client Testimonials**
+
+We may post testimonials on our Websites or other websites, or in connection with advertising our Services that may contain personal information.  We will obtain written consent to post your name, along with the testimonial.  If you wish to update your information, or withdraw your consent, contact privacy@bluetie.com.
+
+**With Consent**
+
+For all other purposes not explicitly stated above, we may request your consent to share your personal information. 
+
+**Legal Basis For Processing (European Economic Area Only)**
+
+BlueTie’s legal basis for collecting and utilizing personally identifiable information of Individuals from the European Economic Area (EEA) will depend on the personal information concerned and the specific context in which the information is collected.  We will normally collect personal information from you where (a) you have provided your consent to do so, (b) we need the personal information to deliver BlueTie Services, (c) we have a legal obligation to collect personal information from you, or (d) where the collection and processing of the personal information is in our or a third-party’s legitimate interests, which shall not be overridden by your data protection interests or fundamental rights and freedoms.
+
+Where we rely on your consent to process the personal information, you have the right to withdraw or decline your consent at any time.  The withdrawal of consent shall not affect the lawfulness of the processing based on consent prior to its withdrawal.
+
+Should you have additional questions or require further clarification concerning the legal basis for which we collect and use your personal information, please contact us at privacy@bluetie.com.
+
+## 15\. Privacy Policy Changes
 
 If we decide to materially change our privacy policy for BlueTie, we will prominently post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
 
-## 15\. Whom to Contact
+## 16\. Whom to Contact
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact BlueTie at:
 
@@ -82,4 +108,4 @@ BlueTie, Inc.
 120 Allens Creek  
 STE 220  
 Rochester, NY 14618  
-Or, you may contact us by email.
+Or, you may contact us by email: privacy@bluetie.com
