@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sodastreamusa.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215000336id_/https%3A//sodastream.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodastreamusa.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410131944id_/https%3A//sodastream.com/pages/legal) for the most accurate reproduction.*
 
 # Legal – SodaStream
 
@@ -111,22 +111,6 @@ If you breach these Conditions of Use and we take no action, we will still be en
 SodaStream's corporate address is 136 Gaither Dr, Ste 200, Mount Laurel, NJ 08054
 
 If you have any questions about SodaStream Services or have questions about a SodaStream product, please contact SodaStream's Customer Service department at 1.800.763.2258 or by clicking Support on the website.
-
-**SODASTREAM OFFER TO PEPSICO EMPLOYEES**
-
-SodaStream is offering PepsiCo employees, who reside only in the United States or in the United Kingdom (the “PepsiCo Employees”), the opportunity to purchase a SodaStream sparkling water maker starter kit at a 50% discount from the suggested retail price (the “Offer”).
-
-The starter kit included in the Offer, consists of the following: one (1) SodaStream sparkling water maker, a one (1) liter SodaStream carbonating bottle and one 60L SodaStream CO2 cylinder. 
-
-This Offer is redeemable through www.sodastream.com/pepsico  and www.sodastream.co.uk/pepsico, as applicable, for a period that will last 7 days starting from the date the promotional has been sent to the PepsiCo Employees. This Offer will also be in effect for an additional period of 7 days following the “fair” where PepsiCo Employees will have the opportunity to test the SodaStream sparkling water maker kits.  No other offers or coupon codes can be used in conjunction with this Offer. PepsiCo Employees may purchase additional products that appear on the website according to their suggested retail price. 
-
-SodaStream reserves the right to cancel any order if SodaStream suspects, in its sole discretion, a duplicate order (whether by named customer, by address or by bank account/ paypal etc) or that the item is intended to be offered for onward sale.  Where it is found that the Offer was used to purchase a SodaStream sparkling water maker starter kit with the intent to sell it onwards, the original purchaser will be charged the full suggested retail price for their purchase. SodaStream’s decision in this regard will be final. Should SodaStream cancel any orders for this reason, the purchase price will be refunded and the purchaser will be notified.
-
-The Offer is available only to PespiCo Employees and their immediate family members. Orders will be delivered to the address provided by the PepsiCo Employee.  No shipping and delivery charges will be added for PepsiCo employees purchasing bundle kits. 
-
-SodaStream reserves the right, in its sole discretion, to cancel, amend or suspend this Offer at any time and for any reason. You further agree to be bound by any decisions of SodaStream relating to the Offer, which you agree shall be final and binding upon you in all respects. 
-
-The terms and conditions of each SodaStream website will apply to the purchase of any of SodaStream’s products through such local website. Please read the Privacy Policy which applies to any information or action provided through this website. 
 
 SODASTREAM - PRIVACY STATEMENT
 
