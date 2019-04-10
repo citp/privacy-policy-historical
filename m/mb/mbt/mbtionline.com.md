@@ -1,260 +1,278 @@
-> *The following text is extracted and transformed from the mbtionline.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310202719id_/https%3A//assessment.mbtionline.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtionline.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410111454id_/https%3A//www.themyersbriggs.com/en-US/Support/Privacy-Policy) for the most accurate reproduction.*
 
-# MBTI Online | The Myers-Briggs Personality Test
+# Privacy Policy | The Myers-Briggs Company
 
-Updated March 01, 2016
+_Effective Date: October, 2018  
+_  
+This website is owned and operated by The Myers-Briggs Company(the "Company", " **we** ", or " **us** "), a California benefit corporation.  We work diligently to protect the privacy, confidentiality, and security of the Personal Information (defined below) that we receive.  This Privacy Policy describes the principles and practices that apply to the Personal Information that we collect from individuals online or offline (“ **you** ”), such as individuals who browse through our Sites (defined below), register on the Site, use the services provided on the Sites, interact with the Sites, communicate with us through telephone, email, text, or other communications means, participate in our interviews, surveys, or promotions, read or receive our newsletters, or apply for employment with us. 
 
-This website is owned and operated by CPP, Inc. ( **“CPP”** , **“we”** , or **“us”** ). We work diligently to protect the privacy, confidentiality, and security of the Personal Information that we receive. This Privacy Policy describes the principles and practices that apply to the Personal Information (defined below) that we collect from individuals online or offline (“visitor” or “you”), such as individuals who browse through our Site (defined below), register on the Site, use the services provided on the Site, interact with the Site, communicate with us through telephone, email, text or other communications means, participate in our interviews, surveys, or promotions, or read or receive our newsletters. 
+## Privacy Principles
 
-This Privacy Policy is based on the following values: 
+This Privacy Policy is based on the following privacy principles:
 
-  * We will not collect your Personal Information without your knowledge
-  * We will take reasonable measures to protect the security of your Personal Information
-  * We will not disclose your Personal Information to third parties other than as described in this Privacy Policy
-  * You will be able to view the Personal Information that we have about you, and to correct or modify it if it is inaccurate or incomplete.
+  * **Access** \- In those instances where we control your data, we will provide you with (i) the opportunity to confirm whether we are processing your Personal Information; (ii) a way to obtain a copy of your Personal Information that we process; (iii) the ability to restrict or object to processing of your Personal Information; and (iv) the ability to correct, amend, or delete Personal Information that is inaccurate; all within a reasonable amount of time from the time you submit such a request.
+  * **Accountability for Onward Transfer** \- We will not disclose your Personal Information to third parties other than as described in this Privacy Policy or our written agreements with you, and our agreements with third parties with whom we share Personal Information will reflect our privacy principles. 
+  * **Accuracy** \- We take reasonable steps to ensure that the Personal Information we have is accurate or rectified without delay if it is determined to be inaccurate.
+  * **Choice** \- We will provide you with mechanisms that will allow you to opt out of (i) our direct marketing campaigns; (ii) the disclosure of your Personal Information to third parties who are not acting as our agents; and (iii) the use of your Personal Information for purposes that are materially different from the purpose for which we originally collected the Personal Information. 
+  * **Data Integrity and Purpose Limitation** \- You will be able to (i) view the Personal Information that we have about you; (ii) correct or modify your Personal Information if it is inaccurate or incomplete; and (iii) limit the collection of data to such data that is relevant to the products and services we provide to you or on your behalf. 
+  * **Data Minimization** \- We process only that Personal Information which is adequate, relevant, and necessary to achieve the purposes for which it is collected
+  * **Integrity, Confidentiality, and Security** \- We take reasonable measures to protect the security of your Personal Information, and our agreements with third parties with whom we share Personal Information require similar protections.
+  * **Lawfulness, Fairness, and Transparency** \- We will process your Personal Information only when we have a legal basis for doing so, and we will process your Personal Information in a manner that is fair and transparent to you.
+  * **Notice** \- We will not collect or transfer your Personal Information without your knowledge. We inform you of such collection and transfer through this Privacy Policy, our written agreements with you, and other disclosures we make available on the Sites.
+  * **Purpose Limitation** \- We collect Personal Information only for specific, explicit, and legitimate purposes, and refrain from further processing that Personal Information in any manner that is incompatible with those purposes (subject to our reasonable archive, backup, and research practices).
+  * **Recourse, Enforcement, and Liability** \- We have processes for handling complaints relating to use of your Personal Information (see “Complaints and Disputes”).
+  * **Storage limitation** \- We keep data in personally-identifiable form only for as long as necessary to achieve the purposes for which it is being processed (subject to our reasonable archive, backup, and research practices).
 
 
 
-## QUICK LINKS
+## Quick Links
 
   * Definitions
-  * Consent
-  * Links to external sites
-  * What Personal Information we collect and how
-  * How we use Personal Information
-  * To whom we disclose Personal Information
-  * Cookies and other technologies
-  * How we retain Personal Information
-  * How we protect Personal Information
-  * Data accuracy
-  * Your rights
-  * Safe Harbor
-  * Complaints and disputes
-  * Reader Privacy Act
+  * Your Agreement to this Privacy Policy
+  * Links to External Sites
+  * What Personal Information We Collect and How
+  * How We Use Personal Information
+  * To Whom We Disclose Personal Information
+  * Cookies and Other Technologies
+  * How We Retain Personal Information
+  * How We Protect Personal Information
+  * Your Rights
+  * Privacy Shield
+  * Complaints and Disputes
   * Changes to the Privacy Policy
-  * Contact us
+  * Contact Us
 
 
 
-## DEFINITIONS
+## Definitions
 
 In this Privacy Policy, the following terms are defined as set forth in this section:
 
-“ **Assessment** ” means an instrument, questionnaire, or series of tests that are completed by an Assessment Taker in view of the preparation of a Report or to provide information about, or to, an Assessment Taker, Customer, or Test Administrator.
+  * **“Assessment”** means an instrument, questionnaire, or series of tests that are completed by one or more Respondents to provide information about a Respondent to the Respondent, to the Company and the Company's Customers, usually with the aim of generating one or more Reports.
+  * **“Certified Practitioner”** means an individual (i) who has successfully completed one or more of our certification programs for certain Assessments, (ii) one or more Assessments to one or more Respondents and (iii) who interprets the Reports (or other output generated by the Company) to provide feedback to the Respondent(s) about the Reports. 
+  * **“Child” or “Children”** means those individuals who are (i) in the United States and under age 13; (ii) in the European Union and under age 16; or (iii) in other countries or territories and under the minimum age of threshold to be considered an adult. 
+  * **“Customer”** means an individual, business, or other entity that purchases the Company's Products or Services, or with which the Company has a contractual relationship to provide Products or Services.
+  * **“Personal Information”** means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. Personal Information includes, for example, name, email address, mailing address, telephone number, billing information, account information, and other information incidental to providing or receiving Products or Services or which you may choose to provide to the Company. It also includes other information, such as IP address, device information, or other Session Data (as defined below) that can reasonably be linked to a specific individual, computer, or other device.
+  * **“Practitioner”** means an individual who administers one or more Assessments to one or more Respondents and who interprets the Reports (or other output generated by the Company) to provide feedback for the Respondent(s). 
+  * **“Products or Services”** means the products or services promoted, sold, or available for sale on the Sites, such as our Assessments, Reports, and supplemental materials.
+  * **“Reports”** means an analysis of the scoring and responses provided in connection with an Assessment, which a Practitioner or Customer may use to interpret a Respondent’s responses to an Assessment. Some Reports, such as those generated on www.mbtionline.com, do not require an interpretation from a Practitioner. 
+  * **“Respondent”** means an individual who takes, will take, or has taken an Assessment.
+  * **“Session Data”** means, as applicable, usage information, such as IP address, unique identifier of an individual’s mobile device, the type of browser, type of operating system, referring URL, date, time and duration of a visitor’s visit, the number of visits to a Site, the pages viewed, order of pages viewed, time spent on a particular page, the number of cookies accumulated, bytes sent, bytes received, protocol version, user agent, method, URI stem, URI query, or MAC address.
+  * **“Site”** means any websites that we may develop or have developed from time-to-time and includes, without limitation: www.themyersbriggs.com, elevate.themyersbriggs.com.com, www.mbtitype.com, and www.mbtionline.com
 
-“ **Assessment Taker** ” means an individual who takes, will take, or has taken an Assessment.
 
-“ **CPP Proprietary Methodology** ” means and includes, without limitation CPP’s proprietary scoring methods and algorithms and the research and training that has been developed by, or for, CPP as pertaining to Products or Services developed, or licensed by CPP.
 
-“ **Customer** ” means an individual, business, or other entity that purchases CPP’s Products or Services, including, without limitation: (a) an individual or business that purchases books or other materials sold by CPP; (b) an individual or business that purchases online Assessment services and Assessment Reports; (c) a Test Administrator (or employer of Test Administrator) who has a contractual relationship with CPP; and (d) an entity with which CPP has a contractual relationship to provide other Products or Services.
+##  Your Agreement to this Privacy Policy
 
-“ **Personal Information** ” means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, email address, mailing address, telephone number, billing information, account information, and other information incidental to providing or receiving Products or Services. It also includes other information, such as IP address, device information, or other Session Data that can reasonably be linked to a specific individual, computer or other device.
+By creating an account, using the Site(s), and/or submitting Personal Information to us, you agree to the practices described in this Privacy Policy, and you agree that we may collect, use, disclose, store, transmit, and/or process such Personal Information in accordance with this Privacy Policy or as required by law. 
 
-“ **Products or Services** ” means the Products or Services promoted, sold, or available for sale from the Site or through CPP personnel, such as the CPP online assessment center—currently [www.skillsone.com](http://www.skillsone.com/)—the CPP MBTIonline.com service, the iStartStrong® service, or the CPP books and materials.
+If you reside in a country or territory that restricts the transfer of Personal Information out of that country or territory, you agree to the transfer, storage, and processing of your Personal Information to countries that may not have data protection laws that provide the same level of protection as those that exist in your country of residence. 
 
-“ **Report** ” means an analysis of the scoring and responses provided in connection with an Assessment, that is developed using the CPP Proprietary Methodology, and which (i) a Test Administrator, using the CPP Proprietary Methodology, may interpret for an Assessment Taker during one or several feedback sessions or interpretation sessions; or (ii) a Customer may use in its business with the Assessment Taker.
+Children are not permitted to use the Sites. Should we discover that a Child has sent Personal Information directly to us, we will use that information only to respond directly to that Child to inform him/her that we will not continue to process his/her Personal Information.
 
-“ **Session Data** ” means, as applicable, usage information, such as IP address, unique identifier of an individual’s mobile device, the type of browser, type of operating system, referring URL, date, time and duration of a visitor’s visit, the number of visits to a Site, the pages viewed, order of pages viewed, time spent on a particular page, the number of cookies accumulated, bytes sent, bytes received, protocol version, user agent, method, URI stem, URI query, or MAC address.
+##  Links to External Sites
 
-“ **Site** ” means any of the following websites (or any other websites that CPP may develop or have developed from time to time): [www.cpp.com](http://www.cpp.com/), [www.skillsone.com](http://www.skillsone.com/), [online.cpp.com](http://www.online.cpp.com/), [www.cppiconsuccess.com](http://www.cppiconsuccess.com/), [fulfillment.cpp.com](http://fulfillment.cpp.com/), [www.cppsurveys.com](http://www.cppsurveys.com/), [mbtiresearch.skillsone.com](http://mbtiresearch.skillsone.com/), [www.mbtitalk.com](http://www.mbtitalk.com/), [people.cpp.com](http://people.cpp.com/), [elevate.cpp.com](http://elevate.cpp.com/), and [www.mbticomplete.com](http://www.mbticomplete.com/).
+The Sites may link to websites that are operated by third parties. Because such websites are not operated by the Company, they are not subject to this Privacy Policy. We recommend that you read the privacy statements that are posted on these third-party websites to understand their procedures for collecting, using, and disclosing Personal Information. 
 
-“ **Test Administrator** ” means an individual who has been trained in the CPP Proprietary Methodology or otherwise qualified to review Assessments using the CPP Proprietary Methodology, and who administers Assessments to Assessment Takers, analyzes the scores and Reports generated by CPP from these Assessments, interprets these scores and Reports using the CPP Proprietary Methodology, and, at the Test Administrator’s discretion provide these scores and reports to Assessments Takers.
+##  What Personal Information We Collect and How
 
-## CONSENT
+We collect only such Personal Information as necessary to (i) provide our Products or Services to you; (ii) inform you about our Products and Services; (iii) continue our research in the field; and (iv) improve our Sites, Products or Services, and your experience interacting with us. We describe below the different ways in which we collect or obtain Personal Information. Unless otherwise stated below, the legal basis for our processing of your Personal Information is our legitimate business interest in (i) providing the Sites, Products, or Services to you; or (ii) contacting or considering you as a candidate for employment with us. 
 
-By using the Site and/or submitting Personal Information to us, you consent to the practices described in this Privacy Policy and on the Site and agree that we may collect, use, disclose, store, transmit, or process such Personal Information in accordance with this Privacy Policy or as required by law.
+**If you visit the Sites** —If you visit the Sites, we automatically collect the related Session Data. Session Data is provided to us by your browser, by third-party integrations on our Sites, and through our log files, which record your activities while browsing our Sites, such as when you click on a link. We may record some of this data in one or more cookies that we send to your browser (see “Cookies and Other Technologies")
 
-If you reside in a country or territory that restricts the transfer of Personal Information out of that country or territory, you agree to the transfer, storage, and processing of your Personal Information to countries, including the United States, that may not have data protection laws that provide the same level of protection as those that exist in your country of residence.
+**If you register or create an account** —If you register or create an account, we require that you provide certain Personal Information during account registration. We collect your name, contact information, and other information, and may ask you for other optional information that helps us serve you better.
 
-**No children under 13 --** Children under 13 are not permitted to use the Site without their parents' or guardian’s consent. Should a child whom we know to be under 13 send Personal Information directly to us, we will use that information only to respond directly to that child to inform him/her that we must have parental consent before receiving his/her information.
+**If you complete an Assessment** —If a Respondent completes an Assessment, we collect the Respondent’s name, email address, contact information, Assessment responses, Session Data, and other information you may choose to provide or associate with your account. In some cases, we ask questions to which the response is optional (such as demographic questions), and these questions are identified as such. In some instances, these optional demographic questions may involve collection of special categories of Personal Information, such as information regarding your racial or ethnic origin. You are free not to respond to these optional questions. For all optional questions, our legal basis for processing your Personal Information is your explicit, informed consent. 
 
-If we become aware that a child under 13 has provided us with Personal Information without the consent of the child’s parent or guardian, we will automatically remove such information from our files. If the parent or guardian of a minor becomes aware that his/her child has provided us with Personal Information without his/her consent, he/she should contact us as indicated in the How to Contact Us section.
+**If you participate in a survey** —If you choose to participate in one of our surveys, we may collect Personal Information such as your name, email address, and any other Personal Information that you may provide in your survey responses. Participation in surveys is optional, and we give you the ability to opt out of being contacted for surveys at any time.
 
-## LINKS TO EXTERNAL SITES
+**If you sign up to receive marketing communications** —If you sign up to receive our marketing communications, we may collect information on the open rate of the communications, and whether a specific individual has clicked on a link contained in a particular communication.
 
-This Site may link to websites that are operated by third parties. These websites are not subject to this Privacy Policy. We recommend that you read the privacy statements that are posted on these third-party websites to understand their procedures for collecting, using, and disclosing Personal Information.
+**If you are a Customer or other business contact** —If you are a Customer or other business contact, or if you are an employee or agent of a Customer or business contact, we may collect your name, email address, telephone number, and other contact information in the regular course of our interaction with you.
 
-## WHAT PERSONAL INFORMATION WE COLLECT AND HOW
+**If you interact with third parties regarding our Products or Services** —We may receive Personal Information about you from third parties, such as from Customers, websites where we advertise, business partners, and service providers. Some of this information pertains to a specific individual; other information can only be linked to an access point or a device.
 
-We collect only such Personal Information as necessary to provide our Products or Services to you, inform you about our Products and Services, continue our research in the field, and improve our Site, Products, Services, and your experience interacting with CPP. In some cases, we ask questions to which the response is optional, and these questions are identified as such. You are free not to respond to these optional questions. We describe below the different ways in which we collect or obtain Personal Information.
+**If you apply for employment** —If you choose to apply for an open position of employment we have designated as available, we may collect Personal Information such as your name, email address, and any other Personal Information that you may provide in conjunction with your application. We use this information only to consider you as a candidate for the position for which you are applying and to contact you for legitimate purposes relating to that application. 
 
-**If you visit the Site --** If you visit the Site, we automatically collect the related Session Data. Session Data is provided to us by your browser and through our log files, which record your activities while browsing our Site, such as when you click on a link. We may record some of this data in one or several cookies that we send to your browser. We also use third-party analytics providers.
-
-**If you register or create an account --** If you register or create an account, we require that you fill out a form to register as a purchaser or Customer (as applicable). We collect your name, contact information, and other information, and may ask you for other optional information that helps us serve you better.
-
-If a potential Test Administrator creates an account, we collect additional information about the person’s practice, credentials, and education, as necessary to assess the qualifications of the applicant to purchase Assessment services.
-
-**If you purchase a Product or Service --** If you purchase a Product or Service, we collect your contact information as necessary to fulfill the order (such as name, address, shipping information, email address, or telephone number) and optional information if you provide it.
-
-If you purchase a Product or Service for delivery to, or use by, another person, we collect your Personal Information as the person initiating the purchase, and Personal Information about that other person (such as name, shipping address, telephone number or email address) as necessary to fulfill the order. By providing another person’s Personal Information, you represent that you have that person’s permission to do so.
-
-**If you pay for a Product or Service --** When you make a purchase online, we do not collect payment information ourselves. Instead, you are redirected to our payment processor’s website, which collects directly your payment information. CPP only receives a notice of the receipt of the payment, a confirmation number (for verification purposes), the name and contact information of the recipient of the Product or Service, and the name and contact information of the cardholder if different from the name of the person receiving the Product or Service.
-
-If we take an order over the phone or by fax, we collect the payment information directly from the person placing the order, transfer it to the payment card processor, and, after receiving confirmation of the payment from the payment card processor, we retain this payment information in a secured location, with restricted access, and in accordance with our internal record retention policy.
-
-**If you complete an Assessment --** If an Assessment Taker completes an Assessment at the direction of a Customer (e.g., an employer, a Test Administrator, etc.), whether online or offline, we collect the Assessment Taker’s unique identifier and in some cases, the Assessment Taker’s gender. The Assessment Taker also has the option to provide demographic information such as highest level of education attained or occupation. We collect the responses provided to the questions in the Assessment. In this case, we do not know the identity of the Assessment Taker. We only know the identity of the Test Administrator, and the unique identifier that has been assigned by the Test Administrator.
-
-If an Assessment Taker completes an Assessment on his own initiative (i.e., outside the scope of a relationship with a Customer), using our online service, we collect the Assessment Taker’s contact information, and in some cases, gender. The Assessment Taker also has the option to provide demographic information such as highest level of education attained or occupation. We collect the response provided to the questions in the Assessment. In this case, we know the identity of the Test Taker and that of the person who paid for the Assessment, if applicable.
-
-**If you participate in a survey --** If you choose to participate in one of our surveys, we may collect Personal Information such as your name, email address (to avoid duplicate responses), as well as any other Personal Information that you may provide in your survey responses. The responses from survey participants are compiled in an anonymized format.
-
-**If you sign up to receive a CPP newsletter --** If you sign up to receive a CPP newsletter, we may collect information on the open rate of the newsletter, and whether a specific individual has clicked on a link contained in a particular issue of our newsletter.
-
-**If you are a Customer or other business contact --** If you are a Customer or other business contact, or if you are an employee or agent of a Customer or business contact, we may collect your email address, telephone, contact information, and correspondence in the regular course of our interaction with you.
-
-**If you participate in our blogs or forums, or if you write to us --** We may collect the Personal Information that you provide in your correspondence and communications with us, or through your participation in surveys, blogs, and forums.
-
-**If you interact with third parties regarding our Products or Services --** We may receive Personal Information about you from third parties, such as from Customers, CPP distributors, Test Administrators, Test Administrators’ employers, websites where we advertise, business partners, and service providers. Some of this information pertains to a specific individual; other information can only be linked to an access point or a device.
-
-**If you become certified or qualified in our Products or Services --** If you become certified or otherwise qualified in one or more of our Products or Services, we collect information regarding the details of your certification or qualification, such as your name, the instruments in which you are certified/qualified, the date of your certification/qualification, and the current status of your certification/qualification.
-
-## HOW WE USE PERSONAL INFORMATION
+##  How We Use Personal Information
 
 We use Personal Information in order to provide and enhance the Products or Services that we offer as explained below:
 
-**To facilitate the use of the Site --** We use the Session Data to ease navigation throughout the Site, to enhance navigation, such as to determine the language of the country where the visitor is located, keep track of the shopping cart or keep track of login name and password in order to avoid requesting identity information when the visitor moves from page to page, and in general to enhance the quality of our Site and the content provided on the Site.
+**To facilitate the use of the Sites** —We use Session Data to ease navigation throughout the Sites, to enhance navigation, keep track of login name and password in order to avoid requesting identity information when the visitor moves from page to page, and in general to enhance the quality of our Sites and the content provided on the Sites.
 
-**In connection with Assessments --** We use the responses to an Assessment to score the Assessment and prepare the related Report about the Assessment Taker. The Report is delivered to our Customer. We retain a copy of your responses and the related Report in accordance with our record retention policy.
+**In connection with Assessments** —We use the responses to Assessments to score the Assessments and to generate Reports and other data related to the Respondents to those Assessments. We sometimes combine data from multiple Respondents (for example, in team reports). We may also combine Respondent data with our general research data, or compare or associate Respondent data with other Respondent data. Certain subsets of this data are made available to our Customers, but your Personal Information is only shared with a Customer if you complete an Assessment that has been sponsored by that Customer. 
 
-**To provide our Products and Services --** The Personal Information collected from purchase order forms is used to send orders to our Customers. The limited payment information that we receive from our payment processors is used to verify that a Product or Service has been paid for.
+**To validate certification status** —If you are or become a Certified Practitioner, we may share information regarding your certification, such as your name, the instruments in which you are certified/qualified, the date(s) of your certification/qualification, and the current status of your certification/qualification with individuals who inquire about such information. 
 
-**For research purposes --** We may use aggregated Session Data to better understand how our Site is navigated, how many visitors arrive at specific pages, which pages or content attract more viewers, the length and frequency of stays at our Site, the different types of searches of our Site content and databases, the types of browsers and computer operating systems that our visitors use, and the IP addresses from which visitors connect to our Site, in order to improve our Site and enhance our content.
+**For research purposes** —We may use aggregated Session Data to better understand how our Sites are navigated, how many visitors arrive at specific pages, which pages or content attract more viewers, the length and frequency of stays at our Sites, the different types of searches of our Sites’ content and databases, the types of browsers and computer operating systems that our visitors use, and the IP addresses from which visitors connect to our Sites, in order to improve our Sites and enhance our content. We may use IP addresses to gather broad demographic information—information that is not associated with any individual, and is therefore anonymous. We also use aggregated Assessment responses and other data to improve our Products and Services.
 
-We may use IP addresses to gather broad demographic information—information that is not associated with any individual, and is therefore anonymous. The IP addresses are then disposed of in accordance with our record retention policy.
+**For maintenance purposes** —We may use IP addresses and Session Data to diagnose problems with our server, and to administer our Sites.
 
-**For maintenance purposes --** We may use IP addresses and session data to diagnose problems with our server, and to administer our Site.
+**For marketing purposes** —We may use email addresses or other contact information to send mailings, newsletters, and other marketing communications regarding product information and releases. We may use your telephone number to contact you for marketing purposes. We may use pixel tags to monitor the open rate of our communications. This helps us understand the effectiveness of the communications that we send. We give you the ability to opt out of marketing communications at any time. 
 
-**For marketing purposes --** We may use email addresses or other contact information to send mailings, newsletters, and other marketing collateral regarding product information and releases. We may use your telephone number to contact you for marketing purposes. We may use pixel tags to monitor the open rate of our communications. This helps us understand the effectiveness of the communications that we send.
+**For survey analysis** —The information that we collect through our surveys is not used other than to garner survey results and statistical analysis.
 
-**For survey analysis --** The information that we collect through our surveys is not used other than to garner survey results and statistical analysis. Such data are used in aggregate form only and never disclose an individual's identity.
+##  To Whom We Disclose Personal Information
 
-## TO WHOM WE DISCLOSE PERSONAL INFORMATION
+From time to time, we may disclose Personal Information to someone other than the individual who provided the Personal Information, as further described below: 
 
-From time to time, we may disclose Personal Information to someone other than the individual who provided this information, as follows:
+**Customers** —The Company provides its Customers with the information that they need to properly administer or interpret Assessments. If you take an Assessment at the direction of one of our Customers, that Customer will receive from the Company one or more Reports based on the Assessment you took and the responses you provided to that Assessment so that the Customer may properly counsel or advise you or provide you with other services. 
 
-**Assessments Reports --** CPP provides its Customers with the information that they need to properly counsel or advise their clients, customers, and employees, as applicable. If you are taking an Assessment at the direction of one of our Customers, that Customer will receive from CPP a Report on the Assessment that you took, so that he or she may properly counsel or advise you or provide you with other services.
+**Gift Recipients** —If you purchase Products or Services for use by another individual (for example, as a gift), then we may provide the recipient of such Products or Services with your Personal Information. 
 
-**The Public --** If you are or become certified or qualified as a Test Administrator for our Products and Services, we may share information regarding your certification, such as your name, the instruments in which you are certified/qualified, the date of your certification/qualification, its scope, and the current status of your certification/qualification with the public, and you hereby authorize us to do so.
+**Service providers** —We may engage certain third parties to perform functions and provide services to us, including, without limitation, customer relationship management, contract management, order fulfillment, mass mailing, hosting and maintenance, database storage and management, business analytics, and direct marketing campaigns. As of the effective date of this Privacy Policy, the current list of service providers to whom we disclose Personal Information is as follows: 
 
-**Foreign Distributors --** CPP may provide its distributors in foreign markets with a list of Customers (including name and contact information) or prospective Customers residing in that distributor’s CPP-approved area of distribution. CPP will do so only when it reasonably believes that providing such information will permit to improve the service to CPP Customers or prospective Customers in that distributor’s area, and only when the distributor’s use of such information is in accordance with CPP’s privacy policies in general.
+  * Arkadin, Inc. (for telecommunications services); 
+  * FedEx Corporation (for shipping services); 
+  * Marketo, Inc. (for marketing communications); 
+  * Microsoft Corporation (for platform infrastructure services); 
+  * Mimecast Services Limited (for email archive services); 
+  * Mozy, Inc. (for backup and archive services); 
+  * PayPal, Inc. (for payment processing services); 
+  * Salesforce.com Inc. (for customer relationship management); 
+  * SendGrid, Inc. (for email delivery services); 
+  * United Parcel Service (for shipping services); and 
+  * Virtunet, LLC (for backup and recovery services). 
 
-**CPP Sites --** We may combine the information that we collect from different CPP Sites to supplement an individual’s profile, for example to combine the records of different purchases or different activities made or conducted from different CPP Sites.
 
-**Public Forums --** The Sites [www.cppiconsuccess.com](http://www.cppiconsuccess.com/) and [www.mbtitalk.com](http://www.mbtitalk.com/) offer publicly accessible blogs or community forums. any personal information that you provide on these blogs or forums may be read, collected, and used by others who access them.
 
-**Service providers --** We may engage certain third parties to perform functions and provide services to us, including, without limitation, customer relationship management, contract management, shipment, order fulfillment, payment credit card processing, mass mailing, hosting and maintenance, database storage and management, business analytics, fraud prevention, and direct marketing campaign service providers. For example, If during the creation of your account, you affirmatively indicate to us that you are exempt from taxes, we share your email address with our service provider who will email you a link describing how you can use their service to verify your tax-exempt status.
+Pursuant to written agreements between the Company and these service providers, each of these service providers only has access to such Personal Information as necessary to fulfill its obligation to the Company, is not permitted to use Personal Information for any purposes other than those directed by the Company, and is required to act in a manner consistent with the privacy principles articulated in this Privacy Policy and applicable law.
 
-Pursuant to written agreements between CPP and these service providers, each of these service providers only has access to such Personal Information as necessary to fulfill its obligation to CPP, is not permitted to use Personal Information for any purposes other than those directed by CPP, and is required to act in a manner consistent with the relevant principles articulated in this Policy.
+**Foreign Distributors** —-- We may provide Personal Information to our distributors in foreign markets. We only do so when we believe that providing such information will permit us to improve the Products or Services provided to Customers in that distributor’s territory, and only when the distributor’s use of such Personal Information is in accordance with the privacy principles described in this Privacy Policy. As of the effective date of this Privacy Policy, the Company’s distributors in foreign markets include: 
 
-Certain of CPP’s service providers may collect Personal Information about your online activities over time and across different websites when you use CPP Sites.
+  * Assesta, Ltd. (South Korea); 
+  * The Myers-Briggs Company Pte Ltd (Brunei; Cambodia; Indonesia; Malaysia; Mongolia; Myanmar; and Singapore); 
+  * The Myers-Briggs Company Pty Ltd (Australia; Bangladesh; China; Hong Kong; India; Indonesia; Malaysia; Nepal; Pakistan; Singapore; Sri Lanka; and Taiwan); 
+  * Fellipelli Consultoria e Diagnosticos (Argentina; and Brazil); 
+  * Global Jobs Capacitacion S.P.A. (Chile); 
+  * HDS Diagnostico Y Desarollo de Talento (Mexico); 
+  * Heart to Heart Communication Consulting and Human Development (Egypt); 
+  * Innovative HR Solutions (Bahrain; Kuwait; Oman; Qatar; Saudi Arabia; and the United Arab Emirates); 
+  * Jopie Van Rooyen and Partners (Angola; Benin; Botswana; Burkina Faso; Burundi; Cameroon; Cape Verde; Central African Republic; Chad; Comoros; Republic of the Congo; Democratic Republic of the Congo; Cote d'Ivoire; Djibouti; Equatorial Guinea; Eritrea; Gabon; The Gambia; Ghana; Glorioso Islands; Guinea; Guinea-Bissau; Kenya; Lesotho; Liberia; Madagascar; Malawi; Mali; Mauritania; Mauritius; Mayotte; Mozambique; Namibia; Niger; Nigeria; Reunion Island; Rwanda; Sao Tome and Principe; Senegal; Seychelles; Sierra Leone; Somalia; South Africa; South Sudan; Sudan; Swaziland; Tanzania; Togo; Uganda; Zambia; and Zimbabwe); 
+  * JPP Co., Ltd. (Japan); 
+  * Levy Consulting (Israel); 
+  * The Myers-Briggs Company Limited (Albania; Andorra; Austria; Belarus; Belgium; Bosnia Herzegovina; Bulgaria; Croatia; Czech Republic; Cyprus; Denmark; Estonia; Finland; France; Germany; Gibraltar; Greece; Greenland; Hungary; Iceland; Ireland; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Macedonia; Malta; Moldova; Monaco; Montenegro; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovak Republic; Slovenia; Sweden; Switzerland; The Netherlands; Turkey; Ukraine; United Kingdom; Vatican City; and Yugoslavia); and 
+  * Psychometrics Canada, Ltd. (Canada). 
 
-**To defend or enforce our rights --** CPP may use Personal Information to protect itself or to protect the Site, to respond to a breach of its Terms and Conditions, to prevent fraudulent activity, or where it is necessary to pursue available remedies. If a Customer neglects to pay amounts due and owing to CPP, CPP may send that CPP customer’s name, contact information, and account information to a third-party service provider for collection of overdue payments.
 
-**Co-marketing --** We may collaborate with other companies to offer you additional Products or Services (e.g., book publishers). We will share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested. This Privacy Policy does not cover the use of your Personal Information by these companies. We encourage you to read a company’s privacy policy before requesting any of its Products or Services.
 
-**Mergers & Acquisition; Bankruptcy --** If any or all of the CPP assets are acquired by, or merged with those of another entity, or in the unlikely event of a bankruptcy, we may disclose, share or transfer some or all of our users’ personal information to or with this entity in preparation of the transaction, as part of the due diligence, or after the transaction has been consummated, so that the successor entity can continue providing our services to our users. If the recipient of the personal information has personal information practices that do not meet the substance of this Privacy Policy, you will be given the opportunity to exercise your rights with respect to your Personal Information.
+If our processing of your Personal Information requires transfer of your Personal Information to countries outside of the European Economic Area or to an international organization, we will only do so when we can ensure that the level of protection of your Personal Information will not be undermined. To achieve this, we rely on a variety of data transfer mechanisms, including adequacy determinations by the European Commission, appropriate safeguards such as standard contractual clauses, or binding corporate rules. 
 
-**Law Enforcement; Litigation --** Certain federal, state, local, or other government regulations may require that we disclose information that we hold. In such cases, we will use reasonable efforts to disclose only the Personal Information required under applicable law, such as in response to a facially valid court order, warrant or subpoena issued or made by a court, person or body. We may use or disclose Personal Information (a) if we believe in good faith that a law, regulation, rule or guideline requires it; or (b) to a person who needs the information because of an emergency that threatens the life, health or security of an identified group or person.
+**To defend or enforce our rights** —The Company may use Personal Information to protect itself or to protect the Sites, to respond to a breach of its Terms of Service (or other applicable legal terms), to prevent fraudulent activity, or where it is necessary to pursue available remedies. If a Customer neglects to pay amounts due and owing to the Company, the Company may send that Customer’s name, contact information, and account information to a third-party service provider for collection of overdue payments.
 
-**Aggregated data --** Other than as stated above, if CPP provides a third-party with Personal Information, it will be in the form of aggregated data and used for product development, research, or statistical analysis. Aggregated data are created from records that are stripped of all personal identifiers, such as a combination of thousands of answers to survey questions and instrument responses, or on-site behavior.
+**Co-Marketing Partners** —We may collaborate with other companies to offer you additional Products or Services. We may share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested. This Privacy Policy does not cover the use of your Personal Information by these companies. We encourage you to read a company’s Privacy Policy before requesting any affected Products or Services. 
 
-## COOKIES AND OTHER TECHNOLOGIES
+**Mergers & Acquisition; Bankruptcy**—If any or all of the Company's assets are acquired by or merged with those of another entity, or in the unlikely event of a bankruptcy, we may disclose, share or transfer some or all of our users’ personal information to or with this entity in preparation of the transaction, as part of the due diligence, or after the transaction has been consummated, so that the successor entity can continue providing our services to our users. If the recipient of the Personal Information has privacy practices that do not meet the substance of this Privacy Policy, you will be given the opportunity to exercise your rights with respect to your Personal Information.
 
-A cookie is a small text file that a website sends to a visitor’s browser and that sends back information each time the visitor makes a request from the website. A cookie contains a unique identification number that identifies the visitor’s browser, but not necessarily the visitor. Cookies can be accepted, rejected, or identified by configuring a browser’s preferences. Pixel tags or clear gifs are tiny graphics with a unique identifier, that are embedded invisibly on a webpage and are used to track a visitor’s movements on a website. We do not tie the information gathered by clear gifs to Personal Information. You can learn more about cookies by visiting [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or [http://networkadvertising.org](http://networkadvertising.org/). We may also make use of “Flash cookies” or “local shared objects” for purposes similar to cookies.
+**Law Enforcement; Litigation** —Certain federal, state, local, or other government regulations may require that we disclose information that we hold. In such cases, we will use reasonable efforts to disclose only the Personal Information required under applicable law, such as in response to a facially valid court order, warrant or subpoena issued or made by a court, person or body. We may use or disclose Personal Information (a) if we believe in good faith that a law, regulation, rule or guideline requires it; or (b) to a person who needs the information because of an emergency that threatens the life, health or security of an identified group or person.
 
-Cookies and pixel tags are used to help recognize a returning visitor, and to help customize the visitor’s online experience. Unless a visitor specifically informs us of his/her identity (e.g., by registering with us), we will not know who the individual visitor is. The Site uses cookies as follows:
+**Aggregated data** —Other than as stated above, if the Company provides a third-party with Personal Information, it will be in the form of aggregated data and used for product development, research, or statistical analysis. Aggregated data are created from records that are stripped of all personal identifiers, such as aggregated Assessment responses, or on-site behavior.
 
-Cookie Type and Content | Site  
----|---  
-Session based information |  [online.cpp.com](http://online.cpp.com/)  
-[fulfillment.cpp.com](http://fulfillment.cpp.com/)  
-[www.cppsurveys.com](http://www.cppsurveys.com/)  
-[people.cpp.com](http://people.cpp.com/)  
-[mbtiresearch.skillsone.com](http://mbtiresearch.skillsone.com/)  
-[www.mbticomplete.com](http://mbticomplete.com/)  
-[elevate.cpp.com](http://elevate.cpp.com/)  
-Order and shopping cart information |  [www.cpp.com](http://www.cpp.com/)  
-[elevate.cpp.com](http://elevate.cpp.com/)  
-Order processing |  [www.skillsone.com](http://www.skillsone.com/)  
-[www.mbticomplete.com](http://www.mbticomplete.com/)  
-Store and hash the user name and password so that users do not have to re-enter this information each time they comment on the blog or log in |  [www.cppiconsuccess.com](http://www.cppiconsuccess.com/)  
-[www.mbtitalk.com](http://www.mbtitalk.com/)  
-  
-User account information and eligibility to make a purchase; deleted when the visitor logs out or when the browser is closed. |  [www.skillsone.com](http://www.skillsone.com/)  
-[elevate.cpp.com](http://elevate.cpp.com/)  
-  
-**Third Parties Tracking Technologies --** Our third party advertising partner employs pixel tags that help us better manage content on our Site by informing us what content is effective.
+**The Public** —Certain of our Sites offer publicly-accessible blogs or community forums and any Personal Information you provide on these blogs or forums may be read, collected, and used by others who access those Sites. We encourage you to be thoughtful of what Personal Information you choose to provide on such Sites.
 
-**Do Not Track --** CPP Sites do not respond to “do not track” signals or other mechanisms that provide the ability to exercise choice regarding the collection of Personal Information about online activities over time and across different websites.
+##  Cookies and Other Technologies
 
-## HOW WE RETAIN PERSONAL INFORMATION
+A cookie is a small text file that a website sends to a visitor’s browser and that sends back information each time the visitor makes a request from the website.  A cookie contains a unique identification number that identifies the visitor’s browser, but not necessarily the visitor.  Cookies can be accepted, rejected, or identified by configuring a browser’s preferences or settings.  Pixel tags or clear gifs are tiny graphics with a unique identifier that are embedded invisibly on a webpage and are used to track a visitor’s movements on a website.  We use the information gathered by clear gifs to help us better manage content on the Sites.  Cookies and pixel tags are used to help recognize a returning visitor, and to help customize the visitor’s online experience.  Unless a visitor specifically informs us of his/her identity (e.g., by registering with us), we will not know who the individual visitor is. 
 
-We retain scored item responses and the related Report associated with the user ID or transaction number that our Customer provided us in accordance with our internal record retention policy and for at least two (2) years from the date when an Assessment Taker took an Assessment, unless a Customer directs us otherwise. We retain scored item responses and Reports in an anonymized (e.g., non-personally identifiable) format, for as long as the information is needed for our research, statistical analysis, or product development.
+The Site uses cookies as follows:
 
-## HOW WE PROTECT PERSONAL INFORMATION
+  * to collect Session Data and other session information;
+  * to process orders and to store order and shopping cart information;
+  * to store and hash usernames and passwords so that users do not have to re-enter this information each time they log in; and
+  * to collect analytics relating to visitors’ use of the Site.
 
-**Security --** We follow generally accepted industry standards to protect Personal Information, during transmission and once we receive it. We use administrative, physical, and technical measures designed to protect it from any unauthorized access, loss, misuse, disclosure, alteration, or destruction.
 
-When we need to transfer information out of our firewall, we use industry-standard technological means to protect Personal Information while in transit through the Internet. We use encryption and a comprehensive authentication protocol to provide reasonable security.
 
-No method of transmission over the Internet, or method of electronic storage, is fully secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+For more information about our specific use of cookies on the Sites, please visit the “Cookies” section on the relevant Site(s). 
 
-**Identity Theft --** Identity theft and the practice currently known as “phishing” are of great concern to us. For more information about protecting yourself from these practices, you may want to visit <http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.shtm>. Please understand that you also have a responsibility in protecting your information. The only time when a CPP associate may contact you (via electronic communication, postal mail, telephone, etc.) about your credit card or payment information is in connection with a transaction that you have initiated. Otherwise, no one from CPP is permitted to contact anyone to request your credit card information, user ID, password, national identification number, or other identifier or sensitive information in a non-secure or unsolicited email or telephone communication.
+The Sites do not respond to “do not track” signals or other similar mechanisms. 
 
-## DATA ACCURACY
+## How We Retain Personal Information
 
-We exercise reasonable efforts to keep your Personal Information accurate. However, we need your help in making sure that your Personal Information is correct in our systems. Please notify us of changes to information that you have previously provided by contacting us as indicated in the “Contact Us” section.
+As a general principle, we keep data in personally-identifiable form only for as long as necessary to achieve the purposes for which it is being processed (subject to our reasonable archive, backup, and research practices). In practice, that generally means we may retain your Personal Information (i) for as long as your account remains active; (ii) for as long as you continue to do business with us; or (iii) for as long as we are required to by applicable law. When your account becomes inactive (as determined by us in our sole discretion), or if you cease doing business with us, we may retain your Personal Information for an additional period for our reasonable archive and backup purposes. The duration of our retention of your Personal Information may be set forth more specifically in our written agreement(s) with you, or our applicable Terms of Service or other legal terms. At all times, both while you are an active Customer, Practitioner, Respondent, or other registered user and thereafter, we may retain Assessment responses and other data in non-personally-identifiable format for as long as the information is needed for our research, statistical analysis, product development, or other commercial purposes. 
 
-## YOUR RIGHTS
+##  How We Protect Personal Information
 
-**Right of access, modification --** If you wish to have access to your Personal Information, or to correct or update the Personal Information that you have provided to CPP, please contact us with proof of identity, as provided in the Contact Us section. You can expect a response to your request within 30 days.
+We follow generally-accepted industry standards to protect Personal Information, both during transmission and once we receive it. We use administrative, physical, and technical measures designed to protect Personal Information from unauthorized access, loss, misuse, disclosure, alteration, or destruction. 
 
-If you are an Assessment Taker, and you wish to have access to a copy of your responses to an Assessment, or a copy of the Assessment Report that CPP prepared from the evaluation of your responses, please contact CPP’s customer service center.
+When we need to transfer information out of our firewall, we use industry-standard technological means to protect Personal Information while in transit through the Internet. We use encryption and a comprehensive authentication protocol to provide reasonable security. 
 
-If you wish to have access to the Assessment Report that CPP prepared about a third party, for example if you paid for a third party to take an Assessment, please contact the Test Administrator who is managing this specific Assessment.
+No method of transmission over the Internet, or method of electronic storage, is fully secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
 
-**Right of deletion --** If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us with proof of identity, as set forth in the Contact Us section. We will accommodate your request to the extent practicable, and to the extent that it does not otherwise conflict any of our other obligations. We reserve the right to retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+##  Your Rights
 
-Right to opt-out of the use of your Personal Information -- You may unsubscribe from receiving any of the CPP surveys by selecting the appropriate option during account setup or modification once you are logged into your account. You may unsubscribe from receiving a newsletter by clicking on the unsubscribe link provided in the newsletter.
+We respect your rights as a data subject. In those instances when we are a data controller, we provide you with the rights described below. In those instances where we are a data processor, we will reasonably assist the data controller in facilitating your ability to exercise the rights below. 
 
-If you wish to opt-out of the use or sharing of your Personal Information, or if you wish that your Personal Information be removed from our blog or community forum, [www.cppiconsuccess.com](http://www.cppiconsuccess.com/) and [www.mbtitalk.com](http://www.mbtitalk.com/), you can always do so by contacting us as set forth in the Contact Us section. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+**Right of access** —You have the right to obtain confirmation as to whether or not your Personal Information is being processed. If your Personal Information is being processed, you have the right to access your Personal Information and the following information: (a) the purposes of the processing; (b) the categories of Personal Information concerned; (c) the recipients or categories of recipients to whom your Personal Information has been or will be disclosed (including international organizations and recipients in other countries); (d) where possible, the period for which your Personal Information will be stored or the criteria used to determine that period; (e) the existence of your right to request that the data controller rectify or erase your Personal Information, or restrict processing of your Personal Information, or to object to processing of your Personal Information; (f) your right to lodge a complaint with a supervisory authority; (g) the source of your Personal Information (if it was not obtained from you directly); and (h) the existence of any automated decision-making (including profiling) along with meaningful information about the logic of such automated decision-making and its consequences. 
 
-**Right to block cookies --** You have the right to block cookies and pixel tags. Most browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies, or prompt you before accepting a cookie from the Site that you visit. If you decide not to accept our cookies, you will be able to access those parts of our Site that are available to the general public, but you will not be able to access most of our Products or Services.
+**Right to rectification** —You have the right to rectify inaccurate Personal Information concerning you. Taking into account the purposes of the processing, in some instances you will have the right to have incomplete Personal Information completed by providing supplementary written statements to us. 
 
-**California Privacy Rights --** California law requires that individuals be informed when their Personal Information is shared with third parties for these third parties’ direct marketing purposes. Other than as described in this Privacy Policy, we do not disclose your Personal Information to third parties for the direct marketing purposes of these third parties. If our practices change in the future, we will inform you of the change and will provide you with an opportunity to opt out of such information sharing for direct purposes of a third party.
+**Right to erasure** —You have the right to request erasure of your Personal Information when one of the following applies: (a) your Personal Information is no longer needed to achieve the purpose(s) for which it was originally collected or processed; (b) the processing of your Personal Information is based on your consent, you choose to withdraw that consent, and we have no other legal basis for ongoing processing; (c) you object to the processing and we have no overriding legitimate grounds for ongoing processing; (d) your Personal Information has been processed unlawfully; or (e) your Personal Information must be erased for compliance with applicable law. In those instances where you exercise this right against the Company as the data controller, we will accommodate your request to the extent practicable, and to the extent that it does not otherwise conflict with any of our other obligations. We reserve the right to retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our contractual agreements. 
 
-## SAFE HARBOR
+**Right to restriction of processing** —You have the right to restrict processing of your Personal Information where one of the following applies: (a) you contest the accuracy of your Personal Information, in which case processing will be restricted for a period allowing the data controller to verify or rectify the accuracy of your Personal Information; (b) processing of your Personal Information is unlawful; (c) processing of your Personal Information is no longer necessary for the purpose(s) for which it was collected or processed but you require it for the establishment, exercise, or defense of legal claims; or (d) you object to the processing, in which case processing will be restricted for a period allowing the controller to demonstrate whether legitimate grounds exist that override your objection. 
 
-For Personal Information of individuals that CPP receives from the European Economic Area or Switzerland, CPP has committed to handling such information in accordance with the U.S. – EU and the U.S. – Switzerland Safe Harbor Principles. CPP adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Information regarding the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>. CPP’s Safe Harbor certification can be found at <http://safeharbor.export.gov/companyinfo.aspx?id=14621>. To learn more about the Safe Harbor program, please visit the US Department of Commerce website at <http://export.gov/safeharbor>.
+**Right to data portability** —Where technically feasible, and as related to Personal Information you have provided to a data controller based on your consent or a contract with you, you have the right to receive that Personal Information in a structured, commonly-used and machine-readable format and to transmit that Personal Information to another controller if the processing of that Personal Information is performed by automated means. 
 
-CPP has established procedures for periodically verifying implementation of and compliance with the Safe Harbor principles. CPP conducts an annual self-assessment of its Personal Information practices to verify that the attestations and assertions that it makes about its privacy practices are true and that its privacy practices have been implemented as represented.
+**Right to object to processing** —In certain instances, you may have the right to object to processing of your Personal Information. Should you so object, the controller of your Personal Information must stop processing your Personal Information unless the controller can demonstrate (i) compelling legitimate grounds for ongoing processing of your Personal Information that override your objection; or (ii) the need for the establishment, exercise, or defense of legal claims. 
 
-## COMPLAINTS AND DISPUTES
+**Right not to be subject to automated decision-making** —In certain instances, you have the right not to be subject to decisions based solely on automated processing (including profiling) that produces legal effects concerning you or otherwise significantly affects you. As of the effective date of this Privacy Policy, we do not engage in any such automated decision-making or profiling. 
 
-If you have questions or complaints regarding our privacy policy or practices, you should first contact the Legal Department of CPP as indicated in the section “Contact Us” below. We will respond to your questions and will attempt to resolve all complaints promptly.
+**Right to opt-out of marketing communications** —If you are receiving marketing communications from us and you wish to unsubscribe, you may do so by clicking on the “unsubscribe” link provided in the communication or by managing your marketing communication preferences on the Site(s).
 
-If our efforts to resolve your complaint through CPP’s internal dispute resolution mechanisms are unsatisfactory, you agree to first attempt settle in good faith the dispute through mediation administered by JAMS, under its International Mediation Rules, which are accessible on the JAMS website at <http://www.jamsadr.com/international-mediation-rules/>. The mediator may propose any appropriate remedy, such as publicity for findings of non-compliance, payment of compensation for losses incurred as a result of non-compliance, or cessation of processing of the Personal Information who has brought the complaint. The mediation will be held online and all documents and other correspondence will be transmitted through email.
+**Right to block cookies** —You have the right to block pixel tags and certain cookies. Most browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies, or prompt you before accepting a cookie from the Site that you visit. If you decide not to accept our cookies, you may not be able to access portions of our Products or Services. Some cookies are strictly necessary for us to deliver the Sites or Products or Services, and those cookies cannot be disabled. 
 
-If our efforts to resolve the dispute through mediation are unsuccessful, you agree to binding arbitration administrated by JAMS pursuant to its International Arbitration Rules, which are accessible on the JAMS website at <http://www.jamsadr.com/international-mediation-rules/>. Judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction over the matter. The arbitration will be held online and all documents and other correspondence will be transmitted through email.
+**California Privacy Rights** —California law requires that individuals be informed when their Personal Information is shared with third parties for these third parties’ direct marketing purposes. Other than as described in this Privacy Policy, we do not disclose your Personal Information to third parties for the direct marketing purposes of these third parties. If our practices change in the future, we will inform you of the change and will provide you with an opportunity to opt out of such information sharing for direct purposes of a third party.
 
-## READER PRIVACY ACT
+If the Company is the controller of your Personal Information and you wish to exercise any of the rights described above, please contact us with proof of identity, as provided in the “Contact Us” section. In general, you can expect a response to your request within 30 days. However, if your request is complex or involves a high volume of data, the Company may inform you that the request could take up to an additional sixty (60) days. In some instances, fees may apply. If the Company is not the controller of your Personal Information, we will ask you to direct your request to the data controller, and the Company will reasonably assist the data controller in facilitating the request. 
 
-CPP complies with the Reader Privacy Act, California Civil Code §1798.90. Because CPP has received fewer requests for personal information than is specified in the Act, CPP has not prepared a report of those disclosures of personal information.
+##  Privacy Shield
 
-## CHANGES TO THE PRIVACY POLICY
+The Company complies with the E.U.-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. The Company has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/)
 
-We may from time to time change this Privacy Policy. If we make material changes, we will place a prominent notice on the Site or will send you a notice to the email address that you provided to us.
+The Company has established procedures for periodically verifying implementation of and compliance with the Privacy Shield Privacy Principles. We conduct an annual self-assessment of its Personal Information practices to verify that the attestations and assertions that it makes about its privacy practices are true and that its privacy practices have been implemented as represented. 
 
-## CONTACT US
+In the context of an onward transfer, a Privacy Shield organization has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. The Privacy Shield organization shall remain liable under the principles of the Privacy Shield if its agent processes such personal information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
 
-If you have any question about (a) this Privacy Policy, or (b) the collection, use, management, or disclosure of your Personal Information, or (c) accessing, modifying, or closing your account, please contact us as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them.
+In compliance with the Privacy Shield Principles, the Company commits to resolve complaints about our collection or use of your personal information. E.U. and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact the Company at the information provided in the "Contact Us" section below. 
 
-By email: [custserv@cpp.com](mailto:privacy@cpp.com)  
-By phone: 800-624-1765 (toll free when calling from the United States)  
-or  
-(1) 650-969-8901  
-By mail: CPP, Inc.  
-Legal Department  
-185 N Wolfe Rd,  
-Sunnyvale, CA 94086  
-USA 
+The Company has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit JAMS for more information or to file a complaint. The services of JAMS are provided to you at no cost.
+
+The Company commits to cooperating with E.U. data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the E.U. and Switzerland in the context of the employment relationship. 
+
+Under certain conditions, EU Citizens may invoke binding arbitration by a Privacy Shield panel, as outlined in Annex I of the Privacy Shield Framework. More information is available at [www.privacyshield.gov](http://www.privacyshield.gov/).
+
+##  Complaints and Disputes
+
+If you have questions or complaints regarding our Privacy Policy or practices, you should first contact us as indicated in the “Contact Us” section below. 
+
+Except as otherwise set forth under the ‘Privacy Shield’ section above for personal information originating in the E.U. or Switzerland, if our efforts to resolve your complaint through the Company’s internal dispute resolution mechanisms are unsatisfactory, you agree to first attempt to settle in good faith the dispute through mediation administered by JAMS, under its International Mediation Rules, which are accessible on the JAMS website at <http://www.jamsadr.com/international-mediation-rules/>.  The mediator may propose any appropriate remedy, such as publicity for findings of non-compliance, payment of compensation for losses incurred as a result of non-compliance, or cessation of processing of the Personal Information who has brought the complaint. The mediation will be held online and all documents and other correspondence will be transmitted through email. 
+
+If our efforts to resolve the dispute through mediation are unsuccessful, you agree to binding arbitration administered by JAMS pursuant to its International Arbitration Rules, which are accessible on the JAMS website at [http://www.jamsadr.com/international-arbitration-rules/](http://www.jamsadr.com/international-mediation-rules/).  Judgment on the award rendered by the arbitrator may be entered into any court having jurisdiction over the matter.  The arbitration will be held online and all documents and other correspondence will be transmitted through email. 
+
+You also have the right to complain to the relevant data protection Supervisory Authority. The UK Information Commissioner’s Office (ICO) is the relevant Supervisory Authority for The Myers-Briggs Company Limited (our UK-based subsidiary) and its European branch offices. We would appreciate the chance to deal with your concerns before you approach the ICO. You can however contact the ICO as follows:
+
+Information Commissioner’s Office  
+Wycliffe House, Water Lane  
+Wilmslow, Cheshire SK9 5AF
+
+Email: casework@ico.org.uk  
+Telephone: + 44 303 123 1113  
+Website: www.ico.org.uk 
+
+##  Changes to this Privacy Policy
+
+We may change this Privacy Policy from time to time. If we make material changes, we will place a prominent notice on the affected Site(s) or we will send you a notice to the email address associated with your account.
+
+##  Contact Us
+
+If you have any question about (a) this Privacy Policy, or (b) the collection, use, management, or disclosure of your Personal Information, or (c) accessing, modifying, or closing your account, please contact us as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them. 
+
+By email: [support.us@themyersbriggs.com](mailto:support.us@themyersbriggs.com)  
+By phone: +1 800 624 1765 (toll-free when calling from the United States)  
+              or:  +1 650 969 8901  
+By mail: The Myers-Briggs Company   
+                185 N. Wolfe Road  
+                Sunnyvale, CA 94086  
+                United States of America
+
+For purposes of the General Data Protection Regulation (“GDPR”), TMBCthe Company’s EU Representative is The Myers-Briggs Company Holdings (Europe) Limited, a subsidiary of The Myers-Briggs Company, and a company registered in England and Wales. Liam O’Connor is the designated point of contact for our EU Representative. Please contact The Myers-Briggs Company Holdings (Europe) Limited at Elsfield Hall, 15-17 Elsfield Way, Oxford OX2 8EP or [dleurep@themyersbriggs.com](mailto:dleurep@themyersbriggs.com). 
