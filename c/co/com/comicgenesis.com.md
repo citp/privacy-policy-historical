@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicgenesis.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917221209id_/http%3A//www.keenspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicgenesis.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410200450id_/http%3A//www.keenspot.com/privacy.html) for the most accurate reproduction.*
 
 # Keenspot.com: Privacy Policy
 
