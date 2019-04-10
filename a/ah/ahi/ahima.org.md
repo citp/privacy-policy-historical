@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230154750id_/http%3A//www.ahima.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410065427id_/http%3A//www.ahima.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
