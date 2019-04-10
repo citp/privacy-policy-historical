@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hookelabs.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029000814id_/http%3A//hookelabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookelabs.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410141501id_/https%3A//hookelabs.com/privacy) for the most accurate reproduction.*
 
 # Hooke - Privacy Policy
 
@@ -12,7 +12,7 @@ Information you voluntarily give us through your contact with us via email, in p
 
 ## Cookies
 
-Our web site may use cookies to make your access to our site easier. If you choose to disable cookies in your browser, you may encounter minor inconveniences in viewing our web site. We strive to minimize such problems; please inform us of ways to improve.
+Our web site does not use cookies, and never has.
 
 ## Use of your information
 
@@ -30,4 +30,4 @@ For your convenience and information, links are provided from this website to ot
 
 This policy may be updated in the future. Any revisions will be posted here.
 
-Version: 2008-01-22
+Version: 2018-05-23
