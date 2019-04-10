@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229022321id_/https%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410120710id_/https%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Marie Forleo
 
 #### Privacy Policy
 
-Last Updated 19 September 2018
+Last Updated 6 February 2019
 
 We at Marie Forleo International, Inc. (“Marie Forleo International,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared.  This Privacy Policy applies to our information collection and use practices in connection with: (i) our websites, including, without limitation, marieforleo.com, programs.marieforleo.com, marieforleobschool.com, thecopycure.com, starttherightbusiness.com, and makeeverymanwantyou.com (the “Websites”); and (ii) the information you provide to us offline, including, without limitation, via phone and email. 
 
@@ -14,7 +14,7 @@ This Privacy Policy applies to visitors to the Websites, who view only publicly-
 
 By visiting any of our Websites, Visitors are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use.   
 
-By registering with us and purchasing a product or service through one of our Websites, each Registered User is agreeing to the terms of this Privacy Policy, the accompanying Terms of Use, 
+By registering with us and purchasing a product or service through one of our Websites, each Registered User is agreeing to the terms of this Privacy Policy, the accompanying Terms of Use.
 
 By providing us information offline, you are also agreeing to the terms of this Privacy Policy.
 
@@ -30,9 +30,11 @@ In addition, the Privacy Shield Notice should be reviewed if your personal infor
 
 In the course of operating the Websites and/or interacting with you, we will collect (and/or receive) the following types of information.
 
-##### 1\. Personal Information.
+##### 1\. Contact Information.
 
-When you sign up to receive any of our newsletters, respond to a survey, register for a class, purchase any product or service, or sign up to become our affiliate partner, you may be required to provide us with certain information about yourself, such as your name, address, e-mail address, address, social media information, phone number, Pay Pal address (only if you sign up to become our  affiliate partner) and SSN#/Tax ID# (only if you sign up to become our affiliate partner) (the “Contact Information”). The Contact Information is used to provide the requested product or service or information and to contact you for purposes of direct marketing of our current and future products and services.  
+When you sign up to receive any of our newsletters, respond to a survey, register for a class, purchase any product or service, or sign up to become our affiliate partner, you may be required to provide us with certain information about yourself, such as your name, address, e-mail address, address, social media information, phone number, PayPal address (only if you sign up to become our affiliate partner) and SSN#/Tax ID# (only if you sign up to become our affiliate partner) (the “Contact Information”). The Contact Information is used to provide the requested product or service or information and to contact you for purposes of direct marketing of our current and future products and services.
+
+If you land on one of our pages through an affiliate partner link and provide us Contact Information (e.g., to request information, purchase a product or service), we may share your name and e-mail address to such affiliate partner to let him/her know that you were referred and in case (s)he has offered you any bonuses or rewards for following their referral link. We have no control over how affiliate partners may use your information after it has been received and we are not responsible for fulfilling any bonuses that such affiliate partners may have offered you; where applicable, please check such affiliate partners’ privacy policies and terms of use for more information on how they may use your personal information.
 
 ##### **2\. Order Information.**
 
@@ -79,6 +81,8 @@ For Facebook, please visit: [http://www.facebook.com/about/privacy](http://www.f
 
 For Twitter, please visit: [https://twitter.com/en/privacy](https://twitter.com/en/privacy)
 
+For Google, please visit: [https://support.google.com/ads/answer/2662922?hl=en](https://support.google.com/ads/answer/2662922?hl=en)
+
 In addition, you may opt-out of interest-based advertising by participating providers by visiting [http://www.networkadvertising.org](http://www.networkadvertising.org/) and [http://www.aboutads.info/choices](http://www.aboutads.info/choices) for details on how to do so.
 
 #### **Information Collected Through the Websites that is Not Covered by this Privacy Policy**
@@ -97,9 +101,9 @@ In an ongoing effort to better understand our visitors, customers, and our produ
 
 We also use information collected pursuant to this Privacy Policy to provide our services; to process Orders; to administer our rewards and promotional programs; to maintain and improve our Websites and services to you; to solicit your feedback; and to inform you about our products and services and those of our third-party marketing partners.     
 
-#### **Onward Transfer to Third Parties**
+#### **Sharing with Third Parties**
 
-Like many businesses, we contract with other companies to perform certain business-related services. We may disclose Information, including personal information in some cases, to certain types of third-party companies, but only to the extent needed to enable them to provide such services, including, without limitation, technical assistance, order fulfillment, customer service, marketing assistance, payment processing, survey collection, promotional and marketing assistance, and business operations. All such third parties function as our agents, performing services at our instruction and on our behalf pursuant to contracts which require they provide at least the same level of privacy protection as is required by this Privacy Policy and implemented by Marie Forleo International. We may also disclose your information, including any personal information, to any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us in order to support delivery of our products and services.
+Like many businesses, we contract with other companies to perform certain business-related services. We may disclose your information, including personal information in some cases, to certain types of third-party companies, but only to the extent needed to enable them to provide such services, including, without limitation, technical assistance, order fulfillment, customer service, marketing assistance, payment processing, survey collection, promotional and marketing assistance, and business operations. These other companies will have access to your information, including personal information in some cases, only as necessary to perform their functions and to the extent permitted by law. We may also disclose your information, including any personal information, to any of our parent companies, subsidiaries, affiliates, joint ventures, or other companies under common control with us in order to support delivery of our products and services.
 
 #### **Business Transfer**
 
@@ -111,7 +115,7 @@ In certain situations, we may be required to disclose personal data in response 
 
 #### **Opt-Out for Direct Marketing**
 
-You may opt out at any time from the use of your personal information for direct marketing purposes by e-mailing the instructions to this email address: [info@marieforleo.com](mailto:info@marieforleo.com).  Please allow us a reasonable time to process your request
+You may opt out at any time from the use of your personal information for direct marketing purposes by e-mailing the instructions to this email address: [info@marieforleo.com](mailto:info@marieforleo.com).  Please allow us a reasonable time to process your request.
 
 #### **Accessing and Modifying Personal Information and Communication Preferences**
 
@@ -131,33 +135,11 @@ We take commercially reasonable steps to protect the Information from loss, misu
 
 #### **Retention of Personal Information**
 
-We will retain your personal information in a form that identifies you only for as long as it serves the purposes for which it was initially collected as stated in this Privacy Policy or subsequently authorized. We may continue processing your personal information for longer periods, but only for the time and to the extent such processing reasonably serves the purposes of archiving in the public interest, journalism, literature and art, scientific or historical research, and statistical analysis and subject to the protection of this Privacy Policy.  After such time periods have expired, we may either delete your personal information or retain it in a form such that it does not identify you personally.
+We will retain your personal information in a form that identifies you only for as long as it serves the purpose(s) for which it was initially collected as stated in this Privacy Policy, subsequently authorized, or as allowed under applicable law.
 
 #### **Important Notice to Non-U.S. Residents**
 
-It is important to note that the Websites and their servers are operated in the United States.  If you are located outside of the U.S., please be aware that any information provided to or collected by us, including personal information, will be transferred from your country of origin to the U.S.  Except in the case of data transfers under the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Framework, your decision to provide such data to us, or allow us to collect such data through our Websites, constitutes your consent to this data transfer. 
-
-#### **Important Notice for Residents of the European Economic Area and Switzerland**
-
-Marie Forleo International complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.  Marie Forleo International has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/)     
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Marie Forleo International is subject to the regulatory and enforcement powers of the U.S. Federal Trade Commission.
-
-Upon request to [info@marieforleo.com](mailto:info@marieforleo.com) we will provide you with confirmation as to whether we are processing your personal data, and have the data communicated to you within a reasonable time. You have the right to access, correct, amend or delete your personal data where it is inaccurate or has been processed in violation of this Privacy Policy. We may require payment of a non-excessive fee to defray our expenses in this regard. Please allow us a reasonable time to respond to your inquiries and requests.
-
-We will provide an individual opt-out choice before we share your personal information with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.  To request to limit the use and disclosure of your personal information, please submit a written request to [info@marieforleo.com](mailto:info@marieforleo.com). 
-
-We will not disclose your sensitive personal information to any third party without first obtaining your opt-in consent. You may grant such consent by contacting us at to [info@marieforleo.com](mailto:info@marieforleo.com).  In each instance, please allow us a reasonable time to process your response.
-
-In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also disclose personal information to other third parties when compelled to do so by government authorities or required by law or regulation including, but not limited to, in response to court orders and subpoenas. 
-
-Marie Forleo International’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Marie Forleo International remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Marie Forleo International proves that it is not responsible for the event giving rise to the damage.
-
-In compliance with the EU-US Privacy Shield Principles and the Swiss-U.S. Privacy Shield Principles, Marie Forleo International commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the Privacy Shield Principles. EU or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact Marie Forleo International at [info@marieforleo.com](mailto:info@marieforleo.com), with the subject line, “ **Privacy Shield** ”.
-
-Marie Forleo International has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and Swiss-U.S. Privacy Shield Principles to BBB PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your Privacy Shield complaint is not satisfactorily addressed by Marie Forleo International, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you. 
-
-If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). 
+It is important to note that the Websites and their servers are operated in the United States.  If you are located outside of the U.S., please be aware that any information provided to or collected by us, including personal information, will be transferred from your country of origin to the U.S.  Except in the case of data transfers under the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Framework, your decision to provide such data to us, or allow us to collect such data through our Websites, constitutes your consent to this data transfer.
 
 #### **Children**
 
