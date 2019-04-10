@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securepccure.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191451id_/https%3A//www.viracure.com/viracure/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securepccure.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410044357id_/https%3A//www.viracure.com/viracure/privacy) for the most accurate reproduction.*
 
 # Viracure Privacy Policy | Viracure
 
