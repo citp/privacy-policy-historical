@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the art.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817072839id_/https%3A//www.art.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the art.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410105920id_/https%3A//www.art.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Art.com
 
@@ -26,7 +26,7 @@ Collecting this information enables us to better diagnose problems with our serv
 
 ### What we do with your personal information
 
-Under no circumstances do we rent, trade or share your address or e-mail address with any other company for their marketing purposes without your consent. We may use the information we collect through our Website for a number of reasons, including to:
+Under no circumstances do we rent, trade or share your e-mail address with any other company for their marketing purposes without your consent. We may use the information we collect through our Website for a number of reasons, including to:
 
   * provide, operate, optimize and maintain the Website and our products and services;
   * process, fulfill and provide updates on orders;
