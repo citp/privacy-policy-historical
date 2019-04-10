@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202074542id_/https%3A//www.lbhf.gov.uk/council-and-elections/data-and-information/data-protection/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410224220id_/https%3A//www.lbhf.gov.uk/council-and-elections/data-and-information/data-protection/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | LBHF
 
@@ -27,8 +27,6 @@ When we no longer need to keep information about you, we will dispose of it in a
 
 It is important to us that we properly coordinate what we do for you. As a result, when you tell us that you are moving address or changing your name, we will try and make it as easy as we can for you. We will try to keep your name and address up to date in all our records.
 
-See also **[My Account privacy policy](https://web.archive.org/councillors-and-democracy/data-and-information/data-protection/my-account-privacy-policy)**
-
 ## Cookies
 
 We use cookies on certain sections of our website. These are used to help us see which parts of our website are the most useful to customers. We use the information to make the site easier for you to use. If you do not want this to happen, you can set your web browser to reject cookies. However, you may not be able to use online payments or other features of our site.
@@ -55,8 +53,20 @@ If you would like to know more, including about how we look after your informati
 
 ### See also
 
-[Public health directorate privacy notice (pdf)](https://web.archive.org/sites/default/files/section_attachments/public_health_privacy_notice_final.pdf)
+  * [Blue Badge privacy notice](https://web.archive.org/councillors-and-democracy/data-and-information/data-protection/privacy-policy/blue-badge-privacy-notice)
+  * [Commercial services privacy notice (pdf)](https://web.archive.org/sites/default/files/section_attachments/commercial_services_privacy_notice.pdf)
+  * [Community safety privacy notice](https://web.archive.org/crime/community-safety-unit/community-safety-privacy-notice)
+  * [Corporate anti fraud service privacy notice](https://web.archive.org/councillors-and-democracy/data-and-information/data-protection/privacy-policy/corporate-anti-fraud-service-privacy-notice)
+  * [Electoral services privacy notice](https://web.archive.org/councillors-and-democracy/elections/electoral-services-privacy-notice)
+  * [Freedom Pass privacy notice](https://web.archive.org/councillors-and-democracy/data-and-information/data-protection/privacy-policy/freedom-pass-privacy-notice)
+  * [Housing department privacy notice](https://web.archive.org/housing/housing-department-privacy-notice)
+  * [HR privacy notice](https://web.archive.org/jobs/jobs-council/hr-privacy-notice)
+  * [Licensing privacy notice](https://web.archive.org/business/licensing/licensing-privacy-notice)
+  * [My Account privacy policy](https://web.archive.org/councillors-and-democracy/data-and-information/data-protection/my-account-privacy-policy)
+  * [Parking services privacy notice](https://web.archive.org/parking/contact-us-about-parking/parking-services-privacy-notice)
+  * [Public health directorate privacy notice (pdf)](https://web.archive.org/sites/default/files/section_attachments/public_health_privacy_notice_final.pdf)
+  * [Publishing policy](https://web.archive.org/pages/publishing-policy)
+  * [Registration service privacy notice](https://web.archive.org/births-deaths-and-marriages/registration-service-privacy-notice)
+  * [Taxicard scheme privacy notice](https://web.archive.org/councillors-and-democracy/data-and-information/data-protection/privacy-policy/taxicard-privacy-notice)
 
-[My Account privacy policy](https://web.archive.org/myaccountprivacypolicy)
 
-[Housing department privacy notice](https://web.archive.org/housing/housing-department-privacy-notice)
