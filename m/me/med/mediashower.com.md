@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediashower.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024213126id_/http%3A//mediashower.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediashower.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411001508id_/https%3A//mediashower.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Media Shower
 
