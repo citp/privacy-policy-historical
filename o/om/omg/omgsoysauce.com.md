@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgsoysauce.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608075809id_/http%3A//www.omgsoysauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgsoysauce.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410123812id_/http%3A//www.omgsoysauce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OMGSoySauce.com
 
