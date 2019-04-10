@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionfactory.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811182654id_/https%3A//www.commissionfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionfactory.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410075828id_/https%3A//www.commissionfactory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Commission Factory
 
