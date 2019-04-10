@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kpcb.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627235859id_/http%3A//www.kpcb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpcb.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410053740id_/https%3A//www.kleinerperkins.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Kleiner Perkins Caufield Byers
+# Privacy Policy | Kleiner Perkins
 
-Effective Date: August 15th, 2016
+Effective Date: August 15th, 2016 
 
 ## YOUR PRIVACY MATTERS
 
-Thank you for visiting [www.kpcb.com](https://web.archive.org/) and/or [www.kpcbfellows.com](http://kpcbfellows.com/) (each, as applicable, the "Site"), which is owned and operated by Kleiner Perkins Caufield & Byers ("KPCB"). **By using or accessing the Site in any way, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent to our collection, use and sharing of your information in the manner described herein.**
+Thank you for visiting [kleinerperkins.com](https://web.archive.org/) and/or [fellows.kleinerperkins.com](http://fellows.kleinerperkins.com/) (each, as applicable, the "Site"), which is owned and operated by Kleiner Perkins Caufield & Byers ("KPCB"). **By using or accessing the Site in any way, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent to our collection, use and sharing of your information in the manner described herein.**
 
 KPCB is committed to respecting and protecting your privacy. Please read this Privacy Policy carefully in order to understand what information KPCB collects about visitors to the Site, and how KPCB uses that information. If you do not agree with the content of this Privacy Policy, please do not use this Site. We encourage you to check our Site frequently to see the current Privacy Policy and Terms and Conditions of Use in effect and any changes that may have been made to them. If we make material changes to this Privacy Policy we will notify you by posting the revised Privacy Policy and the revised effective date on this Site, by sending you an e-mail, and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Site, and you are still responsible for reading and understanding them. If you use the Site after any changes to the Privacy Policy have been posted, this means you agree to all of the changes. This Policy is part of our [Terms and Conditions of Use](https://web.archive.org/terms-of-use). Please [click here](https://web.archive.org/terms-of-use) to see that agreement. 
 
@@ -36,7 +36,7 @@ If you submit unsolicited business plan ideas or slide decks to KPCB through the
 
 ## INFORMATION SUBMITTED BY CURRENT OR PROSPECTIVE KPCB FELLOWS
 
-If you submit information about yourself, such as your name, contact information, resumé, and other application materials, through the KPCB Fellows website at [www.kpcbfellows.com](http://kpcbfellows.com/), KPCB may use such information internally in connection with the KPCB Fellows program. Additionally, KPCB may share such information with its portfolio companies so that such companies may review your materials and contact you in connection with the KPCB Fellows program. Be aware that KPCB does not control the portfolio companies’ actions with respect to such information, and assumes no responsibility for how the portfolio companies use the information KPCB provides to them in connection with the KPCB Fellows program. KPCB will not share such information with any other third parties, except as specified in this Privacy Policy. 
+If you submit information about yourself, such as your name, contact information, resumé, and other application materials, through the KPCB Fellows website at [fellows.kleinerperkins.com](http://fellows.kleinerperkins.com/), KPCB may use such information internally in connection with the KPCB Fellows program. Additionally, KPCB may share such information with its portfolio companies so that such companies may review your materials and contact you in connection with the KPCB Fellows program. Be aware that KPCB does not control the portfolio companies’ actions with respect to such information, and assumes no responsibility for how the portfolio companies use the information KPCB provides to them in connection with the KPCB Fellows program. KPCB will not share such information with any other third parties, except as specified in this Privacy Policy. 
 
 ## LINKED WEBSITES
 
