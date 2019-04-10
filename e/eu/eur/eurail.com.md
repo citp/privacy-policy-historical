@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004105355id_/https%3A//www.eurail.com/en/terms-conditions/privacy-and-cookie-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410195956id_/https%3A//www.eurail.com/en/terms-conditions/privacy-and-cookie-statement) for the most accurate reproduction.*
 
 # Privacy and Cookie Statement | Eurail.com
 
@@ -99,8 +99,31 @@ The personal data collected by us in order to book your travel, are retained unt
 
 ###### NEWSLETTER
 
-If you have consented thereto, we may contact you by e-mail for commercial purposes with personalized offers. Each communication by e-mail will include an option to unsubscribe. Besides this, you can also unsubscribe from this here. We may also, if you have consented thereto, use your email address to show advertisements from Eurail.com on the social media channels where you are active, such as Facebook, YouTube, Pinterest and Instagram.
+If you have consented thereto, we may contact you by e-mail for commercial purposes with personalized offers. Each communication by e-mail will include an option to unsubscribe. Besides this, you can also unsubscribe from this [here](https://eurail.us3.list-manage.com/unsubscribe?u=d6a0ceee3a0d500eb6e8668be&id=a38be37502). We may also, if you have consented thereto, use your email address to show advertisements from Eurail.com on the social media channels where you are active, such as Facebook, YouTube, Pinterest and Instagram.
 
 ###### CONFIDENTIALITY & PROVISION TO THIRD PARTIES
 
-We will handle your personal data confidential. We will not provide your data to third parties for direct marketing purposes by such parties. Nor will we provide the data provided by you to third parties, if you have not given your consent, unless this is necessary for performing the agreement you have concluded with us or is required by law.
+We will handle your personal data confidential. We can provide your personal data to third parties, because:  
+
+
+-       We have engaged them for supporting us;
+
+-       This is required for performance of an agreement we concluded with you;
+
+-       We have legitimate interests to do so;
+
+-       We are legally obliged to do so (for example if the police demands this because of a suspicion of a crime).
+
+The following third parties can process your personal data:
+
+-       Our IT suppliers;
+
+-       Postal and courier services;
+
+-       Payment service providers;
+
+-       [Railway providers](https://web.archive.org/en/get-inspired/trains-europe/useful-train-information/participating-railway-companies) (click to see an overview)
+
+-       Governmental institutions (i.e. tax authorities and police)
+
+-       Our cookie suppliers (please see below). 
