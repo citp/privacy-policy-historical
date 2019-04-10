@@ -1,90 +1,116 @@
-> *The following text is extracted and transformed from the buildingourstory.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416062339id_/http%3A//buildingourstory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildingourstory.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410181220id_/https%3A//buildingourstory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Building Our Story
 
-This Privacy Policy governs the manner in which Building Our Story collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.buildingourstory.com/> website (“Site”).
+Building Our Story found at https://buildingourstory.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-### 
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-Personal identification information
+WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-### 
+**Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
-Non-personal identification information
+**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-### 
+HOW YOUR INFORMATION MAY BE USED
 
-Web browser cookies
+We may use the information collected in the following ways:
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-### 
-
-How we use collected information
-
-Building Our Story may collect and use Users personal information for the following purposes:
-
-  * _To run and operate our Site_  
-We may need your information display content on the Site correctly. 
-  * _To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them. 
-  * _To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. 
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
 
 
-### 
+THIRD-PARTY USE OF PERSONAL INFORMATION
 
-How we protect your information
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-### 
+The Website currently uses the following third-party service providers:
 
-Sharing your personal information
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
+Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to [Mail Chimp’s privacy policy](https://mailchimp.com/legal/privacy/) for further information.
 
-### 
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-Third party websites
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+ANONYMOUS DATA
 
-### 
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-Advertising
+PUBLICLY VISIBLE INFORMATION
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.  To create a user profile, you must choose a username and password and input your email address for profile confirmation.  Your email address will never be available publicly.  At your option, you may also add an avatar, a profile description, and a link to your website.
 
-**Notice Regarding Interest-Based Advertising** **  
-**Partner Websites may allow third-party companies, including ad networks, to serve advertisements, provide other advertising services and/or collect certain information when you visit our website.   Third party companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to this website in order to provide advertisements about goods and services likely to be of greater interest to you.  Third party may use non- cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on this website. These technologies may be used directly on this website. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. To learn more about this Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAI’s website ([www.networkadvertising.org](http://www.networkadvertising.org/)) which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.  
+You may also choose to link your Facebook, Instagram, and Google Account.
 
-### 
+Users may see your username, avatar, profile description and website information.
 
-Google Adsense
+COOKIES
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-### 
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-Changes to this privacy policy
+ADVERTISING
 
-Building Our Story has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Display Ads**
 
-### 
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above. If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit http://www.networkadvertising.org/managing/opt_out.asp.
 
-Your acceptance of these terms
+**Retargeting  Ads**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This policy was created with [http://www.Privacy Policies.com](http://privacypolicies.com/)
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
-### 
+Facebook: Opt-out of Facebook remarketing [here](https://www.facebook.com/help/568137493302217)
 
-Contacting us
+Google: Opt-out of Google remarketing [here](https://www.facebook.com/help/568137493302217)
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.  
-This document was last updated on August 04, 2015
+**Affiliate Program Participation**
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Food Fanatic is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+Newsletters
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at censiej@buildingourstory.com to be removed from our mailing list.
+
+Access – You may access the personal information we have about you by submitting a request to censiej@buildingourstory.com .
+
+Amend – You may contact us at censiej@buildingourstory.com to amend or update your personal information.
+
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to censiej@buildingourstory.com .
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at censiej@buildingourstory.com and we will use our best efforts to promptly remove such information from our records.
+
+CONTACT INFORMATION
+
+At any time, please contact us at censiej@buildingourstory.com for questions related to this Privacy Policy.
+
+Last updated: May 23, 2018.
