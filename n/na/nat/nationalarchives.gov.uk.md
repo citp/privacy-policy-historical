@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230233604id_/http%3A//www.nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410162757id_/http%3A//nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy notice - Legal
 
@@ -67,13 +67,16 @@ Under the direction of the Secretary of State for Digital, Culture, Media and Sp
 
 Depending on the circumstances, we may also process your personal information because you, or your legal representative, have given us your  **consent  **(which you  can withdraw at any time). By giving us your consent you are agreeing to The National Archives processing your information in accordance with this privacy notice.
 
-We do not require your consent to process your personal information if
+Consent is not the only legal basis under which we can acquire and process your personal information. We do not require your consent to process your personal information if
 
-  * you have entered into a  **contract**  with us
+*   * you have entered into a  **contract**  with us
   * you have made this information  **publicly available yourself**
   * it is required by law
   * it is necessary for legal cases
   * it is necessary to protect someone in an emergency
+
+
+
   * it is to the benefit of the public in general
   * it is necessary for employment purposes
   * it is necessary for archiving, research, or statistical purposes – so long as certain conditions are met.
@@ -104,7 +107,7 @@ We do not require your consent to process your personal information if
 
 | **Consent**  freely given by you when opting in to receive our regular email updates or other communications from us. You may withdraw your consent at any time by clicking on ‘unsubscribe’ in the emails that we send, or by contacting us directly at the address below.  
   
-  * conduct research and data analysis and develop statistics to better understand the use made of our building and our archival collection, including event attendance and trends
+  * conduct research and data analysis and develop statistics to better understand the use made of our building, our car park, and our archival collection, including event attendance and trends
 
 | 
 
@@ -128,6 +131,16 @@ We do not require your consent to process your personal information if
   * transaction and payment information (we do not generally hold bank account or credit card details)
 
 | This is necessary under your  **contract  **with us to enable us to register you and properly manage and administer your attendance. If you are signing up via a separate organisation, you will also have a contract with them.  
+  
+  * administer your use of our car park
+
+| 
+
+  * Vehicle Registration Mark
+  * (VRM) as captured by Automated Number Plate Recognition (ANPR) camera
+  * transaction and payment information (we do not hold bank account or credit card details)
+
+| This is necessary under your contract with us to enable us to collect the correct charge for your use of our car park.  
   
   * arrange and manage any contracts for the provision of any services or products: for example, downloading records from Discovery, purchases  from our shop.
 
@@ -209,7 +222,7 @@ Data processors are third parties who provide elements of our services for us. W
 
 ### Sharing with third parties outside of a contract
 
-We sometimes need to share your information with third parties. We will do this securely and with a data sharing agreement in place.  As a government department, we have a duty to cooperate with any law-enforcement bodies, including the police, who have a requirement to see what personal information we may have about you.
+We sometimes need to share your information with third parties. We will do this securely and with a data sharing agreement in place.  As a government department, we have a duty to abide by the terms of [Her Majesty’s Government’s Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework), and to cooperate with any law-enforcement bodies, including the police, who have a requirement to see what personal information we may have about you.
 
 We do not sell your information to any other organisations.
 
@@ -240,7 +253,7 @@ If you would like further information about our information retention practices,
 
 Data protection legislation gives you various rights over your information.  These may include (as relevant) the right to:
 
-  * Access information held about you: you must provide us with valid ID, and with enough information to enable us to identify your personal information. In certain circumstances, under data protection legislation, we may not be required to provide all the details of personal information held.
+  * Access information held about you: you must provide us with valid ID, and with enough information to enable us to identify your personal information. In certain circumstances, under data protection legislation, we may not be required to provide all the details of personal information held. . You are only entitled to your own personal data, and not to information relating to other people. If your request is manifestly unfounded or excessive, we can request a “reasonable fee” to deal with the request; or refuse to deal with it. We will provide you with an explanation of this decision.
   * Amend and rectify personal information that is inaccurate and notify any third party recipients of the necessary changes. If your information is in our archival collection we will not alter the record. It may be to your advantage to have this documentary proof that a government record was incorrect. We will, however, consider adding the correct information to the archival record.
   * Request restriction of information processing concerning you or to object to processing of your personal information.
   * Request the erasure of your personal information where it is no longer necessary for us to retain it. If your information is in our archival collection, we will consider withdrawing public access to it: please see our [takedown and reclosure policy](http://www.nationalarchives.gov.uk/legal/takedown-and-reclosure-policy/).
@@ -274,7 +287,7 @@ The National Archives has a statutory obligation to permanently preserve the arc
 
 We guarantee access to this archival material while observing the protection of private or public interests. In principle, every person has the right to access the documents in The National Archives upon request. We provide information about the archive material on our [Discovery](http://discovery.nationalarchives.gov.uk/) research platform.
 
-Some of the more recent archives we hold contain information about living people: personal information that has been acquired by the organisations – usually government departments that have transferred their records to The National Archives. Your information will be handled according to the safeguards in data protection legislation for archiving in the public interest. This means that we apply the same standards to handling this information, except that some of your rights have a limited application – see the Your rights over your personal information section above.
+Some of the more recent archives we hold contain information about living people: personal information that has been acquired by the organisations – usually government departments that have transferred their records to The National Archives. Your information will be handled according to the safeguards in data protection legislation for archiving in the public interest. This means that we apply the same standards to handling this information, except that some of your rights have a limited application – see the Your rights over your personal information section above. The National Archives has co-produced detailed guidance about [data protection legislation](http://www.nationalarchives.gov.uk/information-management/legislation/data-protection/) as applied to archives in the UK.
 
 We allow third party publishers to digitise some of our records for online use.  We and our publishers make every effort, taking into account the content and condition of the material, to avoid putting personal information online that may cause damage or distress to living individuals. As data processors, our publishers must comply with data protection legislation; in particular, they have a duty to assist you in exercising your rights over your personal information.
 
@@ -310,4 +323,4 @@ Website: <https://ico.org.uk/global/contact-us/helpline>
 
 [Data protection policy](http://nationalarchives.gov.uk/documents/data-protection-policy-nov-2011-updated-may-2018.pdf "Data protection policy, opens in a new window") (PDF, 0.28 MB)
 
-We use cookies to improve services and ensure they work for you. Read our [cookie policy](https://web.archive.org/web/20181228151326/http://www.nationalarchives.gov.uk/legal/cookies.htm "Our cookie policy"). Close
+We use cookies to improve services and ensure they work for you. Read our [cookie policy](https://web.archive.org/web/20190401142450/http://www.nationalarchives.gov.uk/legal/cookies.htm "Our cookie policy"). Close
