@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randolphusa.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904014322id_/https%3A//www.randolphusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randolphusa.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410174850id_/https%3A//www.randolphusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Randolph Engineering
 
