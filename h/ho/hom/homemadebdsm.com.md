@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122170313id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410113822id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - HOMEMADE BDSM
 
@@ -37,76 +37,75 @@ HomeMadeBDSM.com provides email support for users who purchase the software at o
 Find your Alternative playmate!   
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=robxxxrider)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=mashayang)
 
 HD
 
-[ robxxxrider](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=robxxxrider) 28
+[ mashayang](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=mashayang) 23
 
-  * THANK YOU!!
+  * Monster dildo [1430 tokens left]
 
 
-  * 33 mins, 21488 viewers
+  * 35 mins, 11784 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=_bars_377)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=aveksmr)
 
 HD
 
-[ _bars_377](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=_bars_377) 25
+[ aveksmr](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=aveksmr) 20
 
-  * bring me to orgasm\
+  * ♥CUM SHOW♥ [366 tokens remaining]
 
 
-  * 30 mins, 5887 viewers
+  * 7 mins, 5134 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=melissa_sucre)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=jessica_ashley)
 
 HD
 
-[ melissa_sucre](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=melissa_sucre) 27
+[ jessica_ashley](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=jessica_ashley) 99
 
-  * Naked in the office! 750tk all my videos! 699tk snap! - Multi-Goal : A surprise #lovense
+  * Clear all the numbers from 10 to 69. Goal: anal,bj,buttplub or squirt show, who guess the lucky number choose what show i do!. #lovense #tease #sexy #fun #bigboobs #bigass #latina #squirt #anal #heels #feet #b
 
 
-  * 6 mins, 5203 viewers
+  * 57 mins, 3744 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=juliaiva)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=emmachoice)
 
 HD
 
-[ juliaiva](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=juliaiva) 25
+[ emmachoice](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=emmachoice) 22
 
-  * sexy chill with #lush. new free photo in bio
+  * Hiiii~ endless love and luck at goal! menu in bio! 699 snap for life 1001 ten HD vids #brunette #cute #fun #dance #sing #videos #bubbly [9951 tokens remaining]
 
 
-  * 42 mins, 3169 viewers
+  * 30 mins, 2366 viewers
 
 
 
 | 
 
-[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=mosaique_room)
+[ ](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=amyvalentine)
 
 HD
 
-[ mosaique_room](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=mosaique_room) 19
+[ amyvalentine](https://chaturbate.com/in/?tour=LQps&campaign=jc77L&track=default&room=amyvalentine) 99
 
-  * blowjob [292 tokens left] #lovense #lush #smalltits #cum #squirt #couple #blowjob #teen #18 #pussy #fuck #slave #ass #little #young #schoolgirl #daddy #new #real #ohmibod #smoke
+  * 
 
-
-  * 3 mins, 3603 viewers
+  * 54 mins, 2762 viewers
 
   
   
