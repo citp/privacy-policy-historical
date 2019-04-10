@@ -1,86 +1,123 @@
-> *The following text is extracted and transformed from the seraphine.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207050105id_/http%3A//www.seraphine.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seraphine.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411004013id_/https%3A//www.seraphine.com/en-us/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy and Security | Seraphine
+# Privacy and Security | Seraphine US
 
-#### Privacy and Security on the Seraphine website
+#### PRIVACY AND SECURITY ON THE SERAPHINE WEBSITE
 
-##### At Séraphine we take your privacy and security seriously, that is why we ensure that our security policy is up to date with the latest services to protect you when shopping online. Below you will find information regarding the key aspects of our secure shopping service.
-
-**Verified by VISA and Mastercard® SecureCode™**
-
-Verified by VISA and Mastercard® SecureCode™ are new services from VISA and Mastercard in association with your card issuer to provide added protection when you buy online. It is a private password that means added protection against unauthorised use of your credit or debit card when you shop online. This should not be confused with your normal pin number that you use when shopping in the high street or when using cash machines. To set up your new password, you will need to register by following the website links provided below. If you use Mastercard: <http://www.mastercard.co.uk/support/securecode-faq.html> If you have a VISA debit or credit card: <http://www.visa.co.uk/en/security/online_security/verified_by_visa.aspx> When shopping on our website, if your card is eligible for these schemes (currently only available on credit cards but not debit cards), you may see a pop up window appear when you are at the checkout. This pop up will be provided by the bank that issued the card you are making payment with. If you have not already registered your card, you can use this pop up and follow the instructions to register securely. Once registered, you will be taken back to the Séraphine website to complete your order. If you are at all concerned or confused, simply close the pop up window and complete your order as normal, then contact your bank to find out more about the schemes. Once registered, you will then be required to use your personal code on all subsequent online transactions. Séraphine is providing you with a secure and safe online shopping service.
+At Seraphine we take your privacy and security seriously, that is why we ensure that our privacy and security policy is up to date with the latest services to protect you when shopping online. Below you will find information regarding the key aspects of our secure shopping service.
 
 **PRIVACY**
 
-Séraphine is committed to protecting the privacy of our site visitors and customers. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so. We do occasionally make names and addresses available to a select few companies whose products are similar to ours and, we think may interest you. If you do not wish to receive such offers please email us at contact@seraphine.com with your name and address.
+_General_
 
-**PERSONAL INFORMATION**
+Seraphine (Seraphine Ltd, company reg: 04406761) is the Data Controller and can be contacted at the following address: Suite 3.01 Grand Union Studios, 332 Ladbroke Grove, London, W10 5AD.
 
-Séraphine respects your privacy. It is our intent to let you know before we collect personal information from you on the Internet. In order to place an order on our website you will be asked to log in using an email address and password. This enables us to send you confirmation of when your order has been dispatched as well as providing you with an easy log in for future visits to the website. If you choose to give us personal information through the Internet that we may need to correspond with you or process an order, it is our intent to let you know how we will use this information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. We do not send random marketing emails to personal email addresses (spam). Information collected by Séraphine is used internally by authorised Séraphine employees for three main purposes.
+Personal Data is any information from which an individual can be identified. For example, your name, address, telephone number and e-mail address may be Personal Data. It may also include technical information including the IP (Internet Protocol) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform and if you access our site by your mobile device, we may collect your unique phone identifier. It is our policy to take all necessary steps to ensure that Personal Data held by Seraphine is held securely and processed fairly and lawfully.
 
-  * We collect information to determine how to improve our site by seeing which areas, features and products are most popular
-  * We collect information in order to personalise the site for our customers. For example, in the future, we may recommend products or features you may like based on what you have liked in the past
-  * We keep track of the domains from which people visit us. We analyse this data for trends and statistics, and then we discard it. We do not sell, rent, loan, or transfer any personal information regarding our customers to any unrelated third parties.
+Our lawful bases for processing Personal Data are:
+
+  * by consent of the data subject;
+  * necessary for the performance of a contract with the data subject or other person;
+  * compliant with a legal obligation;
+  * or necessary for the purpose of legitimate interests pursued by the Data Controller (except where these are overridden by the interests, right, or freedoms of the Data Subject).
 
 
 
-**HANDLING YOUR PERSONAL DATA**
+_Personal information_
+
+Seraphine respects your privacy. It is our intent to let you know what personal information we collect from you on the Internet. In order to place an order on our website you will be asked to give us your billing/mailing address, telephone number and email address. You may also create an online account for future reference and set a password for access. This enables us to send you confirmation of when your order has been dispatched as well as providing you with an easy log in for future visits to the website. You may also advise us of your marketing preferences. If you tell us that you do not wish to receive marketing updates, we will respect your wishes.
+
+_Communication & marketing_
+
+If you have given us your permission or made a purchase from our store we may update you on our latest products, news and special offers and events via e-mail, SMS & post. All Seraphine customers have the option to opt-out of receiving marketing communications from us. If you do not wish to continue to receive marketing from us you should opt-out by:
+
+  * Visiting ‘Subscriptions’ in your ‘Account’ page on the Seraphine website 
+  * Click on the unsubscribe link in any email communications which we might send you.
+  * Contacting Customer Services by phone 0800 808 5709 or on email at contact@seraphine.com
+
+
+
+We use our legitimate interests to enhance your customer experience and provide the best in class service; therefore we will:
+
+  * remind you of what you may be missing if you have put items in your "Shopping Bag" on the Website and then abandoned them;
+  * send you surveys for feedback on our services to enhance your customer experience; and
+  * keep track of your requests and interactions with our customer service, via LiveChat, telephone calls or direct email.
+
+
+
+_Sharing your data with Third Parties_
+
+Seraphine is committed to protecting the privacy of our site visitors and customers. We will only disclose information about our customers to carefully vetted third parties where it is part of providing a service to you e.g. arranging for a product to be sent to you, carrying out security checks, for the purposes of customer research and profiling, inviting you to provide product reviews, or for improving our service to you. All third parties are required by Seraphine to confirm that they apply appropriate data protection and security controls in compliance with EU General Data Protection Regulation. They agree to only use your Personal Data for the purposes Seraphine instructs and to take appropriate measures to prevent unauthorised or unlawful access to it. Our third party processors include IT, Payment Service Providers, Marketing Services and Logistics providers. 
+
+Should Seraphine sell or transfer any of its business assets, this may include a sale or transfer of such databases of information to third parties as part of a business sale. In addition, such a transfer or sale may mean that your Personal Data may be transferred to countries outside the EEA. Any such sale or transfer of Personal Data will be under strict conditions of confidentiality and security. 
+
+_Where we store your personal information_
+
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers or business partners. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support and associated services. Our suppliers and business partners may also transfer, store, use and otherwise process your information outside the EEA for the purpose of fulfilling their obligations to you and to provide you with information, goods and services. By using our sites, stores, social media and submitting your information during the purchase of items or participation in competitions and other promotions, you agree to this transfer, storing or processing inside and outside the EEA as stated above. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this policy.
+
+_Handling your personal data online_
 
 If you are interested in placing an order with us online, but are concerned about how safe and reliable it will be, here is some information about how we manage and protect your data:
 
-  * Cookies (small text files put on your PC) are used on this shopping site, but only to keep track of the contents of your shopping cart once you have selected an item.
-  * Our secure server software encrypts information to ensure your transactions with us are private and protected as they travel over the Internet. All credit card transactions are either handled by an approved third party or on a secure server using a minimum of SSL/128-bit encryption
-  * When you make a purchase from our website, we collect certain personal information from you (for example: your name, email address, payment address and details). All such personal information is held on secure servers, and will be treated as fully confidential.
-  * As soon as your credit card payment has been verified, your card details are deleted from our database.
+  * Our secure server software encrypts information to ensure your transactions with us are private and protected as they travel over the Internet. All credit card transactions are handled by an approved third party on a secure server using a minimum of 128-bit encryption. Seraphine is fully PCI Compliant. 
+  * When you make a purchase from our website, we collect certain personal information from you (for example: your name, email address, payment address and details). All such personal information is held on secure servers and will be treated as fully confidential. 
+  * Seraphine has appropriate security measures in place against unauthorised access or alteration, disclosure or destruction of personal data and against accidental loss or destruction of such data. 
 
 
 
-**WHERE WE STORE YOUR PERSONAL INFORMATION**
+_Data protection_
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers or business partners. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support and associated services. Our suppliers and business partners may also transfer, store, use and otherwise process your information outside the EEA for the purpose of fulfilling their obligations to you and to provide you with information, goods and services. By using the sites, stores, social media and submitting your information during the purchase of items or participation in competitions and other promotions, you agree to this transfer, storing or processing inside and outside the EEA as stated above. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this policy. 
+Seraphine is committed to supporting the requirements of the GDPR and applicable data protection legislation which aims "to regulate the use of automatic processed information relating to individuals and the provision of services in respect of such information". 
 
-**COOKIES**
+We will ensure that all personal data held by us is obtained and processed fairly and lawfully, i.e. in accordance with the provisions of the GDPR and applicable data protection legislation. All personal data held by Seraphine will: 
 
-A cookie is a small information file that is sent to your computer and is stored on your hard drive. If you have registered with us then your computer will store an identifying cookie which will save you time each time you re-visit Séraphine, by remembering your email address for you. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent.
-
-**SSL**
-
-Secure Sockets Layer, a protocol developed for transmitting private documents via the Internet. SSL uses a cryptographic system that uses two keys to encrypt data − a public key known to everyone and a private or secret key known only to the recipient of the message. Both Netscape Navigator and Internet Explorer support SSL, and many Web sites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http: Another protocol for transmitting data securely over the World Wide Web is Secure HTTP (S-HTTP). Whereas SSL creates a secure connection between a client and a server, over which any amount of data can be sent securely, S-HTTP is designed to transmit individual messages securely. SSL and S-HTTP, therefore, can be seen as complementary rather than competing technologies. Both protocols have been approved by the Internet Engineering Task Force (IETF) as a standard.
-
-**MCAFEE SECURE**
-
-This site is tested and certified daily to pass the “McAfee Secure” Security Scan. To help address concerns about possible hacker access to your confidential data, and the safety of visiting this site, the "live" McAfee Secure mark appears only when this site passes the daily McAfee Secure tests. McAfee SECURE shopping is your safe shopping destination. Browse and shop with confidence at hundreds of merchants. Both protocols have been approved by the Internet Engineering Task Force (IETF) as a standard.
-
-**DISCLOSURE OF PERSONAL INFORMATION**
-
-We reserve the right to disclose your personal information to appropriate third parties if we are required to do so by law or we believe that such action is necessary:
-
-  * To verify your credit card details with the bank or a third party verification agency
-  * To comply with legal processes such as a search warrant, subpoena or court order.
-  * To investigate reports of fraud or of users sending material using a false email address.
+  * Only be held for specified and lawful purposes. 
+  * Not be used or disclosed in any manner incompatible with any lawful purpose. 
+  * Be adequate, relevant and not excessive in relation to the purpose for which it was obtained. 
+  * Be accurate (insofar as the Company can control this process, being dependent on customer integrity and the integrity of such credit reference agencies as it uses) and kept up to date. 
+  * Only be kept for as long as is necessary for a particular purpose, for example, Seraphine specifically needs to keep names and addresses of customers in order to deal with any queries, complaints or after sales service enquiries. 
 
 
 
-**IDENTITY VERIFICATION FOR YOUR SECURITY**
+_Obtaining, Correcting or Updating your Personal Data_
 
-To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks, personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998. You agree that we may use Personal information provided by you in order to conduct appropriate anti fraud checks. Personal Information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information. We will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
+Where we use your personal data on a consent basis, you have the right to withdraw that consent at any time. You also have the right to ask us to stop using your personal data for profiling or direct marketing processes. 
 
-**COMMUNICATION & MARKETING**
+You can update, erase or amend your preferences or how we manage your data at any time using the contact details below.
 
-If you have made a purchase from our store we may occasionally update you on our latest products, news and special offers via e-mail & post. You will also be given the opportunity to receive such communications from us and selected third parties when you become a member of Séraphine. All Séraphine members have the option to opt-out of receiving marketing communications from us. If you do not wish to continue to receive marketing from us and/or selected third parties you should opt-out by visiting 'Your Details' in 'Your Account' on the Séraphine website. You can access 'Your Account' once you register and login. Or click on the "unsubscribe" link in any email communications which we might send you.
+You can also find out what personal data Seraphine holds about you by submitting a Subject Access Request. We will give you a copy of the information in a clear, readable format with an explanation as to why we hold it and how we use it. To complete your Subject Access Request you will be asked to provide the following details:
 
-**DATA PROTECTION**
-
-Séraphine is committed to supporting the requirements of the Data Protection Act 1998 ('the Act') which aims "to regulate the use of automatic processed information relating to individuals and the provision of services in respect of such information". Séraphine has registered as a Data us
-
-  * The information contained in the personal data held by the Company is obtained and processed fairly and lawfully, i.e. in accordance with the provisions of the Act.
-  * Personal data held by the Company is only held for specified and lawful purposes.
-  * Personal data held by the company will not be used or disclosed in any manner incompatible with any lawful purpose.
-  * Personal data held by the Company will be adequate, relevant and not excessive in relation to the purpose for which it was obtained.
-  * Personal data held by the Company will be accurate (insofar as the Company can control this process, being dependent on customer integrity and the integrity of such credit reference agencies as it uses) and kept up to date.
-  * Personal data held by the company will only be kept for as long as is necessary for a particular purpose - the Company specifically needs to keep names and addresses of customers in order to deal with any queries, complaints or after sales service enquiries.
-  * The Company will advise any customer who enquires, whether the Company holds personal data on that customer and will respond appropriately if the customer requires the data to be corrected or erased.
-  * The Company has in place appropriate security measures against unauthorised access or alteration, disclosure or destruction of personal data and against accidental loss or destruction of such data.
-  * Any enquiries relating to the Company's data protection policy should be addressed in writing to the Data Compliance Officer at Seraphine, Suite 3.01, Grand Union Studios, 332 Ladbroke Grove London, W10 5AD United Kingdom
+  1. The personal information you wish to access
+  2. The date range you wish to access
+  3. Information to help us confirm your identity
 
 
+
+You can contact us for any of these requirements:
+
+  * By writing to us at: Data Compliance Officer, Seraphine Ltd, Suite 3.01 Grand Union Studios, 332 Ladbroke Grove, London, W10 5AD
+  * By email at [contact@seraphine.com](mailto:contact@seraphine.com)
+  * On the phone at 0800 808 5709.
+
+
+
+If you are not happy with our data handling processes, in the first instance, please speak to us directly so that we can resolve your enquiry. You also have the right to contact the Information Commissions Office (ICO) if you have questions about Data Protection. You can contact them by phone on 0303 123 113 or [www.ico.org.uk](https://ico.org.uk/).
+
+_Cookies_
+
+A cookie is a small information file that is sent to your computer and is stored on your hard drive. If you have registered with us then your computer will store an identifying cookie which will save you time each time you re-visit Seraphine, by remembering your email address for you. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent. For further information about cookies visit [www.aboutcookies.org](https://www.aboutcookies.org/)
+
+Information collected by Seraphine is used internally by authorised Seraphine employees for three main purposes.
+
+  * To improve our site by seeing which areas, features and products are most popular
+  * To personalise the site for our customers. For example, in the future, we may recommend products or features you may like based on what you have liked in the past
+  * We keep track of the domains from which people visit us. We analyse this data for trends and statistics. We do not sell, rent, loan, or transfer any personal information regarding our customers to any unrelated third parties.
+
+
+* We may also use advertising cookies to deliver more relevant adverts to you based on your interests. They are also used to limit the amount of times you see an advert and enable us to measure the effectiveness of any campaign. We use them to link to social networks including Facebook, who may use information about your visit to target advertising to you on other sites
+
+_Changes to our Privacy and Security policy_
+
+We’ll amend this privacy policy from time to time to ensure it remains up to date and reflects how and why we use your personal data and new legal requirements. Please visit our website to keep up to date with any changes. The current version will always be posted on our website. 
+
+This privacy policy was last updated on September 5th 2018.
