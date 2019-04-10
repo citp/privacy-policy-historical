@@ -1,30 +1,6 @@
-> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231030928id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410115438id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PJ Media
-
-12-30-2019 04:04:43 PM -0800
-
-12-30-2019 07:38:47 AM -0800
-
-12-28-2018 03:44:59 PM -0800
-
-12-27-2018 11:35:50 AM -0800
-
-12-26-2018 12:46:36 PM -0800
-
-It looks like you've previously blocked notifications. If you'd like to receive them, please update your browser permissions. 
-
-Desktop Notifications are   | 
-
-Get instant alerts on your desktop. 
-
-Turn on desktop notifications? 
-
-[](https://web.archive.org/)
-
-The Latest. Delivered Daily. 
-
-Your friends will think you read the whole newspaper 
 
 In addition to the Privacy Policy and Rights applicable to all users of our Websites, California residents have some additional rights.
 
