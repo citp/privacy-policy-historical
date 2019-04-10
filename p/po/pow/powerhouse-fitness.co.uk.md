@@ -1,51 +1,154 @@
-> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003160315id_/https%3A//www.powerhouse-fitness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410223452id_/https%3A//www.powerhouse-fitness.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at Powerhouse Fitness
 
-Last modified: May 12, 2012
+Powerhouse Fitness is a retailer of home and commercial fitness equipment based in the UK owned by Sports Tiedje.
 
-This Privacy Policy applies to all of the products, services and websites offered by Powerhouse Fitness or its subsidiaries or affiliated companies). 
+Powerhouse Fitness is GDPR compliant and ensures the safeguarding of our customer data with respect. Your details will be kept safe and secure, only used by us, or those who work for us, and will not be shared with anyone else.
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our website.
+Should you have any reason to contact us regarding data then please either call 0141 876 3951 or email [choices@powerhouse-fitness.co.uk](mailto:choices@powerhouse-fitness.co.uk)
 
-### We may collect the following types of information:
+## Index of Privacy Policy
 
-Information you provide – When you sign up for a Powerhouse Fitness Account, we ask you for personal information. We may combine the information you submit under your account with information from other Powerhouse Fitness services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. Cookies – When you visit Powerhouse Fitness, we send one or more cookies to your computer or other device. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. Powerhouse Fitness also uses cookies in its advertising services to help us serve and manage ads across the web.
+  * How we use your information
+  * Use of cookies
+  * Consequences of not providing your data to us
+  * How long is information retained for
+  * Your rights
+  * Access to personal information
+  * Job application process
+  * Information security
+  * Complaints enquiries
 
-Log information – When you access Powerhouse Fitness via a browser, application or other client our servers automatically record certain information. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account. User communications – When you send email or other communications to Powerhouse Fitness, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive SMS messages to or from one of our services that provides SMS functionality, we may collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services. 
 
-Affiliated Powerhouse Fitness services on other sites – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Powerhouse Fitness in order to deliver the service. We process such information under this Privacy Policy. In addition to the above, we may use the information we collect to:
 
-Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and
+## How do we use your information
 
-Protect the rights or property of Powerhouse Fitness or our users. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
+Powerhouse Fitness collects customer data for these purposes:
 
-Google processes personal information on our servers in the UK and in other countries. In some cases, we process personal information outside your own country.
+When you sign up for a Powerhouse Fitness Account, we ask you for personal information. We may share this information with third parties in order to provide you with a better experience and to improve the quality of our services for the below purposes.
 
-### Choices
+Marketing purposes to inform customers about relevant goods and services, sharing our best, free delivery periods and competitions.
+
+We use a third party provider to deliver our weekly e-newsletters to tell our customers about our offers, free delivery periods, as well as health tips and competitions.
+
+Personal data may be used to send triggered emails, such as cart abandonment and purchase confirmation emails
+
+Personal data may be used to personalise marketing, for example to suggest products that are related to your previous purchases.
+
+During the purchasing process in order to secure payment, delivery and tracking.
+
+Approved finance companies who deal directly with the customer when requested to by the customer to facilitate their purchase.
+
+Payment providers in order to process secure payments
+
+Internal finance records in accordance with HMRC.
+
+Warranty purposes in order to protect our customers rights.
+
+Technology providers
+
+Customer and maintenance services who deal with the purchasing process and aftercare service for our customers.
+
+Delivery Companies in order to deliver and track your goods
+
+We may work with third parties who are not within the EU, and where this is the case, they are compliant with GDPR equivalent standards within their country of business."
+
+Online retail partners in order to fulfil customer purchases where delivery is arranged direct from the retail partner.
+
+Visitors to the website | When someone visits www.powerhouse-fitness.co.uk we use a third party service, Google Analytics, to collect standard internet log information and details of visitors behaviour patterns. We do this to find out visitor behavioural patterns on the website in order to improve the experience for the customer. This process does not identify individuals and we do not make any attempt to identify our visitors, nor does Google.
+
+Search queries and results are logged anonymously to help us improve our website and search functionality. No user-specific data is collected by either Powerhouse Fitness or any third party.
+
+If we do collect personally identifiable information via our website, we will be up front about this and make it clear that we are collecting it and explain what we will be doing with it.
+
+## Use of cookies by Powerhouse Fitness
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+We also use third party cookies for the marketing visitors as they browse the web.
+
+## Choices
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Powerhouse Fitness features and services may not function properly if your cookies are disabled.
 
-### Information sharing
+[Click here](https://www.powerhouse-fitness.co.uk/privacy-policy-cookie-restriction-mode) for full details on cookies.
 
-Powerhouse Fitness only shares personal information with other companies or individuals outside of Powerhouse Fitness in the following limited circumstances:
+## Consequences of not providing your data
 
-We have your consent. We require opt-in consent for the sharing of any sensitive personal information. We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Powerhouse Fitness, its users or the public as required or permitted by law. If Powerhouse Fitness becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+We want to provide the best possible service to our customers and if we do not receive full details from our customers then there it will affect the customer experience in the below ways:
 
-### Information security
+  * Safe delivery of their order
+  * Payment processing
+  * Tracking of their order
+  * Warranty of their produces
+  * Communications become less effective
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
 
-We restrict access to personal information to Powerhouse Fitness employees, contractors and agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-### Accessing and updating personal information
+## How long is information retained for?
 
-When you use Powerhouse Fitness services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. 
+Due to the nature of our business where we provide home and commercial customers with fitness equipment which has on average a 5 year warranty and due to analysis into the customer life cycle when purchasing our fitness equipment, we will retain customer information for 5 years.
 
-### Enforcement
+Due to HMRC rules and regulations we are legally obliged to retain customer records for 6 year.
 
-Powerhouse Fitness regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is Powerhouse Fitness's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Powerhouse Fitness and an individual.
+## Your rights
 
-### Changes to this Privacy Policy
+Under GDPR you have rights as an individual which you can exercise in relation to the information we hold about you.
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). 
+You can read more about these rights [here](https://ico.org.uk/for-the-public/is-my-information-being-handled-correctly)
+
+Powerhouse Fitness is GDPR compliant and safeguards our customer data safely and with respect. Your details will be kept safe and secure, only used by us, or those who work for us, and will not be shared with anyone else.
+
+Should you have any reason to contact us regarding data then please either call 0141 876 3951 or email [choices@powerhouse-fitness.co.uk](mailto:choices@powerhouse-fitness.co.uk)
+
+Should you not be satisfied with our assistance then you are free to contact the ICO, the UK’s independent authority set up to uphold information rights in the public interest.
+
+## Access to personal information
+
+Powerhouse Fitness tries to be as open as possible about giving people access to their personal information any by making a ‘subject access request’. Following that request, if we then hold information about you we will: 
+
+  * Give you a description of it
+  * Inform you of why we are holding it
+  * Inform you who it could be disclosed to
+  * Let you have a copy of your information
+
+Please note that if you request that your personal information is deleted then that it will take Powerhouse Fitness 48 hours to do so.
+
+To make a request to Powerhouse Fitness for any personal information we may hold you need to put the request in writing addressing and sending it via email to [choices@powerhouse-fitness.co.uk](mailto:choices@powerhouse-fitness.co.uk) OR by post to: 
+
+Marketing Team  
+Powerhouse Fitness  
+57 Beardmore Way  
+Clydebank Industrial Estate  
+Clydebank  
+G81 4HT
+
+If you agree, we will try and deal with you request informally and once your ID is confirmed we will email you your data in a common electronic format such as csv or xls.
+
+If we hold information about you, you can ask us to correct any mistakes or to unsubscribe by emailing [choices@powerhouse-fitness.co.uk](mailto:choices@powerhouse-fitness.co.uk) OR writing to the address stated above.
+
+## Job applicants, current and former Powerhouse Fitness Employees
+
+Powerhouse Fitness is the data controller for the information you provide during the process unless otherwise stated. If you have any queries about the process or how we handle your information please contact us at [recruitment@powerhouse-fitness.co.uk](mailto:recruitment@powerhouse-fitness.co.uk)
+
+For more information about the full process [click here](https://web.archive.org/recruitment)
+
+## Information security
+
+We take appropriate security methods to protect against unauthorised access to the data we hold. This includes, internal reviews, data collection reviews, storage and processing practices and security measures, including appropriate encryption and physical security measures.
+
+## Complaints enquiries
+
+Powerhouse Fitness endeavours to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive very seriously and we welcome any suggestions for improving our procedures.
+
+This privacy notice was collated following much research and analysis across the business and we are happy to provide any additional information or any explanations needed.
+
+If you wish to make a complaint about the way that we process your personal information, you can contact us by calling 0141 876 3951 or emailing [choices@powerhouse-fitness.co.uk](mailto:choices@powerhouse-fitness.co.uk)
+
+
+
