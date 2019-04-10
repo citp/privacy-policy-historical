@@ -1,119 +1,446 @@
-> *The following text is extracted and transformed from the saintsfc.co.uk privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913121756id_/https%3A//southamptonfc.com/club/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saintsfc.co.uk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410175617id_/https%3A//southamptonfc.com/club/privacy-policy) for the most accurate reproduction.*
 
-# SOUTHAMPTON FC | Official Website of Saints – latest news, photos and videos
+# Privacy Policy | Southampton FC
 
 ## PRIVACY POLICY
 
-**Southampton Football Club Limited**
+We take your privacy seriously. Please read this privacy policy carefully as it contains important information on who we are and how and why we collect, store, use and share your personal information. It also explains your rights in relation to your personal information and how to contact us or supervisory authorities in the event you have a complaint.
 
-**1.  Your Privacy**
+**Terms used in this policy**
 
-Southampton Football Club Limited (“ **We** ”) are committed to protecting and respecting your privacy.  We are a private limited company incorporated in England and Wales under company number 00053301.
+We, us, our
 
-This document (the “ **Privacy Policy** ”) explains our policy regarding any information you might supply to us when you visit our websites (the “ **Websites** ”) or that you provide to us via other channels, such as through engagement with our social media sites including Facebook and Twitter or through use of any applications developed by us (the “ **Apps** ”). Our primary concern is the protection your information.
+| 
 
-We are only responsible for the privacy practices and security this Website. The Website may contain links to other websites, which are provided to enhance your experience and for your convenience. We recommend that you always check the privacy and security policies and procedures of any website that you visit outside of this Website. 
+**St Mary’s Football Group Limited** (company number 06951765) is the parent company of the following:
 
-The ‘ **Data Controller’** (for the purposes of the Data Protection Act 1998 (the “ **Act** ”) of any personal information that you provide to us through the Websites will be Southampton Football Club Limited unless the relevant page specifically states otherwise. Where you provide personal information via another route to us, the Data Controller of such information will be the company to whom you provide it.
+  * **Southampton Football Club Limited**
 
-This Privacy Policy uses some words with specific legal meanings.  These words identified in bold. If you want to know what any words with special meanings mean, simply scroll back till you find the word in bold, where you will also find the relevant explanation.
+company number 00053301
 
-**2.  What Information Do We Collect?**
 
-The information we collect falls into the following categories (together, the “ **Information** ”):
 
-a) Personal information that you provide to us such as your name, address, telephone number, date of birth, banking details or credit card number, billing address, email address and details of purchasing preferences (“ **Personal Information** ”), which we use in accordance with this Privacy Policy.
+  * **St Marys Catering Limited** (trading as “Halo Conference and Events”)
 
-b) Website and App Use Information - the Website, any Apps and our social media sites utilise standard technology called “cookies” or similar technologies, along with web server logs, to collect information about how the Website, the Apps and social media sites are used, and information about users.
+company number 07200443
 
-For more information on the cookies and similar technologies that we use and their purpose, please see our [**Cookies Policy**](https://web.archive.org/club/cookie-policy).
 
-If you would like further details in respect of the information we collect and hold about you, please contact our Data Protection Officer whose details are set out below.  
 
-When you engage in certain activities on the Website or engage with us through any other channel,  for example, by registering your details on the Website or as an Southampton member, purchasing goods and services or entering competitions, we may ask you to provide certain information about yourself by filling out and submitting a form. It is completely up to you whether you engage in these activities.  If you choose to engage in these activities, however, we may require you to provide us with Information.  In some instances, you may also be asked to provide a credit or debit card number. We may supplement the Information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations, for example, our commercial partners.
+  * **St. Mary’s Training Centre Limited**
 
-**3.  Consent**
 
-By using this Website, or otherwise engaging with us, you indicate your consent to us collecting and using your Information in accordance with the terms of this Privacy Policy, unless you expressly state that such consent is not given. When you submit any Information to us you understand and agree that we and our associated companies (as defined in bold below) may record, transfer, store, and process your Information in any of the countries in which we and our subsidiaries or affiliates maintain offices, including without limitation, the United Kingdom.  See also Use of your Information outside the European Economic Area.
 
-If you do not agree to these terms, please do not use this Website or provide any of your information to us via this or any other channel.
+company number 02892833
 
-**4.  Security **
+It also includes our affiliated charity, **Saints Foundation (SFC)** (company number 04312794, registered charity number 1090916)  
+  
+---|---  
+  
+Personal information
 
-We take the security of your Information seriously.
+| 
 
-We have a committed security policy.  We implement a number of security measures to ensure that any Information in our possession or control is not stolen or lost. The Information is contained on a secure server, which is accessible only by a limited number of employees who have limited access rights to such information. Access rights to your Information are restricted only to those who have a legitimate business need to have that access.
+Any information relating to an identified or identifiable individual  
+  
+Special category personal information
 
-When you submit your credit card details, we use industry standard Secure Sockets Layer (SSL) encryption technology to guard your Information. In addition, we have security procedures in place to protect our customer database from loss and misuse, and only allow access to it when absolutely necessary, and then under strict guidelines as to what use may be made of the Information contained within it.
+| 
 
-**5.  How Will We Use Your Information?**
+Personal information revealing racial or ethnic origin, political opinions, religious beliefs, philosophical beliefs or trade union membership
 
-We collect your Information to record and support your participation in the activities you select. 
+Genetic and biometric data
 
-We may use Information:
+Data concerning health, sex life or sexual orientation  
+  
+**Personal information we collect about you**
 
-as part of our effort to keep you informed via mail, email, phone or fax about special offers, and other products and services we offer;
+We may collect and use the following personal information about you:
 
-for record keeping purposes;
+  * your name and contact information, including email address and telephone number 
+  * information to enable us to check and verify your identity, e.g. your date of birth
+  * your gender information, if you choose to give this to us
+  * location data, if you choose to give this to us
+  * your billing information, transaction and payment card information
+  * your personal or professional interests
+  * your contact history, purchase history and saved items
+  * information from accounts you link to us, e.g. Facebook
+  * information to enable us to undertake credit or other financial checks on you (where you are spreading the cost of your season ticket for example)
+  * information about how you use our website, IT, communication and other systems
+  * your responses to surveys, competitions and promotions
+  * emergency contact details
+  * CCTV recordings from when you visit our stadium
 
-to improve the quality of our service;
 
-for market research;
 
-to measure and improve activity on our Website, Apps and social media platforms;
+This personal information is required to provide products and/or services to you. If you do not provide personal information we ask for, it may delay or prevent us from providing products and/or services to you.
 
-in connection with targeting/advertising activities; and
+In certain circumstances we may also collect and use the following special category personal information about you, with your consent:
 
-to understand your preferences so that we can improve the products or services we offer.
+  * Disability information
+  * Medical information, e.g. medical conditions, allergies, injuries
+  * Ethnicity information
+  * Information about your religion
+  * Criminal record information (in some limited circumstances we may receive this without your consent, under section 10 of the Data Protection Act 2018, if this is the case it will be made clear to you)
 
-We may share and pass your Personal Information (including details of your purchasing preferences) with or to our holding companies, subsidiaries or associated companies in which we have an interest including, without limitation, any of our joint venture organisations (together, our “ **associated companies** ”).
 
-When you submit Personal Information to apply for a job via our Website, this will be used solely in connection with your registration to the site or your application for a particular role and will not be shared with third parties other than those engaged by us in connection with the recruitment process, such as recruitment consultants or agencies.
 
-We may also pass your Information to other carefully selected partner organisations (“ **partners** ”) with whom we have a business relationship, such as:
+This special category personal information may be collected either from you or a third party with your consent in order to provide you with services (such as football tickets for disabled supporters or to register you for a particular community football session) and/or to ensure your safety and wellbeing while attending one of our sessions or events. 
 
-our sponsors;
+**How your personal information is collected**
 
-financial services partners; and
+We collect most of this personal information directly from you—in person, by telephone, text or email **** and/or via our websites. However, we may also collect information: 
 
-other organisations whose services we need to use to process and deliver your orders, for credit control and debt collection, to maintain our systems or to comply with legal obligations or a court order.
+  * from publicly accessible sources;
+  * directly from a third party, e.g.:
+    * sanctions screening providers;
+    * credit reference agencies;
+    * customer due diligence providers;
+    * our official sponsors and partners; and
+    * any of our governing bodies (including the Football Association, Premier League).
+  * from a third party with your consent
+  * from cookies on our website—for more information on our use of cookies, please see our  **[cookies policy](https://southamptonfc.com/club/cookie-policy)**
+  * through telephone recordings when either you call or we call you
+  * via our IT systems, eg:
+  * door entry systems (such as our turnstiles) and reception logs; and
+  * automated monitoring of our websites and other technical systems, such as our computer networks and connections, CCTV and access control systems, and communications systems.
 
-Each of our associated companies and these partners may keep you informed of services, products, events and special offers made available by that organisation. If you express an interest in an offer from one of our associated companies or partners, that associated company or partner may let us know. In all cases, we will take care to ensure that these organisations only process your Information in accordance with this Privacy Policy, your preferences and the law.
 
-For a list of our associated companies or partners, please contact our Data Protection Officer whose contact details are listed below.
 
-If you do not wish the Information you provide to us to be shared with other associated companies or such partners, please indicate this preference when you provide the Information to us.  Alternatively please contact our Data Protection Officer.
+**How and why we use your personal information**
 
-We may also create an individual profile for you so that we can inform you of services, products, events or special offers that may be of interest to you.  In the event of the sale of our business or the integration of the business with another party, we may disclose your details to advisers or prospective purchasers’ advisers.
+Under data protection law, we can only use your personal information if we have a proper reason for doing so. This includes:
 
-We may also disclose your Personal Information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, to enforce or apply our terms and conditions and other agreements, or to protect our rights or property or those of our customers or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.
+  * to comply with our legal and regulatory obligations;
+  * for the performance of our contract with you or to take steps at your request before entering into a contract;
+  * for our legitimate interests or those of a third party; or
+  * where you have given consent.
 
-**6.  Use of your Information outside the European Economic Area**
 
-Some of the organisations (including, without limitation, certain associated companies and partners) that we disclose your Information to may be situated outside of the European Economic. In order to provide you with the products and services you require, we may need to transfer your Information to these countries some of which do not have laws that protect privacy rights as extensively as in the United Kingdom. If we do transfer your Information to such countries, we will endeavour to ensure that your Information is properly protected.
 
-**7.  Changes to this Privacy Policy**
+A legitimate interest is when we have a business or commercial reason to use your information, so long as this is not overridden by your own rights and interests.
 
-We aim to meet high standards and our policies and procedures are, therefore, constantly under review. From time to time we may change our security and privacy policies. Accordingly, we recommend that you check this page periodically, or request a copy of the current Privacy Policy from our Data Protection Officer, in order to keep up to date.
+The table below explains what we use (process) your personal information for and our reasons for doing so:
 
-**8.  Updating and Correcting Information**
+**What we use your personal information for**
 
-You may correct the Information we hold about you by changing your profile preferences online. We encourage you to update your Personal Information promptly if it changes.
+| 
 
-**9.  Your Rights to Access Your Information**
+**Our reasons**  
+  
+---|---  
+  
+To provide products and/or services to you
 
-You have the right to see details of the Information that we hold that relates to you.  We may charge a small administrative fee to cover the costs of any such request that you make. The current fee is £10.00.
+| 
 
-You may ask us to make any necessary changes to your Personal Information to ensure it is accurate and up-to-date.
+For the performance of our contract with you or to take steps at your request before entering into a contract  
+  
+To prevent and detect fraud against you or St Mary’s Football Group Limited
 
-**10.  How to Contact Us**
+| 
 
-If you would like any further information or have any comments about our use of your Information, our Privacy Policy or any aspect of this Website, please contact our Data Protection Officer at:
+For our legitimate interests or those of a third party, i.e. to minimise fraud that could be damaging for us and for you  
+  
+Conducting checks to identify our customers and verify their identity
 
-St Mary’s Stadium
+Screening for financial and other sanctions or embargoes
 
-Britannia Road
+Other processing necessary to comply with professional, legal and regulatory obligations that apply to our business, e.g. under health and safety regulation or rules issued by our professional regulator
 
-Southampton
+| 
 
-SO14 5FP 
+To comply with our legal and regulatory obligations  
+  
+Gathering and providing information required by or relating to audits, enquiries or investigations by regulatory bodies
+
+| 
+
+To comply with our legal and regulatory obligations  
+  
+Ensuring business policies are adhered to, e.g. policies covering security and internet use
+
+| 
+
+For our legitimate interests or those of a third party, i.e. to make sure we are following our own internal procedures so we can deliver the best service to you  
+  
+Operational reasons, such as improving efficiency, training and quality control
+
+| 
+
+For our legitimate interests or those of a third party, i.e. to be as efficient as we can so we can deliver the best service for you at the best price  
+  
+Ensuring the confidentiality of commercially sensitive information
+
+| 
+
+For our legitimate interests or those of a third party, i.e. to protect trade secrets and other commercially valuable information
+
+To comply with our legal and regulatory obligations  
+  
+Statistical analysis to help us manage our business, eg in relation to our financial performance, customer base, product range or other efficiency measures
+
+| 
+
+For our legitimate interests or those of a third party, i.e. to be as efficient as we can so we can deliver the best service for you at the best price  
+  
+Preventing unauthorised access and modifications to systems
+
+| 
+
+For our legitimate interests or those of a third party, i.e. to prevent and detect criminal activity that could be damaging for us and for you
+
+To comply with our legal and regulatory obligations  
+  
+Updating and enhancing customer records
+
+| 
+
+For the performance of our contract with you or to take steps at your request before entering into a contract
+
+To comply with our legal and regulatory obligations
+
+For our legitimate interests or those of a third party, eg making sure that we can keep in touch with our customers about existing orders and new products  
+  
+Statutory returns
+
+| 
+
+To comply with our legal and regulatory obligations  
+  
+Ensuring safe working practices, staff administration and assessments
+
+| 
+
+To comply with our legal and regulatory obligations
+
+For our legitimate interests or those of a third party, e.g. to make sure we are following our own internal procedures and working efficiently so we can deliver the best service to you  
+  
+Marketing our services and those of selected third parties to:
+
+  * existing and former customers;
+  * where we have your consent to do so; - 
+  * third parties who have previously expressed an interest in our services;
+  * third parties with whom we have had no previous dealings.
+
+| 
+
+For our legitimate interests or those of a third party, i.e. to promote our business to existing, former customers and customers who have interacted on our online platforms.
+
+Where we do not have a legitimate interest, we will only market our services and those of selected third parties where we have your consent to promote our business to you.  
+  
+CCTV images from when you visit our Stadium, retail stores, offices and other premises we control.
+
+| 
+
+For our legitimate interest of public order and the prevention of crime  
+  
+Personal details of any persons (including children) visiting any of our sites
+
+| 
+
+For our legitimate interest of the protection of our supporters, safeguarding of children, young adults and adults at risk, staff and other visitors.  
+  
+Credit reference checks via external credit reference agencies 
+
+| 
+
+For our legitimate interests or those of a third party, i.e. to ensure our customers are likely to be able to pay for our products and services.  
+  
+|   
+  
+The above table does not apply to special category personal information, which we will only process with your explicit consent.
+
+**Promotional Communications**
+
+We may use your personal information to send you updates by email, text message, telephone or post about our products and/or services, including exclusive offers, promotions or new products and/or services.
+
+We have a legitimate interest in processing your personal information for promotional purposes (see above ‘ **How and why we use your personal information** ’). This means we do not usually need your consent to send you promotional communications. However, where consent is needed, we will ask for this consent separately and clearly.
+
+We will always treat your personal information with the utmost respect and never sell it with other organisations outside St Mary’s Football Group Limited for marketing purposes.
+
+You have the right to opt out of receiving promotional communications at any time by:
+
+  * contacting us at supporterrelations@saintsfc.co.uk
+  * using the ‘unsubscribe’ link in emails or asking us to stop texting you in a prescribed manner 
+  * updating your marketing preferences by clicking “update preferences” on any email we send you. 
+
+
+
+We may ask you to confirm or update your marketing preferences if you instruct us to provide further products and/or services in the future, or if there are changes in the law, regulation, or the structure of our business.
+
+**Direct Marketing**
+
+Where we use your information for the purpose of promotional and marketing purposes, we’ll use your personal information to send you direct marketing and to better identify products and services that interest you. We do that if you are one of our supporters, clients or customers or if you’ve interacted with us another way (such as entering a prize promotion, asking to receive e-mails, enquiring into hospitality (whether for a match day or non-match day), competitions or registering your interest by other means).
+
+This means we’ll:
+
+  * create a profile about you to better understand you as a supporter, client or customer and tailor the communications we send you (including our marketing messages);
+  * tell you about other products and services you might be interested in;
+  * recommend better ways to manage what you spend with us, like suggesting a more suitable product based on what you use; and
+  * try to identify products and services you’re interested in.
+
+
+
+We use the following for marketing and to identify the products and services you’re interested in.
+
+  * Your personal details. This includes your name, gender, address, phone number, date of birth and email address.
+  * Your order history.
+  * Information from  **cookies**  and  **tags**  placed on your connected devices.
+  * Details of the products and services you’ve bought and how you use them.
+  * Details of your online behavior such as how you interact with our e-mail communications or website.
+
+
+
+**Who we share your personal information with**
+
+We may share personal information with:
+
+  * companies within the St Mary’s Football Group Limited
+  * third parties we use to help deliver our products to you, e.g. payment service providers, warehouses and delivery companies
+  * other third parties we use to help us run our business, e.g. marketing agencies or website hosts including Two Circles Limited, Delete Limited, Sport Fusion Limited, AMS Media Group, Advanced Ticketing Limited, PCS Technology Ltd, CPOMS Systems Limited, Substance 2005 Limited, Facebook and other social networks
+  * our governing bodies, such as the Premier League and Football Association via their approved systems
+  * our professional and legal advisors
+  * law enforcement or other regulatory or government bodies
+  * third parties approved by you, e.g. social media sites you choose to link your account to or third party payment providers
+  * our credit reference agencies, namely Secure Trust Bank Public Limited Company and V12 Retail Finance Limited
+  * our insurers, brokers and banks, where appropriate.
+
+
+
+We only allow our service providers to handle your personal information if we are satisfied they take appropriate measures to protect your personal information. We also impose contractual obligations on service providers relating to ensure they can only use your personal information to provide services to us and to you. We may also share personal information with external auditors, e.g. the audit of our accounts.
+
+We may disclose and exchange information with law enforcement agencies and regulatory bodies to comply with our legal and regulatory obligations. 
+
+We may also need to share some personal information with other parties, such as potential buyers of some or all of our business or during a re-structuring. Usually, information will be anonymised but this may not always be possible. The recipient of the information will be bound by confidentiality obligations.
+
+**Children’s personal data**
+
+We are dedicated to the protection of children’s personal information. We recommend that children read this privacy policy with their parents and/or guardians. We endeavour to limit the amount of personal information we collect from individuals who are under the age of 13. Children aged 13 and over have access to our services but may be restricted from age appropriate services and advertising.
+
+Individuals who are under 13 must always ask their parent and/or guardian for permission 
+
+  * before you set up an account at <https://southamptonfc.com/>
+  * before you enter our competitions or prize draws (subject to separate terms and conditions)
+
+
+
+before you agree to purchase any of our products on-line though any of our websites
+
+ **How long your information will be kept**
+
+We keep different information for different lengths of time but as a rule we will not keep any information in a form that allows the identification of the person it is about for any longer than we have a reason to have it.
+
+**Where your personal information is held**
+
+Information may be held at our offices and those of our third party agencies, service providers, representatives and agents as described above (see above: ‘ **Who we share your personal information with** ’).
+
+Some of these third parties may be based outside the European Economic Area. For more information, including on how we safeguard your personal information when this occurs, see below: ‘ **Transferring your personal information out of the EEA** ’.
+
+**Transferring your personal information out of the EEA**
+
+To deliver services to you, it is sometimes necessary for us to share your personal information outside the European Economic Area (EEA), e.g.:
+
+  * with our service providers located outside the EEA;
+  * if you are based outside the EEA;
+  * where there is an international dimension to the services we are providing to you.
+
+
+
+These transfers are subject to special rules under European and UK data protection law.
+
+If you would like further information please contact us using the details in the ‘How to contact us’ below.
+
+******Your rights**
+
+You have the following rights, which you can exercise free of charge:
+
+**Access**
+
+| 
+
+The right to be provided with a copy of your personal information (the right of access)  
+  
+---|---  
+  
+**Rectification**
+
+| 
+
+The right to require us to correct any mistakes in your personal information  
+  
+**To be forgotten**
+
+| 
+
+The right to require us to delete your personal information—in certain situations  
+  
+**Restriction of processing**
+
+| 
+
+The right to require us to restrict processing of your personal information—in certain circumstances, eg if you contest the accuracy of the data  
+  
+**Data portability**
+
+| 
+
+The right to receive the personal information you provided to us, in a structured, commonly used and machine-readable format and/or transmit that data to a third party—in certain situations  
+  
+**To object**
+
+| 
+
+The right to object:
+
+—at any time to your personal information being processed for direct marketing (including profiling);
+
+—in certain other situations to our continued processing of your personal information, eg processing carried out for the purpose of our legitimate interests.  
+  
+**Not to be subject to automated individual decision-making**
+
+| 
+
+The right not to be subject to a decision based solely on automated processing (i.e. a decision made without human involvement), including profiling, that produces legal effects concerning you or similarly significantly affects you  
+  
+For further information on each of those rights, including the circumstances in which they apply, please contact us or see the [Guidance from the UK Information Commissioner’s Office (ICO) on individuals’ rights under the General Data Protection Regulation](http://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
+
+If you would like to exercise any of those rights, please:
+
+  * email, call or write to us - see below: **‘How to contact us’** ;
+  * let us have enough information to identify you; 
+  * let us have proof of your identity and address (a copy of your driving licence or passport and a recent utility or credit card bill); and
+  * let us know what right you want to exercise and the information to which your request relates.
+
+
+
+**Keeping your personal information secure**
+
+We have appropriate security measures to prevent personal information from being accidentally lost, or used or accessed unlawfully. We limit access to your personal information to those who have a genuine business need to access it. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality. 
+
+We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.
+
+**How to complain**
+
+We hope that we can resolve any query or concern you may raise about our use of your information. 
+
+The [General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=EN) also gives you right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at [https://ico.org.uk/concerns](http://ico.org.uk/concerns/) or telephone: 0303 123 1113.
+
+**Changes to this privacy policy**
+
+This privacy notice was published on 29 August 2018. 
+
+We may change this privacy notice from time to time—when we do we will inform you via our website at [https://southamptonfc.com/club/privacy-policy](https://southamptonfc.com/club/privacy-policy)
+
+**How to contact us**
+
+Please contact us **** and by post, email or telephone if you have any questions about this privacy policy or the information we hold about you.
+
+Our contact details are shown below:
+
+**Our contact details**  
+  
+---  
+  
+Data Protection Officer, St Mary’s Stadium, Britannia Road, Southampton, SO14 5FP
+
+[zosullivan@saintsfc.co.uk](mailto:zosullivan@saintsfc.co.uk)
