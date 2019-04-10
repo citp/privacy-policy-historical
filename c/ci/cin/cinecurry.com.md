@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinecurry.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906232144id_/http%3A//www.cinecurry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinecurry.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410234947id_/http%3A//www.cinecurry.com/privacy) for the most accurate reproduction.*
 
 # 
 
