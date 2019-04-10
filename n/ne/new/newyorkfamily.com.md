@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the newyorkfamily.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912185158id_/http%3A//www.newyorkfamily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkfamily.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410150613id_/https%3A//www.newyorkfamily.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - New York Family Magazine
 
 May 17, 2012
 
-## Privacy Policy
-
 * * *
 
 **YOUR USE OF AND/OR REGISTRATION WITH ANY ASPECT OF THIS WEBSITE CONSTITUTES YOUR ACCEPTANCE OF THIS PRIVACY POLICY.**
 
-The following summarizes the various ways in which New York Family (“Service Provider,” “We,” “Us” or “Our”) treats the information you provide while using [newyorkfamily.com](http://newyorkfamily.com/) (“the Website”). All references herein to New York Family in any form are intended to include New York Family, its subsidiaries, sponsors and affiliated organizations. The terms “you,” “your,” and “yours” refer to you, the visitor to the Website. By accessing, viewing or posting to any page hosted at [newyorkfamily.com](http://newyorkfamily.com/), you agree to abide by these terms and conditions. Please read them carefully before accessing, viewing or posting to the Website. You can access this Privacy Policy any time at [newyorkfamily.com/privacy](http://newyorkfamily.com/privacy).
+The following summarizes the various ways in which New York Family (“Service Provider,” “We,” “Us” or “Our”) treats the information you provide while using [newyorkfamily.com](http://newyorkfamily.wpengine.com/) (“the Website”). All references herein to New York Family in any form are intended to include New York Family, its subsidiaries, sponsors and affiliated organizations. The terms “you,” “your,” and “yours” refer to you, the visitor to the Website. By accessing, viewing or posting to any page hosted at [newyorkfamily.com](http://newyorkfamily.wpengine.com/), you agree to abide by these terms and conditions. Please read them carefully before accessing, viewing or posting to the Website. You can access this Privacy Policy any time at [newyorkfamily.com/privacy](http://newyorkfamily.wpengine.com/privacy).
 
-In addition to reviewing this page, please be sure to read Our Terms of Use, available at [newyorkfamily.com/terms](http://newyorkfamily.com/terms) and included herein by reference. If you cannot agree to the Terms of Use or Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on other sites linked to from the Website.
+In addition to reviewing this page, please be sure to read Our Terms of Use, available at [newyorkfamily.com/terms](http://newyorkfamily.wpengine.com/terms) and included herein by reference. If you cannot agree to the Terms of Use or Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on other sites linked to from the Website.
 
 We reserve the right to change, at any time, at Our sole discretion, the terms of this Privacy Policy. You are responsible for regularly reviewing the Privacy Policy for changes. Your continued use of the Website after such changes have been made constitutes your acceptance of all such revised terms.
 
@@ -86,7 +84,7 @@ If you have any concerns or questions about any aspect of this policy, please fe
 
 New York Family  
 ATTN: PRIVACY  
-79 Madison Ave, 16th Fl.  
-New York, NY 10016
+1 MetroTech Center, 10th Floor  
+Brooklyn, NY 11201
 
 You acknowledge that you have read and are bound by this Privacy Policy, as well as the Terms of Use and any other usage agreements of Ours that may govern your conduct. Thank you for visiting the Website. Please do not hesitate to contact Us if you have questions or concerns.
