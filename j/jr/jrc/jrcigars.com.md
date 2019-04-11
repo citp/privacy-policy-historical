@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrcigars.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306182500id_/https%3A//www.jrcigars.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrcigars.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412013433id_/https%3A//www.jrcigars.com/info/privacy-policy) for the most accurate reproduction.*
 
 # JRCigars.com Privacy Policy | JR Cigar
 
