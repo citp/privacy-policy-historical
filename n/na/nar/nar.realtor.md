@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nar.realtor privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020002811id_/https%3A//www.nar.realtor/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nar.realtor privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411133050id_/https%3A//www.nar.realtor/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.nar.realtor
 
