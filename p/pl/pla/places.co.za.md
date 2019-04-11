@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the places.co.za privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925035559id_/http%3A//www.places.co.za/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the places.co.za privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411220025id_/https%3A//www.places.co.za/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,5 +15,5 @@ Our web sites use cookies to customise the site and make your visit more user-fr
 
 Clients will only receive email concerning bookings and payment status. Your data and privacy will be protected along the above guidelines.
 
-This site complies to [Section 51](http://www.places.co.za/html/section_51_compliance.html) of the Promotion of Access to Information Act 2 / 2000.   
+This site complies to [Section 51](https://www.places.co.za/html/section_51_compliance.html) of the Promotion of Access to Information Act 2 / 2000.   
 
