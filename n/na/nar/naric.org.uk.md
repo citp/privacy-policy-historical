@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naric.org.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902225134id_/https%3A//www.naric.org.uk/naric/documents/code%2520of%2520practice/EcctisLtd_PrivacyNotice-V18.5.2.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naric.org.uk privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411223651id_/https%3A//www.naric.org.uk/naric/documents/code%2520of%2520practice/Ecctis%2520Ltd%2520-%2520Privacy%2520Notice%2520-%2520V18.9.1.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@ using Our Site immediately.
                                            who can be directly or indirectly identified from that data. In
                                            this case, it means personal data that you give to Us via Our
                                            Site. This definition shall, where applicable, incorporate the
-                                           definitions provided in the Data Protection Act 1998 and EU
+                                           definitions provided in the Data Protection Act 2018 and EU
                                            Regulation 2016/679 – the General Data Protection Regulation
                                            (‘GDPR’); and
           ‘We/Us/Our’                      means Ecctis Ltd, a limited company registered in England,
@@ -41,7 +41,7 @@ using Our Site immediately.
          This Privacy Policy applies to your use of Our Site. Our Site may contain links to other
          websites. Note that We have no control over how your data is collected, stored, or used by
                                                         1
-                                                                                                         V18.5.2
+                                                                                                         V18.9.1
 
 
    other websites. We advise you to check the privacy policies of any other websites before
@@ -84,7 +84,7 @@ using Our Site immediately.
              certificates, transcripts, and related documents;
    5.7       for services involving Primary Source Verification only, passport and/or National ID
                                                    2
-                                                                                                   V18.5.2
+                                                                                                   V18.9.1
 
 
            card details and an electronic copy of the biographical data page from the applicant’s
@@ -117,7 +117,7 @@ using Our Site immediately.
            exit to.
 6. How do We use your data?
    6.1     All personal data is processed and stored securely. We comply with Our obligations
-           and safeguard your rights under the Data Protection Act 1998 or GDPR at all times.
+           and safeguard your rights under the Data Protection Act 2018 or GDPR at all times.
            For more details on security see section 7 below.
            As part of Our responsibilities as a Designated National Agency, performing services
            related to international qualifications and skills recognition on behalf of the UK
@@ -126,7 +126,7 @@ using Our Site immediately.
            prevention of education fraud. Therefore We may choose to retain electronic copies of
            your qualifications and transcripts as part of this archive. If you do not wish your
                                                  3
-                                                                                                   V18.5.2
+                                                                                                   V18.9.1
 
 
     qualification documents to be used in this way, please tell Us; by email at
@@ -170,7 +170,7 @@ using Our Site immediately.
              the completion of the service to the individual. For the purposes of the
              prevention of fraud, UK NARIC is sometimes requested to verify statements
                                           4
-                                                                                            V18.5.2
+                                                                                            V18.9.1
 
 
              that it has issued. To enable cross-checking and verification to take place, it is
@@ -220,7 +220,7 @@ using Our Site immediately.
     service to you, We will be unable to complete that service for you; and that We will be
     unable to communicate with you after your personal data is deleted.
                                           5
-                                                                                          V18.5.2
+                                                                                          V18.9.1
 
 
    6.6   If unsolicited personal or sensitive personal data is sent to Us, in any form, We will not
@@ -266,7 +266,7 @@ using Our Site immediately.
    8.3   When payments are made through Our Site, your payment details will be directly
          entered into Worldpay’s secure payment portal. Your payment details are not stored in
                                                6
-                                                                                                V18.5.2
+                                                                                                V18.9.1
 
 
              Our systems. Worldpay is a UK-based company.
@@ -310,7 +310,7 @@ using Our Site immediately.
     is held). No fee is payable. Contact Us for more details at dpo@ecctis.co.uk or use the contact
     details below in section 13.
                                                   7
-                                                                                                   V18.5.2
+                                                                                                   V18.9.1
 
 
 13. Contacting Us
@@ -324,9 +324,10 @@ using Our Site immediately.
     changes will be immediately posted on Our Site and you will be deemed to have accepted the
     terms of the Privacy Policy on your first use of Our Site following the alterations. We
     recommend that you check this page regularly to keep up-to-date.
-    21 May 2018
+        th
+    10 September 2018
     © Copyright 2018
     Ecctis Ltd | UK NARIC | Europass | Centre for Professional Qualifications (CPQ)
     ECVET | ReferNet
                                                      8
-                                                                                                  V18.5.2
+                                                                                                  V18.9.1
