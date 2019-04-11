@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecitizensoffashion.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926182242id_/https%3A//thecitizensoffashion.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecitizensoffashion.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411163741id_/https%3A//thecitizensoffashion.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | the CITIZENS of FASHION
 
