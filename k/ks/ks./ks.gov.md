@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ks.gov privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215060829id_/http%3A//www.kansas.gov/portal-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ks.gov privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411025640id_/https%3A//portal.kansas.gov/portal-policies/privacy-statement) for the most accurate reproduction.*
 
-# Kansas.gov - The Official website of the State of Kansas - Privacy Statement
+# Privacy Policy | portal.kansas.gov
 
-The Information Network of Kansas, Inc. (INK) is committed to safeguarding the information collected through the INK’s online services and websites (Sites). This privacy policy is intended to disclose to you our privacy practices in a manner that is easy to understand. If there is something you do not understand about our privacy practices, please feel free to contact Information Network of Kansas, Inc., 300 SW 8th Ave., 3rd Floor, Topeka, Kansas 66603, [Email Us](mailto:helpcenter@ink.org?subject=Privacy%20Policy).
+The Information Network of Kansas, Inc. (INK) is committed to safeguarding the information collected through the INK’s online services and websites (Sites). This privacy policy is intended to disclose to you our privacy practices in a manner that is easy to understand. If there is something you do not understand about our privacy practices, please feel free to contact Information Network of Kansas, Inc., 120 SW 10th Ave., Topeka, Kansas 66603, [Email Us](mailto:ks-helpcenter@egov.com?subject=Privacy%20Policy).
 
 This privacy policy does not apply to products or services provided, or information obtained, other than through the Sites. We may change this policy from time to time so please check back often. Please keep in mind that some of the services mentioned specifically in this policy may not be available at this time, or on all of the Sites.
 
@@ -28,7 +28,7 @@ When you visit and navigate our Sites, use our applications or third party sites
 
 We collect much of the information listed above directly from you when you submit it on our Sites. This includes information such as registration information, contact information, user submissions, and public postings. If you do not want to share your information, you can choose not to participate in a particular service or activity.
 
-##### Indirect Collection - Cookies and Other Technology
+##### Indirect Collection – Cookies and Other Technology
 
 We and our service providers use cookies, and other technologies to receive and store certain types of information whenever you interact with us through your computer or mobile device. We may use these technologies to:
 
@@ -44,17 +44,19 @@ The types of technologies we use include:
   * ###### Cookies
 
 A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer’s hard drive. Cookies enable us to identify your browser as a unique user. Cookies may involve the transmission of information from us to you and from you to us. The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Site of its manufacturer. You may lose some features or functionality when you disable cookies.
+
   * ###### Web Analytics
 
 Like most standard websites servers, we track website analytics. Web analytics track Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We utilize this information to analyze trends, administer the Sites, prevent fraud, track website navigation in the aggregate, and gather broad demographic information for aggregate use.
 
 
 
-##### Indirect Collection - Social Networking
 
-The Sites may permit you to use third party social networking platforms such as Facebook, Pinterest, Twitter, and Google+. This may include the use of social media plugins such as Facebook “Like”, Tweet, Pinterest “Pin,” Google “+1” buttons, etc. When you use these social networking platforms and plugins, your username and password for the available information about you or collected from you on these services may be shared with us. When you use social networking platforms and plugins, you share your information with them and their privacy policy applies disclosure of such information. In addition, they may be able to collect information about you, including your activity or may notify your connections on the social networking platform about your use of INK's Sites. Such services may allow your activity to be monitored across multiple Sites for purposes of delivering more targeted advertising. Please note that the privacy policies of the social network platform providers will apply in those situations and we encourage you to read them. We may add new social networking plugins and buttons to our Sites from time to time.
+##### Indirect Collection – Social Networking
 
-##### Indirect Collection - Third Party Advertising Services
+The Sites may permit you to use third party social networking platforms such as Facebook, Pinterest, Twitter, and Google+. This may include the use of social media plugins such as Facebook “Like”, Tweet, Pinterest “Pin,” Google “+1” buttons, etc. When you use these social networking platforms and plugins, your username and password for the available information about you or collected from you on these services may be shared with us. When you use social networking platforms and plugins, you share your information with them and their privacy policy applies disclosure of such information. In addition, they may be able to collect information about you, including your activity or may notify your connections on the social networking platform about your use of INK’s Sites. Such services may allow your activity to be monitored across multiple Sites for purposes of delivering more targeted advertising. Please note that the privacy policies of the social network platform providers will apply in those situations and we encourage you to read them. We may add new social networking plugins and buttons to our Sites from time to time.
+
+##### Indirect Collection – Third Party Advertising Services
 
 We may employ over time various different advertising or remarketing services that serve you targeted advertisements to make your online experience more focused to your interests. These services collect data through the DoubleClick cookie and through our implementation of Google Analytics and AdWords. These tools and technologies collect and analyze certain types of information, including cookies, IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, MAC Address, mobile unique device ID and other similar information.
 
@@ -100,23 +102,23 @@ We may also share your information at your direction or request, or with your ex
 
 ### How can I control my personal information?
 
-To review and update your personally identifying information to ensure it is accurate, you may log into the EGOV EXPRESS® payment service and edit your information, or you may contact us at Information Network of Kansas, Inc., 300 SW 8th Ave., 3rd Floor, Topeka, Kansas 66603, [Email Us](mailto:helpcenter@ink.org?subject=Privacy%20Policy) with any questions. We will make commercially reasonable efforts to provide you reasonable access to any of your personally identifying information we maintain within 30 days of your access request. We provide this access so you can review it, make corrections or request deletion of your data. If we cannot honor your request within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so.
+To review and update your personally identifying information to ensure it is accurate, you may log into the EGOV EXPRESS® payment service and edit your information, or you may contact us at Information Network of Kansas, Inc., 120 SW 10th Ave., Topeka, Kansas 66603, [Email Us](mailto:ks-helpcenter@egov.com?subject=Privacy%20Policy) with any questions. We will make commercially reasonable efforts to provide you reasonable access to any of your personally identifying information we maintain within 30 days of your access request. We provide this access so you can review it, make corrections or request deletion of your data. If we cannot honor your request within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so.
 
 ### California Residents
 
-If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes during the preceding calendar year, if any. To request a notice, please submit your request to Information Network of Kansas, Inc., 300 SW 8th Ave., 3rd Floor, Topeka, Kansas 66603, [Email Us.](mailto:helpcenter@ink.org.?subject=California%20Resident%20Disclosure%20Request) Please allow 30 days for a response.
+If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes during the preceding calendar year, if any. To request a notice, please submit your request to Information Network of Kansas, Inc., 120 SW 10th Ave., Topeka, Kansas 66603, [Email Us.](mailto:ks-helpcenter@egov.com.?subject=California%20Resident%20Disclosure%20Request) Please allow 30 days for a response.
 
 ### How do we respond to Do Not Track signals?
 
-Do Not Track (DNT) is a privacy preference that users can set in some web browsers to signal their preference regarding potential "tracking" by third party websites. While the United States Federal Trade Commission has endorsed DNT, our Sites do not currently support DNT codes. However, except as otherwise disclosed herein, our Sites limit tracking to the internal uses described above. Our Sites do not track your use across multiple websites, however, other websites to which we link may. Please review their privacy policies to understand how you may be tracked.
+Do Not Track (DNT) is a privacy preference that users can set in some web browsers to signal their preference regarding potential “tracking” by third party websites. While the United States Federal Trade Commission has endorsed DNT, our Sites do not currently support DNT codes. However, except as otherwise disclosed herein, our Sites limit tracking to the internal uses described above. Our Sites do not track your use across multiple websites, however, other websites to which we link may. Please review their privacy policies to understand how you may be tracked.
 
 ### What security precautions are in place to protect against the loss, misuse or alteration of my information?
 
 Providing security for the personally identifying information you submit via our Sites is a priority for us. We maintain administrative, technical and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
 
-### Children's Personal Information
+### Children’s Personal Information
 
-We recognize the particular importance of protecting privacy where children are involved. We do not knowingly collect personally identifiable information online from children under the age of 13. If a child under the age of 13 has provided us with personally identifiable information online, we ask that a parent or guardian contact us at Information Network of Kansas, Inc., 300 SW 8th Ave., 3rd Floor, Topeka, Kansas 66603, [Email Us](mailto:helpcenter@ink.org?subject=Children%27s%20Privacy%20Policy).
+We recognize the particular importance of protecting privacy where children are involved. We do not knowingly collect personally identifiable information online from children under the age of 13. If a child under the age of 13 has provided us with personally identifiable information online, we ask that a parent or guardian contact us at Information Network of Kansas, Inc., 120 SW 10th Ave., Topeka, Kansas 66603, [Email Us](mailto:ks-helpcenter@egov.com?subject=Children%27s%20Privacy%20Policy).
 
 ### What else should I know about my privacy?
 
@@ -136,5 +138,6 @@ This Privacy Policy was last updated on June 23, 2015.
 
 If you need further assistance, please send an email with your questions or comments to:
 
-Information Network of Kansas, Inc. 300 SW 8th Ave., 3rd Floor Topeka, Kan. 66603 [Email Us](mailto:helpcenter@ink.org?subject=Privacy%20Policy)
+Information Network of Kansas, Inc. 120 SW 10th Ave., Topeka, Kansas. 66603
 
+[Email Us](mailto:ks-helpcenter@egov.com?subject=Privacy%20Policy)
