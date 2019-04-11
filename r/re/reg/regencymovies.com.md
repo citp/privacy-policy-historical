@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regencymovies.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827205423id_/https%3A//regencymovies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regencymovies.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411191447id_/https%3A//regencymovies.com/privacy.php) for the most accurate reproduction.*
 
 # Regencymovies.com Privacy Policy
 
@@ -31,6 +31,6 @@ All sales are final, and no refunds will be given.
 Regencymovies.com contains links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
 
 **Who can I ask if I have any additional questions?**  
-If you have any further questions or concerns about Regency Theatres privacy policy and use of personal information, please use our [feedback form](https://web.archive.org/web/20180827205423id_/https%3A//regencymovies.com/feedback.php) or link below to send us an email.
+If you have any further questions or concerns about Regency Theatres privacy policy and use of personal information, please use our [feedback form](https://web.archive.org/web/20190411191447id_/https%3A//regencymovies.com/feedback.php) or link below to send us an email.
 
 [privacy@regencymovies.com](mailto:privacy@regencymovies.com?subject=Privacy%20Policy)
