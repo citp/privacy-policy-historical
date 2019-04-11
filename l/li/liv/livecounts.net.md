@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecounts.net privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230120435id_/https%3A//livecounts.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecounts.net privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412001351id_/https%3A//livecounts.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Livecounts
 
