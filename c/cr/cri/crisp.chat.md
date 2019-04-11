@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crisp.chat privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912070806id_/https%3A//crisp.chat/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisp.chat privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411074452id_/https%3A//crisp.chat/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Crisp
+
+#### Last updated: 9th December 2018
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -44,12 +46,4 @@ The Crisp chatbox, that is running on the websites of our users, uses cookies. C
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-#### Any question about our privacy statement?
-
-Let us know if something looks wrong.
-
-[Ask your questions](https://web.archive.org/en/contact/)
-
-#### Start communicating with customers now.
-
-Use it for free and setup Crisp in 5 minutes.[Start using Crisp](https://app.crisp.chat/initiate/signup/)
+Ready to improve your customer engagement?
