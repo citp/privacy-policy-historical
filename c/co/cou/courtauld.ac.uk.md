@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the courtauld.ac.uk privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517085927id_/http%3A//courtauld.ac.uk/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtauld.ac.uk privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411073600id_/https%3A//courtauld.ac.uk/about/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Courtauld Institute of Art
+# Website Privacy Policy - The Courtauld Institute of Art
 
-The Courtauld Institute of Art is committed to protecting your privacy. This statement applies to all information collected or submitted on the Courtauld Institute of Art’s website, and is made in the light of the requirements of the Data Protection Act 1998 in order to alert you to the practices which govern the processing of your data.
+The Courtauld Institute of Art is committed to protecting your privacy. This statement applies to all information collected or submitted on the Courtauld Institute of Art’s website, and is made in the light of the requirements of the General Data Protection Regulation (GDPR) in order to alert you to the practices which govern the processing of your data.
 
 ### The information we collect
 
 We collect the following information from people visiting the website:
 
   * Information on how people use the site
-  * Your name and email address if you sign up for an [enewsletter](http://courtauld.ac.uk/gallery/stay-in-touch)
-  * Your name and payment details when you [buy gallery merchandise](http://www.courtauldshop.com/), pay for one of our [events](http://courtauld.ac.uk/research/research-forum/events) and [courses](http://courtauld.ac.uk/learn/art-history-short-courses), or [donate online](http://courtauld.ac.uk/support/give-now)
+  * Your name and email address if you sign up for an [enewsletter](https://courtauld.ac.uk/gallery/stay-in-touch)
+  * Your name and payment details when you [buy gallery merchandise](http://www.courtauldshop.com/), pay for one of our [events](https://courtauld.ac.uk/research/research-forum/events) and [courses](https://courtauld.ac.uk/learn/art-history-short-courses), or [donate online](https://courtauld.ac.uk/support/give-now)
   * Visitors’ external IP addresses, details of which browser they used and on what kind of machine (eg Windows/Mac)
+  * Information relating to user demographics and interests using users’ Google advertising IDs. This data is not personally identifiable.
 
 
 
@@ -27,10 +28,10 @@ We collect that information about users of this site in four different ways:
 
 
 **Cookies**  
-We use small data files stored on your computer called ‘cookies’. Most big websites do this. They help us improve the website experience for you. Find out what we use them for, and how to control their use on our [cookies page](http://courtauld.ac.uk/about/website/cookies).
+We use small data files stored on your computer called ‘cookies’. Most big websites do this. They help us improve the website experience for you. Find out what we use them for, and how to control their use on our [cookies page](https://courtauld.ac.uk/about/policies/cookies).
 
 **Online forms  
-**Forms such as the [enewsletter form](http://courtauld.ac.uk/gallery/stay-in-touch) collect data from users of the site. In this instance the user volunteers their personal information and the information is held in accordance with our Data Protection Policy.
+**Forms such as the [enewsletter form](https://courtauld.ac.uk/gallery/stay-in-touch) collect data from users of the site. In this instance the user volunteers their personal information and the information is held in accordance with our Data Protection Policy.
 
 **Online payments  
 **All money transactions on our website are operated by trusted third parties using secure servers. They take appropriate measures to ensure that the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
@@ -44,13 +45,20 @@ This information is useful for us because it tells us how popular certain parts 
 
 Any information we collect is used to:
 
-  * improve the content and design of the website
-  * contact visitors (with their permission) with information relating to the Courtauld
-  * confirm payment with your credit or debit provider
+  * Improve the content and design of the website
+  * Measure our marketing activities
+  * Contact visitors (with their permission) with information relating to the Courtauld
+  * Confirm payment with your credit or debit provider
 
 
 
-We never share your information with other organisations for marketing, market research or commercial purposes, and we don’t pass on your personal information to any other website.
+We never share your information with other organisations for marketing, market research or commercial purposes, and we don’t pass on your personal information to any other website. The following links can be used to opt out of Google Analytics data collection and Google advertising data respectively:
+
+<https://tools.google.com/dlpage/gaoptout>
+
+<http://www.youronlinechoices.com/uk/your-ad-choices>.
+
+For more exhaustive protection against your data being collected, consider using a tool such as EasyPrivacy.
 
 ### Other websites
 
