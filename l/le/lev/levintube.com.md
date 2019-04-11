@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levintube.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606092817id_/http%3A//www.levintube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levintube.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411130022id_/http%3A//www.levintube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LevinTube.com
 
@@ -36,10 +36,4 @@ if under duty to do so LevinTube.com may release data to comply with any legal o
 
 SECURITY 
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
-
-Unfortunately, the transmission of information via the Internet is not completely secure. LevinTube.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to LevinTube.com and you do so at your own risk. 
-
-YOUR RIGHTS 
-
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
+Where we have given you (or where you have chosen 
