@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighthubengineering.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128000354id_/http%3A//brighthubengineering.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthubengineering.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411131456id_/https%3A//www.brighthubengineering.com/content/privacy) for the most accurate reproduction.*
 
 # Bright Hub Engineering Privacy Policy - Bright Hub Engineering
 
@@ -105,10 +105,10 @@ Postal Address:
 Privacy Matters c/o Bright Hub, Inc.  
 270 River Street, Suite 405  
 Troy, NY 12180  
-Email: [privacy@brighthub.com](mailto:privacy@brighthub.com)  
+Email: [[email protected]](https://www.brighthubengineering.com/cdn-cgi/l/email-protection#84f4f6edf2e5e7fdc4e6f6ede3ecf0ecf1e6aae7ebe9)  
 Telephone: +1 (518) 833-0233  
 Fax: +1 (703) 738-1772
 
 ## LIMITATION OF LIABILITY
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITION OF THIS PRIVACY POLICY AND BRIGHT HUB Engineering’S [TERMS OF USE](http://www.brighthubengineering.com/content/terms/) (INCLUDING ANY INDEMNIFICATION AND LIMITATIONS ON DAMAGES CONTAINED THEREIN).
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITION OF THIS PRIVACY POLICY AND BRIGHT HUB Engineering’S [TERMS OF USE](https://www.brighthubengineering.com/content/terms/) (INCLUDING ANY INDEMNIFICATION AND LIMITATIONS ON DAMAGES CONTAINED THEREIN).
