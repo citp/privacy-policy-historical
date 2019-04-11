@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eazydiner.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204172319id_/https%3A//www.eazydiner.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazydiner.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411140604id_/https%3A//www.eazydiner.com/static/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Static | Eazydiner
+# Privacy Policy | EazyDiner
 
 **Privacy Policy**
 
@@ -12,7 +12,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 **When do we collect information?**
 
-We collect information from you when you register on our site, book a table at any restaurant, or enter information on our site like posting of reviews.
+We collect information from you when you register on our site, book a table at any restaurant, or enter information on our site.
 
 **How do we use your information?**
 
@@ -62,11 +62,15 @@ However, you can still make reservations by contacting EazyConcierge.
 
 Do we disclose the information we collect to Third Parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your name, address, city, town, any form or online contact identifier email, name of chat account, or any personally identifiable information.
+We do not sell, trade, or otherwise transfer to outside parties your name, address, city, town, any form or online contact identifier email, name of chat account, or any personally identifiable information without your consent. In case, we get into a partnership, which requires us to share the information with the said third party, same will be communicated to the customer very clearly, at the time of collecting the information.
 
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we will never share your personal information and will always protect the integrity of our site and welcome any feedback about these sites.
+
+**Policy Related to Minors**
+
+eazydiner.com does not knowingly collect personal information from minors under the age of 18. Minors are not permitted to use the eazydiner.com website or services, and eazydiner.com requests that minors under the age of 18 not submit any personal information to the website. Since information regarding minors under the age of 18 is not collected, eazydiner.com does not knowingly distribute personal information regarding minors under the age of 18.  
 
 **Users will be notified of any privacy policy changes:**
 
