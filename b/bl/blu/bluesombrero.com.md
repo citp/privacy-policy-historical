@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829224214id_/http%3A//www.bluesombrero.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411075202id_/https%3A//www.bluesombrero.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Blue Sombrero
 
@@ -8,7 +8,7 @@ DICK’S Sporting Goods, Inc. and its [Family of Businesses](http://www.dicksspo
 
 This Policy does not create a contractual obligation between you and DICK’s, and it is subject to our [Terms of Use](http://www.bluesombrero.com/terms-of-use/). If you have questions about this Policy, please contact us by using the “Contact Customer Service” link below.
 
- **I. Information Collected**
+**I. Information Collected**
 
 A. Information You Provide: We receive information you provide to us when you:
 
@@ -59,7 +59,7 @@ Automated Information we collect via Information Technologies includes, without 
   * Social Media Access. Dick’s engages with its current and prospective customers on multiple Internet Marketing Channels/social media services (e.g., Facebook, LinkedIn and Twitter). If you contact us on one of our Internet Marketing Channels, request customer service via social media or otherwise direct us to communicate with you via social media, we may contact you via direct message or use other social media tools to interact with you. In these instances, your interactions with us are governed by this Policy as well as the privacy policy of the social media platform you use. In addition, if you choose to access, link to, or log-in to our Websites or Internet Marketing Channels or otherwise communicate with us through a third-party social media service, you are granting us permission to access and use the information that you post or store on the applicable social media service in accordance with the privacy policy of that service and the privacy settings that are applicable to your account, and to store the user name and password you use to log-in to the applicable social media service. You further acknowledge that, by accessing or logging into our Websites or Internet Marketing Channels via a social media service, any information you provide to us may also become accessible to that service, subject to that service’s privacy policy. For additional information and more details on how you can manage the information provided to us by these social media services, please review the privacy settings applicable to your account with the applicable social media service. We do not control, and are not responsible for, the privacy practices of such services. You should consult the privacy policy of such services for additional information.
 
 
-  * In-Store Services.
+  * In-Store Services. 
     * In-Store Technology. Many Dick’s store locations offer free Wi-Fi services to visitors. Wi-Fi routers capture certain data from your devices that interact with the router. We also may enable Bluetooth or other technologies in our stores which enable us to detect the presence of your device in our store or provide operational insights. Unless we receive consent to use Wi-Fi data in a manner that identifies you or your device(s), Wi-Fi data is anonymously collected or de-identified.
 
 
@@ -71,7 +71,7 @@ Automated Information we collect via Information Technologies includes, without 
 
 
 
- **II. Your Choices**
+**II. Your Choices**
 
   * Email and Text Message Opt-Out.  You may unsubscribe to future e-mail communications from any individual member of the Dick’s Family of Businesses by clicking on the unsubscribe link provided in our e-mail communications from such member. You may unsubscribe to text communications for any of our Family of Businesses by responding STOP to any marketing text message you receive from that member. Regardless of your decision to opt-out of future e-mail or text communications, we may still contact you to respond to an inquiry, regarding transactions and for transactional purposes (e.g., sales confirmations, shipping notifications, recalls, product information, service/reminder notices and account maintenance). In addition, you may use the methods set forth in the “Contact Customer Service” link below to opt-out or update certain preferences.
   * Disabling Cookies. Based upon your interactions with our Websites and elsewhere on the internet and your (and your device’s) interaction with our Internet Marketing Channels, we may personalize your experience via our Websites and via our Internet Marketing Channels. However, you have choices relating to how your device interacts with our Websites and our Internet Marketing Channels. You may choose to access our Websites and our Internet Marketing Channels without accepting certain Information Technologies on your device(s), and you may opt-out or modify certain elements that are tailored specifically to you and served to you based upon your browsing history. If you choose to restrict Information Technologies, you may access our Websites and Internet Marketing Channels, but you will NOT be able to take full advantage of certain features. You may also manage third party tracking by turning off cookies and changing your browser settings. Learn more at www.allaboutcookies.org.
@@ -95,7 +95,7 @@ In addition, the browser on your device may offer you preferences regarding a we
 
 E. Team Sports / Event Websites. With respect to information entered on your behalf by third parties on our team sports or event Websites, contact the applicable Organization for options regarding the manner in which information is obtained, entered, displayed and managed.
 
- **III. How We Use Your Information**
+**III. How We Use Your Information**
 
 We do not sell, rent or trade your Personal Information to unaffiliated third parties without your prior consent, although we do share information in some circumstances as described below under “How We Share Your Information.” We use your information in ways consistent with this Policy and in the following ways:
 
@@ -129,7 +129,7 @@ We use Automated Information and Information Technologies to recognize you and y
 
 We also use location services, which are built into the functionality of smart phones and other devices, in order to deliver marketing messages to you which are specific to your location. We may also use this data to track the effectiveness of local marketing campaigns, as well as our store location services.
 
- **IV. How We Share Your Information**
+**IV. How We Share Your Information**
 
 We may share your information (including Personal Information) in ways consistent with this Policy and in the following ways:
 
@@ -143,12 +143,12 @@ We may share your information (including Personal Information) in ways consisten
 
 
 
- **V. How to Update Your Information**
+**V. How to Update Your Information**
 
 For certain types of information, we offer you several ways to access or update such information:
 
   * If you have an account on one or more of our Websites, log-in to such account via the applicable Website. After securely entering your account, you can update your information and communication preferences by entering or revising the information as reflected therein.  Note, some fields (such as password) are Website specific and if you have more than one account with us or registered on more than one Website, you will need to update each account.
-  * You can Contact Customer Service to request updates to your account via the link at the bottom of each page of our Websites or by emailing us at Customer.Service@dickssportinggoods.com or by calling us at 877-846-9997 for all Websites other than TSHQ. For TSHQ, you can reach us by email at support@dickstshq.com or by calling us at 844-374-TSHQ. You may also reach us by U.S. postal mail at 345 Court Street, Coraopolis, PA 15108, ATTN: Customer Service. Please provide your current and complete contact information with these requests.
+  * You can Contact Customer Service to request updates to your account via the link at the bottom of each page of our Websites or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by calling us at 877-846-9997 for all Websites other than TSHQ. For TSHQ, you can reach us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by calling us at 844-374-TSHQ. You may also reach us by U.S. postal mail at 345 Court Street, Coraopolis, PA 15108, ATTN: Customer Service. Please provide your current and complete contact information with these requests.
   * If you are a ScoreCard member you can manage your preferences by logging in at www.MyScoreCardAccount.com.
   * If you participate in an Organization that uses our team sports or event Websites we host on behalf of an Organization, contact the Organization for options regarding the manner in which information is updated, edited displayed, or removed.
 
@@ -166,24 +166,24 @@ Please note:
 
 In our efforts to maintain accurate and complete information, we utilize third party entities to assist us with updating and maintaining current contact information (e.g., National Change of Address or NCOA).
 
- **VI. Security**
+**VI. Security**
 
 We use a variety of security measures to help protect your Personal Information and online transactions with us. Our Websites utilize encryption technology, including Secure Sockets Layer, to protect your Personal Information that we transport across the internet. Your personal online and mobile account(s) with us are password protected with restricted online access.
 
 Additionally, we use a variety of security measures to help protect your Personal Information that we maintain at our facilities. While no company can guarantee your information (including your Personal Information) will not be accessible by unauthorized individuals, we use physical, administrative and technical controls that are consistent with retail practices in an attempt to mitigate such risks.
 
- **VII. Children**
+**VII. Children**
 
-Our Websites are “general audience” websites and not directed toward children under the age of 13. We do not knowingly collect Personal Information from children under the age of 13 without express parental consent; however if your child is registered with an Organization, such Organization may provide such information to us. By providing such information to an Organization you expressly consent to the Organization providing such information to us. If you are a parent or guardian and think we have unauthorized information about your child who is under the age of 13, please let us know by contacting us at Customer.Service@dickssportinggoods.com, and for TSHQ, you can reach us by email at support@dickstshq.com or by calling us at 844-374-TSHQ.
+Our Websites are “general audience” websites and not directed toward children under the age of 13. We do not knowingly collect Personal Information from children under the age of 13 without express parental consent; however if your child is registered with an Organization, such Organization may provide such information to us. By providing such information to an Organization you expressly consent to the Organization providing such information to us. If you are a parent or guardian and think we have unauthorized information about your child who is under the age of 13, please let us know by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), and for TSHQ, you can reach us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by calling us at 844-374-TSHQ.
 
- **VIII. Third Party Links**
+**VIII. Third Party Links**
 
 Our Websites and our Internet Marketing Channels may link to other sites that we do not control. In addition, you may have visited our Website through a link or a banner advertisement on another site. In such cases, the site you linked from may collect information from people who click on the banner or link. These other sites are governed by their own privacy policies. Be sure to review these privacy policies when visiting such sites to see how they collect and use this information. We are not responsible for the content of privacy practices of such third parties’ sites.
 
- **IX. Privacy Policy Updates**
+**IX. Privacy Policy Updates**
 
-We may, from time to time, update and revise this Policy. Please periodically check this Policy for any updates or revisions. In the event we make a material change to how we use your information that would materially adversely affect your rights, we will provide you advance notice including by posting the proposed change on the Websites at least 30 days in advance of the effective date of the changes. We encourage you to keep the email and other addresses you provide to us current so that you may receive any additional notices we send to you regarding material changes to this Privacy Policy. If you do not agree to the changes and do not wish to be bound by such changes, you should stop using the Websites, and if you are a registered user, you may cancel your account with us within the thirty (30) day period by contacting us at Customer.Service@dickssportinggoods.com for all Websites other than TSHQ. For TSHQ, you can reach us by email at support@dickstshq.com or by calling us at 844-374-TSHQ. You may also reach us by U.S. postal mail at 345 Court Street, Coraopolis, PA 15108, ATTN: Customer Service. Please provide your current and complete contact information with these requests. Otherwise, the changes will take effect after thirty (30) days.
+We may, from time to time, update and revise this Policy. Please periodically check this Policy for any updates or revisions. In the event we make a material change to how we use your information that would materially adversely affect your rights, we will provide you advance notice including by posting the proposed change on the Websites at least 30 days in advance of the effective date of the changes. We encourage you to keep the email and other addresses you provide to us current so that you may receive any additional notices we send to you regarding material changes to this Privacy Policy. If you do not agree to the changes and do not wish to be bound by such changes, you should stop using the Websites, and if you are a registered user, you may cancel your account with us within the thirty (30) day period by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for all Websites other than TSHQ. For TSHQ, you can reach us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by calling us at 844-374-TSHQ. You may also reach us by U.S. postal mail at 345 Court Street, Coraopolis, PA 15108, ATTN: Customer Service. Please provide your current and complete contact information with these requests. Otherwise, the changes will take effect after thirty (30) days.
 
- **X. California Privacy Rights.  
+**X. California Privacy Rights.  
 **  
 For the California Privacy rights under California Civil Code sections 1798.83-1798.84, also known as the “Shine the Light Law,” applicable to any of our users who are California residents [click here](http://www.dickssportinggoods.com/shop/index.jsp?categoryId=12720030&ab=Footer_Column3_CaliforniaDisclosures).
