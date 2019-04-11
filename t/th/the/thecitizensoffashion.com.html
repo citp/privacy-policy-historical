@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thecitizensoffashion.com privacy policy that was archived on 2018-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180926182242id_/https%3A//thecitizensoffashion.com/privacy-policy-2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecitizensoffashion.com privacy policy that was archived on 2019-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190411163741id_/https%3A//thecitizensoffashion.com/privacy-policy-2) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -15,18 +15,147 @@
 
 	<meta name="google-site-verification" content="vObeSyufgVKL0WcwjF9OwEUdJ8IrpjUcgH3M98FVAvQ">
 <meta name="msvalidate.01" content="22FDC91BB1836DBCF0202C5CD26E9451">
-		<script type="text/javascript" async="" src="https://apis.google.com/js/platform.js">{"parsetags": "explicit"}</script><script type="text/javascript" async="" data-pin-hover="true" src="https://assets.pinterest.com/js/pinit.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=249643311490&amp;version=v2.3"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="https://r-login.wordpress.com/remote-login.php?action=js&amp;host=thecitizensoffashion.com&amp;id=39933834&amp;t=1537986190&amp;back=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F" type="text/javascript"></script>
-		<script type="text/javascript">
-		/* <![CDATA[ */
-			if ( 'function' === typeof WPRemoteLogin ) {
-				document.cookie = "wordpress_test_cookie=test; path=/";
-				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
-					WPRemoteLogin();
-				}
+
+<!-- Async WordPress.com Remote Login -->
+<script type="text/javascript" async="" data-pin-hover="true" src="https://assets.pinterest.com/js/pinit.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=249643311490&amp;version=v2.3"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.remove(); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[i].remove();
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+						+ '//' + window.location.hostname;
+				document.body.appendChild( script );
 			}
-		/* ]]> */
-		</script>
-		<link rel="dns-prefetch" href="//s2.wp.com">
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly90aGVjaXRpemVuc29mZmFzaGlvbi5jb20%3D"
+		+ "&wpcomid=39933834"
+		+ "&time=1555000661";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel="dns-prefetch" href="//s2.wp.com">
 <link rel="dns-prefetch" href="//s1.wp.com">
 <link rel="dns-prefetch" href="//thecitizensoffashion.wordpress.com">
 <link rel="dns-prefetch" href="//s0.wp.com">
@@ -67,9 +196,9 @@
 		/* ]]> */
 	</script>
 			<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1532082729h&ver=4.9.8"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1550249335h&ver=5.2-beta1-45050"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://s1.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1532082729h&amp;ver=4.9.8" type="text/javascript" defer=""></script>
+		</script><script src="https://s1.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1550249335h&amp;ver=5.2-beta1-45050" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -84,16 +213,16 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel="stylesheet" id="all-css-0-1" href="https://s2.wp.com/_static/??-eJx9j9EKwjAMRX/IWh1u4oP4LW0Xum5JG5aOsb+3m4igspeQhHtyc/XMyqWYIWZNk2KcfIiiZ3aJlFBAWL6moxM56P8YhgFE95DZuEFt04/cYvIfnzS2phXtMVmDe6ddGqHsiU1eFQRtMIBARbaHETdvam278tdugldUa3kEEVUqhYlU7orRxj3ofq6ry7W5naq6fwIzRnad?cssminify=yes" type="text/css" media="all">
-<link rel="stylesheet" id="gridspace-oswald-css" href="https://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&amp;ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="gridspace-lora-css" href="https://fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic&amp;ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="all-css-4-1" href="https://s1.wp.com/_static/??-eJyNUdFOwzAM/CGCNSjjCfEtbualBieOElcVf0+6Dk0VI+LJd/Ld2bJhyc5rMkoGNlGkCrlQ5DlCKHyqGT1BtS+hR1/rA/xHzslDE4NwmOyXLc4uyxw4VVj4FMgq0Ny6+snkBBcwilnQWvT9uXcCqnpGcdwke7KZGZLa1vwBvdRA6kQ9GmvaEXcW5NKzFhpFQ4PhcoEb7ZnQr+EjlhvqybNW2zaBOmFZZ11rz3W9SltH9+Svv04DBNERZRW8x7fDy9Pr8Xk4DMePb2+m1F4=?cssminify=yes" type="text/css" media="all">
+	<link rel="stylesheet" id="all-css-0-1" href="https://s1.wp.com/_static/??-eJx9kN0KwjAMhV/Irihz7EZ8lv6ErVvSlqZj7O3tKiqo7CYk4Xw5SeQahQk+g8+SFhFxGZxnuUYTSDA5hO2ragzzSf7H0M3AcoIclZlFrX7kGsPw8QnJKstywKAVvrXOG1xsGVUa0jquVJ2ok0qb5LwhNOT80TImJCh9iirvCgLrFCBQkR1hFLsXtadjueTw5udztI4JmEWJ5BYSeSxGlbvT7Xxtu77v2+4yPQCMVIlu?cssminify=yes" type="text/css" media="all">
+<link rel="stylesheet" id="gridspace-oswald-css" href="https://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&amp;ver=5.2-beta1-45050" type="text/css" media="all">
+<link rel="stylesheet" id="gridspace-lora-css" href="https://fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic&amp;ver=5.2-beta1-45050" type="text/css" media="all">
+<link rel="stylesheet" id="all-css-4-1" href="https://s0.wp.com/_static/??-eJyNUdFKBDEM/CFrWHDlXsRvyfZiN5o2pcmy3N/bVfE8xOJTZsjMJCGw1xC1OBUHXymTQW2UecuQGp+tYiQwvwjdR7M7+I+cS4QuBuG0+i9b3kKVLXEx2PmcyA1o6119YwqCOzjlKug9+sdchqLOPcO+wSg5kQbRiM5abkh4EeQ2sjZaRFOH6eOIKx2ZMB7hC7YrGsmrmn9uArZiO2Z91ZHLNDJKPyXpLfnrNesDJNEF5RA856dpnqfTdHqc59d38Wy9Nw==?cssminify=yes" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
-var gpp = {"ajaxurl":"https:\/\/thecitizensoffashion.wordpress.com\/wp-admin\/admin-ajax.php","ajaxnonce":"b861ebe1ef"};
+var gpp = {"ajaxurl":"https:\/\/thecitizensoffashion.wordpress.com\/wp-admin\/admin-ajax.php","ajaxnonce":"c9add2ca59"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://s0.wp.com/_static/??-eJyVj90KwjAMhV/Irk4m7kZ8ltnFmW79MUk39OntYF6IQxECgZwv5yR6igq9GVILrG2uWwK6L62wvNHfAOWwo0agcOhfsAlewMvMunDGAVRioKbLs2x0CStcDCwOmDO0or6fhH5EmH5iFiQ2plcEjI8PV7lCztORwGFyuiNsOeOg86ezFxvCKPzv2pJtQuhxzjy5Y1nVh11d7qutfQK4Bofc"></script>
+<script type="text/javascript" src="https://s1.wp.com/_static/??-eJyVj90KwjAMRl/Irug6vBKfZXZxplt/TFKHPr0dzAtxKEIgFznJ+aKnpDDYMXfA2pW6ZqD70irHG/0NUB57agUqj+EF2xgEgsxsiiwemNseVqY+nnAElRmoAEGK5hxXuPdIGG4I00/MgaTWDoqA8fFhlwuUXDoReMxe94QdFxx0+XS+xZYwCf+7trhtjAPOzqM/bJvG7Op6b4x7AryJh9o="></script>
 <link rel="stylesheet" id="all-css-0-2" href="https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&amp;cssminify=yes" type="text/css" media="all">
 <!--[if lt IE 8]>
 <link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
@@ -112,7 +241,7 @@ var gpp = {"ajaxurl":"https:\/\/thecitizensoffashion.wordpress.com\/wp-admin\/ad
 <meta property="article:published_time" content="2014-01-30T18:09:19+00:00">
 <meta property="article:modified_time" content="2014-01-30T18:09:19+00:00">
 <meta property="og:site_name" content="the CITIZENS of  FASHION">
-<meta property="og:image" content="https://secure.gravatar.com/blavatar/2a51263d429a3a49f89321d53966cc52?s=200&amp;ts=1537986190">
+<meta property="og:image" content="https://secure.gravatar.com/blavatar/2a51263d429a3a49f89321d53966cc52?s=200&amp;ts=1555000661">
 <meta property="og:image:width" content="200">
 <meta property="og:image:height" content="200">
 <meta property="og:locale" content="en_US">
@@ -206,7 +335,7 @@ body.custom-background { background-color: #DCDCDC; }
 <li id="menu-item-2853" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2853"><a href="https://thecitizensoffashion.com/category/fashion/">Fashion</a></li>
 <li id="menu-item-2854" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2854"><a href="https://thecitizensoffashion.com/category/design/">Design</a></li>
 <li id="menu-item-2860" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2860"><a href="https://thecitizensoffashion.com/category/video/">Videos</a></li>
-<li id="menu-item-52524" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-47015 current_page_item menu-item-52524"><a href="https://thecitizensoffashion.com/privacy-policy-2/">Privacy Policy</a></li>
+<li id="menu-item-52524" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-47015 current_page_item menu-item-52524"><a href="https://thecitizensoffashion.com/privacy-policy-2/" aria-current="page">Privacy Policy</a></li>
 </ul>
 	
 	    
@@ -226,7 +355,7 @@ body.custom-background { background-color: #DCDCDC; }
 	            <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
 			    		        	<ul class="menu clearfix">
 		        	<li class="page_item page-item-15 page_item_has_children"><a href="https://thecitizensoffashion.com/the-citizens-of-fashion/">About</a></li>
-<li class="page_item page-item-47015 current_page_item"><a href="https://thecitizensoffashion.com/privacy-policy-2/">Privacy Policy</a></li>
+<li class="page_item page-item-47015 current_page_item"><a href="https://thecitizensoffashion.com/privacy-policy-2/" aria-current="page">Privacy Policy</a></li>
 					</ul>
 		        	        </nav><!-- #access -->
 
@@ -283,10 +412,10 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 			<div class="wpa wpmrec">
 				<span class="wpa-about">Advertisements</span>
 				<div class="u">		<div style="padding-bottom:15px;width:300px;height:250px;float:left;margin-right:5px;margin-top:0px">
-		<div id="atatags-399338341-5babce8eb6af5">
+		<div id="atatags-399338341-5caf6d552a56e">
 			<script type="text/javascript">
 			__ATA.cmd.push(function() {
-				__ATA.initSlot('atatags-399338341-5babce8eb6af5',  {
+				__ATA.initSlot('atatags-399338341-5caf6d552a56e',  {
 					collapseEmpty: 'before',
 					sectionId: '399338341',
 					width: 300,
@@ -295,10 +424,10 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 			});
 			</script>
 		</div></div>		<div style="padding-bottom:15px;width:300px;height:250px;float:left;margin-top:0px">
-		<div id="atatags-399338344-5babce8eb6af7">
+		<div id="atatags-399338344-5caf6d552a572">
 			<script type="text/javascript">
 			__ATA.cmd.push(function() {
-				__ATA.initSlot('atatags-399338344-5babce8eb6af7',  {
+				__ATA.initSlot('atatags-399338344-5caf6d552a572',  {
 					collapseEmpty: 'before',
 					sectionId: '399338344',
 					width: 300,
@@ -309,16 +438,16 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 		</div></div></div>
 				
 			</div>
-		</div><div id="atatags-399338345-5babce8eb6b18">
+		</div><div id="atatags-399338345-5caf6d552a59a">
         <script type="text/javascript">
             __ATA.cmd.push(function() {
-                __ATA.initVideoSlot('atatags-399338345-5babce8eb6b18', {
+                __ATA.initVideoSlot('atatags-399338345-5caf6d552a59a', {
                     sectionId: '399338345',
                     format: 'inread'
                 });
             });
         </script>
-    </div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://thecitizensoffashion.com/privacy-policy-2/" data-text="Privacy Policy" data-via="elena2marin" data-related="wordpressdotcom">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://thecitizensoffashion.com/privacy-policy-2/" data-layout="button_count"></div></li><li class="share-pinterest"><div class="pinterest_button"><a href="https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F&amp;media=https%3A%2F%2Fsecure.gravatar.com%2Fblavatar%2F2a51263d429a3a49f89321d53966cc52%3Fs%3D96&amp;description=Privacy%20Policy" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"></a></div></li><li class="share-tumblr"><a target="_blank" href="https://www.tumblr.com/share/link/?url=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F&amp;name=Privacy%20Policy" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:62px; height:20px; background:url('https://platform.tumblr.com/v1/share_2.png') top left no-repeat transparent;">Share on Tumblr</a></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://thecitizensoffashion.com/privacy-policy-2/"></div></div></li><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="https://thecitizensoffashion.com/privacy-policy-2/" data-counter="right"></script></div></li><li class="share-reddit"><div class="reddit_button"><iframe src="https://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F&amp;title=Privacy%20Policy" height="22" width="120" scrolling="no" frameborder="0"></iframe></div></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button" href="https://thecitizensoffashion.com/privacy-policy-2/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="https://thecitizensoffashion.com/privacy-policy-2/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-pocket"><div class="pocket_button"><a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecitizensoffashion.com/privacy-policy-2/" data-pocket-count="horizontal">Pocket</a></div></li><li class="share-end"></li></ul></div></div></div><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" id="like-post-wrapper-39933834-47015-5babce8eb87bf" data-src="//widgets.wp.com/likes/index.html?ver=20180319#blog_id=39933834&amp;post_id=47015&amp;origin=thecitizensoffashion.wordpress.com&amp;obj_id=39933834-47015-5babce8eb87bf" data-name="like-post-frame-39933834-47015-5babce8eb87bf"><h3 class="sd-title">Like this:</h3><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height: 55px;"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></div><span class="sd-text-color"></span><a class="sd-link-color"></a></div></div>		                                                
+    </div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://thecitizensoffashion.com/privacy-policy-2/" data-text="Privacy Policy" data-via="elena2marin" data-related="wordpressdotcom">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://thecitizensoffashion.com/privacy-policy-2/" data-layout="button_count"></div></li><li class="share-pinterest"><div class="pinterest_button"><a href="https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F&amp;media=https%3A%2F%2Fsecure.gravatar.com%2Fblavatar%2F2a51263d429a3a49f89321d53966cc52%3Fs%3D96&amp;description=Privacy%20Policy" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"></a></div></li><li class="share-tumblr"><a class="tumblr-share-button" target="_blank" href="https://www.tumblr.com/share" data-title="Privacy Policy" data-content="https://thecitizensoffashion.com/privacy-policy-2/" title="Share on Tumblr" data-posttype="link">Share on Tumblr</a></li><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="https://thecitizensoffashion.com/privacy-policy-2/" data-counter="right"></script></div></li><li class="share-reddit"><div class="reddit_button"><iframe src="https://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F&amp;title=Privacy%20Policy" height="22" width="120" scrolling="no" frameborder="0"></iframe></div></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button" href="https://thecitizensoffashion.com/privacy-policy-2/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="https://thecitizensoffashion.com/privacy-policy-2/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-pocket"><div class="pocket_button"><a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecitizensoffashion.com/privacy-policy-2/" data-pocket-count="horizontal">Pocket</a></div></li><li class="share-end"></li></ul></div></div></div><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" id="like-post-wrapper-39933834-47015-5caf6d552ca54" data-src="//widgets.wp.com/likes/index.html?ver=20190321#blog_id=39933834&amp;post_id=47015&amp;origin=thecitizensoffashion.wordpress.com&amp;obj_id=39933834-47015-5caf6d552ca54&amp;domain=thecitizensoffashion.com" data-name="like-post-frame-39933834-47015-5caf6d552ca54"><h3 class="sd-title">Like this:</h3><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height: 55px;"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></div><span class="sd-text-color"></span><a class="sd-link-color"></a></div></div>		                                                
 	</div><!-- .entry-content -->
 
 </article><!-- #post-47015 -->
@@ -347,13 +476,13 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 
 			<footer>
 				<div class="comment-meta commentmetadata">
-					<a href="https://thecitizensoffashion.com/privacy-policy-2/#comment-267458"><time pubdate="" datetime="2015-12-02T23:07:32+00:00">
+					<a href="https://thecitizensoffashion.com/privacy-policy-2/#comment-267458"><time pubdate="" datetime="2015-12-02T23:07:32+01:00">
 					December 2, 2015 at 23:07					</time></a>
 									</div><!-- .comment-meta .commentmetadata -->
 			</footer>
 
 			<div class="reply">
-				<a rel="nofollow" class="comment-reply-link" href="https://thecitizensoffashion.com/privacy-policy-2/?replytocom=267458#respond" onclick="return addComment.moveForm( &quot;comment-267458&quot;, &quot;267458&quot;, &quot;respond&quot;, &quot;47015&quot; )" aria-label="Reply to Robert Desqueuve">Reply</a>			</div><!-- .reply -->
+				<a rel="nofollow" class="comment-reply-link" href="/privacy-policy-2/?replytocom=267458#respond" data-commentid="267458" data-postid="47015" data-belowelement="comment-267458" data-respondelement="respond" aria-label="Reply to Robert Desqueuve">Reply</a>			</div><!-- .reply -->
 		</article><!-- #comment-## -->
 
 	</li><!-- #comment-## -->
@@ -363,7 +492,7 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 	
 		<div id="respond" class="comment-respond">
 		<h3 id="reply-title" class="comment-reply-title">Your Opinion Is Important! <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy-2/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://thecitizensoffashion.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
-				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="1aee955040"><input type="hidden" name="_wp_http_referer" value="/privacy-policy-2/">
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="0c708b72bb"><input type="hidden" name="_wp_http_referer" value="/privacy-policy-2/">
 <input type="hidden" name="hc_post_as" id="hc_post_as" value="guest">
 
 <div class="comment-form-field comment-textarea">
@@ -445,7 +574,7 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 	<div id="comment-form-googleplus" class="comment-form-service">
 		<div class="comment-form-padder">
 			<div class="comment-form-avatar">
-				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=&amp;forcedefault=y&amp;r=G" alt="Google photo" width="25" class="no-grav">
 			</div>
 
 				<div class="comment-form-fields">
@@ -454,7 +583,7 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="">
 						<p class="comment-form-posting-as pa-googleplus">
 			<strong></strong>
-			You are commenting using your Google+ account.			<span class="comment-form-log-out">
+			You are commenting using your Google account.			<span class="comment-form-log-out">
 				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;
 				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)
 			</span>
@@ -552,9 +681,9 @@ jQuery(document).ready( highlander_expando_javascript );
 
 <p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="47015" id="comment_post_ID">
 <input type="hidden" name="comment_parent" id="comment_parent" value="0">
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="aa212ac880"></p>
-<input type="hidden" name="genseq" value="1537986190">
-<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="113"></p>			</form>
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="9c8cd4e8f4"></p>
+<input type="hidden" name="genseq" value="1555000661">
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="199"></p>			</form>
 			</div><!-- #respond -->
 	<div style="clear: both"></div>
 </div><!-- #comments -->
@@ -637,7 +766,7 @@ jQuery(document).ready( highlander_expando_javascript );
 </div><!-- #page -->
 
 <!--  -->
-<script type="text/javascript" src="//0.gravatar.com/js/gprofiles.js?ver=201839y"></script>
+<script type="text/javascript" src="//0.gravatar.com/js/gprofiles.js?ver=201915y"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
@@ -671,10 +800,10 @@ var WPGroHo = {"my_hash":""};
 	</div>
 <script type="text/javascript">
 /* <![CDATA[ */
-var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/thecitizensoffashion.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/thecitizensoffashion.wordpress.com\/wp-login.php?action=logout&_wpnonce=7f5d7a8991","homeURL":"https:\/\/thecitizensoffashion.com\/","postID":"47015","gravDefault":"gravatar_default","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/thecitizensoffashion.wordpress.com\/public.api\/connect\/?action=request&domain=thecitizensoffashion.com","logoutURL":"https:\/\/thecitizensoffashion.wordpress.com\/wp-login.php?action=logout&_wpnonce=fa2ff49cd7","homeURL":"https:\/\/thecitizensoffashion.com\/","postID":"47015","gravDefault":"gravatar_default","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1521806916j"></script>
+<script type="text/javascript" src="https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1551752381j"></script>
 
 	<script type="text/javascript">
 		window.WPCOM_sharing_counts = {"https:\/\/thecitizensoffashion.com\/privacy-policy-2\/":47015};
@@ -700,38 +829,7 @@ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"P
 				// if 'Pin it' button has 'counts' make container wider
 				jQuery(window).load( function(){ jQuery( 'li.share-pinterest a span:visible' ).closest( '.share-pinterest' ).width( '80px' ); } );
 			</script>
-		<script type="text/javascript" src="https://platform.tumblr.com/v1/share.js"></script>			<script>
-			function renderGooglePlus1() {
-				if ( 'undefined' === typeof gapi ) {
-					return;
-				}
-
-				jQuery( '.g-plus' ).each(function() {
-					var $button = jQuery( this );
-
-					if ( ! $button.data( 'gplus-rendered' ) ) {
-						gapi.plusone.render( this, {
-							href: $button.attr( 'data-href' ),
-							size: $button.attr( 'data-size' ),
-							annotation: $button.attr( 'data-annotation' )
-						});
-
-						$button.data( 'gplus-rendered', true );
-					}
-				});
-			}
-
-			(function() {
-				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-				po.src = 'https://apis.google.com/js/platform.js';
-				po.innerHTML = '{"parsetags": "explicit"}';
-				po.onload = renderGooglePlus1;
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-			})();
-
-			jQuery( document.body ).on( 'post-load', renderGooglePlus1 );
-			</script>
-			<script type="text/javascript">
+		<script id="tumblr-js" type="text/javascript" src="https://assets.tumblr.com/share-button.js"></script><script type="text/javascript">
 			jQuery( document ).ready( function() {
 				jQuery.getScript( 'https://platform.linkedin.com/in.js?async=true', function success() {
 					IN.init();
@@ -760,7 +858,7 @@ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"P
 			
 			<img style="float: right; display: none" class="loading" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16">
 			<input type="submit" value="Send Email" class="sharing_send">
-			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
 
 			<div class="errors errors-1" style="display: none;">
 				Post was not sent - check your email addresses!			</div>
@@ -782,15 +880,15 @@ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"P
 		</script>
 		<script type="text/javascript">
 /* <![CDATA[ */
-var actionbardata = {"siteID":"39933834","siteName":"the CITIZENS of  FASHION","siteURL":"https:\/\/thecitizensoffashion.com","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/2a51263d429a3a49f89321d53966cc52?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/gridspace","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/thecitizensoffashion.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F","themeURL":"https:\/\/wordpress.com\/theme\/gridspace\/","xhrURL":"https:\/\/thecitizensoffashion.com\/wp-admin\/admin-ajax.php","nonce":"3787acb097","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"d0b5245e4e\" \/>","referer":"https:\/\/thecitizensoffashion.com\/privacy-policy-2\/","canFollow":"1","feedID":"14251659","statusMessage":"","customizeLink":"https:\/\/thecitizensoffashion.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fthecitizensoffashion.wordpress.com%2Fprivacy-policy-2%2F","postID":"47015","shortlink":"https:\/\/wp.me\/P2HyC6-cej","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/thecitizensoffashion.com\/47015","statsLink":"https:\/\/wordpress.com\/stats\/post\/47015\/thecitizensoffashion.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Gridspace","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 26,899 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/thecitizensoffashion.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F\">Log in now.<\/a>","stats":"Stats"}};
+var actionbardata = {"siteID":"39933834","siteName":"the CITIZENS of  FASHION","siteURL":"https:\/\/thecitizensoffashion.com","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/2a51263d429a3a49f89321d53966cc52?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/gridspace","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F&signup_flow=account&domain=thecitizensoffashion.com","themeURL":"https:\/\/wordpress.com\/theme\/gridspace\/","xhrURL":"https:\/\/thecitizensoffashion.com\/wp-admin\/admin-ajax.php","nonce":"0271244389","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"888a091028\" \/>","referer":"https:\/\/thecitizensoffashion.com\/privacy-policy-2\/","canFollow":"1","feedID":"14251659","statusMessage":"","customizeLink":"https:\/\/thecitizensoffashion.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fthecitizensoffashion.wordpress.com%2Fprivacy-policy-2%2F","postID":"47015","shortlink":"https:\/\/wp.me\/P2HyC6-cej","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/thecitizensoffashion.com\/47015","statsLink":"https:\/\/wordpress.com\/stats\/post\/47015\/thecitizensoffashion.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Gridspace","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 26,869 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fthecitizensoffashion.com%2Fprivacy-policy-2%2F&signup_flow=account&domain=thecitizensoffashion.com\">Log in now.<\/a>","stats":"Stats"}};
 /* ]]> */
 </script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var sharing_js_options = {"lang":"en","counts":"1"};
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://s0.wp.com/_static/??-eJyVUEtuAjEMvVAzLowQYlH1KCgkZvBMfrUdBm5PWICqLiJ15af3s2VYi3E5KSaFWcDjlRyW2zDLB/ySYjUl1ImSQKAFBX4qVrzY5APyy0zJheqb2IpcjrEFDWMJ9yFS6jSu5CdUAaxNzQuhCXYFxViCVfzDd3qsb3vMyTJEK4rckMlXZKbnUW/unw3K1i3SCzmlnJ6hN+q5F5KIasbhE47tY3DOHDv+kkXNOVhikItlStNrttB3/Nrsxu1hvx0P+/kBF+CrRQ=="></script>
+<script type="text/javascript" src="https://s1.wp.com/_static/??-eJyVUEtOAzEMvRAZF9qRmAXiKCgk7tQz+WE7nfb2pItWiEWkrvz0frYMWzEuJ8WksAh4PJPDchkWeYE/UqymhDpTEgi0osBPxYonm3xAvpspuVB9E1uRyzG2oGEs4TpESp3GjfyMKoC1qXklNMFuoBhLsIr/+E6P9W2P+bYM0YoiN2TyGZnpdtSDe7JB2bpVeiGnlNMt9EA990oSUc1+2MFX+xgcM8eOv2RRcwyWGORkmdJ8ny30GT9ex/EwTdP7+Lb8Ahgvq04="></script>
 <script type="text/javascript">
 var windowOpen;
 			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
@@ -819,19 +917,15 @@ try{
 }catch(e){}
 })();
 // ]]>
-</script>	<script type="text/javascript">
-	var skimlinks_pub_id = "725X584219"
-	var skimlinks_sitename = "thecitizensoffashion.wordpress.com";
-	</script>
-	<script type="text/javascript" defer="" src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script>		<iframe src="https://widgets.wp.com/likes/master.html?ver=20180319#ver=20180319" scrolling="no" id="likes-master" name="likes-master" style="display:none;"></iframe>
+</script>		<iframe src="https://widgets.wp.com/likes/master.html?ver=20190321#ver=20190321" scrolling="no" id="likes-master" name="likes-master" style="display:none;"></iframe>
 		<div id="likes-other-gravatars"><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
-<script src="//stats.wp.com/w.js?56" type="text/javascript" async="" defer=""></script>
+<script src="//stats.wp.com/w.js?59" type="text/javascript" async="" defer=""></script>
 <script type="text/javascript">
 _tkq = window._tkq || [];
 _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'39933834','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 _stq.push(['view', {'blog':'39933834','v':'wpcom','tz':'1','user_id':'0','post':'47015','subd':'thecitizensoffashion'}]);
-_stq.push(['extra', {'crypt':'UE5tW3cvZGRodlZIQWxQeUw3YXJFQXVHSENTclJLMjQ1T3FRLV8la2lhX1BFUGtjWk5nQTBbazdaKzBET2JzK1VlcjF5VVdHJS9yU1VPVFdLNTdGLyxBTE15LG8vWkV3dWZ5WnN5K2g4XzRCZz8uMC9ORTV6TnUyMi50fl1vcUE/SCswNDBsTmtDeGtqXXxMbElxd3BpKz0wbTQ5ZG5LYjFWL2F8eXd+eHwuJVR2eUFV'}]);
+_stq.push(['extra', {'crypt':'UE5tW3cvZGRodlZIQWxQeUw3YXJFQXVHSENTclJLMjQ1T3FRLV8la2lhX1BFUGtjWk5nQTBbazdaKzBET2JzK1VlR0kvLnA/fnMsVHFhL098VzlKK1s9LER8OC9TczVySjhVVC9iUWtMVSxET2Q1NnZHZWpYWGFBLFdjPVNtUmZSWW14dywmWD15PXJGK2J+P198PUZtXTA0OWtRX2NSek52RHVJengzZl0/T0pwUnZw'}]);
 _stq.push([ 'clickTrackerInit', '39933834', '47015' ]);
 	</script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
@@ -857,4 +951,4 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 }
 </script>
 
-</body></html>
+<iframe scrolling="no" id="wpcom_remote_login_key" src="https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&amp;origin=aHR0cHM6Ly90aGVjaXRpemVuc29mZmFzaGlvbi5jb20%3D&amp;wpcomid=39933834&amp;time=1555000661" style="display: none;"></iframe></body></html>
