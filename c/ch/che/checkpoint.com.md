@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003122035id_/https%3A//www.checkpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411091601id_/https%3A//www.checkpoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Check Point Software
 
@@ -131,7 +131,7 @@ This Cookies Notice applies to cookies used on any Check Point website with the 
 
   * • [www.cybertalk.org](https://www.cybertalk.org/)
   * • [www.cpcheckme.com](https://www.cpcheckme.com/)
-  * • [www.zonealarm.com](http://www.zonealarm.com/)
+  * • [www.zonealarm.com](https://www.zonealarm.com/)
 
 
 
@@ -179,9 +179,9 @@ We use the following types of cookies on our Webpages:
  **‘Strictly necessary’ cookies**|  These cookies are essential to ensure performance of the Webpages and include Session Cookies.| These cookies typically expire after 3 months  
  **Targeting or advertising cookies**| 
 
-These cookies allow us to display promotions and advertisements from external websites that may be of interest to you. We have also signed a written data processing agreement with Google based on a template created by Google in association with data protection authorities. For further information on this, please contact Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland or visit [www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html) and/or [www.google.de/intl/de/policies/privacy](http://www.google.de/intl/de/policies/privacy).
+These cookies allow us to display promotions and advertisements from external websites that may be of interest to you. We have also signed a written data processing agreement with Google based on a template created by Google in association with data protection authorities. For further information on this, please contact Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland or visit [www.google.com/analytics/terms/de.html](https://www.google.com/analytics/terms/de.html) and/or [www.google.de/intl/de/policies/privacy](https://www.google.de/intl/de/policies/privacy).
 
-For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) if you are in the United States, or [youronlinechoices.eu](http://youronlinechoices.eu/) if you are outside the United States.
+For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) if you are in the United States, or [youronlinechoices.eu](https://youronlinechoices.eu/) if you are outside the United States.
 
 | These cookies typically expire after 3 months  
   
@@ -197,9 +197,9 @@ By using the Webpages and/or closing the pop-up cookie notice, you consent to th
 
 The browsers of most computers, smartphones and other web-enabled devices are typically set up to accept cookies. If you wish to amend your cookie preferences for the Webpages, you can do this at any time by changing your browser settings. Your browser’s ‘help’ function will tell you how to do this. You do not have to accept cookies, however, please note that cookies are often used to enable and improve certain functions on the Webpages. If you choose to block cookies through your browser settings, it is likely to affect how the Webpages work and you may not be able to access all or parts of the Webpages.
 
-For more information about how to disable cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+For more information about how to disable cookies, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
-For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) if you are in the United States, or [youronlinechoices.eu](http://youronlinechoices.eu/) if you are outside the United States.
+For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) if you are in the United States, or [youronlinechoices.eu](https://youronlinechoices.eu/) if you are outside the United States.
 
  **E. CONTACT US**
 
