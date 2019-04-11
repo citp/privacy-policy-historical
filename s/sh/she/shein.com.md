@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shein.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206201844id_/https%3A//us.shein.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shein.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411210736id_/https%3A//www.shein.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
 
-# 
-
-### Privacy & Cookie Statement
+# Privacy & Cookie Statement | SHEIN
 
 PRIVACY STATEMENT
 
@@ -38,7 +36,7 @@ What Personal Data We Collect
 
 Depending on the products and services you use, we collect different kinds of personal data from or about you.
 
-**Data you provide:** We collect the personal data you provide when you use our products and services or otherwise interact with us, such as when you create an account, Contact Us, participate in an online survey, use our online help or online chat tool.
+**Data you provide:** We collect the personal data you provide when you use our products and services or otherwise interact with us, such as when you create an account, Contact Us, participate in an online survey, use our online help or online chat tool, or provide your contact information (e-mail or phone number) in exchange for discounts and promotional updates.
 
 **Data about payments:** If you make a purchase, we collect personal data in connection with the purchase. This data includes your payment data, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping, and contact details.
 
@@ -52,7 +50,7 @@ ZoeTop Business Co., Limited, processes and determines how to process your perso
 
 **Providing, improving, and developing our products and services:** We use personal data to help us provide, improve, and develop our products, services, and advertising. This includes using personal data for purposes such as data analysis, research, and audits. Such processing is based on our legitimate interest in offering you products and services and for business continuity. If you enter a contest, or other promotion, we may use the personal data you provide to administer those programs. Some of these activities have additional rules, which may contain further data about how we use personal data, so we encourage you to read those rules carefully before participating.
 
-**Communicating with you:** Subject to your prior express consent, we may use personal data to send you marketing communications in relation to SHEIN own products and services, communicate with you about your account or transactions, and inform you about our policies and terms. If you no longer wish to receive email communications for marketing purposes, please Contact Us to opt-out. We also may use your data to process and respond to your requests when you contact us. Subject to your prior express consent, we may share your personal data with third party partners who may send you marketing communications in relation to their products and services.
+**Communicating with you:** Subject to your prior express consent, we may use personal data to send you marketing communications in relation to SHEIN own products and services, communicate with you about your account or transactions, and inform you about our policies and terms. If you no longer wish to receive email, phone or text message communications for marketing purposes, please Contact Us to opt-out. We also may use your data to process and respond to your requests when you contact us. Subject to your prior express consent, we may share your personal data with third party partners who may send you marketing communications in relation to their products and services.
 
 **Offering and measuring targeted advertisements and services:** Subject to your prior express consent, we may use personal data to personalize your experience with our products and services and on third-party websites and applications and to determine the effectiveness of our promotional campaigns.
 
