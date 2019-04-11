@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalfn.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130170927id_/https%3A//www.personalfn.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalfn.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411100824id_/https%3A//www.personalfn.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
