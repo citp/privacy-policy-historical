@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songselect.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812083430id_/https%3A//us.ccli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songselect.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411193852id_/https%3A//us.ccli.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — CCLI
 
@@ -39,7 +39,7 @@ CCLI is an international organization headquartered in Vancouver, Washington, US
 
 We are strongly committed to maintaining the privacy of your personal information and the security of our computer systems and online services.
 
-Concerning the collection, use, and disclosure of personal information, CCLI makes every effort to ensure compliance with all applicable laws, including the European General Data Protection Regulation (GDPR), the EU-US Privacy Shield, and the Swiss-US Privacy Shield.
+Concerning the collection, use, and disclosure of personal information, CCLI makes every effort to ensure compliance with all applicable laws, including the European General Data Protection Regulation (GDPR), the all other local privacy regulations.
 
 Back to top
 
