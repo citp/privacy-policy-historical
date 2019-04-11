@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m2day.org privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020192203id_/https%3A//www.malaysia-today.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m2day.org privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411101430id_/https%3A//www.malaysia-today.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Malaysia Today
 
@@ -9,3 +9,5 @@ At Malaysia Today we appreciate your readership and value your personal privacy.
 (3) by sharing personal information when you post comments on our posts or stories.
 
 We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. At no time does any party other than Malaysia Today have access to your personally identifiable information. Our databases are stored in highly secure servers and are not accessible from within Malaysia.
+
+[](https://t.me/RajaPetraKamarudin)
