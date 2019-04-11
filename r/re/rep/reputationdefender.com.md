@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122131310id_/https%3A//www.reputationdefender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411073842id_/https%3A//www.reputationdefender.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReputationDefender
 
@@ -119,7 +119,7 @@ We will retain personal data we process on behalf of our Clients for as long as 
   6. ReputationDefender will never ask you to send your password or other sensitive information to us in an e-mail, though we may ask you to enter this type of information on the Site, which will always have a URL beginning with [https://www.reputationdefender.com](https://www.reputationdefender.com/). If you receive an email that asks you for your log in information or password,  _it is not from us and you should not respond._
   7. Any e-mail or other communication requesting your password, asking you to provide sensitive account information via email, or linking to a website with a URL that does not begin with [https://www.reputationdefender.com](https://www.reputationdefender.com/) should be treated as unauthorized and suspicious and should be reported to ReputationDefender, immediately by emailing [helpdesk@reputationdefender.com](mailto:helpdesk@reputationdefender.com).
   8. If you do share your ReputationDefender password with a third party for any reason, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password.
-  9. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at [www.reputationdefender.com](http://www.reputationdefender.com/) and changing your Profile settings. If you believe that an unauthorized access has already occurred please report it immediately by emailing [helpdesk@reputationdefender.com](mailto:helpdesk@reputationdefender.com).
+  9. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at [www.reputationdefender.com](https://www.reputationdefender.com/) and changing your Profile settings. If you believe that an unauthorized access has already occurred please report it immediately by emailing [helpdesk@reputationdefender.com](mailto:helpdesk@reputationdefender.com).
   10. ReputationDefender, may have access to your password and may use such password to access your account for debugging, quality assurance, or other internal purposes.
 
 
