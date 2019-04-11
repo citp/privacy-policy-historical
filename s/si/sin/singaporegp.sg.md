@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211153722id_/http%3A//www.singaporegp.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411210743id_/http%3A//www.singaporegp.sg/privacy-policy) for the most accurate reproduction.*
 
 # Singapore F1 - Formula 1 Night Race - Singapore Grand Prix
 
