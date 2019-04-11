@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepfocus.io privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929142117id_/http%3A//deepfocus.io/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepfocus.io privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411174439id_/http%3A//deepfocus.io/privacy.html) for the most accurate reproduction.*
 
 # 
 
