@@ -1,35 +1,71 @@
-> *The following text is extracted and transformed from the repco.com.au privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510075539id_/http%3A//www.repco.com.au/CA2571B70016E7AE/page/Listing-Footer%2BMenu-Privacy%3FOpenDocument%261%3D10-Listing%7E%262%3D0-Footer%2BMenu%7E%263%3D10-Privacy%7E) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repco.com.au privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411141520id_/https%3A//www.repco.com.au/en/privacy-policy) for the most accurate reproduction.*
 
-# - Privacy
+# Repco Australia
 
-In this Privacy Statement, "Repco" means Repco Limited and its related entities and includes the business units Repco, Ashdown Ingram, McLeod Accessories and Motorspecs. This online Privacy Statement is provided to make you aware of how Repco collects uses and manages information of visitors to this website. Repco views the personal privacy of users as an important issue, and is committed to maintaining the security of personal information provided to Repco by users when accessing and using this website. This policy describes how Rstatement treats personal information that it receives through your use of this website.
+GPC Asia Pacific (“ **we** ”, “ **us** ” and “ **our** ”) understands how important it is to protect the personal information of our customers, business partners and other stakeholders that we interact with. We take care to comply with the Privacy Principles contained in the Privacy Act and provide you with a level of comfort that the information you provide to us will be managed in accordance with law.
 
-Repco may make some third party websites available from hyperlinks in this website.  You will need to review the privacy policy of such websites to determine how that third party collects, uses and manages your personal information.
+This Privacy Policy describes how we collect, use and dispose of personal information.
 
-**What Information Do We Collect and How Is It Used?**
+**What personal information do we collect?**
 
-Repco may collect personal information from you on this website, however we will always explain to you why we are collecting that information, and how we intend to use it.  We will only retain your personal information for so long as it is required for that purpose.
+We may collect information from you which reasonably identifies you as an individual, including your name, email address, telephone number and billing address. If you are a customer, we may also collect your vehicle registration number.
 
-**Cookies**
+**How do we collect and store your personal information?**
 
-A cookie is a small data file that a website may write to your hard drive when you visit it. A cookie file can contain information, such as a userID, that the website uses to track the pages you have visited. The only personal information a cookie can contain is information you personally supply. A cookie cannot read data off your hard disk or read cookie files created by other websites.
+We may collect your personal information when you provide details through our website, contact us by phone, email or in-store or when you complete forms. Our website also uses cookies which stores personal information that you provide to track user traffic patterns and to better serve you when you revisit the website. You can disable cookies in your browser.
 
-This website uses cookies to track user traffic patterns and to better serve you when you revisit the website. You can set your browser to notify you when you receive a cookie, providing you with the opportunity to either accept or reject it. You can also refuse all cookies by turning them off in your browser.
+Your personal information will be securely stored by us, including in our data warehouses located in Australia and by selected third party providers located in Australia. Personal information relating to customers located in New Zealand may also be stored by us in Australia and New Zealand and by our selected third party providers in New Zealand.
 
-**Marketing Material  
-**
+**Why do we collect your personal information?**
 
-Repco may collect your personal information in order to provide you with marketing offers and information concerning our business.  We will always give you a clear opportunity to opt out from receiving such information.
+We may collect your personal information to:
 
-**Security**
+  1. process transactions, both in-store and online;
+  2. answer your questions, resolve your complaints and conduct investigations;
+  3. market and sell our products and promote our brands;
+  4. comply with any legal requirements;
+  5. procure goods and services;
+  6. conduct research to better understand and serve our customers and for statistical purposes;
+  7. communicate with you, including where we need to conduct a product recall;
+  8. prevent fraud, including services to protect your information; and
+  9. provide you with marketing offers and information about our brands.
 
-Repco takes the same security measures to protect personal information from loss, unauthorised access, destruction, misuse, modification or disclosure as we do our own sensitive information.
 
-**Updating this Privacy Statement**
 
-The content of this Privacy Statement may be updated from time to time, so we suggest that you regularly review it.
+If we want to use your personal information for other reasons, we will contact you and ask you for your consent.
 
-**Enquiries  
-**
+**When do we disclose your personal information?**
 
-Privacy related enquiries can be directed to Repco at [contactus@repco.com.au](mailto:contactus@repco.com.au)
+We may disclose your personal information to people and organisations:
+
+  1. 1\. that provide us with services to promote our products;
+  2. 2\. that carry out, or help us to carry out, our business activities including our agents, contractors and external advisors;
+  3. 3\. that maintain our information technology and payment system infrastructure; and
+  4. 4\. to whom we are authorised or required by law to do so.
+
+
+
+Your personal information may also be disclosed by us to other people and organisations that you have consented to.
+
+**What rights do you have in relation to your personal information?**
+
+You have the right to access your personal information and require us to correct any of your personal information.
+
+To access or correct your personal information, please [Contact Us](https://web.archive.org/en/contact-us).
+
+You can also contact us by writing to our Privacy Officer at:
+
+  1. GPC Asia Pacific Pty Limited (ABN 97 097 993 283) of 22 Enterprise Drive, Rowville, Victoria, 3178, Australia; or
+  2. GPC Asia Pacific Limited (Company No. 1158404) of 510 Mt Wellington Highway, Mount Wellington, Auckland, New Zealand.
+
+
+
+**How do you make a complaint?**
+
+If you would like to make a complaint regarding our use of your personal information, you can [Contact Us](https://web.archive.org/en/contact-us).
+
+If you are not satisfied with the outcome of your complaint, you can contact the Officer of the Australian Information Commissioner or the New Zealand Privacy Commissioner.
+
+**Who do you contact for further information?**
+
+If you require further information about this Privacy Policy, you can [Contact Us](https://web.archive.org/en/contact-us).
