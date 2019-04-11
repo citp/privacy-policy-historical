@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerlineblog.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228071642id_/https%3A//www.powerlineblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlineblog.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411223406id_/https%3A//www.powerlineblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Power Line
 
