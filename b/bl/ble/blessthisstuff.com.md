@@ -1,52 +1,69 @@
-> *The following text is extracted and transformed from the blessthisstuff.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202102553id_/https%3A//www.blessthisstuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blessthisstuff.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411160735id_/https%3A//www.blessthisstuff.com/privacy) for the most accurate reproduction.*
 
 # Web Magazine for guys. Bless This Stuff
 
-#### What information do we collect? 
+Blessthisstuff ("Bless This Stuff") is committed to protecting the privacy of its customers and maintaining your trust and confidence is one of Blessthisstuffs' highest priorities. 
 
-We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+To provide you with the best experience possible while using the Website, upon subscribing for newsletters and interactions between you and Blessthisstuff, you may from time to time provide Blessthisstuff with personally identifiable information ("Personal Data") that Blessthisstuff collects and processes. 
 
-#### What do we use your information for? 
+Blessthisstuff is committed to collect and process Personal Data only in accordance with its rights and responsibilities under the applicable laws and regulations, including the European Union's General Data Protection Regulation ("GDPR"). If our information practices change, we will post an updated policy on our website. 
 
-Any of the information we collect from you may be used in one of the following ways: \- To personalize your experience (your information helps us to better respond to your individual needs) \- To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) \- To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) \- To administer a contest, promotion, survey or other site feature \- To send periodic emails. The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
+The basic principles under GDPR are that Personal Data shall be:   
+1\. processed lawfully, fairly and in a transparent manner in relation to individuals;   
+2\. processed only for specified, explicit and legitimate purposes and not processed in a manner that is incompatible with those purposes;   
+3\. processed only in a way that adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed;   
+4\. accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that Personal Data that are inaccurate, having regard to thepurposes for which they are processed, are erased or rectified without delay;   
+5\. processed for no longer than is necessary for the purposes for which the Personal Data are processed;   
+6\. processed in a manner that ensures appropriate security of the Personal Data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures. 
 
-#### How do we protect your information? 
+This Privacy Policy explains Blessthisstuffs' Personal Data collection and processing practices. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+Please read this Privacy Policy before using the site or submitting any Personal Data. 
 
-#### Do we use cookies? 
+The Website contains links to third party sites or functionalities, which are not subject to this Privacy Policy. Blessthisstuff does not endorse and is not responsible for the privacy practices or the content on such third party sites or functionalities. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits. 
+#### COLLECTION AND PROCESSING OF PERSONAL DATA 
 
-#### Do we disclose any information to outside parties? 
+The types of Personal Data that Blessthisstuff collects upon subscription of Newsletters. After receipt of your consent, Blessthisstuff reserves the right to process the Personal Data for the following purposes: sending product information, special offers, running competitions, conducting market research, measuring interest in and improving Blessthisstuff' website, products and services via email. If you prefer not to receive this information please let us know by contacting our customer service sending us your name and email with the subject UNSUBSCRIBE NEWSLETTER. You can also do so by using the unsubscribe link below every newsletter to stop hearing from us and be permanently removed from this list. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+#### YOUR RIGHT TO LODGE A COMPLAINT 
 
-#### Third party links 
+At any time you may contact Blessthisstuff to object to the processing of your Personal Data where processing is justified based on Blessthisstuffs' legitimate interests or where you believe that your rights to privacy under applicable data protection laws has been infringed upon. For such contact please use the contact the contact form https://www.blessthisstuff.com/contact/ 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+You also have a right to lodge a complaint with the relevant data protection supervisory authority. 
 
-#### Childrens Online Privacy Protection Act Compliance 
+#### SECURITY POLICY
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+Blessthisstuff is committed to keeping your Personal Data secure against unauthorized access or use, alteration, unlawful or accidental destruction and accidental loss by using for example accepted industry standards, modern software that is kept-up-to-date and appropriate administrative, technical and physical safeguards. This includes for example firewalls, password protection, and authentication controls. Only authorized employees, agents and service providers (who have agreed to keep information secure and confidential) have access to your Personal Data. However, you should be aware that there is always some risk involved in transmitting information over the internet. 
 
-#### Online Privacy Policy Only 
+In the event of a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, your Personal Data, Blessthisstuff will promptly assess the risk such event has on your rights and freedoms and if appropriate inform you and the relevant data protection supervisory authority of such event. 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+If you believe that your Personal Data has been compromised, please contact Blessthisstuff via the contact form https://www.blessthisstuff.com/contact/ as soon as possible. 
 
-#### Your Consent 
+#### COOKIES AND ANALYTICS INFORMATION
 
-By using our site, you consent to our web site privacy policy. 
+Blessthisstuff uses automatically collected information - however not any Personal Data - through cookies and other technologies to personalize your experience of the Website, to provide customized advertisement, information and content, and to monitor and analyze your use of the Website. Furthermore, Blessthisstuff uses analytics technologies (Google Analytics) to measure and evaluate the access to and traffic on the Website, and to generate navigation reports. Such technology is not collecting any Personal Data. 
 
-#### Changes to our Privacy Policy 
+#### CHANGES AND UPDATES
 
-We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. 
+Blessthisstuff may update this Privacy Policy from time to time. Upon such updates Blessthisstuff will make the new Privacy Policy available on the Website and indicate the date of the latest revisions made. 
 
-#### Advertising
+You are encouraged to revisit this Privacy Policy periodically to keep yourself informed about any changes to this Privacy Policy. Your continued use of the Website, your personal account, contacts with the support or customer service after the revised Privacy Policy has become effective will indicate that you have read, understood and accepted the then current version of the Privacy Policy. 
 
-Blessthisstuff advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags. You can opt out of behavioral targeting through the opt-out link located at <http://www.networkadvertising.org/managing/opt_out.asp> Blessthisstuff is participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising. You can now [visit](http://www.aboutads.info/choices/) the beta version of the Program's Consumer Opt Out Page, which allows users to conveniently opt-out from online behavioral ads served by some or all of our participating companies. 
+#### PERSONAL DATA CONTROLLER CONTACT INFORMATION
+
+You may contact Blessthisstuff at any time:   
+\- to request access your Personal Data that Blessthisstuff is processing   
+\- to correct such Personal Data   
+\- to request that Blessthisstuff either restricts it use of your Personal Data or deletes such Personal Data   
+\- if you do not understand any of the foregoing terms and conditions or if you have any questions, concerns or comments about Blessthisstuffs' Privacy Policy. 
+
+#### PHISHING 
+
+Phishing is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email. 
+
+Should you have any queries please do not hesitate to contact us at [info@blessthisstuff.com](mailto:info@blessthisstuff.com)
 
 #### Contacting Us 
 
-If there are any questions regarding this privacy policy you may contact us using the information below. [http://www.blessthisstuff.com](http://www.blessthisstuff.com/)  
-[info@blessthisstuff.com](mailto:info@blessthisstuff.com)
+If there are any questions regarding this privacy policy you may contact us using the contact form <https://www.blessthisstuff.com/contact/> or directly to our email [info@blessthisstuff.com](mailto:info@blessthisstuff.com)
