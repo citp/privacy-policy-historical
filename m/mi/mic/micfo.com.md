@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micfo.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721011442id_/https%3A//www.micfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micfo.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411092732id_/https%3A//www.micfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Micfo
 
@@ -41,6 +41,9 @@ PROTECTING DATA
 4.1  Definitions. “Controller”, “Data Subject”, “Personal Data”, “Personal Data Breach”, “Processor”, “Processing”, “Records of Processing Activities”, “Sensitive Data” and “Supervisor Authority” have the meaning given to them under EU Data Protection Law.
 
 4.2  As the Processor, Micfo acts only in accordance with the Controller’s instructions, implements appropriate security measures to protect the Personal Data, Sensitive Data and Data Subject ("Data"), as well as assisting the Controller with its compliance obligations, and return or destroy Personal Data at the end of the relationship between the Processor and the Controller.
+
+##   
+Copyright
 
 ## ALL RIGHTS RESERVED
 
