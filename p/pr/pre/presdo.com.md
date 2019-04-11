@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2015-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150110021405id_/http%3A//match.presdo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411192917id_/https%3A//match.presdo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ Once you have shared your information with Presdo, you may still control how it 
 
 ## 7\. Changes to the Privacy Policy
 
-This Privacy Policy may be updated as Presdo’s services change and grow. Presdo will indicate any such changes on this page, by email, or through notice on our home page. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If this Privacy Policy is changed, Presdo will post them and will indicate at the top of this page the policy’s new effective date. Presdo encourages you to refer to this policy on an ongoing basis so that you understand our current privacy policy. The most current version of the Privacy Policy can be found at [http://match.presdo.com/privacy](https://web.archive.org/privacy).
+This Privacy Policy may be updated as Presdo’s services change and grow. Presdo will indicate any such changes on this page, by email, or through notice on our home page. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If this Privacy Policy is changed, Presdo will post them and will indicate at the top of this page the policy’s new effective date. Presdo encourages you to refer to this policy on an ongoing basis so that you understand our current privacy policy. The most current version of the Privacy Policy can be found at [https://match.presdo.com/privacy](https://web.archive.org/privacy).
 
 ## 8\. Contact
 
