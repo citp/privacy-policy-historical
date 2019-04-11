@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diycozyhome.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117134018id_/https%3A//diycozyhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diycozyhome.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411101641id_/https%3A//diycozyhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
