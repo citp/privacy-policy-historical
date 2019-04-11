@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftstoindia24x7.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104220721id_/http%3A//www.giftstoindia24x7.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftstoindia24x7.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411132338id_/https%3A//www.giftstoindia24x7.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Giftstoindia24x7.com :: Privacy Policy
+# Giftstoindia24x7.com :: Privacy Policy.
 
   * What information does GiftsToIndia24x7.com collect about me?
 
