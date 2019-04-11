@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liquidnicotinewholesalers.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326003124id_/http%3A//liquidnicotinewholesalers.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidnicotinewholesalers.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412002858id_/https%3A//liquidnicotinewholesalers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Liquid Nicotine Wholesalers
+# Privacy Policy | Liquid Nicotine Wholesalers
 
 **Privacy Policy**
 
@@ -39,7 +39,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 **Do we disclose the information we collect to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include K.J.J. Enterprises LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include Liquid Nicotine Wholesalers. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -55,7 +55,7 @@ In an attempt to provide you with increased value, we may include third party li
 
 **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.  **This policy was last modified on August 6, 2003.**
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. 
 
 **Questions and feedback**
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](http://liquidnicotinewholesalers.com/terms-and-conditions/ "Terms and Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our  [Terms & Conditions](https://liquidnicotinewholesalers.com/terms-and-conditions "Terms & Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your consent**
 
