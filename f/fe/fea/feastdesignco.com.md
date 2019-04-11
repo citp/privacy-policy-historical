@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feastdesignco.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203043506id_/https%3A//feastdesignco.com/about-feast/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feastdesignco.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412010437id_/https%3A//feastdesignco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Feast Design Co.
 
@@ -63,4 +63,4 @@ You acknowledge and agree that it is your responsibility to review this site and
 
 If you have questions about our privacy policy, please email us at hello@feastdesignco.com.
 
-Updated: April 2016
+Updated: January 2018
