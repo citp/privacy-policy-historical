@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813182948id_/https%3A//my.101domain.com/legal/legal_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411162513id_/https%3A//my.101domain.com/legal/legal_privacy.html) for the most accurate reproduction.*
 
 # My Account
 
 The www.101domain.com website (this "Site") is operated by 101domain GRS Limited, dba 101domain.com ("we", "us", "our", "101domain"). Your privacy is very important to us. We are committed to being transparent and open with how we collect, use and disclose information. We do not sell any personal data of our customers to another company for marketing purposes.
 
-This Privacy Statement (together with our [Master Service Agreement](https://web.archive.org/e%21gy0lBQ8cN_xlk5tQnOyVSl30cg.html) and [Cookies Policy](https://web.archive.org/e%21gy0lBQ8cN_xlk5tQnOLiK8i30w.html)) explains how we collect information about you and what we do with that information once we have it. It also describes your choices regarding use, access and correction of your Personal Information. Please read the following carefully to understand our views and practices regarding your Personal Information and how we will treat it.
+This Privacy Statement (together with our [Master Service Agreement](https://web.archive.org/legal/legal_master.html) and [Cookies Policy](https://web.archive.org/legal/legal_cookie.html)) explains how we collect information about you and what we do with that information once we have it. It also describes your choices regarding use, access and correction of your Personal Information. Please read the following carefully to understand our views and practices regarding your Personal Information and how we will treat it.
 
 For the purpose of the Data Protection Acts 1988 and 2003 and the European Union's General Data Protection Regulation (the "Acts"), the data controller is 101domain GRS Limited with its registered office at 4th Floor, International House, 3 Harbourmaster Place, IFSC, Dublin 1, Ireland.
 
@@ -75,7 +75,7 @@ We use cookies on this Site to:
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser so that it will refuse cookies, our system will issue cookies when you log on to our Site. To learn more about cookies, please visit http://www.allaboutcookies.org/. For more information on our use of cookies on the Site, please see our [Cookies Policy](https://web.archive.org/e%21gy0lBQ8cN_xlk5tQnOLiK8i30w.html)
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser so that it will refuse cookies, our system will issue cookies when you log on to our Site. To learn more about cookies, please visit http://www.allaboutcookies.org/. For more information on our use of cookies on the Site, please see our [Cookies Policy](https://web.archive.org/legal/legal_cookie.html)
 
 Note that third party external websites to which we provide links (over which we have no control and do not stand over in any way) may also use cookies.
 
