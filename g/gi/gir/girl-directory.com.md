@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girl-directory.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205063855id_/http%3A//www.girl-directory.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girl-directory.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411220738id_/http%3A//www.girl-directory.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,9 +94,9 @@ The website contains links to other websites. We are not responsible for the pri
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated or deleted.
 
-If you have any questions about this privacy policy or our treatment of your personal data, [please write to us by email](https://web.archive.org/web/20181205063855id_/http%3A//www.girl-directory.com/contact.php)
+If you have any questions about this privacy policy or our treatment of your personal data, [please write to us by email](https://web.archive.org/web/20190411220738id_/http%3A//www.girl-directory.com/contact.php)
 
-The data controller responsible for our website is EWEBMEDIA.[Contact them here.](https://web.archive.org/web/20181205063855id_/http%3A//www.girl-directory.com/contact.php)
+The data controller responsible for our website is EWEBMEDIA.[Contact them here.](https://web.archive.org/web/20190411220738id_/http%3A//www.girl-directory.com/contact.php)
 
 This website privacy policy is based on a template  
 created by Website-contracts.co.uk   
