@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysteriousuniverse.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005164958id_/https%3A//mysteriousuniverse.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysteriousuniverse.org privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411114240id_/https%3A//mysteriousuniverse.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mysterious Universe
 
