@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmstorm.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629124850id_/http%3A//www.coolermaster.com/company/agreement/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmstorm.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411212540id_/http%3A//www.coolermaster.com/company/agreement/privacy-policy) for the most accurate reproduction.*
 
 # Cooler Master: Privacy Policy
 
