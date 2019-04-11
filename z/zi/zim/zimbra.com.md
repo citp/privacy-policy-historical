@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zimbra.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905201920id_/https%3A//www.zimbra.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zimbra.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411042952id_/https%3A//www.zimbra.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
