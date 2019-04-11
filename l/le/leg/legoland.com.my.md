@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the legoland.com.my privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161239id_/http%3A//www.legoland.com.my/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legoland.com.my privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411092706id_/https%3A//www.legoland.com.my/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LEGOLAND
+# Privacy Policy | LEGOLAND Malaysia Resort
 
 Dear LEGOLAND Fans,
 
   
-We want you to have fun at LEGOLAND and at our Web site! To make sure your online visit is fun and safe, we don't "play around" with any of the important steps we take to protect your privacy. At the LEGOLAND, children's safety and fun as well as parents' trust in our name is serious business!
+We want you to have fun at LEGOLAND and at our Website! To make sure your online visit is fun and safe, we don't "play around" with any of the important steps we take to protect your privacy. At the LEGOLAND, children's safety and fun as well as parents' trust in our name is serious business!
 
 Below, you will find information about the LEGOLAND Online Privacy Policy. Our privacy policy will tell you how and when we collect information through our Web site, and how this information will be used. To learn specifically about our online information practices concerning children who are younger than 13 years of age, please scroll down to the section entitled "Children Under the Age of 13".
 
@@ -71,12 +71,9 @@ Users who wish to no longer receive our promotional emails may click ona link na
 
 Contact us
 
-7, Jalan Legoland, Bandar Medini,
-
-79250 Iskandar Puteri, Johor, Malaysia.
-
-Tel: +605-597 888
-
+7, Jalan Legoland, Bandar Medini,  
+79250 Iskandar Puteri, Johor, Malaysia.  
+Tel: +605-597 888  
 Email: info@LEGOLAND.my
 
 **How to Change or Review the Information**
