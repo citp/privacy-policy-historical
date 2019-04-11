@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brownpapertickets.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829051902id_/https%3A//www.brownpapertickets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownpapertickets.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411175425id_/https%3A//www.brownpapertickets.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Brown Paper Tickets - The fair-trade ticketing company.
 
@@ -152,14 +152,6 @@ Where you have provided your consent to the processing of your personal informat
 * * *
 
 Brown Paper Tickets operates globally and stores information in the United States. Laws and regulations vary from country to country and may differ from the laws applicable to your Country of Residence. For example, information collected within the European Economic Area (EEA) may be transferred, stored, and processed outside of the EEA for business purposes described in this Privacy Policy. Where we transfer, store, and process your personal information outside of the EEA we have ensured that appropriate safeguards are in place to ensure an adequate level of data protection.
-
-**6.1 EU-US Privacy Shield (application pending)**
-
-Brown Paper Tickets complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Brown Paper Tickets has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
-
-Under the Privacy Shield Framework, Brown Paper Tickets is subject to the authority of the Federal Trade Commission. If you have any questions or concerns relating to our Privacy Shield certification, contact us at Brown Paper Tickets, Legal Department, 220 Nickerson St., Seattle, WA 98109 or via email to legal@brownpapertickets.com. If we are not able to resolve your concern, you may also contact your European Data Protection Authority or seek assistance from our designated Privacy Shield independent recourse mechanism, the American Arbitration Association: <https://www.adr.org/>.
-
-If we have received your personal information under the Privacy Shield and subsequently transfer it to a third party service provider for processing as described in this Privacy Policy, we will remain responsible if these providers process your personal information in a manner inconsistent with the Privacy Shield Principles, except where we can establish that Brown Paper Tickets was not responsible for the violation.
 
 * * *
 
