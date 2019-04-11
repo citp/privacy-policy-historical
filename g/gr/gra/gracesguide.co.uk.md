@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gracesguide.co.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223174707id_/https%3A//www.gracesguide.co.uk/Graces_Guide%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gracesguide.co.uk privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411212922id_/https%3A//www.gracesguide.co.uk/Graces_Guide%3APrivacy_policy) for the most accurate reproduction.*
 
 # Graces Guide:Privacy policy
 
