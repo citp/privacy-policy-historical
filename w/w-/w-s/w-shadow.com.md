@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the w-shadow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200652id_/http%3A//w-shadow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w-shadow.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411135327id_/https%3A//w-shadow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | W-Shadow.com
+
+## Privacy
 
 **W-Shadow.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. 
 
