@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004035337id_/https%3A//www.greenrope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412053627id_/https%3A//www.greenrope.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy by GreenRope
 
 **1\. General**
 
-GreenRope® is committed to protecting the privacy of any person or entity that uses, or makes use of its services, products, or system (“User” or “Users”). This privacy policy (hereinafter “Policy”) explains when and how personal information is collected, used, disclosed and protected with respect to the GreenRope®’s web site located at www.greenrope.com (the "Site"). The GreenRope.com domain is managed by Synchronous Technologies Group Inc, or STGI.net. By using the Site, the User fully understands and consents to the privacy practices described in this Policy, as reasonably modified from time to time by GreenRope®. User has carefully reviewed this Policy in order to fully understand the GreenRope® data privacy practices.  GreenRope, LLC is also covered by this privacy policy.  
- 
+GreenRope® is committed to protecting the privacy of any person or entity that uses, or makes use of its services, products, or system (“User” or “Users”). This privacy policy (hereinafter “Policy”) explains when and how personal information is collected, used, disclosed and protected with respect to the GreenRope®’s web site located at www.greenrope.com (the "Site"). The GreenRope.com domain is managed by Synchronous Technologies Group Inc, or STGI.net. By using the Site, the User fully understands and consents to the privacy practices described in this Policy, as reasonably modified from time to time by GreenRope®. User has carefully reviewed this Policy in order to fully understand the GreenRope® data privacy practices.  GreenRope, LLC is also covered by this privacy policy.
 
 **2\. Personal Information**
 
-Personal Information shall be defined, but not limited to, as information that is specifically identifiable to a unique individual, information such as a name, address, individual’s telephone number, e-mail address, account number, information about an individual's activities if directly linked to that person (hereinafter “Personal Information”).  Personal Information also includes, but shall not be limited to, demographic information, such as date of birth, one’s gender, geographic area, and personal preferences if such information can identifiable and unique.  
+Personal Information shall be defined, but not limited to, as information that is specifically identifiable to a unique individual, information such as a name, address, individual’s telephone number, e-mail address, account number, information about an individual's activities if directly linked to that person (hereinafter “Personal Information”).  Personal Information also includes, but shall not be limited to, demographic information, such as date of birth, one’s gender, geographic area, and personal preferences if such information is identifiable and unique.  
  
 
 **3\. Personal Information We Collect**
@@ -54,7 +53,7 @@ Solana Beach, CA 92075 USA
 
 GreenRope® has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint.
 
-When a customer and GreenRope® have agreed by contract that transfers of personal information from the European Economic Area (“EEA”) or Switzerland will be transferred and processed pursuant to the Privacy Shield for the relevant services, when conducting those activities on behalf of its EEA/Swiss customers, GreenRope® holds and/or processes personal information provided by the EEA/Swiss customer at the direction of the customer. GreenRope® will then be responsible for ensuring that third parties acting as agents on its behalf meet the same standards.
+When a customer and GreenRope® have agreed by contract that transfers of personal information from the European Economic Area (“EEA”) or Switzerland will be transferred and processed pursuant to the Privacy Shield for the relevant services, when conducting those activities on behalf of its EEA/Swiss customers, GreenRope® holds and/or processes personal information provided by the EEA/Swiss customer at the direction of the customer. GreenRope® will then be responsible for ensuring that third parties acting as agents on its behalf meet the same standards. Pursuant to the Privacy Shield, GreenRope® remains liable for the transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. GreenRope® is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
@@ -93,4 +92,4 @@ The GreenRope® Site contains forms that Users may use to enter Personal Informa
 
 GreenRope® reserves the right to change or alter this Policy at any time. GreenRope® may use User Personal Information for new, unanticipated uses not previously disclosed in this Policy. If GreenRope®’s privacy practices change, GreenRope® will post the policy changes to our web site and notify Users by indicating the date the privacy policy was last updated. GreenRope® encourages Users to check back at the GreenRope® Site periodically if the User is concerned about how the Users Personal Information is used. 
 
-_This privacy policy was last updated 29  May 2018_
+_Privacy policy effective 11 Feb 2019. This privacy policy was last updated 11 Feb  2019._
