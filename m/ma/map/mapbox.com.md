@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapbox.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229024618id_/https%3A//www.mapbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapbox.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413002029id_/https%3A//www.mapbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Mapbox
 
@@ -20,9 +20,9 @@ All credit card processing for our Services is handled directly by our third-par
 
 **Website Logs and Cookies:** Whenever you visit or interact with our website, we automatically collect certain information about your browser and your interaction with our website, including (a) IP address, (b) browser and device type, (c) operating system, (d) referring web page, (e) the date and time of page visits, and (f) the pages accessed on our websites. We also use cookies and similar technologies to recognize and improve your use of our websites, and you will not be able to access certain parts of our websites, including those that require a login, unless your device accepts cookies from us.
 
-**APIs and Mobile SDKs:** We automatically collect certain technical information whenever requests are made to our APIs, including (a) IP address, (b) device and browser information, (c) operating system, (d) the content of the request, (e) the date and time of the request, and (f) limited location and usage data. We delete IP addresses after 30 days. In addition, when a mobile application uses our SDKs to access our APIs, it may send us certain limited location and usage data along with an ephemeral ID. We delete this unprocessed mobile location data or ephemeral ID within 24 hours and do not associate it with any personally identifying information, including names, permanent IDs, email addresses, IP addresses, or phone numbers. We also collect randomly-generated IDs for the limited purpose of analyzing the use of our APIs, including the number of active users. We will delete the randomly generated IDs and the content of requests made to our APIs after 36 months.
+**APIs and Mobile SDKs:** We automatically collect certain technical information whenever requests are made to our APIs, including (a) IP address, (b) device and browser information, (c) operating system, (d) the content of the request, (e) the date and time of the request, and (f) limited location and usage data. We delete IP addresses after 30 days. In addition, when a mobile application uses our SDKs to access our APIs, it may send us certain limited location and usage data along with an ephemeral ID. We delete this ephemeral ID within 24 hours and do not associate it or the unprocessed mobile location data with any personally identifying information, including names, permanent IDs, email addresses, IP addresses, or phone numbers. We also collect randomly-generated IDs for the limited purpose of analyzing the use of our APIs, including the number of active users. We will delete the randomly generated IDs and the content of requests made to our APIs after 36 months.
 
-**Vision SDK:** We automatically collect certain information whenever the Vision SDK is in use, including (a) IP address, (b) device and browser information, (c) operating system, (d) the content of the API requests, (e) the date and time of the request, (f) limited location and usage data, (g) limited front-facing camera imagery and video, (h) an ephemeral ID, (i) accelerometer data and (j) detected road feature data.
+**Vision SDK:** We automatically collect certain information whenever the Vision SDK is in use, including (a) IP address, (b) device and browser information, (c) operating system, (d) the content of the API requests, (e) the date and time of the request, (f) limited location and usage data, (g) limited front-facing camera imagery and video, (h) a randomly generated ID, (i) accelerometer data and (j) detected road feature data.
 
 **Hosted Data:** In using your account, you may upload data to us via Mapbox Studio, Mapbox Studio Classic, our Dataset API or our Upload API (" **Hosted Data** ") so that Mapbox can host it for you as part of providing our Services. We delete Hosted Data upon your request, however, due to our highly available, distributed implementation of our hosting solution, artifacts of Hosted Data may remain on Mapbox systems after you delete the file in your account. We will delete those artifacts in accordance with our standard platform maintenance practices after we either receive a specific request from you to delete the Hosted Data artifacts (along with sufficient information to identify which data you want to ensure are deleted) or we receive a request from you to delete your account.
 
@@ -64,7 +64,9 @@ All credit card processing for our Services is handled directly by our third-par
 
 **Rare and Limited Disclosures:** We may share information in our possession in response to a request if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process. For more information, see “Law Enforcement and Transparency,” below.
 
-We may also share the information we collect in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company. We may also share information among our current and future parents, affiliates, subsidiaries and other companies under common control and ownership.
+Furthermore, we may share information in our possession if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to enforce our terms of service, detect, prevent, or otherwise address threats to our platform, or protect against harm to the rights, property or safety of Mapbox, our users, or the public as required or permitted by law.
+
+Finally, we may also share the information we collect in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company. We may also share information among our current and future parents, affiliates, subsidiaries and other companies under common control and ownership.
 
 ###  Your Choices About What We Do With the Information We Collect
 
@@ -116,6 +118,8 @@ We'd love to hear any questions, concerns or feedback you might have about this 
 
 ### Changelog
 
+  * March 4, 2019: Updates to SDK collection provisions.
+  * February 21, 2019: Added language providing more clarity on our right to use information in the event of a dispute under the "Rare and Limited Disclosure" section. 
   * November 16, 2018: Added language describing information practices specific to Vision SDK. 
   * October 30, 2018: Added language clarifying limited use of randomly-generated IDs and sharing API logs for the purpose of resolving billing questions. 
   * August 13, 2018: Added language clarifying when this privacy policy applies to information received from Vendors.
