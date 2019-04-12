@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openerp.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815105606id_/https%3A//www.odoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openerp.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412122704id_/https%3A//www.odoo.com/privacy) for the most accurate reproduction.*
 
 # Odoo Privacy Policy
 
@@ -14,8 +14,8 @@ Most of the personal data we collect is directly provided by our users when they
   
 
 
-**Account & Contact Data:  ** When you register on our website to use or download one of our products, or to subscribe to one of our services (Odoo Online, Free Trial, Odoo Apps, Odoo.sh, etc.), or fill in one of our contact forms, you voluntarily give us certain information. This typically includes your _name, company name, email address,_ and sometimes your _  phone number, postal address_ (when an invoice or delivery is required), _business sector_ and _interest in Odoo,_ as well as a _personal password.  
-_We 
+**Account & Contact Data:  ** When you register on our website to use or download one of our products, or to subscribe to one of our services (Odoo Online, Free Trial, Odoo Apps, Odoo.sh, etc.), or fill in one of our contact forms, you voluntarily give us certain information. This typically includes your _name, company name, email address,_ and sometimes your _phone number, postal address_ (when an invoice or delivery is required), _business sector_ and _interest in Odoo_ , as well as a _personal password_.   
+We 
 
 _never record or store credit card information from our customers_
 
@@ -32,8 +32,11 @@ This data will often include personal information, for example: _your list of em
 
 _on your behalf_
 
-, and **you always retain ownership and full control on this data**.   
+, and **you always retain ownership and full control on this data**. 
 
+**In-App Purchase (IAP) Transaction Data:** When you use Odoo on the Odoo Cloud or on your own self-hosted deployments, some optional "In-App Purchase" services may be active by default. This typically includes auto-completion features to help you quickly input client and supplier info, as well as integration with third-party service providers for sending and receiving SMS, paper letters, etc.   
+When you use these services, with our without payment, some necessary transaction data is transmitted to Odoo Cloud services and have to be communicated to third-party services for the purpose of executing the service. You can find the detailed privacy policy for each service on the [IAP Privacy Policy __](https://iap.odoo.com/privacy)page.  
+__The IAP services are always **optional** , even when enabled by default, and the IAP Privacy Policy also explains how you can opt-out of those services. 
 
 ## How we use this information
 
@@ -46,11 +49,13 @@ If you have expressed interest in using Odoo or otherwise asked to be contacted 
 **Browser Data:** This automatically recorded data is anonymously analyzed in order to maintain and improve our services. We will only correlate this data with your personal data when required by law or for security purposes, if you have violated our [Acceptable Use Policy](https://www.odoo.com/page/odoo-online-acceptable-use-policy). 
 
 **Customer Database:** We only collect and process this data on your behalf, in order to perform the services you have subscribed to, and based on the instructions you explicitly gave when you registered or configured your service and your Odoo database.   
-Our Helpdesk staff and engineers may access this information in a limited and reasonable manner in order to solve any issue with our services, or at your explicit request for support reasons, or as required by law, or to ensure the security of our services in case of violation of our [Acceptable Use Policy](https://web.archive.org/page/odoo-online-acceptable-use-policy), in order to keep our services secure. 
+Our Helpdesk staff and engineers may access this information in a limited and reasonable manner in order to solve any issue with our services, or at your explicit request for support reasons, or as required by law, or to ensure the security of our services in case of violation of our [Acceptable Use Policy](https://web.archive.org/es_ES/page/odoo-online-acceptable-use-policy), in order to keep our services secure. 
+
+**In-App Purchase (IAP) Transaction Data:** You can find the detailed privacy policy for each service on the [IAP Privacy Policy __](https://iap.odoo.com/privacy)page.
 
 ## Accessing, Updating or Deleting Your Personal Information
 
-**Account & Contact Data:** You have the right to access and update personal data you have previously provided to us. You can do so at any time by connecting to your personal account on Odoo.com. If you wish to permanently delete your account or personal information for a legitimate purpose, please contact our [Helpdesk](https://web.archive.org/help) to request so. We will take all reasonable steps to permanently delete your personal information, except when we are required to keep it for legal reasons (typically, for administration, billing and tax reporting reasons). 
+**Account & Contact Data:** You have the right to access and update personal data you have previously provided to us. You can do so at any time by connecting to your personal account on Odoo.com. If you wish to permanently delete your account or personal information for a legitimate purpose, please contact our [Helpdesk](https://web.archive.org/es_ES/help) to request so. We will take all reasonable steps to permanently delete your personal information, except when we are required to keep it for legal reasons (typically, for administration, billing and tax reporting reasons). 
 
 **Job Application Data:  ** You may contact us at any time to request access, updates or deletion of your application information. The easiest way to do it is to reply to the last message you exchanged with our Human Resource personnel. 
 
@@ -59,11 +64,13 @@ At any time you can export a complete backup of your database via our control pa
 You may also request the deletion of your entire database via your control panel, at any time.   
 When you use the Odoo Database Upgrade service, your data is automatically deleted after your upgrade was successfully completed, and may also be deleted upon request from you. 
 
+**In-App Purchase (IAP) Transaction Data:** You can find the detailed privacy policy for each service on the [IAP Privacy Policy __](https://iap.odoo.com/privacy)page.
+
 __**Safety Retention Period:** we retain a copy of your data in our backups for safety reasons, even after they are destroyed from our live systems. See Data Retention for more details. 
 
 ## Security
 
-We realize how important and sensitive your personal data is, and we take a great number of measures to ensure that this information is securely processed, stored and preserved from data loss and unauthorized access. Our technical, administrative and organizational security measures are described in details in our [Security Policy](https://web.archive.org/security). 
+We realize how important and sensitive your personal data is, and we take a great number of measures to ensure that this information is securely processed, stored and preserved from data loss and unauthorized access. Our technical, administrative and organizational security measures are described in details in our [Security Policy](https://web.archive.org/es_ES/security). 
 
 ## Third Party Service Providers
 
@@ -123,9 +130,11 @@ SpeedExam
 
 **Customer Database** : we will only retain this data as long as necessary for providing the services you subscribed to. For databases hosted on the Odoo Cloud, if you cancel the service your database is kept deactivated for 3 weeks (the grace period during which you can change your mind), and then destroyed. For databases uploaded to the Odoo Database Upgrade website, your database is kept for up to 4 months after the last successful upgrade, and may be deleted earlier upon request. 
 
+**In-App Purchase (IAP) Transaction Data:** You can find the detailed privacy policy for each service on the [IAP Privacy Policy __](https://iap.odoo.com/privacy)page.
+
 __**Safety Retention Period:**
 
-As part of our [Security Policy](https://web.archive.org/security), we always try to preserve your data from accidental or malicious deletion. As a result, after we delete any of your personal information (Account & Contact Data) from our database upon request from you, or after you delete any personal information from your database (Customer Database), or if you delete your entire database, it is not immediately deleted from our backup systems, which are secured and inalterable. The personal data could remain stored for up to 12 months in those backups, until they are automatically destroyed.   
+As part of our [Security Policy](https://web.archive.org/es_ES/security), we always try to preserve your data from accidental or malicious deletion. As a result, after we delete any of your personal information (Account & Contact Data) from our database upon request from you, or after you delete any personal information from your database (Customer Database), or if you delete your entire database, it is not immediately deleted from our backup systems, which are secured and inalterable. The personal data could remain stored for up to 12 months in those backups, until they are automatically destroyed.   
 We commit not to use those backup copies of your deleted data for any purpose except for maintaining the integrity of our backups, unless you or the law require us to do so. 
 
 ## Transfer of Data
@@ -134,9 +143,11 @@ We commit not to use those backup copies of your deleted data for any purpose ex
 
 **Hosting Locations** : Customer databases are hosted in the Odoo data center closest to where they are based: Canada __, France __, Belgium __, Hong Kong or Taiwan. Customers can request that their data be moved to one of the other data centers.  
 **Backup Locations** : backups are replicated on multiple continents in order to meet our Disaster Recovery objectives, and are located in the following countries, regardless of the hosting location: Canada __and France __  
-For more details regarding our hosting services, see our [Cloud Hosting SLA](https://web.archive.org/cloud-sla). 
+For more details regarding our hosting services, see our [Cloud Hosting SLA](https://web.archive.org/es_ES/cloud-sla). 
 
 __: For Customers concerned about EU data protection regulation, countries with a __sign in the above lists are in EU or currently subject to an[adequacy decision from EU authorities](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en). 
+
+**In-App Purchase (IAP) Transaction Data:** You can find the detailed privacy policy for each service on the [IAP Privacy Policy __](https://iap.odoo.com/privacy)page.
 
 **International Staff**   
 In some cases, the personal data mentioned in this Privacy Policy may be accessed by staff members of Odoo SA subsidiaries in other countries. Such access will always be done for the same purposes and with the same privacy and security precautions as if it was done by our own local staff, so all the guarantees we provide still apply.  
@@ -151,7 +162,19 @@ Except as explicitly mentioned above, we do not sell, trade, or otherwise transf
 **Cookies** are small bits of information sent by our servers to your computer or device when you access our services, and unique to you. They are stored in your browser and later sent back to our servers so that we can provide contextual content. We use them to support your activities on our website, for example your session (so you don't have to login again) or your shopping cart.   
 Cookies are also used to help us understand your preferences based on previous or current activity on our website (the pages you have visited), your language and country, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
+  
 We also use third-party services such as Google Analytics, who set and use their own cookies to identify visitors and provide their own contextual services. For more information regarding those third-party providers and their Cookie Policy, please see the relevant references in the Third-Party Service Providers section.   
+
+
+  
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies, or look at the links below. 
+
+  * Chrome: <https://support.google.com/chrome/answer/95647?hl=en>
+  * Explorer: <https://support.microsoft.com/en-us/products/windows?os=windows-10>
+  * Safari: <https://support.apple.com/kb/PH21411>
+  * Firefox: <https://support.mozilla.org/products/firefox/cookies>
+  * Opera: <http://www.opera.com/help/tutorials/security/cookies/>
+
 
 
 We do not currently support Do Not Track signals, as there is no industry standard for compliance.
@@ -163,6 +186,6 @@ We may update this Privacy Policy from time to time, in order to clarify it, or 
 
 ## Contacting Us
 
-If you have are any question regarding this Privacy Policy, or any enquiry about your personal data, please reach out to the [Odoo Helpdesk](https://web.archive.org/help) or contact us at: 
+If you have are any question regarding this Privacy Policy, or any enquiry about your personal data, please reach out to the [Odoo Helpdesk](https://web.archive.org/es_ES/help) or contact us at: 
 
 Odoo S.A. - Data Protection Chaussée de Namur, 40 1367 Grand Rosière Belgium VAT: BE0477472701 
