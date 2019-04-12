@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231211850id_/https%3A//savingplaces.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412201653id_/https%3A//savingplaces.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Trust for Historic Preservation
 
