@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the losant.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003145402id_/https%3A//www.losant.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losant.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412191551id_/https%3A//www.losant.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
