@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waaytv.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912171704id_/http%3A//www.waaytv.com/content/news/451611393.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waaytv.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412233323id_/https%3A//www.waaytv.com/content/news/451611393.html) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy
 
