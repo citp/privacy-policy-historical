@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the timeoutchicago.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231065602id_/https%3A//www.timeout.com/chicago/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutchicago.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412045729id_/https%3A//www.timeout.com/chicago/privacy-policy) for the most accurate reproduction.*
 
-# Time Out Online Privacy Notice
+# Online Privacy Notice
 
-## Time Out
+## Time Out and Time Out Market
 
 ### TIME OUT ONLINE PRIVACY NOTICE
 
-Last updated: May 2018
+Last updated: April 2019
 
-Time Out ("we", "us", "our") respects your concerns about privacy. This Online Privacy Notice (the "Notice") applies to personal data we collect on [www.timeout.com](https://www.timeout.com/) (the "Site"). The Notice describes the types of personal data we obtain, how we use the personal data, and with whom we share it. We also describe the rights you may have and how you can contact us about our privacy practices.
+Time Out and Time Out Market ("we", "us", "our") respects your concerns about privacy. This Online Privacy Notice (the "Notice") applies to personal data we collect on [www.timeout.com](https://www.timeout.com/) and [www.timeoutmarket.com](https://www.timeoutmarket.com/) (the "Site"). The Notice describes the types of personal data we obtain, how we use the personal data, and with whom we share it. We also describe the rights you may have and how you can contact us about our privacy practices.
 
 The data controller is the organisation responsible for processing your personal information, collected through the Site. The identity of the data controller, will depend on your location. The following table sets out data controllers:
 
@@ -22,7 +22,13 @@ Singapore| Time Out Media Singapore PTE Ltd| [privacy@timeout.com](mailto:privac
 Portugal| Time Out Portugal LDA  
 MC – Mercados da Capital LDA| [privacy@timeout.com](mailto:privacy@timeout.com)  
 Spain| Time Out Media Spain SLU| [privacy@timeout.com](mailto:privacy@timeout.com)  
-US| Time Out America LLC| [privacy@timeout.com](mailto:privacy@timeout.com)  
+US| Time Out America LLC  
+Time Out Market (New York) LLC  
+Time Out Market (Miami) LLC  
+Time Out Market (Chicago) LLC  
+Time Out Market (Boston) LLC| [privacy@timeout.com](mailto:privacy@timeout.com)  
+Canada| Concept TOM Montreal Inc.  
+Time Out Market (Canada) Holdings Inc.| [privacy@timeout.com](mailto:privacy@timeout.com)  
   
   
 Please note that in some territories, third party franchisees run the sites and are the data controllers. For details of franchisee(s) and their sites, please consult the table at the end of this Notice. For more information, consult the franchisees’ privacy notice(s) and contact them directly.
@@ -40,14 +46,14 @@ We may collect personal data that you choose to provide to us through the Site, 
   * Sign-up to a feature that we offer on the Site and you provide your personal data in connection with that feature;
   * Attend an event that we or one of our business partners has organised;
   * Communicate with us (for example, on a social media platform or by sending us an email);
-  * Vote in Time Out awards, enter a competition, respond to a survey.
+  * Vote in Time Out and Time Out Market awards, enter a competition, respond to a survey.
 
 
 
   
 When you visit our Site, we also may collect certain information by automated means using technologies such as cookies, non-cookie-based tokens, web server logs, tracking pixels, and web beacons. Cookies are files that websites send to your computer or other Internet-connected device to identify your browser uniquely or to store information or settings in your browser. Your browser may tell you when you receive certain types of cookies and how to restrict or disable certain cookies. Please note, however, that without cookies, you may not be able to use all of the features of our Site and may not be able to purchase products that use a “shopping cart.” Non-cookie-based tokens are encoded URL-based identifiers that track e-mail click-thru activity or time-sensitive password reset keys and will work in scenarios where cookies are disabled or a session has not been initiated.
 
-Where permitted by law, we may acquire personal data about you from third parties. This may include personal data shared between Time Out affiliates and business partners, publicly-available profile information (such as your preferences and interests) on third party social media sites (such as Facebook and Twitter), and marketing lists acquired from third party marketing agencies.
+Where permitted by law, we may acquire personal data about you from third parties. This may include personal data shared between Time Out and Time Out Market affiliates and business partners, publicly-available profile information (such as your preferences and interests) on third party social media sites (such as Facebook and Twitter), and marketing lists acquired from third party marketing agencies.
 
 We may also collect personal data in other contexts that we will notify you of at the time.
 
@@ -59,9 +65,9 @@ Personal data that you provide directly to us will be apparent from the context 
 
   * If you register on the Site, to create a User Account, you will generally provide your full name, email address, city preferences, email subscription and communication preferences. Our legal basis for processing your personal data in this way is that processing is necessary for the performance of a contract to which you are a party;
   * If you sign up to receive electronic marketing communications from us, you will generally provide your name, email address and other contact information, and your product preferences. Our legal basis for processing your personal data in this way is your consent to such processing for this purpose which shall be requested when you sign-up to such newsletters;
-  * If you make any purchase(s) for example purchase of an Offer, or tickets for Time Out events, you will generally provide your full name, email address, telephone number, postal and billing address and payment details. Payments are processed by our payment provider Braintree, Paypal or BBVA to whom you will supply your payment details directly. We will not store your payment card information. Our legal basis for processing your personal data in this way is that processing is necessary for the performance of a contract to which you are a party.
-  * If you sign up to a feature on our Site, you will generally provide your name and contact information and any other information necessary to access the feature. Our legal basis for processing your personal data in this way is your consent to such processing which shall be requested as part of your compliance with the terms and conditions applicable to the feature;
-  * If you choose to vote in Time Out awards, enter a competition, or fill out a survey, you will generally provide your name, and email address. Our legal basis for processing your personal data in this way is your consent to such processing which shall be requested as part of your compliance with the terms and conditions applicable to such awards, competition, or survey;
+  * If you make any purchase(s) for example purchase of an Offer, or tickets for Time Out and Time Out Market events, you will generally provide your full name, email address, telephone number, postal and billing address and payment details. Payments are processed by our various payment providers whom you will supply your payment details directly. We will not store your payment card information. Our legal basis for processing your personal data in this way is that processing is necessary for the performance of a contract to which you are a party.
+  * If you sign up to a feature on our Site, you will generally provide your name and contact information and any other information necessary to access the feature. Our legal basis for processing your personal data in this way is your consent to such processing which shall be requested as part of your compliance with the terms and conditions applicable to the feature;
+  * If you choose to vote in Time Out and Time Out Market awards, enter a competition, or fill out a survey, you will generally provide your name, and email address. Our legal basis for processing your personal data in this way is your consent to such processing which shall be requested as part of your compliance with the terms and conditions applicable to such awards, competition, or survey;
 
 
 
@@ -120,7 +126,9 @@ To learn how to opt out of Google Analytics, visit: <https://tools.google.com/dl
 
 To learn how to opt out of Eloqua web analytics, visit: <http://www.eloqua.com/about/privacy/opt_status/>.
 
-To learn more about the cookies that Time Out uses on this Site, as well as to control your cookie settings on this Site, please read our [Cookie Policy](https://www.timeout.com/cookie-policy).
+To control the collection and use of Web viewing data for interest-based advertising and other applicable uses on your browser, by some or all of the participating companies, you can visit [http://optout.aboutads.info](http://optout.aboutads.info/)
+
+To learn more about the cookies that Time Out and Time Out Market uses on this Site, as well as to control your cookie settings on this Site, please read our [Cookie Policy](https://www.timeout.com/cookie-policy).
 
  ** _Other Uses of Information_**
 
@@ -150,7 +158,13 @@ Time Out Media Singapore PTE Ltd| Singapore
 Time Out Portugal LDA  
 MC – Mercados da Capital LDA| Portugal  
 Time Out Media Spain SLU| Spain  
-Time Out America LLC| US  
+Time Out America LLC  
+Time Out Market (New York) LLC  
+Time Out Market (Miami) LLC  
+Time Out Market (Chicago) LLC  
+Time Out Market (Boston) LLC| US  
+Concept TOM Montreal Inc.  
+Time Out Market (Canada) Holdings Inc.| Canada  
   
   
 We may share personal data with service providers that perform services on our behalf such as payment service providers, analytics providers, hosting providers and advisers. All service providers have entered into legally binding agreements requiring them to use or disclose personal data only as necessary to perform services on our behalf or comply with applicable legal requirements.
@@ -216,17 +230,32 @@ If you are located in the European Economic Area (“EEA”) or Switzerland, by 
 
 If you are located outside the EEA or Switzerland, by e-mail at: [privacy@timeout.com](mailto:privacy@timeout.com);
 
-In writing at:  
+In writing, for Time Out, at:  
 Customer Care  
 Time Out England Limited  
 77 Wicklow Street  
 London WC1X 9JY  
 United Kingdom
 
-You may also contact our Data Protection Officer in writing at:
+Or, for Time Out Market:  
+Customer Care  
+Time Out Market Limited  
+77 Wicklow Street  
+London WC1X 9JY  
+United Kingdom
+
+You may also contact our Data Protection Officer in writing, for Time Out, at:
 
 Data Protection Officer   
 Time Out England Limited  
+77 Wicklow Street  
+London WC1X 9JY  
+United Kingdom
+
+Or, for Time Out Market:
+
+Data Protection Officer   
+Time Out Market Limited  
 77 Wicklow Street  
 London WC1X 9JY  
 United Kingdom
@@ -241,12 +270,10 @@ China| SEEC Media| [http://beijing.timeoutcn.com](http://beijing.timeoutcn.com/)
 [http://shanghai.timeoutcn.com](http://shanghai.timeoutcn.com/)  
 [www.timeoutshanghai.com](http://www.timeoutshanghai.com/)  
 Croatia| Orso Plan d.o.o.| [www.timeout.com/croatia](https://www.timeout.com/croatia)  
-Cyprus| Dias Publishing| [www.timeoutcyprus.com](http://www.timeoutcyprus.com/)  
 GCC| ITP Media| [www.timeoutbahrain.com](http://www.timeoutbahrain.com/)  
 [www.timeoutdoha.com](http://www.timeoutdoha.com/)  
 [www.timeoutdubai.com](http://www.timeoutdubai.com/)  
 [www.timeoutabudhabi.com](http://www.timeoutabudhabi.com/)  
-Ghana| The Sloane Company| [www.timeout.com/accra](https://www.timeout.com/accra)  
 Israel| Yuval Sigler Media| [www.timeout.co.il](https://timeout.co.il/)  
 <http://timeout.co.il/en>  
 Japan| Original Inc| [www.timeout.jp/en/tokyo](http://www.timeout.jp/en/tokyo)  
@@ -256,6 +283,7 @@ Japan| Original Inc| [www.timeout.jp/en/tokyo](http://www.timeout.jp/en/tokyo)
 Malaysia| Mongoose Asia| [www.timeout.com/kuala-lumpur](https://www.timeout.com/kuala-lumpur)  
 [www.timeout.com/penang](https://www.timeout.com/penang)  
 Mexico| Museo Citadino S.A. De C.V.| [www.timeoutmexico.mx](http://www.timeoutmexico.mx/)  
+[www.timeout.com/mexico-city](http://www.timeout.com/mexico-city)  
 Russia| C Media| [www.timeout.ru](http://www.timeout.ru/)  
 [www.timeout.ru/spb](http://www.timeout.ru/spb)  
 Sri Lanka| BT Options| [www.timeout.com/sri-lanka](https://www.timeout.com/sri-lanka)  
