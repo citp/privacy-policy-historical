@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815225904id_/http%3A//www.gobananas.com/privacy-a-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412095625id_/http%3A//www.gobananas.com/privacy-a-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies - GoBananas
 
