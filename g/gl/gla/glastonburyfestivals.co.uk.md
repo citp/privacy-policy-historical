@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the glastonburyfestivals.co.uk privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731095805id_/https%3A//www.glastonburyfestivals.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glastonburyfestivals.co.uk privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412120735id_/https%3A//www.glastonburyfestivals.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Glastonbury Festival
 
-_Last updated 9 May 2018_
+_Last updated 3 April 2019_
 
 ****Glastonbury Festivals Limited (“GFL” – registered company number **02737866** ) and the event organisers, Glastonbury Festival Events Limited (“ **GFEL** ” – registered company number **04348175** ), hereafter referred to together as “the Festival”, are each committed to protecting your personal information.
 
@@ -12,6 +12,7 @@ This Privacy Policy relates to our use of any personal information we collect fr
   * The Glastonbury Festival registration site, hosted by See Tickets ([www.glastonburyregistration.co.uk](http://www.glastonburyregistration.co.uk/))
   * Glastonbury Festival official social media channels 
   * Emails sent via the Festival website contact form
+  * Data supplied to the Festival by crew and artists
 
 
 
@@ -30,7 +31,7 @@ This Privacy Policy explains the following:
 
 
 
-The Festival is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all applicable laws concerning the protection of personal information (including the Data Protection Act 1998, the General Data Protection Regulation, the Data Protection Bill – these laws are referred to collectively in this Privacy Policy as the “data protection laws”). No website can be completely secure; if you have any concerns that your data, please get in touch straight away.
+The Festival is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all applicable laws concerning the protection of personal information (including the Data Protection Act 2018, the General Data Protection Regulation, the Data Protection Bill – these laws are referred to collectively in this Privacy Policy as the “data protection laws”). No website can be completely secure; if you have any concerns that your data, please get in touch straight away.
 
 We have implemented generally accepted standards of technology and operational security in order to protect personal data from loss, misuse, or unauthorised alteration or destruction.  We will notify you promptly in the event of any breach of your personal data which might expose you to serious risk.
 
@@ -68,11 +69,17 @@ Registration is open to anyone aged 13 or over, however if you are aged 15 or un
 
 ## **DATA RETENTION**
 
-We will hold your personal information on our systems for as long as is necessary for the relevant activity. 
+We will hold your personal information on our systems for as long as is necessary for the relevant activity, as outlined in the privacy statement for each specific data process.
 
 As an annual event, we recognise that just because you have not used your registration details to purchase a ticket in one year, does not mean you have no intention of using your registration to purchase a ticket in future. 
 
-If you no longer wish to be registered to apply for tickets for the Festival you may delete your registration at any time (as long as you do not have a current booking). 
+If you no longer wish to be registered to apply for tickets for the Festival you may delete your registration at any time (as long as you do not have a current booking).
+
+## CREW AND PERFORMER DATA
+
+Whether you are volunteering as a steward, or headlining the Pyramid Stage, you or your representatives will be required to supply a certain amount of personal data in order for the Festival to fulfil your contract, supply your accreditation, or contact you in case of an emergency. The personal information provided as part of the Glastonbury Festival artist and crew advancing processes will be stored and processed by the respective area of the Festival you are working/performing at, and by the Festival’s central functions for passes and finance administration. Where the data may be processed by a third party processor on the Festival’s behalf, this will be outlined in the specific area’s privacy statement. The personal data you supply will be retained for a maximum of 5 Festival cycles before being securely deleted. Your information will never be shared with or sold to other third parties.
+
+In addition to the basic information provided in order to fulfil our contractual obligations, we will also use some of the personal data provided by artists to compile our line up listings. This will include the performer’s name and social media handles (if they have a public profile). The line-up listings are shared with third party companies, such as our media partners (BBC, EE and The Guardian, as well the companies who process data on their behalf) in order to publish line-up information across their platforms; as well as being publicly available on the line-up page of the Festival website. We believe this is in the legitimate interest of both the Festival and the artists performing at the Festival, as artists derive a benefit from being featured across these platforms, however any artist who wishes to have their information removed from or amended on these listings, has the right to deletion or rectification, as described in ‘YOUR RIGHTS’ below.
 
 ## **NEWSLETTER**
 
