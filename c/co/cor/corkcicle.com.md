@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corkcicle.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228233444id_/https%3A//corkcicle.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corkcicle.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412164439id_/https%3A//corkcicle.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – CORKCICLE.
+# Corkcicle | Privacy Policy – CORKCICLE.
 
 Hewy Wine Chillers, LLC (“CORKCICLE”) is committed to respecting the privacy of all visitors to our Web site. The following policy describes how we collect, protect and use information we receive. If you have any questions about our Privacy Policy, our use of your information, or if you would like to change how we communicate with you, email [info@corkcicle.com](mailto:info@corkcicle.com)
 
