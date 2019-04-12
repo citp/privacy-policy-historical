@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanpropertycentral.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814123811id_/http%3A//japanpropertycentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanpropertycentral.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412191548id_/http%3A//japanpropertycentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – JAPAN PROPERTY CENTRAL
 
