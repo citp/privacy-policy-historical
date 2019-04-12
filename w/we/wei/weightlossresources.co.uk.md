@@ -1,119 +1,255 @@
-> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921060434id_/http%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412054006id_/https%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
 
-# Privacy and Security - Weight Loss Resources
+# Privacy and Cookies Policy - Weight Loss Resources
 
-### Updated 26.05.2016
+**This policy was last updated 26th May 2018 and further changes will be communicated by updating this page**
 
-## Privacy Promise
+## Who We Are
 
-We have the utmost respect for your personal information. Rigorous security procedures ensure the safety of your data, and our privacy promise means that you don't have to worry about your details being passed on.
+Weight Loss Resources Ltd (wlr) is a company registered in the United Kingdom, owner of this website www.weightlossresources.co.uk - our full contact details are at the bottom of this page.
 
-We will not sell, rent or pass on any of your personal data to any third party.
+At wlr, we are committed to maintaining the trust and confidence of our members, subscribers and visitors to our web site. In particular, we want you to know that wlr does not sell, rent or trade email lists or any other contact information with other businesses for marketing purposes.
 
-Please note: If you post a message on the Boards in Members Forum or visit the Chat Room your USER ID will be visible to other members.
+We've tried to make this privacy policy as easy to use as possible whilst providing you with enough detail to ensure you are fully informed. If you have any questions about this policy or any other privacy issues, please contact helpteam@weightlossresources.co.uk we'll be happy to help.
 
-## Overview
+## Information we collect and why
 
-Weight Loss Resources is committed to protecting your privacy and the security of any personal information you submit whilst using the site. The information you supply is stored securely on our computers in the UK. We will not pass your email address, contact details or any other information which identifies you to third parties. We comply fully with the UK Data Protection Act.
+### Members
 
-This Policy applies to our use of any and all Data collected by us in relation to your use of Weight Loss Resources site and any Services or Systems therein.
+When you sign up to become a member of wlr (either a free trial or paid membership), you are entering into a contract with us.
 
-### 1\. Definitions and Interpretation
+In order that we can provide you with the service we will ask you to provide some personal information such as;
 
-In this Policy the following terms shall have the following meanings:
+  * Full Name
+  * Age
+  * Weight and height
+  * Sex
+  * Email address
 
-#### "Account"
 
-means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;
 
-#### "Content"
+If you become a paid member we will collect further information such as:
 
-means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
+  * Postal Address
+  * Telephone Number
+  * Payment card details
 
-#### "Cookie"
 
-means a small text file placed on your computer by Weight Loss Resources when you visit certain parts of this Web Site. This facilitates easy navigation within the Web Site and allows us to populate your basket and to analyse visitors' browsing habits within the Web Site;
 
-#### "Service"
+In order to undertake service personalisation, we will also gather information about the device(s) you use to access our site, and some of the pages you visit. For further information on our use of cookies and tracking please see our Cookie Policy below.
 
-means collectively any online facilities, tools, services or information that Weight Loss Resources makes available through the Web Site either now or in the future;
+Throughout your membership we will collect information related to your weight and use of the wlr tools in order for you to use the tools effectively, and to help you reach and/or maintain your weight goals.
 
-#### "Web Site"
+### Shop Customers
 
-means the website that you are currently using (www.weightlossresources.co.uk) and any sub-domains of this site unless expressly excluded by their own terms and conditions.
+When you order goods from wlr shop you are entering in to a contract with us.
 
-### 2\. Data Collected
+In order that we can provide with your products we will ask you to provide personal information such as:
 
-Without limitation, any of the following Data may be collected:
+  * Full name
+  * Postal address
+  * Email address
+  * Telephone number
+  * Payment card details
 
-2.1 name;
 
-2.2 gender;
 
-2.3 contact information such as email addresses and telephone numbers;
+We use cookies to collect information on the device you are using, to make your shopping basket work, and some of the pages that you visit on our site. This means that if you do return and subscribe or become a member at a future date we may use information stored in cookies we have set as part of the personal information we collect. For further information on our use of cookies and tracking please see our Cookie Policy below.
 
-2.4 demographic information such as post code, preferences and interests;
+### Subscribers
 
-2.5 financial information such as credit / debit card numbers - although we do not store payment information once a transaction has been completed;
+If you only subscribe to our newsletter, or other communications, the personal information we collect is limited to:
 
-2.6 IP address (automatically collected);
+  * First name
+  * Email address
+  * Some of the pages you visited on our website. For further information on our use of cookies and tracking please see our Cookie Policy below.
 
-2.7 web browser type and version (automatically collected);
 
-2.8 operating system (automatically collected);
 
-2.9 a list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected); and
+This information allows us to provide the communication you requested, and helps us personalise these communications. You can opt out of receiving these communications at any time and the opportunity to do this is included with all these communications.
 
-2.10 Cookie information
+### Visitors
 
-### 3\. Our Use of Data
+If you only vist our website and don't become a subscriber or member we don't collect any personal data from you, however we do use cookies to collect information on the device you are using and some of the pages that you visit on our site.
 
-3.12 Any personal Data you submit will be retained by Weight Loss Resources for as long as you use the Services and/or Systems provided on the Web Site.
+This means that if you do return and subscribe or become a member at a future date we may use information stored in cookies we have set as part of the personal information we collect.
 
-3.13 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. This does not include other companies within our group.
+For further information on our use of cookies and tracking please see our Cookie Policy below.
 
-3.14 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 6 below.
+### Combination of wlr services you have used
 
-3.15 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
+Many wlr users have used more than one of the above services. In this case we will try to gather your information into one 'client record'.
 
-3.15.1 internal record keeping;
+Only information collected directly by wlr, as described above, is used to compile this record. We do not collect personally identifiable information about you from other sources.
 
-3.15.2 improvement of our products / services;
+The purpose of gathering this information together is to provide appropriate service and support and to maintain the integrity and accuracy of our database and to help prevent duplication, particularly of communications.
 
-3.15.3 transmission by email of promotional materials that may be of interest to you;
+## How we use your information
 
-3.15.4 contact for administration purposes which may be done using email, telephone, or mail
+In line with the General Data Protection Regulation (GDPR) we must have a legal basis for processing your personal information. The legal bases we rely on at wlr are:
 
-### 4\. Third Party Web Sites and Services
+**Contract** \- your personal information is processed in order to provide services and/or goods to you.
 
-Weight Loss Resources may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that Weight Loss Resources requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
+**Consent** – where you have not entered into a contract with us but agree to us using your information to provide you with communications from us such as our newsletter.
 
-### 5\. Changes of Business Ownership and Control
+**Legitimate Interests** \- this means the interests of wlr in managing our business to allow us to provide users with the best services and products we can in the most secure and appropriate way, and to attract and retain customers.
 
-Weight Loss Resources may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
+**Legal Obligation** – where there is statutory or other legal requirement to share the information e.g. when we have to share your information for law enforcement purposes.
 
-### 6\. Security
+Here is a list of the ways that we may use your personal information, and which of the reasons described above we rely on to do so. Where we list legitimate interests as a reason, we also give a brief description of what the legitimate interests are.
 
-6.20 Data security is of great importance to Weight Loss Resources and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
+Purpose of Using Information | Legal Basis | Description of Legitimate Interests  
+---|---|---  
+Provide wlr membership service | Contract | n/a  
+Process membership packs and/or orders | Contract | n/a  
+Notify you of your membership details and status | Contract / Legitimate Interests | Helping you to use wlr and make the best of your wlr membership  
+Notify you of order status | Contract / Legitimate Interests | Keeping you informed, ensuring efficient service  
+Provide customer service | Contract / Legitimate Interests | Handling customer service effectively, keeping records up to date  
+Website personalisation and administration | Legitimate Interests | Developing services and applications that attract and retain customers. Improving user interface and functionality of our site  
+Marketing communications to inform you of promotions Provide you with online advertising | Legitimate Interests | Attracting and retaining customers, improving interaction with our site  
+Notifying you about enhancements to our services, such as changes to the website and new services that may be of interest to you. | Legitimate Interests | Developing services and applications that attract and retain customers. Improving user interface and functionality of our site  
+Contact you to undertake customer satisfaction surveys, invite you to provide product reviews or for market research. | Legitimate Interests | Developing products, services and applications that attract and retain customers, Improving interaction with our site  
+Maintaining network and data security | Legal Obligation / Legitimate Interests | To maintain the security of our network and the safety and confidentiality of personal information.  
+Demand forecasting, management information and research | Legitimate Interests | We use information about products bought and volumes, to help us to plan for supplying demand, and develop products  
+  
+## Who we share your information with and why
 
-### 7\. Cookies
+We work with a number of trusted suppliers and businesses in order to provide goods and services. The categories of third parties with whom we share your data are:
 
-Weight Loss Resources may set and access Cookies on your computer.
+**Delivery Companies** \- In order for you to receive your goods, we work with a number of delivery companies. We only pass enough information to them to facilitate delivery of your items.
 
-7.21 A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.
+**IT Companies** \- we work with business who support our website and other business systems.
 
-7.22 You may delete Cookies, however you may lose any information that enables you to access the Web Site more quickly.
+**Payment processing** \- we work with trusted payment processing providers in order to securely take and manage payments
 
-7.23 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser.
+## Changes of business ownership and control
 
-### 8\. Marketing
+Weight Loss Resources may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties.
 
-The Weight Loss Resources website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Weight Loss Resources website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
 
-You can set preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/u/0/ads), and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
+## How long we keep your information
 
-### 9\. Changes to this Policy
+As a paid member, all the information we hold for you will be kept for up to 24 months after your last interaction with us. During this period your information is retained so that you can reactivate your membership with your historical information if you choose to.
 
-Weight Loss Resources reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
+For all members, customers and subscribers, information in your client record (as described above) including a history of any financial transactions will be kept for 7 years after your last interaction with us.
 
-© Simply-docs - TR.WEB.TC.18 Website Privacy Policy
+## Your rights with regard to your personal information
+
+You are entitled to request the following from wlr, these are called your Data Subject Rights and there is more information on these on the Information Commissioners website www.ico.org.uk
+
+**Right of access** – to request access to your personal information and information about how we process it
+
+**Right to rectification** – to have your personal information corrected if it is inaccurate
+
+**Right to erasure** (also known as the Right to be Forgotten) – to have your personal information erased.
+
+**Right to restriction of processing** – to restrict processing of your personal information
+
+**Right to data portability** \- to electronically move, copy or transfer your personal information in a standard form
+
+**Right to object** \- to object to processing of your personal information
+
+You have the right to lodge a complaint with a data protection regulator in Europe. The contact details for the Information Commissioner’s Office (ICO), the data protection regulator in the UK, are available on the ICO website www.ico.org.uk However, we encourage you to contact us with any concerns you have and we will try to resolve any issues.
+
+If you have any general questions about your rights, or want to exercise your rights, please contact helpteam@weightlossresources.co.uk
+
+## Cookie Policy
+
+This policy is designed to help you understand what cookies are, how wlr uses them and the control you have over their use.
+
+By continuing to use www.weightlossresources.co.uk you are agreeing to our use of cookies in the manner described in this notice.
+
+## What are cookies?
+
+Cookies are small text files that are stored on your browser or the hard drive of your computer or other device when you visit the Site. This allows the Site to recognise you as a user either for the duration of your visit (using a ‘session cookie’) or for repeat visits ( a ‘persistent cookie’). They are not harmful and do not contain any information such as your home address, date of birth or credit card details.
+
+The cookies we use fall into four broad types:
+
+**Strictly Necessary Cookies**
+
+These cookies are essential in helping you to move around the wlr site and use its features. Without these cookies, the tools and services on wlr would not work correctly . These cookies do not gather information about you that could be used for marketing.
+
+**Analytical/Performance Cookies**
+
+In order to keep the Site, its services and products relevant, easy to use and up-to-date, we use web analytics services to help us understand how people use our Site. For example, we can see which parts of the Site and products are most popular, identify when errors occur, and test different versions of a page or feature to see which one works best.
+
+**Functionality Cookies**
+
+These cookies allow websites and applications to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. The information these cookies collect is usually anonymised which means we can't identify you personally. They do not gather any information about you that could be used for selling advertising or remembering where you've been on the internet, but do help us to serve you with advertising that is more relevant to you.
+
+**Targeted Marketing Cookies - Public Website Only**
+
+(These cookies are not used in the members only (logged-in) areas of the site - and we do not carry any third party advertising on logged-in pages.)
+
+In public areas of our site we use cookies to assist in targeted advertising. Without these cookies, online advertisements you encounter will be less relevant to you and your interests. We also use them to measure the effectiveness of our marketing communications, for example by telling us if you have responded to an advert that we have sent you.
+
+If you would like more information on any of these types of Cookies, including how to opt-out, please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+
+## What do we use Cookies for?
+
+They enable you to use wlr tools and shop and enable wlr to give you a personalised web experience.
+
+  * To allow you to securely sign in to your wlr account.
+  * To recognise the device that you are using.
+  * To store the content of your online shopping bag whilst you browse the site and to complete an order.
+  * To record the areas of the wlr site that you have visited. We use this information to help make the website more user friendly and to continuously improve the quality of the service we provide.
+  * To distribute visitors to wlr evenly across our servers to ensure the content is served at the fastest possible speed.
+  * For re-marketing purposes to determine relevant related products to show you when you're browsing on other selected websites. These cookies can be associated with services provided by a third party such as an advertising network.
+
+
+
+We also offer you the facility to share your experience on wlr through social media sites such as Facebook. By using these features, you are consenting to allow cookies from these providers. More information about how these providers use cookies can be found at their websites.
+
+Cookies are an essential part of how the wlr site works, as they remember certain information about a visitor. We use First Party cookies (these are placed there and used solely by wlr) and Third Party cookies (these are placed there by third parties we work with).
+
+## Are cookies safe?
+
+Yes. The information stored in cookies is safe and anonymous to any external third party, and your account security is never compromised. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.com](http://www.youronlinechoices.com/). For a video about cookies visit [www.google.com/intl/en-GB/policies/technologies/cookies/](https://policies.google.com/technologies/cookies?hl=en-GB)
+
+## Can I turn off cookies?
+
+Yes – but if you choose not to allow the use of cookies, your experience of our Site will be limited and many integral aspects of the Site, including (but not limited to) adding items to your shopping bag and accessing your account, will not work at all.
+
+To change your cookie settings, or if you want to be notified each time a cookie is about to be used, you should amend the settings provided in your web browser to prevent us from storing cookies on your computer hard drive.
+
+For information on how to disable cookies, please consult the "Help" tab of your browser via the menu bar. For further information on non-essential cookies used for targeting and banner advertising please see below.
+
+Details of our Third Party Cookies
+
+wlr allows selected Third Parties who participate with us in marketing programs to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site.
+
+For details of the Third Party cookies we use please see the table below. wlr is not responsible for the content or privacy policies of Third Parties or other websites, and we advise that you check these yourself.
+
+The following Cookies are all used for Analytical and Targeting purposes:
+
+  * Google Analytics
+  * Bing Ads
+  * DoubleClick
+  * GA Audiences
+  * Facebook Custom Audiences
+  * Google Adsense (for more information on Google cookies see <https://policies.google.com/technologies/partner-sites?gl=uk> )
+
+
+
+## Opting Out
+
+Website visitors who don’t want their data used by Google Analytics can install the Google Analytics opt-out browser add-on. To opt-out of Analytics for the web, visit the Google Analytics opt-out page and install the add-on for your browser. Learn more about the opt-out and how to properly install the browser add-on [here](https://support.google.com/analytics/answer/181881?hl=en-GB).
+
+Visitors can also opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://adssettings.google.com/authenticated)
+
+## Our Contact Details
+
+You can contact us with questions about privacy or to to exercise any of your personal information rights in the following ways:
+
+Email: helpteam@weightlossresources.co.uk
+
+Telephone: 01733 345592 (Monday to Friday 8am - 6pm)
+
+Post: Weight Loss Resources, 2C Flag Business Exchange, Vicarage Farm Road, Peterborough, PW1 5TX
+
+## [Start a Free Trial Today ](https://web.archive.org/v2/trial.htm)
+
+Weight Loss Resources provides tools and information to control your weight by getting your calorie balance right and learning what suits you. You can [take a free trial](https://web.archive.org/v2/trial.htm) to access the databases, food diary and tools
+
+[Take our FREE trial »](https://web.archive.org/v2/trial.htm)
