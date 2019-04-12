@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefoat.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819094547id_/https%3A//www.thefoat.com/fa/company-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoat.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413010851id_/https%3A//www.thefoat.com/fa/company-privacy_policy) for the most accurate reproduction.*
 
-# TheFOAT: Auto Classifieds, Motor Social Network, Photos, Videos
+# TheFOAT: Online ticketing, car show registration, racer registration
 
 ### Privacy Policy
 
@@ -45,4 +45,4 @@ When your account is cancelled (either voluntarily or involuntarily) all of your
 
 Ticket purchases through The FOAT Ticket Service are secured and protected by Godaddy and Authorize Net. We do not share your credit card information with the event organizers. We only share your contact information (not credit card information) with the event organizer when you purchase a ticket or tickets to their event. You agree The FOAT shall not be responsible or liable for any loss or damage of any sort incurred as the result of the dissemination of your contact information to event organizer. 
 
-Copyright 2006-2018 TheFOAT.com
+Copyright 2006-2019 TheFOAT.com
