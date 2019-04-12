@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountelectronics.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728225222id_/https%3A//www.discountelectronics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountelectronics.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412224029id_/https%3A//www.discountelectronics.com/privacy) for the most accurate reproduction.*
 
 # Discount Electronics Privacy Policy
 
