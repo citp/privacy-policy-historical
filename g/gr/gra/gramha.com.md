@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gramha.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624235615id_/http%3A//gramha.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gramha.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412041503id_/http%3A//gramha.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy gramha.com
 
