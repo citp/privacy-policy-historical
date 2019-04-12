@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsawacademy.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009024113id_/https%3A//www.jigsawacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsawacademy.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412170646id_/https%3A//www.jigsawacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Jigsaw Academy
 
