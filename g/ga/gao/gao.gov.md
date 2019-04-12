@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230150055id_/https%3A//www.gao.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412233156id_/https%3A//www.gao.gov/privacy-policy) for the most accurate reproduction.*
 
 # U.S. GAO - Privacy Policy
 
