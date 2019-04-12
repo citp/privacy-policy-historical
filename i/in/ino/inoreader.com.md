@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inoreader.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216220123id_/https%3A//www.inoreader.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inoreader.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412093552id_/https%3A//www.inoreader.com/privacy_policy) for the most accurate reproduction.*
 
 # Inoreader • Privacy Policy
 
@@ -74,7 +74,7 @@ If you are not happy with any aspect of how we collect and use your data, you ha
 We may have to share your personal data with the parties set out below: 
 
   * Service providers who provide IT and system administration services.
-  * Professional advisers including lawyers, bankers, auditors and insurers
+  * Pro advisers including lawyers, bankers, auditors and insurers
   * Government bodies that require us to report processing activities.
 
 
