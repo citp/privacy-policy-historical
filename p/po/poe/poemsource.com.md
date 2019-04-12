@@ -1,57 +1,190 @@
-> *The following text is extracted and transformed from the poemsource.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513203710id_/http%3A//www.poemsource.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemsource.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412135120id_/https%3A//www.poemsource.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Poemsource.com Privacy Policy
 
-In order to place Google AdSense ads on our site, we must have a privacy policy in place. This is our Privacy Policy to comply with Google's requirements.   
+At PoemSource.com we are dedicated to protecting your data and privacy.
+
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use PoemSource.com, as well as some of the steps we take to safeguard information. This will help you make an informed decision about sharing personal information with us.
+
+PoemSource.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers' and online visitors' privacy on our website.
+
+## About Our Cookies
+
+A cookie is a string of information that PoemSource.com stores on your computer, which your browser provides to PoemSource.com each time you return to the site. We use cookies to help us identify and track visitors, their use of our website, and their website access preferences.  
 
 
-Poemsource.com collects no personal information about you, nor does Poemsource.com place cookies or Web beacons on your site. Poemsource.com does not operate any information gathering technology whatsoever nor gather any personal information.
+## Google Analytics Cookies
 
-Of course, if you voluntarily give us your e-mail address or phone number or other contact information with a request to contact you or give us another reason to have that information, then we will possess it and keep it, but we do not collect or take any information from you without your knowledge and consent.
+PoemSource.com uses Google Analytics to analyze the use of this website. Google Analytics collects demographic and interest data, and generates statistical and other information about website use, by means of cookies. These cookies are kept on your computer. 
 
-The only personal information that Poemsource.com ever collected was e-mail addresses that were voluntarily entered into the form that used to exist on each poem page (but no longer does) to subscribe visitors to our newsletter. We have kept that list but are not adding to it. We would only use those e-mail addresses to notify those already on the list of new poems or other writings we may (or may not) do. We would not use the list for any other purpose, nor would we sell it or reveal it to anyone else for any purpose, unless required to do so by law.
+We share this information with Google, which will store and use this information on its servers. Google's privacy policy is available at: <https://policies.google.com/privacy>.
 
-However, we use Google AdSense and third-party advertising companies that partner with Google to serve ads when you visit our Web site. Both Google and these Google third-party advertising company partners collect information about your interests by placing and reading cookies on your browser, or using Web beacons to collect information in the course of ads being served on Poemsource.com. Some third-party advertisements provided by Google use the DoubleClick cookie to serve ads to users based on their visits to sites on the Web.
+PoemSource.com uses information from Google Analytics to track the number of visits to the website, browsers and operating systems. No personally identifiable information is obtained from these cookies. We use the information that Google Analytics generates relating to our website to create reports about the use of the site. These reports allow us to update the site and improve your usage of it.
 
-Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable Google and other advertisers to recognize your browser.
+If you do not wish your data to be collected via Google Analytics, you can install its opt-out browser extension or add-on... [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout/)  
 
-A Web beacon is a transparent image file used to monitor your journey around a single Web site or collection of sites. They are also referred to as Web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a Web site.
 
-Cookies and Web beacons can enhance your Web surfing experience by presenting ads or information of interest to you based on your browsing history--what sites and pages you've chosen to visit in the past, for example. What they CANNOT do is personally identify you or connect you with the browsing history that they collect from you as you click around the Poemsource.com site and other sites you visit. Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override Web beacons.
+## Advertising Cookies
 
-Google and their third-party advertiser partners may use this information (which does NOT including your name, address, email address, or telephone number) about your visits to Poemsource.com and other Web sites in order to provide advertisements about goods and services based on your interests as revealed by your Web browsing history.
+We use third-party advertising companies to serve ads on our website. These are:
 
-The DoubleClick cookie is used by Google in the ads served on the Web sites of its partners, such as Web sites displaying AdSense ads or participating in Google certified ad networks. When users visit the Poemsource.com Web site and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help provide ads of interest to the visitors to Poemsource.com.
+Google Adsense who also deliver these providers; <https://support.google.com/adsense/answer/9012903>
 
-You may opt out of the use of the DoubleClick cookie by visiting the [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+and   
+[MediaNet  
+](http://www.medianet.com.au/privacy-policy/)[Sovrn](https://www.sovrn.com/privacy-policy/). There may be some providers that Sovrn uses that are not included in the Google List above.  For a full list, please [review this page](https://www.sovrn.com/dbm-vendor-whitelist/).   
 
-You may also opt out of interest-based ads [at this site](http://www.aboutads.info/choices/).
 
-For opting out of just Google interest-based ads, [go here](https://support.google.com/ads/answer/2662922?hl=en).
+These companies use cookies and web beacons in their ads to ascertain how many times you've seen an advertisement. We share this information with these companies, but do not provide them with any personally identifiable information for cookie or web beacon use, so they cannot personally identify you with that information from our website.
 
-[Here's more information about how Google uses advertising cookies](http://www.google.com/policies/technologies/ads/).
+[AdThrive](https://www.adthrive.com/)  
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.  
 
-[You can see Google's own Privacy Policy here](http://www.google.com/intl/en/policies/privacy/).
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-Also, you can set your Internet Explorer browser to delete your browsing history, including cookies, whenever you exit
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.  
 
-In addition, you may or may not find the following ad networks serving ads at Poemsource.com:  
-[  
-NetSeer.com](http://www.netseer.com/)
+For European Economic Area Residents
 
-[Chitika.com](http://www.chitika.com/)  
-[  
-Advertising.com](http://advertising.com/)
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at  **infoah@poemsource.com  **and contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
 
-Use the universal opt-out sites listed above (excluding the one that says "For opting out of just Google...") to opt out of these and all interest-based ads.
+ _You may opt out of personalized ads for over 125 different ad networks._ [For 'How To' info, click here](http://optout.networkadvertising.org/?c=1#!/).
 
- **Children's Online Privacy Protection Act**  
-This Web site is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
+## Opting Out Of Google Ads
 
-Poemsource.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+Some third-party advertisements are served by Google. Google's cookie enables it to serve ads to our visitors based on their visits to other sites on the Web. You may opt out of personalized ads by visiting the [Google ad opt-out page.](https://adssettings.google.com/authenticated)  (NB: Google has country-specific versions of this URL, so use the one for your country or region.)  
 
- **Agreeing to Terms**
 
-If you do not agree to Poemsource.com’s Privacy Policy as posted here, please do not use this site or any services offered by this site.
+## Affiliate Products And Services
 
-Your use of this site indicates acceptance of this privacy policy. 
+We receive an affiliate commission for some of the products sold on PoemSource.com
+
+We use Amazon as an affiliate services platform.
+
+By clicking on a product or service link, you consent to that platform's use of cookies, as outlined in the link below.
+
+Read the [Amazon Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=508088).
+
+## Refusing Cookies
+
+You can set your browser to accept or refuse all cookies automatically, or notify you when a cookie is being requested. Taking this action should not cause a problem with the continued use of our site. Consult the Help section of your browser for guidance on how to refuse all cookies or to notify you when a cookie is requested.
+
+If you choose to refuse PoemSource.com’s cookies, you may not be able to fully experience the interactive features of the site.
+
+## Personally Identifiable information
+
+PoemSource.com may collect and use your personal information for the following purposes:
+
+• To run and operate our site.
+
+• To display content on the site correctly.
+
+• To improve customer service.
+
+• To help us respond to your customer service requests and support needs more efficiently.
+
+• To personalize your user experience.
+
+• To understand how our users as a group use the services and resources provided on our site.
+
+• To improve our site.
+
+• To improve our products and services.
+
+• To run a promotion, contest, survey or other site feature.
+
+• To send information to you that you agreed to receive about topics we think will be of interest to you.
+
+• To send periodic emails, which may include electronic newsletters and/or autoresponder series of emails.
+
+• To respond to your enquiries, questions, and/or other requests.
+
+PoemSource.com may collect personally identifiable information from you in a variety of ways, including, but not limited to, when you visit our site, register on the site, or fill out a form, and in connection with other activities, services, features or resources we make available on our site.
+
+## Submitting Content
+
+If you submit content to us, we will ask for your name and email address. Photos you include with your submission, or details in your submission, may personally identify you.
+
+If you request to be notified about comments on any content you submit to us, or request to be notified when others submit content, we will require your first name and your email address.
+
+## Social Connections
+
+This site lets you share content with your friends and followers on various social media platforms. 
+
+Below are links to the privacy policies of:
+
+[Facebook](https://www.facebook.com/policy.php)  
+[Twitter](https://twitter.com/en/privacy)  
+[Google Plus](https://policies.google.com/privacy)  
+[Pinterest](https://policy.pinterest.com/en/privacy-policy)  
+[Tumblr](https://www.tumblr.com/privacy)  
+[Reddit](https://www.redditinc.com/policies/privacy-policy)
+
+### You Have The Choice To Refuse 
+
+You can always refuse to supply personally identifiable information and visit our site anonymously. However, it may prevent you from engaging in certain site-related activities.
+
+If we make material changes in the collection of personally identifiable information, we will inform you by placing a notice on our site. We will use personal information received from you for internal purposes only and will not sell it or provide it to third parties.
+
+We also collect each visitor's IP address, which helps us combat spam and fraud. We do not use IP addresses for any other purpose.
+
+PoemSource.com contains links to other websites that may be of interest to you. However, once you have used them to leave our site, we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information you provide while visiting such sites. These sites are not governed by this privacy statement. Always exercise caution by reviewing the privacy statement of the website in question before continuing to use it.
+
+## Non-Personally Identifiable Information  
+
+
+We may collect non-personally identifiable information about you whenever you interact with our site.
+
+Non-personally identifiable information may include the browser name, the type of computer and technical information about your method of connecting to our site, such as the operating system and the Internet service provider you used, and other similar information.  
+
+
+## Children's Privacy Protection  
+
+
+This website is directed to adults. It is not directed to children under the age of 16. We operate our site in compliance with current regulations. Anyone under the age of 16 must provide parental consent to use this site. We do not knowingly collect or use personally identifiable information from anyone under 16 years of age.  
+
+
+## Release of Information  
+
+
+If we sell PoemSource.com the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale so that the service provided to you may continue.
+
+In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make.  
+
+
+## Data Storage
+
+Personally identifiable information and non-personally identifiable information collected by this site is stored on our host's servers.
+
+That host is SiteSell Inc., located at 1000 Saint-Jean Boulevard, Suite 702, Pointe-Claire, QC H9R 5P1 Canada.  
+
+
+## How You Can Correct or Remove Information  
+
+
+We provide this privacy policy as a statement to you of our commitment to protect your personally identifiable information.
+
+If you have submitted personally identifiable information through our website and would like to download and review that information, [click on this link](https://www.poemsource.com/gdpr-review.html). 
+
+You can also request to edit or delete any of your information from the servers by [clicking on this link](https://www.poemsource.com/gdpr-request.html).
+
+## Updates and Effective Date  
+
+
+PoemSource.com reserves the right to make changes in this policy.
+
+If there is a material change in our cookie and privacy practices, we will indicate on our site that those practices have changed and provide a link to the updated privacy policy.
+
+We encourage you to periodically review this policy so that you will know what information we collect and how we use it.  
+
+
+## Agreeing to Terms  
+
+
+If you do not agree to PoemSource.com's Privacy Policy as posted here on this website, please do not consent to the setting of cookies and the collection and storage of your personally identifiable information.
+
+Your explicit consent indicates acceptance of this privacy policy in its entirety.
+
+Last updated: November 22, 2018.
+
+[ Home](https://www.poemsource.com/) > Privacy Policy
