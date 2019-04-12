@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprisetimes.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229212241id_/https%3A//www.enterprisetimes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisetimes.co.uk privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412164929id_/https%3A//www.enterprisetimes.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Enterprise Times
 
