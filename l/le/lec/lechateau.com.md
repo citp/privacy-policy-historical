@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lechateau.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906045648id_/https%3A//www.lechateau.com/style/company/links/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lechateau.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412135534id_/https%3A//www.lechateau.com/style/company/links/privacy.jsp) for the most accurate reproduction.*
 
 # LE CHÂTEAU
 
