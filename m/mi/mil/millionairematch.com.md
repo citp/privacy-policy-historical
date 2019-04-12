@@ -1,109 +1,239 @@
-> *The following text is extracted and transformed from the millionairematch.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730061530id_/https%3A//millionairematch.com/privacy_policy_) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairematch.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413010017id_/https%3A//millionairematch.com/privacy_policy_) for the most accurate reproduction.*
 
 # Privacy Policy - MillionaireMatch
 
-### SuccessfulMatch.com Privacy Policy
+### Privacy Policy
 
-Last Updated April, 2017
+**Last Revised:** December 20, 2018
 
-#### This Privacy Policy is a Legal Agreement
+This Privacy Policy: (i) identifies how we use the Personal Data (defined below) you provide us and (ii) informs you of what choices you have with respect to our use of your Personal Data. Please contact us with any questions you have about this Privacy Policy at the e-mail address in the Contacting Us section below.
 
-This Privacy Policy ("Policy") is a legal agreement between you and SuccessfulMatch.com ("SM.com"), the owner and provider of the MillionaireMatch.com("MM.com") website. MM.com is a trade name for SM.com. This Policy is governed by and part of a Service Agreement. Please read this Policy and the Service Agreement carefully before registering as a Member of the MM.com Service by checking the box at the end of SM.com's Service Agreement and agreeing to the terms and conditions of this Policy and the Service Agreement. Capitalized terms in this Policy are defined in the Service Agreement. To review the Service Agreement, please click [HERE](https://www.millionairematch.com/service_agreement). If you agree to become a MM.com Member, you are agreeing to be bound by the terms of the Service Agreement and this Policy.
-
-#### The SM.com Network
-
-This MM.com website is part of a network of affiliated dating websites ("Affiliates") that cater to wealthy, successful, and attractive singles. (the "SM.com Network"). Although the MM.com Member database is owned and maintained by SM.com, most of the websites within the SM.com Network are not owned or operated by SM.com.
-
-If you create or maintain a profile on the MM.com website and you share your profile or username with other MM.com Members, you are agreeing that your profile may be displayed to such Members. All Members of MM.com can view your profile unless you set your profile to invisible or restrict access to portions of your profile.
-
-#### Affiliate Websites
-
-You can see a list of current Affiliate websites via [this link](https://successfulmatch.com/affiliate_sites?domain=MillionaireMatch.com). That list of Affiliates may be changed or amended from time to time and the changes reflected in the list referenced above and linked to this Policy. Affiliate websites are landing pages which provide a portal to the MM.com website, which potentially increases the number of individuals with whom you may have a match. Affiliate websites within the SM.com Network have different domain names, but all link to the MM.com website. Anyone who is a MM.com Member, and who accesses the MM.com website through an Affiliate landing page, can view your profile on the MM.com website, unless you set your profile to invisible or restrict access to portions of your profile. Non-members cannot recognize your specific identity by accessing your profile, either on the MM.com website or from an Affiliate landing page, unless you provide public information about yourself, which you have agreed you will not do. See, section 8.3 of this Agreement.
-
-#### Your Personal Information
-
-SM.com is committed to ensuring that your "Personal Information" (defined below) is protected, but you must also take necessary steps to protect your Personal Information from access by persons whom you do not wish to view it, including anyone who is a MM.com Member. This Policy was created to demonstrate SM.com's commitment to protecting your Personal Information and to inform you how SM.com handles information it receives from you. This Policy only applies to transactions and activities in which you engage and data which is gathered on the MM.com website (including double blind email communications between SM.com or MM.com Members) but does not apply to any non-Affiliate website or offline point of contact or any other company or consumers with whom you may interact and which SM.com does not control.
-
-#### Entering Into This Legal Agreement
-
-**By checking the box at the end of the Service Agreement, you agree to be bound by the terms and conditions of the Service Agreement and this Policy for as long as you are a Member of MM.com and use the MM.com website. If you do not agree to the terms and conditions of this Policy, please do not check the box at the end of the Service Agreement or register as a MM.com Member. If at any point as a MM.com Member you disagree with any of the terms and conditions contained in this Policy or those in the Service Agreement, you may terminate your membership by sending an email to support@MillionaireMatch.com.**
-
-#### Your IP Address
-
-Each time you visit the site, SM.com automatically collects your IP address, SM.com Cookie information and the web page from which you entered the site. SM.com uses that information and your IP address to identify you and to gather demographic information about you to diagnose problems with SM.com's site and to administer and optimize the MM.com website for your use.
-
-#### Cookies
-
-SM.com uses cookie files saved to your computer for record keeping purposes. SM.com can also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other Personal Information, so you do not have to re-enter it each time you visit the site. To disable these cookies, simply go to the "help" portion of the toolbar on your browser, which should tell you how to proceed. However, if you set your browser to disable cookies, you may not be able to access certain areas on the MM.com website.
-
-#### Your Personal and Financial Information
-
-Personal information is personally identifiable information like your name, address, email address, or phone number that is not otherwise publicly available ("Personal Information"). SM.com collects Personal Information from you to better serve your needs. SM.com does this in order to operate the MM.com website and occasionally to display advertisements about products or services that may be of interest to you. We also collect financial information such as your credit card numbers, PayPal information, passwords, and in connection with some of our websites and applications, certain income information ("Financial Information"). Further, SM.com collects certain demographic information that is neither Personal Information nor Financial Information, which may include, but is not limited to, zip code and username. If your membership is terminated, MM.com will maintain your profile and your Personal and Financial Information in its database for up to two years and may maintain your blog and forum posts for more than two years. So long as your information is in the MM.com database, the terms of this Privacy Policy and the Service Agreement will apply to your information whether your membership is active or is not. Following two years after your membership is terminated, MM.com reserves the right, but does not have the obligation to eliminate your information from its database.
-
-SM.com does NOT knowingly collect Personal Information from children under the age of 18. SM.com requires that all Members affirm that they are at least 18 years old.
-
-#### Information From Other Sources
-
-SM.com may obtain Personal Information and non-personal information about you from the SM.com Network and credit card or other payment processors, which SM.com adds to its account information or other information it has collected for management purposes. This information includes user preferences, email addresses, user site preferences, and billing information.
-
-#### Information About You And Others
-
-SM.com may collect and store Personal Information that you provide to us about other people, such as their name, address and email address. This information will be used solely for the purpose for which it is provided, such as your referral of our service to others, or to manage your product purchase information. If you use the MM.com website to send a product or a gift to others (friends, relatives, colleagues, etc.), SM.com may store your Personal Information, including your product purchase history, product preferences, and product recipient information, in order to process those requests and facilitate your future purchase activities.
-
-#### Other Websites
-
-You need to be aware that when you visit Affiliate websites, (regardless of whether or not they contain the MM.com brand names, trademarks and other intellectual property), they are merely landing pages which provide a portal to the MM.com website. Websites other than Affiliates should have their own privacy policy if they are collecting Personal Information about you. SM.com encourages you to review non-Affiliate websites' privacy policies and reminds you that SM.com is not responsible for non-Affiliate websites' actions or the actions of others to whom you provide your username, profile, or other Personal Information.
-
-#### How SM.com Uses Personal Information
-
-SM.com uses your email address and your other Personal Information to operate the MM.com website efficiently, to contact you in connection with your membership and other activities on the website (including, but not limited to, confirmation emails or important news that could affect your relationship with MM.com or SM.com), and to forward messages to you from other MM.com Members. These types of communications are known as "Operational Communications."
-
-To operate the MM.com website, SM.com may share your Personal Information with SM.com's agents, representatives, contractors and service providers so they can provide SM.com with support services such as authorization of credit card transactions, email origination, receipt or support services, and customer relationship management services. SM.com requires these entities not to use your Personal Information for any other purpose.
-
-Any Third Party (not SM.com or MM.com) with whom you permit SM.com to share your Personal Information is authorized to use your Personal Information in accordance with our contractual arrangements with such Third Parties and in accordance with their own privacy policies, over which SM.com has no control. You agree that SM.com is not responsible or liable for any Third Party actions or omissions. You will need to instruct any Third Parties who contact you regarding your preferences for their use of your Personal Information.
-
-You agree that your Personal Information and Financial Information may be provided to a Third Party in the event of a transfer of ownership or assets by SM.com or a bankruptcy or to comply with the law or to protect the interests or safety of SM.com or other visitors to the MM.com website.
-
-#### How SM.com Uses Financial Information
-
-If applicable, SM.com may use your Financial Information to check your qualifications and to bill you for services. By making a purchase, or engaging in any other kind of activity or transaction that uses Financial Information on the MM.com website, you consent to our providing your Financial Information to SM.com's service providers and to such Third Parties as SM.com determines are necessary to support and process your activities and transactions, as well as to your credit card issuer. These Third Parties may include the credit card companies and banking institutions used to process and support the transaction or activity.
-
-#### Location Information and Services
-
-The MM.com website includes location based services and features. These features are used to connect you to other users based on your geographic location and to provide other services that personalize your experience. To implement these features, SM.com collects your location data, including but not limited to GPS data, WiFi data, and cell tower data.
-
-#### How SM.com Uses Public Information and Other Demographic Information
-
-SM.com may review all your demographic information. SM.com may use public information to enable other SM.com Members to determine whether they are a match for you and to communicate with you. SM.com may use demographic information to tailor the MM.com website and cater to your interests.
-
-SM.com may also use the information you provided during registration to automatically set up an email account for you at the registered site, to make online dating and social networking more convenient and secure.
-
-#### DCMA Compliance
-
-SM.com complies with the Digital Millenium Copyright Act ("DMCA"). To submit a notice under the DMCA, please send an email to SM.com's DMCA agent at support@MillionaireMatch.com.
-
-#### SM.com's Security Precautions
-
-The MM.com website and mobile application have security measures in place to protect against the loss, misuse and alteration of the information under SM.com’s control. SM.com utilizes secure server software (SSL) to provide secure commerce transactions for our members. SM.com encrypts all of your Personal Information and Financial Information as it travels over the Internet and SM.com stores your Financial Information on its servers in encrypted form. However, although we strive to maintain necessary safeguards to protect your Personal Information, Financial Information and other data, you acknowledge and agree that we cannot ensure the absolute security or privacy of such information in the case of an unauthorized breach of those safeguards by a third party. Your Personal Information and Financial Information and other data may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have laws which are as protective of your privacy as the laws in your country or jurisdiction.
-
-SM.com can process your payments through PayPal, which will allow you to securely process your transactions, without you having to share your Financial Information with SM.com. SM.com uses both in-house and third party security measures to attempt to detect Members using MM.com in violation of the Service Agreement and/or this Privacy Policy. SM.com reserves the right to terminate such Members.
-
-#### How You Can Access and Update Your Email Preferences, Personal Information and Public Information
-
-At any time, you may modify Personal Information or demographic information you have provided to SM.com. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the MM.com website and the SM.com database. Thank you for your patience. Please note that changing or deleting your information will only change or delete the data in the SM.com database for purposes of future activities on the MM.com website and for managing future communications from MM.com and/or SM.com. These changes and deletions will not change or delete emails or information that SM.com may have already forwarded to other users or credit card companies or any other Third Parties, all as provided above in this Privacy Policy. Further, if you delete your information from the MM.com website, but place future orders with MM.com, you may receive emails from MM.com regarding those orders. 
-
-SM.com applies attributes used to classify user profiles, including items such as age, gender, location, STD type(s), and source or name of Affiliate website. By registering with the MM.com website, you acknowledge and agree that SM.com may apply such classifications to your profile and may use such classifications to restrict:
-
-  * the availability of communication between you and other Members of MM.com;
-  * the availability of the details of other Members that you can see; and
-  * the availability of your details that other Members can see.
+  * 1.PERSONAL INFORMATION WE COLLECT
+  * 2.HOW WE USE YOUR PERSONAL DATA
+  * 3.CATEGORIES AND PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
+  * 4.PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
+  * 5.NON-PERSONAL DATA
+  * 6.WHO WE SHARE YOUR DATA WITH
+  * 7.OUR COMMITMENT TO DATA SECURITY
+  * 8.YOUR CHOICES
+  * 9.INTERNATIONAL TRANSFERS OF INFORMATION
+  * 10.YOUR RIGHTS
+  * 11.ADDITIONAL INFORMATION ABOUT YOUR RIGHTS
+  * 12.E.U. RESIDENTS AND E.U. U.S. PRIVACY SHIELD FRAMEWORK
+  * 13.DISPUTE RESOLUTION (E.U. RESIDENTS)
+  * 14.PRIVACY RIGHTS & DATA PROTECTION OFFICER
+  * 15.INFORMATION SECURITY & CONFIDENTIALITY
+  * 16.DATA RETENTION
+  * 17.NOTICE TO CANADIAN RESIDENTS
+  * 18.CALIFORNIA PRIVACY RIGHTS
+  * 19.OTHER SITES LINKED TO SERVICES
+  * 20.UPDATES
+  * 21.DOWNLOAD A COPY OF OUR PRIVACY POLICY.
+  * 22.CONTACT US
 
 
 
-#### Terms of Privacy Policy Subject to Change
+#### 1\.  PERSONAL INFORMATION WE COLLECT
 
-IF AT ANY POINT SM.COM DECIDES TO USE PERSONAL INFORMATION IN A MANNER DIFFERENT FROM THAT STATED AT THE TIME SM.COM COLLECTED IT, SM.COM WILL NOTIFY MEMBERS BY AN EMAIL OR NOTICE ON THE MM.COM WEBSITE PROVIDING 30 DAYS' NOTICE AND AN OPPORTUNITY TO ACCEPT OR NOT TO ACCEPT ANY MATERIAL CHANGES IN THE POLICY. WITH REGARD TO INFORMATION GATHERED OR AFTER YOU ACCEPT THE CHANGES IN THE POLICY, SM.COM WILL HAVE THE RIGHT TO USE YOUR PERSONAL INFORMATION WITHOUT FURTHER NOTICE. IF YOU DO NOT ACCEPT THE CHANGES OR DISAGREE WITH THEM, YOU MAY TERMINATE YOUR MEMBERSHIP BY SENDING AN EMAIL TO SUPPORT@MILLIONAIREMATCH.COM AT ANY TIME. 
+        1.1  Personal Data. "Personal Data" is information that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. Personal Data is required when you use the register or create an Account; purchase merchandise; request information from us; sign up for e-mails or otherwise communicate with us. We may also connect Personal Data you provide by interacting with us through social media or other forums. 
 
-IN ITS SOLE DISCRETION, SM.COM RESERVES THE RIGHT AT ANY TIME TO MODIFY, CHANGE, ADD OR REMOVE ANY PORTION OF THE TERMS AND CONDITIONS OF THE PRIVACY POLICY AND THE SERVICE AGREEMENT, IN WHOLE OR IN PART. SM.COM WILL PROVIDE YOU WITH WRITTEN NOTICE OF MATERIAL CHANGES TO THIS PRIVACY POLICY AND/OR THE SERVICE AGREEMENT AND WILL GIVE YOU THE OPPORTUNITY TO ACCEPT OR NOT ACCEPT SUCH CHANGES. IF YOU DO NOT ACCEPT SUCH CHANGES, YOU WILL NO LONGER BE GIVEN ACCESS TO THE MM.COM WEBSITE AND YOUR MEMBERSHIP WILL BE TERMINATED. 
+        1.2  Aggregated Data. We also collect, use and share aggregated data such as statistical or demographic data for any purpose ("Aggregated Data"). Aggregated Data may be derived from your Personal Data but is not considered Personal Data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing specific Service features. However, if we combine or connect Aggregated Data with your Personal Data so that it can directly or indirectly identify you, we treat the combined data as Personal Data which will be used in accordance with this Privacy Policy.
 
-If you have any questions or concerns about this Privacy Policy, the Service Agreement, the SM.com Network, the MM.com website, or Affiliate websites, please contact SM.com at 10 - 8707 Dufferin St. , Suite 160, Vaughan, Ontario L4J 0A6 Canada.
+        1.3  Special Categories. We do collect Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, information about your health and/or genetic and biometric data).
+
+#### 2\.  HOW WE USE YOUR PERSONAL DATA
+
+        We will only use the details collected from you:
+
+        (a)  To manage your Account;
+
+        (b)  To provide you with Services;
+
+        (c)  To improve customer service;
+
+        (d)  To administer and maintain our Services (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data);
+
+        (e)  To contact you including sending information and updates relating to Services, questions or requests and/or for the provision of customer services;
+
+        (f)  To use data analytics to improve our Services, user relationships and experiences.
+
+        (g)  To address problems with our Service and to protect the security or integrity our business. 
+
+#### 3\.  CATEGORIES AND PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
+
+        3.1  Data Categories
+
+        (i)  Account Data. Account Data includes first name, last name, username, marital status, age, gender and other preferences.
+
+        (ii)  Contact Data. Contact Data includes billing address, email address and telephone numbers.
+
+        (iii)  Payment Data. Payment Data includes payment card/account details.
+
+        (iv)  Technical Data. Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our Service.
+
+        (v)  Profile Data. Profile Data includes your username, password and/or photos used in connection with your Account.
+
+        (vi)  Usage Data. Usage Data includes information about how you use our Service.
+
+        3.2  Purpose for use.
+
+        We identify the purpose for which we use your Personal Data as follows:
+
+| PURPOSE | DATA CATEGORY | BASIS FOR PROCESSING   
+---|---|---  
+Account and Membership  | (a) Account Data  
+(b) Contact Data  
+(c) Payment Data  | Required for Service and to provide you with customer service  
+Administration of Services | (a) Account Data  
+(b) Contact Data  |  (a) Performance of providing you with Service  
+(b) Necessary to comply with our legal obligations  
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our Service)   
+To contact you (including sending information and updates relating to our Service. | (a) Account Data  
+(b) Contact Data  
+(c) Usage Data  
+(d)Technical Data  | Necessary for our legitimate business interests (to study how users use our Service, and to develop and improve them)  
+To use data analytics to improve our Services, products/services, marketing, user relationships and experiences | (a) Technical Data (b) Usage Data  | Necessary for our legitimate business interests (to define types of users for our Service and to keep our Service updated)  
+  
+        (i)  Change of Purpose. 
+
+        We will only use your Personal Data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose.
+
+        PLEASE NOTE THAT WE MAY PROCESS YOUR PERSONAL DATA WITHOUT YOUR KNOWLEDGE OR CONSENT, IN COMPLIANCE WITH THE ABOVE RULES, WHERE THIS IS REQUIRED OR PERMITTED BY LAW.
+
+#### 4\.  LIMITING OR PROHIBITING USE OF YOUR PERSONAL DATA
+
+DEPENDING ON YOUR JURISDICTION YOU MAY PARTIALLY OR WHOLLY OUT-UP OF HAVING YOUR PERSONAL DATA USED BY EMAILING US. PLEASE INCLUDE "OPT-OUT" IN THE SUBJECT LINE OF EACH OPT-OUT NOTIFICATION ALONG WITH A SHORT CONCISE DESCRIPTION SPECIFYING HOW YOU WOULD LIKE TO LIMIT OR RESTRICT THE PROCESSING OF YOUR PERSONAL DATA. PLEASE NOTE THAT RESTRICTING THE PROCESSING OF YOUR PERSONAL DATA WILL LIKELY IMPACT YOUR ABILITY TO ACCESS AND USE ALL FEATURES OF OUR SERVICE. 
+
+#### 5\.  NON-PERSONAL DATA
+
+        5.1  Non-Personal Data. "Non-Personal Data" is data that is not associated with or linked to your Personal Data; and does not, by itself, permit the identification of individual persons. We may use a variety of technologies such as cookies, web beacons, embedded scripts, or other technologies to collect Non-Personal Data about visitors to, and users of, our Service and interactions with our e-mails and online and mobile advertisements, and to allow us to keep track of analytics and certain statistical information. This may include the following:
+
+        (a)  Analytics and Log Files. We may automatically collect certain information from you, including but not limited to your browser type, device type and model, operating system, unique device identifier of any of your computer(s) or device(s) that are used to access our Service, software version, Internet Protocol (IP) address, geo-location, preferred language, and the domain name from which you accessed our Service. PLEASE NOTE THAT YOUR IP ADDRESS MAY BE CONSIDERED PERSONAL DATA DEPENDING ON YOUR JURISDICTION. 
+
+        (b)  Cookies, Web Beacons, And Other Technologies. We use cookies and similar technologies (e.g., web beacons, pixels, ad tags and device identifiers) to recognize you and/or your device(s) on, off and across different services and devices. For detailed information on the cookies we use, the purposes for which we use them, please see below.
+
+                (i) Cookies. We use many different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit aboutcookies.org for detailed guidance. Cookies allow us to identify and authenticate visitors, track aggregate behavior, and enable various Service features. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period, and we use that to identify you should you return to our website and want to find information that you had started even if you are not logged in, or don't have a user account. Persistent cookies may also be used if you click over from one of our affiliate partner websites - we will store a reference number identifying the website that referred you so they can get credit if you make a purchase - they do not receive any information about our clients ever, and the cookie contains no personal information. Session cookies are used to maintain your shopping state as you browse through our Service. We also contract with analytics services, third-party affiliate services, and third-party advertising companies to collect similar information for specific purposes. The use of cookies by our partners is not covered by this Privacy Policy. Though you may disable cookies through your web browser, doing so may prevent you from taking advantage of some of our Service features. To opt out of these collection services, please see the section "Your Choices" below. The use of cookies by our partners is not covered by this Policy. To opt out of the services related to these cookies, please see the section "Your Choices" below.
+
+                (ii)  Web Beacons/Tags. We automatically collect aggregate anonymous information through web beacons. We may also deliver a file to you through the websites (known as a "web beacon") from an advertising network with which we have contracted. Web beacons allow third-parties to provide anonymized, aggregated auditing, research, and reporting for us.
+
+#### 6\.  WHO WE SHARE YOUR DATA WITH
+
+        We share your Personal Data as follows: 
+
+        (a)  Service Providers. We may share your information with third-party service providers that provide business, professional, or technical support functions that make products, our Service available to you.
+
+        (b)  Third-Parties. We do not share Personal Data with third-parties for their direct marketing purposes without your permission. 
+
+        (c)  Legal Matters; Safety. We may access and disclose your information to respond to subpoenas, judicial processes, or government requests and investigations, or regarding an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. We may disclose your information to protect the security of our Service including our servers, network systems, and databases. We also may disclose your information as necessary, if we believe that there has been a violation of our Agreement, any other legal document or contract related to our Service, or the rights of any third-party.
+
+        (d)  Sale or Transfer of Business or Assets. We may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, the information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third-parties. 
+
+        (e)  Non-Personal Data. We may share Aggregate Data, anonymous, or de-identified Non-Personal Data with third-parties for their marketing or analytics uses.
+
+#### 7\.  OUR COMMITMENT TO DATA SECURITY
+
+        To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We regularly monitor our systems for possible attacks and vulnerabilities, but we can’t warrant the security of the data you send us even with the safeguards we have put in place.
+
+#### 8\.  YOUR CHOICES
+
+        You have the following choices regarding your Personal Data. To protect your privacy and security, we may take reasonable steps to verify your identity before any request for access or alteration of your Personal Data.
+
+        (a)  How You Can Access or Correct Your Information. You can access a variety of your personally identifiable information that we collect online and maintain it either online, or by contacting our customer service representatives via the e-mail address in the Contacting Us section below. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+
+        (b)  How You Can Cancel Your Account. You can ask us to cancel your Account at any time using the "cancel account" feature. When you ask us to cancel your account, we will remove it from our Service and it will no longer be viewable by other users or the public. Upon Account cancellation, you will be able to reactivate your account within two years, after which your Personal Data will be destroyed and/or anonymized. 
+
+        (c)  How You Can Request for Your Information To Be Deleted. You can ask us to delete your personal data at any time using the "delete my account and data" feature (provided it is no longer necessary for legal purposes or to provide services to you). You may also place a request by contacting our privacy team via e-mail at the e-mail address in the Contacting Us section below. We will delete and/or anonymize all your Personal Data we are not legally required to maintain within 30 days. IF YOU REQUEST YOUR PERSONAL DATA BE DELETED, ANY OUTSTANDING ORDER OR TRANSACTION WILL BE IRREVOCABLY TERMINATED AND YOU WILL NOT BE ABLE TO RESTORE YOUR ACCOUNT OR RETRIEVE YOUR PERSONAL DATA UPON DELETION. 
+
+        (d)  Opting out
+
+        (i)  E-mail. Any subscription to various marketing e-mails can be cancelled by clicking the "unsubscribe" links in the e-mails, changing preferences in the "Your Account" area online, or sending a request to the e-mail address in the Contacting Us section below.. 
+
+        (ii)  Analytics. You may learn more about opting-out of analytics by visiting https://mixpanel.com and http://www.flurry.com. 
+
+        (iii)  Cookies. You may disable, or delete cookies in your Web browser, but doing so may impact the usability of the website. To block cookies, you can also browse our Service using your browser's anonymous usage setting (called "Incognito" in Chrome, "In Private" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
+
+#### 9\.  INTERNATIONAL TRANSFERS OF INFORMATION
+
+        Information collected in the European Economic Area ("EEA") may be transferred, stored and processed by us and our services providers in the United States and other countries whose data protection laws may be different than the laws of your country. Whenever we transfer your Personal Data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented. In particular, we will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for Personal Data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries. Where we use providers based in the U.S., we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to Personal Data shared between the Europe and the U.S. For further details, see European Commission: EU-US Privacy Shield on https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en.
+
+        Please contact us at the e-mail address in the Contacting Us section below if you want further information on the specific mechanism used by us when transferring your Personal Data out of the EEA.
+
+#### 10\.  YOUR RIGHTS
+
+        Under certain circumstances, you have the following rights under Data Protection laws. To protect your privacy and security, we may take reasonable steps to verify your identity before any exercise of the following rights according to applicable law.
+
+        (a)  Request access to your Personal Data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+        (b)  Request correction of your Personal Data. Request correction of the Personal Data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+        (c)  Request erasure of your Personal Data. This enables you to ask us to delete or remove Personal Data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your Personal Data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+        (d)  Object to processing of your Personal Data. Object to processing of your Personal Data where we are relying on a legitimate interest (or those of a third-party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your Personal Data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+        (e)  Request restriction of processing your Personal Data. Request restriction of processing of your Personal Data. This enables you to ask us to suspend the processing of your Personal Data in the following scenarios: (i) if you want us to establish the data’s accuracy; (ii) where our use of the data is unlawful but you do not want us to erase it; (iii) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (iv) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+        (f)  Request transfer of your Personal Data. Request the transfer of your Personal Data to you or to a third-party. We will provide to you, or a third-party you have chosen, your Personal Data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+
+        (g)  Right to withdraw consent. Withdraw consent at any time where we are relying on consent to process your Personal Data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain features of our Services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+        If you wish to exercise any of the rights set out above, please contact us at the e-mail address in the Contacting Us section below.
+
+#### 11\.   ADDITIONAL INFORMATION ABOUT YOUR RIGHTS
+
+         (a)  No fee usually required. You will not have to pay a fee to access your Personal Data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+         (b)  What we may need from you. We may need to request specific information from you to help us confirm your identity and ensure your right to access your Personal Data (or to exercise any of your other rights). This is a security measure to ensure that Personal Data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+         (c)  Time limit to respond. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+#### 12\.   E.U. RESIDENTS AND E.U. U.S. PRIVACY SHIELD FRAMEWORK
+
+         We comply with the E.U. U.S. Privacy Shield Framework and are committed to ensuring that we adhere to the following principals: Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. We are subject to the enforcement of the Federal Trade Commission and shall remain liability for harm caused in connection with our onward transfer of your data. To learn more about the E.U. U.S. Privacy Shield Framework, please visit the U.S. Department of Commerce website located at the following link: https://www.privacyshield.gov/welcome. We are committed to working with you to address questions, concerns or complaints you may have about this Privacy Policy or your Personal Data. For the avoidance of doubt, in the event there is a conflict between the Privacy Policy and the E.U. U.S. Privacy Shield Framework the terms of the E.U. U.S. Privacy Shield Framework shall govern. Please contact us at the e-mail address in the Contacting Us section below. if you have any questions or have an issue that you’d like to resolve.
+
+#### 13\.   DISPUTE RESOLUTION (E.U. RESIDENTS)
+
+         (a)  General. If you reside in E.U. and have any questions or concerns regarding the use or disclosure of Personal Data, you should first contact us for assistance. We will promptly investigate and attempt to resolve all complaints regarding our use of Personal Data. In the event we are unable to mutually resolve a complaint; we will work with you and agree to refer your complaint to an independent dispute resolution mechanism. In the event we are unable to resolve your claim, you should contact our U.S. based third-party dispute resolution provider free of charge at JAMS in SF. In certain instances conditions, described on the Privacy Shield’s website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+         (b)  Questions and concerns. Any questions or concerns regarding the use or disclosure of Personal Data should first be directed us. We will promptly investigate and attempt to resolve all complaints regarding our use of Personal Data. In the event we are unable to mutually resolve a complaint; we will work with you and agree to refer your complaint to an independent dispute resolution mechanism. You may also work with the Data Protection Authority in your country http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm to assist with this process as well.
+
+#### 14\.   PRIVACY RIGHTS & DATA PROTECTION OFFICER
+
+         (a)  General. You may modify the information you have provided to us at any time through your Account. You can also opt-out of receiving marketing communications, deactivate, or delete your Account at any time.
+
+         (b)  Data Protection Officer. We have appointed a Data Protection Officer to ensure continued commitment to privacy and security practices. For further information please contact us at the e-mail address in the Contacting Us section below..
+
+#### 15\.   INFORMATION SECURITY & CONFIDENTIALITY
+
+        We maintain (and requires its subcontractors and service providers to maintain) appropriate organizational and technical measures designed to protect the security and confidentiality of any information we process. However, no organizational or technical measures are 100% secure so you should take care when disclosing information online and act reasonably to protect yourself online.
+
+#### 16\.   DATA RETENTION
+
+        How long will you use my Personal Data for?
+
+        We will only retain your Personal Data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, audit, reporting and/or corporate compliance requirements.
+
+        To determine the appropriate retention period for Personal Data, we consider the amount, nature, and sensitivity of the Personal Data, the potential risk of harm from unauthorized use or disclosure of your Personal Data, the purposes for which we process your Personal Data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+#### 17\.   NOTICE TO CERTAIN INTERNATIONAL MEMBERS
+
+         If you are a citizen of Canada, Brazil or Mexico and have questions about the accuracy of information that we have collected about you, you can have access to that information in order to verify and update it, unless we are permitted or required under applicable laws to refuse your access to such information. You may write or email us the e-mail address in the Contacting Us section below
+
+#### 18\.   CALIFORNIA PRIVACY RIGHTS
+
+        Section 1798.83 of the California Civil Code entitles residents of California to request a notice detailing the categories of Personal Data that we have shared with third-parties for direct marketing purposes during the preceding calendar year, as well as the identity of those third-parties. To request a copy of your Personal Data maintained by us, please contact us as at the e-mail address in the Contacting Us section below.
+
+#### 19\.   OTHER SITES
+
+        Our Service may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third-party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
+
+#### 20\.   UPDATES
+
+        This Privacy Policy was last updated on the date identified above and we accordingly reserve the right to change or modify this policy at any time without prior notice, and we may apply any change in the Privacy Policy to information previously collected, as permitted by law. Please review our Privacy Policy before you provide any Personal Data and periodically on an ongoing basis. When we make material changes to this Privacy Policy, we will notify you by posting the updated Privacy Policy on our Service noting the "Last Revised" date at the top of the Privacy Policy. Your continued use of our Service after any changes or revisions to this Privacy Policy become effective shall indicate your agreement with the terms of the then-current Privacy Policy. 
+
+#### 21\.   DOWNLOAD A COPY OF OUR PRIVACY POLICY.
+
+        You can download a PDF version of our Privacy Policy here: https://www.millionairematch.com/privacy_policy_
+
+#### 22\.   CONTACT US
+
+        If there are any questions regarding this privacy policy, you may contact us via e-mail at [support@millionairematch.com](mailto:support@millionairematch.com).
