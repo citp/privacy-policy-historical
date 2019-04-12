@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umuc.edu privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930015215id_/http%3A//www.umuc.edu/terms-and-conditions/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umuc.edu privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412101550id_/https%3A//www.umuc.edu/terms-and-conditions/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | UMUC
 
@@ -16,7 +16,7 @@ The university also uses Google Analytics and similar measurement tools to under
 
 Generally, the university does not automatically collect the identity of individual users of or visitors to university websites. The university uses personally identifiable information, provided by you, such as name and contact information, to respond to requests for information about university services, opportunities, and events and to provide information about new university services, opportunities, and events.
 
-If you are asked to provide personal information on a university website, you will be notified of
+If you are asked to provide personal information on a university website form, you will be notified of
 
   * the purpose for which the personal information is collected (for example, you may be asked to provide contact information so the university can respond to a request for more information)
   * any specific consequences for refusing to provide the information
@@ -26,6 +26,8 @@ If you are asked to provide personal information on a university website, you wi
   * whether the personal information is made available or transferred to or shared with any entity
 
 
+
+University website forms use invisible reCAPTCHA, a Google security tool that verifies the authenticity of form submissions. As such, you are subject to Google's [Terms of Use](https://policies.google.com/terms?hl=en) and [Privacy Policy](https://policies.google.com/privacy?hl=en) when you submit university website forms.
 
 Unless otherwise notified, information provided to the university may be shared among offices within the university and with the University System of Maryland and outside entities as necessary or appropriate in the conduct of legitimate university business and consistent with applicable law. Because the university is a State educational institution, such information may also be subject to disclosure under the [Maryland Access to Public Records Act (Public Records Act)](http://www.marylandattorneygeneral.gov/Pages/OpenGov/pia.aspx). Individuals may inspect and/or correct their personal information as provided by the Public Records Act or applicable university policy.
 
@@ -49,7 +51,7 @@ The university partners with third-parties to display advertising on other websi
   * The university uses Remarketing with Google Analytics to display online advertising.
   * The university uses Remarketing with third-party social networks to display online advertising.
   * The university and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve advertisements based on a visitor's past visits to university websites.
-  * The university and third-party vendors, including Google, use first-party cookies and third-party cookies together to report how the university’s ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to university websites.
+  * The university and third-party vendors, including Google, use first-party cookies and third-party cookies together to report how the university's ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to university websites.
   * The university uses data from Google's interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics to report, optimize, and deliver interest-based advertisements.
 
 
@@ -80,7 +82,7 @@ Chief Technology Officer, UMUC
 
 ## Changes to This Policy
 
-This privacy policy was last updated on July 23, 2018. Any changes or amendments to this policy will be updated on this page. Advances in technology, legal developments, and new policies and practices may necessitate changes in or updates to this privacy statement. We reserve the right to change this policy without notice. It is the responsibility of the user to check this page for any changes to this policy.
+This privacy policy was last updated on January 15, 2019. Any changes or amendments to this policy will be updated on this page. Advances in technology, legal developments, and new policies and practices may necessitate changes in or updates to this privacy statement. We reserve the right to change this policy without notice. It is the responsibility of the user to check this page for any changes to this policy.
 
 GI Bill is a registered trademark of the U.S. Department of Veterans Affairs. More information about education benefits offered by VA is available on the [U.S. government GI Bill website](http://www.benefits.va.gov/gibill).
 
