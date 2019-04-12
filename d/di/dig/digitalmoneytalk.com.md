@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmoneytalk.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209170331id_/http%3A//www.digitalmoneytalk.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmoneytalk.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412180205id_/http%3A//www.digitalmoneytalk.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Money Talk Forum - Forex, Ecurrency exchange and Cryptocurrency Forum
 
