@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pillpack.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513172453id_/https%3A//www.pillpack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pillpack.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412133855id_/https%3A//www.pillpack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PillPack
 
@@ -6,7 +6,7 @@
 
 Your access to, and use of, the PillPack™ Online Experience, which includes this web site (www.pillpack.com) and the information, community and services that we provide to you and other users through this web site is subject to the PillPack™ Online Experience Terms of Use and this Privacy Policy.
 
-PillPack, Inc. (“PillPack”) has created this Privacy Policy to explain what information we gather from you when you visit our Online Experience, how we may use this information, the security approaches we use to protect your information, and how you can access and correct certain information that we may collect. We’ve tried to keep it simple. Please note that this Privacy Policy applies only to information collected via this Online Experience – it does not apply to information you disclose to PillPack through offline correspondence or personal contacts with PillPack’s representatives. This Privacy Policy is incorporated and made part of PillPack™ Online Experience Terms of Use.
+PillPack LLC (“PillPack”) has created this Privacy Policy to explain what information we gather from you when you visit our Online Experience, how we may use this information, the security approaches we use to protect your information, and how you can access and correct certain information that we may collect. We’ve tried to keep it simple. Please note that this Privacy Policy applies only to information collected via this Online Experience – it does not apply to information you disclose to PillPack through offline correspondence or personal contacts with PillPack’s representatives. This Privacy Policy is incorporated and made part of PillPack™ Online Experience Terms of Use.
 
 * * *
 
@@ -68,7 +68,7 @@ We can disclose aggregate information about users of the Online Experience to ou
 
 Correcting and Updating Your Personal Information
 
-You can correct or update your personally identifiable information by re-registering or by contacting us by electronic-mail [tj@pillpack.com](mailto:tj@pillpack.com) or by telephone 1-855-745-4525. It may take us up to 30 days to process your request.
+You can correct or update your personally identifiable information by re-registering or by contacting us by electronic-mail [hello@pillpack.com](mailto:hello@pillpack.com) or by telephone 1-855-745-4525. It may take us up to 30 days to process your request.
 
 Do we use “cookies”?
 
@@ -96,14 +96,14 @@ Retention of Your Personal Information
 
 We will store the personal information you provide for as long as we believe is necessary or appropriate (i) to carry out the purpose(s) for which we collected it, or (ii) to comply with applicable laws, contracts, or other rules or regulations. Questions and Feedback
 
-We welcome your questions, comments, and concerns about this Online Experience. Please send us any and all feedback pertaining to this Online Experience to [tj@pillpack.com](mailto:tj@pillpack.com).
+We welcome your questions, comments, and concerns about this Online Experience. Please send us any and all feedback pertaining to this Online Experience to [hello@pillpack.com](mailto:hello@pillpack.com).
 
 Your California Privacy Rights
 
 Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2013 will receive information regarding 2012 sharing activities).
 
-To obtain this information from PillPack please send an email message to [tj@pillpack.com](mailto:tj@pillpack.com) with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+To obtain this information from PillPack please send an email message to [hello@pillpack.com](mailto:hello@pillpack.com) with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
 
-The information contained in this Privacy Policy is subject to change without notice. Copyright 2013 PillPack, Inc. All rights reserved.
+The information contained in this Privacy Policy is subject to change without notice. Copyright 2013 PillPack LLC All rights reserved.
 
-Effective Date: May 6, 2013
+Effective Date: September 11, 2018
