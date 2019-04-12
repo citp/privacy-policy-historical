@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msf.org privacy policy that was archived on 2018-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180808154613id_/https%3A//www.msf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msf.org privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412233827id_/https%3A//www.msf.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Médecins Sans Frontières (MSF) International
 
@@ -46,7 +46,7 @@ We may get your personal information via a fundraising organisation or platform 
   * Like most websites, our Website may place a “cookie” – a small text file – in the browser of your computer. This cookie will assign you a unique number that allows us to save your information so that the information does not need to be re-entered. Cookies can be either “persistent” or “session” based. Our Website uses both types of cookies.
   * Persistent cookies are stored on your computer, contain an expiration date (by default the cookies expire after 23 days), and may be used to track your browsing behaviour upon return to the issuing website or component (such as plugins or embedded media, e.g., a YouTube video embedded on our website). You can remove persistent cookies by following directions provided in your internet browser’s “Help” menu.
   * Session cookies are short-lived, are used only during a browsing session, and expire when you quit your browser.
-  * You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. Instructions on how to do so will vary from browser to browser but you can find out more at [www.aboutcookies.org](https://web.archive.org/web/20180808154613id_/https%3A//www.msf.org/www.aboutcookies.org). Some features and functionality may be lost if you choose to disable cookies. Also, remember that you will have to adjust the cookie settings for each browser and device and you use to visit our Website.
+  * You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. Instructions on how to do so will vary from browser to browser but you can find out more at [www.aboutcookies.org](https://web.archive.org/web/20190412233827id_/https%3A//www.msf.org/www.aboutcookies.org). Some features and functionality may be lost if you choose to disable cookies. Also, remember that you will have to adjust the cookie settings for each browser and device and you use to visit our Website.
   * Our Website may contain links to other sites that may use cookie technology. We do not have access to, or control over, these cookies.
 
 
@@ -157,7 +157,8 @@ Contact us at Dataprotection.IO@geneva.msf.org if you'd like to change or update
   * You can withdraw your consent to us processing your data at any time (where such processing is based on consent eg to send you electronic direct marketing).
   * If you believe our records are inaccurate you have the right to ask for those records concerning you to be updated. To update your records please get in touch with us using the details above.
   * In accordance with the provisions of the General Data Protection Regulation, you have a right to erasure (“to be forgotten” i.e. to have your personal data deleted from our database), or transferred to another organisation (“data portability”). 
-  * If you have any concerns about the way your data is being used or if you’d like to make a complaint please contact us using the details above. You're also entitled to make a complaint to the Préposé cantonal à la Protection des Données et à la Transparence (PPDT), Quai Ernest-Ansermet 18bis, 1205 Genève, Switzerland (tel. +41 (0)058 462 43 95).
+  * If you have any concerns about the way your data is being used or if you’d like to make a complaint, please contact us using the details above.
+  * You are entitled to file a complaint about how MSF treats your data. To do so, you may directly contact: Préposé Fédéral à la Protection des Données et à la Transparence (PFPDT), Feldeggweg 1, CH-3003 Berne (tel.: +41 (0)58 462 43 95).
 
 
 
