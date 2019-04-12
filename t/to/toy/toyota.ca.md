@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812210255id_/https%3A//www.toyota.ca/toyota/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412190724id_/https%3A//www.toyota.ca/toyota/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Toyota Canada and Toyota Credit Canada
 
@@ -109,7 +109,7 @@ TCI will only send email, text or other electronic messages to you if you have e
 
 TCI licenses technology to serve advertisements on its own web sites and within its content as that content is served across the Internet.
 
-Ad network providers, data providers, publishers and other media-related companies, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your device’s web browser and they may otherwise collect or have access to information about you. We and they may target advertisements for products and services in which you might be interested based on your visits to both the TCI web sites and other web sites. We and they may use a variety of companies to serve advertisements.
+Ad network providers, data providers, publishers and other media-related companies, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your device’s web browser and they may otherwise collect or have access to information about you. We and they may use information about your browsing behavior on one or multiple devices to establish an online profile and to target advertisements for products and services in which you might be interested based on your visits to both the TCI web sites and other web sites. We and they may use a variety of companies to serve advertisements.
 
 If you prefer not to allow TCI to use these technologies to collect or use your personal information for the purposes of targeted advertising on TCI’s web sites, you may opt-out by clicking here. If you prefer not to allow TCI, or third parties acting on TCI’s behalf, to use these technologies to collect or use your personal information for purposes of targeted advertising on third-party websites, you may opt-out by following the procedure on the NAI Opt-Out Page.
 
@@ -118,6 +118,8 @@ These opt-outs will not be effective if your browser is configured to reject coo
 In addition, TCI may use third-party ad networks, publishers and other entities to serve advertisements and third party analytics vendors to evaluate and provide us with information about the use of the TCI web sites and viewing of our content. For example, we may share personal information with third parties (e.g., social media sites, other advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to deliver to you content on our website or third party sites. For information about your ability to opt-out of this, please contact us at [socialmedia@toyota.ca](mailto:socialmedia@toyota.ca)
 
 Please note that even if you opt-out, you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies. 
+
+Moreover, if you would like to access and/or delete any personal information that Google (one of our analytics and ad service partners) holds about you, then you may do so via [“My Activity”](https://myactivity.google.com/myactivity). 
 
 ### How Long Does TCI Retain Your Personal information?
 
