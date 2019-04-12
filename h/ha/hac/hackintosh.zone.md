@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hackintosh.zone privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203232749id_/http%3A//www.hackintosh.zone/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackintosh.zone privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412071359id_/https%3A//www.hackintoshzone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hackintosh Zone
 
-This Privacy Policy governs the manner in which Hackintosh Zone collects, uses, maintains and discloses information collected from users of the [Hackintosh.zone](http://www.hackintosh.zone/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Hackintosh Zone.
+This Privacy Policy governs the manner in which Hackintosh Zone collects, uses, maintains and discloses information collected from users of the [HackintoshZone.com](https://www.hackintoshzone.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Hackintosh Zone.
 
 **Personal identification information**
 
@@ -30,7 +30,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. by registering or using this site without registering you are agreeing to follow [Terms of Hackintosh.zone](http://www.hackintosh.zone/terms/), if you don't agrree with our terms stop using this site immidiately.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. by registering or using this site without registering you are agreeing to follow [Terms of HackintoshZone.com](https://www.hackintoshzone.com/terms/), if you don't agrree with our terms stop using this site immidiately.
 
 **Google Adsense**
 
@@ -118,7 +118,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact via the [contact](http://www.hackintosh.zone/contactus/) form found in this site
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact via the [contact](https://www.hackintoshzone.com/contactus/) form found in this site
 
 This document was last updated on February 14, 2015
 
