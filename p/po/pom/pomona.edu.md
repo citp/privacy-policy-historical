@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pomona.edu privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819122243id_/https%3A//www.pomona.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomona.edu privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412065738id_/https%3A//www.pomona.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Pomona College in Claremont, California - Pomona College
 
