@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddyfix.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207051647id_/https%3A//buddyfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddyfix.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412130558id_/https%3A//buddyfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buddyfix
 
