@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tim.blog privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228113106id_/https%3A//tim.blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tim.blog privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412024452id_/https%3A//tim.blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Blog of Author Tim Ferriss
 
