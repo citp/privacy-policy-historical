@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenplec.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027212410id_/https%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenplec.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412040614id_/https%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoldenPlec Music Magazine
 
