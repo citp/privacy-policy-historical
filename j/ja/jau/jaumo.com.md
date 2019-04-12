@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaumo.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821082910id_/https%3A//www.jaumo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaumo.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412121837id_/https%3A//www.jaumo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Jaumo Dating App
 
@@ -130,13 +130,13 @@ In collecting personal data using website optimization tools, we refer to our le
 
 ### 14\. Google Firebase Analytics and Crashlytics
 
-Our app uses Google Analytics from Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; “Google”). Firebase Analytics is a service that allows you to collect and analyze app usage data from your smartphone.
+Our app uses Google Analytics from Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland. Firebase Analytics is a service that allows you to collect and analyze app usage data from your smartphone.
 
 For this purpose, data is encrypted and made anonymous during the use of the app. At Android we do not transmit the Advertising ID.
 
 To analyze the general user behavior with regard to efficiency and similar approaches and to draw conclusions on the continuous improvement of the app in the course of the evaluation. For more information on how Google uses your information, please see the company’s privacy statement <https://policies.google.com/?hl=en-GB>
 
-Our app also uses Google Analytics from Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. This analysis program uses IP addresses of users for analysis purposes, but these are only used anonymously. It is not possible to draw conclusions about a specific person. Crashlytics provides us with real-time evaluations of system crashes, making it easier for us to maintain and improve the apps.
+Our app also uses Google Analytics from Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland). This analysis program uses IP addresses of users for analysis purposes, but these are only used anonymously. It is not possible to draw conclusions about a specific person. Crashlytics provides us with real-time evaluations of system crashes, making it easier for us to maintain and improve the apps.
 
 For more information, please visit <https://www.google.com/analytics/terms/us.html> or [https://support.google.com/analytics/answer/6004245?hl=de](https://support.google.com/analytics/answer/6004245?hl=en), as well as in the [Privacy Policy](https://policies.google.com/privacy?hl=en-GB) of Google.
 
