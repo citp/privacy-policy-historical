@@ -1,234 +1,284 @@
-> *The following text is extracted and transformed from the thefrugalhousewife.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515073102id_/http%3A//thefrugalhousewife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalhousewife.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412054405id_/https%3A//thefrugalhousewife.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - The Frugal Housewife
 
-### Privacy Policy
+### THE RIGHTS OF USERS TO OUR WEBSITE
 
-Jennifer Locke, owner/writer of The Frugal Housewife is committed to protecting and respecting your privacy.
+Users may exercise certain rights regarding their Data processed by the Owner.
 
-The Frugal Housewife is a website that is comprised of various posts and pages offered to you conditioned on your acceptance without any modification of the terms, conditions, and notices contained herein.  Your use of our website located at http://thefrugalhousewife.com constitutes your agreement to all the terms and conditions of our website.
+In particular, Users have the right to do the following:
 
-The Frugal Housewife is a lifestyle blog based in the United States that provides information about frugal living tips and hacks.   We do this by offering tips, deals, freebies, product reviews, etc. to inform and interest you to live a frugal lifestyle.
-
-This Privacy Policy, along with the Terms and Conditions of Website Use (plus any other documents referred to on it) provides the basis on which any personal data that you provide to us or that we collect from you will be processed by us.
-
-Please read the following policies carefully to understand how we view your data and the practices that we use regarding your data.
-
-By submitting your personal data to us, you agree to our use of your data as follows.    You also agree to the terms and conditions of the use of our website.
-
-* * *
-
-### Data Controller for The Frugal Housewife
-
-The data controller for The Frugal Housewife is Jennifer T. Locke, P. O. Box 5196, San Angelo, TX  76902.
-
-* * *
-
-### Information that we may collect from you
-
-The following is the information that we may collect and process about you:
-
-  * Information that you provide by filling in the “Contact Form” on our site, thefrugalhousewife.com.
-  * If you contact us via our email address, we may keep a record of that correspondence.
+  * **Withdraw their consent at any time.**  Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+  * **Object to the processing of their Data.**  Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+  * **Access their Data.**  Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+  * **Verify and seek rectification.**  Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+  * **Restrict the processing of their Data.**  Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+  * **Have their Personal Data deleted or otherwise removed.**  Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+  * **Receive their Data and have it transferred to another controller.**  Users have the right to receive their Data in a structured, commonly used and machine-readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User’s consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+  * **Lodge a complaint.**  Users have the right to bring a claim before their competent data protection authority.
 
 
 
-At this time, we do not offer a newsletter or allow comments on our blog.
+#### Details about the right to object to the processing of personal data
 
-* * *
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
 
-### How we protect your information
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
 
-We use regular Malware scanning.  Our website is scanned for security holes and any known vulnerabilities on a regular basis in order to make our website as safe as possible.
+#### How to exercise these rights
 
-Your information is kept on secured networks that is only accessible by a limited number of persons that have special access rights to the systems and are required to keep all information confidential.
+Any requests to exercise User rights can be directed to the Owner by written notice and should be addressed to the following:
+
+The Frugal Housewife  
+EU Privacy Complaints  
+P. O. Box 5196  
+San Angelo, TX  76902.
+
+These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
 
 * * *
 
-#### **How do we use your information?**
+### The Frugal Housewife uses cookies on our website.
 
-We may use the information we collect from you when you fill out a form or surf the website or use certain other site features in the following ways:
+The Frugal Housewife has enabled the GDPR Compliance popup from ShareThis.  At this time, the popup will be displayed to visitors in the EU when required.  It will display a confirm consent option 
 
-  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
+#### What are cookies?
 
+Cookies are small files placed on the hard drive of your computer.  You can refuse to accept cookies by activating the appropriate setting on your web browser.  Please note that if you select to refuse cookies you may not be able to access certain parts of our website.  Unless you have your browser settings to refuse cookies, our system will issue cookies when you direct your browser to our website.
 
+We use the following cookies:
 
-* * *
-
-### Cookies
-
-Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
-
-They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services and articles.
-
-We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-#### **We use cookies to:**
-
-  * Understand and save user’s preferences for future visits.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
-  * Keep track of advertisements.
-
-
-
-**You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.**
-
-**If you turn cookies off, some features may be disabled. It won’t affect the user’s experience that makes your site experience more efficient and may not function properly.**
-
-* * *
-
-### Third-party Disclosure
-
-We do not sell, trade, or otherwise transfer to outside parties your personal data unless we provide users with advance notice.  This does not include website hosting partners and other parties who assist us in operating our website, conduct our business, or serve our users, so long as those parties agree to keep this information confidential.
-
-How your data is shared with these providers depends on your use of our links and services that we provide on our website.  We list the specific third-parties in use, along with a link to their individual privacy policies in one of the sections below.
-
-We have worked to ensure that each third-party meets or exceeds the same level of compliance and standards that we strive to follow at The Frugal Housewife and that they have procedures in place to protect your information.
-
-* * *
-
-#### **Third-party Product and Affiliate Links**
-
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies.
-
-We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**An example of this is:**
-
-From time to time, we are paid by companies to promote their website newsletter.  To do this, we offer a link where you can sign up for their newsletter.  By clicking the link, you are then directed to their website where you have the option to sign up for their newsletter.  Before signing up, it is your responsibility to make sure that you agree to their terms and conditions that are listed on their website and give permission for them to send you the newsletter.   If for some reason, you no longer want to receive that website’s newsletter, then you would need to follow the instructions on that website on how to “unsubscribe”.
-
-The Frugal Housewife does not see a list of the individuals who sign up through the links of this nature on our site.  We only see that total number of the people who clicked on our link and completed signing up for the newsletters.
-
-* * *
-
-### THIRD PARTY SERVICES (DATA PROCESSORS)
-
-The Frugal Housewife uses third-party services (data processors) across our site.  Your data is shared based on your use of our services.  We have created a list of the specific third-parties that we are currently using (with a link to their privacy policies) in the section below.
-
-#### LINKS TO THE PRIVACY POLICIES OF THE THIRD PARTY SERVICES (DATA PROCESSORS) THAT WE USE
-
-  * Amazon EU-US and Swiss-US Privacy Shield — https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380
-  * Amazon Privacy Notice — https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909010
-  * Facebook —  https://www.facebook.com/about/privacy
-  * Flickr — https://policies.yahoo.com/privacy/flickr/
-  * Instagram — https://help.instagram.com/519522125107875?helpref=page_content
-  * Pinterest — https://policy.pinterest.com/en/privacy-policy
-  * Stumbleupon — http://www.stumbleupon.com/privacy
-  * Twitter — https://twitter.com/en/privacy#update
-  * Spotify — https://www.spotify.com/us/legal/privacy-policy/
-  * WordPress Plugin Directory — https://wordpress.org/about/privacy/
-  * YouTube — https://policies.google.com/privacy
-
-
-
-#### LINKS TO SHARE POST FEATURES
-
-  * ADD THIS — https://www.addthis.com/privacy/privacy-policy
-
-
-
-#### ANALYTICS
-
-  * Google Analytics — https://policies.google.com/privacy
-  * Google Analytics Opt-Out — https://tools.google.com/dlpage/gaoptout/
-
-
-
-#### Social Media and Web Advertising
-
-  * Google Adsense — https://policies.google.com/privacy
-  * Twitter — https://twitter.com/en/privacy#update
-  * Facebook — https://www.facebook.com/about/privacy
+  * **Flash Cookies.  ** There are certain features of our Site that may use Flash Cookies to collect and store information about your preferences and the navigation to, from and while on our website.  Flash cookies are not managed by the same browser settings as web browser settings.
+  * **Strictly necessary cookies.  ** These are cookies that are required for the operation of our website.  
+Analytical/performance cookies.  They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it.  This helps us to improve the way our website works, for example, by ensuring that users find what they are looking for easily.
+  * **Functionality cookies.**   These are used to recognize you when you return to our website.  This enables us to personalize our content for you and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies.**   These cookies record your visit to our website, the pages you have visited and the links you have followed.  We will use this information to make our website and the advertising displayed on it more relevant to your interests.  We may also share this information with third-parties for this purpose.
 
 
 
 * * *
 
-### **Google**
+### We will use embedded content from other websites in our blog posts and on our pages from time to time.  This embedded content may contain cookies.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+From time to time, we may write articles which may include embedded content, such as videos, images, articles, etc. Embedded content from these other websites behaves in the exact same way as if the visitor has visited the other website.
 
-We use Google AdSense Advertising on our website.
+In other words, the websites may be able to collect data about you, use cookies, embed third-party tracking, and monitor your interaction with that embedded content. This includes tracking your interaction with the embedded content if you have an account and are logged into that website.
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+Some of the embedded content may come from the following:
 
-**We have implemented the following:**
-
-  * Remarketing with Google AdSense
-  * Demographics and Interests Reporting
-
-
-
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
-
-#### **Opting out:**
-
-**Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.**
-
-* * *
-
-### **California Online Privacy Protection Act**
-
-**  
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf**
-
-**According to CalOPPA, we agree to the following:**
-
-  * **Users can visit our site anonymously.**
-  * **Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.**
-  * **Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.**
-
-
-
-**You will be notified of any Privacy Policy changes:**
-
-  * **On our Privacy Policy Page**
-
-
-
-**You can change your personal information:**
-
-  * **  By emailing us**
+  * **Instagram widget (Instagram, Inc.)**  — Instagram widget is an image visualization service provided by Instagram, Inc. that allows this Application to incorporate the content of this kind on its pages. Personal Data collected: Cookies and Usage Data — [Privacy Policy](https://www.instagram.com/about/legal/privacy/).
+  * **Spotify widget (Spotify AB)**  — Spotify is an audio content delivery service provided by Spotify AB that allows this Application to incorporate the content of this kind on its pages.  Personal Data collected: Cookies and Usage Data. – [Privacy Policy](https://www.spotify.com/us/legal/privacy-policy/).
+  * **YouTube video widget (Google Inc.)**  — YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate the content of this kind on its pages.   Personal Data collected: Cookies and Usage Data. – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/). Privacy Shield participant.
 
 
 
 * * *
 
-### **COPPA (Children Online Privacy Protection Act)**
+### We offer the ability to share our content on external social networks through the use of our share buttons placed by the ShareThis plugin.
+
+The Frugal Housewife uses ShareThis.  ShareThis collects consented personal data (ie personal data such as cookies, IP addresses, device IDs etc. collected and processed by its publisher partners under consent) from its publishers and will process that data to its downstream partners based on consent.
+
+At the top of each of our posts, you will see buttons that are placed through the ShareThis plugin to share out posts and information to various platforms.  Below are the names of the buttons and the locations of their privacy policies to allow you to see how to opt-in or opt-out of the cookies placed by their respective applications.  We have included the ability to share our content on other social networks through ShareThis.  Before sharing with those social network platforms, you should always check their privacy policies to see how they are processing and controlling the personal data they are collecting.
+
+  * **Facebook Like button and social widgets (Facebook, Inc.)**  — The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc. Personal Data collected: Cookies and Usage Data. – [Privacy Policy](https://www.facebook.com/privacy/explanation).
+  * **Google+ +1 button and social widgets (Google Inc.)**  — The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc. Personal Data collected: Cookies and Usage Data. — [Privacy Policy](https://www.google.com/intl/policies/privacy/).
+  * **Pinterest “Pin it” button and social widgets (Pinterest)**  — The Pinterest “Pin it” button and social widgets are services allowing interaction with the Pinterest platform provided by Pinterest Inc.   Personal Data collected: Cookies and Usage Data. – [Privacy Policy](https://about.pinterest.com/en/privacy-policy).
+  * **Twitter Tweet button and social widgets (Twitter)**  — The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter Inc. Personal Data collected: Cookies and Usage Data. – [Privacy Policy](https://twitter.com/privacy).
+
+
+
+* * *
+
+### DETAILED INFORMATION ON THE PROCESSING OF PERSONAL DATA
+
+### ANALYTICS
+
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+
+#### Analytics collected directly (This Website)
+
+This Website uses an internal analytics system that does not involve third parties.
+
+Personal Data collected: Cookies and Usage Data.
+
+* * *
+
+#### Facebook Ads conversion tracking (Facebook, Inc.)
+
+Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on this Website.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/).
+
+* * *
+
+#### Google Analytics (Google Inc.)
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+* * *
+
+### SPAM PROTECTION
+
+This type of service analyzes the traffic of this Application, potentially containing Users’ Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.
+
+#### Akismet (Automattic Inc.)
+
+Akismet is a SPAM protection service provided by Automattic Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
+
+Place of processing: United States – [Privacy Policy](https://automattic.com/privacy/).
+
+* * *
+
+### CONTACTING THE USER
+
+#### Contact form (this Application)
+
+By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
+
+Personal Data collected: email address and first name.
+
+* * *
+
+### TAG MANAGEMENT
+
+This type of service helps the Owner to manage the tags or scripts needed on this Application in a centralized fashion.  
+This results in the Users’ Data flowing through these services, potentially resulting in the retention of this Data.
+
+#### Google Tag Manager (Google LLC)
+
+Google Tag Manager is a tag management service provided by Google LLC.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant.
+
+* * *
+
+### Content performance and features testing (A/B testing)
+
+The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of this Application.
+
+#### Google Website Optimizer (Google Inc.)
+
+Google Website Optimizer is an A/B testing service provided by Google Inc.  
+Google may use Personal Data to contextualize and personalize the ads of its own advertising network.
+
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States – [Privacy Policy](https://www.google.com/intl/policies/privacy/). Privacy Shield participant.
+
+* * *
+
+### THIRD-PARTY COOKIES & ADVERTISER COOKIES
+
+Third-party cookies are placed on our website through the use of advertising.  The Frugal Housewife has no access to or control over the third-party cookies or how they treat the information that they gather from our site.
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on The Frugal Housewife and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
+
+  * **CJ Affiliate by Conversant (Conversant, Inc.)**  — CJ Affiliate by Conversant is a commercial affiliation service provided by Conversant, Inc.  Personal Data collected: Cookies and Usage Data.  Place of processing: US – [Privacy Policy](http://www.conversantmedia.com/legal/privacy).
+  * **Rakuten Marketing (Linkshare) Affiliate**  — Rakuten Marketing is a commercial service provided by Rakuten Marketing LLC.  Personal Data collected:  Cookies and Usage Data  — [Privacy Policy](https://rakutenmarketing.com/legal-notices/website-privacy-policy).
+  * **ShareASale**  — ShareASale is a commercial service provided by ShareASale Inc.  Personal Data collected:  Cookies and Usage Data  — [Privacy Policy](http://www.shareasale.com/PrivacyPolicy.pdf)
+  * **Amazon Affiliate Program**  — The Frugal Housewife is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [insert the applicable site name (amazon.com).  Personal Data collected:  Cookies and Usage Data    [Amazon Ad Preferences ](https://www.amazon.com/adprefs)
+  * **Coupons.com**  —  Coupons.com is the service that we use to share coupons to help our readers save money on the products they purchase.  It is owned by Quotient Technology.  Personal Data collected:  Cookies and Usage Data  — [Privacy Policy](https://www.quotient.com/privacy-policy/)
+  * **Media.net**  — Contextual ads are sometimes placed in our posts using Media.net.  Media.net contextual text ad units are primarily driven by context and not audience data. For EEA users and citizens of the EU, Media.net does not collect, store or use any Personal Data for ad targeting and wherever applicable serves only non-personalized ads across all ad formats. We only send the user IP address to upstream providers for the purpose of fraud identification and mitigation. The upstream providers may use IP addresses for geotargeting not more granular than city or DMA level. For more details, you can read Media.net’s new [Privacy Policy](https://www.media.net/en/privacy-policy) here.
+  * **Google Adsense**  — Google, as a third party vendor, uses cookies to serve ads on The Frugal Housewife.  Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to thefrugalhousewife.com and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+
+
+**You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. The Frugal Housewife’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.**
+
+**If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.**
+
+**The Frugal Housewife is not responsible for the effectiveness of, or compliance with, any third-parties opt-out option or program.**
+
+* * *
+
+### HOW YOU CAN CONTROL COOKIES IN YOUR BROWSER
+
+To find out how to stop seeing interest-based ads from other companies and ad networks that participate in self-regulatory programs, visit the following sites:
+
+  * **In the United States:  ** [DIGITAL ADVERTISING ALLIANCE (DAA)](http://optout.aboutads.info/?c=2#!/)
+  * **In Europe:  ** [EUROPEAN INTERACTIVE DIGITAL ADVERTISING ALLIANCE](http://www.youronlinechoices.com/) (EDAA)
+  * **In Canada:  ** [DIGITAL ADVERTISING ALLIANCE OF CANADA](https://youradchoices.ca/) (DAAC)
+
+
+
+The tools provided by the DAA opt-out page and NAI opt-out page are not provided by The Frugal Housewife but by third-parties.  We do not control these tools or the choices the advertisers and others provide through these tools.  Some of our third-party service providers require their opt-out links be listed specifically.  These links are listed below.
+
+Please note that when you opt-out, you may receive an “opt-out” cookie so that the network will know not to assign you new cookies in the future.  You will continue to receive ads, but not ads that are behaviorally targeted ads.
+
+Also note that if you erase your browser’s cookies, you may need to perform this process again.  The Frugal Housewife is not responsible for the effectiveness of, or compliance with, any third-parties opt-out option or program.  The Frugal Housewife is also not responsible for the accuracy of their statements regarding their programs.
+
+* * *
+
+### APPLICABILITY OF BROADER PROTECTIONS STANDARDS
+
+While most provisions of this document concern all Users, some provisions expressly only apply if the processing of Personal Data is subject to broader protection standards.
+
+Such broader protection standards apply when the processing:
+
+  * is performed by an Owner based within the EU;
+  * concerns the Personal Data of Users who are in the EU and is related to the offering of paid or unpaid goods or services, to such Users;
+  * concerns the Personal Data of Users who are in the EU and allows the Owner to monitor such Users’ behavior taking place in the EU.
+
+
+
+* * *
+
+### ADDITIONAL INFORMATION ABOUT DATA COLLECTION AND PROCESSING
+
+### Legal action
+
+The User’s Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Website or the related Services.  
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+
+### Additional information about User’s Personal Data
+
+In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+
+### System logs and maintenance
+
+For operation and maintenance purposes, this Website and any third-party services may collect files that record interaction with this Website (System logs) use other Personal Data (such as the IP Address) for this purpose.
+
+### Information not contained in this policy
+
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
+
+### How “Do Not Track” requests are handled
+
+This Website does not support “Do Not Track” requests.  
+To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+
+### COPPA (Children Online Privacy Protection Act)
 
 When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-#### However, in order to comply with the GDPR, we have made the decision to up the age that is required by law here in the United States.  We do not specifically market to children under the age of 18 years old.
+However, in order to comply with the GDPR, we have made the decision to up the age that is required by law here in the United States. We do not specifically market to children under the age of 18 years old.
 
 * * *
 
-### **Fair Information Practices**
+### CAN SPAM Act
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe.
+The CAN-SPAM Act is a United States law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-  * We will notify you via a notice on the website within 7 business days
-  *  We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-
-
-* * *
-
-### **CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**
+We collect your email address in order to:
 
   * Send information in response to inquiries, and/or other requests or questions
 
 
 
-**To be in accordance with CANSPAM, we agree to the following:**
+To be in accordance with CANSPAM, we agree to the following:
 
   * Not use false or misleading subjects or email addresses.
   * Identify the message as an advertisement in some reasonable way.
@@ -236,28 +286,15 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
   * Monitor third-party email marketing services for compliance, if one is used.
   * Honor opt-out/unsubscribe requests quickly.
   * Allow users to unsubscribe by using the link at the bottom of each email.
+  * If at any time you would like to unsubscribe from receiving future emails, you can email us at  
+thefrugalhousewife@gmail.com and we will promptly remove you from ALL correspondence.
 
 
 
-**If at any time you would like to unsubscribe from receiving future emails, you can email us at**  
-**thefrugalhousewife@gmail.com and we will promptly remove you from ALL correspondence.**
+The Frugal Housewife may change its Privacy Policy from time to time and at our discretion.  The date located at the bottom of this Privacy Policy will reflect the most recent version of the Privacy Policy.  All updates and changes become effective immediately upon notice, which may be given by any means, including but not limited to, posting a revised version of this Privacy Policy or other notice on our website.
 
-* * *
+Please review this Privacy Policy often to stay informed of any changes that may affect your and your continued use of this website.
 
-### **Contact  Us**
+This Privacy Policy is effective with respect to any data that we have collected or will collect about and/or from you.
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-The Frugal Housewife  
-P. O. Box 5196  
-San Angelo, Texas 76902  
-United States  
-thefrugalhousewife@gmail.com
-
-* * *
-
-### Privacy Policy Changes
-
-The Frugal Housewife may change its Privacy Policy from time to time and at our discretion.  The Frugal Housewife will notify its readers via a message in the sidebar of the website when changes are made.
-
-Last Edited on May 7, 2018
+Originally Published on May 7, 2018; Updated on June 5, 2018.
