@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907042118id_/https%3A//www.mda.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412193739id_/https%3A//www.mda.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Muscular Dystrophy Association
 
@@ -102,7 +102,7 @@ The Services are controlled, operated and administered entirely within the Unite
 
 If you have any questions about our privacy practices, concerns regarding misuse of personal data, or other inquiries related to the terms or conditions of this Privacy Policy, please feel free to contact us as follows:
 
-Email: [mda@mdausa.org(link sends e-mail)](mailto:mda@mdausa.org)
+Email: [privacyofficer@mdausa.org(link sends e-mail)](mailto:privacyofficer@mdausa.org)
 
 **OR**
 
