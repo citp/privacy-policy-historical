@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slippedisc.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902165338id_/https%3A//slippedisc.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slippedisc.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412235425id_/https%3A//slippedisc.com/cookies-privacy-policy) for the most accurate reproduction.*
 
-# Cookies & Privacy Policy – Slipped Disc
+# Slipped Disc | Cookies & Privacy Policy
 
 Our website provides an interactive environment on the Internet to enable users from around the world to find, use and share information. We recognise and support the need to protect the privacy rights of our users through disclosure of our practices for collection and use of user information.
 
@@ -18,7 +18,7 @@ In some circumstances we will ask you to provide us with your email address and/
 
 Our site contains links to other Internet sites. We encourage all of our partners, contributors and third parties to implement policies and practices that respect the privacy of our users. However, we are not responsible for the privacy practices or the content of such websites.
 
-Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement. If you have any questions or comments about our privacy practices, you can contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f081a1d121e0c0b1a0d3f0c13160f0f1a1b160c1c511c1012)
+Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement. If you have any questions or comments about our privacy practices, you can contact us at: [webmaster@slippedisc.com](mailto:webmaster@slippedisc.com)
 
 #### Cookies
 
@@ -35,5 +35,3 @@ Norman Lebrecht sometimes embed photos and video content from websites such as Y
 We would like to draw your attention to the fact that the Slipped Disc website now carries embedded ‘share’ buttons to enable users of the site to easily share articles with their friends through a number of popular social networks. These sites may set a cookie when you are also logged in to their service. Norman Lebrecht does not control the dissemination of these cookies and you should check the relevant third party website for more information about these.
 
 Below is a list of third party cookies used on this website, the purpose of the cookie and how to remove them.
-
-* * *
