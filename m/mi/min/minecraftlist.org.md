@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minecraftlist.org privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102185241id_/https%3A//minecraftlist.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftlist.org privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412193207id_/https%3A//minecraftlist.org/privacy-policy) for the most accurate reproduction.*
 
-# Minecraft server list - Minecraft List
+# Minecraft Server List - Minecraft List
 
 This page outlines the types of personal information received and collected by MinecraftList.org and how it is used. 
 
@@ -31,4 +31,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us via our email – admin@minecraftlist.org
+If you require any more information or have any questions about our privacy policy, please feel free to contact us via our email – admin[[email protected]](https://minecraftlist.org/cdn-cgi/l/email-protection)
