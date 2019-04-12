@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925204708id_/https%3A//pricebaba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412212239id_/https%3A//pricebaba.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pricebaba.com
 
