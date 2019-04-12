@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asaptickets.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828224729id_/https%3A//www.asaptickets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asaptickets.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412201932id_/https%3A//www.asaptickets.com/privacy) for the most accurate reproduction.*
 
 # Asaptickets.com Privacy Policy
 
