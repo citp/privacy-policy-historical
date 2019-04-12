@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112022415id_/https%3A//www.bangor.ac.uk/corporate/cookies/index.php.en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412143244id_/https%3A//www.bangor.ac.uk/about/cookies/index.php.en) for the most accurate reproduction.*
 
 # Website privacy & cookies | About the University | Bangor University
 
@@ -8,19 +8,18 @@ Official University pages have a "base" URL in one of the following formats:
 
   * www.bangor.ac.uk/directoryname/ e.g. [www.bangor.ac.uk/courses](https://web.archive.org/courses)
   * http://sitename.bangor.ac.uk/ eg. <http://barheadedgoose.bangor.ac.uk/>
-  * [http://m.bangor.ac.uk](http://m.bangor.ac.uk/)
 
 
 
 ## Website Privacy Policy and Data Protection
 
-The University is a Registered Data Controller as defined by the Data Protection Act 1998. Any personal details collected through this web site and provided by you will be processed in accordance with the Act, and will only be used for the purpose or purposes stated on the relevant page.
+The University is a Registered Data Controller as defined by the Data Protection Act 2018. Any personal details collected through this web site and provided by you will be processed in accordance with the Act, and will only be used for the purpose or purposes stated on the relevant page.
 
 You may also wish to consult our;
 
-  * [Freedom of Information Policy](https://web.archive.org/ar/ro/recordsmanagement/freedomofinformation/index.php.en)
-  * [Data Protection Policy](https://web.archive.org/ar/ro/recordsmanagement/dataprotection/DPPolicy.php.en)
-  * [Privacy Policy (Website)](https://web.archive.org/web/20171003115653id_/https://www.bangor.ac.uk/about/cookies/Privacy%20Policy.pdf)
+  * [Freedom of Information Policy](https://web.archive.org/governance-and-compliance/freedomofinformation/index.php.en)
+  * [Data Protection Policy](https://web.archive.org/governance-and-compliance/dataprotection/index.php.en)
+  * [Privacy Policy (Website)](https://web.archive.org/web/20190412143244id_/https%3A//www.bangor.ac.uk/about/cookies/Privacy%20Policy.pdf)
 
 
 
