@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typing.io privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704141132id_/https%3A//typing.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typing.io privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412103221id_/https%3A//typing.io/privacy) for the most accurate reproduction.*
 
 # Typing Practice for Programmers | typing.io
 
