@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bitesquad.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817085713id_/https%3A//www.bitesquad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitesquad.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412140844id_/https%3A//www.bitesquad.com/privacy) for the most accurate reproduction.*
 
-# Bite Squad Privacy Policy - BiteSquad.com
+# Privacy Policy - BiteSquad.com
 
 **Online Privacy Statement**
 
-Version Date: 4.17.2018
+Version Date: 7.3.2018
 
 Scope of this Online Privacy Statement
 
-This Online Privacy Statement describes how Bitesquad.com, LLC and its affiliates (collectively “Bite Squad”) uses, shares and protects the personal information we collect through [www.bitesquad.com](https://web.archive.org/) ("bitesquad.com" or "this site"), which includes Bite Squad mobile applications. "Personal information" is information that identifies you personally, either alone or in combination with other information. Personal information may include, for example, your name, address, email address, credit card information, and transaction history. This Online Privacy Statement is part of and incorporated into the [Bitesquad.com Terms of Use](https://web.archive.org/terms-of-use)
+This Online Privacy Statement describes how Bitesquad.com, LLC and its affiliates (collectively “Bite Squad”) uses, shares and protects the personal information we collect through [www.bitesquad.com](https://www.bitesquad.com/) ("bitesquad.com" or "this site"), which includes Bite Squad mobile applications. "Personal information" is information that identifies you personally, either alone or in combination with other information. Personal information may include, for example, your name, address, email address, credit card information, and transaction history. This Online Privacy Statement is part of and incorporated into the [Bitesquad.com Terms of Use](https://www.bitesquad.com/terms-of-use)
 
 Your Consent to This Online Privacy Statement
 
@@ -54,7 +54,7 @@ How Do We Use Your Personal Information?
 
 We may use the personal information we collect through Bitesquad.com
 
-  * to fulfill your order; 
+  * to fulfill your order;
   * to provide you with the information, products and services you request or purchase;
   * for security, credit or fraud prevention purposes;
   * to provide you with effective customer service;
@@ -67,13 +67,13 @@ We may use the personal information we collect through Bitesquad.com
   * to improve the content, functionality and usability of our Mobile Applications;
   * to improve our products and services;
   * to improve our marketing and promotional efforts;
-  * to prevent or take action against illegal activity on our site, or to comply with applicable law or cooperate with law enforcement; 
+  * to prevent or take action against illegal activity on our site, or to comply with applicable law or cooperate with law enforcement;
   * to establish or exercise our legal rights or defend claims, or as otherwise required by law;
-  * to provide to direct mail partners for selected providers of goods and services that may be of interest to you; 
+  * to provide to direct mail partners for selected providers of goods and services that may be of interest to you;
   * for marketing purposes;
-  * to transfer to restaurants all information necessary for preparing and processing the order, which may include transferring credit card and other payment information; 
+  * to transfer to restaurants all information necessary for preparing and processing the order, which may include transferring credit card and other payment information;
   * to provide to third party service providers;
-  * to transfer to a successor organization in the event of a merger, acquisition, bankruptcy or sale of Bite Squad’s assets; and 
+  * to transfer to a successor organization in the event of a merger, acquisition, bankruptcy or sale of Bite Squad’s assets; and
   * for any other purpose we identify in a specific privacy notice.
 
 
@@ -112,7 +112,7 @@ We may disclose the personal information we collect through Bitesquad.com when w
 
 What Choices Do You Have?
 
-Bite Squad respects your right to make choices about the ways we collect, use and disclose your personal information. We generally ask you to indicate your choices at the time that you register as a user of Bitesquad.com or on the page where you provide your personal information. You may browse Bitesquad.com or Bite Squad Mobile Applications without providing any information that identifies you personally and may choose not to provide the information we request, although this may mean that you cannot make a purchase or take advantage of other Bitesquad.com or Mobile Application features. When you register as an Bitesquad.com or Mobile Application user, you automatically start to receive information and product promotions periodically via e-mail. You may "opt-out" of receiving our promotional emails at any time by following the instructions contained at the end of the particular email. You may also manage your subscription and email preferences by clicking on "My Account" on Bitesquad.com, Bite Squad’s Mobile Application or by sending us an email. To send us an email, please [click here](mailto:support@bitesquad.com)
+Bite Squad respects your right to make choices about the ways we collect, use and disclose your personal information. We generally ask you to indicate your choices at the time that you register as a user of Bitesquad.com or on the page where you provide your personal information. You may browse Bitesquad.com or Bite Squad Mobile Applications without providing any information that identifies you personally and may choose not to provide the information we request, although this may mean that you cannot make a purchase or take advantage of other Bitesquad.com or Mobile Application features. When you register as an Bitesquad.com or Mobile Application user, you automatically start to receive information and product promotions periodically via e-mail. You may "opt-out" of receiving our promotional emails at any time by following the instructions contained at the end of the particular email. You may also manage your subscription and email preferences by clicking on "My Account" on Bitesquad.com, Bite Squad’s Mobile Application or by sending us an email. To send us an email, please [click here](mailto:support@bitesquad.com).
 
 How Can You Update or Correct Your Personal Information?
 
@@ -130,6 +130,10 @@ Links to Other Web Sites
 
 Bitesquad.com contains links to other websites that are owned and operated by unrelated third parties. This Online Privacy Statement applies only to personal information collected through Bitesquad.com. It does not apply to personal information collected on any other website operated by Bite Squad or its corporate affiliates, nor to any website operated by any third party. These web sites have their own policies regarding privacy. We recommend you review the privacy policy posted on any site you visit before using the site or providing any personal information about yourself.
 
+Google Maps
+
+Your use of Google Maps is subject to Google’s privacy policy found here: <https://policies.google.com/privacy>.
+
 Children and Minors
 
 Bitesquad.com is not directed at nor targeted to children. We do not use this site to knowingly solicit personal information from or market to children. If you are under 13 years of age, you should not submit any personal information to us.
@@ -144,4 +148,4 @@ BiteSquad.com, LLC
 Minneapolis, MN 55404  
 Email: [support@bitesquad.com](mailto:support@bitesquad.com)  
 Phone: 763-400-4904  
-Fax: 612-354-3816 
+Fax: 612-354-3816
