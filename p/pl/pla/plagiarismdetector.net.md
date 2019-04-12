@@ -1,134 +1,478 @@
-> *The following text is extracted and transformed from the plagiarismdetector.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121121002id_/http%3A//plagiarismdetector.net/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plagiarismdetector.net privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413002559id_/https%3A//plagiarismdetector.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Plagiarism Detector – privacy policy
 
-### What This Privacy Policy Covers
+We at PlagiarismDetector.net care about the privacy of the data being shared with us by our users that is why are dedicated to protecting our client's privacy. This Privacy Policy aims to provide our consumers with proper knowledge regarding what information we collect and why, as well as how we utilize that information. All the way through this policy, know that when we write "PlagiarismDetector.net" or "we" or "us", it means that we speak of PlagiarismDetector.net, Inc., a corporation, and our subsidiaries and other affiliates. 
 
-This arrangement covers how [Plagiarism Detector](http://plagiarismdetector.net/) treats content you submit to us and furthermore singular information that we accumulate and get, incorporating information related to your past use of our things and organizations. Singular information is information about you that is really identifiable- -like your own data that incorporates name point of interest, area, house address, email or phone subtle elements - and that is not by and large unreservedly open, like your Plagiarism Detector username and watchword.
+This Privacy Policy has been compiled to serve users who are concerned about how their 'Personally Identifiable Information (PII)' can be used online. As per US privacy law and information security, PII is information that may be used on its own or with other information to identify, locate, or contact an individual. We recommend you to read the policy carefully to get a clear understanding of how we collect, use, or handle your PII according to our Site, Software, App, and Services. 
 
-This methodology does not have any kind of effect to the demonstrations of associations that Plagiarism Detector does not have or control, or to people that Plagiarism Detector does not use or direct, which suggests this plan does not cover the demonstrations of relationship with associations or advancements on Plagiarism Detector. 
+### Table of Contents
 
-This Privacy Policy uncovers the security practices for www.plagiarismdetector.net, its applications, things, programming distinctive related organizations (together insinuated as the "Organizations"). The Services are given by www.plagiarismdetector.net and its parent, backups, business divisions and reinforcements (suggested as "us" or "we"). We are centered around securing your security on the web. In the event that its not all that much inconvenience read the information underneath to take in the going hand in hand with as to your use of the Services. 
+  * What is the scope of this PlagiarismDetector.net Privacy Policy?
+  * What Information does PlagiarismDetector.net collect about me?
+  * Data you provide us whenever you create an account
+  * What other Information we collect from you?
+  * What information is automatically collected?
+  * When does PlagiarismDetector.net collect information?
+  * How does PlagiarismDetector.net use my Information?
+  * Does PlagiarismDetector.net analyze User Content?
+  * Right to use Data and Disclosure
+  * Does PlagiarismDetector.net ever share my Information?
+  * Does PlagiarismDetector.net get profit for my Personal Data by selling them? 
+  * Does PlagiarismDetector.net use cookies?
+  * Cookies that we use
+  * How to delete, modify or disable cookies?
+  * How do plugins and third-party apps work?
+  * Will PlagiarismDetector.net send me email notifications?
+  * Will PlagiarismDetector.net ever make any of my Personal Data or User Content public?
+  * How does PlagiarismDetector.net handle Do Not Track signals?
+  * COPPA (Children Online Privacy P PlagiarismDetector.net rotection Act)
+  * Does PlagiarismDetector.net get information from children?
+  * Data transfer, storage, retention, and deletion
+  * Where is my Information stored when shared with PlagiarismDetector.net?
+  * How safe is my Information?
+  * How can I erase my Personal Data from PlagiarismDetector.net?
+  * How long is my Personal Data stored in the PlagiarismDetector.net system? 
+  * What would happen if PlagiarismDetector.net closes my account?
+  * California Online Privacy Protection Act
+  * Fair Information Practices
+  * For EEA users
+  * What are my rights as a user, and how can I use them?
+  * Will this Privacy Policy ever change?
+  * Contact Us
 
-You agree that this Privacy Policy is a piece of our Terms of Service for www.plagiarismchecker.com, and by getting to or using our Services, you agree to be bound by every single bit of its terms and conditions. If you don't agree to these terms, merciful don't get to or use the Services. 
 
+
+####  What is the scope of this PlagiarismDetector.net Privacy Policy? 
+
+This Privacy Policy is integrated into PlagiarismDetector.net's Terms of Service and License Agreement which can be found at https://plagiarismdetector.net/privacy (the "Terms of Service") and relates to the information acquired by us through your use of PlagiarismDetector.net's Site, Software, App, and Services ("Information") as explained in this Policy. The use of capitalized terms in this Policy and not otherwise stated shall have the definition given for those terms in the "Terms of Service". 
+
+####  What Information does PlagiarismDetector.net collect about me? 
+
+Whenever a client interacts with our Software, App, Site, and/or Services, we may collect a single Information or in combination with other data, could be used to identify you ("Personal Data"). There will also be some Information that we collect that is kept in a way that cannot be linked back to you ("Non-Personal Data"). 
+
+#### Data you provide us whenever you create an account
+
+When you register to use PlagiarismDetector.net services, you willingly share with us certain Personal Data, including the following: 
+
+Your email address, username, contact, and language preferences. When logging into PlagiarismDetector.net with a social networking credential, such as with your Google+ or Facebook account, we will ask for your consent to access basic information from that account, such as your email address and name. If you want to stop sharing that information with us, you may do so at any time by removing PlagiarismDetector.net access to that account. 
+
+If you are a paying client, you should provide your payment information. This is needed to fully deliver any marketable transaction on the PlagiarismDetector.net site. We use the data to process and fulfill your transaction. If you select PayPal® to pay for your order, you will have to provide your credit card number directly to PayPal®. The privacy policy of PayPal® will apply to the information you provide on the PayPal® website. 
+
+#### What other Information we collect from you?
+
+PlagiarismDetector.net collect this Information as you use the Site, Software, App, and/or Services: 
+
+**_User Content:_** This includes all text, documents, or other content or information uploaded, entered, or otherwise transferred by you as part of your use of our Services and/or Software. 
+
+#### What information is automatically collected?
+
+There is certain information about the devices you use to connect with PlagiarismDetector.net and your use of the Site, Software, App, and/or Services are automatically registered in our systems, including the following: 
+
+**_Your location:_** This is the geographic area or place where you use your devices such as your computer, cellphone or tablet (as specified by an Internet Protocol [IP] address or similar identifier) when interacting with our Site, Software, App, and/or Services. 
+
+**_Your log data or information:_** Same like other websites, our servers automatically gather data when you access or use our Site, Software, App, and/or Services and store it in log files. This log data may include your IP address, browser type and settings, browser configuration, the date and time of use, cookie data, and language preferences. 
+
+**_Your usage information:_** This is information about the PlagiarismDetector.net Site, Software, App, and/or Services you use and how you use them. We may also attain data from our third-party affiliates and service providers to examine how consumers use our Site, Software, App, and/or Services. For example, we will have an idea on the number of users who are accessing a specific page on the site and at which links they normally clicked on. We will use this collected data to better understand and to help in optimizing the site. 
+
+**_Your device information:_** These are data gathered from your computer or mobile device which include the type of hardware and software you are using (such as your operating system and browser type), and also unique device identifiers for devices that are using the PlagiarismDetector.net. 
+
+**_Cookies:_** Data gathered from cookies are explained in the "Does PlagiarismDetector.net use cookies?" section and in our Cookie Policy. 
+
+#### When does PlagiarismDetector.net collect information?
+
+We collect information from you when you fill out a form, subscribe to a newsletter, place an order, use live chat, open a support ticket, and/or enter any information on our site. 
+
+#### How does PlagiarismDetector.net use my Information?
+
+We at PlagiarismDetector.net process, use, and record your Information as necessary to be able to carry out our contract with you and for our legitimate business interests, including the following: 
+
+  * to communicate and build a connection with you about your use of our Site, Software, and/or Services, our product and service announcements, software updates if any, and to be able to give feedback to your requests for assistance which includes providing you with account verification support in the event that you are having problems with accessing your account or to follow up with you after correspondence. 
+  * to help us manage our Site, Software, App, and/or Services, validate users for security purposes, offer tailored user features and access, process and deliver transactions, conduct reviews and study, develop upcoming features, and improve the algorithms and performance of our Site, Software, App, and/or Services. 
+  * to send you direct email notifications and special offers about PlagiarismDetector.net services, from which you can unsubscribe at any time you desire. For more details about this, kindly go this section - "Will PlagiarismDetector.net send me emails?" If you are someone that resides in the European Economic Area (EEA), we will only send you promotional materials if you permit us to do so from the time you create your account or any point thereafter. 
+  * to determine cumulative statistics on the quantity of unique devices using our Site, Software, App, and/or Services, and to identify and prevent misuse and fraud. 
+  * To process your transactions quickly 
+  * to show User Content related with your account and to ensure that it is accessible to you when you use our Services. 
+
+
+
+#### Does PlagiarismDetector.net analyze User Content?
+
+We guarantee that PlagiarismDetector.net employees do not monitor all User Content that are stored in or transmitted through our Site, Software, App, and/or Services, but it may be viewed if we found out that the Terms of Service have been violated and an authorization is required, if we find it necessary to do so answer your requests for user support, if we otherwise decide that there is a need to review it as defined in the Terms of Service, or to enhance our algorithms as stated in the User Content section of our Terms of Service. Lastly, your Information may be viewed where there is a need to protect the rights, property, or personal safety of PlagiarismDetector.net and its users, or to conform with our legal obligations, such as responding to any legal processed like warrants and court orders. 
+
+#### Right to use Data and Disclosure
+
+**Does PlagiarismDetector.net ever share my Information?**
+
+PlagiarismDetector.net only disclose Personal Data to third parties when: 
+
+  * We work with service providers who help us in fulfilling business operation's requirements, these include hosting, improving, and carrying our Services. We also use service providers for specific services and functions such as customer support services, email communication, and analytics. These service providers may only access, process, or record Personal Data in accordance to our instructions and to accomplish their duties to us. 
+  * We have your permission to share your Personal Data. 
+  * We believe it is important to investigate possible violations of the Terms of Service, to implement those Terms of Service, or where we believe it is necessary to probe or take action regarding unlawful activities, suspected fraud, or potential threats against property, persons, or the methods on which we operate our Site, Software, App, and/or Services. 
+  * We ascertain that the preservation, access, or disclosure of your Personal Data is mandatory by law to safeguard the rights, property, or personal safety of PlagiarismDetector.net and the users of our Site, Software, App, and/or Services, or to respond to lawful requests by any public authorities. 
+  * We need to do so in relation with an acquisition, merger, reorganization, bankruptcy, public offering of securities, selling of some or all of our assets. In such cases some or all of your Personal Data may be transferred or shared with another entity, subject to this Privacy Policy. 
+  * We may impart or disclose Non-Personal Data to third parties and publicly - for example, to affiliates under agreement with us, or as part of progress reports which we may provide to users. 
+
+
+
+####  Does PlagiarismDetector.net get profit for my Personal Data by selling them? 
+
+No, PlagiarismDetector.net does not sell or rent your Personal Data. 
+
+#### Does PlagiarismDetector.net use cookies?
+
+Cookies are used by web browsers to provide personalized content and remember login credential and account settings. PlagiarismDetector.net uses cookies and similar technologies, including web beacons and tracking pixels. These are needed to collect usage and analytic data that helps us provide our Site, Software, App, and/or Services to you and also to aid in delivering ads for relevant PlagiarismDetector.net products and services to you when you browse certain pages on the Site and then go to third-party sites. PlagiarismDetector.net does not share your Personal Data with third parties for the purpose of allowing them to deliver their advertisements to you. For more information on cookies and how PlagiarismDetector.net uses them, please see our Cookie Policy. ****
+
+**We use cookies to:**
+
+  * Help remember and process the items in the shopping cart. 
+  * Understand and save preferences of users for future visits. 
+  * Track & analyze our user's activity, so we can offer a better experience. 
+
+
+
+You can choose to turn off all cookies, or you can choose to have your computer warn you whenever a cookie is being sent. This can be done through your browser settings. Since every browser is different, go to your browser's Help Menu to learn how you can correctly modify cookies. If you choose to turn cookies off, some of the features may not function properly. 
+
+**_Third-party Disclosure_**
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information. 
+
+**_Third-party Links_**
+
+  * We use third-party links in our Blog Posts to help improve the content for our readers. 
+  * We use third-party links in our Privacy Policy page in order to guide our visitors how we handle PII and cookies. 
+
+
+
+Please be aware that we cannot guarantee the authenticity of any external links that you may visit. It is recommended that you always do your own research before visiting any third-party link. 
+
+**_Google_**
+
+We use Google Adsense Advertising on our Site, App, and/or software. Google's Advertising Principles can sum up Google's advertising requirements. They are introduced to provide a better experience for users. 
+
+For further information visit: https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+As a third-party vendor, Google makes use of cookies to serve ads on our Site, App, and/or Software. Google's use of the DART cookie enables it to serve ads to our users on the basis of their previous visits to our Site, Software, App, and Services and other sites. If you want to opt-out of the use of the DART cookie, you can do so by visiting the privacy policy of Google Ad and Content Network. 
+
+#### Cookies that we use
+
+**Origin**
+
+| 
+
+**Cookie**
+
+| 
+
+**Description**
+
+| 
+
+**Expiry**
+
+| 
+
+**Category**  
   
-
-
-### Copyright infringement Detector respects your security: 
-
-Any individual information you provide for us including and like your name, area, telephone number and email area won't be released, sold, or rented to any components or individuals outside of Plagiarism Detector.
-
+---|---|---|---|---  
   
+CloudFlare 
 
+| 
 
-### General:
+__cfduid 
 
-We may send you certain correspondences relating to Plagiarism Detector, for instance, organization statements, administrative messages if you tail us on Facebook or Twitter.
+| 
 
+The '__cfduid' cookie is set by the CloudFlare service to identify trusted web traffic. It does not correspond to any user id in the web application, nor does the cookie store any personally identifiable information.   
+https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do- 
+
+| 
+
+First Party   
+Persistent 
+
+| 
+
+Analytics & Marketing   
   
+Google Analytics 
 
+| 
 
-### Security:
+_gid 
 
-We take after generally recognized industry benchmarks to secure individual information submitted to Plagiarism Detector from incident, misuse, unapproved access, disclosure, change, and pummeling. 
+| 
 
+Used to distinguish users. 
+
+| 
+
+2 years 
+
+| 
+
+Analytics & Marketing   
   
+Google Analytics 
 
+| 
 
-### Changes to this Privacy Policy:
+_ga 
 
-Plagiarism Detector may upgrade this course of action. We will educate you about paramount changes in the way we treat singular information by sending a warning on Facebook and Twitter. 
+| 
 
-We may change this Privacy Policy at whatever point. We took off give notice of such changes issuing an email to the email area recorded by enrolled customers and/or by posting a warning about our rethought Privacy Policy on the Services. You agree to acknowledge the commitment to (a) visit this page irregularly to review any such changes and to (b) keep up a generous email address as an enrolled customer. By getting to and continuing using the Services after we post notice of any movements, you imply your concur and agree to the redesigned Privacy Policy. 
+Used to distinguish users 
 
+| 
+
+First Party   
+Persistent 
+
+| 
+
+Analytics & Marketing   
   
+PlagiarismDetector.net 
 
+| 
 
-### Sorts of Information Collected:
+bioep_shown 
 
-With a particular finished objective to better give you our different organizations, we assemble information from our customers. We assemble Personally Identifiable Information, which is information that lets us know the specifics of who you are. When you partake in particular activities on the Services, for instance, selecting for an enlistment, asking for a thing or organization, submitting substance and/or posting substance in talk examinations or other open zones, take part in a test or sweepstakes, balancing a diagram, or sending us include, we may ask for that you give certain information about yourself by adjusting and displaying an online structure. Giving information is completely optional on your part; regardless, not all components and organizations, (for instance, responding to your solicitation) would be available to you if you pick not to give information. The information we may request consolidate your name, location, email address and other information. If you don't give the obligatory data reverence to a particular development, you won't have the ability to partake in that activity. 
+| 
 
-We in like manner accumulate Non-Personally Identifiable information that does not autonomous from any other person recognize a specific individual. We collect certain information about you based upon where you use the Services in a couple of ways. This information is amassed and separated on both an individual and an amassed reason. This information may join the Uniform Resource Locator ("URL") that you simply started from, which URL you next go to, what program you are using, and/or your Internet Protocol ("IP") address.
+Trach ad popup 
 
+| 
+
+1 week 
+
+| 
+
+Tracking   
   
+PlagiarismDetector.net 
 
+| 
 
-### Release of Information: 
+bioep_shown_session 
 
-We don't offer, exchange, or rent your information received on the website to others. We do give a percentage of the Services through contractual courses of action with partners, administrations suppliers, accomplices, and other outsiders. We and our administration accomplices utilize your Personally Identifiable Information to work our Services and to convey their administrations.
+| 
 
-On the off chance that such administration suppliers have entry to PII, they are responsible to secure this data in a way that is predictable with this Privacy Policy. 
+Track ad popup shown 
 
-Periodically, we may be needed by law requirement or legal powers to give Personally Identifiable Information to the fitting legislative powers. We will uncover Personally Identifiable endless supply of a court request or subpoena or to chip in with a law authorization examination. We completely chip in with law implementation offices in recognizing the individuals who utilize our administrations for unlawful exercises. We maintain whatever authority is needed to answer to law authorization organizations any exercises that we in accordance with common decency accept to be against the law. 
+| 
 
-We might likewise give Non-Personally Identifiable Information about our clients' business, activity examples, and related Services data to outsider sponsors, however these insights do exclude any Personally Identifiable Information. 
+1, 2 second 
 
+| 
+
+Tracking   
   
+PlagiarismDetector.net 
 
+| 
 
-### Upgrading and Correcting Information: 
+ci_session 
 
-We trust you ought to be able to get to and alter the PII that you have given to us. You may change any of your Personally Identifiable Information in your record online whenever by connecting to your record as per directions posted somewhere else on the Services. You might likewise get to and right your own data and protection inclinations by reaching us [Plagiarism Detector](http://plagiarismdetector.net/).
+| 
 
-We urge you to expeditiously upgrade your Personally Identifiable Information in the event that it changes. You may request that have the data for you erased or evacuated; in any case, on the grounds that we stay informed regarding past exchanges, you can't erase data connected with past exchanges on the Services. Likewise, it might be difficult to totally erase your data without some leftover data as a result of reinforcements. 
+Used to track user history, normally used for checking login 
 
+| 
+
+1 day 
+
+| 
+
+Tracking   
   
+PlagiarismDetector.net 
 
+| 
 
-### Client Choices on Collection and Use of Information:
+AWSELB 
 
-We might, occasionally, send you email in regards to our items and administrations and outsider items and administrations that may be of enthusiasm to you. You will have the chance to quit any further mailings whenever. Alternately, whenever, you can without much of a stretch alter your record data to no more get such offers and mailings. 
+| 
 
-You additionally have decisions as for treats, as portrayed underneath. By altering your program inclinations, you have the decision to allow or reject a cookie. In the case that you decide to reject all treats, a few sections of our Services may not work legitimately. 
+This cookie name is associated with the Amazon Web Services Elastic Load Balancing functionality for routing client request on the server. 
 
+The main purpose of this cookie is: Strictly Necessary 
+
+| 
+
+1 day 
+
+| 
+
+Tracking   
   
+_We, along with third-party vendors such as Google make use of first-party cookies (such as Google Analytics cookies) and third-party cookies (such as DoubleClick cookies) or various other third-party identifiers together in order to compile data about user interactions with ad impressions and other ad service functions as they relate to our Site, Software, App, and Services._
+
+**_Opt-out_**
+
+Using the Google Ad Settings page, you can set preferences for how Google advertises to you. Alternatively, you can opt out through the Network Advertising Initiative Opt Out page or through the Google Analytics Opt Out Browser add on. 
+
+For further information visit: www.allaboutcookies.org 
+
+#### How to delete, modify or disable cookies
+
+You can delete cookies or disable their use by following your browser instructions: 
+
+  * [Firefox](https://support.mozilla.com/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+  * [Internet Explorer 11](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647)
+  * [Safari (iOS)](https://support.apple.com/kb/HT1677)
+  * [Android (Chrome)](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en)
+  * [the latest Safari for Mac](https://support.apple.com/kb/ph21411?locale=en_US)
+  * [Safari 8 (Yosemite)](https://support.apple.com/kb/ph19214?locale=en_US)
+  * [Safari 6/7 (Mavericks)](https://support.apple.com/kb/ph17191?locale=en_US)
+  * [Safari 5.1 (OS X Lion)](https://support.apple.com/kb/ph5042?locale=en_US)
 
 
-### Utilization of Cookies: 
 
-A "cookie" is a little information content record that is put in your program and permits Plagiarism Today to remember you every time you visit this site(customisation and so forth). Treats themselves don't contain any individual data, and Plagiarism Detector does not utilize treats to gather individual data. Cookies might likewise be utilized by 3rd gathering substance suppliers, for example, newsfeeds.
+If you use a different browser, then follow the instructions from its provider. 
 
-We utilize cookies to permit us to enhance the nature of our administration, store client inclinations, store and recover login data on a client's framework, and to customize substance and offers of enthusiasm to our clients. We likewise permit our administration suppliers to gather non-by and by identifiable data by putting cookies on the Services that will track certain execution of our administrations, for example, web activity, click-throughs, and so forth., so as to help us and our administration suppliers in better comprehension the hobbies of our clients and to better serve those hobbies. Most programs are at first situated up to acknowledge treats. In the event that you'd incline toward, you can set yours to reject treats. Nonetheless, you will most likely be unable to exploit the Services on the off chance that you do as such. 
+#### How do plugins and third-party apps work?
 
-  
+Some third-party applications and services that partners with us may ask for consent to access your Information. Such applications will provide you with notice and request your permission in order to obtain access or information. It would be best to consider your selection of such applications and services, and your permissions, carefully. 
+
+Some third parties' plugins or embedded content our Site, App, and/or Software, such as Facebook "Like" buttons, may allow their administrators to know that you have visited the Site, and they may use this information with other data they have gathered about your visits to other websites or services on the internet that can identify you. 
+
+The data collected by third parties through these plugins and applications is subject to each parties' own policies. We strongly encourage you to read those policies carefully and understand how other entities use your data. 
+
+#### Will PlagiarismDetector.net send me email notifications?
+
+There will be times when we may send you information about special offers, software updates, and other product announcements. We also may want to send you with information about products and services from our business affiliates. But, you may disable such communications at any time by clicking the "unsubscribe" button that can be found within PlagiarismDetector.net emails and also by changing your contact preferences. All PlagiarismDetector.net account holders will still receive email notifications that are related to our Services, even if you opt to unsubscribe from these emails. 
+
+**_For users coming from EEA:_**
+
+We will only deliver promotional communications to users located in the EEA with your prior consent. Kindly see the section "For EEA users" below for more details. 
+
+####  Will PlagiarismDetector.net ever make any of my Personal Data or User Content public? 
+
+No, we do not share Personal Data or User Content with the exception of the limited circumstances as stated in the "Does PlagiarismDetector.net share my Information?" section of the Policy. 
+
+####  How does PlagiarismDetector.net handle Do Not Track signals? 
+
+We honor Do Not Track signals and do not track, use advertising, or plant cookies when DNT browser mechanism is in place. 
+
+PlagiarismDetector.net also does not allow third-party behavioral tracking. 
+
+#### COPPA (Children Online Privacy Protection Act)
+
+**Does PlagiarismDetector.net get information from children?**
+
+The Children's Online Privacy Protection Act put parents in control. PlagiarismDetector.net does not knowingly get personal information from children under the age of 13. In the event that it has come to our knowledge that we have acquired personal information from a child that is younger than 13 years of age, we will take necessary measures to take out that information from our systems. If you are under the age of 13, please do not provide any personal information through the Site, Service, App, and/or Software. We also encourage parents and their legal guardians to closely monitor their children's Internet usage. Another way to enforce this Policy is by informing their children to never provide any personal information through the Site, Service, App, and/or Software without their permission. 
+
+#### Data transfer, storage, retention, and deletion
+
+**Where is my Information stored when shared with PlagiarismDetector.net?**
+
+All information shared to PlagiarismDetector.net will be transferred to, processed, and stored in the United States. Whenever you use our Software on any of your device, User Content you save will be kept locally on that specific device and then synced with our servers. But, if you post or transfer any Information to or through our Site, App, Software, and/or Services, that means you are giving consent to such Information, including Personal Data and User Content, being hosted and accessed in the United States. 
+
+####  How safe is my Information? 
+
+PlagiarismDetector.net is dedicated to protecting the security of your Information and takes necessary precautions to protect it. However, know that Internet data transmissions, whether it is wired or wireless, cannot be guaranteed to be 100% safe and as a result, we cannot ensure the security of Information you transmit to us, including Personal Data and User Content; therefore, you acknowledge that you do so at your own risk. 
+
+We at PlagiarismDetector.net use industry-standard encryption to safeguard your data in transit. This is commonly referred to as secure socket layer ("SSL") technology or also known as transport layer security ("TLS"). 
+
+By the time we receive your data, we keep it on our servers using a combination of physical, technical, and logical security measures. The security of the data stored locally in any of our Software installed on your device requires that you make use of the safety features of your device. It is highly recommended that you take the necessary steps to secure all devices that you use in connection with our Site, Software, App, and Services. 
+
+If PlagiarismDetector.net learns of a security system breach, we may send you a notification to provide information on protective steps, through the email address that you have provided to us. We may also post a notice on the Site to inform our users. 
+
+####  How can I erase my Personal Data from PlagiarismDetector.net? 
+
+You can delete your Personal Data from PlagiarismDetector.net any time you like by simply emailing us at info@contentarcade.com. Please note that, for security reasons, premium users will first be asked to cancel their subscriptions before they can cancel or delete their account with PlagiarismDetector.net. 
+
+####  How long is my Personal Data stored in the PlagiarismDetector.net system? 
+
+You can delete all your Personal Data from PlagiarismDetector.net at any time by cancelling your account as described above. However, we may store some of your Personal Data for as long as necessary for our legitimate business interests, including fraud prevention and detection, and to meet our legal obligations including tax, auditing, and legal reporting. 
+
+####  What would happen if PlagiarismDetector.net closes my account? 
+
+In the event that PlagiarismDetector.net closes your account due to your violation of the Terms of Service, then you may contact us if you want to request deletion of your data. Our administrators will review such requests, pursuant to our legal obligations. 
+
+#### California Online Privacy Protection Act
+
+CalOPPA is the first state law in the United States that requires commercial websites and online services to publish a privacy policy. The law's reach stretches well beyond California to require any individual or company in the US (and conceivably the world) that operates sites collecting PII from California consumers to post a conspicuous privacy policy on its website stating precisely the information that it collects and those individuals or companies with whom it is shared. 
+
+For further information, visit: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf 
+
+According to CalOPPA, we agree to the following: 
+
+  * Users can visit the site anonymously. 
+  * Once this privacy policy is created, we will add a link to it on our home page or at least, the first significant page after entering our website. 
+  * Our Privacy Policy link includes the word 'Privacy' in it, and it can easily be found on the page specified above. 
 
 
-###  Connections and Other Services: 
 
-This Privacy Policy, this report just addresses the usage and disclosure of data we collect from you. We may present connections in an organization that empowers us to stay informed regarding whether these connections have been taken after. We utilize this data to enhance the nature of our hunt innovation, tweaked substance and publicizing. This Privacy Policy applies to the Services that are possessed and gave by us. We are not in charge of the protection approaches, practices or substance of any outsider web administrations. If you don't mind allude to the protection arrangements of such outsider sites for data on what sorts of by and by identifiable data such sites gather and their particular security practices, terms, and conditions. 
+#### Fair Information Practices
 
-  
+The Fair Information Practices Principles is the backbone of the privacy law in the United States. It also plays a significant role in developing data protection laws across the globe. It is, therefore, essential to understand the Fair Information Practice Principles and how they should be implemented in compliance with the various privacy laws to protect personal information. 
 
+In agreement with the Fair Information Practices, following responsive actions will be taken, should a data breach instance occur: 
 
-### Obtaining:
+We will notify you via email: 
 
-We maintain whatever authority is needed to exchange your own data in the case of an exchange of responsibility for, for example, obtaining by or merger with another organization. In the event that a procuring organization ought to want to really change this security approach, we will inform you previously. 
-
-  
+  * Within 7 business days 
 
 
-### Security:
 
-We make moves to help secure your own data. We oblige secret key security physical, electronic, and procedural shields to secure individual data about you. We do not allow access to individual data about you and approved who need to realize that data to work, create or enhance our administrations. It would be ideal if you recollect that no innovative environment is totally secure and we can't promise the secrecy of any correspondence or material transmitted or posted on the Services or some other web benefits over the Internet. On the off chance that you have some other inquiries regarding the security of our Services, please get in touch with us [Plagiarism Detector](http://plagiarismdetector.net/)
+We will notify the users via in-site notification 
 
-  
-
-
-### Incidental Privacy Issues: 
-
-Our approach is that we don't purposely gather, utilize, or unveil Personally Identifiable Information about guests that are under 13 years old. 
-
-  
+  * Within 7 business days 
 
 
-### Outside Sites: 
 
-Copyright infringement Detector is not in charge of the substance of outside web locales. You are educated to peruse the protection approach with respect to outer destinations before uncovering any individual data.
+We also agree to the Individual Redress Principle according to which individuals have the right to legally pursue enforceable rights against those who collect and process data and fail to adhere to the law. As per this principle individuals not only have enforceable rights against data users but also that they have recourse to courts or legal agencies to investigate and/or prosecute by data processors. 
 
-Our designated contact address is [Plagiarism Detector](http://plagiarismdetector.net/)
+#### For EEA users
 
-You can also follow us on Facebook and Twitter.
+PlagiarismDetector.net uses, processes, and records Personal Data, including those listed in the "What Information does PlagiarismDetector.net collect about me?" section, as necessary to carry out our obligations, and based on our legitimate business interests in order to provide high quality service to our clients. We need your permission to process Personal Data to send email notifications and to place cookies on your devices. In some cases, PlagiarismDetector.net may process Personal Data in accordance to legal obligation or to protect your interests or those of another person. 
 
-  
+#### What are my rights as a user, and how can I use them?
 
+People located in the European Economic Area (EEA) have certain rights in when it comes to their personal information which includes the right to access, correct, or delete Personal Data that we process through your use of the Site, Software, App, and/or Services. If you're a user who is located in the EEA, you can: 
+
+**_Request a Personal Data report by submitting a support ticket._**
+
+This report will contain the Personal Data we have about you, delivered to you in a structured, commonly used, and portable format. You need to be signed into your PlagiarismDetector.net account. Please note that PlagiarismDetector.net may request for additional information from you for verification purposes before we disclose any information. 
+
+**_You can have your Personal Data changed or deleted._**
+
+You have the option to change your Personal Data like your name and email address, as well as language preference, just go to your account settings. If in case you registered for PlagiarismDetector.net using Google or Facebook, or if you encountered any issues updating this information, please submit a support ticket or get in touch with us. You can delete your Personal Data from PlagiarismDetector.net by cancelling your account with us. 
+
+You can change your personal information: 
+
+  * By emailing us 
+  * By calling us 
+  * By logging in to your account 
+  * By sending us a support ticket 
+
+
+
+**_Object to us processing your Personal Data._**
+
+You can make a request if you want us to stop using your Personal Data, including when we use your Personal Data or to send you email notifications. We only send business or promotional communications to users located in the EEA with your prior consent, and you may pull out your consent at any time by clicking the "unsubscribe" button that can be found within PlagiarismDetector.net emails and also by changing your contact preferences. Please note that you will still continue to receive transactional messages about our Services, even if you unsubscribe from promotional emails. 
+
+**_Send complain to an authority._**
+
+If you are located in the EEA region and think that we haven't conformed to data protection laws, then you have a right to bring a complaint to your local supervisory authority. 
+
+If you have other queries or do not have a PlagiarismDetector.net account, you may contact us by submitting a support ticket. 
+
+#### Will this Privacy Policy ever change?
+
+As PlagiarismDetector.net continue to improve our services, we may need to update this Policy in accordance to changes in our Site, Software, App, and Services, our business, and laws relevant to us and you. We will, however, always keep our commitment to respect and protect your privacy. We will immediately notify you should there be any changes that may impact your rights under this Policy via email or post any other modifications to this Policy, along with their effective date, in the most easy-to-find area of the Site. We highly recommend that you check back here from time to time to stay informed of any changes. Please note that your continued use of PlagiarismDetector.net after any revision means that you agree with the changes, and consent to be bound by, the new Policy. If you don't agree with any of the changes in this Policy and do not wish your information to be subject to it, then you will need to delete your account with PlagiarismDetector.net. 
+
+You will be notified of any changes in Privacy Policy on our Privacy Policy page. 
+
+#### Contact Us
+
+You may contact us with any questions relating to this Privacy Policy by submitting a help desk request at info@contentarcade.com or by postal mail at: 
+
+Content Arcade (UK), LTD. 
+
+1 County Road, Thornton Heath, Surrey, CR7 8HN, England 
