@@ -1,33 +1,97 @@
-> *The following text is extracted and transformed from the prnewswire.co.uk privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223114053id_/http%3A//www.prnewswire.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prnewswire.co.uk privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413080709id_/https%3A//www.prnewswire.com/privacy-policy) for the most accurate reproduction.*
 
-# Cision - U.S. Privacy Policy
+# Cision - Privacy Policy
 
-_Last Updated August 14, 2017_
+## **Cision Privacy Policy**
 
-Cision is a leading media communication technology and analytics company that enables marketers and communicators to effectively manage their earned media programs in coordination with paid and owned channels to drive business impact. As used in this Privacy Policy, the terms "Cision", “we” and “us” refer to Cision US, Inc. and its divisions and affiliates, including PR Newswire Association LLC, Bulletin Intelligence and MultiVu. Cision is committed to protecting and respecting your privacy.
+**About Cision**
 
-This Privacy Policy describes how we collect, use, protect and share information about you that we obtain when you use our Services or otherwise communicate with us. Our “Services” include (i) our US websites (e.g., [cision.com](http://www.cision.com/) and [prnewswire.com](https://www.prnewswire.com/)) that post this Privacy Policy (collectively, the "Websites"); (ii) our mobile apps; (iii) other online products and services provided by us through our Websites or mobile apps; and (iv) databases, distribution services, articles, surveys, newsletters, webinars, media monitoring, and/or analytic reports. Note to Journalists, Experts and PR Professionals: News and journalism are public activities. Your name, business contact details, and professional interests and affiliations may already be publicly available, particularly if you are a journalist, a recognized expert, or a PR professional. We have created this Privacy Policy because we recognize that, even in a business context, you may have a need and expectation that your identity and interests be kept anonymous or private in certain circumstances. We want to be clear about when and how we protect that expectation..
+Cision is a global communications group of companies that enables its customers to identify and connect with influencers, distribute meaningful public relations, corporate and marketing communications to those influencers and the public, and measure the impact of those communications, as well as monitoring various media for its customers.  Our products and services operate under a number of different brands, including Cision, Gorkana, PR Newswire, Hors Antenne, Data Presse, Argus de la Presse, CEDROM, Profnet, HARO and Prime.  In this policy, when we refer to "Cision", “we” and “us,” we mean Cision US Inc. and its affiliates and their divisions, including but not limited to PR Newswire Association LLC, Bulletin Intelligence and MultiVu.  
 
-Please read this Privacy Policy carefully to understand how we will treat your information before you start to use our Services or communicate with us about them. By using our Services, or communicating with us about them, you are accepting and consenting to the practices described in this Privacy Policy, including any updates and amendments. If you do not agree to the terms of this Privacy Policy, you must not access or use our Services or communicate with us about them. Your use of our Services and any dispute over privacy is subject to this Privacy Policy and any applicable Terms of Use, including any terms available at <http://www.cision.com/us/>,[ https://www.prnewswire.com/terms-of-use-apply.html](https://www.prnewswire.com/terms-of-use-apply.html), <https://www.prnewswire.com/customer-terms-conditions-landing-page.html> and/or any other agreements. In the event that the provisions of any such agreements differ from or conflict with the provisions of this Privacy Policy, the applicable terms or agreement will apply. 
+For the purposes of European Data Protection law [Cision] is the data controller of the personal data referred to in this policy.  
+
+**Introduction to our Privacy Policy**
+
+This Privacy Policy and our related Privacy Notices (see below) describe how we collect, use, protect and share information about you that we obtain when you use our services, our websites or otherwise interact with us.  If you are the subject of any personal data we may process, this policy also explains what your rights are. 
+
+This policy applies to our Services which include (i) all the websites on which it is published (the "Websites") (ii) our mobile apps; (iii) other online products and services provided by us through our Websites or mobile apps; and (iv) databases, distribution services, articles, surveys, newsletters, webinars, media monitoring, and/or analytic reports.  
 
 Please click on the sections below to learn more about our Privacy Policy:
 
+  * **HOW THIS POLICY WORKS WITH OUR OTHER PRIVACY NOTICES AND POLICIES**
   * **HOW WE COLLECT INFORMATION FROM YOU**
   * **HOW YOUR INFORMATION MAY BE USED**
   * **HOW YOUR INFORMATION MAY BE SHARED**
-  * **COOKIES & OTHER TRACKING MECHANISMS**
-  * **DO NOT TRACK DISCLOSURE**
-  * **YOUR CHOICES**
+  * [**COOKIES & OTHER TRACKING MECHANISMS**](https://www.cision.com/us/legal/cookie-policy/)
+  * [**DO NOT TRACK DISCLOSURE**](https://www.cision.com/us/legal/cookie-policy/)
+  * [**YOUR CHOICES**](https://www.cision.com/us/legal/cookie-policy/)
   * **SECURING YOUR PERSONAL INFORMATION**
   * **CHILDREN**
-  * **THIRD-PARTY INFORMATION COLLECTION**
+  * **INFORMATION COLLECTION**
+  * **TRANSFERS OF PERSONAL INFORMATION OUTSIDE THE EEA**
+  * **LEGAL BASIS FOR PROCESSING**
+  * **YOUR RIGHTS IN THE EU**
   * **CHANGES TO OUR PRIVACY POLICY**
-  * **PERSONAL INFORMATION RECEIVED FROM THE EU/EEA AND/OR SWITZERLAND**
   * **CONTACT**
 
 
 
-_**How We Collect Information from You**_
+**_How this policy works with our other privacy notices and policies_**  
+
+
+This Policy should be read together with our related Privacy Notices, in particular our **_[Customer Privacy Notice](https://gdpr.cision.com/dataprivacynotice_customersprospects)_** , our **_[Data Privacy Notice for Influencers and Other Media Contacts](https://gdpr.cision.com/dataprivacynotice_influencers)_** , and our **_[Candidate Privacy Notice](https://careers.jobvite.com/cision-global/Cision-Candidate-Privacy-Policy-2018.pdf)_**.  Depending on how you interact with us, we will collect and process your personal information as follows:
+
+If you are a **customer** of any of our services.
+
+| 
+
+We will collect and process your individual contact information and other personal data in accordance with our **_[Customer Privacy Notice](https://gdpr.cision.com/dataprivacynotice_customersprospects)_** and any other agreement that we may have with your business.  
+  
+---|---  
+  
+If you are an **influencer or other media contact** in our media database.
+
+| 
+
+We will collect and process your contact information and media profile in accordance with our **_[Data Privacy Notice – Influencers and Other Media Contacts](https://gdpr.cision.com/dataprivacynotice_influencers)_**.  
+  
+If you **visit or register with any of our websites** (other than as a Customer or Influencer).
+
+| 
+
+We will collect and use your personal information in accordance with this Privacy Policy. In particular, we may see how you use our websites and what content you interact with and for how long.  This may involve the use of cookies which is explained in our **_[Cookie Policy](https://www.cision.com/us/legal/cookie-policy.html)_**.  
+  
+If you are a **supplier** and you or your company provides us with goods or services.
+
+| 
+
+We may collect your individual contact information in order to communicate with you and may use other information that we need in order to manage our account with your business.  We will process such data in accordance with this Privacy Policy and any other agreement that we may have with you.  
+  
+If you are **invited to or attend one or our events**  
+
+| 
+
+We will collect and process your contact information and any other information we may need to manage our invitation and your attendance (including for example dietary or special access requirements) in accordance with this Privacy Policy.  
+  
+If you **apply for a job** with us
+
+| 
+
+We will process your personal information in accordance with our **_[Candidate Privacy Notice](https://careers.jobvite.com/cision-global/Cision-Candidate-Privacy-Policy-2018.pdf)_** which will be sent to you when you apply.  
+  
+If you are **employed** by us
+
+| 
+
+We will process your personal information in accordance with our **_Employee Privacy Notice_** which will be provided to you when you join our staff.  
+  
+Note to Journalists, Experts and PR Professionals: News and journalism are public activities. Your name, business contact details, and professional interests and affiliations may _well_ already be publicly available, particularly if you are a journalist, a recognized expert, or a PR professional. We have created this Privacy Policy to inform you how we collect and process your personal information, and how we comply with our obligations to look after that information, and what your rights are.  
+
+Please read this Privacy Policy carefully to understand how we will treat your information before you start to use our Websites or communicate with us. By using our Services or communicating with us about them, you acknowledge that your personal information will be processed in accordance with this Privacy Policy, and in any other applicable privacy notice or policy (see above) including any updates and amendments. Your use of our Services and any dispute over privacy is subject to this Privacy Policy and any applicable Terms of Use, including any terms available at <http://www.cision.com/us/>, <http://www.prnewswire.com/terms-of-use-apply.html>, <http://www.prnewswire.com/customer-terms-conditions-landing-page.html> and/or any other agreements that you enter into with us.
+
+In the event that the provisions of any such agreements differ from or conflict with the provisions of this Privacy Policy, the applicable terms or agreement will apply.
+
+**_How We Collect Information from You_**
 
 **Information You Provide to Us**
 
@@ -45,7 +109,7 @@ We collect certain technical information using cookies and other tracking mechan
 
 
 
-If you decline to have us collect such information (for example, by disabling cookies; see Cookies & Other Tracking Mechanisms below), we may not be able to provide our Services to you.
+If you decline to have us collect such information (for example, by disabling cookies; see _[Cookies& Other Tracking Mechanisms](https://www.cision.com/us/legal/cookie-policy.html)_ below), we may not be able to provide some or all of our Services to you.
 
 **Information We Collect about You from Third Parties**
 
@@ -53,11 +117,11 @@ Our Services may also, from time to time, contain links to and from social media
 
 We may combine the information we collect about you from the various sources described above.
 
-_**How Your Information May Be Used**_
+**_How Your Information May Be Used_**
 
 We may use any information we collect, including personal information and technical information, as described to you at the time of collection, for the following purposes:
 
-  * **_Providing, maintaining and improving our Services._** Operating and improving our Services (e.g., administration, troubleshooting, managing account access, protecting security); evaluating our Services; developing new features, products, or services; and for other customer service and support purposes.
+  * **_Providing, maintaining and improving our Services._** Operating and improving our Services ( _e.g._ , administration, troubleshooting, managing account access, protecting security); evaluating our Services; developing new features, products, or services; and for other customer service and support purposes.
   * **_Tailoring content._** Personalizing the information and content we display to you, including marketing, promotional and sponsored content and advertising within the Services.
   * **_Marketing and communications._** Contacting you directly about your use of an account or Service for which you are registered; providing you with information about products or services, from us or third parties that may interest you; serving advertisements to you; and responding to your requests, feedback or questions.
   * **_Research and analytics._** Researching and analyzing how you interact with our Services, including to monitor usage and activity trends and for statistical purposes; creating reports for customers that may include both aggregate trends and the organizations that are viewing their releases, or accessing our Services or customer websites or otherwise using our Services; and measuring or understanding the effectiveness of content, communications, Website visits, web traffic, our Services, or advertising we or our customers serve to you and other customers like you, and to deliver relevant advertising to you and other customers like you.
@@ -68,14 +132,12 @@ We may use any information we collect, including personal information and techni
 
 We may also create aggregate or anonymous information about your and other users’ use of our Services for purposes similar to those listed above.
 
-_**How Your Information May Be Shared**_
-
-We will not sell your personal information or share your personal information with third parties for the third party's own direct marketing purposes.
+**_How Your Information May Be Shared_**
 
 We may share any information, including personal information as follows:
 
   * With our subsidiaries and affiliates, including any future subsidiaries or affiliates;
-  * With our service providers and sub-contractors to the extent reasonably necessary to enable us provide our Services (e.g., we use a third-party platform for e-mail and cannot communicate with you without disclosing your e-mail address to our third-party e-mail provider);
+  * With our service providers and sub-contractors to the extent reasonably necessary to enable us provide our Services ( _e.g._ , we use a third-party platform for e-mail and cannot communicate with you without disclosing your e-mail address to our third-party e-mail provider);
   * With a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of any of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, including during planning or negotiations of such sale or transfer;
   * With a third party with whom we must legally share information about you;
   * With the company or organization you represent upon their request;
@@ -92,89 +154,95 @@ We may also share aggregate or anonymous data for marketing, advertising, resear
 
 In the event that we receive a request from a governmental entity to provide it with your personal information, we will take reasonable attempts to notify you of such request, to the extent reasonably possible and legally permissible.
 
-  * Evaluate and improve our Services and present content in the best way for you and for your device(s);
-  * Serve advertisements on or through our Services;
-  * Measure or understand the effectiveness of advertising we serve to you and other customers like you, and to deliver relevant advertising to you and other customers like you.
+**[Cookies& Other Tracking Mechanisms](https://www.cision.com/us/legal/cookie-policy.html)**
+
+**_Securing Your Personal Information_**
+
+The security of your information is important to Cision, and we have implemented administrative, technical, and physical safeguards designed to protect personal information against theft or misuse. Unfortunately, no system can guarantee complete security of your information. As a result, while we strive to protect your personal information from unauthorized third parties, Cision cannot ensure or warrant the security of such information. Thus, your use of the Services and communications with us is at your own risk. You are responsible for protecting your username(s) and password(s) and for the security of information that you transmit to us over the internet. 
+
+**_Children_**  
 
 
-
-We may also combine technical information or non-Personally Identifiable Information about your use of our Services with similar information that we obtain from other users to use in an aggregate or anonymous manner for similar purposes.
-
-_**Cookies & Other Tracking Mechanisms**_
-
-We may use cookies, beacons and similar technologies, now or in the future, to support the functionality or track usage of our Services. This provides a better experience when you use our Services and allows us to improve our Services.
-
-  * **Browser Cookies.** A browser cookie is a small file placed on the hard drive of your computer. That cookie then communicates with servers, ours or those of other companies that we authorize to collect data for us, and allows recognition of your device. You may use the tools available on your computer or other device to set your browser to refuse or disable all or some browser cookies, or to alert you when cookies are being sent. However, if you refuse or disable all browser cookies, you may be unable to access certain parts of our Websites or use certain features or functionality of our Services.
+Our Services are directed to working professionals. Our Services are not intended for children under 16 years of age or the relevant age of majority, and we do not knowingly collect personal information from children under that age. If you are under 13 years of age or the age of majority, you are not permitted to submit any personal information to us.   
 
 
-  * **Flash Cookies.** Certain features of our Services may use local stored objects called flash cookies to collect and store information about your preferences and navigation to, from and on our Websites. We also include cookies in our third-party hosted video players to count the number of unique viewers who see a customer’s video press release and to provide aggregate reporting. Flash cookies are not managed by the same browser settings as are used for browser cookies. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse Flash cookies, please note that some parts of our Services may be inaccessible or may not function properly.
+**_Third-Party Information Collection_**  
 
-
-  * **Web Beacons.** Our Services may contain small electronic files known as web beacons (also referred to as clear GIFs, pixel tags, tracking pixels and single-pixel GIFs) that permit us to, for example, count users who have visited those pages or opened an e-mail and for other website-related statistics. Web beacons in e-mail marketing campaigns, press releases or other types of communications or content allow us to track your responses and your interests in our content, offerings and web pages. We may use web beacons and/or other tracking technologies to collect information about you when you interact with our Services, e-mails, press releases or other types of communications or content, including information about your browsing and purchasing behavior.
-
-
-  * **Analytics services.** We or our affiliates also use web analytics services, which currently include but are not limited to Google Analytics and Adobe Analytics. Such web analytics services use cookies and similar technologies to analyze how users use the domains. The information generated about domain usage (including your shortened IP address) is transmitted to the web analytics services. This information is used to evaluate visitors’ use of the domain, compile statistical reports on domain activity, and provide other services related to the Site and Internet use. Such services may also collect information about domain visitors’ use of other websites. For more information about Google Analytics, or to opt out of Google Analytics, please go to https://tools.google.com/dlpage/gaoptout. For more information about Adobe Analytics, or to opt out of Adobe Analytics, please go to: http://www.adobe.com/privacy/opt-out.html.
-
-
-
-_**Do Not Track Disclosure**_
-
-Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Our Services do not currently change the way they operate based upon detection of a Do Not Track or similar signal. You may, however, disable certain tracking as discussed in the  Cookies & Other Tracking Mechanisms section above (e.g., by disabling cookies). You also may opt out of certain behavioral advertising by following the instructions in the Your Choices section below.
-
-_**Your Choices**_
-
-  * _**Opting out of marketing communications.**_ You may receive certain promotional or informational communications from us. Where required by law, promotional communications will be sent only with your consent. You can opt out of promotional e-mails at any time by following the instructions at the bottom of the e-mails. Please note that certain e-mails may be necessary for the operation of our Services. You may, however, continue to receive these e-mails relating to your account or our Services, if appropriate, even if you unsubscribe from our optional communications.
-
-
-  * _**Opting out of behavioral advertising.**_ You may opt out of many third-party ad networks. For example, you may go to the Digital Advertising Alliance (“DAA”) Consumer Choice Page at http://www.aboutads.info/choices/ for information about opting out of interest-based advertising and your choices regarding having information used by DAA companies. You may also go to the Network Advertising Initiative (“NAI”) Consumer Opt-Out Page at http://www.networkadvertising.org/choices/ for information about opting out of interest-based advertising and your choices regarding having information used by NAI members. Additional information is available on the DAA’s website at www.aboutads.info or the NAI’s website at www.networkadvertising.org. Opting out from one or more companies listed on the DAA Consumer Choice Page or the NAI Consumer Opt-Out Page will opt you out from those companies’ delivery of interest-based content or ads to you, but it does not mean you will no longer receive any advertising through our Services or any third-party services. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). If your browser is configured to reject cookies when you opt out on the DAA or NAI websites, your opt out may not be effective. Please note that if you use multiple devices you will have to opt out on each individual device.
-
-
-  * _**Opting out of telemarketing.**_ Where required by law, you will be contacted via telemarketing only with your consent. You may opt out of our direct telemarketing contacts by requesting us to remove you from our direct telemarking list. Please note that opting out from our direct telemarketing contacts does not limit us from contacting you for other purposes, including those contacts that are reasonably necessary to provide you with our Services. If you decide to opt out of our direct telemarketing contacts, allow a reasonable time for us to process your request and do not hesitate to contact us at privacy@cision.com or privacy@PRNewswire.com if you encounter any problems with your request. The FTC and other agencies also maintain a National Do Not Call Registry at www.donotcall.gov/register/reg.aspx. By registering your number with the FTC may also limit our direct marketing contacts to that number.
-
-
-  * _**Cloaking your identity.**_ Journalists and others who use ProfNet Experts may choose not to disclose their identity when in direct communication with experts and company information officers by following the directions on that website to "cloak" their identity.
-
-
-  * _**Accessing, updating or deleting your personal information.**_ We value the accuracy of the information we have about you. You may access, update or delete your information (or in some cases object to its processing) at any time by following directions available on the registration page for the applicable Service or emailing us at privacy@cision.com.
-
-
-
-_**Securing Your Information**_
-
-The security of your information is important to Cision, and we have implemented administrative, technical, and physical safeguards designed to protect personal information against theft or misuse. Unfortunately, no system can guarantee complete security of your information. As a result, while we strive to protect your personal information from unauthorized third parties, Cision cannot ensure or warrant the security of such information. Thus, your use of the Services and communications with us is at your own risk. You are responsible for protecting your username(s) and password(s) and for the security of information that you transmit to us over the internet.
-
-_**Children** _
-
-Our Services are directed to working professionals. Our Services are not intended for children under 13 years of age or the relevant age of majority, and we do not knowingly collect personal information from children under that age. If you are under 13 years of age or the age of majority, you are not permitted to submit any personal information to us.
-
-_**Third-Party Information Collection** _
 
 Our Services may contain links to third-party websites and services, including those of social media platforms, partner networks and advertisers. Please note that these websites and services may have their own privacy policies. We do not accept any responsibility or liability for the policies of any third parties. If you chose to access any websites or services linked from our Services, please check the applicable policies before you use or submit any personal information to such website or service.
 
 Third parties unaffiliated with us may also collect information about you, including tracking your browsing history, when you use our Services. We do not have control over these third-party collection practices and advise you to adjust the settings of your browsers or install plug-ins and add-ins if you wish to minimize these third party collections.
 
-_**Changes to Our Privacy Policy** _
+**_Personal Information Transferred from EEA and/or Switzerland_**
 
-We may change this Privacy Policy from time to time to align with changes to our business practices and/or changes to our legal requirements. We will post the updated Privacy Policy on this page, and will indicate that the updates have been made by changing the effective date first written above. We urge you to check back periodically to see whether there have been updates to our Privacy Policy.
+We may share your personal data with entities within the Cision Group. Given that we are an international organisation with our headquarters in the USA, this may involve transferring your personal data outside of the European Economic Area (“EEA”). Some of the third parties to whom we transfer your personal data are also based outside of the EEA, so their processing of your personal data will likewise involve a transfer outside the EEA. Where your personal data is transferred outside of the EEA we will ensure that we appropriate mechanisms in place to ensure the protection of your personal information, including the use of specific contracts approved by the European Commission giving your personal data the same protection as it has in Europe.  
+
+Such transfers may be made by or to us in our capacity as a data processor or as a data controller:
+
+**_Processor_** : Cision is a provider of software, services and tools intended to help customers manage all aspects of their marketing and PR campaigns. Cision does not own or control any of the information it processes on behalf of its customer. All such information is owned and controlled by Cision’s customer. In this capacity, Cision receives information transferred from the EU to the US merely as a processor on behalf of its customer, although such information may not be required by Cision.
+
+**_Data Controller_** : Cision also provides information products designed to help customers research and plan their campaigns more effectively. In this function, Cision acts as a data controller of the personal information contained in these products and processes this personal information as a data controller.
+
+Further details of transfers of personal data outside the EEA are provided in our _[Customer Privacy Notice](https://gdpr.cision.com/dataprivacynotice_customersprospects)_ and our _[Data Privacy Notice – Influencers and Other Media Contacts](https://gdpr.cision.com/dataprivacynotice_influencers)_.
+
+**Legal Basis for Processing**
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+Where we need to process your information to perform the contract we are about to enter into or have entered into with you.
+
+Where we need to process your information to comply with a legal or regulatory obligation.
+
+Where it is in our legitimate interests to do so.  Our legitimate interests include our legitimate commercial interests in operating the Cision Services and providing you with access to our Media Database. We make sure that we consider and balance any potential negative impact on you and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you.
+
+Where we have obtained your consent.
+
+**Your rights**
+
+If you reside in the EU, or if your personal information is processed in connection with one of our European businesses, you have certain rights under European data protection laws and in particular the General Data Protection Regulation.  These rights include rights of access; the right to rectification; the right to erasure; the right to restrict processing; the right to data portability; and the right to object to processing.
+
+Your rights include the right to:
+
+  * Access your personal information (via what is commonly known as a "data subject access request").
+  * Require us to correct any mistakes in your information which we hold.
+  * Require the erasure of personal information concerning you in certain situations.
+  * Receive the personal information concerning you which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations.
+  * Object at any time to processing of personal information concerning you for direct marketing.
+  * Object to decisions being taken by automated means (including profiling) which produce legal effects concerning you or similarly significantly affect you.
+  * Object in certain other situations to our continued processing of your personal information.
+  * Otherwise restrict our processing of your personal information in certain circumstances.
+
+
+
+In some cases these will not apply to you, or to the particular use that we are making of your data, and there are exceptions (for example if we have to process the data to comply with our own legal obligations).
+
+For further information on each of these rights, including the circumstances in which they apply, you should refer to guidance from your local Data Protection Authority: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>
+
+You also have the right to make a complaint to your local data protection authority at any time. We hope that we would be able to resolve any concerns that you may have before you approach your data protection authority so please do contact us in the first instance.
+
+_**How long will we use your personal data?**_
+
+We will keep your personal data only for as long as is necessary for the purposes set out in this privacy notice and to fulfil our legal obligations. We will not keep more data than we need.
+
+We may change this Privacy Policy from time to time to align with changes to our business practices and/or changes to our legal requirements. We will post the updated Privacy Policy on this page and will indicate that the updates have been made by changing the effective date first written above. We urge you to check back periodically to see whether there have been updates to our Privacy Policy.
 
 Your continued use of the Services or communication with us about the Services after the updated Privacy Policy has been posted (or any other indication of your consent) will constitute your acceptance of the updated Privacy Policy.
 
-Please note that we may condition your continued access to our Services on your consent to changes to this Privacy Policy.
+Please note that we may condition your continued access to our Services on your consent to changes to this Privacy Policy. 
 
-_**Personal Information Received from the EU/EEA and/or Switzerland**_
+**_Contact_**
 
-Personal information is transferred to Cision in the US from the EU under one of the following scenarios:
-
-  * _**Processor:**_ Cision is a provider of software, services and tools intended to help customers manage all aspects of their marketing and PR campaigns. Cision does not own or control any of the information it processes on behalf of its customer. All such information is owned and controlled by Cision’s customer. In this capacity, Cision receives information transferred from the EU to the US merely as a processor on behalf of its customer, although such information may not be required by Cision.
-  * _**Data Controller:**_ Cision also provides information products designed to help customers research and plan their campaigns more effectively. In this function, Cision acts as a data controller of the personal information contained in these products and processes this personal information as described in this Policy in the US, a country that does not have the same level of protection for personal data as the EEA or Switzerland. Cision maintains a media database containing personal information on EU media contacts, and such individuals can have such information removed from our database. This information does not include sensitive information such as data about race, sexual orientation, or religion. This information is transferred to the US on the basis of consent, or European Commission-approved standard contractual clauses, and may be further transferred to our customers and to third party service providers located in Asia, Latin America and the Middle East, which do not have the same level of protection for personal data as the EEA or Switzerland, for the purposes described in this Policy.
-
-
-
-_**Contact** _
-
-If you have questions, comments or requests relating to this Privacy Policy, or wish to opt out of any usage of your information as described herein, please e-mail us at [at privacy@cision.com](mailto:at%20privacy@cision.com) or write to us at:
+If you have questions, comments or requests relating to this Privacy Policy, or wish to opt out of any usage of your information as described herein, please e-mail us at [privacy@cision.com](mailto:privacy@cision.com) or write to us at: 
 
 Cision US, Inc.  
-Legal Dept. (Privacy)   
-12051 Indian Creek Court   
+Legal Dept. (Privacy)  
+12051 Indian Creek Court  
 Beltsville, MD 20705
+
+Or at
+
+Cision  
+5 Churchill Place  
+London E14 5HU
+
+**LAST UPDATED ON OCTOBER 3, 2018**
