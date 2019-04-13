@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824145329id_/https%3A//www.bbr.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413055727id_/https%3A//www.bbr.com/about/privacy) for the most accurate reproduction.*
 
 # Berry Bros & Rudd - Privacy and Security | Berry Bros. & Rudd
 
-Berry Bros. & Rudd respects your privacy and seeks to protect your personal data. The following information describes how we gather and use data. The amount of information Berry Bros. & Rudd holds on you and how it uses it depends on your relationship with Berry Bros. & Rudd and on what service you use, so some of the sections below may not be relevant to you.
+  
+
+
+Berry Bros. & Rudd respects your privacy and seeks to protect your personal data. The following information describes how we gather and use that data. The amount of information we hold on you and how we use it depends on your relationship with us and on which services you use; some of the sections below may not be relevant to you.
+
+We keep to a minimum the amount of information we hold about you.   
+We keep to a minimum the amount of information we hold about you.   
+We delete your data when it is no longer needed.   
+We apply appropriate security mechanisms to protect your personal data. 
+
+For the definition of terms used within this Privacy Policy please refer to the ICO website or look at the General Data Protection Regulation (“GDPR”). We suggest you start with the ICO website 
+
+We are happy to answer any questions you have about this Privacy Policy. Email us at privacy@bbr.com. 
 
   
 
@@ -23,7 +35,7 @@ Berry Bros. & Rudd respects your privacy and seeks to protect your personal data
   * How long do we store your data for?
   * Why do we need to store your data?
   * Your rights regarding our use of your personal data 
-  * Cookies and software agents
+  * Cookies
   * Contacting you via email alerts, notices and newsletters
   * Interception of email
   * Security
@@ -56,6 +68,11 @@ We are happy to answer any questions you have about this Privacy Policy. Email u
 
 
 We hope to answer some of the most frequently asked questions about our Privacy Policy below. For further information, please read our Privacy Policy in full.
+
+* * *
+
+**FAQs**  
+We hope to answer some of the most frequently asked questions about our Privacy Policy below. For further information, please read our Privacy Policy in full. 
 
 * * *
 
@@ -94,7 +111,7 @@ You can email [privacy@bbr.com ](mailto:privacy@bbr.com)or contact our Customer 
 * * *
 
 **How long does Berry Bros. & Rudd keep my information? **  
-We retain personal data for as long as necessary to provide services and products to you, to fulfil the transactions you have requested, or for other essential purposes (for example, complying with our legal obligations, resolving disputes and fulfilling our agreements). We will store your personal data for a minimum of six years after your last transaction with us, unless we have a legitimate or contractual reason or a legal obligation to retain it thereafter, for example you might hold stock in our cellars.
+We retain personal data for as long as necessary to provide services and products to you, to fulfil the transactions you have requested, or for other essential purposes (for example, complying with our legal obligations, resolving disputes and fulfilling our agreements). We will store your personal data for a minimum of six years after your last transaction with us, unless we have a legitimate or contractual reason or a legal obligation to retain it thereafter, for example you might hold stock in our cellars. 
 
 * * *
 
@@ -109,38 +126,40 @@ We may use cookies when you visit our website. By visiting our website, you agre
 * * *
 
 **How can I contact Berry Bros. & Rudd if I have questions regarding this Privacy Policy statement? **  
-If you have any questions about the use of your personal information, please email us at [privacy@bbr.com](mailto:privacy@bbr.com) with the words "personal details" in the subject line.
+If you have any questions about the use of your personal information, please email us at [privacy@bbr.com](mailto:privacy@bbr.com)
 
 * * *
 
 **What personal data do we hold and why?**  
 When you contact us to make an enquiry, we will use your name and contact information to respond. We will then use this information to communicate with you during the provision of our services to you. We collect and update information about users of our services. We may obtain this information via direct contact with you, from third parties such as other users who refer you to us or automatically via your use of our services.
 
-This information may include your contact details, registration and payment details, support problems, details around participation in events, prize draws or surveys and certain relevant details of your product preferences and contact permissions. 
+This information may include your contact details, registration and payment details, support problems, details around participation in events, prize draws or surveys and certain relevant details of your product preferences and contact permissions.
 
 For each visitor to our website, our web server automatically recognises the user’s domain name. We also collect the email addresses of those who communicate with us via email and anonymously aggregate information on which pages users access or visit. Information volunteered by users, such as survey information and/or site registrations, is also collected. We will only use information collected in a survey on an anonymous basis unless we have your permission to do otherwise.
 
 If you are a registered user of our services, we will gather further relevant information, such as generic types of data accessed, time of access, volume of use of services and traffic data from use of our website. Traffic data includes logs, details of networks, data and systems accessed, details of the sender and recipients of messages sent over our services, times and location of log on or access, duration of sessions, clickstream and similar usage or system data. Traffic data may sometimes be traceable to and or related to not just companies but named individuals. Before you register with Berry Bros. & Rudd for access to services or transactional areas of our website, you can browse our website anonymously and we will not collect your data.
 
-On request, we can provide you with access to all information, including proprietary information, that we maintain about you (but not other users unless required to do so by law) including unique identifier information (for example, your customer number or password) and contact information (for example, your name, address and phone number). You can request this information by emailing us at [privacy@bbr.com ](mailto:privacy@bbr.com) or writing to us. We will correct inaccuracies on provision of the correct details or, where relevant, you can do this by changing your registered details online. Please note, we will never send personal information on request unless we have proof that the recipient is the owner of the data. 
+We may also receive your personal data when processing gift requests from customers where you are the recipient. We process that data initially under contract with the gift purchaser and any secondary processing such as product updates and associated events will be because we have a legitimate business interest to do so.
+
+On request, we can provide you with access to all information, including proprietary information, that we maintain about you (but not other users unless required to do so by law) including unique identifier information (for example, your customer number or password) and contact information (for example, your name, address and phone number). You can request this information by emailing us at[privacy@bbr.com ](mailto:privacy@bbr.com) or writing to us. We will correct inaccuracies on provision of the correct details or, where relevant, you can do this by changing your registered details online. Please note, we will never send personal information on request unless we have proof that the recipient is the owner of the data. 
 
 * * *
 
 **How do we use your information?**  
 Berry Bros. & Rudd collects and uses your information to administer, support, improve and obtain feedback on our services and to detect and prevent faults, breaches of our network security, the law or our contract terms. If you are registered to use a service, we may use the information you provide to us to carry out the service; we may also contact you to obtain feedback on that service and any improvements we could make to it.
 
-The information we collect is used for internal review and to improve the content of our website and services. It is also used to notify users about updates to our services. This information is not shared with other organisations for commercial purposes.
+The information we collect is used for internal review and to improve the content of our website and services. It is also used to notify users about updates to our services. This information is not shared with other organisations for commercial purposes. 
 
 If you do not want to receive emails from us in the future, please let us know by sending an email to [privacy@bbr.com ](mailto:privacy@bbr.com)or by logging into your account and changing your contact permission preferences. 
 
 * * *
 
 **Who do we share your information with?**  
-We work with third parties in the provision of some of our services, for example research agencies to help us improve our customer service, or marketing service providers who help us contact our customers and logistics partners who help deliver products. 
+We work with third parties in the provision of some of our services, for example research agencies to help us improve our customer service, or marketing service providers who help us contact our customers and logistics partners who help deliver products. 
 
 On request, and when relevant to a service you use, we can provide details of which third parties we work with. We will also discuss and agree on any specific security questions or requirements you may have during the provision of our services.
 
-The third parties we work with – including those who provide email and storage solutions used in our day to day work – are monitored on how they meet the requirements of current UK data protection legislation and the requirements of GDPR. When we contract with third parties we enter into agreements that encourage GDPR compliance. 
+The third parties we work with – including those who provide email and storage solutions used in our day to day work – are monitored on how they meet the requirements of current UK data protection legislation and the requirements of GDPR. When we contract with third parties we enter into agreements that encourage GDPR compliance. 
 
 Where this includes storage or processing of information outside of the European Economic Area (EEA), we include checks to ensure that compliance with the appropriate frameworks for exchange of personal data (such as the EU-US Privacy Shield) is in place. As a UK-based company our lead data protection supervisory authority is the ICO and GDPR is the standard for our data protection in all territories where data is processed.
 
@@ -151,14 +170,16 @@ Exemptions to the above are where we are asked to provide information as a resul
 * * *
 
 **How long do we store your data for?**  
-We will store your personal information (name, address, email, etc) for a minimum of six years after your last transaction with us. We will keep records of transactions for longer periods, but we will ensure that the data is anonymised so that personal data is deleted after six years. If you wish to stop hearing from us prior to that time then email us at [privacy@bbr.com ](mailto:privacy@bbr.com) and we will remove you from our mailing lists, even though we will retain some historical purchasing records as legally required. If you are a sole trader or partnership, financial transactions between us might include some personal data. We are required by law to keep this information for the current financial year plus an additional six years. 
+We will store your personal information (name, address, email, etc) for a minimum of six years after your last transaction with us. We will keep records of transactions for longer periods, but we will ensure that the data is anonymised so that personal data is deleted after six years.
+
+If you wish to stop hearing from us prior to that time then email us at [privacy@bbr.com ](mailto:privacy@bbr.com) and we will remove you from our mailing lists, even though we will retain some historical purchasing records as legally required. If you are a sole trader or partnership, financial transactions between us might include some personal data. We are required by law to keep this information for the current financial year plus an additional six years. 
 
 * * *
 
 **Why do we need to store your data?**  
 This is a legal obligation, because HMRC requires wine and spirit businesses such as ours to keep all business records concerning excise goods for at least six years. HMRC will occasionally carry out inspections of our business and the records we are required to keep for those purposes include, among other things, stock, purchases, sales and dispatches.
 
-We may also store your information on our databases for reference and to record any preferences you have notified to us, for example in relation to your marketing communications contact permissions. The information may be retained and used by Berry Bros. & Rudd to answer queries or resolve problems, provide improved and new services, to respect your rights under GDPR, for analysis purposes and for any data retention requirements of the law. This means we may retain information after you cease to use our services or after you have ceased interacting with Berry Bros. & Rudd. 
+We may also store your information on our databases for reference and to record any preferences you have notified to us, for example in relation to your marketing communications contact permissions. The information may be retained and used by Berry Bros. & Rudd to answer queries or resolve problems, provide improved and new services, to respect your rights under GDPR, for analysis purposes and for any data retention requirements of the law. This means we may retain information after you cease to use our services or after you have ceased interacting with Berry Bros. & Rudd. 
 
 We store your information securely to prevent unauthorised use. See our Security section below. 
 
@@ -169,9 +190,9 @@ You can review, edit or ask us to delete your personal data we hold by contactin
 
 You can alter how we use your information, for example how we communicate with you, by changing your contact permissions via your online account or by contacting Customer Services. You will always have the right to opt out of receiving promotional emails and other types of marketing or sales communication from us. If you opt out, you will also have the ability to opt back in at a later date. 
 
-If you specifically wish to stop receiving emails from us, please click on the “Unsubscribe” link included at the bottom of any of our emails. We respect your choice, and we will stop sending you promotional emails once you unsubscribe. It may take up to two weeks to process your request. Alternatively, you can email us at [privacy@bbr.com ](mailto:privacy@bbr.com) or log in to your account and change your contact permissions. Unsubscribing from promotional emails will not affect our ability to email you for the fulfilment of a contract or service provision. 
+If you specifically wish to stop receiving emails from us, please click on the “Unsubscribe” link included at the bottom of any of our emails. We respect your choice, and we will stop sending you promotional emails once you unsubscribe. It may take up to two weeks to process your request. Alternatively, you can email us at [privacy@bbr.com ](mailto:privacy@bbr.com) or log in to your account and change your contact permissions. Unsubscribing from promotional emails will not affect our ability to email you for the fulfilment of a contract or service provision 
 
-If you wish to update your details, if you need to check the accuracy of the details that we hold about you, or if you have any other questions about this Privacy Policy, please email us at [privacy@bbr.com ](mailto:privacy@bbr.com) Should you feel that you need to complain about how we are handling your personal data, email privacy@bbr.com or use our Contact Us form. 
+If you wish to update your details, if you need to check the accuracy of the details that we hold about you, or if you have any other questions about this Privacy Policy, please email us at [privacy@bbr.com ](mailto:privacy@bbr.com) Should you feel that you need to complain about how we are handling your personal data, email [privacy@bbr.com ](mailto:privacy@bbr.com) or use our Contact Us form. 
 
 We will respond to any request to access or delete your personal data as soon as possible, but certainly within 30 days. 
 
@@ -179,12 +200,12 @@ Your ultimate point of contact for all data protection matters in the UK is the 
 
 * * *
 
-**Cookies and software agents**   
-“Cookies” are pieces of software, which may be sent and recorded on your computer. These cookies enable us to collect information about how our websites and services are being used and to manage them more efficiently. 
+**Cookies**   
+A cookie is a small data file, typically containing letters and numbers, downloaded onto your device when you access our website. These cookies enable us to collect information about how our websites and services are being used and to manage them more efficiently.
 
 Until you have registered on Berry Bros. & Rudd’s website, the cookie will only track general usage patterns and technical information about your computer type and will not be used to identify you individually. After registration, cookies will be used to collect information on you to facilitate and improve your website experience. Cookies are also used as a site security method to stop abuse of our subscriber service. 
 
-You can turn off the ability to receive cookies by adjusting the browser on your computer but you should note that if you do so, this may materially distort the quality of service and data you receive. Cookies are not used to collect your personal information. 
+You can turn off the ability to receive cookies by adjusting the browser on your computer but you should note that if you do so, this may materially distort the quality of service and data you receive. Cookies are not used to collect your personal information. 
 
 * * *
 
@@ -205,7 +226,7 @@ We may also filter out emails which contain content which is considered offensiv
 * * *
 
 **Security**  
-Berry Bros. & Rudd has developed and implemented strict policies and processes governing information technology and data user behaviour. These cover areas such as access control, authentication, audit, monitoring, alarms, data storage and back up, transmission standards and environment integrity. 
+Berry Bros. & Rudd has developed and implemented strict policies and processes governing information technology and data user behaviour. These cover areas such as access control, authentication, audit, monitoring, alarms, data storage and back up, transmission standards and environment integrity. 
 
 We use reasonable endeavours to install and have appropriate security measures in place in our systems and facilities to protect against the loss, misuse or alteration of information that we have collected from you.
 
@@ -216,8 +237,6 @@ We do not store any credit card details on our website. The card details are enc
 We minimise the personal data that is accessible to our colleagues, and where appropriate we anonymise that data for marketing purposes.
 
 We password protect personal data that is stored within the business.
-
-To assure you of our attention to these issues we belong to the ISIS (Internet Shopping is Safe) scheme and the Wine by Mail Order Code of Practice. 
 
 When we introduce new systems and policies that relate to personal data, we ensure that data protection and security is included in the design of those systems. 
 
