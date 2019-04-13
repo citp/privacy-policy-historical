@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popnhop.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212132533id_/http%3A//popnhop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popnhop.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413043101id_/http%3A//popnhop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – POPnHOP - Leading Site For Pop Fans | Celebrity News
 
