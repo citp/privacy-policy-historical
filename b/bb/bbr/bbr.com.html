@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bbr.com privacy policy that was archived on 2018-08-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180824145329id_/https%3A//www.bbr.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bbr.com privacy policy that was archived on 2019-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190413055727id_/https%3A//www.bbr.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js"><head>
 	<meta name="google-site-verification" content="sbOZ9z0x-d11Y9Phtzy3frg9us7jlSVw6nNgejRfJGE">
@@ -17,8 +17,26 @@
 				  <meta name="HandheldFriendly" content="True">
 			  <meta name="viewport" content="width=device-width, target-densitydpi=160, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
 			  <meta name="msvalidate.01" content="975659287D6685F302DEE9E1A38E0660">
-			  <link rel="shortcut icon" type="image/x-icon" media="all" href="/_ui/desktop/theme-blue/images/favicon.ico">
-    
+			  <meta property="og:type" content="website">
+			<meta property="og:title" content="Berry Bros. &amp; Rudd">
+			<meta property="og:url" content="https://www.bbr.com/about/privacy">
+			<meta property="og:description" content="Berry Bros &amp; Rudd Wine Merchants. Our privacy and security details - Fine Wine Shop with wines for delivery world-wide">
+			<meta property="og:locale" content="en_GB">
+			<meta property="og:site_name" content="Berry Bros. &amp; Rudd">
+			<meta property="og:image" content="https://5304282f92ff1d1b19c1-8a2ebff5f6260504c3c482982d840415.ssl.cf3.rackcdn.com/images/pall-mall/pall-mall-rectangle.jpg">
+			<meta name="twitter:card" content="summary">
+			<meta name="twitter:site" content="@berrybrosrudd">
+			<meta name="twitter:creator" content="@berrybrosrudd">
+			<meta name="twitter:url" content="https://www.bbr.com/about/privacy">
+			<meta name="twitter:title" content="Berry Bros. &amp; Rudd">
+			<meta name="twitter:description" content="Berry Bros &amp; Rudd Wine Merchants. Our privacy and security details - Fine Wine Shop with wines for delivery world-wide">
+			<meta name="twitter:image" content="https://5304282f92ff1d1b19c1-8a2ebff5f6260504c3c482982d840415.ssl.cf3.rackcdn.com/images/pall-mall/pall-mall-rectangle.jpg">
+		<link rel="shortcut icon" type="image/x-icon" media="all" href="/_ui/desktop/theme-blue/images/favicon.ico">
+    <link rel="canonical" href="https://www.bbr.com/about/privacy">
+    <!--[if lt IE 11]>
+	<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/common/css/ie-warning.css"/>
+	<![endif]-->
+	
 
 
 
@@ -64,15 +82,56 @@
 
 
 
-<link rel="stylesheet" type="text/css" media="all" href="/combined.css?id=9c19f6411653f7e_0">
-<link rel="stylesheet" type="text/css" href="/combined.css?id=ac735da21653f7e_0">
-<link rel="stylesheet" type="text/css" media="print" href="/combined.css?id=2cf97bed1653f7e_0">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M2DDB8"></script><script src="/combined.js?id=27815b081653f7e_0"></script>
-		<script type="text/javascript">
 
+
+<link rel="stylesheet" type="text/css" media="all" href="/combined.css?id=9c4652df16a1348">
+<link rel="stylesheet" type="text/css" media="print" href="/combined.css?id=2cf97bed16a1348">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M2DDB8"></script><script type="text/javascript">
+var mediator = (function() {
+	var subscribe = function(tracker, fn) {
+			if (!mediator.trackers[tracker])
+			{
+				mediator.trackers[tracker] = [];
+			}
+			mediator.trackers[tracker].push({context: this, callback: fn});
+			return this;
+		},
+
+		publish = function(tracker) {
+			if (!mediator.trackers[tracker])
+			{
+				return false;
+			}
+			var args = Array.prototype.slice.call(arguments, 1);
+			for (var i = 0, l = mediator.trackers[tracker].length; i < l; i++)
+			{
+				var subscription = mediator.trackers[tracker][i];
+				subscription.callback.apply(subscription.context, args);
+			}
+			return this;
+		},
+
+		publishAll = function() {
+			if (Object.keys(mediator.trackers).length === 0)
+			{
+				return false;
+			}
+			for (var tracker in mediator.trackers)
+			{
+				var args = [tracker].concat(Array.prototype.slice.call(arguments));
+				mediator.publish.apply(this, args);
+			}
+			return this;
+		};
+
+	return {
+		trackers: {},
+		publish: publish,
+		publishAll: publishAll,
+		subscribe: subscribe
+	}
+})()
 </script>
-
-
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -153,7 +212,6 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 	if (data.productCode && data.initialCartQuantity)
 	{
 		trackRemoveFromCart(data.productCode, data.initialCartQuantity);
-		 
 	}
 });
 
@@ -171,12 +229,12 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 			if( pathName.charAt( 0 ) === '/' ){
 				pathName = pathName.slice( 1 );
 			}
-			
+
 			// safeguard for edge scenario
 			if ( pathName =="checkout/multi/payment" ){
 				pathName = "checkout";
 			}
-			
+
 			situationValue = pathName;
 		
 			dataLayer.push({
@@ -188,10 +246,14 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 				'customer_id': gdlCustomerId
 			});
 		</script>
-<style type="text/css">
-  .js #fouc {display: none;}
-</style>
-
+<script type="text/javascript">
+    
+    dataLayer.push({
+				'emarsysCart': [
+                    
+                ]
+			});
+    </script>
 <script type="text/javascript">
 	document.documentElement.className = "js";
 </script>
@@ -199,7 +261,19 @@ window.mediator.subscribe('trackRemoveFromCart', function(data) {
 </head>
 
 <body class=" page-page-00000GZ7 pageType-ContentPage template-pages-layout-contentLayout2Page pageLabel--about-privacy language-en page sticky_header full-width">
-<div id="fouc" style="display: block;">
+	<!--[if lt IE 11]>
+	<div class="ie-warning">
+		<div class="ie-bbr-logo"></div>
+		<hr>
+		<h2 class="ie-warning-msg">Sorry, your browser is not supported.</h2>
+		<p class="ie-warning-msg">
+			Please upgrade to the latest version of <a href="https://www.google.com/chrome/" target="_blank">Chrome</a>,
+			<a href="https://www.mozilla.org/firefox/" target="_blank">Firefox</a>,
+			 Edge, or <a href="https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads" target="_blank">Internet Explorer 11</a>.
+		</p>
+	</div>
+	<![endif]-->
+<div id="fouc">
 	<div id="headerWrapper">
 			
 <script type="text/javascript">
@@ -207,7 +281,7 @@ if(top != self) top.location.replace(location);
 </script><!-- chronicle font -->
 <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6688872/658866/css/fonts.css">
 <!-- <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6688872/658866/css/fonts.css" /> -->
-<script src="/combined.js?id=cf9d7c671653f7e_0"></script>
+<script src="/combined.js?id=cf9d7c6716a1348"></script>
 		<script type="text/javascript">
 	$(document).ready(function() {
 
@@ -219,32 +293,29 @@ if(top != self) top.location.replace(location);
 		// --- Mini Cart Count --- //
 		if ( $('.miniCart .count').html() === "0" ) { $('.miniCart .count').hide() }
 
-		// --- Search Focus --- //
-		if ( $(window).width() > 1023 ) {
-			$(".searchLink input.siteSearchInput").on('focusin', function () {
-				$('.searchLink .siteSearch form').css('border', '1px solid #dfdfdf');
-				$('.searchLink input.siteSearchInput').css('padding-left', '10px');
-			});
-
-			$(".searchLink input.siteSearchInput").on('focusout', function () {
-				if ( ($(".searchLink input.siteSearchInput").val().length === 0) ) {
-					$('.searchLink .siteSearch form').css('border', '1px solid #fff');
-					$('.searchLink input.siteSearchInput').css('padding-left', '110px');
+		// --- Search --- //
+		$('.searchLink .siteSearchSubmit').on('click', function(e) {
+			e.preventDefault();
+			if ( $(window).width() <= 768 ) {
+				if ($('#logoBar .searchLink').hasClass('searchExpanded')) {
+					if ( ($(".searchLink input.siteSearchInput").val().length > 0) ) {
+						$('#searchForm').submit();
+					}
 				} else {
-					$('.searchLink input.siteSearchInput').css('padding-left', '10px');
+					$.scrollTo($('#logo'), 600);
+					$('#logoBar .searchLink').animate({top: '60px'}, 500).promise().done(function(){
+						$('#logoBar .searchLink').addClass('searchExpanded').css('top','0').css('width','100%');
+						$('.searchLink input.siteSearchInput').show();
+						$('.searchLink .siteSearch form').css('width','44px').css('border', '1px solid #dfdfdf').animate({width: '100%'}, 600);
+					});
 				}
-			});
-
-			$('.searchLink .siteSearchSubmit').on('click', function(e) {
-				e.preventDefault();
-				if ( ($(".searchLink input.siteSearchInput").val().length === 0) ) {
-					$(".searchLink input.siteSearchInput").focus();
-				} else {
-					// Search
+			} else {
+				if ( ($(".searchLink input.siteSearchInput").val().length > 0) ) {
 					$('#searchForm').submit();
 				}
-			});
-		}
+			}
+
+		});
 
 		// --- CDN Images --- //
 		$(".cdnImage").each(function() {
@@ -358,33 +429,21 @@ if(top != self) top.location.replace(location);
 		    }
 		})
 
-		if (document.documentElement.clientWidth < 769) {
-			$('li.parent > a').click(function(e) {
-				e.preventDefault();
-				$('li.parent > a').removeClass('open-top-category');
-				var subnav = $(this).closest('li').find('ul.Lb');
+		$('li.parent > .expand-arrow').click(function(e) {
+			e.preventDefault();
+			$('li.parent > a').removeClass('open-top-category');
+			var subnav = $(this).prev().closest('li').find('ul.Lb');
 
-				if (subnav.hasClass('open')){
-					subnav.removeClass('open');
-				} else {
-					// closing rest of open sections
-					$('ul.Lb').removeClass('open');
+			if (subnav.hasClass('open')){
+				subnav.removeClass('open');
+			} else {
+				// closing rest of open sections
+				$('ul.Lb').removeClass('open');
 
-					$(this).addClass('open-top-category');
-					subnav.addClass('open');
-				}
-			});
-
-			$(".linksDiv ul").hide();
-
-			$('.linksDiv h3').toggle(function(){
-				$(this).removeClass( "expand" ).addClass( "expanded" );
-				$(this).next().slideDown();
-			},function(){
-				$(this).removeClass( "expanded" ).addClass( "expand" );
-				$(this).next().slideUp();
-			});
-		}
+				$(this).prev().addClass('open-top-category');
+				subnav.addClass('open');
+			}
+		});
 
 		var mobileNavOpen = false;
 		$('body').css("left", 0);
@@ -450,7 +509,11 @@ if(top != self) top.location.replace(location);
 	}
 </script>
 
-<!-- Include the Bazaar voice tag -->
+
+
+
+
+    <!-- Include the Bazaar voice tag -->
 <!-- For Product Details page -->
 <div id="utilityBar">
 	<div id="leftUtilities">
@@ -603,16 +666,12 @@ padding: 0 10px;
 		<a href="/"><span>Berry Bros. &amp; Rudd</span></a>
 	</div>
 
-	<div id="mobileSearch" style="display: none;">
-		<a class="mobileSearch" href="#"></a>
-	</div>
-
 	<div class="searchLink desktop-searchLink">
 		<div class="wide-nav-search">
  			<div class="siteSearch">
 				<form id="searchForm" name="search_form" method="get" action="/search/">
 					<div>
-						<input id="search" class="siteSearchInput left ui-autocomplete-input" type="text" name="text" value="" maxlength="100" placeholder="Search" data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;3&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;0&quot;,&quot;displayProductImages&quot; : true}" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+						<input id="search" class="siteSearchInput ui-autocomplete-input" type="text" name="text" value="" maxlength="100" placeholder="Search" data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;3&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;0&quot;,&quot;displayProductImages&quot; : true}" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
 						<button class="siteSearchSubmit btn-primary-action" type="submit"><span>Search</span></button>
 					</div>
 				</form>
@@ -629,66 +688,23 @@ padding: 0 10px;
 	<li></li>
 	<li></li>
 </ul>
-<div id="navigation">
+
+
+
+
+
+    <div id="navigation">
 		<div id="navigationWrapper">
 
 			<div class="nav-top">
 				<a href="#" class="navigation-close">Close&nbsp;</a>
-
-				<div class="searchLink mobile-searchLink">
-					<div class="wide-nav-search">
-			 			<div class="siteSearch">
-							<form id="searchForm" name="search_form" method="get" action="/search/">
-								<div>
-									<input id="search" class="siteSearchInput left ui-autocomplete-input" type="text" name="text" value="" maxlength="100" placeholder="Search" data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;3&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;0&quot;,&quot;displayProductImages&quot; : true}" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-									<button class="siteSearchSubmit btn-primary-action" type="submit"><span>Search</span></button>
-								</div>
-							</form>
-						</div>
-			    	</div>
-			    </div>
-
 			</div>
 
-			<ul class="yCmsContentSlot clear_fix"><li id="SaleBarComponent" class="La  auto parent">
-	
-		<a title="Sale" href="/sale">Sale</a><ul class="Lb">
-			<li class="Lb">
-						<span class="nav-submenu-title">Summer Sale</span>
-						<ul class="Lc left_col">
-								<span id="Browse all sale wines">
-									<li class="yCmsComponent Lc left_col"><a title="Browse all sale wines" href="/offers-summer-sale">Browse all sale wines</a></li></span>
-								<span id="Our Buyers' Favourites">
-									<li class="yCmsComponent Lc left_col"><a title="Our Buyers' Favourites" href="/offers-buyers-picks-sale">Our Buyers' Favourites</a></li></span>
-								<span id="Our best offers">
-									<li class="yCmsComponent Lc left_col"><a title="Our best offers" href="/offers-best-offers-sale">Our best offers</a></li></span>
-								<span id="Spirits in the sale">
-									<li class="yCmsComponent Lc left_col"><a title="Spirits in the sale" href="/offers-spirits-sale">Spirits in the sale</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Browse by Region</span>
-						<ul class="Lc left_col">
-								<span id=" Burgundy and Beaujolais">
-									<li class="yCmsComponent Lc left_col"><a title=" Burgundy and Beaujolais" href="/offers-burgundy-chablis-beaujolais-sale"> Burgundy and Beaujolais</a></li></span>
-								<span id="Bordeaux and the Rhône">
-									<li class="yCmsComponent Lc left_col"><a title="Bordeaux and the Rhône" href="/offers-bordeaux-rhone-sale">Bordeaux and the Rhône</a></li></span>
-								<span id="The rest of France">
-									<li class="yCmsComponent Lc left_col"><a title="The rest of France" href="/offers-rest-of-france-sale">The rest of France</a></li></span>
-								<span id="Italy, Portugal and Spain">
-									<li class="yCmsComponent Lc left_col"><a title="Italy, Portugal and Spain" href="/offers-italy-portugal-spain-sale">Italy, Portugal and Spain</a></li></span>
-								<span id="The rest of Europe">
-									<li class="yCmsComponent Lc left_col"><a title="The rest of Europe" href="/offers-rest-of-europe-sale">The rest of Europe</a></li></span>
-								<span id="The New World">
-									<li class="yCmsComponent Lc left_col"><a title="The New World" href="/offers-new-world-sale">The New World</a></li></span>
-								<span id="Champagne and Sparkling">
-									<li class="yCmsComponent Lc left_col"><a title="Champagne and Sparkling" href="/offers-champagne-sparkling-sale">Champagne and Sparkling</a></li></span>
-								</ul>
-						</li>
-				</ul>
-	</li><li id="comp_00006HSQ" class="La  auto parent">
-	
-		<a title="Buy Wine" href="/buy-wine">Buy Wine</a><ul class="Lb">
+			<ul class="yCmsContentSlot clear_fix"><li id="comp_00006HSQ" class="La  auto parent">
+
+		<a title="Buy Wine" href="/buy-wine">Buy Wine</a><div class="expand-arrow"></div>
+
+	<ul class="Lb">
 			<li class="Lb">
 						<span class="nav-submenu-title">Popular</span>
 						<ul class="Lc left_col">
@@ -702,8 +718,8 @@ padding: 0 10px;
 									<li class="yCmsComponent Lc left_col"><a title="Latest offers" href="/wine-spirits-latest-offers">Latest offers</a></li></span>
 								<span id="Mixed cases">
 									<li class="yCmsComponent Lc left_col"><a title="Mixed cases" href="/offers-mixed-cases">Mixed cases</a></li></span>
-								<span id="Champagne">
-									<li class="yCmsComponent Lc left_col"><a title="Champagne" href="/region-539-champagne">Champagne</a></li></span>
+								<span id="All wines">
+									<li class="yCmsComponent Lc left_col"><a title="All wines" href="/offers-wines">All wines</a></li></span>
 								</ul>
 						</li>
 				<li class="Lb">
@@ -782,7 +798,7 @@ padding: 0 10px;
 								</ul>
 						</li>
 				<li class="Lb">
-						<span class="nav-submenu-title">Fortified wines</span>
+						<span class="nav-submenu-title">Fortified wine</span>
 						<ul class="Lc left_col">
 								<span id="Port">
 									<li class="yCmsComponent Lc left_col"><a title="Port" href="/region-615-port-wine">Port</a></li></span>
@@ -804,158 +820,446 @@ padding: 0 10px;
 								</ul>
 						</li>
 				</ul>
-	</li><li id="SpiritsBarComponent" class="La  auto parent">
-	
-		<a title="Spirits" href="/whiskies-and-spirits">Spirits</a><ul class="Lb">
+	</li>
+<li id="comp_00006N75" class="La  auto parent">
+
+		<a title="Fine Wine" href="/fine-wine">Fine Wine</a><div class="expand-arrow"></div>
+
+	<ul class="Lb">
+			<li class="Lb">
+						<span class="nav-submenu-title">Bordeaux</span>
+						<ul class="Lc left_col">
+								<span id="Margaux">
+									<li class="yCmsComponent Lc left_col"><a title="Margaux" href="/region-900-margaux">Margaux</a></li></span>
+								<span id="Pauillac">
+									<li class="yCmsComponent Lc left_col"><a title="Pauillac" href="/region-904-pauillac">Pauillac</a></li></span>
+								<span id="Pomerol">
+									<li class="yCmsComponent Lc left_col"><a title="Pomerol" href="/region-906-pomerol">Pomerol</a></li></span>
+								<span id="St Emilion">
+									<li class="yCmsComponent Lc left_col"><a title="St Emilion" href="/region-912-st-emilion">St Emilion</a></li></span>
+								<span id="St Estèphe">
+									<li class="yCmsComponent Lc left_col"><a title="St Estèphe" href="/region-913-st-estephe">St Estèphe</a></li></span>
+								<span id="All Bordeaux">
+									<li class="yCmsComponent Lc left_col"><a title="All Bordeaux" href="/region-7-bordeaux">All Bordeaux</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Burgundy</span>
+						<ul class="Lc left_col">
+								<span id="Puligny-Montrachet">
+									<li class="yCmsComponent Lc left_col"><a title="Puligny-Montrachet" href="/region-1990-puligny-montrachet">Puligny-Montrachet</a></li></span>
+								<span id="Vosne-Romanée">
+									<li class="yCmsComponent Lc left_col"><a title="Vosne-Romanée" href="/region-1642-vosne-romanee">Vosne-Romanée</a></li></span>
+								<span id="Meursault">
+									<li class="yCmsComponent Lc left_col"><a title="Meursault" href="/region-1608-meursault">Meursault</a></li></span>
+								<span id="Nuits-St Georges">
+									<li class="yCmsComponent Lc left_col"><a title="Nuits-St Georges" href="/region-1601-nuits-saint-georges">Nuits-St Georges</a></li></span>
+								<span id="Pommard">
+									<li class="yCmsComponent Lc left_col"><a title="Pommard" href="/region-1606-pommard">Pommard</a></li></span>
+								<span id="All Burgundy">
+									<li class="yCmsComponent Lc left_col"><a title="All Burgundy" href="/region-8-burgundy">All Burgundy</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">All Champagne</span>
+						<ul class="Lc left_col">
+								<span id="Bollinger">
+									<li class="yCmsComponent Lc left_col"><a title="Bollinger" href="/producer-15-bollinger">Bollinger</a></li></span>
+								<span id="Louis Roederer &amp; Cristal">
+									<li class="yCmsComponent Lc left_col"><a title="Louis Roederer &amp; Cristal" href="/producer-597-louis-roederer">Louis Roederer &amp; Cristal</a></li></span>
+								<span id="Dom Pérignon">
+									<li class="yCmsComponent Lc left_col"><a title="Dom Pérignon" href="/producer-703-dom-perignon">Dom Pérignon</a></li></span>
+								<span id="Krug">
+									<li class="yCmsComponent Lc left_col"><a title="Krug" href="/producer-595-krug">Krug</a></li></span>
+								<span id="Ruinart">
+									<li class="yCmsComponent Lc left_col"><a title="Ruinart" href="/producer-2-champagne-ruinart">Ruinart</a></li></span>
+								<span id="More Champagne">
+									<li class="yCmsComponent Lc left_col"><a title="More Champagne" href="/region-539-champagne">More Champagne</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Other popular regions</span>
+						<ul class="Lc left_col">
+								<span id="Châteauneuf-du-Pape">
+									<li class="yCmsComponent Lc left_col"><a title="Châteauneuf-du-Pape" href="/region-1026-chateauneuf-du-pape">Châteauneuf-du-Pape</a></li></span>
+								<span id="Barolo">
+									<li class="yCmsComponent Lc left_col"><a title="Barolo" href="/region-3612-barolo">Barolo</a></li></span>
+								<span id="Tuscany">
+									<li class="yCmsComponent Lc left_col"><a title="Tuscany" href="/region-3739-tuscany">Tuscany</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Popular producers</span>
+						<ul class="Lc left_col">
+								<span id="Ch. Lynch Bages">
+									<li class="yCmsComponent Lc left_col"><a title="Ch. Lynch Bages" href="/producer-320-chateau-lynch-bages">Ch. Lynch Bages</a></li></span>
+								<span id="Ch. Lafite Rothschild">
+									<li class="yCmsComponent Lc left_col"><a title="Ch. Lafite Rothschild" href="/producer-250-chateau-lafite-rothschild">Ch. Lafite Rothschild</a></li></span>
+								<span id="Ch. Latour">
+									<li class="yCmsComponent Lc left_col"><a title="Ch. Latour" href="/producer-270-chateau-latour">Ch. Latour</a></li></span>
+								<span id="Petrus">
+									<li class="yCmsComponent Lc left_col"><a title="Petrus" href="/producer-400-petrus">Petrus</a></li></span>
+								<span id="Ch. Palmer">
+									<li class="yCmsComponent Lc left_col"><a title="Ch. Palmer" href="/producer-370-chateau-palmer">Ch. Palmer</a></li></span>
+								<span id="Ch. Montrose">
+									<li class="yCmsComponent Lc left_col"><a title="Ch. Montrose" href="/producer-350-chateau-montrose">Ch. Montrose</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">En primeur</span>
+						<ul class="Lc left_col">
+								<span id="About en primeur">
+									<li class="yCmsComponent Lc left_col"><a title="About en primeur" href="/fine-wine/why-buy-en-primeur">About en primeur</a></li></span>
+								<span id="Burgundy 2017">
+									<li class="yCmsComponent Lc left_col"><a title="Burgundy 2017" href="/burgundy2017">Burgundy 2017</a></li></span>
+								<span id="Bordeaux 2017">
+									<li class="yCmsComponent Lc left_col"><a title="Bordeaux 2017" href="/bordeaux-2017">Bordeaux 2017</a></li></span>
+								<span id="Rhône 2017">
+									<li class="yCmsComponent Lc left_col"><a title="Rhône 2017" href="/rhone-2017">Rhône 2017</a></li></span>
+								<span id="All en primeur offers">
+									<li class="yCmsComponent Lc left_col"><a title="All en primeur offers" href="/offer/en-primeur">All en primeur offers</a></li></span>
+								<span id="FAQs">
+									<li class="yCmsComponent Lc left_col"><a title="FAQs" href="/fine-wine/faq-en-primeur">FAQs</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Other services</span>
+						<ul class="Lc left_col">
+								<span id="Fine Wine team">
+									<li class="yCmsComponent Lc left_col"><a title="Fine Wine team" href="/fine-wine/fine-wine-team">Fine Wine team</a></li></span>
+								<span id="Cellar Plan">
+									<li class="yCmsComponent Lc left_col"><a title="Cellar Plan" href="/cellar-plan">Cellar Plan</a></li></span>
+								<span id="Broking">
+									<li class="yCmsComponent Lc left_col"><a title="Broking" href="/fine-wine/bbx">Broking</a></li></span>
+								<span id="Fine wine investment ">
+									<li class="yCmsComponent Lc left_col"><a title="Fine wine investment " href="/fine-wine/investment">Fine wine investment </a></li></span>
+								<span id="Wine storage">
+									<li class="yCmsComponent Lc left_col"><a title="Wine storage" href="/wine-storage">Wine storage</a></li></span>
+								</ul>
+						</li>
+				</ul>
+	</li>
+<li id="SpiritsBarComponent" class="La  auto parent">
+
+		<a title="Spirits" href="/whiskies-and-spirits">Spirits</a><div class="expand-arrow"></div>
+
+	<ul class="Lb">
+			<li class="Lb">
+						<span class="nav-submenu-title">Our own brands</span>
+						<ul class="Lc left_col">
+								<span id="No.3 London Gin">
+									<li class="yCmsComponent Lc left_col"><a title="No.3 London Gin" href="/producer-1874-no3-london-dry-gin">No.3 London Gin</a></li></span>
+								<span id="The King's Ginger">
+									<li class="yCmsComponent Lc left_col"><a title="The King's Ginger" href="/producer-1824-the-king-s-ginger">The King's Ginger</a></li></span>
+								<span id="Our own-label whisky">
+									<li class="yCmsComponent Lc left_col"><a title="Our own-label whisky" href="/category-own-selection-whiskies">Our own-label whisky</a></li></span>
+								<span id="Penny Blue">
+									<li class="yCmsComponent Lc left_col"><a title="Penny Blue" href="/offers-penny-blue-mauritian-rum">Penny Blue</a></li></span>
+								<span id="London Dry Gin">
+									<li class="yCmsComponent Lc left_col"><a title="London Dry Gin" href="/products-49011-berry-bros-and-rudd-london-dry-gin-uk-customers-only-40-6%25">London Dry Gin</a></li></span>
+								<span id="Texas Legation">
+									<li class="yCmsComponent Lc left_col"><a title="Texas Legation" href="/products-51011-texas-legation-batch-no-2-texas-bourbon-whiskey-46-2%25">Texas Legation</a></li></span>
+								<span id="Our Own Selection spirits ">
+									<li class="yCmsComponent Lc left_col"><a title="Our Own Selection spirits " href="/category-own-selection-spirits">Our Own Selection spirits </a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">By type</span>
+						<ul class="Lc left_col">
+								<span id="Whiskies">
+									<li class="yCmsComponent Lc left_col"><a title="Whiskies" href="/whisky">Whiskies</a></li></span>
+								<span id="Gin">
+									<li class="yCmsComponent Lc left_col"><a title="Gin" href="/category-gin">Gin</a></li></span>
+								<span id="Rum">
+									<li class="yCmsComponent Lc left_col"><a title="Rum" href="/category-rum">Rum</a></li></span>
+								<span id="Cognac">
+									<li class="yCmsComponent Lc left_col"><a title="Cognac" href="/category-cognac">Cognac</a></li></span>
+								<span id="Armagnac">
+									<li class="yCmsComponent Lc left_col"><a title="Armagnac" href="/category-armagnac">Armagnac</a></li></span>
+								<span id="Liqueurs">
+									<li class="yCmsComponent Lc left_col"><a title="Liqueurs" href="/category-liqueurs">Liqueurs</a></li></span>
+								<span id="Vermouth">
+									<li class="yCmsComponent Lc left_col"><a title="Vermouth" href="/category-vermouth">Vermouth</a></li></span>
+								<span id="All spirits">
+									<li class="yCmsComponent Lc left_col"><a title="All spirits" href="/whiskies-and-spirits">All spirits</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Whiskies</span>
+						<ul class="Lc left_col">
+								<span id="Scotch whisky">
+									<li class="yCmsComponent Lc left_col"><a title="Scotch whisky" href="/region-45-scotch-whisky">Scotch whisky</a></li></span>
+								<span id="Irish whiskey">
+									<li class="yCmsComponent Lc left_col"><a title="Irish whiskey" href="/category-irish-whiskeys">Irish whiskey</a></li></span>
+								<span id="Japanese whisky">
+									<li class="yCmsComponent Lc left_col"><a title="Japanese whisky" href="/category-japanese-whisky">Japanese whisky</a></li></span>
+								<span id="Bourbon">
+									<li class="yCmsComponent Lc left_col"><a title="Bourbon" href="/category-bourbon-and-us-whiskey">Bourbon</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Rare spirits</span>
+						<ul class="Lc left_col">
+								<span id="Rare whisky">
+									<li class="yCmsComponent Lc left_col"><a title="Rare whisky" href="/category-collectors-whisky-gifts">Rare whisky</a></li></span>
+								<span id="Rare Cognac">
+									<li class="yCmsComponent Lc left_col"><a title="Rare Cognac" href="/offer/rare-cognac">Rare Cognac</a></li></span>
+								<span id="Rare Armagnac">
+									<li class="yCmsComponent Lc left_col"><a title="Rare Armagnac" href="/offer/rare-armagnac">Rare Armagnac</a></li></span>
+								</ul>
+						</li>
+				</ul>
+	</li>
+<li id="EventsBarComponent" class="La  auto parent">
+
+		<a title="Events" href="/wine-events">Events</a><div class="expand-arrow"></div>
+
+	<ul class="Lb">
+			<li class="Lb">
+						<span class="nav-submenu-title">Food and wine events</span>
+						<ul class="Lc left_col">
+								<span id="Lunches">
+									<li class="yCmsComponent Lc left_col"><a title="Lunches" href="/producer-3625-cellar-luncheons">Lunches</a></li></span>
+								<span id="Dinners">
+									<li class="yCmsComponent Lc left_col"><a title="Dinners" href="/producer-3626-cellar-dinners">Dinners</a></li></span>
+								<span id="Our food">
+									<li class="yCmsComponent Lc left_col"><a title="Our food" href="/services/private-event-expert-catering">Our food</a></li></span>
+								<span id="Contact us">
+									<li class="yCmsComponent Lc left_col"><a title="Contact us" href="/contactus/contact-us?pageId=wine-school">Contact us</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Tastings</span>
+						<ul class="Lc left_col">
+								<span id="Bordeaux tastings">
+									<li class="yCmsComponent Lc left_col"><a title="Bordeaux tastings" href="category-events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3ABordeaux&amp;text=&amp;facetPrefix=#">Bordeaux tastings</a></li></span>
+								<span id="Burgundy tastings">
+									<li class="yCmsComponent Lc left_col"><a title="Burgundy tastings" href="/category-events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3ABurgundy&amp;text=&amp;facetPrefix=#">Burgundy tastings</a></li></span>
+								<span id="Champagne tastings">
+									<li class="yCmsComponent Lc left_col"><a title="Champagne tastings" href="/category-events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3AChampagne&amp;text=&amp;facetPrefix=#">Champagne tastings</a></li></span>
+								<span id="Italian tastings">
+									<li class="yCmsComponent Lc left_col"><a title="Italian tastings" href="/category-events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3AItaly&amp;text=&amp;facetPrefix=#">Italian tastings</a></li></span>
+								<span id="Tutored tastings">
+									<li class="yCmsComponent Lc left_col"><a title="Tutored tastings" href="/producer-1561-tutored-tastings">Tutored tastings</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Private events</span>
+						<ul class="Lc left_col">
+								<span id="Overview">
+									<li class="yCmsComponent Lc left_col"><a title="Overview" href="/private-events">Overview</a></li></span>
+								<span id="Event options">
+									<li class="yCmsComponent Lc left_col"><a title="Event options" href="/services/event-options">Event options</a></li></span>
+								<span id="Our hosts at your venue">
+									<li class="yCmsComponent Lc left_col"><a title="Our hosts at your venue" href="/demetri-walters">Our hosts at your venue</a></li></span>
+								<span id="Contact us">
+									<li class="yCmsComponent Lc left_col"><a title="Contact us" href="/contactus/contact-us?pageId=private-wine-events">Contact us</a></li></span>
+								<span id="Brochure">
+									<li class="yCmsComponent Lc left_col"><a title="Brochure" href="http://akamai.bbr.com/downloads/PWE_brochure.pdf">Brochure</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Wine School</span>
+						<ul class="Lc left_col">
+								<span id="One-Day Wine school">
+									<li class="yCmsComponent Lc left_col"><a title="One-Day Wine school" href="/producer-8889-one-day-wine-school">One-Day Wine school</a></li></span>
+								<span id="WSET courses">
+									<li class="yCmsComponent Lc left_col"><a title="WSET courses" href="/producer-1667-wset-examination-courses-london">WSET courses</a></li></span>
+								<span id="Tutored tastings">
+									<li class="yCmsComponent Lc left_col"><a title="Tutored tastings" href="/producer-1561-tutored-tastings">Tutored tastings</a></li></span>
+								<span id="Evening Wine Schools">
+									<li class="yCmsComponent Lc left_col"><a title="Evening Wine Schools" href="/producer-1565-evening-wine-schools">Evening Wine Schools</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Explore</span>
+						<ul class="Lc left_col">
+								<span id="Browse all events">
+									<li class="yCmsComponent Lc left_col"><a title="Browse all events" href="/category-events">Browse all events</a></li></span>
+								<span id="Meet the team">
+									<li class="yCmsComponent Lc left_col"><a title="Meet the team" href="/events-team">Meet the team</a></li></span>
+								<span id="Our venues">
+									<li class="yCmsComponent Lc left_col"><a title="Our venues" href="/services-our-wine-events-venues">Our venues</a></li></span>
+								</ul>
+						</li>
+				</ul>
+	</li>
+<li id="AboutUsBarComponent" class="La  auto parent">
+
+		<a title="Broking (BBX)" href="/fine-wine/bbx">Broking (BBX)</a><div class="expand-arrow"></div>
+
+	<ul class="Lb">
 			<li class="Lb">
 						<span class="nav-submenu-title">Popular</span>
 						<ul class="Lc left_col">
-								<span id="The Glenrothes">
-									<li class="yCmsComponent Lc left_col"><a title="The Glenrothes" href="/producer-981-glenrothes-distillery-speyside">The Glenrothes</a></li></span>
-								<span id="No.3 London Gin">
-									<li class="yCmsComponent Lc left_col"><a title="No.3 London Gin" href="/producer-1874-no3-london-dry-gin">No.3 London Gin</a></li></span>
-								<span id="Penny Blue Mauritian Rums">
-									<li class="yCmsComponent Lc left_col"><a title="Penny Blue Mauritian Rums" href="/offers-penny-blue-mauritian-rum">Penny Blue Mauritian Rums</a></li></span>
-								<span id="The King's Ginger">
-									<li class="yCmsComponent Lc left_col"><a title="The King's Ginger" href="/producer-1824-the-king-s-ginger">The King's Ginger</a></li></span>
-								<span id="Pink Pigeon Rum">
-									<li class="yCmsComponent Lc left_col"><a title="Pink Pigeon Rum" href="/producer-1982-the-indian-ocean-rum-company">Pink Pigeon Rum</a></li></span>
+								<span id="New to BBX">
+									<li class="yCmsComponent Lc left_col"><a title="New to BBX" href="/bbx/new">New to BBX</a></li></span>
+								<span id="Best of BBX">
+									<li class="yCmsComponent Lc left_col"><a title="Best of BBX" href="/bbx/category/search/best-on-bbx">Best of BBX</a></li></span>
+								<span id="All BBX wines">
+									<li class="yCmsComponent Lc left_col"><a title="All BBX wines" href="/bbx/search/listed">All BBX wines</a></li></span>
+								<span id="Biddable wines">
+									<li class="yCmsComponent Lc left_col"><a title="Biddable wines" href="/search/biddable">Biddable wines</a></li></span>
 								</ul>
 						</li>
 				<li class="Lb">
-						<span class="nav-submenu-title">All Whiskies</span>
+						<span class="nav-submenu-title">Introduction to BBX</span>
 						<ul class="Lc left_col">
-								<span id="Our Own Whiskies">
-									<li class="yCmsComponent Lc left_col"><a title="Our Own Whiskies" href="/Categories/Spirits/Our-Own-Selection-Whiskies/c/own-selection-whiskies">Our Own Whiskies</a></li></span>
-								<span id="Scotch Whisky">
-									<li class="yCmsComponent Lc left_col"><a title="Scotch Whisky" href="/Categories/Spirits/Scotch-Whisky/c/scotch-whisky">Scotch Whisky</a></li></span>
-								<span id="Irish Whiskey">
-									<li class="yCmsComponent Lc left_col"><a title="Irish Whiskey" href="/Categories/Spirits/Irish-Whiskeys/c/irish-whiskeys">Irish Whiskey</a></li></span>
-								<span id="Japanese Whisky">
-									<li class="yCmsComponent Lc left_col"><a title="Japanese Whisky" href="/Categories/Spirits/Japanese-Whisky/c/japanese-whisky">Japanese Whisky</a></li></span>
-								<span id="Welsh Whisky">
-									<li class="yCmsComponent Lc left_col"><a title="Welsh Whisky" href="/Categories/Spirits/Welsh-Whisky/c/welsh-whisky">Welsh Whisky</a></li></span>
-								<span id="Bourbon">
-									<li class="yCmsComponent Lc left_col"><a title="Bourbon" href="/Categories/Spirits/Bourbon-%26-US-Whiskey/c/bourbon-and-us-whiskey">Bourbon</a></li></span>
-								<span id="Other World Whiskies">
-									<li class="yCmsComponent Lc left_col"><a title="Other World Whiskies" href="/Categories/Spirits/Whiskies-Others/c/whiskies-others">Other World Whiskies</a></li></span>
+								<span id="Intro to BBX">
+									<li class="yCmsComponent Lc left_col"><a title="Intro to BBX" href="/fine-wine/bbx">Intro to BBX</a></li></span>
+								<span id="Valuation guide">
+									<li class="yCmsComponent Lc left_col"><a title="Valuation guide" href="/fine-wine/valuations-guide">Valuation guide</a></li></span>
+								<span id="BBX FAQs">
+									<li class="yCmsComponent Lc left_col"><a title="BBX FAQs" href="/fine-wine/bbx-faqs">BBX FAQs</a></li></span>
+								<span id="Terms and Conditions">
+									<li class="yCmsComponent Lc left_col"><a title="Terms and Conditions" href="/about/bbx-terms">Terms and Conditions</a></li></span>
 								</ul>
 						</li>
 				<li class="Lb">
-						<span class="nav-submenu-title">Other Spirits</span>
+						<span class="nav-submenu-title">Sell your wine</span>
 						<ul class="Lc left_col">
-								<span id="Cognac">
-									<li class="yCmsComponent Lc left_col"><a title="Cognac" href="/Categories/Spirits/Cognac/c/cognac">Cognac</a></li></span>
-								<span id="Vintage Armagnac">
-									<li class="yCmsComponent Lc left_col"><a title="Vintage Armagnac" href="/Categories/Spirits/Armagnac/c/armagnac">Vintage Armagnac</a></li></span>
-								<span id="Calvados">
-									<li class="yCmsComponent Lc left_col"><a title="Calvados" href="/Categories/Spirits/Calvados/c/calvados">Calvados</a></li></span>
-								<span id="Sake">
-									<li class="yCmsComponent Lc left_col"><a title="Sake" href="/Categories/Spirits/Sake---Shochu/c/sake-shochu">Sake</a></li></span>
-								<span id="Rum">
-									<li class="yCmsComponent Lc left_col"><a title="Rum" href="/Categories/Spirits/Rum/c/rum">Rum</a></li></span>
-								<span id="Gin">
-									<li class="yCmsComponent Lc left_col"><a title="Gin" href="/Categories/Spirits/Gin/c/gin">Gin</a></li></span>
-								<span id="Vodka">
-									<li class="yCmsComponent Lc left_col"><a title="Vodka" href="/Categories/Spirits/Vodka/c/vodka">Vodka</a></li></span>
-								<span id="Brandy">
-									<li class="yCmsComponent Lc left_col"><a title="Brandy" href="/Categories/Spirits/Brandy/c/brandy">Brandy</a></li></span>
-								<span id="All Spirits">
-									<li class="yCmsComponent Lc left_col"><a title="All Spirits" href="/whiskies-and-spirits">All Spirits</a></li></span>
+								<span id="Register to sell">
+									<li class="yCmsComponent Lc left_col"><a title="Register to sell" href="/my-account/bbx/seller-registration?null">Register to sell</a></li></span>
+								<span id="View bids on your wine">
+									<li class="yCmsComponent Lc left_col"><a title="View bids on your wine" href="/bbx/bids/cpr-bid-management">View bids on your wine</a></li></span>
+								<span id="List your wines">
+									<li class="yCmsComponent Lc left_col"><a title="List your wines" href="/my-account/customer-cpraccount-page">List your wines</a></li></span>
 								</ul>
 						</li>
 				<li class="Lb">
-						<span class="nav-submenu-title">Spirits Gifts</span>
+						<span class="nav-submenu-title">Buy wine</span>
 						<ul class="Lc left_col">
-								<span id="Whisky Gifts under £50">
-									<li class="yCmsComponent Lc left_col"><a title="Whisky Gifts under £50" href="/Offers/Whisky-Gifts-under-£50/c/whiskies-under50pounds">Whisky Gifts under £50</a></li></span>
-								<span id="Connoisseurs' Choice">
-									<li class="yCmsComponent Lc left_col"><a title="Connoisseurs' Choice" href="/Offers/Connoisseurs%27-Choice/c/connoisseurs-choice">Connoisseurs' Choice</a></li></span>
-								<span id="Fine and Rare Whisky Gifts">
-									<li class="yCmsComponent Lc left_col"><a title="Fine and Rare Whisky Gifts" href="/Offers/Fine-%26-Rare-Whisky-Gifts/c/collectors-whisky-gifts">Fine and Rare Whisky Gifts</a></li></span>
-								<span id="Other Spirits Gifts">
-									<li class="yCmsComponent Lc left_col"><a title="Other Spirits Gifts" href="/Offers/Other-Spirit-Gifts/c/other-spirit-gifts">Other Spirits Gifts</a></li></span>
+								<span id="Register to bid">
+									<li class="yCmsComponent Lc left_col"><a title="Register to bid" href="/my-account/bbx/bidder-registration/add-payment-address">Register to bid</a></li></span>
+								<span id="Bid on available wine">
+									<li class="yCmsComponent Lc left_col"><a title="Bid on available wine" href="/search/biddable">Bid on available wine</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">By region or country</span>
+						<ul class="Lc left_col">
+								<span id="Bordeaux">
+									<li class="yCmsComponent Lc left_col"><a title="Bordeaux" href="/bbx/search/listed?q=%3AbbxListedPrice-asc%3Aregion%3Aregion-2%3Aregion%3Aregion-7&amp;&amp;pageSize=30&amp;text=">Bordeaux</a></li></span>
+								<span id="Burgundy">
+									<li class="yCmsComponent Lc left_col"><a title="Burgundy" href="/bbx/search/listed?q=%3AbbxListedPrice-asc%3Aregion%3Aregion-2%3Aregion%3Aregion-8&amp;&amp;pageSize=30&amp;text=">Burgundy</a></li></span>
+								<span id="Rhône">
+									<li class="yCmsComponent Lc left_col"><a title="Rhône" href="/bbx/search/listed?q=%3AbbxListedPrice-asc%3Aregion%3Aregion-2%3Aregion%3Aregion-545&amp;&amp;pageSize=30">Rhône</a></li></span>
+								<span id="Italy">
+									<li class="yCmsComponent Lc left_col"><a title="Italy" href="/bbx/search/listed?q=%3AbbxListedPrice-asc%3Aregion%3Aregion-24&amp;&amp;pageSize=30">Italy</a></li></span>
+								<span id="California">
+									<li class="yCmsComponent Lc left_col"><a title="California" href="/bbx/search/listed?q=%3AbbxListedPrice-asc%3Aregion%3Aregion-5%3Aregion%3Aregion-716&amp;&amp;pageSize=30">California</a></li></span>
+								<span id="Australia">
+									<li class="yCmsComponent Lc left_col"><a title="Australia" href="/bbx/search/listed?q=%3AbbxListedPrice-asc%3Aregion%3Aregion-6&amp;&amp;pageSize=30">Australia</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">By style</span>
+						<ul class="Lc left_col">
+								<span id="Champagne &amp; sparkling">
+									<li class="yCmsComponent Lc left_col"><a title="Champagne &amp; sparkling" href="/bbx/search/listed?q=%3AbbxListedPrice-asc%3Aregion%3Aregion-2%3Aregion%3Aregion-539&amp;&amp;pageSize=30&amp;text=">Champagne &amp; sparkling</a></li></span>
+								<span id="Port">
+									<li class="yCmsComponent Lc left_col"><a title="Port" href="/bbx/search/listed?q=%3AbbxListedPrice-asc%3Aregion%3Aregion-615&amp;&amp;pageSize=30">Port</a></li></span>
 								</ul>
 						</li>
 				</ul>
-	</li><li id="GiftsBarComponent" class="La  auto parent">
-	
-		<a title="Gifts" href="/wine-spirits-gifts">Gifts</a><ul class="Lb">
+	</li>
+<li id="comp_00006N7C" class="La  auto parent">
+
+		<a title="Explore" href="/wine-knowledge">Explore</a><div class="expand-arrow"></div>
+
+	<ul class="Lb">
 			<li class="Lb">
-						<span class="nav-submenu-title">Wine Gifts</span>
+						<span class="nav-submenu-title">About us</span>
 						<ul class="Lc left_col">
-								<span id="Individual Bottles">
-									<li class="yCmsComponent Lc left_col"><a title="Individual Bottles" href="/offers-single-bottle-gifts">Individual Bottles</a></li></span>
-								<span id="Champagne Gifts">
-									<li class="yCmsComponent Lc left_col"><a title="Champagne Gifts" href="/Offers/Champagne-Gifts/c/champagne-gifts">Champagne Gifts</a></li></span>
-								<span id="Port Gifts">
-									<li class="yCmsComponent Lc left_col"><a title="Port Gifts" href="/c/port-wine-gifts">Port Gifts</a></li></span>
-								<span id="Magnum Gifts">
-									<li class="yCmsComponent Lc left_col"><a title="Magnum Gifts" href="/offers-magnum-gifts">Magnum Gifts</a></li></span>
+								<span id="Our story">
+									<li class="yCmsComponent Lc left_col"><a title="Our story" href="/about">Our story</a></li></span>
+								<span id="Our Masters of Wine">
+									<li class="yCmsComponent Lc left_col"><a title="Our Masters of Wine" href="/about/mws">Our Masters of Wine</a></li></span>
+								<span id="Our shops">
+									<li class="yCmsComponent Lc left_col"><a title="Our shops" href="/about/shops">Our shops</a></li></span>
+								<span id="Contact us">
+									<li class="yCmsComponent Lc left_col"><a title="Contact us" href="/contactus/contact-us?pageId=contact-us">Contact us</a></li></span>
+								<span id="FAQs">
+									<li class="yCmsComponent Lc left_col"><a title="FAQs" href="/about/faq">FAQs</a></li></span>
 								</ul>
 						</li>
 				<li class="Lb">
-						<span class="nav-submenu-title">Spirits Gifts</span>
+						<span class="nav-submenu-title">Guides</span>
 						<ul class="Lc left_col">
-								<span id="Whisky Gifts under £50">
-									<li class="yCmsComponent Lc left_col"><a title="Whisky Gifts under £50" href="/Offers/Whisky-Gifts-under-£50/c/whiskies-under50pounds">Whisky Gifts under £50</a></li></span>
-								<span id="Connoisseurs' Choice">
-									<li class="yCmsComponent Lc left_col"><a title="Connoisseurs' Choice" href="/Offers/Connoisseurs%27-Choice/c/connoisseurs-choice">Connoisseurs' Choice</a></li></span>
-								<span id="Whisky Gifts - Fine &amp; Rare">
-									<li class="yCmsComponent Lc left_col"><a title="Whisky Gifts - Fine &amp; Rare" href="/Offers/Fine-%26-Rare-Whisky-Gifts/c/collectors-whisky-gifts">Whisky Gifts - Fine &amp; Rare</a></li></span>
-								<span id="Other Spirit Gifts">
-									<li class="yCmsComponent Lc left_col"><a title="Other Spirit Gifts" href="/Offers/Other-Spirit-Gifts/c/other-spirit-gifts">Other Spirit Gifts</a></li></span>
+								<span id="Vintage charts ">
+									<li class="yCmsComponent Lc left_col"><a title="Vintage charts " href="/vintages">Vintage charts </a></li></span>
+								<span id="Grape varieties ">
+									<li class="yCmsComponent Lc left_col"><a title="Grape varieties " href="/grapes">Grape varieties </a></li></span>
+								<span id="Bordeaux guide">
+									<li class="yCmsComponent Lc left_col"><a title="Bordeaux guide" href="/wine-knowledge/bordeaux-wine-guide">Bordeaux guide</a></li></span>
+								<span id="Burgundy guide ">
+									<li class="yCmsComponent Lc left_col"><a title="Burgundy guide " href="/wine-knowledge/burgundy-wine-guide">Burgundy guide </a></li></span>
+								<span id="Food and wine matching">
+									<li class="yCmsComponent Lc left_col"><a title="Food and wine matching" href="/wine-knowledge/food-and-wine">Food and wine matching</a></li></span>
 								</ul>
 						</li>
 				<li class="Lb">
-						<span class="nav-submenu-title">Other Gift Ideas</span>
+						<span class="nav-submenu-title">Find out more</span>
 						<ul class="Lc left_col">
-								<span id="Gift Vouchers">
-									<li class="yCmsComponent Lc left_col"><a title="Gift Vouchers" href="/Categories/Gift-Vouchers/c/gift-vouchers">Gift Vouchers</a></li></span>
-								<span id="The Wine Merchant's Glasses">
-									<li class="yCmsComponent Lc left_col"><a title="The Wine Merchant's Glasses" href="/producer-2263-the-wine-merchant-s-glasses">The Wine Merchant's Glasses</a></li></span>
-								<span id="Wine Experiences">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Experiences" href="/Categories/Events/c/events">Wine Experiences</a></li></span>
-								<span id="Wine Accessories">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Accessories" href="/Categories/Wine-Accessories/c/wine-accessories">Wine Accessories</a></li></span>
-								<span id="Books">
-									<li class="yCmsComponent Lc left_col"><a title="Books" href="/Categories/Books/c/books">Books</a></li></span>
-								<span id="Cellar Plan as a Gift">
-									<li class="yCmsComponent Lc left_col"><a title="Cellar Plan as a Gift" href="/cellar-plan/gift">Cellar Plan as a Gift</a></li></span>
-								<span id="Wine Club as a Gift">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Club as a Gift" href="/wine-club/membership-gift">Wine Club as a Gift</a></li></span>
+								<span id="Our blog">
+									<li class="yCmsComponent Lc left_col"><a title="Our blog" href="#" onclick="window.open('https://blog.bbr.com/');return false;">Our blog</a></li></span>
+								<span id="Wine books">
+									<li class="yCmsComponent Lc left_col"><a title="Wine books" href="/Categories/Books/c/books">Wine books</a></li></span>
+								<span id="Videos">
+									<li class="yCmsComponent Lc left_col"><a title="Videos" href="/video-about-us">Videos</a></li></span>
 								</ul>
 						</li>
 				<li class="Lb">
-						<span class="nav-submenu-title">Services</span>
+						<span class="nav-submenu-title">Our producers</span>
 						<ul class="Lc left_col">
-								<span id="Delivery">
-									<li class="yCmsComponent Lc left_col"><a title="Delivery" href="/services/delivery-free">Delivery</a></li></span>
-								<span id="Gift Packaging">
-									<li class="yCmsComponent Lc left_col"><a title="Gift Packaging" href="/Categories/Delivery-Materials/c/delivery-materials">Gift Packaging</a></li></span>
+								<span id="Organic producers">
+									<li class="yCmsComponent Lc left_col"><a title="Organic producers" href="/shopping/organic-wine-producers">Organic producers</a></li></span>
+								<span id="Biodynamic producers">
+									<li class="yCmsComponent Lc left_col"><a title="Biodynamic producers" href="/shopping/organic-wine-producers">Biodynamic producers</a></li></span>
+								<span id="All producers">
+									<li class="yCmsComponent Lc left_col"><a title="All producers" href="/producers">All producers</a></li></span>
 								</ul>
 						</li>
 				</ul>
-	</li><li id="comp_00002J1U" class="La  auto parent">
-	
-		<a title="Wine Club" href="/wine-club">Wine Club</a><ul class="Lb">
+	</li>
+<li id="comp_0000779R" class="La  auto parent">
+
+		<a title="Services" href="/about/services">Services</a><div class="expand-arrow"></div>
+
+	<ul class="Lb">
 			<li class="Lb">
 						<span class="nav-submenu-title">Wine Club</span>
 						<ul class="Lc left_col">
-								<span id="Overview">
-									<li class="yCmsComponent Lc left_col"><a title="Overview" href="/wine-club">Overview</a></li></span>
-								<span id="Membership Options">
-									<li class="yCmsComponent Lc left_col"><a title="Membership Options" href="/wine-club#membership">Membership Options</a></li></span>
-								<span id="Wine Club Team">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Club Team" href="/wine-club/team">Wine Club Team</a></li></span>
-								<span id="Gift Membership">
-									<li class="yCmsComponent Lc left_col"><a title="Gift Membership" href="/wine-club/membership-gift">Gift Membership</a></li></span>
-								<span id="Wine Club FAQ's">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Club FAQ's" href="/wine-club/wine-club-faq">Wine Club FAQ's</a></li></span>
-								<span id="Wine Club T&amp;C's">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Club T&amp;C's" href="/about/wine-club-terms">Wine Club T&amp;C's</a></li></span>
-								<span id="Contact Us">
-									<li class="yCmsComponent Lc left_col"><a title="Contact Us" href="/contactus/contact-us?pageId=wine-club-contact">Contact Us</a></li></span>
+								<span id="Introduction to Wine Club">
+									<li class="yCmsComponent Lc left_col"><a title="Introduction to Wine Club" href="/wine-club">Introduction to Wine Club</a></li></span>
+								<span id="Membership options">
+									<li class="yCmsComponent Lc left_col"><a title="Membership options" href="/wine-club#membership">Membership options</a></li></span>
+								<span id="Gift membership">
+									<li class="yCmsComponent Lc left_col"><a title="Gift membership" href="/wine-club/membership-gift">Gift membership</a></li></span>
+								<span id="Contact us">
+									<li class="yCmsComponent Lc left_col"><a title="Contact us" href="/contactus/contact-us?pageId=wine-club-contact">Contact us</a></li></span>
+								<span id="FAQs">
+									<li class="yCmsComponent Lc left_col"><a title="FAQs" href="/wine-club/wine-club-faq">FAQs</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Cellar Plan</span>
+						<ul class="Lc left_col">
+								<span id="Introduction to Cellar Plan">
+									<li class="yCmsComponent Lc left_col"><a title="Introduction to Cellar Plan" href="/cellar-plan">Introduction to Cellar Plan</a></li></span>
+								<span id="Cellar Plan options">
+									<li class="yCmsComponent Lc left_col"><a title="Cellar Plan options" href="/cellar-plan/options">Cellar Plan options</a></li></span>
+								<span id="Contact us">
+									<li class="yCmsComponent Lc left_col"><a title="Contact us" href="/contactus/contact-us?pageId=contact-us">Contact us</a></li></span>
+								</ul>
+						</li>
+				<li class="Lb">
+						<span class="nav-submenu-title">Wine storage</span>
+						<ul class="Lc left_col">
+								<span id="Introduction to wine storage">
+									<li class="yCmsComponent Lc left_col"><a title="Introduction to wine storage" href="/wine-storage">Introduction to wine storage</a></li></span>
+								<span id="Contact us">
+									<li class="yCmsComponent Lc left_col"><a title="Contact us" href="/contactus/contact-us?pageId=contact-us">Contact us</a></li></span>
 								</ul>
 						</li>
 				<li class="Lb">
@@ -968,302 +1272,8 @@ padding: 0 10px;
 								</ul>
 						</li>
 				</ul>
-	</li><li id="FineWineBarComponent" class="La  auto parent">
-	
-		<a title="Fine Wine" href="/fine-wine">Fine Wine</a><ul class="Lb">
-			<li class="Lb">
-						<span class="nav-submenu-title">Fine Wine</span>
-						<ul class="Lc left_col">
-								<span id="Cellar Plan">
-									<li class="yCmsComponent Lc left_col"><a title="Cellar Plan" href="/cellar-plan">Cellar Plan</a></li></span>
-								<span id="Broking (BBX)">
-									<li class="yCmsComponent Lc left_col"><a title="Broking (BBX)" href="/fine-wine/bbx">Broking (BBX)</a></li></span>
-								<span id="Wine Investment">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Investment" href="/fine-wine/investment">Wine Investment</a></li></span>
-								<span id="Wine Storage">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Storage" href="/wine-storage">Wine Storage</a></li></span>
-								<span id="Fine Wine Team">
-									<li class="yCmsComponent Lc left_col"><a title="Fine Wine Team" href="/fine-wine/fine-wine-team">Fine Wine Team</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Bordeaux</span>
-						<ul class="Lc left_col">
-								<span id="St Estèphe">
-									<li class="yCmsComponent Lc left_col"><a title="St Estèphe" href="/region-913-st-estephe">St Estèphe</a></li></span>
-								<span id="St Julien">
-									<li class="yCmsComponent Lc left_col"><a title="St Julien" href="/region-915-st-julien">St Julien</a></li></span>
-								<span id="Pauillac">
-									<li class="yCmsComponent Lc left_col"><a title="Pauillac" href="/region-904-pauillac">Pauillac</a></li></span>
-								<span id="Margaux">
-									<li class="yCmsComponent Lc left_col"><a title="Margaux" href="/region-900-margaux">Margaux</a></li></span>
-								<span id="Pomerol">
-									<li class="yCmsComponent Lc left_col"><a title="Pomerol" href="/region-906-pomerol">Pomerol</a></li></span>
-								<span id="St Emilion">
-									<li class="yCmsComponent Lc left_col"><a title="St Emilion" href="/region-912-st-emilion">St Emilion</a></li></span>
-								<span id="More Regions">
-									<li class="yCmsComponent Lc left_col"><a title="More Regions" href="/region-7-bordeaux">More Regions</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Burgundy</span>
-						<ul class="Lc left_col">
-								<span id="Chablis">
-									<li class="yCmsComponent Lc left_col"><a title="Chablis" href="/region-1587-chablis">Chablis</a></li></span>
-								<span id="Meursault">
-									<li class="yCmsComponent Lc left_col"><a title="Meursault" href="/region-1608-meursault">Meursault</a></li></span>
-								<span id="Pommard">
-									<li class="yCmsComponent Lc left_col"><a title="Pommard" href="/region-1606-pommard">Pommard</a></li></span>
-								<span id="Puligny-Montrachet">
-									<li class="yCmsComponent Lc left_col"><a title="Puligny-Montrachet" href="/region-1990-puligny-montrachet">Puligny-Montrachet</a></li></span>
-								<span id="Nuits-St Georges">
-									<li class="yCmsComponent Lc left_col"><a title="Nuits-St Georges" href="/region-1601-nuits-saint-georges">Nuits-St Georges</a></li></span>
-								<span id="Vosne Romanée">
-									<li class="yCmsComponent Lc left_col"><a title="Vosne Romanée" href="/region-1642-vosne-romanee">Vosne Romanée</a></li></span>
-								<span id="More Regions">
-									<li class="yCmsComponent Lc left_col"><a title="More Regions" href="/region-8-burgundy">More Regions</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Champagne</span>
-						<ul class="Lc left_col">
-								<span id="Bollinger">
-									<li class="yCmsComponent Lc left_col"><a title="Bollinger" href="/producer-15-bollinger">Bollinger</a></li></span>
-								<span id="Billecart-Salmon">
-									<li class="yCmsComponent Lc left_col"><a title="Billecart-Salmon" href="/producer-12-champagne-billecart-salmon">Billecart-Salmon</a></li></span>
-								<span id="Louis Roederer / Cristal">
-									<li class="yCmsComponent Lc left_col"><a title="Louis Roederer / Cristal" href="/producer-597-louis-roederer">Louis Roederer / Cristal</a></li></span>
-								<span id="Dom Pérignon">
-									<li class="yCmsComponent Lc left_col"><a title="Dom Pérignon" href="/producer-703-dom-perignon">Dom Pérignon</a></li></span>
-								<span id="Krug">
-									<li class="yCmsComponent Lc left_col"><a title="Krug" href="/producer-595-krug">Krug</a></li></span>
-								<span id="Ruinart">
-									<li class="yCmsComponent Lc left_col"><a title="Ruinart" href="/producer-2-champagne-ruinart">Ruinart</a></li></span>
-								<span id="More Champagne">
-									<li class="yCmsComponent Lc left_col"><a title="More Champagne" href="/region-539-champagne">More Champagne</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">En Primeur</span>
-						<ul class="Lc left_col">
-								<span id="Overview">
-									<li class="yCmsComponent Lc left_col"><a title="Overview" href="/offer/en-primeur">Overview</a></li></span>
-								<span id="Bordeaux 2017">
-									<li class="yCmsComponent Lc left_col"><a title="Bordeaux 2017" href="/bordeaux-2017">Bordeaux 2017</a></li></span>
-								<span id="Port 2016 En Primeur">
-									<li class="yCmsComponent Lc left_col"><a title="Port 2016 En Primeur" href="/offers-vintage-port-2016">Port 2016 En Primeur</a></li></span>
-								<span id="Burgundy 2016">
-									<li class="yCmsComponent Lc left_col"><a title="Burgundy 2016" href="/burgundy2016">Burgundy 2016</a></li></span>
-								<span id="Why Buy En Primeur?">
-									<li class="yCmsComponent Lc left_col"><a title="Why Buy En Primeur?" href="/fine-wine/why-buy-en-primeur">Why Buy En Primeur?</a></li></span>
-								<span id="FAQs">
-									<li class="yCmsComponent Lc left_col"><a title="FAQs" href="/fine-wine/faq-en-primeur">FAQs</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Other Popular</span>
-						<ul class="Lc left_col">
-								<span id="Châteauneuf-du-Pape">
-									<li class="yCmsComponent Lc left_col"><a title="Châteauneuf-du-Pape" href="/region-1026-chateauneuf-du-pape">Châteauneuf-du-Pape</a></li></span>
-								<span id="Barolo">
-									<li class="yCmsComponent Lc left_col"><a title="Barolo" href="/region-3612-barolo">Barolo</a></li></span>
-								<span id="Barbaresco">
-									<li class="yCmsComponent Lc left_col"><a title="Barbaresco" href="/region-3607-barbaresco">Barbaresco</a></li></span>
-								<span id="Tuscany">
-									<li class="yCmsComponent Lc left_col"><a title="Tuscany" href="/region-3739-tuscany">Tuscany</a></li></span>
-								</ul>
-						</li>
-				</ul>
-	</li><li id="AboutUsBarComponent" class="La  auto parent">
-	
-		<a title="Broking (BBX)" href="/fine-wine/bbx">Broking (BBX)</a><ul class="Lb">
-			<li class="Lb">
-						<span class="nav-submenu-title">BBX</span>
-						<ul class="Lc left_col">
-								<span id="Overview">
-									<li class="yCmsComponent Lc left_col"><a title="Overview" href="/fine-wine/bbx">Overview</a></li></span>
-								<span id="BBX FAQs">
-									<li class="yCmsComponent Lc left_col"><a title="BBX FAQs" href="/fine-wine/bbx-faqs">BBX FAQs</a></li></span>
-								<span id="BBX T&amp;Cs">
-									<li class="yCmsComponent Lc left_col"><a title="BBX T&amp;Cs" href="/about/bbx-terms">BBX T&amp;Cs</a></li></span>
-								<span id="Valuation Guide">
-									<li class="yCmsComponent Lc left_col"><a title="Valuation Guide" href="/fine-wine/valuations-guide">Valuation Guide</a></li></span>
-								<span id="Valuation FAQs">
-									<li class="yCmsComponent Lc left_col"><a title="Valuation FAQs" href="/fine-wine/valuations-faqs">Valuation FAQs</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Buy Wine on BBX</span>
-						<ul class="Lc left_col">
-								<span id="BBX Wine List">
-									<li class="yCmsComponent Lc left_col"><a title="BBX Wine List" href="/bbx/search/listed">BBX Wine List</a></li></span>
-								<span id="New Wines on BBX">
-									<li class="yCmsComponent Lc left_col"><a title="New Wines on BBX" href="/bbx/new">New Wines on BBX</a></li></span>
-								<span id="Biddable Wines">
-									<li class="yCmsComponent Lc left_col"><a title="Biddable Wines" href="/search/biddable">Biddable Wines</a></li></span>
-								<span id="Bidder Registration">
-									<li class="yCmsComponent Lc left_col"><a title="Bidder Registration" href="/my-account/bbx/bidder-registration/add-payment-address">Bidder Registration</a></li></span>
-								<span id="Best of BBX">
-									<li class="yCmsComponent Lc left_col"><a title="Best of BBX" href="/bbx/category/search/best-on-bbx">Best of BBX</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Sell Wine on BBX</span>
-						<ul class="Lc left_col">
-								<span id="List Wines on BBX">
-									<li class="yCmsComponent Lc left_col"><a title="List Wines on BBX" href="/my-account/customer-cpraccount-page">List Wines on BBX</a></li></span>
-								<span id="View BBX Bids">
-									<li class="yCmsComponent Lc left_col"><a title="View BBX Bids" href="/bbx/bids/cpr-bid-management">View BBX Bids</a></li></span>
-								<span id="Seller Registration">
-									<li class="yCmsComponent Lc left_col"><a title="Seller Registration" href="/my-account/bbx/seller-registration">Seller Registration</a></li></span>
-								</ul>
-						</li>
-				</ul>
-	</li><li id="EventsBarComponent" class="La  auto parent">
-	
-		<a title="Events" href="/wine-events">Events</a><ul class="Lb">
-			<li class="Lb">
-						<span class="nav-submenu-title">At a Glance</span>
-						<ul class="Lc left_col">
-								<span id="Browse All Events">
-									<li class="yCmsComponent Lc left_col"><a title="Browse All Events" href="/Categories/Events/c/events">Browse All Events</a></li></span>
-								<span id="Tutored Tastings">
-									<li class="yCmsComponent Lc left_col"><a title="Tutored Tastings" href="/producer-1561-tutored-tastings">Tutored Tastings</a></li></span>
-								<span id="Lunches">
-									<li class="yCmsComponent Lc left_col"><a title="Lunches" href="/producer-3625-cellar-luncheons">Lunches</a></li></span>
-								<span id="Dinners">
-									<li class="yCmsComponent Lc left_col"><a title="Dinners" href="/producer-3626-cellar-dinners">Dinners</a></li></span>
-								<span id="Wine School">
-									<li class="yCmsComponent Lc left_col"><a title="Wine School" href="/wine-events/school">Wine School</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Popular</span>
-						<ul class="Lc left_col">
-								<span id="Champagne Tastings">
-									<li class="yCmsComponent Lc left_col"><a title="Champagne Tastings" href="/Categories/Events/c/events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3AChampagne&amp;text=&amp;facetPrefix=#">Champagne Tastings</a></li></span>
-								<span id="Bordeaux Tastings">
-									<li class="yCmsComponent Lc left_col"><a title="Bordeaux Tastings" href="/Categories/Events/c/events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3ABordeaux&amp;text=&amp;facetPrefix=#">Bordeaux Tastings</a></li></span>
-								<span id="Burgundy Tastings">
-									<li class="yCmsComponent Lc left_col"><a title="Burgundy Tastings" href="/Categories/Events/c/events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3ABurgundy&amp;text=&amp;facetPrefix=#">Burgundy Tastings</a></li></span>
-								<span id="Learn About Wine">
-									<li class="yCmsComponent Lc left_col"><a title="Learn About Wine" href="/Categories/Events/c/events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3AIntroductory&amp;text=&amp;facetPrefix=#">Learn About Wine</a></li></span>
-								<span id="Italian Tastings">
-									<li class="yCmsComponent Lc left_col"><a title="Italian Tastings" href="/Categories/Events/c/events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3AItaly&amp;text=&amp;facetPrefix=#">Italian Tastings</a></li></span>
-								<span id="New World Tastings">
-									<li class="yCmsComponent Lc left_col"><a title="New World Tastings" href="/Categories/Events/c/events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3ANew+World&amp;text=&amp;facetPrefix=#">New World Tastings</a></li></span>
-								<span id="Food and Wine Matching">
-									<li class="yCmsComponent Lc left_col"><a title="Food and Wine Matching" href="/Categories/Events/c/events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3AFood+%26+Wine+Matching&amp;text=&amp;facetPrefix=#">Food and Wine Matching</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Private Wine Events</span>
-						<ul class="Lc left_col">
-								<span id="Overview">
-									<li class="yCmsComponent Lc left_col"><a title="Overview" href="/private-events">Overview</a></li></span>
-								<span id="Event Options">
-									<li class="yCmsComponent Lc left_col"><a title="Event Options" href="/services/event-options">Event Options</a></li></span>
-								<span id="Our Food">
-									<li class="yCmsComponent Lc left_col"><a title="Our Food" href="/services/private-event-expert-catering">Our Food</a></li></span>
-								<span id="External Events">
-									<li class="yCmsComponent Lc left_col"><a title="External Events" href="/demetri-walters">External Events</a></li></span>
-								<span id="Brochure - Private Events">
-									<li class="yCmsComponent Lc left_col"><a title="Brochure - Private Events" href="#" onclick="window.open('http://akamai.bbr.com/downloads/PWE_brochure.pdf');return false;">Brochure - Private Events</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Contact Us</span>
-						<ul class="Lc left_col">
-								<span id="Events Enquiries ">
-									<li class="yCmsComponent Lc left_col"><a title="Events Enquiries " href="/contactus/contact-us?pageId=wine-school">Events Enquiries </a></li></span>
-								<span id="Private Events Enquiries">
-									<li class="yCmsComponent Lc left_col"><a title="Private Events Enquiries" href="/contactus/contact-us?pageId=private-wine-events">Private Events Enquiries</a></li></span>
-								<span id="Meet the Team">
-									<li class="yCmsComponent Lc left_col"><a title="Meet the Team" href="/events-team">Meet the Team</a></li></span>
-								</ul>
-						</li>
-				</ul>
-	</li><li id="KnowledgeBarComponent" class="La  auto parent">
-	
-		<a title="Expertise" href="/wine-knowledge">Expertise</a><ul class="Lb">
-			<li class="Lb">
-						<span class="nav-submenu-title">Learning</span>
-						<ul class="Lc left_col">
-								<span id="Vintage Charts">
-									<li class="yCmsComponent Lc left_col"><a title="Vintage Charts" href="/vintages">Vintage Charts</a></li></span>
-								<span id="Bordeaux Wine Guide">
-									<li class="yCmsComponent Lc left_col"><a title="Bordeaux Wine Guide" href="/wine-knowledge/bordeaux-wine-guide">Bordeaux Wine Guide</a></li></span>
-								<span id="Burgundy Wine Guide">
-									<li class="yCmsComponent Lc left_col"><a title="Burgundy Wine Guide" href="/wine-knowledge/burgundy-wine-guide">Burgundy Wine Guide</a></li></span>
-								<span id="Wine Grapes">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Grapes" href="/grapes">Wine Grapes</a></li></span>
-								<span id="Organic Wine">
-									<li class="yCmsComponent Lc left_col"><a title="Organic Wine" href="/shopping/organic-wine-producers">Organic Wine</a></li></span>
-								<span id="Biodynamic Wine">
-									<li class="yCmsComponent Lc left_col"><a title="Biodynamic Wine" href="/shopping/biodynamic-wine-producers">Biodynamic Wine</a></li></span>
-								<span id="Wine Books">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Books" href="/Categories/Books/c/books">Wine Books</a></li></span>
-								<span id="Burgundy eBook">
-									<li class="yCmsComponent Lc left_col"><a title="Burgundy eBook" href="/shopping/ebook-inside-burgundy">Burgundy eBook</a></li></span>
-								<span id="Wine School eBook">
-									<li class="yCmsComponent Lc left_col"><a title="Wine School eBook" href="/ebook-exploring-tasting-wines">Wine School eBook</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Guides</span>
-						<ul class="Lc left_col">
-								<span id="How to Taste Wine">
-									<li class="yCmsComponent Lc left_col"><a title="How to Taste Wine" href="/wine-knowledge/faq-tasting">How to Taste Wine</a></li></span>
-								<span id="How to Serve  Wine">
-									<li class="yCmsComponent Lc left_col"><a title="How to Serve  Wine" href="/wine-knowledge/faq-serving">How to Serve  Wine</a></li></span>
-								<span id="How to Drink Wine">
-									<li class="yCmsComponent Lc left_col"><a title="How to Drink Wine" href="/wine-knowledge/faq-drinking">How to Drink Wine</a></li></span>
-								<span id="Wine Faults">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Faults" href="/wine-knowledge/faq-faults">Wine Faults</a></li></span>
-								<span id="Wine Quality">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Quality" href="/wine-knowledge/faq-quality">Wine Quality</a></li></span>
-								<span id="Laying Down Wine">
-									<li class="yCmsComponent Lc left_col"><a title="Laying Down Wine" href="/wine-knowledge/faq-laying-down">Laying Down Wine</a></li></span>
-								<span id="Wine Investment">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Investment" href="/fine-wine/investment">Wine Investment</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Food and Wine</span>
-						<ul class="Lc left_col">
-								<span id="Food &amp; Wine Events">
-									<li class="yCmsComponent Lc left_col"><a title="Food &amp; Wine Events" href="/Categories/Events/c/events?q=%3Aevents-eventDate-asc%3AinStockFlag%3Atrue%3AeventSubject%3AFood+%26+Wine+Matching&amp;text=&amp;facetPrefix=">Food &amp; Wine Events</a></li></span>
-								<span id="Food &amp; Wine Matching">
-									<li class="yCmsComponent Lc left_col"><a title="Food &amp; Wine Matching" href="/wine-knowledge/food-and-wine">Food &amp; Wine Matching</a></li></span>
-								<span id="Wine and Desserts">
-									<li class="yCmsComponent Lc left_col"><a title="Wine and Desserts" href="/wine-knowledge/food-and-wine-puddings">Wine and Desserts</a></li></span>
-								</ul>
-						</li>
-				<li class="Lb">
-						<span class="nav-submenu-title">Discover more</span>
-						<ul class="Lc left_col">
-								<span id="About Us">
-									<li class="yCmsComponent Lc left_col"><a title="About Us" href="/about">About Us</a></li></span>
-								<span id="FAQs">
-									<li class="yCmsComponent Lc left_col"><a title="FAQs" href="/about/faq">FAQs</a></li></span>
-								<span id="Wine Club">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Club" href="/wine-club">Wine Club</a></li></span>
-								<span id="Cellar Plan">
-									<li class="yCmsComponent Lc left_col"><a title="Cellar Plan" href="/cellar-plan">Cellar Plan</a></li></span>
-								<span id="Our Videos">
-									<li class="yCmsComponent Lc left_col"><a title="Our Videos" href="/video-about-us">Our Videos</a></li></span>
-								<span id="Wine Blog">
-									<li class="yCmsComponent Lc left_col"><a title="Wine Blog" href="#" onclick="window.open('http://bbrblog.com/');return false;">Wine Blog</a></li></span>
-								<span id="Our Masters of Wine">
-									<li class="yCmsComponent Lc left_col"><a title="Our Masters of Wine" href="/about/mws">Our Masters of Wine</a></li></span>
-								<span id="Contact Us">
-									<li class="yCmsComponent Lc left_col"><a title="Contact Us" href="/contactus/contact-us?pageId=contact-us">Contact Us</a></li></span>
-								<span id="Shops">
-									<li class="yCmsComponent Lc left_col"><a title="Shops" href="/about/shops">Shops</a></li></span>
-								</ul>
-						</li>
-				</ul>
-	</li><div class="content"><style>
+	</li>
+<div class="content"><style>
 
 /* ------------ menu images -------------- */
 
@@ -1418,6 +1428,7 @@ fwa {
 	<div class="navigation-overlay">
 
 	</div>
+
 </div>
 
 		<!-- END header wrapper -->
@@ -1545,7 +1556,20 @@ border-bottom:1px solid #e1ddd0;
 </style> 
 
 <div class="large-12 column"><br><p>
-	Berry Bros. &amp; Rudd respects your privacy and seeks to protect your personal data. The following information describes how we gather and use data. The amount of information Berry Bros. &amp; Rudd holds on you and how it uses it depends on your relationship with Berry Bros. &amp; Rudd and on what service you use, so some of the sections below may not be relevant to you.</p>
+	Berry Bros. &amp; Rudd respects your privacy and seeks to protect your personal data. The following information describes how we gather and use that data. The amount of information we hold on you and how we use it depends on your relationship with us and on which services you use; some of the sections below may not be relevant to you.<br> 
+	
+		<br>We keep to a minimum the amount of information we hold about you.  
+		
+		<br>We keep to a minimum the amount of information we hold about you. 
+		
+		<br>We delete your data when it is no longer needed. 
+		
+		<br>We apply appropriate security mechanisms to protect your personal data.
+	
+<br><br>For the definition of terms used within this Privacy Policy please refer to the ICO website or look at the General Data Protection Regulation (“GDPR”). We suggest you start with the ICO website
+	
+<br><br>We are happy to answer any questions you have about this Privacy Policy. Email us at privacy@bbr.com. 
+		</p>
 <br><ul id="alternating_colors">
 
 <li class="alternating_colors_top_row"><a href="#privacy">Privacy Policy / Data Protection Notice</a></li>
@@ -1589,7 +1613,7 @@ border-bottom:1px solid #e1ddd0;
 		
 		
 			
-				<li><a href="#software">Cookies and software agents</a></li>
+				<li><a href="#software">Cookies</a></li>
 		
 		<li><a href="#email">Contacting you via email alerts, notices and newsletters</a></li>
 		
@@ -1622,9 +1646,18 @@ Registered office address: 3 St James’s Street, London, SW1A 1EG </p>
 <p>We hope to answer some of the most frequently asked questions about our Privacy Policy below. For further information, please read our Privacy Policy in full.</p>
 <a id="pay" name="info"></a>
 <hr>
+
+ 
+<p> <strong>FAQs </strong><br>
+
+We hope to answer some of the most frequently asked questions about our Privacy Policy below. For further information, please read our Privacy Policy in full.  </p>
+
+
+<hr> 
+
 <p>
 	<strong>What information does Berry Bros. &amp; Rudd collect about me? </strong><br>
-	We may collect some (or all) of the following: your name, phone number, email address, IP address, social identifiers (for example, age, gender, socio-economic status), data provided by cookies and other similar technologies, functional data such as registration and system data, as well as additional usage data – for instance, your purchasing history, contact permissions, product preferences, wine stored with us or information about your attendance at one of our events. </p>
+	We may collect some (or all) of the following: your name, phone number, email address, IP address, social identifiers (for example, age, gender, socio-economic status), data provided by cookies and other similar technologies, functional data such as registration and system data, as well as additional usage data – for instance, your purchasing history, contact permissions, product preferences, wine stored with us or information about your attendance at one of our events.   </p>
 	<a id="pay" name="need"></a>
 <hr>
 
@@ -1651,15 +1684,16 @@ Registered office address: 3 St James’s Street, London, SW1A 1EG </p>
 	<a id="pay" name="delete"></a>
 		<hr>
 <p><strong>How do I delete my personal data from Berry Bros. &amp; Rudd and what are the consequences? </strong><br>
-	You can email <a href="mailto:privacy@bbr.com">privacy@bbr.com </a>or contact our Customer Service team to request that your data be deleted. However, please note, by deleting your personal data you may impact the service we can provide to you. We will not delete data which is needed to fulfil a contract until that contract is completed, or unless we agree to terminate the contract. We will inform you if deleting your data will impact our ability to perform a contract in case this affects your decision. </p>
+	You can email <a href="mailto:privacy@bbr.com">privacy@bbr.com </a>or  contact our Customer Service team to request that your data be deleted. However, please note, by deleting your personal data you may impact the service we can provide to you. We will not delete data which is needed to fulfil a contract until that contract is completed, or unless we agree to terminate the contract. We will inform you if deleting your data will impact our ability to perform a contract in case this affects your decision.  </p>
 	<a id="pay" name="long"></a>
 	
 <hr>
 
 <p>
 	<strong>How long does Berry Bros. &amp; Rudd keep my information? </strong><br>
-	We retain personal data for as long as necessary to provide services and products to you, to fulfil the transactions you have requested, or for other essential purposes (for example, complying with our legal obligations, resolving disputes and fulfilling our agreements). We will store your personal data for a minimum of six years after your last transaction with us, unless we have a legitimate or contractual reason or a legal obligation to retain it thereafter, for example you might hold stock in our cellars.</p>
+	We retain personal data for as long as necessary to provide services and products to you, to fulfil the transactions you have requested, or for other essential purposes (for example, complying with our legal obligations, resolving disputes and fulfilling our agreements). We will store your personal data for a minimum of six years after your last transaction with us, unless we have a legitimate or contractual reason or a legal obligation to retain it thereafter, for example you might hold stock in our cellars. </p>
 	<a id="pay" name="how"></a>
+
 <hr>
 
 <p>
@@ -1671,26 +1705,27 @@ Registered office address: 3 St James’s Street, London, SW1A 1EG </p>
 
 <p>
 	<strong>Is Berry Bros. &amp; Rudd using cookies to gather information? </strong><br>
-	We may use cookies when you visit our website. By visiting our website, you agree to the use of cookies and similar technologies for the purposes described in our Privacy Policy. This helps us to provide you with the best experience and allows certain parts of our website to function properly. If this concerns you, you can adjust your browser or device settings in order not to accept cookies and similar technologies. </p>
+	We may use cookies when you visit our website. By visiting our website, you agree to the use of cookies and similar technologies for the purposes described in our Privacy Policy. This helps us to provide you with the best experience and allows certain parts of our website to function properly. If this concerns you, you can adjust your browser or device settings in order not to accept cookies and similar technologies.   </p>
 <hr>
 <p>
 	<strong>How can I contact Berry Bros. &amp; Rudd if I have questions regarding this Privacy Policy statement? </strong><br><a id="pay" name="contact"></a>
-	If you have any questions about the use of your personal information, please email us at <a href="mailto:privacy@bbr.com">privacy@bbr.com</a> with the words "personal details" in the subject line.</p>
+	If you have any questions about the use of your personal information, please email us at <a href="mailto:privacy@bbr.com">privacy@bbr.com</a> </p>
 	<a id="pay" name="data"></a>
 <hr>
 
 <p>
 	<strong>What personal data do we hold and why?</strong><br>
-	When you contact us to make an enquiry, we will use your name and contact information to respond. We will then use this information to communicate with you during the provision of our services to you.
-We collect and update information about users of our services. We may obtain this information via direct contact with you, from third parties such as other users who refer you to us or automatically via your use of our services.<br><br>
+	When you contact us to make an enquiry, we will use your name and contact information to respond. We will then use this information to communicate with you during the provision of our services to you. We collect and update information about users of our services. We may obtain this information via direct contact with you, from third parties such as other users who refer you to us or automatically via your use of our services.<br><br>
 
-This information may include your contact details, registration and payment details, support problems, details around participation in events, prize draws or surveys and certain relevant details of your product preferences and contact permissions.
-<br><br>
-For each visitor to our website, our web server automatically recognises the user’s domain name. We also collect the email addresses of those who communicate with us via email and anonymously aggregate information on which pages users access or visit. Information volunteered by users, such as survey information and/or site registrations, is also collected. We will only use information collected in a survey on an anonymous basis unless we have your permission to do otherwise.<br><br>
+	This information may include your contact details, registration and payment details, support problems, details around participation in events, prize draws or surveys and certain relevant details of your product preferences and contact permissions.<br><br>
+	
+	For each visitor to our website, our web server automatically recognises the user’s domain name. We also collect the email addresses of those who communicate with us via email and anonymously aggregate information on which pages users access or visit. Information volunteered by users, such as survey information and/or site registrations, is also collected. We will only use information collected in a survey on an anonymous basis unless we have your permission to do otherwise.<br><br>
 
-If you are a registered user of our services, we will gather further relevant information, such as generic types of data accessed, time of access, volume of use of services and traffic data from use of our website. Traffic data includes logs, details of networks, data and systems accessed, details of the sender and recipients of messages sent over our services, times and location of log on or access, duration of sessions, clickstream and similar usage or system data. Traffic data may sometimes be traceable to and or related to not just companies but named individuals. Before you register with Berry Bros. &amp; Rudd for access to services or transactional areas of our website, you can browse our website anonymously and we will not collect your data.<br><br>
+	If you are a registered user of our services, we will gather further relevant information, such as generic types of data accessed, time of access, volume of use of services and traffic data from use of our website. Traffic data includes logs, details of networks, data and systems accessed, details of the sender and recipients of messages sent over our services, times and location of log on or access, duration of sessions, clickstream and similar usage or system data. Traffic data may sometimes be traceable to and or related to not just companies but named individuals. Before you register with Berry Bros. &amp; Rudd for access to services or transactional areas of our website, you can browse our website anonymously and we will not collect your data.<br><br>
+	
+	We may also receive your personal data when processing gift requests from customers where you are the recipient. We process that data initially under contract with the gift purchaser and any secondary processing such as product updates and associated events will be because we have a legitimate business interest to do so.<br><br>
 
-On request, we can provide you with access to all information, including proprietary information, that we maintain about you (but not other users unless required to do so by law) including unique identifier information (for example, your customer number or password) and contact information (for example, your name, address and phone number). You can request this information by emailing us at <a href="mailto:privacy@bbr.com">privacy@bbr.com </a> or writing to us. We will correct inaccuracies on provision of the correct details or, where relevant, you can do this by changing your registered details online. Please note, we will never send personal information on request unless we have proof that the recipient is the owner of the data.
+	On request, we can provide you with access to all information, including proprietary information, that we maintain about you (but not other users unless required to do so by law) including unique identifier information (for example, your customer number or password) and contact information (for example, your name, address and phone number). You can request this information by emailing us at<a href="mailto:privacy@bbr.com">privacy@bbr.com </a> or writing to us. We will correct inaccuracies on provision of the correct details or, where relevant, you can do this by changing your registered details online. Please note, we will never send personal information on request unless we have proof that the recipient is the owner of the data. 
 </p>
 <a id="pay" name="use"></a>
 <hr>
@@ -1698,9 +1733,9 @@ On request, we can provide you with access to all information, including proprie
 	<strong>How do we use your information?</strong><br>
 	Berry Bros. &amp; Rudd collects and uses your information to administer, support, improve and obtain feedback on our services and to detect and prevent faults, breaches of our network security, the law or our contract terms. If you are registered to use a service, we may use the information you provide to us to carry out the service; we may also contact you to obtain feedback on that service and any improvements we could make to it.<br><br>
 
-The information we collect is used for internal review and to improve the content of our website and services. It is also used to notify users about updates to our services. This information is not shared with other organisations for commercial purposes.<br> <br>
+	The information we collect is used for internal review and to improve the content of our website and services. It is also used to notify users about updates to our services. This information is not shared with other organisations for commercial purposes.&nbsp;<br> <br>
 
-If you do not want to receive emails from us in the future, please let us know by sending an email to <a href="mailto:privacy@bbr.com">privacy@bbr.com </a>or by logging into your account and changing your contact permission preferences.
+	If you do not want to receive emails from us in the future, please let us know by sending an email to <a href="mailto:privacy@bbr.com">privacy@bbr.com </a>or by logging into your account and changing your contact permission preferences.
 </p>
 <a id="pay" name="share"></a>
 <hr>
@@ -1708,28 +1743,28 @@ If you do not want to receive emails from us in the future, please let us know b
 
 <p>
 	<strong>Who do we share your information with?</strong><br>
-	We work with third parties in the provision of some of our services, for example research agencies to help us improve our customer service, or marketing service providers who help us contact our customers and logistics partners who help deliver products. <br><br>
+	We work with third parties in the provision of some of our services, for example research agencies to help us improve our customer service, or marketing service providers who help us contact our customers and logistics partners who help deliver products.&nbsp; <br><br>
 
-On request, and when relevant to a service you use, we can provide details of which third parties we work with. We will also discuss and agree on any specific security questions or requirements you may have during the provision of our services.<br><br>
+	On request, and when relevant to a service you use, we can provide details of which third parties we work with. We will also discuss and agree on any specific security questions or requirements you may have during the provision of our services.<br><br>
 
-The third parties we work with – including those who provide email and storage solutions used in our day to day work – are monitored on how they meet the requirements of current UK data protection legislation and the requirements of GDPR. When we contract with third parties we enter into agreements that encourage GDPR compliance. <br><br>
+	The third parties we work with – including those who provide email and storage solutions used in our day to day work – are monitored on how they meet the requirements of current UK data protection legislation and the requirements of GDPR. When we contract with third parties we enter into agreements that encourage GDPR compliance.&nbsp; <br><br>
 
-Where this includes storage or processing of information outside of the European Economic Area (EEA), we include checks to ensure that compliance with the appropriate frameworks for exchange of personal data (such as the EU-US Privacy Shield) is in place. As a UK-based company our lead data protection supervisory authority is the ICO and GDPR is the standard for our data protection in all territories where data is processed.<br><br>
+	Where this includes storage or processing of information outside of the European Economic Area (EEA), we include checks to ensure that compliance with the appropriate frameworks for exchange of personal data (such as the EU-US Privacy Shield) is in place. As a UK-based company our lead data protection supervisory authority is the ICO and GDPR is the standard for our data protection in all territories where data is processed.<br><br>
 
-We do not share nor sell your personal data to anyone else.<br><br>
+	We do not share nor sell your personal data to anyone else.<br><br>
 
-Exemptions to the above are where we are asked to provide information as a result of a court order or to recover monies due.
+	Exemptions to the above are where we are asked to provide information as a result of a court order or to recover monies due.
 </p>
 <a id="pay" name="store"></a>
 <hr>
 
 <p>
 	<strong>How long do we store your data for?</strong><br>
-	We will store your personal information (name, address, email, etc) for a minimum of six years after your last transaction with us. We will keep records of transactions for longer periods, but we will ensure that the data is anonymised so that personal data is deleted after six years.
+	We will store your personal information (name, address, email, etc) for a minimum of six years after your last transaction with us. We will keep records of transactions for longer periods, but we will ensure that the data is anonymised so that personal data is deleted after six years.<br><br>
 
-If you wish to stop hearing from us prior to that time then email us at <a href="mailto:privacy@bbr.com">privacy@bbr.com </a> and we will remove you from our mailing lists, even though we will retain some historical purchasing records as legally required.
+	If you wish to stop hearing from us prior to that time then email us at <a href="mailto:privacy@bbr.com">privacy@bbr.com </a> and we will remove you from our mailing lists, even though we will retain some historical purchasing records as legally required.
 
-If you are a sole trader or partnership, financial transactions between us might include some personal data. We are required by law to keep this information for the current financial year plus an additional six years.
+	If you are a sole trader or partnership, financial transactions between us might include some personal data. We are required by law to keep this information for the current financial year plus an additional six years.
 </p>
 <a id="pay" name="store-data"></a>
 <hr>
@@ -1737,9 +1772,9 @@ If you are a sole trader or partnership, financial transactions between us might
 	<strong>Why do we need to store your data?</strong><br>
 	This is a legal obligation, because HMRC requires wine and spirit businesses such as ours to keep all business records concerning excise goods for at least six years. HMRC will occasionally carry out inspections of our business and the records we are required to keep for those purposes include, among other things, stock, purchases, sales and dispatches.<br><br>
 
-We may also store your information on our databases for reference and to record any preferences you have notified to us, for example in relation to your marketing communications contact permissions. The information may be retained and used by Berry Bros. &amp; Rudd to answer queries or resolve problems, provide improved and new services, to respect your rights under GDPR, for analysis purposes and for any data retention requirements of the law. This means we may retain information after you cease to use our services or after you have ceased interacting with Berry Bros. &amp; Rudd. <br><br>
+	We may also store your information on our databases for reference and to record any preferences you have notified to us, for example in relation to your marketing communications contact permissions. The information may be retained and used by Berry Bros. &amp; Rudd to answer queries or resolve problems, provide improved and new services, to respect your rights under GDPR, for analysis purposes and for any data retention requirements of the law. This means we may retain information after you cease to use our services or after you have ceased interacting with Berry Bros. &amp; Rudd.&nbsp; <br><br>
 
-We store your information securely to prevent unauthorised use. See our Security section below.
+	We store your information securely to prevent unauthorised use. See our Security section below.
 </p>
 <a id="pay" name="rights"></a>
 <hr>
@@ -1747,27 +1782,28 @@ We store your information securely to prevent unauthorised use. See our Security
 	<strong>Your rights regarding our use of your personal data </strong><br>
 	You can review, edit or ask us to delete your personal data we hold by contacting us directly at <a href="mailto:privacy@bbr.com">privacy@bbr.com. </a> <br><br>
 
-You can alter how we use your information, for example how we communicate with you, by changing your contact permissions via your online account or by contacting Customer Services. You will always have the right to opt out of receiving promotional emails and other types of marketing or sales communication from us. If you opt out, you will also have the ability to opt back in at a later date. <br><br>
+	You can alter how we use your information, for example how we communicate with you, by changing your contact permissions via your online account or by contacting Customer Services. You will always have the right to opt out of receiving promotional emails and other types of marketing or sales communication from us. If you opt out, you will also have the ability to opt back in at a later date. <br><br>
  
-If you specifically wish to stop receiving emails from us, please click on the “Unsubscribe” link included at the bottom of any of our emails. We respect your choice, and we will stop sending you promotional emails once you unsubscribe. It may take up to two weeks to process your request. Alternatively, you can email us at <a href="mailto:privacy@bbr.com">privacy@bbr.com </a> or log in to your account and change your contact permissions. Unsubscribing from promotional emails will not affect our ability to email you for the fulfilment of a contract or service provision. <br><br>
+	If you specifically wish to stop receiving emails from us, please click on the “Unsubscribe” link included at the bottom of any of our emails. We respect your choice, and we will stop sending you promotional emails once you unsubscribe. It may take up to two weeks to process your request. Alternatively, you can email us at <a href="mailto:privacy@bbr.com">privacy@bbr.com </a> or log in to your account and change your contact permissions. Unsubscribing from promotional emails will not affect our ability to email you for the fulfilment of a contract or service provision  <br><br>
 
-If you wish to update your details, if you need to check the accuracy of the details that we hold about you, or if you have any other questions about this Privacy Policy, please email us at <a href="mailto:privacy@bbr.com">privacy@bbr.com </a>
-Should you feel that you need to complain about how we are handling your personal data, email privacy@bbr.com or use our Contact Us form. <br><br>
+	If you wish to update your details, if you need to check the accuracy of the details that we hold about you, or if you have any other questions about this Privacy Policy, please email us at <a href="mailto:privacy@bbr.com">privacy@bbr.com </a>
+	
+	Should you feel that you need to complain about how we are handling your personal data, email <a href="mailto:privacy@bbr.com">privacy@bbr.com </a> or use our Contact Us form. <br><br>
 
-We will respond to any request to access or delete your personal data as soon as possible, but certainly within 30 days. <br><br>
+	We will respond to any request to access or delete your personal data as soon as possible, but certainly within 30 days. <br><br>
 
-Your ultimate point of contact for all data protection matters in the UK is the Information Commissioner’s Office. See the Contact Us page on the ICO website.
+	Your ultimate point of contact for all data protection matters in the UK is the Information Commissioner’s Office. See the Contact Us page on the ICO website.
 
 	</p>
 	<a id="pay" name="software"></a>
 	<hr>
 <p>
-	<strong>Cookies and software agents </strong> <br>
-	“Cookies” are pieces of software, which may be sent and recorded on your computer. These cookies enable us to collect information about how our websites and services are being used and to manage them more efficiently. <br><br>
+	<strong>Cookies</strong> <br>
+	A cookie is a small data file, typically containing letters and numbers, downloaded onto your device when you access our website. These cookies enable us to collect information about how our websites and services are being used and to manage them more efficiently.<br><br>
 
-Until you have registered on Berry Bros. &amp; Rudd’s website, the cookie will only track general usage patterns and technical information about your computer type and will not be used to identify you individually. After registration, cookies will be used to collect information on you to facilitate and improve your website experience. Cookies are also used as a site security method to stop abuse of our subscriber service. <br><br>
+	Until you have registered on Berry Bros. &amp; Rudd’s website, the cookie will only track general usage patterns and technical information about your computer type and will not be used to identify you individually. After registration, cookies will be used to collect information on you to facilitate and improve your website experience. Cookies are also used as a site security method to stop abuse of our subscriber service. <br><br>
 
-You can turn off the ability to receive cookies by adjusting the browser on your computer but you should note that if you do so, this may materially distort the quality of service and data you receive. Cookies are not used to collect your personal information. 
+	You can turn off the ability to receive cookies by adjusting the browser on your computer but you should note that if you do so, this may materially distort the quality of service and data you receive. Cookies are not used to collect your personal information.&nbsp; 
 </p>
 <a id="pay" name="email"></a>
 <hr>
@@ -1775,9 +1811,9 @@ You can turn off the ability to receive cookies by adjusting the browser on your
 	<strong>Contacting you via email alerts, notices and newsletters</strong><br>
 	Berry Bros. &amp; Rudd only sends marketing information to those it believes it has a legitimate business interest to contact. For example, an existing customer or someone who has registered on our website. This means that, from time to time, we may send you email newsletters or other notifications in relation to products being promoted by us or on our website or new services being offered. If you wish to stop receiving some, or all, of our communications, you can unsubscribe by logging into your account, or follow the instructions included in our emails or contact <a href="mailto:privacy@bbr.com">privacy@bbr.com. </a><br><br>
 
-If you supply us with your postal address you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such updates, you can unsubscribe by logging into your account, or please let us know by or emailing us at <a href="mailto:privacy@bbr.com">privacy@bbr.com. </a><br><br>
+	If you supply us with your postal address you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such updates, you can unsubscribe by logging into your account, or please let us know by or emailing us at <a href="mailto:privacy@bbr.com">privacy@bbr.com. </a><br><br>
 
-If you supply us with your telephone number you may receive periodic calls from us to tell you about our products and services or upcoming events. If you do not wish to receive such calls, please let us know by or emailing us at <a href="mailto:privacy@bbr.com">privacy@bbr.com. </a>
+	If you supply us with your telephone number you may receive periodic calls from us to tell you about our products and services or upcoming events. If you do not wish to receive such calls, please let us know by or emailing us at <a href="mailto:privacy@bbr.com">privacy@bbr.com. </a>
 </p>
 <a id="pay" name="interception"></a>
 <hr>
@@ -1785,27 +1821,25 @@ If you supply us with your telephone number you may receive periodic calls from 
 	<strong>Interception of email</strong><br>
 	Berry Bros. &amp; Rudd may intercept email addressed to individuals within Berry Bros. &amp; Rudd. The reasons we do this are related to the security of your data, to our security, to the security of our staff and others, for detection and prevention of crime and to identify correct recipients or to make sure mail is dealt with during staff absence. Berry Bros. &amp; Rudd may reject, delay or remove content from emails which have a nature, content or attachments which may disrupt our systems or because they may pose security issues such as viruses. <br><br>
 
-We may also filter out emails which contain content which is considered offensive, unwanted or spam. In certain circumstances this may unfortunately result in “innocent” emails being affected. We do our best to reduce such occurrences.
+	We may also filter out emails which contain content which is considered offensive, unwanted or spam. In certain circumstances this may unfortunately result in “innocent” emails being affected. We do our best to reduce such occurrences.
 </p>
 <a id="pay" name="security"></a>
 <hr>
 <p>
 	<strong>Security</strong><br>
-	Berry Bros. &amp; Rudd has developed and implemented strict policies and processes governing information technology and data user behaviour. These cover areas such as access control, authentication, audit, monitoring, alarms, data storage and back up, transmission standards and environment integrity. <br><br>
+	Berry Bros. &amp; Rudd has developed and implemented strict policies and processes governing information technology and data user behaviour. These cover areas such as access control, authentication, audit, monitoring, alarms, data storage and back up, transmission standards and environment integrity.&nbsp; <br><br>
 
-We use reasonable endeavours to install and have appropriate security measures in place in our systems and facilities to protect against the loss, misuse or alteration of information that we have collected from you.<br><br>
+	We use reasonable endeavours to install and have appropriate security measures in place in our systems and facilities to protect against the loss, misuse or alteration of information that we have collected from you.<br><br>
 
-Our website is fully PCI DSS compliant. The Payment Card Industry Data Security Standard (PCI DSS) is an information security standard for organisations like ours that handle branded credit cards from the major card schemes.<br><br>
+	Our website is fully PCI DSS compliant. The Payment Card Industry Data Security Standard (PCI DSS) is an information security standard for organisations like ours that handle branded credit cards from the major card schemes.<br><br>
 
-We do not store any credit card details on our website. The card details are encrypted and securely held by WorldPay.
+	We do not store any credit card details on our website. The card details are encrypted and securely held by WorldPay.
 <br><br>
-We minimise the personal data that is accessible to our colleagues, and where appropriate we anonymise that data for marketing purposes.<br><br>
+	We minimise the personal data that is accessible to our colleagues, and where appropriate we anonymise that data for marketing purposes.<br><br>
 
-We password protect personal data that is stored within the business.<br><br>
+	We password protect personal data that is stored within the business.<br><br>
 
-To assure you of our attention to these issues we belong to the ISIS (Internet Shopping is Safe) scheme and the Wine by Mail Order Code of Practice. <br><br>
-
-When we introduce new systems and policies that relate to personal data, we ensure that data protection and security is included in the design of those systems.
+	When we introduce new systems and policies that relate to personal data, we ensure that data protection and security is included in the design of those systems.
 
 </p>
 <a id="pay" name="notice"></a>
@@ -1875,295 +1909,57 @@ $(document).ready(function(){
 </script>
 
 
- <div class="yCmsContentSlot"><div class="content"><footer class="footer-wrapper" role="contentinfo">
-    <div class="footer-content">
-        <div class="footer-returns">
-            <div class="footer-returns__content">
-                <i class="fa fa-truck" aria-hidden="true"></i>
-                <span>Free UK Standard Delivery</span>
-                <p>On all orders over £100</p>
-            </div>
-            <div class="footer-returns__content">
-                <i class="fa fa-lock" aria-hidden="true"></i>
-                <span>Secure Payments</span>
-                <p>PCI DSS compliant check-out</p>
-            </div>
-            <div class="footer-returns__content">
-                <i class="fa fa-retweet" aria-hidden="true"></i>
-                <span>Simple Returns</span>
-                <p>Return hassle-free within 14 days</p>
-            </div>
-        </div>
-        <div class="footer-social" itemtype="https://schema.org/Organization">
-            <a href="/contactus/contact-us?pageId=contact-us"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-            <a itemprop="sameAs" href="https://instagram.com/berrybrosrudd" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            <a itemprop="sameAs" href="https://twitter.com/BerryBrosRudd" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-            <a itemprop="sameAs" href="https://www.facebook.com/berrybrosrudd?fref=ts" target="_blank"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
-        </div>
 
-        <div class="footer-location">
-            <div class="footer-location__content">
-                <ul class="footer-location__tabs">
-                    <li class="tab-link active" data-tab="tab-1">London</li>
-                    <li class="tab-link" data-tab="tab-2">Basingstoke</li>
-                    <li class="tab-link" data-tab="tab-3">Hong Kong</li>
-                    <li class="tab-link" data-tab="tab-4">Singapore</li>
-                    <li class="tab-link" data-tab="tab-5">Japan</li>
-                </ul>
-                <div class="footer-links__tab rotate">
-                    <h3>Find a store</h3>
-                </div>
-                <div class="footer-location__dropdown">
-                    <label class="icon__dropdown">
-						<select>
-							<option data-tab="tab-1">London</option>
-							<option data-tab="tab-2">Basingstoke</option>
-							<option data-tab="tab-3">Hong Kong</option>
-							<option data-tab="tab-4">Singapore</option>
-							<option data-tab="tab-5">Japan</option>
-						</select>
-					</label>
-                </div>
-                <div id="tab-1" class="footer-location__tab__content active">
-                    <div class="footer-location__tab__text">
-                        <h3>Address</h3>
-                        <p>
-                            London Shop, 63 Pall Mall,<br>London SW1Y 5HZ
-                        </p>
-                    </div>
-                    <table class="footer-location__tab__table">
-                        <thead>
-                            <tr>
-                                <th>Opening Hours</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>Monday to Friday</td>
-                                <td>10 am to 9 pm</td>
-                            </tr>
-                            <tr>
-                                <td>Saturday</td>
-                                <td>10 am to 5 pm</td>
-                            </tr>
-                            <tr>
-                                <td>Sunday &amp; Public Holidays</td>
-                                <td>Closed</td>
-                            </tr>
-							<tr>
-                                <td>Telephone: 0800 280 2440</td>
-								
-								<!--<td><strong>Please be aware that the London shop will close at 6pm on Wednesday 25th July.</strong></td>-->
-                                                            </tr>
-															
-                        </tbody>
-                    </table>
-                    <div class="footer-location__map">
-                        <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJlx1dcdcEdkgREfYyD5dQbac&amp;key=AIzaSyDPtqB0AYfwp_2_-btYOPTAjzf9c0xpFHA" allowfullscreen=""></iframe>
-                    </div>
-                </div>
 
-                <div id="tab-2" class="footer-location__tab__content">
-                    <div class="footer-location__tab__text">
-                        <h3>Address</h3>
-                        <p>
-                            Warehouse Shop, Hamilton Close, RG21 6YB<br>Telephone: 01256 247
-                            933<br>This number should only be used for Warehouse Shop queries.
-                        </p>
-                    </div>
-                    <table class="footer-location__tab__table">
-                        <thead>
-                            <tr>
-                                <th>Opening Hours</th>
-                            </tr>
-                        </thead>
-                        <tbody>
 
-                            <tr>
-                                <td>Monday to Friday</td>
-                                <td>10 am to 6 pm</td>
-                            </tr>
-                            <tr>
-                                <td>Saturday </td>
-                                <td>10 am to 5 pm</td>
-                            </tr>
-                            <tr>
-                                <td>Sunday and Public Holidays:</td>
-                                <td>Closed</td>
-                            </tr>
-                                                    </tbody>
-                    </table>
-                    <div class="footer-location__map">
-                        <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJIcs1ntcEdkgRhOZd-qU9hhs&amp;key=AIzaSyDPtqB0AYfwp_2_-btYOPTAjzf9c0xpFHA" allowfullscreen=""></iframe>
-                    </div>
-                </div>
+    <div class="yCmsContentSlot"><div class="content"><footer class="footer-wrapper" role="contentinfo">	
+<div class="footer-content">		
+<div class="footer-links"> 
 
-                <div id="tab-3" class="footer-location__tab__content">
-                    <div class="footer-location__tab__text">
-                        <h3>Address</h3>
-                        <p>
-                            2/F Pacific House, 20-20B Queen's Road Central,<br> Hong Kong
-                        </p>
-                    </div>
-                    <div class="footer-location__tab__text">
-                        <h3>Get in touch</h3>
-                        <p><a href="mailto:hkenquiries@bbr.com?Subject=BBR HK Enquiries">hkenquiries@bbr.com</a></p>
-                        <p>+852 2511 2811</p>
-                        <table class="footer-location__tab__table">
-                            <tbody>
-                                <tr><td>Monday to Friday</td>
-                                <td>9.30 am to 6 pm</td>
-                            </tr></tbody>
-                        </table>
-                    </div>
-                    <div class="footer-location__map">
-                        <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJW5RF3GQABDQRLYzsrfMsig0&amp;key=AIzaSyDPtqB0AYfwp_2_-btYOPTAjzf9c0xpFHA" allowfullscreen=""></iframe>
-                    </div>
-                </div>
+<a href="/about/shops" style="margin-right:6%;">UK shops</a> 
+<a href="/about/international-offices" style="margin-right:6%;">International</a> 
+<a href="/about" style="margin-right:6%;">About us</a> 
+<a href="/services/delivery-free" style="margin-right:6%;">Delivery</a> 
+<a href="/contactus/contact-us?pageId=contact-us" style="margin-right:6%;">Contact us</a> 
+<a href="/about/privacy" style="margin-right:6%;">Privacy Policy</a> 
+<a href="/about/careers" style="margin-right:6%;">Careers</a> 
+<a href="/about/faq" style="margin-right:6%;">Help</a>		
+</div>		
+<div class="footer-middle">			
+<div class="footer-logo">				
+<img srcset="https://5304282f92ff1d1b19c1-8a2ebff5f6260504c3c482982d840415.ssl.cf3.rackcdn.com/images/icons/warrant_logo.png 1x, https://5304282f92ff1d1b19c1-8a2ebff5f6260504c3c482982d840415.ssl.cf3.rackcdn.com/images/icons/warrant_logo@2x.png 2x" src="https://5304282f92ff1d1b19c1-8a2ebff5f6260504c3c482982d840415.ssl.cf3.rackcdn.com/images/icons/warrant_logo.png" alt="Berry Bros. &amp; Rudd" width="325px"> </div>				
 
-                <div id="tab-4" class="footer-location__tab__content">
-                    <div class="footer-location__tab__text">
-                        <h3>Address</h3>
-                        <p>
-                            120 Lower Delta Road, <br> #16-16 Cendex Centre<br> Singapore 169208
-                        </p>
-                    </div>
-                    <div class="footer-location__tab__text">
-                        <h3>Get in touch</h3>
-                        <p><a href="mailto:enquiries@sg.bbr.com?Subject=BBR Singapore Enquiries">enquiries@sg.bbr.com</a></p>
-                        <p>+65 6709 0100</p>
-                        <table class="footer-location__tab__table">
-                            <tbody>
-                                <tr><td>Monday to Friday</td>
-                                <td>9.30 am to 6 pm</td>
-                            </tr></tbody>
-                        </table>
-                    </div>
+<div class="footer-right-content">					
 
-                    <div class="footer-location__map">
-                        <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJVVVVVQwZ2jER_gRwkf7mpp8&amp;key=AIzaSyDPtqB0AYfwp_2_-btYOPTAjzf9c0xpFHA" allowfullscreen=""></iframe>
-                    </div>
-                </div>
+<div class="footer-social" itemtype="https://schema.org/Organization"> 
+<a href="/contactus/contact-us?pageId=contact-us"> <i class="fa fa-envelope" aria-hidden="true"></i> </a> 
+<a itemprop="sameAs" href="https://instagram.com/berrybrosrudd" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> </a>			
+<a itemprop="sameAs" href="https://twitter.com/BerryBrosRudd" target="_blank"> <i class="fa fa-twitter" aria-hidden="true"></i> </a> 
+<a itemprop="sameAs" href="https://www.facebook.com/berrybrosrudd?fref=ts" target="_blank"> <i class="fa fa-facebook-official" aria-hidden="true"></i> </a>					
 
-                <div id="tab-5" class="footer-location__tab__content">
-                    <div class="footer-location__tab__text">
-                        <h3>Address</h3>
-                        <p>
-                            Nishimotokosan Nishikicho, Bldg. 14F, 3-23 Kanda-Nishikicho,<br> Chiyoda-Ku, Tokyo, Japan
-                        </p>
-                    </div>
-                    <div class="footer-location__tab__text">
-                        <h3>Get in touch</h3>
-                        <p>Tel: 03-3518-6730</p>
-                        <p>Fax: 03-3518-6737</p>
-                        <table class="footer-location__tab__table">
-                            <tbody>
-                                <tr><td>Monday to Friday</td>
-                                <td>9.30 am to 6 pm</td>
-                            </tr></tbody>
-                        </table>
-                    </div>
-                    <div class="footer-location__map">
-                        <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJYTORdQ-MGGARvUBxGqt318c&amp;key=AIzaSyDPtqB0AYfwp_2_-btYOPTAjzf9c0xpFHA" allowfullscreen=""></iframe>
-                    </div>
-                </div>
+</div>					
 
-            </div>
-        </div>
-
-        <div class="footer-links">
-            <div class="footer-links__content">
-                <div class="footer-links__tab">
-                    <h3>Delivery</h3>
-                </div>
-                <ul class="footer-links__list">
-                    <li><a href="/services/delivery-free">UK Delivery</a></li>
-                    <li><a href="/delivery-uk-islands-highlands">UK Highlands &amp; Islands</a></li>
-                    <li><a href="/services/delivery/delivery-calculator">International Delivery</a></li>
-                    <li><a href="/wine-order-collections">Order Collection – UK</a></li>
-                </ul>
-            </div>
-            <div class="footer-links__content">
-                <div class="footer-links__tab">
-                    <h3>Shopping Help</h3>
-                </div>
-                <ul class="footer-links__list">
-				<li><a href="/about/faq">FAQs</a></li>
-                    <li><a href="/about/generalterms#return">Returns</a></li>
-                    
-                    <li><a href="/offers-gift-vouchers">Gift Vouchers</a></li>
-                    <li><a href="/Categories/Delivery-Materials/c/delivery-materials">Gift Packaging</a></li>
-                  
-                </ul>
-            </div>
-            <div class="footer-links__content">
-                <div class="footer-links__tab">
-                    <h3>Our Company</h3>
-                </div>
-                <ul class="footer-links__list">
-                    <li><a href="/about">More About Us</a></li>
-                    <li><a href="/about/who-we-are">Who We Are</a></li>
-                    <li><a href="/about/history">Our History</a></li>
-                    <li><a href="/about/shops">Shops</a></li>
-                    <li><a href="/about/careers">Careers</a></li>
-					<li><a href="https://5304282f92ff1d1b19c1-8a2ebff5f6260504c3c482982d840415.ssl.cf3.rackcdn.com/downloads/modern-slavery-act-2015.pdf" target="blank">Modern Slavery Act</a></li> 
-					<li><a href="/about/csr-policy">CSR Policy</a></li>
-                </ul>
-            </div>
-            <div class="footer-links__content">
-                <div class="footer-links__tab">
-                    <h3>Contact Us</h3>
-                </div>
-                <ul class="footer-links__list">
-                    <li><a href="/contactus/contact-us?pageId=contact-us">Contact Form</a></li>
-                    <li><a href="/about/pressenquiries">Press Enquiries</a></li>
-                    <li><a href="/about/terms">Terms</a></li>
-                    <li><a href="/about/privacy">Privacy</a></li>
-                    <li><a href="/about/website-cookies">Cookie Policy</a></li>
-                </ul>
-            </div>
-            <div class="footer-links__content">
-                <div class="footer-links__tab">
-                    <h3>UK Customer Services</h3>
-                </div>
-                <p class="footer-links__text">
-                    <a>0800 280 2440</a><br>
-                    <span>(from within the UK)</span>
-                </p>
-                <p class="footer-links__text">
-                    <a>+44 20 7022 8973</a><br>
-                    <span>(from outside the UK)</span>
-                </p>
-                <p class="footer-links__text">
-                    Monday to Friday 9am to 6pm<br> Saturday 10am to 4pm<br> Sunday &amp; Public Holidays Closed
-                </p>
-            </div>
-        </div>
-        <div class="footer-details">
-            <p>Registered company 0‍5492886. BB&amp;R Limited, trading as Berry Bros. &amp; Rudd, 3 St James's Street, London,
-                SW1A 1EG.<br> All rights reserved. You must be 18 or over to order.* Calls may be recorded.</p>
-            <a href="https://www.drinkaware.co.uk/" target="_blank">
-				<span data-src="/images/footer/icn_drinkaware.svg" data-title="" data-alt="Drink Aware" data-id="" data-class="" class="cdnImage"></span>
-			</a>
-        </div>
-    </div>
-</footer>
-<!-- temporary hotfix please do not remove-->
-<style media="screen">
-	@media only screen and (max-width: 48em) {
-		#utilityBar #leftUtilities {
-			margin: 2px 0 0 10px;
-			padding-left: 1px;
-		}
-	}
-</style></div><div class="content"><!-- <p><style type=""text/css"">
-#logoBar #logo a {background: url(""https://5304282f92ff1d1b19c1-8a2ebff5f6260504c3c482982d840415.ssl.cf3.rackcdn.com/images/logo-address4.png"") no-repeat 0 0;}
-</style></p> --></div></div><!-- back to top -->
+<div class="footer-mobile"> 0800 280 2440 </div>
+<div class="footer-mobile">+44 20 7022 8973 (from outside UK)</div>
+			
+</div>			
+</div>			
+<div class="footer-details">				
+<p>Registered company 0‍5492886. BB&amp;R Limited, trading as Berry Bros. &amp; Rudd, 3 St James's Street, London, SW1A 1EG. <br> All rights reserved. You must be 18 or over to order.* Calls may be recorded. </p> 
+<a href="https://www.drinkaware.co.uk/" target="_blank"> <span data-src="/images/footer/icn_drinkaware.svg" data-title="" data-alt="Drink Aware" data-id="" data-class="" class="cdnImage"></span> </a></div>		
+</div>
+</footer></div><div class="content"><style type="" text="" css""="">
+a[href^=tel] {
+ color: inherit;
+ text-decoration:inherit;
+}
+</style></div></div>
+<!-- back to top -->
 <a href="#top" id="top-link" title="To Top"><span class="icon-angle-up"></span></a>
 <!-- homepage requires additional script for slider + trigger - See: landingLayout2Page.jsp top & bottom of code -->
 	<form name="accessiblityForm">
 		<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value="">
-		<input type="hidden" id="globalCSRFToken" name="globalCSRFToken" value="e18bdf7e-d177-4e78-8934-0ed9d2aaa508">
+		<input type="hidden" id="globalCSRFToken" name="globalCSRFToken" value="cfdad479-d5cb-4f18-9915-9ff364f253b1">
 	</form>
 	<div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
 
@@ -2179,16 +1975,7 @@ $(document).ready(function(){
 
 
 
-
-
-
-
-
 <!--[if IE]><script type="text/javascript" src="/_ui/desktop/common/js/excanvas-r3.compiled.js"></script>-->
-
-
-
-
 
 
 
@@ -2245,7 +2032,6 @@ $(document).ready(function(){
 
 
 
-
 <!-- script for show/hide tasting notes / details -->
 
 
@@ -2262,7 +2048,6 @@ $(document).ready(function(){
 
 
 
-<!-- google script for ie 8,7,6 -->
 
 
 <!-- mobileMenu scripts -->
@@ -2273,32 +2058,17 @@ $(document).ready(function(){
 
 
 
-<!-- script for slider -->
-
-
-<!-- script for read more -->
-
-
 <!-- script for read more link -->
 
 
-<!-- script for read more description -->
 
 
-<!-- script for read more BBX -->
-
-
-
-
-
-
-
-<script src="/combined.js?id=d2946e6b1653f7e_0"></script>
+<script src="/combined.js?id=680732a16a1348"></script>
 
 <script>
 var PeeriusCallbacks={
 					track:{
-							type: "other", 
+							type: "other",
 							lang: "en-gb",
 							channel: "web",
 								smartRecs: {
@@ -2318,16 +2088,12 @@ var PeeriusCallbacks={
 							
 						  }
 					}
-console.log(JSON.stringify(PeeriusCallbacks.track));
+// console.log(JSON.stringify(PeeriusCallbacks.track));
 </script>
 <!-- Peerius tracking script -->
 <script type="text/JavaScript" src="//berrybrosandrudd.peerius.com/tracker/peerius.page" charset="UTF-8"></script>
+<script type="text/javascript" src="https://gatherhere.com/js/leadform.js" id="gather-loader" data-advanced=""></script>
 
-    <script type="text/javascript">
-         document.getElementById("fouc").style.display="block";
-    </script>
-		<script type="text/javascript" src="https://gatherhere.com/js/leadform.js" id="gather-loader" data-advanced=""></script>
-		
 
 
 </div></body></html>
