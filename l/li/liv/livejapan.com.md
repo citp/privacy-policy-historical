@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livejapan.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118034317id_/https%3A//corporate.gnavi.co.jp/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livejapan.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413115522id_/https%3A//corporate.gnavi.co.jp/en/policy) for the most accurate reproduction.*
 
 # Privacy Policy｜Gurunavi, Inc.
 
