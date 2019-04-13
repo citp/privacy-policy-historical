@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113231540id_/https%3A//www.peoplefinders.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413091136id_/https%3A//www.peoplefinders.com/about/privacy) for the most accurate reproduction.*
 
 # PeopleFinders Privacy Policy Keeps Your Personal Information Safe
 
   
 _Last Updated: June 4, 2018_
 
-This page summarizes the key highlights from our Privacy Policy. For more information, read our full Privacy Policy. If you are currently located within the European Economic Area or Switzerland (collectively, the “EU”), this policy does not apply; instead please see our [EU Privacy Policy](https://web.archive.org/about/gdpr-privacy). 
+This section summarizes the key highlights from our Privacy Policy. For more information, read our full Privacy Policy below. If you are currently located within the European Economic Area or Switzerland (collectively, the “EU”), this policy does not apply; instead please see our [EU Privacy Policy](https://web.archive.org/about/gdpr-privacy). 
 
-Personal information collected
+SUMMARY 
+
+Personal Information Collected
 
 We collect information in the following ways:
 
@@ -17,7 +19,7 @@ When you view and interact with our features, and functionality
 Through cookies and other technologies we collect your IP address, device identifier, browser type, operating system, mobile carrier, and your ISP, and receive the URLs of sites from which you arrive or leave our Site, or sites that have embedded PeopleFinders platform technology that allow us to recognize you, customize your experience, and serve advertisements both on and off PeopleFinders Applications. Learn more about such technologies in our Privacy Policy.   
 When you voluntarily interact with third party services available through PeopleFinders   
   
-Uses of personal information 
+Uses of Personal Information 
 
 We use the information you provide to: 
 
@@ -39,7 +41,7 @@ Control the messages you receive from PeopleFinders and other third parties
 Contact us to withdraw your consent subject to any limitations set forth below   
 Tell us to close your account   
   
-PEOPLEFINDERS’ PRIVACY POLICY 
+PRIVACY POLICY 
 
 _Last Updated: June 4, 2018_
 
@@ -76,9 +78,9 @@ In addition to any Personal Information or other information that you choose to 
 
 Provide useful features to simplify your experience when you return to PeopleFinders Applications; for example, remembering the searches you conducted Deliver relevant content based on your preferences, usage patterns and location Monitor and evaluate the use and operation of our PeopleFinders Applications Analyze traffic on our PeopleFinders Applications and on the sites and applications of third parties We may associate this tracking data with your registration account, in which case we will treat it as personal information. Technologies such as: cookies, beacons, tags and scripts are used by PeopleFinders and our marketing and distribution partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. Third party service providers might combine information they collect from your interaction with PeopleFinders Applications with personal information they collect from other sources. We do not have access to, nor control over, third parties' use of tracking technologies. Service providers that collect tracking data on our behalf may provide an opportunity for you to choose not to be tracked online. If you choose to disable cookies on your Device, some features of the PeopleFinders Applications may not function properly. For instance, if cookies are disabled, you will not be able to log into our PeopleFinders Applications. 
 
-We use Local Storage Objects (LSOs) such as Flash to store information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+We use Local Storage Objects (LSOs) such as Flash to store information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
-**Analytics:** Google Analytics Premium feature is enabled in Peoplefinders.com. Google Analytics will collect data about our traffic via [Google advertising cookies](https://www.google.com/policies/technologies/types/) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation. 
+**Analytics:** Google Analytics Premium feature is enabled in Peoplefinders.com. Google Analytics will collect data about our traffic via [Google advertising cookies](http://www.google.com/policies/technologies/types/) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation. 
 
 Information You Provide About a Third Party 
 
@@ -163,4 +165,4 @@ Customer Service
 1821 Q Street  
 Sacramento, CA 95811 
 
-Copyright ©2018 Confi-Chek, Inc. All rights reserved. 
+Copyright ©2019 Confi-Chek, Inc. All rights reserved. 
