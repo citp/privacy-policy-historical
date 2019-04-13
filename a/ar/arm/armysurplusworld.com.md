@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the armysurplusworld.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109055928id_/https%3A//www.armysurplusworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armysurplusworld.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413193440id_/https%3A//www.armysurplusworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Online Security - Army Surplus World
+# Privacy Policy and Online Security - Army Surplus World | Army Surplus World
 
-This Privacy Policy was last modified on 07-01-2015.
-
-Army Surplus World, Inc. operates [Armysurplusworld.com](https://www.armysurplusworld.com/). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
-
-We use your Personal Information only for providing and improving the Site.By using the Site, you agree to the collection and use of information in accordance with this policy.
+This Privacy Policy was last modified on 07-01-2015.   
+Army Surplus World, Inc. operates [Armysurplusworld.com](https://www.armysurplusworld.com/). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site.By using the Site, you agree to the collection and use of information in accordance with this policy.
 
 **INFORMATION COLLECTION AND USE**
 
