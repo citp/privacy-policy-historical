@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906043931id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413070517id_/https%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
 
 # Privacy for Tadpoles
 
