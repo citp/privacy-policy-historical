@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protranslate.net privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715162135id_/https%3A//www.protranslate.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protranslate.net privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413055446id_/https%3A//www.protranslate.net/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Protranslate
 
 1.    This Privacy Policy is an integral part of Terms and Condition of Use and the User shall agree that he/she have read and understood and agreed to be bound by this Privacy Policy by accepting Terms and Conditions of Use and/or use/access any of Protranslate contents/services on the Platform.
 
@@ -33,3 +33,5 @@
 11.    Following the notification and the written consent of the User, Protranslate and/or other third parties which have contractual relationship with Protranslate may inform and introduce new services, promotions, campaigns or any similar matters for advertising and informative purposes via SMS and/or e-mail or any other communication tool, in relation to the Platform and its contents/services. If the User shall not give consent for the referred notifications, the User may inform Protranslate accordingly about his/her demand to quit from the membership assigned for advertising and informative purposes on the Platform. On the other hand, Protranslate reserves its right to notify Users in relation to announcements about services, management of services.
 
 12.    For any matter, which is not specified herein, Terms and Conditions of Use shall apply.
+
+© Copyright 2019, www.protranslate.net is owned and operated by CC Media House FZE
