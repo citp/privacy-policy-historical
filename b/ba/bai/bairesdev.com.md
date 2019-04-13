@@ -1,35 +1,159 @@
-> *The following text is extracted and transformed from the bairesdev.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214165623id_/http%3A//www.bairesdev.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bairesdev.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414001300id_/https%3A//www.bairesdev.com/privacy-policy) for the most accurate reproduction.*
 
-# BairesDev
+# Privacy Policy | BairesDev
 
-## BairesDev values individual privacy and we want to give our Site´s visitors the opportunity to know what information we collect about them and how it is treated by us. 
-
-  
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
 
-### Information collected automatically when you visit our Site: 
+ **When do we collect personal information?**
 
-BairesDev will collect and store the Internet protocol (IP) address of your computer and the Internet address of the site from which you linked directly to BairesDev’s site. 
+We collect personal information from you when you fill out a form, Use Live Chat or enter information on our site. BairesDev may use this information to send you appropriate information in regards to news, events and related information you subscribed to. BairesDev may also use such data for market and consumer studies regarding product types, demographics and consumer preferences. All of the customer data collected by BairesDev is stored on a secured server
 
-“Cookies” are text files placed in your computer’s browser to store certain preferences and information, which may enhance your browsing experience on BairesDev´s websites. Cookies may be used to personalize your website experience, such as recognizing you by name when you return. BairesDev does not use Cookies to track or collect personal identification information from website users. If you desire, instructions for your browser will allow you to make certain settings on your omputer to warn you before a Cookie is stored, block all Cookies or erase Cookies from your hard drive. 
+ **What personal information do we collect from the people that visit our website?**
 
-  
+When submitting a form or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience.
 
+ **What other information is automatically collected from the people that visit our website?**
 
-### Information is collected when you volunteer to identify yourself, and provide requested information:
+BairesDev will collect and store the Internet protocol (IP) address of your computer and the Internet address of the site from which you linked directly to BairesDev’s site.
 
-You may choose to write to us, or fill out certain forms or online data requests, which provide your name, telephone number, e-mail address, job and related information. BairesDev uses this information to send you appropriate information in regards to news, events, job openings and related information you subscribed to. BairesDev may also use such data for market and consumer studies regarding product types, demographics and consumer preferences. 
-
-All of the consumer and customer data collected by BairesDev is stored on a secured server to protect against unauthorized use and access. If you contact us regarding identity theft or some other form of unauthorized use, BairesDev may disclose pertinent information to law enforcement agencies and other third parties with responsibility and authority. 
-
-At all times, however, BairesDev reserves the right to disclose information where required by law or to comply with valid legal process (such as a search warrant, subpoena or court order), to protect BairesDev’s rights or property, including without limitation in the event of a transfer of control of BairesDev or substantially all of its assets, or during emergencies when safety is at risk. 
+**How do we use your information?**
 
   
 
 
-### Severability: 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-The invalidity or unenforceability of any particular provision of this Policy shall not affect the remaining provisions hereof, and this Policy shall be construed in all respects as if such invalid or unenforceable provision had been omitted. 
+ **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+
+ **•** To improve our website in order to better serve you.
+
+ **•** To allow us to better service you in responding to your customer service requests.
+
+ **•** To send periodic emails regarding our products and services.
+
+ **•** To follow up with them after correspondence (live chat, email or phone inquiries)
+
+ **How do we protect visitor information?**
+
+We do not use vulnerability scanning and/or scanning to PCI standards.
+
+We only provide articles and information. We never ask for credit card numbers.
+
+We do not use Malware Scanning.
+
+ **Do we use 'cookies'?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+ **•** Understand and save user's preferences for future visits.
+
+ **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+
+
+If you disable cookies off, some features will be disabled It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still submit contact forms.
+
+ **Third-party links**
+
+We do not include or offer third-party products or services on our website.
+
+ **Google**
 
   
 
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.  
+
+
+ **We have implemented the following:**
+
+ **•** Demographics and Interests Reporting
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+ **Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email within 1 business day
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+  
+
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **•** Send information, respond to inquiries, and/or other requests or questions.
+
+ **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+ **To be in accordance with CANSPAM we agree to the following:**
+
+ **•** NOT use false or misleading subjects or email addresses.
+
+ **•** Identify the message as an advertisement in some reasonable way.
+
+ **•** Include the physical address of our business or site headquarters.
+
+ **•** Monitor third-party email marketing services for compliance, if one is used.
+
+ **•** Honor opt-out/unsubscribe requests quickly.
+
+ **•** Allow users to unsubscribe by using the link at the bottom of each email.
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.  
+
+
+ **Contacting Us**
+
+  
+
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+BairesDev
+
+Bouchard 547, 20th floor
+
+C.A.B.A. 1106
+
+Argentina
+
+info@bairesdev.com
+
++54 11 5353 9840
+
+Last Edited on 2018-07-03
+
+**
