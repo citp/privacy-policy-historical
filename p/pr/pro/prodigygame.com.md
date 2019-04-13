@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodigygame.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607141551id_/https%3A//prodigygame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodigygame.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413103013id_/https%3A//www.prodigygame.com/privacy-policy) for the most accurate reproduction.*
 
 # Prodigy Math Game
 
@@ -13,8 +13,8 @@ In our commitment to protect the privacy of children, Prodigy participates in th
   * The California Student Privacy Act [(link)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB1177)
   * Collection of Student Information from Social Media (California Education Code 49073.6 Pupil Records: Social Media)
   * California AB 1584 - Privacy of Pupil Records: 3rd-Party Digital Storage & Education Software (California Education Code section 49073.1)
-  * The Protection of Pupil Rights Amendment [(PPRA)](http://familypolicy.ed.gov/ppra)
-  * The Student Online Personal Information Protection Act [(SOPIPA)](https://www.commonsensemedia.org/kids-action/our-issues/a-positive-media-and-technology-world/sopipa)
+  * The Protection of Pupil Rights Amendment (PPRA)
+  * The Student Online Personal Information Protection Act (SOPIPA)
   * The Health Insurance Portability and Accountability Act [(HIPAA)](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/) of 1996
 
 
