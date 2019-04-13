@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229175753id_/https%3A//bebrainfit.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413063549id_/https%3A//bebrainfit.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy - Terms of Use | Be Brain Fit
 
@@ -26,7 +26,9 @@ This kind of information is collected through the use of cookies. Cookies are sm
 
 The use of cookies allows us to improve our website based on your preferences and is a widely accepted industry practice of online businesses.
 
-If you do not wish to allow cookies, or would like to be notified when they are placed on your computer, you may set your web browser accordingly. See the help instructions of your browser to do this.
+If you do not wish to allow cookies, or would like to be notified when they are placed on your computer, you may set your web browser accordingly.
+
+See the help instructions of your browser to do this.
 
 ### Third-Party Ad Vendors
 
@@ -116,13 +118,19 @@ You acknowledge that you are solely responsible for your actions regarding the u
 
 BeBrainFit.com provides information about brain health and fitness to help visitors maintain and improve their cognitive and mental health.
 
-In providing this information, we also routinely provide convenient access to products that we think may help you achieve those goals. We do this through links to vendor websites where you can purchase these products.
+In providing this information, we also routinely provide convenient access to products that we think may help you achieve those goals.
+
+We do this through links to vendor websites where you can purchase these products.
 
 One of those is the Amazon Services LLC Associates Program (for the US), an affiliate advertising program that allows sites like ours to earn advertising fees by advertising and linking to Amazon.com.
 
-If you purchase a product on Amazon.com or another vendor’s website after clicking a link on our website, we will be paid a commission by the vendor for your purchase.
+BeBrainFit.com is also a participant in the Amazon EU Associates Programme (for the UK), an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to Amazon.co.uk, and in the Amazon Associates Program (for Canada), an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to Amazon.ca and affiliated sites.
 
-Whenever we do recommend a specific product, we give you our honest assessment of it. Our recommendation is based on either our assessment of the vendor and its product or our prior experience with the vendor and similar products made or sold by it.
+If you purchase a product on Amazon.com, Amazon.co.uk, Amazon.ca,  or another vendor’s website after clicking a link on our website, we will be paid a commission by the vendor for your purchase.
+
+Whenever we do recommend a specific product, we give you our honest assessment of it.
+
+Our recommendation is based on either our assessment of the vendor and its product or our prior experience with the vendor and similar products made or sold by it.
 
 Note that the cost of any product you buy on a vendor’s website through a link on our website is no higher than if you bypassed our link and bought the product on the vendor’s website directly.
 
@@ -130,4 +138,4 @@ Regardless of any mention or recommendation we make of a product on our website,
 
 ### Changes to These Terms of Use
 
-These terms of use were last updated on August 31, 2018.
+These terms of use were last updated on March 5, 2019.
