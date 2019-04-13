@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkvisual.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122095133id_/http%3A//www.pinkvisual.com/privacy/%3Frevid%3D57503%26campaign%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkvisual.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414004829id_/http%3A//www.pinkvisual.com/privacy/%3Frevid%3D57503%26campaign%3D) for the most accurate reproduction.*
 
 # Pink Visual- Milf Porn, Erotica, Mobile and Tech XXX
 
