@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smithsport.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117122807id_/http%3A//www.smithoptics.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsport.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413025950id_/https%3A//www.smithoptics.com/privacypolicy) for the most accurate reproduction.*
 
-# Smith Optics Privacy Policy | Smith Norway
+# Smith Optics Privacy Policy | Smith United States
 
 ## Privacy Policy
 
