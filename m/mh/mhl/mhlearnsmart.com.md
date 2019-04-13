@@ -1,18 +1,40 @@
-> *The following text is extracted and transformed from the mhlearnsmart.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628232647id_/http%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhlearnsmart.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413142845id_/http%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Center
 
-## Privacy Notice
+## Customer Data Privacy Notice
+
+* * *
+
+### Introduction
+
+Please note that this notice applies to individuals who visit McGraw-Hill Education (“MHE”) commercial web sites or otherwise interact with us as customers via our web sites, social media, or at events. As a customer, you may also be an end user. Please be sure to review our End User Privacy Notice regarding our privacy practices for end user PII. Our commercial web sites, such as mheducation.com, are not intended for use by minors below the age of 13. Privacy information for users of our digital learning systems, including those under the age of 13, can be found under the appropriate tabs (End User and Parents).
+
+McGraw-Hill Education is a global organization. We follow privacy laws and regulations that are applicable to our company and our services in the areas where we do business. By accessing our web sites or otherwise providing your personal information to McGraw-Hill Education, you acknowledge that we will process your PII in accordance with this notice.
+
+### **Questions? Contact us:**
+
+Any questions or complaints regarding this notice or the collection, use, disclosure, or transfer of PII (as defined below) covered by this notice should be directed to the McGraw-Hill Education Data Protection Officer. Please direct any questions or complaints to the Data Protection Officer by emailing [privacy@mheducation.com](mailto:privacy@mheducation.com) or calling +1-646-766-3199. If applicable, you may choose to lodge a complaint with your national data protection authority at any time. For local privacy contact information, please contact [McGraw-Hill Education’s Local Privacy Official](https://www.mheducation.com/privacy/customer-privacy-contacts.html).
+
+  
+
+
+* * *
+
+  
+
+
+### Privacy Notice
 
 _Effective May 9, 2018_
 
-**What is Personally Identifiable Information (PII)?**
+#### What is Personally Identifiable Information (PII)?
 
 Personally Identifiable Information, or PII, shall mean any information relating to an identified or identifiable natural person ("data subject") including personal data as defined under applicable local law. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. 
 
 * * *
 
-**What PII do we collect?**
+#### What PII do we collect?
 
 **We collect PII, such as contact information, education details, or payment information, in order to provide you with the product and/or service requested.**
 
@@ -20,16 +42,16 @@ We, or our service providers on our behalf, collect PII and other information wh
 
 Depending on the service or transaction, the PII we collect includes information from the following categories:
 
-  1. Name, initials or white page information
+  1. Name, initials or white page information 
     1. On our consumer web sites, we collect your name, initials or contact information when you create an account or purchase a product on our online store. We also collect your email address. We also collect this information if you connect with us via your social media account as an existing or potential customer.
-  2. Payment card industry data such as credit card number, billing address, etc.
+  2. Payment card industry data such as credit card number, billing address, etc. 
     1. If you make an online purchase from us, in addition to your name, we collect payment information through a third party website, which includes billing and shipping addresses and credit card data to process your transaction.
   3. Contests and Promotions 
     1. If you participate in a contest or promotion with McGraw-Hill Education, we collect your name, contact information, and other information necessary to enter the contest or participate in the promotion.
-  4. Communications
+  4. Communications 
     1. If you choose to communicate with or receive communications from MHE via phone, text, chat, email, or any other platform for technical support, customer service, or other assistance, those interactions may be recorded and monitored to deliver the service or information requested by you.
-  5. Third Party Marketing Lists
-    1. MHE also purchases and rents marketing lists from various providers including event management companies and education non-profits. 
+  5. Third Party Marketing Lists 
+    1. MHE also purchases and rents marketing lists from various providers including event management companies and education non-profits.
 
 
 
@@ -55,7 +77,7 @@ You can change your Web browser's Internet preferences to disable or delete cook
 
 * * *
 
-**How do we use PII and on what legal basis?**
+#### How do we use PII and on what legal basis?
 
 We will use PII to provide the requested service or to process transactions such as information requests or purchases in order to meet our contractual obligations to you. 
 
@@ -65,7 +87,7 @@ Except as described in this notice, we limit the use, collection, and disclosure
 
 * * *
 
-**Do we use your PII to market to you?**
+#### Do we use your PII to market to you?
 
 **Where we are permitted by law to do so, we will send electronic marketing communications to you as a customer, depending on your location, however you always have the option to change your marketing preferences.**
 
@@ -79,7 +101,7 @@ Please note, whatever preferences you select for marketing, you may still receiv
 
 * * *
 
-**When do we share your PII with third parties?**
+#### When do we share your PII with third parties?
 
 **In general, we only share your PII in order to provide, maintain, or improve our products or services, or respond to legal requests.**
 
@@ -87,7 +109,7 @@ Please note, whatever preferences you select for marketing, you may still receiv
   2. Business Transfer – In the event of a sale, merger or acquisition, we will be able to transfer your PII to a separate entity. We will use commercially reasonable efforts to require this entity to use your PII only for authorized purposes and by authorized persons in a manner consistent with the choices customers have made under this notice, and that security, integrity, and privacy of the information is maintained.
   3. Agents/Service providers – We hire other companies to perform certain business-related functions on our behalf and according to our instructions. We provide your PII to service providers that host our platform data in the cloud, for example, AWS.
   4. Affiliates – McGraw-Hill Education is a global corporation that consists of multiple organizations. We share your PII between organizations within McGraw-Hill Education to provide, maintain, and improve our products and services. A list of the companies within the MHE group is available at the following link: [Legal Entities List](https://s3.amazonaws.com/ecommerce-prod.mheducation.com/unitas/corporate/privacy/legal-entities-list.pdf).
-  5. Law Enforcement – In the event that McGraw-Hill Education receives a legal demand for customer data from a law enforcement agency, that request will only be honored if:
+  5. Law Enforcement – In the event that McGraw-Hill Education receives a legal demand for customer data from a law enforcement agency, that request will only be honored if: 
     1. The request complies with all laws and clearly establishes the legal need for disclosure.
     2. The request is related to a specific investigation and specific user accounts are implicated in that investigation.
     3. Whenever legally permissible, users shall receive notice that their information is being requested.
@@ -98,7 +120,7 @@ MHE reserves the right to disclose to third parties non-personally identifiable 
 
 * * *
 
-**What privacy controls and choices do we offer you?**
+#### What privacy controls and choices do we offer you?
 
 **You have the rights to access, export, be informed about, rectify, object to the further processing of, restrict the processing of, and withdraw consent to the processing of, and erase your PII.**
 
@@ -112,11 +134,11 @@ MHE reserves the right to disclose to third parties non-personally identifiable 
 
 
 
-To exercise any of your data subject rights, you should fill in a [Data Request Form](https://www.mheducation.com/privacy/privacy-request-form) or contact [McGraw-Hill Education's Local Privacy Official](https://content/corp/en_us/privacy/customer-privacy-contacts.html).
+To exercise any of your data subject rights, you should fill in a [Data Request Form](https://www.mheducation.com/privacy/privacy-request-form) or contact [McGraw-Hill Education's Local Privacy Official](https://www.mheducation.com/privacy/customer-privacy-contacts.html).
 
 * * *
 
-**How do we protect your PII?**
+#### How do we protect your PII?
 
 **Our IT security team has established industry standard security measures to protect your PII from unauthorized access and use.**
 
@@ -124,7 +146,7 @@ MHE takes reasonable precautions to protect your information. When you submit pe
 
 * * *
 
-**How long do we retain your data?**
+#### How long do we retain your data?
 
 We will retain your data for the minimum amount of time necessary to accomplish the purpose for which it was collected, and thereafter no longer than is permitted under MHE’s data retention policies. We will retain and use your data as necessary to comply with our obligations, resolve disputes and enforce agreements. 
 
@@ -132,7 +154,7 @@ For information on the retention period that applies, reach out to the Privacy O
 
 * * *
 
-**When do we store, transfer or process PII internationally?**
+#### When do we store, transfer or process PII internationally?
 
 **McGraw-Hill Education is a global organization. Depending on your location, and the product or service, your information may be stored and processed within secure data centers at one or many of our locations. MHE has committed to meeting the requirements of local data protection laws, including EU law, to the extent required. If your data is stored locally, then your local laws prevail.**
 
