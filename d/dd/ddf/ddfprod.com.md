@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ddfprod.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228184921id_/https%3A//ddfnetwork.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddfprod.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413115725id_/https%3A//ddfnetwork.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-By logging on and using the Site, you agree to and accept our privacy policy. We understand that sharing your personal information with us over the internet requires trust. We value your trust very highly, and pledge to you that we will protect the security and privacy of any personal information you provide to us through our websites. This includes your name, address, phone number, email address, and any other personal information that can be linked to you. We will collect and use information about your preferences and browsing habits to help personalize your experience on the website. In case you do not agree with this, please contact us: client@ddfnetwork.com
+By logging on and using the Site, you agree to and accept our privacy policy. We understand that sharing your personal information with us over the internet requires trust. We value your trust very highly, and pledge to you that we will protect the security and privacy of any personal information you provide to us through our websites. This includes your name, address, phone number, email address, and any other personal information that can be linked to you. We will collect and use information about your preferences and browsing habits to help personalize your experience on the website. In case you do not agree with this, please contact us: client@webgroup-limited.com
 
   
 
@@ -13,9 +13,9 @@ We collect personal information that you choose to provide voluntarily when join
 
 We never sell or rent your personal information to any third parties under any circumstances. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. By accessing and using our Site, you signify your consent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Site or contact us for adaptation in the limit of our possibilities.
 
-Upon request we will deliver you a report of your personal information and all datas related to you collected by us. If your personal information is incorrect or incomplete, you have the right to ask us to update it. For that purpose contact us at : client@ddfnetwork.com. You also have the right to ask us to modify the processing of your personal information. You can also ask us to delete or restrict how we use your personal information, but this right may impact your access to some of our Services
+Upon request we will deliver you a report of your personal information and all datas related to you collected by us. If your personal information is incorrect or incomplete, you have the right to ask us to update it. For that purpose contact us at : client@webgroup-limited.com. You also have the right to ask us to modify the processing of your personal information. You can also ask us to delete or restrict how we use your personal information, but this right may impact your access to some of our Services
 
-To claim one of these above mentioned rights, or just get additional informations please contact us: client@ddfnetwork.com
+To claim one of these above mentioned rights, or just get additional informations please contact us: client@webgroup-limited.com
 
   
 
@@ -39,7 +39,7 @@ When you visit or interact with our sites, services, applications, tools or mess
 
 To use the website without cookies, you can configure your browser to reject all cookies or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
 
-In case you do not authorise any cookie and you do not wish to use the cookie preference of your browser please contact us here to get access to our services without cookies. In case you do not agree with this, please contact us by email: client@ddfnetwork.com
+In case you do not authorise any cookie and you do not wish to use the cookie preference of your browser please contact us here to get access to our services without cookies. In case you do not agree with this, please contact us by email: client@webgroup-limited.com
 
   
 
@@ -90,7 +90,7 @@ We communicate with users on a regular basis to provide requested services and i
 
 ## Choice/Opt-out
 
-Our users are given the opportunity to 'opt-out' of receiving Special Offers, Updates, and Newsletters. Users who no longer wish to receive emails of this nature, may opt-out of receiving these communications by clicking on the Unsubscribe link included in the emails or directly emailing us at : Client@ddfnetwork.com
+Our users are given the opportunity to 'opt-out' of receiving Special Offers, Updates, and Newsletters. Users who no longer wish to receive emails of this nature, may opt-out of receiving these communications by clicking on the Unsubscribe link included in the emails or directly emailing us at : client@webgroup-limited.com
 
 ## Changes to Our Privacy Policy
 
@@ -116,4 +116,4 @@ If you have comments or questions regarding our privacy policy, please contact u
 
 DDFNETWORK is a site of DDF Communications, s.r.o. Krakovská 1366/25, Nové Město, 110 00 Praha 1
 
-DDF Network is the Ultimate European porn videos hub with exclusive VR, 4K and full HD XXX videos for 2018 
+DDF Network is the Ultimate European porn videos hub with exclusive 5K VR, 4K and full HD XXX videos for 2019 
