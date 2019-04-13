@@ -1,411 +1,657 @@
-<!--The following is the downloaded HTML source of the postloop.com privacy policy that was archived on 2017-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170427124958id_/http%3A//www.postloop.com/pages/terms%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the postloop.com privacy policy that was archived on 2019-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190413123351id_/https%3A//www.postloop.com/terms%23privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<title>
-		Terms &amp; Conditions | Postloop Forum Post Exchange and Blog Comment Exchange
-	</title>
-	<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
-	<link rel="stylesheet" type="text/css" href="/css/cake.generic-2.1.css">
-	<link rel="stylesheet" type="text/css" href="/css/jquery.qtip.css">
-	<link rel="stylesheet" type="text/css" href="/css/jquery-smoothness.css">
-	<link rel="stylesheet" type="text/css" href="/css/custom_tabs.css">
-	<link rel="stylesheet" type="text/css" href="/css/cake.custom-2.1.css">
+<!DOCTYPE html><html lang="en"><head>
+    <title>Terms &amp; Conditions</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/js/jquery.js"></script>
-	<script type="text/javascript" src="/js/jquery-ui.js"></script>
-	<script type="text/javascript" src="/js/jquery.qtip.min.js"></script>
+    <!-- @todo: fill with your company info or remove -->
+    <meta name="description" content="Terms &amp; Conditions">
+    <meta name="author" content="Postloop">
+    <meta name="msvalidate.01" content="9F635A6D515B86B9A64DCB8A7F339DB2">
 
-    <!-- qTip Tooltip -->
-    <script type="text/javascript">
-        $(document).ready(function()
-        {
-           $('a[title]').qtip({
-               style: {
-                    classes: 'ui-tooltip-dark ui-tooltip-shadow ui-tooltip-rounded'
-                },
-   position: {
-      viewport: $(window)
-   }
-           });
-           $('img[title]').qtip({
-               style: {
-                    classes: 'ui-tooltip-dark ui-tooltip-shadow ui-tooltip-rounded'
-                },
-   position: {
-      viewport: $(window)
-   }
-           });
-           $('span[title]').qtip({
-               style: {
-                    classes: 'ui-tooltip-dark ui-tooltip-shadow ui-tooltip-rounded'
-                },
-   position: {
-      viewport: $(window)
-   }
-           });
-           $('button[title]').qtip({
-               style: {
-                    classes: 'ui-tooltip-dark ui-tooltip-shadow ui-tooltip-rounded'
-                },
-   position: {
-      viewport: $(window)
-   }
-           });
-        });
-    </script>
+    <!-- Bootstrap 4.0.0-alpha.6 CSS via CDN -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
 
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $('img').click(function() {
-                var id = $(this).attr('id');
-                var title = $(this).attr('title');
-                var oldtitle = $(this).attr('oldtitle');
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+	
+    <!-- Plugins required on all pages NOTE: Additional non-required plugins are loaded ondemand as of AppStrap 2.5 -->
 
-                // Use an OR because jQuery (qtip to be exact?) renames "title" attributes to "oldtitle"
-                // sliders will not work if clicking on a popup first
-                if(title === 'Subscribe' || oldtitle === 'Subscribe') {
-                    $('#sub_rules_' + id).slideToggle(200);
-                    $('#info_' + id).slideUp(200);
-                    $('#subscribe_' + id).slideUp(200);
-                    return false;
-                }
+    <!-- Theme style -->
+    <link href="https://www.postloop.com/assets/css/theme-style.1549760865.css" rel="stylesheet">
 
-                // Use an OR because jQuery (qtip to be exact?) renames "title" attributes to "oldtitle"
-                // sliders will not work if clicking on a popup first
-                if(title === 'More Information' || oldtitle === 'More Information') {
-                    $('#info_' + id).slideToggle(200);
-                    $('#sub_rules_' + id).slideUp(200);
-                    $('#subscribe_' + id).slideUp(200);
-                    return false;
-                }
-            });
+    <!--Your custom colour override-->
+    <link href="https://www.postloop.com/assets/css/colour-blue.1549760865.css" id="colour-scheme" rel="stylesheet">
 
-            $('a').click(function() {
-                var id = $(this).attr('id');
-                var title = $(this).attr('title');
-                var oldtitle = $(this).attr('oldtitle');
-                var rel = $(this).attr('rel');
 
-                // Use an OR because jQuery (qtip to be exact?) renames "title" attributes to "oldtitle"
-                // sliders will not work if clicking on a popup first
-                if(title === 'Subscribe' || oldtitle === 'More Information') {
-                    $('#subscribe_' + id).slideToggle(200);
-                    $('#sub_rules_' + id).slideUp(200);
-                    $('#info_' + id).slideUp(200);
-                    return false;
-                }
+    <!-- Your custom override -->
+    <link href="https://www.postloop.com/assets/css/custom-style.1549760865.css" rel="stylesheet">
 
-                if(rel === 'faq') {
-                    var name = $(this).attr('name');
-                    $('#faq_' + name).slideToggle(200);
-                }
-            });
-
-            $('input').click(function() {
-                var title = $(this).attr('title');
-
-                if(title === 'Trigger') {
-                    $('#daily').slideToggle(200);
-                    $('#minimum_balance').slideUp(200);
-                    return false;
-                }
-            });
-        });
-    </script>
-
-    <!-- User Popups -->
-    <script type="text/javascript">
-	$(document).ready(function () {
-            var $dialog;
-		$('.userPopup').click(function () {
-
-                    // This works locally with IE but not on the server...so let's direct straight to profile
-                    if(navigator.appName === 'Microsoft Internet Explorer') {
-                        window.location = 'http://www.postloop.com/users/view/' + $(this).attr('userpopupid');
-                        return false;
-                    }
-			var $link = $(this);
-			$dialog = $('<div></div>').load($link.attr('href')).dialog({
-				title: $link.attr('username'),
-				width: 500,
-				height: 210,
-                                modal: true,
-                                resizable: false,
-                                show: 'fade',
-                                title: $link.attr('username'),
-                                open: function(event, ui) {
-                                    jQuery('.ui-dialog-titlebar-close').hide();
-                                    jQuery('.ui-dialog-titlebar').hide();
-                                }
-			});
-                        return false
-		});
-
-                $(".ui-widget-overlay").live("click", function() {  $dialog.dialog("close"); } );
-	});
-    </script>
-    <!-- User Popups -->
     
-    <!-- Facebook Like -->
-    <script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head><body><div id="fb-root"></div>
-	<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-    <!-- Facebook Like -->
+    
+    
+    
+        
+	
+	
+    <!-- Optional: ICON SETS -->
+    <!-- Iconset: Font Awesome 4.7.0 via CDN -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Iconset: flag icons - http://lipis.github.io/flag-icon-css/ -->
+    <link href="https://www.postloop.com/assets/plugins/flag-icon-css/css/flag-icon.min.css" rel="stylesheet">
+    <!-- Iconset: ionicons - http://ionicons.com/ -->
+    <link href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
+    <!-- Iconset: Linearicons - https://linearicons.com/free -->
+    <link href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css" rel="stylesheet">
 
-    <!-- Google +1 -->
-    <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
-    <!-- Google +1 -->
+
+	
+
+    <!-- Le fav and touch icons - @todo: fill with your icons or remove -->
+    <link rel="shortcut icon" href="https://www.postloop.com/assets/img/icons/32x32.png">
+    <link rel="apple-touch-icon" sizes="128x128" href="https://www.postloop.com/assets/assets/img/icons/128x128.png">
+    <link rel="apple-touch-icon" sizes="48x48" href="https://www.postloop.com/assets/assets/img/icons/48x48.png">
+    <link rel="apple-touch-icon" href="https://www.postloop.com/assets/assets/img/icons/128x128.png">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Rambla" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Calligraffitti" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" type="text/css">
+
+    <!--Plugin: Retina.js (high def image replacement) - @see: http://retinajs.com/-->
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/retina.js/1.3.0/retina.min.js"></script>
 
 
-    <div id="outer">
-	<div id="container">
-		<div id="header">
-                    <div id="logo">
-                        <a href="/"><img src="/img/logo.gif" alt="Postloop"></a>
+  </head>
+
+  <!-- ======== @Region: body ======== -->
+  <body class="page header-dark page-header-bottom navbar-layout-default">
+
+    <!-- @plugin: page loading indicator, delete to remove loader -->
+        <div class="page-loader" data-toggle="page-loader"></div>
+    
+    <a href="#content" id="top" class="sr-only">Skip to content</a>
+
+    
+    <!-- ======== @Region: #header ======== -->
+    <div id="header">
+
+      <div data-toggle="sticky">
+
+        <!--Header search region - hidden by default -->
+        <div class="header-search collapse" id="search">
+          <form class="search-form container">
+            <input type="text" name="search" class="form-control search" value="" placeholder="Search">
+            <button type="button" class="btn btn-link"><span class="sr-only">Search </span><i class="fa fa-search fa-flip-horizontal search-icon"></i></button>
+            <button type="button" class="btn btn-link close-btn" data-toggle="search-form-close"><span class="sr-only">Close </span><i class="fa fa-times search-icon"></i></button>
+          </form>
+        </div>
+
+        <!--Header & Branding region-->
+        <div class="header">
+			<div class="header-inner container">
+            <!--branding/logo -->
+            <div class="header-brand flex-first">
+              <a class="header-brand-text" href="https://www.postloop.com/" title="Home">
+                <img src="https://www.postloop.com/assets/img/postloop-white-text-noslogan.png" alt="Postloop">
+              </a>
+              <div class="header-divider hidden-md-down"></div>
+              <div class="header-slogan hidden-md-down">Premium website content</div>
+            </div>
+
+			 <!-- other header content -->
+            <div class="header-block flex-last">
+
+              <!--Search trigger -->
+              <a href="#search" class="btn btn-icon btn-link text-white header-btn float-right flex-last" data-toggle="search-form" data-target=".header-search"><i class="fa fa-search fa-flip-horizontal search-icon"></i></a>
+              <!-- mobile collapse menu button - data-toggle="collapse" = default BS menu - data-toggle="jpanel-menu" = jPanel Menu - data-toggle="overlay" = Overlay Menu -->
+              <a href="#top" class="btn btn-link btn-icon text-white header-btn float-right hidden-lg-up" data-toggle="jpanel-menu" data-target=".navbar-main" data-direction="right"> <i class="fa fa-bars"></i> </a>
+            </div>
+
+            <div class="navbar navbar-toggleable-md">
+              <!--everything within this div is collapsed on mobile-->
+              <div class="navbar-main collapse">
+                <!--main navigation-->
+                <ul class="nav navbar-nav navbar-inverse float-lg-right dropdown-effect-fade">
+                  <!-- Homepages -->
+                  <li class="nav-item">
+                    <a href="/" class="nav-link dropdown-toggle" id="indexs-drop" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false"> <i class="fa fa-home nav-link-icon"></i> <span class="hidden-xs-up">Home</span> </a>
+                    <div class="dropdown-menu" role="menu" aria-labelledby="indexs-drop">
+                      <a href="/" class="dropdown-item">Home</a>
+                      <a href="https://www.postloop.com/how_it_works" class="dropdown-item">How it Works</a>
+                      <a href="https://www.postloop.com/testimonials" class="dropdown-item">Testimonials</a>
+
+
+                      <h4 class="dropdown-header">
+                            Community                      </h4>
+
+                      <div class="dropdown dropdown-submenu dropdown-menu-right">
+                        <a href="https://www.postloop.com/portal/" class="dropdown-item dropdown-toggle" id="slider-drop" data-toggle="dropdown" data-hover="dropdown" data-close-others="false">The Portal</a>
+                        <!-- Portal -->
+                        <div class="dropdown-menu">
+
+                          <a href="https://www.postloop.com/portal/" class="dropdown-item">Community Home</a>
+                          <a href="https://www.postloop.com/portal/find-new/threads" class="dropdown-item">New Threads</a>
+                          <a href="https://www.postloop.com/portal/find-new/threads" class="dropdown-item">New Posts</a>
+
+                          <h4 class="dropdown-header">
+                            Community Support                      	  </h4>
+                      	  <a href="https://www.postloop.com/portal/#postloop-discussion.30" class="dropdown-item">Postloop Discussion</a>
+                        </div>
+                      </div>
+
+                      <h4 class="dropdown-header">
+                            Support                      </h4>
+                      <a href="https://www.postloop.com/contact" class="dropdown-item">Contact Us</a>
+					  <a href="https://www.postloop.com/frequently_asked_questions" class="dropdown-item">FAQ</a>
+					  <a href="https://www.postloop.com/about" class="dropdown-item">About Us</a>
+
+
                     </div>
-                        <div id="navigation">
-    <a href="/">home</a>    <a href="/how_it_works">how it works</a>    <a href="/users/sign_up">join</a>    <a href="/sites/forums/all">forums</a>    <a href="/sites/blogs/all">blogs</a>    <a href="http://www.postloop.com/support">support</a>    <a href="/users/login">login</a>        </div>		</div>
-		<div id="content">
-                        
-                        
-			
-			
-<div class="">
-    <h2>Usage Agreement</h2>
+                  </li>
 
-    <p>The following information (Terms of Use and Privacy Policy) are intended to inform you of policies
-        and procedures that you agree to follow through use of Postloop services as well as details on
-        any and all information that Postloop gathers from you and how such information is maintained. Your
-        use of our services constitutes acknowledgement and acceptance of all information contained herein:</p>
-    <br>
-    <h2>Terms of Use</h2>
-    <h4>All Users</h4>
-    <ul class="dotted">
-        <li>Postloop is released as-is, with no warranty.</li>
-        <li>By participating in Postloop, you do so at your own risk.</li>
-        <li>Each individual person is permitted <strong>one</strong> Postloop account.</li>
-        <li>You may not attempt to buy, sell, or transfer your Postloop account or Postloop points, whether via
-            Postloop.com or any external means.</li>
-        <li>You may not bribe, incentivize, or otherwise instruct Postloop writers to include your
-            own promotion material in content that they contribute to Postloop.</li>
-        <li>Any attempt to alter, tamper with, or otherwise adversely affect the collection process
-            is strictly prohibited.</li>
-        <li>Postloop is not responsible for the misuse of the files provided.</li>
-        <li>Information collected and displayed via postloop.com or any related subsidiary is for
-            the use of Postloop management only.</li>
-        <li>Postloop management reserves the right to revoke your access to any Postloop services with
-            or without cause and with or without notice.</li>
-        <li>Unauthorised use of this website may give rise to a claim for damages and/or be a
-            criminal offense.</li>
-        <li>Your use of this website and any dispute arising out of such use of the website is
-            subject to the laws of the United States.</li>
-        <li>If found in violation of any of the above guidelines, you will be subject to removal from
-            Postloop services.</li>
-    </ul>
-    <br>
-    <h4>Site Owners</h4>
-    <ul class="dotted">
-        <li>All sites submitted to Postloop must be in the English language.</li>
-        <li>Sites containing any of the following material may not be submitted to Postloop: adult, illegal, hacking, 
-            criminal,
-            drugs,
-            weapons, violence, hate, or otherwise questionable material. This is left up to the sole discretion of
-        Postloop management.</li>
-        <li>All sites submitted to Postloop must have a clear topic and section/category structure
-            prior to submission.</li>
-        <li>A site may not be submitted to Postloop twice unless the existing listing is first deactivated.</li>
-        <li>The modification of the Postloop tracking file (postloop.php) is strictly prohibited
-            unless instructed otherwise by Postloop management alone.</li>
-    </ul>
-    <br>
-    <h4>Content Writers</h4>
-    <ul class="dotted">
-        <li>All content contributed to Postloop must be in the English language.</li>
-        <li>Content submitted to Postloop must be original. Content may not be copied from
-        any other website and submitted to Postloop, even if the source content is your own.</li>
-        <li>All content contributed to Postloop must be of high quality. A repeated history of
-        low quality content will result in suspension.</li>
-        <li>You may not include promotional material in content that you contribute via Postloop unless
-        it is your own.</li>
-    </ul>
-    <br>
-    <h4>Deposit Terms</h4>
-    <p>The following rules apply to the buying of points ("Deposits") via Postloop.</p><br>
-    <ul class="dotted">
-        <li>Points are only to be purchased from Ionicware, Inc via Postloop.com.</li>
-        <li>Most deposits are received and processed immediately, although some deposits are held for 
-            manual review by Postloop management. If your deposit is held for manual review, your payment
-            from PayPal will be processed immediately, but you will not receive your points at Postloop
-             until approved by Postloop staff. This will usually happen
-        within a few hours but may be up to 24 hours depending on time of day.</li>
-        <li>Postloop management reserves the right to refuse any purchase with or without cause. If
-        a purchase is refused, payment will be returned.</li>
-        <li>Refunds are not allowed under <strong>any</strong> circumstances. It is your
-            responsibility to review all Terms &amp; Conditions stated herein
-            and monitor your own forums accordingly.</li>
-        <li>If you file a chargeback or payment reversal, your account and forums will
-            be banned from Postloop forever.</li>
-    </ul>
+                  <li class="nav-item">
+                      <!--<a href="https://www.postloop.com/get/content" class="nav-link">Get Content</a> BETA REMOVED -->
+					  <!-- <a href="https://www.postloop.com/sites/my" class="nav-link">Get Content</a> -->
+                  </li>
 
-    <br>
-    <h4>Withdrawal Terms</h4>
-    <p>The following rules apply to the selling of points ("Withdrawals") via Postloop.</p><br>
-    <ul class="dotted">
-        <li>Points are only to be sold to Ionicware, Inc via Postloop.com.</li>
-        <li><strong>Payment will not be issued immediately.</strong> All withdrawal requests undergo
-                    review by Postloop staff. This will usually be completed within a few hours
-                    but can take up to 24 hours depending on circumstances and time of day.</li>
-                    <li>Your points balance will be subtracted from immediately, before you receive
-                    payment.</li>
-                    <li>Postloop management reserves the right to refuse any withdrawal request
-                    with or without cause. In the event that a withdrawal request is denied, any
-                    points removed during your request will be returned.</li>
-                    <li>Review all Terms &amp; Conditions stated herein
-            prior to requesting withdrawal. If you are found in violation of any Terms &amp; Conditons,
-                    your withdrawal request will be denied, and you will be subject to removal from
-                    Postloop forever.</li>
-                    <li>Postloop is not responsible for reporting your taxable income. You must
-                    follow the appropriate laws for your country or territory. <strong>An exception to this rule
-                        is made in event that you are a US citizen receiving more than $600 in payment from Postloop
-                    in one year.</strong> If this is the case, Postloop is required by law to report your
-                    earnings to the IRS. Postloop will personally notify you before this happens.
-                    </li>
-    </ul>
+                  <li class="nav-item">
+                      <!-- <a href="https://www.postloop.com/write/content" class="nav-link">Write Content</a>  BETA REMOVED -->
+					  <!-- <a href="https://www.postloop.com/sites" class="nav-link">Write Content</a> -->
+                  </li>
 
-    <br>
-    <a name="privacy"></a>
-    <h2>Privacy Policy</h2>
+                  <li class="nav-item">
+					  <a href="https://www.postloop.com/users/sign_up?r=L2RlcG9zaXQ=" class="nav-link">Pricing</a>
+                  </li>
 
-    <p>This privacy policy is intended to inform you, the Postloop user, of Postloop's information
-        management practices including the types of information gathered, how this information is
-        used and safeguarded, and the degree to which you may control the maintenance and sharing
-        of your information.</p>
-    <br>
 
-    <p>Prior to joining Postloop, you will be required to provide your email address. This is only
-        visible to Postloop management and is not available or provided to any third parties or solicitors
-        under any circumstances. You may periodically receive email communication from Postloop management,
-        which you are able to opt out of. Postloop will also track and record the IP Address
-        of all visitors to postloop.com for security purposes. This, too, will never be available or provided to any
-        third parties or solicitors.</p>
-    <br>
-    <p>Prior to listing your forum at Postloop, you will be required to provide the following information on
-        your forum: Forum name, URL, description, and software version. All of this information will be
-        visible and available for public use, without limitation. When another Postloop user joins your 
-        forum, Postloop will request their username and email address. The username will be saved by Postloop
-        but the email address will not. Postloop requests the email address to verify ownership of the
-        account. Postloop.com will take that username and email address and retrieve the corresponding user id 
-        from your forums. The username and id are later used to track the
-        number of posts submitted to your forums. Username, User ID, and Post Count are the only pieces of information
-        that are extracted from your forums via the Postloop tracking service. This information will be collected
-        and stored in the Postloop database but will not be accessible by anybody other than yourself and Postloop
-        staff. This information will never be available or provided to any third parties or solicitors.
-        No personally identifiable information will be collected by Postloop from your forums.</p>
-    <br>
-    <p>Prior to requesting payment via PayPal, you will be asked to provide your Name, Address, and Phone Number.
-    This information is not available to the public and is used by Postloop management for its own accounting. This
-    personally identifiable information is not be provided to any third parties or solicitors.</p>
-    <br>
-    <p>When buying or selling points via Postloop, your PayPal email address, transaction amount, and transaction ID
-    will be collected and stored by Postloop for historical reasons. This information is visible by Postloop
-    management alone and is not available or provided to any third parties or solicitors
-        under any circumstances.</p>
-    <br>
-    <p>Any information labeled as available to the public can be collected, correlated, and used by
-        third parties, and may result in unsolicited messages from other posters or third parties.
-        Such activities are beyond the control of Postloop and are not subject to this Privacy Policy.</p>
-    <br>
-    <p>All personally identifiable information can be removed from public view at the request of the owner, however
-    this information will remain in the Postloop data repository for purposes of ongoing operation. Only at the discretion
-    of Postloop management or at the request from the proper authorities will data be removed from the Postloop
-    data repository.</p>
-    <br>
-    <p><em>The information on this page is subject to change, with or without notice. It is your
-        responsibility to check this agreement periodically for any changes. Your continued use of or
-        access to the website following the posting of any changes to this agreement constitutes
-        acceptance of those changes.</em></p>
-    <br>
-    <h3>Change Log</h3>
-    <p><em>04/14/2012 - Modified policy on Deposit processing: Most deposits are received and processed immediately, although some deposits are held for
-            manual review by Postloop management. If your deposit is held for manual review, your payment
-            from PayPal will be processed immediately, but you will not receive your points at Postloop
-             until approved by Postloop staff. This will usually happen
-        within a few hours but may be up to 24 hours depending on time of day.</em></p>
-        <p><em>03/08/2012 - Added: You may not bribe, incentivize, or otherwise instruct Postloop writers to include your
-            own promotion material in content that they contribute to Postloop.</em></p>
-        <p><em>03/08/2012 - Added: Content Writers: You may not include promotional material in content that
-                you contribute via Postloop unless it is your own</em></p>
-        <p><em>02/29/2012 - Added: Stipulation to Withdrawal Rules that Postloop will report earnings to the IRS
-                for any US citizens receiving more than $600 in one year</em></p>
-        <p><em>02/29/2012 - Added: Name, Address, and Phone Number are to be collected with Withdrawals</em></p>
-        <p><em>06/13/2011 - Added: User ID is now collected and stored for each Postloop user that joins a participating forum</em></p>
-</div>
-		</div>
-	</div>
-    </div>
-    <div id="footer">
-        <div id="footer-box">
-            <div id="footer-content">
-    <div class="left" id="footer-left">
-        <span class="footer-title">Links</span>
-        <div class="clear">
-            <ul class="footer-list">
-                <li><a href="/">home</a></li>
-                <li><a href="/about">about</a></li>
-                <li><a href="/pages/frequently_asked_questions">faq</a></li>
-                <li><a href="/testimonials">testimonials</a></li>
-                <li><a href="/contact">contact</a></li>
-                            </ul>
+				  <li class="nav-item">
+                      <!-- <a href="https://www.postloop.com/write/content" class="nav-link">Write Content</a>  BETA REMOVED -->
+					  <a href="https://www.postloop.com/sites" class="nav-link">Sites</a>
+                  </li>
+
+                  <!-- Elements/shortcodes
+                  <li class="nav-item dropdown dropdown-mega-menu dropdown-mega-menu-75">
+                    <a href="#" class="nav-link dropdown-toggle" id="shop-drop" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false">Jobs</a>
+
+                    <div class="dropdown-menu dropdown-menu-right">
+                      <div class="row">
+                        <div class="col-lg-6">
+                          <h3 class="dropdown-header mt-0 pt-0">
+                            Jobs                          </h3>
+
+                          <a href="https://www.postloop.com/sites/all" class="dropdown-item">Forums &amp; Sites</a>
+                          <a href="https://www.postloop.com/write/content" class="dropdown-item">Articles</a>
+						  <a href="https://www.postloop.com/write/translation" class="dropdown-item">Translation</a>
+
+                        </div>
+                        <div class="col-lg-6 hidden-md-down">
+                          <h3 class="dropdown-header mt-0 pt-0">
+                            Featured <span class="badge badge-primary text-uppercase">Jobs</span>
+                          </h3>
+                          <div class="dropdown-widget">
+                            <div class="products-carousel owl-nav-over owl-carousel owl-loaded owl-drag" data-toggle="owl-carousel" data-owl-carousel-settings="{&quot;items&quot;: 1,&quot;responsive&quot;:{&quot;0&quot;:{&quot;items&quot;:1,&quot;nav&quot;:true, &quot;dots&quot;:false}}}">
+
+
+
+                            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: 0s; width: 1191px;"><div class="owl-item active" style="width: 397px;"><a href="#">
+                                <img src="https://www.postloop.com" alt="Item 1 image" class="lazyOwl img-fluid">
+                              </a></div><div class="owl-item" style="width: 397px;"><a href="#">
+                                <img src="https://www.postloop.com/assets/img/shop/jacket-2.jpg" alt="Item 2 image" class="lazyOwl img-fluid">
+                              </a></div><div class="owl-item" style="width: 397px;"><a href="#">
+                                <img src="https://www.postloop.com/assets/img/shop/jacket-3.jpg" alt="Item 3 image" class="lazyOwl img-fluid">
+                              </a></div></div></div><div class="owl-nav"><div class="owl-prev disabled">prev</div><div class="owl-next">next</div></div><div class="owl-dots disabled"></div></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </li>  BETA REMOVED -->
+
+
+                  
+                      <li class="nav-item">
+                      	<a href="https://www.postloop.com/users/sign_up" class="btn btn-success btn-sm btn-rounded text-uppercase font-weight-bold px-3 ml-1 mt-3">Sign Up</a>
+					  </li>
+					  <li class="nav-item">
+                      	<a href="https://www.postloop.com/users/login" class="btn btn-primary btn-sm btn-rounded text-uppercase font-weight-bold px-3 ml-0 mt-3">Login</a>
+					  </li>
+
+					  
+
+
+                    </ul></div>
+                  
+                
+              </div>
+              <!--/.navbar-collapse -->
+            </div>
+
+
+
+          </div>
+
         </div>
-    </div>
+      </div>
+    
 
-    <div class="left" id="featured-partner-outer">
-        <span class="footer-title">Social Media</span>
-        <div class="clear">
-            <ul class="footer-list">
-               
-            </ul>
+   <!-- ======== @Region: #content ======== -->
+
+    <div id="content">
+      <div class="container">
+	      <div class="row">
+	      
+	      <!-- sidebar -->
+<div class="col-md-3">
+	
+	<div class="nav-section-menu mt-0">
+	  <div class="nav nav-list">
+	    <span class="nav-header"></span> 
+	    	    <a href="https://www.postloop.com/users/sign_up" class="nav-link">Sign Up	    	<small>Your dashboard</small>
+			<i class="fa fa-angle-right"></i>
+	    </a>
+	    	    <a href="https://www.postloop.com/frequently_asked_questions" class="nav-link ">
+	      FAQ<small>Get answers</small>
+	      <i class="fa fa-angle-right"></i>
+	    </a>
+	    <a href="https://www.postloop.com/how_it_works" class="nav-link ">
+		    How Postloop works		    <small>The Postloop process</small>
+			<i class="fa fa-angle-right"></i>
+	    </a>
+	    <a href="https://www.postloop.com/testimonials" class="nav-link ">Testimonials		    <small>What others are saying</small>
+			<i class="fa fa-angle-right"></i>
+	    </a>
+	    <a href="https://www.postloop.com/portal" class="nav-link">Community Forums		    <small>Our community forum</small>
+			<i class="fa fa-angle-right"></i>
+	    </a>
+	    <a href="https://www.postloop.com/about" class="nav-link ">About Us		    <small>Learn about Postloop &amp; Ionicware</small>
+			<i class="fa fa-angle-right"></i>
+	    </a>
+	    <a href="https://www.postloop.com/contact" class="nav-link ">Contact Us		    <small>Get in touch with us</small>
+			<i class="fa fa-angle-right"></i>
+	    </a>
+	    <a href="https://www.postloop.com/terms" class="nav-link active">Terms &amp; Conditions		    <small>The legal stuff</small>
+			<i class="fa fa-angle-right"></i>
+	    </a>
+	    <a href="https://www.postloop.com" class="nav-link">
+	      Return Home<small>Return Home</small>
+	      <i class="fa fa-angle-right"></i>
+	    </a>
+	   </div>
+	</div>	
+		
+</div>	      
+	      <div class="col-md-9">
+			
+		      <div class="alert" id="halertheader" role="alert" style="display: none;"><span id="halerttext"></span></div>		      
+		      <div>
+				<h2 class="title-divider">
+			      <span>Terms <span class="font-weight-normal text-muted">of Service</span></span>
+			      <small></small>
+			    </h2>
+			
+			    <p>The following information (Terms of Use and Privacy Policy) are intended to inform you of policies
+			        and procedures that you agree to follow through use of Postloop services as well as details on
+			        any and all information that Postloop gathers from you and how such information is maintained. Your
+			        use of our services constitutes acknowledgement and acceptance of all information contained herein:</p>
+			    <br>
+			    <h4>All Users</h4>
+			    <ul class="dotted">
+			        <li>Postloop is released as-is, with no warranty.</li>
+			        <li>By participating in Postloop, you do so at your own risk.</li>
+			        <li>Each individual person is permitted <strong>one</strong> Postloop account.</li>
+			        <li>You may not attempt to buy, sell, or transfer your Postloop account or Postloop points, whether via
+			            Postloop.com or any external means.</li>
+			        <li>You may not bribe, incentivize, or otherwise instruct Postloop writers to include your
+			            own promotion material in content that they contribute to Postloop.</li>
+			        <li>Any attempt to alter, tamper with, or otherwise adversely affect the collection process
+			            is strictly prohibited.</li>
+			        <li>Postloop is not responsible for the misuse of the files provided.</li>
+			        <li>Information collected and displayed via postloop.com or any related subsidiary is for
+			            the use of Postloop management only.</li>
+			        <li>Postloop management reserves the right to revoke your access to any Postloop services with
+			            or without cause and with or without notice.</li>
+			        <li>Unauthorised use of this website may give rise to a claim for damages and/or be a
+			            criminal offense.</li>
+			        <li>Your use of this website and any dispute arising out of such use of the website is
+			            subject to the laws of the United States.</li>
+			        <li>If found in violation of any of the above guidelines, you will be subject to removal from
+			            Postloop services.</li>
+			    </ul>
+			    <br>
+			    <h4>Site Owners</h4>
+			    <ul class="dotted">
+			        <li>All sites submitted to Postloop must be in the English language.</li>
+			        <li>Sites containing any of the following material may not be submitted to Postloop: adult, illegal, hacking, 
+			            criminal,
+			            drugs,
+			            weapons, violence, hate, or otherwise questionable material. This is left up to the sole discretion of
+			        Postloop management.</li>
+			        <li>All sites submitted to Postloop must have a clear topic and section/category structure
+			            prior to submission.</li>
+			        <li>A site may not be submitted to Postloop twice unless the existing listing is first deactivated.</li>
+			        <li>The modification of the Postloop tracking file (postloop.php) is strictly prohibited
+			            unless instructed otherwise by Postloop management alone.</li>
+			    </ul>
+			    <br>
+			    <h4>Content Writers</h4>
+			    <ul class="dotted">
+			        <li>All content contributed to Postloop must be in the English language.</li>
+			        <li>Content submitted to Postloop must be original. Content may not be copied from
+			        any other website and submitted to Postloop, even if the source content is your own.</li>
+			        <li>All content contributed to Postloop must be of high quality. A repeated history of
+			        low quality content will result in suspension.</li>
+			        <li>You may not include promotional material in content that you contribute via Postloop unless
+			        it is your own.</li>
+			    </ul>
+			    <br>
+			    <h4>Deposit Terms</h4>
+			    <p>The following rules apply to the buying of points ("Deposits") via Postloop.</p><br>
+			    <ul class="dotted">
+			        <li>Points are only to be purchased from Ionicware, Inc via Postloop.com.</li>
+			        <li>Most deposits are received and processed immediately, although some deposits are held for 
+			            manual review by Postloop management. If your deposit is held for manual review, your payment
+			            from PayPal will be processed immediately, but you will not receive your points at Postloop
+			             until approved by Postloop staff. This will usually happen
+			        within a few hours but may be up to 24 hours depending on time of day.</li>
+			        <li>Postloop management reserves the right to refuse any purchase with or without cause. If
+			        a purchase is refused, payment will be returned.</li>
+			        <li>Refunds are not allowed under <strong>any</strong> circumstances. It is your
+			            responsibility to review all Terms &amp; Conditions stated herein
+			            and monitor your own forums accordingly.</li>
+			        <li>If you file a chargeback or payment reversal, your account and forums will
+			            be banned from Postloop forever.</li>
+			    </ul>
+			
+			    <br>
+			    <h4>Withdrawal Terms</h4>
+			    <p>The following rules apply to the selling of points ("Withdrawals") via Postloop.</p><br>
+			    <ul class="dotted">
+			        <li>Points are only to be sold to Ionicware, Inc via Postloop.com.</li>
+			        <li><strong>Payment will not be issued immediately.</strong> All withdrawal requests undergo
+			                    review by Postloop staff. This will usually be completed within a few hours
+			                    but can take up to 24 hours depending on circumstances and time of day.</li>
+			                    <li>Your points balance will be subtracted from immediately, before you receive
+			                    payment.</li>
+			                    <li>Postloop management reserves the right to refuse any withdrawal request
+			                    with or without cause. In the event that a withdrawal request is denied, any
+			                    points removed during your request will be returned.</li>
+			                    <li>Review all Terms &amp; Conditions stated herein
+			            prior to requesting withdrawal. If you are found in violation of any Terms &amp; Conditons,
+			                    your withdrawal request will be denied, and you will be subject to removal from
+			                    Postloop forever.</li>
+			                    <li>Postloop is not responsible for reporting your taxable income. You must
+			                    follow the appropriate laws for your country or territory. <strong>An exception to this rule
+			                        is made in event that you are a US citizen receiving more than $600 in payment from Postloop
+			                    in one year.</strong> If this is the case, Postloop is required by law to report your
+			                    earnings to the IRS. Postloop will personally notify you before this happens.
+			                    </li>
+			    </ul>
+			
+			    <br>
+			    <a name="privacy"></a>
+			    <h2>Privacy Policy</h2>
+			
+			    <p>This privacy policy is intended to inform you, the Postloop user, of Postloop's information
+			        management practices including the types of information gathered, how this information is
+			        used and safeguarded, and the degree to which you may control the maintenance and sharing
+			        of your information.</p>
+			    <br>
+			
+			    <p>Prior to joining Postloop, you will be required to provide your email address. This is only
+			        visible to Postloop management and is not available or provided to any third parties or solicitors
+			        under any circumstances. You may periodically receive email communication from Postloop management,
+			        which you are able to opt out of. Postloop will also track and record the IP Address
+			        of all visitors to postloop.com for security purposes. This, too, will never be available or provided to any
+			        third parties or solicitors.</p>
+			    <br>
+			    <p>Prior to listing your forum at Postloop, you will be required to provide the following information on
+			        your forum: Forum name, URL, description, and software version. All of this information will be
+			        visible and available for public use, without limitation. When another Postloop user joins your 
+			        forum, Postloop will request their username and email address. The username will be saved by Postloop
+			        but the email address will not. Postloop requests the email address to verify ownership of the
+			        account. Postloop.com will take that username and email address and retrieve the corresponding user id 
+			        from your forums. The username and id are later used to track the
+			        number of posts submitted to your forums. Username, User ID, and Post Count are the only pieces of information
+			        that are extracted from your forums via the Postloop tracking service. This information will be collected
+			        and stored in the Postloop database but will not be accessible by anybody other than yourself and Postloop
+			        staff. This information will never be available or provided to any third parties or solicitors.
+			        No personally identifiable information will be collected by Postloop from your forums.</p>
+			    <br>
+			    <p>Prior to requesting payment via PayPal, you will be asked to provide your Name, Address, and Phone Number.
+			    This information is not available to the public and is used by Postloop management for its own accounting. This
+			    personally identifiable information is not be provided to any third parties or solicitors.</p>
+			    <br>
+			    <p>When buying or selling points via Postloop, your PayPal email address, transaction amount, and transaction ID
+			    will be collected and stored by Postloop for historical reasons. This information is visible by Postloop
+			    management alone and is not available or provided to any third parties or solicitors
+			        under any circumstances.</p>
+			    <br>
+			    <p>Any information labeled as available to the public can be collected, correlated, and used by
+			        third parties, and may result in unsolicited messages from other posters or third parties.
+			        Such activities are beyond the control of Postloop and are not subject to this Privacy Policy.</p>
+			    <br>
+			    <p>All personally identifiable information can be removed from public view at the request of the owner, however
+			    this information will remain in the Postloop data repository for purposes of ongoing operation. Only at the discretion
+			    of Postloop management or at the request from the proper authorities will data be removed from the Postloop
+			    data repository.</p>
+			    <br>
+			    <p><em>The information on this page is subject to change, with or without notice. It is your
+			        responsibility to check this agreement periodically for any changes. Your continued use of or
+			        access to the website following the posting of any changes to this agreement constitutes
+			        acceptance of those changes.</em></p>
+			    <br>
+			    <h3>Change Log</h3>
+			    <p><em>04/14/2012 - Modified policy on Deposit processing: Most deposits are received and processed immediately, although some deposits are held for
+			            manual review by Postloop management. If your deposit is held for manual review, your payment
+			            from PayPal will be processed immediately, but you will not receive your points at Postloop
+			             until approved by Postloop staff. This will usually happen
+			        within a few hours but may be up to 24 hours depending on time of day.</em></p>
+			        <p><em>03/08/2012 - Added: You may not bribe, incentivize, or otherwise instruct Postloop writers to include your
+			            own promotion material in content that they contribute to Postloop.</em></p>
+			        <p><em>03/08/2012 - Added: Content Writers: You may not include promotional material in content that
+			                you contribute via Postloop unless it is your own</em></p>
+			        <p><em>02/29/2012 - Added: Stipulation to Withdrawal Rules that Postloop will report earnings to the IRS
+			                for any US citizens receiving more than $600 in one year</em></p>
+			        <p><em>02/29/2012 - Added: Name, Address, and Phone Number are to be collected with Withdrawals</em></p>
+			        <p><em>06/13/2011 - Added: User ID is now collected and stored for each Postloop user that joins a participating forum</em></p>
+			</div>
+		      
+		      
+		      
+	      </div>
+	      </div>
+      </div>
+    </div>  <!-- ======== @Region: #content-below ======== -->
+    <div id="content-below">
+      <!-- Awesome features call to action -->
+      <div class="bg-primary text-white">
+        <div class="container py-3 pos-relative">
+          <div class="row">
+            <div class="col-lg-7 text-center text-lg-left">
+              <i class="fa fa-envelope-o icon-4x op-4 float-left mr-3 hidden-lg-down"></i>
+              <h2 class="text-uppercase font-weight-bold mt-2 mb-1 text-slab">
+                Get Started
+              </h2>
+              <h5 class="text-faded">
+                Join for free today
+              </h5>
+            </div>
+            <div class="col-lg-5 text-center text-lg-right flex-valign">
+              <form method="post" action="https://www.postloop.com/users/sign_up" id="signup_form">
+                <div class="input-group input-group-rounded">
+                  <input type="text" class="form-control" id="email-field" placeholder="Email" name="he">
+                  <span class="input-group-btn">
+                    <input type="submit" class="btn btn-primary btn-invert">Sign Up
+                  </span>
+                </div>
+              </form>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
+    
+ <!-- ======== @Region: #footer ======== -->
+    <footer id="footer">
+      <div class="container">
+        <div class="row">
 
-    <div class="left" id="footer-right">
-        
-    </div>
-    <div class="right" id="footer-copyright">
-        Copyright © 2017 Ionicware, Inc. All Rights Reserved. 
-        | <a href="/terms">Terms</a>        | <a href="/pages/terms#privacy">Privacy</a>    </div>
-    <div class="left" id="footer-social">
-        <span class="left">
-            <a href="https://twitter.com/share" class="twitter-share-button" data-text="Check out Postloop!" data-url="http://www.postloop.com" data-via="thepostloop" data-lang="en">Tweet</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        </span>
-        <span class="left">
-            <div class="fb-like" data-href="http://www.postloop.com" data-send="false" data-layout="button_count" data-width="70" data-show-faces="false" data-action="recommend" data-font="trebuchet ms"></div>
-        </span>
-        <span class="left">
-            <g:plusone size="medium" href="http://www.postloop.com"></g:plusone>
-        </span>
-    </div>
-</div>        </div>
-    </div>
+          <div class="col-lg-4">
+            <img src="https://www.postloop.com/assets/img/postloop-white-text-noslogan.png" alt="Postloop" class="footer-logo">
+            <p class="text-sm">Postloop delivers high quality content from highly rated writers around the world. Over 100,000 freelance writers are available to complete your project quickly. Our automated post exchange platform adds continuous content to your website, forum or blog. </p>
+            <address>
+              <ul class="list-unstyled text-sm">
+                <li>
+                  <abbr title="Email"><i class="fa fa-envelope fa-fw text-white"></i></abbr>
+                  <a href="mailto:support@postloop.com" class="text-white">support@postloop.com</a>
+                </li>
+                <li>
+                  <abbr title="Support"><i class="fa fa-question-circle fa-fw text-white"></i></abbr>
+                  <a href="https://www.postloop.com/contact" class="text-white">https://www.postloop.com/contact</a>
+                </li>
+              </ul>
+            </address>
+            <!--social media icons-->
+            <div class="mt-3 mb-4 mb-lg-0">
+              <a href="https://twitter.com/thepostloop" class="btn btn-icon btn-inverse btn-invert btn-rounded" target="_blank"> <i class="fa fa-twitter"></i> <span class="sr-only">Twitter</span> </a>
+              <a href="https://fb.me/postloopOfl" class="btn btn-icon btn-inverse btn-invert btn-rounded" target="_blank"> <i class="fa fa-facebook"></i> <span class="sr-only">Facebook</span> </a>
+              <a href="https://www.linkedin.com/company/ionicware-inc" class="btn btn-icon btn-inverse btn-invert btn-rounded" target="_blank"> <i class="fa fa-linkedin"></i> <span class="sr-only">Linkedin</span> </a>
+              <a href="https://plus.google.com/+Ionicware" class="btn btn-icon btn-inverse btn-invert btn-rounded" target="_blank"> <i class="fa fa-google-plus"></i> <span class="sr-only">Google plus</span> </a>
+            </div>
+          </div>
 
-        
-    <script type="text/javascript">
-var clicky_site_ids = clicky_site_ids || [];
-clicky_site_ids.push(101042034);
-(function() {
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//static.getclicky.com/js';
-  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-})();
-</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101042034ns.gif" /></p></noscript>
-</body></html>
+          <div class="col-lg-7 offset-lg-1">
+            <div class="row">
+              <div class="col-6 col-md-3">
+                <h4 class="mt-0 text-slab">
+                  Navigation
+                </h4>
+                <ul class="list-unstyled footer-links">
+
+
+                  <li><a href="https://www.postloop.com/">Home</a></li>
+                  <li><a href="https://www.postloop.com/testimonials">Testimonials</a></li>
+                  <li><a href="https://www.postloop.com/how_it_works">How it Works</a></li>
+                  <li><a href="https://www.postloop.com/frequently_asked_questions">FAQ</a></li>
+                  <li><a href="https://www.postloop.com/about">About</a></li>
+				  <li><a href="https://www.postloop.com/promotional">Promotional</a></li>
+                </ul>
+              </div>
+              <div class="col-6 col-md-3">
+                <h4 class="mt-0 text-slab">
+                  Content
+                </h4>
+                <ul class="list-unstyled footer-links">
+                  <li><a href="https://www.postloop.com/sites/my">Get Content</a></li>
+
+                </ul>
+              </div>
+              <div class="col-6 col-md-3">
+                <h4 class="mt-0 text-slab">
+                  For Writers
+                </h4>
+                <ul class="list-unstyled footer-links">
+                  <li><a href="https://www.postloop.com/sites">Sites</a></li>
+
+
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <hr class="my-4 hr-white op-1">
+        <!--@todo: replace with company copyright details-->
+        <div class="subfooter text-sm text-center">
+          <p>Copyright 2019 © Scott Elliott</p>
+          <ul class="list-inline footer-links">
+            <li class="list-inline-item"><a href="https://www.postloop.com/terms">Terms</a></li>
+            <li class="list-inline-item"><a href="https://www.postloop.com/terms#privacy">Privacy</a></li>
+            <li class="list-inline-item"><a href="https://www.postloop.com/contact">Contact Us</a></li>
+          </ul>
+        </div>
+      </div>
+
+
+    <!--jQuery 3.2.1 via CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Tether 1.1.1 via CDN, needed for Bootstrap Tooltips & Popovers -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.1.1/js/tether.min.js"></script>
+
+    <!-- Bootstrap 4.0.0-alpha.6 JS via CDN -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+
+
+    <!-- JS plugins required on all pages NOTE: Additional non-required plugins are loaded ondemand as of AppStrap 2.5 To disable this and load plugin assets manually simple add data-plugins-manual=true to the body tag -->
+
+    <!--Custom scripts & AppStrap API integration -->
+    
+    
+    
+    
+    
+    
+       
+    
+ 	
+	
+    		
+    <script src="https://www.postloop.com/assets/js/custom-script.1549760865.js"></script>
+    <!--AppStrap scripts mainly used to trigger libraries/plugins -->
+    <script src="https://www.postloop.com/assets/js/script.1549760865.js"></script>
+
+	
+	<script>
+	var _prum = [['id', '593704d57ca8f4dd9871b5a6'],
+	             ['mark', 'firstbyte', (new Date()).getTime()]];
+	(function() {
+	    var s = document.getElementsByTagName('script')[0]
+	      , p = document.createElement('script');
+	    p.async = 'async';
+	    p.src = '//rum-static.pingdom.net/prum.min.js';
+	    s.parentNode.insertBefore(p, s);
+	})();
+	</script>
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-34226549-11', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+	<script type="text/javascript">
+	  var _user_id = ''; // Set to the user's ID, username, or email address, or '' if not yet known.
+	  var _session_id = ''; // Set to a unique session ID for the visitor's current browsing session.
+
+	  var _sift = window._sift = window._sift || [];
+	  _sift.push(['_setAccount', '7aa9fc9696']);
+	  _sift.push(['_setUserId', _user_id]);
+	  _sift.push(['_setSessionId', _session_id]);
+	  _sift.push(['_trackPageview']);
+
+	 (function() {
+	   function ls() {
+	     var e = document.createElement('script');
+	     e.src = 'https://cdn.siftscience.com/s.js';
+	     document.body.appendChild(e);
+	   }
+	   if (window.attachEvent) {
+	     window.attachEvent('onload', ls);
+	   } else {
+	     window.addEventListener('load', ls, false);
+	   }
+	 })();
+	</script>
+
+
+	
+  
+
+</footer><script src="https://cdn.siftscience.com/s.js"></script></body></html>
