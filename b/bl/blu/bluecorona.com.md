@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bluecorona.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709075342id_/https%3A//www.bluecorona.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecorona.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413062840id_/https%3A//www.bluecorona.com/privacy) for the most accurate reproduction.*
 
 # Blue Corona Privacy Policy | Blue Corona™
+
+[](https://www.bluecorona.com/) [__](tel:8006964690)
+
+Need Help With Your Marketing?
 
 Your privacy is important to us, and this policy will inform you of the information that Blue Corona may collect from you, how it is used, and/or disclosed. By using our Website, www.bluecorona.com, you are acknowledging and accepting the practices and information described in this policy and on our Website.
 
