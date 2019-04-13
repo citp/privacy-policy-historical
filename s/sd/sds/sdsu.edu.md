@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sdsu.edu privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831025705id_/https%3A//sdsu.edu/digitalprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdsu.edu privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413195003id_/https%3A//sdsu.edu/digitalprivacy) for the most accurate reproduction.*
 
-# Digital Privacy Statement | Marketing and Communications | SDSU
+# Digital Privacy Statement | Strategic Communications and Public Affairs | SDSU
 
 ### **San Diego State University Digital Privacy Statement** **  
 **
