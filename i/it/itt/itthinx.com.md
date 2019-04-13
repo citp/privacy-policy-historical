@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itthinx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224613id_/https%3A//www.itthinx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itthinx.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413124312id_/https%3A//www.itthinx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | itthinx
 
