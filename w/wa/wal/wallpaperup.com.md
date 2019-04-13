@@ -1,63 +1,132 @@
-> *The following text is extracted and transformed from the wallpaperup.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924220943id_/https%3A//www.wallpaperup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperup.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413070526id_/https%3A//www.wallpaperup.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | WallpaperUP
 
-This privacy policy ("Policy") describes how we collect, protect and use the personally identifiable information ("Personal Information") you ("User", "you" or "your") provided on the _wallpaperup.com_ website and any of its products or services (collectively, "Website" or "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+This privacy policy will explain how _wallpaperup.com_ ("our website") uses the personal data we collect from you when you use it.
 
-### Collection of personal information
+### Topics:
 
-We receive and store any information you knowingly provide to us when you create an account, publish content, fill any online forms on the Website. When required this information may include your email address, name, or other Personal Information. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Website's features.
+  * What data do we collect?
+  * How do we collect your data?
+  * How will we use your data?
+  * How do we store your data?
+  * Marketing
+  * What are your data protection rights?
+  * What are cookies?
+  * How do we use cookies?
+  * What types of cookies do we use?
+  * How to manage your cookies
+  * Privacy policies of other websites
+  * Changes to our privacy policy
+  * How to contact us
 
-### Collection of non-personal information
 
-When you visit the Website our servers automatically record information that your browser sends. This data may include information such as your computer's IP address, browser type and version, operating system type and version, language preferences or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics.
 
-### Managing personal information
+### What data do we collect?
 
-You are able to access, add to, update and delete certain Personal Information about you. The information you can view, update, and delete may change as the Website or Services change. When you update information, however, we may maintain a copy of the unrevised information in our records. We will retain your information for as long as your account is active or as needed to provide you Services. Some information may remain in our private records after your deletion of such information from your account. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
+Our website collects the following data:
 
-### Use of collected information
+  * Personal identification information (email address, etc.).
+  * Each account's activity (uploads, messages, etc.).
+  * Various metrics that help us improve our services (performance metrics, statistics, etc.).
 
-Any of the information we collect from you may be used to personalize your experience; improve our website; improve customer service and respond to queries and emails of our customers; run and operate our Website and Services. Non-personal information collected is used only to identify potential cases of abuse and establish statistical information regarding Website traffic and usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.
 
-### Children
 
-We do not knowingly collect any personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our Website or Service. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personal information through our Website or Service without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us through our Website or Service, please contact us.
+### How do we collect your data?
+
+You directly provide our website with most of the data we collect. We collect data and process data when you:
+
+  * Register online.
+  * Use the functionalities our website provides.
+  * Use or view our website via your browser’s cookies.
+  * Voluntarily complete a customer survey or provide feedback on any of our message boards or via email.
+
+
+
+### How will we use your data?
+
+Our website collects your data so that we can:
+
+  * Provide you the functionalities our website provides.
+  * Improve the functionalities our website provides.
+  * Email you with special offers on other products and services we think you might like.
+
+
+
+Additionaly, such data could be shared with third-party partners, check their policies:
+
+  * [Google](https://policies.google.com/privacy).
+  * [PubGalaxy](https://www.pubgalaxy.com/privacy).
+
+
+
+### How do we store your data?
+
+Our website securely stores your data in servers provided by [OVH](https://www.ovh.com/).
+
+Our website will keep your data collected via Google Analytics for 36 months after your last interaction with the website.
+
+Our website will keep your account-related data for as long as you have an account on our website.
+
+### Marketing
+
+Our website may accasionally send you information about products and services of ours that we think you might like, as well as those of our partner companies.
+
+You have the right at any time to stop our website from contacting you for marketing purposes.
+
+If you no longer wish to be contacted for marketing purposes, please [contact us](https://web.archive.org/contact "Contact us").
+
+### What are your data protection rights?
+
+Our website would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+
+  *  **The right to access** – You have the right to request our website for copies of your personal data. We may charge you a small fee for this service.
+  *  **The right to rectification** – You have the right to request that our website correct any information you believe is inaccurate. You also have the right to request our website to complete the information you believe is incomplete.
+  *  **The right to erasure** – You have the right to request that our website erase your personal data, under certain conditions.
+  *  **The right to restrict processing** – You have the right to request that our website restrict the processing of your personal data, under certain conditions.
+  *  **The right to object to processing** – You have the right to object to our website’s processing of your personal data, under certain conditions.
+  *  **The right to data portability** – You have the right to request that our website transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+
+
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please [contact us](https://web.archive.org/contact "Contact us").
 
 ### Cookies
 
-The Website uses "cookies" to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. We may use cookies to collect, store, and track information for statistical purposes to operate our Website and Services. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the features of the Website and Services.
+Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.
 
-### Advertisement
+For further information, visit [allaboutcookies.org](https://web.archive.org/web/20190413070526id_/https%3A//www.wallpaperup.com/allaboutcookies.org).
 
-We may display online advertisements and we may share aggregated and non-identifying information about our customers that we collect through the registration process or through online surveys and promotions with certain advertisers. We do not share personally identifiable information about individual customers with advertisers. In some instances, we may use this aggregated and non-identifying information to deliver tailored advertisements to the intended audience.
+### How do we use cookies?
 
-### Links to other websites
+Our website uses cookies in a range of ways to improve your experience on our website, including:
 
-Our Website contains links to other websites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other websites or third parties. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that may collect personal information.
+  * Keeping you signed in.
+  * Understanding how you use our website.
 
-### Information security
 
-We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of personal information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your personal information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Website cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third party, despite best efforts.
 
-### Data breach
+### What types of cookies do we use?
 
-In the event we become aware that the security of the Website has been compromised or users Personal Information has been disclosed to unrelated third parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do we will post a notice on the Website.
+There are a number of different types of cookies, however, our website uses:
 
-### Legal disclosure
+  *  **Functionality** – our website uses these cookies so that we recognize you on our website and remember your previously selected preferences. A mix of first-party and third-party cookies are used.
+  *  **Advertising** – our website uses these cookies to collect information about your visit to our website, the content you viewed, the links you followed and information about your browser, device, and your IP address. our website sometimes shares some aspects of this data with third parties for advertising purposes. We may also share online data collected through cookies with our advertising partners. This means that when you visit another website, you may be shown advertising based on your browsing patterns on our website.
 
-We will disclose any information we collect, use or receive if required or permitted by law, such as to comply with a subpoena, or similar legal process, and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In the event we go through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, your user account and personal data will likely be among the assets transferred.
 
-### Changes and amendments
 
-We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this privacy policy on the Website. When we do we will revise the updated date at the bottom of this page. Continued use of the Website after any such changes shall constitute your consent to such changes.
+### How to manage cookies
 
-### Acceptance of this policy
+You can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. However, in a few cases, some of our website features will not function as a result.
 
-You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Website or its Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Website and its Services.
+### Privacy policies of other websites
 
-### Contacting us
+The our website website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
 
-If you have any questions about this Policy, please [contact us](https://web.archive.org/contact "Contact us").
+### Changes to our privacy policy
 
-This document was last updated on June 27, 2016
+Our website keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on February 4, 2019.
+
+### How to contact us
+
+If you have any questions about our website’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to [contact us](https://web.archive.org/contact "Contact us").
