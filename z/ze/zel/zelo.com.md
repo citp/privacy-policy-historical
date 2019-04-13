@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zelo.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501180747id_/http%3A//zelo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zelo.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413192120id_/https%3A//zelo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - First Names and What They Mean
 
 ## Privacy Statement for Zelo.com
 
-**We at Zelo.com **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Zelo.com](https://web.archive.org/web/20180501180747id_/http://zelo.com/)
+**We at Zelo.com **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Zelo.com](https://web.archive.org/web/20190413192120id_/https://zelo.com/)
 
 #### Information Automatically Logged
 
