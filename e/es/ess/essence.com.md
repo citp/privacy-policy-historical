@@ -1,121 +1,222 @@
-> *The following text is extracted and transformed from the essence.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910193231id_/https%3A//www.essence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essence.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413041254id_/https%3A//www.essence.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Essence
 
-This Privacy Policy discloses the privacy practices for Essence owned and operated websites and mobile apps on which it appears, including those www.essence.com , our email newsletters and other applications owned and operated by ESSENCE including offline and online subscriptions and other product offerings (collectively referred to as the “Services”), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by ESSENCE and its subsidiaries.
+_Effective Date: July 11, 2018_  
 
-#### The Information We Collect
+At Essence (“Essence,” “Us,” “We,” or “Our”), we value your privacy.  We have put together this Privacy Statement (or “Statement”) so that you can better understand our privacy practices and how they relate to the information, including Personal Data ( _i.e._ any information relating to an identified or identifiable natural person), that we collect from and about you and other individuals that interact with us through our websites, mobile applications, and other product and service offerings such as our publications and newsletters (collectively, our “Services”).  This Statement does not apply to Essence employees for whom we maintain a separate Privacy Notice.
 
-Through the Services, you can, among other activities, order publications and products; engage in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities. We collect the information, including any personally identifiable information, that you provide to us in the course of using the Services. The types of information that may be collected through these Services include, but are not limited to: name, address, gender, e-mail address, telephone number, fax number and credit or debit card information.
+We invite you to read this Statement to learn more about our privacy practices.  Below, we include a general summary of the types of information we collect, how we use that information, and with whom we share it.  We may update this Statement from time to time and when that happens, we will notify you of any changes by posting our revised Privacy Statement on our websites, including an effective date, and in some cases, we may contact you directly to let you know of the changes.  The most current version of our Privacy Statement is always available by clicking the “Privacy” link at the bottom of our websites.  Should you have any questions about our privacy practices, please contact us at [privacy@essence.com](mailto:privacy@essence.com) or at the Contact Information listed below.
 
-We may also collect information about your personal or professional interests and your use of, or opinions about, various products, programs and services. For instance, we may ask you to identify your job or industry to qualify you for free business magazines.
+If you are visiting our website from the European Union (“EU”) or where EU data protection laws, please see Section 11 on your EU Privacy Rights for additional information.
 
-Through some features of the Services and through certain promotions, you can submit information about other people. For example, you might submit a person’s name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient’s name, address, e-mail address and telephone number.
+## Privacy Statement Contents
 
-We , our partners, advertisers, advertising networks or other third party service providers, as explained further in the  **“Collection of Information by Third-Parties”**  section below, may also collect certain non-personally identifiable information when you visit our web pages, open our emails, use our applications, or otherwise use the Services, including such information as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, location-based information , and the content and advertisements you have interacted with, viewed, or accessed. This data may be combined and linked with data from other sources.
-
-[back to top](https://www.essence.com/privacy-policy/)
-
-#### How We Use the Information
-
-We may use the information collected under this Privacy Policy in the following ways:
-
-  * We may use the information you provide about yourself or others to fulfill requests for our publications, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest.
-  * We may combine information we receive with outside records and share such information with third parties for use on our behalf to enhance our ability to market to you those products or services that may be of interest to you.
-  * We may disclose personally identifiable information that we receive from you and from third party sources to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
-  * When you request a magazine, service, or other product, we will forward the information you give us to the publisher or provider to the extent necessary to fulfill your request. They may contact you with special offers of possible interest.
-  * We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or sweepstakes, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account.
-  * If you choose to submit content (e.g., a “letter to our editors” or an online review), we may publish your name, screen name and other information you have provided to us. You hereby consent to this.
-  * The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
-  * We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs, or services.
-  * We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
-  * Agents and contractors of ESSENCE that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for ESSENCE. .
-  * We may transfer your personally identifiable information to other ESSENCE offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other ESSENCE offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of ESSENCE our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
-  * Please note that if ESSENCE or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
+  1. Personal Data Collected
+  2. How We Process Your Personal Data and On Which Legal Grounds
+  3. With Whom We Share Personal Data
+  4. Cookies, Online Tracking, and Advertising
+  5. Your Choices
+  6. Retention of Data
+  7. Security of Data
+  8. Links to and Privacy Statements of Third Party Sites
+  9. Children’s Privacy
+  10. International Transfers of Your Personal Data
+  11. Your EU Privacy Rights
+  12. Contact Information 
 
 
 
-#### Privacy Options
+##   1\. Personal Data Collected
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other ESSENCE property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by ESSENCE please [click here](https://secure.customersvc.com/servlet/Show?WESPAGE=csp/TI/EE/privacy_offline_preferences.jsp).
+How we collect your Personal Data depends on how you interact with Essence, such as through its website, mobile applications and the other Services it offers.
 
-If you prefer not to receive e-mail marketing from this or any other ESSENCE property, or if you want to opt-out of any sharing of your email address with third parties not owned by ESSENCE please [click here](https://secure.customersvc.com/servlet/Show?WESPAGE=csp/TI/EE/privacy_online_preferences.jsp).
+#### Categories of Personal Data
 
-We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+We generally collect Personal Data directly from you.  This can be through email or over the phone, or through online forms or other functionality of our website or mobile applications that allows you to submit information to us. The Personal Data that we collect includes:
 
-[back to top](https://www.essence.com/privacy-policy/)
-
-#### Your California Privacy Rights: Notice to California Customers
-
-California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: ESSENCE sites do not recognize the “do not track signals” that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes offline please [click here](https://secure.customersvc.com/servlet/Show?WESPAGE=csp/TI/EE/privacy_offline_preferences.jsp), or for email please [click here](https://secure.customersvc.com/servlet/Show?WESPAGE=csp/TI/EE/privacy_online_preferences.jsp). To find out more about your opt-out rights, please contact us as described in the  **“How to Contact Us”**  section below.
-
-#### Collection of Information by Third Parties
-
-Some of our Services contain links to third party sites and services whose privacy practices may be different than ours. We also allow you to connect with other third party sites and services. You should consult the other third party sites’ and services’ privacy notices in order to better understand their privacy practices.
-
-We sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the ESSENCE site and the third parties. ESSENCE has no control over the third parties’ use of this information.
-
-We may use third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the Services and to conduct research about the advertisements-or the Services themselves. Additionally, third parties may place and use tracking mechanisms, e.g., tracking pixels, in the emails we may send to you. This Privacy Policy does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
-
-For more information on advertisements, visit our [Network Advertising Initiatives page](http://www.networkadvertising.org/managing/opt_out.asp).
-
-Note regarding Market Research/Ratings: Our Services may also feature Nielsen’s proprietary measurement software which may contribute to market research, like Nielsen’s TV Ratings. To learn more about this information, please click [here](http://www.nielsen.com/digitalprivacy). Nielsen’s software may collect your choices with regards to it.
-
-We also may use certain recognition services by our partner LiveRamp. To opt out of such services by LiveRamp, please visit <https://liveramp.com/opt_out/>.
-
-#### Cookies and other Tracking Technologies
-
-We may place “cookies” on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
-
-We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
-
-Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser’s instructions.
-
-Some of the tracking technologies we use include:
-
-  * Local Shared Objects: Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
-  * HTML 5: HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
-  * Cache Cookies: Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
-  * Web Beacons: Our websites may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user’s cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
+  1.     * Contact information (such as your name, address, email address, phone number, facsimile number, and postal code),
+    * Purchase, use, and subscription history for all of our Services, including our publications, newsletters, product and service offerings, website and mobile applications,
+    * Demographic information (such as age and gender),
+    * Personal or professional interests (such as your job and industry),
+    * Use and opinions about our Services,
+    * Payment information (such as credit or debit card account numbers),
+    * Job applicant data (such as name, email, resume, social media profiles ( _e.g.,_ LinkedIn), cover letter, and any other information you upload as part of your application), and
+    * Data gathered by technology when you visit our Site.
 
 
 
-These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
+When using our mobile applications, we may also collect your geolocation data for purposes of personalizing content offerings, which may be considered Personal Data under applicable law.  We only collect this type of data, however, when you have expressly consented to granting our mobile application access to your geolocation.  You may at any time opt-out of sharing your geolocation by changing the settings on your mobile device(s). 
 
-[back to top](https://www.essence.com/privacy-policy/)
+We also automatically collect information about you from cookies and other similar technologies, which may be considered Personal Data under applicable laws. For more information on use of cookies and similar technologies, please see Section 4 below.
 
-#### Our Commitment to Security
+**When we Collect Your Personal Data**
 
-We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+We collect Personal Data directly from you when you:
 
-#### Accessing, Correcting, and Deleting Your Personal Information
+  1.     * Subscribe to receive, or submit content for us to use in, one of our publications or newsletters,
+    * Register to use one of our mobile applications;
+    * Engage with us by registering to participate in online games, quizzes, voting polls, forums or communities,
+    * Purchase or otherwise register to receive a product or service from us,
+    * Participate in our promotional efforts, such as our contests and sweepstakes,
+    * Send any information to us, including by email, social media, and through our website or mobile application,
+    * Respond to our inquiries about your personal or professional interests, or your use of or opinions about certain products and services,
+    * Contact us about our Services, sales, customer support, feedback, or to inquire about other information, or
+    * Apply for a job with us.
 
-We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates.
 
-We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the “How to Contact Us” section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
 
-#### Retention of Personal Information
+We may also combine the information that we collect directly from you with information that we receive from third parties, including those that are acting on our behalf or who may be providing services to us, such as web analytics. 
 
-We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in the  **“Accessing, Correcting, and Deleting Your Personal Information”**  section above.
+## 2\. How We Process Your Personal Data and On Which Legal Grounds
 
-#### Special Note for Parents
+We process your Personal Data for our legitimate interests or as otherwise set out in this Privacy Statement.  Whenever a particular processing activity requires your consent, we will ask you separately for your consent and in some cases, this may be done as part of a contract with you.  We process your Personal Data in order to:
 
-The site you are visiting is one of the ESSENCE general audience sites and is not intended for use by children. For more information about our online privacy practices for children’s sites, consult the privacy notice at the children’s site in which you are interested.
+  1.     * Provide our products or services to you, process your orders or service requests, and communicate with you on related issues such as customer service, product and service fulfillment, and refunds and exchanges – all of which may be necessary for the performance of our contract with you,
+    * Customize your experience with our Services, including by way of personalized marketing and promotional offerings that inform you about our current and future product and service lineups, as well as our upcoming events, publications and newsletters,
+    * Statistically analyze your use of our website and mobile applications (for more information in this respect, see Section 4 below), improve our product and service offerings, and enhance the content and layout of the product and services we offer through our website and mobile applications,
+    * Diagnose, repair and track product, service and quality issues,
+    * Install and configure changes and updates to our products and services,
+    * Send you administrative notices to inform you about important changes in our contractual relationship – which is also necessary for the performance of our contract with you,
+    * Expand our prospective customer database with marketing data that we receive from third parties,
+    * Resolve disputes and enforce our agreements with you, including our Site Terms of Use – which may also be necessary to defend our interests and claims, and
+    * Consider your employment application – which may also include processing necessary to comply with a legal obligation. 
+  2. 
 
-#### Changes to this Privacy Policy
 
-This Privacy Policy may be changed by ESSENCE . The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+##   3\. With Whom We Share Personal Data
 
-#### How to Contact Us
+We may share your Personal Data with our corporate affiliates, subsidiaries, business units and other companies with which we share common ownership, for the purposes described above.  We may also share your Personal Data:
 
-If you have any questions or concerns about the ESSENCE Privacy Policy or its implementation please contact us via email by customerservice@essence.com or by writing to:
+  * With third-party service providers who process Personal Data on our behalf pursuant to contractual arrangements in order to help us market and deliver our Services to you (for instance, when you request a magazine or any other product or service offering from us, we will forward your Personal Data to the publisher or provider to the extent necessary to fulfill your request; we may also employ third-party marketing companies to enhance our outreach to you),
+
+
+  * If you choose to submit content on our websites or mobile application ( _e.g._ , a “letter to our editors,” online reviews), we may publicly display your name, screen name and other information you have provided to us that personally identifies you in relation to your submission,
+
+
+  * Where we believe in good faith that sharing Personal Data is necessary to conform to legal requirements or comply with a legal process, such as a search warrant, subpoena, or court order; to protect and defend Essence rights or property; or to enforce our licenses or services agreement(s).
+
+
+  * In connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving the sale, transfer, divestiture, or dissolution of all or a portion of our business or assets, including situations of insolvency, bankruptcy or receivership.  Please note that if another company acquires Essence or its assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Statement.
+
+
+  * With third parties for their own marketing purposes (for instance, we may disclose Personal Data to the publisher or provider of a magazine or other product or service we offer or to other third parties that provide online behavioral advertisements, cookies and other tracking technology included in our Services and emails) who may use your Personal Data to market additional products or services to you, in which case this Privacy Statement would not apply to the privacy practices of such third parties (we will request your consent if you are visiting our websites from the EU or where applicable EU data protection laws so provide and you may have additional rights, see Section 11 below).
+
+
+
+We may also enable our websites or mobile applications to include social media features that allow you to share information within your social networks and interact with Essence on various social media platforms. Use of these features may result in additional collection or sharing of information about you, depending on the feature and the particular social media platform. We encourage you to review the privacy policies and settings on all social media platforms with which you interact to make sure you understand the information that may be collected, used and shared by those sites.  This Privacy Statement does not apply to the privacy practices of any third-party social media platforms that may be accessible through links on the Essence websites or mobile applications.
+
+##   4\. Cookies, Online Tracking, and Advertising
+
+We employ technology on our website that allows us automatically to gather certain types of information about how you interact with us, including website traffic information such as your Internet Protocol (“IP”) address and other numeric codes used to identify your computer or its operating system or browser.  We use this information to better understand usage patterns, to personalize and enhance your experience with our Services, and in some cases, to deliver advertisements that we feel are of greater relevance to you.  We may gather this information in a format that personally identifies you or in an aggregate format that may not be personally identifiable. 
+
+_How does Essence use cookies and other similar technology?_
+
+We use cookies and other similar technology to track the usage of our Services and to make navigating our website easier by, for instance, saving your browsing preferences, recognizing you by name between visits to our websites, enabling the use of online shopping carts as you navigate our product offerings, preserving language choices, and tailoring a personalized online experience for each individual visitor to our website.  The cookies ( _e.g._ , .Flash cookies, cache cookies, eTags) and other similar technology ( _e.g._ , web beacons, clear gifs, or similar functionality embedded into our website’s code) that we use on our websites fall into four main categories:
+
+  * **_Strictly Necessary_ :** These cookies are essential for running our website and are key to providing you with a seamless website experience. These include cookies that allow you to be remembered as you explore the website within a single session or from session to session. They also assist in security issues and conforming to regulations. 
+  * **_Functional and Performance_ :** These analytic cookies allow us to improve the website’s functionality by anonymously tracking usage. We do analytical profiling to understand unique users reading a particular page to identify what is popular. We also look at where content is accessed so we know how to arrange our website for optimal user experience. In some cases, these cookies improve the speed with which we can process your request, and allow us to remember website preferences you’ve selected. They also help connect you to your social networks. We count clicks on “Like” and “Tweet” plugins and what content from our websites was shared or referenced. De-selecting these cookies may result in poorly-tailored recommendations and slow website performance. You also may not be able to share effectively with Facebook, Twitter, or other social networks. We also examine what type of reference was used to reach our websites, such as an email campaign or a link from a referral website, so we can estimate the effectiveness of our promotions and advertising campaigns.
+  * **_Personalization_ :** These cookies help make the content as personalized as possible, for example by showing you targeted banners and relevant recommendations of Essence products.
+  * **_Advertising_ :** These cookies collect information to help better tailor advertising to your interests, both within and beyond the Essence website. De-selecting these cookies may result in seeing advertising that is not as relevant to you.
+
+
+
+Most web browsers include settings that will allow you to opt-out of receiving ( _i.e._ reject) the cookies that we use on our websites.  Please note, however, that if you change your web browser settings after you have already visited our websites, you may also have to delete any existing cookies from your web browser. 
+
+Many of our cookies are functionality cookies and some of these cookies are managed for us by third parties.  While you can opt-out of receiving our cookies and still access our website, you may find that some parts of our website will no longer continue to function the same way as when cookies are enabled or may appear to function improperly.  This is because we rely on certain cookies to provide a seamless, interactive and personalized online experience and without certain cookies, some functionality of our website may become unavailable. 
+
+**_Do Not Track_**
+
+At this time, the Essence websites do not respond to Do Not Track beacons sent by browser plugins as there is not yet a common agreement about how to interpret these signals. 
+
+For more detailed information about cookies visit www.allaboutcookies.org. To opt out from behavioral advertising by networks adhering to the Network Advertising Initiative visit [http://optout.networkadvertising.org/](http://optout.networkadvertising.org/). 
+
+We may also employ Nielsen’s proprietary measurement software to contribute to our market research efforts, including those involving television viewership. To learn more about this information, please click [here](http://www.nielsen.com/digitalprivacy). Nielsen’s software may collect your choices with regards to it.
+
+Through a contractual relationship with LiveRamp, we may also use your Personal Data to provide a more customized, personal and relevant marketing experience in relation to our Services. To opt out of participating with LiveRamp, please visit [https://liveramp.com/opt_out/](https://liveramp.com/opt_out/).
+
+### _Your California Privacy Rights_
+
+A business subject to California Civil Code section 1798.83 is required to disclose to its California customers, upon request, the identity of any third parties to whom the business has disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties’ direct marketing purposes. Please note that under California law, businesses are only required to respond to a customer request once during any calendar year.
+
+If you wish to opt-out of this disclosure of your Personal Data or if you would like additional information on your opt-out rights, please contact us at [privacy@essence.com](mailto:privacy@essence.com) or at the Contact Information provided below. 
+
+##  5. Your Choices
+
+We value your interest in accessing the Personal Data that you provide to us in order to correct, amend or delete it.  You may request such access by contacting us at [privacy@essence.com](mailto:privacy@essence.com) or at the Contact Information provided below.  Please note, however, that we may deny your access requests in certain circumstances if, for instance, allowing you access: would compromise another’s privacy rights; be likely to interfere with the safeguarding of national security, defense, or public security; could interfere with law enforcement or legal actions; or in other situations in compliance with applicable laws.  These are examples and other reasons may apply.
+
+If you do not wish to receive information from us via email or traditional mailing regarding our Services, please let us know by clicking on the “Unsubscribe” link shown at the end of our emails and electronic newsletters, or by contacting us at [privacy@essence.com](mailto:privacy@essence.com) or at the Contact Information listed below.  We will remove your name from our distribution lists upon request in accordance with applicable law.
+
+For additional information about EU rights, please see Section 11 below.
+
+##  6. Retention of Data
+
+We will keep your Personal Data as reasonably necessary to fulfill the purposes for which Personal Data is collected as stated herein; for as long as is necessary for the performance of the contract between you and us, if any; and to comply with legal and statutory obligations, such as in tax, trade and corporate laws. When we no longer need your Personal Data for our purposes, we will destroy, delete or erase that Personal Data or convert it into an anonymous form.
+
+##  7. Security of Data
+
+Our security measures include safeguarding and monitoring networks and controlling access to our files, equipment and buildings. While we will take reasonable steps to protect your Personal Data in our possession from loss, misuse, unauthorized access, disclosure, alteration, and destruction, no system is completely secure and therefore, we cannot assure you that the Personal Data we collect will never be used or disclosed in a manner that is inconsistent with this Privacy Statement. 
+
+## 8. Links to and Privacy Statements of Third Party Sites
+
+Our Services may contain links to third party websites and other services whose privacy practices may be different than ours. We facilitate these connections in order to enhance your online experience with us; however, once you click on a link to another website (a “Third Party Site”), you are no longer using our Services, including our websites or mobile applications.  This Statement applies only to Essence’s data processing activities as they relate to the Personal Data Essence collects through its Services, but does not apply to or describe the privacy practices associated with any Third Party Site.  We encourage you to read the privacy statements of all Third Party Sites that you chose to visit and contact the operators and anyone else associated with the Third Party Sites if you have questions or concerns about their data processing activities.
+
+## 9. Children’s Privacy
+
+Unless we have specifically indicated otherwise on a particular website or mobile application, we do not knowingly collect Personal Data from children under the age of sixteen (16), nor have we designed our Services for or directed our Services at children under the age of sixteen (16).  By using our Services, you represent that you are age sixteen (16) or over. If you are a child under sixteen (16) years of age, you are not permitted to use our Services and should not send any Personal Data about yourself to us through our websites or mobile applications. 
+
+If you believe that a child may have provided his or her Personal Data to us or if you have any questions about which websites or mobile applications we have designed for use by children under the age of sixteen (16), please contact us at [privacy@essence.com](mailto:privacy@essence.com) or at the Contact Information below. In the event that we become aware that we have collected Personal Data from a child under the age of sixteen (16) through Services that are not designed for or directed at children under the age of sixteen (16), we will dispose of that Personal Data immediately as required by applicable law.
+
+## 10. International Transfers of Your Personal Data
+
+By using the Site or providing Personal Data to Essence, your Personal Data will be transferred to the United States where Essence is headquartered. If you are not a resident of the United States, your country’s laws governing data collection and use may differ from those in the United States. For example, the data protection laws of the United States have not been found by the European Commission to provide the same level of protection as EU data protection law. Some of the third parties with whom we share your Personal Data are also located in third countries that do not provide the same level of protection to your Personal Data. Certain third countries have been officially recognized by the European Commission as providing an adequate level of protection ([list available here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)). 
+
+We may also transfer your Personal Data to our affiliates and third-party service providers located in third countries, such as EU member states, Hong Kong, and South Africa, where our affiliates and third-party service providers process data on our behalf in relation to the Services we offer.  Transfers to third parties located in third countries outside the European Economic Area (“EEA”) take place using an acceptable data transfer mechanism, such as the EU-U.S. Privacy Shield for transfers to self-certified U.S. organizations, the EU Standard Contractual Clauses, Binding Corporate Rules, approved Codes of Conduct and Certifications or in exceptional circumstances on the basis of permissible statutory derogations. Please contact [privacy@essence.com](mailto:privacy@essence.com) if you want to receive further information or, where available, a copy of the relevant data transfer mechanism.
+
+## 11. Your EU Privacy Rights
+
+If you are visiting our Services from the EU or where applicable EU data protection laws so provide,  you may also exercise the following rights regarding your Personal Data:
+
+#### Access
+
+You have the right to obtain from us confirmation if your Personal Data is being processed and certain information in this regard.
+
+#### Rectification
+
+You have the right the request the rectification of inaccurate Personal Data and to have incomplete data completed.
+
+#### Objection
+
+You have the right, when we process Personal Data on the grounds of legitimate interests, to object to the processing of your Personal Data for compelling and legitimate reasons relating to your particular situation, except in cases where legal provisions expressly provide for that processing. In addition, you have the right to object at any time where your Personal Data is processed for direct marketing purposes.
+
+#### Portability
+
+You may receive your Personal Data that you have provided to us in a structured, commonly used and machine-readable format and have the right to transmit them to other data controllers without hindrance. This right only exists if the processing is based on your consent or a contract and the processing is carried out by automated means.
+
+#### Restriction
+
+You may request to restrict processing of your Personal Data if (i) you contest the accuracy of it – for a period we need to verify your request; (ii) the processing is unlawful and you oppose the erasure of it and request restriction instead; (iii) we no longer need it, but you tell us you need it to establish, exercise or defend a legal claim; or (iv) you object to processing based on public or legitimate interest – for a period we need to verify your request.
+
+#### Erasure
+
+You may request to erase your Personal Data if it is no longer necessary for the purposes for which we have collected it, you have withdrawn your consent and no other legal ground for the processing exists, you objected and no overriding legitimate grounds for the processing exist, the processing is unlawful, or erasure is required to comply with a legal obligation.
+
+#### Right to lodge a complaint
+
+You also have the right to lodge a complaint with a supervisory authority, in particular in the EU Member State of your residence, or the location where the issue that is the subject of the complaint occurred.
+
+#### Right to refuse or withdraw consent
+
+Please note that in case we ask for your consent to certain processing, you are free to refuse to give consent and you can withdraw your consent at any time without any adverse negative consequences. The lawfulness of any processing of your Personal Data that occurred prior to the withdrawal of your consent will not be affected.
+
+If you have questions about exercising any of those rights or their applicability to any of our particular processing activities or have questions about any data transfer mechanism or want a copy thereof, you may contact us at [privacy@essence.com](mailto:privacy@essence.com) or at the address provided in our Contact Information below.
+
+## 12. Contact Information
+
+Unless otherwise stated, Essence is a data controller for purpose of the information it collects and processes in accordance with this Statement. If you have any questions about this Statement or if you believe that your Personal Data has been processed or disclosed in violation of this Statement, please contact us by sending an email to [privacy@essence.com](mailto:privacy@essence.com), or a letter to:
 
 Essence  
 Attention: General Counsel  
 241 37th Avenue  
 4th Floor  
 Brooklyn, NY 11232
-
-[back to top](https://www.essence.com/privacy-policy/)
-
-This Privacy Policy was revised February 28, 2018.
