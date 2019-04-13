@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmcmarkets.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207135750id_/https%3A//www.cmcmarkets.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmcmarkets.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413080315id_/https%3A//www.cmcmarkets.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy| CMC Markets
 
