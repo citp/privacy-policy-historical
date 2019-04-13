@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingadvice.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620061223id_/http%3A//www.datingadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingadvice.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413084159id_/https%3A//www.datingadvice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,10 +34,10 @@ All email correspondence from DatingAdvice.com  are fully CAN-SPAM compliant an
 
 ### Update
 
-This Privacy Policy was last updated on: Monday, June 11, 2018.
+This Privacy Policy was last updated on: Monday, June 11, 2019.
 
 DatingAdvice.com  
 c/o Digital Brands Inc.  
 15 SE 1st Ave, Suite B  
 Gainesville, FL 32601  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+contact@datingadvice.com
