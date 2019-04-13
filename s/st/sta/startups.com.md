@@ -1,64 +1,49 @@
-> *The following text is extracted and transformed from the startups.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612082029id_/http%3A//startups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413183526id_/http%3A//www.startups.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Startups.com - Privacy & Policy
+# Privacy Policy | Startups.com
 
-##  startups.com Privacy Policy 
+Last Updated: December 4, 2018
 
-This privacy policy sets out how startups.com uses and protects any information that you give startups.com when you use this website. startups.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. startups.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 18th of January, 2012.
+The privacy of Startups.com users and their information is extremely important to us and we take this matter very seriously. All users of Startups.com are covered by the following Privacy Policy. Startups.com reserves the right to update this Privacy Policy. If required to do so, or it is in our best interest, Startups.com may release user information in compliance with law enforcement agencies.
 
-  
+In order to secure your personal information, all communications between you and the Startups.com website are secured. Furthermore, your personal information cannot be accessed by other users. Therefore, other users will never be able to see this private information unless you provide it to them deliberately.
 
+ **Startups.com Web Site Information**
 
-## What we collect
+Startups.com is an online service that allows its members to create and share business plans as well as connect and interact with other members. Users are represented on the site with personal profiles. You choose the information in your profile and therefore control what can be seen by other users. Startups.com must collect certain pieces of information in the normal course of its business and Startups.com retains the ownership rights to this information including text and all media formats.
 
-We may collect the following information:
+ **Primary Information Types**
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+There are several primary types of information that are collected including Contact, Profile, and Internet information. Credit Card information may also be accepted for membership fees and other services. Startups.com is in no way limited to the collection of only this type of information and may deem it necessary to collect other data. You will be notified if any changes are made to this policy via a posting on this website.
 
+ **Contact Information**
 
+Upon registering as a Startups.com user, certain contact information such as your name, email address, and mailing address may be collected. This serves as an example and is not intended to be a complete list of information that may be collected at registration.
 
-## What we do with the information we gather
+ **Profile**
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Following registration, Startups.com users will be prompted to complete a profile. Current users can also make changes to their own user profile. A user profile may contain, but is not limited to, your name, a personal statement, your photo, your video, and other information that may be used in a casting or other contact proposal. You should use good judgment about the information that you post in your profile since this can be viewed by others on the Startups.com. Your personal contact information CANNOT be viewed unless you release this information. Additionally, the information in your profile can be edited at your discretion at any time.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+ **Internet**
 
+As part of our efforts to provide better services to Startups.com users, Startups.com collects certain information related to the Internet and your computer. In order for us to analyze trends and provide superior service to our users, Startups.com retrieves the web address (URL) of both the website that you visited directly before and directly after visiting the Startups.com site. We also receive certain other information about your personal computer such as the unique IP address. Startups.com also follows a standard practice of using cookies and logs to analyze website usage. Cookies are extremely small files that are stored on your computer and help us to provide you with a better experience by automatically recalling your preferences each time you visit our site. Cookies will not harm your computer in any way and can be deleted at any time.
 
+ **User Accounts**
 
-## Security
+You may make changes to your Startups.com account and any associated preferences at any time. To make changes, you must log onto Startups.com and make any edits through the Account section. You may also request to terminate your Startups.com account. To request a removal of your account, please contact us.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+ **System Generated Emails**
 
-  
+As part of the normal functioning of Startups.com, users may receive email requests from Startups.com or for contact from other users. However, Startups.com will NOT reveal your email address to any other user until you chose to do so. Additionally, Startups.com will send you system generated emails and promotional materials. These communications may begin during the registration process and continue while your account remains with Startups.com. If you wish to opt out of promotional emails, you may do so in your account area once you login.
 
+ **Affiliate and Partner Services**
 
-## How we use cookies
+We will not release your personal information to any party unless required to do so by law or if it is requested by you or part of the normal functioning of Startups.com. We do intend to use a third party to verify and process credit card information for any fees or purchases made on Startups.com or with Startups.com. All third parties are required to use your information in a secure manner and only for the purpose given to them and cannot store or release this information. Certain non-sensitive profile information may be released to our affiliates and partners for the purpose of marketing and improving our service to you.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+If you have a question about this privacy policy, please contact us or write to us at:
 
-  
+Attn: Privacy Policy   
+Startups.com   
+1322 Manning Parkway   
+Powell, Ohio 43065   
 
-
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
-  
-
-
-## Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways: 
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by **writing to us**.
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please [**contact us**](https://web.archive.org/contact).If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
