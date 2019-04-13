@@ -1,105 +1,136 @@
-> *The following text is extracted and transformed from the sportsbettingdime.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128132301id_/https%3A//www.sportsbettingdime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbettingdime.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413104428id_/https%3A//www.sportsbettingdime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy| Top 10 Sports Betting Sites
+# Privacy Policy | SBD
 
-**PRIVACY POLICY**
+_Effective Date: June 5th, 2018_
 
-**sportsbettingdime.com**
+## 1\. Whom this notice applies to
 
-This privacy policy (the “ **Policy** ”) governs your (“ **You/Your** “) use of the website **sportsbettingdime.com** (the “ **Site** “). It further sets out how the we, the proprietors of the Site, (“ **We/Us/Our** “) will handle Your personally identifiable information.
+This privacy policy (the “Privacy Policy/Policy”) describes how the proprietors of www.sportsbettingdime.com (“we/us/our”) collect and use the personal information of visitors to and users of www.sportsbettingdime.com (“you/your/users”).
 
-The Policy is incorporated into the Terms and forms part of the Terms, but shall not derogate in any way from the Terms. All capitalized words and phrases used in the Policy that are not defined in the Policy shall have the same meaning as they do in the Terms.
+The Privacy Notice was last changed on June 5th, 2018.
 
-In visiting or using the Site, You consent to Our collection, use, and disclosure of Your Personal Information (as that term is defined in Section 2) as set out herein.
+If you have any questions about the Privacy Notice, please email us at: privacy.officer@sportsbettingdime.com
 
-  1. **Information Collection and Use**
+## 2\. Why we collect the information
 
+We collect, store, and use your personal information (the “information”) to allow, facilitate, and improve access to www.sportsbettingdime.com (the “website”) and all related services, and for the purposes set out in more detail in section 4.
 
+## 3\. Legal requirements
 
-We may log Personal Information (as defined in Section 2) when You visit the site, including IP address, pages viewed, time of access, date of access, Your search and Site navigation preferences, and clicking habits.
+We are required to collect parts of the information in order to comply with certain legal obligations, including, but not limited to, anti-fraud and know your customer (“KYC”) laws. If such information is not provided, we cannot agree to provide a product or service for you.
 
-We may also track certain aggregate information that cannot be personally traced to any individual (“ **Aggregate Information** ”), such as the number of Site visitors, the number of visitors to each page, and the browser used by the visitors. We may analyze this data for trends and statistics, but such information will only be used and disclosed in aggregate form; it will not contain any Personal Information.
+We may also collect the information and disclose it to law enforcement bodies or regulatory authorities upon reasonable request thereby, or pursuant to defending a legal claim.
 
-We may use Personal Information and Aggregate Information to improve visitors’ experience on the Site. We may also analyze Personal Information and Aggregate Information to learn more about how visitors access the site, and customize advertisements and other content thereto. We may also use Personal Information and Aggregate Information to test changes to the Site and make improvements to Site functionality.
+We will retain information related to an investigation or a dispute until the issue is resolved.
 
-  2. **Privacy Legislation**
+## 4\. What information we collect and how we use it
 
+### (a) We may collect the following information from users:
 
-
-We comply with all applicable privacy legislation regulating the retention, use and disclosure of Personal Information by private sector organizations (the “ **Privacy Legislation** ”).
-
-We will only collect, use or disclose Personal Information in accordance with Legislation and this Policy.
-
-“ **Personal Information** ” means information about an identifiable individual, including their name, home address, telephone number, social insurance number, financial information (including but not limited to credit card information), and gender. Personal information _does not_ include information that would allow an individual to be contacted at a place of business; examples include a person’s
-
-  * position or title,
-  * business telephone number
-  * business address.
-
-
-
-We have appointed a privacy officer (“ **Privacy Officer** ”) as per the requirements of the Privacy Legislation. Our Privacy Officer is responsible for compliance with this Policy and the Privacy Legislation. The Privacy Officer can be contacted by e-mail: privacy.officer@sportsbettingdime.com
-
-  3. **Disclosure of Personal Information to Third-Parties**
-
-
-
-We will not disclose or share Personal Information with third-parties except as set out in this Policy. We may provide Personal Information and Aggregate Information, including the number of visitors to the Site and time of access to the Site, to certain third-parties, such as vendors, service agencies, and advertisers, whom we engage to assist Us in providing Our Services to You.
-
-We reserve the right to disclose Your Personal Information and communications on the Site when required by law.
-
-In the event of a merger or other corporate reorganization, We may transfer your Personal Information to Our successor or purchaser.
-
-  4. **Age of Majority**
+  * IP address;
+  * device information ( _e.g._ operating system, device identifiers, and mobile network system);
+  * hardware and browser settings;
+  * requests made;
+  * time and date of requests;
+  * the pages visited and search terms used;
+  * location information;
+  * email address;
+  * date of birth;
+  * age;
+  * gender;
+  * any personal information posted on our social media accounts;
+  * any personal information provided when users enter our contests and giveaways;
+  * whether our emails were received and whether hyperlinks therein were accessed;
+  * marketing preferences.
 
 
 
-This Site is only intended for individuals over the age of 17 _and_ over the age of majority in their jurisdiction. The materials on the Site and the Services are _not_ targeted at individuals under the age of 18. By using the Site, You warrant that You are above the age of 17 _and_ the age of majority in Your jurisdiction. If You are not, You agree to stop using the Site immediately.
+### 4(b) We may use the information to:
 
-  5. **Cookies and Widgets**
-
-
-
-We may use cookies (pieces of data stored on Your hard-drive which contain information about Your access to the Site) to improve visitors’ overall Site experience. Cookies generally do not permit identification of Your Personal Information. However, it may be possible for You to disable the Our use of cookies through Your internet browser settings.
-
-The Site may also employ widgets (software aimed at collecting information regarding Your browsing habits) in order to provide You access to Site content. Widgets embedded on the Site may collect information provided by visitors which is then disclosed to third-parties.
-
-Our advertisers may place such widgets in Your internet browser or use web beacons to collect information about the user. Such third-parties may collect and commercially exploit any information provided by users, subject to applicable laws and regulations. The use of such information is not covered by this Policy as we do not have direct control over how the information collected by these third-parties is used.
-
-  6. **Links to Third Party Websites**
+  * alter and develop new services based on: the information collected, user behavior, and users’ technical capabilities;
+  * improve our services to better suit the behaviors and technical capabilities of the users;
+  * identify issues with the website;
+  * monitor the way the website is used (including, but not limited to, access points, access methods, and peak usage times);
+  * enter into and complete any and all contracts we enter into with users, including but not limited to providing prizes won by users in our contests and giveaways; and
+  * make the advertising we show you on the website more relevant and interesting to you.
+    * For this purpose, we use third-party tools (including programmatic advertising), retargeting, cookies, web beacons, or similar technologies to collect information about your browsing behavior.
 
 
 
-We provide links to other websites and resources over which We do not have control (“ **External Sites** “). Said links are not an endorsement of External Sites. You agree that We are not responsible for the content of such External Sites. Your use of External Sites is subject to their terms of use and privacy policies.
+### 4(c) Our collection and use of your information aids our legitimate interests in managing our business and the website. Our legitimate interests include, but are not limited to:
 
-By linking from the Site to External Sites, We may share some information with the External Sites. This information is generally not personally identifiable information but may include information about Your use of the Site, including the location from where You accessed the Site, which link You used to navigate to the External Site, and the date and time that You navigated to the External Site.
-
-  7. **Broadcast Email Providers**
-
-
-
-We may employ third party marketing providers (“ **Broadcast Email Providers** ”) to assist Us in contacting Our visitors by providing broadcast email services for Us. If You provide Us with Your email address and opt in to receive emails from Us, We may share your name and email address as necessary for such Broadcast Email Providers to provide that service. Such Broadcast Email Providers are prohibited from using Your Personal Information for promotional purposes. Any emails You received from Us or on Our behalf shall have an opt-out or unsubscribe option clearly displayed allowing You to opt-out or unsubscribe from future emails or adjust email subscription settings from Us.
-
-  8. **Referrals**
+  * tracking traffic to the website to ensure the future viability of our business and the website;
+  * understanding how users use the website;
+  * understanding which services users value;
+  * improving the functionality and content of the website;
+  * ensuring the website and our network is safe and secure; and
+  * preventing fraud.
 
 
 
-We do not trade, sell or otherwise share your Personal Information with third-parties, but the Site may earn revenue by way of referral fees ( _i.e._ fees earned by Us when visitors from the Site click out to an External Site).
+## **5\. How long we retain the information**
 
-  9. **Security**
+We retain the information as long as it is reasonably necessary, this includes, but is not limited to, retaining the information until we have complied with all legal, accounting, and reporting requirements.
+
+## 6\. What information we share
+
+There are certain circumstances in which we transfer the information, or parts thereof, to employees, contractors, service providers, and/or other third parties (collectively, the “third parties”). These third parties may process your personal data for us, and the parts of the information we provide to the third parties will only pertain to the function of each third party.
+
+The third parties will not be permitted to use the information for any purposes other than those outlined in the Privacy Notice.
+
+Your personal information may be transferred to other third-party organisations in certain scenarios, including but not limited to, scenarios pursuant to the sale or transfer of any part of our business, in which case the information may be provided to prospective purchasers/transferees.
+
+## 7\. Where the information is stored
+
+We store our information on [ **cloud servers located in the United States** ].
+
+## 8\. What rights you have
+
+You have certain rights in relation to the information, described in more detail below. Some of these rights will only apply in certain circumstances.
+
+  * **Request:**  you are entitled to ask us if we are collecting and processing your information.
+  * **Access:** If we are processing your information, you may request access to your information, and receive a copy of the information pertaining to you.
+  * **Correction:**  you may request that any inaccurate information about you is corrected.
+  * **Erasure:**  you may request that we delete or remove your information, but we may refuse such requests if, for example, the personal data is required for compliance with any legal obligation or is connected to any claims.
+  * **Transfer:**  you may request the transfer of your information to another party.
+  * **Objection:**  where we are processing your personal information based on a legitimate interest (or those of a third party) you may challenge this. However, we may be entitled to continue processing your information based on our legitimate interests or where this is relevant to legal claims.
+    * You may also object to collection of your personal information for direct marketing purposes.
 
 
 
-We are committed to ensuring Your Personal Information is protected. We may employ security measures (including internal procedures and software and hardware solutions) designed to help protect Your Personal Information from loss, unauthorized access, disclosure, alteration or destruction. To protect Your Personal Information, we will use industry-standard security measures, including Secure Socket Layer (SSL) technology.
+## 9. Our direct marketing practices
 
-The evolving nature of Our business may require Us to situate Our computer systems outside of North America or the European Union. Personal Information stored in such other jurisdictions may be subject to disparate privacy legislation. By using the Site, You consent to the transfer of Your Personal Information to such other jurisdictions . You further acknowledge that this may affect the level of protection Your Personal Information receives.
+We may use the information you give us on the website for direct marketing purposes to provide communications of interest to you. We will only do this with your consent (where required by law).
 
-  10. **Updates**
+You can opt-out of receiving directing marketing from us at any time. You can do this by contacting us at privacy.officer@sportsbettingdime.com.
 
+## 10. Our use of third-party tools
 
+We use third-party tools to personalize what is displayed to you on the website.
 
-From time to time, We may amend this Policy. Before any such amendments are effective, We will provide notice of the amendments prominently on the Site for a minimum of thirty (30) days. By continuing to use the Site and/or Services after such amendments are effective, You agree to abide by the amended Policy. If You do not agree to be bound by the amended Policy, You must cease using the Site immediately.
+We use third-party tools, including programmatic advertising and retargeting, to make the content of the website more relevant and interesting to you.
 
-—
+For this purpose, we use cookies, web beacons, or similar technologies to collect information about your browsing behavior.
 
-**Effective Date:** February 4, 2016
+## 11. Our use of cookies
+
+We use cookies that identify your browser or device. When you visit the website, they collect and store information about how you use the website.
+
+## 12. Our security measures
+
+In order to protect your information, we have implemented physical and technical safeguards to prevent unauthorized access to the information.
+
+## 13. Links to third-party websites
+
+Our website and our communications with you may contain links to third-party websites.
+
+Those websites are not subject to this Privacy Policy. The collection, retention, and treatment of your personal data by such websites is not our responsibility.
+
+Such third-party websites may have their own privacy notices, detailing their own obligations and practices with respect to the collection, retention, and treatment of personal data.
+
+## 14. Children may not submit personal information
+
+We do not knowingly collect any information from any persons under the age of 18. If you are under the age of 18, you may not submit any personal information to us.
+
+If you have reason to believe that we are in receipt of personal information pertaining to a person under the age of 18, contact us at [privacy.officer@sportsbettingdime.com](mailto:privacy.officer@sportsbettingdime.com).
