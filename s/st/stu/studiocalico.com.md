@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiocalico.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416222654id_/https%3A//www.studiocalico.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiocalico.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413160555id_/https%3A//studiocalico.com/about/privacy) for the most accurate reproduction.*
 
 # Studio Calico And Studiocalico.com Privacy Policy - Studio Calico
 
@@ -9,7 +9,7 @@ This document was last updated on February 9, 2017.
 ###    
 1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS 
 
-Studio Calico is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Studio Calico/ [www.studiocalico.com,](https://web.archive.org/web/20170416222654id_/https%3A//www.studiocalico.com/about/falsewww.studiocalico.com,) you acknowledge and fully understand Studio Calico’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Studio Calico is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Studio Calico/ [www.studiocalico.com,](https://web.archive.org/web/20190413160555id_/https%3A//studiocalico.com/about/falsewww.studiocalico.com,) you acknowledge and fully understand Studio Calico’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 ###    
 2\. PARTICIPATING MERCHANT POLICIES 
