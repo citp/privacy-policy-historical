@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapdigitaldownload.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001213555id_/https%3A//cheapdigitaldownload.com/privacy-policy-cheapdigitaldownload-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapdigitaldownload.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413221537id_/https%3A//cheapdigitaldownload.com/privacy-policy-cheapdigitaldownload-com) for the most accurate reproduction.*
 
 # Privacy Policy Cheapdigitaldownload.com
 
@@ -73,6 +73,7 @@ We do not access, sell, trade, or rent Users personal identification information
   * OneAllsocialLogin
   * Facebook
   * Google
+  * hotjar.com
 
  
 
