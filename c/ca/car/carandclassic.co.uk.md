@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carandclassic.co.uk privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920000708id_/https%3A//www.carandclassic.co.uk/doc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carandclassic.co.uk privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413101829id_/https%3A//www.carandclassic.co.uk/doc/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY Car And Classic Web Site
 
@@ -6,7 +6,12 @@ This is the privacy notice of Car and Classic Limited. In this document, "we", "
 
 We are company number 05599884 registered in England and Wales. 
 
-Our registered office is at 2 Harestone Valley Road, Caterham, Surrey, CR3 6HB, United Kingdom. 
+Our registered office is at Car and Classic Limited  
+Runway East,  
+10 Finsbury Square,  
+London,  
+England,  
+EC2A 1AF, United Kingdom. 
 
   
 
@@ -188,7 +193,7 @@ We use cookies in the following ways:
 
 9.3 to keep you signed in our website 
 
-We provide more information about the cookies we use in our [cookie policy](https://web.archive.org/web/20180920000708id_/https%3A//www.carandclassic.co.uk/doc/cookies). 
+We provide more information about the cookies we use in our [cookie policy](https://web.archive.org/web/20190413101829id_/https%3A//www.carandclassic.co.uk/doc/cookies). 
 
 ### 10\. Personal identifiers from your browsing activity
 
