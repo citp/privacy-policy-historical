@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apotelyt.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202140538id_/http%3A//www.apotelyt.com/site-core/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apotelyt.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413101925id_/https%3A//www.apotelyt.com/site-core/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Your **privacy is valued** and the importance of protecting your personal data i
 
 Any personal details you submit to the Site, such as your name and email address, will not be used for any other purposes than to contact you in case a message from you requires a reply. The Site will take reasonable technical and organisational precautions to **prevent the loss, misuse or alteration of your personal information**. The Site will securely store any personal information you provide and will not sell it or pass it on to others. 
 
-## First-party cookies 
+##  First-party cookies 
 
 The Site receives and stores certain types of non-personal information whenever you interact with it. Like many other websites, the Site uses " **cookies** " to save selected data about your internet session, such as IP address and referring page. Cookies are alphanumeric identifiers that are stored by your Web browser and enable the provision of personalised site features. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its producer. However, because cookies may allow you to take advantage of some of the Site's essential features, it is recommended that you leave them turned on.
 
