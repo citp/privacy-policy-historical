@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the taxtips.ca privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxtips.ca privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/privacy.htm) for the most accurate reproduction.*
 
 # TaxTips.ca - Personal Information Protection Policy
 
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/whatsnew.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/calculators.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/personal_income_tax.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/small_business_income_tax.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/salestaxes.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/freein30.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/financialplanning.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/rrsp-rrif-tfsa.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/realestate.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/stocksandbonds.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/seniors.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/disabilities.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/fedtax.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/abtax.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/bctax.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/mbtax.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/ontax.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/qctax.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/sktax.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/atlantic.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/territories.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/federalbudget.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/provbudgets.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/statistics.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/glossary.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/site_map.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/directory.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/advertising.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/contact.htm)  
-[](https://web.archive.org/web/20171129033045id_/http%3A//taxtips.ca/links.htm)
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/whatsnew.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/calculators.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/personal-income-tax.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/small-business-income-tax.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/salestaxes.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/freein30.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/financialplanning.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/rrsp-rrif-tfsa.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/realestate.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/stocksandbonds.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/seniors.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/disabilities.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/fedtax.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/abtax.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/bctax.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/mbtax.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/ontax.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/qctax.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/sktax.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/atlantic.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/territories.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/federalbudget.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/provbudgets.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/statistics.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/glossary.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/site-map.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/directory.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/advertising.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/contact.htm)  
+[](https://web.archive.org/web/20190413045047id_/https%3A//www.taxtips.ca/links.htm)
 
 | | 
 
@@ -74,7 +74,7 @@ This Personal Information Protection Policy, in compliance with PIPA, outlines t
 |  To meet regulatory requirements;   
 |  To collect and process payments for services;  
   
-1.3 We use third-party advertising companies to serve ads when you visit our website.  These companies may use information ( ** _not_** including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI) website.  We use Google Adsense to serve ads on our site, which uses the DoubleClick DART cookie.  We have implemented the Google Analytics Demographics and Interest Reporting feature based on Display Advertising, which provides us with demographic information on our site visitors.  Please review the following information:
+1.3 We use third-party advertising companies to serve ads when you visit our website.  These companies may use information ( ** _not_** including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) website.  We use Google Adsense to serve ads on our site, which uses the DoubleClick DART cookie.  We have implemented the Google Analytics Demographics and Interest Reporting feature based on Display Advertising, which provides us with demographic information on our site visitors.  Please review the following information:
 
 #### Policy 2 - Consent
 
@@ -157,7 +157,7 @@ For more information or advice, you can contact the Commissioner's office at:
 PO Box 9038, Stn. Prov. Govt.  
 Victoria, BC V8W 9A4  
 Telephone:  (250) 387-5629  Fax:  (250) 387-1696  
-Web Site:  [www.oipc.bc.ca](http://www.oipc.bc.ca/)  
+Web Site:  [www.oipc.bc.ca](https://www.oipc.bc.ca/)  
 For toll-free access, call Enquiry BC at one of the numbers listed below and request a transfer to (250) 387-5629:  
 From Vancouver:  (604) 660-2421  
 From elsewhere in BC:  1-800-663-7867
