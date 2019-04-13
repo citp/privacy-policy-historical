@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zemana.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115033338id_/https%3A//www.zemana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zemana.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413233728id_/https%3A//www.zemana.com/privacy) for the most accurate reproduction.*
 
 # Zemana - Privacy and Security Policy Page
 
