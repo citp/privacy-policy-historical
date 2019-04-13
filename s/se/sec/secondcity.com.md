@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secondcity.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231172356id_/https%3A//www.secondcity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondcity.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413183522id_/https%3A//www.secondcity.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Second City
+# The Second City
 
 The Second City (TSC) has created this statement of our privacy policy in order to show our commitment to your privacy. The following describes our information gathering and sharing practices for this web site and its related digital marketing channels (“Web Site”). By visiting and using this Web Site, you agree that your use of the Web Site is governed by this Privacy Policy. This Privacy Policy also applies to any other features and online services provided by TSC that post or include a link to this Privacy Policy. Please note that if we provide access to other websites via links on this Web Site, those websites may have different privacy policies specific to those websites. We encourage you to read all third-party privacy policies because they will be different from this one, and may pose different privacy and security risks.
 
