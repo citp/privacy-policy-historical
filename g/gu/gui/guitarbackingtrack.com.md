@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarbackingtrack.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708135443id_/https%3A//www.guitarbackingtrack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarbackingtrack.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413084802id_/https%3A//www.guitarbackingtrack.com/privacy.php) for the most accurate reproduction.*
 
 # GuitarBackingTrack.com: Free backing tracks for guitar
 
