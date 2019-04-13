@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytemark.co.uk privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915193432id_/https%3A//www.bytemark.co.uk/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytemark.co.uk privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413042013id_/https%3A//www.bytemark.co.uk/company/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Bytemark
 
@@ -89,5 +89,3 @@ If you wish to receive marketing communication from us, we will collect your nam
 
 
 The way we handle your data for marketing reasons doesn’t change whether you are a customer or not. Even as a customer you would still need to give us permission to send you marketing emails.
-
-## Learn more about our company
