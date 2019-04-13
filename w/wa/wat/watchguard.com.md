@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004134358id_/https%3A//www.watchguard.com/wgrd-about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413163415id_/https%3A//www.watchguard.com/wgrd-about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WatchGuard Technologies
 
@@ -81,7 +81,7 @@ We also may be required to disclose an individual’s personal information in re
 
 WatchGuard has responsibility for the processing of personal information it receives and subsequently transfers to a third party. WatchGuard remains potentially liable under the Privacy Shield Principles if its agent processes such personal data in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, WatchGuard commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact WatchGuard at: [privacy@watchguard.com](mailto:privacy@watchguard.com)
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, WatchGuard commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact WatchGuard at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e595978c9384869ca5928491868d8290849781cb868a88)
 
 WatchGuard has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. A binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
 
@@ -101,7 +101,7 @@ We retain your personal information for as long as necessary to provide services
 
 If you wish to ask for access, correction, or deletion of any of your personal information held by us or a change in the way we use your information (for which we reserve the right to charge you a fee, where permitted by applicable law), please contact [WatchGuard Support](https://www.watchguard.com/wgrd-support/contact-support) However, we may decline requests that are unreasonable, prohibited by law, or are not required to be honored by applicable law.
 
-You can opt out of receiving promotional emails from WatchGuard by following the instructions in those emails. You can also manage your email contact preferences at our [Subscription Center](https://secure.watchguard.com/subscription-center.html) If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You can also send requests about changes to your information or your contact preferences, including requests to opt-out of sharing your personal information with third parties, by emailing [marketingoperations@watchguard.com](mailto:marketingoperations@watchguard.com).
+You can opt out of receiving promotional emails from WatchGuard by following the instructions in those emails. You can also manage your email contact preferences at our [Subscription Center](https://secure.watchguard.com/subscription-center.html) If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You can also send requests about changes to your information or your contact preferences, including requests to opt-out of sharing your personal information with third parties, by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5a373b28313f2e33343d352a3f283b2e333534291a2d3b2e39323d2f3b283e74393537).
 
 Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to remove cookies from within your browser, or set your browser to block all cookies, all third-party cookies, or particular cookies. If you choose to remove or block cookies, this can disable or otherwise affect certain features or services of our websites.
 
@@ -118,7 +118,7 @@ We adhere to applicable data protection laws in the European Economic Area, whic
 
 
 
-As applicable under French law, you can also send us specific instructions regarding the use of your personal information after your death, by contacting us at [privacy@watchguard.com](mailto:privacy@watchguard.com).
+As applicable under French law, you can also send us specific instructions regarding the use of your personal information after your death, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cdbdbfa4bbacaeb48dbaacb9aea5aab8acbfa9e3aea2a0).
 
 You can read our GDPR Statement [here](https://www.watchguard.com/wgrd-about/gdpr-statement).
 
@@ -128,4 +128,4 @@ WatchGuard may change this Policy from time to time. If we make any changes to t
 
 ### QUESTIONS
 
-If you have any questions about this Policy, or if you wish to lodge a complaint about our privacy practices, please contact us at [privacy@watchguard.com](mailto:privacy@watchguard.com).
+If you have any questions about this Policy, or if you wish to lodge a complaint about our privacy practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ffffde6f9eeecf6cff8eefbece7e8faeefdeba1ece0e2).
