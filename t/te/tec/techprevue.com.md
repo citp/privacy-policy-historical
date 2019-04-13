@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techprevue.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615165639id_/https%3A//www.techprevue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techprevue.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413124312id_/https%3A//www.techprevue.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « TechPrevue
+# Privacy Policy ⋆ TechPrevue
 
 This Privacy Policy governs the manner in which Tech Prévue collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.techprevue.com](https://www.techprevue.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech Prévue.
 
