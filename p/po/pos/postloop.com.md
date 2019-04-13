@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the postloop.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427124958id_/http%3A//www.postloop.com/pages/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postloop.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413123351id_/https%3A//www.postloop.com/terms%23privacy) for the most accurate reproduction.*
 
-# Terms & Conditions | Postloop Forum Post Exchange and Blog Comment Exchange
+# Terms & Conditions
 
-## Usage Agreement
+##  Terms of Service
 
 The following information (Terms of Use and Privacy Policy) are intended to inform you of policies and procedures that you agree to follow through use of Postloop services as well as details on any and all information that Postloop gathers from you and how such information is maintained. Your use of our services constitutes acknowledgement and acceptance of all information contained herein:
 
   
 
-
-## Terms of Use
 
 #### All Users
 
