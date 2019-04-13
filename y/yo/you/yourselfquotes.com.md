@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourselfquotes.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228192049id_/https%3A//www.yourselfquotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourselfquotes.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413101323id_/https%3A//www.yourselfquotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ― YourSelfQuotes.com
 
