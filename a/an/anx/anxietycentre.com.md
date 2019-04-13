@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the anxietycentre.com privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anxietycentre.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413215521id_/https%3A//www.anxietycentre.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Anxietycentre.com Privacy Policy - anxietycentre.com
-
-“ _All of us at anxietycentre.com have experienced debilitating anxiety. But we’ve also overcome it and returned to normal and lasting health. Because we know the hardship anxiety unwellness can cause, we are committed to helping others, with over 27 years of service._ ” - Jim Folk, President, anxietycentre.com
 
 This privacy notice discloses the privacy practices for anxietycentre.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -43,16 +41,14 @@ We respect, and therefore, protect the privacy of our members and therapy client
 Testimonials presented online  
 Many of the pictures associated with the testimonials we present online are from stock photography in order to protect the identity of the individual. With the proliferation of identity theft, we don't recommend making personal information available online, including personal photographs. Some pictures, however, are from actual members or clients because they requested to have them posted.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately by telephone at 403-208-0091 or by [email](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/contact-us.html).
+If you feel that we are not abiding by this privacy policy, you should contact us immediately by telephone at 403-208-0091 or by [email](https://web.archive.org/web/20190413215521id_/https%3A//www.anxietycentre.com/contact-us.html).
 
 Google Tracking  
 anxietycentre.com uses Google tracking to monitor website traffic flow. No personal information is collected, used, or stored during this process.
 
-For more information about our [Anxiety Therapy, Coaching, Counseling](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety-therapy-coaching-counseling.shtml) option; our [Available Anxiety Therapists](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety-therapy-counseling-coaching.shtml); to [Book An Appointment](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/appointment.shtml) with one of our anxiety therapists; common [Anxiety Symptoms](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety-symptoms.shtml); our [anxiety Recovery Support](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxietycentre-recovery-support.shtml) area; common [Anxiety Myths](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety-myths.shtml); and our [Anxiety 101](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety/anxiety-101.shtml) section; or click on the appropriate graphic below:
+For more information about our [Anxiety Therapy, Coaching, Counseling](https://web.archive.org/web/20190413215521id_/https%3A//www.anxietycentre.com/anxiety-therapy-coaching-counseling.shtml) option; our [Available Anxiety Therapists](https://web.archive.org/web/20190413215521id_/https%3A//www.anxietycentre.com/anxiety-therapy-counseling-coaching.shtml); to [Book An Appointment](https://web.archive.org/web/20190413215521id_/https%3A//www.anxietycentre.com/appointment.shtml) with one of our anxiety therapists; common [Anxiety Symptoms](https://web.archive.org/web/20190413215521id_/https%3A//www.anxietycentre.com/anxiety-symptoms.shtml); our [anxiety Recovery Support](https://web.archive.org/web/20190413215521id_/https%3A//www.anxietycentre.com/anxietycentre-recovery-support.shtml) area; common [Anxiety Myths](https://web.archive.org/web/20190413215521id_/https%3A//www.anxietycentre.com/anxiety-myths.shtml); and our [Anxiety 101](https://web.archive.org/web/20190413215521id_/https%3A//www.anxietycentre.com/anxiety/anxiety-101.shtml) section; or click on the appropriate graphic below:
 
-[](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety-therapy-coaching-counseling.shtml) [](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety-therapy-counseling-coaching.shtml) [](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/appointment.shtml) [](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety-symptoms.shtml) [](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxietycentre-recovery-support.shtml) [](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety-myths.shtml) [](https://web.archive.org/web/20180510080821id_/http%3A//www.anxietycentre.com/anxiety/anxiety-101.shtml)
-
-Authors: Jim Folk, Marilyn Folk, BScN. Last updated March 11, 2017.
+* * *
 
 ### anxietycentre.com: Information, support, and coaching/counseling/therapy for problematic anxiety and its sensations and symptoms, including our privacy policy.
 
