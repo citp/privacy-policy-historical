@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pinalove.com privacy policy that was archived on 2017-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170416183941id_/https%3A//www.pinalove.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pinalove.com privacy policy that was archived on 2019-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190413145125id_/https%3A//www.pinalove.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
  <!--[if lt IE 9]><script>document.createElement('header');document.createElement('section');document.createElement('article');document.createElement('footer');</script><style>header,section,article,footer{display:block;}</style><![endif]-->
@@ -187,7 +187,7 @@ and (min-width : 826px) {
     border-width: 5px;
     color: rgb(112, 112, 112);
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-weight: normal;
     line-height: 22px;
@@ -368,7 +368,7 @@ footer {
     background-color: rgb(119, 186, 255);
     color: rgb(68, 68, 68);
     font-family: 'Helvetica Neue Medium', Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-weight: normal;
     line-height: 16px;
@@ -435,7 +435,7 @@ header {
     border-bottom-width: 1px;
     border-style: none;
     font-family: 'Helvetica Neue Bold', Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-weight: bold;
     line-height: 17px;
@@ -498,10 +498,10 @@ ul {
     margin-top: 0px;
     padding: 0px;
 }</style>  
-	<meta charset="upl-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcFWFJACwQEUFFQAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+	<meta charset="upl-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	<title>PinaLove Privacy Policy</title>
-  <script>
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -524,38 +524,90 @@ ul {
 </head>
 <body class="home">
 	<div id="wrapper">
-    <div class="loginbxcont" id="loginboxcontainer">
-    <div style="position: absolute; left: 50%;top:15%;z-index:1500">
-            <div class="loginbx" style="position: relative; left: -50%;z-index:1501" id="loginbxx">
-            <form action="/index.php" method="post" style="width:250px;">
-            <fieldset><label>Username / email:<input type="text" id="user" name="username"></label></fieldset>
-            <fieldset><label>Password:<input type="password" id="pass" name="password"></label></fieldset>
-            <label style="margin-right:5px">Remember me<input type="checkbox" value="1" name="rememberme" checked="" style="margin-right:12px" id="remember"></label>
-            <input type="submit" value="Log in" name="submit" class="signin">
-            </form>
-            <br><br>
-            <a href="/forgotpassword.php">Forgot password</a> | <a href="/jx.php">Open account</a><br>
-            </div>
-    </div>
-    </div>
 		<header id="header">
 			<h1 title="The biggest Filipina dating site on the Internet!" class="logo">
 				<a href="/">PinaLove.com</a>
 			</h1>
-			<div class="block">
-				<div class="login-block">
-                     <input type="button" value="Log in" id="loginbut" class="signin opener" onclick="showLogin();">
-				</div>
-				<div class="lng"><a href="/farang.php" class="language">หา�?ฟนต่างชาติ</a><br><span class="greysm">ภาษาไทย</span></div>
-			</div>
 		</header>
 		<div id="main">
         <article class="container">
-        <div class="headline">Privacy statement</div> 
-        Please read this privacy statement to ensure that we are committed to keeping secure the privacy of our members details.<br><br> <b>What information do we collect?</b><br> To be able to use this website, we may require from you some information that may be considered as personally identifiable.<br><br> Your passwords are stored encrypted on our server. However other details such as your email, name, age, and any other submitted information such as your image, messages, interest relationships, chat data, and a profile of your browser is stored on our servers along with your IP address and access times. This information is stored to help improve the quality of our site and limit any damage caused by misuse as well as to improve the quality of our site and help with profile moderation. We also track site activity information such as access times, and browser profiles. This information is also used to determine shared profiles, or fraudulent activity on the site. In the event of a chargeback or forced refund of transactions details of activity at this site may be shared with the payment processor/credit card company to substantiate usage of this site. <br><br> <b>How to modify/delete information at pinalove.com</b><br> At any time after logging in you can go to <a href="https://www.pinalove.com/editaccount.php">https://www.pinalove.com/editaccount.php</a> to edit details of your account such as email address. From this page you can also delete your profile removing all information from the site. Your information will be held only in backups for 7 days after which it will rotate out and we will no longer have your information.<br>If you have forgotton your password you can reset it at <a href="https://www.pinalove.com/forgotpassword.php">https://www.pinalove.com/forgotpassword.php</a>, alternatively you can email us (email in footer of page) and we will manually remove your profile.<br><br> <b>How can I opt out of future communications</b><br> At any time after logging in you can go to <a href="https://www.pinalove.com/editaccount.php">https://www.pinalove.com/editaccount.php</a> to change your email settings. You can choose to disable email notifications and mailers. If you delete your account we do not store your email address so there will not be any further contact from us.<br><br> <b>How can we contact pinalove.com</b><br> All emails should be directed to support at pinalove.com <br><br> <b>Third party data collection and tracking</b><br><br> * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.<br> * You have the option to opt out of Google's use of cookies by visiting the <a href="http://www.google.com/privacy_ads.html">Google advertising opt-out page</a>.<br> Alternatively you can opt out - opt out of cookies by visiting the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt out page</a>.<br><br> Google Analytics is used to track anonymous user data such as browser resolution, access times, and which pages have been accessed. This helps us develop our site to provide more relevant content for our users<br><br> <b>Data security</b><br> pinalove.com cannot be held reliable for loss of your personal data, and is not responsible for backing up any of your personal data including text/images/video or other. pinalove.com makes no claim that your account data is stored securely, and should data or personal information be leaked either through a user problems or server problems pinalove.com cannot be held responsible.<br><br> <b>Cookies</b><br> Cookies are employed to store temporary details to improve the performance of our site. Google analytics cookies are also stored.<br><br> <b>Acceptance of agreements</b><br> By reading this you agree to our Privacy Statement. If you do not agree to our terms and conditions you may not use this site. We may update our Privacy Statement from time to time so please visit this page regularly.
+        <div class="headline">Privacy Policy</div> 
+        We are committed to keeping secure the privacy of our members details.<br><br>
+        This privacy policy applies to our websites and apps.<br><br>
+
+
+        <b>Best Practices for Privacy and Safety</b><br><br>
+        <ul>
+            <li><b>Use a unique password when registering for the site</b>. The password should be at least 8 characters long and not be a dictionary word or name. Using a password manager may be helpful providing it is trustworthy</li>
+            <li><b>Do not use your real full name or address anywhere on the site</b> including your username, in your profile, or in any message you send to another user.</li>
+            <li><b>Do use your real and valid email</b>. If you use a fake or temporary email we may have no means to verify that you are the owner of the profile should you lose access and want to delete it.</li>
+            <li><b>Do not put your contact details on your profile</b> - it is easy for the details to be farmed by spammers in this way. Only give contact details to other members after you have talked to them for a while and are comfortable doing so</li>
+            <li><b>Do not show any private pieces of data in photos you upload</b>. This includes photos of your home or your office. Especially important is not to upload photos of children (which is also against our terms of use)</li>
+            <li><b>If you plan to meet any member from this site it is recommended that you meet them in a public place such as a busy restaurant or mall and that you bring a friend.</b></li>
+            <li><b>Do not for any reason ever send money to any person on this site</b>. If anyone ever asks for money either innocently (eg. to help pay their personal expenses) or in a suspicious way (eg. to help pay for hospital bills for a sick relative) DO NOT send any money and immediately report their profile using the report profile functionality so we can protect other members</li>
+        </ul>
+
+        <b>How can we contact pinalove.com</b><br> All emails should be directed to help@pinalove.com <br><br> 
+
+        <b>Who are we?</b><br>
+        This site/app is operated by Oxixo Private Limited. - a company registered in Singapore.<br>
+        Oxixo Private Limited.<br>
+        30 Raffles Place<br>
+        #17-01 Chevron House<br>
+        Singapore 048622<br>
+        <br>
+        For any data protection queries or other privacy questions you can either write to us or email help@pinalove.com<br><br> 
+
+        <b>Eligibility</b><br><br>
+        By joining this site or app you enter a legal agreement with us and we will process your information in order to provide service under the terms of this agreement. You can only become a member of this site or app or use its features if you're aged 18 or over. If you are aware of any user that is under the age of 18 please report their profile using the report profile functionality.<br><br>
+
+        <b>What information do we collect?</b><br><br>
+
+        <b>In short:</b>To be able to use this website, we may require from you some essential information that may be considered as personally identifiable/sensitive as well as optional information. You agree to the processing of any data you transmit to our servers or any third-party servers such as analytics providers or billing processors. You may remove all information about yourself from our servers by deleting your account or by using our <b><a href="/deletedata/">Data Removal Tool</a></b>. Please be careful posting sensitive details about yourself online such as religious or political views as well as gender and sexual orientation. Such data is easily visible to anyone else who creates a profile on this site/app.<br><br>
+
+        A hash of your password is stored on our server. This means we do not have your password so do not give your password to anyone who may claim to be working for us. Other details such as your email, username, age, and any other submitted information such as your image, messages, relationship status, chat data, and Internet browser details are stored on our servers along with your IP address and access times. This information is stored to help improve the quality of our site and limit any damage caused by misuse as well as to and help with profile moderation. We also track site activity information such as access times, and browser profiles. This information is also used to determine shared/fake profiles, or fraudulent activity on the site. By providing this information you consent to us processing and storing this information. You may delete this information at any time after logging into your account or <b><a href="/deletedata/">To access our Data Removal Tool click here</a></b>. <br><br> 
+
+        In order to provide you with relevant matches we may collect information that could be deemed as sensitive such as your gender and sexual orientation. You may also provide us with your photos for use in your profile. This information may be considered sensitive and by providing this information you consent to us processing this information in order to provide service to you.<br><br>
+
+        To improve site performance, to help develop the site and debug user issues, and for security purposes we track device details such as IP addresses, access times, Internet service provider, screen resolution, keyboard layout, browser language and timezone, browser type and version, advertising ID's (Google's AAID and Apple's IDFA), and may utilize other technologies to help uniquely identify your device or browser.<br><br>
+
+        With your consent and to provide site functionality we may collect and story your geolocation. You may revoke this permission at any time in your device or browsers configuration.<br><br>
+
+        We may use material that you post in the public areas of the site/app in advertising or for promotional purposes on our partner sites. Using your information in this way helps us improve the site and improve your results in the site.<br><br>
+
+        We use your personal data to help resolve disputes, to troubleshoot problems and enforce our Terms of Use.<br><br>
+
+        When making a payment through our website you may choose to provide your credit card or PayPal information to our billing processor. We do not hold any credit card information or billing details on our servers.<br><br>
+
+        If you contact our customer support we may keep a history of support enquiries in order to better assist you in further support requests<br><br>
+
+        You agree to let us process any messages you send to any users and store them on our servers. If you choose to send a photo message to another user the photo will temporarily be stored until it is automatically deleted after a two week period.<br><br>
+
+        Third-party providers may provide us information about you to help easily complete your profile. For example Facebook Login allows you to sign into the site without needing to make a new password. If you visit our site from an advertisement there may be tracking enabled to let us know if our advertising campaign was successful.<br><br>
+
+
+
+        <b>How to modify/delete information at pinalove.com</b><br> 
+        You may modify your information at any time by logging in to your account. We have also created a data removal request tool. This tool allows you to remove any data we hold on you. You are identified by an email address and you will be required to confirm ownership of this email address in order to proceed with account and data deletion. After using this tool all your information, account data, messages and contacts will be lost. <b><a href="/deletedata/">To access our Data Removal Tool click here</a></b>. Please be aware that deleting your account or using our data removal tool does not automatically cancel any billing agreement you have. For how to cancel billing please see our <a href="https://www.pinalove.com/contact.php">help page here</a><br>
+    <br>
+        <b>Data sharing</b><br><br>
+        To be able to provide you a service companies other than ourselves may be employed to process or store your data. We endeavour to share only what is necessary to provide service and for legal purposes. We use hosting providers to host our website and database as well as to provide notifications and other functionality. We employ moderation and phone verification providers to protect our site from criminal activity, fraud and abuse and ensure our terms of service are being followed. We may share your data where we are compelled to do so such as a court order.
+
+        <b>Third party data collection and tracking</b><br><br> * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.<br> * You have the option to opt out of Google's use of cookies by visiting the <a href="http://www.google.com/privacy_ads.html">Google advertising opt-out page</a>.<br> Alternatively you can opt out - opt out of cookies by visiting the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt out page</a>.<br><br> Google Analytics is used to track anonymous user data such as browser resolution, access times, and which pages have been accessed. This helps us develop our site to provide more relevant content for our users<br><br> 
+
+        <b>Data security</b><br> 
+        We respect your personal information with the highest regard. Our services are regularly penetration tested and kept up to date with the latest software and operating system patches. We comply with standard security procedures such as password hashing and our site and apps are only available over an encrypted connection. New security vunerabilities are found in underlying software and operating systems daily and no matter how large an organization it is unreasonable to expect data posted online to remain 100% secure and it is always vunerable to loss or theft. For example another provider may be compromised and you used the same password and email as on this site. This would allow anyone with access to that data to access your information here without any fault of this organization. We recommend you use a unique password for each website for this reason. Profiles are not indexed by search engines and although an account is needed to log in and view profiles it is trivial for someone to create an account and then see your photos and profile information so this site an app should be considered public domain. Please do not submit any information that you are not comfortable sharing with strangers.<br><br>
+        <br>
+
+
+        <b>Cookies and tracking</b><br> Cookies: traditional web cookies, local storage objects, tracking pixels, and other technologies are employed to ensure the security of your account and provide functionality. For example your browser saves a cookie that removes the requirement to log in with a username and password each visit. They are also used to ensure your account is secure to help block unauthorised log in attempts or to protect against multiple duplicate accounts (spam/abuse). Third party cookies from other services are also stored in order to help with site development and provide new services. You can disable cookies and tracking in your browser or with separate software however it will impact your experience of our service.<br><br> 
+
+        <b>Acceptance of agreements</b><br> Your continued use of this website/app indicates your acceptance of our Privacy Policy and Terms and Conditions. If you do not agree to either our Privacy Policy or Terms and Conditions then you may delete any information we hold on you by using our <b><a href="/deletedata/">Data Removal Tool</a></b>.<br>
+        <br>
+        We may update our Privacy Statement from time to time so please visit this page regularly.
         </article>
 		</div>
-		<footer id="footer">
+		<div style="text-align: center;"><div style="padding: 10px;font-size: 15px;line-height: 86px;letter-spacing: 0.1px;overflow: hidden;color: white;font-weight: bold;border-radius: 4px;"><span>😍</span><span>😍</span><a href="https://www.datesy.com/?vf=tf">Datesy.com - Dating nearby!&nbsp;</a><span>😍</span><span>😍</span></div></div><footer id="footer">
 			<div class="row-holder">
 				<div class="row">
                     <div class="col"><a href="/thai-ladyboy-dating.php">Thai ladyboy dating</a></div>
@@ -583,7 +635,7 @@ ul {
 					<div class="col"><a href="javascript:;" onclick="if (document.all) window.external.AddFavorite(&quot;https://www.pinalove.com/&quot;,&quot;PinaLove.com - Thai online Dating&quot;); else if (window.sidebar) window.sidebar.addPanel(&quot;PinaLove.com - Thai online Dating&quot;, &quot;https://www.pinalove.com/&quot;, &quot;&quot;)">Bookmark</a></div>
 				</div>
 			</div>
-			<span class="copyright">Copyright © 2015 <a href="#">PinaLove.com</a></span>
+			<span class="copyright">Copyright © 2019 <a href="#">PinaLove.com</a></span>
             <div style="height:600px;">&nbsp;</div>
 		</footer>
 	</div>
@@ -601,6 +653,6 @@ ul {
        document.getElementById('loginboxcontainer').style.display='block'; 
        document.getElementById('loginbxx').style.display='block'; 
   }</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"273c1e554b","applicationID":"3744025","transactionName":"NlIANRdUWkFYVBBbWA8YNxMMGkRAUEEFUU5PRwoR","queueTime":0,"applicationTime":7,"atts":"GhUDQ19OSU8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 
 </body></html>
