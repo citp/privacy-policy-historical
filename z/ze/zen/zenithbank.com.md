@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenithbank.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023174204id_/http%3A//www.zenithbank.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenithbank.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413095345id_/https%3A//www.zenithbank.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Zenith Bank
+# Privacy Policy - Zenith Bank Plc
 
 **Information we collect and how we use it**  
 We understand that in the course of delivering our numerous banking service products to you via the net, we will come across certain information pertaining to your good self which, to our mind, are purely personal and may even be classified information but for the existing relationship which dictates that you shall either fill them in and/or divulge same in order to be linked to our site. Zenith will handle the information in this manner:
