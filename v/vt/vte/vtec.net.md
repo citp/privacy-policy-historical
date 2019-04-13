@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtec.net privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510165431id_/http%3A//vtec.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtec.net privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413144251id_/https%3A//vtec.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
   
 | **Privacy Policy Statement**  
 ---  
-This is the website of Velocitech, Inc., <http://www.vtec.net/>
+This is the website of Velocitech, Inc., <https://www.vtec.net/>
 
 We can be reached via e-mail at [admin@vtec.net](mailto:admin@vtec.net)
 
@@ -21,9 +21,9 @@ With respect to cookies: We use cookies to store visitors preferences, ensure th
 
 We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is designed to attract anyone under 13.
 
-You will not receive unsolicited e-mail from the Temple of VTEC. If you have subscribed to e-mail alerts, follow the instructions contained within the alerts to remove yourself from the alert. You can also manage your alerts in [The Garage](https://web.archive.org/web/20180510165431id_/http%3A//vtec.net/pvt)
+You will not receive unsolicited e-mail from the Temple of VTEC. If you have subscribed to e-mail alerts, follow the instructions contained within the alerts to remove yourself from the alert. You can also manage your alerts in [The Garage](https://web.archive.org/web/20190413144251id_/https%3A//vtec.net/pvt)
 
-Registered users have the ability to correct inaccuracies in their profile. To edit your profile, [Visit the Garage](https://web.archive.org/web/20180510165431id_/http%3A//vtec.net/pvt)
+Registered users have the ability to correct inaccuracies in their profile. To edit your profile, [Visit the Garage](https://web.archive.org/web/20190413144251id_/https%3A//vtec.net/pvt)
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
