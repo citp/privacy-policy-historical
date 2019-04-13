@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hola.org privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217215524id_/http%3A//hola.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hola.org privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413075320id_/http%3A//hola.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Hola
 
