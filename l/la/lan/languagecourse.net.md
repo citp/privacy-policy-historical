@@ -1,35 +1,68 @@
-> *The following text is extracted and transformed from the languagecourse.net privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731113039id_/https%3A//www.languagecourse.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the languagecourse.net privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413145552id_/https%3A//www.languagecourse.net/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-**1\. Collection, processing and use of personal data**
+**1\. How we treat your data**
 
-1.1 Personal data is only collected as long as you provide it voluntarily in our order/registration form or in our feedback form on customer satisfaction. You can access the information on our website without having to disclose any personal data.
+1.1 We treat your information very seriously. We won't share your personal information with any third party, except with those that provide you with a service, stated below, in which case you give us the right to share the minimum necessary information in order to proceed with your reservation contract and guarantee service quality.
 
-1.2 We use the data you have provided solely to fulfil your order/registration. To fulfil your order/registration it is necessary that this information is saved in our system.
+1.2 The personal data we obtain from you, which you have given by entering it in our registration form or via telephone with any of our agents, is as follows:
 
-1.3 We may send you periodic information about offers on our website. At any given time you have the right to withdraw and may, with a simple link, discontinue the receipt of information regarding our website.
+\- First and last name (and middle name or second last name as applicable), passport number, nationality, date of birth, address, phone number (and emergency number if needed), e-mail. These are the minimum needed in order to put you in contact with the school of your choice.  
+\- Language level. This helps the school to place the proper course.  
+\- Bank information. Should you choose to pay the prepayment of your booking by direct debit, we may keep this information until the payment has been debited from your account.  
+\- Credit card information. When paying the prepayment for your booking by credit card, we may keep this information until payment has been guaranteed.  
+\- We don't keep your gender (only in case you want us to treat you as Mr. or Ms. we will keep the treatment part), religion, ethnicity or any association.
 
-1.4 If you choose to rate your satisfaction with the contracted service/products, your rating will be viewable to other visitors of our website, but will be presented by default in an anonymous form.
+1.3 We may send you periodic information about offers on our website. At any given time you have the right to withdraw and may exercise that right through a link in the footer of the email you receive.
+
+1.4 If you choose to rate your satisfaction with the contracted service/products, your rating will be viewable to other visitors of our website along with your age. country of residence, first name and initial, unless you choose to publish your evaluation anonymously.
 
 1.5 After completion of the contractual agreement, your personal data will be automatically deleted after the expiration of the required archiving periods specified by current tax and commercial regulations.
 
- **2.Protection of personal data**
+ **2\. Data sharing with other providers**
 
-Your personal data will not be disclosed to third parties. Excluded from this are those service partners who require the data to enable the processing of the order/registration (eg. the bank responsible for the payment transaction, a shipping company responsible for delivery of goods or documents). In those cases, we will transmit to the organization only the minimum data that is required.
+The personal information you provide is shared with your chosen school (which may be located outside of the EU). Your payment details (credit card/bank account) will not be shared with the school. If you choose to contract a travel insurance, we also share a portion of the data provided with AVI International SAS, whose VAT ID is FR-72323234575, in 40-44 rue Washington 75008 Paris (FRANCE). **We will always keep the information shared with these third parties to the minimum required.**
 
  **3\. Use of Cookies**
 
 Our website may save so called “cookies.” These cookies will not contain personal data. They are used to improve the usability of your website visit and ensure that website content is displayed in the accurate language.
 
- **4\. Security**
+ **4\. Google Analytics**
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ('Google'). Google Analytics uses 'cookies', which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+ **5\. Google AdWords Remarketing**
+
+We use Google AdWords Remarketing to advertise our brand across the Internet. AdWords remarketing will display relevant ads tailored to you based on what parts of the LanguageCourse website you have viewed by placing a cookie on your machine. **THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER**. The cookie is used to say "This person visited this page, so show them ads relating to that page". Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.
+
+If you do not wish to participate in our Google AdWords Remarketing, you can opt out by visiting [Google's Ads Preferences Manager](https://adssettings.google.com/).
+
+ **6\. Social media plugins**
+
+Social plugins for Facebook, Google, Twitter, AddThis, Pinterest.  
+Our website uses plugins of the above mentioned social media. If you visit a page on our website which uses one of these plugins, your browser will connect automatically to Facebook, Google, Twitter or Pinterest. The content transmitted via this plugin comes directly from the respective provider to your browser and integrated with the page. Through this process, the provider is informed that you have visited that page on our website, even if you do not have an account with them or if you are not signed in at the time. This information (including your IP address) is transmitted by your browser directly to the server of the provider in question (possibly located in the United States), and is stored there. If you are logged into your account with one of these providers, they may automatically include your visit to our website on your profile. If you interact with any of the social plugins, by clicking on the "like" button or on "share", the corresponding information is also sent directly to the provider's server to be stored there. At the same time, this information is published on your social media profile and will be visible to your contacts or according to your privacy settings with that provider. This serves to safeguard our legitimate interests, which predominate in the context of a weighting of interests, in the optimal commercialization of our offer.  
+Purpose and scope of the data collection, its subsequent processing and use of said data by the provider, as well as a contact option, your related rights and configuration options to protect your privacy, consult the provider's privacy policy:  
+<https://www.facebook.com/policy.php>  
+<https://twitter.com/privacy>  
+<https://www.google.com/intl/de/+/policy/+1button.html>  
+<https://www.addthis.com/privacy/privacy-policy>  
+<https://help.pinterest.com/en/articles/edit-your-account-privacy>
+
+If you do not want your personal data to be collected from our website by the stated social media, you must disconnect the corresponding service with the respective provider prior to visiting our website. You can avoid the use of these plugins entirely if you wish, using "NoScript" ([http://noscript.net](http://noscript.net/)).
+
+ **7\. Sending evaluation reminders by email**
+
+We will use your email address to send a reminder for an evaluation of your course through our classification system. Consent may be withdrawn at any time by means of a message to the contact option outlined below.
+
+ **8\. Security**
 
 Your personal data is encrypted using 256-bit SSL technology and is transmitted over the internet in an encrypted format. We secure our website and our other systems through technical and organizational measures against loss, destruction, access, modification or distribution of your data by unauthorized persons.
 
- **5\. Right of information**
+ **9\. Right of information**
 
 According to national privacy regulations, you are entitled to receive information about your stored data free of charge. You have the right of rectification, blocking or erasure of data as far as your request is not conflicting with national regulations for archiving specified e.g. in tax and commercial law.
 
- **6\. Contact for Privacy Issues**
+ **10\. Contact for Privacy Issues**
 
 For questions regarding the collection, processing or use of your personal data, information, correction, blocking or erasure of data, and revocation of granted permissions, please contact LanguageCourse S.L. c/ Casp 17 - 8º. 08010 Barcelona (Spain)
