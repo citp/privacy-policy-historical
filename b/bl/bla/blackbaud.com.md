@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackbaud.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928042006id_/https%3A//www.blackbaud.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbaud.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413063218id_/https%3A//www.blackbaud.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blackbaud
+# North American Privacy Policy | Blackbaud
 
 At Blackbaud, we are committed to protecting your privacy. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request. This Website Privacy Policy (“Policy”) provides you with information concerning our practices and procedures as they relate specifically to information we collect at this website. If you have additional questions or would like further information on this topic, please feel free to write to us at [webmaster@blackbaud.com](mailto:webmaster@blackbaud.com). By visiting this website, you are accepting the practices described herein. We may update this Policy from time to time, so please check this Policy periodically for changes.
 
@@ -8,7 +8,7 @@ At Blackbaud, we are committed to protecting your privacy. You can travel throug
 
 We do not collect any personal information about you at our website unless you choose to provide it to us voluntarily. We define “personal information” as information that personally identifies you or allows us to contact you. Such information might include your phone number, name or email address. Generally, this information is requested when you are asked to register before entering a contest, subscribing to e-mail newsletters, completing an online survey, joining a limited-access premium site, viewing premium-level resource information, or when requesting information about or purchasing Blackbaud products and services. If you encounter a screen or page that requests information you do not want to share with us, do not enter the information and do not proceed with that screen or page.
 
-You can personalize your experience at [www.blackbaud.com](http://www.blackbaud.com/) by becoming a registered user. If you ever want to review or update your profile, simply visit [www.blackbaud.com](http://www.blackbaud.com/) and edit your account information. We’ll ask you to disclose your User ID and password so that only you can access your profile. Your account information is secure and is accessible by using a password that you select. Do not share your password with anyone. The Blackbaud website assigns a personal identification number and sends it to your computer in the form of a small text file, called a “cookie.” The use of this cookie allows you to visit other password-restricted portions of Blackbaud’s website—for which you have security access—without having to sign in again.
+You can personalize your experience at [www.blackbaud.com](https://www.blackbaud.com/) by becoming a registered user. If you ever want to review or update your profile, simply visit [www.blackbaud.com](https://www.blackbaud.com/) and edit your account information. We’ll ask you to disclose your User ID and password so that only you can access your profile. Your account information is secure and is accessible by using a password that you select. Do not share your password with anyone. The Blackbaud website assigns a personal identification number and sends it to your computer in the form of a small text file, called a “cookie.” The use of this cookie allows you to visit other password-restricted portions of Blackbaud’s website—for which you have security access—without having to sign in again.
 
 ### Use of your Personal Information
 
@@ -22,7 +22,7 @@ If you are a California resident, you may ask us to disclose certain information
 
 ### Information Collected from Children
 
-[www.Blackbaud.com](http://www.blackbaud.com/) is a general audience site, and we do not knowingly collect information about children or sell products to children under the age of 13. If you are under the age of 13, you must ask your parent or guardian to assist you in using our website. Furthermore, we may restrict entries to any contests, sweepstakes or promotions to entrants who are at least 18 years of age.
+[www.Blackbaud.com](https://www.blackbaud.com/) is a general audience site, and we do not knowingly collect information about children or sell products to children under the age of 13. If you are under the age of 13, you must ask your parent or guardian to assist you in using our website. Furthermore, we may restrict entries to any contests, sweepstakes or promotions to entrants who are at least 18 years of age.
 
 ### Promotional Emails
 
@@ -34,7 +34,7 @@ We appreciate your questions and comments about our website and services and wel
 
 ### Access to your Personal Information
 
-We will provide you with the means to ensure that your personal information is correct and current. If you are a registered user of our website, you may review and update this information at any time on [www.blackbaud.com](http://www.blackbaud.com/). Registered users can view and edit personal information they have already given us. All users can subscribe or unsubscribe to Blackbaud email newsletters and blogs.
+We will provide you with the means to ensure that your personal information is correct and current. If you are a registered user of our website, you may review and update this information at any time on [www.blackbaud.com](https://www.blackbaud.com/). Registered users can view and edit personal information they have already given us. All users can subscribe or unsubscribe to Blackbaud email newsletters and blogs.
 
 We require you to enter your password for security purposes before you update your email address, user name, password, and/or your security question and answer. If you change your email address, we send an email to both your old and new email addresses.
 
@@ -50,7 +50,7 @@ For your convenience, we may provide links to other websites and web pages that 
 
 A cookie is a piece of information that a web server may place on your computer when you visit a website. Cookies are commonly used by websites to improve the user experience and have not been known to transmit computer viruses or otherwise harm your computer. Many cookies last only through a single website session, or visit. Others may have an expiration date, or may remain on your computer until you delete them.
 
-We may use cookies for a number of purposes—for example, to maintain continuity during a user session, to gather data about the usage of our website for research and other purposes, to store your preferences for certain kinds of information and marketing offers, or to store a user name or encrypted identification number so that you do not have to provide this information every time you return to our website. To ensure we are publishing content customers need and want, Blackbaud collects aggregated site-visitation statistics using cookies. When someone visits the site, a cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the website previously.
+We may use cookies for a number of purposes—for example, to maintain continuity during a user session, to gather data about the usage of our website for research and other purposes, to store your preferences for certain kinds of information and marketing offers, or to store a user name or encrypted identification number so that you do not have to provide this information every time you return to our website. To ensure we are publishing content customers need and want, Blackbaud collects aggregated site-visitation statistics using cookies. When someone visits the site, a cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the website previously. 
 
 Our cookies will track only your activity relating to your online activity on this website, and will not track your other Internet activity. Our cookies do not gather personally identifiable information.
 
