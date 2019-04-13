@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the carolsdaughter.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928070251id_/https%3A//www.carolsdaughter.com/customer-service/customer-service-security-policy/customer-service-security-policy.html%3Fnocontrolspopup%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolsdaughter.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413033449id_/https%3A//www.carolsdaughter.com/customer-service/customer-service-security-policy/customer-service-security-policy.html%3Fnocontrolspopup%3Dtrue) for the most accurate reproduction.*
 
-# Customer Service: Security Policy
+# Carol's Daughter Customer Service: Security Policy
 
 ## Privacy Policy
 
 **PRIVACY AND COOKIE NOTICE**
+
+  
+
 
 Thank you for visiting the Carol’s Daughter website. We appreciate the importance of your trust and have set forth this Privacy Policy and Cookie Notice to explain how we ( "we", "us", or "our") collect, protect, share and use your information as part of our technology platforms, including, without limitation, our company websites, web pages, sponsored social media platforms, mobile sites and mobile apps (the "Sites").
 
