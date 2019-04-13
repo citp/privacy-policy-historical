@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopportunity.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231200342id_/https%3A//myopportunity.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopportunity.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413192310id_/https%3A//myopportunity.com/en/privacy) for the most accurate reproduction.*
 
 # Opportunity - Privacy Policy
 
@@ -33,7 +33,7 @@ The data that you provide we keep until you delete your account. You have the ab
 
 We operate throughout the world and in some countries user rights are not us protective as the ones we follow or the laws of your country. 
 
-We only process data that is lawfully provided consent by you. You may at any time request to withdraw your consent and we will delete all data associated with your account. If you have any questions you many contact us at [support@myopportunity.com](https://web.archive.org/web/20181231200342id_/https%3A//myopportunity.com/en/support@myopportunity.com) or [contact our Data Protection Officer](https://web.archive.org/dpo). 
+We only process data that is lawfully provided consent by you. You may at any time request to withdraw your consent and we will delete all data associated with your account. If you have any questions you many contact us at [support@myopportunity.com](https://web.archive.org/web/20190413192310id_/https%3A//myopportunity.com/en/support@myopportunity.com) or [contact our Data Protection Officer](https://web.archive.org/dpo). 
 
 ## Information about your Contacts
 
