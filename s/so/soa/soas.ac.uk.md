@@ -1,73 +1,91 @@
-> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020160606id_/https%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413222718id_/https%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy relating to the SOAS website | SOAS, University of London
+# Privacy policy relating to the SOAS website | SOAS University of London
 
-In this agreement, the "Website" means the SOAS website at www.soas.ac.uk. "SOAS" means the SOAS, University of London (School of Oriental and African Studies).
+#### Who are we and what do we do?
 
-SOAS is committed to protecting your privacy and developing technology that gives you a safe online experience. This Privacy Policy applies to the Website and governs data collection and usage. By using the Website, you consent to the data practices described in this policy.
+In this notice, the "Website" means the SOAS website at www.soas.ac.uk. "SOAS" means SOAS University of London (School of Oriental and African Studies).
 
-The Website is operated by the SOAS, University of London (called SOAS in this agreement), who are situated at Thornhaugh Street, Russell Square, London WC1H 0XG. SOAS can be contacted by post to Thornhaugh Street, Russell Square, London WC1H 0XG. You can reach us by telephone at +44 (0)20 7637 2388.
+SOAS is committed to protecting your privacy and developing technology that gives you a safe online experience. This privacy notice applies to the Website and governs data collection and usage.
 
-SOAS encourages you to review the privacy statement of websites you choose to link to from the Website so that you can understand how those websites collect, use and share your information. Any third party sites that you can access through the Website are not covered by SOAS's Privacy Policy and we accept no responsibility or liability for these sites.
+The Website is operated by SOAS University of London (called SOAS in this agreement), who are situated at 10 Thornhaugh Street, Russell Square, London WC1H 0XG.
 
-#### Information you give us
+If you have any queries about the information in this notice, or about the way SOAS processes your data while you visit the website, please contact our Data Protection Officer by email at [dataprotection@soas.ac.uk](mailto:dataprotection@soas.ac.uk), or by telephone at (+44) 020 7898 4817.
 
-We receive and store any information you enter on the Website or give us in any other way. You provide this information when you search, participate in discussion forums or communicate with us by phone, email or otherwise. As a result of those actions you might supply us with such information as your name, address, post code, date of birth, gender, information on how you use our services (such as type, date, time, and information on your browsing activity when visiting the Website) and any other information with respect of your use of the Website. We might also ask for other specific information from time to time.
+#### What personal data do we collect?
 
-We use the information that you provide for such purposes as responding to your requests, customising future use of the Website for you, improving the Website and communicating with you.
+##### Personal Data which you provide
 
-#### Automatic information
+We collect and store information from visitors to the Website when you complete online forms, make online payments, participate in discussion forums or communicate with us by email.
 
-We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and "webbugs", and we obtain certain types of information when your web browser accesses the Website. Third parties might also do this on the Website. Examples of information we collect and analyse using technology which is not readily apparent include the Internet Protocol (IP) address used to connect your computer to the internet; log in; email address; password; computer and connection information such as browser type and version, operating system and platform; the full Uniform Resource Locators (URL), click stream to, through and from the Website, including date and time; cookie number; pages viewed or searched for; your site history, and phone number used to contact us. A number of companies offer utilities designed to help you visit websites anonymously. We want you to be aware that these tools exist.
+When you make a payment through the SOAS Online Store, we will collect and store bank card details. The University is PCI DSS compliant. We do not store credit/debit card details after authorisation.
 
-#### What are Cookies and Webbugs?
+##### Personal data collected automatically
 
-  * Cookies are pieces of information that we transfer to your computer's hard drive through your web browser when you are viewing the Website. These pieces of information allow the Website to act on information that will make your use of the Website more rewarding. We use cookies to enable our system to recognise your browser and to provide features such as easier login and greater security and for storing information about you between visits. None of these cookies contain your password, phone number or address details in text format.
-  * The "help" portion of a toolbar on most browsers will tell you how to protect your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However if you turn cookies off you won't have access to some of the features that make the Website more efficient and services may not function properly.
-  * Webbugs are minute images (commonly 1 pixel x 1 pixel to be exact) that transmit data on use of the internet back to a computer specified by the webbug. Information fed back by web bugs is often similar to the sort of information you will find in a cookie, such as the sites that you have recently visited and potentially the characteristics of the machine that you were using. You can find out more about [webbugs](http://en.wikipedia.org/wiki/Web_bug).
+When you visit SOAS’s Website, we will automatically receive and store certain types of information on our web servers.
 
+We will keep anonymised details of your IP (Internet Protocol) address, browser type and operating system. We will also keep a record of the pages you have visited on our Website. Collectively this data is known as “web server logs”.
 
+We only use this information to analyse activity of visitors to our Website and to improve the performance of the Website.
 
-#### Does SOAS share the information received?
+We also use "cookies" and "webbugs", which store information on your computer or mobile device based on your browsing experience, and allow us to improve your experience on our Website the next time you visit.
 
-SOAS collects and uses your personal information to operate SOAS and deliver any services you have requested. 
+For more information on what cookies we use, how we use them, and how you can remove them, please look at our [Use of Cookies](https://web.archive.org/utility/cookies.html) page.
 
-SOAS does not use or disclose sensitive personal information, such as race, religion or political affiliations, without your explicit consent, and would not normally gather this information in the course of your day to day use of the website.
+#### How is my data used?
 
-#### SOAS may disclose personal information in the following circumstances:
+We use the personal data collecting through your use of the website for the following purposes:
 
-  * We may pass personal data to other organizations within or outside the European Economic Area who are contracted to provide services to SOAS, where the transfer is necessary for the provision of those services. SOAS is responsible under the Data Protection Act for the data processing carried out by these organizations.
-  * SOAS may share data with trusted partners to help us perform statistical analysis, or anonymously as part of a research paper. All such third parties are prohibited from using your personal information except to provide these services to SOAS, and they are required to maintain the confidentiality of your information.
-  * We may provide your data to third parties where we have informed you in advance that we will do so and have obtained your permission.
-  * We will give out personal information as required or permitted by law, for example to comply with a Court Order, to enforce our terms and conditions or to protect the safety and security of users on the Website.
-
-
-
-We may use the data which you provide for direct marketing purposes (e.g. to send you emails or postal mail). We will tell you at the point of gathering the data whether your data is to be used for direct marketing purposes. You may request at any time that we not use your data for these purposes.
-
-#### How secure is information about me?
-
-  * The importance of security for all personally identifiable information associated with our users is of utmost concern to us. We take technical, contractual, administrative and physical steps to protect all of the user information we hold. Despite this no system is 100% secure and you acknowledge that the information you give us is at risk.
-  * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to log out when using a shared computer and take steps to make sure your personal information has not been stored by that computer or a network connected to it.
+  * Administering your request for information about studying at SOAS
+  * Administering your request to attend open days
+  * Processing your online application for short courses and foundation courses
+  * Supporting your application for accommodation to third party providers and intercollegiate halls
+  * To provide you with newsletters, information about events or other content you have asked us to send you
+  * Administering payment of fees for short courses, or discretionary payments such as transcript requests through the online store
+  * Customising future use of the Website
+  * Improving the performance of the Website
 
 
 
-#### What choices do I have?
+SOAS will process the data you provide for enquiries about study or applications to courses in accordance with our [Course Enquirers, Applicants or Offer-holders Privacy Notice](https://web.archive.org/infocomp/dpa/enquirer-applicant-offer-holder-privacy-notice/). We will process data you provide for open days and other events because it is in our mutual interests to stay in touch about arrangements for the event and to record attendance.
 
-  * The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether.
-  * You can visit sites on the internet that will tell you more about webbugs and what to do about them.
-  * There are products which allow anonymous browsing.
+When you apply for a short course at SOAS, you will need to provide some personal data to support your application. We will process this data because there is a legitimate interest in the School managing the application efficiently. If you apply and are offered a place on a course, then SOAS will process the personal data because we are taking steps to enter into a contract at your request.
+
+SOAS monitors usage of the website through cookies where this processing is necessary to support the legitimate interests of the School and visitors to the Website, insofar as it enables the School to improve the performance of the Website and optimise the experience for each visitor.
+
+If you opt-in to receiving newsletters or other promotional material by email, post or other means, we process your data you’re your consent. You have the right to object to our processing of the data you provide us with at any time. You will generally be able to exercise this right by unsubscribing from emails or turning off cookies in your browser settings. If you are not able to do so, please contact our Data Protection Officer at [dataprotection@soas.ac.uk](mailto:dataprotection@soas.ac.uk).
+
+#### What information do we share, and why?
+
+SOAS will share personal data you provide through your use of the Website with third parties where you have given us your explicit consent, where it is necessary to provide you with a service, or where we are required to do so by law.
+
+For instance, SOAS uses external companies to provide customer relationship management systems for individuals who express an interest in studying at SOAS, and out alumni community. If you provide information through the website, for instance by registering for an open day, your information will be shared with the provider of our student recruitment system to the extent that they are a data processor, which means they will only hold and use the data in accordance with our strict instructions.
+
+Where necessary we could be required by law to share your personal with regulatory bodies or law enforcement agencies, or we could be ordered to disclose your personal data by the courts.
+
+#### Will you share my data internationally?
+
+We will only share your personal data with countries outside the European Economic Area when it is strictly necessary and in accordance with the following legal safeguards:
+
+  * The transfer is allowed because the country in which the recipient is based has an ‘adequacy decision’ from the European Commission, which means they give equivalent protection to personal data as EU law. This includes US companies certified by Privacy Shield
+  * We have your explicit consent
+  * We use standard contractual clauses adopted by the European Commission to safeguard the transfer and protect data subjects’ legal rights and access to legal remedies
+  * The transfer is necessary for an important reason of public interest
 
 
 
-#### Conditions of use
+#### Third party websites
 
-This agreement is governed by the laws of England, where SOAS originates and is designed to be accessed and is deemed to be made in England. You consent to the exclusive jurisdiction of the English courts in all disputes arising out of or relating to the use of the Website. Use of the Website is unauthorised in any jurisdiction that does not give effect to all provisions of these terms and conditions, including without limitation this paragraph.
+Some resources provided by SOAS for members of our community link to external websites, who will have their own policies informing you what information will be collected and how and why it will be used.
 
-By continuing to use the Website you agree that you have read the Access Agreement and that you agree with all of its contents. This agreement and the Access Agreement may be altered and for this reason you should regularly visit the Privacy Policy on the Website as the current version will be binding upon you.
+SOAS encourages you to review the privacy notices of all external websites you choose to link to from the Website so that you can understand how those websites collect, use and share your information.
+
+Any third-party sites that you can access through the Website are not covered by SOAS's Website Privacy Notice and we accept no responsibility or liability for these sites.
+
+You do not need to sign in or create a profile to use and navigate SOAS’s Website
 
 #### Further information
 
-SOAS’s website is operated in accordance with the [School's Data Protection Policy](https://web.archive.org/infocomp/dpa/policy/), which provides further information about the steps taken by the School to comply with the Data Protection Act.
+SOAS’s website is operated in accordance with the [School's Data Protection Policy](https://web.archive.org/infocomp/dpa/policy/), which provides further information about the steps taken by the School to comply with the Data Protection Act.
 
-You can request access to the data which we hold about you: see [Data Protection Act: Requesting Access to Personal Data](https://web.archive.org/infocomp/dpa/access/) for further information.
+You can request access to the data which we hold about you: see [Data Protection Act: Requesting Access to Personal Data](https://web.archive.org/infocomp/dpa/access/) for further information.
