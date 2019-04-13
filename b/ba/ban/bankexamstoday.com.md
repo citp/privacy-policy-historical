@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankexamstoday.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514094055id_/http%3A//www.bankexamstoday.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankexamstoday.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413144103id_/https%3A//www.bankexamstoday.com/p/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Bank Exams Today
+# Privacy Policy | BankExamsToday
 
 Guru Infotech built the Bank Exams Today app as a Commercial app. This SERVICE is provided by Guru Infotech and is intended for use as is.
 
