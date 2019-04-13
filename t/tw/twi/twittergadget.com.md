@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittergadget.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907125732id_/http%3A//www.twittergadget.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittergadget.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413075735id_/https%3A//www.twittergadget.com/privacy.php) for the most accurate reproduction.*
 
 # TwitterGadget Multi-facted Twitter Client: Privacy Policy
 
@@ -33,4 +33,4 @@
 
 
 
-Copyright © 2017 Logika Corporation®. All rights reserved.
+Copyright © 2019 Logika Corporation®. All rights reserved.
