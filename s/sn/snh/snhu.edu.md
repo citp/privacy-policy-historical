@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snhu.edu privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231033022id_/https%3A//www.snhu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snhu.edu privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414014411id_/https%3A//www.snhu.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SNHU
+# Privacy Policy - Southern New Hampshire University | SNHU
 
 Effective Date: June 17, 2016
 
