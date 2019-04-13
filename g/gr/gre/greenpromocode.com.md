@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpromocode.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922183822id_/https%3A//greenpromocode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpromocode.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413194430id_/https%3A//www.greenpromocode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GreenPromoCode.com
 
@@ -75,4 +75,4 @@ In no event shall Greenpromocodes.com be liable to you or any third party for an
 
 ### Contact us
 
-If you have any question or concerns regarding our privacy policies, please feel free to contact us anytime at support@greenpromocode.com. We will make every effort to resolve your concerns. 
+If you have any question or concerns regarding our privacy policies, please feel free to contact us anytime at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will make every effort to resolve your concerns. 
