@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigindianwedding.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728003410id_/http%3A//www.bigindianwedding.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigindianwedding.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413161310id_/http%3A//www.bigindianwedding.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bigindianwedding
 
