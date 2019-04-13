@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thespun.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020190452id_/https%3A//thespun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thespun.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413065139id_/https%3A//thespun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms Of Use | The Spun
 
@@ -49,6 +49,8 @@ The Spun uses the collected data to communicate with Visitors, to customize cont
 
 
 The Spun may also share such information with service vendors or contractors in order to provide a requested service or transaction or in order to analyze the Visitor behavior on its website. Those vendors are StackPath Secure Content Delivery and Bizbudding Inc. Note, StackPath and Bizbudding Inc. only retain IP addresses and browser information for thirty days and then it is deleted.
+
+The Spun also works with Connatix as a third-party vendor for its video player. You can view [Connatix’s privacy policy here.](https://connatix.com/privacy-policy/) Our video player does not play unless users in the EU explicitly agree for it to do so.
 
 E-mail Communications
 
@@ -131,7 +133,7 @@ This Privacy Policy is effective as of 5/24/2018 and last updated 5/24/2018.
 
  **Terms of Use:**
 
-The Spun’s Terms of Use are an adaptation of WordPress’s Terms of Use, located [here](http://en.wordpress.com/tos/).
+The Spun’s Terms of Use are an adaptation of WordPress’s Terms of Use, located [here](https://en.wordpress.com/tos/).
 
 The following terms and conditions govern all use of the The Spun.com website and all content, services and products available at or through the website. The Website is owned and operated by College Spun Media Inc. (“The Spun”). The Website is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, The Spun’s Privacy Policy (above) and procedures that may be published from time to time on this Site by The Spun (collectively, the “Agreement”).
 
