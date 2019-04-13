@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920183755id_/http%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413062448id_/https%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # EmploymentCrossing.com - Privacy Policy, Your Privacy is So Important To Us | EmploymentCrossing.com
 
