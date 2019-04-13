@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-index.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612200813id_/https%3A//www.minecraft-index.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-index.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413183728id_/https%3A//www.minecraft-index.com/privacy) for the most accurate reproduction.*
 
 # Minecraft Servers | MC Index | Privacy
 
@@ -20,4 +20,4 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements to support our site. Some of these advertisers may use cookies, which may also send information such as your IP address, your ISP, the browser you used to visit our site to them. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
 
 **DART cookies**  
-Google, as a third party vendor, uses cookies to serve ads on mc-index.com. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+Google, as a third party vendor, uses cookies to serve ads on mc-index.com. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
