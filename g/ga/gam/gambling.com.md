@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gambling.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209121149id_/https%3A//www.gambling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gambling.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414134150id_/https%3A//www.gambling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,8 +53,11 @@ In the case of mobile devices, it may be necessary to consult the device’s ins
   * Hotjar - Placed by Hotjar. This third-party cookie allows us to measure and observe user behaviour on our website with no connection to personal information.
   * Outbrain – This third-party cookie allows us to tailor content based on viewer preferences. This cookie is stored for 10 Months.
   * Cloudflare - Placed by Cloudfare. This cookie is strictly necessary for Cloudflare's security features and cannot be turned off. It does not correspond to any user ID in your web application and does not store any personally identifiable information. This cookie is stored for 12 Months.
+  * Vizibl – This cookie is used to deliver Gambling.com advertisements relevant to you, based upon your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. This cookie is stored indefinitely.
+  * Facebook custom audiences – This cookie is used to deliver Gambling.com advertisements relevant to you, based upon your on-site actions. This cookie is stored for 180 days. We may use Facebook custom audiences to deliver advisement's to email subscribers based on email addresses we have gathered. For further information on Facebook advertising please [visit here](https://www.facebook.com/help/516147308587266/?helpref=hc_fnav). To learn how to opt out of Facebook advertising please [visit here](https://www.facebook.com/help/1075880512458213/?helpref=hc_fnav).
+  * Criteo – This cookie is used to deliver Gambling.com advertisements relevant to you, based upon your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of an advertising campaign. This cookie is stored indefinitely. If you would like to opt out of our service for all browsers we have been able to link to the cookie ID of your current browser, please see the opt out module included in the “User Choices” [section here](https://www.criteo.com/privacy/). If you only want to opt out from your current browser uncheck the box.
   * Please note that our advertisers may also use cookies on their websites, and we have no control over such use.
 
 
 
-For all questions related to personal data, privacy and cookies please contact us at support@gambling.com
+For all questions related to personal data, privacy and cookies please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
