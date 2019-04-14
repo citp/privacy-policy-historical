@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raptorsrepublic.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221222257id_/https%3A//www.raptorsrepublic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptorsrepublic.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414081419id_/https%3A//www.raptorsrepublic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Raptors Republic
 
