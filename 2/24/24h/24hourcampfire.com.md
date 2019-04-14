@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hourcampfire.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231152110id_/https%3A//24hourcampfire.com/privacy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourcampfire.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414171650id_/https%3A//www.24hourcampfire.com/privacy2.html) for the most accurate reproduction.*
 
 # 24hourcampfire.com ?PRIVACY POLICY
 
@@ -23,7 +23,7 @@ We allow third-party companies to serve ads and/or collect certain _anonymous_ i
 5]   Our shopping cart is secured by SSL encryption.  Any questions regarding our security or privacy policy may be directed to: 
 
    Customer Service Department  
-   [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c4a7b1b7b0aba9a1b6b7a1b6b2ada7a184f6f0acabb1b6a7a5a9b4a2adb6a1eaa7aba9)
+   [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aecddbdddac1c3cbdcddcbdcd8c7cdcbee9c9ac6c1dbdccdcfc3dec8c7dccb80cdc1c3)
 
 ###
 
@@ -48,6 +48,6 @@ Copyright ?2000-2013 24hourcampfire.com, Inc.  All Rights Reserved.
 |  |   
   | 
 
-[](https://web.archive.org/web/20181231152110id_/https%3A//24hourcampfire.com/linkwithus.html)
+[](https://web.archive.org/web/20190414171650id_/https%3A//www.24hourcampfire.com/linkwithus.html)
 
 |  
