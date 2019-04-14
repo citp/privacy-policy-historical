@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detoxinista.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019161917id_/https%3A//detoxinista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detoxinista.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414094826id_/https%3A//detoxinista.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Detoxinista
 
