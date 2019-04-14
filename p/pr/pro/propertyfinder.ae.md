@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyfinder.ae privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022095221id_/https%3A//www.propertyfinder.ae/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyfinder.ae privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414071255id_/https%3A//www.propertyfinder.ae/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Property Finder 'Where Life Moves': Real Estate, Properties for Rent and Sale in UAE
 
@@ -18,7 +18,7 @@
 
 1.6Data Controller means a person (either alone or jointly or in common with other persons) or legal entity, who, determines the purposes for which and the manner in which any personal data are, or are to be, processed.
 
-1.7PF FZ-LLC is the Data Controller in respect of personal data processed by the Website. PF FZ-LLC is part of the Propertyfinder Group of companies, which shall for reference purposes also include Property Finder LLC (Qatar), PFB Bahrain S.P.C., Al Baheth Al Maloomati Co (Kingdom of Saudi Arabia doing business as eSimsar), Property Finder Lebanon SARL, Propertyfinder Morocco SARL (doing business as Sarouty), Propertyfinder Egypt LLC, and M.I.B.M.E Mortgage Broker Owned by Propertyfinder Arabia Singl Company LLC (doing business as Mortgagefinder). These group of companies shall be referred to in this Policy, collectively, as the “Propertyfinder Group”, and, individually a “Propertyfinder Group Company”.
+1.7PF FZ-LLC is the Data Controller in respect of personal data processed by the Website. PF FZ-LLC is part of the Propertyfinder Group of companies, which shall for reference purposes also include Property Finder LLC (Qatar), PFB Bahrain S.P.C., Al Baheth Al Maloomati Co (Kingdom of Saudi Arabia doing business as eSimsar), Property Finder Lebanon SARL, Propertyfinder Morocco SARL (doing business as Sarouty), Propertyfinder Egypt LLC, and M.I.B.M.E Mortgage Broker Owned by Propertyfinder Arabia Singl Company LLC (doing business as Mortgage Finder). These group of companies shall be referred to in this Policy, collectively, as the “Propertyfinder Group”, and, individually a “Propertyfinder Group Company”.
 
 #### 2\. YOUR INFORMATION
 
@@ -130,7 +130,7 @@
 
 11.2Third party advertisers may place cookies on the browsers of visitors to its website(s) and may send its own cookies to the visitors’ cookie file. The cookies will allow these third-party advertisers to apply their personalized retargeting technology and to serve personalized banners; third party advertisers may collect and use this data in accordance with all applicable laws and regulations (including but not limited to laws governing privacy, and data protection).
 
-11.3Third party advertisers will have their own Privacy Policy’s and these will be available on their websites. For further information on what third party advertisers we use for our Website please contact: [info@propertyfinder.ae](https://web.archive.org/web/20181022095221id_/https%3A//www.propertyfinder.ae/en/info@propertyfinder.ae).
+11.3Third party advertisers will have their own Privacy Policy’s and these will be available on their websites. For further information on what third party advertisers we use for our Website please contact: [info@propertyfinder.ae](https://web.archive.org/web/20190414071255id_/https%3A//www.propertyfinder.ae/en/info@propertyfinder.ae).
 
 #### 12\. Interest-based advertising (ibA)
 
