@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022191454id_/https%3A//www.outdoorphotographer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414155700id_/https%3A//www.outdoorphotographer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outdoor Photographer
 
@@ -10,33 +10,33 @@ This Privacy Policy is incorporated into, and part of, the [Terms of Use](http:
 
 This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Site, such as by phone, through postal mail and through other live or print media.
 
-**Age Requirement for Use of Site** : This Site is not intended for use by persons under the age of 18 years old. You must be 18 years old or older to provide any personal information to the Site, or to us through the Site.
+ **Age Requirement for Use of Site** : This Site is not intended for use by persons under the age of 18 years old. You must be 18 years old or older to provide any personal information to the Site, or to us through the Site.
 
-**Domicile Requirement for Use of the Site:**  You represent and warrant that you are domiciled in the United States. This Privacy Policy shall be interpreted under the laws of the United States.
+ **Domicile Requirement for Use of the Site:**  You represent and warrant that you are domiciled in the United States. This Privacy Policy shall be interpreted under the laws of the United States.
 
 1.  **Collecting Information:**
 
-**Personally Identifiable Information**
+ **Personally Identifiable Information**
 
 This Site may request and collect certain personally identifiable information (”Personal Information”) from our users. “Personal Information” includes, for example, your name, mailing address, email address, telephone, wireless and/or fax number, other wireless device address, credit/debit card and other payment information, and other contact information and medical information through various means such as Site registration, magazine subscriptions, subscription renewals and account maintenance, e-newsletter subscriptions, product orders, medicine tracking tools, sweepstakes and contest entries (if any), surveys and other online forms, questions, comments and communications to the Site, including but not limited to a “contact us” or similar feature on our Site, as well as through our blog(s), and through contributions to a chat room, bulletin board, or other open forum area of the Site. We may also obtain Personal Information about you from other sources, such as third parties.
 
-**Non-Personally Identifiable Information**
+ **Non-Personally Identifiable Information**
 
 We may also collect certain non-personally identifiable information via the Site, such as Site usage activity and preferences, as well as demographic or profile data.
 
-**Site Technology and website Usage Information**
+ **Site Technology and website Usage Information**
 
-**Cookies**
+ **Cookies**
 
 As with many websites, we may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a web server and stored on your computer’s hard drive. Cookies track where you travel on our Site and what you look at and purchase. They may store the information in your shopping cart, and/or your username and/or password. A cookie may enable us to relate your use of our Site to other information about you, including your Personal Information. All of these purposes serve to improve and personalize your experience on our Site.
 
 Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact, the display or function of the Site or certain areas or features of the Site.
 
-**Clear GIFs**
+ **Clear GIFs**
 
 We also may use “clear GIFs” (aka, web bugs, email bugs, “web beacons” or “pixel tags”) in the Site and/or in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an email or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual’s viewing or receipt of a web page or message. A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personal Information.
 
-**IP Address and Clickstream Data**
+ **IP Address and Clickstream Data**
 
 Our server may automatically collect data about your server’s Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Internet. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on this Site; the website you visit after this Site; the ads you see and/or click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, administer our Site, and identify our users. We may also use such technologies to remember user preferences or minimize the need for you to re-enter information. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. We may also link this information with your Personal Information.
 
