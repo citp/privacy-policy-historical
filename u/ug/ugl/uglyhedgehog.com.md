@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uglyhedgehog.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517113041id_/http%3A//www.uglyhedgehog.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uglyhedgehog.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414164641id_/https%3A//www.uglyhedgehog.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
