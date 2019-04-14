@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the litebit.eu privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222234559id_/https%3A//www.litebit.eu/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litebit.eu privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414200437id_/https%3A//www.litebit.eu/en/privacy-statement) for the most accurate reproduction.*
 
 # LiteBit.eu - Privacy statement
 
-Through its website, [www.litebit.eu](https://web.archive.org/), LiteBit processes personal data and uses cookies. LiteBit values the privacy of its customers and observes due care with regard to the processing and protecting of personal data.
+Through its website, [www.litebit.eu](https://web.archive.org/), LiteBit processes personal data and uses cookies. LiteBit values the privacy of its customers and observes due care with regard to the processing and protecting of personal data. During the processing we stick to the requirements of the relevant privacy legislation, including (from 25 May 2018 onwards) the General Data Protection Regulation (GDPR). This means we:
 
-During the processing we stick to the requirements of the relevant privacy legislation, including (from 25 May 2018 onwards) the General Data Protection Regulation (GDPR). This means we:
-
-  * clearly specify our purposes before we process personal data, by using this Privacy- and Cookie Statement;
+  * clearly specify our purposes before we process personal data, by using this Privacy- and Cookie Statement; 
   * limit our collection of personal data to only the personal data needed for legitimate purposes;
-  * first ask for explicit permission to process your personal data in cases where your permission is required;
-  * take appropriate security measures to protect your personal data and therefore the same from parties who process personal data on our behalf;
+  * first ask for explicit permission to process your personal data in cases where your permission is required; 
+  * take appropriate security measures to protect your personal data and therefore the same from parties who process personal data on our behalf; 
   * respect your right to inspect, correct or delete your personal data held by us.
 
 
 
 In this Privacy- and Cookie Statement, we will explain which personal data we collect and for which purposes. Due to the innovative nature of digital currency and the crypto environment in general, the services that we provide through our website and the website’s functions may change over time. Therefore, it is advisable to revisit this Privacy- and Cookie Statement from time to time.
 
-_This Privacy- and Cookie Statement was last amended on May 24th, 2018._
+_This Privacy- and Cookie Statement was last amended on Jan 28th, 2019._
 
 ### 1\. Use of Personal Data
 
@@ -67,37 +65,25 @@ We have a newsletter to inform those interested about our services. You can ask 
 
 ### 3\. Retention of Personal Data
 
-We will retain your account information for the duration of 10 years after last active action. While the information you provide during a verification procedure will be retained for the duration of 10 years after last active action.
-
-If you fill out a contact form on the website, the data you provide will be retained for as long as is necessary depending on the nature of the form or the content of your email, to fully answer and correctly handle your message or email. We can retain data longer if we are required by law to do so.
-
-In order to notify you through a price alert of a certain coin we will retain your e-mail address for the duration of 10 years after last active action.
+We will retain your account information for the duration of 7 years after last active action. While the information you provide during a verification procedure will be retained for the duration of 7 years after last active action. If you fill out a contact form on the website, the data you provide will be retained for as long as is necessary depending on the nature of the form or the content of your email, to fully answer and correctly handle your message or email. We can retain data longer if we are required by law to do so. In order to notify you through a price alert of a certain coin we will retain your e-mail address for the duration of 7 years after last active action.
 
 ### 4\. Cookies
 
-Our website stores and retrieves information on your browser using cookies. Cookies have a variety of functions. Some are technical and functional cookies, which are used to make sure that the site will look, work and ‘feel’ as you, as visitor, expect it to. Other cookies for instance help to give you a more personalised web experience by showing advertisements that are aimed at your interests.
-
-Our website makes use of the following cookies:
+Our website stores and retrieves information on your browser using cookies. Cookies have a variety of functions. Some are technical and functional cookies, which are used to make sure that the site will look, work and ‘feel’ as you, as visitor, expect it to. Other cookies for instance help to give you a more personalised web experience by showing advertisements that are aimed at your interests.Our website makes use of the following cookies:
 
   * **Google**
 
-On our website, cookies are placed by Google, through Google Analytics, Google AdWords Conversion, Google Dynamic Remarketing, DoubleClick and Google Tag Manager. We use these services for tracking, to get reports on how visitors use the website, in to gain insight into the way website visitors get access to our website via the Google search engine, to give us information about the effectiveness of our campaigns, to improve the online advertisement offer and in order for us to gain insight into the effectivity of our campaigns.
-
-Google can provide this information to third parties if they are legally obliged to do so, or where third parties process the information on Google’s behalf. We have no influence on the use of the data by Google and/or third parties.
-
-We have made the following arrangements to protect your personal data:
+On our website, cookies are placed by Google, through Google Analytics, Google AdWords Conversion, Google Dynamic Remarketing, DoubleClick and Google Tag Manager. We use these services for tracking, to get reports on how visitors use the website, in to gain insight into the way website visitors get access to our website via the Google search engine, to give us information about the effectiveness of our campaigns, to improve the online advertisement offer and in order for us to gain insight into the effectivity of our campaigns. Google can provide this information to third parties if they are legally obliged to do so, or where third parties process the information on Google’s behalf. We have no influence on the use of the data by Google and/or third parties. We have made the following arrangements to protect your personal data:
 
     * Google Analytics cookies have been configured to operate privacy friendly;
     * we have concluded a data processing agreement with Google;
     * the last digits of your IP-adress will be masked.
 
-We allow Google to use information for other Google services. Read the privacy statement from Google (which is subject to change) to see what they do with your personal data, which they acquire via these cookies. The information will be transmitted to and stored by Google on servers in the United States of America. Google is committed to adhering to multiple self-regulation frameworks, including the EU-US Privacy Shield Framework. Visit the Privacy Shield Website for more information on the EU-US Privacy Shield Program and to review Google’s certification.
+We allow Google to use information for other Google services. Read the privacy statement from Google (which is subject to change) to see what they do with your personal data, which they acquire via these cookies. The information will be transmitted to and stored by Google on servers in the United States of America. Google is committed to adhering to multiple self- regulation frameworks, including the EU-US Privacy Shield Framework. Visit the Privacy Shield Website for more information on the EU-US Privacy Shield Program and to review Google’s certification.
 
   * **Customer interaction**
 
-Our website includes buttons to make customer interaction available, for example PushCrew, Zendesk and Trustpilot. PushCrew cookies allow us to send relevant push messages to your device.
-
-Zendesk gives you the opportunity to make use of the support functionality on our website, which makes asking us questions easier. Trustpilot cookies are used to offer website visitors the possibility of giving feedback about our website. Read the privacy statement from PushCrew, Zendesk and Trustpilot (which are subject to change) to see what they do with your personal data, which they acquire via these cookies. The information can be transmitted to and stored on servers in the United States of America. Zendesk is committed to adhering to multiple self-regulation frameworks, including the EU-US Privacy Shield Framework. Visit the Privacy Shield Website for more information on the EU-US Privacy Shield Program and to review Zendesk’s certification.
+Our website includes buttons to make customer interaction available, for example PushCrew, Zendesk, AdRoll and Trustpilot. PushCrew cookies allow us to send relevant push messages to your device. Zendesk gives you the opportunity to make use of the support functionality on our website, which makes asking us questions easier. AdRoll cookies are used for advertising and targeting. Trustpilot cookies are used to offer website visitors the possibility of giving feedback about our website. Read the privacy statement from PushCrew, Zendesk, AdRoll (https://www.adrollgroup.com/privacy) and Trustpilot (which are subject to change) to see what they do with your personal data, which they acquire via these cookies. The information can be transmitted to and stored on servers in the United States of America. Zendesk is committed to adhering to multiple self-regulation frameworks, including the EU-US Privacy Shield Framework. Visit the Privacy Shield Website for more information on the EU-US Privacy Shield Program and to review Zendesk’s certification.
 
   * **Social Media**
 
@@ -108,17 +94,15 @@ Our website includes buttons to promote and share webpages on social networks, s
 
 ### 5\. Confidentiality and provision to third parties
 
-We will handle your personal data confidential. We will not provide your personal data to any third parties for direct marketing purposes of these parties. We may provide your data to our partners in order to provide for all the functionalities that we offer through our website.
-
-These parties may include hosting providers, e-mail service providers and (web) developers.
+We will handle your personal data confidential. We will not provide your personal data to any third parties for direct marketing purposes of these parties. We may provide your data to our partners in order to provide for all the functionalities that we offer through our website. These parties may include hosting providers, e-mail service providers and (web) developers.
 
 ### 6\. Security
 
 We take security measures to reduce misuse of- and unauthorised access to personal data. We take the following measures in particular:
 
   * access to personal data requires the use of a user name and password;
-  * we take physical measures to protect access to the systems in which the personal data is stored;
-  * we make use of secure connections (Transport Link Security or TLS) to encrypt all information between; you and our website when entering your personal data;
+  * we take physical measures to protect access to the systems in which the personal data is stored; 
+  * we make use of secure connections (Transport Link Security or TLS) to encrypt all information between; you and our website when entering your personal data; 
   * we keep logs of all requests for personal data;
   * regular penetration testing and security review by specialized parties;
   * use of multifactor authentication where applicable;
