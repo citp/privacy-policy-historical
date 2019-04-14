@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sohh.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231233324id_/https%3A//www.sohh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sohh.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414153551id_/https%3A//www.sohh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SOHH.com
 
