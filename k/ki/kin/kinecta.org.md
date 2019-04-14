@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinecta.org privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817140457id_/https%3A//www.kinecta.org/uploadedFiles/Retail/Discover_Kinecta/kinecta-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinecta.org privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414121557id_/https%3A//www.kinecta.org/uploadedFiles/Retail/Discover_Kinecta/kinecta-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Choices
 
