@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beststream.tv privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213061318id_/http%3A//beststream.tv/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beststream.tv privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414103859id_/http%3A//beststream.tv/policy.php) for the most accurate reproduction.*
 
 # Livestream
 
