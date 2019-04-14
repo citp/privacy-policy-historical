@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebekahradice.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228043052id_/https%3A//rebekahradice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebekahradice.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414040343id_/https%3A//rebekahradice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rebekah Radice
 
@@ -88,4 +88,5 @@ help@rebekahradice.com
 
 Effective as of May 06, 2018
 
-Full disclosure: Some of the links in this post are affiliate links which means that if you decide to buy, I will earn a commission. 3 things you need to know: I only recommend products I use within my own business, am extremely happy with, and can confidently promote.
+  
+Full disclosure: Links on this page may be affiliate links which means that if you decide to buy, I will earn a commission. 3 things you need to know: I only recommend products I use within my own business, am extremely happy with, and can confidently promote.
