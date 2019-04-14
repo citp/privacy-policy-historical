@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the games-kids.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030180031id_/http%3A//www.games-kids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games-kids.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414060731id_/https%3A//www.games-kids.com/privacy-policy) for the most accurate reproduction.*
 
-# CONTACT - GAMES KIDS ONLINE
+# Privacy Policy
 
 Like many websites, our Service uses "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We do not link the information we store in cookies to any Personal Information you submit while using our Services.
 
@@ -19,6 +19,8 @@ Privacy matters but it can be confusing. This page explains our approach to priv
 
 These are just the key points.
 
+### Privacy Policy
+
 This is the privacy policy of the site Games-kids.com and tells you how we use your personal information collected on this site. Please read this privacy policy before using the site or send your personal information. By using Games-kids.com site, you agree to the practices described in this Privacy Policy. These practices may be changed, and any changes made will be posted here and all modifications will only apply to activities and future and not retroactively. We encourage you to visit this page whenever you visit the site Games-kids.com to ensure that you are aware of the changes to this Privacy Policy and to inform you about how we use your information private. This privacy policy is applicable only to this website and for no other partner sites.
 
 **COLLECTION OF INFORMATION**
@@ -34,3 +36,5 @@ In other news, because Google ads you see on the website Games-kids.com not beco
 To view and edit their interest categories, visit the link below: [Ads Preferences](http://www.google.com/ads/preferences)
 
 To display Google AdSense for content ads by interest categories, Google uses the [DoubleClick DART cookie](https://www.google.com/adsense/support/bin/answer.py?answer=100557&hl=ro). When you visit our website Games-kids.com, whether you are reading an ad or click on it, a cookie may be sent to your browser. Data collected by intermdiul these cookies will be used to help us better serve and manage ads on our site, which will help the improvement of your experience by browsing our website.
+
+Read more about [Cookie Policy](https://www.games-kids.com/cookie-policy) and [Terms and Conditions](https://www.games-kids.com/terms-and-conditions).
