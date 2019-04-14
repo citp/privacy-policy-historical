@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the book-fair.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902112928id_/https%3A//www.buchmesse.de/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the book-fair.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414095617id_/https%3A//www.buchmesse.de/en/privacy-policy) for the most accurate reproduction.*
 
 # The Privacy policy of Frankfurter Buchmesse.
 
