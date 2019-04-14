@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020044130id_/https%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414151537id_/https%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
 
 # Neuroscience News Privacy Policy - Neuroscience News
 
