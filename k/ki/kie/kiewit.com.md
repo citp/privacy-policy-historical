@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiewit.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024013813id_/https%3A//www.kiewit.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiewit.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414022224id_/https%3A//www.kiewit.com/info/privacy-statement) for the most accurate reproduction.*
 
-# Kiewit : Privacy Policy
+# Kiewit : Privacy Statement
 
 ### Privacy Statement
 
@@ -8,7 +8,7 @@ Peter Kiewit Sons', Inc. and its subsidiaries ("Kiewit") own and operate a numbe
 
 ### Privacy Philosophy
 
-The Internet is rapidly changing the way we communicate and interact. While the Internet may provide access to more information and services than ever before, online activities raise new challenges, such as the privacy issues addressed in this policy. We welcome your feedback regarding this Website and our Privacy Policy. Please address all comments to [webmaster@kiewit.com](mailto:webmaster@kiewit.com).
+The Internet is rapidly changing the way we communicate and interact. While the Internet may provide access to more information and services than ever before, online activities raise new challenges, such as the privacy issues addressed in this statement. We welcome your feedback regarding this Website and our Privacy Statement. Please address all comments to [webmaster@kiewit.com](mailto:webmaster@kiewit.com).
 
 ### What Information is Collected?
 
@@ -16,7 +16,7 @@ You may be asked at various times to provide data such as your name, e-mail addr
 
 Our data collection policies are intended to allow you to choose how much Personally Identifiable Information to provide to us. Information collected online is often defined as being either anonymous or personally identifiable:
 
-Anonymous Information refers to information that cannot easily be tied back to a specific individual. For instance, we may know that 10,000 people visit this Privacy Policy page today, but we do not necessarily know their names, where they live, or their date of birth.
+Anonymous Information refers to information that cannot easily be tied back to a specific individual. For instance, we may know that 10,000 people visit this Privacy Statement page today, but we do not necessarily know their names, where they live, or their date of birth.
 
 Personally Identifiable Information tells us who you are. We may need this information to provide personalized or enhanced service that you request. While we hope that you will find it beneficial to judiciously provide Personally Identifiable Information so that we can provide the best practical service to you, the amount of Personally Identifiable Information that you choose to disclose is a decision you make.
 
@@ -46,7 +46,7 @@ In addition to the uses described in this section, Kiewit will use the Personall
 
 ### What information will we distribute?
 
-Kiewit's policy is to retain Personally Identifiable Information you submit to us, only for our use and that of our affiliated companies. We do not sell your Personally Identifiable Information to third parties. But although we use industry standard hardware and software designed to protect your privacy, we cannot guaranteeâ€”and you should not expectâ€”that the Personally Identifiable Information you submit to us will always remain confidential
+Kiewit's privacy statement is to retain Personally Identifiable Information you submit to us, only for our use and that of our affiliated companies. We do not sell your Personally Identifiable Information to third parties. But although we use industry standard hardware and software designed to protect your privacy, we cannot guarantee and you should not expect that the Personally Identifiable Information you submit to us will always remain confidential
 
 If a feature of our Website requires that you register with our Website, you will be required to choose a user name and a password You are responsible for protecting the confidentiality of both. Should you allow another to access our Website through your user name and password, Kiewit will assume that you are accessing our Website and you will be responsible for all actions taken in your name. By using our Website, you accept responsibility for all activity undertaken in your name.
 
@@ -60,8 +60,8 @@ We encourage you to share information only with those websites that provide true
 
 While Kiewit does not sell any Personally Identifiable Information you submit to our Website to any other parties, Kiewit reserves the right to use such information for any lawful purpose, including but not limited to recruiting, marketing, performance monitoring and statistical analysis.
 
-Kiewit reserves the right to update this policy. When we do, we will place a notice on our Website.
+Kiewit reserves the right to update this statement. When we do, we will place a notice on our Website. We encourage you to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy statement periodically and become aware of modifications. By using this site, you signify your acceptance of this privacy statement. If you do not agree, you are not permitted to use our site. Your continued use of the site following the posting of changes will be deemed your acceptance of those changes.
 
 Kiewit also reserves the right to send registration confirmations, Service Alerts and similar messages to our users to inform them of specific changes that may impact their ability to use our Website, regardless of such users' e-mail contact opt-in status. Kiewit retains these rights because we may need the right to contact you as a matter of law or regarding matters that may be important to you.
 
-Questions regarding this Privacy Policy should be submitted via e-mail to [webmaster@kiewit.com](mailto:webmaster@kiewit.com) If we have not responded to your inquiry in a timely manner or your inquiry has not been satisfactorily addressed, please contact us at 402-342-2052, and request to speak with the Director of the External Affairs. Our mailing address is: Kiewit Plaza, Omaha, Nebraska 68131.
+Questions regarding this Privacy Statement should be submitted via e-mail to [webmaster@kiewit.com](mailto:webmaster@kiewit.com) If we have not responded to your inquiry in a timely manner or your inquiry has not been satisfactorily addressed, please contact us at 402-342-2052, and request to speak with the Director of the External Affairs. Our mailing address is: Kiewit Plaza, Omaha, Nebraska 68131.
