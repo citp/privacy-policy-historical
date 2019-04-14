@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openttd.org privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712085308id_/http%3A//account.openttd.org/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openttd.org privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414060034id_/https%3A//www.openttd.org/policy.html) for the most accurate reproduction.*
 
-# OpenTTD
+# OpenTTD | Policy
 
 Your privacy is important to OpenTTD. This privacy statement provides information about the personal information that OpenTTD collects, and the ways in which OpenTTD uses that personal information.
 
