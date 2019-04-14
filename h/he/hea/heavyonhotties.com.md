@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heavyonhotties.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330133026id_/http%3A//www.heavyonhotties.com/site/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyonhotties.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414152651id_/https%3A//www.heavyonhotties.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - Heavy On Hotties
 
 This privacy policy discloses the privacy practices for heavyonhotties.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -36,3 +36,5 @@ While we use encryption to protect sensitive information transmitted online, we 
 Our Privacy Policy may change from time to time and all updates will be posted on this page. 
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via email: [cel@heavyonhotties.com](mailto:cel@heavyonhotties.com)
+
+[Back to homepage](https://web.archive.org/)
