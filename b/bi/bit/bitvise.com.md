@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitvise.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820125407id_/https%3A//www.bitvise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitvise.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414213247id_/https%3A//www.bitvise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Bitvise
 
@@ -8,7 +8,7 @@ Bitvise develops and licenses software for secure remote access and data transfe
 
 Bitvise may update these policies at any time, and without prior notice. We request that you periodically review this page.
 
-Please see also our [Terms of use](https://web.archive.org/web/20180820125407id_/https%3A//www.bitvise.com/terms-of-use).
+Please see also our [Terms of use](https://web.archive.org/web/20190414213247id_/https%3A//www.bitvise.com/terms-of-use).
 
 Depending on your choices, we may handle your data in the following circumstances:
 
