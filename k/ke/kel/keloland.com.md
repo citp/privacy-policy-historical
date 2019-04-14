@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keloland.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628211459id_/http%3A//www.keloland.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keloland.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414122638id_/https%3A//www.keloland.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KELO
+# Privacy Policy
 
 **Effective Date** : November 6, 2017  **Related** : [Terms of Use](https://web.archive.org/about-us/terms-of-use) ****
 
