@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electric-skateboard.builders privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610051036id_/http%3A//www.electric-skateboard.builders/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electric-skateboard.builders privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414230437id_/https%3A//www.electric-skateboard.builders/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Electric Skateboard Builders Forum | Learn How to Build your own E-board
+# Privacy - Electric Skateboard Builders Forum | Learn How to Build your own E-board
 
 ## What information do we collect?
 
