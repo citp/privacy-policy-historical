@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game-solver.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223063753id_/https%3A//game-solver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-solver.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414195330id_/https%3A//game-solver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Game-Solver.com
 
@@ -6,13 +6,13 @@
 
 This policy covers how Game-Solver.com uses personal information collected while you use the website.
 
-**What we collect**
+ **What we collect**
 
 As with most websites, Game-Solver.com maintains a log of activity on its site. Your IP address will be recorded, along with other information which may or may not be supplied by your browser. This includes the address of the site that referred you to Game-Solver.com, the type and version of the browser you are using, the operating system you use, and the screen resolution at which you viewed the site.
 
 This information is used solely to help us improve our delivery of the services on the site. This may involve us or our external evaluators contacting you to follow up on any comments you have made.
 
-**Comments**
+ **Comments**
 
 Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:
 
@@ -22,7 +22,7 @@ Comments containing language or concepts that could be deemed offensive will be 
 Comments that attack a person individually will be deleted.  
 The owner of this site reserves the right to edit or delete any comments submitted to this site without notice. This comment policy is subject to change at anytime.
 
-**Cookies**
+ **Cookies**
 
 When you visit the site, the pages you view, along with small text files called ‘cookies’, are downloaded onto your computer.
 
@@ -38,7 +38,7 @@ Game-Solver.com is serious about protecting your privacy and personal informatio
 
 Your personal details will not be supplied by Game-Solver.com to any parties outside Game-Solver.com or its partners or used for any purposes other than those listed above, unless we are required to do so by law.
 
-**Google Advertising Cookie and Privacy Policies**
+ **Google Advertising Cookie and Privacy Policies**
 
 The site displays context sensitive advertising from Google via Google’s AdSense program. We do not control the ads that appear, however they are clearly distinguishable as Google Ads.
 
@@ -47,3 +47,14 @@ The DoubleClick DART cookie is used by Google in the ads served on publisher web
 Google, as a third party vendor, uses cookies to serve ads on the site.  
 Google’s use of the DART cookie enables it to serve ads to Game-Solver.com users based on their visit to our sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+ **Your rights regarding your privacy policy**  
+You have a number of rights under the data protection law, which have been strengthened under the General Data Protection Regulation (GDPR):
+
+  *  **Access:** You have the right to access the data for which we may hold about you and the purposes for which we are using it. Proof of identity will be requested and upon receipt of such request, we will respond to you as soon as possible, at most within one calendar month.
+  *  **Amendment:** You have the right to request us to amend any personal data about you which is incorrect or requires updating.
+  *  **Removal:** You have the right to request that we delete any personal data that we may hold pertaining to you. We will assess any removal request on a case by case basis and we will respond to you as soon as possible, at most within one calendar month.
+
+
+
+If you would like to exercise any of the above rights, please [contact us](https://game-solver.com/contact-us/).
