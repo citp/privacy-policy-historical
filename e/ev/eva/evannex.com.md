@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evannex.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230233731id_/https%3A//evannex.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evannex.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414115545id_/https%3A//evannex.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Aftermarket Tesla Accessories, Gear, parts for Model S | EVANNEX Aftermarket Tesla Accessories
 
@@ -6,7 +6,7 @@ The following Privacy Policy applies only to the EVANNEX® web site and informat
 
 We are concerned about privacy
 
-Your privacy is very important to us.EVANNEX® (“we” or “us”) respects and protects the privacy of its visitors.  In this document, we explain how we use the information you supply to us.  If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy at any time.
+Your privacy is very important to us. EVANNEX® (“we” or “us”) respects and protects the privacy of its visitors.  In this document, we explain how we use the information you supply to us.  If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy at any time.
 
 Information collection and use
 
