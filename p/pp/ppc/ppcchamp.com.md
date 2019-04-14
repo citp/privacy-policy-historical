@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ppcchamp.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013144659id_/http%3A//www.ppcchamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcchamp.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414051215id_/http%3A//www.ppcchamp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - PPCChamp
 
 **PPCChamp** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.ppcchamp.com](http://ppcchamp.com/).
 
