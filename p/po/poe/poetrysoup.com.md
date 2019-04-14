@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetrysoup.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227204647id_/https%3A//www.poetrysoup.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetrysoup.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414075501id_/https%3A//www.poetrysoup.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - PoetrySoup
 
@@ -8,13 +8,13 @@ PoetrySoup is committed to protecting your privacy and developing secure technol
 
 PoetrySoup secures the personally identifiable information you provide on our website in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-The PoetrySoup website is secured by an SSL certificates from GeoTrust®. SSL certificates from GeoTrust® are the ultimate online security and trust solution delivering both 256-bit encryption and the True Site™ trust mark providing third-party website identity validation. The presence of SSL means you can rest assured that communications between your browser and this site web servers are private and secure when the SSL session is activated.
+The PoetrySoup website is secured by an SSL certificate from GeoTrust®. SSL certificates from GeoTrust® are the ultimate online security and trust solution delivering both 256-bit encryption and the True Site™ trust mark providing third-party website identity validation. The presence of SSL means you can rest assured that communications between your browser and this site's web servers are private and secure when the SSL session is activated.
 
 ## Collection of your Personal Information
 
-PoetrySoup collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. PoetrySoup also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+PoetrySoup collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. PoetrySoup also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests, and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by PoetrySoup. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by PoetrySoup for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the PoetrySoup Web site.
+There is also information about your computer hardware and software that is automatically collected by PoetrySoup. This information can include your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by PoetrySoup for the operation of the service, to maintain the quality of the service, and to provide general statistics regarding use of the PoetrySoup Web site.
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through PoetrySoup public message boards, this information may be collected and used by others. Note: PoetrySoup does not read any of your private online communications.
 
@@ -34,7 +34,7 @@ PoetrySoup Web sites will disclose your personal information, without notice, on
 
 ## Use of Cookies
 
-The PoetrySoup Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The PoetrySoup Web site uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize PoetrySoup pages, or register with PoetrySoup site or services, a cookie helps PoetrySoup to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same PoetrySoup Web site, the information you previously provided can be retrieved, so you can easily use the PoetrySoup features that you customized.
 
