@@ -1,156 +1,215 @@
-> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224051108id_/https%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414063739id_/https%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
 
 # FORZIERI | Help | Security & Privacy | Privacy Policy
 
 ## Privacy Policy
 
-Last Updated on 2017-11-08
+Last Updated on 2018-05-24
 
-We want to assure you that FORZIERI respects your privacy. Information provided to us as a result of your online purchase is completely confidential - FORZIERI does not sell, rent, or loan any personally identifiable information regarding its customers to any third party in ways different than disclosed in this privacy policy
+#### We Honestly Care About Your Privacy
+
+We at FORZIERI have created this section of our website to describe, as simply and clearly as possible, our collection, use, disclosure, retention and protection of your personal data.
 
 ### Privacy Statement
 
   * Introduction
   * Information We Collect and How It's Used
+  * Use of Cookies
   * Sharing of Information
-  * Security
-  * Links
-  * Changes
-  * Legal Disclaimer
-  * Glossary of Terms
+  * Data retention
+  * Data Security
+  * Your Rights
+  * Changes to your data
+  * Change of Purpose
+  * Changes to this Privacy Policy
+  * Legislative references and useful links
   * Contact Information
 
 
 
 ### Introduction
 
-#### We Honestly Care About Your Privacy
+The Forzieri.com website is controlled by FORZIERI/Firenze Seta srl, referred to as "FORZIERI", "we", "us" or "our" throughout this Privacy Policy. We are the primary data controller for the purposes of this website and our registered office is Via della Vigna Nuova 85r, Florence, 50123, Italy.
 
-We at FORZIERI have created this section of our website dedicated to the straight forward explanation, as simply and clearly as possible, of the way we function and what you, as our valued visitor, are going through by visiting our E-commerce site and what your rights to privacy are.
+It is important that you read this Privacy Policy together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This Privacy Policy supplements the other notices and is not intended to override them.
 
-Questions regarding this statement should be directed to our Info Center by e-mail, snail-mail (postal letter), or by phone:
+We also ask you to read the "[Cookie Policy](https://www.forzieri.com/usa/help/security-and-privacy/cookie-policy.asp?l=usa&c=usa)" and the "[Terms & Conditions](https://www.forzieri.com/usa/help/security-and-privacy/terms-and-conditions.asp?l=usa&c=usa)" of the forzieri.com website, which contain detailed information regarding the conditions relating to our services.
 
-[email contact](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=G)  
+By navigating to a Forzieri.com website or mobile view, by transacting and by registering an account, you are agreeing to the terms of this Privacy Policy.
+
+Firenze Seta srl is the data controller of your personal data and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with the General Data Protection Regulation.
+
+We may transfer your personal information outside of the European Economic Area to authorised third parties. Where we use third party service providers based outside of the European Economic Area, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. Where we use third party service providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+Questions regarding this statement should be directed to our Info Center by email, snail-mail (postal letter), or by phone:
+
 FORZIERI/Firenze Seta srl  
 Via della Vigna Nuova 85r  
-50123 Florence, Italy
+50123 Florence, Italy  
++39 055 7251077  
+[privacy@forzieri.com](mailto:privacy@forzieri.com)
+
+If you wish, you can also contact our Data Protection Officer (DPO) by writing to "Data Protection Officer" at the address above, or by e-mail to the DPO address: [dpo@forzieri.com](mailto:dpo@forzieri.com).
 
 ### Information We Collect and How It's Used
 
+We collect and process only the data that is required to allow us to provide our services to you.
+
+We do not provide products or services that are designed for use by children under the age of 16, or knowingly collect personal information from or about children under age 16.
+
+We collect the following data when you browse or shop at Forzieri.com:
+
 #### Information You Explicitly Provide
 
-#### via Order Form:
+##### via Order Form:
 
-To process your order, we require your name, billing address, phone number, e-mail address, shipping address and credit card information. We use this information solely to process your order and, if any questions should arise, to contact you about your order. In general, we will try to contact you first by e-mail and only if that fails, or if time is critical, will we try to contact you by phone. We process your orders ourselves, in house, and thus the sharing of this information is usually non-existent with any third parties. However, when we have to share this information, it will only be that information which is absolutely necessary, with those third parties that may be involved in the processing of your order in the future. For example, the financial institution that issued your credit card and the shipping carrier that delivers your order. Any sharing of personal information will be only with service providers (such as banks, credit card verifiers, etc.) in processing orders. When making a payment via the Paypal option be aware that you will be entering your personal and financial information on the Paypal website even though the FORZIERI logo frames the top of the page. This for ease of navigation back to the FORZIERI site. For information provided on the Paypal web site please refer to Paypal’s Privacy Policy. None of the information provided by the user to Paypal is shared back to the FORZIERI site as all necessary information to process the order are already provided by the user to FORZIERI before the payment. Paypal simply communicates to FORZIERI the approval or not to accept the purchase.
+We collect the personal data required to allow us to fulfil our contract with you including taking payment and any related anti-fraud checks if you choose to pay by credit/debit card. This data may include your name, billing address, shipping address, payment details, phone number and email address. We collect your email address in order to send you confirmation of your order; we collect your phone number so that we can contact you if there are any issues with the order.
 
-#### via "Contact Us" E-mails
+If you provide us with someone else's data - for example, if you purchase a product to be delivered to a friend or as a gift - we will collect and process the personal data required to complete the transaction such as the name, delivery address and other contact details for your friend. If you are receiving an item as a gift, we will process your data only to fulfil the gift request and our contractual obligations.
 
-Should you decide to contact us through one of our e-mail addresses for a suggestion or problem via the Contact Us Form, you will be supplying your name and e-mail address and we will only use that information to send you a prompt reply.  
-Service related or confirmation emails disclosure: because these emails are related to the service and are not promotional in nature, generally there is not opt-out or unsubscribe provided. Example is sending user name and password when a user registers for the first time.
+We process your orders ourselves, in house, and thus we rarely need to share this information with any third parties. However, when we have to share this information, it will only be that information which is absolutely necessary, and only with those third parties that may be involved in the processing of your order in the future. For example, the financial institution that issued your credit card and the shipping carrier that delivers your order.
 
-#### via Forzieri Privileges Club
+When making a payment via the Paypal option be aware that you will be entering your personal and financial information on the Paypal website even though the FORZIERI logo frames the top of the page. This for ease of navigation back to the FORZIERI site. For information provided on the Paypal website please refer to Paypal's Privacy Policy. None of the information provided by the user to Paypal is shared back to the FORZIERI site as all necessary information to process the order are already provided by the user to FORZIERI before the payment. Paypal simply communicates to FORZIERI the approval or not to accept the purchase.
 
-If you sign up to become a member of our Forzieri Privileges Club, we will send an e-mail newsletter with our announcements and special offers from time to time until you decide to unsubscribe. Subscription to our newsletter is optional and requires your consent via our [Forzieri Privileges Club Page](https://www.forzieri.com/usa/privclub.asp?l=usa&c=usa) or by visiting our store in person and signing up. If you wish to stop receiving our newsletter, please click on the link marked **"unsubscribe"** which can be found at the bottom of every email.
+##### via our Account Registration Form
 
-#### via Sweepstakes Entry Form
+If you register for a FORZIERI account, we collect your name, email address, password, and country.
 
-To enter our Sweepstakes, we require your name, mailing address, e-mail address and we require you to maintain a subscription to our free e-mail newsletter. The sweepstakes rules state that you give us permission, should you be a winner, to publish your name, city, state and country on our web site. Should you be a winner, we will notify you via e-mail and prize redemption instructions will be sent via postal mail to the address you gave us with your entry form. We will not use your personal information for any other purpose and you will not receive any additional mailings. Please be advised that sweepstakes will only occur from time to time.
+##### via our Customer Care team
 
-#### via Affiliate Program
+When you contact our Customer Care team through one of our email addresses, via the "Contact Us Form" or by telephone we collect your name, email address, phone number and country and we will only use that information to send you a prompt reply. We may collect additional data to help us resolve any queries relating to your order, delivery, payments, marketing, the website or any other queries.
 
-To sign up for the Affiliate Program, you must fill out the general information form which includes your name, title, e-mail, phone, fax, address and then submit this form to: LinkShare, (this link is located directly on our web site) an independent 3rd party company that produces and manages affiliate tracking systems - they provide an independent accounting of all transactions and real-time, online reporting. Please be advised that all the information collected on the general information form stays with LinkShare not FORZIERI. We can only contact you via LinkShare. You simply have to place a text link, a banner, or a graphic button (we will provide them) on your Web site, e-mail or newsletter. If you want to be deleted from this program just contact LinkShare directly at [www.linkshare.com](https://www.linkshare.com/).
+##### via Forzieri Privileges Club
 
-#### via Wish List set-up
+We collect your email address when you sign up to become a member of our Forzieri Privileges Club. We will send an email newsletter with our announcements and special offers from time to time until you decide to unsubscribe. Subscription to our newsletter is optional and requires your explicit consent via our Forzieri Privileges Club Page or by visiting our store in person and signing up. If you wish to stop receiving our newsletter, please click on the link marked "unsubscribe" which can be found at the bottom of every email or contact our Customer Care team.
 
-By creating a Wish List on the FORZIERI Site you are required to provide your name and e-mail address. We use this information solely to make the wish list accessible to your person. Optionally, in case you wish to make your Wish List searchable by others, you can choose to provide some unique facts about your person, date of birth (please note that only month and day are asked for, not year of birth) and gift giving event type so to make it easier for your friends to recognize your list in our public list database. Also, optionally, you can provide your shipping address so that friends can buy direct from your Wish List and have items shipped direct to you. To protect your privacy, when choosing to make your list searchable, FORZIERI does not display your full shipping address (only City and State) or e-mail address. We will not use Wish List data for additional mailings or marketing purposes. Shipping address only, in case provided, will be used to process orders -- see the "via Order Form" paragraph above.
+##### via Wish List Creation
 
-#### via Catalog Requests form
+By creating a Wishlist on the FORZIERI Site you are required to provide your name and email address. We use this information solely to make the wish list accessible to your person. Optionally, in case you wish to make your Wish List searchable by others, you can choose to provide some unique facts about your person, date of birth (please note that only month and day are asked for, not year of birth) and gift giving event type to make it easier for your friends to recognize your list in our public list database. Also, optionally, you can provide your shipping address so that friends can buy from your Wish List and have items shipped direct to you. To protect your privacy, when you choose to make your list searchable, FORZIERI does not display your full shipping address (only City and State) or email address. We will not use Wish List data for additional mailings or marketing purposes.
 
-When requesting a catalog via our web form, you are required to provide your full name , shipping address and phone number. This information will not be shared or sold to third parties and you will not receive additional mailings other than the FORZIERI catalogs. To opt-out from your catalog subscription please [contact us via e-mail](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=O)
-
-#### via Live Chat
+##### via Live Chat
 
 If you have questions about the FORZIERI products, you have the option to use our "live chat" support service. This service asks you for a user name (you can use your real name or you can use an alias). The chat transcript is saved in a secure location along with your IP address. This not only protects our customer care representatives against inappropriate chat content on the part of unscrupulous users, but it also allows us to pull up your previous chat session if you come back later and chat again. This feature makes use of cookies on our website to facilitate one on one dialogue and to provide us insight into how our users navigate our website. However, we have no access to or control over these cookies, once we have given permission for them to set cookies.
 
-#### via Tell-A-Friend
+#### Information We Automatically Collect
 
-FORZIERI discloses that when using the Tell-A-Friend service the user will be asked for the friends’ name and email addresses. These information are used exclusively for a one time invitation email and are not stored for future use.
+##### Shopper ID
 
-### Information We Automatically Collect
+Upon visiting our site, we assign you a unique Shopper ID and attempt to store that onto your computer in the form of a cookie. This is used to keep track of your shopping basket during your visit and between visits. Cookies used by FORZIERI are not tied to personally identifiable information. If you are uncomfortable with the idea of being assigned a Shopper ID, we recommend disabling cookie support in your browser (please see your browser documentation for specific procedures). You may still place an order by phone or postal mail. Disabling cookie support will disable the shopping basket feature of our site.
 
-#### Shopper ID
+##### IP Address
 
-Upon visiting our site, we assign you a unique Shopper ID and attempt to store that onto your computer in the form of a cookie. This is used to keep track of your shopping basket during your visit and between visits. Cookies used by FORZIERI are not tied to personally identifiable information. If you are uncomfortable with the idea of being assigned a Shopper ID, we recommend disabling cookie support in your browser (please see your browser documentation for specific procedures). You may still place an order by phone, fax or postal mail. Disabling cookie support will disable the shopping basket feature of our site.
+We collect and process technical data including IP address, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
 
-#### IP Address
+##### Browsing Activity
 
-We record IP addresses in the aggregate for monitoring the level of activity on our site, but we do not link this to your Shopper ID.
+We collect and process data about your browsing on Forzieri.com, including the pages you visit and how you interact with these pages. We will use this data to help us improve the website and our promotion of the website. This will include data about how you came to the website; the date and time of your visit; products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction data (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. If you have registered for an account, we collect browsing data about your access to the dedicated areas of the website.
 
-#### Affiliate ID
+##### Affiliate ID
 
-If you entered our site by clicking a link on one of our affiliate web sites, we will attempt to store the ID of the affiliate as a cookie. We do this to ensure the affiliate receives proper credit for any subsequent order you might place. Your personally identifiable information will not be shared with any affiliates.
+If you entered our site by clicking a link on one of our affiliate websites, we will attempt to store the ID of the affiliate as a cookie. We do this to ensure the affiliate receives proper credit for any subsequent order you might place. Your personally identifiable information will not be shared with any affiliates.
+
+### Use of Cookies
+
+We and our business partners collect information about your use of our online services using cookies. Cookies are small text files placed on your computer or other device by websites you visit, such as ours, which record some aspects of your visit. Cookies help us remember who you are and other information about your visits. They can help display the information on a website in a way that matches your interests. Most major websites use cookies.
+
+For more information about how we use cookies, please read our [Cookie Policy](https://www.forzieri.com/usa/help/security-and-privacy/cookie-policy.asp?l=usa&c=usa).
 
 ### Sharing of Information
 
-It is our privacy policy here at FORZIERI to respect the privacy of our visitors to the utmost of our ability. We do not share your personally identifiable information with any other entities other than the necessary third parties in the normal processing of your orders. These third parties are prohibited from using your personally identifiable information for any secondary purposes.
+We may disclose your personal information to authorised third parties. These third parties are prohibited from using your personally identifiable information for any secondary purposes. We do not disclose your personal information to third parties for marketing purposes
 
-In accordance with item IV, art. 25, c. 6 "Transfer of personal data to third countries" of the Directive 95/46/EC, the data may be transferred to non EU countries or countries not belonging to the European Economic Area, that however grant an adequate level of protection of the personal data. In any case, the data processing will take place in accordance with the provisions of the current rules and regulations.
+These parties have been rigorously assessed and offer a guarantee of compliance with the legislation on the processing of personal data. These parties have been designated as data processors and carry out their activities according to our instructions.
 
-### Security
+The third parties in question belong to the following categories: banking operators, internet providers, companies specialising in IT and telematics services; couriers; companies that carry out marketing activities, including social media organisations; companies specialising in market research and data processing; companies offering contact centre services; companies providing publishing and distribution services.
 
-We utilize industry standard SSL encryption when accepting your credit card information during our online checkout process. In addition, we utilize the same encryption standard when transferring your credit card data to our payment processing gateway.
+Under some circumstances we may be required to disclose or share your data without your consent, for example if we are required by the police, the courts or for other legal reasons. Your data may be transmitted to the police, judicial and administrative authorities, in accordance with the law, for the investigation and prosecution of crimes, the prevention of and protection from threats to public security, to allow Firenze Seta srl to ascertain, exercise or defend a right in court, as well as for other reasons related to the protection of the rights and freedoms of others.
 
-### Links
+In accordance with the new EU Regulation UE 2016/679 on Data Protection (GDPR), we may transfer your personal information outside of the European Economic Area to authorised third parties. Where we use third party service providers based outside of the European Economic Area, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. Where we use third party service providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. 
 
-We may include links to other sites and if you decide to follow those links, although we choose a site to which we may link very carefully based on their integrity and quality, we can't be responsible for the privacy policies and content of those sites. Generally, we will let you know when a link goes to another site.
+We may also transfer your personal data to a buyer or potential buyer in the event that our assets are acquired by another organisation. The purchaser will be required by law to use your personal data only as described in this Privacy Policy.
 
-### Changes
+### Data Retention
+
+We retain your personal information as long as it is necessary and relevant for our operations. In addition, we may retain personal information from closed accounts to comply with legal requirements, prevent fraud and resolve disputes. Where a legal requirement obliges the retention of personal data for a specific minimum period, we will retain data for at least that period. When we determine the maximum retention duration of any personal data we hold we do so with regard to our legitimate interests to retain data, our obligation under GDPR to minimise data we hold with what we do hold as personal data being kept proportionate; the nature, and sensitivity of the personal data and the potential risk of harm from unauthorised use or disclosure of your personal data.
+
+In some circumstances you can ask us to delete your data: see 'Your Rights' below for further information.
+
+In some circumstances we may anonymise your personal information so that it can no longer be associated with you, in which case we may use such information without further notice to you.
+
+### Data Security
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+### Your Rights
+
+The General Data Protection Regulation provides for rights of access, modification and deletion of your personal information. The GDPR provides you with the following rights:
+
+  * ##### The right of access
+
+Your right to obtain confirmation as to whether or not personal data are being processed, and, where that is the case, access to the personal data along with details regarding the nature of processing.
+
+  * ##### The right of rectification
+
+Your right to obtain the rectification of inaccurate personal data.
+
+  * ##### The right of portability
+
+Your right to receive the personal data concerning provided to us, in a structured, commonly used and machine-readable format.
+
+  * ##### The right to be forgotten
+
+Your right to erase your personal data.
+
+  * ##### The right to restrict processing
+
+Your right for your data to be effectively 'frozen'; stored and not further processed.
+
+  * ##### The right to object
+
+Your right to object to how your personal data is processed including your right to object to our profiling of you as outlined in this privacy policy.
+
+
+
+
+To exercise any of these rights, you can sign in to your account, contact our Customer Care team at helpdesk@forzieri.com or +39 055 7251077 or write to our Privacy Team at Firenze Seta srl, Via della Vigna Nuova 85r, Florence, 50123, Italy.
+
+To ensure that the data of our users are not subject to breaches or illegitimate use by third parties, we will ask you to confirm your identity before carrying out your request.
+
+### Changes to your data
 
 #### Order information
 
-To make any changes to your order, please [contact us via e-mail](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=O) or phone 011 39 055 210731 and we will be happy to assist you. FORZIERI will send you a confirmation after receiving any changes/updates made to your order.
-
-#### Sweepstakes entry
-
-To be removed from our sweepstakes, please send us an e-mail stating your wish and include the e-mail address with which you registered. We will send a confirmation of your request to that e-mail address and your sweepstakes entry will be deleted. To make any other changes to your sweepstakes entry, please contact us via e-mail or phone and we will be happy to assist you. For any of the above issues [contact us via e-mail](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=M).
+To make any changes to your order, please [contact us via e-mail](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=O) or phone +39 055 7251077 and we will be happy to assist you. FORZIERI will send you a confirmation after receiving any changes/updates made to your order.
 
 #### Account Information
 
-If you’re a FORZIERI account holder your information can be accessed any time to make corrections to your shipping/billing addresses, password, email, subscriptions, credit card (if you opted for storing it) and open orders. To access your information simply click on the MyAccount tab located on top of every page and log-in providing your email and password.
+If you're a FORZIERI account holder your information can be accessed any time to make corrections to your shipping/billing addresses, password, email, subscriptions, credit card (if you opted for storing it) and open orders. To access your information simply click on the MyAccount tab located on top of every page and log-in providing your email and password.
 
-### Changes in Privacy Statement/Information
+### Change of Purpose
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
-### Legal Disclaimer
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+### Changes to this Privacy Policy
 
-### Glossary of Terms
+We may change our privacy policy and practices over time. To the extent that our policy changes in a material way, we will promptly notify you of such changes.
 
-#### Cookies
+### Legislative References and Useful Links
 
-Cookies (we're not sure how they got this gastronomic name) are pieces of information that a web site stores in your computer. Temporary cookies only last as long as your browser is running. Persistent cookies are stored on your hard disk (they take up very little space). Sites often use cookies to identify repeat visitors and offer them personalized service.
-
-#### IP Address
-
-When you are connected to the Internet, your computer has a unique Internet ID called an IP address. Most people that connect through a dial-up service, such as America Online, get a different IP address each time they login. Others might have a permanently assigned IP address, called a static IP address. It is difficult or impossible for a web site to collect personal information about you (i.e., your name, e-mail address, etc.) from your IP address alone, though a static IP address makes this easier.
-
-#### Shopper ID
-
-A unique ID assigned to each shopper that visits an online store with a shopping basket system. Each store you visit will assign you a different ID. Many stores use a cookie to save your Shopper ID for re-use when you return to that same store. Some shoppers find this convenient and others find it objectionable.
-
-#### SSL Encryption
-
-A method by which information transmitted across the Internet is scrambled to the point where it's virtually indecipherable by anyone who should intercept the data before it reaches its destination. Most reputable online stores make use of SSL encryption to request credit card information and other sensitive data from their customers. Web pages where SSL encryption is activated are typically identified by a lock or key symbol displayed somewhere in your browser. Refer to your browser's documentation for the specific symbol and location.
+The processing of your personal data is carried out by FORZIERI in full compliance with the regulations on the matter pursuant to the General Data Protection Regulation (EU) 2016/679, the rules on the processing of Italian personal data and the provisions of the Italian Data Protection Authority ([www.garanteprivacy.it](http://www.garanteprivacy.it/)).
 
 ### Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Andrea Forzieri  
-+39 055 7251077  
-[contact us](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=G)  
 FORZIERI/Firenze Seta srl  
 Via della Vigna Nuova 85r  
-50123 Florence - Italy
+50123 Florence, Italy  
++39 055 7251077  
+[privacy@forzieri.com](mailto:privacy@forzieri.com)
+
+You can find the [previous version](https://www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp?l=usa&c=usa&version=20171108) of our policy here.
