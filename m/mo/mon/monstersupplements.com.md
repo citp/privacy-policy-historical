@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstersupplements.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916132306id_/http%3A//monstersupplements.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersupplements.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414081801id_/https%3A//monstersupplements.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Monster Supplements
 
@@ -49,6 +49,159 @@ We use Web site browser software tools such as cookies and Web server logs to ga
 
 Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity. We do not use these technologies to capture your individual email address or any personally identifying information about you although they do permit us to send focused online banner advertisements or other such responses to you.
 
+Monster Supplements use your personal data:
+
+  * to provide goods and services to you;
+  * to make a tailored website available to you;
+  * to manage any registered account(s) that you hold with us;
+  * to verify your identity;
+  * for crime and fraud prevention, detection and related purposes;
+  * to contact you electronically about promotional offers and products and services which we think may interest you;
+  * to enable Monster Supplements to manage customer service interactions with you; and
+  * where we have a legal right or duty to use or disclose your information (for example in relation to an investigation by a public authority or in a legal dispute).
+
+
+
+**What Are Cookies?**
+
+Cookies are a feature of browser software that allows web servers to recognise the computer used to access a website. Cookies are small pieces of data that are stored by a user's web browser. Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that website by the same user or to use the information to streamline the user's transactions on related web pages. This makes it easier for a user to move from page to page and to complete transactions over the internet. Cookies should make your online experience easier and more personalised. The table below explains the cookies we use and why.
+
+**MonsterSupplements.com**
+
+**Strictly Necessary**
+
+**Cookie**
+
+| 
+
+**Description**  
+  
+---|---  
+  
+Frontend
+
+| 
+
+Magento - Sesssion ID on the server.  
+  
+persistent_shopping_cart
+
+| 
+
+Magento - link to information about the shopper's cart and viewing history.  
+  
+external_no_cache
+
+| 
+
+Magento - Indicates if caching is disabled or enabled.  
+  
+**MonsterSupplements.com**
+
+**Performance Cookies**
+
+**Cookie**
+
+| 
+
+**Description**  
+  
+---|---  
+  
+_ga
+
+| 
+
+Google Analytics 2 years Used to distinguish users.  
+  
+_gaos
+
+| 
+
+Google Analytics  
+  
+_gaost
+
+| 
+
+Google Analytics  
+  
+_gat
+
+| 
+
+Google Analytics 1 minute Used to throttle request rate.  
+  
+**MonsterSupplements.com**
+
+**Functionality Cookies**
+
+**Cookie**
+
+| 
+
+**Description**  
+  
+---|---  
+  
+_et_id.278d2765b651b1f2.undefined
+
+| 
+
+RECOMMENDTRACKER – <http://tracking.recommend.pro/>  
+  
+optimizelyBuckets
+
+| 
+
+Optimizely.com A/B Testing  
+  
+optimizelySegments
+
+| 
+
+Optimizely.com A/B Testing  
+  
+optimizelyEndUserId
+
+| 
+
+Optimizely.com A/B Testing  
+  
+_et_ses.278d2765b651b1f2.undefined
+
+| 
+
+RECOMMENDTRACKER – <http://tracking.recommend.pro/>  
+  
+RECOMMENDTRACKER
+
+| 
+
+RECOMMENDTRACKER – <http://tracking.recommend.pro/>  
+  
+**Google Analytics**
+
+When someone visits monstersupplements.com we use a third party service called Google Analytics, to collect standard internet log information and details of visitor behaviour patterns. We do this to report on things such as the number of visitors to the various parts of the site. This information is only processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website. Data is recorded purely for reporting purposes and to ensure that visitors to our website are able to find the correct products and pages they are searching for.
+
+As of the 25th May 2018, our Google Analytics suite will retain data for a period of 26 months.
+
+The retention period applies to user-level and event-level data associated with cookies, user-identifiers (e.g., User-ID) and advertising identifiers (e.g., DoubleClick cookies, Android’s Advertising ID, Apple’s Identifier for Advertisers).
+
+When data reaches the end of the retention period, it is deleted automatically on a monthly basis.
+
+**Web Banner Advertising**
+
+If you visit our websites, you may receive personalised banner advertisements whilst browsing other websites.  Any banner advertisements you see will relate to products you have viewed whilst browsing our websites on your computer or other devices.
+
+These advertisements are provided by Monster Supplements via market leading specialist providers using ‘cookies’ placed on your computer or other devices (see further information on the use of cookies in our Cookie Policy).  You can remove or disable cookies at any time - see below for further information.
+
+**How to opt-out of Cookies**
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
+
+To opt out of being tracked by Google Analytics across all websites visit https://tools.google.com/dlpage/gaoptout.
+
 **Notice of New Services and Changes**
 
   
@@ -81,177 +234,61 @@ We are not responsible for the practices employed by Web sites linked to or from
 
 Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
-**Your Consent**
+**  
+Mailing Lists**
+
+As part of the registration process for our e-newsletter, we may collect personal information. We use this information for a couple of reasons: to tell you about things you’ve asked us to tell you about; to contact you if we need to obtain or provide additional information; to check our records are right and to check every now and then that you’re happy and satisfied. We don't rent or trade email lists with other organisations and businesses.
+
+We use a third-party provider called MailChimp, to deliver our newsletter. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see MailChimp’s privacy notice by Clicking Here.
+
+You can unsubscribe from our promotional emails at any time by clicking the unsubscribe link at the bottom of any of our emails or by emailing our Customer Services team at support@monstersupplements.com
+
+**  
+Your Consent**
 
   
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
+**Access to your personal information**
+
+As part of our commitment to keeping your data private, you are fully entitled to view, amend or delete personal information that we hold.
+
+To request information on your personal data or ask for us to delete any details we store, please email [support@monstersupplements.com](mailto:support@monstersupplements.com) or call 01482 60 60 22.
+
+You can also write to us at:
+
+Monster Supplements
+
+Clay Street
+
+Kingston upon Hull
+
+East Yorkshire
+
+HU8 8HA
+
+Note: We may be required to continue storing certain personal data for legal reason e.g. tax purposes or proof of sales.
+
+**How long do we keep your data?**
+
+We will not retain your data for longer than necessary for the purposes set out in this Policy. Different retention periods apply for different types of data, however the longest we will normally hold any personal data is 6 years.
+
+**Changes to this Privacy Notice**
+
+This Privacy Policy is reviewed regularly and is subject to amendment, without prior notification.
+
 **Visitors to our website**
 
-When someone visits [www.monstersupplements.com](http://monstersupplements.com/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our website. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
+When someone visits [www.monstersupplements.com](https://monstersupplements.com/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our website. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
 **Use of cookies by Monster Supplements**
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
-The table below explains the cookies we use and why.
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
-**Cookie**
-
-| 
-
-**Name**
-
-| 
-
-**Purpose**
-
-| 
-
-**More information**  
-  
----|---|---|---  
-  
-Google Analytics
-
-| 
-
-_utma  
-_utmb  
-_utmc  
-_utmz
-
-| 
-
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-| 
-
-[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
-  
-Digital Window
-
-| 
-
-_aw_m_3596  
-awin
-
-| 
-
-Affiliate Window cookies track the activity of affiliates and reward them for generating traffic and sales on our websites. 
-
-| 
-
-Go to [Affiliate Window](http://www.affiliatewindow.com/documents/Privacy%20Policy.pdf "Affiliate window") for more information on managing Affiliate Window cookies.  
-  
-Monster Supplements Session ID
-
-| 
-
-PHPSESSID
-
-| 
-
-A session cookie is required to follow your progress through the website. It is essential to ensure that any information you enter or routes you take are remembered by the website. Without this cookie, every page you visited would treat you as a completely new visitor. This cookie does not identify you personally and is not linked to any other information we store about you. The cookie is deleted when you close your web browser.
-
-|   
-  
-HelloBar
-
-| 
-
-hellobar_current  
-hellobar_1331835052_visited  
-hellobar_1331835052_shown  
-hellobar_1331835052_variation
-
-| 
-
-HelloBar cookies track click activity on the drop down promotional bar. This cookie does not contain any personal data.
-
-| 
-
-Go to [HelloBar](http://www.hellobar.com/privacy-policy "Criteo") for more information on managing HelloBar cookies.  
-  
-Monster Supplements Email Tracking Cookie
-
-| 
-
-emailTrackingCookie
-
-| 
-
-When we send emails to our own registered Monster Supplements customers, we’ll sometimes track who opened the emails and who went so far as to click on any of the hyperlinks. We do this to measure the performance of our Email Campaigns, and to improve our offerings to specific customer segments.
-
-|   
-  
-Criteo
-
-| 
-
-extid  
-acdc  
-uid  
-uic  
-evt  
-udc  
-udi< br /> dis  
-OACBLOCK  
-OACCAP
-
-| 
-
-Criteo provides you with personalised adverts when you visit selected other websites by placing a Criteo cookie on your computer. This cookie does not contain any personal data. 
-
-| 
-
-Go to [Criteo](http://www.criteo.com/us/privacy-policy "Criteo") for more information on managing Criteo cookies.  
-  
-Twitter
-
-| 
-
-guest_id
-
-| 
-
-guest_id is a guest or Twitter account identifier.
-
-| 
-
-Go to [Twitter](http://twitter.com/privacy) for more information on managing Twitter cookies.  
-  
-Facebook
-
-| 
-
-locale  
-datr  
-lu  
-csm
-
-| 
-
-Facebook cookies enables you to interact with our website using your Facebook account.
-
-| 
-
-Go to [Facebook](https://www.facebook.com/about/privacy/) for more information on managing Facebook cookies.  
-  
-Bing
-
-|  | 
-
-Bing cookies originate in our PPC campaigns with Bing, rewarding them for generating traffic and sales on our website 
-
-| 
-
-Go to [Bing](http://bingppc.com/privacy "Bing") for more information on managing Bing cookies.  
-  
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+To opt out of being tracked by Google Analytics across all websites visit <https://tools.google.com/dlpage/gaoptout>.
 
 **YouTube cookies**
 
-We embed videos from our official YouTube channel using YouTube's privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit [YouTube's embedding videos information page](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").
+We embed videos from our official YouTube channel using YouTube's privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit [YouTube's embedding videos information page](https://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").
