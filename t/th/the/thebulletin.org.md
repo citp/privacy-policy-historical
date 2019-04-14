@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thebulletin.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220202422id_/https%3A//thebulletin.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebulletin.org privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414184400id_/https%3A//thebulletin.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bulletin of the Atomic Scientists
 
 ## Our Approach to Privacy
 
-This policy describes the privacy practices of the _Bulletin of the Atomic Scientists_ (“ _Bulletin_ ”), [1307 E 60th St Chicago, IL 60637](https://www.google.com/maps/place/1307+E+60th+St,+Chicago,+IL+60637/@41.7856991,-87.5961256,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2910b2e17125:0x6f37fe829c787c38!8m2!3d41.7856991!4d-87.5939369) (“us” “our” or “we”), for its website [https://thebulletin.org](https://web.archive.org/web/20181220202422id_/https://thebulletin.org/) (“Website”), including the mobile version of the Website. This policy does not apply to information we collect offline. The purpose of this Privacy Policy is to set out how we collect, store, process, transfer, share and use your personal information. We collect and process data on users of our Website when they voluntarily submit information directly to us, and when they access and use this Website (these individuals about whom we collect data are referred to as “you” and “your” in this Privacy Policy).
+This policy describes the privacy practices of the _Bulletin of the Atomic Scientists_ (“ _Bulletin_ ”), [1307 E 60th St Chicago, IL 60637](https://www.google.com/maps/place/1307+E+60th+St,+Chicago,+IL+60637/@41.7856991,-87.5961256,17z/data=!3m1!4b1!4m5!3m4!1s0x880e2910b2e17125:0x6f37fe829c787c38!8m2!3d41.7856991!4d-87.5939369) (“us” “our” or “we”), for its website [https://thebulletin.org](https://web.archive.org/web/20190414184400id_/https%3A//) (“Website”), including the mobile version of the Website. This policy does not apply to information we collect offline. The purpose of this Privacy Policy is to set out how we collect, store, process, transfer, share and use your personal information. We collect and process data on users of our Website when they voluntarily submit information directly to us, and when they access and use this Website (these individuals about whom we collect data are referred to as “you” and “your” in this Privacy Policy).
 
-## **We collect information from and about you.**
+##  **We collect information from and about you.**
 
-**We collect contact information.** We might collect your name and email address if you sign up for our e-newsletter on the Website. We may also collect your street address or phone number.  
+ **We collect contact information.** We might collect your name and email address if you sign up for our e-newsletter on the Website. We may also collect your street address or phone number.  
 **We collect payment information.** If you make a donation on the Website, we or our vendors collect credit card information from you, including name, credit card number and billing address, in order to process the donation.  
 **We collect information you submit or post.** We collect the information you post in a public space on our Website. If you contact us, apply for a job, or respond to a survey, we will collect the information you provide to us.  
 **We collect demographic information**. We may collect your gender and your zip code or postal code. We might also ask for information like your age.  
@@ -16,7 +16,7 @@ This policy describes the privacy practices of the _Bulletin of the Atomic Scien
 
 ## We collect information in different ways.
 
-**We collect information directly from you.** For example, if you sign up for our e-newsletter on the Website or make a donation.  
+ **We collect information directly from you.** For example, if you sign up for our e-newsletter on the Website or make a donation.  
 **We collect information from you passively**. We may use tracking tools like browser cookies or similar technology. We may collect information about users over time when you use this Website. We may have third parties collect personal information this way.  
 **We combine information.** For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have.
 
@@ -32,11 +32,11 @@ The cookies we use are designed to help you get the most from the Website but if
 (c) Cookie settings in [Chrome](https://support.google.com/chrome/answer/95647?hl=en)  
 (d) Cookie settings in [Safari](https://support.apple.com/kb/PH21411?locale=en_US) on Mac and Safari on [iPhone, iPad, or iPod touch](https://support.apple.com/en-gb/HT201265).
 
-## **We use information as disclosed and described here.**
+##  **We use information as disclosed and described here.**
 
 Your data is collected to allow us to provide our Services, as well as for the purposes described below:
 
-**We use information to respond to your requests or questions**. For example, we might use your information to send you our e-newsletter or to respond to you when you contact us.  
+ **We use information to respond to your requests or questions**. For example, we might use your information to send you our e-newsletter or to respond to you when you contact us.  
 **We use your information for marketing purposes.** For example, we might send you information about content on our website that we believe may be interesting to you. We might also use your information to serve you ads about products or offers from us or third parties. We might tell you about new features or updates to our Website.  
 **We use information to improve our Website.** We might use your information to customize your experience with us.  
 **We use information to look at site trends and customer interests**. We may use your information to make website or product improvements. We may also combine information we get from you with information about you we have gotten from third parties.  
@@ -60,7 +60,7 @@ We may be allowed to retain Personal Data for a longer period whenever you have 
 
 ## We may share information with third parties.
 
-**We will share information with third parties who perform services on our behalf.** For example, we may share information with vendors who operate our Website, collect payment information to process donations, send the e-newsletter, provide us analytical data regarding Website usage, provide personalized advertising, collect web traffic data for third party content displayed on our Website, facilitate the ability to comment on our content, allow for interaction with third party social networks and platforms, manage our contacts list and allows us to send communications, We may authorize these vendors to collect information on our behalf and share certain information with their subcontractors, but only to the extent necessary for the vendors to perform services on our behalf. Our vendors may be located within or outside of North America. If you would like additional information about how our services providers use your information or who our service providers are, please contact us.  
+ **We will share information with third parties who perform services on our behalf.** For example, we may share information with vendors who operate our Website, collect payment information to process donations, send the e-newsletter, provide us analytical data regarding Website usage, provide personalized advertising, collect web traffic data for third party content displayed on our Website, facilitate the ability to comment on our content, allow for interaction with third party social networks and platforms, manage our contacts list and allows us to send communications, We may authorize these vendors to collect information on our behalf and share certain information with their subcontractors, but only to the extent necessary for the vendors to perform services on our behalf. Our vendors may be located within or outside of North America. If you would like additional information about how our services providers use your information or who our service providers are, please contact us.  
 **We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud. We may share your information with the US government.  
 **We may share information with the public and through social media.** When you use our Services, content and information that you post on message boards, blogs or other services on our Website, or that you allow us to make public, may be available to other visitors to our Website and to the general public. Also, content that you share through social media may be shared with your social media account provider and your friends, followers or contacts on the connected social network.  
 **We will share information with any successor to all or part of our business**. For example, if part of our business was sold we may give our customer list as part of that transaction.  
@@ -90,9 +90,9 @@ For more information on your rights, please see <https://ec.europa.eu/info/law/l
 
 If you wish to exercise one of these rights, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Any request to exercise a right mentioned herein can be exercised free of charge and will be addressed by us as early as possible.
 
-## **Additional information about our collection and processing of Personal Data**
+##  **Additional information about our collection and processing of Personal Data**
 
-**Legal action  
+ **Legal action  
 **Your Personal Data may be used for legal purposes by us in Court or in the stages leading to possible legal action arising from improper use of this Website or the related Services. You declare to be aware that we may be required to reveal your Personal Data upon request of public authorities.  
 **Additional information about your Personal Data**  
 In addition to the information contained in this privacy policy, this Website may provide you with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.  
@@ -113,7 +113,7 @@ This website may contain links to other sites. Please be aware the _Bulletin of 
 
 More details concerning the collection or processing of Personal Data may be requested from us at any time at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-## **How “Do Not Track” requests are handled**
+##  **How “Do Not Track” requests are handled**
 
 This Website does not support “Do Not Track” requests. To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read Your privacy policies.
 
