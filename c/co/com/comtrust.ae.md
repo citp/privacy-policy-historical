@@ -1,73 +1,42 @@
-> *The following text is extracted and transformed from the comtrust.ae privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216174117id_/http%3A//www.comtrust.ae/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comtrust.ae privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414162540id_/https%3A//www.etisalat.ae/en/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Etisalat UAE | Privacy Policy
 
----  
-  
-Comtrust – a business unit of Emirates Telecommunications Corporation (Etisalat) that provides e-business solutions.  
-  
-Corporate Website - Internet Privacy Policy  
-  
-Comtrust respects your concerns about privacy and it is our endeavor and objective to provide excellent quality service to all our customers.  
-This privacy policy has been formulated to help you understand the nature of the information we collect from you when you visit our website and how this personal information will be treated by us.  
-  
-   
-Security  
-  
-Comtrust website pages that request submission of personal information and credit card information are secured by 128 bit encryption to ensure security of your online transactions.  
-  
-   
-Browsing  
-  
-Personal information collected online for subscriptions, renewals, inquiries or otherwise will be used for the sole purpose of processing your subscriptions or inquiries and will not be given to any organization or individual outside of Etisalat.  
-  
-   
-Internet Protocol (IP) Address   
-  
-Whenever you visit our Corporate Website, the server used by our Web Host will make a record of your IP Address, the date and time of your visit, the type of Internet Browser you use and the URL of any web site which referred you to our web site.  
-  
-   
-Web Surveys  
-  
-Our online web surveys enable us to gather specific information regarding issues such as your feedback on the look and feel of our website. Additionally we may also request information on several elements of our Customer Service. Your feedback is vital, appreciated and enables us to enhance the Quality of Customer Service we provide. The provision of your name and other details is totally optional unless otherwise specified.  
-  
-   
-Links to other Web Sites   
-  
-Our website may contain links to other sites for your convenience and information only. Comtrust is not responsible for the data collection practices, the privacy policies or the content of those websites that are accessible via a link from this site.   
-  
-   
-Disclosure of Information   
-  
-Comtrust will maintain at all times the privacy and confidentiality of all personal information collected. Such information may only be disclosed when required by law or when in good faith we believe that such action is necessary or desirable to comply with the law, protect or defend the rights or property of Comtrst or its users.  
-  
-   
-Information needed to execute the transactions you request  
-  
-When we do require information from you, we will request you to submit this to us voluntarily. This information will help us to get in touch with you and process your requests where applicable. The information can also be used for marketing or quality assurance purposes.  
-The information you provide will never be sold to any third party for their own marketing purposes without your express permission in writing unless it is done on an aggregated basis for statistical purposes and research without any information which can be used to identify you.   
-  
-   
-Contact Us with your Questions and Comments  
-  
-Information you provide will be treated as confidential. Online Forms request information to help us provide you with enhanced quality of customer care. Such information provided will be used to respond to your questions, comments or requests by either Comtrust or any of its business divisions and subsidiary companies only.  
-  
-   
-Disclosure to Third Parties   
-  
-We will not sell, trade, rent or release any information to any third party outside Etisalat, its business divisions or its subsidiary companies. Disclosure may only be made upon an order from a Judicial or Regulatory Authority.  
-  
-   
-Privacy Policy Changes  
-  
-We reserve the right to change this Privacy Policy Terms and Conditions as and when necessary and appropriate. All changes will be carried out here and you will always be informed of what information we gather, how we might use it and to whom we may disclose.  
-  
-   
-Conclusion  
-  
-Your privacy concerns are important to us. Please contact [info@comtrust.ae](mailto:info@comtrust.ae) for any queries regarding our privacy policy.  
-  
-   
-[Home](https://web.archive.org/web/20051216174117id_/http%3A//www.comtrust.ae/default.htm)  |  [Quality Policy](https://web.archive.org/web/20051216174117id_/http%3A//www.comtrust.ae/docs/quality.htm)  |  [Privacy Policy](https://web.archive.org/web/20051216174117id_/http%3A//www.comtrust.ae/docs/privacy.htm)  |  [Jobs](http://www.etisalat-careers.ae/)  |  [Contact Us](https://web.archive.org/web/20051216174117id_/http%3A//www.comtrust.ae/docs/contactus.htm)  
-©2004 Comtrust. All Rights Reserved   
- 
+### YOUR PERSONAL INFORMATION
+
+Personal information is any information that is specific to a particular customer.  
+We may collect your personal information such as:  
+\- Your name, gender, date of birth, identity document number  
+\- Your delivery and/or your billing addresses, telephone number, fax number, email address  
+\- Your banking information, debit or credit card details  
+\- Information on products and services purchased by you  
+\- Your preferences for particular products and services  
+\- Your demographic information, education level, occupation, household income, interests and activities  
+\- The channel you chose to purchase our products or services  
+\- How you use our products and services, which may include your traffic data and the date, time, duration and cost of your communications and the types of websites that you visit, your spend, your device details, your phone usage, your purchasing habits, your location, your searching and browsing history on our websites  
+\- Your amount of data usage, roaming information, internet protocol (IP) address which we collect when you visit our websites and your device details, the date and time of your visit to our websites, the type and version of browser used, the operating system and platform and the URL of any websites which you used to access our websites  
+\- Your communications with us  
+\- Your account information such as your billing history, the services you use and anything else relating to your account  
+\- Any information necessary to make a credit check with credit reporting agencies  
+\- Any other information we need to provide a particular service  
+If you give us personal information about another person that we have requested in relation to the provision of a service, you are responsible for ensuring that they know and agree to us keeping records about them and that we will process their personal information in accordance with this Privacy Policy.
+
+### SHARING AND DISCLOSING YOUR PERSONAL INFORMATION
+
+Your personal information may be shared with, or transferred to, our subsidiaries and affiliated companies and trusted third parties (including agents, subcontractors and suppliers who are integral to providing some of our services). In purchasing or subscribing to a product or service, you agree that we may share your personal information in such manner. However, you always have the option to withdraw your consent by contacting the etisalat Contact Centre.  
+We may also disclose your personal information to third parties if we are under a duty to disclose or share your personal information in order to comply with any legal obligation or to protect the rights, property, or safety of etisalat, our customers or others. We may share your personal information with reputable credit reporting agencies for the purposes of fraud protection and credit risk reduction.  
+We may share your personal information for emergency services, including your approximate location.  
+We may be required to disclose your personal information or legally intercept the services to comply with the laws of the UAE or the express instructions of a competent authority (such as the Telecommunications Regulatory Authority) or where it is deemed necessary in the interests of public or national security.  
+In addition, we may share aggregated and/or anonymised (non-personally identifiable) information, derived from your personal information, publicly and with our partners such as publishers, advertisers, website owners etc. 
+
+Breakpoint: xs ( 375px ), Viewport width: 
+
+Breakpoint: ms ( 375px ), Viewport width: 
+
+Breakpoint: sm ( 768px ), Viewport width: 
+
+Breakpoint: md ( 992px ), Viewport width: 
+
+Breakpoint: lg ( 1440px ), Viewport width: 
+
+Breakpoint: xl ( 1600px ), Viewport width: 
