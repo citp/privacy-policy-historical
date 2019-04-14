@@ -1,137 +1,222 @@
-> *The following text is extracted and transformed from the cio.com.au privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317223517id_/https%3A//www.cio.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cio.com.au privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414193210id_/https%3A//www.cio.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CIO
 
-**Privacy Statement for IDG Communications Pty Ltd**
+**IDG Communications Pty Ltd Privacy Policy**
 
-This website is owned and operated by IDG Communications Pty Ltd. (“IDG Australia”) ABN 14 001 592 650.
+### About
 
-IDG Australia is the owner and operator of: ARN, CIO Australia, Computerworld Australia, Australian PC World, CSO Australia, GoodGearGuide, Techworld, CFO World, CMO, CIO New Zealand, Computerworld New Zealand, PC World New Zealand, New Zealand Reseller News, and the associated websites and the subdomains of these websites. IDG Australia is a subsidiary of International Data Group, Inc.
+This website is owned and operated by IDG Communications Pty Ltd. (“IDGC”) ABN 14 001 592 650.
 
-The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles from around the world including, Computerworld, CIO, CSO, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes computerworld.com, cio.com, csoonline.com, infoworld.com, idgconnect.com, idgconnect.co.uk networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/). The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
+IDGC is the owner and operator of: ARN, CIO Australia, Computerworld Australia, Australian PC World, CSO Australia, GoodGearGuide, Techworld, CMO, CIO New Zealand, Computerworld New Zealand, PC World New Zealand, New Zealand Reseller News, and the associated websites and the subdomains of these websites. IDG Communications Pty Ltd is a subsidiary of International Data Group, Inc.
 
-IDG Australia has created this privacy statement to demonstrate our firm commitment to the confidentiality of user data that identifies a natural person or from which such a person’s identity may reasonably be ascertained (“personal data”) in accordance with the National Privacy Principles set forth in the Privacy Act 1988 (Cth). The following discloses the information gathering and dissemination practices for IDG Australia on-line products.
+The IDG family includes  hundreds of award-winning titles from around the world including, Computerworld, ARN, CIO, CMO, CSO, Network World, Macworld, IDG Connect, TechHive, PC Advisor and PC World. A complete listing is available at [www.idg.com](http://www.idg.com/).
 
-We are committed to notify you of the following:
+The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
 
-  * What personal data IDG Australia collects from you and how the information is used;
-  * With whom this site shares the information it collects;
-  * How you can correct or make changes to this information;
-  * What choices are available to you regarding the collection, use, and distribution of information;
-  * What security procedures are in place to protect the loss, misuse, or alteration of information under IDG Australia's control.
+By using this Website and/ or submitting your personal data, you agree to the transfer, storing and processing activities described in this Policy. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Policy.
 
+### Welcome
 
+We’re glad you chose to visit an IDG Communications (“IDGC”) site! We care about your privacy and the information you share with us and want you to understand how we are using and protecting the information we collect about you. IDGC is respectful of data privacy and adopts best practice in compliance with applicable privacy law and regulations, including the EU General Data Protection Regulation (“GDPR”).
 
-_By using this Website and/ or submitting your personal data, you agree to the transfer, storing and processing activities described in this Policy. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Policy._
+### Use of this website
 
-If you have questions or concerns regarding this statement, please contact:
+This privacy policy describes the information we collect from you and how it may be stored and processed in Australia and across the IDG Communications Publishing Network as described below.
 
-> [privacy@idg.com.au](mailto:privacy@idg.com.au)
-> 
-> Or by post to
-> 
-> The Privacy Officer  
->  IDG Communications Pty Ltd  
->  PO Box 1753  
->  North Sydney NSW 2060  
-> 
+This website, and associated IDGC events and publications provide products, content, and services for a professional and consumer audience and is not intended for individuals under the age of 13 years old. We do not knowingly collect or store personal data provided by anyone under 13 years of age.
 
-**What information does IDG Australia collect?**
+_If you are a European Union (EU) resident, please note that there are a number of provisions in this privacy policy that apply uniquely to you._
 
-There are two main ways we collect information from you:
+### This Document Describes
 
-  * Non-use of an IDG Australia log-in password: Whenever you visit an IDG Australia site, our servers automatically record information about your usage of the network such as the time of the visit, its duration and the page which you visit. This is intended to help us understand what parts of the site users enjoy. The information we collect remains anonymous. If you do not register through the IDG Australia member information site, you remain anonymous and we will not link your usage to you personally.
-  * Using an IDG Australia site after registering: If you register to receive IDG Australia e-mail newsletters or other offerings, personal data about your interests are collected and stored. This helps us to build a profile of what information would be of interest and relevant to you. By using this information we can tailor our content to user interests and help our advertisers better understand the audience they are reaching.
+What information we collect and how we collect it
 
+How we safeguard your personal data
 
+What we do with the personal data we collect
 
-**How is our registration data used?**
+The legal basis we have for processing your personal data
 
-IDG Australia and its suppliers may collect, process and use your personal data (including your name, postal address, email address, telephone, mobile and fax numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. IDG Australia may employ trusted third party specialists to process your data on our behalf in order to deliver the products and services to you in a more efficient manner.
+When and how we share your personal data with others
 
-This personal data is stored on IDG Australia computers or cloud infrastructure (with multifaceted security mechanisms), managed in Australia, and, because IDG Australia is part of the IDG Publishing Network, may be transferred to, stored and processed, inside Australia and/or outside of Australia by other members of our Group. In addition, if you consent to receive offerings from third party organisations, this personal data remains with IDG Australia who will send the third party offerings to you. Except as set forth below with regard to the provision of free resources, at no time will your personal data be transferred to such third party organisations. Finally, as stated above, your personal data may be transferred to and stored by third party specialists engaged by IDG to assist in the provision of the content and services you request. Such vendors may be located inside or outside of Australia. In all cases, we will only transfer your personal data outside Australia when IDG Australia can ensure that the recipient of the information is subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the National Privacy Principles.
+How long we keep your personal data
 
-From time to time IDG Australia and/or the IDG Publishing Network may invite you to register in order to receive such offerings as magazines, email newsletters, enter competitions, and receive goods or services from IDG Australia and/or the IDG Publishing Network websites. This may require you to confirm personal data such as your name, email address, and mailing address postcodes. This information is required by IDG Australia for security purposes, and enables IDG Australia to supply a reasonable level of services to users and our advertisers. We may also ask for information such as job function, job title, industry sector, company/ name and country. During registration, you will also be asked to choose a user name and password for future access to the relevant Website(s).
+Your rights and preferences
 
-In order to provide you with free resources such as technology white papers and expert analysis, we may share your personal data and/or business information with third party organisations we partner with and whose content and/or other offerings you choose to view via an email offer we may send to you via Connect.com and/or connect.co.uk, and/or download from IDG Australia Website(s) or other IDG Publishing Network sites. We will request such partners to include an opt out notice in all such offerings and to give effect to any opt out decision.
+How can we help? Getting in touch
 
-Because IDG Australia is part of the IDG Publishing Network, you may receive offers that IDG Australia believes will be of interest to you from any of the IDG Publishing Network sites. However, IDG Australia offers you the chance to opt out of receiving additional information from the IDG Publishing Network and our Group. You have the absolute right to ask us not to process your personal data for marketing purposes. Whilst we give details in this Policy in relation to opting out, we want to make clear that you can at any time exercise this right by contacting us by post or email at the address set out at the foot of this Policy.
+### What information we collect
 
-**How do I access my personal information?**
+IDGC collects data about you that is limited to the kind of information that can be found on a typical business card: first name, last name, job title, employer/company name, work address, work email, and work phone number. In some cases, we may ask you to provide additional professional information such as the size of the company you work for, and industry type.
 
-You may update the information stored in your profile at any time while online by visiting <http://www.idg.com.au/user>. You will be prompted for your username and password in order to access your profile. If you have questions, you may also contact IDG Australia customer service by sending an email to [privacy@idg.com.au](mailto:privacy@idg.com.au)
+To enhance and/or update the information that you have provided to us, we may combine it with professional information or personal data that we collect from third party sources. The personal data that we refer to in this document is the personal and professional information you provide, as well as information that we obtain from third party sources, both of which we typically combine as one user record.
+
+This site also collects and stores certain information automatically using cookies and similar technologies, including IP addresses, the region or general location of a computer or device accessing the internet, browser type, operating system, page view history, and other usage information. See our [Cookie Policy](https://www.idg.com.au/cookie-policy) for further details.
+
+_However, to the extent that any cookie can uniquely identify a computer, mobile device, or tablet (“Device”), or the person using that Device, and you are a EU resident, under the GDPR, this is personal data.  Therefore, this privacy policy shall apply to such personal data collected by IDGC._
+
+### How we collect it
+
+We may collect your personal data when you register to receive any of the products, content or services offered by IDGC or its third-party sponsors (“sponsors”) such as publications, subscriptions, contests, newsletters, memberships, premium content, webcasts, video, white papers, online seminars, conferences and events.
+
+### What happens if you don’t provide personal data?
+
+In order for us to provide the products, content or services you request, we need your personal data. Therefore, if you do not provide such personal data, we cannot deliver the products, content or services.
+
+### IDG Communications Publishing Network
+
+This website is one of many that IDGC and its group of undertakings operates, all of which we collectively refer to as the IDG Communications Publishing Network. Where permitted by law, we may share the personal data we collect about you with another IDG Communications Publishing Network company so that we can provide you with information about products, content and services that might interest you, and for internal analytical and business development purposes. Please click[ here](https://www.idg.com/idg-communications-inc-publisher-network/) for a list of the online and print publications included in the IDG Communications Publishing Network.
+
+### How do we safeguard your personal data?
+
+#### Security of your personal data
+
+IDGC maintains safeguards which include technical and organizational security measures to protect your personal data from loss, misuse, unauthorized use, access, inadvertent disclosure, alteration, and destruction, and we require the third parties we contract with to support IDGC’s business operations to employ reasonable security measures as well (see “When and how we share your information with others” below).
+
+We update and test security on an ongoing basis and restrict access to your personal data to only those who need to know in order to provide IDGC’s products, content or services to you.
+
+#### Storage of your personal data
+
+We may store your personal data using IDGC’s own secure on-site servers or other internally hosted technology.  Your personal data may also be stored by third parties, via cloud services or other technology, to whom IDGC has contracted with, to support IDGC’s business operations (see “When and how we share your information with others” below). 
+
+These third parties do not use or have access to your personal data other than for cloud storage and retrieval, and IDGC requires such parties to employ at least the same level of security that we use to protect your personal data (see “Security of your personal data” above). 
+
+### What we do with the personal data we collect
+
+We use the personal data that we collect to communicate with you, deliver what you request, improve our service, and to present other information and offers that may be of interest.
 
 It is our policy to always keep our information as up-to-date as possible, in order to ensure that we provide the best possible information services.
 
-**How do I control my personal information?**
+#### To communicate with you
 
-You may review and update all of your information at any time while online by logging in to your personal profile. You control what information IDG Australia has access to and the types of information that IDG Australia can send to you. For example, you have the opportunity to receive special offers/updates on behalf of selected third party companies OR from IDG OR you can choose to opt out of these mailings at any time. See section below on Opt Out.
+We may use your personal data to send you important notices, such as communications about your registration, transactions, and changes to IDGC’s terms, conditions, policies, and/or other internal purposes.
 
-**Who else may receive my personal information?**
+####  To deliver what you request
 
-IDG may share your registration data for our events and for some premium information services with our program partners. In those instances it is our policy not to give away our information or services to anonymous readers or attendees. Where this is a requirement you are alerted as part of the registration process in order that you can decide to opt-in, or to decline the information service or event registration.
+We may use your personal data to provide the products, content or services you request. If you enter a sweepstake, contest, or similar IDGC promotion, we may use your personal data to administer such promotion.
 
-Except as otherwise set forth in this policy, IDG does not share any of your personal data with any third party person or entity. Except for the provision of free resources as described above, all third party messages that are sent to you will be sent by IDG. You can unsubscribe from this service at anytime.
+#### To improve our service
 
-**Ad Serving Technology**
+We may use your personal data for auditing, data analysis, and research to improve IDGC’s products, content and services.
 
-IDG Australia has contracted with DoubleClick, Google and other advertising serving technology providers to serve all advertising on the IDG Network comprised of Web sites and email newsletters. When one of these providers serves ads to the user, it uses cookies to track certain types of non-personally identifiable information: for example, a user's IP address, browser version or type, device name or type, operating system, service provider, and local time. In addition, IDG uses clear GIFs, or pixel tags, provided by DoubleClick to allow the browser's cookie to be recognised when the browser visits an IDG site. Information collected and shared through this technology is not personally identifiable (i.e., it does not include your name, address, telephone number, or email address). DoubleClick does share non-personally identifiable information, such as user profiles based on clickstream profile data, with IDG, but strictly in aggregate form.
+#### To present offers that may be of interest to you
 
-For more details about the information DoubleClick collects and the opportunity to opt out of such data collection, please visit: <http://www.google.com.au/policies/technologies/ads/>.
+We may contact you to offer you additional IDGC or third-party products, content or services that may be of interest to you.
 
-**Cookies**
+### The legal basis we have for processing your personal data
 
-Cookies are pieces of information that are sent from a website and stored in a user's browser.
+_The GDPR requires_ _data collectors_ _, such as IDGC,_ _to have a legal basis to use_ _the_ _personal data_ _of EU residents_ _. Therefore, this section shall apply to any such personal data collected by IDGC._
 
-IDG Australia websites may use cookies for the following purposes:
+IDGC uses the personal data that you provide to supply you with high-quality products, content and services as you request, to send important notices, and for internal purposes such as auditing, data analysis, and research to provide you with the information you need to make the most informed technology purchasing decisions.
 
-  * To remember any preferences a user may have set while browsing one of IDG Australia's websites.
-  * To track usage patterns that help us improve our content and display relevant advertising to our users.
+We may also use your personal data to offer you products, content or services that may be of interest to you, based upon your interests or the preferences you shared with us, and may share your personal data with third party sponsors of content, events, and other services or offers. 
 
+The legal basis for processing your personal data is your consent. In certain circumstances we may otherwise process your personal data if IDGC has a legitimate interest in doing so and IDGC is not infringing any of your rights and freedoms.
 
+When IDGC processes your personal data for IDGC’s legitimate interests, IDGC will consider and balance any potential impact on you and your rights under data protection and any other relevant law. Our legitimate business interests do not override your interests. IDGC will not use your personal data in circumstances where your rights and freedoms override our legitimate interests, unless we have your consent or are otherwise required or permitted to by law.
 
-The following sites provide instructions on how to manage cookies in commonly used browsers, including how to opt out, if desired.
+### When and how we share your personal data with others
 
-  * Google Chrome - <https://support.google.com/chrome/answer/95647?hl=en>
-  * Mozilla Firefox - <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>
-  * Microsoft Internet Explorer - <http://windows.microsoft.com/en-AU/internet-explorer/delete-manage-cookies>
+IDGC may share your personal data to deliver content and services from our sites, affiliated companies and third parties services that might interest you, including sponsored content and events, for business operations, and to comply with valid legal processes.
 
+_If you are an EU resident, IDGC will only share your personal data with third parties outside of the IDG Communications Publishing Network, with your consent_. 
 
+#### **For content and services that may interest you or that you request**
 
-**IP Addresses**
+As we mention above, your personal data may be shared within the IDG Communications Publishing Network to provide you with information about products, content and services that might interest you and for internal analytical and business development purposes (see “IDG Communications Publishing Network” above).  We may also share your personal data with third parties to deliver third party sponsored content or other services that you request (see “third party sponsored content and events” below).
 
-Our Web server automatically records a visitor's domain and IP address. We use the IP address to identify server problems and administer our Web site, and to analyse click-stream data to better understand user behaviour.
+#### **For business operations**
 
-**Security**
+We may also share your personal data with third parties we have contracted with to support IDGC’s business operations including delivery, fulfillment, payment processing, email deployment, suppression list management and data processing.
 
-IDG Australia has security measures in place to protect the loss, misuse, and alteration of the information we or our cloud services providers, control. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall Web security. Access to personal user data is also limited to the database administrator(s).
+#### **For third party sponsored content and events**
 
-**Opt-Out**
+IDGC partners with third party sponsors to make available a large library of content to our users, such as white papers, professional events (live or online), as well as other services or offers.  In return for access to such offers, we may ask you to provide us with personal data as part of the registration.
 
-IDG Australia provides the following statement at registration:
+We may use your personal data to send you the offer you request. In addition, your personal data may be shared with the sponsor(s) of the offer to communicate with you regarding the offer, as well as additional products, content or services that may be of interest to you.   _Please note that once your personal data is shared with the sponsor, the sponsor’s privacy policy, including information on how to opt-out in the future, will apply to your personal data._
 
-"IDG occasionally likes to inform our subscribers about special offers, new products, as well as information from relevant, qualified businesses and organisations. Tick the boxes below if you would like to receive these notices."
+#### **As required by law**
 
-By default, this box is checked. Users who opt NOT to receive such third party communication from IDG Australia should uncheck this box. Users can also remove their personal information from IDG Australia's database in three ways:
+Your personal data may be shared when authorized by law or necessary to comply with a valid legal process.
 
-  * Updating your personal profile and service selections by visiting <http://www.idg.com.au/user>
-  * Sending a request via email to [privacy@idg.com.au](mailto:privacy@idg.com.au)
-  * Or phoning +61 2 9902 2700
+#### **In the event of new ownership**
 
+If part or all the ownership of IDGC or any of its products or services are sold or transferred, your personal data will be transferred to the new owner.
 
+#### **International Data Transfers**
 
-**Disclosure of Information**
+_This section shall apply to any personal data collected by IDGC from EU residents._
 
-If the business of operating this Website is sold, the relevant customer lists and other personal data of our subscribers and users will be transferred to the new owner. This will be done in accordance with current legislation.
+If IDGC shares your personal data within the IDG Communications Publishing Network or with any other third party as described in this privacy policy and your personal data will be transferred to a State which is not a Member State of either the European Union or the EEA, or deemed adequate by the European Commission, IDGC (as a data controller/data exporter) will only conduct such transfer (to a data processor/data importer) if there are suitable safeguards in place, such as binding corporate rules, standard contractual clauses, approved Codes of Conduct, or approved certification mechanism.  For more information, please contact IDGC’s Data Protection Officer (See contact details below).
 
-We may disclose your personal data if we are under a duty to disclose your personal data as a result of a court order or any other legal obligation, any subpoena or legal process or as otherwise required by law, or if we believe it necessary to prevent or take action regarding illegal activities or violations of our policies.
+### How long we keep your personal data
 
-**Future Enhancements**
+We retain your personal data for the duration of your business relationship with us, and we hold your information only as long as necessary for each purpose we use it, unless we have obtained your consent to use for another or similar purpose.
+
+### Your rights and preferences
+
+If you inform us that you want your personal data erased _(if you are an EU resident)_ , or that you no longer wish for us to communicate with you for marketing purposes, or to otherwise restrict IDGC’s processing of your personal data, we may retain some basic information in order to avoid sending you unwanted materials in the future, and to keep a record of your request and our response.
+
+#### **Confirming your personal data**
+
+_This section shall apply to any personal data collected by IDGC from EU residents._
+
+To confirm that IDGC is processing your personal data, or to access, update or correct the personal data IDGC holds about you, or to obtain a copy to reuse for your own purposes, please send an email to:privacy@idg.com.au.
+
+#### **Erasing your personal data**
+
+_This section shall apply to any personal data collected by IDGC from EU residents._
+
+If you want your personal data erased, please send an email to: privacy@idg.com.au.
+
+#### **To opt-out of marketing communications**
+
+If you want IDGC to stop communicating with you for marketing purposes, please send an email to: privacy@idg.com.au.
+
+#### **To restrict processing of your personal data**
+
+If you want to otherwise restrict IDGC’s processing of your personal data, please send an email to: privacy@idg.com.au.
+
+### How can we help? Getting in touch
+
+#### **Questions, concerns or complaints:**
+
+If you have any questions, concerns or complaints about IDGC’s personal data practices or this Privacy Policy, we encourage you to get in touch with our Data Protection Officer. 
+
+If you believe you have suffered harm due to a breach of your rights by IDGC under this Privacy Policy, and IDGC has not handled your complaint in a reasonably sufficient manner, _any EU resident_ may also file a complaint with the applicable supervisory authority. 
+
+The contact information for IDGC’s Data Protection Officer is:
+
+Mr. Keith Arnot  
+c/o IDG Communications Ltd.  
+101 Euston Road  
+London NW1 2RA  
+United Kingdom
+
+GDPR@idgcommunications.com
+
+IDGC has also designated a Representative _in the EU_ :
+
+Mr. John McGill  
+c/o IDG Direct  
+Millennium House  
+Great Strand Street  
+Dublin 1  
+Ireland
+
+GDPRrepresentative@idgcommunications.com
+
+### Feedback
+
+Your feedback is important to us. We’d love to hear your ideas, opinions and comments about IDGC’s services. Please email: privacy@idg.com.au
+
+### Future Enhancements
 
 We are committed to maintaining IDG Australia as the foremost IT industry publisher. From time to time we will add new features to our e-mail services and web sites. Because of this, our Privacy Policy will be reviewed and revised. IDG Australia reserves the right to change its Privacy Policy at any time and notify you by posting an updated version of the policy on its web site.
 
-**Further Information**
+### Further Information
 
-For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/) **.**
 
-**LAST UPDATED** : May 23, 2017
+_Last Updated: 16/05/2018_
