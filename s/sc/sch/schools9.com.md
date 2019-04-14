@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schools9.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820021015id_/http%3A//www.schools9.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools9.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414074437id_/http%3A//www.schools9.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - www.schools9.com
 
