@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solotravelerblog.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226200245id_/https%3A//solotravelerworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solotravelerblog.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414234922id_/https%3A//solotravelerworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure - Solo Traveler
 
@@ -8,7 +8,7 @@ We never sell or share your personal information with third parties nor do we st
 
  **Cookies and Web Beacons**
 
-We do use cookies which, basically, tells the site that you've been here before. This affects things like a message you'll receive on your first visit to the site but not after.
+We do use cookies which, basically, tells the site that you’ve been here before. This affects things like a message you’ll receive on your first visit to the site but not after.
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.
 
@@ -18,7 +18,7 @@ For more information on [cookies visit here](http://www.doubleclick.com/privacy
 
  **Your Email Address**
 
-If you sign up for our newsletter we require your email address but nothing more. We do not sell any information from our site to any outside party. The only e-mail you'll receive from us is because you signed up for our double opt-in e-mail list. If anything comes to your attention which could potentially be a violation of this policy, please let us know immediately so that we can investigate it and try to correct it.
+If you sign up for our newsletter we require your email address but nothing more. We do not sell any information from our site to any outside party. The only e-mail you’ll receive from us is because you signed up for our double opt-in e-mail list. If anything comes to your attention which could potentially be a violation of this policy, please let us know immediately so that we can investigate it and try to correct it.
 
 We are not responsible for republished content from this site on other websites without our permission.
 
