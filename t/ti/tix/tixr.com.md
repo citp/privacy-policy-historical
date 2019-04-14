@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tixr.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227114710id_/https%3A//www.tixr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tixr.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414082338id_/https%3A//www.tixr.com/privacy) for the most accurate reproduction.*
 
 # Tixr | Privacy Policy
 
