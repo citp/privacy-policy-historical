@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevens.edu privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908055034id_/https%3A//www.stevens.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevens.edu privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414221810id_/https%3A//www.stevens.edu/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Stevens Institute of Technology
 
