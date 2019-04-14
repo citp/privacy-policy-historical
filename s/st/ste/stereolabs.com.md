@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stereolabs.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418152649id_/https%3A//www.stereolabs.com/zed/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stereolabs.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414080637id_/https%3A//www.stereolabs.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,9 +11,7 @@ How do you get my consent?
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at orders@stereolabs.com or mailing us at:  
-STEREOLABS  
-Bat. 503, Centre Scientifique d'Orsay,  91400 Orsay, FR
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at: orders@stereolabs.com
 
 **SECTION 3 - DISCLOSURE**  
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
@@ -54,8 +52,4 @@ By using this site, you represent that you are at least the age of majority in y
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
 **QUESTIONS AND CONTACT INFORMATION**  
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at orders@stereolabs.com or by mail at  
-STEREOLABS  
-Privacy Compliance Officer  
-Bat. 503, Centre Scientifique d'Orsay,  91400 Orsay, FR  
-Tel: +33 1 69 35 87 52
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at orders@stereolabs.com
