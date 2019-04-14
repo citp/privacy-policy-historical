@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infofru.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926230708id_/http%3A//infofru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infofru.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414155824id_/https%3A//infofru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Infofru
 
@@ -16,13 +16,13 @@ You may disable cookies on your browser but it affects your interaction with thi
 
 **Advertising and Privacy:**
 
-We use Google Adsense as the major advertising network. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). You may read more about Adsense privacy policies [here](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
+We use Google Adsense as the major advertising network. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the [DART cookie](https://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html). You may read more about Adsense privacy policies [here](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
 
-Even we work with other ad companies which collect aggregate data which does not include your private information. It is all done to ensure that you see ads that may interest you. You can click [here](http://www.networkadvertising.org/managing/opt_out.asp) to know more about this and opt out.
+Even we work with other ad companies which collect aggregate data which does not include your private information. It is all done to ensure that you see ads that may interest you. You can click [here](https://www.networkadvertising.org/managing/opt_out.asp) to know more about this and opt out.
 
 **Interest Based Advertising:**
 
-Google Adsense will soon start serving ads based on the interest of the user/visitor. If you visit a sports related site very regularly which uses adsense, then you will be grouped into “sports enthusiast” category. This is called [Interest based advertising](https://www.google.com/adsense/support/bin/answer.py?answer=113771) and to achieve this, they collect some data from visitos which do not include your name, mail id, phone number, address or any such details. You may read more about it [here](http://adsense.blogspot.com/2009/03/driving-monetization-with-ads-that.html).
+Google Adsense will soon start serving ads based on the interest of the user/visitor. If you visit a sports related site very regularly which uses adsense, then you will be grouped into “sports enthusiast” category. This is called [Interest based advertising](https://www.google.com/adsense/support/bin/answer.py?answer=113771) and to achieve this, they collect some data from visitos which do not include your name, mail id, phone number, address or any such details. You may read more about it [here](https://adsense.blogspot.com/2009/03/driving-monetization-with-ads-that.html).
 
 **Comment and Contact:**
 
