@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kammok.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226060511id_/https%3A//kammok.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kammok.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414224014id_/https%3A//kammok.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Kammok
+# Privacy Policy
 
 We respect your privacy and have detailed this notice to describe our privacy policy. By visiting kammok.com, you are accepting the practices described below.
 
@@ -14,7 +14,7 @@ CONSENT
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, or sign-up for our newsletter, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
 
 _How do I withdraw my consent?_  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [hello@kammok.com](mailto:hello@kammok.com), unsubscribing from a Kammok email, or mailing us at: _Kammok HQ, 2701 Kinney Oaks Ct, Austin, TX 78702_ _  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [hello@kammok.com](mailto:hello@kammok.com), unsubscribing from a Kammok email, or mailing us at: _Kammok HQ, 1401 E. 7th Street Austin, TX 78702_ _  
 _ _  
 _DISCLOSURE  
   
@@ -51,7 +51,11 @@ To protect your personal information, we take reasonable precautions and follow 
 
 ## COOKIES
 
-Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
+We use cookies in order to improve your shopping experience. For example: recognizing when you return to our website, keeping track of your order as you shop, remembering what items are in your Shopping Cart, processing your order, understanding how customers navigate through our website and which products they search for, directing communications or ads based on your online behavior. 
+
+Cookies are also used to review how visitors to our website navigate our site or interact with our communications or email advertising. We work with a variety of advertising and third-party companies that use tracking technologies on our website in order to provide tailored advertisements on our behalf.
+
+You have the ability to accept or decline cookies. You can refuse cookies by turning them off in your browser. Here is a list of cookies that we use. We’ve listed them here so you that can opt-out of cookies if you choose to do so.
 
 _session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
 
