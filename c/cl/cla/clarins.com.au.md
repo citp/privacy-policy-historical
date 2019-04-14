@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarins.com.au privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406211339id_/http%3A//www.clarins.com.au/privacy-policy.html%3Fiscontentfolder%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarins.com.au privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414231910id_/https%3A//www.clarins.com.au/privacy-policy.html) for the most accurate reproduction.*
 
-# eCommerce Solutions On-Demand | Demandware Privacy Policy
+# Privacy Policy - Clarins
 
 This Privacy Policy applies to Trimex Pty Ltd* **("Clarins", "we", "us", "our")** and its affiliates and explains how we handle personal information and comply with the requirements of applicable Australian privacy laws ( **Privacy Laws** ). If you have further questions relating to this Privacy Policy, please contact CustomerCare.AU@Clarins.com.
 
