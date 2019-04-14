@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agoodmovietowatch.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221214356id_/https%3A//agoodmovietowatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoodmovietowatch.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414114930id_/https%3A//agoodmovietowatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | agoodmovietowatch
 
@@ -31,7 +31,7 @@ Other than the astonishingly high amount of actual cookies we eat while maintai
       1. Google sets persistent cookies (up to two years) to recognize and count the number of site visitors as well as providing other information about the visit such as duration, route through the site and what sites the visitor came from. This information helps us to improve the way our site works, for example by making sure users find the right content easily. Click [here](https://www.google.co.uk/policies/technologies/types/) for more information about GA cookies. Click [here](https://tools.google.com/dlpage/gaoptout) to opt out of GA cookies.
 
 
-      2. Google Adsense and Google Analytics cookies: Google uses persistent advertising cookies (up to two years) in connection with Google advertising on our site to serve ads to you based on your visits to this and other websites and for various other purposes. Click [here](https://www.google.com/policies/privacy/ads/) for more information and to opt out of Google’s advertising cookies.
+      2. Google Adsense and Google Analytics cookies: Google uses persistent advertising cookies (up to two years) in connection with Google advertising on our site to serve ads to you based on your visits to this and other websites and for various other purposes. Click [here](http://www.google.com/policies/privacy/ads/) for more information and to opt out of Google’s advertising cookies.
       3. Third Party advertiser cookies: As do many other sites, we use third party advertisers and/or internet advertising companies working for them to fill ad space on our site. These third parties may use persistent cookies (generally up to two years) and other similar technologies (known as action tags, single pixel gifs and web beacons) to assess information about your visits to this and other sites. This is so they can track the effectiveness of their campaigns (including whether these advertisements are clicked on or viewed by users and later purchases by such users), avoid and display advertisements on this and other sites tailored to your preferences. We do not have any access to or control over these third party technologies.
       4. Twitter Cookies Twitter places persistent cookies (up to two years) to facilitate tweets relating to our site. Click [here](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies) for more information.
       5. Cookie Choice cookie: This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which appeared when you first visited the site. This persistent cookie will remember your preference for up to two years.
@@ -69,3 +69,15 @@ If we decide to change our privacy policy, we will post those changes on this pa
 This policy was last modified on August 9th, 2015.
 
 agoodmovietowatch.com
+
+### agoodmovietowatch needs your support
+
+231 subscribers 23.1%
+
+1000 goal
+
+You don't like ads, we hate showing them to you. Up until now, they were our only way to make this work. Our [premium newsletter](https://movies.substack.com/about) is a real alternative that allows you, our readers, to become our sole funders. We will remove all ads for everyone on agoodmovietowatch.com once we reach this number of subscribers.
+
+What do you get from it? The best streaming advice around, in your inbox twice a week. Readers call our subscriber-only e-mail an "excellent resource", and praise it for being "insightful" and "thoughtfully curated". More about it [here](https://movies.substack.com/about).
+
+Bilal Zou - Founder of agoodmovietowatch
