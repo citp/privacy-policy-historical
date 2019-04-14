@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prwatch.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230130923id_/https%3A//www.prwatch.org/cmd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prwatch.org privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414053047id_/https%3A//www.prwatch.org/cmd/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and More | PR Watch
 
