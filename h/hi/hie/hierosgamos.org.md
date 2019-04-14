@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hierosgamos.org privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929062258id_/https%3A//www.hg.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hierosgamos.org privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414155424id_/https%3A//www.hg.org/privacy-policy.html) for the most accurate reproduction.*
 
-# HG.org Privacy Policy
+# Privacy Policy - HG.org
 
 HG.org and HGExperts.com respects the privacy and security of its users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users. 
 
