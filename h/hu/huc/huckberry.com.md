@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huckberry.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221131356id_/https%3A//huckberry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huckberry.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414201938id_/https%3A//huckberry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Huckberry
 
@@ -151,4 +151,4 @@ San Francisco, CA 94103
 +1 (855) 325-8998  
 [support@huckberry.com](mailto:support@huckberry.com)
 
-Last Updated: May 24, 2018. ©2018 Huckberry Inc. All rights reserved.
+Last Updated: May 24, 2018. ©2019 Huckberry Inc. All rights reserved.
