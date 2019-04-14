@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullionbypost.co.uk privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905104330id_/https%3A//www.bullionbypost.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullionbypost.co.uk privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414083910id_/https%3A//www.bullionbypost.co.uk/info/privacy) for the most accurate reproduction.*
 
 # JQB Limited Privacy Statement | BullionByPost
 
@@ -81,7 +81,7 @@ We want to keep you up to date with information about market news and price aler
 
 We will never sell or share your information with third-party companies to enable them to market to you. 
 
-If you decide you do not want to receive this information you can request that we stop by writing to the Data Protection Officer by emailing **[ [email protected],  ](https://web.archive.org/cdn-cgi/l/email-protection#cfabaebbaebfbda0bbaaacbba6a0a18fadbaa3a3a6a0a1adb6bfa0bcbbe1aca0e1baa4) ** by calling the Contact Centre on **0121 634 8060,** or by clicking the Unsubscribe link within the email. 
+If you decide you do not want to receive this information you can request that we stop by writing to the Data Protection Officer by emailing **[ [email protected],  ](https://web.archive.org/cdn-cgi/l/email-protection#5a3e3b2e3b2a28352e3f392e3335341a382f363633353438232a35292e743935742f31) ** by calling the Contact Centre on **0121 634 8060,** or by clicking the Unsubscribe link within the email. 
 
 . 
 
@@ -142,7 +142,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 **CONTACT INFORMATION**
 
-Should you need to contact us please email us at **[ [email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#4622273227363429322325322f29280624332a2a2f2928243f3629353268252968332d) ** quoting 'Security and Privacy Enquiry'. 
+Should you need to contact us please email us at **[ [email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#630702170213110c170600170a0c0d2301160f0f0a0c0d011a130c10174d000c4d1608) ** quoting 'Security and Privacy Enquiry'. 
 
 **Registered Office:** Floor 16, Centre City Tower, 7 Hill Street, Birmingham, B5 4UA 
 
