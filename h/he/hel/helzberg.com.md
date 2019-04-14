@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224011414id_/https%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414221141id_/https%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
 
-# Please read and understand the Helzberg Diamonds' website privacy policy to know what we collect and how we use it. - Helzberg Diamonds
+# Privacy & Security | Customer Service | Helzberg Diamonds
 
 ﻿ 
 
@@ -10,7 +10,7 @@ Privacy Practices
 
 **
 
-Effective: May 28, 2015
+Effective: May 22, 2018
 
 When making a personal and meaningful purchase, you shouldn't have to worry about your privacy.  That's why Helzberg Diamonds Shops, Inc. (“Helzberg”) has adopted this Privacy Policy to outline the measures we take to protect the information you provide to us in connection with your use of www.helzberg.com and other sites or applications that are owned or operated by Helzberg, including Helzberg’s mobile application(s) and social media site(s) (each individually a “Site” and collectively the ”Sites”). 
 
@@ -124,7 +124,7 @@ SMS Messages
 **  
 
 
-Disclosure: You may receive marketing and promotional messages (SMS and MMS) from Helzberg if you provide your mobile number and opt-in to receive such messages.  If your device or carrier does not support MMS alerts, you will receive a SMS alert.  For more information and support reply  **HDHELP**  to **88769** ; or call 1-800-HELZBERG, or message __help@helzberg.com__.  To cancel and unsubscribe you can either reply  **HSTOP**  to **88769** ; or call 1-800-HELZBERG, or message __help@helzberg.com__. Standard text messaging and data rates apply.
+Disclosure: You may receive marketing and promotional messages (SMS and MMS) from Helzberg if you provide your mobile number and opt-in to receive such messages.  If your device or carrier does not support MMS alerts, you will receive a SMS alert.  For more information and support reply  **HDHELP**  to **88769** ; or call 1-800-HELZBERG, or message [_help@helzberg.com_](mailto:help@helzberg.com).  To cancel and unsubscribe you can either reply  **HSTOP**  to **88769** ; or call 1-800-HELZBERG, or message [_help@helzberg.com_](mailto:help@helzberg.com). Standard text messaging and data rates apply.
 
 ### **
 
@@ -161,6 +161,14 @@ Data Security
 We have implemented commercially appropriate measures intended to secure your Personal Information from unauthorized access, use, alteration and disclosure in conformance with industry standards.  Any orders, including payment and Personal Information submitted as part of an order, are encrypted using SSL technology on our server.  Note that we are not responsible for devices, applications, or other programs located on your device or connection which may intercept your information (such as a “keylogger”).  It is our policy to not send sensitive information, such as a credit card number, via email.  Unfortunately, the transmission of information via the internet is not completely secure.  Although we strive to protect your Personal Information, we cannot guarantee the security of your personal information that is transmitted to our Site.  Any transmission of Personal Information is at your own risk.
 
 The safety and security of your information also depends on you.  Where you have a password for access to certain parts of a Site, you are responsible for keeping this password confidential.  You may not share your password with anyone. 
+
+### **
+
+Geographic Scope
+
+**
+
+Please note that the Sites are directed towards users who reside in the United States. By using the Sites, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this policy.
 
 ### **
 
