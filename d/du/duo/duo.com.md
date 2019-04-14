@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duo.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209202810id_/https%3A//duo.com/legal/privacy-notice-general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duo.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414235159id_/https%3A//duo.com/legal/privacy-notice-general) for the most accurate reproduction.*
 
 # Duo Legal: General Privacy Notice | Duo Security
 
@@ -29,44 +29,45 @@ Our core Privacy Principles are:
 
 
 
-We provide security solutions, including multi-factor authentication, trusted access and secure single sign-on tools for our customers. Find out more [here](https://duo.com/). Duo Security, Inc. is a company incorporated under the laws of the State of Delaware, USA and whose principal office is located at 123 North Ashley Street, Suite #200, Ann Arbor, Michigan 48104, USA. Duo Security UK Limited (company no: 09581350) is a company incorporated under the laws of England and Wales whose registered address is located at 6th Floor One London Wall, London, United Kingdom, EC2Y 5EB.
+#### Quick links
+
+We recommend that you read this Notice in full to ensure that you are fully informed. However, if you only want to access a specific section of this Notice, we have provided easy-to-navigate links that you can use to quickly jump to that section.
+
+Duo provides security solutions, including multi-factor authentication, trusted access and secure single sign-on tools for our customers. Find out more [here](https://duo.com/). Duo Security, Inc. is part of the Cisco Systems, Inc. group of companies. Duo Security, Inc.’s principal office is located at 123 North Ashley Street, Suite #200, Ann Arbor, Michigan 48104, USA. Duo Security UK Limited is a wholly owned subsidiary of Duo Security Inc., whose registered address is located at 6th Floor One London Wall, London, United Kingdom, EC2Y 5EB.
 
 #### What personal information we collect and how
 
-We know that personal information is defined slightly differently across the world. That said, at Duo, we define it as any information that could be used to identify you or another individual. We think that this broad definition enables us to better respect your privacy and safeguard the information entrusted to us. The personal information that we may collect about you broadly falls into three categories - information you provide to us, information we collect automatically, and information provided to us by third parties.
+We know that personal information is defined slightly differently across the world. That said, at Duo, we define it as any information that could be used to identify you or another individual. We think that this broad definition enables us to better respect your privacy and safeguard the information entrusted to us.
 
-****Information you provide to us**** : Certain parts of our Website may ask you to provide personal information voluntarily: for example, we may ask you to provide your contact details (like your name, email address and phone number) to register an account with us, complete surveys, to subscribe to marketing communications (like newsletters) from us and/or to submit inquiries to us. We may also collect personal information from you offline, such as when you attend one of our events or during phone calls with sales representatives. The personal information that you are asked to provide, and the reasons why you are asked to provide it, will generally be made clear to you at the point we ask you to provide your personal information
+The personal information that we may collect about you broadly falls into three categories - information you provide to us, information we collect automatically, and information provided to us by third parties
+
+_**Information you provide to us**_ : Certain parts of our Website may ask you to provide personal information voluntarily: for example, we may ask you to provide your contact details (like your name, email address and phone number) to register an account with us, complete surveys, to subscribe to marketing communications (like newsletters) from us and/or to submit inquiries to us. We may also collect personal information from you offline, such as when you attend one of our events or during phone calls with sales representatives. The personal information that you are asked to provide, and the reasons why you are asked to provide it, will generally be made clear to you at the point we ask you to provide your personal information.
 
 We will also generally let you know prior to collection whether the personal information we are collecting may be provided on a voluntary basis and the consequences, if any, of not providing the information.
 
 The personal information we collect may include contact information such as your name, address, telephone number or email address and contact preferences. It may also include professional information, such as your job title, department or job role, as well as the nature of your request or communication. We also collect information you choose to provide to us when completing any 'free text' boxes in our forms (for example, for event sign-up, product feedback or survey requests). In addition, we may collect personal information shared by you on our message boards, chat features, blogs and our other services where you are able to post information and materials. Any information that is shared by you in those forums becomes public information and may appear in public ways, such as through search engines or other publicly available platforms, and may be “crawled” or searched by third parties. It could also be read or used by other users to send you unsolicited messages. Please do not post any information that you do not want to reveal to the public at large.]
 
-**Examples of how we use this information include:**
+Examples of how we use this information include:
 
   * To respond to your requests or provide you with information you request.
-
   * To send administrative or account related information to you.
-
   * To post testimonials (with your prior consent).
-
   * To communicate with you about our events or our partner events.
 
-  * To provide you with marketing and promotional communications (where this is in accordance with the law). For more information about managing your marketing preferences, please see the "Your rights, controls and choices" section of this Notice
+  * To provide you with marketing and promotional communications (where this is in accordance with the law). For more information about managing your marketing preferences, please see the "Your rights, controls and choices" section of this Notice.
 
   * To comply with and enforce applicable legal requirements, agreements and policies.
 
   * To prevent, detect, respond and protect against potential or actual claims, liabilities, prohibited behaviour, and criminal activity.
-
   * For other business purposes such as data analysis, identifying usage trends, determining the effectiveness of our marketing and to enhance, customize and improve our Websites, products and services.
 
 
 
-
-****Information we collect automatically**** : When using our Websites or interacting with our online advertisements or marketing emails (collectively with our Websites, the " **Online Properties** "), we automatically collect certain information from your device. In some countries, including countries in the European Economic Area (the “ **EEA** ”), this information may be considered personal information under applicable data protection laws. Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology."
+_**Information we collect automatically**_ : When using our Websites or interacting with our online advertisements or marketing emails (collectively with our Websites, the "Online Properties"), we automatically collect certain information from your device. In some countries, including countries in the European Economic Area (the “EEA”), this information may be considered personal information under applicable data protection laws. Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology”
 
 Specifically, the information we collect automatically may include information like your IP address, device type, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location) and other technical information. We may also collect information about how your device has interacted with our Online Properties, including the pages accessed and links clicked.
 
-****Information provided to us by third parties**** : From time to time, we may receive personal information about you from third party sources (including, for example, sales and lead generation and marketing management service providers), but only where we have checked that these third parties either have your consent or are otherwise legally permitted to provide your personal information to us. The types of information we collect from third parties generally includes name, work email address and phone number, job title and company, and we use the information we receive from these third parties to offer our services, as well as maintain and improve the accuracy of the records we hold about you.
+_**Information provided to us by third parties**_ : From time to time, we may receive personal information about you from third party sources (including, for example, sales and lead generation and marketing management service providers), but only where we have checked that these third parties either have your consent or are otherwise legally permitted to provide your personal information to us. The types of information we collect from third parties generally includes name, work email address and phone number, job title and company, and we use the information we receive from these third parties to offer our services, as well as maintain and improve the accuracy of the records we hold about you.
 
 #### How we use the personal information we collect
 
@@ -107,7 +108,9 @@ We operate internationally. Therefore, you should be aware that we may transfer 
 
 Specifically, our Website servers are located in the United States, and our group companies and third party service providers, including Amazon Web Services (“AWS”) and partners, operate in the United States and in other countries around the world. This means that when we collect your personal information we may process it in any number of places around the world.
 
-Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information in accordance with this Notice. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. If you would like a copy of our standard contractual clauses or more information on the appropriate safeguards we have implemented with our third party service providers and partners, please contact us using the details provided below.
+Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information in accordance with this Notice. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent.
+
+If you would like a copy of our standard contractual clauses or more information on the appropriate safeguards we have implemented with our third party service providers and partners, please contact us using the details provided below
 
 #### Legal basis for processing (European Economic Area visitors only)
 
@@ -139,14 +142,16 @@ You have the following data protection rights, controls and choices.
 
   * You can **opt out of receiving promotional emails or text messages** from us by clicking the “unsubscribe” link in the email, by visiting this [unsubscribe page](https://go.duosecurity.com/UnsubscribePage.html) or by emailing [mops@duosecurity.com](mailto:mops@duosecurity.com). If you choose to no longer receive marketing information, we may still communicate with you about such things as your security updates, product functionality, responses to service requests, or other transactional, non-marketing or administrative related purposes.
 
+  * You can **opt out of receiving promotional emails or text messages** from us by clicking the “unsubscribe” link in the email, by visiting this [unsubscribe page](https://go.duosecurity.com/UnsubscribePage.html) or by emailing [mops@duosecurity.com](mailto:mops@duosecurity.com). If you choose to no longer receive marketing information, we may still communicate with you about such things as your security updates, product functionality, responses to service requests, or other transactional, non-marketing or administrative related purposes.
+
   * If we have collected and process your personal information with your consent, then you can **withdraw your consent** at any time. Please note, though, that withdrawing your consent will not impact the lawfulness of any processing we conducted before you withdrew your consent, nor will it impact the processing of your personal information we conducted in reliance on lawful processing grounds other than consent.
 
-  * You have the **right to complain to a data protection authority** about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Economic Area ("EEA"), Switzerland and certain non-European countries (including the US and Canada) are available here.
+  * You have the **right to complain to a data protection authority** about our collection and use of your personal information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Economic Area ("EEA"), Switzerland and certain non-European countries (including the US and Canada) are available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
 
 
 
-If you would like to exercise any of your rights relating to your personal information, please start by contacting us using the contact details provided under the “Contact Us” section of this Notice.
+If you would like to exercise any of your rights relating to your personal information, please start by contacting us using the contact details provided under the “Contract Us” section of this Notice.
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights under applicable data protection laws. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your personal information.
 
@@ -154,7 +159,7 @@ We respond to all requests we receive from individuals wishing to exercise their
 
 From time to time, we may change this Privacy Notice in response to changing technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you (this notice may be by email to you at the last email you provided us, by posting notice of such changes on the Website, or by other means, consistent with applicable law) if these changes are material and, where required by applicable law, we will obtain your consent.
 
-You can see when this Notice was last updated by checking the “last updated” date displayed at the top of this Notice.
+You can see when this Notice was last updated by checking the “last updated” date displayed at the top of this Notice. Click [here](https://web.archive.org/assets/pdf/Duo-Security_General-Privacy-Notice_updated-20180525.pdf) for the previous version of this Privacy Notice.
 
 We encourage you to contact us if you have any comments or questions about this Privacy Notice or our related privacy practices. You may reach us at [privacy@duosecurity.com](mailto:privacy@duosecurity.com) or at our mailing address below:
 
