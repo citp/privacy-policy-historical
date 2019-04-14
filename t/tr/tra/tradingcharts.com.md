@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030015201id_/https%3A//futures.tradingcharts.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414043448id_/https%3A//futures.tradingcharts.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
+
+| 
 
   1. ### POLICY
 
@@ -97,3 +99,71 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 >  S9A 0Z5
 
 You may also contact us by e-mail at: [admin1@tradingcharts.com](mailto:admin1@tradingcharts.com)
+
+[](https://web.archive.org/web/20190414043448id_/https%3A//futures.tradingcharts.com/menu.html) | 
+
+  
+  
+
+
+| 
+
+Extreme Futures: Movers & Shakers  
+  
+---  
+  
+Hottest
+
+| 
+
+Actives
+
+| 
+
+Gainers  
+  
+_Today's Hottest Futures_  
+  
+| Market | Last | Vol | % Chg  
+---|---|---|---  
+Loading...  
+  
+Extreme Futures: Movers & Shakers  
+  
+---  
+  
+Hottest
+
+| 
+
+Actives
+
+| 
+
+Gainers  
+  
+_Futures Activity Leaders_  
+  
+| Market | Last | Vol | % Chg  
+---|---|---|---  
+Loading...  
+  
+Extreme Futures: Movers & Shakers  
+  
+---  
+  
+Hottest
+
+| 
+
+Actives
+
+| 
+
+Gainers  
+  
+_Top Price Gainers_  
+  
+| Market | Last | Vol | % Chg  
+---|---|---|---  
+Loading...
