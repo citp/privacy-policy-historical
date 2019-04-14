@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the octopus.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627041856id_/https%3A//octopus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octopus.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414111052id_/http%3A//www.octopus.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Octopus Deploy
+# Privacy policy | Octopus Deploy
 
 This page is specifically about general privacy concerns, and how we manage your personal data. If you're a citizen of the EU, or are interested in where we fit in with the General Data Protection Regulation (GDPR), have a read of **[our GDPR information](https://web.archive.org/gdpr)**. 
 
@@ -55,10 +55,7 @@ We also gather information about you indirectly, through observing how you use o
 As at the time this policy came into effect, we use the following third party analytics partners: 
 
   * [Google Analytics](https://analytics.google.com/analytics/web/). To learn more about the privacy policy of Google Analytics, refer to [Google's Policies and Principles](https://www.google.com/policies/). Use the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en) to prevent analytics information from being sent to Google Analytics.
-  * [Optimizely](https://www.optimizely.com/privacy/), which helps us to test changes to our Website or SaaS Products and their effectiveness.
-  * [Crazy Egg](https://www.crazyegg.com/privacy), which gives us a better idea of what information people use on our Website
-  * [Raygun](https://raygun.com/privacy), which helps us to understand our Website and SaaS Product's performance, and errors users may encounter
-  * [LinkedIn](https://www.linkedin.com/legal/privacy-policy), to support and optimise our digital marketing efforts and advertising campaigns
+  * [FullStory](https://www.fullstory.com/legal/privacy/), which gives us a better idea of what information people use on our Website
 
 
 
