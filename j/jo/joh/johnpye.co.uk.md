@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnpye.co.uk privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208031243id_/http%3A//www.johnpye.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnpye.co.uk privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414101308id_/http%3A//www.johnpye.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - John Pye Auctions
 
