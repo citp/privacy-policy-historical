@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcazine.com privacy policy that was archived on 2018-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180707220321id_/http%3A//webcazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcazine.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415003405id_/http%3A//webcazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WEBCAZINE
 
