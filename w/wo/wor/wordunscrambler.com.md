@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordunscrambler.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013154540id_/http%3A//wordunscrambler.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordunscrambler.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414113058id_/https%3A//www.wordunscrambler.com/private.html) for the most accurate reproduction.*
 
 # Word Unscrambler privacy policy
 
@@ -20,7 +20,9 @@ If you require any more information or have any questions about our privacy poli
 
 At www.WordUnscrambler.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.WordUnscrambler.com and how it is used. 
 
-**Log Files** Like many other Web sites, www.WordUnscrambler.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+**Log Files** Like many other Web sites, www.WordUnscrambler.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.   
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/wordunscrambler.com).  
+
 
 **Cookies and Web Beacons** www.WordUnscrambler.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
