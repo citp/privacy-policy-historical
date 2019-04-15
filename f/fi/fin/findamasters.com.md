@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findamasters.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919220556id_/https%3A//www.findamasters.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findamasters.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415210859id_/https%3A//www.findamasters.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Find A Masters
 
@@ -83,9 +83,13 @@ There is some information that you must provide us with to start receiving our n
 
 In addition, we will ask you information about your date of birth, nationality, location and education history. Providing this information will improve the relevance of the information in the newsletter you receive, but they are optional fields and you’re free to keep this information to yourself.
 
+When you register for our newsletter we will ask if you want to receive text message reminders about postgraduate study events near you. If you do then we will ask for your mobile phone number. This is the only purpose for which we will use your mobile phone number. We only use reputable thrid party services to send these text messages. Our current provider is TxtLocal Ltd (you can view their privacy statement at <https://www.textlocal.com/legal/privacy/>). 
+
 #### Where is it stored?
 
 We store all our newsletter subscriber data securely on our own servers. We do not pass on your contact details to any third party, unless legally required to do so.
+
+If you have signed up to receive text alerts about events then we will use TxtLocal Ltd to send these alerts. Your number will be removed from their system after each send. TxtLocal maintain an opt-out list on our behalf for all subscribers who no longer wish to receive these text reminders. The legal basis for processing this data is your consent.
 
 #### How can I opt out or change my subscription preferences?
 
@@ -115,11 +119,15 @@ We will contact you with relevant pre-event information several times before the
 
 The legal basis for processing is our legitimate business interest, although this is something you can withdraw from at any time (see our contact details above or at the bottom of all our web pages).
 
+When you register for our newsletter we will ask if you want to receive text message reminders about postgraduate study events near you. If you do then we will ask for your mobile phone number. This is the only purpose for which we will use your mobile phone number. We only use reputable thrid party services to send these text messages. Our current provider is TxtLocal Ltd (you can view their privacy statement at <https://www.textlocal.com/legal/privacy/>). 
+
 #### Where is it stored?
 
 We store all our event registration data securely on our own servers. 
 
 At the event you can pass on the details associated with your event registration to the exhibitors you speak to by letting them scan your badge. This is designed to save you time at the event. Exhibitors will only get access to your data if you allow them to scan your badge and tick a consent statement whilst at their stand.
+
+If you have signed up to receive text alerts about events then we will use TxtLocal Ltd to send these alerts. Your number will be removed from their system after each send. TxtLocal maintain an opt-out list on our behalf for all subscribers who no longer wish to receive these text reminders. The legal basis for processing this data is your consent.
 
 We do not pass on your contact details to third parties under any other circumstances, unless legally required to do so.
 
@@ -195,8 +203,6 @@ Every time a user visits our websites, Google Analytics generates an anonymous a
 
 These cookies can tell us whether or not you have visited the site before. Your browser will tell Google Analytics if you have these cookies, and if you don't, it will create a new one. This allows us to count metrics such as the number of unique users we have, how many pages each user visits and how often.
 
-We also use MixPanel, a service provided by MixPanel Inc. This also collects anonymous usage data. Mixpanel respects ["Do Not Track"](https://allaboutdnt.com/) settings in web browsers. Follow the instructions in [this guide](https://allaboutdnt.com/#adjust-settings) to prevent your browser from sending data to Mixpanel.
-
 These cookies are not used to identify individuals and are used only to generate statistics.
 
 #### Login cookies
@@ -258,7 +264,7 @@ When you contact a university outside of the EU/EEA then your enquiry data will 
 
 Thank you for using our web sites.
 
-This policy was last updated on 21st May 2018
+This policy was last updated on 22nd Oct 2018
 
   
 
