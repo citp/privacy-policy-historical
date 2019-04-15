@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madeevent.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022194353id_/http%3A//madeevent.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madeevent.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415165250id_/http%3A//www.madeevent.com/privacy.php) for the most accurate reproduction.*
 
 # Made Event Privacy Notice
 
