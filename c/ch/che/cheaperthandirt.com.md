@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaperthandirt.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829025119id_/https%3A//www.cheaperthandirt.com/category/customer-service/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaperthandirt.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415165447id_/https%3A//www.cheaperthandirt.com/category/customer-service/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy-Customer Service - Cheaper Than Dirt
 
