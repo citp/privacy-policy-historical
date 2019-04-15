@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyjoy.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826104212id_/https%3A//diyjoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyjoy.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415024500id_/https%3A//diyjoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DIY Joy
 
@@ -78,7 +78,7 @@ THIS ONLINE PRIVACY POLICY APPLIES ONLY TO INFORMATION COLLECTED THROUGH OUR WEB
 
 ### TERMS AND CONDITIONS
 
-PLEASE ALSO VISIT OUR TERMS AND CONDITIONS SECTION ESTABLISHING THE USE, DISCLAIMERS, AND LIMITATIONS OF LIABILITY GOVERNING THE USE OF OUR WEBSITE AT <http://diyjoy.com/terms-of-use/>.
+PLEASE ALSO VISIT OUR TERMS AND CONDITIONS SECTION ESTABLISHING THE USE, DISCLAIMERS, AND LIMITATIONS OF LIABILITY GOVERNING THE USE OF OUR WEBSITE AT [http://diyjoy.com/terms-of-use/](https://diyjoy.com/terms-of-use/).
 
 ### YOUR CONSENT
 
