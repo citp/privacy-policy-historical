@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jestercade.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113003811id_/http%3A//www.jestercade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jestercade.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415214656id_/http%3A//www.jestercade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JesterCade
 
