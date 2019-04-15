@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plasticjungle.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304193134id_/https%3A//www.cardcash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticjungle.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415034939id_/https%3A//www.cardcash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CardCash
 
@@ -98,6 +98,6 @@ cardcash.com
 990 Cedarbridge Avenue  
 Brick, New Jersey 08723  
 United States  
-contact@cardcash.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Last Edited on 2016-06-23
