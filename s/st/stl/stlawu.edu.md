@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlawu.edu privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019145613id_/https%3A//www.stlawu.edu/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlawu.edu privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415023155id_/https%3A//www.stlawu.edu/web-privacy-statement) for the most accurate reproduction.*
 
 # Web Privacy Statement | St. Lawrence University
 
@@ -10,7 +10,7 @@ The University may occasionally collect information via the website. The Univers
 
 Update 2018:  As defined in the European Union General Data Protection Regulation (the "GDPR"), "personal data  generally means any information that can be used to identify a natural person.  If you are in the European Union, or if your personal data otherwise is subject to the GDPR, you should understand that the University will use out technical infrastructure in the United States to deliver various services to you. 
 
-In order to fulfill our responsibiliies with you (if you are an applicant, student, employee, or if you are purchasing items from us, browsing our website, etc.) we may need to transfer your Personal Data to the United States, and possibly to other jurisdictions outside of your home country, as necessary to provide these services. Similarly, if you are browsing our webpage, we may collect certain Personal Data about you (for example, your ISP address) in order to enhance our webpage, and your experience on our webpage, in accordance with our GDPR PRIVACY NOTICES below. Collection and processing of your Personal Data as you browse our webpage is necessary for our legitimate interests, and we believe these interests will not interfere with your fundamental rights or freedoms.
+In order to fulfill our responsibilities with you (if you are an applicant, student, employee, or if you are purchasing items from us, browsing our website, etc.) we may need to transfer your Personal Data to the United States, and possibly to other jurisdictions outside of your home country, as necessary to provide these services. Similarly, if you are browsing our webpage, we may collect certain Personal Data about you (for example, your ISP address) in order to enhance our webpage, and your experience on our webpage, in accordance with our GDPR PRIVACY NOTICES below. Collection and processing of your Personal Data as you browse our webpage is necessary for our legitimate interests, and we believe these interests will not interfere with your fundamental rights or freedoms.
 
 ## GDPR PRIVACY NOTICES
 
