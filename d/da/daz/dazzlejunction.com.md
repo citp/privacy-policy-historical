@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the dazzlejunction.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081813id_/http%3A//www.dazzlejunction.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazzlejunction.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415045733id_/http%3A//www.dazzlejunction.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Dazzle Junction: Privacy Policy
 
+Search Dazzle Junction   
+  
     
 
   
@@ -11,7 +13,7 @@
 
 **Cookie and tracking technology** are used for gathering information to understand visitor usage. This includes aggregate data, such as, browser type, operating system, and the number of users visiting the site. Personal information cannot be collected via cookies and other tracking technology. Aggregate cookie and tracking information may be shared with third parties.
 
-**Third Party Sites:** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregate data such as your IP address, and clickstream information via cookies in order to provide advertisements about goods and services of interest to you. To opt-out of such information collection and use, please visit [NAI's opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). For further information, about the policies of the specific advertising companies used on this website, or to opt out of use of the DART cookie you may do so by visiting: [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) nd [Conversant Media Privacy Policy](http://www.conversantmedia.com/legal/media-privacy-policy).
+**Third Party Sites:** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregate data such as your IP address, and clickstream information via cookies in order to provide advertisements about goods and services of interest to you. To opt-out of such information collection and use, please visit [NAI's opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). For further information, about the policies of the specific advertising companies used on this website, or to opt out of use of the DART cookie you may do so by visiting: [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 In addition to advertisements, we also link to other sites that may be of interest to our visitors. Dazzle Junction is not responsible for the privacy practices of linked sites. We encourage you to read their privacy policy as well.
 
@@ -20,14 +22,3 @@ Aggregate Data may be shared with governmental agencies or other companies assis
 If you have any questions, please send an email to info(at)dazzlejunction.com. 
 
 * * *
-
-Privacy Policy: June 6, 2017 \-   
-
-
-  
-
-
-* * *
-
-  
-
