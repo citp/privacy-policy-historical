@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the insureon.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827182317id_/https%3A//www.insureon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insureon.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415224903id_/https%3A//www.insureon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Insureon
 
-This Privacy Policy describes how BIN Insurance Holdings, LLC, doing business as Insureon and TechInsurance ("Insureon," "we," "us" or "our") collects, uses and shares information about you when you access, visit, use or submit information to our websites [www.insureon.com](https://www.insureon.com/) and [www.techinsurance.com](https://www.techinsurance.com/) (collectively, the "Site") and use the services offered by Insureon through the Site (the Site and these services will be referred to in this Privacy Policy as the "Service"). By accessing, visiting, using or submitting information to the Service, you agree to the terms of this Privacy Policy. If you do not agree to the practices described in this Privacy Policy, please do not access, visit, use or submit information to the Service. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the Insureon Terms of Use located at <https://www.insureon.com/legal/terms-of-use>. If you have any questions or comments regarding this Privacy Policy or its enforcement, please contact us at [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d0d44434b426d44435e585f484243034e4240).
+This Privacy Policy describes how BIN Insurance Holdings, LLC, doing business as Insureon and TechInsurance ("Insureon," "we," "us" or "our") collects, uses and shares information about you when you access, visit, use or submit information to our websites [www.insureon.com](https://www.insureon.com/) and [www.techinsurance.com](https://www.techinsurance.com/) (collectively, the "Site") and use the services offered by Insureon through the Site (the Site and these services will be referred to in this Privacy Policy as the "Service"). By accessing, visiting, using or submitting information to the Service, you agree to the terms of this Privacy Policy. If you do not agree to the practices described in this Privacy Policy, please do not access, visit, use or submit information to the Service. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the Insureon Terms of Use located at <https://www.insureon.com/legal/terms-of-use>. If you have any questions or comments regarding this Privacy Policy or its enforcement, please contact us at [ info@insureon.com](mailto:%20info@insureon.com).
 
 The Service is not intended for visitors who are under eighteen (18) years of age. We do not knowingly solicit or collect information from individuals who are not eighteen (18) years old.
 
@@ -43,7 +43,11 @@ We may also combine your information with the information of other users so that
 
   
 
-  * **Third-party marketing partners:** If you opt-in to receive marketing communications from third parties, we may, from time to time, share your name, email address and postal mailing address with a few carefully selected third-party marketing partners that we believe offer products or services that may be of interest to you. If you would like us to stop providing this information to our third-party marketing partners, you may opt out by emailing us at [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#35155c5b535a755c5b464047505a5b1b565a58), calling us at 800.688.1984 or writing to us at 30 N LaSalle St., Suite 2500, Chicago, IL 60602.
+  * **Third-party insurance agents:** If we are unable to obtain insurance coverage for your business through our direct carrier partnerships, in certain situations, we might sell or distribute your information to a third-party agent to attempt to secure said coverage.
+
+  
+
+  * **Third-party marketing partners:** If you opt-in to receive marketing communications from third parties, we may, from time to time, share your name, email address and postal mailing address with a few carefully selected third-party marketing partners that we believe offer products or services that may be of interest to you. If you would like us to stop providing this information to our third-party marketing partners, you may opt out by emailing us at [ info@insureon.com](mailto:%20info@insureon.com), calling us at 800.688.1984 or writing to us at 30 N LaSalle St., Suite 2500, Chicago, IL 60602.
 
   
 
@@ -77,9 +81,9 @@ Some third-party advertising companies may provide a mechanism to opt out of the
 
 **9\. Use of information outside of your country of residence.** The Service is directed to users located in those states in the United States in which Insureon or any of its affiliates are licensed insurance agents or brokers. The Service is not intended as a solicitation for insurance in any state where Insureon or any of its affiliates are not licensed. If you are located outside of the United States and choose to use the Service or provide your information to us, your information will be transferred, processed and stored in the United States. U.S. privacy laws may not be as protective as those in your jurisdiction. Your agreement to the terms of this Privacy Policy followed by your submission of information represents your agreement to this practice. If you do not want your information transferred to or processed or stored in the United States, you should not use the Service.
 
-**10\. Updating and deleting information.** If you create an account through the Service, you can access, change and update the information that you provide through the Service by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e7e373038311e37302d2b2c3b3130703d3133), calling us at 800.688.1984 or writing to us at 30 N LaSalle St., Suite 2500, Chicago, IL 60602.
+**10\. Updating and deleting information.** If you create an account through the Service, you can access, change and update the information that you provide through the Service by emailing us at [info@insureon.com](mailto:%20info@insureon.com), calling us at 800.688.1984 or writing to us at 30 N LaSalle St., Suite 2500, Chicago, IL 60602.
 
-**11\. Opt out of marketing email.** From time to time we may send you marketing communications about our products and services using the email address you provide as part of the registration process. You may elect not to receive these email communications from us by either following the link provided in the applicable email communication or contacting us at [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90b0f9fef6ffd0f9fee3e5e2f5fffebef3fffd).
+**11\. Opt out of marketing email.** From time to time we may send you marketing communications about our products and services using the email address you provide as part of the registration process. You may elect not to receive these email communications from us by either following the link provided in the applicable email communication or contacting us at [ info@insureon.com](mailto:%20info@insureon.com).
 
 **12\. Security procedures.** We have implemented technical and administrative security measures to protect user information. To guard against unauthorized disclosure of your information, information that is passed between your browser and Insureon is encrypted with the Secure Sockets Layer (SSL) system. We also use industry-standard practices such as encrypted storage, firewalls and password protection systems to safeguard the confidentiality of your information. Each of our employees who has access to your information is aware of our security policies, and your information is only available to those employees who need it to perform their jobs. However, we cannot guarantee the absolute security of your information, and no networked system or Internet transmission is entirely secure. We assume no responsibility or liability if any information relating to you is intercepted and/or used by an unintended recipient.
 
@@ -87,7 +91,7 @@ Some third-party advertising companies may provide a mechanism to opt out of the
 
 **14\. Notification of changes.** We will notify you of material changes to this Privacy Policy by posting the amended terms on the Site at least thirty (30) days before the effective date of the changes. You may cancel your account prior to the end of the applicable thirty (30) day period by contacting us using the contact information in Section 15 below. If you choose to cancel your account within this thirty (30) day period, you will not be bound by the new terms.
 
-**15\. Contact information.** If you have any questions about this Privacy Policy, you may contact us by email at [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dfffb6b1b9b09fb6b1acaaadbab0b1f1bcb0b2) or by telephone at 800.688.1984.
+**15\. Contact information.** If you have any questions about this Privacy Policy, you may contact us by email at [ info@insureon.com](mailto:%20info@insureon.com) or by telephone at 800.688.1984.
 
 ### How do you protect my customer information?
 
@@ -99,7 +103,7 @@ Cookies are used to track a user's session and are not permanently recorded. No 
 
 ### Will you notify me if your privacy policy changes?
 
-If at some point in the future, there is a change to our information usage practices that affects your Personally Identifiable Information, we will notify you by email of the relevant changes. At the time of this message, you will be able to opt out of this information usage by sending a message to the following email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97fef9f1f8d7fef9e4e2e5f2f8f9b9f4f8fa). You should also check this posted privacy statement for changes.
+If at some point in the future, there is a change to our information usage practices that affects your Personally Identifiable Information, we will notify you by email of the relevant changes. At the time of this message, you will be able to opt out of this information usage by sending a message to the following email: [info@insureon.com](mailto:info@insureon.com). You should also check this posted privacy statement for changes.
 
 ### How do I update my information?
 
@@ -110,7 +114,7 @@ Insureon
 Suite 2500  
 Chicago, IL 60602  
 800.688.1984  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#046d6a626b446d6a777176616b6a2a676b69)
+[info@insureon.com](mailto:info@insureon.com)
 
 ### How secure is my information?
 
@@ -126,6 +130,6 @@ You have the ability to contact Insureon directly with any comments or questions
 
 The U.S. Federal Trade Commission offers an overview of privacy protection.
 
-Be sure to check the privacy policies of each site you visit. If you have questions or comments regarding Insureon privacy practices, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#076e696168476e697472756268692964686a).
+Be sure to check the privacy policies of each site you visit. If you have questions or comments regarding Insureon privacy practices, please send an email to [info@insureon.com](mailto:info@insureon.com).
 
 We hope you have found this information helpful. If you have any questions or would like more information, please contact customer service at 800.688.1984.
