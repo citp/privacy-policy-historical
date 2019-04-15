@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jm-experts.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720063940id_/https%3A//www.jm-experts.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jm-experts.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415101454id_/https%3A//www.jm-experts.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
