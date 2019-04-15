@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the equibase.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230040833id_/http%3A//www.equibase.com/about/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equibase.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415101925id_/http%3A//www.equibase.com/about/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Equibase | Privacy Policy
 
 ### PRIVACY STATEMENT FOR _equibase.com_
 
-**Please Note:** This privacy policy was last updated on February 3, 2014 and is subject to future change without notice.
+**Please Note:** This privacy policy was last updated on March 27, 2019 and is subject to future change without notice.
 
 Equibase Company LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **_equibase.com_**.
 
 We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We monitor access to the site via IP address for data scrapers and automated access of information on the site. We block IP addresses engaging in these activities.
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. Some of the ads you receive on Web pages are customized based on predictions about your interests generated from your visits to different Websites in this browser and on other devices you may use. To opt out of interest based advertising from specific participating companies, or from all participating companies, [click here](http://optout.aboutads.info/?c=2&lang=EN). You can learn more about certain types of targeted advertising by visiting the [Digital Advertising Alliance](http://www.aboutads.info/). 
 
 Our site's registration form requires users to give us contact information (like their name and e-mail address) and basic demographic information. We use customer contact information from the registration form to send the user information about our company and the Thoroughbred racing industry. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the Opt Out Procedures for Mailings section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. Further, Equibase may occasionally provide, sell, or rent limited user data to third parties, including companies that offer products and services for sale to Equibase’s users. This limited data includes names, job titles, companies/organizations, and business addresses, but do not include business phone numbers or business fax numbers.
 
