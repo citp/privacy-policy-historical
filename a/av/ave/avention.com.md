@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the avention.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130025414id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avention.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415160939id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Dun & Bradstreet Privacy Notice - D&B Hoovers
+
+Search the D&B Hoovers Database
+
+What information we collect
+
+Cookies, Web Beacons, Pixel Tags, and GIFs
 
 ### Dun & Bradstreet Privacy Notice
 
@@ -10,7 +16,10 @@ This privacy notice explains how we collect, share and protect business informat
 
 ### Applicability - Legal Entities and Websites
 
-This Privacy Notice does not apply to Dun & Bradstreet companies based in the European Union, or when any Dun & Bradstreet company processes data relating to residents of the European Union. In such cases please see the UK Privacy Notice found at <https://www.dnb.co.uk/utility-pages/privacy-policy.html>. This Privacy Notice also covers transfers of data relating to residents of the European Union to the United States pursuant to Dun &Bradstreet’s Privacy Shield certification.”
+This Privacy Notice does not apply to Dun & Bradstreet companies based in the European Union or United Kingdom, or when any Dun & Bradstreet company processes data relating to residents of the European Union or the United Kingdom. In such cases please see the UK Privacy Notice found at  _<https://www.dnb.co.uk/utility-pages/privacy-policy.html>_. This Privacy Notice also covers transfers of data relating to residents of the European Union and United Kingdom to the United States pursuant to Dun & Bradstreet’s Privacy Shield certification.
+
+This Privacy Notice does not apply to data collected by or products and solutions sold by Dun & Bradstreet legal entities based in the People’s Republic of China on Chinese residents. In such cases please see the [China Privacy Notice](http://www.huaxiadnb.com/privacy.html).  
+
 
 This Privacy Notice applies to the following Dun & Bradstreet legal entities: Dun & Bradstreet, Inc., Dun & Bradstreet NetProspex, Inc. (“NPX”); Avention, Inc.; Hoover’s Inc.; Dun & Bradstreet Emerging Businesses (“DBEB”). NPX, Avention, and Hoover’s provide Sales and Marketing solutions.  DBEB provides business credit information. Market Data Retrieval (MDR), a part of Dun and Bradstreet Inc., is a provider of marketing information and services for the K-12, higher education, library, early childhood, and related education market.  These entities and lines of business will be referred to collectively as “Dun & Bradstreet” in this notice.
 
@@ -18,9 +27,9 @@ This policy covers the following Dun & Bradstreet websites:  [dnb.com](https://
 
 These sites may provide links to other U.S. Dun & Bradstreet websites, non-U.S. Dun & Bradstreet websites and non-Dun & Bradstreet websites that may have different privacy notices. We encourage you to carefully read the online privacy notices of these other websites to ensure that you understand their practices and the relevant distinctions.
 
-Dun & Bradstreet collects information on businesses and business professionals. We collect information offline from business owners and principals, from businesses' creditors, vendors, third parties and suppliers, and from public records such as business registrations, Uniform Commercial Code filings and bankruptcy filings. MDR collects information on educational institutions and professionals.  Dun & Bradstreet has a right to publish information on businesses that may be a factor in our customers’ decision making involving credit, insurance, marketing and other activities.  The business information that we collect includes the following:
+Dun & Bradstreet collects information on businesses and business professionals. We collect information offline from business owners and principals, from businesses' creditors, vendors, third parties and suppliers, and from public records such as business registrations, Uniform Commercial Code filings and bankruptcy filings. MDR collects information on educational institutions and professionals. Dun & Bradstreet has a right to publish information on businesses that may be a factor in our customers’ decision making involving credit, insurance, marketing and other activities. The business information that we collect includes the following:
 
-Company and business professional information, including business contact information such as name, title, address, phone number, fax number, and e-mail address, domain names, and trade associations
+Company and business professional information, including business contact information such as name, title, address, phone number, fax number, and e-mail address, domain names, and trade associations. In the United States we collect a limited amount of non-business personal information on business individuals (such as a personal, non-business email address) to increase the accuracy of our business contact information, but we never publish such information in any of our business products or solutions. In addition, we corroborate and build business contact emails by way of various verification methods and data points;
 
 Detailed company profiles and statistics, including number of employees;
 
@@ -32,13 +41,13 @@ Detailed trade and business credit information, including payment histories and 
 
 Summary business information regarding profitability, debts, assets, net worth, and business relationships;
 
-Business compliance information from public source government and professional records, media and business publications
+Business compliance information from public source government and professional records, media and business publications;
 
-Educational institutional profiles and statistics, including educational subject matter specialties and number of employees
+Educational institutional profiles and statistics, including educational subject matter specialties and number of employees;
 
-Background information regarding educational institutional management, such as the educational and career histories of school deans and principals
+Background information regarding educational institutional management, such as the educational and career histories of school deans and principals;
 
-IP addresses, geolocation, comments on social media is collected and aggregated and used to analyze trends regarding Dun & Bradstreet products and services.
+IP addresses, geolocation, comments on social media is collected and aggregated and used to analyze trends regarding Dun & Bradstreet products and services and to increase accuracy of our business data sets, as well as to assist us in matching IP addresses to business contact information.
 
 Credit/debit card information in order to process certain customer payments.
 
@@ -62,7 +71,7 @@ Dun & Bradstreet does not respond to Do Not Track Signals.
 
 Dun & Bradstreet uses the information that we collect to operate our websites, offer customers a variety of business information products and services for use in making business credit, risk management, supplier, and marketing decisions, and to carry out transactions that you request or authorize. Dun & Bradstreet also licenses professional business contact information to authorized resellers and third party businesses for marketing and data management purposes.
 
-We may use your professional business contact information to match it with other public and private sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Dun & Bradstreet and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising by following the instructions in the section below entitled "Third Party Advertisers". Dun & Bradstreet follows the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance. Visit <http://www.aboutads.info/choices/> to exercise your option to opt-out of targeted ads provided by certain listed companies.
+We may use your professional business contact information to match it with other public and private sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Dun & Bradstreet and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising by following the instructions in the section below entitled "What are your choices regarding Cookies". 
 
 Hoover's maintains a separate professional contacts directory in which your company and individual business contact information may be listed. Hoover's licenses business and professional contact information to authorized resellers and third party businesses for marketing purposes. Aggregated website visitor data may be used to determine usage patterns or interests of visitors to the website and users of our products, or for purposes related to technical support or security of the website, products and computer systems. Usage information, such as number of reports, types of reports and functions accessed by a particular UserID, may be tracked within the products. We do this to monitor authorized usage of the products, respond to questions from the user, for market research, and to improve the design and functionality of the products. We may also aggregate corporate or industry information accessed by all of our customers. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the products. We do not correlate the accessed corporate or industry information to a specific user or to a particular organization.
 
@@ -108,7 +117,7 @@ Third Parties, with whom we partner to provide certain features on our site or t
 
 We use third party advertising companies to serve ads when you visit our website. In the course of serving advertisements, our third party advertisers and partners may place or recognize a unique third party cookie on your browser. These companies may use information about your visits to Dun & Bradstreet’s and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. These third party partners monitor how guests use our website and determine which of our online features they prefer. We may report information to our partners about our customers and the products and services they order, as well as aggregated, non-identifiable information about our guests' use of our website. For more information, please see the "Third Party Advertisers" section below.
 
-We use third party advertising companies to serve our Internet ad banners on our website and other websites on which we advertise The use of third party cookies and other tracking technologies is not covered by our privacy policy. We do not have access to or control of any third party tracking technologies. Third party advertisers may also use a third party analytics provider to place third party cookies on your browser in order to collect anonymous and aggregated session Data, such as the ads that are viewed. If you view a Web page where our ads appear, the advertising company may place a cookie on your computer or use a Web beacon to access a cookie that they previously placed on your computer. These companies do not collect information that can personally identify you, but they may use information about your visits to our website and other websites to measure the effectiveness of ads. We do not disclose any personally identifiable information to these companies. We share aggregate website usage information with third party advertisers and partners for the purpose of effectively targeting our online advertisements. Unless you are previously notified, these advertising companies do not link any online behavior or cookies with other information that can be used to personally identify you, such as your name, address, telephone number or e-mail address, when working with Dun & Bradstreet.
+We use third party advertising companies to serve our Internet ad banners on our website and other websites on which we advertise The use of third party cookies and other tracking technologies is not covered by our privacy policy. We do not have access to or control over any third party tracking technologies. Third party advertisers may also use a third party analytics provider to place third party cookies on your browser in order to collect anonymous and aggregated session Data, such as the ads that are viewed. If you view a Web page where our ads appear, the advertising company may place a cookie on your computer or use a Web beacon to access a cookie that they previously placed on your computer. These companies do not collect information that can personally identify you, but they may use information about your visits to our website and other websites to measure the effectiveness of ads. We do not disclose any personally identifiable information to these companies. We share aggregate website usage information with third party advertisers and partners for the purpose of effectively targeting our online advertisements. Unless you are previously notified, these advertising companies do not link any online behavior or cookies with other information that can be used to personally identify you, such as your name, address, telephone number or e-mail address, when working with Dun & Bradstreet.
 
 These third party advertising networks also track visitors' online usage and behavior patterns. These companies may use information about your visits to Dun & Bradstreet and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. The result of these efforts is the creation of an online profile that attempts to predict individual user interests, preferences and purchasing habits. The third party advertising networks then accordingly customize the advertising content served to users when visiting other websites.
 
@@ -117,7 +126,7 @@ _What are your choices regarding Cookies_
 
 Most Internet browsers allow users to decide whether to accept cookies and how long to keep them on their hard drive. You may reset your browser to refuse cookies and still use our website, although website access and functionality may be slower and less convenient.
 
-In regard to Third Party Advertisers, the Network Advertising Initiative (NAI) is a self-regulatory cooperative of online marketing and analytics companies. The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices. Through the NAI's online options, you may opt out of particular NAI network members' behavioral advertising programs or you may opt out of all NAI network members' programs. Opting out will prevent the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads. The NAI opt-out only works with participating third party advertising networks that use cookies and Web beacons to execute their advertising initiatives. If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the [NAI website](http://www.networkadvertising.org/).
+In regard to Third Party Advertisers, the Network Advertising Initiative (NAI) is a self-regulatory cooperative of online marketing and analytics companies. The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices. Through the NAI's online options, you may opt out of particular NAI network members' behavioral advertising programs or you may opt out of all NAI network members' programs. Opting out will prevent the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads. The NAI opt-out only works with participating third party advertising networks that use cookies and Web beacons to execute their advertising initiatives. If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the [NAI website](http://www.networkadvertising.org/). Dun & Bradstreet also follows the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance (DAA). Visit <http://www.aboutads.info/choices/> to exercise your option to opt-out of targeted ads provided by certain listed companies.
 
 ### You Have Choices
 
@@ -216,9 +225,10 @@ By using our website, you hereby consent to our collection, use, management, ret
 
 In the event that Dun & Bradstreet is purchased or sells parts or all of the business, the information collected will be considered an asset that can be transferred.
 
-### Transfers of Personal Information from the EU/EEA and Switzerland to the US - Privacy Shield
+### Transfers of Personal Information from the EU/EEA, the United Kingdom, and Switzerland to the US under the Privacy Shield
 
-Dun & Bradstreet and its legal entities comply with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to Privacy Shield, Dun & Bradstreet is potentially liable. Dun & Bradstreet has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+Dun & Bradstreet and its legal entities comply with the EU-U.S. Privacy Shield Framework and the Swiss U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and/or Switzerland (as applicable) to the United States, respectively, in reliance on Privacy Shield. In cases of onward transfer to third parties of data of EU, British,  or Swiss individuals received pursuant to Privacy Shield, Dun & Bradstreet is potentially liable. Dun & Bradstreet has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/.](https://www.privacyshield.gov/)  
+
 
 Dun & Bradstreet is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
@@ -262,8 +272,11 @@ EU Data Protection Officer at [EUDPO@dnb.com](mailto:EU%20Data%20Protection%20O
 
 ### Effective Date:
 
-Effective Date of this Privacy Notice: October 8, 2018
+Effective Date of this Privacy Notice: February 15, 2019   
 
-This update to the Privacy Notice was done to update our notices regarding access, correction, and deletion of certain information, as well as clarify our notices regarding dispute resolution and arbitration.
 
-Previous update to this Privacy Notice was dated September 17, 2018.
+This update to the Privacy Notice incorporates guidance from the EU-U.S. Privacy Shield Framework regarding the withdrawal of the United Kingdom from the European Union, as well as updates the type of information collected by Dun & Bradstreet and how it is used. This update also clarified that this Privacy Notice does not apply to data collected by or products and solutions sold by Dun & Bradstreet legal entities based in the People’s Republic of China on Chinese residents.   
+
+
+This Privacy Notice was previously updated October 8, 2018.  
+
