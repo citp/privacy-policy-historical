@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zambianwatchdog.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027132317id_/https%3A//www.zambiawatchdog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zambianwatchdog.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415030209id_/https%3A//www.zambiawatchdog.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Zambian Watchdog
 
