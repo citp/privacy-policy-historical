@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111185319id_/https%3A//www.xbiz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415030850id_/https%3A//www.xbiz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XBIZ.com
 
