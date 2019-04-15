@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915195030id_/https%3A//www.amgen.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415223921id_/https%3A//www.amgen.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -137,7 +137,7 @@ California Civil Code Section 1798.83 permits individual California residents to
 
 Privacy Office  
 One Amgen Center Drive  
-MS 10-2-A  
+MS 28-4-A  
 Thousand Oaks, California 91320
 
 [privacyoffice@amgen.com](mailto:privacyoffice@amgen.com)
@@ -281,7 +281,7 @@ La sección 1798.83 del Código Civil de California permite que los residentes p
 
 _Privacy Office  
 One Amgen Center Drive  
-MS 10-2-A  
+MS 28-4-A  
 Thousand Oaks, California 91320_ __
 
 [privacyoffice@amgen.com](mailto:privacyoffice@amgen.com)
