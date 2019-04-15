@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackmytrip.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228124055id_/https%3A//www.travelcodex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackmytrip.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415035528id_/https%3A//www.travelcodex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Codex
 
