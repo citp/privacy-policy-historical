@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubscale.io privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227202954id_/https%3A//hubscale.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubscale.io privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415093734id_/https%3A//hubscale.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hubscale
 
