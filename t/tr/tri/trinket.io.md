@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trinket.io privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020014311id_/https%3A//trinket.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinket.io privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415200300id_/https%3A//trinket.io/privacy) for the most accurate reproduction.*
 
 # Privacy
 
