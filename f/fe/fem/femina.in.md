@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the femina.in privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231094747id_/https%3A//www.femina.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femina.in privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415183644id_/https%3A//www.femina.in/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Femina.in
+
+Tanya Chaitanya (Editor Femina India)
+
+For every doubting Thomas who tells you women can’t scale mountains, wrestle in the ring, endure physical hardship, your comeback should be a simple hashtag:#StandStrong.
+
+There’s no bigger retaliation than success, they say. So show your calibre to these detractors or anybody who believes that we, as women, lack the potential to be physically as fit as men by being just that. Not to say that it will be an easy process.
+
+The conditioning that we are not at par physically starts early. From the time we are offered a hand to bring down the cookie jar to when we are told not to lift too heavy a weight; when the sports selectors in schools bypass promising girl children or when the male friends refuse to count us in in any serious hiking plans—that feeling of being physically less is ingrained right from the beginning. 
+
+So how is it that we witness sportswomen like Mary Kom packing a punch in the arena or a badminton champ like PV Sindhu physically pushing herself to the limits? Or the fact that celebs like Jacqueline Fernandez, Taapsee Pannu, Katrina Kaif swear by their fitness routine and are known to train for longer hours than their male counterparts? 
+
+Then again look beyond these superwomen. Look around you. There are regular women storming into male bastions, physically-challenging professions and pursuits, and coming out triumphant. This new-found confidence comes with taking care of yourself, being cognizant of the fact that our body needs to be given TLC, from the right diet and nutrition to exercise and care to help us stand strong. 
+
+This is when I raise a toast: Here’s to strong women. May we know them, may we be them, may we raise them! 
 
 Femina.in is the registered domain name and official website of Femina magazine owned by Worldwide Media Private limited, a Times Group Company. As a User, Customer or Registered Member of femina.in we understand that you would be concerned about your online privacy . We at femina.in are concerned and respect your privacy, and protect the privacy of all concerned by using the information you provide with utmost care and security. First and foremost you need to be 18 years or older to register at femina.in as a member or for commercial usage of this B2C website.
 
