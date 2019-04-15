@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohay.info privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215044454id_/http%3A//ohay.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohay.info privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416002518id_/http%3A//ohay.info/privacy) for the most accurate reproduction.*
 
 # privacy – ohay.info
 
