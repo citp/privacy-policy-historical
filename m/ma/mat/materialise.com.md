@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the materialise.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604110044id_/http%3A//www.materialise.com/en/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the materialise.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415123916id_/https%3A//www.materialise.com/en/terms-of-use) for the most accurate reproduction.*
 
 # Terms of Use | Materialise - Innovators you can count on
 
