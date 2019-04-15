@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-vectors.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610140314id_/http%3A//free-vectors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-vectors.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415173003id_/https%3A//free-vectors.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
