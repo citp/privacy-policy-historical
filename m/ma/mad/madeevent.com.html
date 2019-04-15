@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the madeevent.com privacy policy that was archived on 2018-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181022194353id_/http%3A//madeevent.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madeevent.com privacy policy that was archived on 2019-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190415165250id_/http%3A//www.madeevent.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Made Event Privacy Notice</title>
@@ -40,7 +40,7 @@
 -->
 <link rel="stylesheet" type="text/css" href="/css/MyFontsWebfontsKit.css">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="/js/jquery.form.js"></script>
 <script type="text/javascript" src="/js/jquery.validate.js"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.8.6.custom.min.js"></script>
@@ -133,6 +133,61 @@
 			event.preventDefault();			
 		}); // end of click handler			
 	});
+</script>
+	
+<!-- COUNTDOWN TIMER -->
+<script type="text/javascript">
+	// Set the date we're counting down to
+	var countDownDate = new Date("Dec 20, 2018 22:00:00").getTime();
+
+	// Update the count down every 1 second
+	var x = setInterval(function() {
+
+	  // Get todays date and time
+	  var now = new Date().getTime();
+    
+	  // Find the distance between now and the count down date
+	  var distance = countDownDate - now;
+    
+	  // Time calculations for days, hours, minutes and seconds
+	  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+	  if (days < 0) { days = 0;}
+	  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	  if (hours < 0) { hours = 0;}
+	  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+	  if (minutes < 0) { minutes = 0;}
+	  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+	  if (seconds < 0) { seconds = 0;}
+	  
+	  var blink = false;
+	  if(days == 0 && hours == 0 && minutes == 0 && seconds == 0) {
+		  blink = true;
+	  }
+    
+	  // Output the result in an element with id="countdown"
+	  document.getElementById("countdown").innerHTML = 
+	  "<div id='countdown-days'><span id='countdown-days-blink'>" + days + "</span><div class='countdown-label'> days</div></div> " + 
+	  "<div id='countdown-hours'><span id='countdown-hours-blink'>" + hours + "</span><div class='countdown-label'> hrs</div></div> " + 
+	  "<div id='countdown-minutes'><span id='countdown-minutes-blink'>" + minutes + "</span><div class='countdown-label'> mins</div></div> " + 
+	  "<div id='countdown-seconds'><span id='countdown-seconds-blink'>" + seconds + "</span><div class='countdown-label'> secs</div></div> ";
+    
+	  if (blink == true) {
+		  var element = document.getElementById("countdown-days-blink");
+		  element.classList.add("blink");
+		  var element = document.getElementById("countdown-hours-blink");
+		  element.classList.add("blink");
+		  var element = document.getElementById("countdown-minutes-blink");
+		  element.classList.add("blink");
+		  var element = document.getElementById("countdown-seconds-blink");
+		  element.classList.add("blink");
+	  }
+	
+	  // If the count down is over, write some text 
+	  // if (distance < 0) {
+	  //  clearInterval(x);
+	  //  document.getElementById("countdown").innerHTML = "EXPIRED";
+	  //}
+	}, 1000);
 </script>
 
 <!-- Facebook custom audience test Jan 28, 2014 -->
@@ -328,7 +383,7 @@ window._fbq.push(["track", "PixelInitialzed", {}]);
 </div>
 
 <div class="footernav">
-	<a href="/privacy.php" style="color: #999">Privacy Notice</a> | <a href="/social-media-disclaimer.php" style="color: #999">Social Media Disclaimer</a>
+	<a href="/privacy.php" style="color: #999">Privacy Notice</a>
 </div>
 
 <!-- AdRoll SmartPixel -->
@@ -488,21 +543,61 @@ var google_conversion_value = 0;
 var rnd=10000000000*Math.random();
 document.write ("<sc" + "ript language='javascript' src='http://1.download.advertise.myspace.com/03/2f/3b/ed2f3bb45e08507543a0b9d56a6f642e_behave.js?rnd="+rnd+"'>");
 document.write ("</sc" + "ript>");
-</script><script language="javascript" src="http://1.download.advertise.myspace.com/03/2f/3b/ed2f3bb45e08507543a0b9d56a6f642e_behave.js?rnd=9582719109.82685"></script>
+</script><script language="javascript" src="http://1.download.advertise.myspace.com/03/2f/3b/ed2f3bb45e08507543a0b9d56a6f642e_behave.js?rnd=4164454014.2822127"></script>
 
-<!-- Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3820696-1"></script>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  ga('create', 'UA-3820696-3', 'auto', {'allowLinker': true});
-  ga('require', 'linker');
-  ga('linker:autoLink', ['electriczoofestival.com', 'flavorus.com'] );
-  ga('send', 'pageview');
+  gtag('config', 'UA-3820696-1');
+</script>
+
+
+<!-- MAILCHIMP FORM -->
+
+<script type="text/javascript">
+  
+  $(document).ready( function () {
+      var $form = $('#mc-embedded-subscribe-form');
+
+      $('#mc-embedded-subscribe').on('click', function ( event ) {
+          event.preventDefault();
+          // validate_input() is a validation function I wrote, you'll have to substitute this with your own.
+          register($form);
+      });
+      
+  });
+
+  function register($form) {
+      $.ajax({
+          type: 'get',
+          url: 'https://sfxii.us14.list-manage.com/subscribe/post-json?u=8df7ca5dab778d8adb465b1f8&amp;id=21ba4715d5&c=?',
+          data: $form.serialize(),
+          cache       : false,
+          dataType    : 'json',
+          contentType: "application/json; charset=utf-8",
+          error       : function(err) { alert("Could not connect to the registration server. Please try again later."); },
+          success     : function(data) {
+              if (data.result != "success") {
+                  if (data.msg.startsWith('0')){
+                    $('#mce-response').text('Please enter a valid email address');
+                  } else {
+                    $('#ezoo2019-mc-form').remove();
+                    $('#mce-response').text('Thank you!');
+                  }
+              } else {
+                  $('#ezoo2019-mc-form').remove();
+                  $('#mce-response').text('Thank you!');
+              }
+          }
+      });
+  }
 
 </script>
+
 <!-- Google Analytics -->
 
 
