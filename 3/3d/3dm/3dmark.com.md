@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dmark.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223035935id_/https%3A//benchmarks.ul.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dmark.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416014732id_/https%3A//benchmarks.ul.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UL Benchmarks
 
