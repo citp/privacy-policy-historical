@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the greatcall.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211155141id_/https%3A//www.greatcall.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatcall.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415062216id_/https%3A//www.greatcall.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Legal | Privacy Policy | GreatCall
+
+This graphic notice means that you are leaving the GreatCall website and are going to a non-GreatCall website. Please be advised of the following:
+
+  * This external website provides additional information that is consistent with the intended purposes of the GreatCall website; however, the external website is subject to change beyond GreatCall's control.
+  * GreatCall cannot attest to the accuracy of a non-GreatCall website.
+  * Linking to a non-GreatCall site does not constitute an endorsement by GreatCall or any of its employees of the sponsors or the information and the products presented on the site.
+  * You will be subject to the distination site's privacy policy and other terms of use when you follow the link.
+
+
 
 ###  Privacy Policy 
 
@@ -20,7 +29,7 @@ Under California Law, California residents have the right to request in writing 
 
 GreatCall, Inc.  
 Attn: General Counsel  
-10935 Vista Sorrento Pkwy, Suite 200  
+10945 Vista Sorrento Pkwy, Suite 120  
 San Diego, California 92130 
 
 We will respond to such requests to information access within 30 days following receipt at the email or mailing address stated above. If we receive your request at a different email or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year. 
@@ -71,7 +80,7 @@ If you are a registered Web site user, you may request deletion of your greatcal
 
 #####  Opting Out 
 
-GreatCall displays retargeted ads to our Web site prospects across the Internet. We collect non‐personal information about your visits to our Web site, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personal information is collected during this process. If you do not want GreatCall to collect this information, you may opt out of this service. Opting out will not in any way affect your use of our Web site. To opt‐out of retargeting, please [click here](http://www.networkadvertising.org/choices/). 
+GreatCall displays retargeted ads to our Web site prospects across the Internet. We collect non‐personal information about your visits to our Web site, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personal information is collected during this process. If you do not want GreatCall to collect this information, you may opt out of this service. Opting out will not in any way affect your use of our Web site. To opt‐out of retargeting, please [click here](http://www.networkadvertising.org/choices/) __.
 
 #####  Data Security 
 
@@ -87,7 +96,7 @@ We are sensitive to privacy issues and look to protect your child’s informatio
 
 
 
-NOTICE: Visit [ www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy ](http://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) for information from the Federal Trade Commission about protecting children’s privacy online. 
+NOTICE: Visit [ www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy ](http://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy)__for information from the Federal Trade Commission about protecting children’s privacy online.
 
 If a child under the age of 13 has provided personal information on our Web site without the consent of his or her parent or guardian, we ask that a parent or guardian send us an email through our [ Contact Us ](https://web.archive.org/support/contact-us) page, and we will delete the child’s personal information from our files. 
 
