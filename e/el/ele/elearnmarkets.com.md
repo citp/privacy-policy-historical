@@ -1,164 +1,144 @@
-> *The following text is extracted and transformed from the elearnmarkets.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122214800id_/http%3A//www.elearnmarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearnmarkets.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415103053id_/https%3A//www.elearnmarkets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Elearnmarkets
 
-We, **Kredent Eduedge Private Limited** , incorporated under the Companies Act, 2013(hereinafter referred to as **“Company”** , having its registered office at 4 Brabourne Road, 4th Floor, Kolkata - 700001, India, the creator of this Privacy Policy ensure our firm commitment to your privacy vis-à-vis the protection of your priceless information. In order to endow you with our uninterrupted use of services, we may collect and, in some circumstances, disclose information about you. To enhance better protection of your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
+[](https://web.archive.org/)
 
-All visitors to [www.elearnmarkets.com ](http://www.elearnmarkets.com/)(Website) are advised to read and understand our Privacy Policy carefully, as by accessing the Website you agree to be bound by the terms and conditions of the Privacy Policy and consent to the collection, storage and use of information relating to you as provided herein.
+__You have successfully verified your account.
 
-If you do not agree with the terms and conditions of our Privacy Policy, including in relation to the manner of collection or use of your information, please do not use or access the Site.
+__Please verify your account later.
 
-If you have any questions or concerns regarding this privacy policy, you should contact our Customer Support Desk at [?]
+Grab Flat **30% discount** on NSE Academy Certified Capital Market Professional (E-NCCMP). Use Coupon: ENCCMP6K. [Grab the Course](https://www.elearnmarkets.com/courses/display/online-nccmp-course?utm_campaign=ENCCMP6K&utm_medium=ribbon&utm_source=elearnmarkets.com)
+
+We, **Kredent Infoedge Private Limited** (hereinafter referred to as the “ **Company** ”) having its registered office at 4 Brabourne Road, 4th Floor, Kolkata - 700001, India, represented by its members, where such expression shall, unless repugnant to the context thereof, be deemed to include its respective legal heirs, representatives, administrators, permitted successors and assigns. The creator of this Privacy Policy ensures steady commitment to Your privacy with regard to the protection of your invaluable information. This privacy policy contains information about an online website called [www.elearnmarkets.com](https://www.elearnmarkets.com/) (hereinafter referred to as the “ **Website** ”). In order to provide You with Our uninterrupted use of services, We may collect and, in some circumstances, disclose information about you with your permission. To ensure better protection of Your privacy, We provide this notice explaining Our information collection and disclosure policies, and the choices You make about the way Your information is collected and used. 
+
+This Privacy Policy shall be in compliance with the General Data Protection Regulation (GDPR) in effect from May 25, 2018 and any and all provisions that may read to the contrary shall be deemed to be void and unenforceable as of that date. If you do not agree with the terms and conditions of our Privacy Policy, including in relation to the manner of collection or use of your information, please do not use or access the Site. If you have any questions or concerns regarding this Privacy Policy, you should contact our Customer Support Desk at info@elearnmarkets.com.
 
 ANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADING USED HEREIN ARE ONLY FOR THE PURPOSE OF ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT IN ANY MANNER. NEITHER THE USER NOR THE CREATERS OF THIS PRIVACY POLICY MAY USE THE HEADING TO INTERPRET THE PROVISIONS CONTAINED WITHIN IT IN ANY MANNER.
 
-#### DEFINITIONS:
+  1. **DEFINITIONS** :  
+a. “We”, “Our”, and “Us” shall mean and refer to the creators of this privacy policy.  
+b. “You”, “Your”, “Yourself” and “User” shall mean and refer to natural and legal  individuals who use the Website  
+c. “Personal Information” shall mean and refer to any personally identifiable  information that We may collect from You. For removal of any doubts, please  refer to Clause 2.  
+d. “Third Parties” refer to any website, company or individual apart from the User  and the creator of this Website.
+  2. **INFORMATION WE COLLECT** : 
 
-  1. “We”, “Our”, and “Us” shall mean and refer to the creators of this privacy policy.
-  2. “You”, “Your”, “Yourself” and “User” shall mean and refer to natural and legal individuals who use the Website.
-  3. “Website” shall mean and refer to [www.elearnmarkets.com](http://www.elearnmarkets.com/) created by Kredent Eduedge Private Limited
-  4. “Personal Information” shall mean and refer to any personally identifiable information that We may collect from You. For removal of any doubts, please refer to Clause 2.
-  5. “Third Parties” refer to any Website, website, company or individual apart from the User and the creator of the Website.
+We are committed to respecting Your online privacy. We further recognize Your need for appropriate protection and management of any Personal Information You share with us. We may collect the following information:
 
+a. Personal data such as, but not limited to, Name, Address, Password, Email ID,  Mobile Number, Educational Details, Qualification, college name, area of  interest, references etc.
 
+b. Tracking Information such as, but not limited to the IP address of your device  and Device ID when connected to the Internet. [This information may include  the URL that you just came from (whether this URL is on the Website or not),  which URL you next go to (whether this URL is on the Website or not), your  computer browser information, and other information associated with your  interaction with the Site.] 
 
-#### OVERVIEW
+This privacy policy also applies to data we collect from users who are not registered as members of this site, including, but not limited to, browsing behaviour, pages viewed etc. We also collect and store personal information provided by you from time to time on the Site. We only collect and use such information from you that we consider necessary for achieving a seamless, efficient and safe experience, customized to your needs including:
 
-We commit to respecting your online privacy data. We further recognize your need for appropriate protection and management of any personally identifiable information (" **Personal Information** ") you share with us. Information that is considered personal about you by us includes, but is not limited to, your name, address, email address, phone number or other contact information.
+a. To enable the provision of services opted for by you;
 
-In order to purchase any product from this Website, you are required to provide the following information which includes, but is not limited to:
+b. To communicate necessary account and service related information from time  to time;
 
-  * Full Name;
-  * Mobile Number;
-  * Email Id;
-  * Complete Address;
-  * Education Details / Qualification / College Name;
-  * Area of Interest;
-  * Date of Birth / Age; and
-  * References;
+c. To allow you to receive quality customer care services;
 
+d. To comply with applicable laws, rules and regulations 
 
+Where any service requested by you involves a third party, such information as is reasonably necessary by the Company to carry out your service request may be shared with such third party.  
+We also do use your contact information to send you offers based on your interests and prior activity. The Company may also use contact information internally to direct its efforts for service improvement, but shall immediately delete all such information upon withdrawal of your consent for the same through our ‘unsubscribe’ button or through an email to be sent to info@elearnmarkets.com.  
 
-This privacy policy also applies to data we collect from users who are not registered as members of this site, including, but not limited to, browsing behaviour, pages viewed etc.
+We collect and store your search details on the Website, including your search history, the usage of the website and the features and time you have used the website for.   
+Further, you may from time to time choose to provide payment related financial information (credit card, debit card, bank account details, billing address etc.) on the Site. We are committed to keeping all such sensitive data/information safe at all times and ensure that such data/information is only transacted over secure Site of approved payment gateways which are digitally encrypted, and provide the highest possible degree of care available under the technology presently in use. We shall collect and store all such information in our internal Company servers for a finite period time, as long as you are a User of the Website, and shall immediately delete all such information upon expiry of your Usership. We shall also delete all aforementioned communication upon withdrawal of Usership of any single Party to the communication.
 
-#### NOTIFICATION OF MODIFICATIONS AND CHANGES TO THE T&C AND PRIVACY POLICY
+The Company will not use your financial information for any purpose other than to complete a transaction with you. To the extent possible, we provide you the option of not divulging any specific information that you wish for us not to collect, store or use. You may also choose not to use a particular service or feature on the Site, and opt out of any non-essential communications from the Website.
 
-We reserve the right to change the Terms and Privacy Policy from time to time as we deem fit, without any intimation to you, and your continued use of the site will signify your acceptance of any amendment to these terms.
+Further, transacting over the internet has inherent risks which can only be avoided by you following security practices yourself, such as not revealing account/login related information to any other person and informing our customer care team about any suspicious activity or where your account has/may has been compromised.
 
-You are therefore advised to re-read the Terms of Service on a regular basis. Should it be that you do not accept any of the modifications or amendments to the Terms, you may terminate your use of this website immediately.
+At every stage prior to, during or after information collection, you have the right to access all personally identifiable information provided, rectify or alter all personally identifiable information provided, restrict the level of information to be retained as per your sole discretion and object to the retention, use and potential disclosure of the personally identifiable information
 
-#### INFORMATION WE COLLECT
+  3. **OUR USE OF YOUR INFORMATION:**
 
-Our site's online requisition form requires users to give us contact information (like your name, address, telephone number and email address), and demographic information (like your zip code/pin code). As a member, you are required to provide a valid email address at registration and choose a username or alias that represents your identity on our website. This information is compiled and analysed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on the Site or not), which URL you next go to (whether this URL is on the Site or not), your computer browser information, your IP address, and other information associated with your interaction with the Site.
+The information provided by You shall be used to
 
-We also collect and store personal information provided by you from time to time on the Site. We only collect and use such information from you that we consider necessary for achieving a seamless, efficient and safe experience, customized to your needs including:
+Contact You when necessary and is also used for targeted marketing campaigns  i.e. email marketing, remarketing, look alike campaigns etc., to conduct  surveys, learn more about You by linking Your data with additional data  through third-party data providers or analyzing the data with the help of  analytics service providers;
 
-  * To enable the provision of services opted for by you;
-  * To communicate necessary account and product/service related information from time to time;
-  * To allow you to receive quality customer care services;
-  * To undertake necessary fraud and money laundering prevention checks, and comply with the highest security standards;
-  * To comply with applicable laws, rules and regulations; and
-  * To provide you with information and offers on products and services, on updates, on promotions, on related, affiliated or associated service providers and partners, that we believe would be of interest to you.
+Improve and develop new products, services, and features;
 
+Analyze purchase, usage and traffic data.
 
+For more details about the nature of such communications, please refer to our Terms of Service. Further, Your personal data and Sensitive Personal data may be collected and stored by Us for internal record. 
 
-Where any service requested by you involves a third party, such information as is reasonably necessary by the Company to carry out your service request may be shared with such third party.
+We use Your tracking information such as IP addresses, and or Device ID to help identify you and to gather broad demographic information. We will not sell, license or trade Your personal information. We will not share your personal information with others unless they are acting under our instructions or we are required to do so by law.
 
-We also do use your contact information to send you offers based on your interests and prior activity. The Company may also use contact information internally to direct its efforts for product improvement, to contact you as a survey respondent, to notify you if you win any contest; and to send you promotional materials from its contest sponsors or advertisers.
+Information collected via Our server logs includes users' IP addresses and the pages visited; this will be used to manage the web system and troubleshoot problems. We also use third-party analytics, tracking, optimization and targeting tools to understand how users engage with our website so that we can improve it and cater personalized content/ads according to their preferences.
 
-Further, you may from time to time choose to provide payment related financial information (credit card, debit card, bank account details, billing address etc.) on the Site. We are committed to keeping all such sensitive data/information safe at all times and ensure that such data/information is only transacted over secure Site of approved payment gateways which are digitally encrypted, and provide the highest possible degree of care available under the technology presently in use.
+  4. **HOW INFORMATION IS COLLECTED:**
 
-The Company will not use your financial information for any purpose other than to complete a transaction with you.
+Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. If the same is not identified to you, you have the right to request the Company to elucidate the purpose of collection of said personal information, pending fulfilment of which you shall not be mandated to disclose any information whatsoever. 
 
-To the extent possible, we provide you the option of not divulging any specific information that you wish for us not to collect, store or use. You may also choose not to use a particular service or feature on the Site, and opt out of any non-essential communications from the Company.
+We will collect and use your personal information solely with the objective of fulfilling those purposes specified by us, within the scope of consent of the individual concerned or as required by law. We will only retain personal information as long as necessary for the fulfilment of those purposes. We will collect personal information by lawful and fair means and with the knowledge and consent of the individual concerned.
 
-Further, transacting over the internet has inherent risks which can only be avoided by you following security practices yourself, such as not revealing account/login related information to any other person and informing our customer care team about any suspicious activity or where your account has/may have been compromised.
+Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
 
-#### HOW INFORMATION IS COLLECTED
+  5. **COOKIES:**
 
-  1. Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  2. We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  3. We will only retain personal information as long as necessary for the fulfilment of those purposes.
-  4. We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  5. Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+We use data collection devices such as “cookies” on certain pages of our Websites. “Cookies” are small files sited on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a “cookie”. Cookies can also help us provide information, which is targeted to your interests. Cookies may be used to identify logged in or registered users. Our Website uses session cookies to ensure that you have a good experience. These cookies contain a unique number, your 'session ID', which allows our server to recognise your computer and 'remember' what you've done on the site. The benefits of this are:
 
+a. You only need to log in once if you're navigating secure areas of the site
 
+b. Our server can distinguish between your computer and other users, so you can  see the information that you have requested.
 
-#### COOKIES
+You can choose to accept or decline cookies by modifying your browser settings if you prefer. This may prevent you from taking full advantage of the Website. We also use various third-party cookies for usage, behavioural, analytics and preferences data. The following are the different types of Cookies used on the Website:
 
-  1. We use data collection devices such as "cookies" on certain pages of our Websites. "Cookies" are small files sited on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie". Cookies can also help us provide information, which is targeted to your interests. Cookies may be used to identify logged in or registered users.
-  2. Third party vendors including [www.google.com](http://www.google.com/) (“Google”) may use cookies to serve ads based on your visits to this Website. You may visit the website of the third party and choose to opt out of the use of cookies for interest-based advertising, if the third party offers such an option. You may choose to opt-out of the DoubleClick cookie that Google and its partners use for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
-  3. The website also has enabled the Google Analytics Advertising, which allows Google to collect data about users on our website, in addition to Google advertising cookies and anonymous identifiers. You may choose to opt out of this by downloading and installing the Google Analytics opt-out add-on here <https://tools.google.com/dlpage/gaoptout/>.
+      i. Authentication cookies: To identify the user and share the content that he  or she requested for.
 
+      ii) Functionality cookies: For customized user experience and resuming past  course progress.
 
+      iii) Tracking, optimization and targeting cookies: To capture usage metric  on device, operating system, browser etc. To capture behavioral metrics for  better content delivery. To cater and suggest most suited products and services.
 
-#### EXTERNAL LINKS ON WEBSITE
+  6. **GOOGLE ANALYTICS:** We use Google Analytics to help us to understand how you make use of Our content and work out how we can make things better. These cookies follow your progress through our website, collecting anonymous data on where you have come from, which pages you visit, and how long you spend on the site. This data is then stored by Google in order to create reports. These cookies do not store your personal data.
 
-The Website may include hyperlinks to other web sites or content or resources. We have no control over any websites or resources, which are provided by companies or persons other than Us.
+  The information generated by the cookie about your use of the Website, including your IP address, may be transmitted to and stored by Google on servers in the United States. Google may use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-You acknowledge and agree that We are not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such websites or resources.
+  The Google website contains further information about [Analytics](https://www.google.com/intl/en/analytics/privacyoverview.html) and a copy of [Google's privacy policy](http://www.google.com/intl/en/privacypolicy.html) pages.
 
-You acknowledge and agree that We are not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources.These third-party service providers and Third-Party Sites may have their own privacy policies governing the storage and retention of your personal information that you may be subject to. We recommend that when you enter a Third-Party Site, you review the Third Party Site’s privacy policy as it relates to safeguarding your personal information. We use third-party advertising companies to serve ads when you visit the Website.
+  7. **EXTERNAL LINKS ON THE WEBSITE:  **  
+The Website may include advertisements, hyperlinks to other websites, applications, content or resources. We have no control over any websites or resources, which are provided by companies or persons other than Us. You acknowledge and agree that We are not responsible for the availability of any such external sites or resources, and do not endorse any advertising, services/products or other materials on or available from such websites or resources. You acknowledge and agree that We are not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources. These external websites and resource providers may have their own privacy policies governing the collection, storage, retention and disclosure of Your Personal Information that You may be subject to. We recommend that You enter the external Website and review their privacy policy. If you require a list of third-party links on our Website, please write to us at info@elearnmarkets.com  and we will provide you with the same. 
+  8. **YOUR RIGHTS:**
 
-#### OUR USE OF YOUR INFORMATION
+Unless subject to an exemption, you have the following rights with respect to your personal data: 
 
-Your contact information is also used to contact you when necessary. We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information. Finally, we may use your IP address to help protect our partners and ourselves from fraud. We will continue to enhance our security procedures as new technology becomes available.We will transfer information about you if We are acquired by or merged with another company. In this event, we will notify you by email or by putting a prominent notice on the site before information about you is transferred and becomes subject to a different privacy policy.
+a. The right to request a copy of your personal data which we hold about you; 
 
-We may release your personal information to a third-party in order to comply with a Court Order or other similar legal procedure, or when we believe in good faith that such disclosure is necessary to comply with the law; prevent imminent physical harm or financial loss; or investigate or take action regarding illegal activities, suspected fraud, or violations of Our Terms of Use. We may disclose personally identifiable information to parties in compliance with our Copyright Policy as mentioned in the Terms of Use as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, we may disclose name, address, country, phone number, email address and company name.
+b. The right to request for any correction to any personal data if it is found to be  inaccurate or out of date;  
 
-#### CONFIDENTIALITY
+c. The right to withdraw Your consent to the processing at any time; 
 
-You further acknowledge that the Website may contain information which is designated confidential by us and that you shall not disclose such information without our prior written consent.
+d. The right to object to the processing of personal data;
 
-Your information is regarded as confidential and therefore will not be divulged to any third party, unless if legally required to do so to the appropriate authorities.
+e. The right to lodge a complaint with a supervisory authority
 
-We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by us will only be in connection with the provision of agreed services and products.
+f. The right to obtain information as to whether personal data are transferred to  a third country or to an international organization.
 
-#### OUR DISCLOSURE OF YOUR INFORMATION
-
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting and foregoing), we may be forced to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse your information that they collect from our Website. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications would always remain private.
-
-As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed:
-
-  1. **External Service Providers:** There may be a number of services offered by external service providers that help you use our Websites. If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their private policy.
-  2. **Other Corporate Entities:** We share much of our data, including personally identifiable information about you, with our parent and/or subsidiaries that are committed to serving your online needs and related services, throughout the world. Such data will be shared for the sole purpose of enhancing your browsing experience and providing our services to you. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other members. It is possible that We and/or its subsidiaries, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that we would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent that it occurs).
-  3. **Law and Order:** We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
-
-
-
-#### ACCESSING AND REVIEWING INFORMATION
-
-Following registration, you can review and change the information you submitted each time except your display name. If you change any information we may keep track of your old information. You can change your registration information such as: name, address, city, state, zip code, country, phone number, and profile.
-
-We will retain in our files information you have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
-
-#### CONTROL OF YOUR PASSWORD
-
-When you sign up to become a Member, you will also be asked to choose a password. You are entirely responsible for maintaining the confidentiality of your password. It is important that you protect it against unauthorized access of your account and information by choosing your password carefully, and keeping your password and computer secure by signing out after using our services.
-
-You agree not to use the account, username, email address or password of another Member at any time or to disclose your password to any third party. If you choose to share this information with third parties to provide you additional services, you are responsible for all actions taken with your login information and password and therefore should review each third party's privacy policy. You are responsible for all actions taken with your login information and password, including fees. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. You agree to notify us immediately if you suspect any consistent unauthorized use of your account or access to your password even after changing it.
-
-#### OTHER INFORMATION COLLECTORS
-
+  9. **CONFIDENTIALITY:  **You further acknowledge that the Website may contain information which is designated confidential by Us and that you shall not disclose such information without our prior written consent. Your information is regarded as confidential and therefore will not be divulged to any third party, unless if legally required to do so to the appropriate authorities. We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by us will only be in connection with the provision of agreed services, and you retain sole discretion to seek for discontinuation of such communications at any point of time.
+  10. **OTHER INFORMATION COLLECTORS:  **  
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Websites or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since we do not control the privacy policies of the third parties, you are subject to ask questions before you disclose your personal information to others.
+  11. **OUR DISCLOSURE OF YOUR INFORMATION:**  
+Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting and foregoing), we may be forced to disclose information to the government, law enforcement agencies or third parties. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications would always remain private. We do, however assure you that any and all disclosure of your personally identifiable information shall be personally intimated to you through an email sent to your provided email address.  
+As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed:  
+a. External Service Providers: There may be a number of services offered by external service providers that help you use our Websites. If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy.  
+b. Law and Order: We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
+  12. **ACCESSING, REVIEWING AND CHANGING YOUR PROFILE:**  
+Following registration, You can review and change the information You submitted at the stage of registration, except Email ID. An option for facilitating such change shall be present on the Website and such change shall be facilitated by the User. If You change any information, We may or may not keep track of Your old information. We will not retain in our files information you have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Such prior information shall be completely removed from our databases, including stored ‘back up’ systems. If you believe that any information we are holding on you is incorrect or incomplete, or to remove Your profile so that others cannot view it, the User needs to remediate, and promptly correct any such incorrect information. 
+  13. **CONTROL OF YOUR PASSWORD:**  
+When you sign up to become a Member, you will also be asked to choose a password. You are entirely responsible for maintaining the confidentiality of your password. It is important that you protect it against unauthorized access of your account and information by choosing your password carefully, and keeping your password and computer secure by signing out after using our services.  
+You agree not to use the account, username, email address or password of another Member at any time or to disclose your password to any third party. You are responsible for all actions taken with your login information and password, including fees. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. You agree to notify us immediately if you suspect any consistent unauthorized use of your account or access to your password even after changing it.
+  14. **SECURITY:**  
+We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the Company. We follow generally accepted industry standards to protect the Personal Information submitted to Us and information that we have accessed.
+  15. **SEVERABILITY:**  
+Each paragraph of this privacy policy shall be and remain separate from and independent of and severable from all and any other paragraphs herein except where otherwise expressly indicated or indicated by the context of the agreement. The decision or declaration that one or more of the paragraphs are null and void shall have no effect on the remaining paragraphs of this privacy policy.
+  16. **AMENDMENT** :  
+Our Privacy Policy may change from time to time. The most current version of the policy will govern our use of your information and will always be at the Website. 
+  17. **AUTOMATED DECISION MAKING?:  **  
+As a responsible company, we do not use automatic decision-making or profiling.
+  18. **CONSENT WITHDRAWAL, DATA DOWNLOAD & DATA REMOVAL REQUESTS?: **  
+To withdraw your consent, or to request the download or delete your data with us for any or all our products & services at any time, please email to _info@elearnmarkets.com_ from your registered email address.
+  19. **CONTACT US:**  
+If you have any questions or concerns regarding this privacy policy, you should contact us by sending an e-mail to _info@elearnmarkets.com_.
 
-#### SECURITY
 
-We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company.We do not recommend transfer of sensitive information (such as credit card number) and bank account details via the Site to other Users. Users are recommended to do so offline, on the phone or via personal emails. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once We receive it. However, "perfect security" does not exist on the Internet. You therefore agree that any security breaches beyond the control of our standard security procedures are at your sole risk and discretion.
-
-#### DISCLAIMER
-
-We cannot ensure that all of your private communications and other personal information (including sensitive information like credit card information and bank account number) will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.
-
-#### DISPUTES AND JURISDICTION
-
-All disputes involving but not limited to rights conferred, compensation, refunds, and other claims through this policy will be resolved through a two-step Alternate Dispute Resolution mechanism.
-
-  1. **Stage 1: Mediation.** In case of a dispute, the matter will first be attempted to be resolved by a sole mediator who is a neutral third party and will be selected at the mutual acceptance of a proposed mediator by both parties. Both parties may raise a name for sole arbitrator and in case both parties accept the proposed name, the said person shall be appointed as sole mediator. In any case the parties are not able to reach a consensus within two proposed mediators, the Company reserves the right to decide who the final mediator is. The decision of the mediator is not binding on both parties, however the parties in good faith will attempt to bind by the decision.
-  2. **Stage 2: Arbitration.** In case that mediation does not yield a result suitable or preferred by any one of the parties, arbitration may follow, the award of which is binding on both parties. The Arbitration Board shall comprise three members – one appointed by each party and the third member to be nominated by the two appointed members by mutual consent. Arbitration shall be held at Kolkata, India. The proceedings of arbitration shall be in the English language. The arbitrator’s award shall be final and binding on the Parties. If the dispute cannot be resolved by this two-step Alternate Dispute Resolution mechanism, it shall be referred to the courts at Kolkata, India.
-
-
-
-#### QUESTIONS AND SUGGESTIONS
-
-If you have any questions or concerns regarding this privacy policy, you should contact us by sending an e-mail to info@elearnmarkets.com
