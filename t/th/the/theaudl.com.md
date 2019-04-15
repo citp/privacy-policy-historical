@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaudl.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827224706id_/http%3A//theaudl.com/league/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaudl.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415205142id_/https%3A//www.theaudl.com/league/privacy) for the most accurate reproduction.*
 
 # League Privacy | AUDL
 
