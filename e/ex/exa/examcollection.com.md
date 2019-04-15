@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examcollection.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815092056id_/https%3A//www.examcollection.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examcollection.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415044659id_/https%3A//www.examcollection.com/privacy.html) for the most accurate reproduction.*
 
 # ExamCollection Privacy Policy
 
