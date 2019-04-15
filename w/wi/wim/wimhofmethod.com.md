@@ -1,48 +1,115 @@
-> *The following text is extracted and transformed from the wimhofmethod.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121013806id_/http%3A//www.wimhofmethod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimhofmethod.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415062051id_/https%3A//www.wimhofmethod.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Wim Hof Method
+# Privacy Policy | Wim Hof Method
 
-This privacy policy sets out how Innerfire BV/Wimhofmethod uses and protects any information that you give Innerfire BV when you use this website.
+_January 1, 2018_
 
-Innerfire BV is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Your privacy is of great importance to Innerfire B.V. Hence, we comply with privacy laws. This means that your data is always secure, and used responsibly. In this privacy statement we explain all the ways in which we utilize your personal information.
 
-Innerfire BV may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2012.
+If you have any questions, or would like to know exactly what data we track, please contact Innerfire B.V.
 
-**What we collect  
-**We may collect the following information:  
-name, surname and contact information including email address and, optionally, phone number.
+**Event signup**
 
-**What we do with the information we gather  
-**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+On our website you can sign up for events, where we use your personal information to process and register your application.
 
-Internal record keeping.  
-We may use the information to improve our products and services.  
-We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+For this we use your IP address, e-mail address, name, location, nationality and payment details. We need these because of the agreement we enter into with you. We hold on to this information until your course has been completed, and seven years thereafter (this is the mandatory statutory period for the retention of data).
 
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+**Web shop purchases**
 
-**Security  
-**We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure,we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+On our website you can purchase products, where we use your personal information to process and register your application.
 
-**How we use cookies  
-**A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+For this we use your IP address, e-mail address, billing address, name, physical address, phone number and payment details. We need these because of the agreement we enter into with you. We hold on to this information until your course has been completed, and seven years thereafter (this is the mandatory statutory period for the retention of data).
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+**Order processing**
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+When you place an order with us, we use your personal data to be able to handle this properly. We can give your personal data to our delivery service to have the order delivered to you. We also receive information about your payment from your bank or credit card company.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+For this we use your payment details, name, physical address, IP address, e-mail address, phone number and billing address. We need these because of the agreement we enter into with you. We hold on to this information until your course has been completed, and seven years thereafter (this is the mandatory statutory period for the retention of data).
 
-**Links to other websites  
-**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+**Supply to third parties**
 
-**Controlling your personal information  
-**You may choose to restrict the collection or use of your personal information in the following ways:
+We collaborate with certain companies, that can receive from us your heretofore mentioned personal information. An example would be the invoice we send with regard to your event. This is logged in our accounting system, the data of which is then shared with our accountant. You are entitled at all times to receive insight into what personal data we have stored, and with which parties this is being shared. See also the ‘Access, modification, and removal of your data’ section in this document.
 
-whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+**Your account**
 
-if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us using the "Support" link in the menu.
+For access to certain sections of our website you must first register. This involves entering personal information and selecting a username. This is used to create a user account, which you can log into with that username and a self-selected password.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+For this we use your name, physical address, e-mail address, billing address and IP address. This is in our legitimate interest. We hold on to this data until you terminate the user account.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect
+We store this data so that you need not enter your details anew with repeat visits, and to contact you more easily when necessary. You can change your personal information in your user account whenever you want.
+
+**Contact form and newsletter**
+
+With the contact form you can ask us questions or submit requests.
+
+For this we use your e-mail address, IP address and name. We do this with your consent. We hold on to this information until we are certain that you are happy with our response, and six months thereafter. This allows us to easily consult the information in the event of follow-up questions. It also allows us to improve our customer support service.
+
+You can subscribe to our newsletter. This has news, tips, and information about our products and services. You can cancel your subscription at any time. Every newsletter contains an unsubscribe link. Your e-mail address is added to the list of subscribers with your permission only. This data is stored until you cancel the subscription.
+
+**Advertisements**
+
+We would like to send you information about special events, offers and new products or services, always related to the Wim Hof Method. We do this:
+
+  * Via e-mail
+  * Via social media
+
+
+
+You can object to this service at any time. Every instance contains an explanation of how you can do this. Every e-mail contains an unsubscribe link. You can block us or use the unsubscribe option. You can indicate this when you are contacted by phone. You can also do this via your user account, or the portal.
+
+**Distribution to other companies or institutions**
+
+With the exception of user data acquired via application for events and web shop orders, under no circumstances do we give out your personal information to other companies or institutions, unless legally required to do so (for example when demanded by the authorities in case of a suspected crime).
+
+**Cookies**
+
+Our website uses cookies. Cookies are small files that allow us to store data so that you don’t need to keep filling out the same details upon repeat visits. It also allows us to see that you have visited us before.
+
+When you visit our website for the first time, we display a notification explaining the use of cookies. By using our website, you agree to our use of these cookies.
+
+You can disable cookies in your browser settings, but this does mean that some features of our website will not function properly.
+
+We have entered into agreements with companies that store cookies, about the use of these cookies. However, we do not have full control over what they do with these cookies. Make sure to also read their privacy statements.
+
+**Google Analytics**
+
+We use Google Analytics to track how visitors use our website. We have entered into a processing contract with Google. This contains strict stipulations on what they are allowed to track. We allow Google to use the acquired Analytics data for other Google services. We have Google anonymize the IP addresses.
+
+**Security**
+
+Security of personal data is of great importance to us. We make sure that your personal information is well secured. We continually update the security and keep a careful eye on potential gaps.
+
+**Changes to this privacy statement**
+
+When changes are made to our website, we must of course also adjust the privacy policy. Make sure to always note the date at the top, and routinely check for new versions. We will try our best to expressly announce changes.
+
+**Access, modification, and removal of your data**
+
+If you have any questions or would like to know what personal information we have stored, feel free to contact us. See contact details below.
+
+You have the following rights:
+
+  * Receive an explanation on what personal information we have stored, and what we do with it
+  * Access to the exact personal information we have
+  * Have errors corrected
+  * Have outdated personal information removed
+  * Withdrawal of consent
+  * Object to certain usage
+
+
+
+Make sure to always clearly state your identity, so that we do not inadvertently change or remove other people’s data.
+
+**Filing a complaint**
+
+If you find our service unsatisfactory, you have the right to file a complaint with the supervisor. This is the Dutch Data Protection Authority.
+
+**Contact details**
+
+Innerfire B.V.  
+Willem de Zwijgerlaan 350  
+1055 RD Amsterdam
+
+support@wimhofmethod.com
+
+CRN 62594044
