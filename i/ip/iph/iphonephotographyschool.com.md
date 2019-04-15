@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonephotographyschool.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908210846id_/https%3A//iphonephotographyschool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonephotographyschool.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415175256id_/https%3A//iphonephotographyschool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone Photography School
 
