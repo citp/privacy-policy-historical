@@ -1,77 +1,71 @@
-> *The following text is extracted and transformed from the synchrony.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818045626id_/http%3A//www.synchrony.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synchrony.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415175933id_/https%3A//www.synchrony.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Internet Privacy Policy
 
-This Synchrony® privacy policy (the "Privacy Policy"), along with our [Terms of Use](http://synchrony.godfrey.com/terms-conditions.aspx), describes how Synchrony, Inc, via the www.synchrony.com web site (referenced herein as the "Site", "Synchrony", "we" or "us") collects and uses personal information that you decide to share by visiting the Site. This Privacy Policy also is designed to help you make informed decisions about how to use the Site and the services it offers. By visiting the Site and using the services available via the Site, you are accepting the practices described in this Privacy Policy. 
+Home [ ](https://www.synchrony.com/ "Home")
 
-Please note that we reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the Site after notice of changes have been sent to you or published on the Site, you consent to such changes.
+##  Internet Privacy Policy 
 
-For the purposes of this Privacy Policy, we use the term "post" to mean the following: filling out the fields in a registration page; commenting on posts or other content supplied by Synchrony or by other visitors to the Site; or uploading materials to any other place or page within the Site.
+###  Effective July 2014 
 
-To report any violations of the Privacy Policy or to pose any questions or express any concerns, please contact us at [information@synchrony.com](mailto:information@synchrony.com?subject=Web%20site%20Privacy%20Policy).
+Synchrony is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this site. Please read this Internet Privacy Policy carefully before using this site. This Internet Privacy Policy currently is applicable only to Synchrony’s United States customers and visitors and only when they access and use this site, and may not be applicable to transactions performed and information collected in channels other than this site. This site is not directed to or intended for individuals under 18 years of age.
 
-**THE INFORMATION THAT WE COLLECT**  
-When you visit the Site you provide us with two types of information: web site usage information that is collected by us as you interact with the Site and personal information that you knowingly choose to disclose as part of your use of the Site.
+This Internet Privacy Policy describes the types of information Synchrony collects from visitors to this site, what we do with this information and how visitors can update and control the use of information they provide on the site. This statement applies solely to information that visitors provide through our site. This Internet Privacy Policy does not apply to other data we collect, including data collected on other sites, such as separate sites operated by our Affiliates or business partners or other information visitors may provide to us through other means.
 
-  
-Cookies and Web Logs. When you enter the Site as a visitor, we may collect your browser type and IP address. In addition, we may store certain information from your browser using "cookies." A cookie is a data file containing a string of characters that uniquely identifies your browser and is stored on your computer. We may use cookies to improve the quality of our service by storing user preferences, personalization features and other information about the user. You can remove or block cookies using the settings in your browser if you want to disable this convenience feature. In addition, our web logs automatically record information that your browser sends whenever you visit a website. These web server logs may include information such as the URL the web page you have requested, your IP address, your browser type, your browser language, the date and time of your request to be served certain page and one or more cookies that may uniquely identify your browser. We may also record information about the URL from which you came to the Site if the associated web site contained a direct link to the Site.
+Please read this policy carefully.
 
-  
-Registration Information. When fill out a registration page in order to seek information about our products or services, post comments on the blog, or take advantage or other features of the Site that require registration, you provide certain personal information that we request as part of the registration process, such as your name, your email address, your company name, your company's physical address and your telephone number.
-
-Visitor Content. You may have the ability to post content and/or post comments or other information within the Site. We collect and retain the information that you provide through these activities so that we can operate the service. Please understand that you post content on the Site at your own risk.
-
-By using the Site, you are consenting to have your personal data transferred to and processed in the United States. 
-
-**SEARCH ENGINES AND OTHER SITES**
-
-Search engines and other sites not affiliated with Synchrony - including archive.org, google.com, and groups.yahoo.com - archive or otherwise may crawl the Site and make available to the public postings and other content from the Site.
-
-**CHILDREN UNDER AGE 13**
-
-Synchrony does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Site or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Site. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
-
-**USE OF INFORMATION OBTAINED BY SYNCHRONY**
-
-When you register with the Site you have the option to make certain choices as to how and when Synchrony may contact you. Information in your registration profile that you choose to include is used only by Synchrony for its own internal purposes. We may use your name and email address to send you notifications regarding new products or services offered by Synchrony, industry updates and other developments that we think you might be interested in learning about. You always have the ability to opt out of receiving such communications and/or to delete your information by (a) replying to an e-mail and placing "Delete me from your list" in the re: line; or (b) contacting privacy@synchrony.com and requesting the deletion of your e-mail address from Synchrony's e-mail list.
-
-  
-Synchrony may use information about you or your movement or activities within the Site in an anonymous, aggregate manner that does not disclose your identity or any personally identifiable information for purposes of determining how the Site is being used and improving the Site's content and/or performance.
-
-**DISCLOSURE OF INFORMATION**
-
-Synchrony does not sell or otherwise share your personal information with third parties for marketing, sales or other purposes. Synchrony shares your information with third parties only in the limited circumstances described below, in which Synchrony believes that such disclosure is reasonably necessary to provide the service, legally required or permitted by you.
-
-  * Synchrony may provide information to Synchrony's own service providers to help us operate the Site and to provide the services to you that are offered through the Site. This type of sharing may include disclosures to third parties who host the Site, help deliver e-mail updates or otherwise provide back-end services. These providers will only be able to use such information subject to Synchrony's rights to do so and only for purposes of performing the services that Synchrony contracts with them to provide on Synchrony's behalf.
-  * Synchrony may be required to disclose personal information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information unless we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards.
-  * Additionally, we may share personal information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Site, or to prevent imminent harm to any person or group of people. This may include sharing information with other companies, lawyers, agents or government agencies.
-  * If ownership of all or substantially all of the Synchrony business were to change, your registration information may be transferred to the new owner so that the Site can continue to operate. In any such transfer of information, your information would remain subject to the promises made in any pre-existing privacy policy.
+  * INFORMATION COLLECTED
+  * USE OF COLLECTED INFORMATION
+  * OUR SECURITY PROCEDURES
+  * YOUR ACCESS TO INFORMATION
+  * LINKS TO OTHER SITES
+  * INTERNATIONAL USERS
+  * CHANGES TO THIS POLICY
 
 
 
-**LINKS**
+####  INFORMATION COLLECTED 
 
-The Site may contain links to other websites. Synchrony is not responsible for the content or privacy practices of other web sites. Synchrony encourages its visitors to be aware when they leave the Site and to read the privacy statements of each website they visit.
+There are portions of this site where we may need to collect personally identifiable information about you (such as your address, phone number and other information) for identification purposes or to fulfill your online requests. We may obtain information about you directly from you, through your use of our products and services and from third parties (such as credit bureaus and demographic firms). Any use by us of your personal information will be pursuant to the privacy policy provided to you in connection with your account with us.
 
-**CHOICES AND ACCESS TO INFORMATION**
+In addition, when you visit our site, our Web servers collect the name of the domain you used to access the Internet (such as aol.com), which pages on our site you visited and when they were visited, your Internet browser type and platform, the link that brought you to our site and any links clicked within our site. This information may be used by us, our service providers, affiliates and business partners to measure the number of visits, average time spent, page views and other statistics about visitors to our site. We also use this data to monitor site performance and make the site easier and more convenient to use.
 
-  * You can choose not to provide registration information, even though it might be needed to take advantage of certain features of the Site.
-  * You can have your information deleted and/or remove your information from our e-mail list by notifying Synchrony of such request at privacy@synchrony.com.
-  * The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+Our Web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again in order to track statistical information about navigation to and throughout certain areas of our site and to promotions on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our site, and is not shared with anyone other than Synchrony affiliates and contractors who assist Synchrony in these efforts and who are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed.
 
+We may use a third-party technology to place our advertisements on other Web sites. This technology will install a small "cookie" file on your computer when you view our ad. These cookies will not contain any information that personally identifies you (such as your name or e-mail address) but they will contain a randomly generated number that is unique to your browser and can be recognized by a "Web beacon" (transparent GIF file) on our site if you click through to our site from one of our ads. This allows us to keep track of how many unique visitors we have to our site and from what ads they entered, so that we can measure the effectiveness of our ads and ad placements. The privacy policies of the Web sites on which we advertise, and through which the cookies are installed should inform you about the cookie, and you may of course set your browser to reject cookies.
 
+When you connect to us using a mobile application, we may use cookies or Web beacons and other methods to customize your browsing experience. If you use any location-enabled products, you may be sending us location information. Synchrony does not store or use this information other than to provide the service you requested. For example, a mobile product may use GPS data to find a nearby retail location. Location-enabled features are opt-in and you have control over your participation and can turn these services off at any time.
 
-**SECURITY**
+Some mobile applications will utilize analytic tools to help us better serve our customers through improved products, services, and revisions to the mobile applications. This collected information does not include personally identifiable information and will not identify you to Synchrony. It may, however let us know, anonymously, which services and features you are using the most within the application, as well as device type and hardware features, country and language of download.
 
-Synchrony is committed to protecting the security of your personal information. We use a variety of up-to date security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store any personal information you provide on computer systems with limited access. These systems are located in controlled facilities. When we transmit highly confidential information over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+In connection with the California Online Privacy Protection Act we are advising you that we do not respond to browser do-not-track signals. All information on who we share your data with and your choices are discussed in this Internet Privacy Policy.
 
-  
-However, you should keep in mind that no Internet communication is ever completely secure or error-free.
+This Web site is not intended for persons under 18 years of age. We do not knowingly solicit or collect personal information from or about children under 18 and we do not knowingly market our products or services to children under 18.
 
-  
-**TERMS OF USE, NOTICE AND REVISIONS**
+####  USE OF COLLECTED INFORMATION 
 
-Your use of the Site, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+We may use information you provide us through this site to respond to your questions and requests; provide customer support or to provide specified services to you. Additionally, we may use the information you provide to contact you about updates to our service. We have account-specific privacy policies that we provide in connection with active accounts annually. Any personal information we collect on this Web site may be shared pursuant to the account-specific privacy policy that governs your Synchrony online banking account which may include service providers, financial institutions with whom we jointly offer financial products, our affiliates, third parties who are interested in offering special products or services to you or as permitted or required by law (such as credit bureau agencies, business we buy or sell assets from, and law enforcement or government agencies). If you have provided us personally identifiable information in connection with a consumer product or service offered by Synchrony or Synchrony online banking on this site, please refer to the privacy policy covering such product or service provided with the disclosures for such product or service to review any opt-out options you may have relating to the sharing of your personal information.
 
-  
-If you have any questions about this Privacy Policy, you may contact Synchrony at [information@synchrony.com](mailto:information@synchrony.com?subject=Web%20site%20Privacy%20Policy) or by writing to us at Privacy Matters, c/o Synchrony, Inc., 4655 Technology Drive, Salem, Virginia 24153.
+####  OUR SECURITY PROCEDURES 
+
+At Synchrony our goal is to protect your personal information submitted to us through this site. We maintain reasonable physical, electronic, and procedural safeguards that comply with federal standards to guard nonpublic personal information about you against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you have provided to us on this site. We limit access to personal and account information to those employees and agents who assist us in providing products and services to you. Employees who misuse customer information are subject to disciplinary action. We also require third parties to whom we disclose nonpublic personal information to adhere to this Internet Privacy Policy and to establish information security procedures.
+
+Please note that information you send to us electronically is not necessarily secure when it is transmitted to us. We suggest that you do not use unsecured electronic methods to communicate with us if your communication is very sensitive or includes highly confidential information such as a Social Security Number ("SSN") or a credit card number.
+
+Synchrony strives to protect the confidentiality and security of SSNs in our possession, custody or control by employing reasonable safeguards seeking to: (i) restrict employee access to and use of SSNs; (ii) prevent unauthorized third-party access to the SSNs; and (iii) prohibit unlawful disclosure of SSNs.
+
+####  YOUR ACCESS TO INFORMATION 
+
+If you do business with us, we provide you access to information about your Synchrony online banking issued account(s) by sending you monthly periodic statements outlining your transactions and other account information, and by providing customer service representatives to answer your questions. You may review and update your personal information that you provide to us through the e-servicing Web site of our specific products.
+
+####  LINKS TO OTHER SITES 
+
+This Internet Privacy Policy only applies to the use and disclosure of information we collect from visitors online through this site. Our Web site may contain links to other sites such as other Synchrony online banking sites and sites belonging to our business partners (who are not affiliated with us). While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. Information you disclose to other parties or through such sites is subject to the privacy practices and policies of those parties or sites.
+
+####  INTERNATIONAL USERS 
+
+This is a United States-based site that is subject to United States law. This site is controlled, operated and administered by Synchrony from its offices within the United States of America. This Internet Privacy Policy is provided in accordance with and subject to applicable U.S. law. If you decide to continue to access this site from your location outside the United States, you hereby agree that your use of this site is subject to this Internet Privacy Policy.
+
+####  CHANGES TO THIS POLICY 
+
+We reserve the right to modify or supplement this Internet Privacy Policy at any time. If we make any material change, we will update our site to include such changes. We recommend that you review this Internet Privacy Policy regularly for changes.
