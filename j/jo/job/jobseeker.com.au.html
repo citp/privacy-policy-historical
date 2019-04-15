@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the jobseeker.com.au privacy policy that was archived on 2018-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181118142359id_/https%3A//au.jora.com/cms/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobseeker.com.au privacy policy that was archived on 2019-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190415183141id_/https%3A//au.jora.com/cms/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><title>Jora</title><meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="b0hYyV6cMjwYQ8xEORMxJbQiaTaodjqQx7JoeKnyu23y9WVABSe0d1xgbO89pjEe2UpGLeuoJuz40z9CGARrdg=="><script type="text/javascript" async="" src="https://jobseeker-sjc.gravityrd-services.com/js/jobseeker/gr_reco4-min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDQ5P6"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>window.JobEngine = window.JobEngine || {};</script><script>if (window.PerformanceObserver) {
+<meta name="csrf-token" content="863HZR5R9c3/RhgRlzn69yJm8pNBV6fnuB6tq1OUMof3zomueyCPV2uTbIh7PRO6qdrC2P9zBLuGJBiiA74aug=="><script type="text/javascript" async="" src="https://jobseeker-sjc.gravityrd-services.com/js/jobseeker/gr_reco4-min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDQ5P6"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>window.JobEngine = window.JobEngine || {};</script><script>if (window.PerformanceObserver) {
   const observer = new PerformanceObserver((list) => {
     const firstPaintEvents = {};
       for (const entry of list.getEntries()) {
@@ -10,25 +10,29 @@
         const time = Math.round(entry.startTime + entry.duration);
         firstPaintEvents[entry.name] = time;
       }
-
+      const refererDomain = document.referrer.length > 0 ? document.referrer.split('/')[2] : '';
       const data = {
         first_paint_time: firstPaintEvents['first-paint'] || 0,
         first_contentful_paint_time: firstPaintEvents['first-contentful-paint'] || 0,
         url: window.location.href,
         user_agent: navigator.userAgent,
-        network_type: navigator.connection.effectiveType
+        network_type: navigator.connection.effectiveType,
+        referer_domain: refererDomain
       };
 
+      const csrfToken = document.querySelector("head > meta[name=csrf-token]");
       const xhr = new XMLHttpRequest();
       xhr.open('POST', '/rpc/tracking/first_paint');
       xhr.setRequestHeader('Content-Type', 'application/json');
+      if(csrfToken)
+        xhr.setRequestHeader('X-CSRF-Token', csrfToken.content);
       xhr.send(JSON.stringify({'data': data}));
     });
 
   try {
     observer.observe({entryTypes: ['paint']});
   } catch {}
-}</script><link rel="stylesheet" media="screen" href="//cdn1.jora.com/assets/application-84946d80bac1059d30e7439c35969f96.css"><link rel="shortcut icon" type="image/x-icon" href="//cdn1.jora.com/assets/favicon-917d1b92b8c265f59a73467437e68b8b.ico"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+}</script><link rel="stylesheet" media="screen" href="/assets/application-0d7324683b5841de76b5805156c814dc91bff1437674e7cb2af4be55d19839ad.css"><link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-9566be5a9b0b049eac78de57f254dcf35024351b7e1f730e8939647b6657ee6e.ico"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
@@ -103,15 +107,16 @@ OneSignal.push(function() {
 
   promise
     .then(function() {
-      OneSignal.sendTag('jora_user_id', 'hPx3gKcJybgSr7-PHvo9')
+      OneSignal.sendTag('jora_user_id', 's8oaD-V57Lss8wxLQk8Q')
     })
     .catch(function(ex) {
       if (ga) {
         ga('send', 'event', 'webPush', 'initializationFailed', { nonInteraction: true })
       }
     })
-})</script></head><body class="site-au one_col"><div id="new_top_nav"><div class="row"><div class="col-2"><div id="logoc"><a href="/" id="logo" title="Jora"><img title="Jora" src="//cdn1.jora.com/assets/au/logo-cbcce70d94f192d47455bc32dfe51c6f.png" alt="Logo"></a></div></div><div class="col-7"><form action="/j" class="header_search_form new" data-ga-label="desktop_serp_header" data-widget="SearchFormWidget" method="get"><table><tbody><tr><td><span class="what-where">what:</span></td><td><span class="what-where">where:</span></td></tr><tr><td><input type="text" name="q" id="q" value="" maxlength="512" placeholder="job title, keywords or company" data-widget="AutoCompleteWidget" data-url="/rpc/search_keywords/suggest"></td><td><input type="text" name="l" id="l" value="" maxlength="64" placeholder="city, state or postcode" data-widget="AutoCompleteWidget" data-url="/rpc/search_locations/suggest"></td><td><button name="button" type="submit" class="button" id="fj"><span><i class="jora-icon-search"></i></span></button><input type="hidden" name="sp" id="sp" value="cms_content"></td></tr></tbody></table></form></div></div><div class="new" id="account"><div class="account-nav"><ul><li><a class="text-link post-job" href="https://employer.jora.com?cc=AU">Post Job <strong>free</strong></a></li><li class="more-menus-toggle"><a class="text-link more-menus-link" data-dropdown="more-menus" href="#"><span><i class="jora-icon-grid" style="font-size:16px"></i></span></a><ul class="dropdown-menu" id="more-menus"><li><a class="link_resume" target="_blank" data-gtm="upload-resume" href="https://apply.jora.com/resume_upload/new?cc=AU">post resume</a></li></ul></li><li><a class="login button secondary" rel="nofollow" data-dropdown="header-login-widget" href="/login">Log in</a><div class="dropdown-menu" id="header-login-widget"><div class="login-widget" data-widget="LoginWidget"><div class="social-login-container"><a class="facebook-login button facebook block" data-gtm="start-auth" rel="nofollow" href="/users/auth/facebook"><i class="jora-icon-facebook-official"></i><span>Log in with Facebook</span></a><a class="google-login button google block" data-gtm="start-auth" rel="nofollow" href="/users/auth/google_oauth2"><img class="icon" src="//cdn1.jora.com/assets/google-g-bb92a1d23f2e632e28dd3dfc30b42d00.svg" alt="Google g"><span>Log in with Google</span></a><div class="social-error hidden">Sorry we are unable to retrieve your email from Facebook. Please use the link below to sign up with email.</div></div><div class="login-email-container"><form class="login-form" novalidate="novalidate" id="new_user" action="/users/sign_in" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓"><input value="true" type="hidden" name="user[remember_me]" id="user_remember_me"><input autofocus="autofocus" placeholder="Email" type="email" name="user[email]" id="user_email"><input placeholder="Password" type="password" name="user[password]" id="user_password"><div class="error-message"></div><input type="submit" name="commit" value="Log in with email" class="button login-button" data-gtm="start-auth"><div class="consent-statement">By logging into your account, you agree to Jora's <a href="/cms/terms-of-service">Terms of Service</a> and <a href="/cms/privacy">Privacy Statement</a>.</div><a class="sign-up-link" rel="nofollow" data-gtm="start-auth" href="/users/sign_up?return_to=https%3A%2F%2Fau.jora.com%2Fcms%2Fprivacy">sign up</a><a href="/users/password/new">Forgot your password?</a><a href="/users/confirmation/new">Didn't receive confirmation instructions?</a></form></div><div class="loading panel"><p><span><i class="jora-icon-refresh"></i></span>Logging in…</p></div><div class="refreshing panel"><p><span><i class="jora-icon-refresh"></i></span>Reloading page…</p></div></div></div></li></ul></div></div></div><div id="main"><div class="row"><div class="col-14 col-offset-2" id="centre_col"><div class="message_container hidden"></div><div id="cms_content">
-  <div class="left"><ul id="vertical_nav"><li><a href="/cms/about">About us</a></li><li><a href="/cms/contact">Contact us</a></li><li><a href="/cms/search-tips">Search tips</a></li><li><a href="/cms/faq">FAQ</a></li><li><a href="/cms/terms-of-service">Terms of Service</a></li><li><a href="/cms/privacy">Privacy Statement</a></li><li><a href="/cms/partner-sites">Partner Sites</a></li><li><a href="/cms/advertising-terms-of-use">Advertising Terms of Use</a></li></ul></div>
+})</script></head><body class="site-au one_col"><div id="new_top_nav"><div class="row"><div class="col-2"><div id="logoc"><a href="/" id="logo" title="Jora"><img title="Jora" src="/assets/au/logo-c2c078e7ec2bb52b6bb1ae510aa1385c31bd3b30919a5f604d43a34a72ce0ded.png" alt="Logo"></a></div></div><div class="col-7"><form action="/j" class="header_search_form new" data-ga-label="desktop_serp_header" data-widget="SearchFormWidget" method="get"><table><tbody><tr><td><span class="what-where">what:</span></td><td><span class="what-where">where:</span></td></tr><tr><td><input type="text" name="q" id="q" value="" maxlength="512" placeholder="job title, keywords or company" data-widget="AutoCompleteWidget" data-url="/rpc/search_keywords/suggest"></td><td><input type="text" name="l" id="l" value="" maxlength="64" placeholder="city, state or postcode" data-widget="AutoCompleteWidget" data-url="/rpc/search_locations/suggest"></td><td><button name="button" type="submit" class="button" id="fj"><span><i class="jora-icon-search"></i></span></button><input type="hidden" name="sp" id="sp" value="cms_content"></td></tr></tbody></table></form></div></div><div class="new" id="account"><div class="account-nav"><ul><li><a class="text-link post-job" href="https://employer.jora.com?cc=AU">Post Job <strong>free</strong></a></li><li class="more-menus-toggle"><a class="text-link more-menus-link" data-dropdown="more-menus" href="#"><span><i class="jora-icon-grid" style="font-size:16px"></i></span></a><ul class="dropdown-menu" id="more-menus"><li><a class="link_resume" target="_blank" data-gtm="upload-resume" href="https://apply.jora.com/resume_upload/new?cc=AU">post resume</a></li></ul></li><li><a class="login button secondary" rel="nofollow" data-dropdown="header-login-widget" href="/login">Log in</a><div class="dropdown-menu" id="header-login-widget"><div class="login-widget" data-widget="LoginWidget"><div class="social-login-container"><a class="facebook-login button facebook block" data-gtm="start-auth" rel="nofollow" href="/users/auth/facebook"><i class="jora-icon-facebook-official"></i><span>Log in with Facebook</span></a><a class="google-login button google block" data-gtm="start-auth" rel="nofollow" href="/users/auth/google_oauth2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="icon"><path fill="#ffffff" d="M7 11v2.4h3.97c-.16 1.029-1.2 3.02-3.97 3.02-2.39 0-4.34-1.979-4.34-4.42 0-2.44 1.95-4.42 4.34-4.42 1.36 0 2.27.58 2.79 1.08l1.9-1.83c-1.22-1.14-2.8-1.83-4.69-1.83-3.87 0-7 3.13-7 7s3.13 7 7 7c4.04 0 6.721-2.84 6.721-6.84 0-.46-.051-.81-.111-1.16h-6.61zm0 0 17 2h-3v3h-2v-3h-3v-2h3v-3h2v3h3v2z" fill-rule="evenodd" clip-rule="evenodd"></path></svg>
+<span>Log in with Google</span></a><div class="social-error hidden">Sorry we are unable to retrieve your email from Facebook. Please use the link below to sign up with email.</div></div><div class="login-email-container"><form class="login-form" novalidate="novalidate" id="new_user" action="/users/sign_in" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓"><input value="true" type="hidden" name="user[remember_me]" id="user_remember_me"><input autofocus="autofocus" placeholder="Email" type="email" name="user[email]" id="user_email"><input placeholder="Password" type="password" name="user[password]" id="user_password"><div class="error-message"></div><input type="submit" name="commit" value="Log in with email" class="button login-button" data-gtm="start-auth"><div class="consent-statement">By logging into your account, you agree to Jora's <a href="/cms/terms-of-service">Terms of Service</a> and <a href="/cms/privacy">Privacy Statement</a>.</div><a class="sign-up-link" rel="nofollow" data-gtm="start-auth" href="/users/sign_up?return_to=https%3A%2F%2Fau.jora.com%2Fcms%2Fprivacy">sign up</a><a href="/users/password/new">Forgot your password?</a><a href="/users/confirmation/new">Didn't receive confirmation instructions?</a></form></div><div class="loading panel"><p><span><i class="jora-icon-refresh"></i></span>Logging in…</p></div><div class="refreshing panel"><p><span><i class="jora-icon-refresh"></i></span>Reloading page…</p></div></div></div></li></ul></div></div></div><div id="main"><div class="row"><div class="col-14 col-offset-2" id="centre_col"><div class="message_container hidden"></div><div id="cms_content">
+  <div class="left"><ul id="vertical_nav"><li><a href="/cms/about">About us</a></li><li><a href="/cms/contact">Contact us</a></li><li><a href="/cms/search-tips">Search tips</a></li><li><a href="/cms/faq">FAQ</a></li><li><a href="/cms/terms-of-service">Terms of Service</a></li><li><a href="/cms/privacy">Privacy Statement</a></li><li><a href="/cms/partner-sites">Partner Sites</a></li><li><a href="/cms/advertising-terms-of-use">Advertising Terms of Use</a></li><li><a href="/cms/get-your-feed-included-on-jora">Get your feed included on Jora</a></li></ul></div>
   <div class="right"> <h2>Jora's commitment to maintaining your privacy</h2>
 <p>This Privacy Statement has been prepared by Job Seeker Pty Ltd (“<strong>Jora</strong>”). Jora owns and operates the website located at <a href="https://au.jora.com/">jora.com</a> (across desktop, mobile, tablet and apps and including any subdomains) (“<strong>the Site</strong>”). This Privacy Statement discloses our information gathering and dissemination practices for the Site.
 </p>
@@ -299,13 +304,13 @@ Registered Users or Advertisers are being referred to.
 </div>
 <div class="clearfix"></div>
 
-</div></div></div><div id="footer"><div id="bottom_nav" style="text-align: center;"><div style="margin-bottom: 20px"><a href="/findjobs">Browse Jobs</a><span class="separator"> - </span><a href="/popular-searches">Popular Searches</a><span class="separator"> - </span><a href="/cms/about">About</a><span class="separator"> - </span><a href="/blog/">Blog</a><span class="separator"> - </span><a rel="nofollow" href="/cms/faq">FAQ</a><span class="separator"> - </span><a rel="nofollow" href="/cms/privacy">Privacy</a><span class="separator"> - </span><a href="/cms/partner-sites">Partner Sites</a></div><p style="font-size: smaller;">©2018 Job Seeker Pty Ltd</p></div></div><script>window.fbAsyncInit = function() {
+</div></div></div><div id="footer"><div id="bottom_nav" style="text-align: center;"><div style="margin-bottom: 20px"><a href="/findjobs">Browse Jobs</a><span class="separator"> - </span><a href="/popular-searches">Popular Searches</a><span class="separator"> - </span><a href="/cms/about">About</a><span class="separator"> - </span><a href="/blog/">Blog</a><span class="separator"> - </span><a rel="nofollow" href="/cms/faq">FAQ</a><span class="separator"> - </span><a rel="nofollow" href="/cms/privacy">Privacy</a><span class="separator"> - </span><a href="/cms/partner-sites">Partner Sites</a><span class="separator"> - </span><a href="/reviews">Reviews</a></div><p style="font-size: smaller;">©2019 Job Seeker Pty Ltd</p></div></div><script>window.fbAsyncInit = function() {
   FB.init({appId:'1692608987648350', status:true, cookie:true, xfbml:true, version:'v2.9'});
 };
 window.gpAsyncInit = function() {
   gClientId = '885858900459-brkqupvgveh09h9c0avvg96sb5u8se1a.apps.googleusercontent.com';
 };</script><script>window.JobEngine || (window.JobEngine = {});
-JobEngine.i18n_locale = "en";</script><script src="//cdn1.jora.com/assets/application-39ede7032ddd14f75b25fddd3f262607.js"></script><noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KDQ5P6" style="display:none;visibility:hidden" width="0"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+JobEngine.i18n_locale = "en";</script><script src="/assets/application-5d7c7f0b837afc7d7ecf8b785ac42463e8a1b1dd7f54f0a6a49dbb443927ff66.js"></script><noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KDQ5P6" style="display:none;visibility:hidden" width="0"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -316,51 +321,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gr.src = document.location.protocol + '//jobseeker-sjc.gravityrd-services.com/js/jobseeker/gr_reco4-min.js';
   var s = document.getElementsByTagName('script')[0];
   s.parentNode.insertBefore(gr, s);
-  })();</script><script>/* <![CDATA[ */
-
-goog_set_adsense_conversion_label = function() {
-  window.google_conversion_label = "lk-ZCLiW1GQQy9-T_QM";
-};
-
-goog_set_sponsored_ads_conversion_label = function() {
-  window.google_conversion_label = "RcazCPiIzWQQy9-T_QM";
-};
-
-goog_snippet_vars = function() {
-  var w = window;
-  w.google_conversion_id = 1067773899;
-  w.google_remarketing_only = false;
-}
-
-// DO NOT CHANGE THE CODE BELOW.
-goog_report_conversion = function(url) {
-  goog_snippet_vars();
-  window.google_conversion_format = "3";
-  var opt = new Object();
-  opt.onload_callback = function() {
-    // Do not redirect current serp page.
-    // if (typeof(url) != 'undefined') {
-    //   window.location = url;
-    // }
-  }
-  var conv_handler = window['google_trackConversion'];
-  if (typeof(conv_handler) == 'function') {
-    conv_handler(opt);
-  }
-}
-
-goog_report_conversion_adsense = function(url) {
-  goog_set_adsense_conversion_label();
-  goog_report_conversion(url);
-}
-
-goog_report_conversion_sponsored_ads = function(url) {
-  goog_set_sponsored_ads_conversion_label();
-  goog_report_conversion(url);
-}
-
-$('body').on('click', '#sponsoredresults a.jobtitle', function(e) {
-  goog_report_conversion_sponsored_ads($(e.currentTarget).attr('href'));
-});
-
-/* ]]> */</script><script src="//www.googleadservices.com/pagead/conversion_async.js" async="async"></script></body></html>
+  })();</script></body></html>
