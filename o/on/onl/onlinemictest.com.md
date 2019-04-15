@@ -1,8 +1,23 @@
-> *The following text is extracted and transformed from the onlinemictest.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304173947id_/https%3A//www.onlinemictest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemictest.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415235435id_/https%3A//www.onlinemictest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Mic Test
 
-## Privacy Policy:
+### Advertising Privacy Statement
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+  
+
+
+### For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at **ilanflint@gmail.com** and contact AdThrive at **info@adthrive.com**. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
+
+## General Privacy Policy:
 
 Online Mic Test (" **Online Mic Test** ") operates onlinemictest.com and may operate other websites. It is Online Mic Test's policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -14,7 +29,7 @@ Online Mic Test also collects potentially personally-identifying information lik
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Online Mic Test's websites choose to interact with Online Mic Test in ways that require Online Mic Test to gather personally-identifying information. The amount and type of information that Online Mic Test gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [onlinemictest.com](https://www.onlinemictest.com/) to provide a username and email address. Those who engage in transactions with Online Mic Test are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Online Mic Test collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Online Mic Test. Online Mic Test does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Online Mic Test's websites choose to interact with Online Mic Test in ways that require Online Mic Test to gather personally-identifying information. The amount and type of information that Online Mic Test gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [onlinemictest.com](https://web.archive.org/) to provide a username and email address. Those who engage in transactions with Online Mic Test are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Online Mic Test collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Online Mic Test. Online Mic Test does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
