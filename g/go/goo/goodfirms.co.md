@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodfirms.co privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111192222id_/https%3A//www.goodfirms.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodfirms.co privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415192756id_/https%3A//www.goodfirms.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of GoodFirms
 
