@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tapclicks.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209203504id_/https%3A//www.tapclicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapclicks.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415102218id_/https%3A//www.tapclicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TapClicks
 
 TapClicks, Inc. (“TapClicks,” “we,” or “us”) cares about your privacy. This Privacy Policy explains how information about you is collected and used by TapClicks. By using the TapClicks websites, products, services, mobile apps (“app(s)”), and applications (collectively, “Services”), you agree to the TapClicks Privacy Policy.
 
-IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICES.  
+IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICES.
 
-TapClicks reserves the right to modify this Privacy Policy at any time, and we encourage you to review it frequently. Modifications will be posted to the Privacy Policy on the TapClicks website. If we make any material changes, we will notify you by means of notice on the website when a change is made. Your continued use of the Services signifies your acceptance of our Privacy Policy as modified.
+TapClicks reserves the right to modify this Privacy Policy at any time, and we encourage you to review it frequently. Modifications will be posted to the Privacy Policy on the TapClicks website. If we make any material changes, we will notify you by means of notice on the website when a change is made. Your continued use of the Services signifies your acceptance of our Privacy Policy as modified.
 
 ### **Information We Collect**
 
-We collect information to improve our Services and to provide better experiences to all of our users. TapClicks collects both personal information and non-personal information.  
+We collect information to improve our Services and to provide better experiences to all of our users. TapClicks collects both personal information and non-personal information.
 
 “Personal Information” is information that can be used to identify, locate, or contact an individual. It also includes other information that may be associated with Personal Information.
 
@@ -23,7 +23,7 @@ We collect the following types of Personal Information:  
 
 “Non-Personal Information” is information that, alone, cannot be used to identify or contact you. Such Non-Personal Information may include, for example, gender, birthdate, or zip code. You may be asked to submit Non-Personal Information with Personal information, or separately.
 
-We collect such information in two ways: (1) Information you provide; and (2) Information we receive from your use of our Services.  
+We collect such information in two ways: (1) Information you provide; and (2) Information we receive from your use of our Services.
 
 ### **Information You Provide**
 
@@ -51,9 +51,9 @@ When you use TapClicks Services, we collect certain information by automated or 
 
 The information from cookies and related technology is stored in web server logs and also in web cookies kept on your computers, which are then transmitted back to our website by your computers. TapClicks, our business partners, or our service providers operate these servers and manage the cookies.
 
-You may set your browser to block all cookies, including cookies associated with our Services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our Services may not function properly if your cookies are disabled. For example, we may not remember your language preferences. For more information about cookies and how to opt out of cookie functionality using your browser, [click here](http://www.aboutcookies.org/).
+You may set your browser to block all cookies, including cookies associated with our Services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our Services may not function properly if your cookies are disabled. For example, we may not remember your language preferences. For more information about cookies and how to opt out of cookie functionality using your browser, [click here](http://www.aboutcookies.org/).
 
-Some web browsers and mobile device operating systems offer Do Not Track (DNT) settings. Currently, there is no industry standard for offering or responding to this setting. As a result, TapClicks may not respond to DNT settings. Other third party sites may or may not respond to DNT signals. If you would like to learn more about these browser settings, click [here](https://allaboutdnt.com/). If you want to turn on these settings for your web browser, you may click: [here](https://support.google.com/chrome/answer/2790761) for Google Chrome or [here](https://support.google.com/chrome/answer/2790761) for Safari. 
+Some web browsers and mobile device operating systems offer Do Not Track (DNT) settings. Currently, there is no industry standard for offering or responding to this setting. As a result, TapClicks may not respond to DNT settings. Other third party sites may or may not respond to DNT signals. If you would like to learn more about these browser settings, click [here](https://allaboutdnt.com/). If you want to turn on these settings for your web browser, you may click: [here](https://support.google.com/chrome/answer/2790761) for Google Chrome or [here](https://support.google.com/chrome/answer/2790761) for Safari.
 
 ### **TapClicks Services and Customer Data**
 
@@ -78,7 +78,7 @@ TapClicks uses information to:
 
 
 
-If you do not want to be on our mailing list, you can opt out anytime by sending an email to [customercare@tapclicks.com](mailto:customercare@tapclicks.com) or clicking on the “unsubscribe” button on our communications. From time to time, we may use your Personal Information to send important notices to our customers regarding material changes to our terms, conditions, and policies or purchased products and services which you may not opt out of receiving if you are a current customer.
+If you do not want to be on our mailing list, you can opt out anytime by sending an email to customercare@tapclicks.com or clicking on the “unsubscribe” button on our communications. From time to time, we may use your Personal Information to send important notices to our customers regarding material changes to our terms, conditions, and policies or purchased products and services which you may not opt out of receiving if you are a current customer.
 
 ### **How TapClicks Shares Information We Collect**
 
@@ -90,30 +90,31 @@ TapClicks may aggregate information collected by the Services or via other means
 
 ### **Accessing and Correcting Personal Information**
 
-You can access, update, and delete your Personal Information, including financial information, by sending us an email at [customercare@tapclicks.com](mailto:customercare@tapclicks.com).
+You can access, update, and delete your Personal Information, including financial information, by sending us an email at customercare@tapclicks.com.
 
 We will retain your information for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### **How We Protect Your Personal Information**
+**How We Protect Your Personal Information**
 
 The security of your personal information is important to us. We have implemented reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction, or alteration of your information. Despite our best efforts, however, no security measures are completely impenetrable.
 
 ### **Use of TapClicks Online Forums**
 
-The Services may contain user submitted content, comments, and opinions in online forums and communities, for example, the TapClicks Marketplace or FAQs.  Such content is for informational purposes only, and TapClicks is not responsible for user-submitted content. TapClicks may provide or recommend responses as a possible solution based on the information provided; every potential issue may involve several factors not detailed in the conversations captured in an electronic forum, and TapClicks can, therefore, provide no guarantee as to the efficacy of any proposed solutions on the community forums. TapClicks disclaims any and all liability for the acts, omissions, and conduct of any third parties in connection with or related to your use of the Services.  We recommend and caution all users not to disclose Personal Information within the forums or communities.  TapClicks does not pre-screen third-party user content and does not undertake the responsibility to remove any harmful or offensive content, but reserves the right, in our sole discretion to remove any and all content for any or no reason at any time.
+The Services may contain user submitted content, comments, and opinions in online forums and communities, for example, the TapClicks Marketplace or FAQs.  Such content is for informational purposes only, and TapClicks is not responsible for user-submitted content. TapClicks may provide or recommend responses as a possible solution based on the information provided; every potential issue may involve several factors not detailed in the conversations captured in an electronic forum, and TapClicks can, therefore, provide no guarantee as to the efficacy of any proposed solutions on the community forums. TapClicks disclaims any and all liability for the acts, omissions, and conduct of any third parties in connection with or related to your use of the Services.  We recommend and caution all users not to disclose Personal Information within the forums or communities. TapClicks does not pre-screen third-party user content and does not undertake the responsibility to remove any harmful or offensive content, but reserves the right, in our sole discretion to remove any and all content for any or no reason at any time.
 
 ### **Data Transfers from the EU and Switzerland to the United States**
 
-TapClicks complies with the EU-U.S. Privacy Shield Framework and the Swiss–U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union and Switzerland to the United States, respectively. TapClicks has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, please visit: [https://www.privacyshield.gov/](https://www.privacyshield.gov/) and to view our EU-U.S. and Swiss-U.S. Privacy Shield Certification – [click here](https://www.privacyshield.gov/participant?id=a2zt0000000TOJ7AAO).
+TapClicks complies with the EU-U.S. Privacy Shield Framework and the Swiss–U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union and the United Kingdom and/or Switzerland to the United States, respectively. TapClicks has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, please visit: [https://www.privacyshield.gov/](https://www.privacyshield.gov/) and to view our EU-U.S. and Swiss-U.S. Privacy Shield Certification – [click here](https://www.privacyshield.gov/participant?id=a2zt0000000TOJ7AAO).
 
 TapClicks is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Swiss, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-  
 TapClicks complies with the General Data Protection Regulation (GDPR). EU and Swiss individuals have the right to access, correct, transfer, erase, restrict collection, retention, and transfer of their personal data. TapClicks retains personal data for as long as it is necessary and relevant to the purpose of processing. In addition to the rights provided in this Privacy Policy, please note the following: Because TapClicks personnel have limited ability to access data that our customers submit to our Services, if you wish to request access, to limit use, or to limit disclosure, please provide the name of the TapClicks customer who submitted your data to our Services. We will refer your request to that customer, and will support them as needed in responding to your request.
 
-If you have any questions or concerns, we encourage you to write to us as indicated below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the Privacy Shield Principles. If an issue cannot be resolved through our internal dispute resolution mechanism, individuals may contact or submit a complaint, at no cost, to the [JAMS EU-U.S. or Swiss-U.S. Privacy Shield Program](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim), which is based in the United States and which serves as our third-party alternative dispute resolution provider. We will cooperate with JAMS pursuant to the JAMS International Mediation Rules, which are accessible on the JAMS website at [http://www.jamsadr.com](https://www.jamsadr.com/). For residual complaints not fully or partially resolved by other means, you may be able to invoke binding arbitration as detailed in the Privacy Shield Principles.
+If you have any questions or concerns, we encourage you to write to us as indicated below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the Privacy Shield Principles. If an issue cannot be resolved through our internal dispute resolution mechanism, individuals may contact or submit a complaint, at no cost, to the [JAMS EU-U.S. or Swiss-U.S. Privacy Shield Program](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim), which is based in the United States and which serves as our third-party alternative dispute resolution provider. We will cooperate with JAMS pursuant to the JAMS International Mediation Rules, which are accessible on the JAMS website at https://www.jamsadr.com/eu-us-privacy-shield. For residual complaints not fully or partially resolved by other means, you may be able to invoke binding arbitration as detailed in the Privacy Shield Principles.
+
+_Other Covered Entities_ : The following entities owned by TapClicks also adhere to the provisions of this section and the EU-U.S. Privacy Shield: Raven Tools, LLC.
 
 ### **Children**
 
@@ -121,11 +122,11 @@ If you have any questions or concerns, we encourage you to write to us as indica
 
 
 
-The Services are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at [legal@tapclicks.com](mailto:legal@tapclicks.com), so that we may delete the information.
+The Services are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at legal@tapclicks.com, so that we may delete the information.
 
 ### **California Privacy Rights**
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. As discussed above, we do not currently share Personal Information with third parties for their own marketing purposes. To request a copy of the information disclosure provided by TapClicks pursuant to Section 1798.83 of the California Civil Code, please contact us via email to [legal@tapclicks.com](mailto:legal@tapclicks.com), or by writing us at the address in the contact section below.
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. As discussed above, we do not currently share Personal Information with third parties for their own marketing purposes. To request a copy of the information disclosure provided by TapClicks pursuant to Section 1798.83 of the California Civil Code, please contact us via email to legal@tapclicks.com, or by writing us at the address in the contact section below.
 
 ### **Contact Info**
 
