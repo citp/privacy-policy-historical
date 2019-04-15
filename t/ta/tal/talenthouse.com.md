@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talenthouse.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625022253id_/https%3A//www.talenthouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talenthouse.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415071518id_/https%3A//www.talenthouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Talenthouse
 
