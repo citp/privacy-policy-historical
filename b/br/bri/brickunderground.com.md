@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickunderground.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231125901id_/https%3A//www.brickunderground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickunderground.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415133743id_/https%3A//www.brickunderground.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -116,9 +116,9 @@ We strive to provide you with choices regarding the personal information you pro
 
   * Opt Out of Online Behavioral Advertising. We do not control third parties’ collection or use of your information to serve interest-based advertising. For information about opt out programs that third-party advertising companies participate in, and to opt out of the use of website browsing data for interest-based advertising by companies that participate in these programs, you can visit [ www.youradchoices.com](http://www.youradchoices.com/) to learn more.  You can also visit the DAA Consumer Choice Page at [http://youradchoices.com](http://youradchoices.com/) and download AppChoices free of charge to enable desktop data collection control. Please note that when using the ad industry opt-out tools described above, we may still collect some data about your online activity for operational purposes and you may continue to receive ads but those ads will be less relevant because they won’t be tailored to your interests.  In addition, if you use multiple browsers or devices you may need to execute this opt out on each browser or device.
 
-  * **Promotional Offers from the Company and Third Parties.** If you do not wish to have your email address used by the Company to promote our own or third parties’ products or services, you can opt-out by sending us an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80f4e8e5e2f2e9e3ebf4e5e1edc0e2f2e9e3ebf5eee4e5f2e7f2eff5eee4aee3efed). If we have sent you a promotional email, you may also send us a return email asking to be omitted from future email distributions.
+  * **Promotional Offers from the Company and Third Parties.** If you do not wish to have your email address used by the Company to promote our own or third parties’ products or services, you can opt-out by sending us an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#51253934332338323a2534303c11332338323a243f35342336233e243f357f323e3c). If we have sent you a promotional email, you may also send us a return email asking to be omitted from future email distributions.
 
-  * **Accessing and Correcting Your Information.** If there are any changes or updates to your account information, or if you would like to delete your personal information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec9884898e9e858f8798898d81ac8e9e858f87998288899e8b9e83998288c28f8381). _Please note_ : certain federal and state regulations require that we maintain a record of your information for certain periods of time. Due to these regulations, we may be unable to completely delete your information from our database until the time requirements of these regulations have expired.
+  * **Accessing and Correcting Your Information.** If there are any changes or updates to your account information, or if you would like to delete your personal information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f7839f9295859e949c8392969ab795859e949c8299939285908598829993d994989a). _Please note_ : certain federal and state regulations require that we maintain a record of your information for certain periods of time. Due to these regulations, we may be unable to completely delete your information from our database until the time requirements of these regulations have expired.
 
 
 
@@ -129,7 +129,7 @@ This Website is designed for individuals in the United States. If you are visiti
 
 _**Your California Privacy Rights**_
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#592d313c3b2b303a322d3c3834193b2b303a322c373d3c2b3e2b362c373d773a3634) or write us at: Brick Underground, LLC; 349 Fifth Avenue, New York, NY 10016.
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c2b6aaa7a0b0aba1a9b6a7a3af82a0b0aba1a9b7aca6a7b0a5b0adb7aca6eca1adaf) or write us at: Brick Underground, LLC; 349 Fifth Avenue, New York, NY 10016.
 
 _**How We Respond to Do Not Track Signals**_
 
@@ -156,4 +156,4 @@ Brick Underground, LLC
 New York NY 10016  
 646-701-7038
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8995989f8f949e9689989c90bd9f8f949e96889399988f9a8f92889399d39e9290)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#17637f7275657e747c6372767a5775657e747c62797372657065786279733974787a)
