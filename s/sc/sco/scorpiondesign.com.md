@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the scorpiondesign.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908075530id_/http%3A//www.scorpiondesign.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorpiondesign.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415144857id_/https%3A//www.scorpion.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Marketing Experts
+# Privacy Policy | Scorpion | Internet Marketing
 
-We recognize that you may be concerned about our use and disclosure of your personal information. Your privacy is very important to us, and the following will inform you of the information that we, Scorpion Design, may collect from you, and how it is used. By using our Web site, www.scorpiondesign.com, you are accepting the practices described in this policy.
+We recognize that you may be concerned about our use and disclosure of your personal information. Your privacy is very important to us, and the following will inform you of the information that we, Scorpion, may collect from you, and how it is used. By using our website, www.scorpion.co, you are accepting the practices described in this policy.
 
 ## Information Collection
 
 We may collect non-personal information, such as a domain name and IP Address. The domain name and IP address reveals nothing personal about you other than the IP address from which you have accessed our site. We may also collect information about the type of Internet browser you are using, operating system, what brought you to our Website, as well as which of our Web pages you have accessed.
 
-Additionally, if you communicate with us regarding our Web site or our services, we will collect any information that you provide to us in any such communication.
+Additionally, if you communicate with us regarding our Website or our services, we will collect any information that you provide to us in any such communication.
 
 We may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
 ## Information Use
 
-We use the collected information primarily for our own internal purposes, such as providing, maintaining, evaluating, and improving our services and Web site, fulfilling requests for information, and providing customer support.
+We use the collected information primarily for our own internal purposes, such as providing, maintaining, evaluating, and improving our services and Website, fulfilling requests for information, and providing customer support.
 
 ## Security
 
@@ -34,9 +34,9 @@ We will not sell or otherwise provide the information we collect to outside thir
 
 We will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:
 
-  * Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on our company,
-  * Protect and defend the rights or property of our Web site and related properties
-  * Identify persons who may be violating the law, the rights of third parties, or otherwise misusing the our Web site or its related properties
+  * Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on our company
+  * Protect and defend the rights or property of our Website and related properties
+  * Identify persons who may be violating the law, the rights of third parties, or otherwise misusing our Website or its related properties
 
 
 
@@ -46,14 +46,14 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
 ## Links
 
-This web site may contain links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+This Website may contain links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
 ## Surveys & Contests
 
-From time-to-time our site may request information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+From time-to-time our site may request information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
 ## Consent
 
-By using this Web site, you consent to the collection and use of information as specified above. If we make changes to our Privacy Policy, we will post those changes on this page. Please review this page frequently to remain up-to-date with the information we collect, how we use it, and under what circumstances we disclose it. You must review the new Privacy Policy carefully to make sure you understand our practices and procedures.
+By using this Website, you consent to the collection and use of information as specified above. If we make changes to our Privacy Policy, we will post those changes on this page. Please review this page frequently to remain up-to-date with the information we collect, how we use it, and under what circumstances we disclose it. You must review the new Privacy Policy carefully to make sure you understand our practices and procedures.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at** **(866) 332-3230 or via mail Attn: Privacy Policy, 28480 Avenue Stanford, Suite 100, Valencia, CA 91355.**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at** **(866) 622-5648 or via mail Attn: Privacy Officer, 27750 Entertainment Drive, Valencia, CA 91355.**
