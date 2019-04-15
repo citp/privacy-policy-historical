@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401192304id_/http%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415122130id_/https%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
 
 # About MyNetDiary - Online Diet Log and iPhone Calorie Counter | MyNetDiary
 
@@ -103,10 +103,10 @@ You may remove your personally identifiable information from our systems, as wel
         
     
     
-        Mail:	MyNetDiary Inc.
-                Opt-Out List
-                811 Church Road, Suite 105
-                Cherry Hill, New Jersey 08002
+        Mail: MyNetDiary Inc.
+    10000 Lincoln Drive East, Suite 201
+    Opt-Out List
+    Marlton, NJ 08053-3105
         
 
 ## Contacting MyNetDiary.com
@@ -118,7 +118,7 @@ If you have a privacy concern or question regarding MyNetDiary.com or this Priva
         
     
     
-        Mail:	MyNetDiary Inc.
-                811 Church Road, Suite 105
-                Cherry Hill, New Jersey 08002
+        Mail: MyNetDiary Inc.
+    10000 Lincoln Drive East, Suite 201
+    Marlton, NJ 08053-3105
         
