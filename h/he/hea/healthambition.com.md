@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthambition.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819180553id_/https%3A//www.healthambition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthambition.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415184053id_/https%3A//www.healthambition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Health Ambition
 
