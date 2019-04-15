@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004034406id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415074711id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
 
 # WeVideo | Privacy Policy
 
-_Last Modified: August 10, 2018_   
-[Print PDF](https://s3.amazonaws.com/wevideo-static/assets/WeVideoPrivacyPolicy_Aug2018.pdf)
+_Last Modified: January 5, 2019_   
+[Print PDF](https://s3.amazonaws.com/wevideo-static/assets/WeVideoPrivacyPolicy_Jan2019.pdf)
 
 Data privacy is important to WeVideo. We believe you should always know how information about you is collected, used, and disclosed by WeVideo when you use our services, or otherwise interact with us.
 
@@ -20,9 +20,9 @@ WeVideo's data protection officer is Krishna Menon, reachable at data.protection
 Contact information for WeVideo:
 
   * WeVideo, Inc.
-  * 149 Commonwealth Drive
-  * Suite 2118
-  * Menlo Park, CA 94025
+  * 1975 W El Camino Real
+  * Suite 202
+  * Mountain View, CA 94040
   * Tel: (650) 800-3400
 
 
@@ -211,7 +211,7 @@ For example, if you have privacy settings available in the "Account settings" se
 
 ## OUR POLICY TOWARD CHILDREN
 
-WeVideo is committed to protecting the privacy of students and offers services that are fully compliant with the FERPA and COPPA rules and guidelines. In compliance with the Children’s Online Privacy Protection Act (COPPA) of 1998, the services are not intended for use if you are under 13 years of age unless you have the consent of your parent or legal guardian or when available use the application as a Guest User. As a Guest User, the application can be used without providing any personal data. Guest User mode is only available in some of the applications and is designed to allow usage of the application without providing any personal data. If you are not over 13 years of age and are not using the application as a Guest User, you will need to have the consent of your parent or guardian.
+WeVideo is committed to protecting the privacy of students and offers services that are fully compliant with the FERPA and COPPA rules and guidelines. In compliance with the Children’s Online Privacy Protection Act (COPPA) of 1998, the services are not intended for use if you are under 13 years of age unless one of the following is true: (1) you are using a WeVideo education plan ("WeVideo for Schools"). In that case, the policy above under the section EDUCATION SERVICES applies. For more details on COPPA, and how an application or website can be used in an educational context see [COPPA and Schools](https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions#Schools). Or contact [education@wevideo.com](mailto:education@wevideo.com) (2) you have the consent of your parent or legal guardian or (3) when available use the application as a Guest User. As a Guest User, the application can be used without providing any personal data. Guest User mode is only available in some of the applications and is designed to allow usage of the application without providing any personal data. If you are not over 13 years of age and are not using the application as a Guest User, you will need to have the consent of your parent or guardian.
 
 We may use any of the following methods to verify that you have your parents’ consent:
 
