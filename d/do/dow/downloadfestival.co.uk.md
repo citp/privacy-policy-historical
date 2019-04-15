@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadfestival.co.uk privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629145648id_/https%3A//downloadfestival.co.uk/cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadfestival.co.uk privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415064626id_/https%3A//downloadfestival.co.uk/privacy) for the most accurate reproduction.*
 
-# Download Festival | Privacy + Cookies - Download Festival
+# Download Festival | Privacy - Download Festival
 
   * ##### [Prize Promotion Notice](https://downloadfestival.co.uk/wp-content/uploads/2018/06/Download-2018-Post-festival-Brand-Survey-Prize-Promotion-Notice.pdf)
 
@@ -61,7 +61,7 @@ If you have any questions or feedback about this notice, or how we handle your i
 
 ·        When you attend one of our events, we may collect your information via (i) video surveillance cameras (we use signs where such cameras are used), (ii) from our free Wifi (if you register to use it) and, if available, via cashless payment wristbands which can be used to access events and to make purchases onsite at the event.
 
-·        When you use our websites or apps, we collect information such as the browser and device you’re using, your IP address, your location, the site you came from, what you did and didn’t use our site/app for, or the site you visit when you leave us. For more information on how we collect this information, see our [Cookies Policy](https://www.livenation.co.uk/cookies).
+·        When you use our websites or apps, we collect information such as the browser and device you’re using, your IP address, your location, the site you came from, what you did and didn’t use our site/app for, or the site you visit when you leave us. For more information on how we collect this information, see our [Cookies Policy](https://downloadfestival.co.uk/cookies/).
 
 ·        When you use a social media feature within our website or apps, and you post to social media platforms, the social media site will provide us with some information about you.
 
@@ -193,7 +193,7 @@ For more information, or to get a copy of the relevant documentation please cont
 
 **CONTACT US**
 
-If you have any questions about the above, or our approach to privacy, our dedicated Privacy Office, including our Data Protection Officer, is here to help:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d7d7f647b6c6e744d61647b68636c79646263236e62237866)
+If you have any questions about the above, or our approach to privacy, our dedicated Privacy Office, including our Data Protection Officer, is here to help:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7505071c0314160c35191c03101b14011c1a1b5b161a5b001e)
 
 There’s also the Information Commissioners Office (ICO) although we encourage you to try and let us help you first.
 
