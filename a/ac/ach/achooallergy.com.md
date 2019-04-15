@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212095508id_/http%3A//www.achooallergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415064521id_/https%3A//www.achooallergy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Achoo! Blog
 
 This Privacy Policy applies to http://www.achooallergy.com owned and operated by achoo! ALLERGY & AIR Products, Inc. ("AchooAllergy.com"). This Privacy Policy describes how achoo! ALLERGY & AIR Products, Inc. collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
-
-achoo! ALLERGY & AIR Products, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, http://www.achooallergy.com and does not cover information that may be collected through software downloaded from the website.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 AchooAllergy.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting our website AchooAllergy.com you are accepting the practices described in our Privacy Policy.
 
@@ -39,7 +35,7 @@ To sign up for our newsletter, visit AchooAllergy.com and fill in the [email sig
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-â€“We do not link this automatically collected data to other information we collect about you. 
+â€“We do not link this automatically collected data to other information we collect about you.
 
 We achoo! ALLERGY & AIR Products, Inc. and our partners (e.g. marketing partners), affiliates, or analytics or service providers (e.g. Google Analytics, AddThis, Constant Contact, Bing, BuySafe), use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking usersâ€™ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
@@ -116,12 +112,10 @@ We reserve the right to modify this privacy policy at any time, so please review
 **Company Address**
 
 AchooAllergy.com  
-1620-D Satellite Blvd.  
-Duluth, GA 30097  
 1-800-339-7123  
 cs@achooallergy.com
 
-**Privacy Policy Last Updated on: 11/06/2015**
+**Privacy Policy Last Updated on: 7/23/2018**
 
   
 
