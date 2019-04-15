@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getstat.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019164237id_/https%3A//getstat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getstat.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415165729id_/https%3A//getstat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - STAT Search Analytics
 
