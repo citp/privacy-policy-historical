@@ -1,5 +1,69 @@
-> *The following text is extracted and transformed from the favfamilyrecipes.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205050246id_/https%3A//www.favfamilyrecipes.com/favorite-family-recipes-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favfamilyrecipes.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415181913id_/https%3A//www.favfamilyrecipes.com/favorite-family-recipes-privacy-policy) for the most accurate reproduction.*
 
-# Favorite Family Recipes Privacy Policy | Favorite Family Recipes
+# Privacy Policy | Favorite Family Recipes
 
-Privacy Policy At FavFamilyRecipes.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit FavFamilyRecipes.com, and how we safeguard your information. We never sell your personal information to third parties. As with most other websites, FavFamilyRecipes.com collects and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Safari, Internet Explorer or Firefox), the time you visited our website and which pages you visited throughout our site. FavFamilyRecipes.com may use cookies and beacons to track or store information, such as your personal preferences when you visit our site. This helps streamline the viewer experience each time they visit our site or access our features. FavFamilyRecipes.com uses third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp FavFamilyRecipes.com contains links to other websites. FavFamilyRecipes.com is not responsible for the privacy policies or practices of any third party websites. FavFamilyRecipes.com may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx FavFamilyRecipes.com uses Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. If you have any questions about this privacy policy or our treatment of your personal data, please contact us at FavFamilyRecipes@gmail.com.
+Effective as of May 25, 2018
+
+As the owner of this website (the “Site”), **favfamilyrecipes.com,** we understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
+
+**Our Use of Cookies**
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+We use cookies for the following purposes:
+
+(a) Authentication – we use cookies to identify you when you visit our website and as you navigate our website;
+
+(b) Status – we use cookies to help us to determine if you are logged into our website;
+
+(c) Advertising – we use cookies to help us to display advertisements that will be relevant to you; and
+
+(d) Analysis – we use cookies to help us to analyze the use and performance of our website and services;
+
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
+
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+
+(a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
+
+(b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>(Firefox);
+
+(c) [http://www.opera.com/help/tutorials/security/cookies/](https://www.opera.com/help/tutorials/security/cookies/) (Opera);
+
+(d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
+
+(e) <https://support.apple.com/kb/PH21411> (Safari); and
+
+(f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
+
+Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
+
+**Interest-Based Advertising**
+
+Advertising Privacy Statement
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+For European Economic Area Residents
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+
+**Email Addresses**
+
+We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion.  If you have provided your email address to us, we promise to use it only for the purposes for which it is provided.  We will not use your email address to contact you for unrelated reasons. You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email. We will not share your email address with any third parties.
+
+If you are a resident of a country in the European Economic Area (EEA), we do not wish to receive your email address, and will delete it you have provided it inadvertently.
+
+**Sale of Business or Assets**
+
+In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
+
+**Changes to the Privacy Policy**
+
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
+
+**Contacting Us**
+
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at favfamilyrecipes@gmail.com
