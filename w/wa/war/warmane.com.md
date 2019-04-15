@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warmane.com privacy policy that was archived on 2017-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170104205618id_/https%3A//www.warmane.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warmane.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416010740id_/https%3A//www.warmane.com/policies/privacy) for the most accurate reproduction.*
 
 # Warmane | Privacy Policy
 
@@ -67,9 +67,14 @@ Users will be notified of any privacy policy changes:
 
       \- On our Privacy Policy Page
 
-Users are able to change their personal information:
+Users are able to review change their personal information:
 
       \- By logging in to their account  
+      \- By sending us a support ticket 
+
+Users are able to request the removal of their information:
+
+      \- By sending us an email  
       \- By sending us a support ticket 
 
 #### How does our site handle do not track signals?
@@ -85,4 +90,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 www.warmane.com  
 
 
-Last updated on March 11, 2015 
+Last updated on July 02, 2018 
