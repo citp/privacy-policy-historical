@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f6s.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904012851id_/https%3A//www.f6s.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f6s.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415172948id_/https%3A//www.f6s.com/privacy-policy) for the most accurate reproduction.*
 
 # F6S Privacy Policy | F6S
 
