@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptopsdirect.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228030320id_/https%3A//www.laptopsdirect.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopsdirect.co.uk privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415160607id_/https%3A//www.laptopsdirect.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Laptops Direct
 
