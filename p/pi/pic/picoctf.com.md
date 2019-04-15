@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picoctf.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010213454id_/https%3A//picoctf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picoctf.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415080259id_/https%3A//picoctf.com/privacy) for the most accurate reproduction.*
 
 # picoCTF - CMU Cybersecurity Competition - Privacy Statement
 
