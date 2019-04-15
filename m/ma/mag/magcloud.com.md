@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226190047id_/http%3A//www.blurb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415172920id_/http%3A//www.blurb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Book publishing services | Blurb Books | Blurb
 
 Effective Date: 05/25/18
 
-Blurb, Inc, a company incorporated in Delaware (File Number 3949786) and located at 580 California Street, Suite 300, San Francisco, CA 94104, United States ("Blurb", "us" or "we") respects the privacy of the visitors to its Website located at [http://www.blurb.com](http://www.blurb.com/) (the "Website"), and users of its Services. This Privacy Policy informs you of our policies and practices regarding the collection, use, storage and disclosure of any Personal Information and Anonymous Information you submit to us through the Website or Services. It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Blurb. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Blurb Terms and Conditions that you can find at [Terms and Conditions](https://web.archive.org/terms) and which incorporate this Privacy Policy by reference.
+Blurb, Inc, a company incorporated in Delaware (File Number 3949786) and located at 580 California Street, Suite 300, San Francisco, CA 94104, United States ("Blurb", "us" or "we") respects the privacy of the visitors to its Website located at [https://www.blurb.com](https://www.blurb.com/) (the "Website"), and users of its Services. This Privacy Policy informs you of our policies and practices regarding the collection, use, storage and disclosure of any Personal Information and Anonymous Information you submit to us through the Website or Services. It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Blurb. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Blurb Terms and Conditions that you can find at [Terms and Conditions](https://web.archive.org/terms) and which incorporate this Privacy Policy by reference.
 
 "Personal Information" is any information that allows us (or others) to identify an individual person and would include (for example) your name, address, email address, IP Address or phone number, as well as other non-public information that is associated with or directly linked to such information.
 
@@ -164,7 +164,7 @@ The IP Address that your Browser conveys within the scope of Google Analytics wi
 
 For further information please visit:
 
-  * <http://www.google.com/analytics/terms/us.html>
+  * <https://www.google.com/analytics/terms/us.html>
   * <https://support.google.com/analytics/answer/6004245?hl=en>
 
 
@@ -206,9 +206,9 @@ Here’s how to do it:
 
 Please note that if you choose to remove or reject Cookies, this could affect the availability and functionality of the Services. For further information about cookies, including how to refuse Cookies, please visit www.allaboutcookies.org .You may change any of the Personal Information in your account by editing your online profile or by sending an email to us at the email address set forth below.
 
-**Behavioral Advertising Targeting:** We partner with a third party to display advertising on the Website and to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here.](http://www.youronlinechoices.eu/)
+**Behavioral Advertising Targeting:** We partner with a third party to display advertising on the Website and to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here.](https://www.youronlinechoices.eu/)
 
-If you would like to opt out of third-party advertising behavior collection and use from your use of our Website, you may do so via the Network Advertising Initiative at <http://www.networkadvertising.org/managing/opt_out.asp>.
+If you would like to opt out of third-party advertising behavior collection and use from your use of our Website, you may do so via the Network Advertising Initiative at <https://www.networkadvertising.org/managing/opt_out.asp>.
 
 Please note that if you choose to turn off behavioral advertising it does not mean you will no longer receive advertising on the Services. However, it does mean that the display advertising that you use may not be tailored to your likely interests of preferences on the web browser you are currently using. Using this tool only applies to online behavioral advertising and will not affect other services.
 
