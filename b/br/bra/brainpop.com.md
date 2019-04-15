@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229212711id_/https%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415030551id_/https%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - BrainPOP
 
