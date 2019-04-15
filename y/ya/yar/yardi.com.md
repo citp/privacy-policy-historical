@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yardi.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903161128id_/https%3A//www.yardi.com/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardi.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415054945id_/https%3A//www.yardi.com/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Yardi Systems Inc.
 
@@ -32,7 +32,7 @@ Yardi uses the information you submit on the Yardi Sites solely to perform the s
 
 Generic user information is referenced only to help us improve the usability of the Yardi Sites. You may be able to restrict the use of cookies by adjusting your browser’s privacy options.
 
-Yardi, like all organizations, is a data controller of its employees’ personal data that is processed as part of its human resources operations. If you are a Visitor located in the European Economic Area, Yardi Systems, B.V., is the data controller for any personal data collected on the Yardi Sites. For additional information about Yardi’s privacy practices relating to applying for a job at Yardi, please visit our [Yardi Applicant Portal Privacy Policy](https://www.yardiyc1.com/applicantportal7s/Pages/PrivacyPolicy.aspx) (which is hereby incorporated by reference).
+Yardi, like all organizations, is a data controller of its employees’ personal data that is processed as part of its human resources operations. If you are a Visitor located in the European Economic Area, Yardi Systems, B.V., is the data controller for any personal data collected on the Yardi Sites. For additional information about Yardi’s privacy practices relating to applying for a job at Yardi, please visit our  [Yardi Careers Privacy Policy](https://careers.yardi.com/privacy-policy/) (which is hereby incorporated by reference).
 
 Our legal basis for collecting and using the information and personal data described in this Privacy Statement will depend on the information or personal data concerned and the specific context in which we collect it. However, we will normally collect personal data from you only where we have your consent to do so, where we need the personal data to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal data from you.
 
