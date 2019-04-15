@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105035536id_/https%3A//scripturetyper.com/TermsAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416003247id_/https%3A//biblememory.com/TermsAndPrivacy.aspx) for the most accurate reproduction.*
 
 # 
 
 ## 1\. Information we collect
 
-Members of the Scripture Typer website have the option of creating an account, in order to store memory verses and track their progress.  We store basic personal information which is voluntarily given by the user, such as a username, email address, and password.  We also allow members to store the following information which helps us provide a positive user experience while memorizing scripture.
+Members of the BibleMemory.com website have the option of creating an account, in order to store memory verses and track their progress.  We store basic personal information which is voluntarily given by the user, such as a username, email address, and password.  We also allow members to store the following information which helps us provide a positive user experience while memorizing scripture.
 
 1\. User preferences for interacting with the website  
 2\. Statistics on verses memorized  
@@ -16,7 +16,7 @@ All of your account information can be accessed from your User Profile page.  Y
 
 ## 3\. Email Communications
 
-Scripture Typer makes use of email to contact members in certain situations.  Members may opt out of any or all forms of email communication from the User Profile page. 
+BibleMemory.com makes use of email to contact members in certain situations.  Members may opt out of any or all forms of email communication from the User Profile page. 
 
 1\. Weekly or Daily Review  
 2\. Important Account or Web Site Updates
