@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiseidogroup.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030000155id_/https%3A//www.shiseidogroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiseidogroup.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415234720id_/https%3A//www.shiseidogroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Shiseido group website
 
@@ -46,7 +46,7 @@ Shiseido complies with applicable laws, national guidelines and other standards 
 
 Shiseido Co., Ltd. and Shiseido Japan Co., Ltd. will appoint a Chief Privacy Officer and establish and maintain systems for protecting personal information under the instruction of the Chief Privacy Officer. 
 
-The Director of the Risk Management Department of Shiseido Co., Ltd. shall act as the Chief Privacy Officer for both Shiseido Co., Ltd. and Shiseido Japan Co., Ltd.
+The Director of the Information Security Division of Shiseido Co., Ltd. shall act as the Chief Privacy Officer for both Shiseido Co., Ltd. and Shiseido Japan Co., Ltd.
 
 Shiseido will also appoint one or more Information Managers responsible for handling personal information in order to properly protect, manage and use personal information under the instruction of those Information Managers. Additionally, all the personnel engaged in our operations will receive education and training. 
 
