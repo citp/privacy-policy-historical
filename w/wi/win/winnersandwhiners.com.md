@@ -1,46 +1,39 @@
-> *The following text is extracted and transformed from the winnersandwhiners.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173650id_/https%3A//winnersandwhiners.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnersandwhiners.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415040543id_/https%3A//winnersandwhiners.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Winners And Whiners
+# Privacy Policy - Winners & Whiners
 
-This privacy policy discloses the privacy practices for WinnersAndWhiners.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following: 
+This privacy policy discloses the privacy practices for WinnersAndWhiners.com, hereafter referred to as the "Site". This privacy policy applies solely to information collected by this website.
 
-  * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  * What choices are available to you regarding the use of your data.
-  * The security procedures in place to protect the misuse of your information.
-  * How you can correct any inaccuracies in the information.
-  * Information Collection, Use, and Sharing
+###  Security Practices 
 
+All information is transmitted using SSL certificates with industry standard encryption methods. Information that we collect directly is stored using industry standard practices. 
 
+###  Registration & Logging In 
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+Limited content requires users to register an account and be logged in to view. The vast majority of content is free and available without an account. When registering, users are required to provide an email. This email is used to provide updates from our site and select sponsors. If you wish to opt out of this, do not register an account. 
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request.
+###  Promotional Giveaways 
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+From time to time, the Site may run promotional giveaways that may require you to provide Personal Information. In most cases your information is used to communicate with you about the promotional offer or giveaway in question, however we reserve the right to use your information to provide updates from our Site and select sponsors. It is not required for you to provide your information to enter any promotion or giveaway - please contact us for instructions on how to enter anonymously.
 
-##### Your Access to and Control Over Information
+###  Cookies 
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. If you login, we use a Cookie to identify you in order to provide access to user only content. Regardless of whether or not you are logged in, cookies on our site never contain personally identifiable information. 
 
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Have us delete any data we have about you.
-  * Express any concern you have about our use of your data.
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. If you believe any of our partners maybe misusing your information, please [contact us](https://web.archive.org/contact/) so we may investigate. 
 
+###  Links 
 
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
 
-##### Cookies
+However, [contact us](https://web.archive.org/contact/) so we may investigate any links on our site that maybe leading to sites that are misusing personally identifiable information. 
 
-We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+###  Requesting changes to your information 
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+If you wish to change information related to your account, or to have your account removed and associated information deleted from our system, please [contact us](https://web.archive.org/contact/) via mail or phone using the information provided on our [contact page](https://web.archive.org/contact/) with details regarding your request. 
 
-##### Links
+### Updates
 
-This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+Our Privacy Policy may change from time to time and all updates will be posted on this page. 
 
-##### Updates
-
-Our Privacy Policy may change from time to time and all updates will be posted on this page.
-
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-866-514-4333 or via email.
+If you feel that we are not abiding by this privacy policy, you should [contact us](https://web.archive.org/contact/) immediately via telephone which can be found on our [contact page](https://web.archive.org/contact/). 
