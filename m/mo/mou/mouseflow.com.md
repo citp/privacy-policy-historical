@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820214932id_/https%3A//mouseflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416032842id_/https%3A//mouseflow.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Session Replay, Heatmaps, Funnels, Forms & User Feedback - Mouseflow
 
