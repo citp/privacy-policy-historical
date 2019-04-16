@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabthebeast.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929140750id_/http%3A//grabthebeast.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabthebeast.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416103900id_/https%3A//grabthebeast.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy| GrabTheBeast
 
@@ -167,7 +167,7 @@ grabthebeast@gmail.com and we will promptly remove you from **ALL** corresponden
 
  **External Content downloads**
 
-We/GrabTheBeast/Us will just share links for downloadable contents and Downloadable contents shown in this website are NOT hosted by us. We do not hold any responsibility of the content you download. Please download only if you have appropriate permissions to do so.  
+We/GrabTheBeast/Us will just share links for downloadable contents and Downloadable contents shown in this website are NOT hosted by us. We do not hold the copyright of the content you might view. We are a search engine company and we crawl the internet to fetch appropriate links based on search query.  
 This product uses the TMDb API but is not endorsed or certified by TMDb.   
 Subtitles provided by [](http://opensubtitles.org/)
 
@@ -178,6 +178,6 @@ Subtitles provided by [](http://opensubtitles.org/)
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-grabthebeast@gmail.com
+reports@grabthebeast.com
 
-Last Edited on 2016-08-18
+Last Edited on 2019-03-18
