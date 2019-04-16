@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hillspet.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818112250id_/https%3A//www.hillspet.com/legal-statement-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillspet.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416203334id_/https%3A//www.hillspet.com/legal-statement-and-privacy-policy) for the most accurate reproduction.*
 
 # Legal Statement & Privacy Policy | Hill's Pet
 
 **05/2018**
 
-Colgate-Palmolive, including Hill's Pet Nutrition respects your privacy and values the relationship we have with you.  Therefore, we handle your personal data responsibly, and we want you to be familiar with how we collect, use, and disclose your data.  This Privacy Policy describes our practices in connection with your data (as defined below) that we collect in the following ways:
+Colgate-Palmolive, including Hill's Pet  Nutrition  respects your privacy and values the relationship we have with you.  Therefore, we handle your personal data responsibly, and we want you to be familiar with how we collect, use, and disclose your data.  This Privacy Policy describes our practices in connection with your data (as defined below) that we collect in the following ways:
 
 ●        On Websites operated by us, from which you are accessing this Privacy Policy (our “ **Websites** ”),
 
@@ -14,11 +14,11 @@ Colgate-Palmolive, including Hill's Pet Nutrition respects your privacy and valu
 
 ●        From HTML-formatted email messages that we send to you that link to this Privacy Policy, and
 
-●        In offline interactions you have with us.
+●        In offline  interactions  you have with us.
 
 This Privacy Policy also describes our practices in connection with data that we collect about professionals such as dental and veterinary professionals, and students and health care experts (“ **Professionals** ”), in order to provide them with professionally-oriented services (“ **Professional Services** ”).
 
-In this Privacy Policy, we refer to our Websites, our Apps, our Social Media Pages, our email messages, our offline activities and our Professional Services collectively as the “ **Services** ”.
+In this Privacy Policy, we refer to our Websites, our Apps, our Social Media Pages, our email messages, our offline activities  and  our Professional Services collectively as the “ **Services** ”.
 
 For information regarding our Connected Toothbrush, please see our [Connected Toothbrush Privacy Policy](https://shop.colgate.com/pages/privacy) _._
 
@@ -68,9 +68,9 @@ o    When you visit our booth at a tradeshow or visit our facilities;
 
 o    When you participate in our programs or activities or provide data at industry events;
 
-o    When you participate in an offline sweepstakes or promotion;
+o    When you participate in  an offline sweepstakes  or promotion;
 
-o    When you or someone on your behalf reports an adverse event with respect to one of our products.
+o    When you or someone on your behalf  reports  an adverse event with respect to one of our products.
 
 ●        **From Other Sources**
 
@@ -84,19 +84,19 @@ o    Joint marketing partners;
 
 o    Third parties who report adverse events regarding a product to us.
 
-−         If you connect your social media account to any account offered by us, you will share certain Personal Data from your social media account with us, such as your name, email address, photos, list of social media contacts, and any other data that may be (or that you make) accessible to us when you connect your social media account to any account offered by us.
+−         If you connect your social media account to  any  account offered by us, you will share certain Personal Data from your social media account with us, such as your name, email address, photos, list of social media contacts, and any other data that may be (or that you make) accessible to us when you connect your social media account to  any  account offered by us.
 
 In many instances, we need to collect Personal Data in order to provide the requested Services to you.  If you do not provide the Personal Data requested, we may not be able to provide the Services.  If you disclose any Personal Data relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the Personal Data in accordance with this Privacy Policy.
 
 **Use of Personal Data**
 
-We and our service providers use Personal Data for legitimate business purposes when we interact with consumers, the public, professionals and our customers.
+We and our service providers use Personal Data for legitimate business purposes when we interact with consumers, the public, professionals  and  our customers.
 
 **Interacting with Consumers and the Public**
 
 We use Personal Data when interacting with Consumers and the Public for the following purposes including:
 
-●        **Providing the Services and fulfilling your requests.**
+●        **Providing the Services  and fulfilling your requests.**
 
 −         To provide the Services to you, such as arranging access to an account you set up with us.
 
@@ -114,7 +114,7 @@ o    To the extent you elect to share personal information, for instance abou
 
 ●        **Providing you with information about our products and/or other marketing materials.**
 
-−         To send you marketing related emails, with information about our services, products, and other news about us.
+−         To send you  marketing related  emails, with information about our services, products, and other news about us.
 
 ●        **Analysis of Personal Data for business reporting and providing personalized services.**
 
@@ -126,7 +126,7 @@ o    To the extent you elect to share personal information, for instance abou
 
 ●        **Allowing you to participate in sweepstakes, contests, or other promotions.**
 
-−         We may offer you the opportunity to participate in a sweepstakes, contest, or other promotion. 
+−         We may offer you the opportunity to participate in  a sweepstakes , contest, or other promotion. 
 
 −         Some of these promotions have additional rules containing information about how we will use and disclose your Personal Data.
 
@@ -144,7 +144,7 @@ o    To the extent you elect to share personal information, for instance abou
 
 −         For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory, or contractual requirements.
 
-−         For fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft.
+−         For fraud and security monitoring purposes, for example, to detect and prevent  cyberattacks  or attempts to commit identity theft.
 
 −         For developing new products and services.
 
@@ -206,9 +206,9 @@ We use Personal Data about Professionals for the following purposes (in addition
 
 −         In these cases, we may use Professionals’ Personal Data in additional ways as disclosed as part of these special programs, activities, events, or promotions. 
 
-●        **Allowing Professionals to create a webstore.**
+●        **Allowing Professionals to create a webstore .**
 
-−         We give Professionals the opportunity to create a webstore to help them provide optimal patient services and convenient access to our products. 
+−         We give Professionals the opportunity to create a  webstore  to help them provide optimal patient services and convenient access to our products. 
 
 ●        **Accomplishing our business purposes.**
 
@@ -224,7 +224,7 @@ We engage in these activities to manage our relationship with you, to comply wit
 
 We use Personal Data about Customers for the following purposes (in addition to the purposes listed under Consumers and the Public), including:
 
-●        **Providing the Services and fulfilling your requests.**
+●        **Providing the Services  and fulfilling your requests.**
 
 −         To complete your transactions with us.
 
@@ -252,13 +252,13 @@ We disclose Personal Data: 
 
 ●        **To our subsidiaries and affiliates for the purposes described in this Privacy Policy.**
 
-−        You can consult the list and location of our subsidiaries or affiliates [here](https://www.sec.gov/Archives/edgar/data/21665/000002166518000006/exhibit2112312017.htm)
+−        You can consult the list and location of our subsidiaries or affiliates [here](https://www.colgatepalmolive.com/en-us/legal-privacy-policy/data-controllers)
 
 −         The Colgate-Palmolive subsidiary or affiliate that has collected your Personal Data will be responsible for Personal Data about you that is transferred and used.
 
 ●        **To our third party service providers, to facilitate services they provide to us.**
 
-−         These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
+−         These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, information technology  and  related infrastructure provision, customer service, email delivery, auditing, and other services.
 
 ●        **To third parties, to permit them to send you marketing communications, consistent with your choices.**
 
@@ -330,7 +330,7 @@ We do not currently respond to browser do-not-track signals. ****  If you do no
 
 ●        **Analytics**
 
-●        We use Google Analytics which uses cookies and similar technologies to collect and analyze data about use of the Services and report on activities and trends.  This service may also collect data regarding the use of other websites, apps, and online resources.  You can learn about Google’s practices by going to [www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.  ****
+●        We use Google Analytics which uses cookies and similar technologies to collect and analyze data about  use  of the Services and report on activities and trends.  This service may also collect data regarding the use of other websites, apps, and online resources.  You can learn about Google’s practices by going to [www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.  ****
 
 ●        **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies**
 
@@ -366,7 +366,7 @@ You may opt-out from: 
 
 ●        **Our sharing of your Personal Data with subsidiaries or affiliates for their direct marketing purposes** :  If you would prefer that we discontinue sharing your Personal Data on a going-forward basis with our subsidiaries or affiliates for their direct marketing purposes, you may opt-out of this sharing by contacting [Consumer Affairs](https://www.hillspet.com/contact-us).
 
-●        **Our sharing of your Personal Data with unaffiliated third parties for their direct marketing purposes** :  If you would prefer that we discontinue sharing your Personal Data on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by contacting [Consumer Affairs](https://www.hillspet.com/contact-us)..
+●        **Our sharing of your Personal Data with unaffiliated third parties for their direct marketing purposes** :  If you would prefer that we discontinue sharing your Personal Data on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by contacting [Consumer Affairs](https://www.hillspet.com/contact-us) .. 
 
 We will try to comply with your request(s) as soon as reasonably practicable.  Please note that if you opt-out of receiving marketing-related communications from us, we may still send you important administrative messages, from which you cannot opt-out.
 
@@ -420,7 +420,7 @@ Unless we specifically request it, we ask that you not send us, and you not disc
 
 **THIRD-PARTY PAYMENT SERVICE**
 
-We may use a third-party payment service to process payments made through the Services.  If you wish to make a payment through the Services, your Personal Data will be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy.  We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Data.
+We may use a third-party payment service to process payments made through the Services.  If you wish to make a payment through the Services, your Personal Data will be collected by such third party and not by  us,  and will be subject to the third party’s privacy policy, rather than this Privacy Policy.  We have no control  over,  and are not responsible for, this third party’s collection, use  and  disclosure of your Personal Data.
 
 **UPDATES TO THIS PRIVACY POLICY**
 
@@ -428,7 +428,7 @@ The “ _LAST UPDATED_ ” legend at the top of this Privacy Policy indicates wh
 
 **CONTACTING US**
 
-Click [here](https://www.sec.gov/Archives/edgar/data/21665/000002166518000006/exhibit2112312017.htm) to identify the controller responsible for collection, use, and disclosure of your Personal Data under this Privacy Policy. 
+Click [here](https://www.colgatepalmolive.com/en-us/legal-privacy-policy/data-controllers) to identify the controller responsible for  collection , use, and disclosure of your Personal Data under this Privacy Policy. 
 
 If you have any questions about this Privacy Policy, please contact [Consumer Affairs](https://www.hillspet.com/contact-us) or:
 
@@ -447,7 +447,7 @@ Like many other companies, Hill’s Pet Nutrition uses cookies on our websites. 
 
 **What is a cookie?**
 
-Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Generally, cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user's device. A cookie assigns a unique numerical identifier to your web browser, and may enable us to recognize you as the same user who was at our website in the past, and relate your use of the website to other information about you.
+Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Generally, cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user's device. A cookie assigns a unique numerical identifier to your web browser, and may enable us to recognize you as the same user who was at our website in the  past,  and relate your use of the website to other information about you.
 
 Cookies perform many different functions, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests.
 
@@ -458,7 +458,7 @@ Our websites use several types of cookies, including 'essential website cookies'
   * Essential website cookies (from Hill’s Pet Nutrition): These cookies are essential to enable you to move around our websites and use their features. These cookies don't gather information about you that could be used for marketing or remembering where you have been on our site. These cookies are often session-specific, expiring after your visit to the website (session) has ended.
   * Functionality cookies (including from Hill’s Pet Nutrition and YouTube): These cookies allow our websites to remember choices you make (such as your user name, language or region you are in) and provide enhanced, more personal features.
   * Analytics cookies (including from Omniture, Google Analytics, and Quantcast): These cookies are used to collect information about how visitors use our sites, including the number of visitors, the websites that referred them to our websites and the pages that they visited on our websites. We use this information to compile reports and to help us improve our websites, for example, to understand how visitors use our site and by ensuring that users find what they are looking for easily.
-  * Advertising cookies (including from AddThis, AppNexus, Doubleclick, Facebook, Media6Degrees, Mediamind, Twitter, Yahoo, and YouTube): These cookies are used to collect data about the websites and individual pages that users visit both on and off our websites (which might indicate, for example, your interests and other attributes). They are typically used to deliver advertisements that are more relevant to you and your interests, and to help measure the effectiveness of an advertising campaign. This information is shared with other organizations such as advertisers and our partners, who might use it with information about how you use other websites, including to identify shared interests and behaviors across groups of users who visit our (and other) websites.
+  * Advertising cookies (including from AddThis, AppNexus, Doubleclick, Facebook, Media6Degrees, Mediamind, Twitter, Yahoo, and YouTube): These cookies are used to collect data about the websites and individual pages that users visit both on and off our websites (which might indicate, for example, your interests and other attributes). They are typically used to deliver advertisements that are more relevant to you and your  interests,  and to help measure the effectiveness of an advertising campaign. This information is shared with other organizations such as advertisers and our partners, who might use it with information about how you use other websites, including to identify shared interests and behaviors across groups of users who visit our (and other) websites.
 
 
 
@@ -470,9 +470,9 @@ If you choose to delete or refuse cookies, please bear in mind that you may not 
 
 For more information about third-party advertisers and how to prevent them from using your information, visit the National Advertising Initiative’s consumer Web site at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) or Aboutads.info at [www.aboutads.info/choices/](http://www.aboutads.info/choices/).
 
-We may modify this policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on this site. Unless we specifically provide otherwise, this policy only applies to this site and our online activities, and does not apply to any of our offline activities.
+We may modify this policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on this site. Unless we specifically provide otherwise, this policy only applies to this site and our online  activities,  and does not apply to any of our offline activities.
 
-For additional information about our on-line privacy practices, please contact Legal, Hill's Pet Nutrition, Inc. 400 SW 8th Street, Topeka, KS 66603, (785)354-8523.
+For additional information about our  on-line  privacy practices, please contact Legal, Hill's Pet Nutrition, Inc. 400 SW 8th Street, Topeka, KS 66603, (785)354-8523.
 
 #### CAREERS PRIVACY STATEMENT
 
@@ -480,7 +480,7 @@ Hill’s Pet Nutrition and its world-wide subsidiaries are committed to respecti
 
 The Personal Information We Collect and How We Use It
 
-By 'personal information' we mean names, addresses, email addresses, job experience and history and any other personal information you voluntarily provide about you and your skills and interests that will then be matched against our current job opportunities and requirements. This information will be used to evaluate your qualifications for the desired position and possibly to contact you for further information. Also, at a later time, you may be asked for certain identifying information, which will be used solely for federal and state diversity reporting purposes.
+By 'personal information' we mean names, addresses, email addresses, job experience  and  history and any other personal information you voluntarily provide about you and your skills and interests that will then be matched against our current job opportunities and requirements. This information will be used to evaluate your qualifications for the desired position and possibly to contact you for further information. Also, at a later time, you may be asked for certain identifying information, which will be used solely for federal and state diversity reporting purposes.
 
 By creating a Job Profile, you acknowledge and agree that the information you submit is complete and correct to the best of your knowledge. Providing false information in the creation of your Job Profile or during the application process will lead to your rejection or termination.
 
@@ -510,7 +510,7 @@ At any time you will have the right log in to the system to modify, correct or e
 
 We care about the privacy of children. We recognize that children's use of the Internet and e-mail raise special concerns regarding privacy and security of information.
 
-It is our intention to adhere to the Children's Online Privacy Protection Act and its rules on collecting personal information from minors. We remind and encourage all parents to check and monitor their children's online activities. Help us protect the privacy of your children by ensuring that they never send e-mail or submit personal information on this site or any other without your permission.
+It is our intention to adhere to the Children's Online Privacy Protection Act and its rules on collecting personal information from minors. We remind and encourage all parents to check and monitor their children's online activities. Help us protect the privacy of your children by ensuring that they never send  e-mail  or submit personal information on this site or any other without your permission.
 
 As more fully described above, we use "cookie" technology, where our servers deposit special codes on a visitor's computer. This information is used to enhance your online visits. Under no circumstances do we use this information to personally identify visitors or cross-reference the information with any type of personal information that is voluntarily offered on or through the site.
 
@@ -530,7 +530,7 @@ We respect the intellectual property of others, and we ask you and all of our si
   2. A specific description of the copyrighted work claimed to be infringed.
   3. A specific description of the claimed infringing activity (including the specific web page address on this site).
   4. A specific description where the original or an authorized copy of the copyrighted work exists (including, for example, a specific Web page address not on this site).
-  5. Your name, address, telephone number and e-mail address.
+  5. Your name, address, telephone number  and  e-mail address.
   6. A written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, the person or entity authorized to act on behalf of the copyright owner, or the law.
   7. A written statement by you, made under penalty of perjury, that all of the above information is accurate, and that you are the copyright owner or the person or entity authorized to act on behalf of the copyright owner.
 
