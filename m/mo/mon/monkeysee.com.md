@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monkeysee.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702054305id_/http%3A//monkeysee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monkeysee.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416153648id_/https%3A//monkeysee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Monkeysee Videos
 
