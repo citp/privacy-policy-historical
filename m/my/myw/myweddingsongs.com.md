@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myweddingsongs.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926215352id_/https%3A//www.myweddingsongs.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweddingsongs.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416154953id_/https%3A//www.myweddingsongs.com/terms-privacy) for the most accurate reproduction.*
 
 # Privacy, Terms & Disclosure | My Wedding Songs
 
