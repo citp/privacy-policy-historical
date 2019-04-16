@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pubcon.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902185602id_/https%3A//www.pubcon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubcon.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416142545id_/https%3A//www.pubcon.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Pubcon Inc Privacy Policy
 
-_Updated 5-5-2018_
-
- **This privacy policy sets out how Pubcon uses and protects any information that you give us when you use this website.**
+**This privacy policy sets out how Pubcon uses and protects any information that you give us when you use this website.**
 
 We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
