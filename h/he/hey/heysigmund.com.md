@@ -1,53 +1,115 @@
-> *The following text is extracted and transformed from the heysigmund.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902095909id_/http%3A//www.heysigmund.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heysigmund.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416221811id_/https%3A//www.heysigmund.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hey Sigmund - Karen Young
-
-### Privacy Policy
+# Privacy Policy -
 
 **HEY SIGMUND  **(“we” or “us”) know how important it is that your personal information is handled respectfully and appropriately.  This Privacy Policy (the “Policy”) discloses the privacy practices for  **HEY SIGMUND**  and is intended to notify you of the following:
 
-  1. What personally identifiable information we collect from you through  **www.heysigmund.com**  (“Site”), how it is used and with whom it may be shared.
+  1. What personally identifiable information we collect from you through  **heysigmund.com  **(“Site”), how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
   3. The security procedures in place to protect the misuse of your information.
   4. How you can correct any inaccuracies in the information.
 
 
 
-##### What Information Is Collected?
+### What Information Is Collected?
 
 **Internet Traffic Data**
 
-Internet traffic data includes but is not limited to internet service provider information, collection of IP addresses, entry and exit pages, various operating systems and other such information.  We collect no personally identifying information by way of process. The purpose of collecting this data is to help analyse user traffic so we can be the best we can be for you.
+When you visit the site, we automatically collect internet traffic data. This includes but is not limited to internet service provider information, IP addresses, entry and exit pages, various operating systems and other such information.  We collect no personally identifying information by way of process. The purpose of collecting this data is to help analyse user traffic so we can be the best we can be for you.
 
-**Cookies**  
-We use “cookies” on this Site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you do not have to log in a password more than once, thereby saving time and improving efficiency while on our site.  In no way does using a cookie link to any personally identifiable information on our Site. 
+**Cookie policy**
 
-Third party vendors, including Google, use cookies to serve the ads you see on our site. They aim to make those ads more relevant to you by basing those ads on your prior visits to our website.
+This website will store some information about your preferences on your own computer inside a tiny file called a cookie. A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device.The cookie allows the website to remember your actions or preferences over time.
 
-Google uses cookies to enable it and its partners to serve ads that may be more relevant to you, based on your visit to our site and/or other sites you visit on the Internet.
+You can delete all cookies that are already on your computer, and you can set most browsers to prevent them from being placed. However, if you do this, you may have to manually adjust some preferences every time you visit a site, and some services and functionalities may not work.
 
-You may opt out of the use of cookies for ads based on your browsing history by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
+Most browsers support cookies, but you can set your browser to decline them and can delete them whenever you like.You can find instructions [here](https://www.aboutcookies.org/) for how you can do that on various browsers.
 
-##### Personal Information
+**This website uses cookies to:**  
 
-**Information Collection, Use, and Sharing**  
-We are the sole owners of the information collected on the Site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell, rent or otherwise share this information with any other individual or business entity, except as reasonably necessary to provide products, materials, or services to you.
 
-We will use your information to respond to you, and will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+1) Identify you as a returning user and to count your visits in traffic statistics analysis  
+2) Remember your custom display preferences (such as whether you prefer comments to display all-collapsed or not)  
+4) Provide other usability features, including tracking whether you’ve already given your consent to cookies
 
-**Your Access to and Control Over Information**  
-You may opt out of any future contacts from us or request that we discontinue sending of email and other communications at any time at any time by contacting us at karen@heysigmund.com.
+Enabling cookies is not strictly necessary for the website to work but it will provide you with a better browsing experience.
 
-**Security**  
+The cookie-related information is not used to identify you personally and is not used for any purpose other than those described here.
+
+There may also be other types of cookies created after you’ve visited this website. This site uses Google Analytics, a popular web analytics service that uses cookies to help to analyze how users use the site. The information generated by the cookie about your use of this website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of other website, compiling reports on website activity, and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
+
+For more information on cookies, please visit https://cookiesandyou.com/.
+
+### Personal Information
+
+**Sharing Information**
+
+This site does not sell, rent, or disclose to outside parties the information collected here, except as follows:
+
+(a) Affiliated Service Providers: This site has agreements with various affiliated service providers to facilitate the functioning of the site. For example, the site may share your credit card information with the credit card service provider to process your purchase. All administrative service providers that this site uses are required to have the same level of privacy protection as this site does, and therefore your information will be handled with the same level of care. Additionally, for example, this site may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
+
+(b) Where required by law: This site may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+
+(c) Statistical Analysis: This site may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+
+(d) Transactions: In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as a business asset.
+
+**When You Make a Purchase**
+
+When you make a purchase from the Site, we collect your email address, name, phone number, billing address and shipping address. Your payment information is processed through PayPal, a trusted online payment processor. You can view PayPal’s privacy policy at <https://www.paypal.com/au/webapps/mpp/ua/privacy-full>.
+
+From time to time our site uses Jilt, a platform which helps us to keep track of the status of shopping carts. When you begin a shopping cart on our site, details of your shopping cart, as well as your email address will be shared with Jilt. This allows us to follow up on your order. Jilt’s Privacy Policy can be viewed at https://jilt.com/legal/privacy/.
+
+**When You Sign Up to Our Newsletter**
+
+When you sign up to our newsletter, you are asked to provide your email address. This is stored in our account with Mailchimp, our trusted email marketing provider. Mailchimp’s privacy policy can be viewed at <https://mailchimp.com/legal/privacy/>.
+
+When you receive a newsletter from Hey Sigmund, it is sent via our emailing-provider, Mailchimp, and it may contain tracking pixels. These may record when you open the email, and which links in the email you click on in the newsletter.
+
+**When You Leave a Comment**
+
+When you leave a comment, we collect the data requested in the comments form. We also collect information regarding your IP address to help filter out spam. If you use your Gmail address, the image connected to that address may be shown in your comment after it is approved. After your comment is approved, the name you submitted in the comment form will also be visible to anyone who reads the relevant article. You may choose to leave a comment anonymously. If you need your name or your comment, or your Gmail image removed from the comment section, please let us know immediately at [karen@heysigmund.com](mailto:karen@heysigmund.com) and we will remove it for you.
+
+We will not share your information with any third party outside of our organization, other than as necessary to fulfil your request, follow up on your order, to ship an order, or to comply with our legal obligations.
+
+### Your Access to and Control Over Information
+
+You may opt out of any future contacts from us or request that we discontinue sending of email and other communications at any time at any time by contacting us at [karen@heysigmund.com](mailto:karen@heysigmund.com), or by clicking on the ‘Unsubscribe’ button in our newsletter.
+
+### Security
+
 We take great precautions to protect your information. When you submit sensitive information via the Sites, your information is protected both online and offline.
 
-Wherever we collect sensitive information, that information is encrypted and transmitted to us by secure servers. We have included common indications of such secured features when appropriate such as a closed lock icon at the bottom of your web browser.
+Whenever we collect sensitive information, that information is encrypted and transmitted to us by secure servers. We have included common indications of such secured features when appropriate such as a closed lock icon at the bottom of your web browser.
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. ** **
 
-**Third Parties**  
-Please be aware that some of our business partners may use cookies or other methods of tracking and targeting use on our site (advertisers, for example).  However, we have no access to or control over these cookies and this Privacy Policy does not extend to such third parties.  Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects Identifier Information.
+### Third Party Advertising
 
-##### Updates
+This site has third-party advertising companies serving ads to you when you visit. These companies may store information about your visits here and to other websites in order to provide you with relevant advertisements about goods and services. For example, if they know what ads you are shown while visiting this site, they can be careful not to show you the same ones repeatedly.
+
+These companies may employ cookies and other identifiers to gather information which measures advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an email message.
+
+They do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads.
+
+This site does not provide any personal information to advertisers or to third party sites. Advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalised ad or content are part of the group that the ad or content is directed towards (for example, readers in the Pacific Northwest who read certain types of articles). Also, some third-party cookies may provide them with information about you (such as the sites where you have been shown ads or demographic information) from offline and online sources that they may use to provide you more relevant and useful advertising.
+
+To learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](http://optout.networkadvertising.org/).
+
+You can opt out of participating in interest-based advertising networks, but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customise ads based on your interests and web usage patterns using cookie-based technology.
+
+### **How To Opt Out Of Interest-Based Advertising**
+
+_Opting Out of Interest-Based Advertising Services_ : This website is a member of the [Network Advertising Initiative ](https://www.networkadvertising.org/)(NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://digitaladvertisingalliance.org/).
+
+_Opting Out of Interest-Based Advertising by Third Parties_ : To find out more about interest-based advertising on the internet and how to opt out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s opt-out page](http://optout.networkadvertising.org/) or [DAA’s Consumer Choice Page](http://optout.aboutads.info/).
+
+### Acceptance
+
+By using this site, you acknowledge acceptance of this Privacy Policy. If you do not agree to this policy, please do not use our site.
+
+### Updates
 
 Our Privacy Policy may change from time to time but whenever we tweak, we’ll post an update on this page.
+
+**Last updated: 28 December 2018**
