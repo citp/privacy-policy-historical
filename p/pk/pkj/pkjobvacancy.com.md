@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the pkjobvacancy.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004021711id_/http%3A//pkjobvacancy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkjobvacancy.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416062808id_/http%3A//pkpapersjob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Jobs Vacancy in Pakistan 2018
+# Privacy Policy
 
-## [Privacy Policy](http://pkjobvacancy.com/privacy-policy/)
+This Privacy Policy governs the manner in which **pkpapersjob.com** collects, uses, maintains and discloses information collected from users (a ‘User’) of the **pkpapersjob.com**  website (‘Site’). Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.
 
-This Privacy Policy governs the manner in which **Pkjobvacancy.com** collects, uses, maintains and discloses information collected from users (a ‘User’) of the **Pkjobvacancy.com**  website (‘Site’). Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.
+**pkpapersjob.com** respects the privacy and rights of its visitors and do not identify the visitor.
 
-Pkjobvacancy.com respects the privacy and rights of its visitors and do not identify the visitor.
-
-  * When a user visits Pkjobvacancy.com then the visitor’s Ip-address, Browser Version, location is stored on our servers. This information is stored for only statistical purpose and no other effort is made to identify the user.
-  * Other information like visitors Phone number, Email address or name is not possible for Pkjobvacancy.com to log and this information is also not used for statistical purpose. Although this information is stored when user is an employer at Pkjobvacancy.com and tends to post jobs.
-  * Those who share personal email at Pkjobvacancy.com, Their email address will not be sold or given to anyone.
+  * When a user visits **pkpapersjob.com** then the visitor’s Ip-address, Browser Version, location is stored on our servers. This information is stored for only statistical purpose and no other effort is made to identify the user.
+  * Other information like visitors Phone number, Email address or name is not possible for **pkpapersjob.com** to log and this information is also not used for statistical purpose. Although this information is stored when user is an employer at **pkpapersjob.com** and tends to post jobs.
+  * Those who share personal email at **pkpapersjob.com** , Their email address will not be sold or given to anyone.
 
 
 
@@ -30,14 +28,14 @@ Third party vendors, including Google, use cookies to serve ads based on a user�
 
 Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting[aboutads.info](http://www.aboutads.info/).)
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
-Cookies and Web Beacons **Pkjobvacancy.com** does not use cookies.
+Cookies and Web Beacons **pkpapersjob.com**  does not use cookies.
 
 Some of our advertising partners may use cookies and web beacons on our site.
 
- **Pkjobvacancy.com** has no access to or control over these cookies that are used by third-party advertisers.
+**pkpapersjob.com** has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **Pkjobvacancy.com** ’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **pkpapersjob.com** ’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options.
