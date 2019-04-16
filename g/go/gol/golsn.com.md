@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630085744id_/https%3A//www.lsn.com/help/privacy/%3Fref%3Dft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416152000id_/https%3A//www.lsn.com/help/privacy/%3Fref%3Dft) for the most accurate reproduction.*
 
 # Privacy Policy
 
