@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227141032id_/https%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416100721id_/https%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Poll Everywhere
 
-### Updated September 22, 2016
+### Updated March 23, 2018
 
 Thank you for visiting www.polleverywhere.com (the “Site”), which is owned by Poll Everywhere, Inc. (“Poll Everywhere”) and operated by in the United States. We strive to make our Privacy Policy (the “Privacy Policy”) easy to understand. While we encourage you to fully review our Privacy Policy, we provide a summary below that describes in general terms what we do and what we don’t do. The complete Privacy Policy is set forth below the summary in the form of FAQs. We also encourage you to review the Site Terms of Service (the “Terms of Service”), which is the agreement between you and Poll Everywhere that governs your use of the Site, as well as provides the terms and conditions under which Poll Everywhere provides, and you may use, the Poll Everywhere Service (the “Service”).
 
@@ -12,14 +12,15 @@ In this Privacy Policy, we refer to our consumers as “Visitors” and “Users
 
   * We collect clickstream information and basic, technical information, such as browser type, from Visitors -- those who visit the Site but who do not register.
   * If you register as a user of the Service and become a User, Poll Everywhere collects the same information we collect from Visitors, as well as the personal information Users submit during the registration, and we use cookies to support Users’ logged-in experience.
-  * We use a limited number of select service providers to perform work on our behalf. They are permitted to use personal information only for the purpose of providing their services or at an aggregate level.
-  * When Visitors or Users participate in our polling services, we obtain the individual’s’ mobile phone number provided to us in connection with SMS voting, the device type and operating system, and the poll responses. We use this information to facilitate individuals’ participation in polls.
+  * We use a limited number of select service providers to perform work on our behalf. We may disclose personal information to these service providers, or they may collect personal information, as necessary for the performance of their services. They are permitted to use personal information only for the purpose of providing their services or at an aggregate level. Information regarding such service providers, including the types of data processed, can be found at the following link, which is updated periodically:
+[https://www.polleverywhere.com/third-party-service-providers](https://web.archive.org/third-party-service-providers). 
+  * When Visitors or Users participate in our polling services, we obtain the individual’s’ mobile phone number provided to us in connection with SMS responses, the device type and operating system, and the poll responses. We use this information to facilitate individuals’ participation in polls.
   * In some cases, you may be able to purchase services from us, in which case we’ll also collect payment card information from you.
   * In addition to providing polling services directly to individuals, Poll Everywhere also has business customers, such as employers or companies that organize conferences. When our business customers conduct polls using Poll Everywhere software, they may choose to collect additional information about poll participants. We require our business customers to explain their privacy practices to poll participants.
   * We share your personal information only as described in this Privacy Policy and do not sell the information, except if our company or assets are sold or acquired.
-  * We may use the information we have about you to offer you products and services that we believe may be of interest to you. We may offer these products and services in conjunction with our business and marketing partners. You may direct us not to use or share your information by [registering with our opt-out form](https://docs.google.com/a/polleverywhere.com/forms/d/1k06IkyTuXJErrhaw6KLMf-r2x8rEDGVpE24tqzhW2I0/viewform). 
+  * We may use the information we have about you to offer you products and services that we believe may be of interest to you. We may offer these products and services in conjunction with our business and marketing partners. You may direct us not to use or share your information by [registering with our opt-out form](https://web.archive.org/contact/privacy_policy_opt_outs/new). 
   * If you registered with Poll Everywhere using an email address based on a domain owned by your company or organization (e.g., JohnDoe@AcmeCorp.com), we may share the fact of your registration with other users registered with an email address using the domain of the same company or organization and its affiliates to facilitate collaboration with your business colleagues.
-  * If you provide your email, we automatically add it to our email list for periodic announcements. You may opt out and unsubscribe at any time using the “unsubscribe” links in our emails, or the checkbox next to your email address on [your Personal Info page](https://web.archive.org/profile/edit). 
+  * If you provide your email, we automatically add it to our email list for periodic announcements. You may opt out and unsubscribe at any time using the “unsubscribe” links in our emails, or the checkbox next to your email address on [your Settings page](https://web.archive.org/profile/edit). 
 
 
 
@@ -43,15 +44,15 @@ We welcome any questions, comments or suggestions you may have about this Privac
 
 ### Your California Privacy Rights
 
-If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Poll Everywhere has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Poll Everywhere, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [security@polleverywhere.com,](mailto:security@polleverywhere.com?body=Hello%20Poll%20Everywhere%2C%20I%20need...&subject=California%20Privacy) with the subject line “California Privacy” and your request in the body of your email. 
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that Poll Everywhere has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to Poll Everywhere, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [security@polleverywhere.com,](mailto:security@polleverywhere.com?body=Hello%20Poll%20Everywhere,%20I%20need...&subject=California%20Privacy) with the subject line “California Privacy” and your request in the body of your email. 
 
 ### Compliance with the Family Educational Rights and Privacy Act (“FERPA”)
 
 FERPA protects personally identifiable information contained in students’ education records from unauthorized use or disclosure. If you are an educational institution, or a teacher or school official at an educational institution, that is required to comply with FERPA, we will only use any education records (as defined under FERPA) that you may make available to Poll Everywhere for the purpose of providing the Services to you. We will never share or sell FERPA-protected information, or use it for any other purpose, except as otherwise directed or permitted by you. If a parent or eligible student requests access to any education records that are hosted on our servers, we will help facilitate such access.
 
-### EU-US Privacy Shield
+### EU-U.S. and Swiss-U.S. Privacy Shield and the GDPR
 
-Poll Everywhere has self-certified to the EU-U.S. Privacy Shield Framework regarding the collection, use and retention of personal data transferred from the European Union to the United States. [View our Privacy Shield Policy](https://web.archive.org/privacy-shield-policy). References to “this Privacy Policy” include the Privacy Shield Policy.
+Poll Everywhere has self-certified to and complies with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks regarding the collection, use and retention of personal data transferred from the European Union and Switzerland, respectively, to the United States. Poll Everywhere also complies with the General Data Protection Regulation (Regulation (EU) 2016/679) (the “GDPR”). [View our Privacy Shield Policy](https://web.archive.org/privacy-shield-policy). References to “this Privacy Policy” include the Privacy Shield and GDPR Policy.
 
 ## FAQs
 
@@ -129,6 +130,6 @@ Poll Everywhere uses SSL encryption and secure cookies to help prevent others fr
 
 Please contact us at [security@polleverywhere.com](mailto:security@polleverywhere.com) or via mail at: 
 
-Poll Everywhere, Inc. Attn: Legal Department 1550 Bryant St. Suite 500 San Francisco CA 94103
+Poll Everywhere, Inc. Attn: Legal Department 639 Howard St San Francisco CA 94105
 
 PLEASE DO NOT SEND ANY SENSITIVE INFORMATION TO US VIA UNENCRYPTED EMAIL. Also, please note that we will need to verify and authenticate any emailed requests for access or changes to your personal or account information.
