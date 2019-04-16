@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220035243id_/https%3A//www.theiconic.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416222603id_/https%3A//www.theiconic.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # THE ICONIC Privacy Policy | THE ICONIC Privacy Policy Statement |
 
@@ -161,7 +161,7 @@ You can update your Personal Information anytime by accessing your account on th
 
     
 
-If you wish to exercise any of your rights under this Privacy Policy, have any questions, comments or complaints regarding our practices, or if you are of the view that we have not adhered to this Privacy Policy, you can contact us by email to complaints@theiconic.com.au. You can find more information about privacy and the protection of your Personal Information on the website of the OAIC at <https://www.oaic.gov.au/>. 
+If you wish to exercise any of your rights under this Privacy Policy, have any questions, comments or complaints regarding our practices, or if you are of the view that we have not adhered to this Privacy Policy, you can contact us by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You can find more information about privacy and the protection of your Personal Information on the website of the OAIC at <https://www.oaic.gov.au/>. 
 
 ## 9.Changes to this Policy
 
