@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneandonlyresorts.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011214018id_/https%3A//www.oneandonlyresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneandonlyresorts.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416035840id_/https%3A//www.oneandonlyresorts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | One&Only Resorts
 
@@ -249,4 +249,4 @@ Further information on the general use and function of the third party cookies l
 
 **How do I turn cookies off?**
 
-If you do not wish us to install cookies or you don’t agree with how we use these cookies, you can change the settings on your internet browser to reject them. For more information please consult the “Help” section of your browser or visit [www.aboutcookies.org](https://web.archive.org/web/20181011214018id_/https%3A//www.oneandonlyresorts.com/http;//www.aboutcookies.org), [www.allaboutcookies.org](http://www.allaboutcookies.org/) or <http://optout.aboutads.info/#/>. Please note that if you do set your browser to reject cookies, you may not be able to use all of the features on our websites.
+If you do not wish us to install cookies or you don’t agree with how we use these cookies, you can change the settings on your internet browser to reject them. For more information please consult the “Help” section of your browser or visit [www.aboutcookies.org](https://web.archive.org/web/20190416035840id_/https%3A//www.oneandonlyresorts.com/http;//www.aboutcookies.org), [www.allaboutcookies.org](http://www.allaboutcookies.org/) or <http://optout.aboutads.info/#/>. Please note that if you do set your browser to reject cookies, you may not be able to use all of the features on our websites.
