@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802210718id_/https%3A//www.beechnut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416192906id_/https%3A//www.beechnut.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Beechnut
 
@@ -29,7 +29,7 @@ We encourage you to promptly update your personal information if it changes.
 
 #### Your Choice on Collection and Use of Your Information
 
-We may, from time to time, send you mailings, either via email, SMS texts or via United States Postal Services (USPS), regarding our products and services. We will send you these mailings only if you indicated that you do not object to these offers. If you have received a communication from us through email or text and you are not interested in receiving future communication in this manner from Beech-Nut Nutrition Company, please reply to the communication with the word “unsubscribe.” If you have received communications through standard USPS mail and you no longer wish to receive information from Beech-Nut Nutrition Company, you can mail or send us a message at http://www.beechnut.com/contact/#contact to request removal from our mailing list. You may ask to have the information on your account deleted or removed; however, it may be impossible to completely delete your information without some residual information because of backups.
+We may, from time to time, send you mailings, either via email, SMS texts or via United States Postal Services (USPS), regarding our products and services. We will send you these mailings only if you indicated that you do not object to these offers. If you have received a communication from us through email or text and you are not interested in receiving future communication in this manner from Beech-Nut Nutrition Company, please reply to the communication with the word “unsubscribe.” If you have received communications through standard USPS mail and you no longer wish to receive information from Beech-Nut Nutrition Company, you can mail or send us a message at https://www.beechnut.com/contact/#contact to request removal from our mailing list. You may ask to have the information on your account deleted or removed; however, it may be impossible to completely delete your information without some residual information because of backups.
 
 #### Our Commitment to Security of Your Personal Information
 
