@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalhealth.org.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226131927id_/https%3A//www.mentalhealth.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalhealth.org.uk privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416231816id_/https%3A//www.mentalhealth.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Mental Health Foundation
 
@@ -162,7 +162,7 @@ Depending on your settings or the privacy policies for social media sites like F
 
 We may participate in Facebook’s 'Custom Audience' programme, which enables us to display adverts to our existing supporters, or people with similar interests, when the
 
-provide your email address, mobile number and address, to Facebook so they can determine whether you are a registered account holder with them (or so they can create a ‘lookalike’ audience). Our adverts may then appear when you access Facebook. Your details are sent in an encrypted format that is deleted by Facebook if it does not match with a Facebook account. For more information about this, please [see Facebook’s relevant guidance and policies](https://www.facebook.com/business/help/744354708981227%20and%20https://en-gb.facebook.com/policy.php).
+provide your email address, mobile number and address, to Facebook so they can determine whether you are a registered account holder with them (or so they can create a ‘lookalike’ audience). Our adverts may then appear when you access Facebook. Your details are sent in an encrypted format that is deleted by Facebook if it does not match with a Facebook account. For more information about this, please [see Facebook’s relevant guidance and policies](https://www.facebook.com/policy.php).
 
 #### Administrative communications
 
