@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the copperhub.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930125403id_/https%3A//www.copperproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copperhub.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416225637id_/https%3A//www.copperproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – CopperProject.com
+
+Privacy Policy
 
 When you decide to work with Element Software, you trust us with your confidential information. The privacy and confidentiality of your information is critically important to us.
 
@@ -14,12 +16,14 @@ This Privacy Policy is meant to help our website visitors and customers understa
 
 We recommend our customers and website visitors to read and understand this document and stay updated with any changes in the privacy policy.
 
+This Privacy Policy is effective to all information collected by Element Software from which an individual can be identified. This Privacy Policy also applies to all personal data received by Element Software in the United States from European Union and European Economic Area.
+
 ### What Type of Information Do We Collect?
 
 In order to provide better services and website experience to our customers and website visitors, we collect information in two ways:
 
-  * When you use our website, respond to our surveys, subscribe to our newsletter, or register to place an online order, we collect information that you provide to us.
-  * When you register to our website or place an online order, we may ask you to enter some personally identifiable information, which may include your name, your email address, your postal address, contact number, and/or credit card information. We may collect this information to provide you better services. However, you may also choose to visit our website anonymously.
+  1. When you use our website, respond to our surveys, subscribe to our newsletter, or register to place an online order, we collect information that you provide to us.
+  2. When you register to our website or place an online order, we may ask you to enter some personally identifiable information, which may include your name, your email address, your postal address, contact number, and/or credit card information. We may collect this information to provide you better services.
 
 
 
@@ -27,11 +31,13 @@ In order to provide better services and website experience to our customers and 
 
 We may use the information we may collect from you for any one or more of the following purposes:
 
-  * We may use the information to offer you personalized website experience and respond to your interests and needs.
-  * We may use the information to provide you better customer support services.
-  * We may use the information to process the orders placed by the user on our website. The information you provide to us while ordering a product may include your name, your email address, your postal address, your contact number, credit card details, etc. We do not share, sell, transfer, or exchange this information with a third-party company for any reason, without your prior consent. We use this information only for the purpose of delivering the product or service purchased online by the user.
-  * We may use your email address to send you periodic newsletter about our products, promotions, and other related information.
-  * We use the email address you provide us while ordering a product or service to send you updates pertaining to your purchase, and to send you our newsletters and emails, which may contain company news, information about new products or services, and other related information.
+  1. We may use the information to offer you personalized website experience and respond to your interests and needs.
+  2. We may use the information to administer the site and analyze its usage.
+  3. We may use the information to provide you better customer support services and troubleshooting.
+  4. We may use the information to process the orders placed by the user on our website.
+  5. We may use the information to carry out our obligations and enforce our rights.
+  6. We may use your email address to send you periodic newsletter about our products, promotions, and other related information.
+  7. We use the email address you provide us while ordering a product or service to send you updates pertaining to your purchase, and to send you our newsletters and emails, which may contain company news, information about new products or services, and other related information.
 
 
 
@@ -41,9 +47,9 @@ We may use the information we may collect from you for any one or more of the fo
 
 We understand that the security and confidentiality of your personal information is critical. Therefore, we employ a variety of technical and physical security measures to ensure the safety of your personal information.
 
-  * During order placement and payment process, all confidential information related to credit cards and financials is transmitted via SSL technology (Secure Socket Layer technology). This information is then encrypted into our secure and controlled Payment gateway providers’ database, which can be accessed only by authorized users.
-  * We encrypt the use of our services using SSL technology.
-  * To mitigate the risk of data breach and loss, we do not store your private information, including your credit card number, your social security number, and other crucial information, on our servers.
+  1. During order placement and payment process, all confidential information related to credit cards and financials is transmitted via SSL technology (Secure Socket Layer technology). This information is then encrypted into our secure and controlled Payment gateway providers’ database, which can be accessed only by authorized users.
+  2. We encrypt the use of our services using SSL technology.
+  3. To mitigate the risk of data breach and loss, we do not store your private information, including your credit card number, your social security number, and other crucial information, on our servers.
 
 
 
@@ -59,20 +65,20 @@ We may also hire the services of third-parties to gain a better understanding of
 
 We respect your security and privacy, and we do not share, trade, sell, or otherwise transfer your personally identifiable information with outside parties. However, we may share your information with trusted third parties to provide you improved services and website experience. These third-party service providers assist us in operating our business and/or providing services to our customers, and they agree to abide by the rules and regulations mentioned in this privacy policy.
 
-We may release your information when we our legally required to do so to respond to a court order or to comply with the rules and regulations, to protect ours or others rights, safety, or property, or to enforce our policies.
+We may release your information when we are legally required to do so to respond to a court order or to comply with the rules and regulations, to protect ours or others rights, safety, or property, or to enforce our policies
 
 ### Our Compliance with California Online Privacy Protection Act
 
 Since we value your privacy, we have taken all reasonable measure to comply with the rules and regulations of the California Online Privacy Protect Act.
 
-  * We do not distribute or share your personally identifiable information with outside parties without your prior consent.
-  * We allow you to access and modify your information anytime using the ‘Edit Profile’ page.
+  1. We do not distribute or share your personally identifiable information with outside parties without your prior consent.
+  2. We allow you to access and modify your information anytime using the ‘Edit Profile’ page.
 
 
 
 ### Will This Privacy Policy Change?
 
-This Privacy Policy was last modified on 11/5/2015.
+This Privacy Policy was last modified on 05/25/2018.
 
 If we make any changes to this privacy policy, the changes will be posted on our website. We recommend you to check this document before proceeding to use our website and services.
 
