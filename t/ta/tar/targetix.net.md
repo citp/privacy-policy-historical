@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetix.net privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906120206id_/https%3A//hybrid.ai/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetix.net privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416032839id_/https%3A//hybrid.ai/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | hybrid.ai | hybrid.ai
 
@@ -78,6 +78,8 @@ Valley Cottage, NY 10989, USA
   * +1 (646) 883 5777
 
 
+
+## Hybrid Adtech Website Privacy Policy
 
 Effective: January 1, 2018
 
