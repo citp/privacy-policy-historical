@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the athome.com privacy policy that was archived on 2018-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181023001749id_/https%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the athome.com privacy policy that was archived on 2019-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190416164821id_/https%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><!-- Google Tag Manager --><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://u.heatmap.it/log.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KHD73QP"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -99,7 +99,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <meta name="description" content="  ">
 <meta name="keywords" content=" Privacy Policy ">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 
 
 
@@ -107,7 +107,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/js/lib/html5.js"></script>
 <![endif]-->
 <script>
 (function(h,e,a,t,m,p) {
@@ -130,7 +130,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -176,6 +182,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -208,7 +241,7 @@ certona.callback = "certonaUtils.processRecommendationResponse";
 
 
 <!-- UI -->
-<link rel="stylesheet" href="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/css/style.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -253,7 +286,7 @@ window.location.reload();
 
 
 
-<script src="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/lib/jquery/2.1.1-and-ui-combined.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/lib/jquery/2.1.1-and-ui-combined.min.js" type="text/javascript"></script>
 
 
 
@@ -375,7 +408,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<img src="https://www.athome.com/on/demandware.static/-/Sites/default/dw8772f01b/at-home-holiday-logo.png" onerror="this.onerror=null; this.src='https://www.athome.com/on/demandware.static/-/Sites/default/dw8772f01b/at-home-holiday-logo.png'" id="at-home-logo" alt="At Home® - The Home &amp; Holiday Décor Superstore">
+<img src="https://www.athome.com/on/demandware.static/-/Sites/default/dw7fe9e102/at-home-logo.png" onerror="this.onerror=null; this.src='https://www.athome.com/on/demandware.static/-/Sites/default/dw7fe9e102/at-home-logo.png'" id="at-home-logo" alt="At Home® - The Home Décor Superstore">
 
 
  
@@ -388,8 +421,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="mobile-cart mobile-show">
 
-<a href="https://www.athome.com/store-find/" class="mobile-store-search-button">
-<div class="store-locator-icon sprite mobileFindStoreBtn"></div>
+<a href="https://www.athome.com/store-find/" class="mobile-store-search-button" aria-label="Find a Store">
+<div class="store-locator-icon sprite mobileFindStoreBtn" aria-hidden="true"></div>
 </a>
 </div>
 <div class="mobile-search-button mobile-show">
@@ -407,28 +440,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <style>
-  .hdr-promo-href {
-       width: 320px;
-       display: inline-block;
-       padding-top: 5px;
-  }
-  .hdr-promo-txt-1 {
-      font-size: 18pt;
-      color: #00b3dd; 
-      font-weight: 200; 
+.hdr-promo-href {
+     width: 320px;
+     display: inline-block;
+     padding-top: 5px;
 }
-  .hdr-promo-txt-2 {font-size: 14pt;font-weight: 700;}
+.hdr-promo-txt-1 {
+    font-size: 18pt;
+    color: #0097BD;
+    font-weight: 200;
+}
+.hdr-promo-txt-2 {font-size: 14pt;font-weight: 700;}
 
 @media screen and (max-width: 767px) {
 .footer-promo-banner {
-   width: 100%;
-    background: #00b3dd;
-    margin:0;
-    text-align: center;
-    display: inline-block;
+ width: 100%;
+  background: #00b3dd;
+  margin:0;
+  text-align: center;
+  display: inline-block;
 }
 .footer-promo-banner  .hdr-promo-txt-1 {
-   color: white;
+ color: white;
 }
 .footer-promo-banner  .hdr-promo-href {padding: 50px 0px; width: 100%;}
 }
@@ -446,7 +479,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 <div id="mobile-search-bar" class="find-store-container header-search">
 
-<form role="search" id="simpleSearchForm" action="/search/" method="get" name="simpleSearch">
+<form role="search" class="simpleSearchForm" action="/search/" method="get" name="simpleSearch">
 <fieldset>
 <legend style="display: none;">Search AtHome.com</legend>
 <label class="visually-hidden" for="q">Search Catalog</label>
@@ -455,7 +488,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <span class="hide">Search</span>
 <i class="search-menu-icon fa fa-search"></i>
 </button>
-<input type="text" id="q" name="q" value="" class="search-input" autocomplete="off" placeholder="">
+<input type="text" name="q" value="" class="search-input q" autocomplete="off" placeholder="" aria-label="Search At Home">
 </fieldset>
 </form>
 
@@ -491,7 +524,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="my-account">
 	
-		<a href="#" id="myaccount-link" class="store-search-button">
+		<a href="#" class="store-search-button">
 			
 			<span class="storeLabel">My Account
 			<div class="toggle-down-icon sprite menuDownImg"></div></span>
@@ -513,7 +546,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 </div>
 </div>
-<div class="menu-nav">
+<div class="menu-nav" role="navigation">
 <nav id="navigation">
 
 
@@ -596,13 +629,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="menudisplay">
 <div class="mobile-show mobile-top-bar">
 <div class="mobile-find-a-store">
-<a href="https://www.athome.com/home/">
-<div class="mobile-menu-logo-icon sprite"></div>
-<i class="toggle-up-icon fa fa-angle-left"></i>
+<a href="https://www.athome.com/home/" aria-label="Mobile Nav Home">
+<div class="mobile-menu-logo-icon sprite" aria-hidden="true"></div>
+<i class="toggle-up-icon fa fa-angle-left" aria-hidden="true"></i>
 </a>
 </div>
 <span class="menu-title-text"></span>
-<span class="menu-close"><i class="close-menu-icon fa fa-times"></i></span>
+<span class="menu-close" aria-label="Close Menu"><i class="close-menu-icon fa fa-times" aria-hidden="true"></i></span>
 </div>
 
 
@@ -620,7 +653,7 @@ Departments
 </a>
 
 <div class="toggle-down-icon sprite menuDownImg"></div>
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -637,7 +670,7 @@ Departments
 Furniture
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -648,7 +681,7 @@ Furniture
 Living Room
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -699,7 +732,7 @@ Ottomans &amp; Benches
 Bedroom
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -750,7 +783,7 @@ Bedroom Benches &amp; Ottomans
 Dining Room
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -779,15 +812,15 @@ Dining Chairs
 Barstools
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-5">
 
 <li id="counter-height" data-category-id="counter-height">
-<a href="https://www.athome.com/counter-height/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Counter');">
-Counter
+<a href="https://www.athome.com/counter-height/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Counter Height Barstools');">
+Counter Height Barstools
 </a>
 
 
@@ -795,8 +828,8 @@ Counter
 </li>
 
 <li id="bar-height" data-category-id="bar-height">
-<a href="https://www.athome.com/bar-height/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bar');">
-Bar
+<a href="https://www.athome.com/bar-height/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bar Height Barstools');">
+Bar Height Barstools
 </a>
 
 
@@ -843,7 +876,7 @@ Baker's Racks &amp; Bar Carts
 Office
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -876,7 +909,7 @@ Patio
 Accent Furniture
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -919,8 +952,8 @@ Cabinets &amp; Chests
 </li>
 
 <li id="bookcases-shelves" data-category-id="bookcases-shelves">
-<a href="https://www.athome.com/bookcases-shelves/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bookcases &amp; Shelves');">
-Bookcases &amp; Shelves
+<a href="https://www.athome.com/bookcases-shelves/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bookcases, Shelves &amp; Barcarts');">
+Bookcases, Shelves &amp; Barcarts
 </a>
 
 
@@ -945,15 +978,6 @@ Coat Racks
 
 </li>
 
-<li id="room-dividers-screens" data-category-id="room-dividers-screens">
-<a href="https://www.athome.com/room-dividers-screens/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Room Dividers &amp; Screens');">
-Room Dividers &amp; Screens
-</a>
-
-
-
-</li>
-
 </ul>
 
 </li>
@@ -967,18 +991,18 @@ Room Dividers &amp; Screens
 Home Décor
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-3">
 
-<li class="level3-toggle-down" id="trend-collections" data-category-id="trend-collections">
-<a href="https://www.athome.com/trend-collections/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Trend Collections');">
-Trend Collections
+<li class="level3-toggle-down" id="home-decor-collections" data-category-id="home-decor-collections">
+<a href="https://www.athome.com/home-decor-collections/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Décor Collections');">
+Décor Collections
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -989,11 +1013,20 @@ Trend Collections
 Shanty2Chic
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-5">
+
+<li id="shanty-2-chic-all" data-category-id="shanty-2-chic-all">
+<a href="https://www.athome.com/shanty-2-chic-all/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'All Shanty2Chic');">
+All Shanty2Chic
+</a>
+
+
+
+</li>
 
 <li id="shanty-2-chic-furniture" data-category-id="shanty-2-chic-furniture">
 <a href="https://www.athome.com/shanty-2-chic-furniture/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Shanty2Chic Furniture');">
@@ -1023,8 +1056,8 @@ Shanty2Chic Wall Décor
 </li>
 
 <li id="shanty-2-chic-details" data-category-id="shanty-2-chic-details">
-<a href="https://www.athome.com/shanty-2-chic-details/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Shanty2Chic Details');">
-Shanty2Chic Details
+<a href="https://www.athome.com/shanty-2-chic-details/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Shanty2Chic Details &amp; Quality');">
+Shanty2Chic Details &amp; Quality
 </a>
 
 
@@ -1032,69 +1065,6 @@ Shanty2Chic Details
 </li>
 
 </ul>
-
-</li>
-
-<li id="contemporary-coastal" data-category-id="contemporary-coastal">
-<a href="https://www.athome.com/contemporary-coastal/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Contemporary Coastal');">
-Contemporary Coastal
-</a>
-
-
-
-</li>
-
-<li id="mexico-modern" data-category-id="mexico-modern">
-<a href="https://www.athome.com/mexico-modern/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Mexico Modern');">
-Mexico Modern
-</a>
-
-
-
-</li>
-
-<li id="art-gallery" data-category-id="art-gallery">
-<a href="https://www.athome.com/art-gallery/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Art Gallery');">
-Art Gallery
-</a>
-
-
-
-</li>
-
-<li id="farmhouse-floral" data-category-id="farmhouse-floral">
-<a href="https://www.athome.com/farmhouse-floral/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Farmhouse Floral');">
-Farmhouse Floral
-</a>
-
-
-
-</li>
-
-<li id="global-bazaar" data-category-id="global-bazaar">
-<a href="https://www.athome.com/global-bazaar/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Global Bazaar');">
-Global Bazaar
-</a>
-
-
-
-</li>
-
-<li id="nature-study" data-category-id="nature-study">
-<a href="https://www.athome.com/nature-study/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Nature Study');">
-Nature Study
-</a>
-
-
-
-</li>
-
-<li id="neutrals-naturals" data-category-id="neutrals-naturals">
-<a href="https://www.athome.com/neutrals-naturals/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Neutrals &amp; Naturals');">
-Neutrals &amp; Naturals
-</a>
-
-
 
 </li>
 
@@ -1107,7 +1077,7 @@ Neutrals &amp; Naturals
 Home Accents
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -1131,9 +1101,9 @@ Bottles &amp; Jars
 
 </li>
 
-<li id="boxes-containers" data-category-id="boxes-containers">
-<a href="https://www.athome.com/boxes-containers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Boxes &amp; Containers');">
-Boxes &amp; Containers
+<li id="decorative-boxes" data-category-id="decorative-boxes">
+<a href="https://www.athome.com/decorative-boxes/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Decorative Boxes, Trunks &amp; Containers');">
+Decorative Boxes, Trunks &amp; Containers
 </a>
 
 
@@ -1154,24 +1124,51 @@ Candle Holders
 Candles &amp; Home Fragrance
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-5">
 
-<li id="scented-pillars" data-category-id="scented-pillars">
-<a href="https://www.athome.com/scented-pillars/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Scented Pillars');">
-Scented Pillars
+<li id="scented-candles" data-category-id="scented-candles">
+<a href="https://www.athome.com/scented-candles/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Scented Candles');">
+Scented Candles
 </a>
 
 
 
 </li>
 
-<li id="unscented-pillars" data-category-id="unscented-pillars">
-<a href="https://www.athome.com/unscented-pillars/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Unscented Pillars');">
-Unscented Pillars
+<li id="unscented-candles" data-category-id="unscented-candles">
+<a href="https://www.athome.com/unscented-candles/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Unscented Candles');">
+Unscented Candles
+</a>
+
+
+
+</li>
+
+<li id="pillar-candles" data-category-id="pillar-candles">
+<a href="https://www.athome.com/pillar-candles/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Pillar Candles');">
+Pillar Candles
+</a>
+
+
+
+</li>
+
+<li id="candle-jars" data-category-id="candle-jars">
+<a href="https://www.athome.com/candle-jars/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Candle Jars');">
+Candle Jars
+</a>
+
+
+
+</li>
+
+<li id="flameless-candles" data-category-id="flameless-candles">
+<a href="https://www.athome.com/flameless-candles/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Flameless &amp; LED Candles');">
+Flameless &amp; LED Candles
 </a>
 
 
@@ -1179,26 +1176,8 @@ Unscented Pillars
 </li>
 
 <li id="decorative-candles" data-category-id="decorative-candles">
-<a href="https://www.athome.com/decorative-candles/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Decorative Candles');">
-Decorative Candles
-</a>
-
-
-
-</li>
-
-<li id="scented-jars" data-category-id="scented-jars">
-<a href="https://www.athome.com/scented-jars/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Scented Jar Candles');">
-Scented Jar Candles
-</a>
-
-
-
-</li>
-
-<li id="led-candles" data-category-id="led-candles">
-<a href="https://www.athome.com/led-candles/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Battery Operated Candles');">
-Battery Operated Candles
+<a href="https://www.athome.com/decorative-candles/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Decorative &amp; Novelty Candles');">
+Decorative &amp; Novelty Candles
 </a>
 
 
@@ -1214,9 +1193,36 @@ Taper, Votive &amp; Tealight Candles
 
 </li>
 
-<li id="home-scents" data-category-id="home-scents">
-<a href="https://www.athome.com/home-scents/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Home Fragrances');">
-Home Fragrances
+<li id="essential-oils" data-category-id="essential-oils">
+<a href="https://www.athome.com/essential-oils/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Essential Oils &amp; Diffusers');">
+Essential Oils &amp; Diffusers
+</a>
+
+
+
+</li>
+
+<li id="wax-warmers-melts" data-category-id="wax-warmers-melts">
+<a href="https://www.athome.com/wax-warmers-melts/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wax Warmers &amp; Melts');">
+Wax Warmers &amp; Melts
+</a>
+
+
+
+</li>
+
+<li id="air-fresheners" data-category-id="air-fresheners">
+<a href="https://www.athome.com/air-fresheners/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Room Sprays, Potpourri &amp; More');">
+Room Sprays, Potpourri &amp; More
+</a>
+
+
+
+</li>
+
+<li id="sachets" data-category-id="sachets">
+<a href="https://www.athome.com/sachets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Sachets');">
+Sachets
 </a>
 
 
@@ -1254,27 +1260,9 @@ Decorative Spheres
 
 </li>
 
-<li id="dried-floral" data-category-id="dried-floral">
-<a href="https://www.athome.com/dried-floral/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Dried Floral');">
-Dried Floral
-</a>
-
-
-
-</li>
-
-<li id="faux-floral-greenery" data-category-id="faux-floral-greenery">
-<a href="https://www.athome.com/faux-floral-greenery/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Faux Floral &amp; Greenery');">
-Faux Floral &amp; Greenery
-</a>
-
-
-
-</li>
-
-<li id="floor-plants-trees" data-category-id="floor-plants-trees">
-<a href="https://www.athome.com/floor-plants-trees/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Floor Plants &amp; Trees');">
-Floor Plants &amp; Trees
+<li id="easels-stands" data-category-id="easels-stands">
+<a href="https://www.athome.com/easels-stands/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Easels, Risers &amp; Stands');">
+Easels, Risers &amp; Stands
 </a>
 
 
@@ -1308,9 +1296,56 @@ Tabletop Signs
 
 </li>
 
-<li id="vases" data-category-id="vases">
+<li class="level4-toggle-down" id="vases" data-category-id="vases">
 <a href="https://www.athome.com/vases/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Vases');">
 Vases
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-5">
+
+<li id="glass-vases" data-category-id="glass-vases">
+<a href="https://www.athome.com/glass-vases/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Glass Vases');">
+Glass Vases
+</a>
+
+
+
+</li>
+
+<li id="decorative-vases" data-category-id="decorative-vases">
+<a href="https://www.athome.com/decorative-vases/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Decorative Vases');">
+Decorative Vases
+</a>
+
+
+
+</li>
+
+<li id="ceramic-vases" data-category-id="ceramic-vases">
+<a href="https://www.athome.com/ceramic-vases/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Ceramic Vases');">
+Ceramic Vases
+</a>
+
+
+
+</li>
+
+<li id="metal-vases" data-category-id="metal-vases">
+<a href="https://www.athome.com/metal-vases/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Metal Vases');">
+Metal Vases
+</a>
+
+
+
+</li>
+
+<li id="natural-vases" data-category-id="natural-vases">
+<a href="https://www.athome.com/natural-vases/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bamboo, Jute &amp; Natural Vases');">
+Bamboo, Jute &amp; Natural Vases
 </a>
 
 
@@ -1321,20 +1356,44 @@ Vases
 
 </li>
 
-<li class="level3-toggle-down" id="lamps" data-category-id="lamps">
-<a href="https://www.athome.com/lamps/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lighting');">
+<li id="vase-bowl-fillers" data-category-id="vase-bowl-fillers">
+<a href="https://www.athome.com/vase-bowl-fillers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Vase Fillers &amp; Decorative Bowl Fillers');">
+Vase Fillers &amp; Decorative Bowl Fillers
+</a>
+
+
+
+</li>
+
+</ul>
+
+</li>
+
+<li class="level3-toggle-down" id="lighting" data-category-id="lighting">
+<a href="https://www.athome.com/lighting/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lighting');">
 Lighting
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="lamps-all" data-category-id="lamps-all">
-<a href="https://www.athome.com/lamps-all/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lamps');">
+<li class="level4-toggle-down" id="lamps" data-category-id="lamps">
+<a href="https://www.athome.com/lamps/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lamps');">
 Lamps
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-5">
+
+<li id="floor-lamps" data-category-id="floor-lamps">
+<a href="https://www.athome.com/floor-lamps/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Floor Lamps');">
+Floor Lamps
 </a>
 
 
@@ -1359,18 +1418,9 @@ Table Lamps
 
 </li>
 
-<li id="floor-lamps" data-category-id="floor-lamps">
-<a href="https://www.athome.com/floor-lamps/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Floor Lamps');">
-Floor Lamps
-</a>
-
-
-
-</li>
-
-<li id="uplights-chandeliers" data-category-id="uplights-chandeliers">
-<a href="https://www.athome.com/uplights-chandeliers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Uplights');">
-Uplights
+<li id="large-table-lamps" data-category-id="large-table-lamps">
+<a href="https://www.athome.com/large-table-lamps/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Large/Oversized Table Lamps');">
+Large/Oversized Table Lamps
 </a>
 
 
@@ -1386,56 +1436,18 @@ Buffet Lamps
 
 </li>
 
-<li class="level4-toggle-down" id="lampshades" data-category-id="lampshades">
-<a href="https://www.athome.com/lampshades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lampshades');">
-Lampshades
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-5">
-
-<li id="accent-shades" data-category-id="accent-shades">
-<a href="https://www.athome.com/accent-shades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Accent Lampshades');">
-Accent Lampshades
+<li id="desk-lamps" data-category-id="desk-lamps">
+<a href="https://www.athome.com/desk-lamps/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Desk Lamps &amp; Task Lamps');">
+Desk Lamps &amp; Task Lamps
 </a>
 
 
 
 </li>
 
-<li id="table-shades" data-category-id="table-shades">
-<a href="https://www.athome.com/table-shades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Table Lampshades');">
-Table Lampshades
-</a>
-
-
-
-</li>
-
-<li id="bell-empire" data-category-id="bell-empire">
-<a href="https://www.athome.com/bell-empire/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bell / Empire');">
-Bell / Empire
-</a>
-
-
-
-</li>
-
-<li id="rectangle-square" data-category-id="rectangle-square">
-<a href="https://www.athome.com/rectangle-square/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Rectangle / Square');">
-Rectangle / Square
-</a>
-
-
-
-</li>
-
-<li id="drum" data-category-id="drum">
-<a href="https://www.athome.com/drum/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Drum');">
-Drum
+<li id="specialty-boxed-lamps" data-category-id="specialty-boxed-lamps">
+<a href="https://www.athome.com/specialty-boxed-lamps/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Specialty Lamps');">
+Specialty Lamps
 </a>
 
 
@@ -1446,9 +1458,96 @@ Drum
 
 </li>
 
-<li id="lamp-accessories" data-category-id="lamp-accessories">
-<a href="https://www.athome.com/lamp-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Harps &amp; Finials');">
-Harps &amp; Finials
+<li class="level4-toggle-down" id="lamp-shades" data-category-id="lamp-shades">
+<a href="https://www.athome.com/lamp-shades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lamp Shades');">
+Lamp Shades
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-5">
+
+<li id="accent-lamp-shades" data-category-id="accent-lamp-shades">
+<a href="https://www.athome.com/accent-lamp-shades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Accent Lamp Shades');">
+Accent Lamp Shades
+</a>
+
+
+
+</li>
+
+<li id="fashion-accent-lamp-shades" data-category-id="fashion-accent-lamp-shades">
+<a href="https://www.athome.com/fashion-accent-lamp-shades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Fashion Accent Lamp Shades');">
+Fashion Accent Lamp Shades
+</a>
+
+
+
+</li>
+
+<li id="table-lamp-shades" data-category-id="table-lamp-shades">
+<a href="https://www.athome.com/table-lamp-shades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Table Lamp Shades');">
+Table Lamp Shades
+</a>
+
+
+
+</li>
+
+<li id="fashion-table-lamp-shades" data-category-id="fashion-table-lamp-shades">
+<a href="https://www.athome.com/fashion-table-lamp-shades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Fashion Table Lamp Shades');">
+Fashion Table Lamp Shades
+</a>
+
+
+
+</li>
+
+<li id="large-lamp-shades" data-category-id="large-lamp-shades">
+<a href="https://www.athome.com/large-lamp-shades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Large/Oversized Lamp Shades');">
+Large/Oversized Lamp Shades
+</a>
+
+
+
+</li>
+
+<li id="chandelier-shades" data-category-id="chandelier-shades">
+<a href="https://www.athome.com/chandelier-shades/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Chandelier &amp; Small Lamp Shades');">
+Chandelier &amp; Small Lamp Shades
+</a>
+
+
+
+</li>
+
+</ul>
+
+</li>
+
+<li id="lamp-finials-harps" data-category-id="lamp-finials-harps">
+<a href="https://www.athome.com/lamp-finials-harps/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lamp Finials &amp; Lamp Harps');">
+Lamp Finials &amp; Lamp Harps
+</a>
+
+
+
+</li>
+
+<li id="uplighting" data-category-id="uplighting">
+<a href="https://www.athome.com/uplighting/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Uplights');">
+Uplights
+</a>
+
+
+
+</li>
+
+<li id="light-bulbs" data-category-id="light-bulbs">
+<a href="https://www.athome.com/light-bulbs/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Light Bulbs');">
+Light Bulbs
 </a>
 
 
@@ -1464,15 +1563,15 @@ Harps &amp; Finials
 Pillows &amp; Throws
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
 <li id="solid-pillows" data-category-id="solid-pillows">
-<a href="https://www.athome.com/solid-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Solid');">
-Solid
+<a href="https://www.athome.com/solid-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Solid Pillows');">
+Solid Pillows
 </a>
 
 
@@ -1480,8 +1579,8 @@ Solid
 </li>
 
 <li id="oblong-pillows" data-category-id="oblong-pillows">
-<a href="https://www.athome.com/oblong-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Oblong');">
-Oblong
+<a href="https://www.athome.com/oblong-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Oblong Pillows');">
+Oblong Pillows
 </a>
 
 
@@ -1489,8 +1588,8 @@ Oblong
 </li>
 
 <li id="oversized-pillows" data-category-id="oversized-pillows">
-<a href="https://www.athome.com/oversized-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Oversized');">
-Oversized
+<a href="https://www.athome.com/oversized-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Oversized Pillows');">
+Oversized Pillows
 </a>
 
 
@@ -1498,8 +1597,8 @@ Oversized
 </li>
 
 <li id="expression-pillows" data-category-id="expression-pillows">
-<a href="https://www.athome.com/expression-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Expression');">
-Expression
+<a href="https://www.athome.com/expression-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Expression Pillows');">
+Expression Pillows
 </a>
 
 
@@ -1507,8 +1606,8 @@ Expression
 </li>
 
 <li id="printed-pillows" data-category-id="printed-pillows">
-<a href="https://www.athome.com/printed-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Prints');">
-Prints
+<a href="https://www.athome.com/printed-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Printed Pillows');">
+Printed Pillows
 </a>
 
 
@@ -1516,8 +1615,8 @@ Prints
 </li>
 
 <li id="novelty-pillows" data-category-id="novelty-pillows">
-<a href="https://www.athome.com/novelty-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Novelty');">
-Novelty
+<a href="https://www.athome.com/novelty-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Novelty Pillows');">
+Novelty Pillows
 </a>
 
 
@@ -1537,36 +1636,166 @@ Throws
 
 </li>
 
-<li class="level3-toggle-down" id="wall-decor" data-category-id="wall-decor">
-<a href="https://www.athome.com/wall-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wall Décor');">
-Wall Décor
+<li class="level3-toggle-down" id="faux-floral-greenery" data-category-id="faux-floral-greenery">
+<a href="https://www.athome.com/faux-floral-greenery/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Faux Floral &amp; Greenery');">
+Faux Floral &amp; Greenery
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="featured-artist" data-category-id="featured-artist">
-<a href="https://www.athome.com/featured-artist/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Exclusive Artist Melissa Ellis');">
-Exclusive Artist Melissa Ellis
+<li id="floor-plants-trees" data-category-id="floor-plants-trees">
+<a href="https://www.athome.com/floor-plants-trees/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Floor Plants &amp; Trees');">
+Floor Plants &amp; Trees
 </a>
 
 
 
 </li>
 
-<li class="level4-toggle-down" id="canvas-art" data-category-id="canvas-art">
+</ul>
+
+</li>
+
+<li class="level3-toggle-down" id="window-treatments" data-category-id="window-treatments">
+<a href="https://www.athome.com/window-treatments/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Window Treatments');">
+Window Treatments
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-4">
+
+<li id="curtains-drapes" data-category-id="curtains-drapes">
+<a href="https://www.athome.com/curtains-drapes/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Curtains &amp; Drapes');">
+Curtains &amp; Drapes
+</a>
+
+
+
+</li>
+
+<li id="window-hardware" data-category-id="window-hardware">
+<a href="https://www.athome.com/window-hardware/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Window Hardware');">
+Window Hardware
+</a>
+
+
+
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+
+<li class="level2-toggle-down" id="wall-decor" data-category-id="wall-decor">
+<a href="https://www.athome.com/wall-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wall Décor');">
+Wall Décor
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-3">
+
+<li class="level3-toggle-down" id="mirrors" data-category-id="mirrors">
+<a href="https://www.athome.com/mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Mirrors');">
+Mirrors
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-4">
+
+<li id="full-length-mirrors" data-category-id="full-length-mirrors">
+<a href="https://www.athome.com/full-length-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Full-Length Mirrors');">
+Full-Length Mirrors
+</a>
+
+
+
+</li>
+
+<li id="irregular-mirrors" data-category-id="irregular-mirrors">
+<a href="https://www.athome.com/irregular-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Irregular');">
+Irregular
+</a>
+
+
+
+</li>
+
+<li id="rectangle-mirrors" data-category-id="rectangle-mirrors">
+<a href="https://www.athome.com/rectangle-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Rectangle Mirrors');">
+Rectangle Mirrors
+</a>
+
+
+
+</li>
+
+<li id="round-mirrors" data-category-id="round-mirrors">
+<a href="https://www.athome.com/round-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Round Mirrors');">
+Round Mirrors
+</a>
+
+
+
+</li>
+
+<li id="starburst" data-category-id="starburst">
+<a href="https://www.athome.com/starburst/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Starburst');">
+Starburst
+</a>
+
+
+
+</li>
+
+<li id="door-mirrors" data-category-id="door-mirrors">
+<a href="https://www.athome.com/door-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Door Mirrors');">
+Door Mirrors
+</a>
+
+
+
+</li>
+
+</ul>
+
+</li>
+
+<li id="clocks" data-category-id="clocks">
+<a href="https://www.athome.com/clocks/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Clocks');">
+Clocks
+</a>
+
+
+
+</li>
+
+<li class="level3-toggle-down" id="canvas-art" data-category-id="canvas-art">
 <a href="https://www.athome.com/canvas-art/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Canvas Art');">
 Canvas Art
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
-<ul class="level-5">
+<ul class="level-4">
 
 <li id="canvas-art-large" data-category-id="canvas-art-large">
 <a href="https://www.athome.com/canvas-art-large/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Large Canvas Art');">
@@ -1600,8 +1829,8 @@ Small Canvas Art
 </li>
 
 <li id="framed-art" data-category-id="framed-art">
-<a href="https://www.athome.com/framed-art/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Art Under Glass');">
-Art Under Glass
+<a href="https://www.athome.com/framed-art/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Framed Art');">
+Framed Art
 </a>
 
 
@@ -1653,9 +1882,56 @@ Decorative Crosses
 
 </li>
 
-<li id="gallerywall" data-category-id="gallerywall">
-<a href="https://www.athome.com/gallerywall/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Gallery Wall Frame Collection');">
-Gallery Wall Frame Collection
+<li class="level3-toggle-down" id="frames" data-category-id="frames">
+<a href="https://www.athome.com/frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Frames');">
+Frames
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-4">
+
+<li id="black-picture-frames" data-category-id="black-picture-frames">
+<a href="https://www.athome.com/black-picture-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Black Frames');">
+Black Frames
+</a>
+
+
+
+</li>
+
+<li id="grey-picture-frames" data-category-id="grey-picture-frames">
+<a href="https://www.athome.com/grey-picture-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Grey Frames');">
+Grey Frames
+</a>
+
+
+
+</li>
+
+<li id="brown-picture-frames" data-category-id="brown-picture-frames">
+<a href="https://www.athome.com/brown-picture-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Brown Frames');">
+Brown Frames
+</a>
+
+
+
+</li>
+
+<li id="gold-picture-frames" data-category-id="gold-picture-frames">
+<a href="https://www.athome.com/gold-picture-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Gold Frames');">
+Gold Frames
+</a>
+
+
+
+</li>
+
+<li id="silver-picture-frames" data-category-id="silver-picture-frames">
+<a href="https://www.athome.com/silver-picture-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Silver Frames');">
+Silver Frames
 </a>
 
 
@@ -1671,9 +1947,58 @@ Wall Frames
 
 </li>
 
-<li id="art-wall-clocks" data-category-id="art-wall-clocks">
-<a href="https://www.athome.com/art-wall-clocks/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wall Clocks');">
-Wall Clocks
+<li id="gallery-wall-frames" data-category-id="gallery-wall-frames">
+<a href="https://www.athome.com/gallery-wall-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Pick &amp; Mix Gallery Frames');">
+Pick &amp; Mix Gallery Frames
+</a>
+
+
+
+</li>
+
+<li id="tabletop-frames" data-category-id="tabletop-frames">
+<a href="https://www.athome.com/tabletop-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Tabletop Picture Frames');">
+Tabletop Picture Frames
+</a>
+
+
+
+</li>
+
+<li id="collage-picture-frames" data-category-id="collage-picture-frames">
+<a href="https://www.athome.com/collage-picture-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Collage Frames');">
+Collage Frames
+</a>
+
+
+
+</li>
+
+<li id="art-frames" data-category-id="art-frames">
+<a href="https://www.athome.com/art-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Art Frames');">
+Art Frames
+</a>
+
+
+
+</li>
+
+<li id="portrait-frames" data-category-id="portrait-frames">
+<a href="https://www.athome.com/portrait-frames/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Portrait Frames');">
+Portrait Frames
+</a>
+
+
+
+</li>
+
+</ul>
+
+</li>
+
+<li id="wall-sconces" data-category-id="wall-sconces">
+<a href="https://www.athome.com/wall-sconces/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wall Sconces');">
+Wall Sconces
 </a>
 
 
@@ -1690,141 +2015,20 @@ Ledges &amp; Shelves
 </li>
 
 <li id="kids-wall-decor" data-category-id="kids-wall-decor">
-<a href="https://www.athome.com/kids-wall-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kids Wall Decor');">
-Kids Wall Decor
+<a href="https://www.athome.com/kids-wall-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kids Wall Décor');">
+Kids Wall Décor
 </a>
 
 
 
 </li>
 
-</ul>
-
-</li>
-
-<li class="level3-toggle-down" id="mirrors" data-category-id="mirrors">
-<a href="https://www.athome.com/mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Mirrors');">
-Mirrors
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li id="full-length-mirrors" data-category-id="full-length-mirrors">
-<a href="https://www.athome.com/full-length-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Full-Length');">
-Full-Length
+<li id="wall-hanging" data-category-id="wall-hanging">
+<a href="https://www.athome.com/wall-hanging/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wall Hanging Hardware');">
+Wall Hanging Hardware
 </a>
 
 
-
-</li>
-
-<li id="irregular-mirrors" data-category-id="irregular-mirrors">
-<a href="https://www.athome.com/irregular-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Irregular');">
-Irregular
-</a>
-
-
-
-</li>
-
-<li id="rectangle-mirrors" data-category-id="rectangle-mirrors">
-<a href="https://www.athome.com/rectangle-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Rectangle');">
-Rectangle
-</a>
-
-
-
-</li>
-
-<li id="round-mirrors" data-category-id="round-mirrors">
-<a href="https://www.athome.com/round-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Round');">
-Round
-</a>
-
-
-
-</li>
-
-<li id="starburst" data-category-id="starburst">
-<a href="https://www.athome.com/starburst/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Starburst');">
-Starburst
-</a>
-
-
-
-</li>
-
-<li id="door-mirrors" data-category-id="door-mirrors">
-<a href="https://www.athome.com/door-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Door Mirrors');">
-Door Mirrors
-</a>
-
-
-
-</li>
-
-</ul>
-
-</li>
-
-<li class="level3-toggle-down" id="clocks" data-category-id="clocks">
-<a href="https://www.athome.com/clocks/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Clocks');">
-Clocks
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li id="wall-clocks" data-category-id="wall-clocks">
-<a href="https://www.athome.com/wall-clocks/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wall Clocks');">
-Wall Clocks
-</a>
-
-
-
-</li>
-
-</ul>
-
-</li>
-
-<li class="level3-toggle-down" id="window-treatments" data-category-id="window-treatments">
-<a href="https://www.athome.com/window-treatments/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Window Treatments');">
-Window Treatments
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li id="curtains-drapes" data-category-id="curtains-drapes">
-<a href="https://www.athome.com/curtains-drapes/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Curtains &amp; Drapes');">
-Curtains &amp; Drapes
-</a>
-
-
-
-</li>
-
-<li id="window-hardware" data-category-id="window-hardware">
-<a href="https://www.athome.com/window-hardware/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Window Hardware');">
-Window Hardware
-</a>
-
-
-
-</li>
-
-</ul>
 
 </li>
 
@@ -1837,7 +2041,7 @@ Window Hardware
 Rugs
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -1933,7 +2137,7 @@ Rug Pads
 Kitchen &amp; Dining
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -1944,7 +2148,7 @@ Kitchen &amp; Dining
 Food Storage
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -1972,45 +2176,12 @@ Lunch Bags &amp; On-The-Go
 
 </li>
 
-<li class="level3-toggle-down" id="kitchen-organization" data-category-id="kitchen-organization">
+<li id="kitchen-organization" data-category-id="kitchen-organization">
 <a href="https://www.athome.com/kitchen-organization/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kitchen Organization');">
 Kitchen Organization
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
 
-
-
-<ul class="level-4">
-
-<li id="counter-organization" data-category-id="counter-organization">
-<a href="https://www.athome.com/counter-organization/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Counter Organization');">
-Counter Organization
-</a>
-
-
-
-</li>
-
-<li id="sinkware" data-category-id="sinkware">
-<a href="https://www.athome.com/sinkware/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Sinkware');">
-Sinkware
-</a>
-
-
-
-</li>
-
-<li id="drawer-cabinet-organization" data-category-id="drawer-cabinet-organization">
-<a href="https://www.athome.com/drawer-cabinet-organization/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Drawer &amp; Cabinet Organization');">
-Drawer &amp; Cabinet Organization
-</a>
-
-
-
-</li>
-
-</ul>
 
 </li>
 
@@ -2019,7 +2190,7 @@ Drawer &amp; Cabinet Organization
 Dinnerware
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2052,7 +2223,7 @@ Outdoor Dinnerware
 Drinkware &amp; Glassware
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2103,7 +2274,7 @@ Barware &amp; Stemware
 Serveware
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2154,7 +2325,7 @@ Serving Utensils
 Flatware
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2196,7 +2367,7 @@ Steak Knives
 Cookware
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2229,7 +2400,7 @@ Frying Pans &amp; Skillets
 Bakeware
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2249,11 +2420,11 @@ Baking Dishes
 </li>
 
 <li class="level3-toggle-down" id="tools-gadgets" data-category-id="tools-gadgets">
-<a href="https://www.athome.com/tools-gadgets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Tools &amp; Gadgets');">
-Tools &amp; Gadgets
+<a href="https://www.athome.com/tools-gadgets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kitchen Gadgets &amp; Utensils');">
+Kitchen Gadgets &amp; Utensils
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2286,7 +2457,7 @@ Cutting Boards
 Linens &amp; Towels
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2355,7 +2526,7 @@ Chair Pads &amp; Cushions
 Knives &amp; Cutlery
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2392,16 +2563,34 @@ Steak Knives
 
 </li>
 
+<li id="kitchen-mats" data-category-id="kitchen-mats">
+<a href="https://www.athome.com/kitchen-mats/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kitchen Floor Mats');">
+Kitchen Floor Mats
+</a>
+
+
+
+</li>
+
+<li id="kitchen-trash-cans" data-category-id="kitchen-trash-cans">
+<a href="https://www.athome.com/kitchen-trash-cans/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kitchen Trash Cans');">
+Kitchen Trash Cans
+</a>
+
+
+
+</li>
+
 </ul>
 
 </li>
 
-<li class="level2-toggle-down" id="bedding-page" data-category-id="bedding-page">
-<a href="https://www.athome.com/bedding-page/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bedding');">
+<li class="level2-toggle-down" id="bed" data-category-id="bed">
+<a href="https://www.athome.com/bed/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bedding');">
 Bedding
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2412,15 +2601,15 @@ Bedding
 Luxury Collections
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="camdon-bedding" data-category-id="camdon-bedding">
-<a href="https://www.athome.com/camdon-bedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Camdon Collection');">
-Camdon Collection
+<li id="madison-bedding" data-category-id="madison-bedding">
+<a href="https://www.athome.com/madison-bedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Madison Luxury Bedding Collection');">
+Madison Luxury Bedding Collection
 </a>
 
 
@@ -2428,8 +2617,8 @@ Camdon Collection
 </li>
 
 <li id="grace-bedding" data-category-id="grace-bedding">
-<a href="https://www.athome.com/grace-bedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Grace Collection');">
-Grace Collection
+<a href="https://www.athome.com/grace-bedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Grace Luxury Bedding Collection');">
+Grace Luxury Bedding Collection
 </a>
 
 
@@ -2437,8 +2626,8 @@ Grace Collection
 </li>
 
 <li id="avery-bedding" data-category-id="avery-bedding">
-<a href="https://www.athome.com/avery-bedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Avery Collection');">
-Avery Collection
+<a href="https://www.athome.com/avery-bedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Avery Luxury Bedding Collection');">
+Avery Luxury Bedding Collection
 </a>
 
 
@@ -2455,17 +2644,8 @@ Cierra Collection
 </li>
 
 <li id="dylan-bedding" data-category-id="dylan-bedding">
-<a href="https://www.athome.com/dylan-bedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Dylan Collection');">
-Dylan Collection
-</a>
-
-
-
-</li>
-
-<li id="ralph-bedding" data-category-id="ralph-bedding">
-<a href="https://www.athome.com/ralph-bedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Ralph Collection');">
-Ralph Collection
+<a href="https://www.athome.com/dylan-bedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Dylan Luxury Bedding Collection');">
+Dylan Luxury Bedding Collection
 </a>
 
 
@@ -2477,17 +2657,8 @@ Ralph Collection
 </li>
 
 <li id="comforter-sets" data-category-id="comforter-sets">
-<a href="https://www.athome.com/comforter-sets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Comforter Sets');">
-Comforter Sets
-</a>
-
-
-
-</li>
-
-<li id="duvet-sets" data-category-id="duvet-sets">
-<a href="https://www.athome.com/duvet-sets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Duvet Sets');">
-Duvet Sets
+<a href="https://www.athome.com/comforter-sets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Comforters &amp; Comforter Sets');">
+Comforters &amp; Comforter Sets
 </a>
 
 
@@ -2521,77 +2692,78 @@ Blankets &amp; Throws
 
 </li>
 
+<li id="bed-pillows" data-category-id="bed-pillows">
+<a href="https://www.athome.com/bed-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bed Pillows &amp; Pillow Protectors');">
+Bed Pillows &amp; Pillow Protectors
+</a>
+
+
+
+</li>
+
+<li id="mattress-pads" data-category-id="mattress-pads">
+<a href="https://www.athome.com/mattress-pads/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Mattress Pads &amp; Toppers');">
+Mattress Pads &amp; Toppers
+</a>
+
+
+
+</li>
+
 </ul>
 
 </li>
 
-<li class="level2-toggle-down" id="bed-bath" data-category-id="bed-bath">
-<a href="https://www.athome.com/bed-bath/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bath');">
+<li class="level2-toggle-down" id="bath" data-category-id="bath">
+<a href="https://www.athome.com/bath/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bath');">
 Bath
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-3">
 
+<li id="bath-towels-washcloths" data-category-id="bath-towels-washcloths">
+<a href="https://www.athome.com/bath-towels-washcloths/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bath Towels &amp; Washcloths');">
+Bath Towels &amp; Washcloths
+</a>
+
+
+
+</li>
+
 <li id="bath-rugs-mats" data-category-id="bath-rugs-mats">
-<a href="https://www.athome.com/bath-rugs-mats/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bath Rugs &amp; Mats');">
-Bath Rugs &amp; Mats
+<a href="https://www.athome.com/bath-rugs-mats/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bathroom Rugs &amp; Mats');">
+Bathroom Rugs &amp; Mats
 </a>
 
 
 
 </li>
 
-<li class="level3-toggle-down" id="bathroom-storage-organization" data-category-id="bathroom-storage-organization">
-<a href="https://www.athome.com/bathroom-storage-organization/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bathroom Storage &amp; Organization');">
-Bathroom Storage &amp; Organization
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li id="bathroom-hardware-accessories" data-category-id="bathroom-hardware-accessories">
-<a href="https://www.athome.com/bathroom-hardware-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bathroom Hardware &amp; Accessories');">
-Bathroom Hardware &amp; Accessories
+<li id="bathroom-sets" data-category-id="bathroom-sets">
+<a href="https://www.athome.com/bathroom-sets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bathroom Accessory Sets');">
+Bathroom Accessory Sets
 </a>
 
 
 
 </li>
 
-</ul>
-
-</li>
-
-<li class="level3-toggle-down" id="bathroom-accessories" data-category-id="bathroom-accessories">
-<a href="https://www.athome.com/bathroom-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bathroom Accessories');">
-Bathroom Accessories
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li id="bathroom-hardware" data-category-id="bathroom-hardware">
-<a href="https://www.athome.com/bathroom-hardware/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bathroom Hardware &amp; Accessories');">
-Bathroom Hardware &amp; Accessories
+<li id="shower-curtains-accessories" data-category-id="shower-curtains-accessories">
+<a href="https://www.athome.com/shower-curtains-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Shower Curtains &amp; Accessories');">
+Shower Curtains &amp; Accessories
 </a>
 
 
 
 </li>
 
-<li id="shower-curtains" data-category-id="shower-curtains">
-<a href="https://www.athome.com/shower-curtains/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Shower Curtains');">
-Shower Curtains
+<li id="shower-caddies" data-category-id="shower-caddies">
+<a href="https://www.athome.com/shower-caddies/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Shower Caddies');">
+Shower Caddies
 </a>
 
 
@@ -2607,46 +2779,54 @@ Shower Heads
 
 </li>
 
-</ul>
-
-</li>
-
-<li class="level3-toggle-down" id="bath-linens" data-category-id="bath-linens">
-<a href="https://www.athome.com/bath-linens/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bath Linens');">
-Bath Linens
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li id="shower-curtains-accessories" data-category-id="shower-curtains-accessories">
-<a href="https://www.athome.com/shower-curtains-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Shower Curtains &amp; Accessories');">
-Shower Curtains &amp; Accessories
+<li id="makeup-organizers" data-category-id="makeup-organizers">
+<a href="https://www.athome.com/makeup-organizers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Makeup Organizers');">
+Makeup Organizers
 </a>
 
 
 
 </li>
 
-<li id="bath-towels-washcloths" data-category-id="bath-towels-washcloths">
-<a href="https://www.athome.com/bath-towels-washcloths/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bath Towels &amp; Washcloths');">
-Bath Towels &amp; Washcloths
+<li id="bathroom-vanity-mirrors" data-category-id="bathroom-vanity-mirrors">
+<a href="https://www.athome.com/bathroom-vanity-mirrors/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Vanity Mirrors');">
+Vanity Mirrors
 </a>
 
 
 
 </li>
 
-</ul>
+<li id="toilet-paper-holders" data-category-id="toilet-paper-holders">
+<a href="https://www.athome.com/toilet-paper-holders/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Toilet Paper Holders');">
+Toilet Paper Holders
+</a>
+
+
+
+</li>
+
+<li id="bathroom-storage-organization" data-category-id="bathroom-storage-organization">
+<a href="https://www.athome.com/bathroom-storage-organization/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bathroom Storage &amp; Organization');">
+Bathroom Storage &amp; Organization
+</a>
+
+
 
 </li>
 
 <li id="bath-care" data-category-id="bath-care">
-<a href="https://www.athome.com/bath-care/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Cleaning &amp; Care');">
-Cleaning &amp; Care
+<a href="https://www.athome.com/bath-care/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bathroom Cleaning &amp; Care');">
+Bathroom Cleaning &amp; Care
+</a>
+
+
+
+</li>
+
+<li id="laundry-hampers" data-category-id="laundry-hampers">
+<a href="https://www.athome.com/laundry-hampers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Laundry Hampers');">
+Laundry Hampers
 </a>
 
 
@@ -2662,44 +2842,35 @@ Cleaning &amp; Care
 Storage &amp; Organization
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-3">
 
 <li class="level3-toggle-down" id="kids-storage" data-category-id="kids-storage">
-<a href="https://www.athome.com/kids-storage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kid\'s Storage');">
-Kid's Storage
+<a href="https://www.athome.com/kids-storage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kids\' Storage');">
+Kids' Storage
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="kids-hangers-accessories" data-category-id="kids-hangers-accessories">
-<a href="https://www.athome.com/kids-hangers-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Hangers &amp; Accessories');">
-Hangers &amp; Accessories
+<li id="kids-storage-bins" data-category-id="kids-storage-bins">
+<a href="https://www.athome.com/kids-storage-bins/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kids\' Storage Bins &amp; Baskets');">
+Kids' Storage Bins &amp; Baskets
 </a>
 
 
 
 </li>
 
-<li id="boxes-bins" data-category-id="boxes-bins">
-<a href="https://www.athome.com/boxes-bins/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Boxes &amp; Bins');">
-Boxes &amp; Bins
-</a>
-
-
-
-</li>
-
-<li id="hampers" data-category-id="hampers">
-<a href="https://www.athome.com/hampers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Hampers');">
-Hampers
+<li id="kids-hampers" data-category-id="kids-hampers">
+<a href="https://www.athome.com/kids-hampers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kids\' Laundry Hampers');">
+Kids' Laundry Hampers
 </a>
 
 
@@ -2715,24 +2886,24 @@ Hampers
 Closet Organization
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="closet-hangers-accessories" data-category-id="closet-hangers-accessories">
-<a href="https://www.athome.com/closet-hangers-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Hangers &amp; Accessories');">
-Hangers &amp; Accessories
+<li id="closet-organizers" data-category-id="closet-organizers">
+<a href="https://www.athome.com/closet-organizers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Closet Organizers');">
+Closet Organizers
 </a>
 
 
 
 </li>
 
-<li id="storage-boxes-bins" data-category-id="storage-boxes-bins">
-<a href="https://www.athome.com/storage-boxes-bins/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Storage Boxes &amp; Bins');">
-Storage Boxes &amp; Bins
+<li id="closet-storage" data-category-id="closet-storage">
+<a href="https://www.athome.com/closet-storage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Closet Storage &amp; Containers');">
+Closet Storage &amp; Containers
 </a>
 
 
@@ -2748,18 +2919,36 @@ Shoe Storage
 
 </li>
 
-<li id="over-door-hooks" data-category-id="over-door-hooks">
-<a href="https://www.athome.com/over-door-hooks/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Over Door Hooks');">
-Over Door Hooks
+<li id="jewelry-organizers" data-category-id="jewelry-organizers">
+<a href="https://www.athome.com/jewelry-organizers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Jewelry Organizers &amp; Stands');">
+Jewelry Organizers &amp; Stands
 </a>
 
 
 
 </li>
 
-<li id="jewelry" data-category-id="jewelry">
-<a href="https://www.athome.com/jewelry/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Jewelry Storage');">
-Jewelry Storage
+<li id="hangers" data-category-id="hangers">
+<a href="https://www.athome.com/hangers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Closet Hangers &amp; Hardware');">
+Closet Hangers &amp; Hardware
+</a>
+
+
+
+</li>
+
+<li id="garment-racks" data-category-id="garment-racks">
+<a href="https://www.athome.com/garment-racks/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Garment Racks &amp; Shelves');">
+Garment Racks &amp; Shelves
+</a>
+
+
+
+</li>
+
+<li id="over-door-hooks" data-category-id="over-door-hooks">
+<a href="https://www.athome.com/over-door-hooks/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Over Door Hooks');">
+Over Door Hooks
 </a>
 
 
@@ -2775,15 +2964,15 @@ Jewelry Storage
 Bathroom Organization
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="vanity-sink-area" data-category-id="vanity-sink-area">
-<a href="https://www.athome.com/vanity-sink-area/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Vanity &amp; Sink Area');">
-Vanity &amp; Sink Area
+<li id="bathroom-vanity-organization" data-category-id="bathroom-vanity-organization">
+<a href="https://www.athome.com/bathroom-vanity-organization/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Vanity &amp; Sink Organization');">
+Vanity &amp; Sink Organization
 </a>
 
 
@@ -2791,8 +2980,8 @@ Vanity &amp; Sink Area
 </li>
 
 <li id="cabinet-undersink" data-category-id="cabinet-undersink">
-<a href="https://www.athome.com/cabinet-undersink/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Cabinet &amp; Undersink');">
-Cabinet &amp; Undersink
+<a href="https://www.athome.com/cabinet-undersink/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bathroom Cabinet &amp; Under Sink Storage');">
+Bathroom Cabinet &amp; Under Sink Storage
 </a>
 
 
@@ -2808,7 +2997,7 @@ Cabinet &amp; Undersink
 Kitchen Storage
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2817,15 +3006,6 @@ Kitchen Storage
 <li id="kitchen-food-storage" data-category-id="kitchen-food-storage">
 <a href="https://www.athome.com/kitchen-food-storage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Food Storage');">
 Food Storage
-</a>
-
-
-
-</li>
-
-<li id="sink-area" data-category-id="sink-area">
-<a href="https://www.athome.com/sink-area/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Sink Area');">
-Sink Area
 </a>
 
 
@@ -2841,27 +3021,36 @@ Cabinet &amp; Pantry Organization
 
 </li>
 
-<li id="kitchen-trash-cans" data-category-id="kitchen-trash-cans">
-<a href="https://www.athome.com/kitchen-trash-cans/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Trash Cans');">
-Trash Cans
+<li id="shelf-liners" data-category-id="shelf-liners">
+<a href="https://www.athome.com/shelf-liners/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Shelf Liners');">
+Shelf Liners
 </a>
 
 
 
 </li>
 
-<li id="utensil-storage" data-category-id="utensil-storage">
-<a href="https://www.athome.com/utensil-storage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Utensil Storage');">
-Utensil Storage
+<li id="countertop-accessories" data-category-id="countertop-accessories">
+<a href="https://www.athome.com/countertop-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Paper Towel Holders, Fruit Bowls, Mug Trees &amp; More');">
+Paper Towel Holders, Fruit Bowls, Mug Trees &amp; More
 </a>
 
 
 
 </li>
 
-<li id="napkin-paper-towel-holders" data-category-id="napkin-paper-towel-holders">
-<a href="https://www.athome.com/napkin-paper-towel-holders/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Napkin &amp; Paper Towel Holders');">
-Napkin &amp; Paper Towel Holders
+<li id="dish-racks" data-category-id="dish-racks">
+<a href="https://www.athome.com/dish-racks/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Dish Racks');">
+Dish Racks
+</a>
+
+
+
+</li>
+
+<li id="kitchen-sink-accessories" data-category-id="kitchen-sink-accessories">
+<a href="https://www.athome.com/kitchen-sink-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Sink Caddies, Sponge Holders &amp; More');">
+Sink Caddies, Sponge Holders &amp; More
 </a>
 
 
@@ -2877,7 +3066,7 @@ Napkin &amp; Paper Towel Holders
 Office Storage
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2906,55 +3095,97 @@ Drawer
 </li>
 
 <li class="level3-toggle-down" id="general-storage" data-category-id="general-storage">
-<a href="https://www.athome.com/general-storage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'General Storage');">
-General Storage
+<a href="https://www.athome.com/general-storage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Storage Bins, Baskets &amp; Drawers');">
+Storage Bins, Baskets &amp; Drawers
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="decorative-bins-baskets" data-category-id="decorative-bins-baskets">
-<a href="https://www.athome.com/decorative-bins-baskets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Decorative Bins &amp; Baskets');">
-Decorative Bins &amp; Baskets
+<li id="storage-boxes-bins" data-category-id="storage-boxes-bins">
+<a href="https://www.athome.com/storage-boxes-bins/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Storage Bins, Boxes &amp; Totes');">
+Storage Bins, Boxes &amp; Totes
 </a>
 
 
 
 </li>
 
-<li id="plastic-boxes-bins" data-category-id="plastic-boxes-bins">
-<a href="https://www.athome.com/plastic-boxes-bins/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Plastic Boxes &amp; Bins');">
-Plastic Boxes &amp; Bins
+<li class="level4-toggle-down" id="storage-baskets" data-category-id="storage-baskets">
+<a href="https://www.athome.com/storage-baskets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Baskets');">
+Baskets
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-5">
+
+<li id="metal-wire-baskets" data-category-id="metal-wire-baskets">
+<a href="https://www.athome.com/metal-wire-baskets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wire &amp; Metal Baskets');">
+Wire &amp; Metal Baskets
 </a>
 
 
 
 </li>
 
-<li id="storage-drawers-carts" data-category-id="storage-drawers-carts">
-<a href="https://www.athome.com/storage-drawers-carts/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Storage Drawers &amp; Carts');">
-Storage Drawers &amp; Carts
+<li id="plastic-baskets" data-category-id="plastic-baskets">
+<a href="https://www.athome.com/plastic-baskets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Plastic Baskets');">
+Plastic Baskets
 </a>
 
 
 
 </li>
 
-<li id="modular" data-category-id="modular">
-<a href="https://www.athome.com/modular/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Modular');">
-Modular
+<li id="rope-baskets" data-category-id="rope-baskets">
+<a href="https://www.athome.com/rope-baskets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Rope Baskets');">
+Rope Baskets
 </a>
 
 
 
 </li>
 
-<li id="trunks-ottomans" data-category-id="trunks-ottomans">
-<a href="https://www.athome.com/trunks-ottomans/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Trunks &amp; Ottomans');">
-Trunks &amp; Ottomans
+<li id="wooden-baskets" data-category-id="wooden-baskets">
+<a href="https://www.athome.com/wooden-baskets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wood Baskets');">
+Wood Baskets
+</a>
+
+
+
+</li>
+
+</ul>
+
+</li>
+
+<li id="cube-storage" data-category-id="cube-storage">
+<a href="https://www.athome.com/cube-storage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Cube Storage Units');">
+Cube Storage Units
+</a>
+
+
+
+</li>
+
+<li id="storage-trunks-drawers" data-category-id="storage-trunks-drawers">
+<a href="https://www.athome.com/storage-trunks-drawers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Storage Trunks &amp; Drawers');">
+Storage Trunks &amp; Drawers
+</a>
+
+
+
+</li>
+
+<li id="plastic-drawers" data-category-id="plastic-drawers">
+<a href="https://www.athome.com/plastic-drawers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Plastic Drawers &amp; Stacking');">
+Plastic Drawers &amp; Stacking
 </a>
 
 
@@ -2970,7 +3201,7 @@ Trunks &amp; Ottomans
 Trash Cans
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -2998,6 +3229,57 @@ Waste Baskets
 
 </li>
 
+<li class="level3-toggle-down" id="laundry-room" data-category-id="laundry-room">
+<a href="https://www.athome.com/laundry-room/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Laundry Room Organization');">
+Laundry Room Organization
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-4">
+
+<li id="hampers" data-category-id="hampers">
+<a href="https://www.athome.com/hampers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Laundry Hampers');">
+Laundry Hampers
+</a>
+
+
+
+</li>
+
+<li id="laundry-baskets" data-category-id="laundry-baskets">
+<a href="https://www.athome.com/laundry-baskets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Laundry Baskets');">
+Laundry Baskets
+</a>
+
+
+
+</li>
+
+<li id="clothes-drying-racks" data-category-id="clothes-drying-racks">
+<a href="https://www.athome.com/clothes-drying-racks/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Clothes Drying Racks');">
+Clothes Drying Racks
+</a>
+
+
+
+</li>
+
+<li id="laundry-accessories" data-category-id="laundry-accessories">
+<a href="https://www.athome.com/laundry-accessories/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Ironing Boards &amp; Clothing Care');">
+Ironing Boards &amp; Clothing Care
+</a>
+
+
+
+</li>
+
+</ul>
+
+</li>
+
 </ul>
 
 </li>
@@ -3007,7 +3289,7 @@ Waste Baskets
 Patio &amp; Garden
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -3018,31 +3300,22 @@ Patio &amp; Garden
 Patio Furniture
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
 <li class="level4-toggle-down" id="patio-sets" data-category-id="patio-sets">
-<a href="https://www.athome.com/patio-sets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Patio Sets');">
-Patio Sets
+<a href="https://www.athome.com/patio-sets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Patio Furniture Collections');">
+Patio Furniture Collections
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-5">
-
-<li id="astoria" data-category-id="astoria">
-<a href="https://www.athome.com/astoria/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Astoria');">
-Astoria
-</a>
-
-
-
-</li>
 
 <li id="acadia" data-category-id="acadia">
 <a href="https://www.athome.com/acadia/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Acadia');">
@@ -3053,27 +3326,36 @@ Acadia
 
 </li>
 
-<li id="arlington" data-category-id="arlington">
-<a href="https://www.athome.com/arlington/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Arlington');">
-Arlington
+<li id="brandywine" data-category-id="brandywine">
+<a href="https://www.athome.com/brandywine/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Brandywine');">
+Brandywine
 </a>
 
 
 
 </li>
 
-<li id="bar-harbor" data-category-id="bar-harbor">
-<a href="https://www.athome.com/bar-harbor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bar Harbor');">
-Bar Harbor
+<li id="bridgeport" data-category-id="bridgeport">
+<a href="https://www.athome.com/bridgeport/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bridgeport');">
+Bridgeport
 </a>
 
 
 
 </li>
 
-<li id="camden" data-category-id="camden">
-<a href="https://www.athome.com/camden/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Camden');">
-Camden
+<li id="cardiff" data-category-id="cardiff">
+<a href="https://www.athome.com/cardiff/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Cardiff');">
+Cardiff
+</a>
+
+
+
+</li>
+
+<li id="cristobal" data-category-id="cristobal">
+<a href="https://www.athome.com/cristobal/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Cristobal');">
+Cristobal
 </a>
 
 
@@ -3089,27 +3371,9 @@ Foster
 
 </li>
 
-<li id="grand-isle" data-category-id="grand-isle">
-<a href="https://www.athome.com/grand-isle/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Grand Isle');">
-Grand Isle
-</a>
-
-
-
-</li>
-
-<li id="kingston" data-category-id="kingston">
-<a href="https://www.athome.com/kingston/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Kingston');">
-Kingston
-</a>
-
-
-
-</li>
-
-<li id="laguna" data-category-id="laguna">
-<a href="https://www.athome.com/laguna/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Laguna');">
-Laguna
+<li id="isabella" data-category-id="isabella">
+<a href="https://www.athome.com/isabella/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Isabella');">
+Isabella
 </a>
 
 
@@ -3125,9 +3389,18 @@ Malibu
 
 </li>
 
-<li id="meridian" data-category-id="meridian">
-<a href="https://www.athome.com/meridian/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Meridian');">
-Meridian
+<li id="newport" data-category-id="newport">
+<a href="https://www.athome.com/newport/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Newport');">
+Newport
+</a>
+
+
+
+</li>
+
+<li id="park-city" data-category-id="park-city">
+<a href="https://www.athome.com/park-city/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Park City');">
+Park City
 </a>
 
 
@@ -3143,27 +3416,27 @@ Porto
 
 </li>
 
-<li id="santa-rosa" data-category-id="santa-rosa">
-<a href="https://www.athome.com/santa-rosa/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Santa Rosa');">
-Santa Rosa
+<li id="sabana" data-category-id="sabana">
+<a href="https://www.athome.com/sabana/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Sabana');">
+Sabana
 </a>
 
 
 
 </li>
 
-<li id="toledo" data-category-id="toledo">
-<a href="https://www.athome.com/toledo/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Toledo');">
-Toledo
+<li id="saint-lucia" data-category-id="saint-lucia">
+<a href="https://www.athome.com/saint-lucia/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Saint Lucia');">
+Saint Lucia
 </a>
 
 
 
 </li>
 
-<li id="ventura" data-category-id="ventura">
-<a href="https://www.athome.com/ventura/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Ventura');">
-Ventura
+<li id="venice" data-category-id="venice">
+<a href="https://www.athome.com/venice/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Venice');">
+Venice
 </a>
 
 
@@ -3179,18 +3452,18 @@ Wates
 
 </li>
 
-<li id="weston" data-category-id="weston">
-<a href="https://www.athome.com/weston/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Weston');">
-Weston
+<li id="waverly" data-category-id="waverly">
+<a href="https://www.athome.com/waverly/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Waverly');">
+Waverly
 </a>
 
 
 
 </li>
 
-<li id="wimberley" data-category-id="wimberley">
-<a href="https://www.athome.com/wimberley/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wimberley');">
-Wimberley
+<li id="weston2" data-category-id="weston2">
+<a href="https://www.athome.com/weston2/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Weston II');">
+Weston II
 </a>
 
 
@@ -3219,156 +3492,78 @@ Patio Accent Furniture
 Umbrellas &amp; Shade
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="large-shade" data-category-id="large-shade">
-<a href="https://www.athome.com/large-shade/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Large Umbrellas &amp; Shade');">
-Large Umbrellas &amp; Shade
+<li id="small-round-umbrellas" data-category-id="small-round-umbrellas">
+<a href="https://www.athome.com/small-round-umbrellas/" onclick="ga('send', 'event', 'navigation', 'mainmenu', '7.5ft Round Umbrellas');">
+7.5ft Round Umbrellas
 </a>
 
 
 
 </li>
 
-<li id="medium-shade" data-category-id="medium-shade">
-<a href="https://www.athome.com/medium-shade/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Medium Umbrellas &amp; Shade');">
-Medium Umbrellas &amp; Shade
+<li id="medium-round-umbrellas" data-category-id="medium-round-umbrellas">
+<a href="https://www.athome.com/medium-round-umbrellas/" onclick="ga('send', 'event', 'navigation', 'mainmenu', '9ft. Round Umbrellas');">
+9ft. Round Umbrellas
 </a>
 
 
 
 </li>
 
-<li id="small-shade" data-category-id="small-shade">
-<a href="https://www.athome.com/small-shade/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Small Umbrellas &amp; Shade');">
-Small Umbrellas &amp; Shade
+<li id="large-round-umbrellas" data-category-id="large-round-umbrellas">
+<a href="https://www.athome.com/large-round-umbrellas/" onclick="ga('send', 'event', 'navigation', 'mainmenu', '11ft. Round Umbrellas');">
+11ft. Round Umbrellas
 </a>
 
 
 
 </li>
 
-</ul>
-
-</li>
-
-<li class="level3-toggle-down" id="outdoor-decor-collections" data-category-id="outdoor-decor-collections">
-<a href="https://www.athome.com/outdoor-decor-collections/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Décor Collections');">
-Outdoor Décor Collections
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li id="blushing-bounty" data-category-id="blushing-bounty">
-<a href="https://www.athome.com/blushing-bounty/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Blushing Bounty');">
-Blushing Bounty
+<li id="medium-offset-umbrellas" data-category-id="medium-offset-umbrellas">
+<a href="https://www.athome.com/medium-offset-umbrellas/" onclick="ga('send', 'event', 'navigation', 'mainmenu', '8ft. Offset Umbrellas');">
+8ft. Offset Umbrellas
 </a>
 
 
 
 </li>
 
-<li id="coast-to-coast" data-category-id="coast-to-coast">
-<a href="https://www.athome.com/coast-to-coast/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Coast to Coast');">
-Coast to Coast
+<li id="large-offset-umbrellas" data-category-id="large-offset-umbrellas">
+<a href="https://www.athome.com/large-offset-umbrellas/" onclick="ga('send', 'event', 'navigation', 'mainmenu', '10ft. Offset Umbrellas');">
+10ft. Offset Umbrellas
 </a>
 
 
 
 </li>
 
-<li id="deep-sea-wishing" data-category-id="deep-sea-wishing">
-<a href="https://www.athome.com/deep-sea-wishing/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Deep Sea Wishing');">
-Deep Sea Wishing
+<li id="rectangle-umbrellas" data-category-id="rectangle-umbrellas">
+<a href="https://www.athome.com/rectangle-umbrellas/" onclick="ga('send', 'event', 'navigation', 'mainmenu', '6.5 x 10ft. Rectangle Umbrellas');">
+6.5 x 10ft. Rectangle Umbrellas
 </a>
 
 
 
 </li>
 
-<li id="desert-sunset" data-category-id="desert-sunset">
-<a href="https://www.athome.com/desert-sunset/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Desert Sunset');">
-Desert Sunset
+<li id="fashion-umbrellas" data-category-id="fashion-umbrellas">
+<a href="https://www.athome.com/fashion-umbrellas/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Fashion Umbrellas');">
+Fashion Umbrellas
 </a>
 
 
 
 </li>
 
-<li id="global-organic" data-category-id="global-organic">
-<a href="https://www.athome.com/global-organic/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Global Organic');">
-Global Organic
-</a>
-
-
-
-</li>
-
-<li id="home-swede-home" data-category-id="home-swede-home">
-<a href="https://www.athome.com/home-swede-home/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Home Swede Home');">
-Home Swede Home
-</a>
-
-
-
-</li>
-
-<li id="homestead" data-category-id="homestead">
-<a href="https://www.athome.com/homestead/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Homestead');">
-Homestead
-</a>
-
-
-
-</li>
-
-<li id="industrial-aubergine" data-category-id="industrial-aubergine">
-<a href="https://www.athome.com/industrial-aubergine/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Industrial Aubergine');">
-Industrial Aubergine
-</a>
-
-
-
-</li>
-
-<li id="now-and-zen" data-category-id="now-and-zen">
-<a href="https://www.athome.com/now-and-zen/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Now &amp; Zen');">
-Now &amp; Zen
-</a>
-
-
-
-</li>
-
-<li id="painted-poppy" data-category-id="painted-poppy">
-<a href="https://www.athome.com/painted-poppy/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Painted Poppy');">
-Painted Poppy
-</a>
-
-
-
-</li>
-
-<li id="retro-splash" data-category-id="retro-splash">
-<a href="https://www.athome.com/retro-splash/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Retro Splash');">
-Retro Splash
-</a>
-
-
-
-</li>
-
-<li id="under-the-palms" data-category-id="under-the-palms">
-<a href="https://www.athome.com/under-the-palms/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Under the Palms');">
-Under the Palms
+<li id="umbrella-bases" data-category-id="umbrella-bases">
+<a href="https://www.athome.com/umbrella-bases/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Umbrella Bases &amp; Accessories');">
+Umbrella Bases &amp; Accessories
 </a>
 
 
@@ -3384,7 +3579,7 @@ Under the Palms
 Lawn &amp; Garden
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -3403,284 +3598,47 @@ Gardening Tools
 
 </li>
 
-<li id="grills-outdoor-cooking" data-category-id="grills-outdoor-cooking">
-<a href="https://www.athome.com/grills-outdoor-cooking/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Grills &amp; Outdoor Cooking');">
-Grills &amp; Outdoor Cooking
+<li class="level3-toggle-down" id="outdoor-entertaining" data-category-id="outdoor-entertaining">
+<a href="https://www.athome.com/outdoor-entertaining/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Entertaining');">
+Outdoor Entertaining
 </a>
 
-
-
-</li>
-
-<li class="level3-toggle-down" id="patio-pillows-cushions" data-category-id="patio-pillows-cushions">
-<a href="https://www.athome.com/patio-pillows-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Pillows &amp; Cushions');">
-Outdoor Pillows &amp; Cushions
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="outdoor-decorative-pillows" data-category-id="outdoor-decorative-pillows">
-<a href="https://www.athome.com/outdoor-decorative-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Decorative Pillows');">
-Outdoor Decorative Pillows
+<li id="grills-outdoor-cooking" data-category-id="grills-outdoor-cooking">
+<a href="https://www.athome.com/grills-outdoor-cooking/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Grill Accessories &amp; Outdoor Cooking');">
+Grill Accessories &amp; Outdoor Cooking
 </a>
 
 
 
 </li>
 
-<li class="level4-toggle-down" id="outdoor-patio-cushions" data-category-id="outdoor-patio-cushions">
-<a href="https://www.athome.com/outdoor-patio-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Patio Cushions');">
-Outdoor Patio Cushions
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-5">
-
-<li class="level5-toggle-down" id="chaise-cushions" data-category-id="chaise-cushions">
-<a href="https://www.athome.com/chaise-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Chaise Cushions');">
-Chaise Cushions
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-6">
-
-<li id="hinged-chaise-cushion" data-category-id="hinged-chaise-cushion">
-<a href="https://www.athome.com/hinged-chaise-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Hinged Chaise Cushion');">
-Hinged Chaise Cushion
-</a>
-</li>
-
-<li id="universal-chaise-cushion" data-category-id="universal-chaise-cushion">
-<a href="https://www.athome.com/universal-chaise-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Universal Chaise Cushion');">
-Universal Chaise Cushion
-</a>
-</li>
-
-</ul>
-
-</li>
-
-<li class="level5-toggle-down" id="dining-chair-cushions" data-category-id="dining-chair-cushions">
-<a href="https://www.athome.com/dining-chair-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Dining Chair Cushions');">
-Outdoor Dining Chair Cushions
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-6">
-
-<li id="curve-back-seat-cushion" data-category-id="curve-back-seat-cushion">
-<a href="https://www.athome.com/curve-back-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Curve Back Seat Cushions');">
-Curve Back Seat Cushions
-</a>
-</li>
-
-<li id="flange-hinged-cushion" data-category-id="flange-hinged-cushion">
-<a href="https://www.athome.com/flange-hinged-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Flange Hinged Cushions');">
-Flange Hinged Cushions
-</a>
-</li>
-
-<li id="round-seat-cushion" data-category-id="round-seat-cushion">
-<a href="https://www.athome.com/round-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Round Seat Cushions');">
-Round Seat Cushions
-</a>
-</li>
-
-<li id="square-seat-cushion" data-category-id="square-seat-cushion">
-<a href="https://www.athome.com/square-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Square Seat Cushions');">
-Square Seat Cushions
-</a>
-</li>
-
-<li id="steel-hinged-cushion" data-category-id="steel-hinged-cushion">
-<a href="https://www.athome.com/steel-hinged-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Steel Hinged Cushions');">
-Steel Hinged Cushions
-</a>
-</li>
-
-<li id="wrought-iron-chair-cushion" data-category-id="wrought-iron-chair-cushion">
-<a href="https://www.athome.com/wrought-iron-chair-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wrought Iron Chair Cushions');">
-Wrought Iron Chair Cushions
-</a>
-</li>
-
-<li id="wrought-iron-hinged-cushion" data-category-id="wrought-iron-hinged-cushion">
-<a href="https://www.athome.com/wrought-iron-hinged-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wrought Iron Hinged Cushions');">
-Wrought Iron Hinged Cushions
-</a>
-</li>
-
-</ul>
-
-</li>
-
-<li class="level5-toggle-down" id="lounge-chair-cushions" data-category-id="lounge-chair-cushions">
-<a href="https://www.athome.com/lounge-chair-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lounge Chair Cushions');">
-Lounge Chair Cushions
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-6">
-
-<li id="back-cushion" data-category-id="back-cushion">
-<a href="https://www.athome.com/back-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Back Cushions');">
-Back Cushions
-</a>
-</li>
-
-<li id="deep-seat-cushion" data-category-id="deep-seat-cushion">
-<a href="https://www.athome.com/deep-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Deep Seat Cushions');">
-Deep Seat Cushions
-</a>
-</li>
-
-<li id="lounge-2pc-deep-seat-cushion" data-category-id="lounge-2pc-deep-seat-cushion">
-<a href="https://www.athome.com/lounge-2pc-deep-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lounge 2pc Deep Seat Cushions');">
-Lounge 2pc Deep Seat Cushions
-</a>
-</li>
-
-<li id="wicker-seat-cushion" data-category-id="wicker-seat-cushion">
-<a href="https://www.athome.com/wicker-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Seat Tufted Chair Cushions');">
-Wicker Seat Tufted Chair Cushions
-</a>
-</li>
-
-</ul>
-
-</li>
-
-<li class="level5-toggle-down" id="patio-accent-pillows" data-category-id="patio-accent-pillows">
-<a href="https://www.athome.com/patio-accent-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Patio Accent Pillows');">
-Patio Accent Pillows
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-6">
-
-<li id="oversized-toss-pillow" data-category-id="oversized-toss-pillow">
-<a href="https://www.athome.com/oversized-toss-pillow/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Oversized Toss Pillows');">
-Oversized Toss Pillows
-</a>
-</li>
-
-<li id="rectangle-pillow" data-category-id="rectangle-pillow">
-<a href="https://www.athome.com/rectangle-pillow/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Rectangle Pillows');">
-Rectangle Pillows
-</a>
-</li>
-
-<li id="square-pillow-outdoor" data-category-id="square-pillow-outdoor">
-<a href="https://www.athome.com/square-pillow-outdoor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Square Accent Patio Pillow');">
-Square Accent Patio Pillow
-</a>
-</li>
-
-</ul>
-
-</li>
-
-<li id="patio-cushion-sale" data-category-id="patio-cushion-sale">
-<a href="https://www.athome.com/patio-cushion-sale/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Patio Cushion Sale');">
-Patio Cushion Sale
+<li id="garden-isles-outdoor-dining-collection" data-category-id="garden-isles-outdoor-dining-collection">
+<a href="https://www.athome.com/garden-isles-outdoor-dining-collection/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Garden Isles Outdoor Dining Collection');">
+Garden Isles Outdoor Dining Collection
 </a>
 
 
 
 </li>
 
-<li class="level5-toggle-down" id="settee-cushions" data-category-id="settee-cushions">
-<a href="https://www.athome.com/settee-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bench &amp; Settee Cushions');">
-Bench &amp; Settee Cushions
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-6">
-
-<li id="bench-pad" data-category-id="bench-pad">
-<a href="https://www.athome.com/bench-pad/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bench Pad');">
-Bench Pad
-</a>
-</li>
-
-<li id="piped-gusseted-bench" data-category-id="piped-gusseted-bench">
-<a href="https://www.athome.com/piped-gusseted-bench/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Piped Gusseted Bench');">
-Piped Gusseted Bench
-</a>
-</li>
-
-<li id="wicker-settee" data-category-id="wicker-settee">
-<a href="https://www.athome.com/wicker-settee/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Settee');">
-Wicker Settee
-</a>
-</li>
-
-<li id="wicker-sofa" data-category-id="wicker-sofa">
-<a href="https://www.athome.com/wicker-sofa/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Sofa');">
-Wicker Sofa
-</a>
-</li>
-
-</ul>
-
-</li>
-
-</ul>
-
-</li>
-
-<li id="solid-patio-cushion" data-category-id="solid-patio-cushion">
-<a href="https://www.athome.com/solid-patio-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Solid Cushions');">
-Solid Cushions
+<li id="pool-party-outdoor-dining-collection" data-category-id="pool-party-outdoor-dining-collection">
+<a href="https://www.athome.com/pool-party-outdoor-dining-collection/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Pool Party Outdoor Dining Collection');">
+Pool Party Outdoor Dining Collection
 </a>
 
 
 
 </li>
 
-<li id="prints-patio-cushion" data-category-id="prints-patio-cushion">
-<a href="https://www.athome.com/prints-patio-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Print Cushions');">
-Print Cushions
-</a>
-
-
-
-</li>
-
-<li id="floral-patio-cushion" data-category-id="floral-patio-cushion">
-<a href="https://www.athome.com/floral-patio-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Floral Cushions');">
-Floral Cushions
-</a>
-
-
-
-</li>
-
-<li id="stripe-patio-cushion" data-category-id="stripe-patio-cushion">
-<a href="https://www.athome.com/stripe-patio-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Stripe Cushions');">
-Stripe Cushions
+<li id="moroccan-garden-outdoor-dining-collection" data-category-id="moroccan-garden-outdoor-dining-collection">
+<a href="https://www.athome.com/moroccan-garden-outdoor-dining-collection/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Moroccan Garden Outdoor Dining Collection');">
+Moroccan Garden Outdoor Dining Collection
 </a>
 
 
@@ -3696,7 +3654,7 @@ Stripe Cushions
 Outdoor Lighting
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -3721,11 +3679,269 @@ String Lights
 </li>
 
 <li id="garden-torches" data-category-id="garden-torches">
-<a href="https://www.athome.com/garden-torches/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Garden Torches &amp; Citronella');">
-Garden Torches &amp; Citronella
+<a href="https://www.athome.com/garden-torches/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Garden Torches');">
+Garden Torches
 </a>
 
 
+
+</li>
+
+</ul>
+
+</li>
+
+<li class="level3-toggle-down" id="patio-pillows-cushions" data-category-id="patio-pillows-cushions">
+<a href="https://www.athome.com/patio-pillows-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Pillows &amp; Cushions');">
+Outdoor Pillows &amp; Cushions
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-4">
+
+<li class="level4-toggle-down" id="outdoor-decorative-pillows" data-category-id="outdoor-decorative-pillows">
+<a href="https://www.athome.com/outdoor-decorative-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Pillows');">
+Outdoor Pillows
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-5">
+
+<li class="level5-toggle-down" id="patio-accent-pillows" data-category-id="patio-accent-pillows">
+<a href="https://www.athome.com/patio-accent-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Patio Cushions\' Accent Pillows');">
+Patio Cushions' Accent Pillows
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-6">
+
+<li id="oversized-toss-pillow" data-category-id="oversized-toss-pillow">
+<a href="https://www.athome.com/oversized-toss-pillow/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Oversized Outdoor Toss Pillows');">
+Oversized Outdoor Toss Pillows
+</a>
+</li>
+
+<li id="rectangle-pillow" data-category-id="rectangle-pillow">
+<a href="https://www.athome.com/rectangle-pillow/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Rectangle Outdoor Pillows');">
+Rectangle Outdoor Pillows
+</a>
+</li>
+
+<li id="square-pillow-outdoor" data-category-id="square-pillow-outdoor">
+<a href="https://www.athome.com/square-pillow-outdoor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Square Outdoor Pillows');">
+Square Outdoor Pillows
+</a>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+
+<li class="level4-toggle-down" id="outdoor-patio-cushions" data-category-id="outdoor-patio-cushions">
+<a href="https://www.athome.com/outdoor-patio-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Patio Cushions');">
+Outdoor Patio Cushions
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-5">
+
+<li id="solid-patio-cushion" data-category-id="solid-patio-cushion">
+<a href="https://www.athome.com/solid-patio-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Solid Cushions');">
+Solid Cushions
+</a>
+
+
+
+</li>
+
+<li id="prints-patio-cushion" data-category-id="prints-patio-cushion">
+<a href="https://www.athome.com/prints-patio-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Print Cushions');">
+Print Cushions
+</a>
+
+
+
+</li>
+
+<li id="stripe-patio-cushion" data-category-id="stripe-patio-cushion">
+<a href="https://www.athome.com/stripe-patio-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Stripe Cushions');">
+Stripe Cushions
+</a>
+
+
+
+</li>
+
+<li id="floral-patio-cushion" data-category-id="floral-patio-cushion">
+<a href="https://www.athome.com/floral-patio-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Floral Cushions');">
+Floral Cushions
+</a>
+
+
+
+</li>
+
+<li class="level5-toggle-down" id="lounge-chair-cushions" data-category-id="lounge-chair-cushions">
+<a href="https://www.athome.com/lounge-chair-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Lounge Chair Cushions');">
+Lounge Chair Cushions
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-6">
+
+<li id="back-cushion" data-category-id="back-cushion">
+<a href="https://www.athome.com/back-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Back Cushions');">
+Back Cushions
+</a>
+</li>
+
+<li id="deep-seat-cushion" data-category-id="deep-seat-cushion">
+<a href="https://www.athome.com/deep-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Deep Seat Cushions');">
+Deep Seat Cushions
+</a>
+</li>
+
+<li id="lounge-2pc-deep-seat-cushion" data-category-id="lounge-2pc-deep-seat-cushion">
+<a href="https://www.athome.com/lounge-2pc-deep-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', '2pc Deep Seat Cushions');">
+2pc Deep Seat Cushions
+</a>
+</li>
+
+<li id="wicker-seat-cushion" data-category-id="wicker-seat-cushion">
+<a href="https://www.athome.com/wicker-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Seat Chair Cushions');">
+Wicker Seat Chair Cushions
+</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="level5-toggle-down" id="chaise-cushions" data-category-id="chaise-cushions">
+<a href="https://www.athome.com/chaise-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Chaise Cushions');">
+Chaise Cushions
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-6">
+
+<li id="hinged-chaise-cushion" data-category-id="hinged-chaise-cushion">
+<a href="https://www.athome.com/hinged-chaise-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Hinged Chaise Cushions');">
+Hinged Chaise Cushions
+</a>
+</li>
+
+<li id="universal-chaise-cushion" data-category-id="universal-chaise-cushion">
+<a href="https://www.athome.com/universal-chaise-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Universal Chaise Cushions');">
+Universal Chaise Cushions
+</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="level5-toggle-down" id="dining-chair-cushions" data-category-id="dining-chair-cushions">
+<a href="https://www.athome.com/dining-chair-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Dining Chair Cushions');">
+Outdoor Dining Chair Cushions
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-6">
+
+<li id="square-seat-cushion" data-category-id="square-seat-cushion">
+<a href="https://www.athome.com/square-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Square Seat Cushions');">
+Square Seat Cushions
+</a>
+</li>
+
+<li id="round-seat-cushion" data-category-id="round-seat-cushion">
+<a href="https://www.athome.com/round-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Round Seat Cushions');">
+Round Seat Cushions
+</a>
+</li>
+
+<li id="curve-back-seat-cushion" data-category-id="curve-back-seat-cushion">
+<a href="https://www.athome.com/curve-back-seat-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Curve Back Seat Cushions');">
+Curve Back Seat Cushions
+</a>
+</li>
+
+<li id="flange-hinged-cushion" data-category-id="flange-hinged-cushion">
+<a href="https://www.athome.com/flange-hinged-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Flange Hinged Cushions');">
+Flange Hinged Cushions
+</a>
+</li>
+
+<li id="steel-hinged-cushion" data-category-id="steel-hinged-cushion">
+<a href="https://www.athome.com/steel-hinged-cushion/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Steel Hinged Cushions');">
+Steel Hinged Cushions
+</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="level5-toggle-down" id="settee-cushions" data-category-id="settee-cushions">
+<a href="https://www.athome.com/settee-cushions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bench &amp; Settee Cushions');">
+Bench &amp; Settee Cushions
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-6">
+
+<li id="piped-gusseted-bench" data-category-id="piped-gusseted-bench">
+<a href="https://www.athome.com/piped-gusseted-bench/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Piped Gusseted Bench');">
+Piped Gusseted Bench
+</a>
+</li>
+
+<li id="wicker-settee" data-category-id="wicker-settee">
+<a href="https://www.athome.com/wicker-settee/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Settee Cushions');">
+Wicker Settee Cushions
+</a>
+</li>
+
+<li id="wicker-sofa" data-category-id="wicker-sofa">
+<a href="https://www.athome.com/wicker-sofa/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Sofa Cushions');">
+Wicker Sofa Cushions
+</a>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
 
 </li>
 
@@ -3747,36 +3963,33 @@ Outdoor Rugs
 Outdoor Décor
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="statues-sculptures" data-category-id="statues-sculptures">
-<a href="https://www.athome.com/statues-sculptures/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Statues &amp; Sculptures');">
-Statues &amp; Sculptures
+<li class="level4-toggle-down" id="outdoor-decor-collections" data-category-id="outdoor-decor-collections">
+<a href="https://www.athome.com/outdoor-decor-collections/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Décor Collections');">
+Outdoor Décor Collections
+</a>
+
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-5">
+
+<li id="global-organic" data-category-id="global-organic">
+<a href="https://www.athome.com/global-organic/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Global Organic');">
+Global Organic
 </a>
 
 
 
 </li>
 
-<li id="yard-art" data-category-id="yard-art">
-<a href="https://www.athome.com/yard-art/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Yard Art, Stakes &amp; Flags');">
-Yard Art, Stakes &amp; Flags
-</a>
-
-
-
-</li>
-
-<li id="outdoor-fountains" data-category-id="outdoor-fountains">
-<a href="https://www.athome.com/outdoor-fountains/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Fountains');">
-Outdoor Fountains
-</a>
-
-
+</ul>
 
 </li>
 
@@ -3798,6 +4011,33 @@ Outdoor Firepits &amp; Chimeneas
 
 </li>
 
+<li id="outdoor-fountains" data-category-id="outdoor-fountains">
+<a href="https://www.athome.com/outdoor-fountains/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Fountains');">
+Outdoor Fountains
+</a>
+
+
+
+</li>
+
+<li id="statues-sculptures" data-category-id="statues-sculptures">
+<a href="https://www.athome.com/statues-sculptures/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Statues &amp; Sculptures');">
+Statues &amp; Sculptures
+</a>
+
+
+
+</li>
+
+<li id="yard-art" data-category-id="yard-art">
+<a href="https://www.athome.com/yard-art/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Yard Art, Stakes &amp; Flags');">
+Yard Art, Stakes &amp; Flags
+</a>
+
+
+
+</li>
+
 </ul>
 
 </li>
@@ -3811,63 +4051,21 @@ Pots &amp; Planters
 
 </li>
 
-<li class="level3-toggle-down" id="wicker" data-category-id="wicker">
-<a href="https://www.athome.com/wicker/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Your Way');">
-Wicker Your Way
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li id="colored-wicker" data-category-id="colored-wicker">
-<a href="https://www.athome.com/colored-wicker/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Colored Wicker Patio Furniture');">
-Colored Wicker Patio Furniture
+<li id="patio-garden-under-50" data-category-id="patio-garden-under-50">
+<a href="https://www.athome.com/patio-garden-under-50/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Patio &amp; Garden under $50');">
+Patio &amp; Garden under $50
 </a>
 
 
 
 </li>
 
-<li id="wicker-decor" data-category-id="wicker-decor">
-<a href="https://www.athome.com/wicker-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Decor');">
-Wicker Decor
+<li id="patio-garden-under-100" data-category-id="patio-garden-under-100">
+<a href="https://www.athome.com/patio-garden-under-100/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Patio &amp; Garden under $100');">
+Patio &amp; Garden under $100
 </a>
 
 
-
-</li>
-
-<li id="wicker-furniture-sets" data-category-id="wicker-furniture-sets">
-<a href="https://www.athome.com/wicker-furniture-sets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Furniture Sets');">
-Wicker Furniture Sets
-</a>
-
-
-
-</li>
-
-<li id="wicker-seating" data-category-id="wicker-seating">
-<a href="https://www.athome.com/wicker-seating/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Seating');">
-Wicker Seating
-</a>
-
-
-
-</li>
-
-<li id="wicker-tables" data-category-id="wicker-tables">
-<a href="https://www.athome.com/wicker-tables/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wicker Tables');">
-Wicker Tables
-</a>
-
-
-
-</li>
-
-</ul>
 
 </li>
 
@@ -3880,69 +4078,18 @@ Wicker Tables
 Home &amp; More
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-3">
 
-<li class="level3-toggle-down" id="pets" data-category-id="pets">
+<li id="pets" data-category-id="pets">
 <a href="https://www.athome.com/pets/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Pets');">
 Pets
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
 
-
-
-<ul class="level-4">
-
-<li id="pet-beds" data-category-id="pet-beds">
-<a href="https://www.athome.com/pet-beds/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Beds');">
-Beds
-</a>
-
-
-
-</li>
-
-<li id="pet-pillows-throws" data-category-id="pet-pillows-throws">
-<a href="https://www.athome.com/pet-pillows-throws/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Pillows &amp; Throws');">
-Pillows &amp; Throws
-</a>
-
-
-
-</li>
-
-<li id="bowls-feeders" data-category-id="bowls-feeders">
-<a href="https://www.athome.com/bowls-feeders/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Bowls &amp; Feeders');">
-Bowls &amp; Feeders
-</a>
-
-
-
-</li>
-
-<li id="food-canisters-treat-jars" data-category-id="food-canisters-treat-jars">
-<a href="https://www.athome.com/food-canisters-treat-jars/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Food Canisters &amp; Treat Jars');">
-Food Canisters &amp; Treat Jars
-</a>
-
-
-
-</li>
-
-<li id="furniture-covers" data-category-id="furniture-covers">
-<a href="https://www.athome.com/furniture-covers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Furniture Covers');">
-Furniture Covers
-</a>
-
-
-
-</li>
-
-</ul>
 
 </li>
 
@@ -3951,18 +4098,42 @@ Furniture Covers
 Housekeeping
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-4">
 
-<li id="laundry" data-category-id="laundry">
+<li id="stepstools-ladders" data-category-id="stepstools-ladders">
+<a href="https://www.athome.com/stepstools-ladders/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Stepstools &amp; Ladders');">
+Stepstools &amp; Ladders
+</a>
+
+
+
+</li>
+
+<li class="level4-toggle-down" id="laundry" data-category-id="laundry">
 <a href="https://www.athome.com/laundry/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Laundry');">
 Laundry
 </a>
 
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
+
+
+<ul class="level-5">
+
+<li id="laundry-care" data-category-id="laundry-care">
+<a href="https://www.athome.com/laundry-care/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Ironing Boards &amp; Clothing Care');">
+Ironing Boards &amp; Clothing Care
+</a>
+
+
+
+</li>
+
+</ul>
 
 </li>
 
@@ -3976,8 +4147,8 @@ Brooms &amp; Mops
 </li>
 
 <li id="cleaning-brushes" data-category-id="cleaning-brushes">
-<a href="https://www.athome.com/cleaning-brushes/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Cleaning Brushes');">
-Cleaning Brushes
+<a href="https://www.athome.com/cleaning-brushes/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Dish Cloths');">
+Dish Cloths
 </a>
 
 
@@ -4006,277 +4177,24 @@ Cleaning Supplies
 Seasonal
 </a>
 
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
 <ul class="level-3">
 
-<li class="level3-toggle-down" id="thanksgiving-fall" data-category-id="thanksgiving-fall">
-<a href="https://www.athome.com/thanksgiving-fall/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wall-to-Wall Fall');">
-Wall-to-Wall Fall
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li id="harvest-heritage" data-category-id="harvest-heritage">
-<a href="https://www.athome.com/harvest-heritage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Harvest Heritage');">
-Harvest Heritage
-</a>
-
-
-
-</li>
-
-<li id="thankful-traditions" data-category-id="thankful-traditions">
-<a href="https://www.athome.com/thankful-traditions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Thankful Traditions');">
-Thankful Traditions
-</a>
-
-
-
-</li>
-
-<li id="fall-nomad" data-category-id="fall-nomad">
-<a href="https://www.athome.com/fall-nomad/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Fall Nomad');">
-Fall Nomad
-</a>
-
-
-
-</li>
-
-<li id="homestead-decor" data-category-id="homestead-decor">
-<a href="https://www.athome.com/homestead-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Homestead');">
-Homestead
-</a>
-
-
-
-</li>
-
-<li id="pastel-bounty" data-category-id="pastel-bounty">
-<a href="https://www.athome.com/pastel-bounty/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Pastel Bounty');">
-Pastel Bounty
-</a>
-
-
-
-</li>
-
-</ul>
-
-</li>
-
 <li id="refresh-with-color" data-category-id="refresh-with-color">
-<a href="https://www.athome.com/refresh-with-color/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Fall Décor Under $30');">
-Fall Décor Under $30
+<a href="https://www.athome.com/refresh-with-color/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Refresh with Color Under $30');">
+Refresh with Color Under $30
 </a>
 
 
 
 </li>
 
-<li id="halloween" data-category-id="halloween">
-<a href="https://www.athome.com/halloween/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Halloween');">
-Halloween
-</a>
-
-
-
-</li>
-
-<li class="level3-toggle-down" id="christmas-season" data-category-id="christmas-season">
-<a href="https://www.athome.com/christmas-season/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Christmas');">
-Christmas
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-4">
-
-<li class="level4-toggle-down" id="christmas-indoor-decor" data-category-id="christmas-indoor-decor">
-<a href="https://www.athome.com/christmas-indoor-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Indoor Décor');">
-Indoor Décor
-</a>
-
-<i class="toggle-right-icon fa fa-angle-right"></i>
-
-
-
-<ul class="level-5">
-
-<li id="christmas-candles" data-category-id="christmas-candles">
-<a href="https://www.athome.com/christmas-candles/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Candles, Candleholders &amp; Lanterns');">
-Candles, Candleholders &amp; Lanterns
-</a>
-
-
-
-</li>
-
-<li id="christmas-indoor-entertaining" data-category-id="christmas-indoor-entertaining">
-<a href="https://www.athome.com/christmas-indoor-entertaining/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Entertaining');">
-Entertaining
-</a>
-
-
-
-</li>
-
-<li id="christmas-indoor-floor-decor" data-category-id="christmas-indoor-floor-decor">
-<a href="https://www.athome.com/christmas-indoor-floor-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Floor Décor');">
-Floor Décor
-</a>
-
-
-
-</li>
-
-<li id="christmas-indoor-floral" data-category-id="christmas-indoor-floral">
-<a href="https://www.athome.com/christmas-indoor-floral/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Florals &amp; Garland');">
-Florals &amp; Garland
-</a>
-
-
-
-</li>
-
-<li id="christmas-gift-wrap" data-category-id="christmas-gift-wrap">
-<a href="https://www.athome.com/christmas-gift-wrap/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Gift Wrap, Bags &amp; Accessories');">
-Gift Wrap, Bags &amp; Accessories
-</a>
-
-
-
-</li>
-
-<li id="christmas-indoor-nutcrackers" data-category-id="christmas-indoor-nutcrackers">
-<a href="https://www.athome.com/christmas-indoor-nutcrackers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Nutcrackers');">
-Nutcrackers
-</a>
-
-
-
-</li>
-
-<li id="christmas-ornaments" data-category-id="christmas-ornaments">
-<a href="https://www.athome.com/christmas-tree-ornaments/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Ornaments');">
-Ornaments
-</a>
-
-
-
-</li>
-
-<li id="christmas-indoor-pillows" data-category-id="christmas-indoor-pillows">
-<a href="https://www.athome.com/christmas-indoor-pillows/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Pillows');">
-Pillows
-</a>
-
-
-
-</li>
-
-<li id="christmas-indoor-rugs-doormats" data-category-id="christmas-indoor-rugs-doormats">
-<a href="https://www.athome.com/christmas-indoor-rugs-doormats/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Doormats &amp; Accent Rugs');">
-Doormats &amp; Accent Rugs
-</a>
-
-
-
-</li>
-
-<li id="christmas-indoor-santas" data-category-id="christmas-indoor-santas">
-<a href="https://www.athome.com/christmas-indoor-santas/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Santas &amp; Angels');">
-Santas &amp; Angels
-</a>
-
-
-
-</li>
-
-<li id="christmas-indoor-stockings" data-category-id="christmas-indoor-stockings">
-<a href="https://www.athome.com/christmas-indoor-stockings/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Stockings &amp; Holders');">
-Stockings &amp; Holders
-</a>
-
-
-
-</li>
-
-<li id="christmas-indoor-storage" data-category-id="christmas-indoor-storage">
-<a href="https://www.athome.com/christmas-indoor-storage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Storage');">
-Storage
-</a>
-
-
-
-</li>
-
-<li id="christmas-tabletop-decor" data-category-id="christmas-tabletop-decor">
-<a href="https://www.athome.com/christmas-tabletop-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Tabletop Décor');">
-Tabletop Décor
-</a>
-
-
-
-</li>
-
-<li id="tabletop-collection" data-category-id="tabletop-collection">
-<a href="https://www.athome.com/tabletop-collection/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Tabletop Christmas Trees');">
-Tabletop Christmas Trees
-</a>
-
-
-
-</li>
-
-<li id="christmas-trees-skirts" data-category-id="christmas-trees-skirts">
-<a href="https://www.athome.com/christmas-trees-skirts/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Tree Skirts');">
-Tree Skirts
-</a>
-
-
-
-</li>
-
-<li id="christmas-trees-stands" data-category-id="christmas-trees-stands">
-<a href="https://www.athome.com/christmas-trees-stands/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Tree Stands &amp; Accessories');">
-Tree Stands &amp; Accessories
-</a>
-
-
-
-</li>
-
-<li id="christmas-tree-toppers" data-category-id="christmas-tree-toppers">
-<a href="https://www.athome.com/christmas-tree-toppers/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Tree Toppers');">
-Tree Toppers
-</a>
-
-
-
-</li>
-
-<li id="christmas-trim" data-category-id="christmas-trim">
-<a href="https://www.athome.com/christmas-trim/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Tree Trimmings');">
-Tree Trimmings
-</a>
-
-
-
-</li>
-
-<li id="christmas-wall-decor" data-category-id="christmas-wall-decor">
-<a href="https://www.athome.com/christmas-wall-decor/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wall Décor');">
-Wall Décor
+<li id="easter" data-category-id="easter">
+<a href="https://www.athome.com/easter/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Easter');">
+Easter
 </a>
 
 
@@ -4287,9 +4205,16 @@ Wall Décor
 
 </li>
 
-</ul>
+<li class="level2-toggle-down" id="occasions" data-category-id="occasions">
+<a href="https://www.athome.com/occasions/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Occasions');">
+Occasions
+</a>
 
-</li>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
+
+
+
+<ul class="level-3">
 
 <li id="wedding" data-category-id="wedding">
 <a href="https://www.athome.com/wedding/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Wedding');">
@@ -4306,7 +4231,7 @@ Wedding
 
 </ul>
 </div>
-<div id="visualnav1_rr"></div>
+<div id="visualnav1_rr" class="rr_container" data-action="Visual Nav Click"></div>
 </div>
 
 </div>
@@ -4326,7 +4251,7 @@ Styles
 </a>
 
 <div class="toggle-down-icon sprite menuDownImg"></div>
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -4338,111 +4263,51 @@ Styles
 <div class="item-holder">
 <ul class="level2-menu">
 
-<li id="modern-metro" data-category-id="modern-metro">
-<a href="https://www.athome.com/modern-metro/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Modern Metro');">Modern Metro</a>
+<li id="modern-contemporary" data-category-id="modern-contemporary">
+<a href="https://www.athome.com/modern-contemporary/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Modern/Contemporary');">Modern/Contemporary</a>
 </li>
 
-<li id="urban-living" data-category-id="urban-living">
-<a href="https://www.athome.com/urban-living/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Urban Living');">Urban Living</a>
+<li id="glam" data-category-id="glam">
+<a href="https://www.athome.com/glam/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Glam');">Glam</a>
 </li>
 
-<li id="gracious-living" data-category-id="gracious-living">
-<a href="https://www.athome.com/gracious-living/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Gracious Living');">Gracious Living</a>
+<li id="traditional" data-category-id="traditional">
+<a href="https://www.athome.com/traditional/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Traditional');">Traditional</a>
 </li>
 
 <li id="boho-chic" data-category-id="boho-chic">
 <a href="https://www.athome.com/boho-chic/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Boho Chic');">Boho Chic</a>
 </li>
 
-<li id="weekend-getaway" data-category-id="weekend-getaway">
-<a href="https://www.athome.com/weekend-getaway/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Weekend Getaway');">Weekend Getaway</a>
+<li id="rustic-farmhouse" data-category-id="rustic-farmhouse">
+<a href="https://www.athome.com/rustic-farmhouse/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Rustic/Farmhouse');">Rustic/Farmhouse</a>
 </li>
 
-<li id="tribal-cadence" data-category-id="tribal-cadence">
-<a href="https://www.athome.com/tribal-cadence/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Tribal Cadence');">Tribal Cadence</a>
-</li>
-
-<li id="vintage" data-category-id="vintage">
-<a href="https://www.athome.com/vintage/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Vintage');">Vintage</a>
-</li>
-
-<li id="library-luxe" data-category-id="library-luxe">
-<a href="https://www.athome.com/library-luxe/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Library Luxe');">Library Luxe</a>
-</li>
-
-<li id="whimsy" data-category-id="whimsy">
-<a href="https://www.athome.com/whimsy/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Whimsy');">Whimsy</a>
+<li id="nautical" data-category-id="nautical">
+<a href="https://www.athome.com/nautical/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Nautical');">Nautical</a>
 </li>
 
 </ul>
 </div>
 
-<div class="modern-metro level2-subcategories" style="display:block;">
+<div class="modern-contemporary level2-subcategories" style="display:block;">
 
 	 
 
-
-	
-
-
-
-
-
-<div style="width:225px">
-<p><img class="dyn-display-img" alt="Modern Metro room style" src="" data-src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwf47b55dd/images/mega-menu/styles/style_modern_metro.jpg"></p>
-
-<p style="font-size:24px;font-weight:800;">Modern Metro</p>
-
-<p>If you're a&nbsp;fan of bold color, retro decor&nbsp;and hip accents, you’re simply mad for mod.</p>
-</div>
-
- 
 	
 </div>
 
-<div class="urban-living level2-subcategories">
+<div class="glam level2-subcategories">
 
 	 
 
-
-	
-
-
-
-
-
-<div style="width:225px">
-<p><img class="dyn-display-img" alt="Urban Living room style" src="" data-src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwc7f03955/images/mega-menu/styles/style_urban_living.jpg"></p>
-
-<p style="font-size:24px;font-weight:800;">Urban Living</p>
-
-<p>Your style, like your approach to life, reflects a modern sensibility that’s efficient-yet-relaxed.</p>
-</div>
-
- 
 	
 </div>
 
-<div class="gracious-living level2-subcategories">
+<div class="traditional level2-subcategories">
 
 	 
 
-
-	
-
-
-
-
-
-<div style="width:225px">
-<p><img class="dyn-display-img" alt="Gracious Living room style" src="" data-src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw5f4294a1/images/mega-menu/styles/style_gracious_living.jpg"></p>
-
-<p style="font-size:24px;font-weight:800;">Gracious Living</p>
-
-<p>Your style is truly unique blending a foundation of classic looks with an elegant&nbsp;touch.</p>
-</div>
-
- 
 	
 </div>
 
@@ -4469,120 +4334,17 @@ Styles
 	
 </div>
 
-<div class="weekend-getaway level2-subcategories">
+<div class="rustic-farmhouse level2-subcategories">
 
 	 
 
-
-	
-
-
-
-
-
-<div style="width:225px">
-<p><img class="dyn-display-img" alt="Weekend Getaway room style" src="" data-src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw95ffbccc/images/mega-menu/styles/style_weekend_getaway.jpg"></p>
-
-<p style="font-size:24px;font-weight:800;">Weekend Getaway</p>
-
-<p>Your home style is as casual and unpretentious as you are. If it’s not comfy, it’s not in your home.</p>
-</div>
-
- 
 	
 </div>
 
-<div class="tribal-cadence level2-subcategories">
+<div class="nautical level2-subcategories">
 
 	 
 
-
-	
-
-
-
-
-
-<div style="width:225px">
-<p><img class="dyn-display-img" alt="Tribal Cadence room style" src="" data-src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwf205066a/images/mega-menu/styles/style_tribal_cadence.jpg"></p>
-
-<p style="font-size:24px;font-weight:800;">Tribal Cadence</p>
-
-<p>Your adventurous style reflects a direct connection to the world, your own heritage and cultures that inspire you.</p>
-</div>
-
- 
-	
-</div>
-
-<div class="vintage level2-subcategories">
-
-	 
-
-
-	
-
-
-
-
-
-<div style="width:225px">
-<p><img class="dyn-display-img" alt="Vintage room style" src="" data-src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwfc2de82e/images/mega-menu/styles/style_vintage.jpg"></p>
-
-<p style="font-size:24px;font-weight:800;">Vintage</p>
-
-<p>Your style is full of charm and character with a focus on pieces that appear to have a little history behind them.</p>
-</div>
-
- 
-	
-</div>
-
-<div class="library-luxe level2-subcategories">
-
-	 
-
-
-	
-
-
-
-
-
-<div style="width:225px">
-<p><img class="dyn-display-img" alt="Library Luxe room style" src="" data-src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwcba0b4f3/images/mega-menu/styles/style_library_luxe.jpg"></p>
-
-<p style="font-size:24px;font-weight:800;">Library Luxe</p>
-
-<p>You have an eye for rich details and a love of the finer things. When guests come to visit, it's clear who has arrived.</p>
-
-</div>
-
- 
-	
-</div>
-
-<div class="whimsy level2-subcategories">
-
-	 
-
-
-	
-
-
-
-
-
-<div style="width:225px">
-<p><img class="dyn-display-img" alt="Whimsy room style" src="" data-src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw87e50e29/images/mega-menu/styles/style_whimsy.jpg"></p>
-
-<p style="font-size:24px;font-weight:800;">Whimsy</p>
-
-<p>Your fun personality allows for an eclectic style of colorful decor.</p>
-
-</div>
-
- 
 	
 </div>
 
@@ -4605,7 +4367,7 @@ Rooms
 </a>
 
 <div class="toggle-down-icon sprite menuDownImg"></div>
-<i class="toggle-right-icon fa fa-angle-right"></i>
+<i class="toggle-right-icon fa fa-angle-right" aria-hidden="true"></i>
 
 
 
@@ -4616,10 +4378,6 @@ Rooms
 <div class="vertical-megamenu">
 <div class="item-holder">
 <ul class="level2-menu">
-
-<li id="back-to-campus" data-category-id="back-to-campus">
-<a href="https://www.athome.com/back-to-campus/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Back to Campus');">Back to Campus</a>
-</li>
 
 <li id="living-room" data-category-id="living-room">
 <a href="https://www.athome.com/living-room/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Living Room');">Living Room</a>
@@ -4652,14 +4410,7 @@ Rooms
 </ul>
 </div>
 
-<div class="back-to-campus level2-subcategories" style="display:block;">
-
-	 
-
-	
-</div>
-
-<div class="living-room level2-subcategories">
+<div class="living-room level2-subcategories" style="display:block;">
 
 	 
 
@@ -4736,11 +4487,11 @@ Ideas
 
 </li>
 
-<li id="holiday" data-category-id="holiday" data-recs-enabled="true">
+<li id="outdoor-living" data-category-id="outdoor-living" data-recs-enabled="true">
 
 
-<a class="" href="https://www.athome.com/holiday/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Holiday HQ');">
-Holiday HQ
+<a class="" href="https://www.athome.com/outdoor-living/" onclick="ga('send', 'event', 'navigation', 'mainmenu', 'Outdoor Living');">
+Outdoor Living
 
 </a>
 
@@ -4769,7 +4520,8 @@ Clearance
 
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="c2e22143bf46811c71a9fdabfa" -->
-<a href="https://www.athome.com/flash-find-of-the-week/"><span style="color:#e4002b;">Flash Find</span></a>
+<!-- <a href="https://www.athome.com/flash-find-of-the-week/"><span style="color:#EA0029;">Flash Find</span></a> -->
+<a href="https://www.athome.com/flash-find.html"><span style="color:#EA0029;">Flash Find</span></a>
 </div> <!-- End content-asset -->
 
 
@@ -4780,7 +4532,7 @@ Clearance
 <li class="menuSearchLi">
 <div class="find-store-container header-search">
 
-<form role="search" id="simpleSearchForm" action="/search/" method="get" name="simpleSearch">
+<form role="search" class="simpleSearchForm" action="/search/" method="get" name="simpleSearch">
 <fieldset>
 <legend style="display: none;">Search AtHome.com</legend>
 <label class="visually-hidden" for="q">Search Catalog</label>
@@ -4789,7 +4541,7 @@ Clearance
 <span class="hide">Search</span>
 <i class="search-menu-icon fa fa-search"></i>
 </button>
-<input type="text" id="q" name="q" value="" class="search-input" autocomplete="off" placeholder="">
+<input type="text" name="q" value="" class="search-input q" autocomplete="off" placeholder="" aria-label="Search At Home">
 </fieldset>
 </form>
 
@@ -4803,11 +4555,11 @@ Clearance
 <ul class="menu-category level-1">
 	<li class="last mobile-show">
 		
-			<a href="https://www.athome.com/account-settings/" id="myaccount-link" class="store-search-button">
-				
-				<span class="storeLabel">My Account</span>
-			</a>
-			
+				<a href="https://www.athome.com/account-settings/" class="store-search-button">
+					
+					<span class="storeLabel">My Account</span>
+				</a>
+		
 	</li>
 	<li class="last mobile-current-location mobile-show">
 		<a class="userSelectedStore" href="/store-detail/?StoreID=Kansas-Wichita">
@@ -5029,28 +4781,28 @@ Plano, TX 75074</p>
 
 
 <style>
-  .hdr-promo-href {
-       width: 320px;
-       display: inline-block;
-       padding-top: 5px;
-  }
-  .hdr-promo-txt-1 {
-      font-size: 18pt;
-      color: #00b3dd; 
-      font-weight: 200; 
+.hdr-promo-href {
+     width: 320px;
+     display: inline-block;
+     padding-top: 5px;
 }
-  .hdr-promo-txt-2 {font-size: 14pt;font-weight: 700;}
+.hdr-promo-txt-1 {
+    font-size: 18pt;
+    color: #0097BD;
+    font-weight: 200;
+}
+.hdr-promo-txt-2 {font-size: 14pt;font-weight: 700;}
 
 @media screen and (max-width: 767px) {
 .footer-promo-banner {
-   width: 100%;
-    background: #00b3dd;
-    margin:0;
-    text-align: center;
-    display: inline-block;
+ width: 100%;
+  background: #00b3dd;
+  margin:0;
+  text-align: center;
+  display: inline-block;
 }
 .footer-promo-banner  .hdr-promo-txt-1 {
-   color: white;
+ color: white;
 }
 .footer-promo-banner  .hdr-promo-href {padding: 50px 0px; width: 100%;}
 }
@@ -5078,93 +4830,93 @@ Plano, TX 75074</p>
 
 
 <style type="text/css">@media screen and (max-width: 767px) {
-    .mobile-footer-div {
-        margin-bottom: 20px;
-         display: block; 
-    }
-    .footer-div-signup {
-        padding-top: 10px;
-    }
+  .mobile-footer-div {
+      margin-bottom: 20px;
+       display: block; 
+  }
+  .footer-div-signup {
+      padding-top: 10px;
+  }
 }
 .email_img {
-    padding-bottom: 10px;
-    color: #00b3dd;
-    font-size: 2.5em;
+  padding-bottom: 10px;
+  color: #007694;
+  font-size: 2.5em;
 }
 
 div#footer-email-signup {
-    padding-top: 10px;
+  padding-top: 10px;
 }
 
 .email_img img {
-    width: 30px;
+  width: 30px;
 }
 .footer-div-signup {
-     display: block;
-    text-align: center;
-    margin: 0 auto;
+   display: block;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .footer-div{
- width: 100%;
+width: 100%;
 }
 .inputFooterEmail{
-  background-color: transparent;
-   border: 1px solid #999 !important;
-   border-radius: 4px;
-   float: left;
-   margin-right: 10px;
-   padding-left: 1rem;
-   width: 65% !important;
-   height: 45px !important;
+background-color: transparent;
+ border: 1px solid #999 !important;
+ border-radius: 4px;
+ float: left;
+ margin-right: 10px;
+ padding-left: 1rem;
+ width: 65% !important;
+ height: 45px !important;
 }
 #footer-email-thankyou{
 display:none;
 }
 .hideText{
-   color: transparent;
+ color: transparent;
 }
 .footer-email-txt2 {
-  margin-x: 5px 30px 0px 0px; 
-  font-size: 14px; 
-  font-weight: 300; 
+margin-x: 5px 30px 0px 0px; 
+font-size: 14px; 
+font-weight: 300; 
 }
 .displayA {
-   display: block;
-   height: 22px;
-   margin-right: 20px;
+ display: block;
+ height: 22px;
+ margin-right: 20px;
 }
 .signUpTxt {
-   color: #003764;
-    line-height: 26px;
-    letter-spacing: .025em;
-    font-size: 16px;
-    font-family: "Ubuntu", sans-serif, "Open Sans", sans-serif
+ color: #003764;
+  line-height: 26px;
+  letter-spacing: .025em;
+  font-size: 16px;
+  font-family: "Ubuntu", sans-serif, "Open Sans", sans-serif
 }
 .signUpTxt sup {
-   display: inline;
-   vertical-align: sub;
+ display: inline;
+ vertical-align: sub;
 }
 .footer-txt-spacer {
-      margin-left:  30px;
+    margin-left:  30px;
 }
 .boldTxt {
-    font-weight: bold;
-    font-size: 20pt; 
-    text-transform: uppercase;
+  font-weight: bold;
+  font-size: 20pt; 
+  text-transform: uppercase;
 
 }
 </style>
 
 <div class="footer-div-signup">
 <!--        <div class="email_img"><img alt="email icon" src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dwe271d990/icn_email_2x.png" title="email Icon" /></div> -->
-        <div class="email_img"><i class="fa fa-envelope" aria-hidden="true"></i></div>
-	<div class="footer-email-txt2"><span class="signUpTxt boldTxt">Enjoy 10% off </span></div> 	   
-	<div class="footer-email-txt2"><span class="signUpTxt">your next visit, a birthday bonus and </span></div> 	 
-        <div class="footer-email-txt2"><span class="signUpTxt">insider info with At Home Insider Perks<sup>™</sup></span></div>
-        <div class="email-div-2">
-		<div id="footer-email-signup"><a href="https://www.athome.com/insiderperks/" onclick="ga('send', 'event', 'emailsignup', 'footer');" class="button footer-subscribe-button">JOIN NOW</a></div>
-	</div>
+      <div class="email_img"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+<div class="footer-email-txt2"><span class="signUpTxt boldTxt">Enjoy 10% off </span></div> 	   
+<div class="footer-email-txt2"><span class="signUpTxt">your next visit, a birthday bonus and </span></div> 	 
+      <div class="footer-email-txt2"><span class="signUpTxt">insider info with At Home Insider Perks<sup>™</sup></span></div>
+      <div class="email-div-2">
+  <div id="footer-email-signup"><a href="https://www.athome.com/insiderperks/" onclick="ga('send', 'event', 'emailsignup', 'footer');" class="button footer-subscribe-button">JOIN NOW</a></div>
+</div>
 </div>
 
  
@@ -5221,9 +4973,13 @@ display:none;
 	<li><a href="https://www.athome.com/departments/">Explore Departments</a></li>
 	<li><a href="https://www.athome.com/styles/">Explore Styles</a></li>
 	<li><a href="https://www.athome.com/rooms/">Explore Rooms</a></li>
+	<li><a href="https://www.athome.com/inspiration/">Get Ideas</a></li>
+	<li><a href="https://www.athome.com/gift-card.html">Gift Cards</a></li>
+<!--
 	<li><a href="https://www.athome.com/ideas-how-tos/">Ideas &amp; How-To's</a></li>
 	<li><a href="https://www.athome.com/videos.html">Videos</a></li>
-	<li><a href="http://blog.athome.com" target="_blank">Blog</a></li>
+        <li><a href="http://blog.athome.com" target="_blank">Blog</a></li> 
+-->
 </ul>
 <!-- END: footer_about -->
 </div> <!-- End content-asset -->
@@ -5320,51 +5076,51 @@ display:none;
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="2901c5553ec260a017b3354155" -->
 <style type="text/css">.social-div{
-   float: left; 
-   a {
-       margin-right: 10px;
-  }
+ float: left; 
+ a {
+     margin-right: 10px;
+}
 }
 .footer-container .social-div img{
-    width: 20px;
+  width: 20px;
 }
 .footer-container .social-div a {
-   font-size: 2.3em;
-   color: #00b3dd;
-   margin-right: 6px;
-   padding: 8px;
+ font-size: 2.3em;
+ color: #0097BD;
+ margin-right: 6px;
+ padding: 8px;
 }
 .footer-container .social-div a:hover {
-   color: #00829f;
+ color: #00829f;
 }
 .footer-container .social-div a:first-of-type {
-   margin-left: -8px;
+ margin-left: -8px;
 }
 .footer-container .social-div a span {
-   display: inline-block;
-   text-indent: -9999px;
-   line-height: 0;
-   width: 0;
+ display: inline-block;
+ text-indent: -9999px;
+ line-height: 0;
+ width: 0;
 }
 .footer-container .social-div a .fa-play {
-    color: #FFF;
-    background-color: #00b3dd;
-    padding: 5px 4px 4px 7px;
-    font-size: 0.5em;
-    border-radius: 4px;
-    position: relative;
-    top: -4px;
+  color: #FFF;
+  background-color: #0097BD;
+  padding: 5px 4px 4px 7px;
+  font-size: 0.5em;
+  border-radius: 4px;
+  position: relative;
+  top: -4px;
 }
 .footer-container .social-div a:hover .fa-play {
-    background-color: #00829f;
+  background-color: #00829f;
 }
 </style>
 
 <h3>CONNECT WITH US<span class="expand-menu-icon mobile-show"></span><span class="contract-menu-icon"></span></h3>
 
 <ul class="menu-footer">
-	<li>
-	<div class="social-div">
+<li>
+<div class="social-div">
 <!--
 <a class="footer-social-icon" href="https://www.facebook.com/athomestores" target="_blank" title="Follow us on Facebook"><img alt="FB icon" src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw96ca831e/Social_facebook_2X.png" title="" /><span>Follow us on Facebook</span></a> 
 <a class="footer-social-icon" href="https://www.twitter.com/athomestores" target="_blank" title="Follow us on Twitter"><img alt="twitter icon" src="https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw002e9267/social_twitter_2X.png" title="" /><span>Follow us on Twitter</span></i></a> 
@@ -5378,8 +5134,8 @@ display:none;
 <a class="footer-social-icon" href="https://www.instagram.com/athomestores" target="_blank" title="Follow us on Instagram"><i class="fa fa-instagram" aria-hidden="true"></i><span>Follow us on Instagram</span></a> 
 <a class="footer-social-icon" href="https://www.pinterest.com/athomestores" target="_blank" title="Follow us on Pinterest"><i class="fa fa-pinterest" aria-hidden="true"></i><span>Follow us on Pinterest</span></a> 
 <a class="footer-social-icon" href="https://www.youtube.com/athomestores" target="_blank" title="Subscribe to our YouTube channel"><i class="fa fa-play" aria-hidden="true"></i><span>Subscribe to our YouTube channel</span></a>
-	</div>
-	</li>
+</div>
+</li>
 </ul>
 </div> <!-- End content-asset -->
 
@@ -5391,7 +5147,6 @@ display:none;
 </div>
 </div>
 
-</footer>
 
 
 
@@ -5412,44 +5167,45 @@ display:none;
 <p>The "similar styles" price noted is our researched retail price at a point in time of similar style of aesthetic item at another retailer offering home décor products. Like other home décor retailers, we work with a variety of partners to source our products, making each one unique to At Home. Copyright © 2018 At Home Stores LLC. Selection, quantities and pricing of products may vary by participating store. All rights reserved.</p>
 </div>
 <style type="text/css">.copyright {
-    background-color: #efefef;
-    text-align: center;
-    padding: 15px 35px;
-    font-size: 11px;
-    font-weight: 400;
-    clear: both;
-    margin-top: 50px;
-    width: 100%;
-    box-sizing: border-box;
+  background-color: #F1F1F1;
+  color: #6A6C6C;
+  text-align: center;
+  padding: 15px 35px;
+  font-size: 11px;
+  font-weight: 400;
+  clear: both;
+  margin-top: 50px;
+  width: 100%;
+  box-sizing: border-box;
 }
 .category-banner {left:0 !important}
 </style>
 <!-- Script dynamically loads in mega-menu images after page has loaded -->
 <script>
 function deferImages() {
-	var tags = document.getElementsByClassName("image-swap");
-	var isMobile = (window.innerWidth < 768);
-	console.log("Total Tags: " + tags.length);
-	for(var i=0; i < tags.length; i++) {
-		var tag = tags[i];
-		var srcAttr = "data-src-desktop";
-		if(isMobile) { srcAttr = "data-src-mobile"; }
-		if(tag.getAttribute(srcAttr)) {
-			tag.setAttribute('src', tag.getAttribute(srcAttr));
-		}
-	}
+var tags = document.getElementsByClassName("image-swap");
+var isMobile = (window.innerWidth < 768);
+console.log("Total Tags: " + tags.length);
+for(var i=0; i < tags.length; i++) {
+  var tag = tags[i];
+  var srcAttr = "data-src-desktop";
+  if(isMobile) { srcAttr = "data-src-mobile"; }
+  if(tag.getAttribute(srcAttr)) {
+    tag.setAttribute('src', tag.getAttribute(srcAttr));
+  }
+}
 }
 deferImages();
 </script><!-- Script dynamically loads in mega-menu images after page has loaded --><script>
 window.onload = function() {
-   jQuery('body').on('mouseover', '.level-1 li', function() {
-      jQuery(this).find('.dyn-display-img').each(function() {
-         var attr = jQuery(this).attr('data-src');
-         if (typeof attr !== typeof undefined && attr !== false) {
-           jQuery(this).attr('src', attr);
-         }
-      });
-   });
+ jQuery('body').on('mouseover', '.level-1 li', function() {
+    jQuery(this).find('.dyn-display-img').each(function() {
+       var attr = jQuery(this).attr('data-src');
+       if (typeof attr !== typeof undefined && attr !== false) {
+         jQuery(this).attr('src', attr);
+       }
+    });
+ });
 };
 </script>
 </div> <!-- End content-asset -->
@@ -5458,13 +5214,14 @@ window.onload = function() {
 
 
 
+</footer>
 
 
 
 
 
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -5487,13 +5244,13 @@ window.onload = function() {
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
 window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","UPDATE_PHONE_TYPE":"Please specify a phone type.","TERMS_ERROR":"You must agree to the terms of use to join.","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","STORE_DEFAULT_CHANGE":"Your store location has changed to  ","SURVEY_TITLE":"Just a quick question to help us serve you better","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quick View","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-athome-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-athome-Site/default/Page-Include","continueUrl":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Page-Show/C1495714954","staticPath":"/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/","addGiftCert":"/on/demandware.store/Sites-athome-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-athome-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-athome-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-athome-Site/default/Cart-MiniAddProduct","cartShow":"/on/demandware.store/Sites-athome-Site/default/Cart-Show","giftRegAdd":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/PaymentInstruments-List","addressesList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Address-List","wishlistAddress":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-athome-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-athome-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-athome-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-athome-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-athome-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-athome-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-athome-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-athome-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-athome-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-athome-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateCreditCardSelection","updateAddressDetails":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-athome-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-athome-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-athome-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-athome-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-athome-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-athome-Site/default/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-athome-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-athome-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-athome-Site/default/Page-Include?cid=cookie_hint","tandemStyleQuizXml":"/on/demandware.store/Sites-athome-Site/default/Home-StyleQuizInclude","optinForm":"/on/demandware.store/Sites-athome-Site/default/Home-OptInForm","storesDetail":"/store-detail/","setUserStore":"/on/demandware.store/Sites-athome-Site/default/Stores-SetUserStore","productHitTile":"/on/demandware.store/Sites-athome-Site/default/Product-HitTile?pid="};
+window.Urls = {"appResources":"/on/demandware.store/Sites-athome-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-athome-Site/default/Page-Include","continueUrl":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Page-Show/C458179604","staticPath":"/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/","addGiftCert":"/on/demandware.store/Sites-athome-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-athome-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-athome-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-athome-Site/default/Cart-MiniAddProduct","cartShow":"/on/demandware.store/Sites-athome-Site/default/Cart-Show","giftRegAdd":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/PaymentInstruments-List","addressesList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Address-List","wishlistAddress":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-athome-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-athome-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-athome-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-athome-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-athome-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-athome-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-athome-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-athome-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-athome-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-athome-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateCreditCardSelection","updateAddressDetails":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-athome-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-athome-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-athome-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-athome-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-athome-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.athome.com/on/demandware.store/Sites-athome-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-athome-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-athome-Site/default/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-athome-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-athome-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-athome-Site/default/Page-Include?cid=cookie_hint","tandemStyleQuizXml":"/on/demandware.store/Sites-athome-Site/default/Home-StyleQuizInclude","optinForm":"/on/demandware.store/Sites-athome-Site/default/Home-OptInForm","storesDetail":"/store-detail/","setUserStore":"/on/demandware.store/Sites-athome-Site/default/Stores-SetUserStore","productHitTile":"/on/demandware.store/Sites-athome-Site/default/Product-HitTile?pid="};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"STORE_PICKUP":false,"COOKIE_HINT":false};
 window.User = {"zip":null,"storeId":null};
 }());
 </script>
-<script src="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/js/app.js" async=""></script>
+<script src="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/js/app.js" async=""></script>
 <script>
 //Script dynamically loads in mega-menu images after page has loaded
 function deferImages() {
@@ -5512,8 +5269,8 @@ tag.setAttribute('src', tag.getAttribute(srcAttr));
 deferImages();
 </script>
 
-<link type="text/css" rel="stylesheet" href="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/css/minifiedcss.css">
-<script src="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/lib/minifiedjs.js"></script>
+<link type="text/css" rel="stylesheet" href="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/css/minifiedcss.css">
+<script src="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/lib/minifiedjs.js"></script>
 
 
 
@@ -5524,9 +5281,6 @@ var meta = "";
 var keywords = "Privacy Policy";
 </script>
 
-<script>
-$("select").selectBoxIt({autoWidth: false});
-</script>
 <script>
 $('.pdp-view-less').click(function(e){
 $('.product-detail > .product-detail-description').css({'height':'60px','overflow':'hidden'});
@@ -5680,9 +5434,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-athome-Site/-/default/v1540209217430/internal/jscript/dwac-18.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-athome-Site/-/default/v1555396572480/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
