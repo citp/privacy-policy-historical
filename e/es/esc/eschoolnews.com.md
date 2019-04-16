@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121103300id_/https%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416164759id_/https%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eSchool News
 
