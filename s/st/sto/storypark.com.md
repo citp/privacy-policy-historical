@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storypark.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906175010id_/https%3A//www.storypark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storypark.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416210255id_/https%3A//www.storypark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Storypark
 
