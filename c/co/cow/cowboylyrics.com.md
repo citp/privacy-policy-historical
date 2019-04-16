@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cowboylyrics.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829063242id_/https%3A//www.cowboylyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowboylyrics.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416070644id_/https%3A//cowboylyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Cowboy Lyrics. Privacy
 
