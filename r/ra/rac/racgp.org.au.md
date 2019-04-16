@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230051806id_/http%3A//www.racgp.org.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416093633id_/https%3A//www.racgp.org.au/privacy-policy) for the most accurate reproduction.*
 
 # RACGP - Privacy statement
 
@@ -49,13 +49,13 @@ At certain events, the RACGP may use radio frequency identification (RFID) techn
 
 The RACGP considers RFID technology will assist with determining foot traffic or events of interest during conferences (for example). The RACGP will use reasonable efforts to notify you where RFID technology is used and provide an opt-out function.
 
-RFID technology where identifiable will constitute personal information. It will be stored within your conference profile and may be exported to your member record. It will be treated in confidence as for all other member information. 
+RFID technology where identifiable will constitute personal information. It will be stored within your conference profile and may be exported to your member record. It will be treated in confidence as for all other member information.
 
 ## 5\. Use of your personal information
 
 Personal information is kept until we are no longer legally obliged to keep, or when the need for the personal information has passed (at which point it will be destroyed, deleted or de-identified). Our purpose for collecting your personal information will to a degree depend on your interaction with us.
 
-For members, our primary purpose for collection is to administer and provide you with the full benefits of and administering your membership, providing services, sending related information, or as a record of confirmation of attainment of academic  qualifications, or QI&CPD status.
+For members, our primary purpose for collection is to administer and provide you with the full benefits of and administering your membership, providing services, sending related information, or as a record of confirmation of attainment of academic qualifications, or QI&CPD status.
 
 For QI&CPD participants, our primary purpose is similar, though focussed on administering and maintaining your QI&CPD status.
 
@@ -63,7 +63,7 @@ For other individuals, personal information may be collected to respond to enqui
 
 We may also require limited disclosure to contractors we engage to act for us or on our behalf, such as IT service providers, in order to enable them to provide their services. All contractors engaged in this fashion are required to comply with the privacy laws.
 
-Other than for administration or membership purposes, or to confirm whether you have achieved Fellowship with the RACGP, we will not use or disclose your personal information without your consent. Some permitted exceptions to this apply, including where we are legally required to disclose, or to protect the personal safety of any individual or the public.
+Other than for administration or membership purposes,or to confirm whether you have achieved Fellowship with the RACGP, we will not use or disclose your personal information without your consent. Some permitted exceptions to this apply, including where we are legally required to disclose, or to protect the personal safety of any individual or the public.
 
 We will periodically disclose subsets of your information to APHRA, Medicare and regional training organisations (if relevant) for regulatory purposes.
 
@@ -77,7 +77,7 @@ We take all reasonable steps to keep your personal information secure, safe and 
 
 You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the RACGP website. You should regularly change your website password, and in setting a password you should use a combination of letters (upper and lower case), numbers and special characters (!, @ etc). Please notify us immediately if there is any unauthorised use of your account by any other individual or any other breach of security.
 
-We may use cloud computing services to store your personal information. Wherever practical we will ensure these servers are housed in Australia> However some data may be stored in other countries including Europe or the United States of America. 
+We may use cloud computing services to store your personal information. Wherever practical we will ensure these servers are housed in Australia> However some data may be stored in other countries including Europe or the United States of America.
 
 ## 7\. Use of cookies on our website
 
@@ -125,7 +125,7 @@ If you wish to update or correct your personal information, please contact us us
 
 ## 11\. Problems or queries
 
-If you have a problem, query or complaint about the way in which we collect, use or disclose individuals’ personal information, please contact us using the contact details below. We take all aspects of privacy seriously, and welcome your feedback on the relevant issues. Any concerns received will be internally reviewed and where appropriate an internal investigation will be conducted to ensure we continue to comply with the Privacy Act. If you are unsatisfied with out response, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/)
+If you have a problem, query or complaint about the way in which we collect, use or disclose individuals’ personal information, please contact us using the contact details below. We take all aspects of privacy seriously, and welcome your feedback on the relevant issues. Any concerns received will be internally reviewed and where appropriate an internal investigation will be conducted to ensure we continue to comply with the Privacy Act. If you are unsatisfied with out response, you may contact the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/)
 
 ## 12\. Future changes
 
@@ -135,5 +135,6 @@ From time to time, our policies are reviewed and may be revised. We reserve the 
 
 For more information about privacy issues in Australia and protecting your privacy, visit the website of the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
 
-Alternatively, you may contact the RACGP at:  
+Alternatively, you may contact the RACGP at:
+
 Attn: Privacy Officer, 100 Wellington Parade, East Melbourne VIC 3002.
