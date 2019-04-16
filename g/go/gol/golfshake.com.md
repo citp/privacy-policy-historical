@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfshake.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831213925id_/https%3A//www.golfshake.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfshake.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416153226id_/https%3A//www.golfshake.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -6,7 +6,7 @@ At Golfshake, we are strongly committed to your right to privacy and to providin
 
 In this Privacy Policy, references to Golfshake, ‘we’, or ‘us’ or ‘our’ mean Golfshake Limited trading as Golfshake.com, a company registered in England and Wales, with company number 06053533, with its registered office address at Minton Place, Victoria Street, Windsor, SL4 1EG. Golfshake is a data controller in that we determine the purposes and means of the processing of the personal data that we collect and are responsible for your data. We are registered with the Information Commissioner’s Office.
 
-Any questions concerning personal data should be addressed to the Data Protection Officer by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#512123382730322811363e3d372239303a347f323e3c) or by post to Golfshake.com, Minton Place, Victoria Street, Windsor, SL4 1EG. Additionally, you can adjust your preferences at any stage via the Golfshake online member portal or through our email preference centres.
+Any questions concerning personal data should be addressed to the Data Protection Officer by email to [privacy@golfshake.com](mailto:privacy@golfshake.com) or by post to Golfshake.com, Minton Place, Victoria Street, Windsor, SL4 1EG. Additionally, you can adjust your preferences at any stage via the Golfshake online member portal or through our email preference centres.
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
@@ -69,7 +69,7 @@ If you have opted-in to receive marketing communications from us, you can opt ou
   * Updating your preferences in your online account;
   * Clicking the unsubscribe link in our emails;
   * Telephoning us on +44 (20) 3322 4272;
-  * Emailing us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection);
+  * Emailing us on privacy@golfshake.com;
   * Writing to us at Golfshake.com, Minton Place, Victoria Street, Windsor, SL4 1EG
 
 
@@ -134,7 +134,7 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 Golfshake Limited respects your data and your privacy is important to us.  For more information about how we use and protect data please see our [Privacy Notice](https://www.golfshake.com/terms/privacy/).
 
-Golfshake Limited is a controller of personal information.  If you have any queries in relation to data protection, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99e9ebf0eff8fae0d9fef6f5ffeaf1f8f2fcb7faf6f4).
+Golfshake Limited is a controller of personal information.  If you have any queries in relation to data protection, please email us at [privacy@golfshake.com](mailto:privacy@golfshake.com).
 
 ##  8\. Children and young people
 
