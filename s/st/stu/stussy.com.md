@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stussy.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017022559id_/http%3A//www.stussy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stussy.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416062841id_/https%3A//www.stussy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stussy
+# Privacy Policy | Stussy | Official Website USA & Canada
 
 This Privacy Policy is provided to explain how information is collected on our website and how that information is handled once it has been collected. Please note that this Privacy Policy may change at any time. While using the Stussy.com website you accept the terms and conditions outlined in this privacy policy and the terms of use.
 
