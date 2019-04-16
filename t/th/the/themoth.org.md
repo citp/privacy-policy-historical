@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoth.org privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007202553id_/https%3A//www.themoth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoth.org privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416090750id_/https%3A//themoth.org/privacy-policy) for the most accurate reproduction.*
 
 # The Moth | The Art and Craft of Storytelling
 
