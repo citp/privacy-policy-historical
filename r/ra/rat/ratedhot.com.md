@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratedhot.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619153856id_/http%3A//www.ratedhot.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedhot.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416073201id_/http%3A//www.ratedhot.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Rated Hot - The Best Adult Webmaster Resources
 
