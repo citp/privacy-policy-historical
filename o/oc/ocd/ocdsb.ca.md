@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocdsb.ca privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128032028id_/https%3A//ocdsb.ca/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocdsb.ca privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417010521id_/https%3A//ocdsb.ca/about_us/privacy) for the most accurate reproduction.*
 
 # Privacy - Ottawa-Carleton District School Board
 
