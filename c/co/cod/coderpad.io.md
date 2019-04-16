@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coderpad.io privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213002252id_/https%3A//coderpad.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderpad.io privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416211726id_/https%3A//coderpad.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CoderPad
 
@@ -94,7 +94,7 @@ Information that we collect from you automatically may include the following:
 
 **Cookies**
 
-A cookie is a small text file that is placed on your device when you visit a website. CoderPad uses cookies to optimize user experience and to collect anonymous, aggregated statistical information about our user base. You can restrict or manage the use of cookies at the individual browser level. Please look up how to manage cookies for your specific browser. You may choose to disable all cookies including those provided by CoderPad, however your use of certain features or functions on the Website may be limited. Disabling 3rd party cookies will not diminish functionality of the Website. Please review CoderPad’s detailed [Cookie Policy](https://web.archive.org/web/20181213002252id_/https%3A//coderpad.io/cookie-policy) for additional information.
+A cookie is a small text file that is placed on your device when you visit a website. CoderPad uses cookies to optimize user experience and to collect anonymous, aggregated statistical information about our user base. You can restrict or manage the use of cookies at the individual browser level. Please look up how to manage cookies for your specific browser. You may choose to disable all cookies including those provided by CoderPad, however your use of certain features or functions on the Website may be limited. Disabling 3rd party cookies will not diminish functionality of the Website. Please review CoderPad’s detailed [Cookie Policy](https://web.archive.org/web/20190416211726id_/https%3A//coderpad.io/cookie-policy) for additional information.
 
 ### 5\. How long does CoderPad keep my personal information?
 
