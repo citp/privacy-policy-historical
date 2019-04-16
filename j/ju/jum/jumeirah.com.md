@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumeirah.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811214523id_/http%3A//jumeirah.com/en/jumeirah-group/terms-and-conditions/privacy--cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumeirah.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416233359id_/https%3A//www.jumeirah.com/en/jumeirah-group/terms-and-conditions/privacy--cookies-policy) for the most accurate reproduction.*
 
 # Jumeirah
 
