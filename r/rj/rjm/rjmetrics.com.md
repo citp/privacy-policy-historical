@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rjmetrics.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150241id_/https%3A//magento.com/legal/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rjmetrics.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416190331id_/https%3A//magento.com/legal/terms/privacy) for the most accurate reproduction.*
 
 # Ecommerce Privacy Policy | Magento
 
