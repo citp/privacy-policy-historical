@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riteaidonlinestore.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010114726id_/https%3A//www.riteaid.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riteaidonlinestore.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416205545id_/https%3A//www.riteaid.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy – Rite Aid
 
@@ -16,7 +16,7 @@ When you visit Riteaid.com, you will be assigned a "cookie", which is a small te
 
 Most Internet browsers permit you to erase or block cookies. Refer to your browser instructions or help screens to assist you in these processes: preventing your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that cookies permit you to take full advantage of Riteaid.com features and we recommend that you leave them turned on.
 
-We may also use technologies, such as cookies, to provide you with certain online display advertising tailored to your interests. To opt out of cookies used for certain Rite Aid online advertising, [click here](http://dtmc.riteaid.com/adinfo/choice/prod/?type=fpc&cid=61838&cname=Rite%20Aid&cmagic=21ddd6&clogo=61838.png&loc=us&lang=en-us "TextLink-click here").
+We may also use technologies, such as cookies, to provide you with certain online display advertising tailored to your interests. To opt out of cookies used for certain Rite Aid online advertising, [click here](http://dtmc.riteaid.com/adinfo/choice/prod?type=fpc&cid=61838&cname=Rite%20Aid&cmagic=21ddd6&clogo=61838.png&loc=us&lang=en-us "TextLink-click here").
 
 ## How We Use Your Information
 
