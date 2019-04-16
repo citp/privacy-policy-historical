@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natlawreview.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002052714id_/http%3A//www.natlawreview.com/national-law-review-s-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natlawreview.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416090545id_/https%3A//www.natlawreview.com/national-law-review-s-privacy-policy) for the most accurate reproduction.*
 
 # The National Law Review Privacy Policy | The National Law Review
 
@@ -72,4 +72,4 @@ The NLR reserves the right to amend and modify this Privacy Policy at any time. 
 
 If you have any questions or concerns regarding our Privacy Policy or our use of your information, please contact us via e-mail at [info@natlawreview.com](mailto:info@natlawreview.com) or write to us at The National Law Review, National Law Forum, LLC, 4700 Gilbert, Suite 47 (#230), Western Springs, IL 60558. 
 
-_This Policy is effective as of May 22, 2009._
+_This Policy is effective as of May 22, 2009.   _
