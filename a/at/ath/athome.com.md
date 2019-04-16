@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023001749id_/https%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416164821id_/https%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | At Home
 
