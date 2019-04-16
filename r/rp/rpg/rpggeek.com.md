@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the rpggeek.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228124607id_/https%3A//rpggeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpggeek.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416055640id_/https%3A//www.rpggeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RPGGeek
-
-GeekGold Bonus for All Supporters at year's end: 1000! 
-
-13,749 Supporters
-
-$15 min for supporter badge & GeekGold bonus 
-
-4 Days Left 
-
-###  Support: 
-
-Annual  Monthly  One-Time  $15  $25  $40  $70  $100  $
 
 Before you start, we have a few questions for you:
 
