@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826114916id_/https%3A//www.whiteflowerfarm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416174048id_/https%3A//www.whiteflowerfarm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,11 @@ White Flower Farm respects the privacy of every individual who shops via our pri
 
 For our gardening friends who choose to receive our emails, rest assured we do not share, rent, or sell your email address to outside companies or agencies. Period.
 
-We are members of the Direct Marketing Association. If you'd rather not receive mailings from other companies we exchange lists with, please email our customer service team at [ **custserv@whiteflowerfarm.com**](mailto:custserv@whiteflowerfarm.com). When you request our catalog online, you are given the opportunity to opt-out of having your postal address shared.
+We are members of the Direct Marketing Association. If you'd rather not receive mailings from other companies we exchange lists with, please email our customer service team at [ **[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#0e6d7b7d7a7d6b7c784e7966677a6b686261796b7c686f7c63206d6163). When you request our catalog online, you are given the opportunity to opt-out of having your postal address shared.
 
 **Your Personal Information**
 
-We save personally identifiable information when a visitor shares a page (when we seek opt in approval to access social data) or places an order (when we must save name, address, and credit card information in order to process the order) or request a catalog (when we use the name and address in order to deliver the catalog). In order to improve our website and identify navigation problems, we save information about how visitors click-through our site, but that information is aggregate and not linked to personally identifiable information.
+We save personally identifiable information when a visitor shares a page (when we seek opt in approval to access social data) or places an order (when we must save name, address, and credit card information in order to process the order) or request a catalog (when we use the name and address in order to deliver the catalog). In order to improve our website and identify navigation problems, we save information about how visitors click-through our site.
 
 **Your Security**
 
@@ -45,7 +45,7 @@ We have implemented the following features for Google Analytics for Display Adve
 
 **To Opt-Out of Third Party Advertising:**
 
-You may manage your online profile and your opt-out choices by visiting the [ **Digital Advertising Alliance**](http://www.aboutads.info/choices/) or the  **[Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), **as well as **[Epsilon Targeting.](http://dtmc.whiteflowerfarm.com/adinfo/choice/prod/?type=fpc&cid=61779&cname=White%20Flower%20Farm&cmagic=0d5af1&clogo=61779.png&loc=us&lang=en-us)**
+You may manage your online profile and your opt-out choices by visiting the [ **Digital Advertising Alliance**](http://www.aboutads.info/choices/) or the  **[Network Advertising Initiative](https://www.networkadvertising.org/managing/opt_out.asp), **as well as **[Epsilon Targeting.](http://dtmc.whiteflowerfarm.com/adinfo/choice/prod/?type=fpc&cid=61779&cname=White%20Flower%20Farm&cmagic=0d5af1&clogo=61779.png&loc=us&lang=en-us)**
 
 **More Information:**
 
