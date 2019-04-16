@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the hungama.com privacy policy that was archived on 2018-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181210021008id_/http%3A//www.hungama.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hungama.com privacy policy that was archived on 2019-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190416233537id_/https%3A//www.hungama.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript" async="" src="https://stat1.hungama.ind.in/assets/js/ha.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+</head><body class="premium loaded "><appinfo name="1.0" code="1">
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
 <!-- <meta name="google-site-verification" content="OuaBxUwoItNmxGfStyfK-18lXDxLq8aOwAeDqD3Dioo" /> -->
@@ -32,6 +33,11 @@
 <link rel="dns-prefetch" href="//content9.hungama.com">
 <link rel="dns-prefetch" href="//hungama.pc.cdn.bitgravity.com">
 <link rel="dns-prefetch" href="//hungcomiosta-vh.akamaihd.net">
+<script type="text/javascript" async="" src="https://stat1.hungama.ind.in/assets/js/ha.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+if (location.protocol != 'https:') {
+     location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+}
+</script>
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 
@@ -50,7 +56,7 @@
 <meta property="fb:app_id" content="103931556876">
 <meta property="og:title" content="Privacy Policy - Hungama">
 <meta property="og:description" content="Read our privacy policy to understand user privacy and security for browsing and using the properties of Hungama. Download Hungama Music &amp; Hungama Play app to get access to unlimited free songs, free movies, latest music videos, online radio, new TV shows and much more at Hungama. Listen to free music and earn Hungama Coins, redeem Hungama coins  for free subscription on Hungama Music &amp; Hungama Play App and many more free gifts.">
-<meta property="og:url" content="http://www.hungama.com/privacy-policy/">
+<meta property="og:url" content="https://www.hungama.com/privacy-policy/">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://stat1.hungama.ind.in/assets/images/hungama-logo-default.png">
 <meta property="og:image:width" content="300">
@@ -58,23 +64,24 @@
 <meta property="og:site_name" content="Hungama.com">
 <meta property="og:locale" content="en_us"><meta property="og:ttl" content="1296000">
 
-<link rel="shortcut icon" href="http://www.hungama.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.hungama.com/favicon.ico" type="image/x-icon">
 
 <!--<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">-->
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i">
 
         <link rel="stylesheet" type="text/css" href="https://stat3.hungama.ind.in/assets/css/reset.min.css?v=090820171255">
         <link rel="stylesheet" type="text/css" href="https://stat1.hungama.ind.in/assets/css/libraries.min.css?v=271020171255">
-        <!--<link rel="stylesheet" type="text/css" href="https://stat1.hungama.ind.in/assets/css/custom-style.min.css?v=240820171524">-->
-        <link rel="stylesheet" type="text/css" href="https://stat1.hungama.ind.in/assets/css/custom-style.css?v=190720181456">	
+        <!--<link rel="stylesheet" type="text/css" href="https://stat2.hungama.ind.in/assets/css/custom-style.min.css?v=240820171524">-->
+        <link rel="stylesheet" type="text/css" href="https://www.hungama.com/assets/css/custom-style.css?v=160420191542">	
         
 <!-- <link rel="stylesheet" type="text/css" href="http://player.hungama.com/lap/css/playerIcons.css"> -->
-<link rel="stylesheet" type="text/css" href="http://player.hungama.com/lap/v2.0/css/playerIcons.css?v=171120171137">
+<!--<link rel="stylesheet" type="text/css" href="http://player.hungama.com/lap/v2.0/css/playerIcons.css?v=171120171137"> -->
+<link rel="stylesheet" type="text/css" href="https://player.hungama.com/lap/css/playerIcons-https.css"> 
 
 
-                            <link rel="canonical" href="http://www.hungama.com/privacy-policy/">  
+                            <link rel="canonical" href="https://www.hungama.com/privacy-policy/">  
                     <link href="https://plus.google.com/+Hungamadotcom" rel="publisher">
-        <script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/jquery-2.2.0.min.js"></script>
+        <script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/jquery-2.2.0.min.js"></script>
         <!--analytics code-->	
         <script>
         	var cook_userId;
@@ -142,9 +149,9 @@
 					<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1010292797/?guid=ON&amp;script=0"/>
 				</div>
 			</noscript>
-				
-    </head>
-    <body class="premium loaded ">
+		
+    
+    
 <!-- <div id='page_preloader' style="display:none;">Loading...</div> -->
 <div id="myProgress" style="display:none;"><div id="myBar"></div></div>
 <!-- page preloader-->
@@ -162,22 +169,22 @@
 <a href="javascript:void(0)" class="lines-button"><span class="lines"></span></a>
 </div>
       
-<div class="logo"><a id="pajax_a" title="Hungama" href="http://www.hungama.com/"><span>Hungama</span></a></div>
+<div class="logo"><a id="pajax_a" title="Hungama" href="https://www.hungama.com/"><span>Hungama</span></a></div>
     
-<!-- Gen Header Menu --> <div id="headermenu" class="newMenu1"><a id="pajax_a" title="Music" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'music', 'music');" class="music_clk" href="http://www.hungama.com/music/"> MUSIC </a><a id="pajax_a" title="Videos" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'videos', 'videos');" class="video_clk" href="http://www.hungama.com/videos/"> VIDEOS </a><a id="pajax_a" title="Movies" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'movies', 'movies');" class="movie_clk" href="http://www.hungama.com/movies/"> MOVIES </a><a id="pajax_a" title="Artists" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'artists', 'artists');" class="artist_clk" href="http://www.hungama.com/artists/"> ARTISTS </a><a id="pajax_a" title="TV Shows" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'tv shows', 'tv shows');" class="tvshow_clk" href="http://www.hungama.com/tv-shows/"> TV SHOWS </a><a id="pajax_a" title="Kids" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'kids', 'kids');" class="kids_clk" href="http://www.hungama.com/kids/"> KIDS </a></div>  
+<!-- Gen Header Menu --> <div id="headermenu" class="newMenu1"><a id="pajax_a" title="Music" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'music', 'music');" class="music_clk" href="https://www.hungama.com/music/"> MUSIC </a><a id="pajax_a" title="Videos" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'videos', 'videos');" class="video_clk" href="https://www.hungama.com/videos/"> VIDEOS </a><a id="pajax_a" title="Movies" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'movies', 'movies');" class="movie_clk" href="https://www.hungama.com/movies/"> MOVIES </a><a id="pajax_a" title="Artists" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'artists', 'artists');" class="artist_clk" href="https://www.hungama.com/artists/"> ARTISTS </a><a id="pajax_a" title="TV Shows" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'tv shows', 'tv shows');" class="tvshow_clk" href="https://www.hungama.com/tv-shows/"> TV SHOWS </a><a id="pajax_a" title="Kids" onclick="googleAnalyticsCustomTracker('event', 'Top Menu', 'kids', 'kids');" class="kids_clk" href="https://www.hungama.com/kids/"> KIDS </a></div>  
 <div class="right-pan clearfix1" id="top_right_menu">
 <div class="profileimg-box">
-<!--<a id="pajax_a" href="http://www.hungama.com/user-login" class="user-login profileimg" style="display:none">
-                        <img  src="http://www.hungama.com/assets/images/profile-img1.png" alt=""/>
+<!--<a id="pajax_a" href="https://www.hungama.com/user-login" class="user-login profileimg" style="display:none">
+                        <img  src="https://www.hungama.com/assets/images/profile-img1.png" alt=""/>
                     </a>--> 
-                    <a href="javascript:void(0);" onclick="showLoginPopupLarge();" class="user-login profileimg" style="display:none">
-                        <img src="http://www.hungama.com/assets/images/profile-img1.png" alt="">
+                    <a href="javascript:void(0);" onclick="showMobileLoginPopup();" class="user-login profileimg" style="display:none">
+                        <img src="https://www.hungama.com/assets/images/profile-img1.png" alt="">
                     </a> 
                     <a href="javascript:void(0);" id="logged-text" class="user-logged profileimg" style="display:none">
-                        <img src="http://www.hungama.com/assets/images/profile-img1.png" alt="">
+                        <img src="https://www.hungama.com/assets/images/profile-img1.png" alt="">
                     </a>
 </div> 
-<div class="offers-box plans"><a id="pajax_a" title="Plans" href="http://www.hungama.com/plans"><i class="icon-ic_plans" style="display:none"></i><span>Plans</span></a></div>
+<div class="offers-box plans"><a id="pajax_a" title="Plans" href="https://www.hungama.com/plans"><i class="icon-ic_plans" style="display:none"></i><span>Plans</span></a></div>
 
 </div>  
 </div>
@@ -194,7 +201,7 @@
 <p>Hi Guest</p>
 <div class="btn-wrapper">
 					<!--<a id="pajax_a" href="user-login" class="btn-sub" onClick="hidemenu();">Login</a>-->
-					<a href="javascript:void(0);" class="btn-sub" onclick="hidemenu();showLoginPopupLarge();">Login</a>
+					<a href="javascript:void(0);" class="btn-sub" onclick="hidemenu();showMobileLoginPopup();">Login</a>
 					<a href="javascript:void(0);" class="btn-sub" onclick="hidemenu();showRegisterPopupLarge();">Register</a>
 				</div>
 </div>
@@ -202,9 +209,9 @@
 </span>
 
 <div class="main">
-<!-- Gen Menu --> <ul role="navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement"><li class="m-home"><a id="pajax_a" title="Home" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'home', 'home');" class="home_clk  active" itemprop="url" href="http://www.hungama.com/"><span itemprop="name"><i class="icon-ic_home"></i>Home</span></a></li><li class="m-music"><a id="pajax_a" title="Music" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'music', 'music');" class="music_clk" itemprop="url" href="http://www.hungama.com/music/"><span itemprop="name"><i class="icon-ic_music"></i>Music</span></a></li><li class="m-videos"><a id="pajax_a" title="Videos" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'videos', 'videos');" class="video_clk" itemprop="url" href="http://www.hungama.com/videos/"><span itemprop="name"><i class="icon-ic_videos"></i>Videos</span></a></li><li class="m-movies"><a id="pajax_a" title="Movies" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'movies', 'movies');" class="movie_clk" itemprop="url" href="http://www.hungama.com/movies/"><span itemprop="name"><i class="icon-ic_movies"></i>Movies</span></a></li><li class="m-artists"><a id="pajax_a" title="Artists" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'artists', 'artists');" class="artist_clk" itemprop="url" href="http://www.hungama.com/artists/"><span itemprop="name"><i class="icon-ic_artist"></i>Artists</span></a></li><li class="m-tvshow"><a id="pajax_a" title="TV Shows" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'tv shows', 'tv shows');" class="tvshow_clk" itemprop="url" href="http://www.hungama.com/tv-shows/"><span itemprop="name"><i class="icon-ic_smart_tv"></i>TV Shows</span></a></li><li class="m-kids"><a id="pajax_a" title="Kids" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'kids', 'kids');" class="kids_clk" itemprop="url" href="http://www.hungama.com/kids/"><span itemprop="name"><i class="icon-ic_kids"></i>Kids</span></a></li></ul><ul class="other-links">
-<!--<li class="mb-offers"><a id="pajax_a" title="Offers" href="http://www.hungama.com/offers"><span><i class="icon-ic_offer"></i>Offers</span></a></li>-->
-<li class="mb-apps"><a id="pajax_a" title="Plans" href="http://www.hungama.com/plans"><span><i class="icon-ic_apps"></i>Plans</span></a></li>
+<!-- Gen Menu --> <ul role="navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement"><li class="m-home"><a id="pajax_a" title="Home" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'home', 'home');" class="home_clk  active" itemprop="url" href="https://www.hungama.com/"><span itemprop="name"><i class="icon-ic_home"></i>Home</span></a></li><li class="m-music"><a id="pajax_a" title="Music" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'music', 'music');" class="music_clk" itemprop="url" href="https://www.hungama.com/music/"><span itemprop="name"><i class="icon-ic_music"></i>Music</span></a></li><li class="m-videos"><a id="pajax_a" title="Videos" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'videos', 'videos');" class="video_clk" itemprop="url" href="https://www.hungama.com/videos/"><span itemprop="name"><i class="icon-ic_videos"></i>Videos</span></a></li><li class="m-movies"><a id="pajax_a" title="Movies" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'movies', 'movies');" class="movie_clk" itemprop="url" href="https://www.hungama.com/movies/"><span itemprop="name"><i class="icon-ic_movies"></i>Movies</span></a></li><li class="m-artists"><a id="pajax_a" title="Artists" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'artists', 'artists');" class="artist_clk" itemprop="url" href="https://www.hungama.com/artists/"><span itemprop="name"><i class="icon-ic_artist"></i>Artists</span></a></li><li class="m-tvshow"><a id="pajax_a" title="TV Shows" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'tv shows', 'tv shows');" class="tvshow_clk" itemprop="url" href="https://www.hungama.com/tv-shows/"><span itemprop="name"><i class="icon-ic_smart_tv"></i>TV Shows</span></a></li><li class="m-kids"><a id="pajax_a" title="Kids" onclick="googleAnalyticsCustomTracker('event', 'Left Menu', 'kids', 'kids');" class="kids_clk" itemprop="url" href="https://www.hungama.com/kids/"><span itemprop="name"><i class="icon-ic_kids"></i>Kids</span></a></li></ul><ul class="other-links">
+<!--<li class="mb-offers"><a id="pajax_a" title="Offers" href="https://www.hungama.com/offers"><span><i class="icon-ic_offer"></i>Offers</span></a></li>-->
+<li class="mb-apps"><a id="pajax_a" title="Plans" href="https://www.hungama.com/plans"><span><i class="icon-ic_apps"></i>Plans</span></a></li>
 </ul>
 </div>
 </div>
@@ -368,12 +375,13 @@
     </div>
     </div>
 <input type="hidden" name="page" value="static" id="page">
-<input type="hidden" name="category" value="privacy" id="category"><div class="fbCommentBox" style="display:none;">
+<input type="hidden" name="category" value="privacy" id="category"><input type="hidden" name="https_hungama" id="https_hungama" value="test">
+<div class="fbCommentBox" style="display:none;">
     <div id="fb-root"></div>  
     <span id="custom-fb"><div id="fb_comments" class="fb-comments" data-width="100%" data-numposts="3" data-href=""></div></span>
 </div> 
 
-<!-- Gen Footer Menu --><div id="browseCatlogue" class="clearfix1"><div class="bcWrapper clearfix1"><div class="clear"></div><dl><dt>Music Video</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Pop','Footer Music Video');" href="http://www.hungama.com/music-videos/genre/pop/popular/">Pop</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Soundtrack','Footer Music Video');" href="http://www.hungama.com/music-videos/genre/soundtrack/popular/">Soundtrack</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Rock','Footer Music Video');" href="http://www.hungama.com/music-videos/genre/rock/popular/">Rock</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Latin','Footer Music Video');" href="http://www.hungama.com/music-videos/genre/latin/popular/">Latin</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Alternative','Footer Music Video');" href="http://www.hungama.com/music-videos/genre/alternative/popular/">Alternative</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Hip Hop','Footer Music Video');" href="http://www.hungama.com/music-videos/genre/hip+hop/popular/">Hip Hop</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Devotional','Footer Music Video');" href="http://www.hungama.com/music-videos/genre/devotional/popular/">Devotional</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video English','Footer Music Video');" href="http://www.hungama.com/music-videos/lang/english/popular/">English</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Spanish','Footer Music Video');" href="http://www.hungama.com/music-videos/lang/spanish/popular/">Spanish</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Hindi','Footer Music Video');" href="http://www.hungama.com/music-videos/lang/hindi/popular/">Hindi</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Portuguese','Footer Music Video');" href="http://www.hungama.com/music-videos/lang/portuguese/popular/">Portuguese</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video French','Footer Music Video');" href="http://www.hungama.com/music-videos/lang/french/popular/">French</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Punjabi','Footer Music Video');" href="http://www.hungama.com/music-videos/lang/punjabi/popular/">Punjabi</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video German','Footer Music Video');" href="http://www.hungama.com/music-videos/lang/german/popular/">German</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Tamil','Footer Music Video');" href="http://www.hungama.com/music-videos/lang/tamil/popular/">Tamil</a> | </dd></dl><dl><dt>Music Albums</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Pop','Footer Music Albums');" href="http://www.hungama.com/albums/genre/pop/popular/">Pop</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Dance','Footer Music Albums');" href="http://www.hungama.com/albums/genre/dance/popular/">Dance</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Rock','Footer Music Albums');" href="http://www.hungama.com/albums/genre/rock/popular/">Rock</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Jazz','Footer Music Albums');" href="http://www.hungama.com/albums/genre/jazz/popular/">Jazz</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Hip Hop','Footer Music Albums');" href="http://www.hungama.com/albums/genre/hip+hop/popular/">Hip Hop</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Soundtrack','Footer Music Albums');" href="http://www.hungama.com/albums/genre/soundtrack/popular/">Soundtrack</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Alternative','Footer Music Albums');" href="http://www.hungama.com/albums/genre/alternative/popular/">Alternative</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums English','Footer Music Albums');" href="http://www.hungama.com/albums/lang/english/popular/">English</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Spanish','Footer Music Albums');" href="http://www.hungama.com/albums/lang/spanish/popular/">Spanish</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Hindi','Footer Music Albums');" href="http://www.hungama.com/albums/lang/hindi/popular/">Hindi</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Punjabi','Footer Music Albums');" href="http://www.hungama.com/albums/lang/punjabi/popular/">Punjabi</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums French','Footer Music Albums');" href="http://www.hungama.com/albums/lang/french/popular/">French</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Bhojpuri','Footer Music Albums');" href="http://www.hungama.com/albums/lang/bhojpuri/popular/">Bhojpuri</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Italian','Footer Music Albums');" href="http://www.hungama.com/albums/lang/italian/popular/">Italian</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums German','Footer Music Albums');" href="http://www.hungama.com/albums/lang/german/popular/">German</a> | </dd></dl><dl><dt>Movies</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Drama','Footer Movies');" href="http://www.hungama.com/movies/genre/drama/popular/">Drama</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Action','Footer Movies');" href="http://www.hungama.com/movies/genre/action/popular/">Action</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Romance','Footer Movies');" href="http://www.hungama.com/movies/genre/romance/popular/">Romance</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Comedy','Footer Movies');" href="http://www.hungama.com/movies/genre/comedy/popular/">Comedy</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Family','Footer Movies');" href="http://www.hungama.com/movies/genre/family/popular/">Family</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Horror','Footer Movies');" href="http://www.hungama.com/movies/genre/horror/popular/">Horror</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Thriller','Footer Movies');" href="http://www.hungama.com/movies/genre/thriller/popular/">Thriller</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Telugu','Footer Movies');" href="http://www.hungama.com/movies/lang/telugu/popular/">Telugu</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies English','Footer Movies');" href="http://www.hungama.com/movies/lang/english/popular/">English</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Kannada','Footer Movies');" href="http://www.hungama.com/movies/lang/kannada/popular/">Kannada</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Hindi','Footer Movies');" href="http://www.hungama.com/movies/lang/hindi/popular/">Hindi</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Sinhala','Footer Movies');" href="http://www.hungama.com/movies/lang/sinhala/popular/">Sinhala</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Malayalam','Footer Movies');" href="http://www.hungama.com/movies/lang/malayalam/popular/">Malayalam</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Tamil','Footer Movies');" href="http://www.hungama.com/movies/lang/tamil/popular/">Tamil</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Marathi','Footer Movies');" href="http://www.hungama.com/movies/lang/marathi/popular/">Marathi</a> | </dd></dl><dl><dt>Trending on Hungama</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama akh-lad-jaave','Footer Trending on Hungama');" href="http://www.hungama.com/song/akh-lad-jaave/39117365/">Akh Lad Jaave</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama dilbar','Footer Trending on Hungama');" href="http://www.hungama.com/song/dilbar/37260455/">Dilbar</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama kamariya','Footer Trending on Hungama');" href="http://www.hungama.com/song/kamariya/38650886/">Kamariya</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama cheater-mohan','Footer Trending on Hungama');" href="http://www.hungama.com/video/cheater-mohan/40075546/">Cheater Mohan</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama namo-namo','Footer Trending on Hungama');" href="http://www.hungama.com/video/namo-namo/41437253/">Namo Namo</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama tere-jaisa-acoustic','Footer Trending on Hungama');" href="http://www.hungama.com/video/tere-jaisa-acoustic/41724387/">Tere Jaisa Acoustic</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama kangchenjunga-calling','Footer Trending on Hungama');" href="http://www.hungama.com/tv-show/kangchenjunga-calling/37841154/">Kangchenjunga Calling </a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama mr-selfridge','Footer Trending on Hungama');" href="http://www.hungama.com/tv-show/mr-selfridge/23245834/">Mr Selfridge</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama jericho','Footer Trending on Hungama');" href="http://www.hungama.com/tv-show/jericho/23245824/">Jericho</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama ilakkangal','Footer Trending on Hungama');" href="http://www.hungama.com/movie/ilakkangal/1577096/">Ilakkangal</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama nayam-vekthamakkunnu','Footer Trending on Hungama');" href="http://www.hungama.com/movie/nayam-vekthamakkunnu/1577789/">Nayam Vekthamakkunnu</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama super-six','Footer Trending on Hungama');" href="http://www.hungama.com/movie/super-six/19791851/">Super Six</a> | </dd></dl><div class="clear"></div><dl><dt>New Songs</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Pop','Footer New Songs');" href="http://www.hungama.com/new-releases/genre/pop/popular/">Pop</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Ambient','Footer New Songs');" href="http://www.hungama.com/new-releases/genre/ambient/popular/">Ambient</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs New Age','Footer New Songs');" href="http://www.hungama.com/new-releases/genre/new+age/popular/">New Age</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Dance','Footer New Songs');" href="http://www.hungama.com/new-releases/genre/dance/popular/">Dance</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Jazz','Footer New Songs');" href="http://www.hungama.com/new-releases/genre/jazz/popular/">Jazz</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Rock','Footer New Songs');" href="http://www.hungama.com/new-releases/genre/rock/popular/">Rock</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Classical','Footer New Songs');" href="http://www.hungama.com/new-releases/genre/classical/popular/">Classical</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs English','Footer New Songs');" href="http://www.hungama.com/new-releases/lang/english/popular/">English</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Spanish','Footer New Songs');" href="http://www.hungama.com/new-releases/lang/spanish/popular/">Spanish</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs German','Footer New Songs');" href="http://www.hungama.com/new-releases/lang/german/popular/">German</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs French','Footer New Songs');" href="http://www.hungama.com/new-releases/lang/french/popular/">French</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Portuguese','Footer New Songs');" href="http://www.hungama.com/new-releases/lang/portuguese/popular/">Portuguese</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Italian','Footer New Songs');" href="http://www.hungama.com/new-releases/lang/italian/popular/">Italian</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Hindi','Footer New Songs');" href="http://www.hungama.com/new-releases/lang/hindi/popular/">Hindi</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Arabic','Footer New Songs');" href="http://www.hungama.com/new-releases/lang/arabic/popular/">Arabic</a> | </dd></dl><dl><dt>Free Kid Videos</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos garth-and-bev','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/garth-and-bev/19914820/">Garth And Bev</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos dofus-kerub-s-bazaar','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/dofus-kerub-s-bazaar/26700963/">Dofus Kerub's Bazaar</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos akbar-and-birbal-hindi','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/akbar-and-birbal-hindi/18277553/">Akbar and Birbal - Hindi</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos fleabag-monkeyface','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/fleabag-monkeyface/27292534/">Fleabag Monkeyface</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos timmy-time','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/timmy-time/26510898/">Timmy Time</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos shaun-the-sheep','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/shaun-the-sheep/26510646/">Shaun The Sheep</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos franklin','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/franklin/22239235/">Franklin</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos the-shiny-show','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/the-shiny-show/19915279/">The Shiny Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos mouse-and-mole','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/mouse-and-mole/23084129/">Mouse and Mole</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos zingzillas','Footer Free Kid Videos');" href="http://www.hungama.com/tv-show/zingzillas/21969180/">Zingzillas</a> | </dd></dl><dl><dt>Popular TV Shows</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows bar-code','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/bar-code/40711096/">Bar Code</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows kangchenjunga-calling','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/kangchenjunga-calling/37841154/">Kangchenjunga Calling </a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows mr-selfridge','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/mr-selfridge/23245834/">Mr Selfridge</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows jericho','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/jericho/23245824/">Jericho</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows jekyll-and-hyde','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/jekyll-and-hyde/23245813/">Jekyll And Hyde</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows beowulf','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/beowulf/23389457/">Beowulf</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows agatha-christie-s-poirot','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/agatha-christie-s-poirot/23606882/">Agatha Christie's Poirot</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows mind-your-language','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/mind-your-language/23791616/">Mind Your Language</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows transformers-prime-english','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/transformers-prime-english/23966117/">Transformers Prime - English</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows sos-save-our-skins','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/sos-save-our-skins/19544147/">SOS : Save Our Skins</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows citizen-khan','Footer Popular TV Shows');" href="http://www.hungama.com/tv-show/citizen-khan/19544118/">Citizen Khan</a> | </dd></dl><dl><dt>Videos</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Gossip','Footer Videos');" href="http://www.hungama.com/videos/genre/gossip/popular/">Gossip</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Bollywood','Footer Videos');" href="http://www.hungama.com/videos/genre/bollywood/popular/">Bollywood</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Humour','Footer Videos');" href="http://www.hungama.com/videos/genre/humour/popular/">Humour</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Entertainment','Footer Videos');" href="http://www.hungama.com/videos/genre/entertainment/popular/">Entertainment</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Bikini','Footer Videos');" href="http://www.hungama.com/videos/genre/bikini/popular/">Bikini</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Fashion','Footer Videos');" href="http://www.hungama.com/videos/genre/fashion/popular/">Fashion</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Recipes','Footer Videos');" href="http://www.hungama.com/videos/genre/recipes/popular/">Recipes</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Fitness &amp; Workout','Footer Videos');" href="http://www.hungama.com/videos/genre/fitness+%26+workout/popular/">Fitness &amp; Workout</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Hollywood','Footer Videos');" href="http://www.hungama.com/videos/genre/hollywood/popular/">Hollywood</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Interview','Footer Videos');" href="http://www.hungama.com/videos/genre/interview/popular/">Interview</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Animation','Footer Videos');" href="http://www.hungama.com/videos/genre/animation/popular/">Animation</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Comedy','Footer Videos');" href="http://www.hungama.com/videos/genre/comedy/popular/">Comedy</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Glamour','Footer Videos');" href="http://www.hungama.com/videos/genre/glamour/popular/">Glamour</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Travel &amp; Adventure','Footer Videos');" href="http://www.hungama.com/videos/genre/travel+%26+adventure/popular/">Travel &amp; Adventure</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Spiritual','Footer Videos');" href="http://www.hungama.com/videos/genre/spiritual/popular/">Spiritual</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Videos','Footer Videos Spiritual','Footer Videos');" href="http://www.hungama.com/videos/genre/spiritual/popular/">Spiritual</a> | </dd></dl></div></div>
+<!-- Gen Footer Menu --><div id="browseCatlogue" class="clearfix1"><div class="bcWrapper clearfix1"><div class="clear"></div><dl><dt>Latest Albums</dt><dd><a id="pajax_a" title="Kalank Movie" href="https://www.hungama.com/album/kalank/47410799/">Kalank Movie</a> | <a id="pajax_a" title="Tumhe Apna Banane Ka-Chand Chhupa (From " t-series="" mixtape="" season="" 2")="" movie"="" href="https://www.hungama.com/album/tumhe-apna-banane-ka-chand-chhupa-from-t-series-mixtape-season-2/47654465/">Tumhe Apna Banane Ka-Chand Chhupa (From "T-Series Mixtape Season 2") Movie</a> | <a id="pajax_a" title="MONOPOLY Movie" href="https://www.hungama.com/album/monopoly/47602755/">MONOPOLY Movie</a> | <a id="pajax_a" title="Paharganj Movie" href="https://www.hungama.com/album/paharganj/47324985/">Paharganj Movie</a> | <a id="pajax_a" title="Chaitra Navratri - Devi Maa Bhajans Movie" href="https://www.hungama.com/album/chaitra-navratri-devi-maa-bhajans/47626353/">Chaitra Navratri - Devi Maa Bhajans Movie</a> | <a id="pajax_a" title="Nasha Movie" href="https://www.hungama.com/album/nasha/47586720/">Nasha Movie</a> | <a id="pajax_a" title="#SetTheRoadsOnFire Movie" href="https://www.hungama.com/album/settheroadsonfire/47673005/">#SetTheRoadsOnFire Movie</a> | <a id="pajax_a" title="Notebook Movie" href="https://www.hungama.com/album/notebook/47314724/">Notebook Movie</a> | <a id="pajax_a" title="Nee Neeli Kannullona (From " dear="" comrade")="" movie"="" href="https://www.hungama.com/album/nee-neeli-kannullona-from-dear-comrade/47659404/">Nee Neeli Kannullona (From "Dear Comrade") Movie</a> | <a id="pajax_a" title="Try Me Movie" href="https://www.hungama.com/album/try-me/47601367/">Try Me Movie</a> | <a id="pajax_a" title="The Tashkent Files Movie" href="https://www.hungama.com/album/the-tashkent-files/47636630/">The Tashkent Files Movie</a> | <a id="pajax_a" title="College Movie" href="https://www.hungama.com/album/college/47627903/">College Movie</a> | <a id="pajax_a" title="Marvel Anthem Movie" href="https://www.hungama.com/album/marvel-anthem/47657427/">Marvel Anthem Movie</a> | <a id="pajax_a" title="Mr. Local Movie" href="https://www.hungama.com/album/mr-local/47659033/">Mr. Local Movie</a> | <a id="pajax_a" title="Dilbar-Ishare Tere-Tere Te (From " t-series="" mixtape="" season="" 2")="" movie"="" href="https://www.hungama.com/album/dilbar-ishare-tere-tere-te-from-t-series-mixtape-season-2/47585649/">Dilbar-Ishare Tere-Tere Te (From "T-Series Mixtape Season 2") Movie</a> | </dd></dl><dl><dt>Top New Songs</dt><dd><a id="pajax_a" title="First Class Song" href="https://www.hungama.com/song/first-class/47463795/">First Class Song</a> | <a id="pajax_a" title="Duniyaa Song" href="https://www.hungama.com/song/duniyaa/47309655/">Duniyaa Song</a> | <a id="pajax_a" title="Nai Lagda Song" href="https://www.hungama.com/song/nai-lagda/47314725/">Nai Lagda Song</a> | <a id="pajax_a" title="Dilbar-Ishare Tere-Tere Te (From " t-series="" mixtape="" season="" 2")="" song"="" href="https://www.hungama.com/song/dilbar-ishare-tere-tere-te-from-t-series-mixtape-season-2/47585650/">Dilbar-Ishare Tere-Tere Te (From "T-Series Mixtape Season 2") Song</a> | <a id="pajax_a" title="Photo Song" href="https://www.hungama.com/song/photo/47104984/">Photo Song</a> | <a id="pajax_a" title="Kalank Title Track Song" href="https://www.hungama.com/song/kalank-title-track/47552475/">Kalank Title Track Song</a> | <a id="pajax_a" title="Teri Mitti Song" href="https://www.hungama.com/song/teri-mitti/47373485/">Teri Mitti Song</a> | <a id="pajax_a" title="Ghar More Pardesiya Song" href="https://www.hungama.com/song/ghar-more-pardesiya/47410816/">Ghar More Pardesiya Song</a> | <a id="pajax_a" title="Coca Cola Song" href="https://www.hungama.com/song/coca-cola/46822488/">Coca Cola Song</a> | <a id="pajax_a" title="Ve Maahi Song" href="https://www.hungama.com/song/ve-maahi/47412887/">Ve Maahi Song</a> | <a id="pajax_a" title="Apna Time Aayega Song" href="https://www.hungama.com/song/apna-time-aayega/46072751/">Apna Time Aayega Song</a> | <a id="pajax_a" title="Tu Laung Main Elaachi Song" href="https://www.hungama.com/song/tu-laung-main-elaachi/47239597/">Tu Laung Main Elaachi Song</a> | <a id="pajax_a" title="Ek Ladki Ko Dekha Toh Aisa Laga - Title Track Song" href="https://www.hungama.com/song/ek-ladki-ko-dekha-toh-aisa-laga-title-track/45370885/">Ek Ladki Ko Dekha Toh Aisa Laga - Title Track Song</a> | <a id="pajax_a" title="Dil Mein Ho Tum Song" href="https://www.hungama.com/song/dil-mein-ho-tum/44642287/">Dil Mein Ho Tum Song</a> | <a id="pajax_a" title="Tere Bin Song" href="https://www.hungama.com/song/tere-bin/43085460/">Tere Bin Song</a> | </dd></dl><dl><dt>Top Albums</dt><dd><a id="pajax_a" title="New  Hindi  Songs" href="https://www.hungama.com/all/top-albums-hindi-52/22393/">New  Hindi  Songs</a> | <a id="pajax_a" title="New  International  Songs" href="https://www.hungama.com/all/top-albums-international-52/22392/">New  International  Songs</a> | <a id="pajax_a" title="New  Punjabi  Songs" href="https://www.hungama.com/all/top-albums-punjabi-52/22382/">New  Punjabi  Songs</a> | <a id="pajax_a" title="New  Retro Hindi  Songs" href="https://www.hungama.com/all/top-albums-retro-hindi-52/22391/">New  Retro Hindi  Songs</a> | <a id="pajax_a" title="New  Tamil  Songs" href="https://www.hungama.com/all/top-albums-tamil-52/22390/">New  Tamil  Songs</a> | <a id="pajax_a" title="New  Telugu  Songs" href="https://www.hungama.com/all/top-albums-telugu-52/22389/">New  Telugu  Songs</a> | <a id="pajax_a" title="New  Kannada  Songs" href="https://www.hungama.com/all/top-albums-kannada-52/22388/">New  Kannada  Songs</a> | <a id="pajax_a" title="New  Malayalam  Songs" href="https://www.hungama.com/all/top-albums-malayalam-52/22387/">New  Malayalam  Songs</a> | <a id="pajax_a" title="New  Bhojpuri  Songs" href="https://www.hungama.com/all/top-albums-bhojpuri-52/22386/">New  Bhojpuri  Songs</a> | <a id="pajax_a" title="New  Devotional  Songs" href="https://www.hungama.com/all/top-albums-devotional-52/22907/">New  Devotional  Songs</a> | <a id="pajax_a" title="New  Marathi  Songs" href="https://www.hungama.com/all/top-albums-marathi-52/22384/">New  Marathi  Songs</a> | <a id="pajax_a" title="New  Ghazals &amp; Sufi  Songs" href="https://www.hungama.com/all/top-albums-ghazals-sufi-52/22906/">New  Ghazals &amp; Sufi  Songs</a> | <a id="pajax_a" title="New  Bengali  Songs" href="https://www.hungama.com/all/top-albums-bengali-52/22385/">New  Bengali  Songs</a> | </dd></dl><dl><dt>Top Artists</dt><dd><a id="pajax_a" title="Badshah" href="https://www.hungama.com/artist/badshah/10415/">Badshah</a> | <a id="pajax_a" title="Arijit Singh" href="https://www.hungama.com/artist/arijit-singh/91609/">Arijit Singh</a> | <a id="pajax_a" title="Sonu Nigam" href="https://www.hungama.com/artist/sonu-nigam/7288/">Sonu Nigam</a> | <a id="pajax_a" title="Sunidhi Chauhan" href="https://www.hungama.com/artist/sunidhi-chauhan/7530/">Sunidhi Chauhan</a> | <a id="pajax_a" title="Shreya Ghoshal" href="https://www.hungama.com/artist/shreya-ghoshal/7069/">Shreya Ghoshal</a> | <a id="pajax_a" title="Kishore Kumar" href="https://www.hungama.com/artist/kishore-kumar/3577/">Kishore Kumar</a> | <a id="pajax_a" title="Mohammed Rafi" href="https://www.hungama.com/artist/mohammed-rafi/4385/">Mohammed Rafi</a> | <a id="pajax_a" title="Lata Mangeshkar" href="https://www.hungama.com/artist/lata-mangeshkar/3762/">Lata Mangeshkar</a> | <a id="pajax_a" title="Asha Bhosle" href="https://www.hungama.com/artist/asha-bhosle/612/">Asha Bhosle</a> | <a id="pajax_a" title="K.J. Yesudas" href="https://www.hungama.com/artist/k-j-yesudas/85932/">K.J. Yesudas</a> | <a id="pajax_a" title="S. P. Balasubrahmanyam" href="https://www.hungama.com/artist/s-p-balasubrahmanyam/93614/">S. P. Balasubrahmanyam</a> | <a id="pajax_a" title="Udit Narayan" href="https://www.hungama.com/artist/udit-narayan/7913/">Udit Narayan</a> | <a id="pajax_a" title="Alka Yagnik" href="https://www.hungama.com/artist/alka-yagnik/253/">Alka Yagnik</a> | <a id="pajax_a" title="Kavita Krishnamurthy" href="https://www.hungama.com/artist/kavita-krishnamurthy/3481/">Kavita Krishnamurthy</a> | <a id="pajax_a" title="Kumar Sanu" href="https://www.hungama.com/artist/kumar-sanu/3675/">Kumar Sanu</a> | </dd></dl><dl><dt>Playlists</dt><dd><a id="pajax_a" title="Sadda Haq !" href="https://www.hungama.com/playlists/sadda-haq/38799/">Sadda Haq !</a> | <a id="pajax_a" title="So Fresh: Bollywood" href="https://www.hungama.com/playlists/so-fresh-bollywood/4589/">So Fresh: Bollywood</a> | <a id="pajax_a" title="Today's Top - Pop" href="https://www.hungama.com/playlists/today-s-top-pop/38532/">Today's Top - Pop</a> | <a id="pajax_a" title="Dus Ka Dum" href="https://www.hungama.com/playlists/dus-ka-dum/37219/">Dus Ka Dum</a> | <a id="pajax_a" title="The Rap Badshah" href="https://www.hungama.com/playlists/the-rap-badshah/25060/">The Rap Badshah</a> | <a id="pajax_a" title="Fab Abs" href="https://www.hungama.com/playlists/fab-abs/38509/">Fab Abs</a> | <a id="pajax_a" title="Tainu Milan di Aas" href="https://www.hungama.com/playlists/tainu-milan-di-aas/38676/">Tainu Milan di Aas</a> | <a id="pajax_a" title="Just Varun Dhawan" href="https://www.hungama.com/playlists/just-varun-dhawan/2597/">Just Varun Dhawan</a> | <a id="pajax_a" title="Bhojpuri Viral Hits" href="https://www.hungama.com/playlists/bhojpuri-viral-hits/36839/">Bhojpuri Viral Hits</a> | <a id="pajax_a" title="On Cue : Alan Walker" href="https://www.hungama.com/playlists/on-cue-alan-walker/37218/">On Cue : Alan Walker</a> | <a id="pajax_a" title="Mast Mashups" href="https://www.hungama.com/playlists/mast-mashups/4288/">Mast Mashups</a> | <a id="pajax_a" title="VYRL Top 20" href="https://www.hungama.com/playlists/vyrl-top-20/37526/">VYRL Top 20</a> | <a id="pajax_a" title="Hits of Hiphop Tamizha" href="https://www.hungama.com/playlists/hits-of-hiphop-tamizha/17960/">Hits of Hiphop Tamizha</a> | <a id="pajax_a" title="Gedi Shedi" href="https://www.hungama.com/playlists/gedi-shedi/18506/">Gedi Shedi</a> | <a id="pajax_a" title="Rap Rules" href="https://www.hungama.com/playlists/rap-rules/36883/">Rap Rules</a> | </dd></dl><dl><dt>Lyrics</dt><dd><a id="pajax_a" title="Dilbar Lyrics" href="https://www.hungama.com/song/lyrics/dilbar/37260455/">Dilbar Lyrics</a> | <a id="pajax_a" title="Paniyon Sa Lyrics" href="https://www.hungama.com/song/lyrics/paniyon-sa/37374018/">Paniyon Sa Lyrics</a> | <a id="pajax_a" title="Hawayein Lyrics" href="https://www.hungama.com/song/lyrics/hawayein/28424420/">Hawayein Lyrics</a> | <a id="pajax_a" title="Tamma Tamma Again Lyrics" href="https://www.hungama.com/song/lyrics/tamma-tamma-again/23815239/">Tamma Tamma Again Lyrics</a> | <a id="pajax_a" title="Ae Dil Hai Mushkil (Title Track) Lyrics" href="https://www.hungama.com/song/lyrics/ae-dil-hai-mushkil-title-track/20959344/">Ae Dil Hai Mushkil (Title Track) Lyrics</a> | <a id="pajax_a" title="Sanam Re Lyrics" href="https://www.hungama.com/song/lyrics/sanam-re/16960701/">Sanam Re Lyrics</a> | <a id="pajax_a" title="Humnava Mere Lyrics" href="https://www.hungama.com/song/lyrics/humnava-mere/36311583/">Humnava Mere Lyrics</a> | <a id="pajax_a" title="Tum Hi Ho Lyrics" href="https://www.hungama.com/song/lyrics/tum-hi-ho/1776388/">Tum Hi Ho Lyrics</a> | <a id="pajax_a" title="Kar Gayi Chull Lyrics" href="https://www.hungama.com/song/lyrics/kar-gayi-chull/17411928/">Kar Gayi Chull Lyrics</a> | <a id="pajax_a" title="Buzz Lyrics" href="https://www.hungama.com/song/lyrics/buzz/35224653/">Buzz Lyrics</a> | <a id="pajax_a" title="Bom Diggy Diggy Lyrics" href="https://www.hungama.com/song/lyrics/bom-diggy-diggy/33649748/">Bom Diggy Diggy Lyrics</a> | <a id="pajax_a" title="Tere Naal Nachna Lyrics" href="https://www.hungama.com/song/lyrics/tere-naal-nachna/37290698/">Tere Naal Nachna Lyrics</a> | <a id="pajax_a" title="Gerua Lyrics" href="https://www.hungama.com/song/lyrics/gerua/16786566/">Gerua Lyrics</a> | <a id="pajax_a" title="Chhote Chhote Peg Lyrics" href="https://www.hungama.com/song/lyrics/chhote-chhote-peg/33176406/">Chhote Chhote Peg Lyrics</a> | <a id="pajax_a" title="Enna Sona Lyrics" href="https://www.hungama.com/song/lyrics/enna-sona/23098671/">Enna Sona Lyrics</a> | </dd></dl><dl><dt>Videos</dt><dd><a id="pajax_a" title="Gossip Video" href="https://www.hungama.com/videos/genre/gossip/popular/">Gossip Video</a> | <a id="pajax_a" title="Bollywood Video" href="https://www.hungama.com/videos/genre/bollywood/popular/">Bollywood Video</a> | <a id="pajax_a" title="Humour Video" href="https://www.hungama.com/videos/genre/humour/popular/">Humour Video</a> | <a id="pajax_a" title="Bikini Video" href="https://www.hungama.com/videos/genre/bikini/popular/">Bikini Video</a> | <a id="pajax_a" title="Fashion Video" href="https://www.hungama.com/videos/genre/fashion/popular/">Fashion Video</a> | <a id="pajax_a" title="Interview Video" href="https://www.hungama.com/videos/genre/interview/popular/">Interview Video</a> | <a id="pajax_a" title="Hollywood Video" href="https://www.hungama.com/videos/genre/hollywood/popular/">Hollywood Video</a> | <a id="pajax_a" title="Recipes Video" href="https://www.hungama.com/videos/genre/recipes/popular/">Recipes Video</a> | <a id="pajax_a" title="Fitness &amp; Workout Video" href="https://www.hungama.com/videos/genre/fitness+%26+workout/popular/">Fitness &amp; Workout Video</a> | <a id="pajax_a" title="Comedy Video" href="https://www.hungama.com/videos/genre/comedy/popular/">Comedy Video</a> | <a id="pajax_a" title="Animation Video" href="https://www.hungama.com/videos/genre/animation/popular/">Animation Video</a> | <a id="pajax_a" title="Glamour Video" href="https://www.hungama.com/videos/genre/glamour/popular/">Glamour Video</a> | <a id="pajax_a" title="Travel &amp; Adventure Video" href="https://www.hungama.com/videos/genre/travel+%26+adventure/popular/">Travel &amp; Adventure Video</a> | <a id="pajax_a" title="Entertainment Video" href="https://www.hungama.com/videos/genre/entertainment/popular/">Entertainment Video</a> | <a id="pajax_a" title="Kids Video" href="https://www.hungama.com/videos/genre/kids/popular/">Kids Video</a> | </dd></dl><div class="clear"></div><dl><dt>Music Video</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Pop','Footer Music Video');" href="https://www.hungama.com/music-videos/genre/pop/popular/" alt="Pop Video Songs" title="Pop Video Songs">Pop Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Soundtrack','Footer Music Video');" href="https://www.hungama.com/music-videos/genre/soundtrack/popular/" alt="Soundtrack Video Songs" title="Soundtrack Video Songs">Soundtrack Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Rock','Footer Music Video');" href="https://www.hungama.com/music-videos/genre/rock/popular/" alt="Rock Video Songs" title="Rock Video Songs">Rock Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Latin','Footer Music Video');" href="https://www.hungama.com/music-videos/genre/latin/popular/" alt="Latin Video Songs" title="Latin Video Songs">Latin Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Alternative','Footer Music Video');" href="https://www.hungama.com/music-videos/genre/alternative/popular/" alt="Alternative Video Songs" title="Alternative Video Songs">Alternative Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Hip Hop','Footer Music Video');" href="https://www.hungama.com/music-videos/genre/hip+hop/popular/" alt="Hip Hop Video Songs" title="Hip Hop Video Songs">Hip Hop Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Country','Footer Music Video');" href="https://www.hungama.com/music-videos/genre/country/popular/" alt="Country Video Songs" title="Country Video Songs">Country Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video English','Footer Music Video');" href="https://www.hungama.com/music-videos/lang/english/popular/" alt="English Video Songs" title="English Video Songs">English Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Spanish','Footer Music Video');" href="https://www.hungama.com/music-videos/lang/spanish/popular/" alt="Spanish Video Songs" title="Spanish Video Songs">Spanish Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Portuguese','Footer Music Video');" href="https://www.hungama.com/music-videos/lang/portuguese/popular/" alt="Portuguese Video Songs" title="Portuguese Video Songs">Portuguese Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Hindi','Footer Music Video');" href="https://www.hungama.com/music-videos/lang/hindi/popular/" alt="Hindi Video Songs" title="Hindi Video Songs">Hindi Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video French','Footer Music Video');" href="https://www.hungama.com/music-videos/lang/french/popular/" alt="French Video Songs" title="French Video Songs">French Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Punjabi','Footer Music Video');" href="https://www.hungama.com/music-videos/lang/punjabi/popular/" alt="Punjabi Video Songs" title="Punjabi Video Songs">Punjabi Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video German','Footer Music Video');" href="https://www.hungama.com/music-videos/lang/german/popular/" alt="German Video Songs" title="German Video Songs">German Video Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Video','Footer Music Video Bhojpuri','Footer Music Video');" href="https://www.hungama.com/music-videos/lang/bhojpuri/popular/" alt="Bhojpuri Video Songs" title="Bhojpuri Video Songs">Bhojpuri Video Songs</a> | </dd></dl><dl><dt>Music Albums</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Pop','Footer Music Albums');" href="https://www.hungama.com/albums/genre/pop/popular/" alt="Pop Albums" title="Pop Albums">Pop Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Dance','Footer Music Albums');" href="https://www.hungama.com/albums/genre/dance/popular/" alt="Dance Albums" title="Dance Albums">Dance Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Rock','Footer Music Albums');" href="https://www.hungama.com/albums/genre/rock/popular/" alt="Rock Albums" title="Rock Albums">Rock Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Hip Hop','Footer Music Albums');" href="https://www.hungama.com/albums/genre/hip+hop/popular/" alt="Hip Hop Albums" title="Hip Hop Albums">Hip Hop Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Jazz','Footer Music Albums');" href="https://www.hungama.com/albums/genre/jazz/popular/" alt="Jazz Albums" title="Jazz Albums">Jazz Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Alternative','Footer Music Albums');" href="https://www.hungama.com/albums/genre/alternative/popular/" alt="Alternative Albums" title="Alternative Albums">Alternative Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Devotional','Footer Music Albums');" href="https://www.hungama.com/albums/genre/devotional/popular/" alt="Devotional Albums" title="Devotional Albums">Devotional Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums English','Footer Music Albums');" href="https://www.hungama.com/albums/lang/english/popular/" alt="English Albums" title="English Albums">English Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Spanish','Footer Music Albums');" href="https://www.hungama.com/albums/lang/spanish/popular/" alt="Spanish Albums" title="Spanish Albums">Spanish Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Punjabi','Footer Music Albums');" href="https://www.hungama.com/albums/lang/punjabi/popular/" alt="Punjabi Albums" title="Punjabi Albums">Punjabi Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Hindi','Footer Music Albums');" href="https://www.hungama.com/albums/lang/hindi/popular/" alt="Hindi Albums" title="Hindi Albums">Hindi Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums French','Footer Music Albums');" href="https://www.hungama.com/albums/lang/french/popular/" alt="French Albums" title="French Albums">French Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Italian','Footer Music Albums');" href="https://www.hungama.com/albums/lang/italian/popular/" alt="Italian Albums" title="Italian Albums">Italian Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums Bhojpuri','Footer Music Albums');" href="https://www.hungama.com/albums/lang/bhojpuri/popular/" alt="Bhojpuri Albums" title="Bhojpuri Albums">Bhojpuri Albums</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Music Albums','Footer Music Albums German','Footer Music Albums');" href="https://www.hungama.com/albums/lang/german/popular/" alt="German Albums" title="German Albums">German Albums</a> | </dd></dl><dl><dt>Movies</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Drama','Footer Movies');" href="https://www.hungama.com/movies/genre/drama/popular/" alt="Drama Movies" title="Drama Movies">Drama Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Action','Footer Movies');" href="https://www.hungama.com/movies/genre/action/popular/" alt="Action Movies" title="Action Movies">Action Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Romance','Footer Movies');" href="https://www.hungama.com/movies/genre/romance/popular/" alt="Romance Movies" title="Romance Movies">Romance Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Comedy','Footer Movies');" href="https://www.hungama.com/movies/genre/comedy/popular/" alt="Comedy Movies" title="Comedy Movies">Comedy Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Family','Footer Movies');" href="https://www.hungama.com/movies/genre/family/popular/" alt="Family Movies" title="Family Movies">Family Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Horror','Footer Movies');" href="https://www.hungama.com/movies/genre/horror/popular/" alt="Horror Movies" title="Horror Movies">Horror Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Thriller','Footer Movies');" href="https://www.hungama.com/movies/genre/thriller/popular/" alt="Thriller Movies" title="Thriller Movies">Thriller Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Telugu','Footer Movies');" href="https://www.hungama.com/movies/lang/telugu/popular/" alt="Telugu Movies" title="Telugu Movies">Telugu Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies English','Footer Movies');" href="https://www.hungama.com/movies/lang/english/popular/" alt="English Movies" title="English Movies">English Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Kannada','Footer Movies');" href="https://www.hungama.com/movies/lang/kannada/popular/" alt="Kannada Movies" title="Kannada Movies">Kannada Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Hindi','Footer Movies');" href="https://www.hungama.com/movies/lang/hindi/popular/" alt="Hindi Movies" title="Hindi Movies">Hindi Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Sinhala','Footer Movies');" href="https://www.hungama.com/movies/lang/sinhala/popular/" alt="Sinhala Movies" title="Sinhala Movies">Sinhala Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Malayalam','Footer Movies');" href="https://www.hungama.com/movies/lang/malayalam/popular/" alt="Malayalam Movies" title="Malayalam Movies">Malayalam Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Tamil','Footer Movies');" href="https://www.hungama.com/movies/lang/tamil/popular/" alt="Tamil Movies" title="Tamil Movies">Tamil Movies</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Movies','Footer Movies Bhojpuri','Footer Movies');" href="https://www.hungama.com/movies/lang/bhojpuri/popular/" alt="Bhojpuri Movies" title="Bhojpuri Movies">Bhojpuri Movies</a> | </dd></dl><dl><dt>Trending on Hungama</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama duniyaa','Footer Trending on Hungama');" href="https://www.hungama.com/song/duniyaa/47309655/" alt="Duniyaa Song" title="Duniyaa Song">Duniyaa Song</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama har-ghoont-mein-swag','Footer Trending on Hungama');" href="https://www.hungama.com/song/har-ghoont-mein-swag/47647808/" alt="Har Ghoont Mein Swag Song" title="Har Ghoont Mein Swag Song">Har Ghoont Mein Swag Song</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama marvel-anthem','Footer Trending on Hungama');" href="https://www.hungama.com/song/marvel-anthem/47657441/" alt="Marvel Anthem Song" title="Marvel Anthem Song">Marvel Anthem Song</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama safar','Footer Trending on Hungama');" href="https://www.hungama.com/video/safar/47533371/" alt="Safar Video" title="Safar Video">Safar Video</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama do-peg-maar','Footer Trending on Hungama');" href="https://www.hungama.com/video/do-peg-maar/18010415/" alt="Do Peg Maar Video" title="Do Peg Maar Video">Do Peg Maar Video</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama akh-lad-jave-nritya-jam','Footer Trending on Hungama');" href="https://www.hungama.com/video/akh-lad-jave-nritya-jam/44824691/" alt="Akh Lad Jave Nritya Jam Video" title="Akh Lad Jave Nritya Jam Video">Akh Lad Jave Nritya Jam Video</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama bas-cha-sudhi','Footer Trending on Hungama');" href="https://www.hungama.com/tv-show/bas-cha-sudhi/45184014/" alt="Bas Cha Sudhi TV Show" title="Bas Cha Sudhi TV Show">Bas Cha Sudhi TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama all-the-way-in','Footer Trending on Hungama');" href="https://www.hungama.com/tv-show/all-the-way-in/33214823/" alt="All The Way In TV Show" title="All The Way In TV Show">All The Way In TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama wild-wild-chef','Footer Trending on Hungama');" href="https://www.hungama.com/tv-show/wild-wild-chef/33215896/" alt="Wild Wild Chef TV Show" title="Wild Wild Chef TV Show">Wild Wild Chef TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama ilakkangal','Footer Trending on Hungama');" href="https://www.hungama.com/movie/ilakkangal/1577096/" alt="Ilakkangal Movie" title="Ilakkangal Movie">Ilakkangal Movie</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama nayam-vekthamakkunnu','Footer Trending on Hungama');" href="https://www.hungama.com/movie/nayam-vekthamakkunnu/1577789/" alt="Nayam Vekthamakkunnu Movie" title="Nayam Vekthamakkunnu Movie">Nayam Vekthamakkunnu Movie</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Trending on Hungama','Footer Trending on Hungama super-six','Footer Trending on Hungama');" href="https://www.hungama.com/movie/super-six/19791851/" alt="Super Six Movie" title="Super Six Movie">Super Six Movie</a> | </dd></dl><dl><dt>New Songs</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Pop','Footer New Songs');" href="https://www.hungama.com/new-releases/genre/pop/popular/" alt="Pop Songs" title="Pop Songs">Pop Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Ambient','Footer New Songs');" href="https://www.hungama.com/new-releases/genre/ambient/popular/" alt="Ambient Songs" title="Ambient Songs">Ambient Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs New Age','Footer New Songs');" href="https://www.hungama.com/new-releases/genre/new+age/popular/" alt="New Age Songs" title="New Age Songs">New Age Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Dance','Footer New Songs');" href="https://www.hungama.com/new-releases/genre/dance/popular/" alt="Dance Songs" title="Dance Songs">Dance Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Jazz','Footer New Songs');" href="https://www.hungama.com/new-releases/genre/jazz/popular/" alt="Jazz Songs" title="Jazz Songs">Jazz Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Rock','Footer New Songs');" href="https://www.hungama.com/new-releases/genre/rock/popular/" alt="Rock Songs" title="Rock Songs">Rock Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Relaxation','Footer New Songs');" href="https://www.hungama.com/new-releases/genre/relaxation/popular/" alt="Relaxation Songs" title="Relaxation Songs">Relaxation Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs English','Footer New Songs');" href="https://www.hungama.com/new-releases/lang/english/popular/" alt="English Songs" title="English Songs">English Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Spanish','Footer New Songs');" href="https://www.hungama.com/new-releases/lang/spanish/popular/" alt="Spanish Songs" title="Spanish Songs">Spanish Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs French','Footer New Songs');" href="https://www.hungama.com/new-releases/lang/french/popular/" alt="French Songs" title="French Songs">French Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs German','Footer New Songs');" href="https://www.hungama.com/new-releases/lang/german/popular/" alt="German Songs" title="German Songs">German Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Portuguese','Footer New Songs');" href="https://www.hungama.com/new-releases/lang/portuguese/popular/" alt="Portuguese Songs" title="Portuguese Songs">Portuguese Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Italian','Footer New Songs');" href="https://www.hungama.com/new-releases/lang/italian/popular/" alt="Italian Songs" title="Italian Songs">Italian Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Hindi','Footer New Songs');" href="https://www.hungama.com/new-releases/lang/hindi/popular/" alt="Hindi Songs" title="Hindi Songs">Hindi Songs</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer New Songs','Footer New Songs Arabic','Footer New Songs');" href="https://www.hungama.com/new-releases/lang/arabic/popular/" alt="Arabic Songs" title="Arabic Songs">Arabic Songs</a> | </dd></dl><dl><dt>Free Kid Videos</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos kids-activities','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/kids-activities/20678975/" alt="Kids Activities TV Show" title="Kids Activities TV Show">Kids Activities TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos nursery-rhyme','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/nursery-rhyme/23977635/" alt="Nursery Rhyme TV Show" title="Nursery Rhyme TV Show">Nursery Rhyme TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos electro-boy','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/electro-boy/23803357/" alt="Electro Boy TV Show" title="Electro Boy TV Show">Electro Boy TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos happy-friends','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/happy-friends/23801589/" alt="Happy Friends TV Show" title="Happy Friends TV Show">Happy Friends TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos mega-minimal','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/mega-minimal/23801787/" alt="Mega Minimal TV Show" title="Mega Minimal TV Show">Mega Minimal TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos wooly-and-tig','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/wooly-and-tig/21718739/" alt="Wooly And Tig TV Show" title="Wooly And Tig TV Show">Wooly And Tig TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos uki','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/uki/21718685/" alt="Uki TV Show" title="Uki TV Show">Uki TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos the-large-family','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/the-large-family/21718657/" alt="The Large Family TV Show" title="The Large Family TV Show">The Large Family TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos 3rd-and-bird','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/3rd-and-bird/21718598/" alt="3rd and Bird TV Show" title="3rd and Bird TV Show">3rd and Bird TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Free Kid Videos','Footer Free Kid Videos dinosaur-train','Footer Free Kid Videos');" href="https://www.hungama.com/tv-show/dinosaur-train/21432937/" alt="Dinosaur Train TV Show" title="Dinosaur Train TV Show">Dinosaur Train TV Show</a> | </dd></dl><dl><dt>Popular TV Shows</dt><dd><a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows bar-code','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/bar-code/40711096/" alt="Bar Code TV Show" title="Bar Code TV Show">Bar Code TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows bas-cha-sudhi','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/bas-cha-sudhi/45184014/" alt="Bas Cha Sudhi TV Show" title="Bas Cha Sudhi TV Show">Bas Cha Sudhi TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows all-the-way-in','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/all-the-way-in/33214823/" alt="All The Way In TV Show" title="All The Way In TV Show">All The Way In TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows wild-wild-chef','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/wild-wild-chef/33215896/" alt="Wild Wild Chef TV Show" title="Wild Wild Chef TV Show">Wild Wild Chef TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows yeh-hai-mahabharata-english','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/yeh-hai-mahabharata-english/23811763/" alt="Yeh Hai Mahabharata - English TV Show" title="Yeh Hai Mahabharata - English TV Show">Yeh Hai Mahabharata - English TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows kids-activities','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/kids-activities/20678975/" alt="Kids Activities TV Show" title="Kids Activities TV Show">Kids Activities TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows 18-plus-jobseekers','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/18-plus-jobseekers/36375556/" alt="18 Plus Jobseekers TV Show" title="18 Plus Jobseekers TV Show">18 Plus Jobseekers TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows dheenamma-jeevitham','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/dheenamma-jeevitham/40923762/" alt="Dheenamma Jeevitham TV Show" title="Dheenamma Jeevitham TV Show">Dheenamma Jeevitham TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows hop-homeland-north-east','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/hop-homeland-north-east/33214752/" alt="Hop Homeland North East TV Show" title="Hop Homeland North East TV Show">Hop Homeland North East TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows anando-brahma','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/anando-brahma/40436423/" alt="Anando Brahma TV Show" title="Anando Brahma TV Show">Anando Brahma TV Show</a> | <a id="pajax_a" onclick="googleAnalyticsCustomTracker('event','Footer Popular TV Shows','Footer Popular TV Shows hum-tum','Footer Popular TV Shows');" href="https://www.hungama.com/tv-show/hum-tum/40436353/" alt="Hum Tum TV Show" title="Hum Tum TV Show">Hum Tum TV Show</a> | </dd></dl><div class="clear"></div></div></div>
 
 <div class="overlay_wrapper" style="display:none;">
     <ul style="position: absolute; top: 466px; left: 393.5px;" id="popup-dots" class="dropdown">
@@ -399,11 +407,11 @@
             <dt>Apps <span></span></dt>
             <dd>
                 <ul>
-                    <li><a id="pajax_a" href="http://www.hungama.com/apps/mobile/" onclick="googleAnalyticsCustomTracker('event','footer','mobile &amp; tablet','mobile &amp; tablet');" class="mt">Mobile and Tablet</a></li>
-<!--                    <li><a id="pajax_a" href="http://www.hungama.com/apps/watch" class="sw">Smart Watch</a></li>-->
-                    <li><a id="pajax_a" href="http://www.hungama.com/apps/drive/" onclick="googleAnalyticsCustomTracker('event','footer','drive','drive');" class="car">Drive</a></li>
-                    <li><a id="pajax_a" href="http://www.hungama.com/apps/tv/" onclick="googleAnalyticsCustomTracker('event','footer','tv','tv');" class="stv">Smart TV</a></li>
-<!--                    <li><a id="pajax_a" href="http://www.hungama.com/apps/desktop" class="desktop">Desktop</a></li>-->
+                    <li><a id="pajax_a" href="https://www.hungama.com/apps/mobile/" onclick="googleAnalyticsCustomTracker('event','footer','mobile &amp; tablet','mobile &amp; tablet');" class="mt">Mobile and Tablet</a></li>
+<!--                    <li><a id="pajax_a" href="https://www.hungama.com/apps/watch" class="sw">Smart Watch</a></li>-->
+                    <li><a id="pajax_a" href="https://www.hungama.com/apps/drive/" onclick="googleAnalyticsCustomTracker('event','footer','drive','drive');" class="car">Drive</a></li>
+                    <li><a id="pajax_a" href="https://www.hungama.com/apps/tv/" onclick="googleAnalyticsCustomTracker('event','footer','tv','tv');" class="stv">Smart TV</a></li>
+<!--                    <li><a id="pajax_a" href="https://www.hungama.com/apps/desktop" class="desktop">Desktop</a></li>-->
                 </ul>
             </dd>
         </dl>
@@ -412,10 +420,10 @@
             <dt>Rewards <span></span></dt>
             <dd>
                 <ul>
-                    <li><a id="pajax_a" href="http://www.hungama.com/rewards/" onclick="googleAnalyticsCustomTracker('event','footer','rewards','rewards');" class="ecb">Earn Coins &amp; Badges</a></li>
+                    <li><a id="pajax_a" href="https://www.hungama.com/rewards/" onclick="googleAnalyticsCustomTracker('event','footer','rewards','rewards');" class="ecb">Earn Coins &amp; Badges</a></li>
                     <!-- <li><a href="winners-and-testimonials" class="wt">Winners &amp; Testimonials</a></li> -->
-                    <li><a id="pajax_a" href="http://www.hungama.com/rewards/winners/" onclick="googleAnalyticsCustomTracker('event','footer','winners &amp; testimonials','winners &amp; testimonials');" class="wt">Winners &amp; Testimonials</a></li>
-                    <!--<li><a id="pajax_a" href="http://www.hungama.com/rewards" class="rs">Redemption Store</a></li>-->
+                    <li><a id="pajax_a" href="https://www.hungama.com/rewards/winners/" onclick="googleAnalyticsCustomTracker('event','footer','winners &amp; testimonials','winners &amp; testimonials');" class="wt">Winners &amp; Testimonials</a></li>
+                    <!--<li><a id="pajax_a" href="https://www.hungama.com/rewards" class="rs">Redemption Store</a></li>-->
 <!--                    <li><a href="http://hrewards.hungama.com" class="rs" target="_blank">Redemption Store</a></li>-->
                 </ul>
             </dd>
@@ -424,11 +432,13 @@
             <dt>Others <span></span></dt>
             <dd>
                 <ul> 
-                    <li><a id="pajax_a" href="http://www.hungama.com/faqs/" onclick="googleAnalyticsCustomTracker('event','footer','faq','faq');" class="hf">Help &amp; FAQs</a></li>
-                    <li><a id="pajax_a" href="http://www.hungama.com/contact-us/" onclick="googleAnalyticsCustomTracker('event','footer','contact us','contact us');" class="cs">Contact Us</a></li>
-<!--                    <li><a id="pajax_a" href="http://www.hungama.com/more/invite-friend" class="if">Invite Friends</a></li>-->
-<!--                    <li><a id="pajax_a" href="http://www.hungama.com/more/newsletter" class="nl">Newsletter</a></li>-->
-                    <!--<li><a id="pajax_a" href="http://www.hungama.com/advertise" class="ad" >Advertise with us</a></li>-->
+                    <li><a id="pajax_a" href="https://www.hungama.com/faqs/" onclick="googleAnalyticsCustomTracker('event','footer','faq','faq');" class="hf">Help &amp; FAQs</a></li>
+                    <li><a id="pajax_a" href="https://www.hungama.com/contact-us/" onclick="googleAnalyticsCustomTracker('event','footer','contact us','contact us');" class="cs">Contact Us</a></li>
+					<li><a target="_blank" href="https://www.hungama.com/sitemap/sitemap.html" onclick="googleAnalyticsCustomTracker('event','footer','sitemap','contact us');" class="cs">Sitemap</a></li>
+					
+<!--                    <li><a id="pajax_a" href="https://www.hungama.com/more/invite-friend" class="if">Invite Friends</a></li>-->
+<!--                    <li><a id="pajax_a" href="https://www.hungama.com/more/newsletter" class="nl">Newsletter</a></li>-->
+                    <!--<li><a id="pajax_a" href="https://www.hungama.com/advertise" class="ad" >Advertise with us</a></li>-->
                 </ul>
             </dd>
         </dl>
@@ -436,10 +446,10 @@
             <dt>Company <span></span></dt>
             <dd>
                 <ul>
-                    <!--<li><a id="pajax_a" href="http://www.hungama.com/about-us" class="about">About us</a></li>-->
-                    <li><a href="http://www.hungama.org/about.php" onclick="googleAnalyticsCustomTracker('event','footer','about us','about us');" class="about/" target="_blank">About us</a></li>
-                    <li><a id="pajax_a" href="http://www.hungama.com/conditions/" onclick="googleAnalyticsCustomTracker('event','footer','conditions','conditions');" class="terms">Terms &amp; Conditions</a></li>
-                    <li><a id="pajax_a" href="http://www.hungama.com/privacy-policy/" onclick="googleAnalyticsCustomTracker('event','footer','privacy policy','privacy policy');" class="privacy">Privacy Policy</a></li>
+                    <!--<li><a id="pajax_a" href="https://www.hungama.com/about-us" class="about">About us</a></li>-->
+                    <li><a href="https://www.hungama.org/about.php" onclick="googleAnalyticsCustomTracker('event','footer','about us','about us');" class="about/" target="_blank">About us</a></li>
+                    <li><a id="pajax_a" href="https://www.hungama.com/conditions/" onclick="googleAnalyticsCustomTracker('event','footer','conditions','conditions');" class="terms">Terms &amp; Conditions</a></li>
+                    <li><a id="pajax_a" href="https://www.hungama.com/privacy-policy/" onclick="googleAnalyticsCustomTracker('event','footer','privacy policy','privacy policy');" class="privacy">Privacy Policy</a></li>
                 </ul>
             </dd>
         </dl>
@@ -447,7 +457,7 @@
             <dt>Partners <span></span></dt>
             <dd>
                 <ul class="partners">
-                    <li><a href="http://www.bollywoodhungama.com" onclick="googleAnalyticsCustomTracker('event','footer','bollywood hungama','bollywood hungama');" target="_blank" rel="nofollow">Bollywood Hungama</a></li>
+                    <li><a href="https://www.bollywoodhungama.com" onclick="googleAnalyticsCustomTracker('event','footer','bollywood hungama','bollywood hungama');" target="_blank" rel="nofollow">Bollywood Hungama</a></li>
                     <li><a href="http://www.artistaloud.com/" onclick="googleAnalyticsCustomTracker('event','footer','artistaloud','artistaloud');" target="_blank" rel="nofollow">Artist Aloud</a></li>
                 </ul>
             </dd>
@@ -457,8 +467,8 @@
 
     <div class="brd clearfix1">
         <div class="copyWrapper">
-            <div class="copyright">Copyright©2018 Hungama Digital Media Entertainment Pvt. Ltd. All Right Reserved.</div>
-            <div class="social"><a href="https://www.facebook.com/HungamaMusic" target="_blank" onclick="googleAnalyticsCustomTracker('event','footer','facebook','facebook');"><img src="http://www.hungama.com/assets/images/fb-icon.png" alt="" class="fb-icon"></a><a href="https://twitter.com/hungama_com" target="_blank" onclick="googleAnalyticsCustomTracker('event','footer','twitter','twitter');"><img src="http://www.hungama.com/assets/images/twitter-icon.png" alt="" class="twitter-icon"></a><a href="https://www.youtube.com/user/hungamamusicofficial" onclick="googleAnalyticsCustomTracker('event','footer','youtube','youtube');" target="_blank"><img src="http://www.hungama.com/assets/images/yt-icon.png" alt="" class="youtube-icon"></a><a href="https://www.instagram.com/hungamamusic/" onclick="googleAnalyticsCustomTracker('event','footer','instagram','instagram');" target="_blank"><img src="http://www.hungama.com/assets/images/Instagram-icon.png" alt="" class="instagram-icon"></a>
+            <div class="copyright">Copyright©2019 Hungama Digital Media Entertainment Pvt. Ltd. All Right Reserved.</div>
+            <div class="social"><a href="https://www.facebook.com/HungamaMusic" target="_blank" onclick="googleAnalyticsCustomTracker('event','footer','facebook','facebook');"><img src="https://www.hungama.com/assets/images/fb-icon.png" alt="" class="fb-icon"></a><a href="https://twitter.com/hungama_com" target="_blank" onclick="googleAnalyticsCustomTracker('event','footer','twitter','twitter');"><img src="https://www.hungama.com/assets/images/twitter-icon.png" alt="" class="twitter-icon"></a><a href="https://www.youtube.com/user/hungamamusicofficial" onclick="googleAnalyticsCustomTracker('event','footer','youtube','youtube');" target="_blank"><img src="https://www.hungama.com/assets/images/yt-icon.png" alt="" class="youtube-icon"></a><a href="https://www.instagram.com/hungamamusic/" onclick="googleAnalyticsCustomTracker('event','footer','instagram','instagram');" target="_blank"><img src="https://www.hungama.com/assets/images/Instagram-icon.png" alt="" class="instagram-icon"></a>
 			</div>
         </div>
     </div>
@@ -491,31 +501,36 @@
 <!-- minified js -->
 <script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/jquery.min.js"></script>
 <script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/min/jquery.pjax.min.js?v=090820171504"></script>
-<!--<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/min/common_pjax.min.js?v=120920171727"></script>-->
-<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/common_pjax.js?v=180920181658"></script>
-<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/lazysizes.min.js?v=090820171603"></script>
+<!--<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/common_pjax.min.js?v=120920171727"></script>-->
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/common_pjax.js?v=160420191528"></script>
+<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/min/lazysizes.min.js?v=090820171603"></script>
 <script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/min/jquery-ui.min.js?v=090820171605"></script>
-<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/min/owl.carousel.min.js"></script>
-<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/position-calculator.min.js"></script>
+<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/min/owl.carousel.min.js"></script>
+<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/min/position-calculator.min.js"></script>
 <script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/jquery.mCustomScrollbar.concat.min.js"></script>
-<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/min/Obj.min.js"></script>
-<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/min/addToggle.min.js"></script>
-<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/flip.min.js"></script>
-<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/min/simple-lightbox.min.js"></script> 
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/Obj.min.js"></script>
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/addToggle.min.js"></script>
+<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/min/flip.min.js"></script>
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/simple-lightbox.min.js"></script> 
 <script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/h-script.js?v=051020181855"></script>
-<!--<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/min/h-script.min.js?v=12092017065511"></script>-->
-<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/user/user_actions.js?v=2.18"></script>
+<!--<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/min/h-script.min.js?v=12092017065511"></script>-->
+<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/user/user_actions.js?v=2.18"></script>
 <!--<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/user/user_actions.min.js?v=15092017182512"></script>-->
-<!--<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/common.min.js?v=13092017181400"></script>-->
-<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/common.js?v=261120181537"></script>
-<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/min/sticker.min.js?v=090820171910"></script> 
-<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/user/login_actions.js?v=2.5265"></script>
-<!--<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/user/login_actions.min.js?v=19092017140012" ></script>-->
-<!--<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/min/customsearch.min.js?v=060920171817"></script>-->
-<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/customsearch.js?v=161020181560"></script>
-<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/min/jquery.raty-fa.min.js"></script>
+<!--<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/min/common.min.js?v=13092017181400"></script>-->
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/common.js?v=050420191602"></script>
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/sticker.min.js?v=090820171910"></script> 
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/user/login_actions.js?v=120420191615"></script>
+<!--<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/user/login_actions.min.js?v=19092017140012" ></script>-->
+<!--<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/customsearch.min.js?v=060920171817"></script>-->
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/customsearch.js?v=020420191246"></script>
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/min/jquery.raty-fa.min.js"></script>
 <!-- <script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/min/hcom-ads.min.js?v=121220171719"></script> -->
-<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/hcom-ads.js?v=180920181644"></script>
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/hcom-ads.js?v=160420191528"></script> 
+<!-- for HA integration -->
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/ha/moment.min.js"></script>
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/ha/client.min.js"></script>
+<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/ha/ha-release.min.js?v=52354552"></script>
+<script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/ha/app.js?v=070220198565"></script>
 
 
 <!--<script>
@@ -569,41 +584,43 @@ commonTracker(ga_pathname, 'ga_track_page', '');
 
 
 <!-- 
-<link rel="stylesheet" type="text/css" href="http://player.hungama.com/css/audio-player.css">
-<link rel="stylesheet" type="text/css" href="http://player.hungama.com/css/videoplayer.css"> -->
+<link rel="stylesheet" type="text/css" href="https://player.hungama.com/css/audio-player.css">
+<link rel="stylesheet" type="text/css" href="https://player.hungama.com/css/videoplayer.css"> -->
 
-<link rel="stylesheet" type="text/css" href="http://player.hungama.com/lap/v2.0/css/audio-player.css?v=190120181206">
-<!-- <link rel="stylesheet" type="text/css" href="http://player.hungama.com/lap/css/audio-player.css?v=1.4"> -->
+<link rel="stylesheet" type="text/css" href="https://player.hungama.com/lap/v2.0/css/audio-player.css?v=040320191856">
+<!-- <link rel="stylesheet" type="text/css" href="https://player.hungama.com/lap/css/audio-player.css?v=1.4"> -->
 
-<link rel="stylesheet" type="text/css" href="http://player.hungama.com/lap/css/videoplayer.css?v=1.3">
+<link rel="stylesheet" type="text/css" href="https://player.hungama.com/lap/css/videoplayer.css?v=1.3">
 
             <script type="text/javascript">
-            var ROOT_URL = 'http://www.hungama.com/';
+            var ROOT_URL = 'https://www.hungama.com/';
             var user_loggedin = 'No';
         </script>
         <style type="text/css">
             .player_fav_item{ color:red;}
         </style>
 
-		<script type="text/javascript" src="http://player.hungama.com/player/js/jquery-ui.min.js"></script>
-		<!-- <script type="text/javascript" src="http://player.hungama.com/player/js/jquery.ui.touch-punch.min.js"></script> -->
+		<script type="text/javascript" src="https://player.hungama.com/player/js/jquery-ui.min.js"></script>
+		<!-- <script type="text/javascript" src="https://player.hungama.com/player/js/jquery.ui.touch-punch.min.js"></script> -->
 
-		<script type="text/javascript" src="http://player.hungama.com/lap/v2.0/js/hls.min.js?v=171120171137"></script>
-		<!-- <script type="text/javascript" src="http://player.hungama.com/lap/js/hls.min.js"></script> -->
+		<script type="text/javascript" src="https://player.hungama.com/lap/v2.0/js/hls.min.js?v=171120171137"></script>
+		<!-- <script type="text/javascript" src="https://player.hungama.com/lap/js/hls.min.js"></script> -->
 		
-		<script type="text/javascript" src="http://player.hungama.com/lap/v2.0/js/audio-player.min.js?v=171120171137"></script>
-		<!-- <script type="text/javascript" src="http://player.hungama.com/lap/js/audio-player.min.js"></script> -->
+		<script type="text/javascript" src="https://player.hungama.com/lap/v2.0/js/audio-player.min.js?v=171120171137"></script>
+		<!-- <script type="text/javascript" src="https://player.hungama.com/lap/js/audio-player.min.js"></script> -->
 		
 
 
-		<!-- <script type="text/javascript" src="http://player.hungama.com/lap/js/hungama_player_1.js"></script> -->
-		<script type="text/javascript" src="http://player.hungama.com/lap/js/videoplayer.min.js?v=1.41"></script>
-		<script type="text/javascript" src="http://player.hungama.com/player/js/jwplayer/player-extra-features.js?v=190720171249"></script> 
+		<!-- <script type="text/javascript" src="https://player.hungama.com/lap/js/hungama_player_1.js"></script> -->
+		<!--<script type="text/javascript" src="https://player.hungama.com/lap/js/videoplayer.min.js?v=1.41"></script>-->
+			    	<script type="text/javascript" src="https://player.hungama.com/lap/js/cvideoplayer.js?v=1.52658112856"></script>
+	    		<script type="text/javascript" src="https://player.hungama.com/player/js/jwplayer/player-extra-features.js?v=190720171249"></script> 
 		<script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
 
-					<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/common_audio_player.js?v=130620181927"></script>
-			<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/common_player.js?v=300820182245"></script>
-			<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/ads.js?1.2"></script>
+				<!--	<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/common_audio_player.js?v=201120181059"></script>    -->
+		    <script type="text/javascript" src="https://stat2.hungama.ind.in/assets/js/common_audio_player.js?v=010420191707"></script>
+			<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/common_player.js?v=090420191312"></script>
+			<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/ads.js?1.2"></script>
 		
 		<script type="text/javascript">
 			function getMobileOperatingSystem() {
@@ -695,7 +712,7 @@ commonTracker(ga_pathname, 'ga_track_page', '');
 					showDiscover:true,
 					dos:osDetect
 				};
-				var song_1=[{"id_migration":"1","song_name":"","date":"2017","singer_name":"","album_name":"", "id_album":"2","file":"http://www.hungama.com/assets/includes/silence-1sec.mp3","img_src":"","lyrics":"","trivia":"","lyricist":"","contenttype":"music","type":"mp3"}];
+				var song_1=[{"id_migration":"1","song_name":"","date":"2017","singer_name":"","album_name":"", "id_album":"2","file":"https://www.hungama.com/assets/includes/silence-1sec.mp3","img_src":"","lyrics":"","trivia":"","lyricist":"","contenttype":"music","type":"mp3"}];
 				initAudioPlayer("hungama_audioplayer", song_1, audioConfigObj);
 				$("#hungama_audioplayer").addClass("hide_audioPlayer");
 				preserve.quality = readCookie('hcom_audio_qty');
@@ -730,7 +747,7 @@ commonTracker(ga_pathname, 'ga_track_page', '');
 				var jw_ad_tag='https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/317733190/H.Com_Video_PrerollAd&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url='+rt_url+'&description_url='+rt_url+'&correlator='+corr;	
 				
 				 mp4_video_playlist = {
-					"file": "http://www.hungama.com/assets/includes/silence-1sec.mp3",
+					"file": "https://www.hungama.com/assets/includes/silence-1sec.mp3",
 					"mediaid": "1",
 					"title": "Ok janu",
 					"albumname": "Noor",
@@ -746,12 +763,32 @@ commonTracker(ga_pathname, 'ga_track_page', '');
                     }
 				};
 				player1Obj = makePlayer("vdo-player", mp4_video_playlist,videoConfigObj_1);
+				
+				if((location.href.search("/live-tv/")!=-1) && player1Obj){ 
+				   player1Obj.config.playertype='live';
+				}
+				
+				setTimeout(function(){
+                    audio.onloadstart = function() { 
+	                loadTime=0; 
+                      loadTimer = setInterval(function(){
+                            loadTime = loadTime+1;
+                        },1);
+                    };
+                               
+                    audio.onloadeddata = function() {
+                        console.log("time to start audio hrere: " + (loadTime/1000));
+	                	loadTime = (loadTime/1000);
+                        clearInterval(loadTimer);
+                        loadTimer = null;                   
+                    };
+		        },2000);
 			});
 		</script>
 
 
-<input type="hidden" name="site_url" id="site_url" value="http://www.hungama.com/">
-<input type="hidden" name="origin_url" id="origin_url" value="http://www.hungama.com/">
+<input type="hidden" name="site_url" id="site_url" value="https://www.hungama.com/">
+<input type="hidden" name="origin_url" id="origin_url" value="https://www.hungama.com/">
 <input type="hidden" name="user_ln_status" id="user_ln_status" value="">
 <input type="hidden" name="user_fav_data" id="user_fav_data" value="">
 <input type="hidden" name="user_watchlist_data" id="user_watchlist_data" value="">
@@ -761,8 +798,8 @@ commonTracker(ga_pathname, 'ga_track_page', '');
 <input type="hidden" name="user_notify_me" id="user_notify_me" value="">
 <input type="hidden" name="track_property" id="track_property" value="hungama_web">
 <input type="hidden" value="0" id="movcountnum" name="movcountnum">
-<input type="hidden" name="trending_search_data" id="trending_search_data" value="[{&quot;content_id&quot;:&quot;42175389&quot;,&quot;content_title&quot;:&quot;Zero&quot;,&quot;language&quot;:&quot;Hindi&quot;,&quot;year&quot;:&quot;2018&quot;,&quot;image&quot;:&quot;http:\/\/content.hungama.com\/audio%20album\/display%20image\/180x180%20jpeg\/5625063496.jpg&quot;,&quot;url&quot;:&quot;http:\/\/www.hungama.com\/album\/zero\/42175389\/&quot;},{&quot;content_id&quot;:&quot;6166021&quot;,&quot;content_title&quot;:&quot;Jubin Nautiyal&quot;,&quot;language&quot;:&quot;&quot;,&quot;year&quot;:&quot;1970&quot;,&quot;image&quot;:&quot;http:\/\/content.hungama.com\/artist\/profile%20image\/175x175%20jpeg\/5379449107.jpg&quot;,&quot;url&quot;:&quot;http:\/\/www.hungama.com\/artist\/jubin-nautiyal\/6166021\/&quot;},{&quot;content_id&quot;:&quot;41646817&quot;,&quot;content_title&quot;:&quot;thank u, next&quot;,&quot;language&quot;:&quot;English&quot;,&quot;year&quot;:&quot;2018&quot;,&quot;image&quot;:&quot;http:\/\/content.hungama.com\/audio%20album\/display%20image\/180x180%20jpeg\/5539120440.jpg&quot;,&quot;url&quot;:&quot;http:\/\/www.hungama.com\/song\/thank-u-next\/41646817\/&quot;},{&quot;content_id&quot;:&quot;42338264&quot;,&quot;content_title&quot;:&quot;Jind Mahi&quot;,&quot;language&quot;:&quot;Punjabi&quot;,&quot;year&quot;:&quot;2018&quot;,&quot;image&quot;:&quot;http:\/\/content.hungama.com\/audio%20album\/display%20image\/180x180%20jpeg\/5589361750.jpg&quot;,&quot;url&quot;:&quot;http:\/\/www.hungama.com\/song\/jind-mahi\/42338264\/&quot;},{&quot;content_id&quot;:&quot;42640099&quot;,&quot;content_title&quot;:&quot;Jaan 'Nisaar (Arijit)&quot;,&quot;language&quot;:&quot;Hindi&quot;,&quot;year&quot;:&quot;2018&quot;,&quot;image&quot;:&quot;http:\/\/content.hungama.com\/music%20video%20track\/display%20image\/320x180%20jpeg\/5621525606.jpg&quot;,&quot;url&quot;:&quot;http:\/\/www.hungama.com\/video\/jaan-nisaar-arijit\/42640099\/&quot;},{&quot;content_id&quot;:&quot;41717629&quot;,&quot;content_title&quot;:&quot;The Meg&quot;,&quot;language&quot;:&quot;English&quot;,&quot;year&quot;:&quot;2018&quot;,&quot;image&quot;:&quot;http:\/\/content.hungama.com\/movie\/display%20image\/180x255%20jpeg\/5547362074.jpg&quot;,&quot;url&quot;:&quot;http:\/\/www.hungama.com\/movie\/the-meg\/41717629\/&quot;},{&quot;content_id&quot;:&quot;38468404&quot;,&quot;content_title&quot;:&quot;ASTROWORLD&quot;,&quot;language&quot;:&quot;English&quot;,&quot;year&quot;:&quot;2018&quot;,&quot;image&quot;:&quot;http:\/\/content.hungama.com\/audio%20album\/display%20image\/180x180%20jpeg\/5170628658.jpg&quot;,&quot;url&quot;:&quot;http:\/\/www.hungama.com\/album\/astroworld\/38468404\/&quot;}]">
-<input type="hidden" name="popular_search_data" id="popular_search_data" value="{&quot;status&quot;:&quot;successfully&quot;,&quot;data&quot;:[{&quot;image&quot;:{&quot;hdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-hdpi\/ic_movies_left_menu.png&quot;,&quot;mdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-mdpi\/ic_movies_left_menu.png&quot;,&quot;xhdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xhdpi\/ic_movies_left_menu.png&quot;,&quot;xxhdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxhdpi\/ic_movies_left_menu.png&quot;,&quot;xxxhdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxxhdpi\/ic_movies_left_menu.png&quot;},&quot;keyword&quot;:&quot;Hungama Premier: The Meg&quot;},{&quot;image&quot;:null,&quot;keyword&quot;:&quot;DeepVeer ki Shaadi&quot;},{&quot;image&quot;:{&quot;hdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/TV_Shows\/drawable-hdpi\/ic_tv_shows_left_menu.png&quot;,&quot;mdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/TV_Shows\/drawable-mdpi\/ic_tv_shows_left_menu.png&quot;,&quot;xhdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/TV_Shows\/drawable-xhdpi\/ic_tv_shows_left_menu.png&quot;,&quot;xxhdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/TV_Shows\/drawable-xxhdpi\/ic_tv_shows_left_menu.png&quot;,&quot;xxxhdpi&quot;:&quot;http:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/TV_Shows\/drawable-xxxhdpi\/ic_tv_shows_left_menu.png&quot;},&quot;keyword&quot;:&quot;Hungama Originals: Bar Code&quot;},{&quot;image&quot;:null,&quot;keyword&quot;:&quot;Showcase Tamil&quot;}],&quot;node&quot;:{&quot;total&quot;:4,&quot;epoch&quot;:1544407806}}">
+<input type="hidden" name="trending_search_data" id="trending_search_data" value="[{&quot;content_id&quot;:&quot;47410799&quot;,&quot;content_title&quot;:&quot;Kalank&quot;,&quot;language&quot;:&quot;Hindi&quot;,&quot;year&quot;:&quot;2019&quot;,&quot;image&quot;:&quot;https:\/\/content.hungama.com\/audio%20album\/display%20image\/180x180%20jpeg\/5969673435.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.hungama.com\/album\/kalank\/47410799\/&quot;},{&quot;content_id&quot;:&quot;91609&quot;,&quot;content_title&quot;:&quot;Arijit Singh&quot;,&quot;language&quot;:&quot;&quot;,&quot;year&quot;:&quot;1970&quot;,&quot;image&quot;:&quot;https:\/\/content.hungama.com\/artist\/profile%20image\/175x175%20jpeg\/5261898390.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.hungama.com\/artist\/arijit-singh\/91609\/&quot;},{&quot;content_id&quot;:&quot;47593990&quot;,&quot;content_title&quot;:&quot;I Think Delhi&quot;,&quot;language&quot;:&quot;Hindi&quot;,&quot;year&quot;:&quot;2019&quot;,&quot;image&quot;:&quot;https:\/\/content.hungama.com\/audio%20album\/display%20image\/180x180%20jpeg\/5964566261.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.hungama.com\/song\/i-think-delhi\/47593990\/&quot;},{&quot;content_id&quot;:&quot;47538173&quot;,&quot;content_title&quot;:&quot;Meri Hasi&quot;,&quot;language&quot;:&quot;Hindi&quot;,&quot;year&quot;:&quot;2019&quot;,&quot;image&quot;:&quot;https:\/\/content.hungama.com\/audio%20album\/display%20image\/180x180%20jpeg\/5962420986.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.hungama.com\/song\/meri-hasi\/47538173\/&quot;},{&quot;content_id&quot;:&quot;47412614&quot;,&quot;content_title&quot;:&quot;Ghar More Pardesiya&quot;,&quot;language&quot;:&quot;Hindi&quot;,&quot;year&quot;:&quot;2019&quot;,&quot;image&quot;:&quot;https:\/\/content.hungama.com\/music%20video%20track\/display%20image\/320x180%20jpeg\/5960809044.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.hungama.com\/video\/ghar-more-pardesiya\/47412614\/&quot;},{&quot;content_id&quot;:&quot;47427065&quot;,&quot;content_title&quot;:&quot;Aquaman&quot;,&quot;language&quot;:&quot;English&quot;,&quot;year&quot;:&quot;2019&quot;,&quot;image&quot;:&quot;https:\/\/content.hungama.com\/movie\/display%20image\/180x255%20jpeg\/5961153005.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.hungama.com\/movie\/aquaman\/47427065\/&quot;},{&quot;content_id&quot;:&quot;47316331&quot;,&quot;content_title&quot;:&quot;Harverd Dropout&quot;,&quot;language&quot;:&quot;English&quot;,&quot;year&quot;:&quot;2018&quot;,&quot;image&quot;:&quot;https:\/\/content.hungama.com\/audio%20album\/display%20image\/180x180%20jpeg\/5960434195.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.hungama.com\/album\/harverd-dropout\/47316331\/&quot;}]">
+<input type="hidden" name="popular_search_data" id="popular_search_data" value="{&quot;status&quot;:&quot;successfully&quot;,&quot;data&quot;:[{&quot;image&quot;:{&quot;hdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-hdpi\/ic_movies_left_menu.png&quot;,&quot;mdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-mdpi\/ic_movies_left_menu.png&quot;,&quot;xhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xhdpi\/ic_movies_left_menu.png&quot;,&quot;xxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxhdpi\/ic_movies_left_menu.png&quot;,&quot;xxxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxxhdpi\/ic_movies_left_menu.png&quot;},&quot;keyword&quot;:&quot;Aquaman&quot;},{&quot;image&quot;:{&quot;hdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Music_Video\/drawable-hdpi\/ic_music_video_left_menu.png&quot;,&quot;mdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Music_Video\/drawable-mdpi\/ic_music_video_left_menu.png&quot;,&quot;xhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Music_Video\/drawable-xhdpi\/ic_music_video_left_menu.png&quot;,&quot;xxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Music_Video\/drawable-xxhdpi\/ic_music_video_left_menu.png&quot;,&quot;xxxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Music_Video\/drawable-xxxhdpi\/ic_music_video_left_menu.png&quot;},&quot;keyword&quot;:&quot;Kalank&quot;},{&quot;image&quot;:{&quot;hdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-hdpi\/ic_movies_left_menu.png&quot;,&quot;mdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-mdpi\/ic_movies_left_menu.png&quot;,&quot;xhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xhdpi\/ic_movies_left_menu.png&quot;,&quot;xxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxhdpi\/ic_movies_left_menu.png&quot;,&quot;xxxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxxhdpi\/ic_movies_left_menu.png&quot;},&quot;keyword&quot;:&quot;Seasoned With Love&quot;},{&quot;image&quot;:{&quot;hdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-hdpi\/ic_movies_left_menu.png&quot;,&quot;mdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-mdpi\/ic_movies_left_menu.png&quot;,&quot;xhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xhdpi\/ic_movies_left_menu.png&quot;,&quot;xxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxhdpi\/ic_movies_left_menu.png&quot;,&quot;xxxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxxhdpi\/ic_movies_left_menu.png&quot;},&quot;keyword&quot;:&quot;Singh Is Bliing&quot;},{&quot;image&quot;:null,&quot;keyword&quot;:&quot;Bikini&quot;},{&quot;image&quot;:{&quot;hdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-hdpi\/ic_movies_left_menu.png&quot;,&quot;mdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-mdpi\/ic_movies_left_menu.png&quot;,&quot;xhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xhdpi\/ic_movies_left_menu.png&quot;,&quot;xxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxhdpi\/ic_movies_left_menu.png&quot;,&quot;xxxhdpi&quot;:&quot;https:\/\/d368qv66y0shpj.cloudfront.net\/icons\/Left_Menu\/Movies\/drawable-xxxhdpi\/ic_movies_left_menu.png&quot;},&quot;keyword&quot;:&quot;Kahaani 2&quot;}],&quot;node&quot;:{&quot;total&quot;:6,&quot;epoch&quot;:1555457414}}">
 
 <div id="mvPlayer" style="display:none;">
     <div class="pop-close"><a href="javascript:void(0);" class="icon-ic_cancel"></a></div>
@@ -776,7 +813,7 @@ commonTracker(ga_pathname, 'ga_track_page', '');
 	<div class="popup-close" style="position: absolute;top: 0;right: 0;">
 	<a href="javascript:void(0)" class="icon-ic_cancel"></a></div>
 		<div class="fl">
-			<img src="http://www.hungama.com/assets/images/adblocker-1.gif" border="0">
+			<img src="https://www.hungama.com/assets/images/adblocker-1.gif" border="0">
 		</div>
 		<div class="fr">
 			<div style="font-weight:600;font-size:20px;color:#333;padding:32px 0">AD BLOCKER DETECTED</div>
@@ -850,7 +887,7 @@ commonTracker(ga_pathname, 'ga_track_page', '');
                         <td align="center">05</td>
                     </tr>
                 </tbody></table>
-                <a id="pajax_a" href="http://www.hungama.com//more/conditions" class="terms">Terms &amp; Conditions</a>
+                <a id="pajax_a" href="https://www.hungama.com/conditions/" class="terms">Terms &amp; Conditions</a>
             </div>
         </div>
     </div>
@@ -882,6 +919,44 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
 </div>  
 
 
+<style>
+	#preLogin-signin .pop-content{padding:70px 20px}
+	#preLogin-signin .plMob{width:230px;margin:auto;display:block;font-size:16px;text-transform:capitalize}
+	#preLogin-signin .plMob img{vertical-align:middle;margin-right:15px}
+	#preLogin-signin .sclLgn{text-align:center}
+	#preLogin-signin .sclLgn img{width:40px;vertical-align:middle;margin:0 10px}
+	#preLogin-signin .orBox{margin:28px auto;width:80%}
+	#preLogin-signin .orBox .lftBrd{border-top:1px solid #e0e0e0;width:45%;float:left}
+	#preLogin-signin .orBox .orTxt{float:left;width:10%;font-size:12px;color:#999ea2;font-weight:500;text-align:center;margin-top:-8px}
+	#preLogin-signin .orBox .rgtBrd{border-top:1px solid #e0e0e0;width:45%;float:left}
+	@media screen and (max-width:640px){
+	#preLogin-signin .plMob{max-width:230px;width:60vw}
+	}
+	#authform input:invalid {  box-shadow: none; }
+</style>
+<div id="preLogin-signin" class="popSmall" style="display:none">
+	<div class="pop-wrapper">
+		<div class="popup-close"><a href="javascript:void(0);" class="icon-ic_cancel"></a></div>
+		<div class="signin-container clearfix1">
+             <div class="pop-ttl blocktxt"><span>Register / Login</span></div>
+			 <div class="clear"></div>
+			 <div class="pop-content">
+				<a href="javascript:void(0);" onclick="showAuthPop();" class="btn-main plMob"><img src="https://www.hungama.com/assets/images/icon-mobile.png" alt="">Mobile Number</a>
+				<div class="orBox clearfix">
+					<div class="lftBrd"></div>
+					<div class="orTxt">OR</div>
+					<div class="rgtBrd"></div>
+				</div>
+				<div class="sclLgn" id="gPopLoginDiv">
+					<a href="javascript:void(0);" onclick="googleAnalyticsCustomTracker('event', 'Hungama Sign-in', 'Facebook Sign-in', 'static');customSocialLogin('facebook');"><img src="https://www.hungama.com/assets/images/login-iconfb2.png" alt=""></a>
+					<a href="javascript:void(0);" onclick="googleAnalyticsCustomTracker('event', 'Hungama Sign-in', 'Google Sign-in', 'static');customSocialLogin('googleplus');"><img src="https://www.hungama.com/assets/images/login-icongplus2.png" alt=""></a>
+					<a href="#" onclick="showLoginPopupSmall();"><img src="https://www.hungama.com/assets/images/login-iconemail.png" alt=""></a>
+				</div>
+			 </div>
+        </div>
+	</div>
+</div> 
+
 <div id="login-signin" class="popSmall" style="display:none">
 	<div class="pop-wrapper">
 		<div class="popup-close"><a href="javascript:void(0);" class="icon-ic_cancel"></a></div>
@@ -889,19 +964,13 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
              <div class="pop-ttl blocktxt"><span>Log In</span></div>
 			 <div class="clear"></div>
 			 <div class="pop-content">
-             <!--<a href="javascript:void(0);" onclick="onLoginButtonClick();" class="btn-mob btn-sub">Use My Mobile Number</a>
-             <div class="passCont"><img src="http://www.hungama.com/assets/images/password-icon-key.png" alt=""><span>Password Free</span><img src="http://www.hungama.com/assets/images/password-icon-lock.png" alt=""><span>Secure</span></div>             
-             <div class="orBox clearfix1">
-	            <div class="lftBrd"></div>
-    	        <div class="orTxt">OR</div>
-        	    <div class="rgtBrd"></div>
-            </div>-->
-             <div class="sclLgn" id="gPopLoginDiv">
-				<a href="javascript:void(0);" onclick="customSocialLogin('facebook');"><img src="http://www.hungama.com/assets/images/login-iconfb.png" alt=""></a>
-				<a href="javascript:void(0);" onclick="customSocialLogin('googleplus');"><img src="http://www.hungama.com/assets/images/login-icongplus.png" alt=""></a>
-				<!-- <a href="#"><img src="</?php echo IMAGE_URL; ?>login-iconmi.png" alt=""></a> -->
+            
+        <!--     <div class="sclLgn" id="gPopLoginDiv">
+				<a href="javascript:void(0);" onClick="customSocialLogin('facebook');"><img src="https://www.hungama.com/assets/images/login-iconfb.png" alt=""></a>
+				<a href="javascript:void(0);" onClick="customSocialLogin('googleplus');"><img src="https://www.hungama.com/assets/images/login-icongplus.png" alt=""></a>
+				
 			 </div>
-             <div class="brd"></div>
+             <div class="brd"></div> -->
              <div class="htxt">HUNGAMA</div>
 			 </div>
           <div class="lgnform clearfix1">
@@ -944,17 +1013,11 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
              <div class="pop-ttl blocktxt"><span>Register</span></div>
 			 <div class="clear"></div>
 			 <div class="pop-content">
-             <!--<a href="javascript:void(0);" class="btn-mob btn-sub">Use My Mobile Number</a>
-             <div class="passCont"><img src="http://www.hungama.com/assets/images/password-icon-key.png" alt=""><span>Password Free</span><img src="http://www.hungama.com/assets/images/password-icon-lock.png" alt=""><span>Secure</span></div>             
-             <div class="orBox clearfix1">
-	            <div class="lftBrd"></div>
-    	        <div class="orTxt">OR</div>
-        	    <div class="rgtBrd"></div>
-            </div>-->
+            
              <div class="sclLgn" id="gPopRegDiv">
-				<a href="javascript:void(0);" onclick="customSocialLogin('facebook');"><img src="http://www.hungama.com/assets/images/login-iconfb.png" alt=""></a>
-				<a href="javascript:void(0);" onclick="customSocialLogin('googleplus');"><img src="http://www.hungama.com/assets/images/login-icongplus.png" alt=""></a>
-				<!-- <a href="#"><img src="</?php echo IMAGE_URL; ?>login-iconmi.png" alt=""></a> -->
+				<a href="javascript:void(0);" onclick="customSocialLogin('facebook');"><img src="https://www.hungama.com/assets/images/login-iconfb.png" alt=""></a>
+				<a href="javascript:void(0);" onclick="customSocialLogin('googleplus');"><img src="https://www.hungama.com/assets/images/login-icongplus.png" alt=""></a>
+				
 			 </div>
              <div class="brd"></div>
              <div class="htxt">HUNGAMA</div>
@@ -1131,7 +1194,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
 
 <div id="profile-success" class="popSmall" style="display:none">
     <div class="pop-wrapper">
-        <!--<div class="popup-close"></div>-->
+        
         <div class="pop-content">
             <p class="textcent pt20" id="profile-success-msg">Profile Successfully Updated</p>
         </div>
@@ -1145,7 +1208,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
         <div class="clear"></div>
 		<div class="pop-content">
             <p>This Email ID is already registered. Submit or click Cancel to register with another email ID.</p>
-            <div class="pop-btn-container pt20"><!--<a id="pajax_a" href="user-login" class="btn-main email-exist-submit" >Submit</a>--><a href="javascript:void(0);" class="btn-main" onclick="showLoginPopup();">Submit</a><a href="javascript:void(0);" class="btn-sub" id="email-exist-cancel" onclick="cancel('email-exist')">Cancel</a></div>
+            <div class="pop-btn-container pt20"><a href="javascript:void(0);" class="btn-main" onclick="showLoginPopup();">Submit</a><a href="javascript:void(0);" class="btn-sub" id="email-exist-cancel" onclick="cancel('email-exist')">Cancel</a></div>
         </div>
     </div>
 </div>
@@ -1175,7 +1238,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
 				<span class="error" id="forgot-pass-error"></span>
 				<div class="pop-btn-container pt20"><a href="javascript:void(0);" onclick="forgot_pass();" class="btn-main forgot-pass-submit">Submit</a></div>
 			</form>
-			<div class="pop-btn-container pt20"><a href="javascript:void(0);" onclick="showForgotPassPopup();" class="btn-main forgot-pass-again" style="display:none">Edit Email Id</a><a id="pajax_a" href="http://www.hungama.com/more/contactus" class="btn-main forgot-pass-contact" style="display:none">Contact Us</a></div>
+			<div class="pop-btn-container pt20"><a href="javascript:void(0);" onclick="showForgotPassPopup();" class="btn-main forgot-pass-again" style="display:none">Edit Email Id</a><a id="pajax_a" href="https://www.hungama.com/more/contactus" class="btn-main forgot-pass-contact" style="display:none">Contact Us</a></div>
 			<p class="signuptxt" id="forgot-pass-signup" style="display:none">New User? <a href="javascript:void(0);" onclick="openSignUpPopup();">SIGN UP</a></p>
 		</div>
 	</div>
@@ -1264,7 +1327,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
     <div class="notify-login">
         <div class="notify clearfix1">
             <a href="#">
-                <img src="http://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl">
+                <img src="https://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl">
                 <span class="dtls">
                     <em class="ttl"><span class="new">new</span> Sultan Album out now</em>
                     <span class="desc">14 hours ago</span>
@@ -1273,7 +1336,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
         </div>
         <div class="notify clearfix1">
             <a href="#">
-                <img src="http://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl bg-video1">
+                <img src="https://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl bg-video1">
                 <span class="dtls">
                     <em class="ttl">Listen to Taang Uthake - Housefull 3</em>
                     <span class="desc">1 day ago</span>
@@ -1282,7 +1345,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
         </div>
         <div class="notify clearfix1">
             <a href="#">
-                <img src="http://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl">
+                <img src="https://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl">
                 <span class="dtls">
                     <em class="ttl">Hungama Music Pro getting <br>expired on June 10</em>
                     <span class="note-text">Renew for Uninterrupted Entertainment</span>
@@ -1292,7 +1355,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
         </div>
         <div class="notify clearfix1">
             <a href="#">
-                <img src="http://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl">
+                <img src="https://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl">
                 <span class="dtls">
                     <em class="ttl">Independence Day Special</em>
                     <span class="note-text"><em>Music&nbsp;&nbsp; |</em><em>Videos &nbsp;&nbsp;|</em><em>Movies</em></span>
@@ -1302,7 +1365,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
         </div>
         <div class="notify clearfix1">
             <a href="#">
-                <img src="http://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl">
+                <img src="https://www.hungama.com/assets/images/notification-thmb.jpg" width="50" height="50" alt="" class="fl">
                 <span class="dtls">
                     <em class="ttl">20% Discount on Hungama <br> Music Pro till 31st July 2016</em>
                     <span class="desc">June 5</span>
@@ -1354,15 +1417,15 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
             <div class="dwnld-movie-box">
                 <a href="https://play.google.com/store/apps/details?id=com.hungama.movies&amp;hl=en" target="_blank">
                     <span id="movie_img_popup"></span>
-                    <img src="http://www.hungama.com/assets/images/h-play-logo.png" alt="" class="img">
+                    <img src="https://www.hungama.com/assets/images/h-play-logo.png" alt="" class="img">
                 </a>
             </div>
             <div class="dwnld-movie-store clearfix1">
                 <a href="https://play.google.com/store/apps/details?id=com.hungama.movies&amp;hl=en" target="_blank">
-                    <img src="http://www.hungama.com/assets/images/google-play-logo.png" alt="">
+                    <img src="https://www.hungama.com/assets/images/google-play-logo.png" alt="">
                 </a>
                 <a href="https://itunes.apple.com/in/app/hungama-play-movies-tv-shows/id959839618?mt=8" target="_blank">
-                    <img src="http://www.hungama.com/assets/images/app-store-logo.png" alt="">
+                    <img src="https://www.hungama.com/assets/images/app-store-logo.png" alt="">
                 </a>
             </div>
         </div>
@@ -1433,7 +1496,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
 <script>
 	function checkSearchClose() {
 		if (window.location.href.indexOf("/search/") > -1) {
-			pjaxLoadURL('http://www.hungama.com');
+			pjaxLoadURL('https://www.hungama.com');
         }
 	}
 </script>
@@ -1608,7 +1671,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
 
 <div id="badge" class="popBadge" style="display:none">
     <div class="popHead">
-            <div class="bdg-img" style="width:100%"><!--<img src="http://www.hungama.com/assets/images/bdg-bear.png" alt="">--></div>
+            <div class="bdg-img" style="width:100%"></div>
     </div>
     <div class="popCont">
         <div class="popup-close"><a href="javascript:void(0);" class="icon-ic_cancel"></a></div>
@@ -1711,12 +1774,12 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
             <div class="lfimg" id="social_share_thumb"></div>
             <div class="rtcont">
                 <h3 id="social_share_title"></h3>
-                <!--<p id="social_share_subtitle"></p>-->
+                
             </div>
             <div class="clear"></div>
             <div style="border-bottom:1px solid #e0e0e0;margin-top:10px"></div>
             <div class="clearfix1" style="text-align:center; padding: 10px 0">
-                <span class="sclLgn" id="social_share_icons" style="display:inline-block;"></span><a id="copy-link" href="javascript:void(0);" onclick="copyURL();" style="padding:2px;vertical-align:top;display:inline-block"><img src="http://www.hungama.com/assets/images/share-iconcopy.png" alt=""></a>
+                <span class="sclLgn" id="social_share_icons" style="display:inline-block;"></span><a id="copy-link" href="javascript:void(0);" onclick="copyURL();" style="padding:2px;vertical-align:top;display:inline-block"><img src="https://www.hungama.com/assets/images/share-iconcopy.png" alt=""></a>
             </div>
             <div class="rtcont" style="padding-left:0; margin-bottom:-10px;">
                 <h3>Sharing URL</h3>
@@ -1729,7 +1792,18 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
     </div>
 </div> 
 
-<div id="loginPop" class="pop2xlarge" style="display:none">
+<style>
+	#preLoginPop .signInCont{margin:100px 0}
+	#preLoginPop .plTtl{text-align:center;font-size:20px;margin:20px 0;color:#000}
+	#preLoginPop .plMob{width:230px;margin:auto;display:block;font-size:16px;text-transform:capitalize}
+	#preLoginPop .plMob img{vertical-align:middle;margin-right:15px}
+	#preLoginPop .sclLgn img{width:40px}
+	@media screen and (max-width:640px){
+		#preLoginPop .signInCont{margin:10vh 0}
+		#preLoginPop .plMob{max-width:230px;width:65vw}
+	}
+</style>
+<div id="preLoginPop" class="pop2xlarge" style="display:none">
     <div class="pop-wrapper">
         <div class="popup-close"><a href="javascript:void(0);" class="icon-ic_cancel"></a></div>
         <div class="pop-content">
@@ -1755,23 +1829,62 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
                 </div>
                 <div class="rghtClm clearfix1">
                     <div class="signInCont">
-                        <div class="blocktxt"><span>Log In</span></div>
-                        <div class="brd"></div>
-                        <!--<div class="mobNo"><a href="#" class="btn-mob btn-sub">Use My Mobile Number</a></div>
-                        <div class="passCont"><img src="https://stgrevamp.hungama.com/assets/images/password-icon-key.png" alt=""><span>Password Free</span>
-                                <img src="https://stgrevamp.hungama.com/assets/images/password-icon-lock.png" alt=""><span>Secure</span></div>
-                        <div class="orBox clearfix1">
-                                <div class="lftBrd"></div>
-                                <div class="orTxt">OR</div>
-                                <div class="rgtBrd"></div>
-                        </div>-->
+                        <div class="plTtl">Register / Login</div>
+						<a href="javascript:void(0);" onclick="showAuthPop();" class="btn-main plMob"><img src="https://www.hungama.com/assets/images/icon-mobile.png" alt="">Mobile Number</a>
+                        <div class="orBox clearfix">
+                            <div class="lftBrd"></div>
+                            <div class="orTxt">OR</div>
+                            <div class="rgtBrd"></div>
+                        </div>						
                         <div class="sclLgn">
                             <div id="loginDiv"></div>
-                            <a href="javascript:void(0);" onclick="customSocialLogin('facebook');"><img src="http://www.hungama.com/assets/images/login-iconfb.png" alt=""></a>
-                            <a href="javascript:void(0);" onclick="customSocialLogin('googleplus');"><img src="http://www.hungama.com/assets/images/login-icongplus.png" alt=""></a>
-                            <!-- <a href="#"><img src="</?php echo IMAGE_URL; ?>login-iconmi.png" alt=""></a> -->
+                            <a href="javascript:void(0);" onclick="tracksignin('event', 'Hungama Sign-in', 'Facebook Sign-in');customSocialLogin('facebook');"><img src="https://www.hungama.com/assets/images/login-iconfb2.png" alt=""></a>
+                            <a href="javascript:void(0);" onclick="tracksignin('event', 'Hungama Sign-in', 'Google Sign-in' );customSocialLogin('googleplus');"><img src="https://www.hungama.com/assets/images/login-icongplus2.png" alt=""></a>
+                            <a href="javascript:void(0);" onclick="showLoginPopupLarge();"><img src="https://www.hungama.com/assets/images/login-iconemail.png" alt=""></a>
                         </div>
-                        <div class="orBox clearfix">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="loginPop" class="pop2xlarge" style="display:none">
+    <div class="pop-wrapper">
+        <div class="popup-close" onclick="tracksignin('event', 'Hungama Sign-in', 'Close Sign-in');"><a href="javascript:void(0);" class="icon-ic_cancel"></a></div>
+        <div class="pop-content">
+            <div class="lgn-box clearfix1" style="padding: 20px 0 !important">
+                <div class="lftClm clearfix1">
+                    <h2>One<br> Account.<em>Unlimited <br>Benefits.</em></h2>
+                    <span></span>
+                    <div class="clearfix1">
+                        <ul>
+                            <li>Music <span></span></li>
+                            <li>Videos <span></span></li>
+                            <li>Movies <span></span></li>
+                            <li>Tv Shows</li>
+                        </ul>
+                    </div>
+                    <div class="oneAct">
+                        <ul>
+                            <li class="ec"><i class="icon-ic_coins"></i>Earn coins &amp; Get rewarded</li>
+                            <li class="rm"><i class="icon-ic_movies"></i>7500+ Bollywood, International &amp; Regional Movies</li>
+                            <li class="rv"><i class="icon-ic_videos"></i>4.5 million Bollywood, International &amp; Regional Songs &amp; Videos</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="rghtClm clearfix1">
+                    <div class="signInCont">
+                        <div class="blocktxt"><span>Log In</span></div>
+                        <div class="brd"></div>
+                       
+                        <div class="sclLgn" style="display:none">
+                            <div id="loginDiv"></div>
+                            <a href="javascript:void(0);" onclick="tracksignin('event', 'Hungama Sign-in', 'Facebook Sign-in');customSocialLogin('facebook');"><img src="https://www.hungama.com/assets/images/login-iconfb.png" alt=""></a>
+                            <a href="javascript:void(0);" onclick="tracksignin('event', 'Hungama Sign-in', 'Google Sign-in' );customSocialLogin('googleplus');"><img src="https://www.hungama.com/assets/images/login-icongplus.png" alt=""></a>
+                            
+                        </div>
+                        <div class="orBox clearfix" style="display:none">
                             <div class="lftBrd"></div>
                             <div class="orTxt">OR</div>
                             <div class="rgtBrd"></div>
@@ -1787,13 +1900,13 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
                             <div class="field clearfix1">
                                 <input type="password" name="user_password" id="user_password" value="" autocomplete="off" class="showme_pass" maxlength="30">
                                 <label for="user_password" class="hasvalue">Password</label>
-                                <i class="icon-ic_view" id="showme"></i>
+                                <i onclick="tracksignin('event', 'Hungama Sign-in', 'Password Show Hide');" class="icon-ic_view" id="showme"></i>
                                 <span class="mandatory" id="login-error-pass" style="display: none"></span>
                             </div>
-                            <a href="javascript:void(0);" onclick="login();" class="btn-main signBtn log-btn">LOG IN</a>
-                            <a href="javascript:void(0);" class="frgPass" onclick="showForgotPassPopup();">Forgot Password?</a>
+                            <a href="javascript:void(0);" onclick="tracksignin('event', 'Hungama Sign-in', 'Email Sign-in');login();" class="btn-main signBtn log-btn">LOG IN</a>
+                            <a href="javascript:void(0);" class="frgPass" onclick="tracksignin('event', 'Hungama Sign-in', 'Forgot Password');showForgotPassPopup();">Forgot Password?</a>
                             <div class="clearfix1"></div>
-                            <div class="newUser">New User? <a href="javascript:void(0);" onclick="showRegisterPopupLarge();">REGISTER</a></div>
+                            <div class="newUser">New User? <a href="javascript:void(0);" onclick="tracksignin('event', 'Hungama Sign-in', 'Register');showRegisterPopupLarge();">REGISTER</a></div>
                         </form>
                     </div>
                 </div>
@@ -1830,18 +1943,11 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
                     <div class="signInCont">
                         <div class="blocktxt"><span>Register</span></div>
                         <div class="brd"></div>
-                        <!--<div class="mobNo"><a href="#" class="btn-mob btn-sub">use my mobile number</a></div>
-                        <div class="passCont"><img src="http://www.hungama.com/assets/images/password-icon-key.png" alt=""><span>Password Free</span>
-                                <img src="http://www.hungama.com/assets/images/password-icon-lock.png" alt=""><span>Secure</span></div>
-                        <div class="orBox clearfix1">
-                                <div class="lftBrd"></div>
-                                <div class="orTxt">OR</div>
-                                <div class="rgtBrd"></div>
-                        </div>-->
+                        
                         <div class="sclLgn">
-                            <a href="javascript:void(0);" onclick="customSocialLogin('facebook');"><img src="http://www.hungama.com/assets/images/login-iconfb.png" alt=""></a>
-                            <a href="javascript:void(0);" onclick="customSocialLogin('googleplus');"><img src="http://www.hungama.com/assets/images/login-icongplus.png" alt=""></a>
-                            <!-- <a href="#"><img src="</?php echo IMAGE_URL; ?>login-iconmi.png" alt=""></a> -->
+                            <a href="javascript:void(0);" onclick="customSocialLogin('facebook');"><img src="https://www.hungama.com/assets/images/login-iconfb.png" alt=""></a>
+                            <a href="javascript:void(0);" onclick="customSocialLogin('googleplus');"><img src="https://www.hungama.com/assets/images/login-icongplus.png" alt=""></a>
+                           
                         </div>
                         <div id="loginDiv"></div>
                         <div class="orBox clearfix">
@@ -1875,7 +1981,7 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
                                 <span class="mandatory" id="reg-error-conf" style="display:none"></span>
                             </div>
                             <a href="javascript:void(0);" onclick="register();" class="btn-main signBtn reg-btn">REGISTER</a>
-                            <div class="newUser">Existing User? <a href="javascript:void(0);" onclick="showLoginPopupLarge();">LOG IN</a></div>
+                            <div class="newUser">Existing User? <a href="javascript:void(0);" onclick="showMobileLoginPopup();">LOG IN</a></div>
                         </form>
                     </div>
                 </div>
@@ -1884,6 +1990,277 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
     </div>
 </div> 
 
+<div id="authPop" class="popSmall" style="display:none">
+    <div class="pop-wrapper">
+        <div class="popup-close"><a href="javascript:void(0);" class="icon-ic_cancel"></a></div>
+        <div class="pop-ttl">Mobile Login</div>
+        <div class="clear"></div>
+        <div class="pop-content" id="authform" style="padding:60px 0px;"> 
+
+            <div>
+                <form id="sign-in-form" onsubmit="return false">
+					<style>
+						#mlCcont{margin-bottom:30px}
+						#mlCcont .selected{width:280px}
+						#mlCcont .options{width:280px;height:200px;overflow-y:auto}
+						@media screen and (max-width: 600px){
+							#mlCcont .options{margin-left:-140px !important;}
+						}
+					</style>
+					<div id="mlCcont" class="drop_style">
+	<div class="selected clearfix1" style=""><span id="ccode_drp">India (+91)</span><i class="icon-ic_dropdown"></i></div>
+    <div class="options" style="display: none;">
+        <ul>
+        <li><a href="javascript:void(0);">UK (+44)</a></li>
+		<li><a href="javascript:void(0);">USA (+1)</a></li>
+		<li><a href="javascript:void(0);">Algeria (+213)</a></li>
+		<li><a href="javascript:void(0);">Andorra (+376)</a></li>
+		<li><a href="javascript:void(0);">Angola (+244)</a></li>
+		<li><a href="javascript:void(0);">Anguilla (+1264)</a></li>
+		<li><a href="javascript:void(0);">Antigua &amp; Barbuda (+1268)</a></li>
+		<li><a href="javascript:void(0);">Argentina (+54)</a></li>
+		<li><a href="javascript:void(0);">Armenia (+374)</a></li>
+		<li><a href="javascript:void(0);">Aruba (+297)</a></li>
+		<li><a href="javascript:void(0);">Australia (+61)</a></li>
+		<li><a href="javascript:void(0);">Austria (+43)</a></li>
+		<li><a href="javascript:void(0);">Azerbaijan (+994)</a></li>
+		<li><a href="javascript:void(0);">Bahamas (+1242)</a></li>
+		<li><a href="javascript:void(0);">Bahrain (+973)</a></li>
+		<li><a href="javascript:void(0);">Bangladesh (+880)</a></li>
+		<li><a href="javascript:void(0);">Barbados (+1246)</a></li>
+		<li><a href="javascript:void(0);">Belarus (+375)</a></li>
+		<li><a href="javascript:void(0);">Belgium (+32)</a></li>
+		<li><a href="javascript:void(0);">Belize (+501)</a></li>
+		<li><a href="javascript:void(0);">Benin (+229)</a></li>
+		<li><a href="javascript:void(0);">Bermuda (+1441)</a></li>
+		<li><a href="javascript:void(0);">Bhutan (+975)</a></li>
+		<li><a href="javascript:void(0);">Bolivia (+591)</a></li>
+		<li><a href="javascript:void(0);">Bosnia Herzegovina (+387)</a></li>
+		<li><a href="javascript:void(0);">Botswana (+267)</a></li>
+		<li><a href="javascript:void(0);">Brazil (+55)</a></li>
+		<li><a href="javascript:void(0);">Brunei (+673)</a></li>
+		<li><a href="javascript:void(0);">Bulgaria (+359)</a></li>
+		<li><a href="javascript:void(0);">Burkina Faso (+226)</a></li>
+		<li><a href="javascript:void(0);">Burundi (+257)</a></li>
+		<li><a href="javascript:void(0);">Cambodia (+855)</a></li>
+		<li><a href="javascript:void(0);">Cameroon (+237)</a></li>
+		<li><a href="javascript:void(0);">Canada (+1)</a></li>
+		<li><a href="javascript:void(0);">Cape Verde Islands (+238)</a></li>
+		<li><a href="javascript:void(0);">Cayman Islands (+1345)</a></li>
+		<li><a href="javascript:void(0);">Central African Republic (+236)</a></li>
+		<li><a href="javascript:void(0);">Chile (+56)</a></li>
+		<li><a href="javascript:void(0);">China (+86)</a></li>
+		<li><a href="javascript:void(0);">Colombia (+57)</a></li>
+		<li><a href="javascript:void(0);">Comoros (+269)</a></li>
+		<li><a href="javascript:void(0);">Congo (+242)</a></li>
+		<li><a href="javascript:void(0);">Cook Islands (+682)</a></li>
+		<li><a href="javascript:void(0);">Costa Rica (+506)</a></li>
+		<li><a href="javascript:void(0);">Croatia (+385)</a></li>
+		<li><a href="javascript:void(0);">Cuba (+53)</a></li>
+		<li><a href="javascript:void(0);">Cyprus North (+90392)</a></li>
+		<li><a href="javascript:void(0);">Cyprus South (+357)</a></li>
+		<li><a href="javascript:void(0);">Czech Republic (+42)</a></li>
+		<li><a href="javascript:void(0);">Denmark (+45)</a></li>
+		<li><a href="javascript:void(0);">Djibouti (+253)</a></li>
+		<li><a href="javascript:void(0);">Dominica (+1809)</a></li>
+		<li><a href="javascript:void(0);">Dominican Republic (+1809)</a></li>
+		<li><a href="javascript:void(0);">Ecuador (+593)</a></li>
+		<li><a href="javascript:void(0);">Egypt (+20)</a></li>
+		<li><a href="javascript:void(0);">El Salvador (+503)</a></li>
+		<li><a href="javascript:void(0);">Equatorial Guinea (+240)</a></li>
+		<li><a href="javascript:void(0);">Eritrea (+291)</a></li>
+		<li><a href="javascript:void(0);">Estonia (+372)</a></li>
+		<li><a href="javascript:void(0);">Ethiopia (+251)</a></li>
+		<li><a href="javascript:void(0);">Falkland Islands (+500)</a></li>
+		<li><a href="javascript:void(0);">Faroe Islands (+298)</a></li>
+		<li><a href="javascript:void(0);">Fiji (+679)</a></li>
+		<li><a href="javascript:void(0);">Finland (+358)</a></li>
+		<li><a href="javascript:void(0);">France (+33)</a></li>
+		<li><a href="javascript:void(0);">French Guiana (+594)</a></li>
+		<li><a href="javascript:void(0);">French Polynesia (+689)</a></li>
+		<li><a href="javascript:void(0);">Gabon (+241)</a></li>
+		<li><a href="javascript:void(0);">Gambia (+220)</a></li>
+		<li><a href="javascript:void(0);">Georgia (+7880)</a></li>
+		<li><a href="javascript:void(0);">Germany (+49)</a></li>
+		<li><a href="javascript:void(0);">Ghana (+233)</a></li>
+		<li><a href="javascript:void(0);">Gibraltar (+350)</a></li>
+		<li><a href="javascript:void(0);">Greece (+30)</a></li>
+		<li><a href="javascript:void(0);">Greenland (+299)</a></li>
+		<li><a href="javascript:void(0);">Grenada (+1473)</a></li>
+		<li><a href="javascript:void(0);">Guadeloupe (+590)</a></li>
+		<li><a href="javascript:void(0);">Guam (+671)</a></li>
+		<li><a href="javascript:void(0);">Guatemala (+502)</a></li>
+		<li><a href="javascript:void(0);">Guinea (+224)</a></li>
+		<li><a href="javascript:void(0);">Guinea - Bissau (+245)</a></li>
+		<li><a href="javascript:void(0);">Guyana (+592)</a></li>
+		<li><a href="javascript:void(0);">Haiti (+509)</a></li>
+		<li><a href="javascript:void(0);">Honduras (+504)</a></li>
+		<li><a href="javascript:void(0);">Hong Kong (+852)</a></li>
+		<li><a href="javascript:void(0);">Hungary (+36)</a></li>
+		<li><a href="javascript:void(0);">Iceland (+354)</a></li>
+		<li><a href="javascript:void(0);">India (+91)</a></li>
+		<li><a href="javascript:void(0);">Indonesia (+62)</a></li>
+		<li><a href="javascript:void(0);">Iran (+98)</a></li>
+		<li><a href="javascript:void(0);">Iraq (+964)</a></li>
+		<li><a href="javascript:void(0);">Ireland (+353)</a></li>
+		<li><a href="javascript:void(0);">Israel (+972)</a></li>
+		<li><a href="javascript:void(0);">Italy (+39)</a></li>
+		<li><a href="javascript:void(0);">Jamaica (+1876)</a></li>
+		<li><a href="javascript:void(0);">Japan (+81)</a></li>
+		<li><a href="javascript:void(0);">Jordan (+962)</a></li>
+		<li><a href="javascript:void(0);">Kazakhstan (+7)</a></li>
+		<li><a href="javascript:void(0);">Kenya (+254)</a></li>
+		<li><a href="javascript:void(0);">Kiribati (+686)</a></li>
+		<li><a href="javascript:void(0);">Korea North (+850)</a></li>
+		<li><a href="javascript:void(0);">Korea South (+82)</a></li>
+		<li><a href="javascript:void(0);">Kuwait (+965)</a></li>
+		<li><a href="javascript:void(0);">Kyrgyzstan (+996)</a></li>
+		<li><a href="javascript:void(0);">Laos (+856)</a></li>
+		<li><a href="javascript:void(0);">Latvia (+371)</a></li>
+		<li><a href="javascript:void(0);">Lebanon (+961)</a></li>
+		<li><a href="javascript:void(0);">Lesotho (+266)</a></li>
+		<li><a href="javascript:void(0);">Liberia (+231)</a></li>
+		<li><a href="javascript:void(0);">Libya (+218)</a></li>
+		<li><a href="javascript:void(0);">Liechtenstein (+417)</a></li>
+		<li><a href="javascript:void(0);">Lithuania (+370)</a></li>
+		<li><a href="javascript:void(0);">Luxembourg (+352)</a></li>
+		<li><a href="javascript:void(0);">Macao (+853)</a></li>
+		<li><a href="javascript:void(0);">Macedonia (+389)</a></li>
+		<li><a href="javascript:void(0);">Madagascar (+261)</a></li>
+		<li><a href="javascript:void(0);">Malawi (+265)</a></li>
+		<li><a href="javascript:void(0);">Malaysia (+60)</a></li>
+		<li><a href="javascript:void(0);">Maldives (+960)</a></li>
+		<li><a href="javascript:void(0);">Mali (+223)</a></li>
+		<li><a href="javascript:void(0);">Malta (+356)</a></li>
+		<li><a href="javascript:void(0);">Marshall Islands (+692)</a></li>
+		<li><a href="javascript:void(0);">Martinique (+596)</a></li>
+		<li><a href="javascript:void(0);">Mauritania (+222)</a></li>
+		<li><a href="javascript:void(0);">Mayotte (+269)</a></li>
+		<li><a href="javascript:void(0);">Mexico (+52)</a></li>
+		<li><a href="javascript:void(0);">Micronesia (+691)</a></li>
+		<li><a href="javascript:void(0);">Moldova (+373)</a></li>
+		<li><a href="javascript:void(0);">Monaco (+377)</a></li>
+		<li><a href="javascript:void(0);">Mongolia (+976)</a></li>
+		<li><a href="javascript:void(0);">Montserrat (+1664)</a></li>
+		<li><a href="javascript:void(0);">Morocco (+212)</a></li>
+		<li><a href="javascript:void(0);">Mozambique (+258)</a></li>
+		<li><a href="javascript:void(0);">Myanmar (+95)</a></li>
+		<li><a href="javascript:void(0);">Namibia (+264)</a></li>
+		<li><a href="javascript:void(0);">Nauru (+674)</a></li>
+		<li><a href="javascript:void(0);">Nepal (+977)</a></li>
+		<li><a href="javascript:void(0);">Netherlands (+31)</a></li>
+		<li><a href="javascript:void(0);">New Caledonia (+687)</a></li>
+		<li><a href="javascript:void(0);">New Zealand (+64)</a></li>
+		<li><a href="javascript:void(0);">Nicaragua (+505)</a></li>
+		<li><a href="javascript:void(0);">Niger (+227)</a></li>
+		<li><a href="javascript:void(0);">Nigeria (+234)</a></li>
+		<li><a href="javascript:void(0);">Niue (+683)</a></li>
+		<li><a href="javascript:void(0);">Norfolk Islands (+672)</a></li>
+		<li><a href="javascript:void(0);">Northern Marianas (+670)</a></li>
+		<li><a href="javascript:void(0);">Norway (+47)</a></li>
+		<li><a href="javascript:void(0);">Oman (+968)</a></li>
+		<li><a href="javascript:void(0);">Palau (+680)</a></li>
+		<li><a href="javascript:void(0);">Panama (+507)</a></li>
+		<li><a href="javascript:void(0);">Papua New Guinea (+675)</a></li>
+		<li><a href="javascript:void(0);">Paraguay (+595)</a></li>
+		<li><a href="javascript:void(0);">Peru (+51)</a></li>
+		<li><a href="javascript:void(0);">Philippines (+63)</a></li>
+		<li><a href="javascript:void(0);">Poland (+48)</a></li>
+		<li><a href="javascript:void(0);">Portugal (+351)</a></li>
+		<li><a href="javascript:void(0);">Puerto Rico (+1787)</a></li>
+		<li><a href="javascript:void(0);">Qatar (+974)</a></li>
+		<li><a href="javascript:void(0);">Reunion (+262)</a></li>
+		<li><a href="javascript:void(0);">Romania (+40)</a></li>
+		<li><a href="javascript:void(0);">Russia (+7)</a></li>
+		<li><a href="javascript:void(0);">Rwanda (+250)</a></li>
+		<li><a href="javascript:void(0);">San Marino (+378)</a></li>
+		<li><a href="javascript:void(0);">Sao Tome &amp; Principe (+239)</a></li>
+		<li><a href="javascript:void(0);">Saudi Arabia (+966)</a></li>
+		<li><a href="javascript:void(0);">Senegal (+221)</a></li>
+		<li><a href="javascript:void(0);">Serbia (+381)</a></li>
+		<li><a href="javascript:void(0);">Seychelles (+248)</a></li>
+		<li><a href="javascript:void(0);">Sierra Leone (+232)</a></li>
+		<li><a href="javascript:void(0);">Singapore (+65)</a></li>
+		<li><a href="javascript:void(0);">Slovak Republic (+421)</a></li>
+		<li><a href="javascript:void(0);">Slovenia (+386)</a></li>
+		<li><a href="javascript:void(0);">Solomon Islands (+677)</a></li>
+		<li><a href="javascript:void(0);">Somalia (+252)</a></li>
+		<li><a href="javascript:void(0);">South Africa (+27)</a></li>
+		<li><a href="javascript:void(0);">Spain (+34)</a></li>
+		<li><a href="javascript:void(0);">Sri Lanka (+94)</a></li>
+		<li><a href="javascript:void(0);">St. Helena (+290)</a></li>
+		<li><a href="javascript:void(0);">St. Kitts (+1869)</a></li>
+		<li><a href="javascript:void(0);">St. Lucia (+1758)</a></li>
+		<li><a href="javascript:void(0);">Sudan (+249)</a></li>
+		<li><a href="javascript:void(0);">Suriname (+597)</a></li>
+		<li><a href="javascript:void(0);">Swaziland (+268)</a></li>
+		<li><a href="javascript:void(0);">Sweden (+46)</a></li>
+		<li><a href="javascript:void(0);">Switzerland (+41)</a></li>
+		<li><a href="javascript:void(0);">Syria (+963)</a></li>
+		<li><a href="javascript:void(0);">Taiwan (+886)</a></li>
+		<li><a href="javascript:void(0);">Tajikstan (+7)</a></li>
+		<li><a href="javascript:void(0);">Thailand (+66)</a></li>
+		<li><a href="javascript:void(0);">Togo (+228)</a></li>
+		<li><a href="javascript:void(0);">Tonga (+676)</a></li>
+		<li><a href="javascript:void(0);">Trinidad &amp; Tobago (+1868)</a></li>
+		<li><a href="javascript:void(0);">Tunisia (+216)</a></li>
+		<li><a href="javascript:void(0);">Turkey (+90)</a></li>
+		<li><a href="javascript:void(0);">Turkmenistan (+7)</a></li>
+		<li><a href="javascript:void(0);">Turkmenistan (+993)</a></li>
+		<li><a href="javascript:void(0);">Turks &amp; Caicos Islands (+1649)</a></li>
+		<li><a href="javascript:void(0);">Tuvalu (+688)</a></li>
+		<li><a href="javascript:void(0);">Uganda (+256)</a></li>
+		<li><a href="javascript:void(0);">Ukraine (+380)</a></li>
+		<li><a href="javascript:void(0);">United Arab Emirates (+971)</a></li>
+		<li><a href="javascript:void(0);">Uruguay (+598)</a></li>
+		<li><a href="javascript:void(0);">Uzbekistan (+7)</a></li>
+		<li><a href="javascript:void(0);">Vanuatu (+678)</a></li>
+		<li><a href="javascript:void(0);">Vatican City (+379)</a></li>
+		<li><a href="javascript:void(0);">Venezuela (+58)</a></li>
+		<li><a href="javascript:void(0);">Vietnam (+84)</a></li>
+		<li><a href="javascript:void(0);">Virgin Islands - British (+1284)</a></li>
+		<li><a href="javascript:void(0);">Virgin Islands - US (+1340)</a></li>
+		<li><a href="javascript:void(0);">Wallis &amp; Futuna (+681)</a></li>
+		<li><a href="javascript:void(0);">Yemen (North)(+969)</a></li>
+		<li><a href="javascript:void(0);">Yemen (South)(+967)</a></li>
+		<li><a href="javascript:void(0);">Zambia (+260)</a></li>
+		<li><a href="javascript:void(0);">Zimbabwe (+263)</a></li>
+    </ul>
+    </div>
+</div>
+                    <!-- Input to enter the phone number -->
+                    <div style="position:relative;padding-bottom:10px;">
+                        <input type="text" pattern="\+[0-9\s\-\(\)]+" id="phone-num" onkeydown="return (event.keyCode!=13);">
+                        <label for="phone-num">Enter your phone number...</label>
+                        <span class="error" style="padding-top:10px;display:none;">Input is not an international phone number!</span>
+                    </div>
+
+                    <!-- Container to display the re-captcha check -->
+                    <div id="recaptcha-container" style="height:100px;"></div>
+
+                    <!-- Button that handles sign-in -->
+                    <a href="javascript:void(0);" class="btn-main signBtn sign-in-btn" id="sign-in-button" style="margin-top:10px;">Sign-in</a>
+                </form>
+
+                <!-- Button that handles sign-out -->
+                <!--<a href="javascript:void(0);" class="btn-main signBtn sign-out-btn" id="sign-out-button">Sign-out</a>-->
+
+                <form id="verification-code-form" onsubmit="return false">
+                    <!-- Input to enter the verification code -->
+                    <div style="position:relative;padding-bottom:10px;">
+                        <input type="text" id="verification-code">
+                        <label for="verification-code">Enter the verification code...</label>
+						<span class="error" style="padding-top:10px;display:none;">Invalid verification code</span>
+                    </div>
+
+                    <!-- Button that triggers code verification -->
+                    <a href="javascript:void(0);" class="btn-main signBtn verify-code-btn" id="verify-code-button">Verify Code</a>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
 <script type="text/javascript">
     function trending_search(){
         console.log('trending search called..');
@@ -1941,7 +2318,8 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
             if(popular_response['data'].length > 1){
                 trending_html += '<h3>Popular</h3>';
                 popular_response['data'].forEach(function (object) {
-                    trending_html += '<a href="javascript:void(0)" onclick="recentSearch(\'' +object.keyword+ '\',\'all\',\'\',\'tab1\')">' + object.keyword + '</a>';
+					var ha_track_func = "HA_tracking({'keyword':'" + object.keyword + "', 'section':'PopularSearch'}, 'SEARCH_CLICK');";
+                    trending_html += '<a href="javascript:void(0)" onclick="recentSearch(\'' +object.keyword+ '\',\'all\',\'\',\'tab1\');'+ha_track_func+'">' + object.keyword + '</a>';
                 });
             }
         }
@@ -2008,15 +2386,26 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
             register();
             return false;
         }
+		if ($('#sign-in-form').css('display') == 'block' && e.keyCode == '13' && ($('#sign-in-button').hasClass('btn-main'))) {
+			 onSignInSubmit();
+		}
+		
+		if ($('#verification-code-form').css('display') == 'block' && e.keyCode == '13' && ($('#verify-code-button').hasClass('btn-main'))) {
+			 onVerifyCodeSubmit();
+		}
     }
+function tracksignin(category, action, label) {
+	var page = $('#page').val();
+	googleAnalyticsCustomTracker(category, action, label, page);
+}
 </script>
 <script type="text/javascript">
             (function() {
             _hn = "hungama_web";
                     window._jsondata = {};
                     var hgma = document.createElement('script'); hgma.type = 'text/javascript'; hgma.async = true;
-                   /* hgma.src = 'http://carousel.play.static.hungama.com/java_script/ha.js';*/
-                    /*hgma.src = 'http://stat1.hungama.ind.in/assets/js/ha.js';*/
+                   /* hgma.src = 'https://carousel.play.static.hungama.com/java_script/ha.js';*/
+                    /*hgma.src = 'https://stat1.hungama.ind.in/assets/js/ha.js';*/
                     hgma.src = 'https://stat1.hungama.ind.in/assets/js/ha.js';
                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(hgma, s);
             })();</script>
@@ -2032,9 +2421,10 @@ You need to be a registered user to enjoy the benefits of Rewards Program.</p>
     }
 </script>
 
-<script type="text/javascript" src="http://1115282512.rsc.cdn77.org/plinks/jssdk/CMSDK-spa-latest.min.js?v=1.1"></script>
-<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/catch_media.js?v=0.010"></script>
-<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/common_tracking.js?v=080220181538"></script>
+<script type="text/javascript" src="https://1115282512.rsc.cdn77.org/plinks/jssdk/CMSDK-spa-latest.min.js?v=1.1"></script>
+<script type="text/javascript" src="https://stat1.hungama.ind.in/assets/js/catch_media.js?v=090420191634"></script>
+<script type="text/javascript" src="https://stat3.hungama.ind.in/assets/js/common_tracking.js?v=150420191903"></script>
+<script src="https://sdk.accountkit.com/en_US/sdk.js"></script>
 
 
 <script>
@@ -2055,7 +2445,7 @@ $(document).ready(function() {
 		tag.src=gigyaJS;
 		tag.onload = function(){
 			console.log('gigya is ready');
-			var commomGigyaJS = 'https://stat3.hungama.ind.in/assets/js/common_gigya.js?v=0.19';
+			var commomGigyaJS = 'https://stat2.hungama.ind.in/assets/js/common_gigya.js?v=0.16';
 			if($('script[src="'+commomGigyaJS+'"]').length == 0){
 				loadTag.script(commomGigyaJS);
 			}
@@ -2067,6 +2457,17 @@ $(document).ready(function() {
 	cm_Init();
 	ga_pathname = $(location).attr('pathname');
 	commonTracker(ga_pathname, 'ga_track_page', '');
+	
+	// initialize Account Kit with CSRF protection
+		  AccountKit_OnInteractive = function(){
+			  AccountKit.init({
+				appId:"103931556876", 
+				state:randomString(16), 
+				version:"v1.1",
+				fbAppEventsEnabled:true,
+				//redirect:"{{REDIRECT_URL}}"
+			  });
+		  };
 });
 </script>
 
@@ -2084,6 +2485,6 @@ $(document).ready(function() {
 
 	<div id="vdo-player"></div>
 	<!-- store name == US  -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8fec755742","applicationID":"114391606","transactionName":"Y1UDZxEDDUMCVE0KV1ofIFAXCwxeTH9NDlRHHxFBChQCUxo=","queueTime":0,"applicationTime":57,"atts":"TxIAEVkZHk0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-</body></html>
+
+</appinfo></body></html>
