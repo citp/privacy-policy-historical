@@ -1,61 +1,49 @@
-> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916175238id_/http%3A//www.momswhothink.com/moms-who-think/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416230645id_/https%3A//www.momswhothink.com/privacy-policy) for the most accurate reproduction.*
 
-# Moms Who Think - Privacy Policy
+# Privacy Policy
 
-This privacy policy sets out how MomsWhoThink.com LLC uses and protects any information that you give while using www.momswhothink.com
+Cedar, LLC Privacy Policy
 
-Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.momswhothink.com/ (the “Site”).
 
-MomsWhoThink.com LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from today's date.
+PERSONAL INFORMATION WE COLLECT
 
- **What we collect**
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-We may collect the following information:
+We collect Device Information using the following technologies:
 
-• contact information including email address  
-• demographic information such as postcode, preferences and interests  
-• other information relevant to customer surveys and/or offers
+– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.  
+– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+– “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
- **What we do with the information we gather**
+SHARING YOUR PERSONAL INFORMATION
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We share your Personal Information with third parties to help us use your Personal Information, as described above. We use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-• We may use the information to improve our products and services.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-• We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided, only if you have provided us with your email. 
+[[INCLUDE IF USING REMARKETING OR TARGETED ADVERTISING]] BEHAVIOURAL ADVERTISING  
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-**Security**
+You can opt out of targeted advertising by:  
+FACEBOOK – https://www.facebook.com/settings/?tab=ads  
+GOOGLE – https://www.google.com/settings/ads/anonymous  
+BING – https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-**How we use cookies**
+Display Ads  
+The Website uses Mediavine to manage all third-party advertising on the Website. Mediavine serves content and advertisements when you visit the Website, which may use cookies. Mediavine may collect IP addresses and location to serve personalized ads.  If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+DO NOT TRACK  
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+CHANGES  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+CONTACT US  
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at policy@momswhothink.com or by mail using the details provided below:
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+13858 W Cedar Ave, Golden, CO, 80401, United States
 
- **Advertising**
-
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website.These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
-
- **Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
- **Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-
-• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us. 
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
- **Opt Out**
-
-For information about opting out of cookies and ad serving partners please visit [**Opt Out**](http://optout.networkadvertising.org/)
+[](https://www.pinterest.com/pin/create/button/)
