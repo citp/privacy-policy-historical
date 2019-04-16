@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplespharmacy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202735id_/https%3A//www.peoplespharmacy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplespharmacy.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416205806id_/https%3A//www.peoplespharmacy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The People's Pharmacy
 
