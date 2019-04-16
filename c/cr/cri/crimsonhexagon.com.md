@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916121531id_/https%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416164139id_/https%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,9 +43,8 @@ This Policy (and where it relates to our Services; together with our [Terms and 
 
 This Privacy Policy does not apply, however, to Crimson Hexagon employees, employment applicants, suppliers, or distributors except where they are acting in a ”user” capacity.
 
-**Important Note for European Users**
-
- ****Information submitted by you will be stored, processed, and used by us and our third party service providers who help us to deliver our services and operate our business.
+**Important Note for European Users  
+**Information submitted by you will be stored, processed, and used by us and our third party service providers who help us to deliver our services and operate our business.
 
 Please note that information covered by this Privacy Policy will be hosted and stored in the United States. The United States has data protection laws that may not be consistent with those of other countries, including those in the European Union (EU).  We will take all reasonable steps to ensure that your privacy rights are protected in accordance with this Privacy Policy.
 
