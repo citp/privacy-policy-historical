@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bissell.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212170953id_/https%3A//www.bissell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bissell.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416230312id_/https%3A//www.bissell.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BISSELL®
+# Privacy Policy | BISSELL® Policies and Information
 
 _Effective August 20, 2018_
 
