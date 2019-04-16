@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inman.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230141521id_/https%3A//www.inman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inman.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416113258id_/https%3A//www.inman.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@
 
 **Inman Privacy Policy**
 
-Dec 30, 2018
+Apr 16, 2019
 
 Inman Group, LLC (“Inman”) understands that you care about how we collect, use, and share information when you interact with our websites, email, and online services (our “Services”), and we value the trust you place in us. This Privacy Policy (the “Privacy Policy” or the “Policy”) explains:
 
