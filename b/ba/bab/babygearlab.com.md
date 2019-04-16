@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the babygearlab.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314222333id_/https%3A//www.babygearlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babygearlab.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416101853id_/https%3A//www.babygearlab.com/privacy) for the most accurate reproduction.*
 
 # BabyGearLab Privacy Policy
 
-_Last updated: January 21, 2013_
+_Last updated: May 23, 2018_
 
-We recognize that your privacy is very important and take it seriously. This Privacy Policy describes BabyGearLab's policies and procedures on the collection, use and disclosure of your information when you use the BabyGearLab Service, via the BabyGearLab website, your mobile phone, or through one of BabyGearLab's applications. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms).
+We recognize that your privacy is very important and take it seriously. This Privacy Policy describes BabyGearLab's policies and procedures on the collection, use and disclosure of your information when you use the BabyGearLab Service, via the BabyGearLab website, your mobile phone, or through one of BabyGearLab's applications. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://www.babygearlab.com/terms).
 
 ### Information Collection and Use
 
@@ -18,7 +18,7 @@ You also provide us information in User Content you post to the Service. Your qu
 
 If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. You may also use our contact importer tool to help you upload your friends' email addresses so you can find friends who are already on BabyGearLab or invite friends to the Service. BabyGearLab stores this information to send invitations, to register your friend if your invitation is accepted, to track the success of our invitation service, and to identify your friends on BabyGearLab.
 
-**Information Collected Automatically** : When you use the Service, we use persistent and session cookies and other tracking technologies to: (a) store your username and password; (b) analyze the usage of the Service; (c) customize the Service to your preferences; and (d) control the advertising displayed by the Service. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+**Information Collected Automatically** : When you use the Service, we use persistent and session cookies and other tracking technologies to: (a) store your username and password; (b) analyze the usage of the Service; (c) customize the Service to your preferences; and (d) control the advertising displayed by the Service. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. You can find more information about our use of Cookies [here](https://web.archive.org/cookies). 
 
 We may also use other Internet technologies, log files, clear GIFs, Flash technologies, and other similar technologies, to deliver or communicate with cookies and track your use of the Service. We also may include clear GIFs in HTML-based emails sent to our users to determine whether the message has been opened. As we adopt additional technology, we may also gather additional information through other methods.
 
@@ -68,5 +68,6 @@ If you have any questions about our practices or this privacy policy, please con
 
 BabyGearLab, LLC  
 Attn: Privacy  
-1712 Pioneer Ave, Suite 1055  
-Cheyenne, WY 82001 
+1712 Pioneer Ave, Suite 1055
+
+Cheyenne, WY 82001
