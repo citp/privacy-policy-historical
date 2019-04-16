@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extralinks.club privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215105300id_/http%3A//extralinks.club/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extralinks.club privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416162021id_/http%3A//extralinks.club/page/privacy) for the most accurate reproduction.*
 
 # Privacy - ExtraLinks
 
