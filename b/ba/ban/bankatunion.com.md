@@ -1,36 +1,45 @@
-> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610111905id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416074022id_/https%3A//www.bankatunion.com/About/Helpful-Links/Privacy-Policy) for the most accurate reproduction.*
 
-# Union Bank & Trust - Support - Disclosures & Terms of Use - Privacy Policy
+# Privacy Policy | Personal Information | Atlantic Union Bank
 
-Union respects the private nature of the personal financial information we collect.  Union takes appropriate precautions to restrict access to this nonpublic personal information about you to only those employees who need to know that information in order to provide products or services to you.
+## Protecting your personal and financial information is a priority at Atlantic Union Bank.
 
-We collect nonpublic personal information about you from the following sources:
+Please take time to read our Privacy Policy to understand how we collect and utilize your personal information.
 
-  * Information we receive from you on applications for loans or other forms;
-  * Information about your transactions with us, our affiliates, or others; and
-  * Information we receive from a consumer reporting agency (credit bureau).
+* * *
+
+Atlantic Union Bank respects the private nature of the personal financial information we collect. To provide the right products or services to you, we take appropriate precautions to restrict access to your personal information to only those teammates who need to know that information.
+
+Atlantic Union Bank collects personal information when you:
+
+  * Open an account or deposit money
+  * Apply for a loan
+  * Pay your bills
+  * Use your debit card
 
 
 
-Union is committed to using information in a responsible manner.  We maintain physical, electronic, and procedural safeguards in compliance with federal regulations to guard your nonpublic personal information.
+Atlantic Union Bank is committed to using your information in a responsible manner. We maintain physical, electronic, and procedural safeguards in compliance with federal regulations to protect your personal information.
 
 As a reminder:
 
   * We do not sell, rent or trade your information to other businesses.
-  * We safeguard your information carefully and provide you with options on how it may be used.
+  * We safeguard your information.
   * We are committed to helping you protect your privacy.
 
 
 
-Read the [Union Privacy Policy](https://web.archive.org/home/fiFiles/static/documents/Privacy_Notice.pdf).
-
-Read the [Union Mortgage Group, Inc. Privacy Policy](https://web.archive.org/home/fiFiles/static/documents/Privacy_Notice_\(UMG\).pdf). 
+Read the [Atlantic Union Bank Privacy Notice](https://web.archive.org/atlanticunionbank/media/documents/privacy_notice.pdf). _(Note: Adobe Reader is required to view the privacy policy documentation.)_
 
 How you can limit information sharing:
 
-  * Call Union's [Customer Contact Center](https://web.archive.org/home/support/customers/contact)
-  * Fill out Union's [Privacy Option Form](https://web.archive.org/home/support/disclosures/privacy/form)
+  * Call Atlantic Union Bank [Customer Care](https://web.archive.org/about/contact-us)
+  * Fill out Atlantic Union Bank's Information Sharing Opt-Out Request Form below
 
 
 
-It is important to note that information about specific transactions and experience with a customer will still be shared with affiliated third parties and others as permitted by the Fair Credit Reporting Act.
+Atlantic Union Bank will share information with our affiliates, which are other companies that we have common ownership or control. It's important to note that information about specific transactions and experience may be shared with others as permitted by the Fair Credit Reporting Act.
+
+Take steps to protect your personal information by accessing our [Security & Fraud Center](https://web.archive.org/about/helpful-links/security-fraud-center).
+
+### Information Sharing Opt-Out Request Form
