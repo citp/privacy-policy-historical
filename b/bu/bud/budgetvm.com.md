@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetvm.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312211024id_/https%3A//www.budgetvm.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetvm.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416225055id_/https%3A//www.budgetvm.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
