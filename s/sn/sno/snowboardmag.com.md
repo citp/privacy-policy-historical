@@ -1,74 +1,271 @@
-> *The following text is extracted and transformed from the snowboardmag.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114458id_/http%3A//snowboardmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowboardmag.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416160133id_/https%3A//snowboardmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Snowboard Magazine
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of snowboardmag.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this “Statement”) discloses the privacy practices for snowboardmag.com (the “Website”) – what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to jon@snowboard-mag.com.
+_Effective date: June 04, 2018_
 
-### General Privacy Information
+Storm Mountain Publishing Company, Inc. (“us”, “we”, or “our”) operates the Snowboardmag.com website and the Snowboard Magazine Website mobile application (the “Service”).
 
-Snowboardmag.com’s network of sites contain links to partners, advertisers and third party Internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of snowboardmag.com and Snowboardmag.com has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such Web sites. Please keep in mind that whenever you voluntarily and publicly disclose personal information on any online service or Web site – for example on message boards, through email, or in chat areas – that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Further, while we strive to protect your personal information, Snowboardmag.com cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-### Use of Information
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-All of the information Snowboardmag.com collects, both what you tell us and what we collect through the use of cookies, is “aggregated” — meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. We may use this aggregated information to evaluate which products and services are successful and which ones are not, and in order to evaluate which new services we should make available on our Web site. We may use only the anonymous click stream data to help our advertisers deliver better-targeted advertisements. Snowboardmag.com will not disclose any information about any individual without the individual’s consent, except to comply with applicable law or valid legal process. There may be cases in which some of your personal information may be used by Snowboardmag.com to target e-commerce promotions and telemarketing activities. In addition, it may be shared with Third Parties who assist Snowboardmag.com in producing its Web sites or provide a service to Snowboardmag.com’s users.
+## Definitions
 
-### Contacting the Web Site
-
-If you have any questions about this Statement, the practices of Snowboardmag.com with respect to personal information or your dealings with this Web site, you can contact the Site Administrator or write to:
-
-**Customer Service**  
-Snowboardmag.com  
-_Attn.: Privacy Statement_  
-P.O. Box 789  
-Niwot, CO 80544  
-Fax 303.834.9781
-
-### Registration
-
-Anyone who participates in interactive activities (contests, store and online subscriptions) on Snowboardmag.com may be asked to register for a free guest ID and password or to complete subscription registration for a member ID and password. We use customer contact information from this registration form to send the user information about our company and promotional material from some of our partners. Financial information that is collected is used to bill the user for products and services. The customer’s contact information is also used to contact the visitor when necessary for customer service reasons. Users may opt out of receiving future mailings by contacting the Site Administrator. Unique identifiers, such as ID and passwords, are collected to verify the user’s identity and for use as account numbers in our record system.
-
-### Cookies
-
-A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you’ve visited. But the only personal information a cookie can contain is information you supply yourself. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. A cookie can’t read data off your hard disk or read cookie files created by other sites. This random number lets us keep track of “how many” times customers are doing specific things – like visiting our site each month – without really knowing who those customers are. We also use cookies to keep track of your shopping cart and to make sure you don’t see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your member ID. Additionally, after you’ve entered your member ID and password during a session on our service, we save that information so you don’t have to reenter it repeatedly during that session.
-
-Users should be aware that Snowboardmag.com cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for Snowboardmag.com. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available on snowboardmag.com.
-
-### Order Forms
-
-Snowboardmag.com uses an order form for customers to purchase products and services. If you place an order on Snowboardmag.com we will collect information from you, including your credit card and contact information. This information will be used by Snowboardmag.com to bill the user for products and services. Contact information from the order form will also be used to ship orders, to contact a user for customer service related issues, and to send the user information about our company, and on occasion, promotional material from some of our partners. Users may opt out of receiving future mailings by contacting the Site Administrator.
-
-### Surveys
-
-Our online surveys ask visitors for their email address and demographic information. Demographic and profile data is also collected at our site. We use this data to tailor our visitor’s experience at our site, showing them content and promotional offers that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers only on an aggregate basis. We may use contact data from our surveys to send the user information about our company and promotional material from Snowboardmag.com or some of our partners. Users may opt out of receiving future mailings by contacting the Site Administrator.
-
-### Contests
-
-We run contests on our site in which we ask visitors for Snowboardmag.com ID and password. We use contact data from our contests to send users information about upcoming contests and promotional offers. On occasion we will email customers promotional material from some of our partners. The customer’s contact information is also used to contact the visitor when necessary for winner notification and prize delivery confirmation. The majority of the contests that we offer are hosted on the Freeskier site; however, there may be cases in which a third party sponsor will host the contest and collect user information. In those cases, we urge users to review the privacy statement of the third party site. Users may opt out of receiving future mailings by contacting the Site Administrator.
-
-### Newsletter
-
-We offer a number of free newsletters to share content information about our site with interested users. Users may cancel their free email subscriptions by following the simple instructions at the bottom of each newsletter or email.
-
-### Security
-
-Snowboardmag.com utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in Snowboardmag.com’s secure database, which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in Snowboardmag.com’s databases as stated above.
-
-If you choose to modify your personal information, you may do so by visiting the Customer Service page. Users will be required to submit a valid user ID and password for authentication before you will be able to modify your file. If you have forgotten your password or prefer to speak with a customer service representative to modify your personal information, you may contact customer service at (303) 449-2165. You will be asked to provide your name or user ID and then to verify certain non-sensitive information (i.e. mother’s maiden name) in order to proceed. Because password and credit card information has been encrypted, it is completely invisible to any employee who accesses it, including our customer service team. If you desire to change your password, the customer service representative will reset to a new one after you have properly identified yourself.
-
-Snowboardmag.com’s technology department conducts frequent site security.
-
-### Personal Options
-
-You have the following options to deactivate your information from Snowboardmag.com’s database. This will cease deployment of future communications and/or Snowboardmag.com’s services.
-
-  1. You can send an email to the Site Administrator.
-  2. You can contact customer service at 303.834.9775.
-  3. You can change your personal options.
+  * **Service**  
+Service means the Snowboardmag.com website and the Snowboard Magazine Website mobile application operated by Storm Mountain Publishing Company, Inc.
+  * **Personal Data**  
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+  * **Usage Data**  
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+  * **Cookies**  
+Cookies are small pieces of data stored on your device (computer or mobile device).
+  * **Data Controller**  
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+  * **Data Processors (or Service Providers)**  
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.
+  * **Data Subject (or User)**  
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
 
 
 
-WARNING: Deactivating your account will result in the loss of access to Members-Only areas.
+## Information Collection and Use
 
-### Change/Modify
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-You also have the option of changing and modifying information previously provided. You can edit your Snowboardmag.com registered user information at anytime by visiting the Customer Service page.
+### Types of Data Collected
+
+**Personal Data**
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to: 
+
+  * Email address
+  * First name and last name
+  * Phone number
+  * Address, State, Province, ZIP/Postal code, City
+
+
+
+**Cookies and Usage Data**
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+**Usage Data**
+
+We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device (“Usage Data”).
+
+This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
+
+**Location Data**
+
+We may use and store information about your location if you give us permission to do so (“Location Data”). We use this data to provide features of our Service, to improve and customize our Service. You can enable or disable location services when you use our Service at any time, through your device settings.
+
+**Tracking & Cookies Data**
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * Session Cookies. We use Session Cookies to operate our Service.
+  * Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+  * Security Cookies. We use Security Cookies for security purposes.
+  * Advertising Cookies. Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+## Use of Data
+
+Storm Mountain Publishing Company, Inc. uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Storm Mountain Publishing Company, Inc. legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Storm Mountain Publishing Company, Inc. may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## Retention of Data
+
+Storm Mountain Publishing Company, Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies. 
+
+Storm Mountain Publishing Company, Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there. 
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Storm Mountain Publishing Company, Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your
+
+Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure of Data
+
+**Business Transaction**
+
+If Storm Mountain Publishing Company, Inc. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+**Disclosure for Law Enforcement**
+
+Under certain circumstances, Storm Mountain Publishing Company, Inc. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+**Legal Requirements**
+
+Storm Mountain Publishing Company, Inc. may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Storm Mountain Publishing Company, Inc.
+  * To prevent or investigate possible wrongdoing in connection with the Service 
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## “Do Not Track” Signals
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Storm Mountain Publishing Company, Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * The right to access, update or to delete the information we have on you. Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * The right to object. You have the right to object to our processing of your Personal Data.
+  * The right of restriction. You have the right to request that we restrict the processing of your personal information. 
+  * The right to data portability. You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  * The right to withdraw consent. You also have the right to withdraw your consent at any time where Storm Mountain Publishing Company, Inc. relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+**Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+
+### Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+**Google AdSense & DoubleClick Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
+
+### Behavioral Remarketing
+
+Storm Mountain Publishing Company, Inc. uses remarketing services to advertise on third party websites to you after you visited our service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+**Google AdWords**
+
+Google AdWords remarketing service is provided by Google Inc. You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – https://tools.google.com/dlpage/gaoptout – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+
+**Twitter**
+
+Twitter remarketing service is provided by Twitter Inc. You can opt-out from Twitter’s interest-based ads by following their instructions: https://support.twitter.com/articles/20170405
+
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: https://twitter.com/privacy
+
+**Facebook**
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950
+
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: https://www.facebook.com/help/568137493302217
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: https://www.facebook.com/privacy/explanation
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of  
+payment information.
+
+The payment processors we work with are: Authorize.net
+
+Their Privacy Policy can be viewed at https://www.authorize.net/company/privacy/
+
+## Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services. 
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. 
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us: by email: contact@stormmtn.com or by phone number: 303-834-9775.
