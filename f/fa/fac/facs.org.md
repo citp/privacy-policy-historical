@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facs.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229185946id_/http%3A//www.facs.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facs.org privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416141106id_/https%3A//www.facs.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,7 +106,7 @@ E-mail: **[privacy@facs.org](mailto:privacy@facs.org "privacy@facs.org")**[](mai
 
 ###  Terms of Use
 
-This Policy is subject to, a part of, and incorporated into the Terms of Use which can be found at [https://www.facs.org/terms-of-use](https://web.archive.org/terms-of-use).
+This Policy is subject to, a part of, and incorporated into the Terms of Use which can be found at [https://www.facs.org/terms-of-use](http://www.facs.org/terms-of-use).
 
 ### International Users
 
