@@ -1,21 +1,108 @@
-> *The following text is extracted and transformed from the got2pee.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321064502id_/https%3A//got2pee.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the got2pee.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416234135id_/https%3A//got2pee.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Got2Pee.com
 
-To protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+> **Keywords used in this privacy policy**
+> 
+> **"We"** : private data managing company - G MAX Division s.r.o., Sekaninova 48, 120 00 Prague, Czech Republic  
+>  **"GOT2PEE Site" or "Site"** : site being operated on domain: got2pee.com 
 
-This notice applies to all information collected or submitted to Got2pee.com. On some pages, you can purchase a Membership to Got2pee.com, make requests, and register to receive access and materials. The type of personal information collected at these pages are name, age, email address, gender, etc.
+By logging on and using the Site, you agree to and accept our privacy policy. We understand that sharing your personal information with us over the internet requires trust. We value your trust very highly, and pledge to you that we will protect the security and privacy of any personal information you provide to us through our websites. This includes your name, address, phone number, email address, and any other personal information that can be linked to you. We will collect and use information about your preferences and browsing habits to help personalize your experience on the website. In case you do not agree with this, please contact us: [support@got2pee.com](mailto:support@got2pee.com) or visit our [support portal](https://support.got2pee.com/). 
 
-We use Epoch.com, who will obtain additional information such as your address and credit card data.
+**Personal Information Collected**
 
-The information collected by Got2pee.com is used solely for the creation and maintenance of your Membership account. We do not sell, loan, lease, swap, trade or otherwise disclose your personal data. That information collected by Epoch.com is used for the purpose of processing payment of your Membership to Got2pee.com.
+We collect personal information that you choose to provide voluntarily when joining the any of GOT2PEE Site. This information includes your email address and a password when you join any of GOT2PEE Site.
 
-You can access all your personally identifiable information that we collect online and maintain it by logging on to the right user account pages, where the informations was collected. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information simply by modifying that information online.
+We never sell or rent your personal information to any third parties under any circumstances.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. By accessing and using our Site, you signify your consent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Site or contact us for adaptation in the limit of our possibilities.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+Upon request we will deliver you a report of your personal information and all datas related to you collected by us. If your personal information is incorrect or incomplete, you have the right to ask us to update it.
 
-You assures to have all rights for the submission of data and their publication to the system of Got2pee.com. You agree to save harmless Got2pee.com from all costs, which result from offences against it.
+For that purpose contact us at: [support@got2pee.com](mailto:support@got2pee.com) or visit our [support portal](https://support.got2pee.com/)
 
-Should you have other questions or concerns about these privacy policies, please send an email: [support@got2pee.com](mailto:support@got2pee.com).
+You also have the right to ask us to modify the processing of your personal information.
+
+You can also ask us to delete or restrict how we use your personal information, but this right may impact your access to some of our Services.
+
+To claim one of these above mentioned rights, or just get additional informations please contact us: [support@got2pee.com](mailto:support@got2pee.com) or visit our [support portal](https://support.got2pee.com/)
+
+**Cookie Policy**
+
+When you visit or interact with our sites, services, applications, tools or messaging, we or our authorized service providers may use cookies and other similar technologies to help provide you with a better, faster, and safer experience, and for advertising and marketing purposes.
+
+When you visit our Sites, there’s certain information that’s recorded which is generally anonymous information and does not reveal your identity. If you’re logged into your account some of this information could be associated with your account. We’re talking about the following kinds of details:
+
+  * Your IP address or proxy server IP address;
+  * The domain name you requested;
+  * The name of your internet service provider is sometimes captured depending on the configuration of your ISP connection;
+  * The date and time of your visit to the website;
+  * The length of your session;
+  * The pages which you have accessed;
+  * The number of times you access our site within a given month;
+  * The file URL you look at and information relating to it;
+  * The website which referred you to our Sites; and
+  * The operating system which your computer uses.
+
+
+
+To use the website without cookies, you can configure your browser to reject all cookies or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
+
+In case you do not authorise any cookie and you do not wish to use the cookie preference of your browser please contact us here to get access to our services without cookies. In case you do not agree with this, please contact us by email: [support@got2pee.com](mailto:support@got2pee.com) or visit our [support portal](https://support.got2pee.com/)
+
+**Your personal information storage**
+
+We store personal information on secure servers that are managed by us and our service providers. Personal information that we store or transmit is protected by security and access controls, including username and password authentication, two-factor authentication, and data encryption where appropriate.
+
+**Third Party Billing Companies**
+
+The third party billing companies which collect your payment for using our services collect personal and billing information that we have access to but do not store. You acknowledge and agree that we do not have any responsibility for the collection, maintenance or safeguarding of the privacy of any such personal or billing information provided to such third party billing companies and that such responsibility is solely between you and the third party billing company. We encourage you to examine and determine your satisfaction with the policies of such third party billing companies prior to your using them.
+
+**When and With Whom We Share Your Personal Information**
+
+We never sell or rent your personal information to any third parties under any circumstances. We may share aggregated demographic and statistical information with our partners or sponsors. This is not linked to any personal information that can identify any individual person.
+
+**How We Protect the Security of Your Personal Information**
+
+We use Data Encryption in efforts to protect the information you have provided to us from unauthorized access by using encryption and other security measures.
+
+**Communications from the Site**
+
+> **1\. Special Offers and Updates**
+> 
+> We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+> 
+>   
+>  **2\. Newsletter**
+> 
+> Where we have your consent to do so (e.g. if you have subscribed to one of our email subscription lists or have indicated that you are interested in receiving offers or information from us), we send you marketing communications by email about products and services that we feel may be of interest to you. You can ‘opt-out’ of such communications if you would prefer not to receive them in the future by using the “unsubscribe” function provided in the communication itself.
+> 
+> If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect to our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
+> 
+>   
+>  **3\. Service Announcement**
+> 
+> On rare occasions it is necessary to send out a strictly service related announcement. These communications are not promotional in nature. For instance, if our service is temporarily suspended for maintenance we may send users an email. Generally, users may not opt-out of these communications.
+> 
+>   
+>  **4\. Customer Service**
+> 
+> We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email, in accordance with the users wishes.
+
+**Choice/Opt-out**
+
+Our users are given the opportunity to 'opt-out' of receiving Special Offers, Updates, and Newsletters. Users who no longer wish to receive emails of this nature, may opt-out of receiving these communications by clicking on the Unsubscribe link included in the emails or directly emailing us at: [support@got2pee.com](mailto:support@got2pee.com) or visit our [support portal](https://support.got2pee.com/)
+
+**Changes to Our Privacy Policy**
+
+We will occasionally modify this Privacy Policy by posting such changes on this page. Any changes to this Privacy Policy will become effective upon posting such changes. If you access or use any site of GOT2PEE, it is suggested to periodically check our Privacy Policy for any changes. 
+
+Each of the changes will also be sent to you by email.
+
+**Outbound Links**
+
+The Sites may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave any of GOT2PEE site they should read the privacy statements of each and every web site that collects personally identifiable information.
+
+**How to Contact Us**
+
+If you have comments or questions regarding our privacy policy, please contact us through our support form or via email at: [support@got2pee.com](mailto:support@got2pee.com) or visit our [support portal](https://support.got2pee.com/).
