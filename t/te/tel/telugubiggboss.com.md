@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telugubiggboss.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606161044id_/http%3A//telugubiggboss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugubiggboss.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416085727id_/https%3A//telugubiggboss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BIGG BOSS TELUGU VOTE - Live,Voting,Eliminations
+# Privacy Policy | Telugu Bigg Boss
 
 #### Telugubiggboss.com Privacy Policy
 
@@ -73,4 +73,4 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. contact@telugubiggboss.com
 
-Back to [HOME](http://telugubiggboss.com/)
+Back to [HOME](https://telugubiggboss.com/)
