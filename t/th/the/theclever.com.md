@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclever.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230172036id_/https%3A//www.theclever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclever.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416202302id_/https%3A//www.theclever.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
