@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010050108id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416115624id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | carwow
 
-carwow.co.uk, carwow.fr, carwow.es, and carwow.de provide an online service owned and operated by carwow Ltd or its subsidiary companies (“carwow”, “we” or “us”).Please take the time to review this privacy statement which explains the information that carwow collects about you, how we use it, and your rights in relation to that information. 
+carwow.co.uk, carwow.es, and carwow.de provide an online service owned and operated by carwow Ltd or its subsidiary companies (“carwow”, “we” or “us”).Please take the time to review this privacy statement which explains the information that carwow collects about you, how we use it, and your rights in relation to that information. 
 
-carwow Ltd of 2nd Floor, 10 Bressenden Place, London, SW1E 5DH, United Kingdom is the data controller of the personal information collected via or in connection with our websites, carwow.co.uk, carwow.fr and carwow.de (the “Websites”).
+carwow Ltd of 2nd Floor, 10 Bressenden Place, London, SW1E 5DH, United Kingdom is the data controller of the personal information collected via or in connection with our websites, carwow.co.uk and carwow.de (the “Websites”).
 
 ##  What personal information do we collect about you? 
 
@@ -72,11 +72,11 @@ We may also process your personal information where it is in our legitimate inte
 
 We love to communicate with our users and so, depending on your marketing preferences, we may use your personal information to send you marketing, including by email, SMS or post. Some of these messages may be tailored to you, based on your previous use of our Websites.
 
-If you no longer want to receive marketing communications from us (or would like to opt back in!), you can change your preferences at any time by contacting [contact@carwow.co.uk](mailto:contact@carwow.co.uk), [bonjour@carwow.fr](mailto:bonjour@carwow.fr), [hola@carwow.es](mailto:hola@carwow.es) or [hallo@carwow.de](mailto:hallo@carwow.de), clicking on the ‘unsubscribe’ link in any email, or visiting ‘Settings’ in your account. 
+If you no longer want to receive marketing communications from us (or would like to opt back in!), you can change your preferences at any time by contacting [hola@carwow.es](mailto:hola@carwow.es), [contact@carwow.co.uk](mailto:contact@carwow.co.uk) or [hallo@carwow.de](mailto:hallo@carwow.de), clicking on the ‘unsubscribe’ link in any email, or visiting ‘Settings’ in your account. 
 
 If you unsubscribe from marketing, please note we will still contact you with service messages from time to time, including to send you offers from dealers in response to a request you make on the Websites.
 
-You may also see adverts for our Websites on third party websites, including on social media. These ads may be tailored to you using cookies (which track your web activity, so enable us to serve ads to users who have visited our Websites). Where you see an ad on social media, this may because we have engaged the social network to show ads to our users, or others who match the demographic profile of our users. In some cases, this may involve sharing your email address with the social network. If you no longer want to see tailored ads you can change your cookie and privacy settings on your browser and these third party websites.
+You may also see adverts for our Websites on third party websites, including on social media. These ads may be tailored to you using cookies (which track your web activity, so enable us to serve ads to users who have visited our Websites) and/or similar technologies. Where you see an ad on third party websites or social media, this may be because we have engaged the third party or social network to show ads to our users, or others who match the demographic profile of our users. In some cases, this may involve sharing your email address with the third party or social network so that they can identify you as one of our users. If you no longer want to see tailored ads you can change your cookie and privacy settings on your browser and these third party websites.
 
 ##  Who do we share this personal information with? 
 
@@ -118,7 +118,7 @@ We will comply with any requests to exercise your rights in accordance with appl
 
 ##  Contact us 
 
-If you have any queries on any aspect of our Privacy Policy, please contact us by email at [contact@carwow.co.uk](mailto:contact@carwow.co.uk), [bonjour@carwow.fr](mailto:bonjour@carwow.fr), [hola@carwow.es](mailto:hola@carwow.es), [hallo@carwow.de](mailto:hallo@carwow.de) or by post at the address below. 
+If you have any queries on any aspect of our Privacy Policy, please contact us by email at [hola@carwow.es](mailto:hola@carwow.es), [contact@carwow.co.uk](mailto:contact@carwow.co.uk), [hallo@carwow.de](mailto:hallo@carwow.de) or by post at the address below. 
 
 carwow Ltd  
 2nd Floor  
@@ -129,4 +129,4 @@ SW1E 5DH
 United Kingdom  
 
 
-**Last updated** 9th Jul 2018 
+**Last updated** 21st Dec 2018 
