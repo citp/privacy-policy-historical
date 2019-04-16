@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poison.org privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225101859id_/https%3A//www.poison.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poison.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417011544id_/https%3A//www.poison.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
