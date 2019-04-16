@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019073753id_/http%3A//www.bradfordexchange.com/service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradfordexchange.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416032843id_/https%3A//www.bradfordexchange.com/service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Bradford Exchange Online
 
 Shopping online at this Website is extremely safe. We use secure Application Servers to protect your ordering information as it comes to us via the Internet. This means that all information, such as name, address and your credit card number you enter in the checkout section of our online store is encrypted. VeriSign provides authentication that you are in direct communication with this Website. 
 
-If you have any concerns about ordering electronically, please call 1-866-907-3607 to place your order over the phone.
+If you have any concerns about ordering electronically, please call 1-866-503-9057 to place your order over the phone.
 
 Collectibles Today Network, Ltd., which operates this Website, is an Internet marketing arm of The Bradford Group. We at the Bradford Group (identified below under "Information Sharing") are committed to protecting our customers' privacy. We know that you are concerned about how your information is used and shared, and we appreciate your trust that we will do so carefully and sensibly. The following notice describes our privacy policy.
 
@@ -18,7 +18,7 @@ Information That We Collect From Every Visitor:
 
 We collect anonymous cookie information about the site pages, items, stores, and articles you view. This is not used with personally identifiable information (such as the name and address you give us when you place an order), but as aggregate information (group information) that helps us learn more about how people use and react to our site. We store information about the items you add to your cart so your cart selections are not lost between visits, but will not know who placed the items in the cart unless you send an order. 
 
-We also send or permit collection of anonymous user information by service providers such as Coremetrics and ForeSee Results, who help us analyze information about user visits, and improve services. If you would like to change your settings or opt out of the Coremetrics service, please [click here](http://www.bradfordexchange.com/service/site-usage-statistics-settings.html). Note that by opting out of Coremetrics, you also opt out of ForeSee Results. 
+We also send or permit collection of anonymous user information by service providers such as Coremetrics and ForeSee Results, who help us analyze information about user visits, and improve services. If you would like to change your settings or opt out of the Coremetrics service, please [click here](https://www.bradfordexchange.com/service/site-usage-statistics-settings.html). Note that by opting out of Coremetrics, you also opt out of ForeSee Results. 
 
 Personal Information You Give Us Or Ask a Third Party to Send Us:
 
@@ -51,7 +51,7 @@ When you order an item, a catalog, or have a customer service request, we send y
 
   * Use the opt-out link at the bottom of every e-mail we send
   * Phone us at the number below and request to be opted out
-  * Use our [contact us](http://www.bradfordexchange.com/service_contact-us.html) feature and request to be opted out
+  * Use our [contact us](https://www.bradfordexchange.com/service_contact-us.html) feature and request to be opted out
   * Mail us at the address below and request to be opted out
 
 
@@ -75,7 +75,7 @@ This Website is one of a number of related companies who specialize in various h
 
 Please note that our affiliates and divisions may change, and the list above may not be up-to-date. We sell products from our affiliates or their divisions and share information about your purchases with them. On occasion you may receive offers mailed by e-mail or ground mail from our affiliates or their divisions, or when you call our customer service department, for items that you may enjoy. We and our affiliates or their divisions may use information you provide when you order to personalize marketing communications to you. If you order from us or one of our affiliates or their divisions, we may share your e-mail address and other contact information for use in communications concerning your order and to offer other Bradford Group items that might interest you. We and our affiliates or their divisions may also share information you provide with selected third parties which they may use for marketing or promotional purposes. By providing your information to us, you consent to this information sharing and use.
 
-If you object to our sharing information about you as a customer with these affiliated and non-affiliated companies or divisions, or if you prefer not to receive ground mail from us or other companies, you may use the [Contact Us](http://www.bradfordexchange.com/service_contact-us.html) feature on our site, or phone us at 1-866-907-3607 to tell us about your preferences. 
+If you object to our sharing information about you as a customer with these affiliated and non-affiliated companies or divisions, or if you prefer not to receive ground mail from us or other companies, you may use the [Contact Us](https://www.bradfordexchange.com/service_contact-us.html) feature on our site, or phone us at 1-866-503-9057 to tell us about your preferences. 
 
 Even if you opt out from information sharing generally, we must share information about your individual orders with data processors, with the sister corporation that packs, ships and bills your purchases, and with outside companies as needed to obtain approval to charge your credit card, to verify your address, and to deliver your orders. 
 
@@ -85,7 +85,7 @@ We release account and other personal information when we believe release is app
 
 Children:
 
-This Website is a shopping site for mature collectors. We do not knowingly solicit or collect personally identifiable information from children under the age of 13 years that is submitted to us via the Internet. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13, we will use reasonable measures to delete the information from our records as soon as it is discovered by us and do not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 13, please contact us at (866) 907-3607. 
+This Website is a shopping site for mature collectors. We do not knowingly solicit or collect personally identifiable information from children under the age of 13 years that is submitted to us via the Internet. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13, we will use reasonable measures to delete the information from our records as soon as it is discovered by us and do not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 13, please contact us at 866-503-9057. 
 
 Customer Information Transfer:
 
@@ -95,7 +95,7 @@ Visit Us Often:
 
 Please visit this Privacy Policy frequently, as our business changes all the time, and we update this policy to reflect those changes. By visiting our site you agree that we may collect and use information as stated in our privacy policy. If we change our privacy policy, we will post the changes on this page so you are always informed about what information we collect, how we use it, and under what circumstances we disclose it. 
 
-You can always reach us by [e-mail](http://www.bradfordexchange.com/service_contact-us.html), phone, or ground mail:
+You can always reach us by [e-mail](https://www.bradfordexchange.com/service_contact-us.html), phone, or ground mail:
 
 **By E-mail:**  
 [CustomerService@bradfordexchange.com](mailto:CustomerService@bradfordexchange.com)
@@ -106,6 +106,6 @@ The Bradford Exchange Online**
 Niles, Illinois 60714
 
 **By Phone:**  
-United States: 1-866-907-3607  
+United States: 1-866-503-9057  
 Monday - Friday (excluding major holidays)  
 7:00 A.M. - 6:00 P.M., Central Time
