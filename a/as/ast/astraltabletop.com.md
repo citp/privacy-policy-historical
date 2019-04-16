@@ -1,14 +1,24 @@
-> *The following text is extracted and transformed from the astraltabletop.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514093109id_/http%3A//astraltabletop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astraltabletop.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416174826id_/https%3A//www.astraltabletop.com/clkn/http/app.astraltabletop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Astral TableTop
 
-**Effective date: March 1, 2017**
+**Effective date: May 30, 2018**
 
 We at Unicorn Heart Club LLC (“Unicorn”) know you care about how your personal information is used and shared and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. Unicorn recognizes the importance of protecting information collected from users and has adopted this privacy policy to inform users about how Unicorn gathers, stores, and uses information derived from their use of Unicorn products, services and online sites.
 
 By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. 
 
 This policy is current as of its last revision date. However, please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. Please check back for the most current version before relying on any of the provisions in this privacy policy.
+
+#### Entities Collecting Personal Information
+
+We have appointed a data protection officer (DPO) for Unicorn who is responsible for overseeing questions in relation to this privacy notice. If you have any questions, concerns, or requests about this privacy notice, how we manage your Personal Information, or any other issue relating to your Personal Information, please contact our DPO:
+    
+    
+    Unicorn Heart Club LLC
+    Attn: Data Protection Officer
+    privacy@astraltabletop.com
+    268 6th St Fl 3, Jersey City, NJ 07302
 
 #### Collection of Information
 
@@ -62,7 +72,9 @@ Payment processing related to Content and Services and/or physical goods purchas
 
 #### Corrections, Updates and Removal of Personally Identifiable Information
 
-If you are concerned about the accuracy of personally identifiable information maintained by Unicorn or wish to review, access, amend or correct it, or would like your personally identifiable information removed from Unicorn's records or otherwise deactivated, please contact us here. We may decline requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, or are extremely impractical.
+Upon request Unicorn will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [privacy@astraltabletop.com](mailto:privacy@astraltabletop.com).
+
+If you are concerned about the accuracy of personally identifiable information maintained by Unicorn or wish to review, access, amend or correct it, or would like your personally identifiable information removed from Unicorn's records or otherwise deactivated, please contact us at [privacy@astraltabletop.com](mailto:privacy@astraltabletop.com).
 
 #### Contacting Unicorn
 
@@ -83,4 +95,4 @@ The Privacy Shield Principles describe Unicorn's accountability for personal dat
 
 The Federal Trade Commission has jurisdiction over Unicorn’s compliance with the Privacy Shield.
 
- _This Privacy Policy was last updated on April 6, 2017._
+ _This Privacy Policy was last updated on May 30, 2018._
