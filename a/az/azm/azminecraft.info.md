@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azminecraft.info privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924060307id_/http%3A//azminecraft.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azminecraft.info privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416100641id_/https%3A//azminecraft.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ We are using two different web analytics services to improve and optimize our we
 
 Both services use cookies to track visitor behaviour. For further details please visit their privacy policies.
 
-  * [Google Analytics](http://www.google.com/analytics/) ([Privacy Policy](http://www.google.com/privacy.html))
+  * [Google Analytics](https://www.google.com/analytics/) ([Privacy Policy](https://www.google.com/privacy.html))
 
 
 
@@ -22,7 +22,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 We use the following ad networks:
 
-  * Google Adsense ([Privacy Policy](http://www.google.com/privacy.html))
+  * Google Adsense ([Privacy Policy](https://www.google.com/privacy.html))
 
 
 
@@ -30,7 +30,7 @@ We use the following ad networks:
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 
 
@@ -42,4 +42,4 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://azminecraft.info/about/>
+<https://azminecraft.info/about/>
