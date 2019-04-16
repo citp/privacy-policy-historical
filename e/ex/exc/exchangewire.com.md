@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchangewire.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209234022id_/https%3A//www.exchangewire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangewire.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416113015id_/https%3A//www.exchangewire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExchangeWire.com
 
@@ -50,4 +50,4 @@ Exchangewire will take reasonable care to maintain appropriate safeguards to ens
 
 #####  **Changes to Privacy Policy**
 
-ExchangeWire may amend this Privacy Policy at any time. If we make any substantial changes to this policy, we will notify you by posting an announcement on the ExchangeWire website, sending you an email, by including an item in the ExchangeWire newsletter, or by any other means reasonably seen to provide you with actual notice. ** _This content was originally published in[ExchangeWire.com](https://www.exchangewire.com/privacy-policy/ "ExchangeWire.com")._**
+ExchangeWire may amend this Privacy Policy at any time. If we make any substantial changes to this policy, we will notify you by posting an announcement on the ExchangeWire website, sending you an email, by including an item in the ExchangeWire newsletter, or by any other means reasonably seen to provide you with actual notice.
