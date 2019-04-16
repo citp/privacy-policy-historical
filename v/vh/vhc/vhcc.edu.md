@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vhcc.edu privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920105025id_/http%3A//www.vhcc.edu/about-vhcc/publications-reports/web-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vhcc.edu privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416054928id_/http%3A//www.vhcc.edu/about-vhcc/publications-reports/web-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virginia Highlands Community College
-
-[About the College](https://web.archive.org/faculty-staff) » [Publications & Reports](https://web.archive.org/about-vhcc/publications-reports) » [Web Policies](https://web.archive.org/about-vhcc/publications-reports/web-policies)
 
 It is the policy of the Commonwealth of Virginia that personal information about citizens will be collected only to the extent necessary to provide the service or benefit desired; that only appropriate information will be collected; that the citizen shall understand the reason the information is collected and be able to examine their personal record which is maintained by a public body.
 
