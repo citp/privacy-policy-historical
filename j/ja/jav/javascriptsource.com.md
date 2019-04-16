@@ -1,162 +1,127 @@
-> *The following text is extracted and transformed from the javascriptsource.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701102752id_/http%3A//www.javascriptsource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javascriptsource.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416145309id_/https%3A//javascriptsource.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The JavaScriptSource
 
-**LAST UPDATED** : October 22, 2010
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
-### **PRIVACY POLICY**
+Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the " **Site** "). By using our Sites, you agree to the terms and conditions of this Privacy Policy.
+## What personal information do we collect from the people that visit our website?
 
-  
+When registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
+## When do we collect information?
 
-### **PERSONAL INFORMATION**
+We collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, fill out a form, Open a Support Ticket or enter information on our site. Provide us with feedback on our products or services.
 
-**Personal Information We Collect**
+## How do we use your information?
 
-“ **Personal Information** ” is information that identifies you as an individual, such as: 
+We may use the information we collect from you when you register, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  * Name
-  * Postal address
-  * Telephone number
-  * Email address
-  * Credit or debit card number 
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To ask for ratings and reviews of services or products.
 
 
 
-In some cases, we may collect information, such as your age, weight, health conditions, insurance type, and whether you’re a non-smoker, combined with your Personal Information. We will treat all such information as Personal Information as long as it is combined with Personal Information.
+## How do we protect your information?
 
-We collect Personal Information when you interact with us on the Site. We may associate Personal Information you provide through the Site with Personal Information collected from other sources. We will use the combined information in accordance with this Privacy Policy as long as it is combined.
+  * We only provide articles and information. We never ask for credit card numbers.
+  * We use regular Malware Scanning.
 
-**How We Use Personal Information**
 
-We may use Personal Information: 
 
-  * When you request, to connect you with vendors who will provide you with information about products and services. 
-  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
-  * to send you surveys and marketing communications that we believe may be of interest to you. 
-  * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you. 
-  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
-  * to allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
-  * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.   
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
+## Do we use ‘cookies’?
 
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
 
-**How Personal Information is Disclosed**
+They are used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Your Personal Information may be disclosed:
+ **We use cookies to:**
 
-  * to our affiliates, including but not limited to QuinStreet Media, Inc. and WorldWideLearn, Inc., for the purposes described in this Privacy Policy. QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
-  * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services. 
-  * if you request information from vendors so that they can provide you with information about their products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR VENDORS’ USE OF YOUR PERSONAL INFORMATION. 
-  * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
-  * if you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies. We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies. While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME.
-  * to third parties to permit them to send you marketing communications, including third parties who may provide similar services as the original service about which you requested more information. 
-  * to third party sponsors of sweepstakes, contests and similar promotions. 
-  * to identify you to anyone to whom you send messages through the Site.
-  * by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. 
-  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
-  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+  * Understand and save user’s preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
 
 
-###   
-**NON-PERSONAL INFORMATION**
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-**Non-Personal Information We Collect**
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
 
-" **Non-Personal Information** " is any information that does not reveal your specific identity, such as: 
+## Third-party disclosure
 
-  * Browser information
-  * Information collected through cookies, pixel tags and other technologies
-  * Demographic information and other information provided by you
-  * Aggregated information
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential.
 
+We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing or advertising.
 
+## Third-party links
 
-  
-**How We Collect Non-Personal Information**
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics. We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code. We may also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, and other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To delete any local shared objects, please visit [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html#117717**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html#117717). To learn more about cookies, please visit [**http://www.allaboutcookies.org/**](http://www.allaboutcookies.org/).
+## Google
 
-**How We Use and Disclose Non-Personal Information**
+Google’s advertising requirements can be summed up by [Google’s Advertising Principles](https://support.google.com/adwordspolicy/answer/1316548?hl=en). They are put in place to provide a positive experience for users.
 
-Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose. In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+We do use Google AdSense Advertising on our website.
 
-### **IP ADDRESSES**
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-Your " **IP Address"** is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). 
+ **We have implemented the following:**
 
-**How We Log IP Addresses**
+  * Remarketing with Google AdSense
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
 
-An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. 
 
-**How We Use and Disclose IP Addresses?**
 
-We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law. 
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-### **THIRD PARTY SITES**
+ **Opting out:** Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. 
+## California Online Privacy Protection Act
 
-### **THIRD PARTY VENDORS**
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-We also work with vendors and partners in operating and improving the Site. These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies. These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites. You can opt out of some of our vendors' use of cookies and other technologies to tailor personalized content or advertising to you by visiting [**http://networkadvertising.org/optout_nonppii.asp**](http://networkadvertising.org/optout_nonppii.asp) and [**http://www.clicktale.net/disable.html**](http://www.clicktale.net/disable.html).
+ **According to CalOPPA, we agree to the following:**
 
-PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS. 
+  * Users can visit our site anonymously.
+  * Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+  * Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
 
-### **SECURITY**
 
-We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “ _Contacting Us_ ” section below.
 
-### **CHOICES AND ACCESS**
+You will be notified of any Privacy Policy changes on our Privacy Policy Page.
 
-**Your choices regarding our use and disclosure of your Personal Information**
+You can change your personal information by logging in to your account.
 
-We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from: 
+## How does our site handle Do Not Track signals?
 
-  * **Receiving electronic communications from us and our affiliates** : If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking **[here](https://web.archive.org/unsubscribe)** and following the instructions to unsubscribe.
-  * **Our sharing of your Personal Information with unaffiliated third parties** : If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis. Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
+## Does our site allow third-party behavioral tracking?
 
+It’s also important to note that we do not allow third-party behavioral tracking
 
-We will seek to comply with your request(s) as soon as reasonably practicable. Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+## COPPA (Children Online Privacy Protection Act)
 
-**How you can access, change or suppress your Personal Information**
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [**custservice@developer.com**](mailto:custservice@developer.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
+We do not specifically market to children under the age of 13 years old.
 
-In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. 
+## Fair Information Practices
 
-### **RETENTION PERIOD**
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. 
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur: we will notify you via email within 1 business day.
 
-### **USE OF SITE BY MINORS**
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
-The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. 
-
-### **CROSS-BORDER TRANSFER**
-
-Your Personal Information may be stored and processed in any country where we have facilities, and by providing any PII to us, you consent to the transfer of such Personal Information to countries outside of your country of residence, including the United States, which may have different data protection rules from your country of residence.
-
-### **SENSITIVE INFORMATION**
-
-We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us. 
-
-### **UPDATES TO THIS PRIVACY POLICY**
-
-We may change this Privacy Policy. Please take a look at the “ _LAST UPDATED_ ” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
-
-### **CONTACTING US**
-
-If you have any questions about this Privacy Policy, please contact us by email at [**custservice@developer.com**](mailto:custservice@developer.com), or please write to the following address:
-
-     Privacy   
-     QuinStreet  
-     950 Tower Lane, 6th Floor  
-     Foster City, CA 94404
+If you have any questions about our privacy policy, please send them to **hello@webdeveloper.com**.
