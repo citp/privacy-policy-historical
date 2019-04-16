@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gimmedelicious.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225184218id_/https%3A//gimmedelicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimmedelicious.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416090148id_/https%3A//gimmedelicious.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Gimme Delicious
 
 _Effective as of May 25, 2018_
 
