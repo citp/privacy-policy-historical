@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231060544id_/https%3A//www.crateandbarrel.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416032836id_/http%3A//www.crateandbarrel.com./customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crate and Barrel
 
