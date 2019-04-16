@@ -1,34 +1,42 @@
-> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212231118id_/https%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416065930id_/https%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
 
 # Disclaimer, Privacy Policy & DMCA Policy
-
-TinyHouseTalk.com Privacy Policy
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use TinyHouseTalk.com, as well as some of the steps we take to safeguard information.
 
 TinyHouseTalk.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
 
-Comments Policy
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behavior on our website and on other websites across the Internet using cookies.
 
-This is a community and your comments are encouraged but we reserve the right to delete your comment(s) and even ban you from commenting if you attack or insult others. We constantly monitor and moderate the comments to keep this a happy and helpful place. If you see any comments that do not add value to the community, you can report it. Thanks!
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-Personal Information
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third-party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+**For European Economic Area Residents**
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at [tinyhousetalk@gmail.com](mailto:tinyhousetalk@gmail.com) ** ** and contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
+
+**Comments Policy**
+
+This is a community and your comments are encouraged but we reserve the right to moderate/delete your comment(s) and even ban you from commenting if you attack, insult others, or are being harmful in anyway to our community. We constantly monitor and moderate the comments to keep this a happy and helpful place. If you see any comments that do not add value to the community, please report it to us at [tinyhousetalk@gmail.com](mailto:tinyhousetalk@gmail.com). Please include a link where you see the comment. Thanks!
+
+**Personal Information**
 
 TinyHouseTalk.com collects personally identifiable information from the visitors to our website on a voluntary basis. Personal information collected on a voluntary basis may include your name, postal address, email address, company name, telephone number, and any other information you provide us.
 
 This information is collected if you request information from us, participate in a contest or sweepstakes, participate in the comments, share your own content, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
 
-Once information is reviewed, it is discarded or stored in our files and third party servers. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
+Once information is reviewed, it is discarded or stored in our files which are hosted on secure third-party servers. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties. We use your information, mainly your email, to keep in touch with you and let you know what’s new.
 
-Your Content
+**Your Content**
 
 TinyHouseTalk.com allows you to post content (including photos, comments, links, and other materials). You retain all rights in, and are solely responsible for, the content you post to TinyHouseTalk.com. This is referred to as User Content.
 
-How User Content Is Used
+**How User Content Is Used**
 
 You grant TinyHouseTalk.com and our users a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute User Content on TinyHouseTalk.com solely for the purpose of operating, developing, providing, using, and promoting TinyHouseTalk.com. We reserve the right to remove or modify User Content for any reason, including User Content that we believe violates these terms (or any of our other policies).
 
-Use of Cookies and Web Beacons
+**Use of Cookies and Web Beacons**
 
 We use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site’s services, a cookie enables TinyHouseTalk.com to recall your specific information on subsequent visits.
 
@@ -46,31 +54,31 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 
 We use a Google Analytics Advertising Feature which use first-party cookies and/or identifiers to collect data for advertising purposes. This helps us serve you better ads that match your interest. If you’re interested in opt-ing out of this, [visit this page](https://tools.google.com/dlpage/gaoptout/).
 
-Children’s Online Privacy Protection Act
+**Children’s Online Privacy Protection Act**
 
 This website is directed to adults; it is not directed to children under the age of 18. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 18 years of age.
 
-Non-Personal Information
+**Non-Personal Information**
 
 In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
 
-Release of Information
+**Release of Information**
 
 If TinyHouseTalk.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
-How You Can Correct or Remove Information
+**How You Can Correct or Remove Information**
 
 We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our Contact Us page.
 
-Legal
+**Legal**
 
 The information and other content within this website are provided for entertainment purposes only and should not be considered professional advice. While all information shared here is believed to be accurate and our goal is to be helpful, the owner(s) and operator(s) of this website disclaim all warranties expressed, implied or statutory, regarding the accuracy, timeliness, and/or completeness of the information contained within these pages.
 
-Third Party Affiliate Links
+**Third Party Affiliate Links**
 
 TinyHouseTalk.com is an affiliate with some of the companies whose products are occasionally mentioned, linked to and recommended on this site. This allows TinyHouseTalk.com to earn commissions for sales generated through this website without any extra cost on your part. This, along with advertising, helps support our free services.
 
-DMCA Policy
+**DMCA Policy**
 
 TinyHouseTalk.com and Tiny House Media LLC are in compliance with 17 U.S.C. * 512 and the Digital Millennium Copyright Act (DMCA). Our policy is to respond to any infringement notices and take appropriate actions under the DMCA and other applicable intellectual property laws.
 
@@ -98,7 +106,7 @@ Naples, FL 34102
 United States
 
 Or send an electronic copy to:  
-alex@tinyhousetalk.com
+tinyhousetalk@gmail.com
 
 Once the proper bona fide infringement notification is received by the Designated Agent it is company policy to do the following:
 
@@ -108,11 +116,11 @@ Once the proper bona fide infringement notification is received by the Designate
 
 – Repeat offenders (content providers, users, members, or other contributors) will have the infringing material removed from the system and the company will terminate the content provider’s access to contributing.
 
-Updates and Effective Date
+**Updates and Effective Date**
 
 TinyHouseTalk.com reserves the right to make changes in this policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
-Agreeing to Terms (Usage Policy)
+**Agreeing to Terms (Usage Policy)**
 
 If you do not agree to TinyHouseTalk.com’s Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
