@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinlib.io privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923201832id_/https%3A//coinlib.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinlib.io privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416165154id_/https%3A//coinlib.io/privacy) for the most accurate reproduction.*
 
 # Coinlib privacy policy
 
@@ -170,7 +170,7 @@ XnePqvwndoiKUmpwccZ8qtGjF6BBAwj6xD
 DBgKdG6SwwvY85VeKrp6VkxBjXGZnKhsta  
 
 
-For the last 11 months, we have have enjoyed working relentlessly to build a service we feel the crypto community deserves. Your __was and still is, our only fuel.
+For the last 18 months, we have enjoyed working relentlessly to build a service we feel the crypto community deserves. Your __was and still is, our main fuel.
 
 **If you've enjoyed using Coinlib and want to help us turn it into a sustainable project, please help us spread the word!**
 
