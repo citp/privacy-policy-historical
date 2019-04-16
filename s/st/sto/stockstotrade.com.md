@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stockstotrade.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111231933id_/https%3A//stockstotrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockstotrade.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416201118id_/https%3A//stockstotrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - StocksToTrade.com
-
-**Privacy Statement**
 
 Effective Date: May 24, 2018
 
@@ -26,7 +24,7 @@ Information, including Personal Data, is collected directly from you when you:
 
   * Register for an account;
   * Communicate with us, such as to provide feedback, request support, or ask for additional information;
-  * Subscribe to [newsletters](https://stockstotrade.wpengine.com/plans/), register for seminars or training, or purchase goods or services;
+  * Subscribe to [newsletters](https://stockstotrade.com/plans/), register for seminars or training, or purchase goods or services;
   * Use interactive or social networking features of our Services, including setting up a public profile, submitting content (such as comments, articles, links, or other items), or using our chat feature; or
   * Otherwise interact with or use our Services.
 
