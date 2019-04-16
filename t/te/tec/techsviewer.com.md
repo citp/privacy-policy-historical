@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsviewer.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110094817id_/https%3A//techsviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsviewer.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416090447id_/https%3A//techsviewer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
