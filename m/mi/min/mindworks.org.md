@@ -1,72 +1,170 @@
-> *The following text is extracted and transformed from the mindworks.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071455id_/http%3A//mindworks.org/mindworks-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindworks.org privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416075640id_/https%3A//mindworks.org/mindworks-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mindworks
+# Privacy Policy for Services - Mindfulness Meditation App | Mindworks
 
-At Mindworks Inc (“Mindworks”) we recognize that privacy is important and we are committed to protecting your right to privacy. While gathering information about the people who use our site is an important part of the Mindworks experience, we take your privacy very seriously, and are committed to making every effort to safeguard your personal data. This Privacy Policy (“Policy”) is incorporated into the Mindworks Terms of Service and is intended to inform you of what information we collect, how this information is used, and what steps we take to protect the information of our users and individuals whose payment details are used to purchase Mindworks (collectively “you”).
+Privacy Policy[Mindworks Team](https://mindworks.org/blog/author/mindworks/ "Posts by Mindworks Team")2019-01-12T17:18:11-07:00
 
-**WHAT INFORMATION WE RECEIVE FROM YOU**  
-When you create a Mindworks account, we ask for certain information to process your registration, including an email address and password. If you subscribe to a paid account, we request additional information, including your full name and payment method details.
+  1. ##  **WHAT INFORMATION WE COLLECT**
 
-If you sign in to Mindworks using your Facebook or other third-party credentials, we will use that service to authenticate your identity. We may also receive other information that you have agreed may be provided by that third party, such as your username, name, e-mail address, date of birth and gender. We receive this information to use for the purposes explained in this Policy.
 
-We may supplement the information you provide to us with additional information gathered from other sources, such as publicly available information.
 
-In addition to the information you provide to us, when you use Mindworks, Information may be automatically submitted about the computer, mobile device, or other devices you use to access Mindworks and about how you use Mindworks. For example, we receive data about the meditations you use and the amount of completion or time spent in that meditation. As is true for most apps, we may also receive information such as your browser type, IP address, language, operating system, unique device identifier, the date and time of your visit, the pages you view and the websites you visited immediately before and after visiting Mindworks. In some cases, we link this automatically collected data to other information we collect about you. We do this improve the content of the app and Website to provide a more personalized experience. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
+
+We collect both personal information and non-personal information. “Personal information” is any information relating to an identified or identifiable natural person. “Non-personal information” includes technical information that does not identify an individual personally. Please note that over time, non-personal information may become personal information due to regulatory developments, technological advancements, or the co-mingling of personal and non-personal information. We collect the following information from and about you, and in the following ways:
+
+  * When you create a Mindworks account, we ask for your name, email address and password. We do not collect payment method details (payment account number and billing address); this is handled by either the Apple App Store or Google Play.
+  * If you sign in to Mindworks using your Facebook, we will use that service to authenticate your identity. We also receive other information that you have agreed may be provided by Facebook such as your username and e-mail address.
+  * When you use Mindworks, information is automatically submitted about the computer, mobile device, or other devices you use to access Mindworks and about how you use Mindworks. We receive data about the meditations you use and the amount of completion or time spent in that meditation. We also receive your browser type, IP address, language, operating system, unique device identifier, the date and time of your visit, the pages you view and the websites you visited immediately before and after visiting Mindworks. In some cases, we link this automatically collected data to other information we collect about you.
+  * Mindworks uses Appsee Analytics Service. Appsee may collect and store certain data about your activity in this app and track touch gestures, scrolling activity and user interaction activity. Mindworks does not use Appsee to collect any of your personal information, nor does it track your activity across applications outside of Mindworks. For more information on Appsee, see their [privacy policy](https://www.appsee.com/legal/privacypolicy). We are using the information collected by Appsee to improve user experience for Mindworks.
+
+
+
+We do this to improve the content of the app and Website to provide a more personalized experience. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
 
 From time to time we use push notifications in our mobile applications to send you messages about Mindworks or your account. You may opt out of receiving push notifications through your mobile device.
 
-**TRACKING TECHNOLOGIES**
+  2.  **COOKIES AND OTHER SIMILAR TECHNOLOGIES**
 
-**Cookies**  
-As is true of most app companies, we and third parties that we work with use cookies and other web and mobile tracking technologies, such as flash cookies, web beacons, scripts and tags. We use these technologies for authentication, to store your preferences or progress, for analytics and to help us advertise Mindworks. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies for authentication and for preserving settings across your visit to Mindworks. You can control the use of cookies at the browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-The third-party advertising and analytics companies with whom we or our advertisers partner, including Google and Facebook, may place a unique cookie or utilize similar technologies on your browser in order to collect non-personal information about your visits to Mindworks.
+We, and third parties that we work with, use cookies and other similar technologies, such as flash cookies, web beacons, scripts and tags. We, or third parties, may use session cookies or persistent cookies. Session cookies only last for the specific duration of your visit and are deleted when you close your browser. Persistent cookies remain on your device’s hard drive until you delete them or they expire. Different cookies are used to perform different functions, which we explain below:
 
-**Mobile Analytics**  
-We use mobile analytics tools to better understand the functionality of our mobile applications. These tools may record information about your usage, including how often you use the app, the events that occur within the app, and from where the app was downloaded. We may link your personal information recorded in analytics software to us.
+  *  **Essential**. Some cookies are essential in order to enable you to move around our website and mobile applications and use their features, such as accessing secure areas of the Services. Without these cookies, we cannot enable appropriate content based on the type of device you are using.
+  *  **Browsing and Functionality**. We use these cookies to remember choices you make on the Services, such as your preferred language and the country from which you are visiting, and to provide enhanced, more personalized features.
+  *  **Performance and Analytics**. We use third party cookies to see how you use our Services in order to improve their performance and develop them according to your preferences. In particular, we use mobile analytics tools to better understand the functionality of our mobile applications. These tools may record information about your usage, including how often you use the app, the events that occur within the app, and from where the app was downloaded. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+    * We use Google Analytics to measure how you interact with our Services and to improve your user experience. To learn more about Google Analytics privacy practices and opt-out mechanisms, please visit the Google Analytics Security and Privacy Principles page [here](https://support.google.com/analytics/answer/6004245?hl=en). Google also provides a complete privacy policy and instructions on opting-out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout/).
+  *  **Targeting Advertising**. We receive audience based data (such as pixel traffic and conversion data) from social media platform providers. We use this information to help us advertise Mindworks.
+    * With your prior consent, we use Facebook Pixel. This pixel collects information about the usage of our Services and transmits this information to the social network Facebook, which uses this information for advertising and profiling purposes. The Facebook Pixel allows us to target you with personalized advertisements in the Facebook network. If you want to stop this tool from collecting data, you can opt-out [here](https://www.facebook.com/help/568137493302217).
+    * We also receive data from Instagram. To block or limit this activity, you can manage your choices in your Facebook ad preferences and ad settings.
 
-**HOW WE USE YOUR INFORMATION AT MINDWORKS**  
-We collect this information to operate, improve the content of Mindworks, and to provide a more personalized experience. This includes, but is not limited to:
 
-  * Periodically informing you about changes on our app, Website, and new products and services. We do not sell, trade or rent your personal information to others;
-  * Authenticating your login and processing payments. This information will only be shared with third parties who perform tasks required to complete the purchase transaction;
+
+There are several ways to manage cookies. You can control the use of cookies at the browser level, by instructing your browser to accept cookies, disable cookies or notify you when receiving a new cookie. Please note that if you reject cookies, you may still use our Services, but your ability to use some features or areas of our Services may be limited.
+
+In the US, the Network Advertising Initiative also offers a means to opt-out of a number of advertising cookies. Please visit [here](http://www.networkadvertising.org/) to learn more. Note that opting-out does not mean you will no longer receive online advertising. It does mean that the company or companies from which you opted-out will no longer deliver ads tailored to your preferences and usage patterns.
+
+  3.  **HOW WE USE YOUR INFORMATION**
+
+
+
+We use your information for the following purposes:
+
+  * Periodically informing you about changes on our Services, and about new products and services;
+  * Authenticating your login and processing payments;
   * Allowing you to monitor your meditation use and progress in Mindworks; for example, by presenting updated results of your meditation progress;
-  * Performing statistical analyses of users of the site, and their viewing and participation patterns, for product development, and to inform advertisers about the nature of our audience. Please note that we do not share contact information with our advertisers.
-  * Customize and deliver information about our events, Mind Talks, and offerings by email;
-  * Provide customer support and send confirmations about your account;
-  * Protect our intellectual property and other rights. We may use the information that we collect to prevent illegal activities, to enforce the Mindworks [Terms of Use](http://mindworks.org/mindworks-terms-of-use/), or as otherwise required by law; and
-  * Manage Mindworks and our events and trainings.
+  * Performing statistical analyses of users of the site, and their viewing and participation patterns and for product development;
+  * Customizing and delivering information about our events, Mind Talks, and offerings by email;
+  * Providing customer support and sending confirmations about your account;
+  * Protecting our intellectual property and other rights. We may use the information that we collect to prevent illegal activities, to enforce the Mindworks Terms of Use, or as otherwise required by law; and
+  * Managing Mindworks and our events and trainings.
 
 
 
-In addition to the uses identified above, we may use the information that we collect for any other purposes disclosed to you or pursuant to your consent.
+  4.  **LEGAL BASES FOR PROCESSING**
 
-Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the site. We do not control the privacy practices of these third-party services.
 
-**THIRD-PARTY USE**  
-We may employ third parties to perform site-related services, including database management, maintenance services, analytics, marketing, billing and email distribution. These third parties have access to your information only to perform these tasks on our behalf.
 
-**No Disclosure to Third Parties**  
-We do not sell, trade or rent your personal information to others. We believe in protecting your privacy, and therefore do not provide your personal information to third parties for their marketing purposes.
+We process personal information per applicable law and with transparency and fairness. The legal bases for each processing activity listed above are as follows:
 
-**TRACKING AND ADS**  
-We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and other interact with our app. For example, we will know how many users access specific areas or features within our site and which links they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
+  * For marketing, processing is based on your consent (Art. 6(1)(1) GDPR).
+  * To provide our Services to you and process customer inquiries and requests, processing is necessary to establish and fulfill a contract with you (Art. 6(1)(b) GDPR).
 
-This Policy applies to all of the products, services and websites offered by Mindworks, the mobile or tablet versions thereof, any Mindworks software, and any applications created by Mindworks whether available through a social networking site or its subsidiaries or affiliated companies (collectively, the “Service”). Please note that the availability of any Mindworks applications on a social networking site, mobile or tablet device or other technology platform does not indicate any relationship or affiliation between Mindworks and such social networking site, mobile or table device or other technology platform.
 
-**CONSENT TO PROCESSING AND TRANSFER OF INFORMATION OUTSIDE THE UNITED STATES**  
-If you access Mindworks outside of the United States, you understand and unambiguously consent to the transfer of your personal information to, and the collection and processing of such personal information in the United States.
 
-If you have any questions or concerns about this privacy policy and protections, please [contact us](mailto:support@mindworks.com).
+  5.  **COLLECTION AND USE OF INFORMATION FROM CHILDREN**
 
-By using the Service, you consent to the collection and use of your personal information as outlined in this Policy. As this Policy may be amended from time to time, you should visit this page periodically to review any changes to the Policy. Through your continued use of the app and Website after changes are made to the Policy, you accept the Policy as modified.
 
-**CHANGES TO THIS PRIVACY POLICY**  
-This privacy policy may be amended from time to time. Any such changes will be posted on this page. We will notify you of any significant or material changes in the way we treat your information by placing a prominent notice on our Website or sending a notice to the primary email address specified in your account.
 
-**DELETING YOUR ACCOUNT**  
-You can request that your account be deleted at any time by [contacting us](mailto:support@mindworks.com).
+We do not knowingly collect information from children under the age of 16. In the event that we learn that a person under the age of 16, has provided us with personal information, we will delete such personal information.
 
-When your account is deleted, your user profile and all public activities (comments, conversation topics) will be removed. To unsubscribe from our newsletters, click on the link at the bottom of a newsletter you have received, or you can manage your subscriptions from your Mindworks profile.
+  6.  **WITH WHOM WE SHARE YOUR INFORMATION**
+
+
+
+We share or disclose your personal information in the following instances and to the following parties:
+
+  * We employ contractors and service providers to perform the following site-related services: database management, maintenance services, analytics, marketing, and billing and email distribution. These third parties have access to your information only to perform these tasks on our behalf.
+  * We may share information with third parties which may be the result of any mergers, acquisitions, asset sales, joint ventures, etc.
+  * We share information with third parties when we have a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service; (c) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public.
+
+
+
+  7.  **NOTICE REGARDING PUBLIC POSTING AREAS**
+
+
+
+Please note that any information you include in a message you post to any public posting area is available to anyone with Internet access. If you do not want people to know your email address, for example, do not include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN THESE PUBLIC POSTING AREAS.
+
+  8.  **INTERNATIONAL DATA TRANSFERS**
+
+
+
+If you choose to provide us with personal information, it will be stored in the United States and may be stored in other jurisdictions. Mindworks may transfer that information to its affiliates and subsidiaries, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting the Services from the European Union (“EU”) or other regions with laws governing data collection and use, please note that your personal data is transferred to the United States and may be transferred to other jurisdictions. The United States does not and these other jurisdictions may not have the same data protection laws as the EU and may not afford many of the rights conferred upon data subjects in the EU. You acknowledge you understand that by providing your personal information: (i) your personal information will be used for the uses identified above in accordance with this Privacy Policy; and (ii) your personal information will be transferred to the United States and other jurisdictions as indicated above.
+
+  9.  **OPTING OUT OF COMMUNICATIONS**
+
+
+
+We communicate with users who subscribe to our Services on a regular basis via email. For example, we may use your email address to send you information about changes to our services and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.
+
+We do provide you with the opportunity to opt-out of marketing communications from us, such as emails or updates regarding new services we are offering, by clicking the “unsubscribe” link within the text of the email or by contacting us at support@mindworks.org. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances, you may receive a few more messages before the unsubscribe is processed.
+
+  10.  **THIRD PARTY WEBSITES**
+
+
+
+Our Services contain links to other sites. We are not responsible for the privacy practices or content of such other sites. If you have any questions about how these other sites use your information, you should review their policies and contact them directly.
+
+  11.  **SECURITY AND DATA RETENTION**
+
+
+
+We have implemented reasonable measures to protect against unauthorized access to and unlawful interception or processing of personal information that we store and control. That said, please understand that no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to us is done at your own risk.  If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Services or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Services. We may post a notice via the Services if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+
+We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Statement unless a longer retention period is required or permitted by law.
+
+  12.  **YOUR RIGHTS**
+
+
+
+You can request that your account be deleted at any time by contacting us. When your account is deleted, your user profile and all public activities (comments, conversation topics) will be removed.
+
+Additionally, residents of the EU have a right to:
+
+  * Obtain confirmation as to whether or not their personal information exists and to be informed of its content and source, verify its accuracy and request its completion, update or amendment;
+  * Request the deletion, anonymization or restriction of the processing of their personal information processed in breach of the applicable law;
+  * Object to the processing, in all cases, of their personal information for legitimate reasons;
+  * Receive an electronic copy of their personal information, if they would like such a copy for themselves or to port their personal information to a different provider;
+  * Lodge a complaint with the relevant data protection supervisory authority.
+
+
+
+  13.  **YOUR CALIFORNIA PRIVACY RIGHTS AND HOW WE RESPOND TO “DO NOT TRACK” SIGNALS**
+
+
+
+California Civil Code Section 1798.83 permits visitors to the Services who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to third parties for their marketing purposes.
+
+At this time our Sites do not recognize automated browser signals regarding tracking mechanisms, which may include “Do Not Track” instructions.
+
+  14.  **ASSIGNMENT**
+
+
+
+In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personal and non-personal information collected via the Services.
+
+  15.  **CHANGES TO THIS PRIVACY POLICY**
+
+
+
+This privacy policy may be amended from time to time. Any such changes will be posted on this page and we will update the “Last Updated” date above. We will notify you of any significant or material changes in the way we treat your information by placing a prominent notice on our Website or sending a notice to the primary email address specified in your account.
+
+  16.  **CONTACT US**
+
+
+
+If you have any questions about our privacy practices or this Privacy Policy, please contact us at:
+
+Mindworks Inc.  
+2815 Townsgate Road, Suite 133  
+Westlake Village, CA 91361  
+[support@mindworks.org](mailto:support@mindworks.org)
