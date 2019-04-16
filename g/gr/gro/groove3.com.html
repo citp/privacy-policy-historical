@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the groove3.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226170324id_/https%3A//www.groove3.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the groove3.com privacy policy that was archived on 2019-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190416215351id_/https%3A//www.groove3.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <!-- Meta -->
@@ -5264,7 +5264,7 @@ body > .jcf-select-drop.jcf-drop-flipped {
         -o-text-overflow: ellipsis;
 }
 
-body {max-width:2100px;}
+body { /* max-width:2100px; */}
 
 #header {
 	position: relative;
@@ -5792,7 +5792,7 @@ img {
 
   
   .bg-cover.dark {
-       opacity:.3;  
+       opacity:.4;  
        filter: blur(5px);
        -webkit-filter: blur(5px);
     
@@ -5924,7 +5924,7 @@ overflow:hidden;
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background-image: linear-gradient(rgba(0,0,0,.4),rgba(28,28,28,.2),rgba(0,0,0,0),rgba(28,28,28,1));
+	background-image: linear-gradient(rgba(0,0,0,.8),rgba(28,28,28,.5),rgba(0,0,0,0),rgba(0,0,0,0),rgba(0,0,0,0),rgba(28,28,28,1));
 	opacity: 1; 
   }
   
@@ -6341,6 +6341,7 @@ overflow:hidden;
 .intro-slideshow p {
 	margin: 0 0 40px;
      text-shadow: -3px 3px 6px  #000000;
+	 padding:0 20px 0 20px;
 }
 
 .intro-slideshow .btn {
@@ -6685,7 +6686,7 @@ overflow:hidden;
 }
 
 .product-box {
-	padding: 0 5px;
+	padding: 0 3px;
 	width: 100%;
 	-webkit-transition: -webkit-transform .35s cubic-bezier(.5, 0, .5, 1), opacity .5s cubic-bezier(.5, 0, .5, 1);
 	transition: transform .35s cubic-bezier(.5, 0, .5, 1), opacity .5s cubic-bezier(.5, 0, .5, 1);
@@ -7086,7 +7087,7 @@ blockquote .status {
 
 .sort-box {
 	padding: 0 5px;
-	width: 242.5px;
+	width: 275px;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -7858,8 +7859,12 @@ margin-top: -5px;    */
 	line-height: 1.2;
 	border: none;
 	border-radius: 0;
-	color: #000;
+	color: #fff;
 	text-decoration: none;
+}
+
+.nav-tabs.black > li > a {
+    color: #000;
 }
 
 .nav-tabs > li > a:hover,
@@ -7881,24 +7886,28 @@ margin-top: -5px;    */
 	-webkit-align-items: flex-start;
 	-ms-flex-align: start;
 	align-items: flex-start;
-	padding: 5px 0 5px;
+	padding: 5px;
 	margin-bottom: 10px;
+	border-radius: 0px 0px 5px 5px;
 }
 .outline-list li.enabled:hover {
-     background-color: #F4F4F4 ;
+  background-image: linear-gradient(rgba(75,75,75,0), rgba(75,75,75,1));
      cursor: pointer;
+	   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 
 .outline-list li.disabled:hover {
+  background-image: linear-gradient(rgba(55,55,55,0), rgba(55,55,55,1));
      cursor: not-allowed;
+	 box-shadow:rgba(103,103,103,1.00);
 }
 .outline-list li.disabled {
-     opacity: .7;
+     opacity: .6;
 }
 
 
 .outline-list li:not(:last-child) {
-	border-bottom: 1px solid #eaeaeb;
 }
 
 .outline-list .img-holder {
@@ -7907,7 +7916,6 @@ margin-top: -5px;    */
 	box-shadow: 0 2px 7px 0 rgba(0, 0, 0, .5);
 	-webkit-transition: opacity .3s linear;
 	transition: opacity .3s linear;
-	width: 140px;
 	-webkit-flex-shrink: 0;
 	-ms-flex-negative: 0;
 	flex-shrink: 0;
@@ -7954,7 +7962,8 @@ margin-top: -5px;    */
 }
 
 .outline-list .text-holder {
-	padding: 2px 10px 0;
+	padding: 2px 10px 0 20px;
+	padding-left: 10px!important;
 }
 
 .outline-list h2 {
@@ -8624,6 +8633,7 @@ p.pp-description {
 	min-height: 1px;
 	outline: none;
 	display: none;
+	
 }
 
 [dir="rtl"] .slick-slide {
@@ -8681,7 +8691,7 @@ p.pp-description {
 }
 
 .interesting-slider {
-	padding: 52px 14px 0;
+	padding: 52px 0px 0;
 	position: relative;
 }
 
@@ -8745,7 +8755,7 @@ p.pp-description {
 }
 
 .interesting-box {
-	padding: 0 15px;
+	padding: 0 3px;
 	width: 100%;
 	-webkit-transition: -webkit-transform .35s cubic-bezier(.5, 0, .5, 1), opacity .5s cubic-bezier(.5, 0, .5, 1);
 	transition: transform .35s cubic-bezier(.5, 0, .5, 1), opacity .5s cubic-bezier(.5, 0, .5, 1);
@@ -8758,7 +8768,7 @@ p.pp-description {
 	text-transform: uppercase;
 	font-size: 10px;
 	font-weight: bold;
-	margin: 0 0 7px;
+	margin: 0px;
 	color: #828389;
 	text-decoration: none;
 }
@@ -8768,10 +8778,10 @@ p.pp-description {
 }
 
 .interesting-box h3 {
-	color: #fba011;
+	color: #fff;
 	font-weight: bold;
 	margin: 0;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .interesting-box h3 small {
@@ -8784,6 +8794,8 @@ p.pp-description {
 
 .interesting-box h3 a {
 	text-decoration: none;
+		color: #fff;
+
 }
 
 .interesting-box h3 a:hover {
@@ -8844,7 +8856,7 @@ p.pp-description {
 	-webkit-flex-shrink: 0;
 	-ms-flex-negative: 0;
 	flex-shrink: 0;
-	margin: 0 0 21px;
+	margin: 0 0 5px;
 	display: block;
 	-webkit-transition: opacity .3s linear;
 	transition: opacity .3s linear;
@@ -9407,7 +9419,7 @@ font-weight: lighter;
 	}
 
 	.sort-box {
-		width: 241px;
+		width: 225px;
 	}
 
 	.product-tabs .tab-pane {
@@ -9717,7 +9729,6 @@ font-weight: lighter;
 	}
 
 	.outline-list .img-holder {
-		width: 180px;
 	}
 
 	.products-by .img-box {
@@ -9790,6 +9801,12 @@ font-weight: lighter;
 
 }
 
+.navbar-nav > li > a {
+		padding: 5px;
+		float:left;
+	}
+
+
 .intro .visual.hpbanner {
 top:-30px;
 margin-bottom:-50px;	
@@ -9835,6 +9852,7 @@ margin-bottom:-50px;
 		top: 100%;
 		left: 0;
 		right: 0;
+		padding: 20px 50px 0;
 		background: #2f313a;
 		margin: 0 !important;
 		z-index: 2;
@@ -10269,7 +10287,7 @@ margin-bottom:-50px;
 	.item-topic .name {
 		width: auto;
 		padding: 0;
-		margin: 0 0 15px;
+		margin: 5px 0 15px 0;
 	}
 	
 	.item-topic .name h1 {
@@ -10332,7 +10350,7 @@ margin-bottom:-50px;
 
 	.outline-list li {
 		display: block;
-		text-align: center;
+		text-align: left;
 	}
 
 	.outline-list .img-holder {
@@ -10445,7 +10463,7 @@ margin-bottom:-50px;
 
 	.interesting-box .img-holder {
 		width: 200px;
-		margin: 0 auto 20px;
+		margin: 0 auto 5px;
 	}
 
 	.forms-elements {
@@ -10707,7 +10725,11 @@ margin-bottom:-50px;
 .releases .interesting-slider .slick-arrow { color: white; }
 .releases .interesting h2 { color: white; }
 .releases .interesting h2:after { display: none; }
-.releases .interesting { margin-top: 10px; }  ::-webkit-scrollbar {
+.releases .interesting { margin-top: 10px; }
+
+.product-item.pre { 
+    font-size: 12px; border-bottom: 1px solid #f7d7a5; background-color: #fee9c8;
+}  ::-webkit-scrollbar {
         -webkit-appearance: none;
         width: 7px;
     }
@@ -11054,6 +11076,10 @@ font-size:42px;
 
 .margin-top-20
 {margin-top:20px;
+}
+
+.margin-top-10
+{margin-top:10px;
 }
 
 .margin-left-5
@@ -11605,6 +11631,10 @@ position: relative;
 
 .interesting-slider button {
     z-index: 100000;
+}
+
+#videotab ul.outline-list li div.row {
+    width: 100%;
 }</style>
 <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 /*! jQuery v2.1.3 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */
@@ -11696,16 +11726,10 @@ ga('send', 'pageview');
                                         <li> <a href="/all-access-pass" role="button">All-Access Pass</a> </li>
                                                                                 <li> <a href="/browse" role="button">Videos</a> </li>
                     <li> <a href="/browse-books" role="button">Books</a> </li>
-                    <li class="search-drop"> <a class="opener" href="#" onclick="$('#searchtext').focus(); checkPrevSearch();"><i class="icon-search" id="searchbuttonoutside"></i></a>
-                        <div class="slide">
-                            <form class="slide-drop" action="javascript: void(0);">
-                                <i class="icon-search"></i>                          
-                                <input type="search" placeholder="Type Here to Search" id="searchtext" name="searchtext" onkeyup="doSearch()">
-                            </form>
-                        </div>
-                    </li>
+                    <li class="search-drop"> <a href="/search" role="button">Search</a>
+
                                         <!-- <li><a href="https://blog.groove3.com" role="button">Blog</a> </li>-->
-                                        <li> <a href="/login"> <i class="icon-lock"></i> <span class="name">Login</span> </a> </li>
+                                        </li><li> <a href="/login"> <i class="icon-lock"></i> <span class="name">Login</span> </a> </li>
                                                 </ul>
             <ul class="log-list list-unstyled">
                 
@@ -11715,7 +11739,13 @@ ga('send', 'pageview');
         </div>
     </nav>
 
-</header>          <div id="systemalert"></div>
+</header>          <div id="systemalert" style="opacity: 0.85; display: block; background-color: rgb(68, 0, 0); border-color: rgb(0, 0, 0); color: rgb(255, 255, 255);">The page you are attempting to retrieve does not exist.</div>
+<script>
+$(function() {
+    $('html,body').scrollTop(0);
+    openAlert('danger','The page you are attempting to retrieve does not exist.');
+});
+</script>
                     <main id="main">
     <div class="container">
         <div class="content">
@@ -11874,7 +11904,7 @@ We use marketing and advertising partners to show you more tailored content, or 
               <li><a href="/privacy-statement">Privacy Statement</a></li>
               <li><a href="/terms">Terms &amp; Conditions</a></li>
             </ul>
-          <span class="copyright">Copyright 2018 Groove 3 Inc.</span>
+          <span class="copyright">Copyright 2019 Groove 3 Inc.</span>
           <a href="#" class="tutorial">Tutorial Videos for Your Studio Tools</a>
         </div>
       </div>
@@ -11980,25 +12010,25 @@ function initSlickSlider() {
 
   gallery.slick({
     infinite: true,
-    slidesToShow: 4,
-    slidesToScroll: 1,
+    slidesToShow: 6,
+    slidesToScroll: 3,
     responsive: [
       {
         breakpoint: 1250,
         settings: {
-          slidesToShow: 3
+          slidesToShow: 6
         }
       },
       {
         breakpoint: 992,
         settings: {
-          slidesToShow: 2
+          slidesToShow: 4
         }
       },
       {
         breakpoint: 768,
         settings: {
-          slidesToShow: 1
+          slidesToShow: 2
         }
       }
     ]
