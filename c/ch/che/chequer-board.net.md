@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chequer-board.net privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908203234id_/https%3A//www.naijaandroidarena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chequer-board.net privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416093930id_/https%3A//www.naijaandroidarena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Naija Android Arena
 
