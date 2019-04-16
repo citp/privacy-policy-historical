@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowbird.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224040729id_/https%3A//www.snowbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowbird.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416020416id_/https%3A//www.snowbird.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -62,7 +62,7 @@ You must promptly notify us if your credit card, user name or password is lost, 
 
 #### Review or Change your Information or Preferences
 
-You may ask us whether we are keeping personal information about you by sending an email, with your complete name and address to: [info@snowbird.com](mailto:info@snowbird.com) or by sending postal mail to this address: Attn: Database Marketing Manager, Snowbird, P.O. Box 929000, Snowbird, Utah, 84092- 9000. We will provide you with a readable copy of the personal information that we keep about you within thirty days of your request, without charge. You may correct, amend or delete any of your information or change your preferences.
+You may ask us whether we are keeping personal information about you by sending an email, with your complete name and address to: [info@snowbird.com](mailto:info@snowbird.com) Attn: Database Marketing Manager. We will provide you with a readable copy of the personal information that we keep about you within thirty days of your request, without charge. You may correct, amend or delete any of your information or change your preferences.
 
 #### Visitor Choice Opt-In/Opt-Out Program
 
@@ -70,7 +70,7 @@ Opt In: You may choose to receive promotional or marketing information from this
 
 #### Opt-Out: 
 
-If you are receiving promotional or marketing information from this web site and no longer wish to receive such information, you may choose to opt-out or unsubscribe by going to the [Email Sign-Up](https://web.archive.org/about/enews.html) or by sending an email to [info@snowbird.com](mailto:info@snowbird.com). Each time we contact you via email using your personal information, we will offer you an opportunity to opt-out or unsubscribe, either entirely or for specific purposes. Please note that our online subscription database is for email marketing programs only. To opt-out from all communications including direct mail, please change your preferences by sending an email to [info@snowbird.com](mailto:info@snowbird.com) or by sending postal mail to: Attn: Database Marketing Manager, Snowbird, P.O. Box 929000, Snowbird, Utah, 84092-9000.
+If you are receiving promotional or marketing information from this web site and no longer wish to receive such information, you may choose to opt-out or unsubscribe by going to the [Email Sign-Up](https://web.archive.org/about/enews.html) or by sending an email to [info@snowbird.com](mailto:info@snowbird.com). Each time we contact you via email using your personal information, we will offer you an opportunity to opt-out or unsubscribe, either entirely or for specific purposes. Please note that our online subscription database is for email marketing programs only. To opt-out from all communications including direct mail, please change your preferences by sending an email to [info@snowbird.com](mailto:info@snowbird.com).
 
 #### Children's Privacy (Ages 12 & Under)
 
@@ -78,14 +78,7 @@ We are concerned about the safety of children and will comply, at all times, wit
 
 #### Privacy Support
 
-If you would like more information regarding our use of your personal information, or you have any questions regarding our Privacy Policy, please contact us at:
-
-Attn: Database Marketing Manager  
-Snowbird  
-P.O. Box 929000  
-Snowbird, Utah, 84092-9000
-
-Or by email: [info@snowbird.com](mailto:info@snowbird.com)
+If you would like more information regarding our use of your personal information, or you have any questions regarding our Privacy Policy, please contact us by email at [info@snowbird.com](mailto:info@snowbird.com) Attn: Database Marketing Manager.
 
 #### VERY IMPORTANT:
 
