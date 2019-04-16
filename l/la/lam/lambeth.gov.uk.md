@@ -1,81 +1,104 @@
-> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517215412id_/https%3A//www.lambeth.gov.uk/elections-and-council/website-support/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417000632id_/https%3A//www.lambeth.gov.uk/privacy-notice) for the most accurate reproduction.*
 
-# Privacy and cookies | Lambeth Council
+# Privacy notice | Lambeth Council
 
-This page gives details of privacy and web cookie policies for users of the Lambeth web site
+The law gives you a number of rights to control what personal information is used by us and how it is used by us. 
 
-## Privacy
+### You have the right to be informed
 
-  * Information you supply on electronic forms available on our web site will only be used for the purpose(s) stated on the form.
-  * Information you provide us with may be used for statistical research but will not be used in any way (beyond its original purpose) which enables you to be identified. 
+This is the information given to you in this privacy notice.
 
+### You have the right to access the information we hold on you
 
+We would normally inform you of what personal information we collect whenever we assess your needs and prior to providing you with services. 
 
-We do not collect any information about you except that required for system administration of the web server. This information which is your IP address is not linked to anything personally identifiable, which means that while your user session will be logged, you will remain anonymous to us.
+You also have the right to ask for all the information we have about you and the services you receive from us. When we receive a request from you in writing, we must give you access to everything we’ve recorded about you.
 
-We provide links from this web site to other sites to provide you with additional information but we cannot guarantee that such links will always work, and we make no representations as to the quality or accuracy of the sites or their terms of use (for example their privacy policy).
+However, we can’t let you see any parts of your record which contain:
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
-
-## Email data collection and use
-
-We will only use the information about you for the purpose for which you provide it. Information you submit to the council is stored on secure servers. In order to complete your request we may need to transfer information you submit to us to countries or jurisdictions outside the EEA.
-
-We are compliant with the EU- US Privacy Shield agreement which regulates the exchange of personal data between these two areas. This is recognised by the European Commission as providing adequate protection for the rights of data individuals in connection with the transfer of their personal data to signatories of the scheme in the USA.
-
-We will never sell or share your personal information with any other organisation outside of Lambeth Council.
-
-London Borough of Lambeth is a data controller under the Data Protection Act 1998. We will hold and process personal information in accordance with this Act.
-
-You may remove or change your details at any time.
-
-## Your right to access your personal information
-
-You have the right access to access your personal information held on our files by making a subject access request to the data protection officer and on payment of an administration fee.
-
-## Cookies
-
-To make this site more simple to use, we sometimes place small data files on your computer. These are known as cookies. Most websites do this.
-
-Cookies improve things by:
-
-  * remembering settings, so you don't have to keep re-entering them whenever you visit a new page
-  * measuring how you use the website so we can make sure it meets your needs. 
+  * confidential information about other people
+  * data a professional thinks will cause serious harm to your or someone else’s physical or mental wellbeing
+  * information that we think may stop us from preventing or detecting a crime if we give it to you.
 
 
 
-Our cookies aren't used to identify you personally. They're just here to make the site work better for you. Indeed, you can manage and/or delete these small files as you wish.
+This applies to personal information that is in both paper and electronic records.
 
-To learn more about cookies and how to manage them, block them or delete them visit the [About Cookies website](http://www.aboutcookies.org/ "About Cookies website")
+If you ask us, we’ll also let others see your record, except if one of the points above applies.
 
-### How we use cookies
+If you can’t ask for your records in writing, we’ll make sure there are other ways that you can. 
 
-On www.lambeth.gov.uk we use a number of cookies. By using our website, you agree that we can place these types of cookies on your device.
+If you have any queries about access to your information please email [dataprotection@lambeth.gov.uk](mailto:dataprotection@lambeth.gov.uk) or call us on 020 7926 9694.
 
-### Measuring website usage (Google Analytics)
+### You have the right to ask us to change information we hold about you that you think is inaccurate
 
-We use Google Analytics to collect information about how people use this site. We do this to make sure it’s meeting its users’ needs and to understand how we could do it better.
+You should let us know if you disagree with something written on your file.
 
-Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. We do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
+We may not always be able to change or remove that information but we’ll correct factual inaccuracies and may include your comments in the record to show that you disagree with it.
 
-The following cookies are set by Google Analytics: 
+### You have the right to ask for your personal information to be erased in some circumstances (right to be forgotten).
 
-Name | Typical Content | Expires  
----|---|---  
-_utma | randomly generated number | 2 years  
-_utmb | randomly generated number | 30 minutes  
-_utmc | randomly generated number | when you close your browser  
-_utmz | randomly generated number and information on how the site was reached (e.g. direct or via a link, organic search or paid search) | 6 months  
-  
-## Translation (Google translate)
+In certain instances, you can ask for your personal information to be deleted, for example where: 
 
-We have the Google translate tool to enable you to translate our web pages.
+  * your personal information is no longer needed for the reason why it was collected in the first place 
+  * you have removed your consent for us to use your information - where there is no other legal reason us to use it
+  * there is no legal reason for the use of your information 
+  * deleting the information is a legal requirement 
+  * your personal information has been shared with others, we’ll do what we can to make sure those using your personal information comply with your request for erasure.
 
-The following cookies are set by Google translate: 
 
-Name | Typical Content | Expires  
----|---|---  
-PREF (.translate.googleusercontent.com) | Stores language preferences for the Google Translate widget | 2 years  
-PREF (.google.com) | Stores preferences for the Google Translate widget | 2 years  
-  
-For information about Google products and cookies see: [Google Privacy Policy](http://www.google.com/privacypolicy.html "Google privacy policy")
+
+Please note that we can’t delete your information where:
+
+  * we’re required to have it by law 
+  * it's used for freedom of expression 
+  * it's used for public health purposes 
+  * it's for, scientific or historical research, or statistical purposes where it would make information unusable 
+  * it's necessary for legal claims.
+
+
+
+### You have the right to ask us to limit what we use your personal data for
+
+You have the right to ask us to restrict what we use your personal information for where:
+
+  * you have identified inaccurate information, and have told us of it 
+  * where we have no legal reason to use that information, but you want us to restrict what we use it for rather than erase the information altogether.
+
+
+
+When information is restricted it can’t be used other than to securely store the data and with your consent to handle legal claims and protect others, or where it’s for important public interests of the UK.
+
+Where restriction of use has been granted, we’ll inform you before we carry on using your personal information.
+
+### You have the right to ask for your personal information to be given back to you or another service provider of your choice in a commonly used format. This is called data portability.
+
+This only applies if we’re using your personal information with consent (not if we’re required to by law) and if decisions were made by a computer and not a human being.
+
+It’s likely that data portability won’t apply to most of the services you receive from us. 
+
+### You have the right to object to our use of your personal information for any council service
+
+However, if this request is approved this may cause delays or prevent us delivering that service.
+
+Where possible we’ll seek to comply with your request, but we may need to hold or use information because we are required to by law.
+
+### You have the right to question automated and profiling decisions about you, unless required for any contract you have entered into, required by law, or you’ve consented to it. 
+
+You have the right to know if your personal information is used in an automated process which could result in an unfavourable decision against you.
+
+You also have the right to object if you are being ‘profiled’. Profiling is where decisions are made about you based on certain things in your personal information, for example your health conditions. 
+
+If and when we use your personal information to profile you, to deliver the most appropriate service to you, you will be informed.
+
+If any of the personal information we take from you is used in the processes above we will tell you at the time it is taken. 
+
+If you have concerns regarding automated decision making, or profiling, please contact the Data Protection Officer who’ll be able to advise you about how we are using your information. 
+
+### Complaints
+
+If you wish to make a complaint about our information rights practices, [contact our Data Protection Officer](https://web.archive.org/elections-and-council/privacy/contact-the-data-protection-officer).
+
+We will respond to any information rights concerns we receive, clarifying how we have processed your personal information in a specific case and explaining how we will put right anything that's gone wrong.
+
+If you are dissatisfied with our handling of your complaint, you may [report your concern to the Information Commissioners Office](https://ico.org.uk/concerns/).
