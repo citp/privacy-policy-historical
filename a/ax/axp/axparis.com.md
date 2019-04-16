@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axparis.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629151147id_/https%3A//www.axparis.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axparis.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416032846id_/https%3A//www.axparis.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – AX Paris
 
 Privacy matters AXPARIS recognizes the importance of our customers' privacy and takes a number of steps to protect that privacy. The following discloses the information gathering and dissemination practices for our web site.
 
@@ -27,6 +27,12 @@ Financial information that is collected is used to bill you for products that yo
 If you register for email or if you provide your email address to us, we will send you emails. These emails will inform you of our launch of new products. If you currently receive our emails and do not wish to continue receiving them, please see the "How to remove your name from our mailing, sharing or email list" section below.
 
 We use your shipping address to ship your products to you and to send catalogues and other mailings to you. We use your billing address, if different than your shipping address, to verify your billing information. We never share our customer names or addresses, e-mail addresses or other personally identifiable information, other than to the extent described in the “Consenting to Uses of Your Information” section below. If you do not wish to receive catalogues or other mailings from us, please see the "How to remove your name from our mailing, sharing or email list" section below.
+
+**Payment**
+
+In order to be able to offer you Klarna’s payment options, we will pass to Klarna certain of your personal information, such as contact and order details, in order for Klarna to assess whether you qualify for their payment options and to tailor the payment options for you.
+
+General information on Klarna you can find [here](https://www.klarna.com/uk/). Your personal data is handled in accordance with applicable data protection law and in accordance with the information in[ Klarna’s privacy policy](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy).
 
 **Disclosures of Your Information**
 
