@@ -1,106 +1,54 @@
-> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701113339id_/https%3A//www.scfederal.org/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416202543id_/https%3A//www.scfederal.org/Privacy-Notice) for the most accurate reproduction.*
 
-# South Carolina Federal Credit Union - for all your financial and banking needs
+# Privacy Notice | South Carolina Federal Credit Union
 
-[Home](https://web.archive.org/) > Privacy-Notice
+For the purposes of this notice, the terms “we,” “us,” “our,” “credit union,” and “South Carolina Federal Credit Union” mean South Carolina Federal Credit Union.
 
- Rev. 9/13
+This Digital Privacy Notice applies to your interaction with any of our online sites, mobile sites, or applications, which we own and control (hereinafter “Digital Interface”), unless a different notice is posted on a particular Digital Interface or otherwise provided to you that supersedes this policy. If a Digital Interface is owned and/or controlled by a third party, that third party’s digital privacy policy will govern, unless otherwise stated. Other privacy policies may also apply in addition to this Digital Privacy Notice. Please consult the [Privacy Notice](https://www.scfederal.org/en/Privacy-Notice) for details on how we may collect and share information with third parties and affiliates.
 
-FACTS  | WHAT DOES SOUTH CAROLINA FEDERAL CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?   
----|---  
-**Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
-**What?** | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
+Please read this Digital Privacy Notice carefully. Your continued use of any of our Digital Interfaces is your consent to this Digital Privacy Notice and your consent to our use and disclosure of information collected from you as described in this Digital Privacy Notice.
 
-  * Social Security number and credit card or other debt 
-  * credit history and employment information 
-  * payment history and transaction or loss history 
+**What information do we collect?**
 
-  
-**How?** | All financial companies need to share members’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members’ personal information; the reasons South Carolina Federal chooses to share; and whether you can limit this sharing.  
-  
-**Reasons we can share your personal information** | **Does South Carolina Federal share?** | **Can you limit this sharing?**  
----|---|---  
-**For our everyday business purposes –** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or to report to credit bureaus  | Yes | No  
-**For our marketing purposes –** to offer our products and services to you  | Yes | No  
-**For joint marketing with other financial companies** | Yes | No  
-**For our affiliates’ everyday business purposes –** information about your transactions and experiences  | Yes | No  
-**For our affiliates’ everyday business purposes –** information about your creditworthiness  | No | We don't share  
-**For our affiliates to market to you** | Yes | Yes  
-**For nonaffiliates to market to you** | No | We don't share  
-  
-**To limit our sharing** | 
+**We may collect any or all of the following types of information:**
 
-  * Call 843-797-8300 **(Charleston)** or 800-845-0432 **(Nationwide)**
-  * Visit us online at **scfederal.org**
+  * Information related to data generated from your activity, including but not limited to transaction and location information.
+  * Technical information related to the device you are using, including but not limited to, your IP address, your operating system, and the browser you are using. 
+  * Other information collected through cookies, tags, and other technologies, including but not limited to which product pages you visit, what advertisements you view or click on, and how long you view a particular page
 
-  
-**Please note:** If you are a new member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
----|---  
-  
-**Questions?** | Call 843-797-8300 **(Charleston)** or 800-845-0432 **(Nationwide)** or visit us online at scfederal.org  
----|---  
-  
-**What we do**    
----  
-**How does South Carolina Federal protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
-**How does South Carolina Federal collect my personal information?** | 
+**Other parties may also collect information about you when you use our Digital Interfaces:**
 
-We collect your personal information, for example, when you 
-
-  * open an account or apply for a loan 
-  * show your government-issued ID or give us your employment information 
-  * give us your wage statements 
+  * Our service providers may collect information about you in order to provide us with marketing and other services.
+  * We may provide widgets, embedded content, or other tools that are owned by third parties, including but not limited to maps, information streaming from another site, and widgets that enable you to share information on social media. The third parties that own these types of tools may have access to information about your browsing history on our Digital Interfaces. You should review information at the third parties’ sites to learn how these third parties collect and use information they collect from you. 
 
 
 
-We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.    
-  
-**Why can’t I limit all sharing?** | 
+**What are cookies?**
 
-Federal law gives you the right to limit only 
+Cookies are pieces of information that are stored on your device. Browser cookies are placed by a web server and let the server know when you return to a site you have visited before. Some cookies can be cleared via your web browser. Others may be placed in an Adobe folder on you device; refer to Adobe for information on how to manage these types of cookies. Cookies can be used for various purposes, including but not limited to collecting information about your web browsing, maintaining continuity during an online session, gathering data about how you use our Digital Interfaces, and for anti-fraud and information security purposes. 
 
-  * sharing for affiliates’ everyday business purposes – information about your creditworthiness 
-  * affiliates from using your information to market to you 
-  * sharing for nonaffiliates to market to you 
+**Can I disable cookies?**
 
+Your browser may allow you to manage cookies, including rejecting them altogether. Refer to your browser provider for more information on managing cookies. Please note that disabling cookies may limit the functionality we can provide you through our Digital Interfaces. 
 
+**What other technologies may be used to collect information?**
 
-State law and individual companies may give you additional rights to limit sharing.    
-  
-**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone on your account.  
-  
-**Definitions**    
----  
-**Affiliates** | 
+Additional technologies used to collect information may include, but are not limited to, pixel tags, web beacons, clear GIFs, and Flash objects. 
 
-Companies related by common ownership or control. They can be financial and nonfinancial companies. 
+**How do we use the information we collect?**
 
-  * _Our affiliates include financial companies, such as South Carolina Financial Solutions, LLC, DBA Insurance Solutions_
+Our use of the information we collect from you may include, but is not limited to, the following:
 
-  
-**Nonaffiliates** | 
+* Enhancing your experience with our Digital Interfaces, such as by making them more personalized based on the products or services you view and interact with. 
+* Measuring the effectiveness of our various advertisements and promotions.
+* Determining how often a particular product or service is viewed or used. 
+* Determining which of our products and services are most likely to appeal to you, so we can provide you with related advertisements or other offers. 
+* Other purposes, including but not limited to tracking website usage and risk control purposes. 
 
-Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
+**Can I opt out of receiving ads based upon information you collect?**
 
-  * _South Carolina Federal does not share with our nonaffiliates so they can market to you_
+You may opt out of receiving such ads by visiting [www.aboutads.info/choices](https://web.archive.org/External-Links/AboutAds)
 
-  
-**Joint Marketing** | 
+**Do you collect information from children?**
 
-A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
-
-  * _Our joint marketing partners include insurance companies and financial advisors_
-
-  
-  
-**Online Banking Enrollment**
-
-Enrolling in Online Banking is simple and FREE:
-
-  1. Enter your **User ID**
-  2. Enter Phone Banking PIN as your **Password**
-  3. Click on the **LOG IN** button
-
-
-
-If you don't know your Phone Banking PIN, please contact us at 843.797.8300 **(Charleston)** or 800.845.0432 **(Nationwide)**.
+Our Digital Interfaces are not intended for individuals under the age of thirteen (13) years old. We do not knowingly collect information from individuals under the age of thirteen (13) years old, and additionally request that such individuals do not provide personal information through our Digital Interfaces. Please visit the FTC website, [www.ftc.gov](http://www.ftc.gov/), for more information about the Children’s Online Privacy Protection Act (COPPA).
