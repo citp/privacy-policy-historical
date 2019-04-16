@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmofthemadgod.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817022457id_/http%3A//decagames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmofthemadgod.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416203339id_/https%3A//decagames.com/privacy.html) for the most accurate reproduction.*
 
 # Deca Games - Privacy Policy
 
