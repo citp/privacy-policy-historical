@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tolexo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170413id_/https%3A//www.tolexo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolexo.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416105808id_/https%3A//www.tolexo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-TOLEXO ONLINE PRIVATE LIMITED (hereinafter referred to as "TOLEXO") is committed to safeguarding its users' privacy (hereinafter referred to as “Your” "You") accessing its website (i.e. tolexo.com) and has provided this Privacy Policy  to familiarize You with the manner in which TOLEXO collects, uses and discloses Your information collected through the Website.
+TOLEXO ONLINE PRIVATE LIMITED running brands "TOLEXO" and "POORAA" (hereinafter referred to as "TOLEXO") is committed to safeguarding its users' privacy (hereinafter referred to as “Your” "You") accessing its website or mobile app (i.e. tolexo.com/pooraa.com/ Pooraa mobile APP) and has provided this Privacy Policy  to familiarize You with the manner in which TOLEXO collects, uses and discloses Your information collected through the Website.
 
 Before you subscribe to and/or begin participating in or using website, TOLEXO believes that You have fully read, understood and accept the terms and conditions of this privacy policy.
 
@@ -12,19 +12,21 @@ If you do not agree to or wish to be bound by the terms and conditions of this p
 
 This Policy should be at all times read along with the [Terms of Use](https://web.archive.org/terms-of-use.html) of the Website.
 
-**COLLECTION OF INFORMATION**
+**COLLECTION OF PERSONAL AND SENSITIVE INFORMATION**
 
 TOLEXO collects personal and non-personal information when they register to gain access to the services provided by the TOLEXO or at other specific instances when they are requested to provide us with their personal & non-personal information (“Information”). Personal Information shall include, but not limited to, information regarding Your name, date of birth, gender, address, telephone number, e-mail address, etc. You can always choose not to provide information and in such cases, if the information required is classified as mandatory, You will not be able to avail of that part of the Services, features or content. You can add or update Your Personal Information on a regular basis. When You update information, TOLEXO will keep a copy of the prior version for its records.
 
-TOLEXO's primary goal in collecting information is to provide the user with a customized experience on our websites. This includes personalized services, interactive communication and other services. TOLEXO collects Your Personal Information in order to record, support and facilitate Your participation in the activities You select, track Your preferences, to notify You of any updated information and new activities and other related functions offered by TOLEXO, keep You informed about latest content available on the Website, special offers, and other products and services of TOLEXO, to provide You with a customized Website experience, to assist You with customer service or technical support issues, to follow up with You after Your visit, to otherwise support Your relationship with TOLEXO or to prevent fraud and unlawful use.
+TOLEXO's primary goal in collecting information is to provide the user with a customized experience on our websites and mobile apps. This includes personalized services, interactive communication and other services. TOLEXO collects Your Personal Information in order to record, support and facilitate Your participation in the activities You select, track Your preferences, to notify You of any updated information and new activities and other related functions offered by TOLEXO, keep You informed about latest content available on the Website, special offers, and other products and services of TOLEXO, to provide You with a customized Website experience, to assist You with customer service or technical support issues, to follow up with You after Your visit, to otherwise support Your relationship with TOLEXO or to prevent fraud and unlawful use.
 
-Certain information may be collected when you visit the Website and such information may be stored in server logs in the form of data. Through this Data TOLEXO understand the use and number of user visiting the Website. Some or all data collected may be shared with the sponsors, investors, advertisers, developer, strategic business partners of TOLEXO. While using the Website, TOLEXO's servers (hosted by a third party service provider) may collect information indirectly and automatically about Your activities on the Website; for instance by way of cookies.
+Certain information may be collected when you visit the Website or APP and such information may be stored in server logs in the form of data. Through this Data TOLEXO understand the use and number of user visiting the Website. Some or all data collected may be shared with the sponsors, investors, advertisers, developer, strategic business partners of TOLEXO. While using the Website, TOLEXO's servers (hosted by a third party service provider) may collect information indirectly and automatically about Your activities on the Website; for instance by way of cookies.
 
 Promotions that run on our website may be sponsored by companies other than TOLEXO or may be co-sponsored by TOLEXO and another company. We use third-party service providers to serve ads on our behalf across the internet and sometimes on the Website. They may collect information about Your visits to our Website. TOLEXO uses the log file which includes but not limited to internet protocol (IP) addresses, browser software, number of clicks, number of unique visitors, internet service provider, exit/referring pages, type of platform, date/time stamp, screen resolution etc. for analysis that helps us provide you improved user experience and services.
 
 We record buying and browsing activities of our users including but not limited to YOUR contact details and profiles and uses the same to provide value-added services to our users.
 
 We use them to administer the site, track a user's movement and gather broad demographic information for aggregate use. Once a user registers, he/she is no longer anonymous to TOLEXO and it is deemed that the user has given TOLEXO the right to use the personal & non personal information.
+
+We don't allow unauthorized publishing or disclosure of people's non-public contacts.
 
 Please note our website is also not a risks proof website.
 
@@ -69,3 +71,9 @@ TOLEXO may, from time to time, send its users emails regarding its products and 
 **CHANGES IN PRIVACY POLICY**
 
 The policy may change from time to time so please check periodically. The revised Policy shall be made available on the Website. Your continued use of the Website, following changes to the Policy, will constitute your acceptance of those changes. Any disputes arising under this Policy shall be governed by the laws of India.
+
+**GRIEVANCE OFFICER**
+
+In accordance with the applicable laws, the name and details of the Grievance officer are provided below:  
+Mr. Victor Kharkwal   
+Email Address: [grievances@tolexo.com](mailto:grievances@tolexo.com)
