@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uvu.edu privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016191942id_/https%3A//www.uvu.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvu.edu privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416190137id_/https%3A//www.uvu.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Legal | Utah Valley University
 
