@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundsnap.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122023009id_/https%3A//www.soundsnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundsnap.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416193121id_/https%3A//www.soundsnap.com/privacy) for the most accurate reproduction.*
 
 # Soundsnap Privacy Policy
 
@@ -74,7 +74,7 @@ If you prefer, you can usually set your browser to disable cookies, or to alert 
 
 ## Other 3rd Party Processors and Collected Information
 
-We also use various other third party processors in order to provide you with our Products and Services, enhance your user experience on our Site, create user accounts, enable login functionality, provide you updates and various promotions and offers, provide receipts for Products and Services ordered, and enable our Site to function smoothly. These third party processors may at various times have access to, and store, Personal Information and User Data. Our processors currently are the following (“Processors”): FutureHosting, SiteGround, JCC, BrainTree, PayPal, Algolia, Google, Facebook, MailChimp, ExitBee, LinkedIn, ZenDesk, Zapier, Nexcess, and SingleHop. By accessing and viewing our Site, providing your Information, and accessing our Products and Services, you agree to each of our Processor’s privacy policies.
+We also use various other third party processors in order to provide you with our Products and Services, enhance your user experience on our Site, create user accounts, enable login functionality, provide you updates and various promotions and offers, provide receipts for Products and Services ordered, and enable our Site to function smoothly. These third party processors may at various times have access to, and store, Personal Information and User Data. Our processors currently are the following (“Processors”): FutureHosting, SiteGround, JCC, BrainTree, PayPal, Algolia, Google, Facebook, ActiveCampaign, Quora, Reddit, Outbrain, Twitter, ExitBee, LinkedIn, ZenDesk, Zapier, Nexcess, and SingleHop. By accessing and viewing our Site, providing your Information, and accessing our Products and Services, you agree to each of our Processor’s privacy policies.
 
 ## OUR USE OF COLLECTED INFORMATION
 
