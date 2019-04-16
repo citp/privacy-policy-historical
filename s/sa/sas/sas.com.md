@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231222155id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416090324id_/https%3A//www.sas.com/en_us/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | SAS
 
@@ -10,7 +10,7 @@ Your privacy is important to us. SAS Institute Inc., together with our subsidiar
 
 This Privacy Statement applies to information we collect when you visit this website and our other websites and mobile apps that we operate and that reference this Privacy Statement (collectively, the Websites). We may also collect information from you in other ways, including information collected during technical support contacts, on registration forms, in person (e.g., business cards), and from third parties. If we provide a separate or supplemental notice when we collect personal information from you, that notice will control to the extent of any conflict.
 
-Special notice for the EEA: Persons in the European Union should access the [EEA version of this Privacy Statement](https://www.sas.com/en_us/legal/privacy/eea-privacy-statement-corp.html) applicable to processing of personal information subject to the General Data Protection Regulation.
+Special notice for the EEA: Persons in the European Economic Area and the UK should access the [EEA/UK version of this Privacy Statement](https://www.sas.com/en_us/legal/privacy/eea-privacy-statement-corp.html) applicable to processing of personal information subject to the General Data Protection Regulation and the UK Data Protection Act.
 
 This Privacy Statement does not apply to:
 
@@ -127,4 +127,4 @@ ATTN: Legal Division / Privacy Officer
 
 [privacy@sas.com](mailto:privacy@sas.com)
 
-_Revised August 28, 2018_
+_Revised March 26, 2019_
