@@ -1,29 +1,31 @@
-> *The following text is extracted and transformed from the setonhill.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075304id_/http%3A//www.setonhill.edu/spec_case1.cfm%3FSCID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setonhill.edu privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416130104id_/https%3A//www.setonhill.edu/seton-hill-site-privacy-policy) for the most accurate reproduction.*
 
-# SETON HILL UNIVERSITY
+# Seton Hill Site Privacy Policy · Seton Hill University
 
-#### Privacy Policy
+## Setonhill.edu Web Privacy Statement
 
-Seton Hill University respects and protects the privacy of the individuals that visit the Seton Hill University website. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy ("Privacy Policy"). 
+It is the policy of Seton Hill University (SHU) to respect the privacy of all website visitors. When a visitor accesses the SHU website, the University's Web server automatically gathers information from the visitor.   Seton Hill University does not share the visitor’s information gathered from its Web server.
 
-_Seton Hill University and Cookies_
+### Cookies
 
-The Seton Hill University website will occasionally set cookies to assist user tracking and demographic analysis of visitors to the Seton Hill University website. Seton Hill University will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order. 
+The Seton Hill University’s website utilizes Google Analytics (a Web analytics service provided by Google, Inc.) to help analyze how visitors navigate the website. This analytical tool uses cookies, which is a small piece of text stored on a user's computer by their web browser to collect data.  This data is then used to evaluate a visitor’s use of the website and to compile statistical reports on website activity.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of the Seton Hill University website may not function properly if you refuse cookies. 
+### Online Forms
 
-_What Information Do We Collect?_
+Some of the website’s online forms may ask visitors to enter information in fields such as name, email address, and phone number.  If a visitor does not feel comfortable with entering in the information through the online form, please feel free to contact the appropriate office by phone. 
 
-Seton Hill University does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information. Information knowingly provided is not sold to third party vendors. 
+### Online Directory
 
-_With Whom Does Seton Hill University Share Information?_
+Seton Hill University's online directory provides staff and faculty information (name and email address).  Information obtained from the online directory may not be used for outside mailings to SHU faculty or staff.  Any solicitation to individuals listed in the directory by mail, telephone, email, or other means is forbidden.  The online directory is expected to be used in a legal and responsible manner.  
 
-Seton Hill University may share inforamtion provided by website visitors to those expressly stated in form being used to collect the information (ie., offering alumni email addresses to other alumni). Seton Hill University does not sell specific personal information to third party vendors. 
+### Online Payments
 
-_Your consent and changes to the Privacy Policy_
+Seton Hill University contracts with third party vendors to provide electronic payment options for various processes.  Each of the vendors is likewise obligated to protect the privacy of individuals and ensure the highest level of security.
 
-By using the Seton Hill University website, you consent to the collection and use of your information as we have outlined in this policy and to our Terms of Service Policy. Seton Hill University may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+### Online Payments
 
-_Who can I ask if I have additional questions?_
+Seton Hill University contracts with third party vendors to provide electronic payment options for various processes.  Each of the vendors is likewise obligated to protect the privacy of individuals and ensure the highest level of security.
 
-Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is help@Seton Hill University.com. 
+### Text/Voice Message Policy
+
+You may receive future calls and/or texts that deliver messages by Seton Hill University. Message and data rates may apply to each text message sent or received as provided in your wireless service rate plan. You will have the option to opt-out of such messages at any time.
