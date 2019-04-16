@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204152334id_/https%3A//glidemagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416183353id_/https%3A//glidemagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glide Magazine
 
@@ -6,7 +6,7 @@ _Glide Magazine_  (“Glide”) is committed to protecting the privacy of the p
 
 Our postal address is:
 
- **Glide Magazine**  
+**Glide Magazine**  
 **PO Box 1597**  
 **Scottsdale, AZ 85252**
 
@@ -20,7 +20,7 @@ From time to time and only with prior consent, we may make information about our
 
 You may access, correct, update, and/or delete any personally identifiable information that you have submitted to the site. You may also unsubscribe from mailing lists or any registrations on the site. To do so, please either follow instructions on the page of the site on which you have provided such information or subscribed or registered, send us an e-mail at [info@glidemagazine.com](mailto:info@glidemagazine.com), or contact us at the address and phone number listed above.
 
- _Glide Magazine  _has implemented generally accepted standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration, or destruction. Only authorized Glide personnel are provided access to personally identifiable information, and these employees are required to treat this information as confidential. Despite these precautions, we cannot guarantee that unauthorized persons will not obtain access to your personally identifiable information.
+_Glide Magazine  _has implemented generally accepted standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration, or destruction. Only authorized Glide personnel are provided access to personally identifiable information, and these employees are required to treat this information as confidential. Despite these precautions, we cannot guarantee that unauthorized persons will not obtain access to your personally identifiable information.
 
 The site may use cookies to identify you and your interests and to track usage of the site. Cookies are small pieces of text stored on your computer that help us know which browser you are using, where you have been on the site, and on Web sites to which you may link in order to use some of our features. Cookies also let us know whether you have registered with us and otherwise enable us to relate your current usage of the site to prior usage of this or other affiliates. By accepting our cookie, you will be permitted access to certain pages of the site without having to log in each time you visit. A user who does not accept the cookie from the site may not be able to access certain areas of the site. We also log IP addresses, or the location of computers on the Internet, to help diagnose problems with our server and to administer the Site.
 
