@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verify-email.org privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925215305id_/https%3A//verify-email.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verify-email.org privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416133054id_/https%3A//verify-email.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -36,6 +36,6 @@ We reserve the right to add to or change the terms of this Privacy Policy in our
 
 ### GDPR Compliance
 
-The website is in Compliance with the EU GDPR (General Data Protection Regulation) made affective on 25th May 2018\. Please refer to <https://verify-email.org/gdpr>
+The website is in Compliance with the EU GDPR (General Data Protection Regulation) made affective on 25th May 2018\. Please refer to <https://verify-email.org/gdpr.html>
 
 All data, including email addresses verified via our website or services, is not disclosed to any third-parties as persons or organizations. We handle your information responsibly and with respect. All customers’ data is protected and kept safe.
