@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiremaker.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218033431id_/http%3A//www.inspiremaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremaker.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416101057id_/http%3A//www.inspiremaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
