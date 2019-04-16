@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisgrandmaisfun.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215223809id_/https%3A//www.thisgrandmaisfun.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisgrandmaisfun.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416094604id_/https%3A//www.thisgrandmaisfun.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TGIF - This Grandma is Fun
 
