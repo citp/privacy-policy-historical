@@ -1,100 +1,14 @@
-> *The following text is extracted and transformed from the suttontrust.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011354id_/https%3A//www.suttontrust.com/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suttontrust.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416163038id_/https%3A//www.suttontrust.com/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy - Sutton Trust
 
-Your Privacy[Grace Veenman](https://www.suttontrust.com/author/rebecca/ "Posts by Grace Veenman")2018-08-29T09:47:34+00:00
+Your Privacy[Grace Veenman](https://www.suttontrust.com/author/rebecca/ "Posts by Grace Veenman")2019-02-27T13:30:08+00:00
 
 We may update these privacy notices so please check back to see changes. We will notify you of changes by positing a notice on our homepage and changing the ‘last updated’ date on the notice itself.
 
 ### Sutton Trust privacy statements and related documents
 
 Here you will find our privacy policies for various areas of our work. Click on the relevant tab for more details. To find out your rights, or to file a query or complaint, click here.
-
-  1. **What we collect**
-
-
-
-We only collect a minimal amount of personal information. This includes information you give when signing up to our newsletter (name, e-mail address, job title) or communicating with us. This also includes information about individuals who are (or are employed by) stakeholders, for example an MP, chief-executive of a not-for-profit organisation, journalist, or comparable individual. This information includes name, job title, organisation, and contact information (e-mail).
-
-We collect this information through various means including:
-
-  * yourself;
-  * from our research into stakeholders with an interest in topics relevant to the Sutton Trust’s aims using public sources such as websites;
-  * from our research into journalists using public sources such as websites;
-  * recommendations from other stakeholders;
-  * recommendations from staff members of the Sutton Trust;
-  * business cards received at events
-
-
-  2. **Why we collect it**
-
-
-
-**Our use of your personal information** | **Our legal basis for processing your personal information**  
----|---  
-We use your personal information to send you our e-newsletter, which includes all our marketing communications such as our research programme, including details of recent reports or blogs; our events and activities; job opportunities. | We will only contact you in this way if you have given us your consent to do so.  If you withdraw your consent for us to contact you with this information, we will no longer use your contact details in this way.  
-We use your personal information to organise events; to update stakeholders on relevant policy events and reports; to communicate with journalists on relevant news, events and reports. | It is in our legitimate interest to inform stakeholders of the work we are doing. Stakeholders may find our reports/events informative and useful in shaping the discussion on these issues. Also at times we may want the input of stakeholders into the policy debate. If you are a stakeholder and you are receiving communications from us, but do not wish to do so anymore, then let us know at info@suttontrust.com and we will no longer contact you in this way.  
-We use your personal information where it is publicly available including party affiliation, individual interests (according to publicly available reports or from Hansard) and previous voting record to segment what information we send to stakeholders. | This activity is in our legitimate interest so that we are only sending information to you that would be of interest.  
-We use your personal information to conduct research reports (i.e. using publicly available information on Members of Parliament). | This activity is in our legitimate interest to conduct relevant and proper research to further our aim of improving social mobility. Some personal information will be provided to us by the individual strictly for research purposes on the basis of consent.  
-We use website usage data and user data (such as your IP address and details of your browser and device) to provide products and services; to enable certain website functions; to better understand how visitors use this website; and to present timely and relevant information to visitors. | This activity is in our legitimate interest to help ensure the website operates properly.  
-  
-Where we have a contractual relationship with you, we may process your personal information as necessary for the performance of that contract or prior to entering into it.
-
-  3. **What we do with your data**
-
-
-
-For our research, all data held internally is anonymised, apart from where the information on the individual is publicly available (i.e. Members of Parliament). When published, all results are anonymised and any personal information is retained internally.
-
-Occasionally, where we partner with other organisations, we may share information with them (for example, if you register to attend an event being jointly organised by us and another charity). We’ll only share information when necessary and we will never share your contact information (e.g. email or telephone).
-
-  4. **Where we keep it**
-
-
-
-Your data will be retained and stored confidentially and processed in accordance with the Data Protection Act (1998) and General Data Protection Regulation (2018) principles.
-
-Your data will be stored on The Sutton Trust’s shared drive. We are based in the UK and store our data within the EU.
-
-We may use the following third-party service providers named below to process and store your data:
-
-  * Mailchimp (The Rocket Science Group, LLC), which we use to manage email marketing subscriber lists and send emails to our subscribers. Read their [privacy policy](https://mailchimp.com/legal/privacy/).
-  * Google Analytics, which we use to measure the performance of this website. We do this to find out things such as the number of visitors to the various parts of the site. Search queries and results are also logged anonymously in Google Analytics to help us improve our website and search functionality. Read their [privacy policy](https://www.google.com/analytics/terms/us.html). You can opt-out of Google Analytics cookies altogether by [opting-out of the browser add-on](https://tools.google.com/dlpage/gaoptout?hl=en).
-  * Automattic, Inc., whose WordPress software (and associated add-ons) we use to manage the content of this website. Read their [privacy policy](https://automattic.com/privacy/).
-
-
-
-**      5.  How long we keep it**
-
-The Trust will store information only for the purposes for which it was collected and continually review our retention periods to ensure that personal data is not stored unnecessarily.
-
-Personal data associated with research will be stored for 10 years, unless it is still considered necessary for research purposes. For all our personal data we will perform an annual check to ensure that:
-
-  * stakeholders are still working at the organisations and in relevant roles within those organisations to justify inclusion on our data-base;
-  * media contacts are up to date and relevant;
-  * personal data associated with research is up to date, and still needed for research purposes (for example we would retain information on individuals who still hold the prominent positions which our research examines, such as those who remain Members of Parliament, as this information would be vital for future analysis. However, if that individual is no longer an MP or a candidate for parliament, they would be deleted from our database).
-
-
-
-If not, your personal information is deleted.
-
-  6. **Social Media**
-
-
-
-Our websites include social media features, such as the ‘Facebook Like’ button. These features may collect information about your IP address and which page you are visiting on our website, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our website.
-
-We also maintain presences on social media platforms including Facebook, Twitter, LinkedIn and Instagram. We use a third-party provider, Buffer to manage our social media interactions. You can find more information on Buffer’s [privacy policy](https://buffer.com/privacy).
-
-Any information, communications, or materials you submit to us via a social media platform is done at your own risk without any expectation of privacy. We cannot control the actions of other users of these platforms or the actions of the platforms themselves. Your interactions with those features and platforms are governed by the privacy policies of the companies that provide them.
-
-  7. **Links to third-party websites**
-
-
-
-Our Websites include links to other websites, whose privacy practices may be different from ours. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
-
-_We keep our privacy notice under regular review. This privacy notice was last updated on: 29 August 2018._
 
 Sutton Trust programmes are run in partnership with universities and third sector organisations.
 
@@ -117,16 +31,16 @@ The Sutton Trust will be what is called the “Controller” of the personal inf
 
 
 
-We collect and process your data under the legal basis of legitimate interests. We collect and process your data for the following purposes:
+We collect and process your data under the legal basis of legitimate interests. We collect and process your data for the following purposes.
 
-  1. process your application
-  2. assess your eligibility for the programme, in line with the specified criteria
-  3. allow delivery partners to contact you their decisions and your place on the programme
-  4. to ensure we can provide adequate support on the programme for any medical or additional needs
-  5. evaluate the programme’s effectiveness
-
-
-
+Why we collect it | Trust programmes, excluding Sutton Scholars | Sutton Scholars  
+---|---|---  
+1\. Process your application | Yes |   
+2\. Assess your eligibility for the programme, in line with the specified criteria | Yes | Yes  
+3\. Allow delivery partners to contact you their decisions and your place on the programme | Yes |   
+4\. Allow delivery partners to contact you their decisions and your place on the programme | Yes |   
+5\. Evaluate the programme’s effectiveness | Yes | Yes  
+  
 For purpose five,
 
 If you do not provide this data we will be unable to provide you with the opportunity for taking part in the programme.
@@ -140,11 +54,13 @@ All the information you provide will only be used for the delivery or evaluation
 What we do | Data categories | Legal basis  
 ---|---|---  
 We use eligibility, outcome and impact data to produce reports to show who is on our programmes and the effect the programme has had. These reports will always be in aggregate form – we will not say anything in our reports that could identify you as an individual | 4, 5, 6, 9, 10 | Our legitimate interests are that the Sutton Trust needs to evidence the reach and effectiveness of its programmes to funders, donors and trustees. As a social mobility charity, The Trust also aims to demonstrate the impact of its programmes on social mobility over time  
-We will share your data with delivery partners, evaluation partners and with tracking services. We will have data sharing agreements in that confirm that those third parties with whom we share your personal information will process your information in compliance with all data protection laws | 1, 4, 6 | Our legitimate interests are to provide you with the opportunity to gain a place on the programme and ensure we can provide adequate support  
+We will share your data with evaluation partners and with tracking services. We will have data sharing agreements in that confirm that those third parties with whom we share your personal information will process your information in compliance with all data protection laws | 1, 4, 6 | Our legitimate interests are to provide you with the opportunity to gain a place on the programme and ensure we can provide adequate support  
 We, our evaluation or delivery partners, will ask you to complete surveys and will link these to the data you provide in this application | 1, 2, 4 | Our legitimate interests are that the Sutton Trust needs to evidence the reach and effectiveness of its programmes to funders, donors and trustees. As a social mobility charity, The Trust also aims to demonstrate the impact of its programmes on social mobility over time  
 The Trust will send you information about additional opportunities with the Sutton Trust e.g. other programmes, financial bursaries and Trust updates | 1, 2, 4 | We will only contact you with this information if you provide us with explicit consent. You can withdraw consent at any time  
 The Trust will allow our delivery partners to contact you about additional opportunities e.g. other programmes | 1, 2, 4 | We will only contact you with this information if you provide us with explicit consent. You can withdraw consent at any time  
 The Trust can share your name, date of birth, postcode, school and contact details with university partners for admissions purposes. This includes seeing if you have applied to that university to highlight your eligibility for contextual offers and bursaries. Universities may then contact you to give you further information. Please tick if you would like this opportunity | 1, 2, 4, 5, 6 | We will only contact you with this information if you provide us with explicit consent. You can withdraw consent at any time  
+We use photographs, film and case studies to demonstrate impact and promote the programme, including reporting to donors, website publications, marketing material, social media and electronic newsletters. Images and case studies may also be shared with the local and national press as part of public relations exercises and press releases | 1, 4, 11 | We will only collect, store and use your image if you provide us with explicit consent. Consent can be withdrawn at any time  
+We will share your personal data with the partner delivering the programme FOR monitoring, selection and delivery purposes. We will have data sharing agreements in place that confirm that those third parties with whom we share your personal information will process your information in compliance with all data protection laws | 1, 2, 3, 4, 5, 6, 7, 8 | Our legitimate interests are that the Trust and delivery partners need this information to make application decisions for the programme and ensure that we are providing the right support for you.  
   
 **3a. Delivery partners**
 
@@ -178,10 +94,11 @@ Impact data will be collected by the Higher Education Access Tracker (HEAT) or o
   * Date of birth
   * Postcode
   * Programme attended
+  * The programme criteria that you meet e.g. free school meal status, school performance, first generation, in care status
 
 
 
-To see a list of the data sets the Trust may access, please click _here_ (have link to webpage)
+To see a list of the data sets the Trust may access, please see the annex at the bottom of this statement.
 
   4. **Where we keep it**
 
@@ -211,28 +128,27 @@ If you gain a place on our programme, we will retain your name, date of birth, p
 
 If you did not gain a place on our programme, we will delete all identifiable information we store after collection of your impact data and will retain an anonymised version of your eligibility for the programme and educational outcomes until we no longer have a legal basis to do so.
 
-_We keep our privacy notice under regular review. This privacy notice was last updated on: 03 July 2018._
+_We keep our privacy notice under regular review. This privacy notice was last updated on: 26 October 2018._
 
 **Annex – The data we hold**
 
-** ** | **Category** | **Source** | **Specific data held**  
----|---|---|---  
-**1** | Basic personal details | Application form | Name, date of birth, gender  
-**2** | Contact details | Application form | Email address(es), physical addresses, phone number(s)  
-**3** | Special categories of data | Application form | Ethnicity, disability, medical history, in care status, special educational needs  
-**4** | The Sutton Trust programme | Application form | Programme applied to, course applied to  
-**5** | Education data | Application form | School, academic performance and academic interests  
-**6** | Eligibility for our programmes | Application form | School, postcode, first generation status, Free School Meal status, in care status  
-**7** | Parental information | Application form | Contact details, education data, employment data, eligibility for benefits  
-**8** | Teacher information | Application form | Name, job title, work email, reference  
-**9** | Outcome data | Surveys | Responses to survey questions, attitudes towards higher education, feedback on the programme  
-**10** | Impact data | Education data sets | University enrolment, course enrolment, degree classification, career choice  
+** ** | **Category** | **Specific data held**  
+---|---|---  
+**1** | Basic personal details | Name, date of birth, gender  
+**2** | Contact details | Email address(es), physical addresses, phone number(s)  
+**3** | Special categories of data | Ethnicity, disability, medical history, in care status, special educational needs  
+**4** | The Sutton Trust programme | Programme applied to, course applied to  
+**5** | Education data | School, academic performance and academic interests  
+**6** | Suitability for our programmes | School, postcode, first generation status, Free School Meal status, in care status  
+**7** | Parental information | Contact details, education data, employment data, eligibility for benefits  
+**8** | Teacher information | Name, job title, work email, reference  
+**9** | Outcome data | Responses to surveys  
+**10** | Destination data | University enrolment, financial aid details  
+**11** | Media | Photographs, case studies, quotes from social media  
   
 Higher Education Access Tracker (HEAT), National Foundation for Educational Research (NFER), The Bridge Group, Education Research and Analysis (ERA), Centre for Evaluation and Monitoring (CEM)
 
 Department of Education attainment data held on the National Pupil Database, UCAS records and/or HESA student records, Destination of Leavers from Higher Education survey
-
-Higher Education Funding Council for England (HEFCE), Department for Education, Higher Education Statistics Agency (HESA), University and Colleges Admissions Service (UCAS), Higher Education Access Tracker (HEAT), East Midlands Widening Participation Research and Evaluation Partnership (EMWPREP), Connexions, or the National Data Service.
 
 Brightside  
 ---  
@@ -262,6 +178,75 @@ University of York
 US-UK Fulbright Commission  
 Warwick University  
   
+The Sutton Trust holds data on teachers to deliver its programmes effectively.
+
+Throughout this policy we use language which can be defined as:
+
+  1. **Programmes:** the Sutton Trust programme or activity for example, UK Summer School or Pathways to Law
+  2. **The Sutton Trust:** references to ‘we’, ‘us’ or ‘our’ means the Sutton Trust of 9th Floor Millbank Tower, 21-24 Millbank, London SW1P 4QP. We are the data controller for the personal data relating to you that we collect and hold
+
+
+  1. **What we collect**
+
+
+
+The Sutton Trust will be what is called the “Controller” of the personal information that we collect about teachers. This includes collecting your name, job title and work contact details. To see a full list of the data we hold please see “The data we hold” annex.
+
+We collect teacher data in two ways:
+
+  * Through Education Company database: we pay a licence fee to access teacher data from the Education Company. This gives us permission to contact teachers about relevant opportunities for their students
+  * Students provide your details: we ask students applying to our programmes to nominate a teacher to verify their application
+
+
+  2. **Why we collect it**
+
+
+
+We collect and process your data under the legal basis of legitimate interests. We collect and process your data for the following purposes:
+
+  1.     1. Verify student applications
+    2. Contact you to provide opportunities to your students
+
+
+  3. **What we do with your data**
+
+
+
+What we do | Data categories | Legal basis  
+---|---|---  
+We will email you the details of any student who has nominated you as their referee. We will ask you to verify the information the student has provided | 1,2,3 | Our legitimate interests are to ensure that we verify student applications to our programmes  
+We contact you about programmes relevant for your students to market the programmes | 1,2 | We only contact you if we have obtained your data through a licenced company: Education Company or you have provided us with explicit consent  
+  
+  4. **Where we keep it**
+
+
+
+4a. Your data will be retained, stored confidentially and processed in accordance with the Data Protection Act (1998) and General Data Protection Regulation (2018) principles.
+
+We take the security of your data very seriously and ensure appropriate technical and organisational measures are in place to protect it against unauthorised or unlawful processing, and against accidental loss, destruction or damage. Your data will at a minimum always be password protected and the number of staff who can access this will be restricted to those for whom access is strictly necessary for the relevant processing.
+
+4b.  Third party IT service providers
+
+We store your data on a CRM system called Salesforce and the Trust’s shared drive. IT providers will have access to personal information stored on these systems. IT providers will be under contract as a data “Processor”, meaning that they cannot use your data for their own purposes.We are based in the UK and store our data within the EU. Some organisations which provide services to us may transfer personal data outside of the EU, but we will only allow them to do if your data is adequately protected. For example, Survey Monkey and Form Assembly who host our online surveys are US based companies. We have processing agreements in place with these organisations to ensure your data is adequately protected.
+
+  5. **How long we keep it**
+
+
+
+The Trust will store your information for a minimum of three years. If after three years, no student has nominated you as a referee, we will delete your information.
+
+**Annex – The data we hold** ** **
+
+| Category | Source | Specific data held  
+---|---|---|---  
+1 | Basic personal details | Education Company database  
+or student application | Name, job title  
+2 | Contact details | Education Company database  
+or student application | Work email address(es), school addresses, school phone number(s)  
+3 | The Sutton Trust programme | Your reference | Your reference for the student, confirmation of your verification of the programme, any additional circumstances you provide  
+  
+_This privacy notice was last updated on 31st December 2018._
+
 **Sutton Trust alumni programme privacy notice**
 
   1. **Purpose of this statement**
@@ -502,9 +487,9 @@ If we do hold information about you we will:
 
 We want to make sure that your personal information is accurate and up to date and we will be happy to correct or remove information you think is inaccurate.
 
-If you have any concerns about the processing or use of data for these purposes or would like a copy of the data you have supplied directly to us, requests should be made in writing to [info@suttontrust.com](mailto:info@suttontrust.com) _._
+If you have any concerns about the processing or use of data for these purposes or would like a copy of the data you have supplied directly to us, requests should be made in writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4622273227363429322325322f29280635333232292832343335326825292b) _._
 
-If you decide in the future that you no longer want your information to be used in any evaluation, please contact the Sutton Trust by e-mailing [info@suttontrust.com](mailto:info@suttontrust.com) or phoning 020 7802 1660.
+If you decide in the future that you no longer want your information to be used in any evaluation, please contact the Sutton Trust by e-mailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85e6eaebf1e4e6f1a8f0f6c5f6f0f1f1eaebf1f7f0f6f1abe6eae8) or phoning 020 7802 1660.
 
 If you have any complaints about the way your data has been handled you can contact the supervisory authority in the UK, the Information Commissioner’s Office, on 0303 123 1113. They are open Monday to Friday between 9am and 5pm.
 
@@ -563,6 +548,30 @@ Funding bodies that universities may report to:
 
 Higher Education Funding Council for England (HEFCE), Department for Education, Higher Education Statistics Agency (HESA), University and Colleges Admissions Service (UCAS), Higher Education Access Tracker (HEAT), East Midlands Widening Participation Research and Evaluation Partnership (EMWPREP), Connexions, or the National Data Service.
 
+**Sutton Trust Alumni terms of use in brief**
+
+By signing up to Sutton Trust Alumni you accept the full terms of use as detailed below. For your ease, we have summarises the main points:
+
+  1. If you are unable to abide by the following requirements, you should not use Sutton Trust Alumni
+  2. If you would like to get in touch with us, please email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#721b1c141d32010706061d1c06000701065c111d1f), or call on +44 (0207) 802 1660
+  3. These terms of use should be understood alongside our privacy policy [hyperlink: <https://www.suttontrust.com/alumni/alumni-your-privacy/> ] and cookie policy [hyperlink: <https://www.suttontrust.com/alumni/alumni-your-privacy/>]
+  4. We may from time to time make changes to our terms of use
+  5. We may from time to time make changes to Sutton Trust Alumni, and we cannot guarantee that the service will be available uninterrupted
+  6. You agree to provide accurate information, and to be responsible for activity that occurs on your account. You must keep your password secure, and must notify us of any breach of your account. We may terminate your account should you violate these terms of use.
+  7. The Trust owns the intellectual property for the content we create on Sutton Trust Alumni, you should not use this content for other ends, and you should treat the content as information only
+  8. You own the intellectual property for content you create, and you should ensure that you have permission to share this content
+  9. You should be careful of the content you post – it should not be offensive, as per the categories set out in section 8 of the terms of use. You should be sensitive of the way you treat others, and should not use Sutton Trust Alumni for any illegal purposes. You should not interfere with Sutton Trust Alumni, create unauthorised accounts, or attempt to restrict others from using it. You should not unreasonably financially or politically profit from Sutton Trust Alumni, and should not reproduce content. You should also be careful not to imply that the Trust endorses or is responsible for content you create.
+  10. You are encouraged to report any inappropriate content to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82ebece4edc2f1f7f6f6edecf6f0f7f1f6ace1edef) immediately.
+  11. We agree to use your details in accordance with our privacy policy [hyperlink: <https://www.suttontrust.com/alumni/alumni-your-privacy/>]
+  12. We do not seek to exclude or limit in any way our liability to you where it would be unlawful to do so
+  13. We can delete your account should you breach these terms of use, and we can also cease offering Sutton Trust Alumni should we decide to
+  14. We do not endorse or accept responsibility for any third-party websites linked to
+  15. You may not use the Sutton Trust name without our approval
+  16. The full terms of use below are governed by English Law
+  17. If any of these terms of use cannot be upheld, the other terms will still apply
+
+
+
 **Please review these terms of use (“Terms of Use”) carefully prior to using our Sutton Trust Alumni platform.  **
 
 **These Terms of Use are effective as of 14 May 2018.**
@@ -609,7 +618,7 @@ The Network comprises a suite of online services provided by the Sutton Trust, i
 
 These Terms of Use govern your use of each component of the Network.
 
-You must be at least 18 years to use the Network. By using the Network, you acknowledge and agree that you are able to enter into and comply with these Terms of Use.
+Users under the age of 18 will have different permissions. You are required to ensure that your birthday is accurate when activating your account. By using the Network, you acknowledge and agree that you are able to enter into and comply with these Terms of Use.
 
   2. Who we are and how to contact us
 
@@ -619,7 +628,7 @@ The Network is owned and operated by the Sutton Trust (“ **We** ” or “ **U
 
 We are registered with and regulated by the Charity Commission.
 
-To contact us, please email info@suttontrust.com, or  telephone our customer service line on +44 (0207) 802 1660.
+To contact us, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or  telephone our customer service line on +44 (0207) 802 1660.
 
 The Sutton Trust may contact you by email in relation to your participation, especially where an issue comes up in relation to these Terms of Use. Any advice we give/request we make should be adhered to, as we are responsible for enforcing the community standards and creating a constructive environment for everyone who is a member of the Network.
 
@@ -631,13 +640,14 @@ These terms of use refer to the following additional terms, which also apply to 
 
   * [Our Privacy Policy](https://www.suttontrust.com/alumni/alumni-your-privacy/). Please see section 11 below for more information.
   * [Our Cookie Policy](https://www.suttontrust.com/alumni/alumni-your-privacy/) , which sets out information about the cookies on our site.
+  * [Our safeguarding policy](https://www.suttontrust.com/wp-content/uploads/2018/05/Sutton-Trust-safeguarding-policy.pdf)
 
 
   4. Changes to these terms
 
 
 
-Please note that these Terms of Use are subject to change from time to time. Any changes will be posted to this page. Every time you wish to use our site, please check these terms to ensure you understand the terms that apply at that time. These terms were most recently updated on [DATE].
+Please note that these Terms of Use are subject to change from time to time. Any changes will be posted to this page. Every time you wish to use our site, please check these terms to ensure you understand the terms that apply at that time. These terms were most recently updated on 26 November 2018.
 
 Your use of this Network or any Network Content after any changes have been made will constitute your agreement to the modified Terms of Use.
 
@@ -653,13 +663,13 @@ However, the Network is made available free of charge and We do not guarantee th
 
 
 
-You agree to provide accurate and complete information when creating or updating your account.  You are solely responsible for the activity that occurs on your user account, and you must keep your account password secure.  You agree to notify us immediately at info@suttontrust.com of any unauthorized use of your account or other breach of security.  You may not use another’s account without permission.
+You agree to provide accurate and complete information when creating or updating your account.  You are solely responsible for the activity that occurs on your user account, and you must keep your account password secure.  You agree to notify us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) of any unauthorized use of your account or other breach of security.  You may not use another’s account without permission.
 
 User accounts may not be shared, transferred, or sold to other parties, nor are they to be used by or made available to any person or entity except the registered user.
 
 We may terminate your account if you violate any provision of these Terms of Use or fail to comply with requests concerning your account.
 
-Your use of our Content on the Network.
+7. Your use of our Content on the Network.
 
 a) The Network and any data, text, files, information, usernames, images, graphics, photos, profiles, audio and video clips, sounds, works of authorship, applications, links, and other content or materials (collectively, the “ **Network Content** ”) belong to Sutton Trust and are protected by intellectual property laws. As between you and the Sutton Trust, the Sutton Trust owns all rights in the Network and the Network Content.
 
@@ -709,13 +719,13 @@ i) Other prohibited activities include, but are not limited to:
 
 
 
-All users are encouraged to report any content which they feel is inappropriate, particularly in relation to Section 9: (Prohibited Uses of the Network). This can be done by emailing [info@suttontrust.com](mailto:info@suttontrust.com), including brief details of the content you object to and where it has been posted. If possible include a link to where the content appears on the network.
+All users are encouraged to report any content which they feel is inappropriate, particularly in relation to Section 9: (Prohibited Uses of the Network). This can be done by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#acc5c2cac3ecdfd9d8d8c3c2d8ded9dfd882cfc3c1), including brief details of the content you object to and where it has been posted. If possible include a link to where the content appears on the network.
 
 We aim to respond to your complaint within five working days, including our decision and the action we will be taking. Please be aware that complaints about content made outside of office hours may be subject to a delay on our target response time. If content is found to be offensive the user who posted the content will be contacted to let them know their post has been deleted, and to remind them about our community standards.
 
 11.  Privacy and Confidentiality
 
-a) We agree to use your User Content in compliance with the privacy policy of the Network [ _LINK_ ], together with any Network-specific data use policies, privacy statements and privacy notices (collectively, “ **Privacy Policies** ”).
+a) We agree to use your User Content in compliance with the [privacy policy of the Network](https://hivebrite.com/terms), together with any Network-specific data use policies, privacy statements and privacy notices (collectively, “ **Privacy Policies** ”).
 
 b) We will treat your User Content as confidential information in accordance with the Sutton Trust policies, and only use and disclose it in accordance with these Terms of Use and the Privacy Policies.
 
@@ -994,6 +1004,92 @@ The Sutton Trust has a legal obligation under data protection legislation to kee
 
 _We keep our privacy notice under regular review. This privacy notice was last updated on: 21 May 2018._
 
+  1. **What we collect**
+
+
+
+We only collect a minimal amount of personal information. This includes information you give when signing up to our newsletter (name, e-mail address, job title) or communicating with us. This also includes information about individuals who are (or are employed by) stakeholders, for example an MP, chief-executive of a not-for-profit organisation, journalist, or comparable individual. This information includes name, job title, organisation, and contact information (e-mail).
+
+We collect this information through various means including:
+
+  * yourself;
+  * from our research into stakeholders with an interest in topics relevant to the Sutton Trust’s aims using public sources such as websites;
+  * from our research into journalists using public sources such as websites;
+  * recommendations from other stakeholders;
+  * recommendations from staff members of the Sutton Trust;
+  * business cards received at events
+
+
+  2. **Why we collect it**
+
+
+
+**Our use of your personal information** | **Our legal basis for processing your personal information**  
+---|---  
+We use your personal information to send you our e-newsletter, which includes all our marketing communications such as our research programme, including details of recent reports or blogs; our events and activities; job opportunities. | We will only contact you in this way if you have given us your consent to do so.  If you withdraw your consent for us to contact you with this information, we will no longer use your contact details in this way.  
+We use your personal information to organise events; to update stakeholders on relevant policy events and reports; to communicate with journalists on relevant news, events and reports. | It is in our legitimate interest to inform stakeholders of the work we are doing. Stakeholders may find our reports/events informative and useful in shaping the discussion on these issues. Also at times we may want the input of stakeholders into the policy debate. If you are a stakeholder and you are receiving communications from us, but do not wish to do so anymore, then let us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will no longer contact you in this way.  
+We use your personal information where it is publicly available including party affiliation, individual interests (according to publicly available reports or from Hansard) and previous voting record to segment what information we send to stakeholders. | This activity is in our legitimate interest so that we are only sending information to you that would be of interest.  
+We use your personal information to conduct research reports (i.e. using publicly available information on Members of Parliament). | This activity is in our legitimate interest to conduct relevant and proper research to further our aim of improving social mobility. Some personal information will be provided to us by the individual strictly for research purposes on the basis of consent.  
+We use website usage data and user data (such as your IP address and details of your browser and device) to provide products and services; to enable certain website functions; to better understand how visitors use this website; and to present timely and relevant information to visitors. | This activity is in our legitimate interest to help ensure the website operates properly.  
+  
+Where we have a contractual relationship with you, we may process your personal information as necessary for the performance of that contract or prior to entering into it.
+
+  3. **What we do with your data**
+
+
+
+For our research, all data held internally is anonymised, apart from where the information on the individual is publicly available (i.e. Members of Parliament). When published, all results are anonymised and any personal information is retained internally.
+
+Occasionally, where we partner with other organisations, we may share information with them (for example, if you register to attend an event being jointly organised by us and another charity). We’ll only share information when necessary and we will never share your contact information (e.g. email or telephone).
+
+  4. **Where we keep it**
+
+
+
+Your data will be retained and stored confidentially and processed in accordance with the Data Protection Act (1998) and General Data Protection Regulation (2018) principles.
+
+Your data will be stored on The Sutton Trust’s shared drive. We are based in the UK and store our data within the EU.
+
+We may use the following third-party service providers named below to process and store your data:
+
+  * Mailchimp (The Rocket Science Group, LLC), which we use to manage email marketing subscriber lists and send emails to our subscribers. Read their [privacy policy](https://mailchimp.com/legal/privacy/).
+  * Google Analytics, which we use to measure the performance of this website. We do this to find out things such as the number of visitors to the various parts of the site. Search queries and results are also logged anonymously in Google Analytics to help us improve our website and search functionality. Read their [privacy policy](https://www.google.com/analytics/terms/us.html). You can opt-out of Google Analytics cookies altogether by [opting-out of the browser add-on](https://tools.google.com/dlpage/gaoptout?hl=en).
+  * Automattic, Inc., whose WordPress software (and associated add-ons) we use to manage the content of this website. Read their [privacy policy](https://automattic.com/privacy/).
+
+
+
+**      5.  How long we keep it**
+
+The Trust will store information only for the purposes for which it was collected and continually review our retention periods to ensure that personal data is not stored unnecessarily.
+
+Personal data associated with research will be stored for 10 years, unless it is still considered necessary for research purposes. For all our personal data we will perform an annual check to ensure that:
+
+  * stakeholders are still working at the organisations and in relevant roles within those organisations to justify inclusion on our data-base;
+  * media contacts are up to date and relevant;
+  * personal data associated with research is up to date, and still needed for research purposes (for example we would retain information on individuals who still hold the prominent positions which our research examines, such as those who remain Members of Parliament, as this information would be vital for future analysis. However, if that individual is no longer an MP or a candidate for parliament, they would be deleted from our database).
+
+
+
+If not, your personal information is deleted.
+
+  6. **Social Media**
+
+
+
+Our websites include social media features, such as the ‘Facebook Like’ button. These features may collect information about your IP address and which page you are visiting on our website, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our website.
+
+We also maintain presences on social media platforms including Facebook, Twitter, LinkedIn and Instagram. We use a third-party provider, Buffer to manage our social media interactions. You can find more information on Buffer’s [privacy policy](https://buffer.com/privacy).
+
+Any information, communications, or materials you submit to us via a social media platform is done at your own risk without any expectation of privacy. We cannot control the actions of other users of these platforms or the actions of the platforms themselves. Your interactions with those features and platforms are governed by the privacy policies of the companies that provide them.
+
+  7. **Links to third-party websites**
+
+
+
+Our Websites include links to other websites, whose privacy practices may be different from ours. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+
+_We keep our privacy notice under regular review. This privacy notice was last updated on: 29 August 2018._
+
 This site and it’s related sites (including Sutton Trust Alumni, our online alumni community) uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping baskets, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at [the About Cookies website](http://www.aboutcookies.org/) which offers guidance for all modern browsers. Please note that you cannot disable cookies on Sutton Trust Alumni. By signing up to that site, you agree to our use of cookies on it.
 
 **Data Protection principles**
@@ -1029,7 +1125,7 @@ More information about your rights can be found on the ICO [website](https://ico
 
 **Making an enquiry**
 
-If you have any concerns about the processing or use of data for these purposes or would like a copy of the data we hold on you, requests should be made in writing to [dataprotection@suttontrust.com](mailto:dataprotection@suttontrust.com) using our [Subject Access Request form](https://www.suttontrust.com/wp-content/uploads/2018/05/SuttonTrust-SARForm-May2018-1.pdf).
+If you have any concerns about the processing or use of data for these purposes or would like a copy of the data we hold on you, requests should be made in writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e18580958091938e95848295888e8fa1929495958e8f9593949295cf828e8c) using our [Subject Access Request form](https://www.suttontrust.com/wp-content/uploads/2018/05/SuttonTrust-SARForm-May2018-1.pdf).
 
 We will consider all such requests and will try to respond to your request within 5 working days (and in any event within any time period required by law). Please note, however, that certain personal information will be exempt from such requests in certain circumstances. If an exception applies, we will tell you this when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any.
 
@@ -1046,11 +1142,11 @@ If we do hold information about you we will:
 
 We want to make sure that your personal information is accurate and up to date and we will be happy to correct or remove information you think is inaccurate.
 
-If you decide in the future that you no longer want your data to be used , please contact the Sutton Trust by e-mailing [dataprotection@suttontrust.com](mailto:dataprotection@suttontrust.com) or phoning 020 7802 1660.
+If you decide in the future that you no longer want your data to be used , please contact the Sutton Trust by e-mailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#721613061302001d061711061b1d1c32010706061d1c06000701065c111d1f) or phoning 020 7802 1660.
 
 **Making a complaint**
 
-If you have any complaints about the way your data has been handled you should make a written complaint to [dataprotection@suttontrust.com](mailto:info@suttontrust.com)
+If you have any complaints about the way your data has been handled you should make a written complaint to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f891969e97b88b8d8c8c97968c8a8d8b8cd69b9795)
 
 Alternatively, you can contact the ICO on 0303 123 1113, or write to them using the address below. They are open Monday to Friday between 9am and 5pm.
 
