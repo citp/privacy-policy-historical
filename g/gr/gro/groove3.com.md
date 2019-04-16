@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226170324id_/https%3A//www.groove3.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groove3.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416215351id_/https%3A//www.groove3.com/privacy-statement) for the most accurate reproduction.*
 
 # Groove3.com - Privacy Statement
+
+The page you are attempting to retrieve does not exist.
 
 Groove 3 Inc. values your personal information and we want to clearly communicate what information we collect and how that information is used by us. We never resell or provide your personal information to third-parties for their use or any purpose beyond delivery of Groove3 products and services.
 
@@ -102,5 +104,3 @@ USA
 **Email** : [support@groove3.com](mailto:support@groove3.com)
 
 **Phone** : 800-460-7509
-
-We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. By continuing to use this site you agree to the use of cookies. [View Privacy Policy](https://web.archive.org/privacy-statement)
