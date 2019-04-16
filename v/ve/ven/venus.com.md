@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010073305id_/https%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417002301id_/https%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
 
 # VENUS.com Privacy Policy - Website Terms of Use
 
