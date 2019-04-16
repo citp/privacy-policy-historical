@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the showpo.com privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228061534id_/https%3A//www.showpo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the showpo.com privacy policy that was archived on 2019-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190416190813id_/https%3A//www.showpo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 <meta charset="utf-8">
@@ -13,7 +13,7 @@
 <link rel="shortcut icon" href="https://cdn.executiveponies.com/media/favicon/default/showpo_favicon_v3.png" type="image/x-icon">
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
 <!--PAGINATION-->
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MD5MZL"></script><script id="scarab-js-api" src="//cdn.scarabresearch.com/js/14FAEC7E2D3BEE13/scarab-v2.js"></script><script type="text/javascript">
+<script id="scarab-js-api" src="//cdn.scarabresearch.com/js/14FAEC7E2D3BEE13/scarab-v2.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MD5MZL"></script><script type="text/javascript">
 //<![CDATA[
 var MageUrl='https://www.showpo.com/';
 var SP_AU='https://www.showpo.com/'
@@ -24,8 +24,62 @@ var SP_STID='1';
 dataLayer = [];
 //]]>
 </script>
-<link rel="stylesheet" type="text/css" href="https://cdncss.executiveponies.com/media/css_secure/79cabd2427f9c6fa178218fad4a1bcf4-v1545351520.css">
-<script type="text/javascript" src="https://cdnjs.executiveponies.com/media/js/d0476a286a5847d5d2ef7557c4a6cbfb-v1545020218.js"></script>
+<!-- GOOGLE TAG MANAGER -->
+<script type="text/javascript">
+    //<![CDATA[
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+        j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MD5MZL');
+    var dlCurrencyCode = 'AUD';
+    var current_store_id = 1;
+    function googleAddProduct(prdObject, actions, location, page) {
+        if (location !== 'cart') {
+            //remove wishlist event
+            return;
+        }
+        if (prdObject && prdObject.id && actions === 'add') {
+            //from impression catalog list
+            if (typeof productImpressions !== 'undefined' && productImpressions.length > 0) {
+                for(var i=0; i<productImpressions.length; i++) {
+                    if (productImpressions[i].id == prdObject.id)
+                    {
+                        productImpressions[i].quantity = 1;
+                        dataLayer.push({'event':'addToCart',
+                            'ecommerce':{
+                                'currencyCode':dlCurrencyCode,
+                                'add':{'products':[productImpressions[i]]}
+                            }
+                        });
+                        break;
+                    }
+                }
+            } else if (typeof gProductDetail !== 'undefined'){
+                //from detail
+                gProductDetail[0].quantity = 1;
+                dataLayer.push({'event':'addToCart',
+                    'ecommerce':{
+                        'currencyCode':dlCurrencyCode,
+                        'add':{'products':gProductDetail}
+                    }
+                });
+            }
+        } else if (actions === 'remove') {
+            var prds = [];
+            prds.push(prdObject);
+            dataLayer.push({'event':'removeFromCart',
+                'ecommerce':{
+                    'remove':{'products':prds}
+                }
+            });
+        }
+    }
+
+    //]]>
+</script>
+<!-- END GOOGLE TAG MANAGER -->
+<link rel="stylesheet" type="text/css" href="https://cdncss.executiveponies.com/media/css_secure/0f983dfa4d371946d54721f1dd7584a0-v1554782912.css">
+<script type="text/javascript" src="https://cdnjs.executiveponies.com/media/js/2c0a5f31633d735a8396d0b87a34b0d7-v1554789473.js"></script>
 <link rel="canonical" href="https://www.showpo.com/privacy-policy">
 <link rel="alternate" hreflang="x-default" href="https://www.showpo.com/privacy-policy">
 <link rel="alternate" hreflang="en-AU" href="https://www.showpo.com/privacy-policy">
@@ -55,7 +109,7 @@ var _vwo_code=(function(){
 var account_id=264603,_vis_opt_url=window._vis_opt_url || document.URL,settings_tolerance=2000,library_tolerance=2500,use_existing_jquery=true,f=false,d=document;
 return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(_vis_opt_url)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 //]]>
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=264603&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181228061534id_%2Fhttps%253A%2F%2Fwww.showpo.com%2Fprivacy-policy&amp;r=0.5292030192673494" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=264603&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190416190813id_%2Fhttps%253A%2F%2Fwww.showpo.com%2Fprivacy-policy&amp;r=0.5935788325403635" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 var ScarabQueue = ScarabQueue || [];
@@ -70,30 +124,9 @@ var ScarabQueue = ScarabQueue || [];
 </script>
 
 </head>
-<body class=" cms-page-view cms-privacy-policy">
-<!-- GOOGLE TAG MANAGER -->
+<body class="cms-page-view cms-privacy-policy">
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MD5MZL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script type="text/javascript">
-//<![CDATA[
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
-var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
-j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MD5MZL');
-var dlCurrencyCode = 'AUD';
-//]]>
-</script>
-<!-- END GOOGLE TAG MANAGER -->
 
-<script type="text/javascript">
-//<![CDATA[
-var mobileAppVersion = Mage.Cookies.get('sp_mobile_app_version');
-if (mobileAppVersion) {
-    dataLayer.push({
-        'mobileAppVersion': mobileAppVersion
-    });
-}
-//]]>
-</script>
 <div class="off-canvas-wrap" data-offcanvas="">
     <div class="inner-wrap">
             <noscript>
@@ -110,7 +143,7 @@ if (mobileAppVersion) {
         <div class="row">
             <div class="extra-nav">
                 <div class="multimedia-section small-3 columns">
-                    <a href="http://shop.showpo.com" target="_blank" class="instagram-header-link">1.528M followers</a>
+                    <a href="http://shop.showpo.com" target="_blank" class="instagram-header-link">1.614M followers</a>
                 </div>
                 <div class="promotion-banners small-3 columns"></div>
                 <div class="extra-links medium-8 columns">
@@ -190,7 +223,7 @@ if (mobileAppVersion) {
                 <p class="empty">You have no items in your shopping cart.</p>
     </div>
 <script type="text/javascript">
-formKey = "IUb4gkl7GngeXCpJ";
+formKey = "A7LKOmuXHQbIx8d9";
 </script>    </div>
     <div class="right-off-canvas-menu show-for-small-only cart-details">
     <h3 class="sidebar-cart-title hide-for-medium-up">shopping bag</h3>
@@ -198,7 +231,7 @@ formKey = "IUb4gkl7GngeXCpJ";
                 <p class="empty">You have no items in your shopping cart.</p>
     </div>
 <script type="text/javascript">
-formKey = "IUb4gkl7GngeXCpJ";
+formKey = "A7LKOmuXHQbIx8d9";
 </script>        </div>
 </div>
 <script type="text/javascript">
@@ -215,7 +248,7 @@ if (typeof ScarabQueue !== 'undefined') {
     <section class="top-bar-section clearfix">
         <ul class="left">
             <li class="show-for-small-only customer-account"><a href="https://www.showpo.com/customer/account/login/" title="Login" class="cm-login"><span class="cm-initial"><i class="mobile-icon-user icon-user"></i></span> <span class="login-info">Log In</span></a></li>
-                            <li class="level0 nav-1 has-dropdown category-node-660 mega-menu"><a href="https://www.showpo.com/whats-new.html" class="level0 has-children">What's New</a><ul class="level0 arrow-box dropdown columns-1-for-large columns-1-for-medium"><div class="mega-list medium-3 columns"><li class="level1 nav-1-1 category-node-678"><a href="https://www.showpo.com/whats-new/new-dresses.html" class="level1">New Dresses</a></li><li class="level1 nav-1-2 category-node-679"><a href="https://www.showpo.com/whats-new/new-playsuits.html" class="level1">New Playsuits</a></li><li class="level1 nav-1-3 category-node-680"><a href="https://www.showpo.com/whats-new/new-tops.html" class="level1">New Tops</a></li><li class="level1 nav-1-4 category-node-681"><a href="https://www.showpo.com/whats-new/new-bottoms.html" class="level1">New Bottoms</a></li><li class="level1 nav-1-5 category-node-682"><a href="https://www.showpo.com/whats-new/new-outerwear.html" class="level1">New Outerwear</a></li><li class="level1 nav-1-6 category-node-1292"><a href="https://www.showpo.com/whats-new/new-shoes.html" class="level1">New Shoes</a></li><li class="level1 nav-1-7 category-node-683"><a href="https://www.showpo.com/whats-new/all-accessories.html" class="level1">New Accessories</a></li><li class="level1 nav-1-8 category-node-1261"><a href="https://www.showpo.com/whats-new/new-lookbook.html" class="level1">New Look Books</a></li><li class="level1 nav-1-9 category-node-1435"><a href="https://www.showpo.com/whats-new/new-curve-plus-size.html" class="level1">New Curve and Plus Size</a></li></div><div class="columns medium-9 menu-block hide-for-small-only"><a href="https://www.showpo.com/whats-new.html"><img src="https://cdn.executiveponies.com/media/wysiwyg/menu/2018-12/WHATS_NEW_DROP_DOWN_AU_NZ_21_12_2018.jpg" alt="new"></a></div></ul></li><li class="level0 nav-2 has-dropdown category-node-661 mega-menu"><a href="https://www.showpo.com/shop.html" class="level0 has-children">Clothes</a><ul class="level0 arrow-box dropdown columns-4-for-large columns-4-for-medium"><div class="mega-list medium-9 columns"><li class="level1 nav-2-1 has-dropdown category-node-684"><a href="https://www.showpo.com/shop/dresses-party-dress.html" class="level1 has-children">Dresses</a><ul class="level1 dropdown"><li class="level2 nav-2-1-1 category-node-782"><a href="https://www.showpo.com/shop/dresses-party-dress/party-dresses.html" class="level2">Party Dresses</a></li><li class="level2 nav-2-1-2 category-node-783"><a href="https://www.showpo.com/shop/dresses-party-dress/playsuits.html" class="level2">Playsuits &amp; Jumpsuits</a></li><li class="level2 nav-2-1-3 category-node-784"><a href="https://www.showpo.com/shop/dresses-party-dress/two-piece-sets.html" class="level2">Two Piece Sets</a></li><li class="level2 nav-2-1-4 category-node-785"><a href="https://www.showpo.com/shop/dresses-party-dress/day-dresses.html" class="level2">Casual Dresses</a></li><li class="level2 nav-2-1-5 category-node-787"><a href="https://www.showpo.com/shop/dresses-party-dress/maxi-dresses.html" class="level2">Maxi Dresses</a></li><li class="level2 nav-2-1-6 category-node-788"><a href="https://www.showpo.com/shop/dresses-party-dress/longer-dresses.html" class="level2">Longer Dresses</a></li><li class="level2 nav-2-1-7 category-node-789"><a href="https://www.showpo.com/shop/dresses-party-dress/occasion-dresses.html" class="level2">Occasion Dresses</a></li><li class="level2 nav-2-1-8 category-node-786"><a href="https://www.showpo.com/shop/dresses-party-dress/work-dresses.html" class="level2">Work Dresses</a></li></ul></li><li class="level1 nav-2-2 has-dropdown category-node-685"><a href="https://www.showpo.com/shop/tops.html" class="level1 has-children">Tops</a><ul class="level1 dropdown"><li class="level2 nav-2-2-1 category-node-790"><a href="https://www.showpo.com/shop/tops/crop-tops.html" class="level2">Crop Tops</a></li><li class="level2 nav-2-2-2 category-node-791"><a href="https://www.showpo.com/shop/tops/long-sleeve.html" class="level2">Long Sleeve</a></li><li class="level2 nav-2-2-3 category-node-792"><a href="https://www.showpo.com/shop/tops/short-sleeve.html" class="level2">Short Sleeve</a></li><li class="level2 nav-2-2-4 category-node-794"><a href="https://www.showpo.com/shop/tops/bodysuits.html" class="level2">Bodysuits</a></li><li class="level2 nav-2-2-5 category-node-793"><a href="https://www.showpo.com/shop/tops/sleeveless.html" class="level2">Sleeveless</a></li><li class="level2 nav-2-2-6 category-node-795"><a href="https://www.showpo.com/shop/tops/bralettes.html" class="level2">Bralettes</a></li><li class="level2 nav-2-2-7 category-node-796"><a href="https://www.showpo.com/shop/tops/basic-tops.html" class="level2">Basic Tops</a></li><li class="level2 nav-2-2-8 category-node-689"><a href="https://www.showpo.com/shop/tops/work-tops.html" class="level2">Work Tops</a></li><li class="level2 nav-2-2-9 category-node-1296"><a href="https://www.showpo.com/shop/tops/t-shirts.html" class="level2">T-Shirts</a></li></ul></li><li class="level1 nav-2-3 has-dropdown category-node-686"><a href="https://www.showpo.com/shop/bottoms.html" class="level1 has-children">Bottoms</a><ul class="level1 dropdown"><li class="level2 nav-2-3-1 category-node-797"><a href="https://www.showpo.com/shop/bottoms/skirts.html" class="level2">Skirts</a></li><li class="level2 nav-2-3-2 category-node-798"><a href="https://www.showpo.com/shop/bottoms/shorts.html" class="level2">Shorts</a></li><li class="level2 nav-2-3-3 category-node-799"><a href="https://www.showpo.com/shop/bottoms/pants-leggings.html" class="level2">Pants &amp; Leggings</a></li><li class="level2 nav-2-3-4 category-node-800"><a href="https://www.showpo.com/shop/bottoms/jeans.html" class="level2">Jeans</a></li><li class="level2 nav-2-3-5 category-node-690"><a href="https://www.showpo.com/shop/bottoms/work-bottoms.html" class="level2">Work Bottoms</a></li></ul></li><li class="level1 nav-2-4 has-dropdown category-node-687"><a href="https://www.showpo.com/shop/outerwear.html" class="level1 has-children">Outerwear</a><ul class="level1 dropdown"><li class="level2 nav-2-4-1 category-node-801"><a href="https://www.showpo.com/shop/outerwear/knitwear.html" class="level2">Knitwear</a></li><li class="level2 nav-2-4-2 category-node-802"><a href="https://www.showpo.com/shop/outerwear/jackets.html" class="level2">Jackets</a></li><li class="level2 nav-2-4-3 category-node-803"><a href="https://www.showpo.com/shop/outerwear/cardigans.html" class="level2">Cardigans</a></li><li class="level2 nav-2-4-4 category-node-804"><a href="https://www.showpo.com/shop/outerwear/coats.html" class="level2">Coats</a></li></ul></li></div><div class="columns medium-3 columns">
+                            <li class="level0 nav-1 has-dropdown category-node-660 mega-menu"><a href="https://www.showpo.com/whats-new.html" class="level0 has-children">What's New</a><ul class="level0 arrow-box dropdown columns-1-for-large columns-1-for-medium"><div class="mega-list medium-3 columns"><li class="level1 nav-1-1 category-node-678"><a href="https://www.showpo.com/whats-new/new-dresses.html" class="level1">New Dresses</a></li><li class="level1 nav-1-2 category-node-679"><a href="https://www.showpo.com/whats-new/new-playsuits.html" class="level1">New Playsuits</a></li><li class="level1 nav-1-3 category-node-680"><a href="https://www.showpo.com/whats-new/new-tops.html" class="level1">New Tops</a></li><li class="level1 nav-1-4 category-node-681"><a href="https://www.showpo.com/whats-new/new-bottoms.html" class="level1">New Bottoms</a></li><li class="level1 nav-1-5 category-node-682"><a href="https://www.showpo.com/whats-new/new-outerwear.html" class="level1">New Outerwear</a></li><li class="level1 nav-1-6 category-node-1292"><a href="https://www.showpo.com/whats-new/new-shoes.html" class="level1">New Shoes</a></li><li class="level1 nav-1-7 category-node-683"><a href="https://www.showpo.com/whats-new/all-accessories.html" class="level1">New Accessories</a></li><li class="level1 nav-1-8 category-node-1261"><a href="https://www.showpo.com/whats-new/new-lookbook.html" class="level1">New Look Books</a></li><li class="level1 nav-1-9 category-node-1435"><a href="https://www.showpo.com/whats-new/new-curve-plus-size.html" class="level1">New Curve and Plus Size</a></li></div><div class="columns medium-9 menu-block hide-for-small-only"><a href="https://www.showpo.com/whats-new.html"><img src="https://cdn.executiveponies.com/media/wysiwyg/menu/2019-03/WHATS_NEW_DROP_DOWN_AU_US_29_03_2019.jpg" alt="new"></a></div></ul></li><li class="level0 nav-2 has-dropdown category-node-661 mega-menu"><a href="https://www.showpo.com/shop.html" class="level0 has-children">Clothes</a><ul class="level0 arrow-box dropdown columns-4-for-large columns-4-for-medium"><div class="mega-list medium-9 columns"><li class="level1 nav-2-1 has-dropdown category-node-684"><a href="https://www.showpo.com/shop/dresses-party-dress.html" class="level1 has-children">Dresses</a><ul class="level1 dropdown"><li class="level2 nav-2-1-1 category-node-782"><a href="https://www.showpo.com/shop/dresses-party-dress/party-dresses.html" class="level2">Party Dresses</a></li><li class="level2 nav-2-1-2 category-node-783"><a href="https://www.showpo.com/shop/dresses-party-dress/playsuits.html" class="level2">Playsuits &amp; Jumpsuits</a></li><li class="level2 nav-2-1-3 category-node-784"><a href="https://www.showpo.com/shop/dresses-party-dress/two-piece-sets.html" class="level2">Two Piece Sets</a></li><li class="level2 nav-2-1-4 category-node-785"><a href="https://www.showpo.com/shop/dresses-party-dress/day-dresses.html" class="level2">Casual Dresses</a></li><li class="level2 nav-2-1-5 category-node-787"><a href="https://www.showpo.com/shop/dresses-party-dress/maxi-dresses.html" class="level2">Maxi Dresses</a></li><li class="level2 nav-2-1-6 category-node-788"><a href="https://www.showpo.com/shop/dresses-party-dress/longer-dresses.html" class="level2">Longer Dresses</a></li><li class="level2 nav-2-1-7 category-node-789"><a href="https://www.showpo.com/shop/dresses-party-dress/occasion-dresses.html" class="level2">Occasion Dresses</a></li><li class="level2 nav-2-1-8 category-node-786"><a href="https://www.showpo.com/shop/dresses-party-dress/work-dresses.html" class="level2">Work Dresses</a></li></ul></li><li class="level1 nav-2-2 has-dropdown category-node-685"><a href="https://www.showpo.com/shop/tops.html" class="level1 has-children">Tops</a><ul class="level1 dropdown"><li class="level2 nav-2-2-1 category-node-790"><a href="https://www.showpo.com/shop/tops/crop-tops.html" class="level2">Crop Tops</a></li><li class="level2 nav-2-2-2 category-node-791"><a href="https://www.showpo.com/shop/tops/long-sleeve.html" class="level2">Long Sleeve</a></li><li class="level2 nav-2-2-3 category-node-792"><a href="https://www.showpo.com/shop/tops/short-sleeve.html" class="level2">Short Sleeve</a></li><li class="level2 nav-2-2-4 category-node-794"><a href="https://www.showpo.com/shop/tops/bodysuits.html" class="level2">Bodysuits</a></li><li class="level2 nav-2-2-5 category-node-793"><a href="https://www.showpo.com/shop/tops/sleeveless.html" class="level2">Sleeveless</a></li><li class="level2 nav-2-2-6 category-node-795"><a href="https://www.showpo.com/shop/tops/bralettes.html" class="level2">Bralettes</a></li><li class="level2 nav-2-2-7 category-node-796"><a href="https://www.showpo.com/shop/tops/basic-tops.html" class="level2">Basic Tops</a></li><li class="level2 nav-2-2-8 category-node-689"><a href="https://www.showpo.com/shop/tops/work-tops.html" class="level2">Work Tops</a></li><li class="level2 nav-2-2-9 category-node-1296"><a href="https://www.showpo.com/shop/tops/t-shirts.html" class="level2">T-Shirts</a></li></ul></li><li class="level1 nav-2-3 has-dropdown category-node-686"><a href="https://www.showpo.com/shop/bottoms.html" class="level1 has-children">Bottoms</a><ul class="level1 dropdown"><li class="level2 nav-2-3-1 category-node-797"><a href="https://www.showpo.com/shop/bottoms/skirts.html" class="level2">Skirts</a></li><li class="level2 nav-2-3-2 category-node-798"><a href="https://www.showpo.com/shop/bottoms/shorts.html" class="level2">Shorts</a></li><li class="level2 nav-2-3-3 category-node-799"><a href="https://www.showpo.com/shop/bottoms/pants-leggings.html" class="level2">Pants &amp; Leggings</a></li><li class="level2 nav-2-3-4 category-node-800"><a href="https://www.showpo.com/shop/bottoms/jeans.html" class="level2">Jeans</a></li><li class="level2 nav-2-3-5 category-node-690"><a href="https://www.showpo.com/shop/bottoms/work-bottoms.html" class="level2">Work Bottoms</a></li></ul></li><li class="level1 nav-2-4 has-dropdown category-node-687"><a href="https://www.showpo.com/shop/outerwear.html" class="level1 has-children">Outerwear</a><ul class="level1 dropdown"><li class="level2 nav-2-4-1 category-node-801"><a href="https://www.showpo.com/shop/outerwear/knitwear.html" class="level2">Knitwear</a></li><li class="level2 nav-2-4-2 category-node-802"><a href="https://www.showpo.com/shop/outerwear/jackets.html" class="level2">Jackets</a></li><li class="level2 nav-2-4-3 category-node-803"><a href="https://www.showpo.com/shop/outerwear/cardigans.html" class="level2">Cardigans</a></li><li class="level2 nav-2-4-4 category-node-804"><a href="https://www.showpo.com/shop/outerwear/coats.html" class="level2">Coats</a></li></ul></li></div><div class="columns medium-3 columns">
 <!-- CURVE AND PLUS SIZE -->
 <li class="level1"><a href="https://www.showpo.com/shop/by/size/16-%28new%29_18-%28new%29_20-%28new%29/">Curve &amp; Plus Size</a>
 </li>
@@ -243,17 +276,17 @@ if (typeof ScarabQueue !== 'undefined') {
 <!-- PARTY -->
 <li class="level1"><a href="https://www.showpo.com/collection/the-party-edit.html">Party</a>
 </li>
+<!-- FORMAL -->
+<li class="level1"><a href="https://www.showpo.com/collection/the-formal-edit.html">Formal Outfits</a>
+</li>
 <!-- ANIMAL PRINT -->
 <li class="level1"><a href="https://www.showpo.com/collection/animal-print.html">Animal Print</a>
-</li>
-<!-- SPARKLE EDIT -->
-<li class="level1"><a href="https://www.showpo.com/collection/the-sparkle-edit.html">The Sparkle Edit</a>
 </li>
 <!-- SATIN EDIT -->
 <li class="level1"><a href="https://www.showpo.com/collection/the-satin-edit.html">The Satin Edit</a>
 </li>
-<!-- SUMMER EDIT -->
-<li class="level1"><a href="https://www.showpo.com/collection/the-summer-edit.html">The Summer Edit</a>
+<!-- AUTUMN EDIT -->
+<li class="level1"><a href="https://www.showpo.com/collection/the-autumn-edit.html">The Autumn Edit</a>
 </li>
 <!-- THE LINEN LOOK -->
 <li class="level1"><a href="https://www.showpo.com/collection/linen-look.html">Linen Look</a>
@@ -264,10 +297,7 @@ if (typeof ScarabQueue !== 'undefined') {
 <!-- FESTIVAL CLOTHES -->
 <li class="level1"><a href="https://www.showpo.com/collection/festival.html">Festival Clothes</a>
 </li>
-<!-- RACEWEAR -->
-<li class="level1"><a href="https://www.showpo.com/collection/racewear.html">Racewear</a>
-</li>
-</div></ul></li><li class="level0 nav-3 has-dropdown category-node-695 mega-menu"><a href="https://www.showpo.com/shoes.html" class="level0 has-children">Shoes</a><ul class="level0 arrow-box dropdown columns-2-for-large columns-2-for-medium"><div class="mega-list medium-5 columns"><li class="level1 nav-3-1 has-dropdown category-node-1345"><a href="https://www.showpo.com/shoes/shop-by-category.html" class="level1 has-children">Shop By Category</a><ul class="level1 dropdown"><li class="level2 nav-3-1-1 category-node-813"><a href="https://www.showpo.com/shoes/shop-by-category/heels.html" class="level2">Heels</a></li><li class="level2 nav-3-1-2 category-node-816"><a href="https://www.showpo.com/shoes/shop-by-category/boots.html" class="level2">Boots</a></li><li class="level2 nav-3-1-3 category-node-815"><a href="https://www.showpo.com/shoes/shop-by-category/sandals.html" class="level2">Sandals</a></li><li class="level2 nav-3-1-4 category-node-1403"><a href="https://www.showpo.com/shoes/shop-by-category/slides.html" class="level2">Slides</a></li><li class="level2 nav-3-1-5 category-node-1210"><a href="https://www.showpo.com/shoes/shop-by-category/sneakers.html" class="level2">Sneakers</a></li><li class="level2 nav-3-1-6 category-node-814"><a href="https://www.showpo.com/shoes/shop-by-category/flats.html" class="level2">Flats</a></li><li class="level2 nav-3-1-7 category-node-693"><a href="https://www.showpo.com/shoes/shop-by-category/work-shoes.html" class="level2">Work Shoes</a></li></ul></li><li class="level1 nav-3-2 has-dropdown category-node-1318"><a href="https://www.showpo.com/shoes/shop-by-brand.html" class="level1 has-children">Shop By Brand</a><ul class="level1 dropdown"><li class="level2 nav-3-2-1 category-node-1319"><a href="https://www.showpo.com/shoes/shop-by-brand/billini.html" class="level2">Billini</a></li><li class="level2 nav-3-2-2 category-node-1321"><a href="https://www.showpo.com/shoes/shop-by-brand/lipstik.html" class="level2">Lipstik</a></li><li class="level2 nav-3-2-3 category-node-1320"><a href="https://www.showpo.com/shoes/shop-by-brand/therapy.html" class="level2">Therapy</a></li><li class="level2 nav-3-2-4 category-node-1322"><a href="https://www.showpo.com/shoes/shop-by-brand/verali.html" class="level2">Verali</a></li><li class="level2 nav-3-2-5 category-node-1379"><a href="https://www.showpo.com/shoes/shop-by-brand/showpo-x-billini.html" class="level2">Showpo x Billini</a></li><li class="level2 nav-3-2-6 category-node-1391"><a href="https://www.showpo.com/shoes/shop-by-brand/windsor-smith.html" class="level2">Windsor Smith</a></li></ul></li></div><div class="columns medium-7 menu-block show-for-medium-up"><a href="https://www.showpo.com/shoes.html"><img src="https://cdn.executiveponies.com/media/wysiwyg/menu/2018-11/SHOE_DROP_DOWN_BANNER_AU_NZ_15_11_2018.jpg" alt="shoes"></a></div></ul></li><li class="level0 nav-4 has-dropdown category-node-665 mega-menu"><a href="https://www.showpo.com/accessories.html" class="level0 has-children">Accessories</a><ul class="level0 arrow-box dropdown columns-3-for-large columns-3-for-medium"><div class="mega-list medium-12 columns"><li class="level1 nav-4-1 has-dropdown category-node-694"><a href="https://www.showpo.com/accessories/jewellery.html" class="level1 has-children">Jewellery</a><ul class="level1 dropdown"><li class="level2 nav-4-1-1 category-node-807"><a href="https://www.showpo.com/accessories/jewellery/necklaces.html" class="level2">Necklaces</a></li><li class="level2 nav-4-1-2 category-node-808"><a href="https://www.showpo.com/accessories/jewellery/rings.html" class="level2">Rings</a></li><li class="level2 nav-4-1-3 category-node-809"><a href="https://www.showpo.com/accessories/jewellery/earrings.html" class="level2">Earrings</a></li><li class="level2 nav-4-1-4 category-node-810"><a href="https://www.showpo.com/accessories/jewellery/bracelets.html" class="level2">Bracelets</a></li><li class="level2 nav-4-1-5 category-node-811"><a href="https://www.showpo.com/accessories/jewellery/bodychains.html" class="level2">Bodychains</a></li></ul></li><li class="level1 nav-4-2 has-dropdown category-node-697"><a href="https://www.showpo.com/accessories/accessories.html" class="level1 has-children">Accessories</a><ul class="level1 dropdown"><li class="level2 nav-4-2-1 category-node-821"><a href="https://www.showpo.com/accessories/accessories/hair.html" class="level2">Hair and Hats</a></li><li class="level2 nav-4-2-2 category-node-822"><a href="https://www.showpo.com/accessories/accessories/sunglasses.html" class="level2">Sunglasses</a></li><li class="level2 nav-4-2-3 category-node-823"><a href="https://www.showpo.com/accessories/accessories/belts.html" class="level2">Belts</a></li><li class="level2 nav-4-2-4 category-node-824"><a href="https://www.showpo.com/accessories/accessories/scarves.html" class="level2">Scarves</a></li><li class="level2 nav-4-2-5 category-node-825"><a href="https://www.showpo.com/accessories/accessories/bags.html" class="level2">Bags</a></li><li class="level2 nav-4-2-6 category-node-1200"><a href="https://www.showpo.com/accessories/accessories/socks.html" class="level2">Socks and Gloves</a></li><li class="level2 nav-4-2-7 category-node-692"><a href="https://www.showpo.com/accessories/accessories/for-work.html" class="level2">For Work</a></li><li class="level2 nav-4-2-8 category-node-1288"><a href="https://www.showpo.com/accessories/accessories/watches.html" class="level2">Watches</a></li></ul></li><li class="level1 nav-4-3 has-dropdown category-node-698"><a href="https://www.showpo.com/accessories/homewares.html" class="level1 has-children">Homewares</a><ul class="level1 dropdown"><li class="level2 nav-4-3-1 category-node-826"><a href="https://www.showpo.com/accessories/homewares/apartment.html" class="level2">Apartment</a></li><li class="level2 nav-4-3-2 category-node-827"><a href="https://www.showpo.com/accessories/homewares/towels.html" class="level2">Towels</a></li><li class="level2 nav-4-3-3 category-node-828"><a href="https://www.showpo.com/accessories/homewares/technology.html" class="level2">Technology</a></li><li class="level2 nav-4-3-4 category-node-829"><a href="https://www.showpo.com/accessories/homewares/stationary.html" class="level2">Stationery</a></li><li class="level2 nav-4-3-5 category-node-830"><a href="https://www.showpo.com/accessories/homewares/inflatables.html" class="level2">Inflatables</a></li><li class="level2 nav-4-3-6 category-node-1220"><a href="https://www.showpo.com/accessories/homewares/party-fun.html" class="level2">Party &amp; Fun</a></li><li class="level2 nav-4-3-7 category-node-1269"><a href="https://www.showpo.com/accessories/homewares/petwear.html" class="level2">Petwear</a></li></ul></li></div></ul></li><li class="level0 nav-5 has-dropdown category-node-696 mega-menu"><a href="https://www.showpo.com/beauty.html" class="level0 has-children">Beauty</a><ul class="level0 arrow-box dropdown columns-2-for-large columns-2-for-medium"><div class="mega-list medium-5 columns"><li class="level1 nav-5-1 has-dropdown category-node-1346"><a href="https://www.showpo.com/beauty/shop-by-category.html" class="level1 has-children">Shop By Category</a><ul class="level1 dropdown"><li class="level2 nav-5-1-1 category-node-818"><a href="https://www.showpo.com/beauty/shop-by-category/lips.html" class="level2">Lips</a></li><li class="level2 nav-5-1-2 category-node-819"><a href="https://www.showpo.com/beauty/shop-by-category/face.html" class="level2">Face</a></li><li class="level2 nav-5-1-3 category-node-1299"><a href="https://www.showpo.com/beauty/shop-by-category/eyes.html" class="level2">Eyes &amp; Brows</a></li><li class="level2 nav-5-1-4 category-node-820"><a href="https://www.showpo.com/beauty/shop-by-category/nails.html" class="level2">Nails</a></li><li class="level2 nav-5-1-5 category-node-817"><a href="https://www.showpo.com/beauty/shop-by-category/body.html" class="level2">Body</a></li><li class="level2 nav-5-1-6 category-node-1340"><a href="https://www.showpo.com/beauty/shop-by-category/hair.html" class="level2">Hair</a></li><li class="level2 nav-5-1-7 category-node-1300"><a href="https://www.showpo.com/beauty/shop-by-category/tools.html" class="level2">Tools &amp; Brushes</a></li><li class="level2 nav-5-1-8 category-node-1361"><a href="https://www.showpo.com/beauty/shop-by-category/glitter.html" class="level2">Glitter</a></li><li class="level2 nav-5-1-9 category-node-1363"><a href="https://www.showpo.com/beauty/shop-by-category/festival.html" class="level2">Festival</a></li></ul></li><li class="level1 nav-5-2 has-dropdown category-node-1308"><a href="https://www.showpo.com/beauty/shop-by-brand.html" class="level1 has-children">Shop By Brand</a><ul class="level1 dropdown"><li class="level2 nav-5-2-1 category-node-1444"><a href="https://www.showpo.com/beauty/shop-by-brand/b-tan.html" class="level2">B.tan</a></li><li class="level2 nav-5-2-2 category-node-1417"><a href="https://www.showpo.com/beauty/shop-by-brand/fanola.html" class="level2">Fanola</a></li><li class="level2 nav-5-2-3 category-node-1442"><a href="https://www.showpo.com/beauty/shop-by-brand/foreo.html" class="level2">Foreo</a></li><li class="level2 nav-5-2-4 category-node-1439"><a href="https://www.showpo.com/beauty/shop-by-brand/glamierre.html" class="level2">Glamierre</a></li><li class="level2 nav-5-2-5 category-node-1309"><a href="https://www.showpo.com/beauty/shop-by-brand/jeffree-star-cosmetics.html" class="level2">Jeffree Star Cosmetics</a></li><li class="level2 nav-5-2-6 category-node-1431"><a href="https://www.showpo.com/beauty/shop-by-brand/land-of-lashes.html" class="level2">Land of Lashes</a></li><li class="level2 nav-5-2-7 category-node-1446"><a href="https://www.showpo.com/beauty/shop-by-brand/makeup-eraser.html" class="level2">MakeUp Eraser</a></li><li class="level2 nav-5-2-8 category-node-1367"><a href="https://www.showpo.com/beauty/shop-by-brand/minetan.html" class="level2">Minetan</a></li><li class="level2 nav-5-2-9 category-node-1421"><a href="https://www.showpo.com/beauty/shop-by-brand/pixi.html" class="level2">Pixi</a></li><li class="level2 nav-5-2-10 category-node-1312"><a href="https://www.showpo.com/beauty/shop-by-brand/social-eyes.html" class="level2">Social Eyes</a></li><li class="level2 nav-5-2-11 category-node-1449"><a href="https://www.showpo.com/beauty/shop-by-brand/the-wing-liner.html" class="level2">The Wing Liner</a></li></ul></li></div><div class="columns medium-7 menu-block"><a href="https://www.showpo.com/beauty.html"><img src="https://cdn.executiveponies.com/media/wysiwyg/menu/2018-08/BEAUTY_DROPDOWN_BANNER_AU_NZ_16_08_18.jpg" alt="beauty"></a></div></ul></li><li class="level0 nav-6 category-node-662"><a href="https://www.showpo.com/back-in-stock.html" class="level0">Back In Stock</a></li><li class="level0 nav-7 has-dropdown category-node-666 mega-menu"><a href="https://www.showpo.com/sale-cheap-dresses.html" class="level0 has-children">Sale</a><ul class="level0 arrow-box dropdown columns-1-for-large columns-1-for-medium"><div class="mega-list medium-4 large-3 columns"><li class="level1 nav-7-1 category-node-699"><a href="https://www.showpo.com/sale-cheap-dresses/dresses.html" class="level1">Dresses On Sale</a></li><li class="level1 nav-7-2 category-node-700"><a href="https://www.showpo.com/sale-cheap-dresses/playsuits.html" class="level1">Playsuits On Sale</a></li><li class="level1 nav-7-3 category-node-701"><a href="https://www.showpo.com/sale-cheap-dresses/tops.html" class="level1">Tops On Sale</a></li><li class="level1 nav-7-4 category-node-702"><a href="https://www.showpo.com/sale-cheap-dresses/bottoms.html" class="level1">Bottoms On Sale</a></li><li class="level1 nav-7-5 category-node-703"><a href="https://www.showpo.com/sale-cheap-dresses/outerwear.html" class="level1">Outerwear On Sale</a></li><li class="level1 nav-7-6 category-node-704"><a href="https://www.showpo.com/sale-cheap-dresses/swimwear.html" class="level1">Swimwear On Sale</a></li><li class="level1 nav-7-7 category-node-705"><a href="https://www.showpo.com/sale-cheap-dresses/accessories.html" class="level1">Accessories On Sale</a></li><li class="level1 nav-7-8 category-node-1405"><a href="https://www.showpo.com/sale-cheap-dresses/shoes.html" class="level1">Shoes On Sale</a></li><li class="level1 nav-7-9 category-node-1407"><a href="https://www.showpo.com/sale-cheap-dresses/beauty.html" class="level1">Beauty On Sale</a></li></div><div class="medium-8 large-9 columns show-for-medium-up" style="text-align:right;"><a href="https://www.showpo.com/sale-cheap-dresses.html"><img src="https://cdn.executiveponies.com/media/wysiwyg/menu/2018-08/SaleDropDown_AU_US_29_08_2018.jpg" alt="" style="max-width:878px;margin-right:-15px;"></a></div></ul></li>                        <li class="level0 has-left-sparator"><a href="https://www.showpo.com/gift-shop/" class="level0">Gift Shop</a></li>            <li class="level0 has-left-sparator"><a href="https://www.showpo.com/showpoedit/" class="level0" target="_blank">Blog</a></li>        </ul>
+</div></ul></li><li class="level0 nav-3 has-dropdown category-node-695 mega-menu"><a href="https://www.showpo.com/shoes.html" class="level0 has-children">Shoes</a><ul class="level0 arrow-box dropdown columns-2-for-large columns-2-for-medium"><div class="mega-list medium-5 columns"><li class="level1 nav-3-1 has-dropdown category-node-1345"><a href="https://www.showpo.com/shoes/shop-by-category.html" class="level1 has-children">Shop By Category</a><ul class="level1 dropdown"><li class="level2 nav-3-1-1 category-node-813"><a href="https://www.showpo.com/shoes/shop-by-category/heels.html" class="level2">Heels</a></li><li class="level2 nav-3-1-2 category-node-816"><a href="https://www.showpo.com/shoes/shop-by-category/boots.html" class="level2">Boots</a></li><li class="level2 nav-3-1-3 category-node-815"><a href="https://www.showpo.com/shoes/shop-by-category/sandals.html" class="level2">Sandals</a></li><li class="level2 nav-3-1-4 category-node-1403"><a href="https://www.showpo.com/shoes/shop-by-category/slides.html" class="level2">Slides</a></li><li class="level2 nav-3-1-5 category-node-1210"><a href="https://www.showpo.com/shoes/shop-by-category/sneakers.html" class="level2">Sneakers</a></li><li class="level2 nav-3-1-6 category-node-814"><a href="https://www.showpo.com/shoes/shop-by-category/flats.html" class="level2">Flats</a></li><li class="level2 nav-3-1-7 category-node-693"><a href="https://www.showpo.com/shoes/shop-by-category/work-shoes.html" class="level2">Work Shoes</a></li></ul></li><li class="level1 nav-3-2 has-dropdown category-node-1318"><a href="https://www.showpo.com/shoes/shop-by-brand.html" class="level1 has-children">Shop By Brand</a><ul class="level1 dropdown"><li class="level2 nav-3-2-1 category-node-1319"><a href="https://www.showpo.com/shoes/shop-by-brand/billini.html" class="level2">Billini</a></li><li class="level2 nav-3-2-2 category-node-1321"><a href="https://www.showpo.com/shoes/shop-by-brand/lipstik.html" class="level2">Lipstik</a></li><li class="level2 nav-3-2-3 category-node-1320"><a href="https://www.showpo.com/shoes/shop-by-brand/therapy.html" class="level2">Therapy</a></li><li class="level2 nav-3-2-4 category-node-1322"><a href="https://www.showpo.com/shoes/shop-by-brand/verali.html" class="level2">Verali</a></li><li class="level2 nav-3-2-5 category-node-1379"><a href="https://www.showpo.com/shoes/shop-by-brand/showpo-x-billini.html" class="level2">Showpo x Billini</a></li><li class="level2 nav-3-2-6 category-node-1391"><a href="https://www.showpo.com/shoes/shop-by-brand/windsor-smith.html" class="level2">Windsor Smith</a></li></ul></li></div><div class="columns medium-7 menu-block show-for-medium-up"><a href="https://www.showpo.com/shoes.html"><img src="https://cdn.executiveponies.com/media/wysiwyg/menu/2018-11/SHOE_DROP_DOWN_BANNER_AU_NZ_15_11_2018.jpg" alt="shoes"></a></div></ul></li><li class="level0 nav-4 has-dropdown category-node-665 mega-menu"><a href="https://www.showpo.com/accessories.html" class="level0 has-children">Accessories</a><ul class="level0 arrow-box dropdown columns-3-for-large columns-3-for-medium"><div class="mega-list medium-12 columns"><li class="level1 nav-4-1 has-dropdown category-node-694"><a href="https://www.showpo.com/accessories/jewellery.html" class="level1 has-children">Jewellery</a><ul class="level1 dropdown"><li class="level2 nav-4-1-1 category-node-807"><a href="https://www.showpo.com/accessories/jewellery/necklaces.html" class="level2">Necklaces</a></li><li class="level2 nav-4-1-2 category-node-808"><a href="https://www.showpo.com/accessories/jewellery/rings.html" class="level2">Rings</a></li><li class="level2 nav-4-1-3 category-node-809"><a href="https://www.showpo.com/accessories/jewellery/earrings.html" class="level2">Earrings</a></li><li class="level2 nav-4-1-4 category-node-810"><a href="https://www.showpo.com/accessories/jewellery/bracelets.html" class="level2">Bracelets</a></li><li class="level2 nav-4-1-5 category-node-811"><a href="https://www.showpo.com/accessories/jewellery/bodychains.html" class="level2">Bodychains</a></li></ul></li><li class="level1 nav-4-2 has-dropdown category-node-697"><a href="https://www.showpo.com/accessories/accessories.html" class="level1 has-children">Accessories</a><ul class="level1 dropdown"><li class="level2 nav-4-2-1 category-node-821"><a href="https://www.showpo.com/accessories/accessories/hair.html" class="level2">Hair and Hats</a></li><li class="level2 nav-4-2-2 category-node-822"><a href="https://www.showpo.com/accessories/accessories/sunglasses.html" class="level2">Sunglasses</a></li><li class="level2 nav-4-2-3 category-node-823"><a href="https://www.showpo.com/accessories/accessories/belts.html" class="level2">Belts</a></li><li class="level2 nav-4-2-4 category-node-824"><a href="https://www.showpo.com/accessories/accessories/scarves.html" class="level2">Scarves</a></li><li class="level2 nav-4-2-5 category-node-825"><a href="https://www.showpo.com/accessories/accessories/bags.html" class="level2">Bags</a></li><li class="level2 nav-4-2-6 category-node-1200"><a href="https://www.showpo.com/accessories/accessories/socks.html" class="level2">Socks and Gloves</a></li><li class="level2 nav-4-2-7 category-node-692"><a href="https://www.showpo.com/accessories/accessories/for-work.html" class="level2">For Work</a></li><li class="level2 nav-4-2-8 category-node-1288"><a href="https://www.showpo.com/accessories/accessories/watches.html" class="level2">Watches</a></li></ul></li><li class="level1 nav-4-3 has-dropdown category-node-698"><a href="https://www.showpo.com/accessories/homewares.html" class="level1 has-children">Homewares</a><ul class="level1 dropdown"><li class="level2 nav-4-3-1 category-node-826"><a href="https://www.showpo.com/accessories/homewares/apartment.html" class="level2">Apartment</a></li><li class="level2 nav-4-3-2 category-node-827"><a href="https://www.showpo.com/accessories/homewares/towels.html" class="level2">Towels</a></li><li class="level2 nav-4-3-3 category-node-828"><a href="https://www.showpo.com/accessories/homewares/technology.html" class="level2">Technology</a></li><li class="level2 nav-4-3-4 category-node-829"><a href="https://www.showpo.com/accessories/homewares/stationary.html" class="level2">Stationery</a></li><li class="level2 nav-4-3-5 category-node-830"><a href="https://www.showpo.com/accessories/homewares/inflatables.html" class="level2">Inflatables</a></li><li class="level2 nav-4-3-6 category-node-1220"><a href="https://www.showpo.com/accessories/homewares/party-fun.html" class="level2">Party &amp; Fun</a></li><li class="level2 nav-4-3-7 category-node-1269"><a href="https://www.showpo.com/accessories/homewares/petwear.html" class="level2">Petwear</a></li></ul></li></div></ul></li><li class="level0 nav-5 has-dropdown category-node-696 mega-menu"><a href="https://www.showpo.com/beauty.html" class="level0 has-children">Beauty</a><ul class="level0 arrow-box dropdown columns-2-for-large columns-2-for-medium"><div class="mega-list medium-5 columns"><li class="level1 nav-5-1 has-dropdown category-node-1346"><a href="https://www.showpo.com/beauty/shop-by-category.html" class="level1 has-children">Shop By Category</a><ul class="level1 dropdown"><li class="level2 nav-5-1-1 category-node-818"><a href="https://www.showpo.com/beauty/shop-by-category/lips.html" class="level2">Lips</a></li><li class="level2 nav-5-1-2 category-node-819"><a href="https://www.showpo.com/beauty/shop-by-category/face.html" class="level2">Face</a></li><li class="level2 nav-5-1-3 category-node-1299"><a href="https://www.showpo.com/beauty/shop-by-category/eyes.html" class="level2">Eyes &amp; Brows</a></li><li class="level2 nav-5-1-4 category-node-820"><a href="https://www.showpo.com/beauty/shop-by-category/nails.html" class="level2">Nails</a></li><li class="level2 nav-5-1-5 category-node-817"><a href="https://www.showpo.com/beauty/shop-by-category/body.html" class="level2">Body</a></li><li class="level2 nav-5-1-6 category-node-1340"><a href="https://www.showpo.com/beauty/shop-by-category/hair.html" class="level2">Hair</a></li><li class="level2 nav-5-1-7 category-node-1300"><a href="https://www.showpo.com/beauty/shop-by-category/tools.html" class="level2">Tools &amp; Brushes</a></li><li class="level2 nav-5-1-8 category-node-1361"><a href="https://www.showpo.com/beauty/shop-by-category/glitter.html" class="level2">Glitter</a></li><li class="level2 nav-5-1-9 category-node-1363"><a href="https://www.showpo.com/beauty/shop-by-category/festival.html" class="level2">Festival</a></li><li class="level2 nav-5-1-10 category-node-1465"><a href="https://www.showpo.com/beauty/shop-by-category/palettes.html" class="level2">Palettes &amp; Sets</a></li></ul></li><li class="level1 nav-5-2 has-dropdown category-node-1308"><a href="https://www.showpo.com/beauty/shop-by-brand.html" class="level1 has-children">Shop By Brand</a><ul class="level1 dropdown"><li class="level2 nav-5-2-1 category-node-1444"><a href="https://www.showpo.com/beauty/shop-by-brand/b-tan.html" class="level2">B.tan</a></li><li class="level2 nav-5-2-2 category-node-1395"><a href="https://www.showpo.com/beauty/shop-by-brand/dermacol.html" class="level2">Dermacol</a></li><li class="level2 nav-5-2-3 category-node-1417"><a href="https://www.showpo.com/beauty/shop-by-brand/fanola.html" class="level2">Fanola</a></li><li class="level2 nav-5-2-4 category-node-1442"><a href="https://www.showpo.com/beauty/shop-by-brand/foreo.html" class="level2">Foreo</a></li><li class="level2 nav-5-2-5 category-node-1439"><a href="https://www.showpo.com/beauty/shop-by-brand/glamierre.html" class="level2">Glamierre</a></li><li class="level2 nav-5-2-6 category-node-1413"><a href="https://www.showpo.com/beauty/shop-by-brand/gypsy-shrine.html" class="level2">Gypsy Shrine</a></li><li class="level2 nav-5-2-7 category-node-1309"><a href="https://www.showpo.com/beauty/shop-by-brand/jeffree-star-cosmetics.html" class="level2">Jeffree Star Cosmetics</a></li><li class="level2 nav-5-2-8 category-node-1431"><a href="https://www.showpo.com/beauty/shop-by-brand/land-of-lashes.html" class="level2">Land of Lashes</a></li><li class="level2 nav-5-2-9 category-node-1446"><a href="https://www.showpo.com/beauty/shop-by-brand/makeup-eraser.html" class="level2">MakeUp Eraser</a></li><li class="level2 nav-5-2-10 category-node-1367"><a href="https://www.showpo.com/beauty/shop-by-brand/minetan.html" class="level2">Minetan</a></li><li class="level2 nav-5-2-11 category-node-1421"><a href="https://www.showpo.com/beauty/shop-by-brand/pixi.html" class="level2">Pixi</a></li><li class="level2 nav-5-2-12 category-node-1312"><a href="https://www.showpo.com/beauty/shop-by-brand/social-eyes.html" class="level2">Social Eyes</a></li></ul></li></div><div class="columns medium-7 menu-block"><a href="https://www.showpo.com/beauty.html"><img src="https://cdn.executiveponies.com/media/wysiwyg/menu/2018-08/BEAUTY_DROPDOWN_BANNER_AU_NZ_16_08_18.jpg" alt="beauty"></a></div></ul></li><li class="level0 nav-6 category-node-662"><a href="https://www.showpo.com/back-in-stock.html" class="level0">Back In Stock</a></li><li class="level0 nav-7 has-dropdown category-node-666 mega-menu"><a href="https://www.showpo.com/sale-cheap-dresses.html" class="level0 has-children">Sale</a><ul class="level0 arrow-box dropdown columns-1-for-large columns-1-for-medium"><div class="mega-list medium-4 large-3 columns"><li class="level1 nav-7-1 category-node-699"><a href="https://www.showpo.com/sale-cheap-dresses/dresses.html" class="level1">Dresses On Sale</a></li><li class="level1 nav-7-2 category-node-700"><a href="https://www.showpo.com/sale-cheap-dresses/playsuits.html" class="level1">Playsuits On Sale</a></li><li class="level1 nav-7-3 category-node-701"><a href="https://www.showpo.com/sale-cheap-dresses/tops.html" class="level1">Tops On Sale</a></li><li class="level1 nav-7-4 category-node-702"><a href="https://www.showpo.com/sale-cheap-dresses/bottoms.html" class="level1">Bottoms On Sale</a></li><li class="level1 nav-7-5 category-node-703"><a href="https://www.showpo.com/sale-cheap-dresses/outerwear.html" class="level1">Outerwear On Sale</a></li><li class="level1 nav-7-6 category-node-704"><a href="https://www.showpo.com/sale-cheap-dresses/swimwear.html" class="level1">Swimwear On Sale</a></li><li class="level1 nav-7-7 category-node-705"><a href="https://www.showpo.com/sale-cheap-dresses/accessories.html" class="level1">Accessories On Sale</a></li><li class="level1 nav-7-8 category-node-1405"><a href="https://www.showpo.com/sale-cheap-dresses/shoes.html" class="level1">Shoes On Sale</a></li><li class="level1 nav-7-9 category-node-1407"><a href="https://www.showpo.com/sale-cheap-dresses/beauty.html" class="level1">Beauty On Sale</a></li></div><div class="medium-8 large-9 columns show-for-medium-up" style="text-align:right;"><a href="https://www.showpo.com/sale-cheap-dresses.html"><img src="https://cdn.executiveponies.com/media/wysiwyg/menu/2018-08/SaleDropDown_AU_US_29_08_2018.jpg" alt="" style="max-width:878px;margin-right:-15px;"></a></div></ul></li>                                    <li class="level0 has-left-sparator"><a href="https://www.showpo.com/showpoedit/" class="level0" target="_blank">Blog</a></li>        </ul>
         <ul class="right show-for-small-only">
             <li><a href="https://www.showpo.com/customer/account/">My Account</a></li>        </ul>
         <ul class="right show-for-small-only">
@@ -431,27 +461,24 @@ if (typeof ScarabQueue !== 'undefined') {
             for the latest information about our privacy practices.</p>
     </div>
 </div></div>                <footer class="main-footer">
-    <div class="cutoff-holiday-banner">
-        <div class="row">
-            <div class="columns small-12"><strong>Need it for Christmas 🎄? Or NYE 💃? We've got you covered! <a href="https://www.showpo.com/holiday-cut-off-times">Click to view</a> holiday order cut-off.</strong></div>
-        </div>
-    </div>
-    <div class="newsletter-block">
+    <div class="newsletter-block new-version">
         <div class="row">
 <form action="https://www.showpo.com/multimedia/newsletter/signup/" method="post" id="newslettersignup" data-abide="ajax">
 <div class="form-input-section">
-    <div class="small-12 small-text-centered columns">
-        <h3>Get the newest styles and exclusive sales in your inbox</h3>
+    <img class="letter-icon" src="https://cdnskin.executiveponies.com/skin/frontend/sp/default/images/newsletter/letter-icon.png" alt="Letter Icon">
+    <div class="small-12 small-text-centered columns newsletter-text-container">
+        <h3 class="newsletter-heading">JOIN OUR MAILING LIST!</h3>
+        <p class="newsletter-subtitle">EXCLUSIVE SALES, TREND ALERTS AND FASHION HACKS!</p>
     </div>
-    <div class="small-12 medium-8 large-6 end small-centered columns">
-        <div class="row collapse">
-            <div class="small-12 medium-7 columns">
-                <input name="email" type="email" id="newsletter" placeholder="Your email address" class="input-text" required="">
+    <div class="small-12 medium-8 large-6 end small-centered columns newsletter-input-container">
+        <div class="newsletter-input">
+            <div class="email-input">
+                <input name="email" type="email" id="newsletter" placeholder="YOUR EMAIL ADDRESS" class="input-text" required="">
                 <small id="advice-validate-email-newsletter" class="error"><i class="icon-warning"></i> Valid email required.</small>
             </div>
-            <div class="small-12 medium-5 columns">
+            <div class="submit-input">
                 <button type="submit" class="button newsletter-button postfix" title="Join Our Newsletter">
-                    Join Our Newsletter                </button>
+                    Go!                </button>
             </div>
         </div>
     </div>
@@ -463,6 +490,7 @@ if (typeof ScarabQueue !== 'undefined') {
 jQuery('document').ready(function(){
     jQuery('#newslettersignup').on('valid.fndtn.abide', function() {
         var actionUrl = jQuery('#newslettersignup').attr('action');
+        var email = jQuery('#newsletter').val();
         if (actionUrl) {
             jQuery('.newsletter-button').addClass('button-loading');
             new Ajax.Request(actionUrl, {
@@ -481,7 +509,14 @@ jQuery('document').ready(function(){
                         if (typeof ga !== 'undefined') {
                             ga('send', 'event', 'subscribe-to-newsletter', 'footer-page', 'subscribe');
                         }
-                        jQuery('#newslettersignup .form-input-section').html('<span class="success">You have successfully subscribed. Thank you for your subscription!</span>');
+
+                        var html_success = '<h3 class="newsletter-heading">YAAAAS!</h3>';
+                        html_success += '<p class="newsletter-subtitle">KEEP AN EYE ON YOUR INBOX FOR ALL THE LATEST!</p>';
+                        html_success += '<p class="newsletter-email-subscriber">' + email + '</p>';
+
+                        jQuery('.newsletter-input-container').hide();
+                        jQuery('.newsletter-text-container').html(html_success);
+                        // jQuery('#newslettersignup .form-input-section').html('<span class="success">You have successfully subscribed. Thank you for your subscription!</span>');
                     }
                 },
                 onFailure: function() {
@@ -735,7 +770,7 @@ jQuery('.wechat-popup').magnificPopup({
                                                                 <li class="shipping-country-opt" rel="ch|Switzerland"><i class="flag-icon flag-icon-ch"></i> Switzerland</li>
                                                                 <li class="shipping-country-opt" rel="tr|Turkey"><i class="flag-icon flag-icon-tr"></i> Turkey</li>
                                                                 <li class="shipping-country-opt" rel="ua|Ukraine"><i class="flag-icon flag-icon-ua"></i> Ukraine</li>
-                                                                <li class="shipping-country-opt" rel="gb|United Kingdom"><i class="flag-icon flag-icon-gb"></i> United Kingdom</li>
+                                                                <li class="shipping-country-opt" rel="gb|U.K."><i class="flag-icon flag-icon-gb"></i> U.K.</li>
                             </ul>
         </div>
         </li>
@@ -759,7 +794,7 @@ jQuery('.wechat-popup').magnificPopup({
                                                                 <li class="shipping-country-opt" rel="bm|Bermuda"><i class="flag-icon flag-icon-bm"></i> Bermuda</li>
                                                                 <li class="shipping-country-opt" rel="ca|Canada"><i class="flag-icon flag-icon-ca"></i> Canada</li>
                                                                 <li class="shipping-country-opt" rel="vi|U.S. Virgin Islands"><i class="flag-icon flag-icon-vi"></i> U.S. Virgin Islands</li>
-                                                                <li class="shipping-country-opt" rel="us|United States"><i class="flag-icon flag-icon-us"></i> United States</li>
+                                                                <li class="shipping-country-opt" rel="us|U.S."><i class="flag-icon flag-icon-us"></i> U.S.</li>
                             </ul>
         </div>
         </li>
@@ -794,7 +829,7 @@ jQuery('.wechat-popup').magnificPopup({
             </ul>
 </div>
 <script>
-var shiprateJson = [{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"ae","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"United Arab Emirates"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"11 - 12","type":"2","dest_country_id":"ae","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"United Arab Emirates"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"al","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Albania"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 15","type":"1","dest_country_id":"am","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Armenia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"19 - 20","type":"1","dest_country_id":"ar","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Argentina"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 10","type":"1","dest_country_id":"at","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Austria"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"8 - 10","type":"2","dest_country_id":"at","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Austria"},{"name":"Express Shipping","days":"1 - 3","au_days":"1 - 3","us_days":"3 - 6","type":"2","dest_country_id":"au","free_from":"50.0000","other_price":"0.0000","price":"7.9500","c_name":"Australia"},{"name":"Sydney - Within 4 hours","days":"1","au_days":"1","us_days":"3 - 6","type":"3","dest_country_id":"au","free_from":"50.0000","other_price":"9.9500","price":"14.9500","c_name":"Australia"},{"name":"Sydney - Tonight 6pm - 9pm","days":"1","au_days":"1","us_days":"3 - 6","type":"4","dest_country_id":"au","free_from":"50.0000","other_price":"9.9500","price":"14.9500","c_name":"Australia"},{"name":"Sydney - Saturday 1pm - 6pm","days":"1","au_days":"1","us_days":"3 - 6","type":"5","dest_country_id":"au","free_from":"50.0000","other_price":"12.9500","price":"14.9500","c_name":"Australia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"ba","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Bosnia and Herzegovina"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"bb","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Barbados"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"16 - 18","type":"1","dest_country_id":"be","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Belgium"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"16 - 18","type":"2","dest_country_id":"be","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Belgium"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 14","type":"1","dest_country_id":"bg","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Bulgaria"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"7 - 8","type":"1","dest_country_id":"bm","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Bermuda"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"br","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Brazil"},{"name":"Standard Shipping","days":"7 - 11","au_days":"7 - 11","us_days":"6 -7","type":"1","dest_country_id":"ca","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Canada"},{"name":"Express Shipping","days":"3 - 5","au_days":"3 - 5","us_days":"6 -7","type":"2","dest_country_id":"ca","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Canada"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"3 - 5","type":"1","dest_country_id":"ch","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Switzerland"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"3 - 5","type":"2","dest_country_id":"ch","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Switzerland"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"cl","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Chile"},{"name":"Standard Shipping","days":"7 - 11","au_days":"7 - 11","us_days":"9 - 10","type":"1","dest_country_id":"cn","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"China"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"9 - 10","type":"2","dest_country_id":"cn","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"China"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"14 - 15","type":"1","dest_country_id":"co","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Colombia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"","type":"1","dest_country_id":"cv","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Cape Verde"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"cy","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Cyprus"},{"name":"Express Shipping","days":"3 - 4","au_days":"3 - 4","us_days":"9 - 10","type":"2","dest_country_id":"cy","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Cyprus"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"cz","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Czech Republic"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"10 - 11","type":"2","dest_country_id":"cz","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Czech Republic"},{"name":"Standard Shipping","days":"6 - 10","au_days":"6 - 10","us_days":"6 - 7","type":"1","dest_country_id":"de","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Germany"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"6 - 7","type":"2","dest_country_id":"de","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Germany"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"dk","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Denmark"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"10 - 11","type":"2","dest_country_id":"dk","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Denmark"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"12 - 13","type":"1","dest_country_id":"ee","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Estonia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"5 - 7","type":"1","dest_country_id":"es","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Spain"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"5 - 7","type":"2","dest_country_id":"es","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Spain"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"12 - 13","type":"1","dest_country_id":"fi","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Finland"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"12 - 13","type":"2","dest_country_id":"fi","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Finland"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"12 - 13","type":"1","dest_country_id":"fj","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Fiji"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"12 - 13","type":"2","dest_country_id":"fj","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Fiji"},{"name":"Standard Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"6 - 7","type":"1","dest_country_id":"fr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"France"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"6 - 7","type":"2","dest_country_id":"fr","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"France"},{"name":"Standard Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"5 - 7","type":"1","dest_country_id":"gb","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"United Kingdom"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"5 - 7","type":"2","dest_country_id":"gb","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"United Kingdom"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 9","type":"1","dest_country_id":"gi","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Gibraltar"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 14","type":"1","dest_country_id":"gr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Greece"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"13 - 14","type":"2","dest_country_id":"gr","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Greece"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"","type":"1","dest_country_id":"gy","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Guyana"},{"name":"Standard Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"6 - 7","type":"1","dest_country_id":"hk","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Hong Kong SAR China"},{"name":"Express Shipping","days":"1 - 2","au_days":"1 - 2","us_days":"6 - 7","type":"2","dest_country_id":"hk","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Hong Kong SAR China"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"hr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Croatia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 15","type":"1","dest_country_id":"hu","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Hungary"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"13 - 15","type":"2","dest_country_id":"hu","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Hungary"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"12 - 13","type":"1","dest_country_id":"id","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Indonesia"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"12 - 13","type":"2","dest_country_id":"id","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Indonesia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 9","type":"1","dest_country_id":"ie","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Ireland"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"8 - 9","type":"2","dest_country_id":"ie","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Ireland"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"14 - 15","type":"1","dest_country_id":"in","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"India"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"14 - 15","type":"2","dest_country_id":"in","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"India"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 9","type":"1","dest_country_id":"is","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Iceland"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 9","type":"1","dest_country_id":"it","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Italy"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 9","type":"2","dest_country_id":"it","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Italy"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"17 - 18","type":"1","dest_country_id":"jo","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Jordan"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"7 - 8","type":"1","dest_country_id":"jp","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Japan"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 8","type":"2","dest_country_id":"jp","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Japan"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"","type":"1","dest_country_id":"kg","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Kyrgyzstan"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"9 - 10","type":"1","dest_country_id":"kr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"South Korea"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"9 - 10","type":"2","dest_country_id":"kr","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"South Korea"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"","type":"1","dest_country_id":"kw","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Kuwait"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"17 - 18","type":"1","dest_country_id":"lb","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Lebanon"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 14","type":"1","dest_country_id":"lt","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Lithuania"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"6 - 7","type":"1","dest_country_id":"lu","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Luxembourg"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"6 - 7","type":"2","dest_country_id":"lu","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Luxembourg"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"6 - 7","type":"1","dest_country_id":"lv","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Latvia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"19 - 20","type":"1","dest_country_id":"ma","free_from":"0.0000","other_price":"0.0000","price":"16.0000","c_name":"Morocco"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"4 - 5","type":"1","dest_country_id":"mc","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Monaco"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 10","type":"1","dest_country_id":"me","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Montenegro"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"","type":"1","dest_country_id":"mm","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Myanmar (Burma)"},{"name":"Express Shipping","days":"3 - 4","au_days":"3 - 4","us_days":"","type":"2","dest_country_id":"mm","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Myanmar (Burma)"},{"name":"Standard Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"6 - 7","type":"1","dest_country_id":"mo","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Macau SAR China"},{"name":"Express Shipping","days":"1 - 2","au_days":"1 - 2","us_days":"6 - 7","type":"2","dest_country_id":"mo","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Macau SAR China"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"mt","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Malta"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"9 - 10","type":"2","dest_country_id":"mt","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Malta"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"mu","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Mauritius"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"8 - 9","type":"1","dest_country_id":"my","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Malaysia"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"8 - 9","type":"2","dest_country_id":"my","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Malaysia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"","type":"1","dest_country_id":"na","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Namibia"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"11 - 12","type":"1","dest_country_id":"nc","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"New Caledonia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"6 - 7","type":"1","dest_country_id":"nl","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Netherlands"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"6 - 7","type":"2","dest_country_id":"nl","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Netherlands"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 8","type":"1","dest_country_id":"no","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Norway"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 8","type":"2","dest_country_id":"no","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Norway"},{"name":"Standard Shipping","days":"3 - 5","au_days":"3 - 5","us_days":"5 - 7","type":"1","dest_country_id":"nz","free_from":"50.0000","other_price":"0.0000","price":"7.9500","c_name":"New Zealand"},{"name":"Express Shipping","days":"1 - 2","au_days":"1 - 2","us_days":"5 - 7","type":"2","dest_country_id":"nz","free_from":"0.0000","other_price":"0.0000","price":"10.0000","c_name":"New Zealand"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"18 - 19","type":"1","dest_country_id":"pe","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Peru"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"8 - 9","type":"1","dest_country_id":"pf","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"French Polynesia"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"14 - 15","type":"1","dest_country_id":"ph","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Philippines"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"14 - 15","type":"2","dest_country_id":"ph","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Philippines"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 9","type":"1","dest_country_id":"pl","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Poland"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"8 - 9","type":"2","dest_country_id":"pl","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Poland"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"","type":"1","dest_country_id":"pr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Puerto Rico"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 8","type":"1","dest_country_id":"pt","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Portugal"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 8","type":"2","dest_country_id":"pt","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Portugal"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"qa","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Qatar"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"22 - 23","type":"1","dest_country_id":"re","free_from":"0.0000","other_price":"0.0000","price":"9.9500","c_name":"R\u00e9union"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 15","type":"1","dest_country_id":"ro","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Romania"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 8","type":"1","dest_country_id":"se","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Sweden"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 8","type":"2","dest_country_id":"se","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Sweden"},{"name":"Standard Shipping","days":"5 - 9","au_days":"5 - 9","us_days":"6 - 7","type":"1","dest_country_id":"sg","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Singapore"},{"name":"Express Shipping","days":"1 - 2","au_days":"1 - 2","us_days":"6 - 7","type":"2","dest_country_id":"sg","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Singapore"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"si","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Slovenia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"sk","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Slovakia"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"10 - 11","type":"1","dest_country_id":"th","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Thailand"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"10 - 11","type":"2","dest_country_id":"th","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Thailand"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"tr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Turkey"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"tt","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Trinidad and Tobago"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"8 - 9","type":"1","dest_country_id":"tw","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Taiwan"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"8 - 9","type":"2","dest_country_id":"tw","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Taiwan"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"10 - 11","type":"1","dest_country_id":"ua","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Ukraine"},{"name":"Standard Shipping","days":"3 - 6","au_days":"3 - 6","us_days":"2 - 3","type":"1","dest_country_id":"us","free_from":"50.0000","other_price":"0.0000","price":"9.9500","c_name":"United States"},{"name":"Express Shipping","days":"1 - 4","au_days":"1 - 4","us_days":"2 - 3","type":"2","dest_country_id":"us","free_from":"0.0000","other_price":"0.0000","price":"12.4500","c_name":"United States"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"19 - 21","type":"1","dest_country_id":"ve","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Venezuela"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 9","type":"1","dest_country_id":"vi","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"U.S. Virgin Islands"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"15 - 16","type":"1","dest_country_id":"vn","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Vietnam"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"15 - 16","type":"2","dest_country_id":"vn","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Vietnam"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"za","free_from":"0.0000","other_price":"0.0000","price":"20.0000","c_name":"South Africa"}];
+var shiprateJson = [{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"ae","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"United Arab Emirates"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"11 - 12","type":"2","dest_country_id":"ae","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"United Arab Emirates"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"al","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Albania"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 15","type":"1","dest_country_id":"am","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Armenia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"19 - 20","type":"1","dest_country_id":"ar","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Argentina"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 10","type":"1","dest_country_id":"at","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Austria"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"8 - 10","type":"2","dest_country_id":"at","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Austria"},{"name":"Express Shipping","days":"1 - 3","au_days":"1 - 3","us_days":"3 - 6","type":"2","dest_country_id":"au","free_from":"50.0000","other_price":"0.0000","price":"7.9500","c_name":"Australia"},{"name":"Sydney - Within 4 hours","days":"1","au_days":"1","us_days":"3 - 6","type":"3","dest_country_id":"au","free_from":"50.0000","other_price":"9.9500","price":"14.9500","c_name":"Australia"},{"name":"Sydney - Tonight 6pm - 9pm","days":"1","au_days":"1","us_days":"3 - 6","type":"4","dest_country_id":"au","free_from":"50.0000","other_price":"9.9500","price":"14.9500","c_name":"Australia"},{"name":"Sydney - Saturday 1pm - 6pm","days":"1","au_days":"1","us_days":"3 - 6","type":"5","dest_country_id":"au","free_from":"50.0000","other_price":"12.9500","price":"14.9500","c_name":"Australia"},{"name":"Tomorrow","days":"1","au_days":"1","us_days":"3 - 6","type":"6","dest_country_id":"au","free_from":"50.0000","other_price":"12.9500","price":"14.9500","c_name":"Australia"},{"name":"Tonight","days":"1","au_days":"1","us_days":"3 - 6","type":"7","dest_country_id":"au","free_from":"50.0000","other_price":"12.9500","price":"14.9500","c_name":"Australia"},{"name":"Saturday","days":"1","au_days":"1","us_days":"3 - 6","type":"8","dest_country_id":"au","free_from":"50.0000","other_price":"12.9500","price":"14.9500","c_name":"Australia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"ba","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Bosnia and Herzegovina"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"bb","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Barbados"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"16 - 18","type":"1","dest_country_id":"be","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Belgium"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"16 - 18","type":"2","dest_country_id":"be","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Belgium"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 14","type":"1","dest_country_id":"bg","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Bulgaria"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"7 - 8","type":"1","dest_country_id":"bm","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Bermuda"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"br","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Brazil"},{"name":"Standard Shipping","days":"7 - 11","au_days":"7 - 11","us_days":"6 -7","type":"1","dest_country_id":"ca","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Canada"},{"name":"Express Shipping","days":"3 - 5","au_days":"3 - 5","us_days":"6 -7","type":"2","dest_country_id":"ca","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Canada"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"3 - 5","type":"1","dest_country_id":"ch","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Switzerland"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"3 - 5","type":"2","dest_country_id":"ch","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Switzerland"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"cl","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Chile"},{"name":"Standard Shipping","days":"7 - 11","au_days":"7 - 11","us_days":"9 - 10","type":"1","dest_country_id":"cn","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"China"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"9 - 10","type":"2","dest_country_id":"cn","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"China"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"14 - 15","type":"1","dest_country_id":"co","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Colombia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"","type":"1","dest_country_id":"cv","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Cape Verde"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"cy","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Cyprus"},{"name":"Express Shipping","days":"3 - 4","au_days":"3 - 4","us_days":"9 - 10","type":"2","dest_country_id":"cy","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Cyprus"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"cz","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Czech Republic"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"10 - 11","type":"2","dest_country_id":"cz","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Czech Republic"},{"name":"Standard Shipping","days":"6 - 10","au_days":"6 - 10","us_days":"6 - 7","type":"1","dest_country_id":"de","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Germany"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"6 - 7","type":"2","dest_country_id":"de","free_from":"100.0000","other_price":"15.9500","price":"32.9500","c_name":"Germany"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"dk","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Denmark"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"10 - 11","type":"2","dest_country_id":"dk","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Denmark"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"12 - 13","type":"1","dest_country_id":"ee","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Estonia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"5 - 7","type":"1","dest_country_id":"es","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Spain"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"5 - 7","type":"2","dest_country_id":"es","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Spain"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"12 - 13","type":"1","dest_country_id":"fi","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Finland"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"12 - 13","type":"2","dest_country_id":"fi","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Finland"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"12 - 13","type":"1","dest_country_id":"fj","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Fiji"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"12 - 13","type":"2","dest_country_id":"fj","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Fiji"},{"name":"Standard Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"6 - 7","type":"1","dest_country_id":"fr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"France"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"6 - 7","type":"2","dest_country_id":"fr","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"France"},{"name":"Standard Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"5 - 7","type":"1","dest_country_id":"gb","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"U.K."},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"5 - 7","type":"2","dest_country_id":"gb","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"U.K."},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 9","type":"1","dest_country_id":"gi","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Gibraltar"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 14","type":"1","dest_country_id":"gr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Greece"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"13 - 14","type":"2","dest_country_id":"gr","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Greece"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"","type":"1","dest_country_id":"gy","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Guyana"},{"name":"Standard Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"6 - 7","type":"1","dest_country_id":"hk","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Hong Kong SAR China"},{"name":"Express Shipping","days":"1 - 2","au_days":"1 - 2","us_days":"6 - 7","type":"2","dest_country_id":"hk","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Hong Kong SAR China"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"hr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Croatia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 15","type":"1","dest_country_id":"hu","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Hungary"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"13 - 15","type":"2","dest_country_id":"hu","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Hungary"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"12 - 13","type":"1","dest_country_id":"id","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Indonesia"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"12 - 13","type":"2","dest_country_id":"id","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Indonesia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 9","type":"1","dest_country_id":"ie","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Ireland"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"8 - 9","type":"2","dest_country_id":"ie","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Ireland"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"14 - 15","type":"1","dest_country_id":"in","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"India"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"14 - 15","type":"2","dest_country_id":"in","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"India"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 9","type":"1","dest_country_id":"is","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Iceland"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 9","type":"1","dest_country_id":"it","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Italy"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 9","type":"2","dest_country_id":"it","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Italy"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"17 - 18","type":"1","dest_country_id":"jo","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Jordan"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"7 - 8","type":"1","dest_country_id":"jp","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Japan"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 8","type":"2","dest_country_id":"jp","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Japan"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"","type":"1","dest_country_id":"kg","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Kyrgyzstan"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"9 - 10","type":"1","dest_country_id":"kr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"South Korea"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"9 - 10","type":"2","dest_country_id":"kr","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"South Korea"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"","type":"1","dest_country_id":"kw","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Kuwait"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"17 - 18","type":"1","dest_country_id":"lb","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Lebanon"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 14","type":"1","dest_country_id":"lt","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Lithuania"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"6 - 7","type":"1","dest_country_id":"lu","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Luxembourg"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"6 - 7","type":"2","dest_country_id":"lu","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Luxembourg"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"6 - 7","type":"1","dest_country_id":"lv","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Latvia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"19 - 20","type":"1","dest_country_id":"ma","free_from":"0.0000","other_price":"0.0000","price":"16.0000","c_name":"Morocco"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"4 - 5","type":"1","dest_country_id":"mc","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Monaco"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 10","type":"1","dest_country_id":"me","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Montenegro"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"","type":"1","dest_country_id":"mm","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Myanmar (Burma)"},{"name":"Express Shipping","days":"3 - 4","au_days":"3 - 4","us_days":"","type":"2","dest_country_id":"mm","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Myanmar (Burma)"},{"name":"Standard Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"6 - 7","type":"1","dest_country_id":"mo","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Macau SAR China"},{"name":"Express Shipping","days":"1 - 2","au_days":"1 - 2","us_days":"6 - 7","type":"2","dest_country_id":"mo","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Macau SAR China"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"mt","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Malta"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"9 - 10","type":"2","dest_country_id":"mt","free_from":"0.0000","other_price":"0.0000","price":"40.0000","c_name":"Malta"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"mu","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Mauritius"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"8 - 9","type":"1","dest_country_id":"my","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Malaysia"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"8 - 9","type":"2","dest_country_id":"my","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Malaysia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"","type":"1","dest_country_id":"na","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Namibia"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"11 - 12","type":"1","dest_country_id":"nc","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"New Caledonia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"6 - 7","type":"1","dest_country_id":"nl","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Netherlands"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"6 - 7","type":"2","dest_country_id":"nl","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Netherlands"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 8","type":"1","dest_country_id":"no","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Norway"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 8","type":"2","dest_country_id":"no","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Norway"},{"name":"Standard Shipping","days":"3 - 5","au_days":"3 - 5","us_days":"5 - 7","type":"1","dest_country_id":"nz","free_from":"50.0000","other_price":"0.0000","price":"7.9500","c_name":"New Zealand"},{"name":"Express Shipping","days":"1 - 2","au_days":"1 - 2","us_days":"5 - 7","type":"2","dest_country_id":"nz","free_from":"0.0000","other_price":"0.0000","price":"9.9500","c_name":"New Zealand"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"18 - 19","type":"1","dest_country_id":"pe","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Peru"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"8 - 9","type":"1","dest_country_id":"pf","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"French Polynesia"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"14 - 15","type":"1","dest_country_id":"ph","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Philippines"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"14 - 15","type":"2","dest_country_id":"ph","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Philippines"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"8 - 9","type":"1","dest_country_id":"pl","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Poland"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"8 - 9","type":"2","dest_country_id":"pl","free_from":"0.0000","other_price":"0.0000","price":"39.9500","c_name":"Poland"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"","type":"1","dest_country_id":"pr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Puerto Rico"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 8","type":"1","dest_country_id":"pt","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Portugal"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 8","type":"2","dest_country_id":"pt","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Portugal"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"9 - 10","type":"1","dest_country_id":"qa","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Qatar"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"22 - 23","type":"1","dest_country_id":"re","free_from":"0.0000","other_price":"0.0000","price":"9.9500","c_name":"R\u00e9union"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"13 - 15","type":"1","dest_country_id":"ro","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Romania"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 8","type":"1","dest_country_id":"se","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Sweden"},{"name":"Express Shipping","days":"2 - 3","au_days":"2 - 3","us_days":"7 - 8","type":"2","dest_country_id":"se","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Sweden"},{"name":"Standard Shipping","days":"5 - 9","au_days":"5 - 9","us_days":"6 - 7","type":"1","dest_country_id":"sg","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Singapore"},{"name":"Express Shipping","days":"1 - 2","au_days":"1 - 2","us_days":"6 - 7","type":"2","dest_country_id":"sg","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Singapore"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"si","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Slovenia"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"sk","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Slovakia"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"10 - 11","type":"1","dest_country_id":"th","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Thailand"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"10 - 11","type":"2","dest_country_id":"th","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Thailand"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"tr","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Turkey"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"11 - 12","type":"1","dest_country_id":"tt","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Trinidad and Tobago"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"8 - 9","type":"1","dest_country_id":"tw","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Taiwan"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"8 - 9","type":"2","dest_country_id":"tw","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Taiwan"},{"name":"Standard Shipping","days":"10 - 20","au_days":"10 - 20","us_days":"10 - 11","type":"1","dest_country_id":"ua","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Ukraine"},{"name":"Standard Shipping","days":"3 - 6","au_days":"3 - 6","us_days":"2 - 3","type":"1","dest_country_id":"us","free_from":"50.0000","other_price":"0.0000","price":"9.9500","c_name":"U.S."},{"name":"Express Shipping","days":"1 - 4","au_days":"1 - 4","us_days":"2 - 3","type":"2","dest_country_id":"us","free_from":"0.0000","other_price":"0.0000","price":"12.4500","c_name":"U.S."},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"19 - 21","type":"1","dest_country_id":"ve","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Venezuela"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"7 - 9","type":"1","dest_country_id":"vi","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"U.S. Virgin Islands"},{"name":"Standard Shipping","days":"7 - 15","au_days":"7 - 15","us_days":"15 - 16","type":"1","dest_country_id":"vn","free_from":"75.0000","other_price":"0.0000","price":"9.9500","c_name":"Vietnam"},{"name":"Express Shipping","days":"5 - 7","au_days":"5 - 7","us_days":"15 - 16","type":"2","dest_country_id":"vn","free_from":"0.0000","other_price":"0.0000","price":"25.0000","c_name":"Vietnam"},{"name":"Standard Shipping","days":"9 - 15","au_days":"9 - 15","us_days":"10 - 11","type":"1","dest_country_id":"za","free_from":"0.0000","other_price":"0.0000","price":"20.0000","c_name":"South Africa"}];
 var defaultCountry = {"code":"au","name":"Australia"};
 var currencysymbol = 'AU$';
 jQuery('#shipping-options').magnificPopup({type:'inline'});
@@ -951,90 +986,208 @@ Show Pony Group Pty Ltd</p>
         </div>
     </div>
 </footer>
- 
 <style>
+.global-promotion-banner,
+.promotion-banner-sticky {
+    cursor: default;
+}
+span.ends-in-message {
+    display: inline-block;
+    width: 25%;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.6px;
+}
+span.use-code-message {
+    display: inline-block;
+    width: 25%;
+    text-transform: initial;
+    font-weight: bold;
+    position: relative;
+    /* top: -6px; */
+    letter-spacing: 0.6px;
+}
+strong.main-promo-message {
+    display: inline-block;
+    /* width: 50%; */
+    width: 41%;
+    position: relative;
+    /* top: -6px; */
+    letter-spacing: 0.6px;
+    text-transform: initial !important;
+}
 .global-promotion-banner {
-    margin-top: -14px !important;
     margin-bottom: 10px !important;
     background-color: #e37c75;
     padding: 15px;
     color: #ffffff;
-}
-.global-promotion-banner a,
-.promotion-banner-sticky a {
-    font-size: 13px;
-    color: #ffffff;
-    text-transform: initial;
-    text-decoration: underline;
 }
 .promotion-banner-sticky {
     background-color: #e37c75;
     padding: 15px;
     color: #ffffff;
 }
-.promotion-banner-sticky, 
+.global-promotion-banner b {
+  cursor: pointer;
+}
+body:not(.cms-home) .global-promotion-banner.show-for-small-only{
+    margin-top: 0px;
+}
+body.catalog-product-view .global-promotion-banner.show-for-small-only{
+    margin-top: 0px;
+}
+#promo-details {
+    background-color: #e37c75;
+    color: #ffffff;
+}
+div#promo-details p,
+div#promo-details h2 {
+    color: #ffffff;
+}
+div#promo-details .separater-hr {
+    border-color: #ffffff;
+}
+#promo-details .close-reveal-modal, 
+#promo-details .close-reveal-modal:before, 
+#promo-details .close-reveal-modal:after {
+    border-color: #ffffff;
+}
+.global-promotion-banner.show-for-small-only strong.main-promo-message,
+.global-promotion-banner.show-for-small-only span.use-code-message {
+    display: block;
+    width: 100%;
+    padding: 0;
+}
+.global-promotion-banner.show-for-small-only {
+    padding: 15px 10px;
+}
+.global-promotion-banner.show-for-small-only span.use-code-message {
+    text-transform: initial;
+}
+.terms-and-conditions-message {
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+    border-left: 1px solid #eeeeee;
+    border-right: 1px solid #eeeeee;
+    border-bottom: 1px solid #eeeeee;
+}
+body.free-shipping-banner .global-promotion-banner.show-for-medium-up {
+    margin-top: -15px !important;
+}
+body.free-shipping-banner .sticky-active .promotion-banner-sticky {
+    top: 72px;
+}
+#promo-details h1 {
+    color: #ffffff;
+}
+strong.main-promo-message span.terms-and-conditions {
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: capitalize;
+    position: absolute;
+    left: calc(50% - 85px);
+    top: 20px;
+}
+span.use-code-message span.app-store-or-google-play {
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: initial;
+    position: absolute;
+    left: calc(50% - 70px);
+    top: 20px;
+}
+@media only screen and (min-width: 641px){
+.main-header .top-header {
+    /* top: 50px; UAT ONLY */
+}
 .global-promotion-banner {
-    cursor: initial;
+    margin-top: -12px !important;
+    cursor: pointer;
 }
-.global-promotion-banner.show-for-small-only {
-    padding: 15px 10px;
+body.free-shipping-banner .global-promotion-banner.show-for-medium-up {
+    margin-top: -15px !important;
 }
-.global-promotion-banner.show-for-small-only {
-    padding: 15px 10px;
-    margin-top: 2px !important;
 }
-body:not(.cms-home) .global-promotion-banner.show-for-small-only {
-    margin-top: 0px !important;
+@media screen and (max-width: 640px){
+    strong.main-promo-message {
+        display: inline-block;
+        text-align: center;
+        /* padding: 5px !important; */
+        text-transform: initial;
+        font-size: 13.5px;
+        position: relative;
+        /* top: -8px; */
+    }
+    .off-everything {
+        font-weight: 400px;
+    }
+    strong.main-promo-message span.terms-and-conditions {
+        font-size: 11px;
+        font-weight: 400;
+        text-transform: initial;
+        position: initial;
+        margin-top: 2px;
+        float: left;
+        text-align: center;
+        width: 100%;
+    }
+    .use-code-message {
+        float: right;
+        width: 28%;
+        position: relative;
+        top: -31px;
+        display: inline-block;
+        padding: 7px 8px;
+        background-color: #ffffff;
+        color: #000;
+        font-size: 13px;
+        font-weight: bold;
+    }
+    a.show-app-button,
+    a.show-app-button:active,
+    a.show-app-button:link,
+    a.show-app-button:visited,
+    a.show-app-button:hover {
+        color: #ffffff;
+        text-decoration: underline;
+        margin-right: 2px;
+    }
 }
-body.customer-account-index .global-promotion-banner,
-body.customer-account-edit .global-promotion-banner,
-body.customer-address-index .global-promotion-banner,
-body.sales-order-history .global-promotion-banner,
-body.showpo-rme-portal-list .global-promotion-banner,
-body.bz-wishlist-index-account .global-promotion-banner,
-body.newsletter-manage-index .global-promotion-banner,
-body.enterprise-customerbalance-info-index .global-promotion-banner,
-body.enterprise-giftcardaccount-customer-index .global-promotion-banner,
-body.review-customer-index .global-promotion-banner {
-display: none !important;
+.banner-container {
+    display: block;
 }
 </style>
 <script type="text/javascript">
-var christmasPageUrl = SP_AU + 'holiday-cut-off-times/';
-// Set Christmas cutoff times url page based on site / country
-switch(SP_STID) {
-    case '1':
-        christmasPageUrl = SP_AU + 'holiday-cut-off-times/';
-        break;
-    case '2':
-        christmasPageUrl = SP_US + 'holiday-cut-off-times/';
-        break;
-    case '3':
-        christmasPageUrl = SP_DE + 'holiday-cut-off-times/';
-        break;
-    case '4':
-        christmasPageUrl = SP_NZ + 'holiday-cut-off-times/';
-        break;
-    default:
-        christmasPageUrl = SP_AU + 'holiday-cut-off-times/';
-        break;
-}
 
 //<![CDATA[
-// Start and end time for promo banner to display
-// Uses UTC Time , so convert from Sydney time to UTC time for setting start and end date
 var localtime = new Date();
-var starttime = new Date('2018-12-25T04:00:00Z');
-var endtime = new Date('2018-12-27T04:00:00Z');
+// Start and end time for promo banner to display
+// Start Australian Eastern Standard Time and End in Australian Western Standard Time
+// Uses UTC Time , so convert from Sydney time to UTC time for setting start and end date
+var starttime = new Date('2019-04-02T02:00:00Z'); // Real Start time
+//var starttime = new Date('2019-01-01T01:00:00Z'); // Testing Start Time
+var endtime = new Date('2019-04-04T01:00:00Z');
 
+var getUrl = window.location;
+var baseUrl = getUrl .protocol + "//" + getUrl.host + "/";
+var salesUrl = baseUrl + 'sale-cheap-dresses.html';
+
+var price = 100;
+var coupon = 'SUMMERSALE';
 if (localtime > starttime && localtime < endtime) {
-    jQuery('document').ready(function(){
-        var el = jQuery('<div class="global-promotion-banner show-for-medium-up">Get it by New Year. Order in <b class="chours"></b><b>H</b> <b class="cminutes"></b><b>M</b> <b class="cseconds"></b><b>S</b><div><a href="'+christmasPageUrl+'">See all New Year cut off times</a></div></div>');
-        var elm = jQuery('<div class="global-promotion-banner show-for-small-only">Get it by New Year. Order in <b class="chours"></b><b>H</b> <b class="cminutes"></b><b>M</b> <b class="cseconds"></b><b>S</b><div><a href="'+christmasPageUrl+'">See all New Year cut off times</a></div></div>');
-        jQuery(".base-content" ).prepend(el);
-        jQuery(".base-content" ).prepend(elm);
-        jQuery("header").append(jQuery('<div class="promotion-banner-sticky">Get it by New Year. Order in <b class="chours"></b><b>H</b> <b class="cminutes"></b><b>M</b> <b class="cseconds"></b><b>S</b><div><a href="'+christmasPageUrl+'">See all New Year cut off times</a></div></div>'));
-        initializeClock(endtime);
+var symbol='$'+price;
+if (SP_STID && SP_STID == '3') {
+symbol='€'+price;
+}
+jQuery('document').ready(function(){
+    jQuery('#promo-limit').html(symbol);
+    var el = jQuery('<a href="' + salesUrl + '" class="banner-container"><div class="global-promotion-banner show-for-medium-up"><div class="row"><span class="ends-in-message"></span><strong class="main-promo-message">Take an extra <strong>10% off all sale styles!</strong></strong><span class="use-code-message">Use code: BANDWAGON</span></div>');
+    var elm = jQuery('<div class="global-promotion-banner show-for-small-only"><strong class="main-promo-message">Extra <strong>10% off all sale styles!</strong> Use code: <strong>BANDWAGON</strong></strong></div></div></a>');
+    jQuery(".base-content" ).prepend(el);
+    jQuery(".base-content" ).prepend(elm);
+    // jQuery("header").append(jQuery('<div class="promotion-banner-sticky"><div class="row"><span class="ends-in-message"></span><strong class="main-promo-message">APP ONLY SALE - 10% off everything<span class="terms-and-conditions">Download the Showpo App</span></strong><span class="use-code-message">Use code: APPYHOUR10<span class="app-store-or-google-play">Excludes Beauty, Sale &amp; Gift Cards</span></span></div></div>'));
+    initializeClock(endtime);
     });
 }
 
@@ -1054,6 +1207,8 @@ function getTimeRemaining(endtime) {
 }
 
 function initializeClock(endtime) {
+    var endMessageSpan = jQuery('.ends-in-message');
+    var promoEndElement = jQuery('.promo-end-time');
   var daysSpan = jQuery('.cdays');
   var hoursSpan = jQuery('.chours');
   var minutesSpan = jQuery('.cminutes');
@@ -1062,20 +1217,32 @@ function initializeClock(endtime) {
   function updateClock() {
     var t = getTimeRemaining(endtime);
     var hours = t.days * 24 + t.hours;
-    hoursSpan.html((hours));
-    minutesSpan.html(t.minutes);
-    secondsSpan.html(t.seconds);
-    if (t.total <= 0) {
-      clearInterval(timeinterval);
-      hoursSpan.html(0);
-      minutesSpan.html(0);
-      secondsSpan.html(0);
+
+    if(t.days > 0){
+        if(t.days == 1){
+            daysMessage = '1 day left!';
+        } else {
+            daysMessage = t.days + ' days left!';
+        }
+        endMessageSpan.html(daysMessage);
+        endMessagePopUp = '<b class="chours">'+hours+'</b> Hours, <b class="cminutes">'+t.minutes+'</b> Minutes, <b class="cseconds">'+t.seconds+'</b> Seconds before it ends.';
+        promoEndElement.html(endMessagePopUp);
+    } else {
+        endMessage = 'Ends in <b class="chours">'+hours+'</b>h <b class="cminutes">'+t.minutes+'</b>m <b class="cseconds">'+t.seconds+'</b>s';
+        endMessagePopUp = '<b class="chours">'+hours+'</b> Hours, <b class="cminutes">'+t.minutes+'</b> Minutes, <b class="cseconds">'+t.seconds+'</b> Seconds before it ends.';
+        endMessageSpan.html(endMessage);
+        promoEndElement.html(endMessagePopUp);
+        if (t.total <= 0) {
+            clearInterval(timeinterval);
+            hoursSpan.html(0);
+            minutesSpan.html(0);
+            secondsSpan.html(0);
+        }
     }
   }
   updateClock();
   var timeinterval = setInterval(updateClock, 1000);
 }
-//]]>
 </script><script type="text/javascript">
 //<![CDATA[
 jQuery('.newsletter-popup').magnificPopup({
@@ -1388,66 +1555,32 @@ jQuery(document).foundation({
 jQuery(document).theme();
 //]]>
 </script>
-<!-- Start Dynamic GA and Facebook Code -->
-<script>
-//<![CDATA[
-var current_store_id = 1;
-function googleEventDirect(eventName, actionName, value) {
-    //ga('showpo.send', 'event', eventName, actionName, value);
-}
-function googleAddProduct(prdObject, actions, location, page) {
-    if (location !== 'cart') {
-        //remove wishlist event
-        return;
-    }
-    if (prdObject && prdObject.id && actions === 'add') {
-        //from impression catalog list
-        if (typeof productImpressions !== 'undefined' && productImpressions.length > 0) {
-            for(var i=0; i<productImpressions.length; i++) {
-                if (productImpressions[i].id == prdObject.id) 
-                {
-                    productImpressions[i].quantity = 1;
-                    dataLayer.push({'event':'addToCart',
-                        'ecommerce':{
-                            'currencyCode':dlCurrencyCode,
-                            'add':{'products':[productImpressions[i]]}
-                        }
-                    });
-                    break;
-                }
-            }
-        } else if (typeof gProductDetail !== 'undefined'){
-            //from detail
-            gProductDetail[0].quantity = 1;
-            dataLayer.push({'event':'addToCart',
-                'ecommerce':{
-                    'currencyCode':dlCurrencyCode,
-                    'add':{'products':gProductDetail}
-                }
-            });
-        }
-    } else if (actions === 'remove') {
-        var prds = [];
-        prds.push(prdObject);
-        dataLayer.push({'event':'removeFromCart',
-            'ecommerce':{
-                'remove':{'products':prds}
-            }
+<script type="text/javascript">
+    //<![CDATA[
+    var mobileAppVersion = Mage.Cookies.get('sp_mobile_app_version');
+    if (mobileAppVersion) {
+        dataLayer.push({
+            'mobileAppVersion': mobileAppVersion
         });
     }
-}
-jQuery('document').ready(function(){
-    jQuery('.cm-initial').each(function(){
-        var id = jQuery(this).data('cid');
-        if (id) {
-            dataLayer.push({'event':'login','eventAction':'success','userId':id});
-        }
+    //]]>
+</script>
+
+<!-- Start Dynamic GA and Facebook Code -->
+<script>
+    //<![CDATA[
+    jQuery('document').ready(function(){
+        jQuery('.cm-initial').each(function(){
+            var id = jQuery(this).data('cid');
+            if (id) {
+                dataLayer.push({'event':'login','eventAction':'success','userId':id});
+            }
+        });
     });
-});
-if (typeof ScarabQueue !== 'undefined') {
-ScarabQueue.push(['go']);
-}
-//]]>
+    if (typeof ScarabQueue !== 'undefined') {
+                ScarabQueue.push(['go']);
+    }
+    //]]>
 </script>
 <!-- End Dynamic GA and Facebook Code -->
 
