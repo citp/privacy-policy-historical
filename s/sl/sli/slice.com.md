@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227103341id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416194256id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
 
 # Slice - Privacy Policy
 
