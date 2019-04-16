@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrovela.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205081053id_/https%3A//thegrovela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrovela.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416101519id_/https%3A//thegrovela.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • The Grove LA
 
