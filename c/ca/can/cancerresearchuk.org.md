@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerresearchuk.org privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628215722id_/http%3A//www.cancerresearchuk.org/about-us/utilities/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerresearchuk.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417014321id_/https%3A//www.cancerresearchuk.org/about-us/utilities/privacy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy | Cancer Research UK
 
@@ -8,7 +8,7 @@ We collect information in the following ways:
 
 You may give us your information in order to sign up for one of our events, make a donation, purchase our products, register as a volunteer, media volunteer or ambassador for us, join our patient involvement network, apply for research funding, use our cancer information services or otherwise communicate with us. 
 
-When you use our website, we collect your personal information using “cookies” and other tracking methods.  There are more details on the cookies and tracking methods we use in our [Cookie Policy](http://www.cancerresearchuk.org/terms-and-conditions/cookies-policy).
+When you use our website, we collect your personal information using “cookies” and other tracking methods.  There are more details on the cookies and tracking methods we use in our [Cookie Policy](https://web.archive.org/terms-and-conditions/cookies-policy).
 
 In addition, in accordance with common website practice, we will receive information about the type of device you’re using to access our website or apps and the settings on that device may provide us with information about your device, including what type of device it is, what specific device you have, what operating system you’re using, what your device settings are, and why a crash has happened. Your device manufacturer or operating system provider will have more details about what information your device makes available to us.
 
@@ -45,7 +45,7 @@ We collect, store and use the following kinds of personal information:
   * your gender;
   * your bank or credit card details where you provide these to make a payment;
   * if you volunteer for us or apply for a job with us, information necessary for us to process these applications and assess your suitability (which may include things like employment status, previous experience depending on the context, as well as any unspent criminal convictions or pending court cases you may have);
-  * if you apply for research funding, information necessary to process your application, such as your employment history;
+  * if you apply for research funding, information necessary to process your application, such as your employment history; the employment history of individuals who will be working on the grant, and salary information for anyone who’s salary will be funded by the grant;
   * information about your activities on our website(s) and about the device you use to access these, for instance your IP address and geographical location;
   * information about events, activities and products which we consider to be of interest to you;
   * information relating to your health (for example if you are taking part in or attending an event for health and safety purposes, as well as where you share your experiences of cancer with us); 
@@ -75,6 +75,9 @@ We will use your personal information to:
   * register, administer and personalise online accounts when you sign up to products we have developed;
   * send you correspondence and communicate with you;
   * process applications for funding and for administration of our role in the projects we fund;
+  * monitor the appropriate use of grant funds, including expenditure on individual salaries, and consider any virement requests
+  * ensure that participants involved in CRUK research are treated with dignity and respect
+  * if you are or have been a CRUK-funded researcher, invite you to act as a peer reviewer on grant applications in accordance with the conditions of your grant
   * administer our websites and to troubleshoot, perform data analysis, research, generate statistics and surveys related to our technical systems;
   * testing our technical systems to make sure they are working as expected;
   * contact you if enter your details onto one of our online forms, and you don’t ‘send’ or ‘submit’ the form, to see if we can help with any problems you may be experiencing with the form or our websites;
@@ -105,6 +108,8 @@ We run services to provide support to individuals affected by cancer, and collec
 
 Our marketing communications include information about our latest breakthroughs, campaigns and lifesaving work and requests for donations or other support. Occasionally, we may include information from partner organisations or organisations who support us in these communications.  We operate an ‘opt-in only’ communication policy. This means that, except as set out below, we will only send marketing communications to those that have explicitly stated that they are happy for us to do so.
 
+We recognise that consent doesn’t last forever and that circumstances change, so we have placed a cap of 4 years from the last time someone consented to marketing.  You can change your mind about your preferences at any time by contacting us on 0300 123 3379 or [preferences@cancer.org.uk](mailto:preferences@cancer.org.uk).
+
 We may use information you have given us directly, for example the record of your previous donations to and/or relationship with us, your location and demographics, as well as the type of activity you have been involved with, to tailor our communications with you about future activities.
 
 ### Events and fundraising
@@ -115,7 +120,7 @@ Where you have signed up for an event with a third party (for example the London
 
 ### Managing your contact preferences
 
-We make it easy for you to tell us how you want us to communicate, in a way that suits you. Our forms have clear marketing preference questions and we include information on how to opt out when we send you marketing. If you don’t want to hear from us, that’s fine, and you can change your preferences at any time.  Just let us know when you provide your data or contact us on 0300 123 3379 or [preferences@cancer.org.uk](mailto:preferences@cancer.org.uk), or visit our [webform.](http://www.cancerresearchuk.org/about-us/contact-us/opt-in-form?wssl=1)
+We make it easy for you to tell us how you want us to communicate, in a way that suits you. Our forms have clear marketing preference questions and we include information on how to opt out when we send you marketing. If you don’t want to hear from us, that’s fine, and you can change your preferences at any time.  Just let us know when you provide your data or contact us on 0300 123 3379 or [preferences@cancer.org.uk](mailto:preferences@cancer.org.uk), or visit our [webform.](https://web.archive.org/about-us/contact-us/opt-in-form?wssl=1)
 
 If you’ve decided you don’t want to be contacted for marketing purposes, we may still need to contact you for administrative purposes. This may include where we are processing a donation you’ve made and any related Gift Aid, thanking you for a donation or participation in an event, or keeping in touch with you about volunteering activities you are doing for us.
 
@@ -239,11 +244,11 @@ If we are processing your personal information for direct marketing purposes, an
 
 If you want to exercise any of the above rights, please contact us on Supporter Services, Cancer Research UK, PO Box 1561, Oxford, OX4 9GZ or by email to [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk).  We may be required to ask for further information and/or evidence of identity. We will endeavour to respond fully to all requests within one month of receipt of your request, however if we are unable to do so we will contact you with reasons for the delay.
 
-Please note that exceptions apply to a number of these rights, and not all rights will be applicable in all circumstances. For more details we recommend you consult the guidance published by the [UK’s Information Commissioner’s Office (ICO (link is external)](http://www.ico.org.uk/)). 
+Please note that exceptions apply to a number of these rights, and not all rights will be applicable in all circumstances. For more details we recommend you consult the guidance published by the [UK’s Information Commissioner’s Office (ICO](http://www.ico.org.uk/)). 
 
-If you are unhappy with any aspect of how we are using your personal information we’d like to hear about it. We appreciate the opportunity this feedback gives us to learn and improve. You can find out more and read our Complaints Policy on our [web pages](http://www.cancerresearchuk.org/about-us/contact-us/your-complaints).
+If you are unhappy with any aspect of how we are using your personal information we’d like to hear about it. We appreciate the opportunity this feedback gives us to learn and improve. You can find out more and read our Complaints Policy on our [web pages](https://web.archive.org/about-us/contact-us/your-complaints).
 
-You also have the right to lodge a complaint about any use of your information with the [Information Commissioners Office (link is external)](http://www.ico.org.uk/), the UK data protection regulator.
+You also have the right to lodge a complaint about any use of your information with the [Information Commissioners Office](http://www.ico.org.uk/), the UK data protection regulator.
 
 We may change this Privacy Policy from time to time.  If we make any significant changes in the way we treat your personal information we will make this clear on the Cancer Research UK Website or by contacting you directly.
 
