@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owens.edu privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215031045id_/https%3A//www.owens.edu/about_owens/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owens.edu privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416180429id_/https%3A//www.owens.edu/about_owens/privacy) for the most accurate reproduction.*
 
 # Privacy Statement, Owens Community College - Owens Community College
 
