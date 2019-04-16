@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229194725id_/http%3A//www.wbresearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416162613id_/https%3A//www.wbresearch.com/privacy) for the most accurate reproduction.*
 
-# Worldwide Business Research | Privacy
+# Privacy | WBR Corporate
 
-_Last Updated; 28 Spetember, 2018_
+_Last Updated; 10 January, 2019_
 
 ## WBR (“We”) are committed to protecting and respecting your privacy.
 
@@ -15,7 +15,7 @@ For the purpose of the Data Protection Act 2018 (the Act), the Controller is WBR
 Greg Sobczyk  
 129 Wilton Road, London, SW1V 1JZ  
 [dpo@wbresearch.com](mailto:dpo@wbresearch.com)  
-Tel. +44 207 368 9812 
+Tel. +44 207 368 9812
 
 ## About Us
 
@@ -25,7 +25,7 @@ Worldwide Business Research Ltd (WBR) runs over 80 industry leading, annual conf
 
 We will collect and process the following data about you:
 
-**Information you give us.** This is information about you that you give us by filling in forms on our websites (our site) or by corresponding with us by phone, e-mail or otherwise. We may record your phone calls with us for quality control and for governance purposes. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information. 
+**Information you give us.** This is information about you that you give us by filling in forms on our websites (our site) or by corresponding with us by phone, e-mail or otherwise. We may record your phone calls with us for quality control and for governance purposes. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information.
 
 **Information we collect about you.** With regard to each of your visits to our site we will automatically collect the following information:
 
@@ -85,8 +85,10 @@ We use information held about you in the following ways:
 You agree that we have the right to share such portions of your personal information as may be appropriate with selected third parties including:
 
   * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;
-  * analytics and search engine providers that assist us in the improvement and optimisation of our site;
-  * professional organisations including hotels and venue owners, as well as our event sponsors and exhibitors. Speakers’ profiles including their images may be shared on WBR event websites and indexed by search engines, for example Google.
+  * analytics and search engine providers that assist us in the improvement and optimisation of our site. Personal data of conference speakers including name and image may be placed on WBR event websites and indexed by search engines, for example Google;
+  * professional organisations involved in the provision of services for the event contracted for, such as, for example hotels, venue owners, event service providers;
+  * event sponsors and exhibitors - If you are a delegate we may share your information with event sponsors and exhibitors who may contact you in relation to special offers, products and services related to your role within your company.
+  * other event attendees through our event apps – To enhance your event experience WBR uses a mobile apps that you can download onto your smartphone at any of our events. The features include viewing the agenda, sponsors and speakers along with enhanced networking and interactivity at the event. The enhanced networking allows all attendees to see the name, job title and company name of anyone who attends the event. By downloading the app you agree to sharing these basic details and to be contacted by other attendees within the app solely for networking purposes in connection with the event.
 
 
 
