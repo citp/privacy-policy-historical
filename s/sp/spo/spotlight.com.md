@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227152203id_/https%3A//www.spotlight.com/the-small-print/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417154631id_/https%3A//www.spotlight.com/the-small-print/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,7 +81,7 @@ If you are a Parent or Guardian of a young performer/child you are a third party
 
 #### **Spotlight as your Data Controller**
 
-Spotlight is your Data Controller. Spotlight has a Data Protection Officer who can be contacted via [data.protection@spotlight.com](mailto:data.protection@spotlight.com) or by writing to Data Protection Officer, 7 Leicester Place, London WC2H 7RJ.
+Spotlight is your Data Controller. Spotlight has a Data Protection Officer who can be contacted via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a6e6b7e6b247a78657e6f697e6365644a797a657e66636d627e24696567) or by writing to Data Protection Officer, 7 Leicester Place, London WC2H 7RJ.
 
 We regard the lawful and correct treatment of your personal information by us as very important to our business. To this end we fully endorse and adhere to data protection law across Europe in the form of the General Data Protection Regulation (GDPR) and the equivalent data protection law in the UK. As your Data Controller, Spotlight has notified its activities to the Office of the Information Commissioner as required under the Data Protection Act 1998, and can be found in the Data Protection Public Register.
 
@@ -93,7 +93,7 @@ If you are a Spotlight Member please note that your agent (if you are represente
 
 Spotlight keeps this Privacy Policy under regular review, and may change this policy occasionally by updating this page. Where practical we will notify you of changes to this Policy and prompt you to review these. However, you should check this page from time to time to ensure that you are happy with any changes. Your continued access and use of this site or other Spotlight services will mean that you agree to our current Privacy Policy.
 
-This Privacy Policy was last updated on 6th July 2018.
+This Privacy Policy was last updated on 17th January 2019.
 
 #### **How do we make sure your data is used lawfully?**
 
@@ -149,7 +149,7 @@ We will only ever ask you for the necessary information needed to process your d
   * Career history;
   * URLs and links to social media;
   * Bank and payment data;
-  * For security, an encrypted record of your login password.
+  * For security, a robustly-asymmetrically encrypted record of your login password.
 
 
 
@@ -167,7 +167,7 @@ We (or third party data processors acting on our behalf) may collect, store, use
   * To answer your enquiries or otherwise communicate with you;
   * To vet your professional background, but only when you are joining as a Spotlight Member/ Spotlight Casting Subscriber or purchasing a restricted access product;
   * Internal record keeping;
-  * To notify you of other products and/or services that we think will be of interest to you (you can unsubscribe from these communications at any time by managing your subscriptions within your account or by writing to us or emailing us at [unsubscribe@spotlight.com](mailto:unsubscribe@spotlight.com) – please view our [Marketing Privacy Policy](https://www.spotlight.com/the-small-print/marketing-privacy-policy/) for more information;
+  * To notify you of other products and/or services that we think will be of interest to you (you can unsubscribe from these communications at any time by managing your subscriptions within your account or by writing to us or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#deabb0adabbcadbdacb7bcbb9eadaeb1aab2b7b9b6aaf0bdb1b3) – please view our [Marketing Privacy Policy](https://www.spotlight.com/the-small-print/marketing-privacy-policy/) for more information;
   * To assist in the creation and editing of audio and visual content;
   * To improve our products and services;
   * To understand about information to better inform business decisions;
@@ -198,14 +198,15 @@ Here are the examples of the types of trusted third parties we work with:
 
   * Spotlight network partners, circulating breakdown information via their casting platforms in other territories,
   * Subcontractors assisting us in providing our service to our users,
-  * IT companies who help us deliver our sites and services;
+  * IT companies who help us deliver our sites and services, 
+    * We use Google APIs to help us provide better services to you, such as the Google Places API which enables you to provide consistent location data in a secure and non-intrusive way. Please note that you are bound by Google’s [Terms of Service](https://policies.google.com/terms?hl=en) and [Privacy Policy](https://policies.google.com/privacy?hl=en) when you use parts of our service which are powered by Google.
   * Third parties who provide service enhancements or additional functionality to our users related to how they use our services.
     * More information: In order to facilitate certain users of Spotlight with their workflow management processes or other functionality, Spotlight may from time to time provide or authorise the use of certain third party software or applications to facilitate additional off-site access to the professional materials and content otherwise available via the Services. An example of this would be third party tools used by Agents to administer their client submissions to casting services alongside diary management etc. Such third party packages or systems should only be used subject to the written approval of Spotlight. You acknowledge that your personal information may be used in this way. Please note however that Spotlight does not endorse and is therefore not responsible for any such third party packages or systems, and Spotlight will not be liable for any loss of information, materials, data or otherwise that may occur due to the use of your information within them.
   * Third parties who are involved in furthering research and technology in areas connected with our service.
     * More information: We are constantly looking for new ways to change and upgrade our Services and functionality. This may involve partnering with selected and trusted research organisations and technology providers to contribute to their research and innovation projects. Often the most innovative developments come from other industries or fields of research outside of our own, and the outputs of the research may have a broader application beyond the improvements from which we directly benefit. As part of this research our trusted partners may be given access to our systems and data and/or be provided with copies of our data, including member photos, video and audio clips, and other professional information from their public profile. In all such circumstances our partners' access to and use of this information will be comprehensively documented and strictly limited to specific research projects that may include benefits for Spotlight and our Services to you, and will be under secure, confidential, temporary conditions, and closed testing environments. Under no circumstances will this information be used for any commercial or live operational activity, other than to develop and test the specific technology and functionality, without your prior consent.
   * Law enforcement in complying with the law, or to enforce our Terms and Conditions or to protect the rights, property, or safety of ourselves, our customers or other third parties,
-  * If we acquire any new business, and/or sell all or part of our business, and
-  * Third party payment service providers,
+  * If we acquire any new business, and/or sell all or part of our business, 
+  * Third party payment service providers, and
   * Third parties as detailed within your specific Membership Terms.
 
 
@@ -236,7 +237,7 @@ Spotlight provides you with access to your personal information and tools to man
 
 #### **Your rights**
 
-You have a number of rights to your information that can be accessed by contacting the Data Protection Officer at [data.protection@spotlight.com](mailto:data.protection@spotlight.com) or by writing to Spotlight, 7 Leicester Place, London WC2H 7RJ.
+You have a number of rights to your information that can be accessed by contacting the Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e286839683cc92908d968781968b8d8ca291928d968e8b858a96cc818d8f) or by writing to Spotlight, 7 Leicester Place, London WC2H 7RJ.
 
 To make sure we protect you and your information, we will need to verify your identity for any requests we receive from you before we begin to process your request.
 
@@ -312,4 +313,4 @@ Data Protection Officer
 Spotlight  
 7 Leicester Place  
 London WC2H 7RJ  
-[data.protection@spotlight.com](mailto:data.protection@spotlight.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#03676277622d73716c776660776a6c6d4370736c776f6a646b772d606c6e)
