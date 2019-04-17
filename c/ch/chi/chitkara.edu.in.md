@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chitkara.edu.in privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004063721id_/https%3A//www.chitkara.edu.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chitkara.edu.in privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417121001id_/https%3A//www.chitkara.edu.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chitkara University
-
-## Privacy Policy
 
 You may visit our website without revealing any personal information wherever permissible. Certain transactions may require submission of personal information like profile updates and certain databases. Chitkara University respects and protects the privacy of the individuals that access the information and use the services provided through them. Individually identifiable information about the User is not willfully disclosed to any third party without first receiving the User’s permission, as covered in this Privacy Policy. 
 
