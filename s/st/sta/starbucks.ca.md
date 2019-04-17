@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023064718id_/https%3A//www.starbucks.ca/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417164104id_/https%3A//www.starbucks.ca/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Starbucks Coffee Company
 
@@ -19,7 +19,7 @@ Use by Children
 EU-U.S. Privacy Shield  
 Contact Us
 
-**_Information We Collect_**
+**Information We Collect**
 
 As you use our websites and mobile applications or visit one of our stores, we collect information about you and the services you use. The information we collect falls into three different categories: (1) information you give us; (2) information we collect from you automatically; and (3) information we collect from other sources. Some examples of when we collect this information include when you browse or make a purchase on one of our websites; create a Starbucks account; use our website or mobile application to purchase, reload or redeem a Starbucks Card; use the remote order and pay functionality in our mobile applications; buy or send a gift card or e-gift; or participate in a survey or promotion. 
 
@@ -41,7 +41,7 @@ Some information is collected by us automatically, including when you access our
 
 Some information we collect is publicly available. For example, we may collect information you submit to a blog, a chat room, or a social network like Facebook, Twitter or Google+. We may also collect information about you from other companies and organizations. By gathering additional information about you, we can correct inaccurate information, enhance the security of your transactions, and give you product recommendations and special offers that are more likely to interest you. 
 
-**_How We Use Your Information_**
+**How We Use Your Information**
 
 We may use the information we collect about you in a variety of ways, including to: 
 
@@ -60,7 +60,7 @@ We may use the information we collect about you in a variety of ways, including 
 
 
 
-**_How We Share Your Information_**
+**How We Share Your Information**
 
 We may share your information in the following circumstances: 
 
@@ -80,7 +80,7 @@ We may share your information in the following circumstances:
 
 **When You Post on Our Websites** – If you post information on a blog or another part of our websites, the information that you post may be seen by other visitors to our websites, including your user name. 
 
-**_How We May Allow Others to Collect Your Information_**
+**How We May Allow Others to Collect Your Information**
 
 When you use our websites or mobile applications, we may allow third parties to collect device and usage information and location information across your different devices through mobile software development kits, cookies, web beacons and other similar technologies. These third parties collect this information for the following purposes and for other purposes consistent with their own privacy policies: 
 
@@ -92,7 +92,7 @@ When you use our websites or mobile applications, we may allow third parties to 
 
 **To Link Your Activity on Our Websites to Your Social Networks** – We have added certain features to our websites and mobile applications that allow social networks (such as Facebook, Twitter, and Google+) to track the activities of their members or collect certain information when they use our website or mobile applications. These features may include technologies called "plug-ins" and "widgets." Plug-ins create a direct link between two websites, and widgets are interactive mini-programs that provide other companies’ services on our websites. If you are concerned about the way a social network is tracking your activity, please contact the social network or review its privacy policy. For example, you can review Facebook’s data-use policy at <https://www.facebook.com/about/privacy/>. 
 
-**_Cookies, Web Beacons and Similar Technologies_**
+**Cookies, Web Beacons and Similar Technologies**
 
 We and others may use a variety of technologies to collect information about your device and use of our websites and mobile applications. These technologies include cookies, web beacons, java scripts, entity tags, and HTML local storage. Most web browsers can be programmed to accept or reject the use of some or all of these technologies, although you must take additional steps to disable or control other technologies. For more information, please see the section of this Statement titled "Your Choices."
 
@@ -116,7 +116,7 @@ These and similar technologies are used for the following purposes:
 
 **Marketing** – Some of these technologies are used to tailor your experience on our website, within our mobile applications, or across your applications or devices by controlling the promotions, advertisements and other marketing messages that may appear when you access or use these or other digital properties. These technologies also help us learn which services and functionality you are using and how you are accessing information about us. We may use this information to personalize your visit to a website or use of a mobile application or to send you relevant promotions and advertisements. 
 
-**_Your Choices_**
+**Your Choices**
 
 **Promotional Communication Choices**
 
@@ -136,7 +136,7 @@ Please note that if you opt out of receiving promotional communications from us,
 
 **"Do Not Track" Technology** – Some newer web browsers have a "Do Not Track" preference that transmits a "Do Not Track" header to the websites you visit with information indicating that you do not want your activity to be tracked. We currently do not respond to browser "Do Not Track" signals. 
 
-**_How to Manage Your Account Information_**
+**How to Manage Your Account Information**
 
 Information can be changed or removed from Starbucks.ca accounts by visiting [www.Starbucks.ca/Account](http://www.starbucks.ca/Account). As required by law for taxes and other record keeping purposes, we are unable to delete an account completely. 
 
@@ -144,7 +144,7 @@ Information can be changed or removed from Starbucks.ca accounts by visiting [ww
 
 Starbucks protects your information using technical, physical, and administrative security measures to reduce the risk of loss, misuse, unauthorized access, disclosure or modification of your information. When you transmit highly sensitive information (such as a credit card number) through our website or in one of our mobile applications, we encrypt the transmission of that information using the Secure Sockets Layer (SSL) protocol. While we have employed security technologies and procedures to assist safeguarding your personal information, no system or network can be guaranteed to be 100% secure. 
 
-**_Use by Children_**
+**Use by Children**
 
 We do not intend for our websites or online services to be used by anyone under the age of 13. If you are a parent or guardian and believe we may have collected information about your child, please contact us as described in the "Contact Us" section of this Statement. 
 
@@ -152,7 +152,7 @@ We do not intend for our websites or online services to be used by anyone under 
 
 The information you provide us is stored and processed on servers owned by Starbucks and other companies in Canada and the United States. Regardless of the company or person who processes your information and where it is processed, we will take steps to protect your information in accordance with applicable data protection laws and this Statement.
 
-**_EU-U.S. Privacy Shield_**
+**EU-U.S. Privacy Shield**
 
 Starbucks Corporation, Starbucks Coffee Company (UK) Limited, Starbucks Coffee (Austria) GmbH, Starbucks Coffee (Netherlands) B.V., Starbucks Coffee France SAS each participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Starbucks is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List here: <https://www.privacyshield.gov/list>.
 
@@ -164,8 +164,8 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the Privacy Shield website here: <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8 "TRUSTe")
 
-**_Contact Us_**
+**Contact Us**
 
 We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at <http://www.starbucks.ca/customer-service>, by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, P.O. Box 93490 Albuquerque, NM 87199. You may use [this form](https://app.smartsheet.com/b/form?EQBCT=0f8ebb54ca5542b685412fa4cfda78d5) to ask Starbucks a privacy question or correct personal information found in your Starbucks.ca profile, mobile application, or another Starbucks owned digital property.
