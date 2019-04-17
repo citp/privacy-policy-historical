@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thearchitectsguide.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909170944id_/https%3A//www.thearchitectsguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearchitectsguide.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417052117id_/https%3A//www.thearchitectsguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Architect's Guide
 
 Effective date: May 18, 2018
 
-The Architect's Guide ("us", "we", or "our") operates the https://www.thearchitectsguide.com/ website (the "Service").
+Architect's Guide, LLC ("us", "we", or "our") operates the https://www.thearchitectsguide.com/ website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -14,7 +14,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
   *  **Service**
 
-Service is the https://www.thearchitectsguide.com/ website operated by The Architect's Guide  
+Service is the https://www.thearchitectsguide.com/ website operated by Architect's Guide, LLC  
  
 
   *  **Personal Data**
@@ -64,9 +64,13 @@ Personal Data
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
   * Email address
+
   * First name and last name
+
   * Address, State, Province, ZIP/Postal code, City
+
   * Cookies and Usage Data
+
 
 
 
@@ -86,50 +90,67 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-  *  **Session Cookies.**  We use Session Cookies to operate our Service.  
- 
-  *  **Preference Cookies.**  We use Preference Cookies to remember your preferences and various settings.  
- 
-  *  **Security Cookies.**  We use Security Cookies for security purposes.  
- 
-  *  **Advertising Cookies.**  Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+  *  **Session Cookies.** We use Session Cookies to operate our Service.  
+
+
+  *  **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.  
+
+
+  *  **Security Cookies.** We use Security Cookies for security purposes.  
+
+
+  *  **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
 
 
 
 ### Use of Data
 
-The Architect's Guide uses the collected data for various purposes:
+Architect's Guide, LLC uses the collected data for various purposes:
 
   * To provide and maintain our Service
+
   * To notify you about changes to our Service
+
   * To allow you to participate in interactive features of our Service when you choose to do so
+
   * To provide customer support
+
   * To gather analysis or valuable information so that we can improve our Service
+
   * To monitor the usage of our Service
+
   * To detect, prevent and address technical issues
+
   * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
 
 
 
 ### Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
 
-If you are from the European Economic Area (EEA), The Architect's Guide legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+If you are from the European Economic Area (EEA), Architect's Guide, LLC legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
 
-The Architect's Guide may process your Personal Data because:
+Architect's Guide, LLC may process your Personal Data because:
 
   * We need to perform a contract with you
+
   * You have given us permission to do so
+
   * The processing is in our legitimate interests and it's not overridden by your rights
+
   * For payment processing purposes
+
   * To comply with the law
+
 
 
 
 ### Retention of Data
 
-The Architect's Guide will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+Architect's Guide, LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
-The Architect's Guide will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+Architect's Guide, LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
 ### Transfer Of Data
 
@@ -139,27 +160,32 @@ If you are located outside United States and choose to provide information to us
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-The Architect's Guide will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Architect's Guide, LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ### Disclosure Of Data
 
 ### Business Transaction
 
-If The Architect's Guide is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+If Architect's Guide, LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 ### Disclosure for Law Enforcement
 
-Under certain circumstances, The Architect's Guide may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Under certain circumstances, Architect's Guide, LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 ### Legal Requirements
 
-The Architect's Guide may disclose your Personal Data in the good faith belief that such action is necessary to:
+Architect's Guide, LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
 
   * To comply with a legal obligation
-  * To protect and defend the rights or property of The Architect's Guide
+
+  * To protect and defend the rights or property of Architect's Guide, LLC
+
   * To prevent or investigate possible wrongdoing in connection with the Service
+
   * To protect the personal safety of users of the Service or the public
+
   * To protect against legal liability
+
 
 
 
@@ -175,7 +201,7 @@ You can enable or disable Do Not Track by visiting the Preferences or Settings p
 
 ### Your Data Protection Rights Under General Data Protection Regulation (GDPR)
 
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. The Architect's Guide aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Architect's Guide, LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
 If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
 
@@ -196,7 +222,7 @@ In certain circumstances, you have the following data protection rights:
   *  **The right to data portability.**  You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.  
  
 
-  *  **The right to withdraw consent.**  You also have the right to withdraw your consent at any time where The Architect's Guide relied on your consent to process your personal information.
+  *  **The right to withdraw consent.**  You also have the right to withdraw your consent at any time where Architect's Guide, LLC relied on your consent to process your personal information.
 
 
 
@@ -275,6 +301,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
   * By email: brandon@thearchitectsguide.com  
- 
+
+
 
 
