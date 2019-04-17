@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delhieducation.net privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707153805id_/http%3A//delhieducation.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delhieducation.net privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417101937id_/http%3A//www.delhieducation.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
