@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthypanda.net privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130193709id_/https%3A//healthypanda.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypanda.net privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417094119id_/https%3A//healthypanda.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA – HealthyPanda.net
 
 **Privacy Policy for http://HealthyPanda.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [](http://healthypanda.net/wp-content/uploads/2015/02/New-Bitmap-Image.bmp).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [](https://healthypanda.net/wp-content/uploads/2015/02/New-Bitmap-Image.bmp).
 
 At http://healthypanda.net/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://healthypanda.net/ and how it is used.
 
@@ -17,7 +17,7 @@ http://healthypanda.net/ does use cookies to store information about visitors pr
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on http://healthypanda.net/.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://healthypanda.net/ and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/ads/preferences/>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
