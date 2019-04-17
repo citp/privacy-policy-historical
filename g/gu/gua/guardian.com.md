@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812053845id_/https%3A//privacypolicy.kochind.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417102518id_/https%3A//privacypolicy.kochind.com) for the most accurate reproduction.*
 
 # Koch Industries, Inc. Privacy Policy
 
