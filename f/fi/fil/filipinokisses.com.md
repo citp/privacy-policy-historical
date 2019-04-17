@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the filipinokisses.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211649id_/http%3A//www.filipinokisses.com/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinokisses.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417220407id_/https%3A//www.filipinokisses.com/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # Filipino Kisses
 
   1. [ Home ](https://web.archive.org/)
-  2. [ About us ](https://web.archive.org/impressum.php)
+  2. [ Contact us ](https://web.archive.org/impressum.php)
   3. Privacy Policy
 
 |    
@@ -29,7 +29,7 @@ Options are:
 
   * You find an OPT-OUT link in every email you receive from us at the bottom of the email.
   * When you are logged in at the site you go to menu "My membership". There you find a button to delete your profile.
-  * Send us an e-mail to **_[info@filipinokisses.com](mailto:info@filipinokisses.com?subject=Questions%20for%20Filipino%20Kisses%20not-logged-in)_** to let us know that you would like to opt out of future correspondence and we will remove you from our lists.
+  * Send us an e-mail to **_[info@filipinokisses.com](https://web.archive.org/cdn-cgi/l/email-protection#7f595c4e4f4a44595c4e4e4f44595c4e4f4d44595c4e4e4e44595c494b44595c4e4f4d44595c4e4f4a44595c4e4f4744595c4e4f4a44595c4e4e4d44595c4e4f4a44595c4e4e4f44595c4e4e4e44595c4e4f4844595c4e4f4a44595c4e4e4a44595c4e4e4a44595c4e4f4e44595c4e4e4a44595c4b4944595c464644595c4e4e4e44595c4e4f4644400c0a1d151a1c0b422e0a1a0c0b1610110c5f19100d5f391613160f1611105f34160c0c1a0c5f11100b52131018181a1b521611)_** to let us know that you would like to opt out of future correspondence and we will remove you from our lists.
   * Send us a fax to +49 911 308 44 77 844 with your email address you used to register at Filipino Kisses and your member ID **not-logged-in**
 
 
