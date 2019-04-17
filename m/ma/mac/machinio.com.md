@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the machinio.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919211020id_/https%3A//www.machinio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinio.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417124632id_/https%3A//www.machinio.com/privacy) for the most accurate reproduction.*
 
 # Machinio.com Privacy
 
-Last Revised: July 13, 2018
+Last Revised: April 10, 2019
 
 ## Notice of Privacy Rights
 
-Machinio, (“Machinio,” “we,” or “us”) welcomes you to www.machinio.com and any and all applications or mobile applications offered by Machinio Corp., 20 S Clark St. #510, Chicago, IL 60603, USA (the “Site”). This Privacy Policy describes how Machinio collects and receives information about you through the Site, Services and Content and through Machinio’s businesses, including offline. The Privacy Policy together with the Terms of Use govern your use of the Site and Machinio’s collection and use of your information.
+Machinio, (“Machinio,” “we,” or “us”) welcomes you to www.machinio.com and any and all applications or mobile applications offered by Machinio Corp., 190 S LaSalle #560, Chicago, IL 60603, USA (the “Site”). This Privacy Policy describes how Machinio collects and receives information about you through the Site, Services and Content and through Machinio’s businesses, including offline. The Privacy Policy together with the Terms of Use govern your use of the Site and Machinio’s collection and use of your information.
 
 Machinio participates in the EU-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding certain personal information received by Machinio in the U.S. from European Union member countries. Please find below information for EU member states citizens about Machinio’s data practices regarding personal information it receives from European Union member countries pursuant to the Privacy Shield framework. To learn more about the Privacy Shield program generally, and to view Machinio’s certification, please visit <https://www.privacyshield.gov/>.
 
@@ -14,7 +14,7 @@ Should the Privacy Policy be revised, Machinio will post the changes on the Site
 
 If you provide your personal information to Machinio offline, the Privacy Policy applies to Machinio’s collection and use of your information. Machinio also may provide paper copies of the Privacy Policy when it collects information from you offline.
 
-Controller in terms of data protection law is Machinio Corp. 20 S Clark St #510 Chicago, IL 60603 USA. 
+Controller in terms of data protection law is Machinio Corp. 190 S LaSalle #560, Chicago, IL 60603 USA.
 
 The responsible person for data protection can be reached at dataprivacy@machinio.com.
 
@@ -82,6 +82,8 @@ If Machinio contacts you due to your subscription to receive promotional informa
 
 ## INFORMATION SHARING WITH THIRD PARTIES
 
+We do not sell or share your personal information to any third party (except as set out in this Privacy Policy) without your consent.
+
 Machinio discloses anonymized traffic data: (i) to affiliates, merchants, licensors, partners or sponsors, and other third parties for their own direct marketing purposes, such as to provide information to you about their stores, activities, products, services and other important information; (ii) to third parties to provide analytics for advertising purposes or to confirm or update information provided by you; (iii) to suppliers, vendors and others who help Machinio provide services to you, such as outsourcing one or more of the functions described in this Privacy Policy; (iv) to third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of Machinio’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or (v) as otherwise authorized by you.
 
 In case of a subpoena, court order or official request, we may share your personal information to investigate, prevent or take action regarding suspected illegal activities, fraud or potential threats, or exercise legal rights or defend against claims, when we believe that doing so may protect your safety or the safety of Machinio or others, or as otherwise permitted or required by law.
@@ -126,7 +128,7 @@ Machinio complies with the EU-U.S. Privacy Shield Framework as set forth by the 
 
 ## ACCESS
 
-If you request information as to whether personal data relating to you is being processed or whether you wish to access, correct, update or delete your personal data, you can contact us at any time by contacting us at dataprivacy@machinio.com. 
+If you request information as to whether personal data relating to you is being processed or whether you wish to access, correct, update or delete your personal data, you can contact us at any time by contacting us at dataprivacy@machinio.com.
 
 If you are a resident of the European Union, you can also object to the processing of your personal data, ask us to restrict the processing of your personal data or request the transfer of your personal data. You can also exercise these rights by contacting us at dataprivacy@machinio.com.
 
@@ -164,7 +166,7 @@ In compliance with the EU-US Privacy Shield Principles, Machinio commits to reso
 
 Machinio Corp.
 
-20 S Clark St. #510
+190 S LaSalle #560
 
 Chicago, IL 60603
 
