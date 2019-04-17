@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315111419id_/https%3A//www.visitnorway.com/info/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417110746id_/https%3A//www.visitnorway.com/info/privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy and security policy
 
@@ -108,12 +108,13 @@ Innovation Norway has signed an agreement with various distribution partners who
   * APAMARA, S.L (Estonia)
   * Atrikom Fulfillment (Germany)
   * Excelsior Integrated (US)
+  * VG Partnerstudio (Norway)
 
 
 
-We will not share personal information with our distribution partners to a greater extent than is necessary to complete the purpose, such as sending outbrochures and newsletters.
+We will not share personal information with our distribution partners to a greater extent than is necessary to complete the purpose, such as sending out brochures and newsletters.
 
-By contract, our suppliers may not use or disclose your personal informationfor other purposes, without your permission.
+By contract, our suppliers may not use or disclose your personal information for other purposes, without your permission.
 
 ### 8\. DIRECT MARKETING
 
