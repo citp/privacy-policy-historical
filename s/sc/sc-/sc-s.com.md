@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sc-s.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520040513id_/http%3A//sc-s.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sc-s.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417111528id_/https%3A//sc-s.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Swag Codes Spoiler
 
@@ -21,13 +21,12 @@ Effective  **02/2013** **Privacy Notice Table Of Contents:**
 This notice applies to all information collected or submitted on the Swagcode Spoiler website. On some pages, you can make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
   * Email address
-  * Phone number
 
 
 
 ### **The Way We Use Information:**
 
-We use the information you provide about yourself when placing an order only to complete that order. 
+We use the information you provide only to authenticate with our website, and to allow you to recover your password.
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
