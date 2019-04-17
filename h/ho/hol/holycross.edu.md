@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holycross.edu privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225191230id_/https%3A//www.holycross.edu/information-technology-services/it-policies/holy-cross-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holycross.edu privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417183402id_/https%3A//www.holycross.edu/information-technology-services/it-policies/holy-cross-privacy-policy) for the most accurate reproduction.*
 
 # College of the Holy Cross Privacy Notice | College of the Holy Cross
 
