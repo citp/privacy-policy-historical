@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mssqltips.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231165639id_/https%3A//www.mssqltips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mssqltips.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417165524id_/https%3A//www.mssqltips.com/privacy) for the most accurate reproduction.*
 
 # MSSQLTips - Privacy
 
@@ -52,5 +52,5 @@ updated: 2018-05-22
 
 * * *
 
-Copyright (c) 2006-2018 [Edgewood Solutions, LLC](https://www.edgewoodsolutions.com/) All rights reserved  
+Copyright (c) 2006-2019 [Edgewood Solutions, LLC](https://www.edgewoodsolutions.com/) All rights reserved  
 Some names and products listed are the registered trademarks of their respective owners.
