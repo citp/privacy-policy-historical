@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crsdata.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109142151id_/http%3A//www.crsdata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crsdata.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417055454id_/http%3A//www.crsdata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRS Data
 
@@ -64,6 +64,6 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800.374.7488 or** **via email at getinfo@crsdata.com** **.**
 
-The Real Estate [Suite] … gives me an edge in an industry that is quite competitive.” 
+"We have had CRS Data integrated in our MLS System here at the Knoxville Area Association MLS since 2004. Could not be more pleased with their staff and support."
 
-**ROSS RYLANCE** \- Keller Williams Realty, Franklin 
+**DONNA ROACH** \- Knoxville Area Association of Realtors MLS 
