@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegoodtrade.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917014349id_/http%3A//www.thegoodtrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegoodtrade.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417094900id_/http%3A//www.thegoodtrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,8 +9,8 @@ This Policy applies to your use of <http://www.thegoodtrade.com/> (the “Site�
 Please read this policy carefully, especially before providing personal information or submissions to us.
     
     
-     **1.** **     Information We Collect**
-    _Personally identifiable information_
+    1.    Information We Collect
+    Personally identifiable information
 
 Personally identifiable information (“PII”) is any information that can be used to identify you, such as your first and last name, your email address, your physical address, phone number, etc.
 
@@ -27,7 +27,7 @@ Like most websites, we use log files to store this information. None of this aut
 TGT may use cookies, web beacons, pixel tags, or other anonymous tracking information to improve our server's interaction with your computer, and we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content, or services to be provided to you. To trigger these cookies, we may pass an encrypted or "hashed" (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. Although our servers currently don't respond to "do-not-track" requests (see below), you can block these cookies in other ways, for example by searching “[your browser] + disable cookies.”
     
     
-     **2.** **     ****Information Use & Disclosure**
+    2.    Information Use & Disclosure
 
 TGT will never share, sell, lease, or rent PII to unaffiliated third parties, except in the following circumstances:
 
@@ -36,22 +36,22 @@ a)    If we have a good faith belief that we must disclose such information f
 b)   We may share aggregate, anonymous or summary information regarding our customers and their behaviors with partners, advertisers or other third parties. This data is not personal information and so will not identify you personally. We may share information with companies that provide support services to us, such as a printer, mailing house, fulfillment-company, credit card processor, email service provider or web host, amongst others. These parties may need personal information about you in order to perform their functions. However, these parties may not use any personal information we share with them about you for any other purpose other than in connection with performing supporting functions for us.
     
     
-     **3.** **     ****Protecting Your Information**
+    3.    Protecting Your Information
 
 TGT has implemented certain physical, administrative, and technical security measures to protect against the loss, misuse, or alteration of the information you provide. However, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, TGT cannot warrant that your information will be absolutely secure when it is transit. Any transmission of data is at your own risk. You should take safety precautions to prevent unauthorized access to your information such as by limiting access to your computer or mobile device.
     
     
-     **4.** **     ****Do Not Track**
+    4.    Do Not Track
 
 Do Not Track (“DNT”) is a preference you can set in your browser to let websites you visit know that you do not want them collecting certain information about you. TGT does not currently respond to, or honor, Do Not Track signals or requests from your browser.
     
     
-     **5.** **     ****Your Rights Regarding The Use Of Your Personal Information.**
+    5.    Your Rights Regarding The Use Of Your Personal Information.
 
 You have the right at any time to prevent us from contacting you for marketing purposes.  If and when we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail. Please note that notwithstanding the promotional preferences you indicate by unsubscribing or opting out in some other fashion, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
     
     
-     **6.** **     ****Creating an account**
+     6.    Creating an account
 
 ( _The Good Trade does not currently offer users the ability to create accounts on our site. However, if and when this feature is enabled in the future, the following terms will apply._ )
 
@@ -60,7 +60,7 @@ In order to access a profile and post comments on TGT you must first create an a
 TGT accounts are backed up regularly. If a user changes the information on his or her account, TGT’s stored data backups may include the user’s original information. If you email anyone at TGT, a record of the addresses and correspondence will continue to exist. We save this information so that we can respond to you and have a record of that correspondence.
     
     
-     **7.** **     ****California Online Privacy Protection Act**
+     7.    California Online Privacy Protection Act
 
 CalOPPA requires all commercial websites and online services accessible by California residences to conspicuously post a privacy policy. Per CalOPPA, we agree to the following:
 
@@ -71,27 +71,27 @@ CalOPPA requires all commercial websites and online services accessible by Calif
 ·      Users are able to change their personal information by emailing us directly at info@EMAIL.com.
     
     
-     **8.** **     ****Children’s Online Privacy Protection Act (COPPA)**
+    8.    Children’s Online Privacy Protection Act (COPPA)
 
 TGT does not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are under the age of thirteen (13) you should not provide us with any personally identifiable information. If we learn that we have collected any information or content from anyone under the age of 13, we will delete that information immediately.
     
     
-     **9.** **     ****Links to Other Websites**
+    9.    Links to Other Websites
 
 TGT may, from time to time, contain links to other sites. However, we are not responsible for the privacy practices employed by those sites, or the information or content they contain. We encourage our users to be aware of this fact when they leave www.thegoodtrade.com, and to read the privacy statements of any website that collects personally identifiable information. This Privacy Policy applies only to information collected by TGT through our site and does not apply to any third-party websites linked.
     
     
-     **10.** ******Anti-SPAM Policy**
+    10. Anti-SPAM Policy 
 
 TGT is 100% opposed to unsolicited commercial email ("spam"). We do not have any desire to send unsolicited marketing emails to anyone without permission and we do not sell or provide user email addresses to any unauthorized third party in violation of this Policy. All of our newsletters and other general email marketing communications also include an "unsubscribe" opt-out link that you may use to tell us to stop sending you marketing emails.
     
     
-     **11.** ******What if The Good Trade is sold or closes up shop?**
+    11. What if The Good Trade is sold or closes up shop?
 
 In the event of a change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, TGT reserves the right to transfer your personal information to the new party in control, or the party acquiring assets. We will only do so if the party we transfer the information to agrees that they will abide by our Privacy Policy for as long as they hold the information, and that they will not transfer the information to any other party who will not abide by our Privacy Policy.
     
     
-     **12.** ******  Sharing of Information with Partners**
+    12.   Sharing of Information with Partners
 
 As stated above, we may collect and provide aggregate information about our visitors to our advertisers, sponsors, promotional partners, and affiliates.
 
@@ -100,13 +100,13 @@ We use third-party advertising companies to deliver online advertising. These co
 The third-party companies that will be serving advertisements on TGT may include DoubleClick, Google and Blue Kai. If you would like more information about the collection, use and disclosure practices of these companies, and/or your options for not having this information used by these companies, click on the company names above and follow the links to the company websites.
     
     
-     **13.** ******Changes to our Privacy Policy**
+    13.  Changes to our Privacy Policy
 
  ** ** We may periodically modify, alter, or update this Policy. We will alert users to any material changes to this policy by posting the revised information here. We encourage you to review our Privacy Policy on a regular basis to stay informed about how we are protecting the personal information we collect. Your continued use of TGT’s website constitutes your agreement to this Privacy Policy and any future updates.
     
     
-     **14.** ******Contact Information**
+    14.  Contact Information
 
- ** ** Email: hello@thegoodtrade.com
+ ** ** Email: hello [at] thegoodtrade.com
 
 Last Updated: _3/6/16_
