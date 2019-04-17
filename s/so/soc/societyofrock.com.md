@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the societyofrock.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013203418id_/http%3A//societyofrock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyofrock.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417154257id_/https%3A//societyofrock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Society Of Rock
 
