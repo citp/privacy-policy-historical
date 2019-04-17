@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunsetporscheparts.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629143910id_/http%3A//www.sunsetporscheparts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsetporscheparts.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417214600id_/https%3A//www.sunsetporscheparts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Sunset Porsche Parts | Privacy Policy
 
 Your privacy is our priority
 
