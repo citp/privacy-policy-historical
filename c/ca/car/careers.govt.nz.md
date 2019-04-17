@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225162155id_/https%3A//www.careers.govt.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417024840id_/https%3A//www.careers.govt.nz/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -95,4 +95,4 @@ We value your comments and opinions. If you have comments, questions or complain
 
 
 
-Updated 31 Aug 2018
+Updated 7 Feb 2019
