@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wish.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229092520id_/http%3A//wish.org/content/terms-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wish.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418011412id_/https%3A//wish.org/content/terms-and-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | Make-A-Wish® America
 
