@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230084959id_/https%3A//blackdoctor.org/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417183017id_/https%3A//blackdoctor.org/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | BlackDoctor
 
@@ -129,3 +129,10 @@ If you have any additional questions or concerns about this Privacy Policy, plea
 Chicago, IL 60606
 
 Last revised October 31, 2018
+
+ **DMD Healthcare Communications NetworkSM Privacy Statement**
+
+This digital service participates in the DMD Healthcare Communication NetworkSM (the “Network”), and as such has implemented various technologies  
+for universal registration/login among all Network member websites. These technologies are managed by DMD Marketing Corp. (“DMD”), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members. If you would like to understand how this digital service’s participation in the Network affects your privacy, please click here: <http://usersupport.dmdconnects.com/PrivacyPolicy.htm>
+
+Please note that the Network registration/login system may be different from the registration/login used by this digital service for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Network technologies, the conflict will be resolved in favor of the policy applicable to the Network technologies.
