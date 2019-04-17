@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the suunto.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020091446id_/https%3A//www.suunto.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suunto.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417134807id_/https%3A//www.suunto.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Suunto is committed to achieving Level AA conformance for this website in conformance with the Web Content Accessibility Guidelines (WCAG) 2.0 and achieving compliance with other accessibility standards. Please contact Customer Service at USA +1 855 258 0900 (toll free), if you have any issues accessing information on this website. 
 
 September 15, 2016 (update May 1, 2018)
 
