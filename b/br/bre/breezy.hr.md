@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breezy.hr privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722110651id_/https%3A//breezy.hr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breezy.hr privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417144916id_/https%3A//breezy.hr/privacy) for the most accurate reproduction.*
 
-# Breezy HR Privacy Policy
+# Privacy Policy - Breezy HR
 
 #### So exactly what information do we collect?
 
@@ -24,7 +24,7 @@ Cookies are a feature of web browser software that allow web servers to recogniz
 
 #### Use of Information Collected
 
-Individuals we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing Subscriber services such as support, and making available other products or services we think may be of interest to our users and to job candidates. We may use the Active Information or Passive Information you provide to us to contact you about changes to our Site and Service, new services, features or products we offer, or other information we think you might find valuable, as well as to provide or enhance features of our Site and Service. If at any time you do not wish to receive such information from us, please send us an email to that effect to [ **privacy@breezyhr.com.**](mailto:privacy@breezyhr.com)
+Individuals we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing Subscriber services such as support, and making available other products or services we think may be of interest to our users and to job candidates. We may use the Active Information or Passive Information you provide to us to contact you about changes to our Site and Service, new services, features or products we offer, or other information we think you might find valuable, as well as to provide or enhance features of our Site and Service. If at any time you do not wish to receive such information from us, please send us an email to that effect to [**privacy@breezyhr.com.**](mailto:privacy@breezyhr.com)
 
 Voluntary Information provided by Subscriber is for the exclusive use of the Subscriber and/or their authorized agents for the purposes of recruiting, hiring, or other similar activities.
 
@@ -52,9 +52,9 @@ You may be able to access other websites through our Site and/or Service. When y
 
 #### Opting Out/Correcting or Deleting Personal Information
 
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to delete or correct your information, please visit the Account screen. If you do not have an account, please contact [ **privacy@breezyhr.com**](mailto:privacy@breezyhr.com).
+If you desire not to receive information about products or services we think may be of interest to you or if you wish to delete or correct your information, please visit the Account screen. If you do not have an account, please contact [**privacy@breezyhr.com**](mailto:privacy@breezyhr.com).
 
-#### Collection of HR and non-HR Data from the EEA
+#### Collection of HR and Non-HR Data from the EEA
 
 Breezy HR, Inc. collects and processes Passive Information, which may contain personal data about website users in the European Economic Area (“EEA”) to collect information about how our Site and Service are used. Breezy HR, Inc. may disclose Passive Information to affiliates, service providers, and other entities for activities related to these purposes.
 
@@ -64,23 +64,31 @@ Breezy HR, Inc. processes Passive Information, Voluntary Information, and Active
 
 #### General Data Protection Regulation (GDPR)
 
-Breezy HR, Inc. will comply with all applicable data protection and privacy laws & regulations in the performance of its obligations under the General Data Protection Regulation (“GDPR”, from the GDPR implementation date) or, until GDPR implementation date, the Data Protection Act 1998 (“Data Protection Laws”). 
+Breezy HR, Inc. will comply with all applicable data protection and privacy laws & regulations in the performance of its obligations under the General Data Protection Regulation (“GDPR”, from the GDPR implementation date) or, until GDPR implementation date, the Data Protection Act 1998 (“Data Protection Laws”).
 
-#### EU-U.S. Privacy Shield
+#### EU-US and Swiss-US Privacy Shield Frameworks
 
-Breezy HR, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Breezy HR, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [ **https://www.privacyshield.gov/**](https://www.privacyshield.gov/).
+The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. Breezy HR complies with the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Breezy HR has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. The Federal Trade Commission has jurisdiction over Breezy HR compliance with the Privacy Shield.
 
-In compliance with the EU-US Privacy Shield Principles,, Breezy HR, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Breezy HR, Inc at:
+If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. In the context of an onward transfer, Breezy HR has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 
- **EU-U.S. Privacy Shield Inquiry**
+Breezy HR, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Breezy HR, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [**https://www.privacyshield.gov/**](https://www.privacyshield.gov/).
+
+Breezy HR commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+
+In compliance with the EU-US and Swiss-U.S. Privacy Shield Principles, Breezy HR, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Breezy HR, Inc at:
+
+### EU-U.S. and Swiss-U.S. Privacy Shield Inquiry
 
 40 24th St.  
 2nd Floor  
 Pittsburgh, PA 15222
 
+For more information and to file a complaint, you may contact the International Centre for Dispute Resolution by phone at +1.212.484.4181, or by visiting the website http://go.adr.org/privacyshield.html
+
 Breezy HR, Inc. has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD PROGRAM, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [**www.bbb.org/EU-privacy-shield/for-eu-consumers**](http://www.bbb.org/EU-privacy-shield/for-eu-consumers)for more information and to file a complaint.
 
-Individuals covered by the EU-U.S. Privacy Shield program have the right to access and/or correct their data by emailing [ **privacy@breezyhr.com**](mailto:privacy@breezyhr.com)with their access requirements and/or corrections. Additionally, in some scenarios, individuals may have the right to invoke binding arbitration before the joint EU-U.S. Privacy Shield Panel. For the purposes of EU-U.S. Privacy Shield, Breezy HR Inc.’s participation is subject to enforcement by the Federal Trade Commission. Breezy HR, Inc. retains liability for onward transfer to third parties for purposes other than the ones for which it was originally collected, as required by the Onward Transfer principles.
+Individuals covered by the EU-U.S. Privacy Shield program have the right to access and/or correct their data by emailing [**privacy@breezyhr.com**](mailto:privacy@breezyhr.com)with their access requirements and/or corrections. Additionally, in some scenarios, individuals may have the right to invoke binding arbitration before the joint EU-U.S. Privacy Shield Panel. For the purposes of EU-U.S. Privacy Shield, Breezy HR Inc.’s participation is subject to enforcement by the Federal Trade Commission. Breezy HR, Inc. retains liability for onward transfer to third parties for purposes other than the ones for which it was originally collected, as required by the Onward Transfer principles.
 
 Breezy HR, Inc. has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.
 
