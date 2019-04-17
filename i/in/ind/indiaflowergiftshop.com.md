@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514160246id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417024623id_/https%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -26,20 +26,20 @@ We welcomes feedback concerning this Privacy Policy. Please send your comments a
   
 
 
-##     Support: +91 9831319069, Same Day Delivery, Midnight Delivery, Express Delivery Indiawide ||    Send Flowers, Cakes and Gifts Online India, 3000+ Express Gifts Delivery ||    All Indian Major Debit/Credit Cards , Net Banking Available, 3000 + Express Delivery Gifts India     We Accept: International Credit/Debit Cards , JCB / American Express Cards, Dinners Citi Cards,     Same Day Delivery Accepted till 5 PM IST ||
+##     Same Day Delivery, Midnight Delivery, Express Delivery India ||    Send Flowers, Cakes and Gifts Online India, 3000+ Express Gifts Delivery ||    All Indian Major Debit/Credit Cards , Net Banking Available, 3000 + Express Delivery Gifts India     We Accept: International Credit/Debit Cards , JCB / American Express Cards, Dinners Citi Cards,     Same Day Delivery Accepted till 5 PM IST ||
 
-Customer Testimonials 
+Customer Testimonials
 
 * * *
 
-**Dr Purva Vijay** (GOA - 2016-09-29) 
+**Naveen Agarwal** (Mumbai - 2018-07-31) 
 
-_Thanks a lot ..meant a lot..d parcel gt delievrd on time_
+_The best part of the site is its simplicity to place order smoothely. I placed the order quite in rush still the team managed to get it delivered timely. So many thanks to you guys. best regards_
 
-**Neha Agarwal** (Bangalore - 2015-07-28) 
+**Baldev Arora** (Bahrain - 2019-01-02) 
 
-_Thanks Team for the wonderful service. Awesome Cake and flower Delivered. Great Job!!!_
+_Dears: Thank you for your superb service. Our request to deliver new year wishes via "Greet & Wish" for our beloved mother was complied on new year day. Keep it up guys. God bless you. Baldev Arora_
 
-**Sakshi Prashar** (Secunderabad - 2016-11-21) 
+**Venkatesh M** (Mangalore - 2018-08-17) 
 
-_This is one of the most reliable platforms for online delivery of gifts, cakes, flowers etc. They have Good products and also ensure timely delivery of the order, even in tier-2 and tier-3 cities in India. As a customer I am quite satisfied with all the aspects of the order. In future too, I shall use their services_
+_Thanks for my flowers n cake delivery to Bangalore to my sister.._
