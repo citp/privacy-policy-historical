@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkrenameutility.co.uk privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115052637id_/https%3A//www.bulkrenameutility.co.uk/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkrenameutility.co.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417065629id_/https%3A//www.bulkrenameutility.co.uk/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Bulk Rename Utility
 
@@ -6,7 +6,7 @@ _Effective Date: January 1, 2017_
 
 We are committed to protecting your privacy. Customer information is confidential and will not be shared or distributed to any third party. 
 
-We will not pass, disclose, sell or rent your email address to third parties, except to SWREG, our payment processor. SWREG will use your E-Mail address to send you product registration information. We might use your e-mail address to send you product information and provide technical and sales support.
+We will not pass, disclose, sell or rent your email address to third parties, except to Digital River MyCommerce, our payment processor. Digital River MyCommerce will use your E-Mail address to send you product registration information. We might use your e-mail address to send you product information and provide technical and sales support.
 
 To be able to use certain areas and features of our website, specifically requested by you, like our forum or to purchase a software license, we may require you to provide us with some information that identifies you personally. This information may include: your name, company name, e-mail address, address, credit card, account number, telephone number. Your information is kept confidential. We will not share your personal information with any persons or organizations except when required by law for the investigation of illegal or criminal actives, the exercise of legal rights or in defense against any legal claims, or otherwise. 
 
@@ -21,4 +21,4 @@ We use Google Analytics to collect non-personal information in the form of vario
   
 Top   [Home](https://web.archive.org/Main_Intro.php)
 
-Bulk Rename Utility, Copyright© 2002-2018 - [Privacy Policy](https://web.archive.org/Privacy.php)
+Bulk Rename Utility, Copyright© 2002-2019 - [Privacy Policy](https://web.archive.org/Privacy.php)
