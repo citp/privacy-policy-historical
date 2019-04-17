@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottomlinestore.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221220810id_/http%3A//bottomlineinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinestore.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417232230id_/http%3A//bottomlineinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bottom Line Inc
 
