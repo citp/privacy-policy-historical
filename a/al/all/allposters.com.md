@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allposters.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103035712id_/https%3A//www.allposters.com/help/guarantee.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allposters.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417132145id_/http%3A//www.allposters.com/help/guarantee.html%23privacy) for the most accurate reproduction.*
 
 # AllPosters.com - The World's Largest Poster and Print Store!
 
@@ -21,8 +21,6 @@ What we do with your personal information
 Who we share information with
 
 Cookies and similar tracking technology
-
-International data transfers
 
 How we protect your information
 
@@ -109,12 +107,6 @@ This anonymous information is collected by a pixel tag, which is industry standa
 
 To find out more about the cookies that we serve and how to manage your cookie opt-outs, click [here](https://web.archive.org/help/cookiepolicy.html).
 
-### International data transfers
-
-Your personal information may be stored and processed by us in any country where we have facilities or where we engage service providers, and your personal information may therefore be transferred to countries outside of your country of residence, including the U.S., which may have different data protection rules to those of your country. Where we do so, our collection, storage and use of your personal information will be in accordance with the purposes set out in this Notice.
-
-Specifically, we may transfer your personal and non-personal information to Art.com, Inc. for storage in the U.S.
-
 **EU-U.S. and Swiss-US Privacy Shield**
 
 When transferring any personal information from the EEA and Switzerland to the U.S., Art.com, Inc. adheres to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, as set forth by the U.S. Department of Commerce. Art.com, Inc. has certified adherence to and commits to apply the Privacy Shield Principles to all personal information it processes in reliance on the Shield.
@@ -179,10 +171,5 @@ If you have any questions or concerns regarding the use or disclosure of your pe
 US Privacy  
 2100 Powell Street, 10th Floor  
 Emeryville, CA 94608 
-
-EU Privacy  
-De Voorde 40, 5807EZ Oostrum Lb, Netherlands 
-
-Please note that for the purposes of EU data protection legislation, Art & Allposters International B.V. is the controller of your personal information in respect interactions with and purchases made from our European websites.
 
 ### Updated May 17, 2018
