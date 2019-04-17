@@ -1,108 +1,133 @@
-> *The following text is extracted and transformed from the dofe.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181617id_/http%3A//www.dofe.org/en/content/cms/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofe.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418001124id_/https%3A//www.dofe.org/privacy-statement) for the most accurate reproduction.*
 
-# Privacy - the DofE
+# Privacy – The Duke of Edinburgh's Award
 
-**The DofE online services Privacy Statement**
+**The DofE’s Privacy Statement**
 
-The Duke of Edinburgh's Award (the DofE) appreciates the importance of keeping personal information private and protected for its participants, Leaders and supporters. 
+The Duke of Edinburgh's Award (the DofE) appreciates the importance of keeping personal information private and protected for everyone associated with the Charity. This includes participants doing their DofE, the adults helping them, DofE employees and those who support the Charity.
 
-You can be assured that we do our best to ensure that our websites are secure so that your confidentiality is maintained. As you would expect we adhere to the provisions of the Data Protection Act 1998, which gives you control over the information stored about you and how we contact you in the future for promotional offers from our partners.
+You can be assured that we do our best to ensure that your personal information is secure so that your confidentiality is maintained. All of our data is held in accordance with ISO27001 (and independently audited by BSI ref. IS 566019), an Information Security standard to which the DofE is certified and audited against.  As you would expect we adhere to the provisions of the Data Protection Act 1998 and the General Data Protection Regulation (GDPR) that came into force on 25 May 2018, which gives you control over the information we store about you, and how we contact you in the future.
 
-This statement explains how we achieve these goals and gives details of our privacy practices, including what information we collect about people using our website, eDofE (including mobile versions of the site) and other online services, how the information will be used or disclosed, and rights with respect to our collection and use of personal data.
+We will only use your information so we can communicate information to help you participate in a DofE programme, or support those who are participating; and to tell you about activities which may be of interest to you.
 
-By using our online services you are accepting the practices described in this Privacy Statement. 
+This statement explains how we achieve these goals and gives details of our privacy practices, including what information we collect about people through our website, eDofE (including mobile versions of the site) and across all our other services. It also outlines how the information will be used or disclosed, and rights with respect to our collection and use of personal data.
 
-**Why we collect personal information**
+By using our services and providing us with your personal information you are accepting the practices described in this Privacy Statement.
 
-There are two types of information you provide us with when using our online services: personal information provided when completing personal information fields, and information collected by us as you interact with our services.  We do not collect your email address unless you freely provide this to us. We collect your personal information because it helps us to support our Licenced Organisations, DofE centres and groups and participants in undertaking their programmes.  It enables us to give convenient access to our online services and support mechanisms.  In addition, personal information helps us to continue to develop and improve the way the DofE operates and supports its network.
+**In general - why we collect personal information**
 
-**What Information does the DofE collect and why?**
+We collect your personal information because it helps us to support our Licensed Organisations, DofE centres, groups and participants undertaking their programmes.  Additionally, it allows us to invite you to fundraising initiatives and to benefit from information and advice about expedition kit and special offers negotiated by the DofE Charity. It also enables us to give you convenient access to our online services and support mechanisms.  In addition, personal information helps us to continue to develop and improve the way the DofE Charity operates and supports its network.
 
-Essentially, the information is used to provide you with the service you have requested or to answer an enquiry. We may ask you to provide us with personal information on a voluntary basis in certain areas of our online services. This information will be used for the purposes outlined at the time of collection.  In particular, you may be asked to provide the following information: 
+**What information the DofE collects, why and how it is used**
 
-·       Website: Name, address and contact details to enable us to fulfil the order(s) for goods and services requested.
+There are two types of information you provide us with when using our services:
 
-·       _e_ DofE: In order to use the online management system offered by the DofE called _e_ DofE you will need to provide personal information including, but not limited to, personal details, contact details (including a valid email address) and, for young people, detailed information about your DofE programme and activities. Providing this information saves you time and allows for easier use of our services. If you are using _e_ DofE, you will have an account created for you with a default username and password by an authorised person within the DofE structure.  On your first sign in you will create a personal profile by choosing a password (with a password security question, in case you forget it) and providing your personal details. The system saves your information. The next time you access _e_ DofE all you need to do is enter your username and password and the system looks up the information it needs to assist you. We keep records of your activity on _e_ DofE to help us understand how you use the system so that we can make it a more effective tool for you. You can update your unique username and password at any time on your _e_ DofE profile. __ Information on ethnicity, disability and personal circumstances are collected and used anonymously for statistical purposes by the DofE in order to make sure we are making the DofE programme accessible to all, and used locally to help meet your personal needs. 
+  1. personal information provided when completing fields on our websites (e.g. in eDofE), and
+  2. information collected by us as you interact with our services.
 
-·       Keeping in touch: The DofE e-newsletters, magazine and other operational emails are essential communications containing vital updates and useful programme information, so all participants, Leaders, Managers, Co-ordinators and Assessors will receive those appropriate to their roles. Leaders can determine the frequency of the _e_ DofE message/alert summary emails through their _e_ DofE account. 
 
-·       Promotional offers from partners: From time to time, we may also have promotional opportunities, specially negotiated offers, free prize draws and privilege discounts from our partners to tell you about.  Your personal information will not be passed onto these partners. If you would rather not hear about these promotional opportunities from our partners, you can tick the box on the communication preference screen in your eDofE profile to opt out of these.   If you do not want to receive promotional emails from us then you can also use the ‘unsubscribe’ function at the bottom of emails sent by us.
 
-·       Online surveys: If you want to participate in any of our online surveys you may be asked to provide personal information.  The nature of the information may vary depending upon the type of survey that is being conducted, but it is likely to include contact information and demographic information.  We will use this information to determine which products and services are likely to be of interest to you and to improve our service to you. 
+The information is used to provide you with a service that you have requested, to answer an enquiry or as part of our fundraising and commercial programmes. We negotiate special offers and opportunities relevant to all DofE stakeholders (including participants, leaders, volunteers and parents) – see DofE Offers section below. We may ask you to provide us with personal information on a voluntary basis in certain areas of our services. This information will be used for the purposes outlined at the time of collection.
 
-·       Competition information: If you enter any of our competitions online you will be asked to provide personal information. The nature of the information may vary depending on the competition, but it will include contact information. We will use this information to inform our competition winners. We may publicise the winners, but will not give enough information to personally identify you to anyone else without explicit permission. 
+**Programme delivery**
 
-·       Applications for financial support: The DofE provides access to several funds for participants. The nature of the information we will ask for in the application process may vary depending upon the application process and requirements of the funds. Usually it will include general personal information, including contact details (such as your name and address), and information about your DofE activities. We may publicise the names of participants who are granted support, but we will always ask your permission before doing so. 
+We keep records of your activity on eDofE to help us understand how you use the system so that we can make it a more effective tool for you. You can update your unique username and password at any time on your eDofE profile. Information on ethnicity and disability are collected and used anonymously for statistical purposes by the DofE in order to make sure we are making the DofE accessible to all. We also collect the email address of the parents/carers of our participants to keep them up to date with information to help support their young person complete their DofE programme. We contact all parents/carers to obtain an opt in to this content, once opted in they can opt out at any time.
 
-·       If you are unhappy with your experience with any part of the DofE or wish to provide feedback on our services or programmes you may do so using our Complaints, Feedback and Enquiries system found on the DofE website. You will be asked to provide contact information and details of the incident. You will need to authorise us to share this information with the parties involved in order to take action on your feedback. 
+The DofE e-newsletters, magazine and other operational emails contain vital updates and useful programme information, so all participants, and the adults involved in delivering their programme will receive those appropriate to their roles.
 
-How does The Duke of Edinburgh's Award use the information that it collects from its online services?
+Adults can determine the frequency of the notification emails sent out via eDofE through their eDofE account.
 
-All contact from the DofE using personal data will communicate useful and relevant information to either help participants complete their DofE programme, Leaders and Licensed Organisations to run DofE programmes more effectively or help the DofE Charity improve the quality and breadth of its programmes.
+We may also send information about the programme and changes to eDofE and other programme-related services from time to time.  
 
-**We may therefore use this personal data for the following purposes:**
+The DofE assumes that all the data entered into eDofE through a Leader recorded account or by any Leaders on behalf of a participant is dictated by participants and input directly onto eDofE. If, however, data is first collected and written down outside of eDofE, or taken from a system not owned or hosted by the DofE, then this should be kept safe and ultimately destroyed in accordance with your organisation’s own GDPR procedure and policies.
 
-·       To send you information about the programme and changes to _e_ DofE and the DofE website. 
+**DofE offers  **
 
-·       To send you information about the DofE and promotional material about our products and services, and products and services offered by our partner organisations and companies, that we think may be of interest to you, provided that you have not opted out as described above. 
+We have a range of specially negotiated offers – including branded merchandise, free prize draws, privilege discounts, expedition kit information and alumni opportunities - from the DofE and our partners to tell you about, which provide an income to the Charity.
 
-·       To monitor interest in our range of products and services and to assist us in tailoring the content of the website and _e_ DofE to our online visitors' needs by collecting information about your preferences through tracking patterns of page-viewing, downloads and uploads. 
+In certain circumstances your identifiable personal information will be passed onto third parties to fulfil our obligation to you, for example a mailing company to dispatch your personalised DofE Card. In some circumstances unidentifiable personal information may be sent to an approved DofE supplier to enable a discount / benefit to be provided to you. An example of this is working with a driving insurance provider to offer DofE participants a reduced annual premium. Please see the section on ‘Who has access to your information’ below regarding how third parties use this information for more information on this.
 
-·       To create a profile relating to you in order to show you the content that we think you might be interested in.
+Email communications relating to the above are not mandatory and you will need to opt into receiving this content. Once you have opted in, you can opt out at any time by the ‘unsubscribe’ function at the bottom of any email sent by us.
 
-**Does The Duke of Edinburgh's Award disclose information that it collects from these sites to other parties?**
+We may use some information that we hold about you, for example your age, what Award level you are doing, and whether you have opened and clicked through previous emails, to help us send the most relevant information to you.
 
-The DofE will not provide any information collected from the DofE website or _e_ DofE that personally identifies you to any other company or organisation, unless it is required to do so by law, Court Order by other Government or law enforcement authorities or as described in this Policy Statement.
+**Fundraising opportunities**
 
-Data collected on _e_ DofE is shared with the relevant Licensed Organisation and DofE centre, as a necessity to enable young people to complete their DofE programme and achieve their Award and for DofE Leaders to manage our programme effectively. Participant personal information is never shared with other participants.
+For fundraising opportunities, we collect personal information when you ask about our activities over the phone, in person, by letter or in email, when you register with us for an event, make a donation, subscribe to our newsletter or otherwise give us your personal information. We use this information to provide you with the information, services or products you have asked for, process donations you have made, inform you of changes to our service and policies, claim your Gift Aid donation, send you communication that includes information about our campaigns, volunteering and fundraising activities and to detect and reduce fraud and credit risk. Whenever we call our supporters we always start by asking if they are happy to take the call. We strictly adhere to all fundraising legislation and guidelines and are registered with the Fundraising Regulator.
 
-The DofE has partnered with leading supplier DG3 to provide participants with achievement resources on approval of an Award, using a secure online environment.
+**Profiling**
 
-DG3 will not share this information with third parties, except for the purposes of fulfilling an order (i.e. postal and payment services). DG3 are not allowed to use any personally identifiable information except for the purpose of providing the achievement resources ~~Pack~~ publishing service. 
+Through monitoring your interest in our range of products and services, we will create a profile of your preferences so that any contact we have with you is appropriate, relevant and timely. We may make use of additional information about you when it is available from external sources to help us to do this effectively. This activity is done to understand our audiences, and, for supporters, helps us to limit our communications only to those who are interested in our cause, and have the means to support us.  
 
-Participants will be asked to agree to the terms and conditions of DG3’s privacy policy before they can access the secure site. 
+**Who has access to your information?**
 
-The DofE have a licence agreement with Cotswold Outdoor which provides Leaders, Co-ordinators and Managers with 20% off any purchase via Cotswold Outdoor online and high street stores. To receive this 20%, the DofE send name and address details to our designated print and mailing company to enable them to send the Discount card to the Leaders, Co-ordinators and Managers by post.  We have a written agreement with the mailing company that they will not retain your personal details for any further marketing or communication purposes by them or any other third party
+The DofE will not provide any information collected that personally identifies you to any other company or organisation, unless it is required to do so by law, Court Order by other Government or law enforcement authorities or as described in this Privacy Statement.
+
+Data collected on eDofE is shared with the relevant Licensed Organisation and DofE centre, as a necessity to enable young people to complete their DofE programme and achieve their Award and for DofE Leaders to manage programmes effectively. Participant personal information is never shared with other participants.
+
+We may pass your information to our trusted third-party service providers and other associated organisations who are authorised to work on our behalf, for example to process donations and send you mailings such as our magazine. We disclose only the personal information that is necessary to deliver the service. In circumstances related to a certain product we will send your data to fulfillment houses; we have a written agreement with all fulfillment houses and all data is destroyed after use.
+
+We do not store credit card details and we only share customer credit card details with our agencies involved in processing your donations/purchases.
+
+**Remarketing**
+
+The DofE may pass on your personal information to online advertising tools, including Facebook Custom audiences, Google Adwords Match and Google Analytics to carry out ‘remarketing activities’ – this is so that if you’ve visited our website we can direct you back to it through ads shown on sites across the internet by third-party vendors, including Google and Facebook. These third party vendors may use cookies to serve these ads based on your past visits to our website. You can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative’s opt-out page](http://optout.networkadvertising.org/?c=1#!%2F).
 
 **Use of cookies**
 
-As is standard practice on many websites and online services, the DofE online services uses ‘cookies’ and other technologies to help us understand which parts of our services are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and similar technologies to see if our online advertising is bringing people to our resources and services ~~~~ and other online training and downloads. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our participant and network communications. We also use cookies to customise your experience and provide greater convenience each time you interact with our services. 
+As is standard practice on many websites and online services, DofE online services use ‘cookies’ and other technologies to help us understand which parts of our services are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and similar technologies to see if our online advertising is bringing people to our resources, services and other online training and downloads. We use cookies and other technologies to study traffic patterns on our website, to make your visit to our website even more rewarding as well as to study the effectiveness of our participant and network communications. We also use cookies to customise your experience and provide greater convenience each time you interact with our services.
 
-If, however, you prefer not to enable cookies you can disable them on your PC and laptop.   Please note that certain features of the DofE website and _e_ DofE will not be available once cookies are disabled.
+If, however, you prefer not to enable cookies you can disable them on your PC and laptop. Please note that certain features of the DofE website and eDofE will not be available once cookies are disabled. In order to maintain the security of your session, by logging into eDofE you are giving implied consent that you are happy for cookies to be set.
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. We use this information, which does not identify individual users, to analyse trends, to administer the site, to track users' movements around the sites and to gather statistical information about our user base as a whole.
 
-In some of our email messages we use a "click-through URL" linked to content on the DofE website. When a customer clicks one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email or website.
-
-·       Your rights: If you do not opt-out of receiving promotional information from our partners on the Communications Preference screen of _e_ DofE or you are not currently using _e_ DofE, but later decide that you do not wish to receive future communications of this nature then you should send an email message to [info@DofE.org](mailto:info@DofE.org) with the subject ‘Unsubscribe Direct Marketing and promotional offers from partners’.  Within eDofE you can change your preferences at any time after sign in. Please note, messages will still be posted within the eDofE messaging system, but you can choose not to receive promotional information from our partners to an external email account.   Remember though that all programme emails and information is compulsory for all participants undertaking their DofE programme and for all Leaders, Managers and Co-ordinators running the DofE programme. This is to ensure everyone is getting consistent information at the same time.
-
-·       Access and correction: You have a right to know about the personal information that the DofE holds about you and to receive a copy of that information provided upon request. You also have a right to correct, amend or delete the information that the DofE holds about you if it is incorrect. If you wish to exercise these rights and you are not currently using _e_ DofE please contact us by post or email at the address shown in the ‘Contact’ section below. Within _e_ DofE you can view these details at any time by signing in with your personal username and password. On payment of a fee of £10.00 we will send you a copy of all the personal data held about you. Please apply in writing to: The Data Controller, The Duke of Edinburgh’s Award, Gulliver House, Madeira Walk, Windsor, Berkshire, SL4 1EU. 
-
-**Security**
-
-We take all reasonable safeguards to keep all your personal information as secure as is humanly possible. In addition to a rigorously enforced data handling policy, all our staff members are made aware of their obligations to keep the information for authorised use only. Of course no technology is fail-safe, but we have made every reasonable effort to keep our systems up to date with the relevant protocols.
-
-**Children**
-
-The Duke of Edinburgh's Award programme is open to 14 to 24 year olds. Some 13 year olds are able to start the programme with their peers. The Duke of Edinburgh’s Award does not knowingly solicit information from any child under the age of 13.  Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information. We recommend that the children over the age of 13 and up to the age of 16 ask their parents’ permission before sending any information about themselves to anyone over the internet.  All under 16s are required to obtain parental consent on Licensed Organisation enrolment forms before they are set up on _e_ DofE. Model Release Forms need to be signed by the parent or guardians of any child under the age of 16 who has their photograph taken for use by the DofE.  Anyone over the age of 16 is also asked to sign a Model Release Form to authorise us to use their photographs to broaden the reach of the DofE and its programme.
+In some of our email messages we use a "click-through URL" linked to content. When a customer clicks one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email or website.
 
 **External links**
 
-The DofE’s online services provide links to various websites that we do not control as well as to websites of our sponsors. When you click on one of these links, you will be transferred out of our websites and connected to the website of the organisation or company that you have selected. Even if an affiliation exists between our websites and a third-party website, we exercise no control over linked sites and are not responsible for the privacy practices of other organisations and their websites.  Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a website that is linked to our site, you should consult that site's privacy policy before providing any personal information. This Privacy Statement applies solely to the information gathered by the DofE.
+The DofE’s online services provide links to various websites that we do not control as well as to websites of our partners and supporters. When you click on one of these links, you will be transferred out of our websites and connected to the website of the organisation or company that you have selected. Even if an affiliation exists between our websites and a third-party website, we exercise no control over linked sites and are not responsible for the privacy practices of other organisations and their websites.  Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a website that is linked to our site, you should consult that site's privacy policy before providing any personal information. This Privacy Statement applies solely to the information gathered by the DofE.
+
+**Your rights**
+
+All programme emails and information are compulsory for all participants undertaking their DofE programmes and for all adults supporting them. This is to ensure everyone receives consistent information at the same time. We will however contact you to ask for you to opt in to any other communications that are not programme related. Once you have done so you can still opt out at any time by visiting [www.DofE.org/preferences](https://www.dofe.org/preferences). It can take up to 30 days for your preferences to be registered, therefore you may still receive email communications during this time. Please be aware that there are other instances when you may continue to receive email communications such as if you are a parent and your child has used your email address for their eDofE profile; participants receive programme emails as mandatory for their DofE programme.  Please note, messages will still be posted within the eDofE messaging system, but you can choose not to receive promotional information from our partners to an external email account. 
+
+Although every reasonable effort has been made to ensure that the information the DofE provides is accurate at the time of publication, audiences who rely on any information do so at their own risk. The Duke of Edinburgh's Award does not warrant its accuracy and disclaims any liability to any third party anywhere in the world for any injury, damage, loss or inconvenience arising as a consequence of any use of or the inability to use any information on the DofE’s website and other communications to the fullest extent permitted at law.
+
+**Access and correction**
+
+You have a right to know about the personal information that the DofE holds about you and to receive a copy of that information on request. You also have a right to request corrections to, or deletion of, the information that the DofE holds about you. If you wish to exercise these rights please contact us by post or email at the address shown in the ‘Contact’ section below. We will send you a copy of all the personal data held about you. Please apply in writing to: Director of UK Services, The Duke of Edinburgh’s Award, Gulliver House, Madeira Walk, Windsor, Berkshire, SL4 1EU.
+
+**Security**
+
+ We build in safeguards to keep all your personal information as secure as is digitally possible. In addition to a rigorously enforced data handling policy, all our staff members are made aware of their obligations to keep the information for authorised use only. Of course no technology is foolproof, but we have made every reasonable effort to keep our systems up to date with the relevant protocols.
+
+All personal data is accessible only to those who need to use it. We make that judgement based upon the sensitivity and value of the information in question; We always consider keeping personal data:
+
+  * in a lockable room with controlled access.
+  * in a locked drawer or filing cabinet.
+  * if data is computerised it is stored on network servers and on password-protected databases and not on local systems and have suitable security access levels determined, applied and monitored.
+  * particular care is taken of portable ICT equipment, memory sticks etc. which are password protected and encrypted to prevent unauthorised access.
+  * sensitive personal data is not kept on memory sticks or routinely taken from DofE premises on any form of removable media.
+
+
+
+The security measures that we have put in place ensure that:
+
+  * only authorised people can access, alter, disclose or destroy personal data;
+  * those people only act within the scope of their authority; and
+  * if personal data is accidentally lost, altered or destroyed, it can be recovered to prevent any damage or distress to the individuals concerned.
+
+
 
 **Future policy**
 
-We may need to update or modify this privacy statement at any time, and modifications are effective upon being posted on the DofE websites and in eDofE. You are responsible for reviewing this privacy statement periodically to ensure that you are aware of any changes to it.
+We may need to update or modify this Privacy Statement at any time, and modifications are effective upon being posted on the DofE websites and in  _e_ DofE. You are responsible for reviewing this privacy statement periodically to ensure that you are aware of any changes to it.
 
 **Contacting the DofE**
 
 If you have any questions about this Privacy Statement, the privacy practices of the DofE or if you want to exercise any of the rights that you are given under this Privacy Statement you can contact:
 
-Email: [info@DofE.org](mailto:info@dofe.org)   
+  * Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7aea9a1a887a3a8a1a2e9a8b5a0)
+  * Post: Director of UK Services, The Duke of Edinburgh's Award, Gulliver House Madeira Walk, Windsor SL4 1EU
 
 
-Post: The Duke of Edinburgh's Award, Gulliver House Madeira Walk, Windsor SL4 1EU
-
-Although every reasonable effort has been made to ensure that the information on this website is accurate at the time of publication, visitors who use this website and rely on any information do so at their own risk. The Duke of Edinburgh's Award does not warrant its accuracy and disclaims any liability to any third party anywhere in the world for any injury, damage, loss or inconvenience arising as a consequence of any use of or the inability to use any information on this website to the fullest extent permitted at law.
-
-_Last updated: August 2015_
