@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharemylesson.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902165902id_/https%3A//sharemylesson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemylesson.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417125013id_/https%3A//sharemylesson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Share My Lesson
 
@@ -6,7 +6,7 @@
 
 Share My Lesson is a community of educators and we take the privacy interests of educators very seriously.
 
-If you have questions about deleting or correcting your personal data please contact us at [privacy@sharemylesson.com](mailto:privacy@sharemylesson.com).
+If you have questions about deleting or correcting your personal data please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2757554e5146445e67544f4655424a5e4b42545448490944484a).
 
 The American Federation of Teachers, AFL-CIO (hereinafter, AFT) operates sharemylesson.com. It is AFT’s policy to respect your privacy regarding any information we may collect while operating sharemylesson.com. This Privacy Policy applies strictly to sharemylesson.com.
 
@@ -65,7 +65,7 @@ Ads appearing on sharemylesson.com may be delivered to users by advertising part
 
 ### 8\. California Privacy Rights
 
-If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt out (which we may sometimes refer to as 'unsubscribe') with respect to use of your Personal Information by third parties for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. If you are a California resident and wish to request information about how to exercise your third-party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@sharemylesson.com](mailto:privacy@sharemylesson.com). All requests must be labeled 'Your California Privacy Rights' on the email subject line. For all requests, please clearly state that the request is related to 'Your California Privacy Rights', include your name, street address, city, state, zip code and email address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone, postal mail or by fax. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt out (which we may sometimes refer to as 'unsubscribe') with respect to use of your Personal Information by third parties for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. If you are a California resident and wish to request information about how to exercise your third-party disclosure choices, please send a request by email to our Privacy Administrator at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8c8cad1ced9dbc1f8cbd0d9caddd5c1d4ddcbcbd7d696dbd7d5). All requests must be labeled 'Your California Privacy Rights' on the email subject line. For all requests, please clearly state that the request is related to 'Your California Privacy Rights', include your name, street address, city, state, zip code and email address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone, postal mail or by fax. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
 ### 9\. Privacy Policy Changes
 
@@ -75,7 +75,7 @@ Although most changes are likely to be minor, AFT may change sharemylesson.com�
 
 If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us as follows:
 
-Email: [privacy@sharemylesson.com](mailto:privacy@sharemylesson.com?subject=Privacy%20Policy)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#10606279667173695063787162757d697c7563637f7e3e737f7d2f6365727a7573642d40627966717369352220407f7c797369)
 
 OR
 
