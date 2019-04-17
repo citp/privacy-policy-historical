@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baremetrics.io privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826175146id_/http%3A//baremetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baremetrics.io privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417111308id_/https%3A//baremetrics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Baremetrics
 
@@ -87,26 +87,30 @@ Capitalized terms are defined in Section 14 of this Policy.
 
 By using this Website, placing an order with Baremetrics on this Website or through other means, clicking the “buy” button, or checking the terms and conditions box, you agree to the Baremetrics Terms and Conditions set forth below, including, without limitation, the Privacy Policy https://baremetrics.com/privacy.
 
-###  I. SCOPE
+  1. **SCOPE**
+
+
 
 This Policy applies to the processing of Individual Customer Personal Data that Baremetrics receives in the United States concerning Individual Customers who reside in the European Union and Switzerland. Baremetrics provides products and services to businesses and consumers.
 
 This Policy does not cover data from which individual persons cannot be identified or situations in which pseudonyms are used. (The use of pseudonyms involves the replacement of names or other identifiers with substitutes so that identification of individual persons is not possible.)
 
-### II. RESPONSIBLITIES AND MANAGEMENT
+  1. **RESPONSIBLITIES AND MANAGEMENT**
+
+
 
 Baremetrics has designated the Legal Department to oversee its information security program, including its compliance with the EU and Swiss Privacy Shield program. The Legal Department shall review and approve any material changes to this program as necessary. Any questions, concerns, or comments regarding this Policy also may be directed to PrivacyShield@Baremetrics.com.
 
 Baremetrics will maintain, monitor, test, and upgrade information security policies, practices, and systems to assist in protecting the Personal Data that it collects. Baremetrics personnel will receive training, as applicable, to effectively implement this Policy. Please refer to Section 7 for a discussion of the steps that Baremetrics has undertaken to protect Personal Data.
 
-### III.  RENEWAL / VERIFICATION
+**III.  RENEWAL / VERIFICATION**
 
 Baremetrics is in the process of self-certification under EU-U.S. Privacy shield. Baremetrics will renew its EU-U.S. Privacy Shield and Swiss-US Privacy Shield certifications annually, unless it subsequently determines that it no longer needs such certification or if it employs a different adequacy mechanism.
 
 Prior to the re-certification, Baremetrics will conduct an in-house verification to ensure that its attestations and assertions about its treatment of Individual Customer Personal Data are accurate and that the company has appropriately implemented these practices. Specifically, as part of the verification process, Baremetrics will undertake the following:
 
   * Review this Privacy Shield policy and its publicly posted website privacy policy to ensure that these policies accurately describe the practices regarding the collection of Individual Customer Personal Data
-  * Ensure that the publicly posted privacy policy informs Individual Customers of Baremetrics’s participation in the US EU Privacy Shield and US Swiss Privacy Shield programs and where to obtain a copy of additional information (e.g., a copy of this Policy)
+  * Ensure that the publicly posted privacy policy informs Individual Customers of Baremetrics’s participation in the EU-U.S Privacy Shield and Swiss-U.S. Privacy Shield programs and where to obtain a copy of additional information (e.g., a copy of this Policy)
   * Ensure that this Policy continues to comply with the Privacy Shield principles
   * Confirm that Individual Customers are made aware of the process for addressing complaints and any independent dispute resolution process (Baremetrics may do so through its publicly posted website, Individual Customer contract, or both)
   * Review its processes and procedures for training Employees about Baremetrics’s participation in the Privacy Shield programs and the appropriate handling of Individual’s Personal Data
@@ -115,7 +119,9 @@ Prior to the re-certification, Baremetrics will conduct an in-house verification
 
 Baremetrics will prepare an internal verification statement on an annual basis.
 
-### IV.  COLLECTION AND USE OF PERSONAL DATA
+  1. **  COLLECTION AND USE OF PERSONAL DATA**
+
+
 
 Baremetrics provides various solutions to its Individual Customers who purchase its products. Baremetrics collects Personal Data from Individual Customers when they purchase its products, register with our website, log-in to their account, complete surveys, request information or otherwise communicate with us. For example, Baremetrics individual customers may choose to seek live support or post to a message board.
 
@@ -141,7 +147,9 @@ Baremetrics uses Personal Data that it collects directly from its Individual Cus
 
 Baremetrics does not disclose personal information to third parties for purposes that are materially different than what it was originally collected for. Should this change in the future, we will provide individuals with the option to opt-out.
 
-### V.  DISCLOSURES/ ONWARD TRANSFERS OF PERSONAL DATA
+  1. **  DISCLOSURES/ ONWARD TRANSFERS OF PERSONAL DATA**
+
+
 
 Except as otherwise provided herein, Baremetrics discloses Personal Data only to Third Parties who reasonably need to know such data only for the scope of the initial transaction and not for other purposes. Such recipients must agree to abide by confidentiality obligations.
 
@@ -154,43 +162,46 @@ Baremetrics may provide Personal Data to Third Parties that act as agents, consu
 
 Baremetrics also may disclose Personal Data for other purposes or to other Third Parties when a Data Subject has consented to or requested such disclosure. Please be aware that Baremetrics may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. Baremetrics is liable for appropriate onward transfers of personal data to third parties.
 
-### VI. SENSITIVE DATA
+  1. **SENSITIVE DATA**
+
+
 
 Baremetrics does not collect Sensitive Data from its Individual Customers.
 
-### VII.  DATA INTEGRITY AND SECURITY
+**VII.  DATA INTEGRITY AND SECURITY**
 
 Baremetrics uses reasonable efforts to maintain the accuracy and integrity of Personal Data and to update it as appropriate. Baremetrics has implemented physical and technical safeguards to protect Personal Data from loss, misuse, and unauthorized access, disclosure, alternation, or destruction. For example, electronically stored Personal Data is stored on a secure network with firewall protection, and access to Baremetrics’s electronic information systems requires user authentication via password or similar means. Baremetrics also employs access restrictions, limiting the scope of employees who have access to Individual Customer Personal Data.
 
 Further, Baremetrics uses secure encryption technology to protect certain categories of personal data. Despite these precautions, no data security safeguards guarantee 100% security all of the time.
 
-### VIII.  NOTIFICATION
+**VIII.  NOTIFICATION**
 
 Baremetrics notifies Individual Customers about its adherence to the EU-US Privacy Shield and Swiss-US Privacy Shield principles through its publicly posted website privacy policy, available at: https://baremetrics.com/privacy and take Individual customers approval and adherence to the current policy when they provide their information to us in the transactional process.
 
-### IX.  ACCESSING PERSONAL DATA
+  1. **  ACCESSING PERSONAL DATA**
+
+
 
 Baremetrics personnel may access and use Personal Data only if they are authorized to do so and only for the purpose for which they are authorized.
 
-### X.  RIGHT TO ACCESS, CHANGE OR DELETE PERSONAL DATA
+  1. **  RIGHT TO ACCESS, CHANGE OR DELETE PERSONAL DATA**
+  2. Right to Access. Individual Customers have the right to know what Personal Data about them is included in the databases and to ensure that such Personal Data is accurate and relevant for the purposes for which Baremetrics collected it. Individual Customers may review their own Personal Data stored in the databases and correct, erase, or block any data that is incorrect, as permitted by applicable law and Baremetrics policies. Upon reasonable request and as required by the Privacy Shield principles, Baremetrics allows Individual Customers access to their Personal Data, in order to correct or amend such data where inaccurate. Individual Customers may edit their Personal Data by logging into their account profile or by contacting Baremetrics by phone or email. In making modifications to their Personal Data, Data Subjects must provide only truthful, complete, and accurate information. To request erasure of Personal Data, Individual Customers should submit a written request to local Baremetrics office.
+  3. Requests for Personal Data. Baremetrics will track each of the following and will provide notice to the appropriate parties under law and contract when either of the following circumstances arise: (a) legally binding request for disclosure of the Personal Data by a law enforcement authority unless prohibited by law or regulation; or (b) requests received from the Data Subject. If Baremetrics receives a request for access to their Personal Data from an Individual Customer, then, unless otherwise required under law or by contract with such Individual Customer, Baremetrics will refer such Data Subject to the Individual Customer.
+  4. Satisfying Requests for Access, Modifications, and Corrections. Baremetrics will endeavor to respond in a timely manner to all reasonable written requests to view, modify, or inactivate Personal Data.
 
-A. Right to Access. Individual Customers have the right to know what Personal Data about them is included in the databases and to ensure that such Personal Data is accurate and relevant for the purposes for which Baremetrics collected it. Individual Customers may review their own Personal Data stored in the databases and correct, erase, or block any data that is incorrect, as permitted by applicable law and Baremetrics policies. Upon reasonable request and as required by the Privacy Shield principles, Baremetrics allows Individual Customers access to their Personal Data, in order to correct or amend such data where inaccurate. Individual Customers may edit their Personal Data by logging into their account profile or by contacting Baremetrics by phone or email. In making modifications to their Personal Data, Data Subjects must provide only truthful, complete, and accurate information. To request erasure of Personal Data, Individual Customers should submit a written request to local Baremetrics office.
 
-B. Requests for Personal Data. Baremetrics will track each of the following and will provide notice to the appropriate parties under law and contract when either of the following circumstances arise: (a) legally binding request for disclosure of the Personal Data by a law enforcement authority unless prohibited by law or regulation; or (b) requests received from the Data Subject. If Baremetrics receives a request for access to their Personal Data from an Individual Customer, then, unless otherwise required under law or by contract with such Individual Customer, Baremetrics will refer such Data Subject to the Individual Customer.
 
-C. Satisfying Requests for Access, Modifications, and Corrections. Baremetrics will endeavor to respond in a timely manner to all reasonable written requests to view, modify, or inactivate Personal Data.
-
-### XII.  CHANGES TO THIS POLICY
+**XII.  CHANGES TO THIS POLICY**
 
 This Policy may be amended from time to time, consistent with the Privacy Shield Principles and applicable data protection and privacy laws and principles. We will make employees available of changes to this policy either by posting to our intranet, through email, or other means. We will notify Customers if we make changes that materially affect the way we handle Personal Data previously collected, and we will allow them to choose whether their Personal Data may be used in any materially different manner.
 
-### XIII.  QUESTIONS OR COMPLAINTS
+**XIII.  QUESTIONS OR COMPLAINTS**
 
 EU and Swiss Individual customers may contact Baremetrics with questions or complaints concerning this Policy at the following address:
 
 PrivacyShield@Baremetrics.com
 
-### XIII.  ENFORCEMENT AND DISPUTE RESOLUTION
+**XIII.  ENFORCEMENT AND DISPUTE RESOLUTION**
 
 In compliance with the EU-U.S. and Swiss-US Privacy Shield Principles, Baremetrics commits to resolve complaints about your privacy and our collection or use of your personal information. EU and Swiss individuals with questions or concerns about the use of their Personal Data should contact us at: PrivacyShield@Baremetrics.com.
 
@@ -198,11 +209,9 @@ If a Customer’s question or concern cannot be satisfied through this process B
 
 If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by Baremetrics, EU and Swiss individuals may bring a complaint before the JAMS EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks program can be found at: https://www.jamsadr.com/eu-us-privacy-shield.
 
- Finally, as a last resort and in limited situations, EU and Swiss individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
+Finally, as a last resort and in limited situations, EU and Swiss individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
-Baremetrics commits to cooperate with EU and Swiss data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
-
-### XIV.  DEFINED TERMS
+**XIV.  DEFINED TERMS**
 
 Capitalized terms in this Privacy Policy have the following meanings:
 
