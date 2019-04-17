@@ -1,23 +1,36 @@
-<!--The following is the downloaded HTML source of the honeyfund.com privacy policy that was archived on 2017-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170210142244id_/https%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the honeyfund.com privacy policy that was archived on 2019-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190417134007id_/https%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xml:lang="en" lang="en"><head>
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcEWFdaGwAFUVFXBQI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
-<title>Privacy Policy at Honeyfund.com, the free honeymoon registry, the #1 cash wedding registry</title>
-<meta name="keywords" content="Honeyfund.com honeyfund privacy policy, honeymoon registry privacy policy">
-<meta name="description" content="Honeyfund.com explains its Privacy Policy including how personally identifiable information (PII) is collected and used.">
-<meta name="apple-mobile-web-app-capable" content="yes">
+<!DOCTYPE html><html xml:lang="en" lang="en" class=" async-hide"><head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+        <title>Privacy Policy at Honeyfund.com, the free honeymoon registry, the #1 cash wedding registry</title>
+        <meta name="keywords" content="Honeyfund.com honeyfund privacy policy, honeymoon registry privacy policy">
+        <meta name="description" content="Honeyfund.com explains its Privacy Policy including how personally identifiable information (PII) is collected and used.">
+        <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="theme-color" content="#313131">
+<meta name="csrf-token" content="CuADgMxF3kd6dgkUwBHMMly6BrQNNqYLZvY4E9Ng">
 <link rel="icon" sizes="192x192" href="/_icon_192.png">
-<meta property="og:url" content="https://">
+<meta property="og:description" content="Honeyfund.com is the free honeymoon registry and #1 cash wedding gift registry. Unlike other honeymoon registries, Honeyfund.com is free for both couples and guests.">
+<meta property="og:image" content="http://d3h2lhnsnwreoe.cloudfront.net/fb-thumb/fb-thumb1.png">
+<meta property="og:url" content="https://www.honeyfund.com/Privacy">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Honeyfund">
+<meta property="og:title" content="Honeyfund — The Free Honeymoon Registry">
 <meta property="fb:admins" content="1438674784,1091896901">
 <meta property="fb:app_id" content="138538316302226">
-<!--web04 ppa 2017-02-09T23:01:25-08:00-->
+<!--hf-prod-web-a1.hfpriv.net ppa 2019-04-12T15:11:47+00:00-->
 <link rel="shortcut icon" href="https://d3h2lhnsnwreoe.cloudfront.net/favicon.ico" type="image/x-icon">
-<link media="all" href="https://d2i1tcfj6z4y0e.cloudfront.net/m/cssContent2014?1481058045" rel="stylesheet" type="text/css">
+            <link media="all" href="https://d2i1tcfj6z4y0e.cloudfront.net/m/cssContent2014?1554918365" rel="stylesheet" type="text/css">
+    
+<style>.async-hide { opacity: 0 !important} </style>
+<script type="text/javascript" async="" src="https://widget.intercom.io/widget/z40pwsl6"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+        {'GTM-54NJQX3':true});
+</script>
+
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -25,10 +38,11 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 ga('create', 'UA-295227-1', 'auto');
 ga('require', 'linkid', 'linkid.js');
+ga('require', 'GTM-54NJQX3');
 ga('send', 'pageview');
 </script>
 
-<script>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4063969"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4063969&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript><script>
 if(!window.fbq){
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
@@ -53,63 +67,63 @@ if(!window.hj){
         a.appendChild(r);
     })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 }
-</script><script async="" src="//static.hotjar.com/c/hotjar-52695.js?sv=5"></script><link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,200italic,300,300italic,400italic,600,600italic,700,700italic,200|Shadows+Into+Light+Two" rel="stylesheet" type="text/css">
-<!--[if IE]><script type="text/javascript" src="https://d2i1tcfj6z4y0e.cloudfront.net/_js/ie.js"></script><![endif]-->
-</head>
-<body style="background-position: 0px 47px;">
-<div id="wrapper">
-  <div class="page-wrap">
-    <div class="clearfix" id="sharktankbar">
-	<ul class="watch">
-		<li>As seen on</li>
-	</ul>
-	<ul class="details">
-		<li class="sharktank">Shark Tank</li>
-	</ul>
+</script><script async="" src="//static.hotjar.com/c/hotjar-52695.js?sv=5"></script>        <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,200italic,300,300italic,400italic,600,600italic,700,700italic,200|Shadows+Into+Light+Two" rel="stylesheet" type="text/css">
+        <!--[if IE]><script type="text/javascript" src="https://d2i1tcfj6z4y0e.cloudfront.net/_js/ie.js"></script><![endif]-->
+    </head>
+    <body style="background-position: 0px 47px;">
+    <div id="wrapper">
+        <div class="page-wrap">
+            <div class="clearfix" id="sharktankbar">
+    <ul class="watch">
+        <li>As seen on</li>
+    </ul>
+    <ul class="details">
+        <li class="sharktank">Shark Tank</li>
+    </ul>
 </div>
 <script type="text/javascript">
 function closeSharkTankBar()
 {
-	var elBar = document.getElementById("sharktankbar");
-	if(elBar)
-	{
-		elBar.style.display = "none";
-		setCookie("sharktankbar",0,365);
-	}
-	return false;
+    var elBar = document.getElementById("sharktankbar");
+    if(elBar)
+    {
+        elBar.style.display = "none";
+        setCookie("sharktankbar",0,365);
+    }
+    return false;
 }
 
 function setCookie(c_name,value,exdays)
 {
-	var exdate=new Date();
-	exdate.setDate(exdate.getDate() + exdays);
-	var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
-	document.cookie=c_name + "=" + c_value;
+    var exdate=new Date();
+    exdate.setDate(exdate.getDate() + exdays);
+    var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+    document.cookie=c_name + "=" + c_value;
 }
 
 function getCookie(c_name)
 {
-	var i,x,y,ARRcookies=document.cookie.split(";");
-	for (i=0;i<ARRcookies.length;i++)
-	{
-		x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-		y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-		x=x.replace(/^\s+|\s+$/g,"");
-		if (x==c_name)
-		{
-			return unescape(y);
-		}
-	}
+    var i,x,y,ARRcookies=document.cookie.split(";");
+    for (i=0;i<ARRcookies.length;i++)
+    {
+        x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+        y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+        x=x.replace(/^\s+|\s+$/g,"");
+        if (x==c_name)
+        {
+            return unescape(y);
+        }
+    }
 }
 
 var ckSharktank = getCookie("sharktankbar");
 if(ckSharktank && ckSharktank==0)
 {
-	var elBar = document.getElementById("sharktankbar");
-	if(elBar)
-	{
-		elBar.style.display="none";
-	}
+    var elBar = document.getElementById("sharktankbar");
+    if(elBar)
+    {
+        elBar.style.display="none";
+    }
 }
 </script>
 <header id="header">
@@ -118,29 +132,29 @@ if(ckSharktank && ckSharktank==0)
 var strCurrPos = "";
 try
 {
-	if(window.getComputedStyle !== "undefined")
-	{
-		strCurrPos = window.getComputedStyle(document.body).backgroundPosition;
-	}
-	else
-	{
-		strCurrPos = document.body.currentStyle.backgroundPosition;
-	}
+    if(window.getComputedStyle !== "undefined")
+    {
+        strCurrPos = window.getComputedStyle(document.body).backgroundPosition;
+    }
+    else
+    {
+        strCurrPos = document.body.currentStyle.backgroundPosition;
+    }
 }
 catch(e){}
 if(strCurrPos.length==0 || strCurrPos=="0% 0%")
 {
-	document.body.style.backgroundPosition = "0 47px";
+    document.body.style.backgroundPosition = "0 47px";
 }
 </script>
 <div id="network">
-	<div class="tabs">
-		<ul>
-			<li class="txt"></li>
-			<li><a href="http://www.plumfund.com/?utm_source=Honeyfund&amp;utm_medium=referal&amp;utm_content=Tab&amp;utm_campaign=Tab" class="pf"></a></li>
-			<li class="active"><a href="javascript:" class="hf"></a></li>
-		</ul>
-	</div>
+    <div class="tabs">
+        <ul>
+            <li class="txt"></li>
+            <li><a href="http://www.plumfund.com/?utm_source=Honeyfund&amp;utm_medium=referal&amp;utm_content=Tab&amp;utm_campaign=Tab" class="pf"></a></li>
+            <li class="active"><a href="javascript:" class="hf"></a></li>
+        </ul>
+    </div>
 </div>
 <noscript id="nojs_bad_browser">
     <div style="background:red;text-align:center;color:#fff;padding:2em 1em;font-weight:bold;z-index: 1;">Javascript Warning! Please enable Javascript. See our <a style="color:#fff;text-decoration:underline;" href="/BrowserRequirements">requirements</a> page for more information.</div>
@@ -154,491 +168,513 @@ if(strCurrPos.length==0 || strCurrPos=="0% 0%")
     document.write('<div style="background:red;text-align:center;color:#fff;padding:2em 1em;font-weight:bold;z-index: 1;">Browser Warning! We don\'t support this browser. Please see our <a style="color:#fff;text-decoration:underline;" href="/BrowserRequirements">requirements</a> page for alternatives.</div>');
   }
 })();
-</script>	<div class="container"> 
-		<div class="logo-holder">
-						<div class="logo">
-				<a href="/" tabindex="1">
-					<span data-picture="" data-alt="Honeyfund"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner_r.png"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner-320_r.png" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner-2x_r.png" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-				<!--[if (lt IE 9) & (!IEMobile)]>
-										<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner_r.png"></span>
-									<![endif]--> 
-				<noscript>
-				<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner_r.png" alt="Honeyfund" >
-				</noscript>
-				</span>
-				</a>
-			</div>
-			<span class="tagline">The free honeymoon registry</span>
-					</div>
-				<a href="/SignUp" tabindex="2" class="btn btn-primary">Sign Up <span class="hidden-xs">Now</span>!</a>
-			</div>
-	<nav class="navbar navbar-default" role="navigation">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle"> <span class="sr-only">Toggle navigation</span> <span class="menu">Menu</span> <span class="menubtn"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </span> </button>
-		</div>
-		<div class="collapse navbar-collapse win-height" id="bs-example-navbar-collapse-1">
-			<div class="row">
-				<div class="container">
-					<div class="menu-container">
-						<ul class="other-links">
-							<li><a href="/SignIn" class="signin">SIGN IN</a></li>
-							<li><a href="/GiveAGift" class="find">FIND COUPLES</a></li>
-						</ul>
-						<ul class="nav navbar-nav">
-							<li class="dropdown"> <a href="/WeddingPlanning" tabindex="3">WEDDING PLANNING</a>
-								<div class="dropdown-menu dropdown-menu2">
-									<div class="carousel"> 
-										<div class="mask">
-											<div class="slideset">
-																																				<div class="item active">
-																									<div class="item-holder">
-														<div class="img-holder clearfix"> <a href="/eco-friendly-wedding"> <span data-picture="" data-alt="Eco-friendly Wedding Tips"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_green_320.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_green_320.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_green_320.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-															<!--[if (lt IE 9) & (!IEMobile)]>
-																					<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
-																				<![endif]--> 
-																			<noscript>
-															<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_green_320.jpg" alt="Eco-friendly Wedding Tips" >
-															</noscript>
-															</span> </a> </div>
-														<strong class="title"><a href="/eco-friendly-wedding">Eco-friendly Wedding Tips</a></strong>
-													</div>
-																																																	<div class="item-holder">
-														<div class="img-holder clearfix"> <a href="/Etiquette"> <span data-picture="" data-alt="Wedding Gift Etiquette"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_2x_a.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_2x_a.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_2x_a.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-															<!--[if (lt IE 9) & (!IEMobile)]>
-																					<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
-																				<![endif]--> 
-																			<noscript>
-															<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_2x_a.jpg" alt="Wedding Gift Etiquette" >
-															</noscript>
-															</span> </a> </div>
-														<strong class="title"><a href="/Etiquette">Wedding Gift Etiquette</a></strong>
-													</div>
-																																																	<div class="item-holder">
-														<div class="img-holder clearfix"> <a href="/WeddingBudgeting"> <span data-picture="" data-alt="Six Budgeting Tips"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_budget_2x_a.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_budget_2x_a.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_budget_2x_a.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-															<!--[if (lt IE 9) & (!IEMobile)]>
-																					<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
-																				<![endif]--> 
-																			<noscript>
-															<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_budget_2x_a.jpg" alt="Six Budgeting Tips" >
-															</noscript>
-															</span> </a> </div>
-														<strong class="title"><a href="/WeddingBudgeting">Six Budgeting Tips</a></strong>
-													</div>
-																																																	<div class="item-holder">
-														<div class="img-holder clearfix"> <a href="/TopResources"> <span data-picture="" data-alt="Our Top 10 Wedding Planning Resources"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_resources_2x_a.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_resources_2x_a.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_resources_2x_a.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-															<!--[if (lt IE 9) & (!IEMobile)]>
-																					<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
-																				<![endif]--> 
-																			<noscript>
-															<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_resources_2x_a.jpg" alt="Our Top 10 Wedding Planning Resources" >
-															</noscript>
-															</span> </a> </div>
-														<strong class="title"><a href="/TopResources">Our Top 10 Wedding<br>Planning Resources</a></strong>
-													</div>
-																								</div>
-																																																<div class="item">
-																									<div class="item-holder">
-														<div class="img-holder clearfix"> <a href="/GiveBack"> <span data-picture="" data-alt="Four Ways to Give Back"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-															<!--[if (lt IE 9) & (!IEMobile)]>
-																					<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
-																				<![endif]--> 
-																			<noscript>
-															<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg" alt="Four Ways to Give Back" >
-															</noscript>
-															</span> </a> </div>
-														<strong class="title"><a href="/GiveBack">Four Ways to Give Back</a></strong>
-													</div>
-																																																	<div class="item-holder">
-														<div class="img-holder clearfix"> <a href="/responsible-travel"> <span data-picture="" data-alt="How to Travel Responsibly"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_2x.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_2x.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_2x.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-															<!--[if (lt IE 9) & (!IEMobile)]>
-																					<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
-																				<![endif]--> 
-																			<noscript>
-															<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_2x.jpg" alt="How to Travel Responsibly" >
-															</noscript>
-															</span> </a> </div>
-														<strong class="title"><a href="/responsible-travel">How to Travel Responsibly</a></strong>
-													</div>
-																																																	<div class="item-holder">
-														<div class="img-holder clearfix"> <a href="/wedding-registry-etiquette"> <span data-picture="" data-alt="Wedding Registry Etiquette for Couples"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_couples_2x.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_couples_2x.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_couples_2x.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-															<!--[if (lt IE 9) & (!IEMobile)]>
-																					<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
-																				<![endif]--> 
-																			<noscript>
-															<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_couples_2x.jpg" alt="Wedding Registry Etiquette for Couples" >
-															</noscript>
-															</span> </a> </div>
-														<strong class="title"><a href="/wedding-registry-etiquette">Wedding Registry<br>Etiquette for Couples</a></strong>
-													</div>
-																																																	<div class="item-holder">
-														<div class="img-holder clearfix"> <a href="/wedding-registry-wording"> <span data-picture="" data-alt="Wedding Registry Wording"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_wording_2x.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_wording_2x.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_wording_2x.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-															<!--[if (lt IE 9) & (!IEMobile)]>
-																					<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
-																				<![endif]--> 
-																			<noscript>
-															<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_wording_2x.jpg" alt="Wedding Registry Wording" >
-															</noscript>
-															</span> </a> </div>
-														<strong class="title"><a href="/wedding-registry-wording">Wedding Registry Wording</a></strong>
-													</div>
-																								</div>
-																																			</div>
-										</div>
-										<a class="btn-prev left carousel-control" href="#">previous</a>
-										<a class="btn-next right carousel-control" href="#">next</a>
-									</div>
-								</div>
-							</li>
-														<li class="dropdown"> <a href="/Destinations" tabindex="4">HONEYMOON DESTINATIONS</a> 
-								<ul class="dropdown-menu">
-      <li><a href="/destination-of-the-month">Destination of the Month</a></li>
-									      <li><a href="/Destinations#island">Island</a></li>
-									      <li><a href="/Destinations#us">U.S.</a></li>
-									      <li><a href="/Destinations#latin">Latin America</a></li>
-									      <li><a href="/Destinations#europe">Europe</a></li>
-									      <li><a href="/Destinations#pacific">South Pacific</a></li>
-									      <li><a href="/Destinations#asia">Asia</a></li>
-									      <li><a href="/Destinations#africa">Africa</a></li>
-																	</ul>
-							</li>
-																					<li class="dropdown"> <a href="/SampleRegistries" tabindex="5">SAMPLE REGISTRIES</a> 
-								<ul class="dropdown-menu scroll">
-									      <li><a href="/SampleRegistries?k=15">African Safari</a></li>
-									      <li><a href="/SampleRegistries?k=64">Anywhere! </a></li>
-									      <li><a href="/SampleRegistries?k=8">Asian Cruise</a></li>
-									      <li><a href="/SampleRegistries?k=113">Australia</a></li>
-									      <li><a href="/SampleRegistries?k=103">Bali</a></li>
-									      <li><a href="/SampleRegistries?k=101">Belize</a></li>
-									      <li><a href="/SampleRegistries?k=13">Brazil</a></li>
-									      <li><a href="/SampleRegistries?k=106">British Virgin Islands (BVI)</a></li>
-									      <li><a href="/SampleRegistries?k=114">Causes &amp; Charities</a></li>
-									      <li><a href="/SampleRegistries?k=108">China</a></li>
-									      <li><a href="/SampleRegistries?k=14">Costa Rica</a></li>
-									      <li><a href="/SampleRegistries?k=11">Eastern Caribbean</a></li>
-									      <li><a href="/SampleRegistries?k=4">Egypt and Israel</a></li>
-									      <li><a href="/SampleRegistries?k=7">Fiji</a></li>
-									      <li><a href="/SampleRegistries?k=20">Florida</a></li>
-									      <li><a href="/SampleRegistries?k=99">France</a></li>
-									      <li><a href="/SampleRegistries?k=112">Gatlinburg, TN</a></li>
-									      <li><a href="/SampleRegistries?k=61">Greece</a></li>
-									      <li><a href="/SampleRegistries?k=10">Greece - Hellenic Dream</a></li>
-									      <li><a href="/SampleRegistries?k=62">Greece - Hellenic Indulgence </a></li>
-									      <li><a href="/SampleRegistries?k=16">Hawaii: Oahu, Maui</a></li>
-									      <li><a href="/SampleRegistries?k=9">Hawaiian Islands</a></li>
-									      <li><a href="/SampleRegistries?k=97">Home Builder</a></li>
-									      <li><a href="/SampleRegistries?k=6">Italy</a></li>
-									      <li><a href="/SampleRegistries?k=109">Japan</a></li>
-									      <li><a href="/SampleRegistries?k=5">Las Vegas</a></li>
-									      <li><a href="/SampleRegistries?k=111">Maine</a></li>
-									      <li><a href="/SampleRegistries?k=102">Maldives</a></li>
-									      <li><a href="/SampleRegistries?k=12">Mexico</a></li>
-									      <li><a href="/SampleRegistries?k=107">New Zealand</a></li>
-									      <li><a href="/SampleRegistries?k=18">Northern California</a></li>
-									      <li><a href="/SampleRegistries?k=46">Peru</a></li>
-									      <li><a href="/SampleRegistries?k=28">QVC Kitchen Essentials</a></li>
-									      <li><a href="/SampleRegistries?k=22">Sandals Resorts - An All Inclusive Caribbean Paradise</a></li>
-									      <li><a href="/SampleRegistries?k=2">South America</a></li>
-									      <li><a href="/SampleRegistries?k=17">Southern California</a></li>
-									      <li><a href="/SampleRegistries?k=100">Spain</a></li>
-									      <li><a href="/SampleRegistries?k=1">St. Lucia</a></li>
-									      <li><a href="/SampleRegistries?k=19">Tahiti</a></li>
-									      <li><a href="/SampleRegistries?k=3">The Bahamas</a></li>
-									      <li><a href="/SampleRegistries?k=98">The Fun Registry!</a></li>
-									      <li><a href="/SampleRegistries?k=110">The Poconos, PA</a></li>
-									      <li><a href="/SampleRegistries?k=63">Turkey - Hellenic Legend</a></li>
-									      <li><a href="/SampleRegistries?k=105">Turks and Caicos</a></li>
-									      <li><a href="/SampleRegistries?k=104">US Virgin Islands (USVI)</a></li>
-																	</ul>
-							</li>
-														<li><a href="/RealCouples" tabindex="6">REAL COUPLES</a></li>
-							<li class="dropdown"> <a href="/AboutUs" tabindex="7">ABOUT HONEYFUND</a> 
-								<ul class="dropdown-menu">
-									<li><a href="/AboutUs">About Us</a></li>
-																		<li><a href="/Founders">Founders</a></li>
-									<li><a href="/shark-tank">Shark Tank</a></li>
-									<li><a href="/online-wedding-registry">Online Wedding Registry</a></li>
-									<li><a href="/unique-wedding-registry">Unique Wedding Registry</a></li>
-									<li><a href="/money-wedding-gifts">Money as a Wedding Gift</a></li>
-									<li><a href="/News">News</a></li>
-									<li><a href="/Jobs">Jobs</a></li>
-																		<li><a href="/Help">Help</a></li>
-									<li><a href="/ContactUs">Contact Us</a></li>
-																		<li><a href="/Advertising">Advertise With Us</a></li>
-																	</ul>
-							</li>
-						</ul>
-						<div class="menulinks"> <strong class="heading">More about Honeyfund</strong>
-							<ul>
-								<li><a href="/AboutUs">About Us</a></li>
-																<li><a href="/News">News</a></li>
-								<li><a href="/Jobs">Jobs</a></li>
-																<li><a href="/Help">Help</a></li>
-								<li><a href="/ContactUs">Contact Us</a></li>
-																<li><a href="https://www.honeyfund.com/blog/">Blog</a></li>
-								<li><a href="/PrivateLabel?ta">Travel Agents</a></li>
-								<li><a href="/PrivateLabel?wp">Wedding Professionals</a></li>
-								<li><a href="/Advertising">Advertise With Us</a></li>
-															</ul>
-						</div>
-					</div>
-					<div class="menu-select"> 
-												<form action="#" class="languages">
-							<fieldset>
-								<legend>Language Selector</legend>
-								<label for="lang0">language</label>
-								<select id="lang0">
-																		<option title="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/flag_us.png" value="https://www.honeyfund.com" selected="selected">English (US)</option>
-									<option title="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/flag_uk.png" value="https://www.honeyfund.co.uk">English (UK)</option>
-									<option title="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/flag_us.png" value="https://www.fondodemiel.com">Español (EE.UU.)</option>
-								</select>
-								<input type="submit" value="submit">
-							</fieldset>
-						</form>
-												<span class="copyright">© 2005-2017 <a href="/">Honeyfund.com</a>, Inc. All rights reserved.</span>
-						<span class="copyright">Use of Honeyfund constitutes acceptance of our <a href="/Terms">Terms of Use</a> &amp; <a href="/Privacy">Privacy Policy</a></span>
-					</div>
-				</div>
-			</div>
-		</div>
-	</nav>
-</header>
-    <section class="visual clearfix solid"> 
-      <div class="caption">
-
-        <div class="container">
-          <div class="caption-holder">
-            <h1>Privacy Policy</h1>
-          </div>
+</script>    <div class="container"> 
+        <div class="logo-holder">
+                        <div class="logo">
+                <a href="/" tabindex="1">
+                    <span data-picture="" data-alt="Honeyfund"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner_r.png"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner-320_r.png" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner-2x_r.png" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                <!--[if (lt IE 9) & (!IEMobile)]>
+                                        <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner_r.png"></span>
+                                    <![endif]--> 
+                <noscript>
+                <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-inner_r.png" alt="Honeyfund" >
+                </noscript>
+                </span>
+                </a>
+            </div>
+            <span class="tagline">The free honeymoon registry</span>
+                    </div>
+                <a href="/SignUp" tabindex="2" class="btn btn-primary">Sign Up <span class="hidden-xs">Now</span>!</a>
+            </div>
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle"> <span class="sr-only">Toggle navigation</span> <span class="menu">Menu</span> <span class="menubtn"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </span> </button>
         </div>
-      </div>
-    </section>
-    <div id="main" class="clearfix">
-      <div class="wedding-planing clearfix">
-        <div class="container">
-          <div class="col-lg-12">
-          <div id="content-text" class="row">
-<h4></h4>
-<p><em>Last updated July 21, 2015</em></p>
-          <p>Thank you for your interest in Honeyfund.com, Inc. (referred to herein as "we" or "us") and our website, <a href="http://www.honeyfund.com/">www.honeyfund.com</a> (the "Site"). This privacy policy was created to let you know why we  collect information from you and what we do with it. By using the Site,  you consent to the following terms.</p>
-          <p>This statement discloses the privacy practices of Honeyfund.com, Inc. It covers:</p>
-          <ol>
-            <li>What personally identifiable information is collected from you through the Honeyfund.com website </li>
-            <li>How the information is used</li>
-            <li>With whom the information may be shared</li>
-            <li>What choices are available to you regarding collection, use, and distribution of the information</li>
-            <li>How you can correct any inaccuracies in the information</li>
-          </ol>
-          <h4>How we collect your information</h4>
-          <h3>Information collected at registration</h3>
-          <p>Honeyfund.com, Inc.  collects personal information when you register with us and when you  use Honeyfund services. Honeyfund.com, Inc. may combine this information  about you with information we obtain from business partners or other third parties. During registration, we require members to give us basic  contact information (such as your and your future spouse's first names, last names and e-mail addresses), wedding and honeymoon information (such as your wedding date and preferred honeymoon destination) and demographic information (such as  your ZIP or postal code). Registration information is  collected via Secure Socket Layer (SSL) protocol (https).
-The information requested on the  registration form may change from time to time. Although additional  demographic information may be requested at the time of registration,  only information marked "required" is necessary for registration and  utilization of our services.</p>
-          <p>Users who register through Facebook agree to share their public Facebook profile, friend list and e-mail address via Facebook's App permissions interface.</p>
-          <p>Users who give gifts to Honeyfund.com members are not  required to register. However, some information is collected during the  "Give a Gift" process, including first and last name and e-mail  address. This information is associated with the member's account. The e-mail address collected during the “Give a Gift” process is not shared with third parties. It is used by Honeyfund.com, Inc. and Site members to communicate with the gift giver regarding their gift. </p>
-          <p>We do not accept registrations from persons under the age of 18. Honeyfund services are available only  to persons who are 18 years of age and over. If we learn that a user is  under the age of 18, we will terminate the account and delete the  user's information. Honeyfund.com, Inc. will not be liable for any content or  advertisements viewed by minor children in violation of the terms of  this agreement.</p>
-          <h3>Information collected through use of Honeyfund.com</h3>
-          <p>In  addition to the questions you answer when you register for  Honeyfund.com membership, we collect information necessary to create  your honeymoon registry, including but not limited to at least one  registry item and a contact person. Personal information is  collected via Secure Socket Layer (SSL) protocol (https).
-When you enter this information and  publish your honeymoon registry, you agree to make it public and  accessible by visitors to Honeyfund.com.  Note you are responsible for obtaining permission to publish your contact person's information like name and telephone number.</p>
-          <p>Honeyfund.com, Inc.  also collects system information such as IP addresses (in other words,  the location of your computer on the Internet) for system  administration, troubleshooting, security, and to examine overall  traffic trends. (For example, IP addresses help us determine the  percentage of people coming from various search engines, such as Google  or Yahoo!) This information, in aggregate form, is recorded for  administrative purposes. IP addresses may be linked to personal account  information for security purposes, for instance, to prevent spammers  from abusing Honeyfund.com, Inc.'s e-mail features.</p>
-          <p>Honeyfund.com, Inc.  and its partners use cookies, small data files stored on your computer,  to customize portions of our site to your preferences and to analyze  traffic trends on our site. For example, Honeyfund.com, Inc. uses a cookie to  identify you as a Honeyfund.com member and to provide you with access  to your personal account. This way, you don't have to login every time  you come to the Honeyfund.com website. If you do not allow your browser to accept  cookies, please understand that some of the areas or functionality  within our site may be limited.</p>
-          <p>This Site uses Google Analytics. Aggregate information including but not limited to user traffic, site usage, demographics and interests is  collected by a Google Analytics cookie and reported to us. You can opt-out of the Google Analytics Demographics and Interest on Google Analytics' <a href="https://tools.google.com/dlpage/gaoptout/" title="Google Analytics' Opt Outs" target="_new">opt-outs page</a>. </p>
+        <div class="collapse navbar-collapse win-height" id="bs-example-navbar-collapse-1">
+            <div class="row">
+                <div class="container">
+                    <div class="menu-container">
+                        <ul class="other-links">
+                            <li><a href="/SignIn" class="signin">SIGN IN</a></li>
+                            <li><a href="/GiveAGift" class="find">FIND COUPLES</a></li>
+                        </ul>
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown"> <a href="/WeddingPlanning" tabindex="3">WEDDING PLANNING</a>
+                                <div class="dropdown-menu dropdown-menu2">
+                                    <div class="carousel"> 
+                                        <div class="mask">
+                                            <div class="slideset">
+                                                                                                                                                <div class="item active">
+                                                                                                    <div class="item-holder">
+                                                        <div class="img-holder clearfix"> <a href="/eco-friendly-wedding"> <span data-picture="" data-alt="Eco-friendly Wedding Tips"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_green_320.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_green_320.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_green_320.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                                            <!--[if (lt IE 9) & (!IEMobile)]>
+                                                                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
+                                                                                <![endif]--> 
+                                                                            <noscript>
+                                                            <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_green_320.jpg" alt="Eco-friendly Wedding Tips" >
+                                                            </noscript>
+                                                            </span> </a> </div>
+                                                        <strong class="title"><a href="/eco-friendly-wedding">Eco-friendly Wedding Tips</a></strong>
+                                                    </div>
+                                                                                                                                                                                                    <div class="item-holder">
+                                                        <div class="img-holder clearfix"> <a href="/Etiquette"> <span data-picture="" data-alt="Wedding Gift Etiquette"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_2x_a.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_2x_a.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_2x_a.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                                            <!--[if (lt IE 9) & (!IEMobile)]>
+                                                                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
+                                                                                <![endif]--> 
+                                                                            <noscript>
+                                                            <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_2x_a.jpg" alt="Wedding Gift Etiquette" >
+                                                            </noscript>
+                                                            </span> </a> </div>
+                                                        <strong class="title"><a href="/Etiquette">Wedding Gift Etiquette</a></strong>
+                                                    </div>
+                                                                                                                                                                                                    <div class="item-holder">
+                                                        <div class="img-holder clearfix"> <a href="/WeddingBudgeting"> <span data-picture="" data-alt="Six Budgeting Tips"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_budget_2x_a.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_budget_2x_a.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_budget_2x_a.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                                            <!--[if (lt IE 9) & (!IEMobile)]>
+                                                                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
+                                                                                <![endif]--> 
+                                                                            <noscript>
+                                                            <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_budget_2x_a.jpg" alt="Six Budgeting Tips" >
+                                                            </noscript>
+                                                            </span> </a> </div>
+                                                        <strong class="title"><a href="/WeddingBudgeting">Six Budgeting Tips</a></strong>
+                                                    </div>
+                                                                                                                                                                                                    <div class="item-holder">
+                                                        <div class="img-holder clearfix"> <a href="/TopResources"> <span data-picture="" data-alt="Our Top 10 Wedding Planning Resources"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_resources_2x_a.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_resources_2x_a.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_resources_2x_a.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                                            <!--[if (lt IE 9) & (!IEMobile)]>
+                                                                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
+                                                                                <![endif]--> 
+                                                                            <noscript>
+                                                            <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_resources_2x_a.jpg" alt="Our Top 10 Wedding Planning Resources" >
+                                                            </noscript>
+                                                            </span> </a> </div>
+                                                        <strong class="title"><a href="/TopResources">Our Top 10 Wedding<br>Planning Resources</a></strong>
+                                                    </div>
+                                                                                                </div>
+                                                                                                                                                                                                <div class="item">
+                                                                                                    <div class="item-holder">
+                                                        <div class="img-holder clearfix"> <a href="/GiveBack"> <span data-picture="" data-alt="Four Ways to Give Back"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                                            <!--[if (lt IE 9) & (!IEMobile)]>
+                                                                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
+                                                                                <![endif]--> 
+                                                                            <noscript>
+                                                            <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg" alt="Four Ways to Give Back" >
+                                                            </noscript>
+                                                            </span> </a> </div>
+                                                        <strong class="title"><a href="/GiveBack">Four Ways to Give Back</a></strong>
+                                                    </div>
+                                                                                                                                                                                                    <div class="item-holder">
+                                                        <div class="img-holder clearfix"> <a href="/responsible-travel"> <span data-picture="" data-alt="How to Travel Responsibly"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_2x.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_2x.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_2x.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                                            <!--[if (lt IE 9) & (!IEMobile)]>
+                                                                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
+                                                                                <![endif]--> 
+                                                                            <noscript>
+                                                            <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_tnc_2x.jpg" alt="How to Travel Responsibly" >
+                                                            </noscript>
+                                                            </span> </a> </div>
+                                                        <strong class="title"><a href="/responsible-travel">How to Travel Responsibly</a></strong>
+                                                    </div>
+                                                                                                                                                                                                    <div class="item-holder">
+                                                        <div class="img-holder clearfix"> <a href="/wedding-registry-etiquette"> <span data-picture="" data-alt="Wedding Registry Etiquette for Couples"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_couples_2x.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_couples_2x.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_couples_2x.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                                            <!--[if (lt IE 9) & (!IEMobile)]>
+                                                                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
+                                                                                <![endif]--> 
+                                                                            <noscript>
+                                                            <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_couples_2x.jpg" alt="Wedding Registry Etiquette for Couples" >
+                                                            </noscript>
+                                                            </span> </a> </div>
+                                                        <strong class="title"><a href="/wedding-registry-etiquette">Wedding Registry<br>Etiquette for Couples</a></strong>
+                                                    </div>
+                                                                                                                                                                                                    <div class="item-holder">
+                                                        <div class="img-holder clearfix"> <a href="/wedding-registry-wording"> <span data-picture="" data-alt="Wedding Registry Wording"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_wording_2x.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_wording_2x.jpg" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_wording_2x.jpg" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                                            <!--[if (lt IE 9) & (!IEMobile)]>
+                                                                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_give_2x_a.jpg"></span>
+                                                                                <![endif]--> 
+                                                                            <noscript>
+                                                            <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img_cover_etiquette_wording_2x.jpg" alt="Wedding Registry Wording" >
+                                                            </noscript>
+                                                            </span> </a> </div>
+                                                        <strong class="title"><a href="/wedding-registry-wording">Wedding Registry Wording</a></strong>
+                                                    </div>
+                                                                                                </div>
+                                                                                                                                            </div>
+                                        </div>
+                                        <a class="btn-prev left carousel-control" href="#">previous</a>
+                                        <a class="btn-next right carousel-control" href="#">next</a>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="dropdown"> <a href="/Destinations" tabindex="4">HONEYMOON DESTINATIONS</a> 
+                                <ul class="dropdown-menu">
+      <li><a href="/destination-of-the-month">Destination of the Month</a></li>
+                                          <li><a href="/Destinations#island">Island</a></li>
+                                          <li><a href="/Destinations#us">U.S.</a></li>
+                                          <li><a href="/Destinations#latin">Latin America</a></li>
+                                          <li><a href="/Destinations#europe">Europe</a></li>
+                                          <li><a href="/Destinations#pacific">South Pacific</a></li>
+                                          <li><a href="/Destinations#asia">Asia</a></li>
+                                          <li><a href="/Destinations#africa">Africa</a></li>
+                                                                    </ul>
+                            </li>
+                                                                                    <li class="dropdown"> <a href="/SampleRegistries" tabindex="5">STARTER REGISTRIES</a> 
+                                <ul class="dropdown-menu scroll">
+                                          <li><a href="/SampleRegistries?k=15">African Safari</a></li>
+                                          <li><a href="/SampleRegistries?k=64">Anywhere! </a></li>
+                                          <li><a href="/SampleRegistries?k=8">Asian Cruise</a></li>
+                                          <li><a href="/SampleRegistries?k=113">Australia</a></li>
+                                          <li><a href="/SampleRegistries?k=103">Bali</a></li>
+                                          <li><a href="/SampleRegistries?k=101">Belize</a></li>
+                                          <li><a href="/SampleRegistries?k=13">Brazil</a></li>
+                                          <li><a href="/SampleRegistries?k=106">British Virgin Islands (BVI)</a></li>
+                                          <li><a href="/SampleRegistries?k=114">Causes &amp; Charities</a></li>
+                                          <li><a href="/SampleRegistries?k=108">China</a></li>
+                                          <li><a href="/SampleRegistries?k=14">Costa Rica</a></li>
+                                          <li><a href="/SampleRegistries?k=11">Eastern Caribbean</a></li>
+                                          <li><a href="/SampleRegistries?k=4">Egypt and Israel</a></li>
+                                          <li><a href="/SampleRegistries?k=7">Fiji</a></li>
+                                          <li><a href="/SampleRegistries?k=20">Florida</a></li>
+                                          <li><a href="/SampleRegistries?k=99">France</a></li>
+                                          <li><a href="/SampleRegistries?k=112">Gatlinburg, TN</a></li>
+                                          <li><a href="/SampleRegistries?k=30">Good Housekeeping Best-of-the-Test Registry</a></li>
+                                          <li><a href="/SampleRegistries?k=61">Greece</a></li>
+                                          <li><a href="/SampleRegistries?k=10">Greece - Hellenic Dream</a></li>
+                                          <li><a href="/SampleRegistries?k=62">Greece - Hellenic Indulgence </a></li>
+                                          <li><a href="/SampleRegistries?k=16">Hawaii: Oahu, Maui</a></li>
+                                          <li><a href="/SampleRegistries?k=9">Hawaiian Islands</a></li>
+                                          <li><a href="/SampleRegistries?k=97">Home Builder</a></li>
+                                          <li><a href="/SampleRegistries?k=6">Italy</a></li>
+                                          <li><a href="/SampleRegistries?k=109">Japan</a></li>
+                                          <li><a href="/SampleRegistries?k=5">Las Vegas</a></li>
+                                          <li><a href="/SampleRegistries?k=111">Maine</a></li>
+                                          <li><a href="/SampleRegistries?k=102">Maldives</a></li>
+                                          <li><a href="/SampleRegistries?k=12">Mexico</a></li>
+                                          <li><a href="/SampleRegistries?k=107">New Zealand</a></li>
+                                          <li><a href="/SampleRegistries?k=18">Northern California</a></li>
+                                          <li><a href="/SampleRegistries?k=46">Peru</a></li>
+                                          <li><a href="/SampleRegistries?k=28">QVC Kitchen Essentials</a></li>
+                                          <li><a href="/SampleRegistries?k=22">Sandals Resorts - An All Inclusive Caribbean Paradise</a></li>
+                                          <li><a href="/SampleRegistries?k=2">South America</a></li>
+                                          <li><a href="/SampleRegistries?k=17">Southern California</a></li>
+                                          <li><a href="/SampleRegistries?k=100">Spain</a></li>
+                                          <li><a href="/SampleRegistries?k=1">St. Lucia</a></li>
+                                          <li><a href="/SampleRegistries?k=3002">Starter Anything Registry</a></li>
+                                          <li><a href="/SampleRegistries?k=3001">Starter Home Registry</a></li>
+                                          <li><a href="/SampleRegistries?k=3000">Starter Honeymoon Registry</a></li>
+                                          <li><a href="/SampleRegistries?k=3">The Bahamas</a></li>
+                                          <li><a href="/SampleRegistries?k=98">The Fun Registry!</a></li>
+                                          <li><a href="/SampleRegistries?k=2092">The Host with the Most Registry</a></li>
+                                          <li><a href="/SampleRegistries?k=115">The Islands of Tahiti</a></li>
+                                          <li><a href="/SampleRegistries?k=29">The One Stop Shop Registry</a></li>
+                                          <li><a href="/SampleRegistries?k=110">The Poconos, PA</a></li>
+                                          <li><a href="/SampleRegistries?k=63">Turkey - Hellenic Legend</a></li>
+                                          <li><a href="/SampleRegistries?k=105">Turks and Caicos</a></li>
+                                          <li><a href="/SampleRegistries?k=104">US Virgin Islands (USVI)</a></li>
+                                                                    </ul>
+                            </li>
+                                                        <li><a href="/RealCouples" tabindex="6">REAL COUPLES</a></li>
+                            <li class="dropdown"> <a href="/AboutUs" tabindex="7">ABOUT HONEYFUND</a> 
+                                <ul class="dropdown-menu">
+                                    <li><a href="/AboutUs">About Us</a></li>
+                                                                        <li><a href="/Founders">Founders</a></li>
+                                    <li><a href="/shark-tank">Shark Tank</a></li>
+                                    <li><a href="/online-wedding-registry">Online Wedding Registry</a></li>
+                                    <li><a href="/unique-wedding-registry">Unique Wedding Registry</a></li>
+                                    <li><a href="/money-wedding-gifts">Money as a Wedding Gift</a></li>
+                                    <li><a href="/News">News</a></li>
+                                    <li><a href="/Careers">Careers</a></li>
+                                                                        <li><a href="/Help">Help</a></li>
+                                    <li><a href="/ContactUs">Contact Us</a></li>
+                                                                        <li><a href="/Advertising">Advertise With Us</a></li>
+                                                                    </ul>
+                            </li>
+                        </ul>
+                        <div class="menulinks"> <strong class="heading">More about Honeyfund</strong>
+                            <ul>
+                                <li><a href="/AboutUs">About Us</a></li>
+                                                                <li><a href="/News">News</a></li>
+                                <li><a href="/Careers">Careers</a></li>
+                                                                <li><a href="/Help">Help</a></li>
+                                <li><a href="/ContactUs">Contact Us</a></li>
+                                                                <li><a href="https://www.honeyfund.com/blog/">Blog</a></li>
+                                <li><a href="/PrivateLabel?ta">Travel Agents</a></li>
+                                <li><a href="/PrivateLabel?wp">Wedding Professionals</a></li>
+                                <li><a href="/Advertising">Advertise With Us</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="menu-select"> 
+                                                <form action="#" class="languages">
+                            <fieldset>
+                                <legend>Language Selector</legend>
+                                <label for="lang0">language</label>
+                                <select id="lang0">
+                                                                        <option title="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/flag_us.png" value="https://www.honeyfund.com" selected="selected">English (US)</option>
+                                    <option title="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/flag_uk.png" value="https://www.honeyfund.co.uk">English (UK)</option>
+                                    <option title="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/flag_us.png" value="https://www.fondodemiel.com">Español (EE.UU.)</option>
+                                </select>
+                                <input type="submit" value="submit">
+                            </fieldset>
+                        </form>
+                                                <span class="copyright">© 2005-2019 <a href="/">Honeyfund.com</a>, Inc. All rights reserved.</span>
+                        <span class="copyright">Use of Honeyfund constitutes acceptance of our <a href="/Terms">Terms of Use</a> &amp; <a href="/Privacy">Privacy Policy</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+            <section class="visual clearfix solid">
+                <div class="caption">
 
-          <p>You can browse  the Honeyfund.com website without registering or providing any personal  information. However, in order to take advantage of our honeymoon registry service, you are required to provide us with information such  as your names, e-mail address, real-world address, wedding date, and roles in the wedding.</p>
-          <h3>What we do with the information we collect</h3>
-          <p>Information  we collect from your membership helps us to make your registry              available to your guests, improve our content, customize certain pages  for you, make third-party payment systems available to you, and provide you with promotional information and updates about Honeyfund.com, Inc. and it's affiliates.</p>
-          <h3>With whom do we share information</h3>
-          <p>Honeyfund.com, Inc.  does not share personally-identifiable information (PII)  with  third parties, except where  reasonably necessary to  provide you with site functionality including but not limited to third-party payment systems, to comply  with law, regulation or other governmental authority or to prevent harm  to yourself or others. We may also disclose your personal  information upon a transfer or sale to another entity of all or  substantially all of our stock or assets in the line of business that  this privacy policy relates or upon any other corporate reorganization.</p>
-          <p>For more information about the sharing of non-personally identifiable information (non-PII) see "Advertisers and Honeyfund" below.</p>
-          <h3>Changing your personal information</h3>
-          <p>You  can access or update your personal information by logging in to your  Honeyfund.com account and changing your profile. If you would like to deactivate your membership with Honeyfund.com, you should use the following Web page address <a href="https://www.honeyfund.com/CloseAccount">https://www.honeyfund.com/CloseAccount</a>. You may also contact  Honeyfund.com, Inc. by e-mailing <a href="https://www.honeyfund.com/ContactUs?s=Deactivate Membership">help@honeyfund.com</a> and writing "Deactivate Membership" in the subject line or write to Honeyfund.com, Inc. at 321 S. Main St. #523, Sebastopol, CA 95472.</p>
-          <h3>Other websites</h3>
-<p>The Honeyfund.com  website contains links to other websites. We cannot be responsible for their  content or for private information that you may choose to share with  them. Please note: Information you release directly to parties who  provide services to Honeyfund.com, Inc., such as any vendors who advertise on  the Honeyfund.com website, may be subject to different rules of use or disclosure.  We encourage you to investigate and ask questions before disclosing  personal information to third parties.</p>
-          <h3>Disclaimer</h3>
-          <p>Your  privacy is very important to us, but due to the existing legal  regulatory and security environment, we cannot fully ensure that your  private communications and other personally identifiable information  will not be disclosed to third parties. Under certain circumstances,  the government or third parties may lawfully or unlawfully intercept or  access transmissions or private communications. Additionally, in the  unlikely event we need to investigate or resolve possible problems or  inquiries, we may disclose information about you to private entities,  law enforcement, or other government officials as we, in our sole  discretion, believe necessary or appropriate.</p>
-          <h3>Notice of changes</h3>
-          <p>Honeyfund.com, Inc.  reserves the right to change this privacy policy in its sole  discretion, and will post any revisions on this Site. We encourage you  to review this privacy policy regularly for any changes. Your continued  use of the Site will be subject to the then-current privacy policy. If  there is a change in this privacy policy that affects your personally  identifiable information, we will notify you of the change by e-mail to  the address that you have provided to us. At the time of this message,  you will be given the option to opt out of this change in information  usage by sending a message to <a href="https://www.honeyfund.com/ContactUs">help@honeyfund.com</a>, provided, however that any subsequent use of the Site will subject you to the new privacy policy.</p>
-          <p>Honeyfund.com, Inc. encourages you to learn as much as you can about your privacy on the Internet. To find out more, visit <a href="http://www.bbbonline.org/">www.bbbonline.org</a> or <a href="http://www.truste.com/">www.TRUSTe.com</a>.</p>
-          <h3>Advertisers and Honeyfund.com</h3>
-          <p>We allow third-party advertising companies to collect certain non-PII information when you visit our Site, in order to serve advertisements for goods and services likely to be of greater interest to you on our Site and other websites. These companies may utilize cookies, pixels or other technologies to collect and use non-PII (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over). The use of this information by these third-party advertising companies will be subject to the privacy policies of such third parties, and not this privacy policy. These third parties may use information that they collect for online preference marketing purposes. To learn more about this behavioral advertising practice or if you want to prevent a  third-party advertiser from collecting data, you may either visit each ad network's website individually and opt out, or visit the <a href="http://www.aboutads.info" target="_blank">Digital Advertising Alliance</a> or the <a href="http://www.networkadvertising.org/choices/" target="_blank">Networking Advertising Initiative</a> to opt out of all network advertising cookies. This site will also  allow you to review the third-party advertising companies' privacy  policies.</p>
-          <h3>Contact Information</h3>
-          <p class="last">If you have questions or concerns regarding this statement, you should contact Honeyfund.com, Inc. by e-mailing <a href="https://www.honeyfund.com/ContactUs?s=Privacy Policy">help@honeyfund.com</a> and writing "Privacy Policy" in the subject line. You may also write to  Honeyfund.com, Inc. at 321 S. Main St. #523, Sebastopol, CA 95472.</p>
-        
-</div>
-             </div>
-          </div>
-      </div>
-    </div>
-    <div class="footer-area clearfix"> 
-	<aside class="top-bar clearfix">
-		<div class="container">
-			<div class="col-lg-6 col-md-6 col-sm-7">
-				<div class="logo-holder">
-										<div class="logo"> <a href="/"> <span data-picture="" data-alt="Honeyfund"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer_r.png"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer-320_r.png" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer-2x_r.png" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-						<!--[if (lt IE 9) & (!IEMobile)]>
-												<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer_r.png"></span>
-											<![endif]--> 
-							<noscript>
-						<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer_r.png" alt="Honeyfund" >
-						</noscript>
-						</span> </a> </div>
-										<strong class="tagline">The free honeymoon registry</strong>
-									</div>
-			</div>
-			<div class="col-lg-6 col-md-6 col-sm-5 socialblock"> 
-								<div class="social clearfix"> <strong class="title">Love Honeyfund?</strong>
-									<div class="likebox">
-						<iframe name="f8b78f494" width="40px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/plugins/like.php?app_id=&amp;channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FbLBBWlYJp_w.js%3Fversion%3D41%23cb%3Df9a2a709c%26domain%3Dwww.honeyfund.com%26origin%3Dhttp%253A%252F%252Fwww.honeyfund.com%252Ff6b60c0c8%26relation%3Dparent.parent&amp;href=http%3A%2F%2Fwww.honeyfund.com%2F&amp;layout=box_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=40" style="border: none; visibility: visible; width: 47px; height: 60px;" class=""></iframe>
-						<iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 50px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 60px;" tabindex="0" vspace="0" width="100%" id="I0_1405618288423" name="I0_1405618288423" src="https://apis.google.com/u/0/_/+1/fastbutton?usegapi=1&amp;size=tall&amp;origin=http%3A%2F%2Fwww.honeyfund.com&amp;url=http%3A%2F%2Fwww.honeyfund.com%2F&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.ujUWkKAfC4A.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTNvVCaXXg92G3Y4v6FEA18mJwCnsA#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1405618288423&amp;parent=http%3A%2F%2Fwww.honeyfund.com&amp;pfname=&amp;rpctoken=55594853" data-gapiattached="true" title="+1"></iframe>
-					</div>
-					<ul class="socialnetworks">
-						<li><a href="http://www.twitter.com/honeyfund" class="twitter">twitter</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</aside>
-	<aside class="footer-top">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-3 col-md-3 col-sm-3">
-					<div class="col">
-						<h4>More about Honeyfund</h4>
-						<ul class="links">
-							<li><a href="/AboutUs">About Us</a></li>
-														<li><a href="/News">News</a></li>
-							<li><a href="/Jobs">Jobs</a></li>
-														<li><a href="/Help">Help</a></li>
-							<li><a href="ContactUs">Contact Us</a></li>
-														<li><a href="https://www.honeyfund.com/blog/">Blog</a></li>
-							<li><a href="/PrivateLabel?ta">Travel Agents</a></li>
-							<li><a href="/PrivateLabel?wp">Wedding Professionals</a></li>
-							<li><a href="/Advertising">Advertise With Us</a></li>
-							<li><a href="/registry-app">Get the Honeyfund App</a></li>
-														<li><a href="/giftcard?utm_source=honeyfund&amp;utm_medium=web&amp;utm_campaign=Footer">Honeyfund Gift Card</a></li>
-														
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-3 col-sm-3">
-					<div class="col">
-						<h4>Tips and Resources</h4>
-						<ul class="links">
-							
+                    <div class="container">
+                        <div class="caption-holder">
+                            <h1>Privacy Policy</h1>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div id="main" class="clearfix">
+                <div class="wedding-planing clearfix">
+                    <div class="container">
+                        <div class="col-lg-12">
+                            <div id="content-text" class="row">
+                                <h4></h4>
+                                <p><em>Last Updated October 23, 2017</em></p>
+                                <p>Thank you for your interest in Honeyfund.com, Inc. (referred to herein as "we" or "us") and our website, <a href="http://www.honeyfund.com/">www.honeyfund.com</a> (the "Site"). This privacy policy was created to let you know why we  collect information from you and what we do with it. By using the Site,  you consent to the following terms.</p>
+                                <p>This statement discloses the privacy practices of Honeyfund.com, Inc. It covers:</p>
+                                <ol>
+                                    <li>What personally identifiable information is collected from you through the Honeyfund.com website </li>
+                                    <li>How the information is used</li>
+                                    <li>With whom the information may be shared</li>
+                                    <li>What choices are available to you regarding collection, use, and distribution of the information</li>
+                                    <li>How you can correct any inaccuracies in the information</li>
+                                </ol>
+                                <h4>How we collect your information</h4>
+                                <h3>Information collected at registration</h3>
+                                <p>Honeyfund.com, Inc.  collects personal information when you register with us and when you  use Honeyfund services. Honeyfund.com, Inc. may combine this information  about you with information we obtain from business partners or other third parties. During registration, we require members to give us basic  contact information (such as your and your future spouse's first names, last names and e-mail addresses), wedding and honeymoon information (such as your wedding date and preferred honeymoon destination) and demographic information (such as  your ZIP or postal code). Registration information is  collected via Secure Socket Layer (SSL) protocol (https).
+                                    The information requested on the  registration form may change from time to time. Although additional  demographic information may be requested at the time of registration,  only information marked "required" is necessary for registration and  utilization of our services.</p>
+                                <p>Users who register through Facebook agree to share their public Facebook profile, friend list and e-mail address via Facebook's App permissions interface.</p>
+                                <p>Users who give gifts to Honeyfund.com members are not  required to register. However, some information is collected during the  "Give a Gift" process, including first and last name and e-mail  address. This information is associated with the member's account. The e-mail address collected during the “Give a Gift” process is not shared with third parties. It is used by Honeyfund.com, Inc. and Site members to communicate with the gift giver regarding their gift. </p>
+                                <p>We do not accept registrations from persons under the age of 18. Honeyfund services are available only  to persons who are 18 years of age and over. If we learn that a user is  under the age of 18, we will terminate the account and delete the  user's information. Honeyfund.com, Inc. will not be liable for any content or  advertisements viewed by minor children in violation of the terms of  this agreement.</p>
+                                <h3>Information collected through use of Honeyfund.com</h3>
+                                <p>In  addition to the questions you answer when you register for  Honeyfund.com membership, we collect information necessary to create  your honeymoon registry, including but not limited to at least one  registry item and a contact person. Personal information is  collected via Secure Socket Layer (SSL) protocol (https).
+                                    When you enter this information and  publish your honeymoon registry, you agree to make it public and  accessible by visitors to Honeyfund.com.  Note you are responsible for obtaining permission to publish your contact person's information like name and telephone number.</p>
+                                <p>Honeyfund.com, Inc.  also collects system information such as IP addresses (in other words,  the location of your computer on the Internet) for system  administration, troubleshooting, security, and to examine overall  traffic trends. (For example, IP addresses help us determine the  percentage of people coming from various search engines, such as Google  or Yahoo!) This information, in aggregate form, is recorded for  administrative purposes. IP addresses may be linked to personal account  information for security purposes, for instance, to prevent spammers  from abusing Honeyfund.com, Inc.'s e-mail features.</p>
+                                <p>Honeyfund.com, Inc.  and its partners use cookies, small data files stored on your computer,  to customize portions of our site to your preferences and to analyze  traffic trends on our site. For example, Honeyfund.com, Inc. uses a cookie to  identify you as a Honeyfund.com member and to provide you with access  to your personal account. This way, you don't have to login every time  you come to the Honeyfund.com website. If you do not allow your browser to accept  cookies, please understand that some of the areas or functionality  within our site may be limited.</p>
+                                <p>This Site uses Google Analytics. Aggregate information including but not limited to user traffic, site usage, demographics and interests is  collected by a Google Analytics cookie and reported to us. You can opt-out of the Google Analytics Demographics and Interest on Google Analytics' <a href="https://tools.google.com/dlpage/gaoptout/" title="Google Analytics' Opt Outs" target="_new">opt-outs page</a>. </p>
+
+                                <p>You can browse  the Honeyfund.com website without registering or providing any personal  information. However, in order to take advantage of our honeymoon registry service, you are required to provide us with information such  as your names, e-mail address, real-world address, wedding date, and roles in the wedding.</p>
+                                <h3>What we do with the information we collect</h3>
+                                <p>Information  we collect from your membership helps us to make your registry                                    available to your guests, improve our content, customize certain pages  for you, make third-party payment systems available to you, and provide you with promotional information and updates about Honeyfund.com, Inc. and it's affiliates.</p>
+                                <h3>With whom do we share information</h3>
+                                <p>Honeyfund.com, Inc.  does not share personally-identifiable information (PII)  with  third parties, except where  reasonably necessary to  provide you with site functionality including but not limited to third-party payment systems, to comply  with law, regulation or other governmental authority or to prevent harm  to yourself or others. We may also disclose your personal  information upon a transfer or sale to another entity of all or  substantially all of our stock or assets in the line of business that  this privacy policy relates or upon any other corporate reorganization.</p>
+                                <p>For more information about the sharing of non-personally identifiable information (non-PII) see "Advertisers and Honeyfund" below.</p>
+                                <h3>Changing your personal information</h3>
+                                <p>You  can access or update your personal information by logging in to your  Honeyfund.com account and changing your profile. If you would like to deactivate your membership with Honeyfund.com, you should use the following Web page address <a href="https://www.honeyfund.com/CloseAccount">https://www.honeyfund.com/CloseAccount</a>. You may also contact  Honeyfund.com, Inc. by e-mailing <a href="https://www.honeyfund.com/ContactUs?s=Deactivate Membership">help@honeyfund.com</a> and writing "Deactivate Membership" in the subject line or write to Honeyfund.com, Inc. at 2605 Enterprise Rd E, Ste 320, Clearwater, FL 33759.</p>
+                                <h3>Other websites</h3>
+                                <p>The Honeyfund.com  website contains links to other websites. We cannot be responsible for their  content or for private information that you may choose to share with  them. Please note: Information you release directly to parties who  provide services to Honeyfund.com, Inc., such as any vendors who advertise on  the Honeyfund.com website, may be subject to different rules of use or disclosure.  We encourage you to investigate and ask questions before disclosing  personal information to third parties.</p>
+                                <h3>Disclaimer</h3>
+                                <p>Your  privacy is very important to us, but due to the existing legal  regulatory and security environment, we cannot fully ensure that your  private communications and other personally identifiable information  will not be disclosed to third parties. Under certain circumstances,  the government or third parties may lawfully or unlawfully intercept or  access transmissions or private communications. Additionally, in the  unlikely event we need to investigate or resolve possible problems or  inquiries, we may disclose information about you to private entities,  law enforcement, or other government officials as we, in our sole  discretion, believe necessary or appropriate.</p>
+                                <h3>Notice of changes</h3>
+                                <p>Honeyfund.com, Inc.  reserves the right to change this privacy policy in its sole  discretion, and will post any revisions on this Site. We encourage you  to review this privacy policy regularly for any changes. Your continued  use of the Site will be subject to the then-current privacy policy. If  there is a change in this privacy policy that affects your personally  identifiable information, we will notify you of the change by e-mail to  the address that you have provided to us. At the time of this message,  you will be given the option to opt out of this change in information  usage by sending a message to <a href="https://www.honeyfund.com/ContactUs">help@honeyfund.com</a>, provided, however that any subsequent use of the Site will subject you to the new privacy policy.</p>
+                                <p>Honeyfund.com, Inc. encourages you to learn as much as you can about your privacy on the Internet. To find out more, visit <a href="http://www.bbbonline.org/">www.bbbonline.org</a> or <a href="http://www.truste.com/">www.TRUSTe.com</a>.</p>
+                                <h3>Advertisers and Honeyfund.com</h3>
+                                <p>We allow third-party advertising companies to collect certain non-PII information when you visit our Site, in order to serve advertisements for goods and services likely to be of greater interest to you on our Site and other websites. These companies may utilize cookies, pixels or other technologies to collect and use non-PII (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over). The use of this information by these third-party advertising companies will be subject to the privacy policies of such third parties, and not this privacy policy. These third parties may use information that they collect for online preference marketing purposes. To learn more about this behavioral advertising practice or if you want to prevent a  third-party advertiser from collecting data, you may either visit each ad network's website individually and opt out, or visit the <a href="http://www.aboutads.info" target="_blank">Digital Advertising Alliance</a> or the <a href="http://www.networkadvertising.org/choices/" target="_blank">Networking Advertising Initiative</a> to opt out of all network advertising cookies. This site will also  allow you to review the third-party advertising companies' privacy  policies.</p>
+                                <h3>Contact Information</h3>
+                                <p class="last">If you have questions or concerns regarding this statement, you should contact Honeyfund.com, Inc. by e-mailing <a href="https://www.honeyfund.com/ContactUs?s=Privacy Policy">help@honeyfund.com</a> and writing "Privacy Policy" in the subject line. You may also write to  Honeyfund.com, Inc. at 2605 Enterprise Rd E, Ste 320, Clearwater, FL 33759.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-area clearfix"> 
+    <aside class="top-bar clearfix">
+        <div class="container">
+            <div class="col-lg-6 col-md-6 col-sm-7">
+                <div class="logo-holder">
+                                        <div class="logo"> <a href="/"> <span data-picture="" data-alt="Honeyfund"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer_r.png"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer-320_r.png" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer-2x_r.png" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                        <!--[if (lt IE 9) & (!IEMobile)]>
+                                                <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer_r.png"></span>
+                                            <![endif]--> 
+                            <noscript>
+                        <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/logo-footer_r.png" alt="Honeyfund" >
+                        </noscript>
+                        </span> </a> </div>
+                                        <strong class="tagline">The free honeymoon registry</strong>
+                                    </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-5 socialblock"> 
+                                <div class="social clearfix"> <strong class="title">Love Honeyfund?</strong>
+                                    <div class="likebox">
+                        <iframe name="f8b78f494" width="40px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/plugins/like.php?app_id=&amp;channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FbLBBWlYJp_w.js%3Fversion%3D41%23cb%3Df9a2a709c%26domain%3Dwww.honeyfund.com%26origin%3Dhttp%253A%252F%252Fwww.honeyfund.com%252Ff6b60c0c8%26relation%3Dparent.parent&amp;href=http%3A%2F%2Fwww.honeyfund.com%2F&amp;layout=box_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=40" style="border: none; visibility: visible; width: 47px; height: 60px;" class=""></iframe>
+                        <iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 50px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 60px;" tabindex="0" vspace="0" width="100%" id="I0_1405618288423" name="I0_1405618288423" src="https://apis.google.com/u/0/_/+1/fastbutton?usegapi=1&amp;size=tall&amp;origin=http%3A%2F%2Fwww.honeyfund.com&amp;url=http%3A%2F%2Fwww.honeyfund.com%2F&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.ujUWkKAfC4A.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTNvVCaXXg92G3Y4v6FEA18mJwCnsA#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1405618288423&amp;parent=http%3A%2F%2Fwww.honeyfund.com&amp;pfname=&amp;rpctoken=55594853" data-gapiattached="true" title="+1"></iframe>
+                    </div>
+                    <ul class="socialnetworks">
+                        <li><a href="http://www.twitter.com/honeyfund" class="twitter">twitter</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </aside>
+    <aside class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="col">
+                        <h4>More about Honeyfund</h4>
+                        <ul class="links">
+                            <li><a href="/AboutUs">About Us</a></li>
+                                                        <li><a href="/News">News</a></li>
+                            <li><a href="/Careers">Careers</a></li>
+                                                        <li><a href="/Help">Help</a></li>
+                            <li><a href="ContactUs">Contact Us</a></li>
+                                                        <li><a href="https://www.honeyfund.com/blog/">Blog</a></li>
+                            <li><a href="/Advertising">Advertise With Us</a></li>
+                            <li><a href="https://www.shareasale.com/shareasale.cfm?merchantID=73485">Affiliate Program</a></li>
+                            <li><a href="/PrivateLabel?ta">Travel Agents</a></li>
+                            <li><a href="/PrivateLabel?wp">Wedding Professionals</a></li>
+                            <li><a href="/registry-app">Get the Honeyfund App</a></li>
+                                                        <li><a href="/giftcard?utm_source=honeyfund&amp;utm_medium=web&amp;utm_campaign=Footer">Honeyfund Gift Card</a></li>
+                                                        
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="col">
+                        <h4>Tips and Resources</h4>
+                        <ul class="links">
+                            
                              <li><a href="/honeymoon-registry">Honeymoon Registry FAQs</a></li>
                             <li><a href="/WeddingPlanning">Etiquette &amp; Planning</a></li>
-														<li><a href="/Destinations">Honeymoon Destinations</a></li>
-																					<li><a href="/SampleRegistries">Sample Registries</a></li>
-														<li><a href="/RealCouples">Real Couples</a></li>
+                                                        <li><a href="/honeymoon-deals-and-packages">Honeymoon Travel Deals</a></li>
+                            <li><a href="/Destinations">Honeymoon Destinations</a></li>
+                                                                                    <li><a href="/SampleRegistries">Starter Registries</a></li>
+                                                        <li><a href="/RealCouples">Real Couples</a></li>
                                                         <li><a href="/crowdfunding">Our Crowdfunding Platforms</a></li> 
                             <li><a href="/fundraising">More on Fundraising</a></li>
-                            						</ul>
-											</div>
-				</div>
-				<div class="col-lg-3 col-md-3 col-sm-3">
-					<div class="col col3">
-						<h4>What folks are saying...</h4>
-						<ul class="awards">
-							<li> <a href="http://www.weddingwire.com/reviews/honeyfund-com-inc-sebastopol/7002c5035302a5f2.html" target="_blank"> <span data-picture="" data-alt="5 Stars - WeddingWire Couple's Choice Awards 2014"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18-320.jpg" data-media="(max-width:767px)" data-width="72" data-height="74"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18-2x.jpg" data-width="72" data-height="74" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-								<!--[if (lt IE 9) & (!IEMobile)]>
-														<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18.jpg"></span>
-													<![endif]--> 
-								<noscript>
-								<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18.jpg" alt="5 Stars - WeddingWire Couple's Choice Awards 2014" >
-								</noscript>
-								</span> </a> </li>
-							<li> <a href="https://www.theknot.com/marketplace/honeyfund-%231-honeymoon-and-cash-registry-ca-770250" target="_blank"> <span data-picture="" data-alt="Best of Weddings 2014 - the knot"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19-320.jpg" data-width="72" data-height="74" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19-2x.jpg" data-width="72" data-height="74" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-								<!--[if (lt IE 9) & (!IEMobile)]>
-														<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19.jpg"></span>
-													<![endif]--> 
-								<noscript>
-								<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19.jpg" alt="Best of Weddings 2014 - the knot" >
-								</noscript>
-								</span> </a> </li>
-						</ul>
-										<a href="/News" class="more-acco">See more accolades...</a>
-															</div>
-				</div>
-				<div class="col-lg-3 col-md-3 col-sm-3"> 
-					<div class="paymentmethods"> <strong class="heading"><span>Safe &amp; Secure</span></strong>
-						<ul>
-							<li>
-								<span data-picture="" data-alt="WePay"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/wepay/wepay-white-150.png"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/wepay/wepay-white-300.png" data-width="145" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-								<noscript>
-									<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/wepay/wepay-white-150.png" alt="WePay" >
-								</noscript>
-							</span></li>
-							<li> 
-								<span data-picture="" data-alt="PayPal"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20-320.jpg" data-width="133" data-height="35" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20-2x.jpg" data-width="133" data-height="35" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-								<!--[if (lt IE 9) & (!IEMobile)]>
-													<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20.jpg"></span>
-												<![endif]--> 
-								<noscript>
-									<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20.jpg" alt="PayPal" >
-								</noscript>
-								</span> 
-							</li>
-							<li> <a target="_blank" id="bbblink" class="ruhzbus" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-services/honeyfundcom-in-sebastopol-ca-118242#bbblogo" title="Honeyfund.com, Inc., Internet Services, Sebastopol, CA"><img id="bbblinkimg" src="https://seal-goldengate.bbb.org/logo/ruhzbus/honeyfundcom-118242.png" alt="Honeyfund.com, Inc., Internet Services, Sebastopol, CA"></a> </li>
-														<li> <a href="https://seal.starfieldtech.com/verifySeal?sealID=PU1uWvw8DekKsUnMfdHwDlxLuivwWzHFoCwGmvdQtXuel6aqlkIP" onclick="window.open('https://seal.starfieldtech.com/verifySeal?sealID=PU1uWvw8DekKsUnMfdHwDlxLuivwWzHFoCwGmvdQtXuel6aqlkIP','godaddy','toolbar=no,location=yes,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550'); return false;"><span data-picture="" data-alt="Verified &amp; Secured"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img22.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img22-320.jpg" data-width="121" data-height="29" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img22-2x.jpg" data-width="121" data-height="29" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
-								<!--[if (lt IE 9) & (!IEMobile)]>
-													<span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img22.jpg"></span>
-												<![endif]--> 
-								<noscript>
-								<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img22.jpg" alt="Verified &amp; Secured" >
-								</noscript>
-								</span></a> </li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</aside>
-	<footer id="footer">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-4 col-md-4 col-sm-4">
-										<img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/globe.png" class="languages_globe" title="Change language">
-					<form action="#" class="languages">
-						<fieldset>
-							<legend>Eng</legend>
-							<label for="lang1">language</label>
-							<select id="lang1" class="jcf-hidden">
-																<option value="https://www.honeyfund.com" selected="selected">English (US)</option>
-								<option value="https://www.honeyfund.co.uk">English (UK)</option>
-								<option value="https://www.fondodemiel.com">Español</option>
-							</select>
-							<input type="submit" value="submit">
-						</fieldset>
-					</form>
-									</div>
-				<div class="col-lg-8 col-md-8 col-sm-8"> 
-					<span class="copyright">© 2005-2017 <a href="/">Honeyfund.com</a>, Inc. All rights reserved.</span>
-					<span class="copyright">Use of Honeyfund constitutes acceptance of our <a href="/Terms">Terms of Use</a> &amp; <a href="/Privacy">Privacy Policy</a></span>
-				</div>
-			</div>
-		</div>
-	</footer>
+                                                    </ul>
+                                            </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                    <div class="col col3">
+                        <h4>What folks are saying...</h4>
+                        <ul class="awards">
+                            <li> <span data-picture="" data-alt="5 Stars - WeddingWire Couple's Choice Awards 2014">
+                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18.jpg"></span>
+                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18-320.jpg" data-media="(max-width:767px)" data-width="72" data-height="74"></span>
+                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18-2x.jpg" data-width="72" data-height="74" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span>
+                                    <!--[if (lt IE 9) & (!IEMobile)]>
+                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18.jpg"></span>
+                                    <![endif]-->
+                                <noscript>
+                                    <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img18.jpg" alt="5 Stars - WeddingWire Couple's Choice Awards 2014" >
+                                </noscript>
+                                </span>
+                            </li>
+                            <li> <span data-picture="" data-alt="Best of Weddings 2014 - the knot"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19.jpg"></span>
+                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19-320.jpg" data-width="72" data-height="74" data-media="(max-width:767px)"></span>
+                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19-2x.jpg" data-width="72" data-height="74" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span>
+                                    <!--[if (lt IE 9) & (!IEMobile)]>
+                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19.jpg"></span>
+                                    <![endif]-->
+                                <noscript>
+                                    <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img19.jpg" alt="Best of Weddings 2014 - the knot" >
+                                </noscript>
+                                </span>
+                            </li>
+                        </ul>
+                                        <a href="/News" class="more-acco">See more accolades...</a>
+                                                            </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3"> 
+                    <div class="paymentmethods"> <strong class="heading"><span>Safe &amp; Secure</span></strong>
+                        <ul>
+                            <li>
+                                <span data-picture="" data-alt="WePay"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/wepay/wepay-white-150.png"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/wepay/wepay-white-300.png" data-width="145" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                <noscript>
+                                    <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/wepay/wepay-white-150.png" alt="WePay" >
+                                </noscript>
+                            </span></li>
+                            <li> 
+                                <span data-picture="" data-alt="PayPal"> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20.jpg"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20-320.jpg" data-width="133" data-height="35" data-media="(max-width:767px)"></span> <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20-2x.jpg" data-width="133" data-height="35" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dppx)"></span> 
+                                <!--[if (lt IE 9) & (!IEMobile)]>
+                                                    <span data-src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20.jpg"></span>
+                                                <![endif]--> 
+                                <noscript>
+                                    <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img20.jpg" alt="PayPal" >
+                                </noscript>
+                                </span> 
+                            </li>
+                            <li> 
+                                <a id="bbblink" class="ruhzbus" href="https://www.bbb.org/west-florida/business-reviews/bridal-registry/honeyfundcom-in-clearwater-fl-90330390#bbbseal" title="Honeyfund.com, Inc., Bridal Registry, Clearwater, FL" style="display: block;position: relative;overflow: hidden; width: 100px; height: 45px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-westflorida.bbb.org/logo/ruhzbus/honeyfundcom-90330390.png" width="200" height="45" alt="Honeyfund.com, Inc., Bridal Registry, Clearwater, FL"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); (function(){var s=document.createElement('script');s.src=bbbprotocol + 'seal-westflorida.bbb.org' + unescape('%2Flogo%2Fhoneyfundcom-90330390.js');s.type='text/javascript';s.async=true;var st=document.getElementsByTagName('script');st=st[st.length-1];var pt=st.parentNode;pt.insertBefore(s,pt.nextSibling);})();</script><script src="https://seal-westflorida.bbb.org/logo/honeyfundcom-90330390.js" type="text/javascript" async=""></script>
+                            </li>
+                            <li>
+                                <span id="siteseal"><script async="" type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=PU1uWvw8DekKsUnMfdHwDlxLuivwWzHFoCwGmvdQtXuel6aqlkIP"></script></span>
+
+                                <noscript>
+                                <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/img22.jpg" alt="Verified &amp; Secured" >
+                                </noscript>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </aside>
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                                        <img src="https://d2i1tcfj6z4y0e.cloudfront.net/_assets/images/content/globe.png" class="languages_globe" title="Change language">
+                    <form action="#" class="languages">
+                        <fieldset>
+                            <legend>Eng</legend>
+                            <label for="lang1">language</label>
+                            <select id="lang1" class="jcf-hidden">
+                                                                <option value="https://www.honeyfund.com" selected="selected">English (US)</option>
+                                <option value="https://www.honeyfund.co.uk">English (UK)</option>
+                                <option value="https://www.fondodemiel.com">Español</option>
+                            </select>
+                            <input type="submit" value="submit">
+                        </fieldset>
+                    </form>
+                                    </div>
+                <div class="col-lg-8 col-md-8 col-sm-8"> 
+                    <span class="copyright">© 2005-2019 <a href="/">Honeyfund.com</a>, Inc. All rights reserved.</span>
+                    <span class="copyright">Use of Honeyfund constitutes acceptance of our <a href="/Terms">Terms of Use</a> &amp; <a href="/Privacy">Privacy Policy</a></span>
+                </div>
+            </div>
+        </div>
+    </footer>
 </div>
-  </div>
-</div>
-<script type="text/javascript">
-    var jsTranslationStrings = {"js_planned_offline_msg":"We're going to be offline to make improvements at 11:00 pm Pacific Time. Sorry for the trouble.","js_complete_each_field":"Please complete each field in the form to continue.","js_email_limit_msg":"Please select no more than %s recipients.","js_must_be_logged_in":"You must be signed in to make changes.","js_please_read":"Please read","js_close":"Close","js_remove_items":"Are you sure you want to remove the checked items?","js_check_items_to_remove":"Please check items you would like to remove.","js_request_quantity_update":"You've updated your Requested quantities but not your Remaining quantities. Press OK to continue editing. Press Cancel to save without making further changes.","js_remain_quantity_update":"You've updated your Remaining quantities but not your Requested quantities. Press OK to continue editing. Press Cancel to save without making further changes.","js_picture_crop":"Please select a larger area to crop (at least 300 x 300 pixels).","js_image_crop_dialog":"Are you sure you want to crop the image like this?","js_no_match":"There was no match. Please try again.","js_previous_gift":"Previous Gift Found","js_continue":"Continue","js_view_gift":"View This Gift","js_previous_gifts":"<h2>Did you already give a gift?</h2><p>We found the following gift(s) under your name and e-mail address:</p><div class=\"error_details\">","js_prev_gift_attempt":"Previous Gift Attempt Found","js_paypal_trouble":"<h2>Are you having trouble with PayPal?</h2><p>We found the following gift(s) under your name and e-mail address:</p><div class=\"error_details\">","js_help":"Yes, Get Help","js_cart_list":"<div id=\"cart_list_popup\"><div id=\"widescreen_itemlist_popup\"><table cellspacing=\"0\" class=\"purchase_items\"><tr><th colspan=\"2\" class=\"item\">Gift Item</th><th nowrap=\"nowrap\">Quantity</th><th nowrap=\"nowrap\" class=\"th_item_price\">Price</th><th nowrap=\"nowrap\" class=\"th_item_total\">Total</th></tr>","js_mobile_list":"<div id=\"mobile_itemlist_popup\" class=\"mobileblock\"><table cellspacing=\"0\" class=\"purchase_items\"><tr class=\"white_bkd\"><th colspan=\"2\" class=\"item\">Gift Item</th><th nowrap=\"nowrap\" class=\"th_item_total\">Total</th></tr>","js_continue_with_new_gift":"<input name=\"close\" type=\"button\" class=\"print_cert_blue\" id=\"btn_close_show_message\" value=\"Continue With New Gift\" />","js_need_help":"</div><div id=\"pod_contact\">Do you need help? <a href=\"https://{{0}}/ContactUs\">Contact Us</a></div></div>","js_edit_opts":"Edit Options","js_print_certificate":"View and Print Your Certificate","js_gift_reserved":"We've already reserved your gift.","js_retry_payment":"<p>Try your payment again here:</p><p style=\"text-align:center\"><a href=\"{{0}}\"><img src=\"https://www.paypal.com/en_US/i/btn/btn_paynowCC_LG.gif\" alt=\"PayPal - The safer, easier way to pay online!\" width=\"144\" height=\"47\" border=\"0\" align=\"middle\" onclick=\"if(Spry.Utils.loadURL('GET', '{{1}}://{{2}}/SendInfo/convert2wps', false).xhRequest.responseText=='success'){return true;}else{window.location=window.location;return false;}\" /></a></p><p>Do you need help? <a href=\"https://{{2}}/ContactUs\">Contact Us</a></p>","js_browser_payment_problem":"Your browser had a problem with our credit card processor.<br/>Please try again. If the problem persists please try with a different web browser such as <a href=\"https://www.google.com/chrome\">Chrome</a> or <a href=\"https://getfirefox.com/\">Firefox</a>.","js_sorry_error":"Sorry, there was an error. Please try again.","js_confirm_email":"Please confirm that the correct e-mail address is:\n\n\t","js_save_section_dialog":"This section has not been saved. Want to save first?","js_delete_photo_dialog":"Are you sure you want to delete this photo?","js_clear_paypal_settings":"Are you sure you want to clear your PayPal settings?","js_turnon_wepay":"Are you sure you want to switch to WePay?","js_problem_try_again":"Sorry, there was a problem. Please try again.","js_error_try_again":"There was an error. Please try again.","js_force_accept_payment":"Sorry, you must accept payment somehow.","js_share":"Please share to proceed.","js_loading_error":"There was an error loading this page. Please click OK to refresh and try again.","js_full_name":"Please provide your full name.","js_partner_name":"Please provide your partner's full name.","js_location":"You must provide a location, like 'Sebastopol, CA.'","js_wedding_date":"Please provide your wedding date.","js_url_also":"This will also be your Honeyfund URL","js_checking_url":"Checking URL...","js_enter_update_info":"Please enter a message or add a photo.","js_or":"or","js_hide":"Hide","js_hide_also_comments":"Hiding an update will also remove any associated comments.","js_confirm_remove_item":"Do you really want to remove this item?","js_error_fb_profile":"Sorry, there was an error getting your profile from Facebook. Please provide your e-mail address.","js_error_fb_profile_generic":"Sorry, there was an error getting your information from Facebook. Please try again.","js_error_fb_authorize":"Please authorize us through Facebook to make a comment.","js_error_fb_login":"Please login to Facebook to make a comment.","js_error_provide_comment":"Please provide a comment.","js_error_fb_publish":"We cannot publish your comment to Facebook. Please try again.","js_delete":"Delete...","js_loading":"Loading...","js_uploading":"Uploading...","js_processing":"Processing...","js_error_oops_problem":"Oops! There was an error...","js_only_jpeg":"Only JPEG File type allowed.","js_file_6mb_limit":"File size exceeds 6 MB limit.","js_upload_limits_start":"You may upload {{0}} photos at one time, and there is a limit of {{1}} uploaded photos. Beyond this limit, you will need to delete photos to add more.","js_upload_invalid_start":"<h5 style='margin:0.25em 0'>%s is not a valid file.</h5><p>Please select JPEG, PNG or GIF.</p>","js_upload_too_large_start":"<p><strong>%s</strong> is too large. Please resize your image to 1024 x 1024 pixels or less and retry.</p><p>You can resize images at <a target='_blank' rel='nofollow' href='/Redirect?u=www.photoshop.com'>Photoshop.com</a>.</p>","js_upload_too_large_mb_start":"<p><strong>%s</strong> is too large (uncompressed %s). Please resize your image to %s or less and retry.</p><p>You can resize images at <a target='_blank' rel='nofollow' href='/Redirect?u=www.photoshop.com'>Photoshop.com</a>.</p>","js_upload_too_small_start":"<h5 style='margin:0.25em 0'>%s is too small</h5><p>We need at least 300 x 300 pixels. Thanks!</p>","js_upload_ready_start":"You have {{0}} image(s) ready for upload.","js_photo_edit_move_begin":"Move to Beginning","js_photo_edit_align_vert":"Align Vertical","js_photo_edit_align_horiz":"Align Horizontal","js_photo_edit_align_top":"Top","js_photo_edit_align_center":"Center","js_photo_edit_align_bottom":"Bottom","js_photo_edit_align_left":"Left","js_photo_edit_align_right":"Right","js_confirm_ccs_off_ads":"Note: Your Honeyfund page will now include advertisements. Are you sure you want to turn off online payments?","js_confirm_ccs_off":"Are you sure you want to turn off online payments?","js_paginator_information":"Information","js_paginator_previous":"Previous","js_paginator_next":"Next","js_paginator_counter":"Page {0} of {1}","js_paypal_fees":"PayPal fees apply *","js_paypal_transaction":" / transaction*"}</script>
-		<script async="async" src="https://d2i1tcfj6z4y0e.cloudfront.net/m/jsContent2014?1485322166" type="text/javascript"></script>
-	<script type="text/javascript" src="//s3.amazonaws.com/ki.js/8224/1kX.js" async="true"></script>
+        </div>
+    </div>
+    <script type="text/javascript">
+    var jsTranslationStrings = {"js_planned_offline_msg":"We're going to be offline to make improvements at 11:00 pm Pacific Time. Sorry for the trouble.","js_complete_each_field":"Please complete each field in the form to continue.","js_email_limit_msg":"Please select no more than %s recipients.","js_must_be_logged_in":"You must be signed in to make changes.","js_please_read":"Please read","js_close":"Close","js_remove_items":"Are you sure you want to remove the checked items?","js_check_items_to_remove":"Please check items you would like to remove.","js_request_quantity_update":"You've updated your Requested quantities but not your Remaining quantities. Press OK to continue editing. Press Cancel to save without making further changes.","js_remain_quantity_update":"You've updated your Remaining quantities but not your Requested quantities. Press OK to continue editing. Press Cancel to save without making further changes.","js_picture_crop":"Please select a larger area to crop (at least 300 x 300 pixels).","js_image_crop_dialog":"Are you sure you want to crop the image like this?","js_no_match":"There was no match. Please try again.","js_previous_gift":"Previous Gift Found","js_continue":"Continue","js_view_gift":"View This Gift","js_previous_gifts":"<h2>Did you already give a gift?</h2><p>We found the following gift(s) under your name and e-mail address:</p><div class=\"error_details\">","js_prev_gift_attempt":"Previous Gift Attempt Found","js_paypal_trouble":"<h2>Are you having trouble with PayPal?</h2><p>We found the following gift(s) under your name and e-mail address:</p><div class=\"error_details\">","js_help":"Yes, Get Help","js_cart_list":"<div id=\"cart_list_popup\"><div id=\"widescreen_itemlist_popup\"><table cellspacing=\"0\" class=\"purchase_items\"><tr><th colspan=\"2\" class=\"item\">Gift Item</th><th nowrap=\"nowrap\">Quantity</th><th nowrap=\"nowrap\" class=\"th_item_price\">Price</th><th nowrap=\"nowrap\" class=\"th_item_total\">Total</th></tr>","js_mobile_list":"<div id=\"mobile_itemlist_popup\" class=\"mobileblock\"><table cellspacing=\"0\" class=\"purchase_items\"><tr class=\"white_bkd\"><th colspan=\"2\" class=\"item\">Gift Item</th><th nowrap=\"nowrap\" class=\"th_item_total\">Total</th></tr>","js_continue_with_new_gift":"<input name=\"close\" type=\"button\" class=\"print_cert_blue\" id=\"btn_close_show_message\" value=\"Continue With New Gift\" />","js_need_help":"</div><div id=\"pod_contact\">Do you need help? <a href=\"https://{{0}}/ContactUs\">Contact Us</a></div></div>","js_edit_opts":"Edit Options","js_print_certificate":"View and Print Your Certificate","js_gift_reserved":"We've already reserved your gift.","js_retry_payment":"<p>Try your payment again here:</p><p style=\"text-align:center\"><a href=\"{{0}}\"><img src=\"https://www.paypal.com/en_US/i/btn/btn_paynowCC_LG.gif\" alt=\"PayPal - The safer, easier way to pay online!\" width=\"144\" height=\"47\" border=\"0\" align=\"middle\" onclick=\"if(Spry.Utils.loadURL('GET', '{{1}}://{{2}}/SendInfo/convert2wps', false).xhRequest.responseText=='success'){return true;}else{window.location=window.location;return false;}\" /></a></p><p>Do you need help? <a href=\"https://{{2}}/ContactUs\">Contact Us</a></p>","js_browser_payment_problem":"Your browser had a problem with our credit card processor.<br/>Please try again. If the problem persists please try with a different web browser such as <a href=\"https://www.google.com/chrome\">Chrome</a> or <a href=\"https://getfirefox.com/\">Firefox</a>.","js_sorry_error":"Sorry, there was an error. Please try again.","js_confirm_email":"Please confirm that the correct e-mail address is:\n\n\t","js_confirm_emails_match":"Please confirm that the e-mail addresses match.","js_save_section_dialog":"This section has not been saved. Want to save first?","js_delete_photo_dialog":"Are you sure you want to delete this photo?","js_clear_paypal_settings":"Are you sure you want to clear your PayPal settings?","js_turnon_wepay":"Are you sure you want to switch to WePay?","js_problem_try_again":"Sorry, there was a problem. Please try again.","js_error_try_again":"There was an error. Please try again.","js_force_accept_payment":"Sorry, you must accept payment somehow.","js_share":"Please share to proceed.","js_loading_error":"There was an error loading this page. Please click OK to refresh and try again.","js_full_name":"Please provide your full name.","js_partner_name":"Please provide your partner's full name.","js_location":"You must provide a location, like 'Sebastopol, CA.'","js_wedding_date":"Please provide your wedding date.","js_url_also":"This will also be your Honeyfund URL","js_checking_url":"Checking URL...","js_enter_update_info":"Please enter a message or add a photo.","js_or":"or","js_hide":"Hide","js_hide_also_comments":"Hiding an update will also remove any associated comments.","js_confirm_remove_item":"Do you really want to remove this item?","js_error_fb_profile":"Sorry, there was an error getting your profile from Facebook. Please provide your e-mail address.","js_error_fb_profile_generic":"Sorry, there was an error getting your information from Facebook. Please try again.","js_error_fb_authorize":"Please authorize us through Facebook to make a comment.","js_error_fb_login":"Please login to Facebook to make a comment.","js_error_provide_comment":"Please provide a comment.","js_error_fb_publish":"We cannot publish your comment to Facebook. Please try again.","js_delete":"Delete...","js_loading":"Loading...","js_uploading":"Uploading...","js_processing":"Processing...","js_error_oops_problem":"Oops! There was an error...","js_only_jpeg":"Only JPEG File type allowed.","js_file_6mb_limit":"File size exceeds 6 MB limit.","js_upload_limits_start":"You may upload {{0}} photos at one time, and there is a limit of {{1}} uploaded photos. Beyond this limit, you will need to delete photos to add more.","js_upload_invalid_start":"<h5 style='margin:0.25em 0'>%s is not a valid file.</h5><p>Please select JPEG, PNG or GIF.</p>","js_upload_too_large_start":"<p><strong>%s</strong> is too large. Please resize your image to 1024 x 1024 pixels or less and retry.</p><p>You can resize images at <a target='_blank' rel='nofollow' href='/Redirect?u=www.photoshop.com'>Photoshop.com</a>.</p>","js_upload_too_large_mb_start":"<p><strong>%s</strong> is too large (uncompressed %s). Please resize your image to %s or less and retry.</p><p>You can resize images at <a target='_blank' rel='nofollow' href='/Redirect?u=www.photoshop.com'>Photoshop.com</a>.</p>","js_upload_too_small_start":"<h5 style='margin:0.25em 0'>%s is too small</h5><p>We need at least 300 x 300 pixels. Thanks!</p>","js_upload_ready_start":"You have {{0}} image(s) ready for upload.","js_photo_edit_move_begin":"Move to Beginning","js_photo_edit_align_vert":"Align Vertical","js_photo_edit_align_horiz":"Align Horizontal","js_photo_edit_align_top":"Top","js_photo_edit_align_center":"Center","js_photo_edit_align_bottom":"Bottom","js_photo_edit_align_left":"Left","js_photo_edit_align_right":"Right","js_confirm_ccs_off_ads":"Note: Your Honeyfund page will now include advertisements. Are you sure you want to turn off online payments?","js_confirm_ccs_off":"Are you sure you want to turn off online payments?","js_error_gift_min5":"The minimum gift amount is {0}5. Please try again.","js_error_gift_min10":"The minimum gift amount is {0}10. Please try again.","js_credit_card":"Card Number","js_cvc":"CVC","js_expiration":"MM / YYYY","js_zip":"ZIP","js_postal":"Postal","js_braintreeProblem":"Sorry, the payment processor is not available. Please try again later.","js_cardProcessing":"Sorry, there was a problem processing the payment. Please try again or contact support.","js_cardInfo":"Sorry, the card used for payment is not valid. Please complete the form and try again.","js_missingInfo":"Oops! Some information is not complete. Please correct the information and try again.","js_missingCardInfo":"Sorry, some card information is missing. Please complete the card information and try again.","js_hfgcCreate":"Sorry, there was a problem creating the Honeyfund Gift Card. Contact Honeyfund support.","js_rejectAMEX":"Sorry, Honeyfund does not accept American Express.","js_paginator_information":"Information","js_paginator_previous":"Previous","js_paginator_next":"Next","js_paginator_counter":"Page {0} of {1}","js_paypal_fees":"PayPal fees apply *","js_paypal_transaction":" / transaction*"}</script>
+        <script async="async" src="https://d2i1tcfj6z4y0e.cloudfront.net/m/jsContent2014?1554918366" type="text/javascript"></script>
+    <script type="text/javascript" src="//s3.amazonaws.com/ki.js/8224/1kX.js" async="true"></script>
 <script type="text/javascript">
 var _kiq = _kiq || [];
-_kiq.push(['identify', '2ff0aa274f5a0e67756e8edb6ba7734c']);
+_kiq.push(['identify', '40e89f3348c40cd62446b75fc85d55d4']);
 </script>
 <script type="text/javascript">
 if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
-	var msViewportStyle = document.createElement('style')
-	msViewportStyle.appendChild(
-	document.createTextNode(
-	 '@-ms-viewport{width:auto!important}'
-	)
-	)
-	document.querySelector('head').appendChild(msViewportStyle)
+    var msViewportStyle = document.createElement('style')
+    msViewportStyle.appendChild(
+    document.createTextNode(
+     '@-ms-viewport{width:auto!important}'
+    )
+    )
+    document.querySelector('head').appendChild(msViewportStyle)
 }
-</script> 
+</script>
 <script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript async src='" + bbbprotocol + 'seal-goldengate.bbb.org' + unescape('%2Flogo%2Fhoneyfundcom-118242.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script async="" src="https://seal-goldengate.bbb.org/logo/honeyfundcom-118242.js" type="text/javascript"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3257cbb32b","applicationID":"3550523","transactionName":"Y1BWMRMFWkRUVUJdW1oaYRcIS0RFXEBXV00aRVwV","queueTime":0,"applicationTime":31,"atts":"TxdBR1sfSRsXVxQOT0lI","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-</body></html>
+<script type="text/javascript">
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;
+    s.src='https://widget.intercom.io/widget/'+"z40pwsl6";
+    var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+</script>
+<script type="text/javascript" src="/assets/js/gdpr-popup.js"></script>
+    
+    
+<div><div style="z-index:2147483647;position:fixed;bottom:0;background-color:#2379f7;width:100%;padding:2em 1em;color:#fff;text-align:left;line-height:normal;box-sizing:border-box;display:flex;font-size:18px"> <div class="gdpr-text" style="display:inline-block;align-self:center;padding-right:1em;width:100%">This website uses cookies to optimize your experience, analyze traffic and personalize content. By clicking Accept and/or using this site, you consent to our use of cookies, <a style="text-decoration:underline;color:white;" href="/Privacy">Privacy Policy</a> and <a style="text-decoration:underline;color:white;" href="/Terms">Terms of Use</a>.</div> <div style="display:inline-block;text-align:right;align-self:center"> <button class="gdpr-accept-button" style="color:#2379f7;font-weight:700;padding:1em;border:1px solid #fff;background-color:#fff;font-size:18px">Accept</button> </div> </div><div style="z-index: 2147483647; bottom: 0px; background-color: rgb(35, 121, 247); width: 100%; padding: 2em 1em; color: rgb(255, 255, 255); text-align: left; line-height: normal; box-sizing: border-box; display: flex; font-size: 18px; visibility: hidden;"> <div class="gdpr-text" style="display:inline-block;align-self:center;padding-right:1em;width:100%">This website uses cookies to optimize your experience, analyze traffic and personalize content. By clicking Accept and/or using this site, you consent to our use of cookies, <a style="text-decoration:underline;color:white;" href="/Privacy">Privacy Policy</a> and <a style="text-decoration:underline;color:white;" href="/Terms">Terms of Use</a>.</div> <div style="display:inline-block;text-align:right;align-self:center"> <button class="gdpr-accept-button" style="color:#2379f7;font-weight:700;padding:1em;border:1px solid #fff;background-color:#fff;font-size:18px">Accept</button> </div> </div></div></body></html>
