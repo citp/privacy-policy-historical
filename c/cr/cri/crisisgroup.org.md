@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crisisgroup.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203200803id_/https%3A//www.crisisgroup.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisisgroup.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418011541id_/https%3A//www.crisisgroup.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crisis Group
 
