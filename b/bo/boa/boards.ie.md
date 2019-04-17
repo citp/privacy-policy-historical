@@ -1,156 +1,182 @@
-> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008192415id_/https%3A//www.boards.ie/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417105909id_/https%3A//www.boards.ie/content/privacy) for the most accurate reproduction.*
 
 # Boards.ie - Now Ye're Talkin'
 
-Revised: 25/05/2018
+**Privacy**
 
-## Introduction
+**1\. Introduction**
 
-boards.ie is a platform to create and participate in discussions, using text, links, profiles, audio, pictures, videos and other media (hereinafter referred to as “Material") appropriately.
+**1.1** Journal Media Limited (‘we’, ‘us’ ‘our’) is committed to protecting your Personal Data. This Privacy Notice applies to your use of the websites and applications: TheJournal.ie, The42, FORA, DailyEdge, and Boards.ie (each, a **“Site”** ) and sets out how we collect, use and protect your personal data. If you do not agree with the data practices described in this Privacy Notice, please do not use the Sites.
 
-Your privacy is important to us and this Privacy Notice sets out how Boards.ie Limited collects, uses and protects any information you give us when you use boards.ie.
+**1.2** This notice ( **“Notice”** ) has been developed to inform our users about the privacy and security of personal data and to meet our obligations under the Data Protection Acts 1988 and 2018 and the General Data Protection Regulation (the **“Data Protection Law”** ). Under Data Protection Law, personal data is information that identifies you as an individual or is capable of doing so ( **“Personal Data”** ).
 
-We are committed to ensuring that your privacy is protected. Should you give us any information by which you can be identified when using boards.ie then you can be assured that we will use it only in accordance with this Privacy Notice.
+**1.3** We comply with Data Protection Law and this Notice applies to the personal data collected, processed and stored by us through your use of a Site.
 
-We will comply with all obligations imposed by the GDPR, the Data Protection Act 2018 and all other laws, regulations and codes of conduct relating to data protection. For the purposes of data protection law, we are the data controller of your Personal Data. You will find our contact details in the “Contact us” section below.
+**1.4** For the purposes of Data Protection Law, we are the data controller of your Personal Data. You will find our contact details in the “Contact us” section below.
 
-We may change, modify, add or delete portions of this policy from time to time. When we make any changes to this Privacy Notice we will notify you of such changes by a site-wide announcement.
+**2\. How we gather data and Personal Data**
 
-## What we collect
+**2.1** We gather data from your use of a Site for example through the use of cookies. We are not able to identify you from this data. You can find out how we use cookies and how to change your preferences in our [Cookies Policy](https://www.boards.ie/content/cookie).
 
-boards.ie collects the following information:
+**2.2** Technical details in connection with visits to the Sites are logged by us and our internet service provider for our statistical purposes.
 
-  * Information which you supply on registration or as part of your profile
-  * Information which you post on boards.ie
-  * Information which you otherwise provide to us (for example by email or private message)
-  * Information relating to your use of boards.ie generally. This includes, for example, private messages, login and logout times, polls you've voted on, threads to which you have subscribed and posts you've thanked
+**2.3** We gather Personal Data when you have logged in with a social media account, when you open an account or when you have provided us with Personal Data; for example, by contacting us via email, private message or through a Site.
 
+**3\. What kinds of Personal Data do we collect?**
 
+**3.1** We receive and store information you enter on a Site or give us in any other way, including when registering for a commenting account, installing an application, subscribing to a mailing list, making a purchase, as well as provided in your comments, posts and requests.
 
-Technical details in connection with visits to this website are logged by us and our internet service provider for our statistical purposes. The technical details logged include:
+**3.2** If, during your use of a Site, you log in with your social media account we will collect your social media account details as well as the name and e-mail address associated to that social media account (if available).
 
-  * The IP address of a visitor and the top-level domain name used (for example i.e. .com, .org, .net)
-  * The previous website address from which a visitor reached us, including any search terms used
-  * 'Clickstream' data which shows the traffic of visitors around boards.ie (for example pages accessed and documents downloaded)
-  * The type of web browser used by a visitor
+**3.3** If, during your use of a Site, you post comments, we will keep a record of your commenting history.
 
+**3.4** The Sites create a user profile when you install an application. We will collect or process data you provide to us in the course of creating or updating a user profile. This information will vary but typically includes your device ID, the versions of our apps you have installed on your device, your reading interests in our Sites.
 
+**3.5** If you register with Boards.ie we collect the information you supply on registration as well as any other information you provide to us by email or private message. We collect information which you post on Boards.ie and information relating to your use of Boards generally. This includes, for example, private messages, login and logout times, polls you've voted on, threads to which you have subscribed and posts you've thanked.
 
-This technical information will be used only by Boards.ie Limited and only for statistical purposes, other administrative purposes, and for the purposes outlined in our Cookie Policy.
+**3.6** Our Sites offer location based features. When you enable these features we ask for your permission to access location data. We do not track your location.
 
-In common with many sites we use outside providers for website statistics. Please note that to provide statistics these outside providers use visitors' IP addresses but do not have access to any boards.ie usernames or email address and therefore cannot match a user to an IP address for the purpose of identification. The primary provider we use is Google Analytics. You can find further information on the data it collects at <https://policies.google.com/privacy?hl=en-GB>
+**3.7** If, during your use of a Site, you sign up to notifications or e-mail newsletters, we will also collect your preferences.
 
-The above information is collected on the basis that it is necessary to provide our services to you, or that, through posting, you consent to the collection of the information you provide. We may also collect this information for our own technical or administrative interests in maintaining the legitimacy and authenticity of the website and in preventing abuse of our services.
+**3.8** If you purchase goods we will collect your shipping address, order contact, payment method and purchase history.
 
-## What we do with the information we collect
+**Information you post**
 
-We may use or disclose your information for the following reasons:
+**3.9** Any personal information which you volunteer in your public profile or post on the forums or sites will be available worldwide to anyone with access to the website.
 
-  * We may use this information for our administration and record keeping.
-  * We may use this information for site administration purposes and to ensure the proper use of the site by our users; for example, we may use this information for site moderation purposes, for identifying, modifying or deleting nuisance or defamatory material posted by users or for identifying and sanctioning nuisance posters or users who breach our Terms of Use
-  * We may transfer this information from Boards.ie Limited to any other site which is affiliated with Boards.ie Limited or its owners where necessary for your use of the site
-  * We may use this information for technical processing and to address technical problems or service complaints
+**3.10** For full details on Personal Data and posts, please refer to individual sites’ Terms of Use.
 
+**4\. Legal basis for processing**
 
+Given the varied functionality of each Site we rely on the following legal bases under Data Protection Law in processing your Personal Data:
 
-## Retention of Personal Data
+ **Legal Basis** |  **Example**  
+  
+---|---  
+Performance of a contract| We will process your Personal Data to the extent required to deliver the service requested.  
+  
+Compliance with legal obligations|  We may need to disclose Personal Data to comply with a request from law enforcement, or other government agencies or court order.  
+  
+Legitimate interests|  We may need to disclose Personal Data in the event of a complaint or legal action arising from any comment or content posted by that user. We may process Personal Data to personalise content or advertisements.  
+  
+**5\. How we may use your Personal Data**
 
-The period for which we retain information varies according to the use of that information. In some cases, there are legal requirements to keep data for a minimum period of time. Unless specific legal requirements dictate otherwise, we will retain information no longer than is necessary for the purposes for which the data were collected and processed (as described above).
+**5.1** Except as disclosed in this Privacy Notice, we will not disclose Personal Data that we collect to any parties other than those with whom we partner or are affiliated with, without your consent. Except as disclosed below, we will not sell, share, trade, rent, or give away your Personal Data.
 
-We will retain Personal Data contained in your user profile for as long as you have an active account on boards.ie. If you close your account we will delete your Personal Data and all copies of your Personal Data will be removed from our systems (including backup systems) within 30 days of your account being closed.
+**5.2** We may use your Personal Data to process any requests made by you for example, to create a user account, subscribe to a mailing list or make a complaint about a comment/post, respond to your inquiry, and communicate with you when necessary to provide customer service and/or follow-up information related to a Site. We may also use information you provide to communicate with you about your interest in our events and our company, to help us improve, operate and enhance your experience on a Site, to promote our events, notify you about important functionality changes to a Site, new services, and special offers we think you will find valuable, to tailor advertisements, content, and other aspects of your experience on and in connection with a Site, for other administrative purposes, to prevent or detect abuses of our terms of use, for identifying, modifying or deleting nuisance or defamatory material posted by users, and to enable third-parties to carry out technical or other functions on our behalf as well as any other purpose that we may disclose to you at the point at which we request your Personal Data. We may combine non-personal information that you provide with supplemental information (including mailing address updates and demographic data) that we obtain from public sources or reputable third-parties. Information combined with personally identifiable information becomes, and is treated as, Personal Data under this Privacy Notice.
 
-Any posts you make on the site will be retained unless we are requested by you to remove those posts.
+**5.3** When you contact us, we may request your affirmative, positive consent to use your contact information for marketing or other business purposes. In the event you do not consent to the use of your contact information for marketing or other business purposes, your data will not be used for those purposes. If you provide your consent but subsequently do not wish to receive notifications about related opportunities, you will be able to modify your preferences by following the instructions on any marketing correspondence.
 
-Personal data submitted through participating in surveys will be kept for up to two years then aggregated (whereby the data is no longer personal data) and/or anonymised or deleted.
+**Other websites**
 
-## Cookies and tracking
+**5.4** The Site interfaces social media websites such as Facebook and Twitter, and may use social media plugins (e.g., the Facebook "Like" button, '"Share to Twitter"' button) to facilitate social media functions.
 
-For information regarding cookies and tracking please read our [Cookie Policy](https://web.archive.org/content/cookie)
+**5.5** If you are a member of a social media platform or website, and log in to such social media or platform, the interfaces may allow the social media platform or website to connect your visit to a Site to your Personal Data. The social media plugins also may allow the social media website to share information about your activities on a Site with other users of their social media platform. We have no control over the information that other websites or social media websites or plugins collect, store, or use. Before you choose to access other websites from a Site or “like” or share information from a Site through any social media platform or website, please be certain that you review the privacy notice of that social media platform or website.
 
-## Moderators and Administrators
+**Do we disclose Personal Data to anyone else?**
 
-In order to allow for the proper administration of boards.ie we make use of third party moderators and administrators. And in order for them to properly carry out their functions as moderators and administrators they require access to personal information concerning you, your boards.ie account and your activity on the site. Such data is only permitted to be used by our third party moderators and administrators for the purposes of administering the site and cannot be used by them for any other purpose.
+**5.6** We disclose customer information to third parties only when it is necessary as part of business practices or when there is a legal or statutory obligation to do so. Whenever we disclose customer information to third parties, we will only disclose that amount of information necessary to meet such business need or legal requirement. Third parties that receive customer information from us must satisfy us as to the measures taken to protect the personal data such parties receive, in accordance with Data Protection Law and as stated in this Privacy Notice. Appropriate measures will be taken to ensure that all such disclosures or transfers of customer information to third parties will be completed in a secure manner and pursuant to contractual safeguards.
 
-## Transfer to other parties
+**5.7** We may employ other companies and individuals to perform functions on our behalf, including processing credit card payments, marketing, and providing analytics assistance. From time to time, we may also share Personal Data or non-personally identifiable information with third-parties that we have engaged to perform certain services in connection with the operation of certain aspects of a Site, including to customise, deliver, measure, analyse, improve and support our services, content, advertising and layout, your interaction with those aspects, and to deliver more relevant messages and advertisements to you. These third-party service providers are authorised to use Personal Data only if needed to perform their functions on our behalf and are required to maintain the security of your personal information.
 
-From time to time we may ask an external provider to provide services, for example we may ask an external company to carry out a survey. If any personal information is required you will be advised beforehand and you will be afforded an opportunity to opt out. We may also transfer your information to other parties for the following reasons:
-
-  * We may disclose this information where required by law to do so;
-  * We may disclose this information to law enforcement, government officials or courts where we believe or are advised that disclosure is necessary and proportionate; and
-  * We may disclose this information where we believe or are advised that disclosure is necessary and proportionate for the protection of the legitimate interests of ourselves or of a third party.
-
-
-
-We will not otherwise disclose, sell or distribute your information to any third party without your permission.
+**5.8** Third Parties we work with
 
 The following is the list of companies we work with and may process data on our behalf. We include links to their privacy policy (available at the time of writing) for convenience:
 
-  * [Google](https://policies.google.com/privacy?hl=en) (Advertising, Analytics, Authentication, Notifications, Office Software and Cloud Storage)
-  * [Facebook](https://www.facebook.com/privacy/explanation), [Twitter](https://twitter.com/en/privacy) (Social Media Authentication)
-  * [Stripe](https://stripe.com/ie/privacy), [Paypal](https://www.paypal.com/ie/webapps/mpp/ua/privacy-full) (Payments)
-  * [Amazon AWS](https://aws.amazon.com/compliance/data-privacy-faq/) (Cloud computing)
+[Google](https://policies.google.com/privacy?hl=en) (Advertising, Analytics, Notifications, Office Software and Cloud Storage)  
+[Mailchimp](https://mailchimp.com/legal/privacy/) (e-mail services)  
+[Facebook](https://www.facebook.com/privacy/explanation), [Twitter](https://twitter.com/en/privacy) and [Linkedin](https://www.linkedin.com/legal/privacy-policy) (Social Media Authentication)  
+[Clickatell](https://www.clickatell.com/legal/communicator-developer-central/privacy-policy/) (SMS verification)  
+[Stripe](https://stripe.com/ie/privacy), [Paypal](https://www.paypal.com/ie/webapps/mpp/ua/privacy-full) (Payments)  
+[Typeform](https://admin.typeform.com/to/dwk6gt) (Surveys and forms)  
+[Shopify](https://www.shopify.com/legal/privacy) (e-Commerce)  
+[New Relic](https://newrelic.com/termsandconditions/privacy), [Bugsnag](https://docs.bugsnag.com/legal/privacy-policy/) (Error logs)  
+[Amazon AWS](https://aws.amazon.com/compliance/data-privacy-faq/) (Cloud computing)  
+[Pipedrive](https://www.pipedrive.com/en/privacy) (CRM)
 
+**5.9** We may also change our ownership or corporate organisation while providing a Site. As a result, we may transfer your information to another company that is affiliated with us, with which we have merged, or which has acquired all or some of our assets. We will advise you if such a change of ownership or change of corporate structure takes place and we will update this Privacy Notice accordingly.
 
+**5.10** We may provide information, when obliged to do so under Data Protection Law and in response to properly made requests, for example, for the purpose of the prevention and detection of crime, and the apprehension or prosecution of offenders. We may also provide information for the purpose of safeguarding national security. In the case of any such disclosure, we will do so only in accordance with Data Protection Law.
 
-## Anonymous and aggregated data
+**5.11** We may also provide information when required to do so by law, for example under a court order, and may transfer data to legal counsel where same is necessary for the defence of legal claims.
 
-Boards.ie Limited may aggregate data in an anonymous manner for disclosure to advertisers or business associates for promotion and marketing purposes. By way of example, we may disclose to an advertiser the number of unique visitors to boards.ie or the percentage age groups of our members. In such an event we undertake to ensure that no such data could be used to personally identify you.
+**5.12** We may also disclose Personal Data in connection with any complaint regarding your use of the Site. For example, _in the event of a complaint or legal action arising from a comment or content posted_.
 
-## Information you post
+**6\. How long do we keep Personal Data?**
 
-Any personal information which you volunteer in your public profile or post on the forums will be available worldwide to anyone with access to the website.
+**6.1** The period for which we retain information varies according to the use of that information. In some cases, there are legal requirements to keep data for a minimum period of time. Unless specific legal requirements dictate otherwise, we will retain information no longer than is necessary for the purposes for which the data was collected and processed (as described above).
 
-If you have an active boards.ie account you can request that your posts be edited or deleted. This can be done by sending a Private Message (PM) to “Boards.ie: GDPR” (if for any reason you are unable to access or send a PM please email [datarequests@boards.ie](mailto:datarequests@boards.ie) and we will get back to you with further instructions).
+**6.2** User profiles may include personal data, for example when linked to a social media account. This information will be held for as long as you hold a user profile. Following the termination of a user profile we will retain the profile information for a period of up to two years.
 
-For closed accounts all personal data (other than users’ posts) will be deleted. Therefore, posts made by users whose accounts were subsequently closed cannot be associated with other information held by Boards that relates to an identified or identifiable natural person and as such are not considered personal data.
+**6.3** Personal data collected from commenting will be kept for the lifetime of the article commented on.
 
-In specific instances where the content of a post contains sensitive data or data that could be used to identify an individual and where the original poster no longer has an active boards.ie account you can request that we edit or delete the post; these requests will be dealt with on a case-by-case basis.
+**6.4** Personal data submitted through participating in surveys will be kept for up to two years then aggregated (whereby the data is no longer personal data) and/or anonymised.
 
-Please note that certain information (such as photographs) which you may choose to provide might reveal your gender, ethnic origin, nationality, religion and/or sexual orientation.
+**6.5** Following termination of the Terms of Use of a Site, your Personal Data shall continue to be retained for a period of up to seven years from the date of termination in accordance with Irish statutory limitation periods.
 
-## Controlling your personal information
+**How do we protect data about you when or if it is transferred out of Europe?**
 
-We shall vindicate all your rights under Data Protection Law. These rights are as follows:
+**6.6** Each Site is published in Ireland and is governed by Data Protection Law and Irish law.
 
-  * your right to withdraw your consent to the processing of Personal Data at any time
-  * your right to request from us access to personal data and to have any incorrect personal data rectified
-  * your right to the restriction of processing concerning you or to object to processing
-  * your right to have your personal data transferred to another service provider
-  * your right to have personal data erased (where appropriate)
+**6.7** We do not transfer any Personal Data outside of the EEA. However, certain third parties providing services to our Sites may transfer data outside of the EEA for example, for storage purposes. These third parties include, for example, Google, New Relic and Bugsnag. If this changes at any point in the future, this Privacy Notice will be updated to take account of this change. We only engage reputable third parties that provide appropriate safeguards, and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.
+
+**7\. How you can exercise your rights in respect of Personal Data we hold about you:**
+
+**7.1** We shall vindicate all your rights under Data Protection Law. These rights are as follows: 
+
+  * your right to withdraw your consent to the processing of Personal Data at any time  
+
+  * your right to request from us access to personal data and to have any incorrect personal data rectified  
+
+  * your right to the restriction of processing concerning you or to object to processing  
+
+  * your right to have your personal data transferred to another service provider  
+
+  * your right to have personal data erased (where appropriate)  
+
   * information on the existence of automated decision-making, if any, as well as meaningful information about the logic involved, its significance and its envisaged consequences
 
 
 
 Vindication of your rights shall not affect any rights which we may have under Data Protection Law.
 
-You may request details of personal information which we hold about you or request that we update or correct your Personal Data, remove it from our system or exercise any of your rights by making a request to us at the contact information provided below. If for some reason access is denied, we will provide an explanation of why access has been denied.
+**Exercising your rights, managing information and opting out**
 
-We will process your request within 30 days of receipt.
+**7.2** You may update or change information related to your account by updating the social media account linked to your profile, or by sending us an e-mail at [privacy@thejournal.ie](mailto:privacy@thejournal.ie). You may request that your information be removed from a Site by e-mailing us at the address provided above. You may also unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our e-mails.
 
-You may request details of personal information under Data Protection legislation which we hold about you or rectify any personal information which is incorrect or incomplete
+**7.3** At any time you can close your Boards.ie user account. Closing your account means we will delete your password, remove any email subscriptions or notifications you may receive, delete all personal data we hold about you and turn off and delete your Private Messages. This process does not remove any posts you have made on the site.
 
-If someone else has posted material about you on boards.ie without your permission and you would like to request that it be removed please read our [Guidelines (http://www.boards.ie/legal/index.php)](https://www.boards.ie/legal/index.php) and then contact us at [hello@boards.ie](https://web.archive.org/web/20181008192415id_/https%3A//www.boards.ie/content/hello@boards.ie).
+**7.4** You can update or correct your Personal Data, remove it from our system or exercise any of your rights by making a request to us at the contact information provided below. If for some reason access is denied, we will provide an explanation of why access has been denied.
 
-## Closing your account
+**7.5** We will confirm your request within 21 days of receipt, and process your request within 30 days of receipt.
 
-At any time you can close your user account.
+**8\. How does a Site protect personal information about you?**
 
-Closing your account means we will delete your password, remove any email subscriptions or notifications you may receive, delete all personal data we hold about you and turn off and delete your Private Messages. This process does not remove any posts you have made on the site.
+**8.1** We employ reasonable appropriate administrative, technical, personnel, procedural and physical measures to safeguard Personal Data against loss, theft and unauthorised access, uses or modifications. Security and testing are performed on systems containing personal data to verify control effectiveness. Security of these systems is monitored continuously.
 
-To close your account, please log in to your boards.ie account and click on the "Close Account" option in your User [Control Panel / User Settings (https://www.boards.ie/vbulletin/usercp.php)](https://www.boards.ie/vbulletin/usercp.php) and follow the instructions. This process is irreversible and permanent.
+**8.2** While we try our best to safeguard your information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-## Sale of the Company
+**How can you make a complaint about the Use of Personal Data?**
 
-Boards.ie Limited reserves the right to transfer information including personal data to a third party in the event of its sale, merger, liquidation, receivership or transfer of all or substantially all of its assets provided that the third party agrees to adhere to the terms of this Privacy Notice and provided that the third party only uses your Personal Data for the purpose that you have provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt out.
+**8.3** Complaints on the use, retention and disposal of personal data can be submitted via email to [privacy@thejournal.ie](mailto:privacy@thejournal.ie).
 
-## Security
+**8.4** As a user of a Site you also have the right to lodge a complaint with the Data Protection Commission.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+**9\. Review**
 
-## Contacting Boards.ie
+**9.1** This policy will be reviewed and updated from time to time to consider changes in the law and the experience of the policy in practice. Any and all changes will be advised to customers and, if necessary, we will obtain your consent prior to applying any changes to any Personal Data collected from you prior to the date the change becomes effective. Your continued use of a Site after such changes will be subject to the then-current policy. We encourage you to periodically review this Privacy Notice to stay informed about how we collect, use, and disclose personal information.
 
-You can contact us regarding this Privacy Notice in the following ways:
+**10\. Contact information**
 
-By Private Messaging to: Boards.ie: GDPR  
-Email: [datarequests@boards.ie](mailto:datarequests@boards.ie)  
-By post: Boards.ie Limited, Latin Hall, Golden Lane, Dublin 8 
+**10.1** If you have questions about this Privacy Notice or our treatment of the information provided to us, please contact us at:
+
+Name: Journal Media Limited
+
+ATTN: Data Protection Officer
+
+Address: 4th Floor Latin Hall, Golden Lane, Dublin 8
+
+E-mail: [privacy@thejournal.ie](mailto:privacy@thejournal.ie)
+
+\--  
+Updated 3rd December 2018
