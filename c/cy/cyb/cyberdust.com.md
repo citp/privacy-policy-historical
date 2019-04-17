@@ -1,88 +1,79 @@
-> *The following text is extracted and transformed from the cyberdust.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104092449id_/https%3A//www.usedust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdust.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417235351id_/https%3A//www.usedust.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dust | A safer place to text
+# Privacy Policy » Dust: The World’s Most Secure Messenger
 
-**June 15th, 2016**
+##  Dust Privacy Statement
 
-We at Radical App, LLC ("Us" or "We") the software developer of the mobile application Dust ("Dust") respect the privacy rights of our users and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
+####  LAST UPDATED: JANUARY 16, 2019
 
-### 1\. INTRODUCTION
+This Privacy Statement explains how Radical App, LLC (“Company”) collects, uses, and discloses information about you through its [www.usedust.com](https://www.usedust.com/) website, Dust mobile application (“App”) and other online products and services (collectively, the “Services”) or when you otherwise interact with us.
 
-This Privacy Policy explains how information about you is collected, used and disclosed by Radical App, LLC through the use of Dust and our subsidiaries (collectively, "Radical App" or "Dust") when you use our websites, mobile applications and other online products and services (collectively, the "Services") or when you otherwise interact with us.
+We may change this Privacy Statement from time to time. If we make changes, we will notify you by revising the date at the top of the Privacy Statement and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Statement whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.
 
-We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy. You should review this policy whenever you access the Services.
+###  SUMMARY
 
-### 2\. SCOPE OF THIS PRIVACY POLICY
+The following is a summary of our Privacy Statement, followed by the Privacy Statement in full. Should there be any discrepancy between this summary and the full Privacy Statement, the language of the full Privacy Statement shall govern.
 
-Radical App reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, our [Terms of Service](https://web.archive.org/terms), or our Community and User Guidelines, simply by posting such change, update or modification on the our website ("Site"). Any such change, update or modification will be effective immediately upon posting on the Site. Your continued use of any of our Site or Service will signify your acceptance of these changes.
+#### INFORMATION COLLECTION
 
-If you access our applications from a third party Social Networking Site ("SNS"), you may be required to also read and accept the SNS Terms of Service and Privacy Policy.
+When you use our Services, we may collect information such as registration and account information (e.g., your phone number, username, password, email address, age, etc.), information tor us to respond to your requests or sign you up for communications, information from other sources, such as our third-party service providers, in order to optimize your experience, log and other device information, and technical usage information.
 
-### 3\. INFORMATION WE COLLECT
+#### USES AND RETENTION
 
-We collect information you provide directly to us when you create your account. This may include your username, password, email address, phone number, age and any other information you choose to provide.
+We use information collected from you and third parties to provide the Services and contact you. Your information is retained for as long as we need it for our business.
 
-With your authorization, we may also have access to your contact list(s) (e.g. so you may find friends) or photo roll(s) (e.g., so you may send photos).
+#### DISCLOSURE OF INFORMATION
 
-### 4\. HOW WE COLLECT INFORMATION ABOUT YOU 
+We may share your information and other information we collect with the following:
 
-We may collect information about you in any one or more of the following ways:
+  1.  **1.** entities in our current or future corporate family;
+  2.  **2.** our service providers and contractors;
+  3.  **3.** legal and law enforcement or to others in order to comply with our legal obligations;
+  4.  **4.** others if there is a change in control; and
+  5.  **5.** other entities with your consent.
 
-#### 4.1. Information Collected Automatically
 
-We may collect usage Information, including time, date, sender and recipient of message, the number of messages sent and received, and the amount of time you spend on Dust. We may collect information about your use of our websites, including your browser type and language, access times, pages viewed, your IP address and the website you visited before navigating to our websites.
 
-#### 4.2. Cookies and Automated Information Collection
+#### TRACKING TECHNOLOGIES (COOKIES)
 
-When you access the Service, We collect certain technical information in order to analyze the usage of our Sites and Services and provide a more personalized experience. We and service providers acting on our behalf, such as Google Analytics, use Log Files and tracking technologies to collect and analyze certain types of technical information, including cookies, IP addresses, device type, device identifiers, browser types, browser language, referring and exit pages, and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time of activity on our application, and other similar information. In some cases, We will associate this information with your user ID number for our internal use.
+We use tracking technologies (including cookies and web beacons) to recognize you, customize your experience, and target the content and advertising you see.
 
-#### 4.3. Other Sources
+###  COLLECTION OF INFORMATION
 
-We may collect or receive information from other sources and combine that with information we collect through our Services.
+#### INFORMATION YOU PROVIDE TO US
 
-### 5\. USING YOUR INFORMATION
+When you create an account or download the App, we may ask you to provide certain information, such as your phone number, username, password, email address, age and any other information you choose to provide. With your authorization, we may also have access to your phone’s contact list (so you may find friends who also use the App) or photo rolls (so you may send photos). We also collect information when you participate in any interactive features of the Services, fill out a form, communicate with us via third party social media sites, request customer support or otherwise communicate with us, or any other information you choose to provide to us.
 
-In general, We use your information to provide you with a safe, smooth, efficient, and customized experience.
+#### AUTOMATICALLY COLLECTED INFORMATION
 
-We may use information about you for various purposes, including to maintain and improve our Services, provide customer service; send you notices and updates, security alerts and support and administrative messages, and communicate with you about products, services, offers, promotions, rewards, and events offered by Dust and others, and provide news and information we think will be of interest to you. We will also use the information to detect, investigate and/or prevent fraudulent, unauthorized or illegal activity, and carry out any other purpose for which the information was collected.
+When you access or use our Services, we automatically collect information about you, including:
 
-#### 5.1. Use and Disclosure of Information and Content
+  1.  **•** LOG INFORMATION: We collect log information about your use of the Services to improve performance, including time, date, sender and recipient of message, the number of messages sent and received, the amount of time spent in the App, including access times, the type of browser and language you use, App version, pages viewed, your IP address and the page you visited before navigating to our Services.
+  2.  **•** DEVICE INFORMATION: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+  3.  **•** INFORMATION COLLECTED BY COOKIES AND OTHER TRACKING TECHNOLOGIES: We and third-party service providers acting on our behalf, such as Google Analytics and MixPanel, use various technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. In some cases, we will associate this information with your user ID number for our internal use. For more information about cookies and how to disable them, please see “Your Choices” below.
 
-Your information may be accessed, if accessible, as necessary to provide the Services and may be disclosed: (i) when We have a good faith belief that We are required to disclose the information in response to legal process (for example, a court order, search warrant or subpoena); (ii) to satisfy any applicable laws or regulations, (iii) where We believe that the Service is being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and credit risk reduction; (iv) when We have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person or the public generally; and (v) in order to protect the rights or property of Radical App, including to enforce our Terms of Service.
 
-#### 5.2. Subpoena compliance
 
-If We are served with a subpoena or other official demand by a government agency and We have a good faith basis to believe that We are required to do so, we may grant access to our servers or turnover information, which may include your information and content, but only to the limited extent expressly required under such subpoena or official demand, and only to the extent it may be temporarily resident on our servers in accordance with the procedures and safeguards described below or implemented by us.
+#### INFORMATION WE COLLECT FROM OTHER SOURCES
 
-#### 5.3. Unauthorized Access
+We may obtain information from other sources and combine that with information we collect through our Services.
 
-While we take reasonable precautions to prevent unauthorized access to our servers, it is possible that an intruder may access our servers and decode our encryptions; therefore, we cannot be responsible or liable for the removal or deletion of (or the failure to remove or delete) any of your messages. In addition, we temporarily collect, process and store the contents of your messages on the devices of recipients. We cannot guarantee that deletion always occurs within a particular time frame, nor can we prevent others from taking screenshots of your messages. If we detect that the recipient has taken a screenshot, we will attempt to notify you within the application. **You should not use Dust if you require a guarantee that the recipient cannot copy your message, if it exists, by taking a screenshot or otherwise, that our servers or the recipient’s device cannot be accessed by some unauthorized or illegal act or that your information and content, if it exists, will not be disclosed if subpoenaed legally demanded by a court of law or other governmental authority.**
+###  USE OF INFORMATION
 
-#### 5.4. Sale or Merger
+We use the information we collect to provide, maintain, and improve our services, such as to administer your account and optimize the user experience. We may also use the information we collect to:
 
-In the event that Radical App undergoes a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, We may transfer all of your information, including personal information, to the successor organization in such transition.
+#### AUTOMATICALLY COLLECTED INFORMATION
 
-### 6\. COLLECTION AND USE OF CHILDREN'S PERSONAL INFORMATION
+We use the information we collect to provide, maintain, and improve our services, such as to administer your account and optimize the user experience. We may also use the information we collect to:
 
-Our Sites and Services are not intended for children under the age of 13 and We do not knowingly collect any personal information from such children. Children under the age of 13 should not use our services or Dust at any time. In the event that We learn that We have inadvertently gathered personal information from children under the age of 13, We will take reasonable measures to promptly erase such information from our records.
+  1.  **•** Send you technical notices, updates, security alerts and support and administrative messages and to respond to your comments, questions and customer service requests;
+  2.  **•** Communicate with you about products, services, offers, and events offered by Company and others, and provide news and information we think will be of interest to you;
+  3.  **•** Monitor and analyze trends, usage and activities in connection with our Services;
+  4.  **•** Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Company and others; and
+  5.  **•** Personalize and improve the Services and provide content or features that match user profiles or interests.
 
-### 7\. SAFEGUARDS
 
-We strive to ensure the security, integrity, and privacy of the personal information. We collect and store information about our account holders as well as the content created by our account holders. Personal information collected by Us is stored in secure operating environments that are not available to the public and that are only accessible by authorized employees. Usernames, passwords, and phone numbers collected are stored as unique mathematical representations or #hashes.
 
-When you send a message or post content using our Services, it is stored temporarily on our servers without writing to any permanent storage, and we have processes in place to encrypt and automatically delete the contents of the message from our servers after a set period of time. Our encryption model can be found at [/encryption-model](https://web.archive.org/encryption-model), and our messaging model can be found at [https://www.usedust.com](https://www.usedust.com/). Our encryption model and messaging model are subject to change from time to time.
+#### INFORMATION WE COLLECT FROM OTHER SOURCES
 
-### 8\. LINKS TO THIRD PARTY SITES
-
-You should be aware that the Site and/or Service may from time to time contain links to third-party web sites. Dust is not responsible for the privacy practices or the content of such web sites. If you are concerned about the privacy policy of a certain third party, We recommend that you read the privacy policy of the website to which you link before you submit any personal information.
-
-### 9\. CONTACT US
-
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator through one of the following ways
-
-[info@usedust.com](mailto:info@usedust.com)
-
-ATTN: Customer Service
-
-2233 Barry Ave.  
-Los Angeles CA 90064
+We may obtain information from other sources and combine that with information we collect through our Services.
