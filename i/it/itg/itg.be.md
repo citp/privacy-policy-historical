@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itg.be privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903222239id_/https%3A//www.itg.be/E/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itg.be privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417124901id_/https%3A//www.itg.be/E/privacy) for the most accurate reproduction.*
 
 # 
 
