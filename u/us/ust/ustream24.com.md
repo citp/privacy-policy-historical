@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ustream24.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103202956id_/http%3A//ustream24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustream24.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417085245id_/https%3A//ustream24.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Policy – Ustream24 com
+# Privacy & Policy - Pacquiao vs Broner
 
-We takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+[ustream24.com](https://ustream24.com/) takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 Routine Information Collection: All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
@@ -10,4 +10,4 @@ Cookies and Web Beacons: Where necessary, We uses cookies to store information a
 
 Controlling Your Privacy: Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
-Special Note About Google Advertising: Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Googles cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Googles own privacy policies.
+Special Note About Google Advertising: Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Googles cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Googles own privacy policies. Here our [board page](https://ustream24.com/aska/aska.cgi).
