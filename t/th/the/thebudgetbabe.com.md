@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thebudgetbabe.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829065504id_/http%3A//www.thebudgetbabe.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetbabe.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417063655id_/https%3A//www.thebudgetbabe.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Budget Babe | Affordable Fashion & Style Blog
+
+The requested page could not be found (404). This is the default page.
 
   * [](https://web.archive.org/pages/About-The-Budget-Babe.html "prev")
   * [](https://web.archive.org/pages/Privacy-Policy.html "top")
