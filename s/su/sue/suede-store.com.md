@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suede-store.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423181728id_/https%3A//suede-store.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suede-store.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417230052id_/https%3A//suede-store.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# SUEDE - Privacy Policy - store
+# Privacy Policy
 
 This privacy policy sets out how SUEDE store uses and protects any information that you give SUEDE store when you use this website. SUEDE store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. SUEDE store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
@@ -14,8 +14,6 @@ We may collect the following information:
   * other information relevant to customer surveys and/or offers
 
 
-
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
 ## What we do with the information we gather
 
@@ -59,11 +57,7 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-## List of cookies we collect
-
-The table below lists the cookies we collect and what information they store.
-
-COOKIE name| COOKIE Description  
+COOKIE name | COOKIE Description  
 ---|---  
 CART | The association with your shopping cart.  
 CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
