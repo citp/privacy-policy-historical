@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftpocket-servers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191536id_/https%3A//minecraftpocket-servers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftpocket-servers.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417043744id_/https%3A//minecraftpocket-servers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Politique de Confidentialité
 
