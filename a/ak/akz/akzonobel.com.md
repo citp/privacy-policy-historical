@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akzonobel.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811180107id_/https%3A//www.akzonobel.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akzonobel.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417074107id_/https%3A//www.akzonobel.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | AkzoNobel
 
@@ -6,9 +6,10 @@ This Website is owned by Akzo Nobel N.V. (“AkzoNobel”).
 
  Protection of your personal data is important to us. In this Privacy Statement we explain how we process your personal data.
 
-##  **1\. Why do we process your personal data?**
+## 1\. Why do we process your personal data?
 
-If you submit your personal data to this web site, we may process it for the purposes described below.
+If you submit your personal data to this web site, we may process it for the purposes described below.  
+ 
 
 ## 1.1. To respond to your queries or communicate with you
 
@@ -74,7 +75,7 @@ We will process your personal data as appropriate or necessary (a) under applica
 
  We process this information on the basis of our legitimate business purposes.
 
-##  **2\. With whom do we share your personal information?**
+## 2\. With whom do we share your personal information?
 
 We do not share your data with third parties other than those mentioned in this Privacy Statement.
 
@@ -88,32 +89,37 @@ We may also use third-party service providers to perform certain data processing
 
  Only if we are required to do so by law, your personal information may be provided to supervisory agencies, fiscal authorities and investigative agencies.
 
-##  **3\. Where do we store your personal data?**
+## 3\. Where do we store your personal data?
 
-Your personal data may be stored and/or processed in a country other than the one you reside in. AkzoNobel will ensure that if your data are transferred to another country, it will continue to receive adequate protection, through AkzoNobel’s own [Privacy Rules for Customer,](https://84e1202b204d21a1cb9b-0e1ab5244fd095dbeb138ed6f973369e.ssl.cf3.rackcdn.com/7082privacyrulesforcustomersupplierandbusinesspartnerdata.pdf) [Supplier and Business Partner Data](https://84e1202b204d21a1cb9b-0e1ab5244fd095dbeb138ed6f973369e.ssl.cf3.rackcdn.com/7082privacyrulesforcustomersupplierandbusinesspartnerdata.pdf) or through contractual arrangements with third parties.
+Your personal data may be stored and/or processed in a country other than the one you reside in. AkzoNobel will ensure that if your data are transferred to another country, it will continue to receive adequate protection, through AkzoNobel’s own [Privacy Rules for Customer,](https://84e1202b204d21a1cb9b-0e1ab5244fd095dbeb138ed6f973369e.ssl.cf3.rackcdn.com/7082privacyrulesforcustomersupplierandbusinesspartnerdata.pdf) [Supplier and Business Partner Data](https://84e1202b204d21a1cb9b-0e1ab5244fd095dbeb138ed6f973369e.ssl.cf3.rackcdn.com/7082privacyrulesforcustomersupplierandbusinesspartnerdata.pdf) or through contractual arrangements with third parties.  
+ 
 
-##  **4\. How do we secure the data?**
+## 4\. How do we secure the data?
 
-Your personal data are treated confidentially and we have taken technical and organizational security measures against loss or unlawful processing of this data. We use several security techniques including secure servers, firewalls and encryption, as well as physical safeguard of the locations where data are stored.
+Your personal data are treated confidentially and we have taken technical and organizational security measures against loss or unlawful processing of this data. We use several security techniques including secure servers, firewalls and encryption, as well as physical safeguard of the locations where data are stored.  
+ 
 
-##  **5\. How long do we retain personal data?**
+## 5\. How long do we retain personal data?
 
-We will retain your personal data for the period necessary to fulfil the purposes outlined in this Statement, unless a longer retention period is required or permitted by applicable law.
+We will retain your personal data for the period necessary to fulfil the purposes outlined in this Statement, unless a longer retention period is required or permitted by applicable law.  
+ 
 
-##  **6\. Rights regarding personal data**
+## 6\. Rights regarding personal data
 
-You have certain rights with regard to your personal data. In accordance with the law you may have the right to request a copy of your personal data and further, where reasonably possible, have access to your personal data. You also may have the right to rectify and erase your personal data or to restrict or object to the use of your personal data. In addition to that you may at any time withdraw the consent that you gave to using your personal data. Withdrawal of your consent will not affect the lawfulness of the processing based on your consent before the withdrawal. You also have the right to lodge a complaint with a supervisory authority.
+You have certain rights with regard to your personal data. In accordance with the law you may have the right to request a copy of your personal data and further, where reasonably possible, have access to your personal data. You also may have the right to rectify and erase your personal data or to restrict or object to the use of your personal data. In addition to that you may at any time withdraw the consent that you gave to using your personal data. Withdrawal of your consent will not affect the lawfulness of the processing based on your consent before the withdrawal. You also have the right to lodge a complaint with a supervisory authority.  
+ 
 
-##  **7\. Links to other websites and social media**
+## 7\. Links to other websites and social media
 
 On the Website you will find a number of links to other websites. Although these websites are selected with care, we are not responsible for personal data processed through these websites.
 
  We also offer the opportunity to create an account with us through your social network account (such as Facebook). This will save you time in creating the account, as your sign-on credentials will be imported from your social network account. Please note that when you use this "social sign-on" option, we may receive certain information via the social network, such as your name, age, location, preferences, occupation, and other information from your public profile. This information is not requested by us, but is provided by the social network through the use of the social sign-on option. When you use the social sign-on option, we will only import the information that is necessary for the creation of your account with us and will, upon receipt of any other information, discard the other information received through the social network. After having created your account, you will have the opportunity to supplement it with any information you want to share with us.
 
-##  **8\. May persons below the age of 16 provide personal data?**
+## 8\. May persons below the age of 16 provide personal data?
 
-Persons below the age of 16 may only provide personal data to us if they have written permission of one of their parents or their legal guardian who has read this Privacy Statement.
+Persons below the age of 16 may only provide personal data to us if they have written permission of one of their parents or their legal guardian who has read this Privacy Statement.  
+ 
 
-##  **9\. Who to address with questions about your personal data?**
+## 9\. Who to address with questions about your personal data?
 
 You can ask questions about your personal data at any time by sending a request by using the ‘contact’ link below on this page. In order to process your request we will require (and therefore process) your name, contact details.
