@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the kanyidaily.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323121807id_/http%3A//www.kanyidaily.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanyidaily.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417164310id_/https%3A//www.kanyidaily.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - KanyiDaily - Your Daily Dose Of Entertainment, News and Lifestyle
+# PRIVACY POLICY | Latest Nigeria News | Kanyi Daily - Read Latest News In Nigeria Today
 
-_Last Updated on March 14, 2018:  _
-
-At [www.kanyidaily.com](http://www.kanyidaily.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.kanyidaily.com](http://www.kanyidaily.com/) and how it is used.
+_Last Updated on June 2, 2018:_ At www.kanyidaily.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.kanyidaily.com and how it is used.
 
 We understand and respect your concerns about privacy. We may revise this Privacy Policy from time to time as necessary to reflect any changes in our practices.  Please check this page periodically for updates.  If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by means of a notice on this Website.  At all times, the most current version of our Privacy Policy shall supersede and replace all prior versions.
 
@@ -19,8 +17,7 @@ We are always seeking to better understand our users and improve their experienc
 
 We also collect other information related to the ways in which you interact with the Website, such as: information about the articles you view, referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, and other similar information. We may also capture other data, such as search criteria and results.
 
- **Cookies and Web Beacons**
-
+ **Cookies and Web Beacons  **  
 www.kanyidaily.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 We use cookies and other tracking technology, such as Flash objects (commonly called “Flash cookies”), web beacons, and pixel tags or other similar technologies to deliver or communicate with cookies and track your use of the Website.  We also may include web beacons in e-mail messages or newsletters to determine whether the message has been opened. As we adopt additional technology, we may also gather additional information through other methods.
@@ -42,7 +39,7 @@ We may sell, transfer or otherwise share some or all of our assets, including pe
 
  **  
 **  
-**DoubleClick DART Cookie**
+**DoubleClick DART Cookie  **
 
 Third party vendors, including Google, use cookies to serve ads www.kanyidaily.com
 
@@ -68,4 +65,4 @@ By using the Website and submitting personal information to us, you agree to per
 
  **Links:**   The Website may contain links to third-party websites.  We are not responsible for the privacy practices or the content of such websites.  Any information you provide via those sites is subject to the privacy policies on those websites and is not covered by this Privacy Policy.
 
- **Contacts:**  If you have any questions, concerns, or suggestions regarding this privacy policy, please [**contact us**](http://www.kanyinulia.com/contact-us).
+ **Contacts:**  If you have any questions, concerns, or suggestions regarding this privacy policy, please [**contact us**](https://www.kanyidaily.com/contact-us/).
