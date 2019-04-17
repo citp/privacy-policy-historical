@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingandsports.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313235454id_/https%3A//www.racingandsports.com.au/en/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingandsports.com.au privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417042454id_/https%3A//www.racingandsports.com.au/en/privacy.asp) for the most accurate reproduction.*
 
 # Racing and Sports - Leaders in Horse Racing News, Statistics and Technology
 
@@ -75,15 +75,15 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 We use secure servers with encryption for certain transactions and confidential data. 
 
-We maintain a firewall to protect data within our network. You can report any suspect network abuse and any risk of security violations to us by emailing [support@racingandsports.com.au](mailto:support@racingandsports.com.au).
+We maintain a firewall to protect data within our network. You can report any suspect network abuse and any risk of security violations to us by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21525451514e535561534042484f46404f4552514e5355520f424e4c0f4054).
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
 You should first try to unsubscribe yourself from the services selected if you elect not to receive future communications. 
 
-If the automated facility fails you can email us at [unsubscribe@racingandsports.com.au](mailto:unsubscribe@racingandsports.com.au). 
+If the automated facility fails you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f4a514c4a5d4c5c4d565d5a7f4d5e5c5651585e515b4c4f504d4b4c115c5052115e4a). 
 
-This site gives users the option to change information previously provided by sending a request to [support@racingandsports.com.au](mailto:support@racingandsports.com.au).
+This site gives users the option to change information previously provided by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#43303633332c3137033122202a2d24222d2730332c3137306d202c2e6d2236).
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
@@ -93,5 +93,5 @@ P.O. Box 3626
 Weston Creek, ACT 2611  
 Canberra, Australia   
 Phone: +61 2 6288 4080  
-[gary@racingandsports.com.au](mailto:gary@racingandsports.com.au)   
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#254244575c655744464c4b42444b4156554a5751560b464a480b4450)   
 
