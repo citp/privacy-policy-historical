@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investfourmore.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228122300id_/https%3A//investfourmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investfourmore.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417075607id_/https%3A//investfourmore.com/privacy-policy) for the most accurate reproduction.*
 
-# Invest Four More Privacy Policy for Registration and Orders
+# Privacy Policy
 
 This website, the products, books and articles are for informational purposes only. They guarantee no actual results, but may come with a customer satisfaction money back guarantee depending on the product. For specific legal or tax advice please consult a professional. The creator of this product is not an accountant or lawyer. Results seen in articles, books and products may not be typical. Results, returns on investments and success will vary from person to person.
 
