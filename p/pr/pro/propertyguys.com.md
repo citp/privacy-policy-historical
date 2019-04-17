@@ -1,157 +1,77 @@
-> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213061519id_/http%3A//propertyguys.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyguys.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417155711id_/https%3A//propertyguys.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyGuys.com
 
 ### Privacy Policy
 
-This privacy policy was last updated on **June 2, 2010**.
+This privacy policy was last updated on **July 4, 2017**.
 
 **NOTE** : Throughout this page, the terms "we," "us," and "our" are meant to include **PropertyGuys.com** staff, franchisees and their team members.
 
 We have the utmost respect for your privacy. We've prepared this document to make it easy to understand what we do, and do not do, with the information that we collect from you when you visit this site. Accurately informing our visitors of how we collect, protect, use and share information is incredibly important to us.
 
-### Information We Collect About You
+### Our Objective
 
-#### Registration
+Your privacy is important to PropertyGuys.com Inc. (“PropertyGuys.com”). This Privacy Statement evidences our commitment to the protection of personal information and describes the purposes for which we collect, use and disclose personal information.
 
-When you register with our site you will be asked to provide an email address, your first and last name, and your postal or zip code. Optionally you may also provide a home and mobile phone number and choose to opt into our newsletter.
+By entering into contracts with us, you consent to the collection, use and disclosure of your personal information (as defined below) in accordance with the following terms and conditions.
 
-This information is used to create a unique profile for you on our site.
+This Privacy Statement also explains how you can contact us if you have a question about, want to make a change to, or delete, any personal information we may be holding about you. We strongly recommend that you take the time to read this Privacy Statement and retain it for your future reference.
 
-You will be sent a randomly generated password which you may change after logging into the site.
+### Personal Information
 
-To minimize the information we collect about you, we do _not_ collect your home address. A postal or zip code allows us to calculate your general location and still provide you with reasonably accurate location features.
+For the purpose of this Privacy Statement, “personal information” means any information about an identifiable individual, but does not include the name, title, business address or telephone number of an employee of an organization. Information which is publicly available, such as public directory listing of names, addresses, telephone numbers and electronic addresses, is not considered personal information.
 
-#### Browsing the Site
+### What Personal Information We Collect
 
-When you visit our web site, we collect information about your visit (e.g. session length, pages visited, network location) based on the [IP address](http://en.wikipedia.org/wiki/IP_address) of your computer, or your unique user identifier (if you are a registered user). Our web site uses [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) and access logs to facilitate this tracking. 
+We collect personal information, including, without limitation, names, addresses, contact information, specific homeowner and property details (such as, by way of example, number of days on market, selling price, asking price, amount of commission saved, your photo, photos of your property, address of your property, testimonials (if provided)), photo identification, banking information, property tax bills and, in certain limited circumstances, legal documents relating to your home.
 
-This information is stored in log files. Log data is used in aggregate to analyze how people use our web site and is not used to identify the behaviour of individual visitors. 
+### What We Do with Personal Information
 
-#### Sending a Message or Offer
+We collect and use personal information for the following purposes:
 
-In order to send a message to a seller, or submit an offer on this site we require that a person provide a home phone number. This is to help verify users of our messaging and offer systems in order to help our sellers identify, and avoid receiving messages from users with bad intentions. We also log the unique IP address of your computer.
+  * providing you with the products and services you request from (or through) us;
+  * offering you services that may be of interest to you;
+  * communicating with you;
+  * developing and maintaining a website which lists properties for sale and describes the various services we provide (directly or indirectly);
+  * processing commercial transactions;
+  * promoting our home marketing services franchise system, including all of the programs administered by our third party service providers;
+  * conducting investigations and resolving customer complaints;
+  * managing and developing business opportunities; and
+  * complying with legal and regulatory obligations.
 
-Your message or offer is stored in an [encrypted](http://en.wikipedia.org/wiki/Encryption) format on our server. Our staff may not review a message unless the recipient reports that it has violated our [Terms of Use](https://web.archive.org/site/legal).
 
-#### Sharing a News Item, Search Results or a Property Listing
 
-In order to use our share features we collect your email address and the unique IP address of your computer - we also temporarily collect the email address of the people you are sending the information to. All email addresses are erased from the system shortly after we have successfully delivered the email.
+Anonymous or “non-personal” information gathered through our website and mobile application(s) may be used for technical, research and analytical purposes. Information collected through surveys, questionnaires and feedback requests may be used to develop or enhance our service offerings.
 
-We use the information we collect through our share feature exclusively to monitor for abuse of the system.
+### To Whom We Disclose Personal Information
 
-In the case of third party web sites like Facebook, Twitter and del.icio.us - we do not collect any information and simply forward you to their web sites. Please review their privacy policies.
+We disclose personal information to employees of our Home Office, as well as industry associates who are affiliated with our franchise system, in order to complete transaction or service requests initiated by you. We may also disclose personal information to our advertisers or affiliates and receive information from them for the services we provide to them for invoicing purposes.
 
-#### Commenting
+We may also disclose personal information to third parties whom we engage to assist us in providing services to you or to carry out the purposes identified above, including, without limitation, our independent contractors, our franchisees and their independent contractors. These third party service providers are prohibited from using your personal information for any purpose other than to provide such assistance and are required to protect personal information disclosed by us and to comply with the general privacy principles described in this Privacy Statement. We disclose personal information to such parties on an “as needed” basis only.
 
-When you leave a comment on a news or blog article on our web site we log the unique IP address of your computer. Your comment will be stored in our database.
+We reserve the right to disclose personal information to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so.
 
-#### Using our Online Store
+We also reserve the right to disclose personal information to trusted service providers in our industry networks in order to assist us in delivering quality services to our customers and improving those services over time.
 
-If you make a purchase using our online store we will log the history of the transaction, including authentication, order and transaction numbers and billing and shipping addresses. Our online store does **NOT** store your credit card number or expiry dates. Our store does not request your 3-digit security or CVV2 code from the back of your card. 
+### Storage and Security of Information
 
-When you make a purchase online using your credit card we will send you to our credit card processing partner, [Moneris Solutions](http://www.moneris.com/).
+Each PropertyGuys.com franchise is an independent contractor of PropertyGuys.com Inc., and individually maintains his or her own client information and is not an employee of PropertyGuys.com Inc. All PropertyGuys.com client files are kept physically at the office of each franchised location, at PropertyGuys.com Inc. Home Office, and electronically on PropertyGuys.com computer systems. We ensure that access or alteration to personal information is limited to those individuals who have a valid business reason to access the information.
 
-#### Listing a Property
+### Knowledge and Consent
 
-When you list a property on our web site we collect information about its location, condition, features and your asking price. This information is used to help you attract potential buyers to your listing. During the listing process you will also be asked to provide contact information which will be publicly disclosed so that buyers may contact you.
+We collect personal information about you only when you voluntarily provide it. You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent at any time, please contact our company’s Privacy Officer, in the manner set out below. We will inform you of the implications of withdrawing consent.
 
-Your property features are also used for compiling aggregate data reports, which can't be used to identify your individual property.
+We will not, as a condition of the supply of our service, require you to consent to the collection, use or disclosure of information beyond that required to fulfill the purposes for which the information is being provided.
 
-#### Selling a Property
+### Correcting or Updating Your Information
 
-When you sell a property listed on our web site we request that you provide us with the sale price. This information, by law, is public information and your lawyer will file the price with your provincial government office as part of the registration process. We appreciate you saving us the time of having to send a request to the government for it!
+You can help us maintain the accuracy of your personal information by notifying us of any changes to this information. You may contact us in any one of the following ways set out below to request access to or correct or update your personal information.
 
-We use the sale price of your property as part of our non-identifiable aggregate data sets. We do not publicly post how much your house was sold for.
+### Have Questions?
 
-#### Participating in a Survey, Contest, or Special Offer
+PropertyGuys.com is committed to its customers. We welcome and encourage your feedback. If you have any questions or comments regarding this Privacy Statement, please feel free to contact us by sending an e- mail request to the Privacy Department at jdemont@propertyguys.com or in writing to: Jeremy Demont, Privacy Officer, PropertyGuys.com, 1133 St. George Blvd, Suite 50, Moncton, NB, E1E 4E1.
 
-Occasionally we may offer a survey, contest or special offer on this site. When this happens we will clearly define what information is collected and who your information will be shared with if it is an exception to any part of this privacy policy.
+By signing or electronically “accepting” this Privacy Statement, you consent to permitting PropertyGuys.com Inc. and your PropertyGuys.com representative to collect, use, and disclose your personal information as set out above.
 
-### How We Use Your Information
-
-#### Aggregate Information
-
-We love aggregate information because it gives us great data on how visitors to our site are using it. Aggregate information can not be used to identify an individual. We use aggregate information in every way we possibly can, including selling it to other companies or organizations.
-
-#### Banning
-
-If you violate our [Terms of Use](https://web.archive.org/site/legal) we will use your information in order to put in place appropriate measures to limit or disabled your access to our site.
-
-#### Email Addresses and Phone Numbers
-
-If you are a registered user of our site, your email address is your unique identifier, or user name, for this site. As a registered user you have access to many features on the web site unavailable to those using the site anonymously (eg. saving searches, bookmarking properties, sending messages).
-
-If you have subscribed to a newsletter or for property updates we will use your email address to send you the information you have requested.
-
-If you have subscribed to receive messages via SMS message we will use the mobile phone number you have provided to send you the information you have requested.
-
-We do not disclose your address, email address, phone number or other contact details publicly or privately to any third parties without your explicit consent.
-
-Disclosure of your phone number is required in order to use our online offer assistant applications and you must disclose your email address in order to use our Share by Email tools.
-
-#### Personally Identifiable Information
-
-When you are logged into the site your first name will appear on the top left of every page. 
-
-When you participate in any discussion on **PropertyGuys.com** , information you submit may be made publicly available and attributed to you. For example, when you provide a public comment on an article, both your comment and your name will be shown on the page for other visitors to see. This information may be copied or shared by other people, and unfortunately we have no control over who obtains the information or what they do with it.
-
-If your participation in a contest, survey, or special offer entitles you to a prize or other gift of thanks, we will use information you provided to us to fulfill your prize. Some survey information may be maintained with your profile so we can tailor the presentation of our work to you.
-
-### How We Protect Your Information
-
-#### Financial Information
-
-All financial information is managed by our secure third party transaction processor, [Moneris Solutions](http://www.moneris.com/). Our site does not store credit card numbers or security codes. Anytime sensitive information is entered on this site it is encrypted using [Hypertext Transfer Protocol Secure](http://en.wikipedia.org/wiki/HTTP_Secure). 
-
-#### Aggregate Data
-
-If a data sample is so small that disclosure thereof might potentially allow for the identification of individual data points we do not make the data available for external use.
-
-#### Personally Identifiable Information
-
-To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to protect the information we collect online. 
-
-### Who May Access Your Information
-
-#### Advertisers
-
-We do not provide personally identifiable information to advertisers and we do not share your contact information with them without your permission. We do share aggregate information and anonymous demographic information and behaviour patterns which illustrate how our visitors use this site.
-
-#### Third Party Providers
-
-We will not share individual-identifying personal information about you with third parties without your permission, with the exception of service providers or other organizations we contract with to fulfill services on our behalf (e.g. delivering email or mail, executing credit card transactions), or under the circumstances described in Law Enforcement and Legal Compliance below.
-
-#### Law Enforcement and Legal Compliance
-
-We may disclose personally identifiable information if we are required to by law, or we believe that such action is necessary to ( _a_ ) comply with the law or with legal process, ( _b_ ) protect and defend our rights and property, ( _c_ ) protect against misuse or unauthorized use of the **PropertyGuys.com** web site, or ( _d_ ) protect the personal safety or property of our users or the public. 
-
-If you attempt to pose as someone else, we may disclose information about you or your actions as part of an investigation into any harm done by your actions.
-
-### Business Transitions
-
-If **PropertyGuys.com** were to merge with or acquire another entity, or sell a portion of its assets, some information regarding registered web site users, and/or web site visitors may be transferred.
-
-### Managing Your Information
-
-#### Editing Your Profile
-
-You may, at anytime, modify the information that we have on file for you by logging into our site and editing your user and/or property profile. 
-
-#### Sending a Letter
-
-If you would prefer you may alternatively send a letter outlining your requested changes to the address below:
-
-**PropertyGuys.com Privacy Ombudsman**
-
-1133 St. George Blvd.
-
-Moncton, New Brunswick E1E 4E1
-
-Canada
-
-### Miscellaneous
-
-**PropertyGuys.com** is not responsible for the content or the privacy policies of web sites to which it links.
-
-From time to time, we may use web site visitor information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes. If you are concerned about how your information is used, you should check this page periodically.
+In particular, and with respect to photographs of your image, and photographs of your property, you consent to and expressly permit PropertyGuys.com to take photographs of yourself and your property, and to use any or all such photographs for and in conjunction with marketing purposes, including, but not limited to customer testimonials, publicity, illustrations, advertising, and for use as website content, as PropertyGuys.com may, in our sole discretion, deem appropriate.
