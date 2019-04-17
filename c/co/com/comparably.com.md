@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparably.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906000941id_/https%3A//www.comparably.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparably.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417133518id_/https%3A//www.comparably.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comparably
 
@@ -10,7 +10,7 @@ Welcome to the website of Comparably, Inc. (" **Comparably** ", " **we** ", " **
 
 ### Managing Your Information Preferences
 
-You can always review, correct, or update your Personal Information by changing the relevant settings in your Comparably account. You can opt out of receiving certain emails by changing notification settings on the Site or in our applications, clicking the unsubscribe link provided in an email, or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you have questions or concerns regarding this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You can always review, correct, or update your Personal Information by changing the relevant settings in your Comparably account. You can opt out of receiving certain emails by changing notification settings on the Site or in our applications, clicking the unsubscribe link provided in an email, or by emailing us at info@comparably.com. If you have questions or concerns regarding this Privacy Policy, please email us at info@comparably.com.
 
 ### Information We Collect
 
