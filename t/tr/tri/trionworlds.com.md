@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trionworlds.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223192004id_/https%3A//www.trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trionworlds.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417172954id_/https%3A//www.trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Trion Worlds, Inc.
+# Privacy Policy | gamigo US Inc. – Best free to play MMORPGs and Shooter
 
 Please click [here](https://webcdn.triongames.com/common/TRION_PP_12_2018_EN.pdf) to download a PDF version of our Privacy Policy.
 
