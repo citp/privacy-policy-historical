@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the salisbury.edu privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820201536id_/https%3A//www.salisbury.edu/administration/general-counsel/university-policies-legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salisbury.edu privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417105313id_/https%3A//www.salisbury.edu/administration/general-counsel/university-policies-legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Salisbury University
 
-  * [Salisbury University X-26.00 Privacy Policy](https://web.archive.org/web/20180820201536id_/https%3A//www.salisbury.edu/administration/general-counsel/policies/section_X/X-26.00-SU-Privacy-Policy.pdf)
+  * [Salisbury University X-26.00 Privacy Policy](https://web.archive.org/web/20190417105313id_/https%3A//www.salisbury.edu/administration/general-counsel/policies/section_X/X-26.00-SU-Privacy-Policy.pdf)
 
 
 
