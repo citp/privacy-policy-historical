@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202091259id_/http%3A//www.rue21.com/store/jump/static/Privacy-Policy/7600002%3Fici%3Dfooter_global%26icn%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417051524id_/https%3A//www.rue21.com/store/jump/static/Privacy-Policy/7600002%3Fici%3Dfooter_global%26icn%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | rue21
 
@@ -40,7 +40,7 @@ We also reserve the right to make your Personal Information available to third p
     *  
   14. 8\. Third Party Hyperlinks.  The Site may contain links to Third Party Sites.  Please be aware that unless expressly stated in the privacy policy of that website, we are not responsible for such Third Party Sites’ privacy practices. When you leave the Site, you should confirm the terms and conditions and privacy policy that apply to you as they may differ from those on this Site.
   15.  
-  16. 9\. Security.  We maintain a reasonable standard of security and confidentiality and try to limit information access to individuals who need to have such access to perform their responsibilities associated with the Site and the Content on the Site. The Internet, however, and communications cannot be guaranteed to be secure and it is possible that others may unlawfully intercept or access information, transmissions or communications to, from or within the Site.  By using the Site, you are agreeing to assume this risk and any and all responsibility and liability that may arise.  If you have questions or concerns about the security of the Site, you may send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  16. 9\. Security.  We maintain a reasonable standard of security and confidentiality and try to limit information access to individuals who need to have such access to perform their responsibilities associated with the Site and the Content on the Site. The Internet, however, and communications cannot be guaranteed to be secure and it is possible that others may unlawfully intercept or access information, transmissions or communications to, from or within the Site.  By using the Site, you are agreeing to assume this risk and any and all responsibility and liability that may arise.  If you have questions or concerns about the security of the Site, you may send an email to security@rue21.com.
   17.  
   18. 10\. Disclaimer.  Although rue21 will take all commercially reasonable measures to protect information provided by its users, rue21 disclaims any and all liability and any and all damages, including but not limited to, consequential and punitive damages in the event that information is inadvertently disclosed to third parties other than as described in this statement. 
   19.  
@@ -51,7 +51,7 @@ We also reserve the right to make your Personal Information available to third p
   24. 13\. Your California Privacy Rights.  If you are a resident of the State of California, under the California Civil Code, you have the right to request information on how to exercise your disclosure choice options from companies conducting business in California.  To do so, send a request for information indicating your preference as to how you would like rue21 to respond to your request (i.e., email or postal mail). To request such information, either contact our designated Privacy Administrator via the [contact us form](https://web.archive.org/store/contactUs.jsp) on our website or you may contact us via postal mail, proper postage prepaid, at:
 
 Privacy Administrator  
-rue21, inc.  
+New rue21, LLC  
 800 Commonwealth Dr.  
 Warrendale,  PA  15086  
 Attn: Your California Privacy Rights
@@ -62,9 +62,17 @@ Attn: Your California Privacy Rights
 
 
 
-Yay! You Earned
+## 
 
-20
+Check Availability
+
+## 
+
+Select a Store
+
+## 
+
+Select a Store
 
 Your account information has been updated successfully!
 
@@ -73,3 +81,5 @@ OK, THANKS
 Your account has been created successfully!
 
 OK, THANKS
+
+just a moment...
