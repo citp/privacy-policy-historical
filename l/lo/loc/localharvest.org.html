@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the localharvest.org privacy policy that was archived on 2018-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181011091543id_/https%3A//www.localharvest.org/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the localharvest.org privacy policy that was archived on 2019-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190417185137id_/https%3A//www.localharvest.org/privacy.jsp) for the most accurate reproduction.-->
 
 <html id="homegroup" class=" js  boxsizing"><head>
     
@@ -20,7 +20,7 @@
         <!--<![endif]-->
         <link rel="stylesheet" type="text/css" href="/css/pureio/grid.css">
     <!-- END pure.io styles -->
-    <link rel="stylesheet" type="text/css" href="/css/lh_main.css?24F4818444855B564683E02D55761FF9">
+    <link rel="stylesheet" type="text/css" href="/css/lh_main.css?7F83B063BF2A0E25D05AAE7E20B5FB0F">
     <link rel="stylesheet" type="text/css" href="/css/g.css">
     <link rel="stylesheet" type="text/css" href="/css/john.css">
     <!-- responsive queries -->
@@ -122,7 +122,8 @@
     <meta property="fb:app_id" content="292617314171657">
 
   </head>
-  <body>
+  
+<body>
   <div id="container">
     <div id="header" style="width: 1140px;">
 
@@ -145,50 +146,7 @@
             </span>
             
     
-            <span class="carttext">
-                <a id="cartlink" rel="nofollow" style="margin-left:10px;" href="/store/basket.jsp"><i class="icon icon-cart"></i>
-    <span class="basketcount" id="cartcount" style="display:none">0</span>
-              </a>
-            </span>
           </div>
-<script>
-    var lhCartCount = 0;
-    // load CWlite cart pointer
-    $.ajax({
-        url: "//csa.localharvest.org/ajax/cartcount.jsp",
-        xhrFields: {
-            withCredentials: true
-        }
-    }).done(function( data ) {
-        var array = data.trim().split(',')
-        var cwCartCount = parseInt(array[0]);
-        var cwId = array[1];
-        if (cwCartCount > 0) {
-            if (lhCartCount == 0) {
-                $("#cartlink").attr("href", "http://csa.localharvest.org/M" + cwId + "/store/basket.jsp");
-                $("#cartcount").show();
-            }
-            $("#cartcount").text(lhCartCount + cwCartCount);
-            if ($("#csacartcontents").length ) { // on basket page
-                if (lhCartCount == 0) {
-                    window.location = 'http://csa.localharvest.org/M' + cwId + '/store/basket.jsp';
-                }
-                $.ajax({
-                    url: "//csa.localharvest.org/ajax/cartcontents.jsp",
-                    xhrFields: {
-                        withCredentials: true
-                    }
-                }).done(function( data ) {
-                    var cartBody = data.trim();
-                    $("#csacartcontents").html(cartBody);
-                    $("#csabuy").click(function() {
-                        window.location = 'http://csa.localharvest.org/M' + cwId + '/store/basket.jsp';
-                    });
-                });
-            }
-        }
-     });
-</script>
 
 
               
@@ -211,7 +169,7 @@
                       
                       <select name="deptId" id="deptdropdown" class="deptdropdown">
                         <option value="0">Entire Catalog
-                        </option><option value="76">Bakery</option><option value="43">Bulbs &amp; Tubers</option><option value="17">Chocolate &amp; Desserts</option><option value="14">Coffee &amp; Teas</option><option value="34">CSA</option><option value="23">Dairy &amp; Eggs</option><option value="21">Farm Crafts</option><option value="35">Farm/Garden</option><option value="62">Flowers</option><option value="16">Fruits</option><option value="2">Fruits &amp; Nuts</option><option value="13">Gift Baskets</option><option value="24">Grocery &amp; Produce</option><option value="25">Herbs &amp; Health</option><option value="1">Honey</option><option value="73">Livestock</option><option value="11">Meats</option><option value="20">Pet Needs</option><option value="42">Plants</option><option value="3">Preserves</option><option value="18">Seeds</option><option value="29">Soaps &amp; Body Care</option><option value="26">Specialty, Books &amp; O</option><option value="41">Supplies</option><option value="4">Syrups</option><option value="7">Wool &amp; Fibers</option><option value="31">Wreaths
+                        </option><option value="76">Bakery</option><option value="43">Bulbs &amp; Tubers</option><option value="17">Chocolate &amp; Desserts</option><option value="14">Coffee &amp; Teas</option><option value="34">CSA</option><option value="23">Dairy &amp; Eggs</option><option value="62">Flowers</option><option value="16">Fruits</option><option value="2">Fruits &amp; Nuts</option><option value="13">Gift Baskets</option><option value="24">Grocery &amp; Produce</option><option value="1">Honey</option><option value="11">Meats</option><option value="42">Plants</option><option value="3">Preserves</option><option value="4">Syrups
                       </option></select>
 
                       
@@ -313,9 +271,9 @@
           
                     <div id="sidebar_inseason" class="widget">
           	<h4>In Season</h4>
-          	<a class="inseason" href="https://csa.localharvest.org/M3439/golden-flax-organic-C11880?r=pe&amp;utm_medium=email&amp;utm_ca">
-          		<h4>Golden Organic Flax</h4>
-              <img src="https://ded8b07dd9e637888fc2-e87978aaae5cf97349d88697fd53e4c9.ssl.cf1.rackcdn.com/33875_180x180.jpg" alt="Golden Organic Flax">
+          	<a class="inseason" href="https://sharonsnaturalgardens.csaware.com/store/c/seeds">
+          		<h4>Seeds!</h4>
+              <img src="https://64f3af98a19fcdc38cfe-39a6ad9c1a35b5ccf200eff7491ba20a.ssl.cf1.rackcdn.com/prod_6681_11622.V1.jpg" alt="Seeds!">
           	</a>
           </div>
 
@@ -325,12 +283,12 @@
           	<h4>Food &amp; Farm Events</h4>
           	<table class="lhcalendar">
 <tbody><tr><td align="left">
-<a href="/events.jsp?y=2018&amp;m=9"><span class="calendarnav">«</span></a>
-</td><td align="center">Oct-2018</td>
+<a href="/events.jsp?y=2019&amp;m=3"><span class="calendarnav">«</span></a>
+</td><td align="center">Apr-2019</td>
 <td align="right">
-<a href="/events.jsp?y=2018&amp;m=11"><span class="calendarnav">»</span></a></td>
+<a href="/events.jsp?y=2019&amp;m=5"><span class="calendarnav">»</span></a></td>
 </tr><tr><td colspan="3">
-<table class="lhcaldays"><tbody><tr><td class="cal_inactive">30</td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=1" class="calday">1</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=2" class="calday">2</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=3" class="calday">3</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=4" class="calday">4</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=5" class="calday">5</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=6" class="calday">6</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=7" class="calday">7</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=8" class="calday">8</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=9" class="calday">9</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=10" class="calday">10</a></td><td class="cal_today"><a href="/events.jsp?y=2018&amp;m=10&amp;d=11" class="calday">11</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=12" class="calday">12</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=13" class="calday">13</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=14" class="calday">14</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=15" class="calday">15</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=16" class="calday">16</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=17" class="calday">17</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=18" class="calday">18</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=19" class="calday">19</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=20" class="calday">20</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=21" class="calday">21</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=22" class="calday">22</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=23" class="calday">23</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=24" class="calday">24</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=25" class="calday">25</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=26" class="calday">26</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=27" class="calday">27</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=28" class="calday">28</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=29" class="calday">29</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=30" class="calday">30</a></td><td class="cal_active"><a href="/events.jsp?y=2018&amp;m=10&amp;d=31" class="calday">31</a></td><td class="cal_inactive">1</td><td class="cal_inactive">2</td><td class="cal_inactive">3</td></tr></tbody></table>
+<table class="lhcaldays"><tbody><tr><td class="cal_inactive">31</td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=1" class="calday">1</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=2" class="calday">2</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=3" class="calday">3</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=4" class="calday">4</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=5" class="calday">5</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=6" class="calday">6</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=7" class="calday">7</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=8" class="calday">8</a></td><td class="cal_active">9</td><td class="cal_active">10</td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=11" class="calday">11</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=12" class="calday">12</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=13" class="calday">13</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=14" class="calday">14</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=15" class="calday">15</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=16" class="calday">16</a></td><td class="cal_today"><a href="/events.jsp?y=2019&amp;m=4&amp;d=17" class="calday">17</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=18" class="calday">18</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=19" class="calday">19</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=20" class="calday">20</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=21" class="calday">21</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=22" class="calday">22</a></td><td class="cal_active">23</td><td class="cal_active">24</td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=25" class="calday">25</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=26" class="calday">26</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=27" class="calday">27</a></td></tr><tr><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=28" class="calday">28</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=29" class="calday">29</a></td><td class="cal_active"><a href="/events.jsp?y=2019&amp;m=4&amp;d=30" class="calday">30</a></td><td class="cal_inactive">1</td><td class="cal_inactive">2</td><td class="cal_inactive">3</td><td class="cal_inactive">4</td></tr></tbody></table>
 </td></tr>
 </tbody></table>
           </div>
@@ -447,7 +405,6 @@
           <li><a href="/accounts/" rel="nofollow">My Account</a></li>
           <li><a href="/store/">Online Store</a></li>
           <li><a href="/products.jsp">Farm Products</a></li>
-          <li><a href="/store/policies-faq.jsp" rel="nofollow">Policies / FAQ</a></li>
 		</ul>
       </div>
       </div><!-- end pureg -->
