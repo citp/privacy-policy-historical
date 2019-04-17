@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupone.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106153319id_/http%3A//www.dressupone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupone.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417134213id_/http%3A//www.dressupone.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
