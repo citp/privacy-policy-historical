@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awardswatch.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102045851id_/http%3A//awardswatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardswatch.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417085638id_/https%3A//awardswatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – AwardsWatch
 
@@ -23,6 +23,8 @@ PLEASE NOTE: Our Site and Services are intended for a general audience. We opera
 Our Site and Services are hosted in, and are directed at users from, the United States. Information we maintain may be stored both within and outside of the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. The Company and its Services are subject to U.S. laws, which may not afford the same level of protection as the laws of other countries (which may include the laws of your country if you are outside the United States).
 
 **Third Party Ad Servers**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., clickstream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) _._
 
 Some of the advertisements and other items of content that appear on the Site are delivered to you by Internet advertising companies. These companies utilize certain technologies (including cookies, which are described in more detail below) to deliver advertisements and marketing messages and to collect anonymous information about your visit to the Site and other web site. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit <http://optout.aboutads.info/#!/>. [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) or <http://youronlinechoices.eu/>, [DAA Consumer Opt-Out Page](http://optout.aboutads.info/#!/), [NAI Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) and [Google’s information page](https://www.google.com/settings/ads).
 
