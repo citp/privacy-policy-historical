@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefryecompany.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225190539id_/https%3A//www.thefryecompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefryecompany.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417101016id_/http%3A//www.thefryecompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
