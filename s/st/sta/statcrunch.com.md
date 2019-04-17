@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the statcrunch.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823151721id_/https%3A//pi.pearsoned.com/v1/piapi/policies/static/html/NA/PearsonPrivacyPolicy_en_US.html%3Fcc%3DUS%26lang%3Den_US%23changes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statcrunch.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417080813id_/https%3A//pi.pearsoned.com/v1/piapi/policies/static/html/NA/PearsonPrivacyPolicy_en_US.html%3Fcc%3DUS%26lang%3Den_US%23changes) for the most accurate reproduction.*
 
 # Pearson Privacy Policy
 
-**Effective July 19, 2018**
+**Effective December 18, 2018**
 
   1. Introduction
   2. Contact Us
   3. Definitions
-  4. Authorization and Consent
+  4. Authorization and Consent* 
   5. Protection and Security 
   6. Collection and Processing
-  7. Use and Disclosure
+  7. Use and Disclosure* 
   8. FERPA
   9. Access, Correction and Portability
   10. Changes to the Policy 
 
 
+
+*Includes updated text about Account Data, Communications and User Feedback, Marketing and Advertising
 
 ## Introduction
 
@@ -76,7 +78,7 @@ If a Customer purchases the Services online directly from Pearson, payment data 
 
 ### Account Data
 
-Pearson collects and processes Account Data to set up, maintain and enable a User account to use the Services. Account Data includes a User’s name (unless an alias is used with Educator or Institution approval/coordination), email address, user name and password, as well as the Institution and course identifier for any courses for which User uses the Services. With coordination/approval by the Educator, a User may be registered for a User account using an alias* instead of actual first and last name. Account Data does not include student coursework or responses, scores, grades or instructor feedback on interactive exercises, assignments or assessments.
+Pearson collects and processes Account Data to set up, maintain and enable a User account to use the Services. Account Data includes a User’s name (unless an alias is used with Educator or Institution approval/coordination), email address, user name and password, as well as the Institution and course identifier for any courses for which User uses the Services. A User’s mobile phone number may also be collected and used for User authentication. With coordination/approval by the Educator, a User may be registered for a User account using an alias* instead of actual first and last name. Account Data does not include student coursework or responses, scores, grades or instructor feedback on interactive exercises, assignments or assessments.
 
 #### *Alias Registration Option
 
@@ -118,7 +120,7 @@ Do Not Track (DNT) is a proposed mechanism for allowing website visitors to cont
 
 ### Educators and Institutions
 
-Pearson uses the Personal Information to deliver the Services for educational purposes. In delivering the Services, Pearson provides and discloses Personal Information to the User’s Educator and Institution and as otherwise directed by the Institution or the Educator. Educators and Institutions may export grade book information and other Course Data from the Services for the purpose of maintaining educational records.
+Pearson uses the Personal Information to deliver the Services for educational purposes. In delivering the Services, Pearson may provide and disclose Personal Information to the User’s Educator and Institution and as otherwise directed by the Institution or the Educator. Educators and Institutions may export grade book information and other Course Data from the Services for the purpose of maintaining educational records.
 
 ### Evaluation
 
@@ -138,11 +140,11 @@ Pearson also may disclose or use Personal Information: (a) with the User’s con
 
 ### Communications and User Feedback
 
-Pearson may communicate with Users by email to provide updates and information about the Services and to request User evaluation and feedback about the Services and interest in Pearson research project participation. Pearson will provide Users with a means to express email preferences or unsubscribe to emails in accordance with applicable law.
+Pearson may communicate with Users by email to provide updates and information about the Services and to request User evaluation and feedback about the Services and interest in Pearson research project participation. Pearson will provide Users with a means to express email preferences or unsubscribe to emails in accordance with applicable law. Pearson will only send transactional and operational emails permitted by applicable law to Users who have expressed a preference not to receive email.
 
 ### Marketing and Advertising
 
-Pearson will not use User Personal Information for marketing or advertising purposes, except with the consent of the User. Pearson will not knowingly seek such consent from any Secondary Student Users or Youth Users. Pearson does not permit third-party ad networks or similar services to access or collect Personal Information within the Services.
+Pearson will not use Personal Information of Secondary Student Users or Youth Users for marketing purposes and will not knowingly direct or send marketing communications to a Secondary Student User or a Youth User. Pearson may use Personal Information of other Users to market products and services of Pearson and affiliated Pearson companies to such Users, provided that (a) such use and marketing is consistent with applicable law and Pearson’s legal obligations; (b) such Personal Information excludes Payment Data and Course Data; (c) the Users are not Secondary Student Users or Youth Users; (d) the Users have not opted out of receiving marketing; and (e) where required by applicable law, express or implied consent to marketing exists and has not been withdrawn. Pearson may provide such Personal Information to a third party service provider on a restricted basis to provide such marketing solely on behalf of Pearson and affiliated Pearson companies, but not for marketing of any third party products or services. Pearson does not permit third-party ad networks or similar services to access or collect Personal Information within the Services. Users may change their marketing preferences at any time. Pearson will not knowingly direct or send marketing communications to a User who has expressed a preference not to receive marketing.
 
 ### No Sale of Personal Information
 
