@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the product-reviews.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228144933id_/https%3A//www.product-reviews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the product-reviews.net privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417145613id_/https%3A//www.product-reviews.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Product Reviews Net
 
@@ -78,7 +78,9 @@ We link to other websites from our site and we try to only include quality, safe
 
 ### Affiliate Links
 
-We use affiliate links on our website and you may want to see the privacy polices of these 3rd party companies we may use:
+Some of the products and services we publish on this website may contain affiliate links, as such those following these affiliate links may help us get paid a small commission when a purchase is made. Your cost remains the same, and we also help many of our followers save money by featuring deals and special promotions. Our aim is to help our followers find the best new products and gifts, and to save money with the best bargains both online and in-store.
+
+You may want to see the privacy polices of these 3rd party companies we may use:
 
   * [AWIN](https://www.awin.com/gb/legal/privacy-policy)
   * [Skimlinks](https://skimlinks.com/privacy-policy)
