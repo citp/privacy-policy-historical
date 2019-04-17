@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916145353id_/https%3A//www.medpagetoday.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417144617id_/https%3A//www.medpagetoday.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MedPage Today
 
@@ -60,7 +60,7 @@ In Processing your User Information in connection with the purposes set out in t
 
 ### **Summary – Disclosure of User Information to Third Parties**
 
-We may disclose your User Information to: legal and regulatory authorities; our external advisors; parties who Process User Information on our behalf (“Processors”); any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on the Services.
+We may disclose your User Information to: legal and regulatory authorities; our external advisors; parties who Process User Information on our behalf ("Processors"); any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on the Services.
 
 We may disclose your User Information to other entities within the Company group, for legitimate business purposes (including operating the Services, and providing services to you), in accordance with applicable law. In addition, we may disclose your User Information to: 
 
@@ -108,7 +108,7 @@ We may transfer your Personal Information to recipients in other countries. Wher
 
 Because of the international nature of our business, we may need to transfer your User Information within the Everyday Health group of companies, and to third parties as noted in Section 9 above, in connection with the purposes set out in this Policy. For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located. 
 
-Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using the contact details provided in Section 17 below. 
+Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our [DSAR Portal](https://dsar.medpagetoday.com/). 
 
 Please note that when you transfer any Personal Information directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Information. We will nevertheless Process your Personal Information, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.
 
@@ -174,13 +174,13 @@ The DAA Ad Marker Icon  provides information (and links to other information) on
 
 
 
-Cookies and Pixel Tags. You may stop or restrict cookies and pixel tags on your computer or purge cookies from your browser by adjusting your web browser preferences. However, if you “turn off,” purge, or disable cookies or pixel tags, although you may still use the Services, you may not be able to use all of the features, functions, or services available on the Services.
+Cookies and Pixel Tags. You may stop or restrict cookies and pixel tags on your computer or purge cookies from your browser by adjusting your web browser preferences. However, if you "turn off," purge, or disable cookies or pixel tags, although you may still use the Services, you may not be able to use all of the features, functions, or services available on the Services.
 
 Applicants for Healthcare-Related Positions. If you are looking for a job and using the Health eCareers website, or that of our partners, you may change your profile or resume at any time. At any time, you may elect that your profile and resume not be searchable by prospective employers by logging into your account and changing the status of your profile. If that is not possible, please contact [info@healthecareers.com](mailto:info@healthecareers.com) and we will make the change for you. In addition, you may elect to make your profile searchable by prospective employers on a confidential basis only. In this case, your name and contact information will not be displayed to prospective employers. If a prospective employer desires to contact a confidential job seeker regarding an employment opportunity, the prospective employer will send an email to the confidential job seeker through Health eCareers, who will then forward the email to the job seeker’s email address. The job seeker’s email address will not be provided directly to the prospective employer. When posting a resume confidentially, it is your responsibility to ensure that your contact information is not included within the resume attachment.
 
-California Residents. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals. California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 17 below.
+California Residents. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ "do not track" signals. California’s "Shine the Light" law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 17 below.
 
-EU Residents. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us (using the contact instructions in Section 17 below). If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
+EU Residents. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the [DSAR Portal](https://dsar.medpagetoday.com/). If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
 
 ## 16\. Terms of Use
 
@@ -198,7 +198,7 @@ The appropriate terms of use is incorporated by reference into this Privacy Poli
 
 ### **Summary – Contact Details**
 
-You may contact us at the addresses set out below or by emailing [privacy@everydayhealth.com](mailto:privacy@everydayhealth.com)
+You may contact us at the addresses set out below or by emailing [privacy@everydayhealth.com](mailto:privacy@everydayhealth.com) For GDPR related inquiries, please use our webform at [DSAR Portal](https://dsar.medpagetoday.com/). 
 
 Everyday Health  
 Attention: Legal Department  
@@ -206,7 +206,7 @@ Attention: Legal Department
 New York, NY 10014  
 
 
-If you are an EU resident, you may contact our Data Protection Officer at [dpo@everydayhealth.com](mailto:dpo@everydayhealth.com)
+If you are an EU resident, you may contact our Data Protection Officer at [dpo@everydayhealth.com](mailto:dpo@everydayhealth.com) or submit GDPR related inquiries to our [DSAR Portal](https://dsar.medpagetoday.com/). 
 
 If you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of User Information carried out by us, or on our behalf, please contact: 
 
@@ -217,7 +217,7 @@ New York, NY 10014
 [privacy@everydayhealth.com](mailto:privacy@everydayhealth.com)  
 
 
-Our Data Protection Officer may be contacted at [dpo@everydayhealth.com](mailto:dpo@everydayhealth.com).
+Our Data Protection Officer may be contacted at [dpo@everydayhealth.com](mailto:dpo@everydayhealth.com) For GDPR related inquiries, please use our webform at [DSAR Portal](https://dsar.medpagetoday.com/).
 
 ## 18\. How this Privacy Policy May Change
 
