@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destaco.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731142256id_/https%3A//www.destaco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destaco.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417031437id_/https%3A//www.destaco.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | DESTACO
 
@@ -16,7 +16,11 @@
 
 **Security** \- This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-[Click Here for Customer Support](http://www.destaco.com/support.html "Customer Support")
+[GDPR Compliance Information](https://www.destaco.com/assets/pdfs/Corporate%20Literature/GDPR%20Compliance%20Information%20-%20English.pdf)
+
+[GDPR Review And Erasure Form](https://www.destaco.com/gdpr-review-and-erasure-form.html)
+
+[Click Here for Customer Support](https://www.destaco.com/support.html "Customer Support")
 
 As a Global company, DESTACO has customer service representatives based in your region, no matter where you are in the world. Contact DESTACO Customer Service in your region for technical assistance, repairs, field service and more
 
