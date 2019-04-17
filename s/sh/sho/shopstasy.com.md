@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopstasy.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129053309id_/http%3A//shopstasy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopstasy.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417224756id_/https%3A//www.shopstasy.com/privacy) for the most accurate reproduction.*
 
-# Shopstasy - Where Fashion meets Instagram
+# Shopstasy - All The Fashion Brands You Love, All in One Place
 
-This Privacy Policy governs the manner in which _BeOn Media LLC_ collects, uses, maintains and discloses information collected from users (each, a "User") of the _shopstasy.com_ website ("Site").
+This Privacy Policy governs the manner in which _BeOn Media LLC_ collects, uses, maintains and discloses information collected from users (each, a "User") of the _Shopstasy_ website ("Site").
 
 ### Personal identification information
 
@@ -52,4 +52,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, or about the Site, please contact us at [hello@shopstasy.com](mailto:hello@shopstasy.com)
 
-_Last updated on Feb 05, 2015_
+_Last updated on April 07, 2018_
