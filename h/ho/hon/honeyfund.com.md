@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210142244id_/https%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417134007id_/https%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Honeyfund.com, the free honeymoon registry, the #1 cash wedding registry
 
-_Last updated July 21, 2015_
+_Last Updated October 23, 2017_
 
 Thank you for your interest in Honeyfund.com, Inc. (referred to herein as "we" or "us") and our website, [www.honeyfund.com](http://www.honeyfund.com/) (the "Site"). This privacy policy was created to let you know why we collect information from you and what we do with it. By using the Site, you consent to the following terms.
 
@@ -52,7 +52,7 @@ For more information about the sharing of non-personally identifiable informatio
 
 ### Changing your personal information
 
-You can access or update your personal information by logging in to your Honeyfund.com account and changing your profile. If you would like to deactivate your membership with Honeyfund.com, you should use the following Web page address <https://www.honeyfund.com/CloseAccount>. You may also contact Honeyfund.com, Inc. by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Deactivate%20Membership) and writing "Deactivate Membership" in the subject line or write to Honeyfund.com, Inc. at 321 S. Main St. #523, Sebastopol, CA 95472.
+You can access or update your personal information by logging in to your Honeyfund.com account and changing your profile. If you would like to deactivate your membership with Honeyfund.com, you should use the following Web page address <https://www.honeyfund.com/CloseAccount>. You may also contact Honeyfund.com, Inc. by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Deactivate%20Membership) and writing "Deactivate Membership" in the subject line or write to Honeyfund.com, Inc. at 2605 Enterprise Rd E, Ste 320, Clearwater, FL 33759.
 
 ### Other websites
 
@@ -74,4 +74,4 @@ We allow third-party advertising companies to collect certain non-PII informatio
 
 ### Contact Information
 
-If you have questions or concerns regarding this statement, you should contact Honeyfund.com, Inc. by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Privacy%20Policy) and writing "Privacy Policy" in the subject line. You may also write to Honeyfund.com, Inc. at 321 S. Main St. #523, Sebastopol, CA 95472.
+If you have questions or concerns regarding this statement, you should contact Honeyfund.com, Inc. by e-mailing [help@honeyfund.com](https://www.honeyfund.com/ContactUs?s=Privacy%20Policy) and writing "Privacy Policy" in the subject line. You may also write to Honeyfund.com, Inc. at 2605 Enterprise Rd E, Ste 320, Clearwater, FL 33759.
