@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018041841id_/https%3A//www.amnesty.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417204103id_/https%3A//www.amnesty.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy notice | Amnesty International UK
 
@@ -53,38 +53,38 @@ We collect information about the members and supporters in our movement who camp
 
 | 
 
-**Personal information**
+ **Personal information**
 
 Name, mailing address, email address, telephone number, date of birth, age, and gender where appropriate (e.g. when registering to run a marathon on our behalf).  
   
 ---|---  
 | 
 
-**Your preferences**
+ **Your preferences**
 
 We keep a record of what you’ve told us about how you like to be contacted (e.g. emails only) and what you’d like to receive (e.g. petitions about the death penalty).  
   
 | 
 
-**Your interests**
+ **Your interests**
 
 Sometimes we collect information about your interests, such as your involvement in Team Amnesty sporting events, so we can contact you about information that is relevant to you.  
   
 | 
 
-**Your affliations**
+ **Your affliations**
 
 We may also collect and record any other relevant information you share with us about yourself, including your affiliations with community groups or your employer. For example, we may require your employer’s details to process a payroll gift.  
   
 | 
 
-**Payment information**
+ **Payment information**
 
 We may collect your bank account details when setting up a regular direct debit, a credit card or debit card number when processing payments by card, and details about your taxpayer status when claiming Gift Aid.  
   
 | 
 
-**Record of your support**
+ **Record of your support**
 
 We collect and process information about your interactions with us, including:
 
@@ -143,9 +143,9 @@ The legal basis that we rely on will depend upon the circumstances in which we c
 
 These legitimate interests may include:
 
-  * _Operational work:_ including achieving our objectives to protect and promote human rights, conducting statutory and financial reporting, and ensuring regulatory compliance.
-  * _Administration and management:_ including administration relating to volunteers and staff to comply with legal requirements, the provision of information and services, research, and the management of events.
-  * _Campaigning, fundraising and marketing:_ including sending direct marketing by post (and in some cases by telephone for existing supporters and Pocket Protest network members), thank you letters, analysis, targeting and segmentation to improve the efficiency of our communication and manage your communication preferences, and in some cases, advertising goods and services similar to those which you have shown interest in before. To find out more about how we process your information, or if you would like to change how we contact you, please contact us.
+  *  _Operational work:_ including achieving our objectives to protect and promote human rights, conducting statutory and financial reporting, and ensuring regulatory compliance.
+  *  _Administration and management:_ including administration relating to volunteers and staff to comply with legal requirements, the provision of information and services, research, and the management of events.
+  *  _Campaigning, fundraising and marketing:_ including sending direct marketing by post (and in some cases by telephone for existing supporters and Pocket Protest network members), thank you letters, analysis, targeting and segmentation to improve the efficiency of our communication and manage your communication preferences, and in some cases, advertising goods and services similar to those which you have shown interest in before. To find out more about how we process your information, or if you would like to change how we contact you, please contact us.
 
 
 
@@ -193,17 +193,17 @@ We have processes in place to review how we communicate with you, especially in 
 
 | 
 
-**We will only contact you by email if you have given us your consent along with your email address.**  An exception to this is where you have recently made a purchase from the Amnesty shop, as we can use the ‘soft opt-in’ grounds to contact you about similar products and services, unless you say no to emails from us.
+ **We will only contact you by email if you have given us your consent along with your email address.**  An exception to this is where you have recently made a purchase from the Amnesty shop, as we can use the ‘soft opt-in’ grounds to contact you about similar products and services, unless you say no to emails from us.
 
 Email is low-cost and fast to send and respond to, and time is often not on our side when we are fighting to protect the life or freedom of an individual. **You can opt out at any time by clicking on the ‘unsubscribe’ link at the bottom of our emails.**  
   
 ---|---  
   
-| **We will only contact you by text if you have given us your consent along with your mobile phone number.** Text messages are a fast and low-cost way to ask you to support a petition, stand up for an individual whose rights are being abused and occasionally, to raise funds. **You can opt out at any time by following the unsubscribe instructions in our text messages.**  
+|  **We will only contact you by text if you have given us your consent along with your mobile phone number.** Text messages are a fast and low-cost way to ask you to support a petition, stand up for an individual whose rights are being abused and occasionally, to raise funds. **You can opt out at any time by following the unsubscribe instructions in our text messages.**  
   
 | 
 
-**From 25th May 2018, if you are new to Amnesty International UK, we will only contact you by telephone if you have given us your consent along with your phone number.** Exceptions to this are:
+ **From 25th May 2018, if you are new to Amnesty International UK, we will only contact you by telephone if you have given us your consent along with your phone number.** Exceptions to this are:
 
   * where you have signed up to our Pocket Protest SMS network, or taken a text-based action, as we will use your mobile phone number to call you about the impact of your activism, and to ask you to make a donation to support our human rights work.
   * where you sign up to fundraise for us (for example, by participating in an event or organising your own), as we will call you about ways you can achieve your fundraising target and how we can support you.
@@ -304,7 +304,7 @@ We continually strive to improve the quality and accuracy of the information you
 
 | 
 
-**External data lists**
+ **External data lists**
 
 Post Office’s National Change of Address database  
 The National Deceased Register  
@@ -313,7 +313,7 @@ The National Deceased Register
   
 | 
 
-**Preference management services**
+ **Preference management services**
 
 Fundraising Preference Service  
 Telephone Preference Service  
@@ -399,7 +399,7 @@ Please note that these rights are not exercisable in all circumstances. For exam
 
 For more information about these rights, please read the guidance issued by the [Information Commissioner’s Office](http://mailto:https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/individuals-rights/mailto:https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/individuals-rights/).  
 
-###  Subject Access Requests
+### Subject Access Requests
 
 If you would like to request a copy of the personal information that Amnesty International UK holds on you, please contact our [Data Protection Team](mailto:dataprotection@amnesty.org.uk) and we will respond to your request at the latest within one month of receipt.
 
@@ -411,19 +411,19 @@ You can make a complaint or raise a concern about how we process your personal i
 
 We will acknowledge a complaint about any aspect of our data protection policy within 5 working days and aim to resolve complaints within 10 working days of receiving it. If you are dissatisfied with our response, please contact us using the details below.
 
-Contact method | Details  
+Contact method| Details  
 ---|---  
-Mail | Amnesty International UK  
+Mail| Amnesty International UK  
 The Human Rights Action Centre  
 Data Protection Team  
 17-25 New Inn Yard  
 London  
 EC2A 3EA  
-Phone | +44 (0) 20 7033 1777 (Monday to Friday – from 9am to 6pm)  
-Fax | +44 (0) 20 7033 1503  
-Text phone | +44 (0)20 7033 1664  
-Email | [dataprotection@amnesty.org.uk](mailto:dataprotection@amnesty.org.uk)  
-Website | [www.amnesty.org.uk/feedback](https://www.amnesty.org.uk/feedback)  
+Phone| +44 (0) 20 7033 1777 (Monday to Friday – from 9am to 6pm)  
+Fax| +44 (0) 20 7033 1503  
+Text phone| +44 (0)20 7033 1664  
+Email| [dataprotection@amnesty.org.uk](mailto:dataprotection@amnesty.org.uk)  
+Website| [www.amnesty.org.uk/feedback](https://www.amnesty.org.uk/feedback)  
   
 If you are not happy with how we have handled your complaint, you can contact the Information Commissioner’s Office (which is responsible for upholding information rights in the UK) or the Fundraising Regulator (which is responsible for overseeing fundraising activities carried out by charities and similar organisations in the UK). Alternatively, you may choose to contact these bodies directly, regardless of whether you have raised the complaint with us first. 
 
@@ -453,7 +453,7 @@ Please contact our Supporter Communications Team if you would like to:
 
 | 
 
-**In writing**  
+ **In writing**  
 Supporter Communications Team  
 Amnesty International UK  
 The Human Rights Action Centre  
@@ -470,7 +470,7 @@ EC2A 3EA ****
   
 | 
 
-**Telephone**  
+ **Telephone**  
 +44 (0) 20 7033 1777 (Monday to Friday – 9am to 6pm)  
   
 Back to top
