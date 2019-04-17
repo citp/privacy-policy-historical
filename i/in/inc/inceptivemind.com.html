@@ -1,823 +1,406 @@
-<!--The following is the downloaded HTML source of the inceptivemind.com privacy policy that was archived on 2016-08-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160821155140id_/http%3A//www.inceptivemind.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inceptivemind.com privacy policy that was archived on 2019-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190417083852id_/https%3A//www.inceptivemind.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-<meta name="HandheldFriendly" content="true">
-<!-- Core CSS -->
-<link href="http://inceptivemind.com/style/css/style.css" rel="stylesheet">
-<link href="http://inceptivemind.com/style/css/theme-57b020c1d39a3.css" rel="stylesheet"><link href="http://inceptivemind.com/style/css/exp-loader.css" rel="stylesheet">
-<link href="http://inceptivemind.com/style/css/lightbox.css" rel="stylesheet">
-<link rel="shortcut icon" href="http://inceptivemind.com/images/favicon.png?1471446741">
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://inceptivemind.com/style/js/jquery.js"></script>
-	<script type="text/javascript">
-	$.ajax
-	({
-		type:"POST",    	
-		url: "http://ip-api.com/json/174.129.237.157",
-		dataType: "json",	
-		success: function(data)
-		{
-			$.ajax
-			({
-				type:"POST",    	
-				url: "http://inceptivemind.com/setIpCache.php",
-				data: {"ip":data.query,"country":data.country,"countryCode":data.countryCode},
-				success: function(data)
-				{}		
-			});
-		}		
-	});
-	</script>
-	<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82487041-1', 'auto');
-  ga('send', 'pageview');
-
-</script><link href="http://inceptivemind.com/style/css/typeahead.min.css" rel="stylesheet">
-<script src="http://inceptivemind.com/style/js/typeahead.min.js" type="text/javascript"></script>
-<link href="http://inceptivemind.com/style/css/loaderStyle.css" rel="stylesheet">
-<script>
-$(document).ready(function()
-{
-	$('#searchExplore,#iconBar').typeahead
-	({
-	   	minLength: 1,
-		order: "asc",
-		highlight: true,
-		accent: true, 
-		maxItem: 5,
-		template: '<img style="width: 20px;height: 20px" src="http://inceptivemind.com/images/articlesImages/thumb1/{{image}}"/> {{title}}',
-	    source: 
-		{
-			display: ["title"],
-			href: "http://inceptivemind.com/{{username}}/{{permalink}}/{{id}}",
-	    	url: 
-			[{
-				type: "POST",
-				url: "http://inceptivemind.com/autocomplete.php",
-			}]
-	    },
-		callback: 
-		{
-			onClick: function (node, a, item, event) 
-			{
-				window.location = item.href;
-			},
-			onSubmit (node, form, item, event)
-			{
-				var search = $("#searchExplore").val();
-				if(search == "")
-				{
-					search = $("#iconBar").val();
-				}
-				window.location = 'http://inceptivemind.com/search/'+search;
-			}
-		},
-	    	debug: true
-	});
-});
-</script>
-</head><body><div id="associationPreloader"></div>
-<div id="submitLoader"></div>
- <!--/head-->
-
-
-
-<div id="wrap">
-	<header class="homeheader ">
-		<nav class="navbar navbar-default navbar-fixed-top primary-bg-color transition shadow-1">
-		  <div class="container-fluid">
-			<!-- Brand and toggle get grouped for better mobile display -->
-			<div class="navbar-header pull-left">
-			  <a class="navbar-brand secondary-bg-color waves-effect waves-light" href="http://inceptivemind.com"><img src="http://inceptivemind.com/images/headerLogo.png?1471446741" alt="Logo" class="img-responsive"></a>
-			</div>
-
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="menu-collapse">
-			<ul class="nav navbar-nav navbar-right">
-							<li class="hidden-xs parentWithNoChild">
-					<a href="http://inceptivemind.com/category/mechanical">Mechanical</a>
-				</li>
-								
-								<li class="hidden-xs parentWithNoChild">
-					<a href="http://inceptivemind.com/category/computer">Computer</a>
-				</li>
-								
-								<li class="hidden-xs parentWithNoChild">
-					<a href="http://inceptivemind.com/category/electronics">Electronics</a>
-				</li>
-								
-						<li class="mega-dropdown h-l hidden-xs">
-		  <a class="h-a explore explore-show">Explore</a>
-		  &nbsp;<a class="h-a-2 explore-show" style="padding: 0; font-size: 10px;"><i class="fa fa-caret-down"></i></a>
-		  
-			<ul class="dropdown-menu categories-menu hide">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6 left-col hidden-sm hidden-xs">
-													</div>
-						<div class="col-md-6 right-col">
-							<h3 class="explore-heading">Looking for Something?</h3>
-
-							<div class="row">
-								<div class="col-md-12 col-md-offset-0 col-xs-12 cat-search">
-									<div class="form-group has-feedback">
-										<form>
-											<div class="typeahead-container">
-												<input type="text" class="form-control input-sm typeahead typeExp tt-query" spellcheck="false" autocomplete="off" dir="auto" id="searchExplore" name="searchExplore" placeholder="Search..." required="">
-												<span><i class="fa fa-search form-control-feedback" id="clickToSearch"></i></span>
-												<button class="hide" type="submit"></button>
-											</div>
-										</form>
-									</div>
-								</div>
-							</div>
-							
-							<div class="row catScroll themeScroll">
-																	<div class="col-sm-4 col-xs-6">
-										<ul class="cat-list">
-											<li>
-												<a href="http://inceptivemind.com/category/mechanical">
-													<i class="fa fa-gear"></i>Mechanical												</a>
-												<!-- Single button -->
-												<div class="btn-group cat-drop-down">
-												  <a class="dropdown-toggle inner-cat" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-												  <span class=""></span>
-												  </a>
-												  												</div>
-											</li>
-										</ul>
-									</div>
-																		<div class="col-sm-4 col-xs-6">
-										<ul class="cat-list">
-											<li>
-												<a href="http://inceptivemind.com/category/computer">
-													<i class="fa fa-desktop"></i>Computer												</a>
-												<!-- Single button -->
-												<div class="btn-group cat-drop-down">
-												  <a class="dropdown-toggle inner-cat" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-												  <span class=""></span>
-												  </a>
-												  												</div>
-											</li>
-										</ul>
-									</div>
-																		<div class="col-sm-4 col-xs-6">
-										<ul class="cat-list">
-											<li>
-												<a href="http://inceptivemind.com/category/electronics">
-													<i class="fa fa-bolt"></i>Electronics												</a>
-												<!-- Single button -->
-												<div class="btn-group cat-drop-down">
-												  <a class="dropdown-toggle inner-cat" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-												  <span class=""></span>
-												  </a>
-												  												</div>
-											</li>
-										</ul>
-									</div>
-																	<div class="viewAll hide">
-																</div>
-															</div>
-						</div>
-					</div>
-
-				</div>
-
-				<div class="row">
-					<div class="col-xs-12">
-						<div class="explore-footer hidden-xs">
-							<hr>
-							<div class="pull-right">
-																		<a href="http://inceptivemind.com/page/terms">Terms</a>
-																			<a href="http://inceptivemind.com/page/privacy-policy">Privacy Policy</a>
-																		<a href="http://www.snaxzer.com" target="_blank">TECH BLOG</a>
-																</div>
-						</div>
-					</div>
-				</div>
-
-			</ul>
-		</li>
-				<a class="btn btn-lg btn-blue btn-theme btn-signin pull-right" data-toggle="modal" data-target="#sign_signup"><i class="fa fa-user"></i> Log In</a>
-			  </ul>
-	</div><!-- /.navbar-collapse -->
-  </div><!-- /.container -->
-</nav>
-
-<nav class="sidebar-collapse primary-bg-color transition hidden-lg" role="navigation">
-	<div class="container">
-		<a id="menu-toggle" class="navbar-toggle">
-			<span class="sr-only">Toggle navigation</span>
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-		</a>
-		<div id="sidebar-wrapper" class="themeScroll sidebar-toggle primary-bg-color">
-			<ul class="sidebar-nav">
-				<div class="scrollbar">
-					<form class="search box" role="search">
-						<div class="form-group has-feedback">
-							
-								<div class="typeahead-container">
-									<input type="text" class="form-control input-md typeahead iconBar tt-query" placeholder="Search..." name="iconBarSearch" id="iconBar" autocomplete="off">
-									<span class="fa fa-search form-control-feedback" id="clickToiconBarSearch"></span>
-									<button class="hide" type="submit"></button>
-								</div>
-							
-						</div></form>
-					
-											<li><a data-toggle="modal" href="#sign_signup">Log In</a></li>
-												<li class="dropdown">
-						<a id="" href="http://inceptivemind.com/category/mechanical"><i class="fa fa-gear"></i> Mechanical</a>
-						 &nbsp;<a class="dropdown-toggle" data-toggle="dropdown">
-												 </a>
-						
-						</li>						<li class="dropdown">
-						<a id="" href="http://inceptivemind.com/category/computer"><i class="fa fa-desktop"></i> Computer</a>
-						 &nbsp;<a class="dropdown-toggle" data-toggle="dropdown">
-												 </a>
-						
-						</li>						<li class="dropdown">
-						<a id="" href="http://inceptivemind.com/category/electronics"><i class="fa fa-bolt"></i> Electronics</a>
-						 &nbsp;<a class="dropdown-toggle" data-toggle="dropdown">
-												 </a>
-						
-						</li>						<li class="dropdown">
-						  <a href=""><i class="fa fa-files-o"></i>&nbsp;Resources</a>
-							 &nbsp;<a class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-caret-down"></i></a>
-							 
-						  <ul class="dropdown-menu secondary-bg-color" role="menu">
-																<li><a href="http://inceptivemind.com/page/terms">Terms</a></li>
-																		<li><a href="http://inceptivemind.com/page/privacy-policy">Privacy Policy</a></li>
-															  </ul>
-						</li>
-						<li class="dropdown">
-												</li>
-										</div>
-			</ul>
-		</div>
-	</div>
-</nav>
-
-</header> <!--/header-->
-<script>
-function viewAllCategories()
-{
-	$('.viewAll').removeClass('hide');
-	$('.viewBtn').remove();
-}
-var categoryIdsArray=[];
-function isInArray(value, array) 
-{
-	return array.indexOf(value) > -1;
-}
-
-$(document).on("click",".headerArticles",function(e) 
-{
-	e.stopPropagation()
-});
-
-$(".h-l a.h-a,.h-a-2").mouseenter(function()
-{
-	var parentCategoryId=this.id;
-	if(!isInArray(parentCategoryId,categoryIdsArray))
-	{
-		var childCategory=$('.mainCat-'+parentCategoryId).attr('id');
-		$('.first'+childCategory).html('<div class="progress"><div class="progress-bar secondary-bg-color progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div></div>');
-		$.ajax({
-			type:"POST",
-			url: 'http://inceptivemind.com/includes/headerSubCategories.php',
-			data: {'cid':childCategory},
-			success: function(data)
-			{
-				$('.first'+childCategory).html(data);
-			}
-		});
-		categoryIdsArray.push(parentCategoryId);
-	}
-});
-
-var exploreLimit = ''; 
-var total_explore_pages = 1;
-var current_explore_page =	2;
-var previousResponse='';
-
-$(".ftrPrdScroll").scroll(function() 
-{
-	if(($(this).scrollTop() + $(this).innerHeight() >= $(this)[0].scrollHeight) && (current_explore_page < total_explore_pages)) 
-	{
-		$(".exp-loader").removeClass("hide");
-		$(".ftrPrdScroll").css("opacity","0.5");
-		$.ajax
-		({
-			type:"POST",
-			url: "http://inceptivemind.com/exploreMoreArticles.php",
-			data: {'page':current_explore_page,'limit':exploreLimit},
-			success: function(response) 
-			{
-				if(response!=previousResponse)
-				{
-					current_explore_page++;
-					previousResponse=response;
-					$('.ftrPrdScroll').append(response);
-					$(".exp-loader").addClass("hide");
-					$(".ftrPrdScroll").css("opacity","1");
-					$(".cat-img img").imgPreload();
-				}
-			}
-		});
-	} 
-});
-</script>
-<!-- Modal 1 -->
-<div class="modal fade in themeModal registerModal" id="sign_signup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false" style="padding-right: 0 !important">
-    <div class="modal-dialog modal-md">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-                <h4 class="modal-title">Join the Inceptive Mind Community</h4>
-                <h5 class="modal-subtitle secondaryText">Join our amazing community</h5>
-            </div>
-            <div class="modal-body">
-                <div class="row">
-                    <div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
-														<a href="http://inceptivemind.com/fbLogin" class="btn btn-lg signup-fb signup-btn fb"><i class="fa fa-facebook"></i> &nbsp;Log In With Facebook</a>
-														<a href="http://inceptivemind.com/signin" class="btn signup-btn btn-lg btn-success"><i class="fa fa-user"></i> &nbsp;Log In With Email Id</a>
-						<hr>
-						<p>Don't Have An Account? Connect via Social Network <a href="http://inceptivemind.com/signup">here</a></p>                    </div>
-                </div>
-            </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<!-- Modal 2 -->
-<div class="modal fade in themeModal removePostModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp;Delete Post</h4>
-			</div>
-            <div class="modal-body">
-				<div class="text-center">
-					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to Delete this Post?</p>
-				</div>
-            </div>
-			<div class="modal-footer text-center">
-				<button type="button" class="btn btn-danger btn-md remove deleteBtn" id="">Yes</button>
-				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<!-- Modal 3 -->
-<div class="modal fade in themeModal removeSelectedModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp; Delete Posts</h4>
-			</div>
-            <div class="modal-body">
-				<div class="text-center">
-					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to Delete selected Posts?</p>
-				</div>
-            </div>
-			<div class="modal-footer text-center">
-				<button type="button" class="btn btn-danger btn-md remove deleteSelected">Yes</button>
-				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<!-- Modal 4 -->
-<div class="modal fade in themeModal removeUserModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp; Delete User</h4>
-            </div>
-            <div class="modal-body">
-				<div class="text-center">
-					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are You Sure You Want To Delete Your Account?</p>
-				</div>
-            </div>
-			<div class="modal-footer text-center">
-				<a href="http://inceptivemind.com//deleteaccount/"><button type="button" class="btn btn-danger btn-md remove">Yes</button></a> &nbsp;
-				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<!-- Modal 5 Not -->
-<div class="modal fade in themeModal" id="associationModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-share-alt"></i>&nbsp; Associate</h4>
-            </div>
-            <div class="modal-body">
-				<div class="text-center">
-					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Asscociate your Account</p>
-				</div>
-            </div>
-			<div class="modal-footer text-center">
-				<a class="pointer associateAccount"><button type="button" class="btn btn-success btn-md remove">Yes</button></a> &nbsp;
-				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<!-- Modal 6 -->
-<!--remove association modal-->
-<div class="modal fade in themeModal" id="removeAssociationModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp;Remove Association</h4>
-            </div>
-            <div class="modal-body">
-				<div class="text-center">
-					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to remove associationt?</p>
-				</div>
-            </div>
-			<div class="modal-footer text-center">
-				<a class="pointer okRemoveAssociation"><button type="button" class="btn btn-success btn-md">Yes</button></a>
-				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<!-- Modal 7 -->
-<div class="modal fade in themeModal" id="setprimaryEmail" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog modal-xs">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-envelope-o"></i>&nbsp; New email</h4>
-            </div>
-            <div class="modal-body">
-				<div id="UpdatePrimaryEmailAlert"></div>
-				<div class="form-group">
-					<label>Email</label>
-					<input type="email" id="newprimaryEmail" class="form-control input-md" placeholder="Enter new email">
-				</div>
-            </div>
-			<div class="modal-footer">
-				<div class="pull-right">
-					<div id="closeresetPrimaryEmailButton">
-						<a onclick="resetPrimaryEmail('1')" class="pointer"><button type="button" class="btn btn-success btn-md">Add</button></a> &nbsp;
-						<button type="button" class="btn btn-default btn-md" data-dismiss="modal" aria-label="Close">Cancel</button>
-					</div>
-				</div>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<!-- Modal 8 -->
-<div class="modal fade in themeModal" id="setprimaryEmailConfirm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-envelope-o"></i>&nbsp; Confirm Account</h4>
-            </div>
-            <div class="modal-body">
-				<div id="UpdateConfirmPrimaryEmailAlert"></div>
-				<div class="form-group">
-					<label>Confirmation Code</label>
-					<input type="text" class="form-control" placeholder="Confirmation code has been sent to your email address." id="confirmprimaryEmail">
-				</div>
-            </div>
-			<div class="modal-footer">
-				<div class="pull-right">
-					<div id="closeconfirmPrimaryEmailButton">
-						<a onclick="confirmPrimaryEmail('')" class="pointer"><button type="button" class="btn btn-success btn-md"><i class="fa fa-pencil-square-o"></i> Confirm</button></a> &nbsp;
-						<button type="button" class="btn btn-default btn-md" data-dismiss="modal" aria-label="Close">close</button>
-					</div>
-				</div>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<!-- Modal 9 Not -->
-<!--change First Password modal-->
-<div class="modal fade in themeModal" id="changePasswordModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false" style="padding-right: 0 !important">
-    <div class="modal-dialog modal-xs">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-                <h4 class="modal-title"><i class="fa fa-unlock-alt"></i>&nbsp; Change Password</h4>
-            </div>
-            <div class="modal-body" style="background-color: #FFF;">
-                <div class="row text-center">
-					<p class="associationchangePasswordMsg modalSingleLineText"></p>
-				</div>
-				<div class="modal-footer">
-					<div class="col-xs-12 text-center">
-						<a onclick="changePassword()" class="pointer"><button type="button" class="btn btn-success btn-md">Yes</button></a> &nbsp;
-						<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
-					</div>
-				</div>
-            </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<!-- Modal 10 -->
-<div class="modal fade in themeModal" id="removeSlideModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp;Delete Slide</h4>
-			</div>
-            <div class="modal-body">
-				<div class="text-center">
-					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are You Sure You Want to Delete this Slide?</p>
-				</div>
-            </div>
-			<div class="modal-footer text-center">
-				<a><button type="button" class="btn btn-danger btn-md removeSlide" id="">Yes</button></a>
-				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-<!-- Modal 11 -->
-<div class="modal fade in themeModal removeCommentModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp;Delete Comment</h4>
-			</div>
-            <div class="modal-body">
-				<div class="text-center">
-					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to Delete this Comment?</p>
-				</div>
-            </div>
-			<div class="modal-footer text-center">
-				<button type="button" class="btn btn-danger btn-md remove deleteBtn" id="">Yes</button>
-				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-<!-- Modal 12 -->
-<div class="modal fade in themeModal removeSelectedCommentsModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" style="padding-right: 0 !important">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
-				<h4 class="modal-title"><i class="fa fa-trash"></i>&nbsp; Delete Comments</h4>
-			</div>
-            <div class="modal-body">
-				<div class="text-center">
-					<p class="modalSingleLineText"><i class="fa fa-exclamation-triangle fa-lg fa-fw"></i> Are you sure you want to Delete selected Comments?</p>
-				</div>
-            </div>
-			<div class="modal-footer text-center">
-				<button type="button" class="btn btn-danger btn-md remove deleteSelected">Yes</button>
-				<button type="button" class="btn btn-default btn-md" data-dismiss="modal">No</button>
-			</div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal --><title>Privacy Policy</title>
-<meta name="description" content="This online privacy policy applies only to information collected through our website and not to information collected offline.">
-<meta name="keywords" content="privacy policy,inceptive mind">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:type" content="product">
-<meta property="og:url" content="http://inceptivemind.com/page/privacy-policy">
-<meta property="og:image" content="http://inceptivemind.com/images/cover.jpg">
-<meta property="og:description" content="This online privacy policy applies only to information collected through our website and not to information collected offline."> 
-<meta property="og:site_name" content="Inceptive Mind">
-<div class="container pagez">
-	<div class="row">
-		<div class="col-lg-10 col-lg-offset-1">
-						<div class="theme-page card box">
-				<div class="breadcrumb">
-					<h1><span class="subLink">Privacy Policy</span></h1>
-				</div>
-				<h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">What information do we collect?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on the site.&nbsp;When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or website URL. You may, however, visit our site anonymously.</p><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">Google, as a third-party vendor, uses cookies to serve ads on your site.&nbsp;Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.&nbsp;Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">What do we use your information for?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">Any of the information we collect from you may be used in one of the following ways:</p><ul style="padding: 0px; margin-bottom: 26px; color: rgb(34, 34, 34); font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px;"><li style="margin-left: 21px; font-size: 15px;">To personalize your experience:<br>Your information helps us to better respond to your individual needs.</li><li style="margin-left: 21px; font-size: 15px;">To improve our website:<br>We continually strive to improve our website offerings based on the information and feedback we receive from you.</li><li style="margin-left: 21px; font-size: 15px;">To improve customer service:<br>Your information helps us to more effectively respond to your customer service requests and support needs.</li><li style="margin-left: 21px; font-size: 15px;">To send periodic emails:&nbsp;<br>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</li></ul><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">How do we protect your information?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Do we use cookies?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">Yes, Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (only if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Do we disclose any information to outside parties?</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">We do not sell, trade, or otherwise, transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Third party links</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Online Privacy Policy Only</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">This online privacy policy applies only to information collected through our website and not to information collected offline.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Terms and Conditions</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at&nbsp;<a href="http://inceptivemind.com" style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0); text-align: justify;">http://inceptivemind.com</a></p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Your Consent</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">By using our site, you consent to our&nbsp;online privacy policy&nbsp;<a href="http://www.freeprivacypolicy.com/">here</a>.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Changes to our Privacy Policy</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">If we decide to change our privacy policy, we will post those changes on this page.</p><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">This policy was last modified on 15/08/2016.</p><h3 style="font-family: Roboto, sans-serif; color: rgb(0, 0, 0); margin-top: 27px; margin-bottom: 17px; line-height: 30px;">Contacting Us</h3><p style="font-family: Verdana, Geneva, sans-serif; font-size: 15px; line-height: 26px; margin-bottom: 26px; color: rgb(0, 0, 0);">If there are any questions regarding this privacy policy you may contact us&nbsp;<a href="http://inceptivemind.com/contact" style="font-size: 15px; margin-bottom: 26px;">here</a>.</p>			</div>
-					</div>
-	</div>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" td-md-is-chrome"><!--<![endif]--><head><title>Privacy Policy - Inceptive Mind</title><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="pingback" href="https://www.inceptivemind.com/xmlrpc.php"><link as="font" href="//www.infophilic.com/wp-content/themes/infophilic/images/icons/newspaper.woff?15" rel="preload" type="font/woff"><link href="https://fonts.gstatic.com" rel="dns-prefetch"><link href="https://www.googletagservices.com" rel="dns-prefetch"><link href="https://ad.doubleclick.net" rel="dns-prefetch"><link href="https://adservice.google.com" rel="dns-prefetch"><link href="https://tpc.googlesyndication.com" rel="dns-prefetch"><link href="https://cm.g.doubleclick.net" rel="dns-prefetch"><link href="https://stats.g.doubleclick.net" rel="dns-prefetch"><link href="https://pagead2.googlesyndication.com" rel="dns-prefetch"><link href="https://www.google-analytics.com" rel="dns-prefetch"><link href="https://googleads.g.doubleclick.net" rel="dns-prefetch"><link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"><link crossorigin="anonymous" href="https://www.googletagservices.com" rel="preconnect"><link crossorigin="anonymous" href="https://ad.doubleclick.net" rel="preconnect"><link crossorigin="anonymous" href="https://tpc.googlesyndication.com" rel="preconnect"><link rel="icon" type="image/png" href="https://www.inceptivemind.com/wp-content/uploads/2019/02/fav.png"><link rel="canonical" href="https://www.inceptivemind.com/privacy/"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Privacy Policy - Inceptive Mind"><meta property="og:description" content="What information do we collect? We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on the site.&nbsp;When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or website URL. You may, however, visit our site anonymously. …"><meta property="og:url" content="https://www.inceptivemind.com/privacy/"><meta property="og:site_name" content="Inceptive Mind"><meta property="article:publisher" content="https://www.facebook.com/inceptive.in/"><meta property="article:author" content="https://www.facebook.com/malewar.amit"><meta property="fb:app_id" content="176562169581443"><meta property="og:image" content="https://www.inceptivemind.com/wp-content/uploads/2017/09/profile-fb.png"><meta property="og:image:secure_url" content="https://www.inceptivemind.com/wp-content/uploads/2017/09/profile-fb.png"><meta property="og:image:width" content="800"><meta property="og:image:height" content="800"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:description" content="What information do we collect? We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on the site.&nbsp;When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or website URL. You may, however, visit our site anonymously. […]"><meta name="twitter:title" content="Privacy Policy - Inceptive Mind"><meta name="twitter:site" content="@Inceptive_Mind"><meta name="twitter:image" content="https://www.inceptivemind.com/wp-content/uploads/2017/09/profile-fb.png"><meta name="twitter:creator" content="@amit_malewar"> <script async="" src="https://www.inceptivemind.com/wp-content/cache/busting/google-tracking/ga-0ea40a4cb2873a89cbe597eaea860826.js"></script><script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.inceptivemind.com/#organization","name":"Inceptive Mind","url":"https://www.inceptivemind.com/","sameAs":["https://www.facebook.com/inceptive.in/","https://twitter.com/Inceptive_Mind"],"logo":{"@type":"ImageObject","@id":"https://www.inceptivemind.com/#logo","url":"https://www.inceptivemind.com/wp-content/uploads/2018/11/IM-logo.png","caption":"Inceptive Mind"},"image":{"@id":"https://www.inceptivemind.com/#logo"}},{"@type":"WebSite","@id":"https://www.inceptivemind.com/#website","url":"https://www.inceptivemind.com/","name":"Inceptive Mind","publisher":{"@id":"https://www.inceptivemind.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.inceptivemind.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.inceptivemind.com/privacy/#webpage","url":"https://www.inceptivemind.com/privacy/","inLanguage":"en-US","name":"Privacy Policy - Inceptive Mind","isPartOf":{"@id":"https://www.inceptivemind.com/#website"},"datePublished":"2017-09-04T07:07:54+00:00","dateModified":"2018-09-30T10:15:35+00:00","breadcrumb":{"@id":"https://www.inceptivemind.com/privacy/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://www.inceptivemind.com/privacy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.inceptivemind.com/","url":"https://www.inceptivemind.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.inceptivemind.com/privacy/","url":"https://www.inceptivemind.com/privacy/","name":"Privacy Policy"}}]}]}</script> <script type="text/javascript" data-cfasync="false">var mi_version         = '7.5.1';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
 	
-</div> <!-- /.container -->
-</div> <!-- #wrap -->
-	<ul class="bottom-notifications notification"></ul>
-	<footer style="background-color: #FFF; margin-top:50px; box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.05);">
-		<div class="container">
-			<div class="home-footer">
-	            <a href="http://inceptivemind.com"><img src="http://inceptivemind.com/images/footerLogo.png?1471446741"></a>
-	            <div class="themeScroll home-footer-links">
-												<a href="http://inceptivemind.com/page/terms">Terms</a>
-														<a href="http://inceptivemind.com/page/privacy-policy">Privacy Policy</a>
-															<a href="http://www.snaxzer.com" target="_blank">TECH BLOG</a>
-									                <a href="http://inceptivemind.com/contact"><i class="fa fa-phone"></i>&nbsp; Contact Us</a>
-						            </div>
-					        </div>
-        </div>
-	</footer>	
-<a href="#" class="cd-top hidden-xs"><i class="fa fa-chevron-up"></i></a>
-<script>
-$('.languageSelection').click(function(){
-	var languageId=$(this).attr('data-id');
-	$.post("http://inceptivemind.com/statsCalculation.php",{ language:languageId},function(ajaxresult){
-		location.reload();
-	});
-})
-	$(document).on('mouseover', '.subscribeBtn', function() {
-	   if ($(this).hasClass("verify"))
-		{
-			$(this).addClass('btn-danger');
-			$(this).removeClass('btn-success');
-			$(this).html('<i class="fa fa-times"></i> Unsubscribe');
-		}
-	});
-	$(document).on('mouseout', '.subscribeBtn', function() {
-	   if ($(this).hasClass( "verify"))
-		{
-			$(this).addClass('btn-success');
-			$(this).removeClass('btn-danger');
-			$(this).html('<i class="fa fa-check"></i> Subscribed');
-		}
-	});
-	$(document).on('mouseover', '.removeSubscr', function() {
-		var id=this.id;
-	   if ($(this).hasClass("verify"))
-		{
-			$(this).addClass('btn-danger');
-			$(this).removeClass('btn-success');
-			$(this).html('<i class="fa fa-times"></i> Remove');
-		}
-	});
-	$(document).on('mouseout', '.removeSubscr', function() {
-	   if ($(this).hasClass( "verify"))
-		{
-			$(this).addClass('btn-success');
-			$(this).removeClass('btn-danger');
-			$(this).html('<i class="fa fa-check"></i> Subscribed');
-		}
-	});
-	function categoriesSubscribe(cid,userId)
-	{
-		var subscribeValue = document.getElementById('subscribeValue').value;
-		$('.subscribeBtn').html('<img src="http://inceptivemind.com/images/loading.gif">');
-		$.ajax({
-			type: "POST",
-			url: "http://inceptivemind.com/includes/categorySubscribe.php",
-			data: {'subscribeValue':subscribeValue,'cid':cid,'userId':userId},
-			dataType: "json",
-			success: function(data)
-			{
-				document.getElementById('subscribeValue').value = data[0];
-				$("#subscriberResultAfterAjaxResult").html(data[1]);
-			}
-		}); 
-	}
-	function tagsSubscribe(tag,userId)
-	{
-		var subscribeValue = document.getElementById('subscribeValue').value;
-		$('.subscribeBtn').html('<img src="http://inceptivemind.com/images/loading.gif">');
-		$.ajax({
-			type: "POST",
-			url: "http://inceptivemind.com/includes/tagsSubscribe.php",
-			data: {'subscribeValue':subscribeValue,'tag':tag,'userId':userId},
-			dataType: "json",
-			success: function(data)
-			{
-				document.getElementById('subscribeValue').value = data[0];
-				$("#subscriberResultAfterAjaxResult").html(data[1]);
-			}
-		}); 
-	}
-	function userSubscribe(profileuserId,userId)
-	{
-		var subscribeValue = document.getElementById('subscribeValue').value;
-		$('.userSubscribeBtn').html('<img src="http://inceptivemind.com/images/loading.gif">');
-		$.ajax({
-			type: "POST",
-			url: "http://inceptivemind.com/includes/userSubscribe.php",
-			data: {'subscribeValue':subscribeValue,'profileuserId':profileuserId,'userId':userId},
-			dataType: "json",
-			success: function(data)
-			{
-				
-				document.getElementById('subscribeValue').value = data[0];
-				$("#subscriberResultAfterAjaxResult").html(data[1]);
-			}
-		}); 
-	}
-	function subscription(profileuserId,userId)
-	{
-		var subscribeValue = document.getElementById('subscribeValue-'+profileuserId).value;
-		$('.subscribeBtn-'+profileuserId).html('<img src="http://inceptivemind.com/images/loading.gif">');
-		$.ajax({
-			type: "POST",
-			url: "http://inceptivemind.com/includes/userSubscribe.php",
-			data: {'subscribeValue':subscribeValue,'profileuserId':profileuserId,'userId':userId},
-			dataType: "json",
-			success: function(data)
-			{
-				document.getElementById('subscribeValue-'+profileuserId).value=data[0];
-				$(".subscriber-"+profileuserId).html(data[1]);
-				$("#subscriber-"+profileuserId).html(data[2]);
-			}
-		}); 
-	}
-	function removeSubscription(input,profileuserId,userId)
-	{
-		var subscribeValue = document.getElementById('subscribeValue-'+profileuserId).value;
-		var id=input.id;
-		$('.user-'+id).remove();
-		$.ajax({
-			type: "POST",
-			url: "http://inceptivemind.com/includes/userSubscribe.php",
-			data: {'subscribeValue':subscribeValue,'profileuserId':profileuserId,'userId':userId},
-			dataType: "json",
-			success: function(data)
-			{
-			}
-		});
-		numItems = $('.userUnsubscribe').length;
-		if(numItems==0)
-		{
-			$("#subscribed-r").trigger("click");
-		}
-	}
-	function addSubscribeAfterlogin(productUserid)
-	{
-		$.ajax
-		({
-			type: "POST",
-			url: "http://inceptivemind.com/includes/afterLoginRating.php",
-			data: {'productUserid':productUserid,'subscribe':'subscribe'},
-			success: function(data)
-			{} 
-		}); 
-	}
-	$(".associateAccount").click(function(){
-	$('#associationModal').modal('hide');
-	$('#associationPreloader').html('<div id="loading"><div id="loading-center"><div id="loading-center-absolute"><div class="cssload-container"><div class="cssload-speeding-wheel"></div></div></div></div></div>');
-	$.ajax({
-		type: "POST",
-		url: "http://inceptivemind.com/includes/associate.php",
-		data: {'associate':1},
-		success: function(data)
-		{
-			window.location='http://inceptivemind.com/confirmAssociation';
-		}
-	});
-});
-$.post("http://inceptivemind.com/statsCalculation.php",{ incrementWebsitePageViews:'incrementWebsitePageViews'},function(ajaxresult){});
-$(".homeheader .navbar-toggle").click(function(e) 
-{
-	e.stopPropagation();
-	$("#sidebar-wrapper").toggle('slide', { direction: 'left' }, 200);
-});
-$(document).click(function(e)
-{
-	$("#sidebar-wrapper").hide('slide', { direction: 'left' }, 200);
-	$(".settingsSidebarLock").removeClass("in");
-});
-$(".settingsSidebarLock li a").click(function(e)
-{
-	e.stopPropagation();
-});
-$("#sidebar-wrapper").click(function(e)
-{
-	if (!($(e.target).is('a.dropdown-toggle')) && !($(e.target).is('i.fa')) && !($(e.target).is('a[href="#sign_signup"]'))) 
-	{
-        e.stopPropagation();
-    }  
-});
-</script>
-<script src="http://inceptivemind.com/style/js/preloader.js" type="text/javascript"></script>
-<script src="http://inceptivemind.com/style/js/jquery-ui-1.11.4.js" type="text/javascript"></script><script src="http://inceptivemind.com/style/js/bootoption.js" type="text/javascript"></script>
-<script src="http://inceptivemind.com/style/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="http://inceptivemind.com/style/js/nicescroll.min.js" type="text/javascript"></script>
-<script src="http://inceptivemind.com/style/js/lightbox.min.js" type="text/javascript"></script>
-<script src="http://inceptivemind.com/style/js/favico.js" type="text/javascript"></script>
-<script src="http://inceptivemind.com/style/js/back-to-top.js" type="text/javascript"></script>
-<script src="http://inceptivemind.com/style/js/custom.js" type="text/javascript"></script>
+	var disableStr = 'ga-disable-UA-82487041-1';
 
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.inceptivemind.com/wp-content/cache/busting/google-tracking/ga-0ea40a4cb2873a89cbe597eaea860826.js','__gaTracker');
+
+		__gaTracker('create', 'UA-82487041-1', 'auto', {'useAmpClientId':true});
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}</script> <link rel="stylesheet" id="wp-block-library-css" href="https://www.inceptivemind.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all"><link data-minify="1" rel="stylesheet" id="td-plugin-newsletter-css" href="https://www.inceptivemind.com/wp-content/cache/min/1/wp-content/plugins/td-newsletter/style-ad928e0ff581dc4d3636975b9989135c.css" type="text/css" media="all"><link rel="stylesheet" id="td-plugin-multi-purpose-css" href="https://www.inceptivemind.com/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=3328da2481dfce47ccb29fd8f8bc649a" type="text/css" media="all"><link data-minify="1" rel="stylesheet" id="td-theme-css" href="https://www.inceptivemind.com/wp-content/cache/min/1/wp-content/themes/im-n/style-9262d1ce4ce615f42508048ef5e97b73.css" type="text/css" media="all"><link data-minify="1" rel="stylesheet" id="tdb_front_style-css" href="https://www.inceptivemind.com/wp-content/cache/min/1/wp-content/plugins/td-cloud-library/assets/css/tdb_less_front-17c2616f2e53a32ea35a72ea1964017d.css" type="text/css" media="all"><style id="rocket-lazyload-inline-css" type="text/css">.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://www.inceptivemind.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}.wp-has-aspect-ratio .rll-youtube-player{position:absolute;padding-bottom:0;width:100%;height:100%;top:0;bottom:0;left:0;right:0;</style> <script type="text/javascript">/* <![CDATA[ */ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/www.inceptivemind.com","hash_tracking":"false"}; /* ]]> */</script> <script type="text/javascript" src="https://www.inceptivemind.com/wp-content/plugins/google-analytics-premium/assets/js/frontend.min.js?ver=7.5.1"></script> <script type="text/javascript" src="https://www.inceptivemind.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script> <script type="text/javascript" src="https://www.inceptivemind.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script> <link rel="https://api.w.org/" href="https://www.inceptivemind.com/wp-json/"><link rel="shortlink" href="https://wp.me/P8jpnx-lH"><meta property="fb:pages" content="685156884880562 "><link rel="manifest" href="https://www.inceptivemind.com?jetpack_app_manifest=1"><meta name="theme-color" content="#ffc300"><style type="text/css">img#wpstats{display:none}</style> <script>window.tdb_globals = {"wpRestNonce":"0fc8d6b87c","wpRestUrl":"https:\/\/www.inceptivemind.com\/wp-json\/","permalinkStructure":"\/%postname%\/%post_id%\/","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50};</script> <script>window.tdwGlobal = {"adminUrl":"https:\/\/www.inceptivemind.com\/wp-admin\/","wpRestNonce":"0fc8d6b87c","wpRestUrl":"https:\/\/www.inceptivemind.com\/wp-json\/","permalinkStructure":"\/%postname%\/%post_id%\/"};</script> <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]--><meta name="onesignal" content="wordpress-plugin"><link rel="manifest" href="https://www.inceptivemind.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id="> <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script> <script>window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.inceptivemind.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'dd35b0f6-b121-4a69-88e6-0114d2cd5af0';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Inceptive Mind";
+oneSignal_options['welcomeNotification']['message'] = "Thank you for your support.";
+oneSignal_options['path'] = "https://www.inceptivemind.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.03c56528-3ec2-4727-882a-5ccb48032a98";
+oneSignal_options['persistNotification'] = false;
+oneSignal_options['promptOptions'] = { };
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }</script> <link rel="amphtml" href="https://www.inceptivemind.com/privacy/?amp"> <script>var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var tds_general_modal_image="yes";
+var td_ajax_url="https:\/\/www.inceptivemind.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=9.6.1";
+var td_get_template_directory_uri="https:\/\/www.inceptivemind.com\/wp-content\/themes\/im-n";
+var tds_snap_menu="smart_snap_always";
+var tds_logo_on_sticky="show";
+var tds_header_style="tdm_header_style_3";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=2500;
+var tds_theme_color_site_wide="#ff6636";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";</script> <style>.td-header-wrap .black-menu .sf-menu>.current-menu-item>a,.td-header-wrap .black-menu .sf-menu>.current-menu-ancestor>a,.td-header-wrap .black-menu .sf-menu>.current-category-ancestor>a,.td-header-wrap .black-menu .sf-menu>li>a:hover,.td-header-wrap .black-menu .sf-menu>.sfHover>a,.td-header-style-12 .td-header-menu-wrap-full,.sf-menu>.current-menu-item>a:after,.sf-menu>.current-menu-ancestor>a:after,.sf-menu>.current-category-ancestor>a:after,.sf-menu>li:hover>a:after,.sf-menu>.sfHover>a:after,.td-header-style-12 .td-affix,.header-search-wrap .td-drop-down-search:after,.header-search-wrap .td-drop-down-search .btn:hover,input[type=submit]:hover,.td-read-more a,.td-post-category:hover,.td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,.td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,.td_top_authors .td-active .td-author-post-count,.td_top_authors .td-active .td-author-comments-count,.td_top_authors .td_mod_wrap:hover .td-author-post-count,.td_top_authors .td_mod_wrap:hover .td-author-comments-count,.td-404-sub-sub-title a:hover,.td-search-form-widget .wpb_button:hover,.td-rating-bar-wrap div,.td_category_template_3 .td-current-sub-category,.dropcap,.td_wrapper_video_playlist .td_video_controls_playlist_wrapper,.wpb_default,.wpb_default:hover,.td-left-smart-list:hover,.td-right-smart-list:hover,.woocommerce-checkout .woocommerce input.button:hover,.woocommerce-page .woocommerce a.button:hover,.woocommerce-account div.woocommerce .button:hover,#bbpress-forums button:hover,.bbp_widget_login .button:hover,.td-footer-wrapper .td-post-category,.td-footer-wrapper .widget_product_search input[type="submit"]:hover,.woocommerce .product a.button:hover,.woocommerce .product #respond input#submit:hover,.woocommerce .checkout input#place_order:hover,.woocommerce .woocommerce.widget .button:hover,.single-product .product .summary .cart .button:hover,.woocommerce-cart .woocommerce table.cart .button:hover,.woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,.td-next-prev-wrap a:hover,.td-load-more-wrap a:hover,.td-post-small-box a:hover,.page-nav .current,.page-nav:first-child>div,.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,.td_category_template_4 .td-category-siblings .td-category a:hover,#bbpress-forums .bbp-pagination .current,#bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,.td-theme-slider:hover .slide-meta-cat a,a.vc_btn-black:hover,.td-trending-now-wrapper:hover .td-trending-now-title,.td-scroll-up,.td-smart-list-button:hover,.td-weather-information:before,.td-weather-week:before,.td_block_exchange .td-exchange-header:before,.td_block_big_grid_9.td-grid-style-1 .td-post-category,.td_block_big_grid_9.td-grid-style-5 .td-post-category,.td-grid-style-6.td-hover-1 .td-module-thumb:after,.td-pulldown-syle-2 .td-subcat-dropdown ul:after,.td_block_template_9 .td-block-title:after,.td_block_template_15 .td-block-title:before,div.wpforms-container .wpforms-form div.wpforms-submit-container button[type=submit]{background-color:#ff6636}.td_block_template_4 .td-related-title .td-cur-simple-item:before{border-color:#ff6636 transparent transparent transparent!important}.woocommerce .woocommerce-message .button:hover,.woocommerce .woocommerce-error .button:hover,.woocommerce .woocommerce-info .button:hover{background-color:#ff6636!important}.td_block_template_4 .td-related-title .td-cur-simple-item,.td_block_template_3 .td-related-title .td-cur-simple-item,.td_block_template_9 .td-related-title:after{background-color:#ff6636}.woocommerce .product .onsale,.woocommerce.widget .ui-slider .ui-slider-handle{background:none #ff6636}.woocommerce.widget.widget_layered_nav_filters ul li a{background:none repeat scroll 0 0 #ff6636!important}a,cite a:hover,.td_mega_menu_sub_cats .cur-sub-cat,.td-mega-span h3 a:hover,.td_mod_mega_menu:hover .entry-title a,.header-search-wrap .result-msg a:hover,.td-header-top-menu .td-drop-down-search .td_module_wrap:hover .entry-title a,.td-header-top-menu .td-icon-search:hover,.td-header-wrap .result-msg a:hover,.top-header-menu li a:hover,.top-header-menu .current-menu-item>a,.top-header-menu .current-menu-ancestor>a,.top-header-menu .current-category-ancestor>a,.td-social-icon-wrap>a:hover,.td-header-sp-top-widget .td-social-icon-wrap a:hover,.td-page-content blockquote p,.td-post-content blockquote p,.mce-content-body blockquote p,.comment-content blockquote p,.wpb_text_column blockquote p,.td_block_text_with_title blockquote p,.td_module_wrap:hover .entry-title a,.td-subcat-filter .td-subcat-list a:hover,.td-subcat-filter .td-subcat-dropdown a:hover,.td_quote_on_blocks,.dropcap2,.dropcap3,.td_top_authors .td-active .td-authors-name a,.td_top_authors .td_mod_wrap:hover .td-authors-name a,.td-post-next-prev-content a:hover,.author-box-wrap .td-author-social a:hover,.td-author-name a:hover,.td-author-url a:hover,.td_mod_related_posts:hover h3>a,.td-post-template-11 .td-related-title .td-related-left:hover,.td-post-template-11 .td-related-title .td-related-right:hover,.td-post-template-11 .td-related-title .td-cur-simple-item,.td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,.comment-reply-link:hover,.logged-in-as a:hover,#cancel-comment-reply-link:hover,.td-search-query,.td-category-header .td-pulldown-category-filter-link:hover,.td-category-siblings .td-subcat-dropdown a:hover,.td-category-siblings .td-subcat-dropdown a.td-current-sub-category,.widget a:hover,.td_wp_recentcomments a:hover,.archive .widget_archive .current,.archive .widget_archive .current a,.widget_calendar tfoot a:hover,.woocommerce a.added_to_cart:hover,.woocommerce-account .woocommerce-MyAccount-navigation a:hover,#bbpress-forums li.bbp-header .bbp-reply-content span a:hover,#bbpress-forums .bbp-forum-freshness a:hover,#bbpress-forums .bbp-topic-freshness a:hover,#bbpress-forums .bbp-forums-list li a:hover,#bbpress-forums .bbp-forum-title:hover,#bbpress-forums .bbp-topic-permalink:hover,#bbpress-forums .bbp-topic-started-by a:hover,#bbpress-forums .bbp-topic-started-in a:hover,#bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,#bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,.widget_display_replies .bbp-author-name,.widget_display_topics .bbp-author-name,.footer-text-wrap .footer-email-wrap a,.td-subfooter-menu li a:hover,.footer-social-wrap a:hover,a.vc_btn-black:hover,.td-smart-list-dropdown-wrap .td-smart-list-button:hover,.td_module_17 .td-read-more a:hover,.td_module_18 .td-read-more a:hover,.td_module_19 .td-post-author-name a:hover,.td-instagram-user a,.td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,.td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,.td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,.td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,.td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,.td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,.td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,.td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item .td-cur-simple-item,.td_block_template_2 .td-related-title .td-cur-simple-item,.td_block_template_5 .td-related-title .td-cur-simple-item,.td_block_template_6 .td-related-title .td-cur-simple-item,.td_block_template_7 .td-related-title .td-cur-simple-item,.td_block_template_8 .td-related-title .td-cur-simple-item,.td_block_template_9 .td-related-title .td-cur-simple-item,.td_block_template_10 .td-related-title .td-cur-simple-item,.td_block_template_11 .td-related-title .td-cur-simple-item,.td_block_template_12 .td-related-title .td-cur-simple-item,.td_block_template_13 .td-related-title .td-cur-simple-item,.td_block_template_14 .td-related-title .td-cur-simple-item,.td_block_template_15 .td-related-title .td-cur-simple-item,.td_block_template_16 .td-related-title .td-cur-simple-item,.td_block_template_17 .td-related-title .td-cur-simple-item,.td-theme-wrap .sf-menu ul .td-menu-item>a:hover,.td-theme-wrap .sf-menu ul .sfHover>a,.td-theme-wrap .sf-menu ul .current-menu-ancestor>a,.td-theme-wrap .sf-menu ul .current-category-ancestor>a,.td-theme-wrap .sf-menu ul .current-menu-item>a,.td_outlined_btn,.td_block_categories_tags .td-ct-item:hover{color:#ff6636}a.vc_btn-black.vc_btn_square_outlined:hover,a.vc_btn-black.vc_btn_outlined:hover,.td-mega-menu-page .wpb_content_element ul li a:hover,.td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,.td-theme-wrap .header-search-wrap .result-msg a:hover{color:#ff6636!important}.td-next-prev-wrap a:hover,.td-load-more-wrap a:hover,.td-post-small-box a:hover,.page-nav .current,.page-nav:first-child>div,.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,.td_category_template_4 .td-category-siblings .td-category a:hover,#bbpress-forums .bbp-pagination .current,.post .td_quote_box,.page .td_quote_box,a.vc_btn-black:hover,.td_block_template_5 .td-block-title>*,.td_outlined_btn{border-color:#ff6636}.td_wrapper_video_playlist .td_video_currently_playing:after{border-color:#ff6636!important}.header-search-wrap .td-drop-down-search:before{border-color:transparent transparent #ff6636 transparent}.block-title>span,.block-title>a,.block-title>label,.widgettitle,.widgettitle:after,.td-trending-now-title,.td-trending-now-wrapper:hover .td-trending-now-title,.wpb_tabs li.ui-tabs-active a,.wpb_tabs li:hover a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active>a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover>a,.td_block_template_1 .td-related-title .td-cur-simple-item,.woocommerce .product .products h2:not(.woocommerce-loop-product__title),.td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,.td_3D_btn,.td_shadow_btn,.td_default_btn,.td_round_btn,.td_outlined_btn:hover{background-color:#ff6636}.woocommerce div.product .woocommerce-tabs ul.tabs li.active{background-color:#ff6636!important}.block-title,.td_block_template_1 .td-related-title,.wpb_tabs .wpb_tabs_nav,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,.woocommerce div.product .woocommerce-tabs ul.tabs:before{border-color:#ff6636}.td_block_wrap .td-subcat-item a.td-cur-simple-item{color:#ff6636}.td-grid-style-4 .entry-title{background-color:rgba(255,102,54,.7)}.block-title>span,.block-title>span>a,.block-title>a,.block-title>label,.widgettitle,.widgettitle:after,.td-trending-now-title,.td-trending-now-wrapper:hover .td-trending-now-title,.wpb_tabs li.ui-tabs-active a,.wpb_tabs li:hover a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active>a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover>a,.td_block_template_1 .td-related-title .td-cur-simple-item,.woocommerce .product .products h2:not(.woocommerce-loop-product__title),.td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,.td-weather-information:before,.td-weather-week:before,.td_block_exchange .td-exchange-header:before,.td-theme-wrap .td_block_template_3 .td-block-title>*,.td-theme-wrap .td_block_template_4 .td-block-title>*,.td-theme-wrap .td_block_template_7 .td-block-title>*,.td-theme-wrap .td_block_template_9 .td-block-title:after,.td-theme-wrap .td_block_template_10 .td-block-title::before,.td-theme-wrap .td_block_template_11 .td-block-title::before,.td-theme-wrap .td_block_template_11 .td-block-title::after,.td-theme-wrap .td_block_template_14 .td-block-title,.td-theme-wrap .td_block_template_15 .td-block-title:before,.td-theme-wrap .td_block_template_17 .td-block-title:before{background-color:#f9f9f9}.woocommerce div.product .woocommerce-tabs ul.tabs li.active{background-color:#f9f9f9!important}.block-title,.td_block_template_1 .td-related-title,.wpb_tabs .wpb_tabs_nav,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,.woocommerce div.product .woocommerce-tabs ul.tabs:before,.td-theme-wrap .td_block_template_5 .td-block-title>*,.td-theme-wrap .td_block_template_17 .td-block-title,.td-theme-wrap .td_block_template_17 .td-block-title::before{border-color:#f9f9f9}.td-theme-wrap .td_block_template_4 .td-block-title>*:before,.td-theme-wrap .td_block_template_17 .td-block-title::after{border-color:#f9f9f9 transparent transparent transparent}.td-theme-wrap .td_block_template_4 .td-related-title .td-cur-simple-item:before{border-color:#f9f9f9 transparent transparent transparent!important}.td-theme-wrap .block-title>span,.td-theme-wrap .block-title>span>a,.td-theme-wrap .widget_rss .block-title .rsswidget,.td-theme-wrap .block-title>a,.widgettitle,.widgettitle>a,.td-trending-now-title,.wpb_tabs li.ui-tabs-active a,.wpb_tabs li:hover a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active>a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover>a,.td-related-title .td-cur-simple-item,.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.woocommerce .product .products h2:not(.woocommerce-loop-product__title),.td-theme-wrap .td_block_template_2 .td-block-title>*,.td-theme-wrap .td_block_template_3 .td-block-title>*,.td-theme-wrap .td_block_template_4 .td-block-title>*,.td-theme-wrap .td_block_template_5 .td-block-title>*,.td-theme-wrap .td_block_template_6 .td-block-title>*,.td-theme-wrap .td_block_template_6 .td-block-title:before,.td-theme-wrap .td_block_template_7 .td-block-title>*,.td-theme-wrap .td_block_template_8 .td-block-title>*,.td-theme-wrap .td_block_template_9 .td-block-title>*,.td-theme-wrap .td_block_template_10 .td-block-title>*,.td-theme-wrap .td_block_template_11 .td-block-title>*,.td-theme-wrap .td_block_template_12 .td-block-title>*,.td-theme-wrap .td_block_template_13 .td-block-title>span,.td-theme-wrap .td_block_template_13 .td-block-title>a,.td-theme-wrap .td_block_template_14 .td-block-title>*,.td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option,.td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option i,.td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,.td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,.td-theme-wrap .td_block_template_15 .td-block-title>*,.td-theme-wrap .td_block_template_15 .td-block-title-wrap .td-wrapper-pulldown-filter,.td-theme-wrap .td_block_template_15 .td-block-title-wrap .td-wrapper-pulldown-filter i,.td-theme-wrap .td_block_template_16 .td-block-title>*,.td-theme-wrap .td_block_template_17 .td-block-title>*{color:#aaa}.td-header-top-menu,.td-header-top-menu a,.td-header-wrap .td-header-top-menu-full .td-header-top-menu,.td-header-wrap .td-header-top-menu-full a,.td-header-style-8 .td-header-top-menu,.td-header-style-8 .td-header-top-menu a,.td-header-top-menu .td-drop-down-search .entry-title a{color:#fff}.top-header-menu .current-menu-item>a,.top-header-menu .current-menu-ancestor>a,.top-header-menu .current-category-ancestor>a,.top-header-menu li a:hover,.td-header-sp-top-widget .td-icon-search:hover{color:#ff6636}.td-header-wrap .td-header-menu-wrap-full,.td-header-menu-wrap.td-affix,.td-header-style-3 .td-header-main-menu,.td-header-style-3 .td-affix .td-header-main-menu,.td-header-style-4 .td-header-main-menu,.td-header-style-4 .td-affix .td-header-main-menu,.td-header-style-8 .td-header-menu-wrap.td-affix,.td-header-style-8 .td-header-top-menu-full{background-color:#ffc300}.td-boxed-layout .td-header-style-3 .td-header-menu-wrap,.td-boxed-layout .td-header-style-4 .td-header-menu-wrap,.td-header-style-3 .td_stretch_content .td-header-menu-wrap,.td-header-style-4 .td_stretch_content .td-header-menu-wrap{background-color:#ffc300!important}@media (min-width:1019px){.td-header-style-1 .td-header-sp-recs,.td-header-style-1 .td-header-sp-logo{margin-bottom:28px}}@media (min-width:768px) and (max-width:1018px){.td-header-style-1 .td-header-sp-recs,.td-header-style-1 .td-header-sp-logo{margin-bottom:14px}}.td-header-style-7 .td-header-top-menu{border-bottom:none}@media (max-width:767px){body .td-header-wrap .td-header-main-menu{background-color:#ffc300!important}}@media (max-width:767px){body #td-top-mobile-toggle i,.td-header-wrap .header-search-wrap .td-icon-search{color:#222222!important}}.td-menu-background:before,.td-search-background:before{background:#fff;background:-moz-linear-gradient(top,#ffffff 0%,#ffffff 100%);background:-webkit-gradient(left top,left bottom,color-stop(0%,#ffffff),color-stop(100%,#ffffff));background:-webkit-linear-gradient(top,#ffffff 0%,#ffffff 100%);background:-o-linear-gradient(top,#ffffff 0%,#ffffff 100%);background:-ms-linear-gradient(top,#ffffff 0%,#ffffff 100%);background:linear-gradient(to bottom,#ffffff 0%,#ffffff 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff',endColorstr='#ffffff',GradientType=0)}.td-mobile-content .current-menu-item>a,.td-mobile-content .current-menu-ancestor>a,.td-mobile-content .current-category-ancestor>a,#td-mobile-nav .td-menu-login-section a:hover,#td-mobile-nav .td-register-section a:hover,#td-mobile-nav .td-menu-socials-wrap a:hover i,.td-search-close a:hover i{color:#ff6636}.td-mobile-content li a,.td-mobile-content .td-icon-menu-right,.td-mobile-content .sub-menu .td-icon-menu-right,#td-mobile-nav .td-menu-login-section a,#td-mobile-nav .td-menu-logout a,#td-mobile-nav .td-menu-socials-wrap .td-icon-font,.td-mobile-close .td-icon-close-mobile,.td-search-close .td-icon-close-mobile,.td-search-wrap-mob,.td-search-wrap-mob #td-header-search-mob,#td-mobile-nav .td-register-section,#td-mobile-nav .td-register-section .td-login-input,#td-mobile-nav label,#td-mobile-nav .td-register-section i,#td-mobile-nav .td-register-section a,#td-mobile-nav .td_display_err,.td-search-wrap-mob .td_module_wrap .entry-title a,.td-search-wrap-mob .td_module_wrap:hover .entry-title a,.td-search-wrap-mob .td-post-date{color:#666}.td-search-wrap-mob .td-search-input:before,.td-search-wrap-mob .td-search-input:after,#td-mobile-nav .td-menu-login-section .td-menu-login span{background-color:#666}#td-mobile-nav .td-register-section .td-login-input{border-bottom-color:#666666!important}.td-footer-wrapper,.td-footer-wrapper .td_block_template_7 .td-block-title>*,.td-footer-wrapper .td_block_template_17 .td-block-title,.td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter{background-color:#f2f2f2}.td-footer-wrapper,.td-footer-wrapper a,.td-footer-wrapper .block-title a,.td-footer-wrapper .block-title span,.td-footer-wrapper .block-title label,.td-footer-wrapper .td-excerpt,.td-footer-wrapper .td-post-author-name span,.td-footer-wrapper .td-post-date,.td-footer-wrapper .td-social-style3 .td_social_type a,.td-footer-wrapper .td-social-style3,.td-footer-wrapper .td-social-style4 .td_social_type a,.td-footer-wrapper .td-social-style4,.td-footer-wrapper .td-social-style9,.td-footer-wrapper .td-social-style10,.td-footer-wrapper .td-social-style2 .td_social_type a,.td-footer-wrapper .td-social-style8 .td_social_type a,.td-footer-wrapper .td-social-style2 .td_social_type,.td-footer-wrapper .td-social-style8 .td_social_type,.td-footer-template-13 .td-social-name,.td-footer-wrapper .td_block_template_7 .td-block-title>*{color:#222}.td-footer-wrapper .widget_calendar th,.td-footer-wrapper .widget_calendar td,.td-footer-wrapper .td-social-style2 .td_social_type .td-social-box,.td-footer-wrapper .td-social-style8 .td_social_type .td-social-box,.td-social-style-2 .td-icon-font:after{border-color:#222}.td-footer-wrapper .td-module-comments a,.td-footer-wrapper .td-post-category,.td-footer-wrapper .td-slide-meta .td-post-author-name span,.td-footer-wrapper .td-slide-meta .td-post-date{color:#fff}.td-footer-bottom-full .td-container::before{background-color:rgba(34,34,34,.1)}.td-footer-wrapper .block-title>span,.td-footer-wrapper .block-title>a,.td-footer-wrapper .widgettitle,.td-theme-wrap .td-footer-wrapper .td-container .td-block-title>*,.td-theme-wrap .td-footer-wrapper .td_block_template_6 .td-block-title:before{color:#222}.td-footer-wrapper .footer-social-wrap .td-icon-font{color:#666}.block-title>span,.block-title>a,.widgettitle,.td-trending-now-title,.wpb_tabs li a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab>a,.td-theme-wrap .td-related-title a,.woocommerce div.product .woocommerce-tabs ul.tabs li a,.woocommerce .product .products h2:not(.woocommerce-loop-product__title),.td-theme-wrap .td-block-title{font-weight:600}.td_module_1 .td-module-title{font-weight:700}.td-post-template-default .td-post-header .entry-title{font-weight:700}.td-post-template-3 .td-post-header .entry-title{font-weight:800}</style> <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script>(adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-2193378085051599",
+          enable_page_level_ads: true
+     });</script> <meta name="theme-color" content="#ffc300"> <script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "WebSite",
+                    "@id": "https://www.inceptivemind.com/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                    "item": {
+                    "@type": "WebPage",
+                    "@id": "https://www.inceptivemind.com/privacy/",
+                    "name": "Privacy Policy"
+                }
+            }    
+        ]
+    }</script> <link rel="icon" href="https://www.inceptivemind.com/wp-content/uploads/2017/09/favicon-48x48.png" sizes="32x32"><link rel="icon" href="https://www.inceptivemind.com/wp-content/uploads/2017/09/favicon.png" sizes="192x192"><link rel="apple-touch-icon-precomposed" href="https://www.inceptivemind.com/wp-content/uploads/2017/09/favicon.png"><meta name="msapplication-TileImage" content="https://www.inceptivemind.com/wp-content/uploads/2017/09/favicon.png"><style>.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.current-category-ancestor>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.current-menu-ancestor>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.current-menu-item>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.sfHover>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>li>a:hover,.tdm_block_column_content:hover .tdm-col-content-title-url .tdm-title,.tds-button2 .tdm-btn-text,.tds-button2 i,.tds-button5:hover .tdm-btn-text,.tds-button5:hover i,.tds-button6 .tdm-btn-text,.tds-button6 i,.tdm_block_list .tdm-list-item i,.tdm_block_pricing .tdm-pricing-feature i,.tdm-social-item i{color:#ff6636}.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.current-menu-item>a,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.current-menu-ancestor>a,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.current-category-ancestor>a,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>li>a:hover,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.sfHover>a,.tds-button1,.tds-button6:after,.tds-title2 .tdm-title-line:after,.tds-title3 .tdm-title-line:after,.tdm_block_pricing.tdm-pricing-featured:before,.tdm_block_pricing.tds_pricing2_block.tdm-pricing-featured .tdm-pricing-header,.tds-progress-bar1 .tdm-progress-bar:after,.tds-progress-bar2 .tdm-progress-bar:after,.tds-social3 .tdm-social-item{background-color:#ff6636}.tdm-menu-active-style4 .tdm-header .sf-menu>.current-menu-item>a,.tdm-menu-active-style4 .tdm-header .sf-menu>.current-menu-ancestor>a,.tdm-menu-active-style4 .tdm-header .sf-menu>.current-category-ancestor>a,.tdm-menu-active-style4 .tdm-header .sf-menu>li>a:hover,.tdm-menu-active-style4 .tdm-header .sf-menu>.sfHover>a,.tds-button2:before,.tds-button6:before,.tds-progress-bar3 .tdm-progress-bar:after{border-color:#ff6636}.tdm-btn-style1{background-color:#ff6636}.tdm-btn-style2:before{border-color:#ff6636}.tdm-btn-style2{color:#ff6636}.tdm-btn-style3{-webkit-box-shadow:0 2px 16px #ff6636;-moz-box-shadow:0 2px 16px #ff6636;box-shadow:0 2px 16px #ff6636}.tdm-btn-style3:hover{-webkit-box-shadow:0 4px 26px #ff6636;-moz-box-shadow:0 4px 26px #ff6636;box-shadow:0 4px 26px #ff6636}</style><style id="tdw-css-placeholder"></style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player,[data-lazy-src]{display:none!important}</style></noscript></head><body class="page-template-default page page-id-1345 tdm-menu-active-style2 privacy global-block-template-14 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage"><div class="td-scroll-up"><i class="td-icon-menu-up"></i></div><div class="td-menu-background"></div><div id="td-mobile-nav"><div class="td-mobile-container"><div class="td-menu-socials-wrap"><div class="td-menu-socials"> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.facebook.com/inceptive.in/" title="Facebook"> <i class="td-icon-font td-icon-facebook"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://instagram.com/InceptiveMind" title="Instagram"> <i class="td-icon-font td-icon-instagram"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://feeds.feedburner.com/InceptiveMind" title="RSS"> <i class="td-icon-font td-icon-rss"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://twitter.com/Inceptive_Mind" title="Twitter"> <i class="td-icon-font td-icon-twitter"></i> </a> </span></div><div class="td-mobile-close"> <a href="#"><i class="td-icon-close-mobile"></i></a></div></div><div class="td-mobile-content"><div class="menu-header-nav-container"><ul id="menu-header-nav" class="td-mobile-main-menu"><li id="menu-item-1252" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-1252"><a href="https://www.inceptivemind.com/category/invention/">Invention</a></li><li id="menu-item-2983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2983"><a href="https://www.inceptivemind.com/category/emerging-tech/">Emerging Tech</a></li><li id="menu-item-2984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2984"><a href="https://www.inceptivemind.com/category/robotics/">Robotics</a></li><li id="menu-item-2985" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2985"><a href="https://www.inceptivemind.com/category/transportation/">Transportation</a></li></ul></div></div></div></div><div class="td-search-background"></div><div class="td-search-wrap-mob"><div class="td-drop-down-search" aria-labelledby="td-header-search-button"><form method="get" class="td-search-form" action="https://www.inceptivemind.com/"><div class="td-search-close"> <a href="#"><i class="td-icon-close-mobile"></i></a></div><div role="search" class="td-search-input"> <span>Search</span> <input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off"></div></form><div id="td-aj-search-mob"></div></div></div><style>@media (max-width:767px){.td-header-desktop-wrap{display:none}}@media (min-width:767px){.td-header-mobile-wrap{display:none}}</style><div id="td-outer-wrap" class="td-theme-wrap"><div class="tdc-header-wrap "><div class="td-header-wrap tdm-header tdm-header-style-3 "><div class="td-header-top-menu-full td-container-wrap td_stretch_content"><div class="td-container td-header-row td-header-top-menu"><div class="top-bar-style-mp-1"><div class="td-header-sp-top-widget"> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.facebook.com/inceptive.in/" title="Facebook"> <i class="td-icon-font td-icon-facebook"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://instagram.com/InceptiveMind" title="Instagram"> <i class="td-icon-font td-icon-instagram"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://feeds.feedburner.com/InceptiveMind" title="RSS"> <i class="td-icon-font td-icon-rss"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://twitter.com/Inceptive_Mind" title="Twitter"> <i class="td-icon-font td-icon-twitter"></i> </a> </span></div><div class="td-header-sp-top-menu"><div class="td_data_time"><div>Wednesday, April 17, 2019</div></div><div class="menu-top-container"><ul id="menu-footer-nav" class="top-header-menu"><li id="menu-item-2488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-2488"><a href="https://www.inceptivemind.com/about/">About</a></li><li id="menu-item-1360" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1345 current_page_item td-menu-item td-normal-menu menu-item-1360"><a href="https://www.inceptivemind.com/privacy/" aria-current="page">Privacy</a></li><li id="menu-item-1344" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-1344"><a href="https://www.inceptivemind.com/contact/">Contact</a></li><li id="menu-item-2508" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-2508"><a href="https://www.inceptivemind.com/sitemap_index.xml">Sitemap</a></li></ul></div></div></div></div></div><div class="td-header-menu-wrap-full td-container-wrap td_stretch_content"><div class="td-header-menu-wrap td-header-gradient td-header-menu-no-search"><div class="td-container td-header-row td-header-main-menu"><div class="tdm-menu-btns-socials"><div class="header-search-wrap"><div class="td-search-btns-wrap"> <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a> <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a></div><div class="td-drop-down-search" aria-labelledby="td-header-search-button"><form method="get" class="td-search-form" action="https://www.inceptivemind.com/"><div role="search" class="td-head-form-search-wrap"> <input id="td-header-search" type="text" value="" name="s" autocomplete="off"><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search"></div></form><div id="td-aj-search"></div></div></div></div><div id="td-header-menu" role="navigation"><div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div><div class="td-main-menu-logo td-logo-in-menu"> <a class="td-mobile-logo td-sticky-mobile" href="https://www.inceptivemind.com/"> <img class="td-retina-data" data-retina="https://www.inceptivemind.com/wp-content/uploads/2018/11/IM-logo.png" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://www.inceptivemind.com/wp-content/uploads/2018/11/IM-logo.png" alt=""><noscript><img class="td-retina-data" data-retina="https://www.inceptivemind.com/wp-content/uploads/2018/11/IM-logo.png" src="https://www.inceptivemind.com/wp-content/uploads/2018/11/IM-logo.png" alt=""/></noscript> </a> <a class="td-header-logo td-sticky-mobile" href="https://www.inceptivemind.com/"> <img class="td-retina-data" data-retina="https://www.inceptivemind.com/wp-content/uploads/2018/11/IM-logo.png" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://www.inceptivemind.com/wp-content/uploads/2018/11/IM-logo.png" alt=""><noscript><img class="td-retina-data" data-retina="https://www.inceptivemind.com/wp-content/uploads/2018/11/IM-logo.png" src="https://www.inceptivemind.com/wp-content/uploads/2018/11/IM-logo.png" alt=""/></noscript> <span class="td-visual-hidden">Inceptive Mind</span> </a></div><div class="menu-header-nav-container"><ul id="menu-header-nav-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-1252"><a href="https://www.inceptivemind.com/category/invention/">Invention</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2983"><a href="https://www.inceptivemind.com/category/emerging-tech/">Emerging Tech</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2984"><a href="https://www.inceptivemind.com/category/robotics/">Robotics</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2985"><a href="https://www.inceptivemind.com/category/transportation/">Transportation</a></li></ul></div></div></div></div></div><div class="td-banner-wrap-full td-container-wrap td_stretch_content"><div class="td-container-header td-header-row td-header-header"><div class="td-header-sp-recs"><div class="td-header-rec-wrap"><div class="td-g-rec td-g-rec-id-header td_uid_1_5cb6d63328f0a_rand td_block_template_14 "><style>.td_uid_1_5cb6d63328f0a_rand.td-a-rec-img{text-align:left}.td_uid_1_5cb6d63328f0a_rand.td-a-rec-img img{margin:0 auto 0 0}</style><script type="text/javascript">var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:970px;height:90px" data-ad-client="ca-pub-2193378085051599" data-ad-slot="7497239866"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2193378085051599" data-ad-slot="7497239866"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2193378085051599" data-ad-slot="7497239866"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }</script><ins class="adsbygoogle" style="display:inline-block;width:970px;height:90px" data-ad-client="ca-pub-2193378085051599" data-ad-slot="7497239866"></ins> </div></div></div></div></div></div></div><div class="td-main-content-wrap td-container-wrap"><div class="td-container tdc-content-wrap "><div class="td-crumb-container"><div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://www.inceptivemind.com/">Home</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Privacy Policy</span></div></div><div class="td-pb-row"><div class="td-pb-span8 td-main-content" role="main"><div class="td-ss-main-content"><div class="td-page-header"><h1 class="entry-title td-page-title"> <span>Privacy Policy</span></h1></div><div class="td-page-content"><h3>What information do we collect?</h3><p>We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on the site.&nbsp;When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or website URL. You may, however, visit our site anonymously.</p><p>Google, as a third-party vendor, uses cookies to serve ads on your site.&nbsp;Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.&nbsp;Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p><h3>What do we use your information for?</h3><p>Any of the information we collect from you may be used in one of the following ways:</p><ul><li><strong>To personalize your experience:</strong><br> Your information helps us to better respond to your individual needs.</li><li><strong>To improve our website:</strong><br> We continually strive to improve our website offerings based on the information and feedback we receive from you.</li><li><strong>To improve customer service:</strong><br> Your information helps us to more effectively respond to your customer service requests and support needs.</li><li><strong>To send periodic emails:&nbsp;</strong><br> The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</li></ul><h3>How do we protect your information?</h3><p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p><h3>Do we use cookies?</h3><p>Yes, Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (only if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p><p>We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p><h3>Do we disclose any information to outside parties?</h3><p>We do not sell, trade, or otherwise, transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p><h3>Third party links</h3><p>Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p><h3>Online Privacy Policy Only</h3><p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p><h3>Terms and Conditions</h3><p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at&nbsp;<a href="https://www.inceptivemind.com/">https://www.inceptivemind.com/</a>.</p><h3>Your Consent</h3><p>By using our site, you consent to our&nbsp;online privacy policy&nbsp;<a href="http://www.freeprivacypolicy.com/">here</a>.</p><h3>Changes to our Privacy Policy</h3><p>If we decide to change our privacy policy, we will post those changes on this page.</p><h3>Contacting Us</h3><p>If there are any questions regarding this privacy policy you may&nbsp;<a href="/contact" target="_blank" rel="noopener noreferrer">contact us</a>.</p><p style="text-align: right;"><span style="color: #999999;"><em>This policy was last modified on 04/09/2017.</em></span></p></div></div></div><div class="td-pb-span4 td-main-sidebar" role="complementary"><div class="td-ss-main-sidebar"><aside class="widget_text td_block_template_14 widget widget_custom_html"><div class="textwidget custom-html-widget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2193378085051599" data-ad-slot="2261239068" data-ad-format="link" data-full-width-responsive="true"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></aside><aside class="td_block_template_14 widget widget_text"><div class="textwidget"><p><a href="https://play.google.com/store/apps/details?id=com.inceptivemind" target="_blank" rel="noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play"><noscript><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" /></noscript></a></p></div></aside></div></div></div></div></div><div class="td-footer-wrapper td-footer-container td-container-wrap td-footer-template-14 "><div class="td-container td-footer-bottom-full"><div class="td-pb-row"><div class="td-pb-span3"><aside class="footer-logo-wrap"><a href="https://www.inceptivemind.com/"><img class="td-retina-data" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-lazy-src="https://www.inceptivemind.com/wp-content/uploads/2018/07/logo.png" data-retina="https://www.inceptivemind.com/wp-content/uploads/2018/07/logo.png" alt="Inceptive Mind" title="Inceptive Mind" width="350"><noscript><img class="td-retina-data" src="https://www.inceptivemind.com/wp-content/uploads/2018/07/logo.png" data-retina="https://www.inceptivemind.com/wp-content/uploads/2018/07/logo.png" alt="Inceptive Mind" title="Inceptive Mind" width="350" /></noscript></a></aside></div><div class="td-pb-span5"><aside class="footer-text-wrap"><div class="block-title"><span>ABOUT US</span></div>We at Inceptive Mind, unleashing the creativity and share innovative concept ideas with the world!<div class="footer-email-wrap">Contact us: <a href="mailto:editor@inceptivemind.com">editor@inceptivemind.com</a></div></aside></div><div class="td-pb-span4"><aside class="footer-social-wrap td-social-style-2"><div class="block-title"><span>FOLLOW US</span></div> <span class="td-social-icon-wrap"> <a target="_blank" href="https://www.facebook.com/inceptive.in/" title="Facebook"> <i class="td-icon-font td-icon-facebook"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://instagram.com/InceptiveMind" title="Instagram"> <i class="td-icon-font td-icon-instagram"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://feeds.feedburner.com/InceptiveMind" title="RSS"> <i class="td-icon-font td-icon-rss"></i> </a> </span> <span class="td-social-icon-wrap"> <a target="_blank" href="https://twitter.com/Inceptive_Mind" title="Twitter"> <i class="td-icon-font td-icon-twitter"></i> </a> </span></aside></div></div></div></div><div class="td-sub-footer-container td-container-wrap "><div class="td-container"><div class="td-pb-row"><div class="td-pb-span td-sub-footer-menu"><div class="menu-footer-nav-container"><ul id="menu-footer-nav-1" class="td-subfooter-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-2488"><a href="https://www.inceptivemind.com/about/">About</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1345 current_page_item td-menu-item td-normal-menu menu-item-1360"><a href="https://www.inceptivemind.com/privacy/" aria-current="page">Privacy</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-1344"><a href="https://www.inceptivemind.com/contact/">Contact</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-2508"><a href="https://www.inceptivemind.com/sitemap_index.xml">Sitemap</a></li></ul></div></div><div class="td-pb-span td-sub-footer-copy"> © 2019 - Inceptive Mind</div></div></div></div></div> <style type="text/css" media="screen">.jetpack-display-remote-posts h4 a{font-size:18px}.td-load-more-wrap a{color:#222;width:100%;background-color:#f2f2f2f2}.matched-title:before,.matched-title:after{content:'';width:100%;height:1px;position:absolute;left:0;background-color:#ddd}.matched-title{font-size:17px;font-weight:500;margin-top:-15px;margin-bottom:2px;padding:0;line-height:47px;position:relative;overflow:hidden;text-align:left}.matched-title:before{bottom:4px}.matched-title:after{bottom:0}.td_social_info{visibility:hidden}.im-grid .td-big-grid-post{border-width:0!important}.td-post-content table{display:block;overflow:scroll;overflow:auto}.grecaptcha-badge{display:none}.td-post-content a{background:linear-gradient(to bottom,#ffc300 40%,#ff6636 60%);background-position:0 100%;background-repeat:repeat-x;background-size:2px 2px;color:#000;text-decoration:none;transition:background-size .2s}.td-post-content a:hover{background-size:4px 50px;text-decoration:none}</style><div class="td-container"><script>jQuery(window).load(function(){jQuery('body').find('#td_uid_4_5bf10e08e1cd6 .td-element-style').each(function(index,element){jQuery(element).css('opacity',1);return;});});</script></div><script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LdAfoAUAAAAAMOm6MP_ZkXlByaHrh_Rl0y3_zju&amp;ver=3.0"></script> <script type="text/javascript" src="https://www.inceptivemind.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script> <script type="text/javascript" src="https://www.inceptivemind.com/wp-content/plugins/td-cloud-library/assets/js/js_posts_autoload.min.js?ver=63d427d0bf1ccf261a43d975fb1dddb0"></script> <script type="text/javascript" src="https://www.inceptivemind.com/wp-content/themes/im-n/js/tagdiv_theme.min.js?ver=9.6.1"></script> <script type="text/javascript" src="https://www.inceptivemind.com/wp-includes/js/comment-reply.min.js?ver=5.1.1"></script> <script type="text/javascript" src="https://www.inceptivemind.com/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=63d427d0bf1ccf261a43d975fb1dddb0"></script> <script type="text/javascript">( function( grecaptcha, sitekey ) {
+
+	var wpcf7recaptcha = {
+		execute: function() {
+			grecaptcha.execute(
+				sitekey,
+				{ action: 'homepage' }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		}
+	};
+
+	grecaptcha.ready( wpcf7recaptcha.execute );
+
+	document.addEventListener( 'wpcf7submit', wpcf7recaptcha.execute, false );
+
+} )( grecaptcha, '6LdAfoAUAAAAAMOm6MP_ZkXlByaHrh_Rl0y3_zju' );</script> <script>(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://www.inceptivemind.com/wp-content/themes/im-n/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://www.inceptivemind.com/wp-content/themes/im-n';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();</script> <script type="text/javascript" src="https://stats.wp.com/e-201916.js" async="async" defer="defer"></script> <script type="text/javascript">_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.2.1',blog:'122836479',post:'1345',tz:'5.5',srv:'www.inceptivemind.com'} ]);
+	_stq.push([ 'clickTrackerInit', '122836479', '1345' ]);</script> <script>window.lazyLoadOptions = {
+                elements_selector: "img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                skip_invisible: false,
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_load: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }
+            };
+        
+        // Listen to the Initialized event
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            // Get the instance and puts it in the lazyLoadInstance variable
+            var lazyLoadInstance = e.detail.instance;
+        
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    mutations.forEach(function(mutation) {
+                        mutation.addedNodes.forEach(function(node) {
+                            if (typeof node.getElementsByTagName !== 'function') {
+                                return;
+                            }
+
+                            imgs = node.getElementsByTagName('img');
+                            iframes = node.getElementsByTagName('iframe');
+                            rocket_lazy = node.getElementsByClassName('rocket-lazyload');
+
+                            if ( 0 === imgs.length && 0 === iframes.length && 0 === rocket_lazy.length ) {
+                                return;
+                            }
+
+                            lazyLoadInstance.update();
+                        } );
+                    } );
+                } );
+                
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+                
+                observer.observe(b, config);
+            }
+        }, false);</script><script data-no-minify="1" async="" src="https://www.inceptivemind.com/wp-content/plugins/wp-rocket/assets/js/lazyload/11.0.3/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="https://www.youtube.com/embed/ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.id)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script> 
 </body></html>
