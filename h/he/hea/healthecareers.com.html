@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the healthecareers.com privacy policy that was archived on 2018-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180916145353id_/https%3A//www.medpagetoday.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthecareers.com privacy policy that was archived on 2019-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190417144617id_/https%3A//www.medpagetoday.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
     <!-- Google Tag Manager -->
@@ -11,11 +11,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
         <meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge;FF=3;OtherUA=4"><meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="verify-v1" content="2StwmRgp7puWeLFMHHlrI9by2UuNVI6cINHgmMt/DnE="><meta name="verify-v1" content="lF2XmR7++FsOf3CyD9GjzBP13ECmLbzN3zvcBm22h8M="><meta name="verify-v1" content="Vy2WQqSVx1yA90Uu2Rw12f2R8yqP7X0cxBFbafIuqao=">
-    <link rel="stylesheet" href="//clf1.medpagetoday.com/assets/scripts/css/global/header/style.css?v=201809160041">
+    <link rel="stylesheet" href="//clf1.medpagetoday.com/assets/scripts/css/global/header/style.css?v=201904161655">
 
-    <link rel="stylesheet" href="//clf1.medpagetoday.com/assets/scripts/css/article/style.css?v=201809160041">
-    <link rel="stylesheet" href="//clf1.medpagetoday.com/assets/scripts/css/search/style.css?v=201809160041">
-    <link rel="stylesheet" href="//clf1.medpagetoday.com/assets/scripts/css/wc/style.css?v=201809160041">
+    <link rel="stylesheet" href="//clf1.medpagetoday.com/assets/scripts/css/article/style.css?v=201904161655">
+    <link rel="stylesheet" href="//clf1.medpagetoday.com/assets/scripts/css/search/style.css?v=201904161655">
+    <link rel="stylesheet" href="//clf1.medpagetoday.com/assets/scripts/css/wc/style.css?v=201904161655">
     <link rel="icon" href="//clf1.medpagetoday.com/assets/images/static/favicon.ico?v=1">
     <link rel="shortcut icon" href="//clf1.medpagetoday.com/assets/images/static/favicon.ico?v=1">
 
@@ -24,10 +24,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <script> ga_acct="UA-3717434-1"; </script>
     <link rel="preload" href="//btg.medpagetoday.com/country.js" as="script">
     <script src="//btg.medpagetoday.com/country.js"></script>
-    <script async="async" src="//cdn.adsafeprotected.com/iasPET.1.js"></script>
     <script src="//clf1.medpagetoday.com/assets/scripts/js/edh.fast.1.2.2.js"></script>
     <link rel="dns-prefetch" href="//cdn.doubleverify.com">
 <link rel="dns-prefetch" href="//tps.doubleverify.com">
+
+<!-- IAS IVT -->
+<script async="async" src="//cdn.adsafeprotected.com/iasPET.1.js"></script>
 
 
 
@@ -36,9 +38,90 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 window.MPT.user = {login: "0",login_status:"none"};
 		      </script>
 
-    <script src="//clf1.medpagetoday.com/assets/scripts/js/article/head.js?v=201809160041"></script>
 
-    <!--[if lt IE 9]><script language="javascript" type="text/javascript" src="//clf1.medpagetoday.com/assets/scripts/js/html5.js?v=201809160041"></script><![endif]-->
+<script>
+    window.processResponse = function(data) {
+        if (data && data.hasOwnProperty('tval')) {
+            if (data['tval'] !== null) {
+                if (window.MPT && window.MPT.user) {
+                    window.MPT.user.mutrack = data['tval'];
+                }
+                return false;
+            }
+            return false;
+        }
+        return false;
+    };
+    ({
+        init: function() {
+
+            if (window.MPT.user.userid && window.MPT.user.hasNPI === 0) {
+                var currentSession = this.getCookie('MPTPHP'),
+                    recordedSession = window.localStorage.getItem('_dmd-session');
+
+                if (recordedSession !== currentSession) {
+                    if (!window.AIM) {
+                        this.appendAIMScript();
+                    } else {
+                        this.enableAIM();
+                    }
+                }
+            }
+        },
+        appendAIMScript: function() {
+            (function(w,d,s,m,n,t){
+                w[m]=w[m]||{init:function(){(w[m].q=w[m].q||[]).push(arguments);},ready:function(c){if('function'!=typeof c){return;}n.onload=n.onreadystatechange=function(){
+                if(!n.readyState||/loaded|complete/.test(n.readyState)){n.onload=n.onreadystatechange=null;if(t.parentNode&&n.parentNode){t.parentNode.removeChild(n);}if(c){c();}}};}},
+                w[m].d=1*new Date();n=d.createElement(s);t=d.getElementsByTagName(s)[0];n.async=1;n.src='//www.medtargetsystem.com/javascript/beacon.js?v2.5.12';
+                t.parentNode.insertBefore(n,t);
+            })(window,document,'script','AIM');
+
+            this.enableAIM();
+        },
+        enableAIM: function() {
+            var _this = this,
+                _window = window,
+                session = this.getCookie('MPTPHP'),
+                dmdID = '92-416-E000ADFC';
+
+            AIM.init(dmdID);
+
+            AIM.ready(function(){
+                AIM.ondetect(function(json){
+                    if (!json.hasOwnProperty('errors') && Object.keys(json).length > 0) {
+                        var script = document.createElement('script');
+                        json = JSON.stringify(json);
+
+                        script.src = "https://api.medpagetoday.com/engagement/integration?guid="+ _this.getCookie('MP_GUID') +"&netid=m58920110b7230&d="+ json + "&callback=processResponse&rand="+new Date().getTime();
+                        document.head.appendChild(script);
+
+                    } else {
+                        return false;
+                    }
+                    _window.localStorage.setItem('_dmd-session', session);
+
+                });
+            });
+
+        },
+        getCookie: function(name) {
+            var cookies = document.cookie.split('; '),
+                i = cookies.length,
+                val;
+            while (i--) {
+                val = cookies[i].split('=');
+                if (val[0] === name) {
+                    return window.unescape(val[1]);
+                }
+            }
+            return '';
+        }
+
+    }).init();
+</script>
+    <script src="//clf1.medpagetoday.com/assets/scripts/js/article/head.js?v=201904161655"></script>
+
+    <!--[if lt IE 9]><script language="javascript" type="text/javascript" src="//clf1.medpagetoday.com/assets/scripts/js/html5.js?v=201904161655"></script><![endif]-->
     <title>Privacy Policy | MedPage Today</title>
 
 <script type="text/javascript" async="" src="https://fast.fonts.net/t/trackingCode.js"></script></head>
@@ -90,7 +173,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <ul>
                                 <li><a href="/site/profile">Edit Profile</a></li>
                                 <li><a href="/site/profilenewsletters">Manage Subscriptions</a></li>
-                                <li><a href="/cmetracker">CME Tracker</a></li>
+                                <li><a href="https://www.medpagetoday.org/cmetracker">CME Tracker</a></li>
                                 <li><a class="logout" href="/auth/logout">Log Out</a></li>
                             </ul>
                         </div>
@@ -146,7 +229,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </ul>
                     </div>
                 </li>
-                <li><a href="/cme">Education</a></li>
+                <li><a href="https://www.medpagetoday.org/cme">Education</a></li>
                 <li><a href="/publichealthpolicy">Health Policy</a></li>
                 <li><a href="/meetingcoverage">Meetings</a></li>
                 <li><a href="/practicemanagement">Practice Mgmt</a></li>
@@ -165,8 +248,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li><a href="/reading-room/acrr">ACR Reading Room</a></li>
                             <li><a href="/reading-room/aga">AGA Reading Room</a></li>
                             <li><a href="/reading-room/asco">ASCO Reading Room</a></li>
+                            <li><a href="/clinical-connection/cardio-endo">Cardio-Endo Connection</a></li>
                             <li><a href="/clinical-connection/cardio-oncology">Cardio-Oncology Connection</a></li>
                             <li><a href="/reading-room/endocrine-society">Endocrine Society Reading Room</a></li>
+                            <li><a href="/reading-room/idsa">IDSA Reading Room</a></li>
                             <li><a href="/mayo">Mayo Medical Lab Room</a></li>
                         </ul>
                     </div>
@@ -174,13 +259,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
             <div class="site_search panel_container">
                 <a class="site_search-icon submenu_trigger icon icon-magglass" href="#search"></a>
-                <div id="search" class="typeahead dropdown_panel header_panel">
+                <div id="search" class="dropdown_panel header_panel">
                     <div class="search_container">
                         <div class="search_close icon-searchx icon">
                         </div>
-                        <form role="search" action="/search">
+                        <form role="search" action="/search" class="active">
                             <div class="input_container">
-                                <input name="q" type="search" autocomplete="off" class="search_field searchField" placeholder="Enter Search Terms">
+                                <input name="q" data-name="header-search" type="search" autocomplete="off" class="search_field searchField" placeholder="Enter Search Terms">
                             </div>
                             <input type="submit" value="Go" id="search-submit" class="button btn submit">
                         </form>
@@ -190,9 +275,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </nav>
         <div class="mobile_panel header_panel" id="mobile_navigation">
             <div class="primary_mobile_nav mobile_sub_panel">
-                <div class="mobile_search_container typeahead">
-                    <form role="search" action="/search">
-                        <input type="search" name="q" placeholder="Enter Search Terms" class="searchField">
+                <div class="mobile_search_container">
+                    <form role="search" action="/search" class="active">
+                        <input type="search" name="q" data-name="mobile-search" placeholder="Enter Search Terms" class="searchField">
                         <input type="submit">
                     </form>
                 </div>
@@ -200,7 +285,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <ul>
                         <li><a href="/">Home</a></li>
                         <li><a href="#mobile_spec_subpanel" class="submenu_trigger mobile_submenu_trigger">Specialties</a></li>
-                        <li><a href="/cme">Education</a></li>
+                        <li><a href="https://www.medpagetoday.org/cme">Education</a></li>
                         <li><a href="/publichealthpolicy">Health Policy</a></li>
                         <li><a href="/meetingcoverage">Meetings</a></li>
                         <li><a href="/practicemanagement">Practice Mgmt</a></li>
@@ -256,8 +341,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li><a href="/reading-room/acrr">ACR Reading Room</a></li>
                     <li><a href="/reading-room/aga">AGA Reading Room</a></li>
                     <li><a href="/reading-room/asco">ASCO Reading Room</a></li>
+                    <li><a href="/clinical-connection/cardio-endo">Cardio-Endo Connection</a></li>
                     <li><a href="/clinical-connection/cardio-oncology">Cardio-Oncology Connection</a></li>
                     <li><a href="/reading-room/endocrine-society">Endocrine Society Reading Room</a></li>
+                    <li><a href="/reading-room/idsa">IDSA Reading Room</a></li>
                     <li><a href="/mayo">Mayo Medical Lab Room</a></li>
                 </ul>
             </div>
@@ -268,8 +355,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="mobile_user_navigation">
                     <ul>
                         <li><a href="/site/profile">Edit Profile</a></li>
+
                         <li><a href="/site/profilenewsletters">Manage Subscriptions</a></li>
-                        <li><a href="/cmetracker">CME Tracker</a></li>
+
+                        <li><a href="https://www.medpagetoday.org/cmetracker">CME Tracker</a></li>
                         <li><a class="logout" href="/auth/logout">Log Out</a></li>
                     </ul>
                 </div>
@@ -285,7 +374,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
     <div class="mptModal modal fade" id="register-dialog" role="dialog" tabindex="-1" aria-labelledby="Register for free" aria-hidden="true"><div class="modal-dialog"> <div class="modal-content"><div class="modal-body"></div></div></div></div>
     <div id="register-thanks" class="regThanksModal regThanks modal"></div>
-</header>            
+</header>
+            
 <style>
 
     div.contentPrivacyPolicy{
@@ -442,6 +532,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="lineInHeader">
     <p>If you have any questions about our Privacy Policy, you can contact us at <a href="mailto:privacy@everydayhealth.com">Privacy@everydayhealth.com</a> <strong>and include ‘Privacy Policy’ in the subject line</strong>.</p>
 
+    <p>If you have any questions related to Data Subject Access Rights under GDPR, you can contact us through our&nbsp;<a href="https://dsar.medpagetoday.com" data-gdpr="portal">DSAR Portal</a>.</p>
+
 <ol class="num" start="1" type="1">
 <script>
     var scrollToSection = function(section){
@@ -474,8 +566,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <header><h3><strong>Summary - Policy Overview</strong></h3></header>
         <p>This Policy explains how we may Process your information. This Policy may be amended or updated from time to time, so please check it regularly for updates.</p>
     </div>
-    <p>Everyday Health, Inc., with its parents, affiliates and subsidiaries (collectively, <strong>“Everyday Health”</strong>, <strong>“us”</strong>, <strong>“our</strong>” or <strong>“we”</strong>), owns, operates, or provides access to, several interactive websites, mobile and connected applications, and other online interactive features and services, including, but not limited to, emails, newsletters, chat areas, forums, communities, career centers, sweepstakes and contests for professionals in the healthcare industry (collectively <strong>“Services”</strong>). This Privacy Policy applies to all information collected about you by Everyday Health’s Professional division, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with the Services, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.</p>
-    <p>Except as otherwise noted in this Privacy Policy, Everyday Health is a data controller (as that term is used under the <a href="http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&amp;from=EN">EU General Data Protection Regulation</a> (“<strong>GDPR</strong>”)), which means that we decide how and why the information you provide to us is processed.  Contact details are provided in Section 17 below.  This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.</p>
+    <p>Everyday Health, Inc., with its parents, affiliates and subsidiaries (collectively, <strong>"Everyday Health"</strong>, <strong>"us"</strong>, <strong>"our</strong>" or <strong>"we"</strong>), owns, operates, or provides access to, several interactive websites, mobile and connected applications, and other online interactive features and services, including, but not limited to, emails, newsletters, chat areas, forums, communities, career centers, sweepstakes and contests for professionals in the healthcare industry (collectively <strong>"Services"</strong>). This Privacy Policy applies to all information collected about you by Everyday Health’s Professional division, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with the Services, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.</p>
+    <p>Except as otherwise noted in this Privacy Policy, Everyday Health is a data controller (as that term is used under the <a href="http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&amp;from=EN">EU General Data Protection Regulation</a> ("<strong>GDPR</strong>")), which means that we decide how and why the information you provide to us is processed. Please contact us using our&nbsp;<a href="https://dsar.medpagetoday.com" data-gdpr="portal">DSAR Portal</a>. This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.</p>
     <p>This Privacy Policy covers information collected through the websites <a href="http://www.medpagetoday.com">MedPage Today</a>, <a href="http://www.doctordirectory.com">DoctorDirectory</a>, <a href="http://www.healthecareers.com">Health eCareers</a> and <a href="http://www.formd.com">for[MD]</a> and the application MedPage Today. </p>
 </section>
 <section id="section2">
@@ -485,30 +577,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p>We may Process: your personal details (e.g., your name); demographic data (e.g., your age); your contact details (e.g., your address); records of your consents; purchase details; details of your employer (where relevant); documents you provide to us; licensing or registration information; information about your interactions with our content or advertising; and any views or opinions you provide to us.</p>
         <p>We may also Process information about you from your use of our Services (e.g., the type of device you are using, the internet service provider, etc.), including your interactions with content and advertising on the Services.</p>
     </div>
-    <p><strong>“Personal Information”</strong> means information that is about any individual, or from which any individual is directly or indirectly identifiable. </p>
-    <p><strong>“Process”</strong>, <strong>“Processing”</strong> or <strong>“Processed”</strong> means anything that is done with any Personal Information, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</p>
+    <p><strong>"Personal Information"</strong> means information that is about any individual, or from which any individual is directly or indirectly identifiable. </p>
+    <p><strong>"Process"</strong>, <strong>"Processing"</strong> or <strong>"Processed"</strong> means anything that is done with any Personal Information, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</p>
     <p>We may Process the following categories of Personal Information about you: </p>
     <ul>
         <li><span class="underline">Personal details</span> :your name; username or log in details; password; areas or topics of interest; and photograph (if you or another user posts a photo on the Service).</li>
         <li><span class="underline">Demographic information:</span> gender; age/date of birth; nationality; salutation; job title, company information, education, work experience and other professional information; and language preferences.</li>
         <li><span class="underline">Contact details</span>:  postal address; telephone and/or mobile number; email address; and your public social media handles or profile(s).</li>
-        <li><span class="underline">Licensing or registration information</span>: details of your registration with recognized licensing organizations, such as American Medical Association, National Provider Identifier, Drug Enforcement Administration, American Osteopathic Association and/or State Medical Boards, or other relevant information we might request from you in order to complete the verification process, such as graduation year, medical school, medical specialty, training/certification and degree (collectively, <strong>“Verification Details”</strong>).</li>
+        <li><span class="underline">Licensing or registration information</span>: details of your registration with recognized licensing organizations, such as American Medical Association, National Provider Identifier, Drug Enforcement Administration, American Osteopathic Association and/or State Medical Boards, or other relevant information we might request from you in order to complete the verification process, such as graduation year, medical school, medical specialty, training/certification and degree (collectively, <strong>"Verification Details"</strong>).</li>
         <li><span class="underline">Consent records</span> : records of any consents you may have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent).</li>
-        <li><span class="underline">Location information</span> : location data that describes the precise geographic location of your device (<strong>“Precise Location Data”</strong>).</li>
+        <li><span class="underline">Location information</span> : location data that describes the precise geographic location of your device (<strong>"Precise Location Data"</strong>).</li>
         <li><span class="underline">Purchase and payment details</span> : records of purchases and prices; invoice records; payment records; billing address; payment method; cardholder or accountholder name; payment amount; and payment date.</li>
         <li><span class="underline">Employer details</span>:  where you interact with us in your capacity as an employee, the contact information of your employer (including name, address, telephone number and email address) to the extent relevant.</li>
         <li><span class="underline">Views and opinions</span>: any views and opinions that you or other users choose to send to us, or publicly post about us on social media platforms or in the Services, including on forums.</li>
     </ul>
-    <p>We also collect other kinds of information from you or other sources, which we refer to as “Other Information” in this Policy, which may include but is not limited to: </p>
+    <p>We also collect other kinds of information from you or other sources, which we refer to as "Other Information" in this Policy, which may include but is not limited to: </p>
     <ul>
         <li>Information about your use of the Services, such as usage data and statistical information, which may be aggregated.</li>
         <li>Browsing history including the websites or other services you visited before and after interacting with the Services.</li>
         <li>Searches for and interactions with e-commerce opportunities, such as merchants and offers contained in the Services.</li>
-        <li>Non-precise information about the approximate physical location (for example, at the city or zip code level) of a user’s computer or device derived from the IP address of such computer or device (<strong>“GeoIP Data”</strong>).</li>
-        <li>Device identification (“ID”), which is a distinctive number associated with a smartphone or similar handheld device, but is different than a hardware serial number.</li>
-        <li>Advertising ID, which is a unique, user-resettable identification number for advertising associated with a device (e.g., iOS uses the Identifier for Advertising (or “IDFA”) and Android uses Google Advertising ID).</li>
-        <li>Internet Protocol (<strong>“IP”</strong>) address, which is a unique string of numbers automatically assigned to your device whenever you access the Internet.</li>
-        <li>Information collected through the use of cookies, eTags, Javascript, pixel tags, device ID tracking, anonymous identifiers and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services, content and ads on third party websites, applications, platforms and other media channels (<strong>“Channels”</strong>), and (ii) your interaction with emails including the content and ads therein (collectively, <strong>“Online Data”</strong>).</li>
+        <li>Non-precise information about the approximate physical location (for example, at the city or zip code level) of a user’s computer or device derived from the IP address of such computer or device (<strong>"GeoIP Data"</strong>).</li>
+        <li>Device identification ("ID"), which is a distinctive number associated with a smartphone or similar handheld device, but is different than a hardware serial number.</li>
+        <li>Advertising ID, which is a unique, user-resettable identification number for advertising associated with a device (e.g., iOS uses the Identifier for Advertising (or "IDFA") and Android uses Google Advertising ID).</li>
+        <li>Internet Protocol (<strong>"IP"</strong>) address, which is a unique string of numbers automatically assigned to your device whenever you access the Internet.</li>
+        <li>Information collected through the use of cookies, eTags, Javascript, pixel tags, device ID tracking, anonymous identifiers and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services, content and ads on third party websites, applications, platforms and other media channels (<strong>"Channels"</strong>), and (ii) your interaction with emails including the content and ads therein (collectively, <strong>"Online Data"</strong>).</li>
         <li>Device type, settings and software used.</li>
         <li>Log files, which may include IP addresses, browser type, ISP referring/exit pages, operating system, date/time stamps and/or clickstream data, including any clicks on customized links.</li>
         <li>Web Beacons, which are electronic files that allow a website to count users who have visited that page or to access certain cookies.</li>
@@ -516,7 +608,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li>Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5.</li>
         <li>Mobile analytics to understand the functionality of our mobile applications and software on your phone.</li>
     </ul>
-    <p>Under certain circumstances and depending on applicable law, some of this Other Information may constitute Personal Information. Personal Information together with Other Information is hereinafter referred to as <strong>“User Information”</strong>.</p>
+    <p>Under certain circumstances and depending on applicable law, some of this Other Information may constitute Personal Information. Personal Information together with Other Information is hereinafter referred to as <strong>"User Information"</strong>.</p>
 </section>
 <section id="section3">
      <h2>3. Sensitive Personal Information</h2>
@@ -524,7 +616,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <header><h3><strong>Summary – Sensitive Personal Information</strong></h3></header>
         <p>We do not seek to collect or otherwise Process your Sensitive Personal Information. Where we need to Process your Sensitive Personal Information for a legitimate purpose, we do so in accordance with applicable law. The Services are not intended for use by children.</p>
     </div>
-    <p>We do not collect or otherwise Process Personal Information about race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual life, any actual or alleged criminal offences or penalties, or any other information that may be deemed to be sensitive under GDPR (collectively, “Sensitive Personal Information”) in the ordinary course of our business.  Where it becomes necessary to Process Sensitive Personal Information under GDPR, we would rely on one of the following legal bases:</p>
+    <p>We do not collect or otherwise Process Personal Information about race or ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual life, any actual or alleged criminal offences or penalties, or any other information that may be deemed to be sensitive under GDPR (collectively, "Sensitive Personal Information") in the ordinary course of our business.  Where it becomes necessary to Process Sensitive Personal Information under GDPR, we would rely on one of the following legal bases:</p>
     <ul>
         <li><span class="underline">Compliance with applicable law</span>: We may Process your Sensitive Personal Information where the Processing is required or permitted by applicable law;</li>
         <li><span class="underline">Detection and prevention of crime</span>: We may Process your Sensitive Personal Information where the Processing is necessary for the detection or prevention of crime (including the prevention of fraud);</li>
@@ -548,7 +640,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><span class="underline">Content and advertising information</span>: If you choose to interact with any third party content or advertising on the Services or Channels, we may receive User Information about you from the relevant third party.</li>
         <li><span class="underline">Third party information</span>: We may collect or obtain your Personal Information from third parties who provide it to us.  This may include offline channels such as through telephone or direct mail efforts; from customers, vendors, suppliers, third parties, commercially available or publicly-available sources (e.g., data brokers, data aggregators, public databases, etc.); third party affiliate network operators; referral sources; and social network sites or services (e.g., Facebook, Twitter, LinkedIn, etc.).  If you use a third party connection or log-in (e.g., Facebook Connect, Twitter, or Google+) to access the Services, create a membership or profile on any part of the Services, access our content or forward our content to another person, platform or service, we may also receive your username or email address for those third party services or other information available about you or collected from you on those services.</li>
     </ul>
-    <p>Please note that Everyday Health is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the Services, such as forums, blogs, wikis, chat rooms, private messages, message boards or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas of the Services that allow users to upload or post content. We discourage users from posting such Personal Information in this fashion. You can change your publicly available information at any time via your profile page. To request removal of your Personal Information from these areas, please see Section 17 in this Privacy Policy for further details. In some cases, we may not be able to remove your Personal Information, in which case we will let you know we are unable to do so and why.</p>
+    <p>Please note that Everyday Health is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the Services, such as forums, blogs, wikis, chat rooms, private messages, message boards or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas of the Services that allow users to upload or post content. We discourage users from posting such Personal Information in this fashion. You can change your publicly available information at any time via your profile page. To request removal of your Personal Information from these areas, please contact us using our&nbsp;<a href="https://dsar.medpagetoday.com" data-gdpr="portal">DSAR Portal</a>. In some cases, we may not be able to remove your Personal Information, in which case we will let you know we are unable to do so and why.</p>
     <p>This Privacy Policy does not cover the practices of third parties, including those that may disclose information to Everyday Health.</p>
     <p><strong>Creation of User Information.</strong>  We may also create User Information about you, such as records of your interactions with us and details of your purchase history, for internal administrative purposes and analysis. We may also combine data you have provided to us with data obtained from third parties such as social networks and other data collection entities.</p>
 </section>
@@ -628,7 +720,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h2>9. What Information We Disclose to Third Parties</h2>
     <div class="summary">
         <header><h3><strong>Summary – Disclosure of User Information to Third Parties</strong></h3></header>
-        <p>We may disclose your User Information to: legal and regulatory authorities; our external advisors; parties who Process User Information on our behalf (“Processors”); any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on the Services.</p>
+        <p>We may disclose your User Information to: legal and regulatory authorities; our external advisors; parties who Process User Information on our behalf ("Processors"); any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on the Services.</p>
     </div>
     <p>We may disclose your User Information to other entities within the Company group, for legitimate business purposes (including operating the Services, and providing services to you), in accordance with applicable law. In addition, we may disclose your User Information to: </p>
     <ul>
@@ -662,7 +754,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p>We may transfer your Personal Information to recipients in other countries. Where we transfer User Information from the European Economic Area ("<strong>EEA</strong>") to a recipient outside the EEA that is not in an adequate jurisdiction, we do so on the basis of standard contractual clauses.</p>
     </div>
     <p>Because of the international nature of our business, we may need to transfer your User Information within the Everyday Health group of companies, and to third parties as noted in Section 9 above, in connection with the purposes set out in this Policy. For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located. </p>
-    <p>Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses.  You may request a copy of the relevant standard contractual clauses using the contact details provided in Section 17 below. </p>
+    <p>Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our&nbsp;<a href="https://dsar.medpagetoday.com" data-gdpr="portal">DSAR Portal</a>. </p>
     <p>Please note that when you transfer any Personal Information directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Information. We will nevertheless Process your Personal Information, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.</p>
 </section>
 <section id="section11">
@@ -710,17 +802,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p><span class="italic">Your Newsletter and Email Subscriptions.</span> You can opt out or unsubscribe from a newsletter or other email list at any time by following the instructions at the end of the newsletters or emails you receive. Please allow five to ten business days for changes to take effect. On some Services, member service-related communications are an integral part of such Services to which you subscribe and you may continue to receive emails as part of that particular portion of the Services unless you cancel your account, even if you opt out of the newsletters or email list.  If you have provided more than one email address to us, you may continue to be contacted unless you request to unsubscribe each email address you have provided.</p>
     <p><span class="italic">Push Notifications.</span> We send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.</p>
     <p><span class="italic">Location Based Services.</span> You may opt-out of having your Precise Location Data collected by Everyday Health at any time by editing the appropriate setting on your mobile device (which is usually located in the Settings area of your device).</p>
-    <p><span class="italic">OBA.</span> Everyday Health is a subsidiary of Ziff Davis, LLC, a member of the Digital Advertising Alliance (<strong>"DAA"</strong>) in the U.S., E.U. and Canada and uses third party assurance platforms to comply with the DAA principles. Everyday Health strives to adhere to the self-regulatory organization principles for the DAA (US), the DAAC (Canada) and the EDAA (EU). Online ads on the Services using Online Data are delivered with the DAA Ad Marker Icon <img src="https://c.evidon.com/pub/icong1.png" class="evidon-consent-link-image" style="vertical-align: bottom;"> , which helps users understand how their data is being used and provides choices for users who want more control. This icon is also on each of our web pages and applications where Online Data is collected that will be used for OBA purposes.</p>
-    <p>The DAA Ad Marker Icon <img src="https://c.evidon.com/pub/icong1.png" class="evidon-consent-link-image" style="vertical-align: bottom;">  provides information (and links to other information) on online behavioral ads, who is collecting and using your Online Data, how you can opt out and more. If you would prefer that we not collect Online Data that may be used to help determine which advertisements to serve you, opt out by clicking this icon <img src="https://c.evidon.com/pub/icong1.png" class="evidon-consent-link-image" style="vertical-align: bottom;">, which can be found on most of our webpages and mobile applications.</p>
+    <p><span class="italic">OBA.</span> Everyday Health is a subsidiary of Ziff Davis, LLC, a member of the Digital Advertising Alliance (<strong>"DAA"</strong>) in the U.S., E.U. and Canada and uses third party assurance platforms to comply with the DAA principles. Everyday Health strives to adhere to the self-regulatory organization principles for the DAA (US), the DAAC (Canada) and the EDAA (EU). Online ads on the Services using Online Data are delivered with the DAA Ad Marker Icon <img src="https://c.evidon.com/pub/icong1.png" alt="adchoices icon" class="evidon-consent-link-image" style="vertical-align: bottom;"> , which helps users understand how their data is being used and provides choices for users who want more control. This icon is also on each of our web pages and applications where Online Data is collected that will be used for OBA purposes.</p>
+    <p>The DAA Ad Marker Icon <img src="https://c.evidon.com/pub/icong1.png" alt="adchoices icon" class="evidon-consent-link-image" style="vertical-align: bottom;">  provides information (and links to other information) on online behavioral ads, who is collecting and using your Online Data, how you can opt out and more. If you would prefer that we not collect Online Data that may be used to help determine which advertisements to serve you, opt out by clicking this icon <img src="https://c.evidon.com/pub/icong1.png" alt="adchoices icon" class="evidon-consent-link-image" style="vertical-align: bottom;">, which can be found on most of our webpages and mobile applications.</p>
     <ul>
         <li>European Union and Switzerland residents should visit the European DAA by <a href="http://www.youronlinechoices.eu/">clicking here</a>.</li>
         <li>Canadian residents should visit the DAA of Canada by <a href="http://youradchoices.ca/choices">clicking here.</a></li>
         <li>U.S. residents and residents of all other countries or territories not listed above can <a href="http://www.aboutads.info/choices/">click here</a> for the DAA site to learn more about the use of cookies, your opt-out choices, and more.</li>
     </ul>
-    <p><span class="italic">Cookies and Pixel Tags</span>. You may stop or restrict cookies and pixel tags on your computer or purge cookies from your browser by adjusting your web browser preferences. However, if you “turn off,” purge, or disable cookies or pixel tags, although you may still use the Services, you may not be able to use all of the features, functions, or services available on the Services.</p>
+    <p><span class="italic">Cookies and Pixel Tags</span>. You may stop or restrict cookies and pixel tags on your computer or purge cookies from your browser by adjusting your web browser preferences. However, if you "turn off," purge, or disable cookies or pixel tags, although you may still use the Services, you may not be able to use all of the features, functions, or services available on the Services.</p>
     <p><span class="italic">Applicants for Healthcare-Related Positions</span>.  If you are looking for a job and using the Health eCareers website, or that of our partners, you may change your profile or resume at any time.  At any time, you may elect that your profile and resume not be searchable by prospective employers by logging into your account and changing the status of your profile.  If that is not possible, please contact <a href="mailto:info@healthecareers.com">info@healthecareers.com</a> and we will make the change for you.  In addition, you may elect to make your profile searchable by prospective employers on a confidential basis only. In this case, your name and contact information will not be displayed to prospective employers. If a prospective employer desires to contact a confidential job seeker regarding an employment opportunity, the prospective employer will send an email to the confidential job seeker through Health eCareers, who will then forward the email to the job seeker’s email address. The job seeker’s email address will not be provided directly to the prospective employer. When posting a resume confidentially, it is your responsibility to ensure that your contact information is not included within the resume attachment.</p>
-    <p><span class="italic">California Residents</span>. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals. California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 17 below.</p>
-    <p><span class="italic">EU Residents</span>. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases).  Requests should be submitted by contacting us (using the contact instructions in Section 17 below).  If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.</p>
+    <p><span class="italic">California Residents</span>. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ "do not track" signals. California’s "Shine the Light" law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 17 below.</p>
+    <p><span class="italic">EU Residents</span>. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the&nbsp;<a href="https://dsar.medpagetoday.com" data-gdpr="portal">DSAR Portal</a>. If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.</p>
 </section>
 <section id="section16">
      <h2>16. Terms of Use</h2>
@@ -736,14 +828,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      <h2>17. Contact Details</h2>
      <div class="summary">
          <header><h3><strong>Summary – Contact Details</strong></h3></header>
-         <p>You may contact us at the addresses set out below or by emailing <a href="mailto:privacy@everydayhealth.com">privacy@everydayhealth.com</a> </p>
+         <p>You may contact us at the addresses set out below or by emailing <a href="mailto:privacy@everydayhealth.com">privacy@everydayhealth.com</a> For GDPR related inquiries, please use our webform at&nbsp;<a href="https://dsar.medpagetoday.com" data-gdpr="portal">DSAR Portal</a>.
+         </p>
          <address>
             Everyday Health<br>
             Attention: Legal Department<br>
             345 Hudson Street, 16th Floor<br>
             New York, NY 10014<br>
          </address>
-         If you are an EU resident, you may contact our Data Protection Officer at <a href="mailto:dpo@everydayhealth.com">dpo@everydayhealth.com</a>
+         If you are an EU resident, you may contact our Data Protection Officer at <a href="mailto:dpo@everydayhealth.com">dpo@everydayhealth.com</a> or submit GDPR related inquiries to our&nbsp;<a href="https://dsar.medpagetoday.com" data-gdpr="portal">DSAR Portal</a>.
      </div>
      <p>If you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of User Information carried out by us, or on our behalf, please contact: </p>
      <address>
@@ -753,7 +846,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         New York, NY 10014<br>
         <a href="mailto:privacy@everydayhealth.com">privacy@everydayhealth.com</a><br>
      </address>
-     <p>Our Data Protection Officer may be contacted at <a href="mailto:dpo@everydayhealth.com">dpo@everydayhealth.com</a>.</p>
+     <p>Our Data Protection Officer may be contacted at <a href="mailto:dpo@everydayhealth.com">dpo@everydayhealth.com</a> For GDPR related inquiries, please use our webform at&nbsp;<a href="https://dsar.medpagetoday.com" data-gdpr="portal">DSAR Portal</a>.</p>
 </section>
 <section id="section18">
     <h2>18. How this Privacy Policy May Change</h2>
@@ -770,10 +863,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        <li><a href="/about/terms">Terms of Use</a></li>
        <li><a href="/about/privacy">Privacy Policy</a></li>
        <li><a href="//support.medpagetoday.com/hc/en-us/articles/205937116-editorial-and-advertising-guidelines">Advertise with us</a></li>
-       <li><a href="#" class="showConsentTool" onclick="window.zdconsent.showConsentTool(event);"><img src="https://c.evidon.com/pub/icong1.png" class="evidon-consent-link-image" style="vertical-align: bottom;"> AdChoices</a></li>
+       <li><a href="#" class="showConsentTool" onclick="window.zdconsent.showConsentTool(event);"><img src="https://c.evidon.com/pub/icong1.png" alt="adchoices icon" class="evidon-consent-link-image" style="vertical-align: bottom;"> AdChoices</a></li>
        <li><a href="" class="accssSttmnt">Accessibility Statement</a></li>
     </ul>
-    <p class="legal">The material on this site is for informational purposes only, and is not a substitute for medical advice, diagnosis or treatment provided by a qualified health care provider.<br>© 2018 MedPage Today, LLC. All rights reserved.</p>
+    <p class="legal">The material on this site is for informational purposes only, and is not a substitute for medical advice, diagnosis or treatment provided by a qualified health care provider.
+<br>© 2019 MedPage Today, LLC. All rights reserved. Medpage Today is among the federally registered trademarks of MedPage Today, LLC and may not be used by third parties without explicit permission.</p>
     <div class="accssSttmntNode">
       <h3>Accessibility Statement</h3>
       <p>At MedPage Today, we are committed to ensuring that individuals with disabilities can access all of the content offered by MedPage Today through our website and other properties. If you are having trouble accessing www.medpagetoday.com, MedPageToday's mobile apps, please email <a href="mailto:legal@ziffdavis.com?subject=ADA Inquiry">legal@ziffdavis.com</a> for assistance. Please put "ADA Inquiry" in the subject line of your email.</p>
@@ -793,12 +887,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        })();
   </script>
 
-    <script src="//clf1.medpagetoday.com/assets/scripts/js/article/libs.js?v=201809160041"></script>
+    <script src="//clf1.medpagetoday.com/assets/scripts/js/article/libs.js?v=201904161655"></script>
 
-      <script src="//clf1.medpagetoday.com/assets/scripts/js/header/app.js?v=201809160041"></script>
-        <script src="//clf1.medpagetoday.com/assets/scripts/js/search/app.js?v=201809160041"></script>
-        <script src="//clf1.medpagetoday.com/assets/scripts/js/static/app.js?v=201809160041"></script>
-        <script src="//clf1.medpagetoday.com/assets/scripts/js/typeahead.bundle.min.js?v=201809160041" type="text/javascript"></script>
+      <script src="//clf1.medpagetoday.com/assets/scripts/js/header/app.js?v=201904161655"></script>
+        <script src="//clf1.medpagetoday.com/assets/scripts/js/search/app.js?v=201904161655"></script>
+        <script src="//clf1.medpagetoday.com/assets/scripts/js/static/app.js?v=201904161655"></script>
+
 
         <script type="application/ld+json">
             {
@@ -815,5 +909,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             }
         </script>
 
- 
+<script>
+  const pageCookie = function getCookie(name) {
+    var cookies = document.cookie.split('; '),
+        i = cookies.length,
+        val;
+    while (i--) {
+      val = cookies[i].split('=');
+      if (val[0] === name) {
+          return window.unescape(val[1]);
+      }
+    }
+    return '';
+  }
+  
+  const muidCookie = pageCookie('MU_ID');
+  if (muidCookie !== ''){
+    const encodedCookie = window.btoa(muidCookie);
+    const isSoftLogged = pageCookie('SOFTLOG') !== '' ? 1 : 0;
+    let pixel = document.createElement('img');
+    pixel.src = 'https://www.medpagetoday.org/sl?i=' + encodedCookie + '&lt=' +isSoftLogged;
+    document.body.appendChild(pixel);
+  }
+</script>
 </body></html>
