@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sg-house.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903054232id_/https%3A//www.iproperty.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sg-house.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417135546id_/https%3A//www.iproperty.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # iProperty Singapore - Privacy policy
 
@@ -37,10 +37,11 @@ We may collect personal information about you from a variety of sources includin
 REA Group may collect personal information about you if you:
 
   1. are a shareholder of REA Group Ltd, then REA Group may collect personal information about you from third parties (including, for example, collection of information from its share or share plan registrar); and
-  2. subscribe to receive email alerts, media releases and other news relating to REA Group through the REA Group Website.  
+  2. subscribe to receive email alerts, media releases and other news relating to REA Group through the REA Group Website.
+
+
+
 We may also collect your personal information through our related bodies corporate, our service providers and third parties so that we may provide a better or more relevant service or product to you.
-
-
 
  **HOW WE USE YOUR PERSONAL INFORMATION**  
 We use the personal information we have collected largely for the purpose of providing you with products and services that you have requested, responding to your inquiries, creating and maintaining your account and ensuring you comply and adhere to our website terms of use.  
@@ -110,9 +111,9 @@ Where we have obtained your consent or taken other measures to do so, we may als
 We strive to ensure the security, integrity and privacy of personal information we collect. We have established safeguards and use reasonable security measures to protect your personal information from unauthorised access, modification and disclosure. Our employees, contractors, agents and service providers who provide services related to our information systems, are obliged to respect the confidentiality of any personal information held by us. We review and update our security measures in light of current technologies. Unfortunately, no data transmission over the internet can be guaranteed to be totally secure.
 
  **CORRECTION AND ACCESS**  
-We will endeavour to take all reasonable steps to keep accurate and up to date, any information which we hold about you. If, at any time, you discover that information held about you is incorrect or you would like to review and confirm the accuracy of your personal information, you can [contact us](mailto:privacyofficer_asia@rea-group.com).  
-You can also gain access to the personal information we hold about you, subject to certain exceptions provided for by law. To request access to your personal information, please [contact us](mailto:privacyofficer_asia@rea-group.com).  
-You can also notify us to limit the processing or to cease processing of your personal information. To exercise this right, please [contact us](mailto:privacyofficer_asia@rea-group.com).
+We will endeavour to take all reasonable steps to keep accurate and up to date, any information which we hold about you. If, at any time, you discover that information held about you is incorrect or you would like to review and confirm the accuracy of your personal information, you can contact us.  
+You can also gain access to the personal information we hold about you, subject to certain exceptions provided for by law. To request access to your personal information, please contact us.  
+You can also notify us to limit the processing or to cease processing of your personal information. To exercise this right, please contact us.
 
  **COMPLAINTS RESOLUTION**  
 We are committed to providing its customers with a fair and responsible system for the handling of complaints.  
@@ -135,10 +136,29 @@ If you do not want information collected through the use of cookies, web beacons
  **APPLICATIONS, WIDGETS OR LINKS TO OTHER WEBSITES**  
 We provide links to websites outside of the Website and REA Group Website, as well as to third party websites. We also allow some third parties to display widgets and applications on our Website that allow you to interact and share content including social media buttons such as Facebook share and like, Twitter, Pinterest and Google+. These linked sites, applications and widgets are not under our control, and we cannot accept responsibility for the conduct of companies linked to the Website and REA Group Website, or their collection of information through these third party applications or widgets. Before disclosing your personal information on any other website, or using these applications or widgets we advise you to examine the terms and conditions of using that website and the relevant third party’s data collection practices and controls in their privacy policy.
 
+ **USERS BASED IN THE EUROPEAN ECONOMIC AREA**  
+If you access our Websites from the European Economic Area ( **EEA** ), you may have additional rights under the General Data Protection Regulation, being Regulation 2016/679 ( **GDPR** ) in relation to the handling of your Personal Data (as defined in Article 4 of the GDPR).
+
+In providing our services to you, we may monitor your activity on the Websites using automated processes, including for the purposes of counting usage of our Websites and creating audience profiles. We do this to provide you with more tailored and relevant services, including to show you more relevant properties.
+
+In addition to other rights set out in this Privacy Policy, in certain circumstances you may:
+
+  1. request access to Personal Data that we hold about you;
+  2. request a copy of Personal Data that that you have provided to us, in a structured electronic format;
+  3. request that we update any inaccurate Personal Data that we hold about you;
+  4. request that we restrict the processing of Personal Data that we hold about you. This enables you to ask us to suspend the processing of Personal Data, for example if you want us to establish its accuracy or the reason for processing it;
+  5. object to our processing of your Personal Data;
+  6. request that we delete any Personal Data that we hold about you, subject to any legal obligations we have to retain your Personal Data; and
+  7. withdraw your consent to the processing of the Personal Data that we hold about you. Once you have withdrawn your consent, we will no longer process your Personal Data for the purpose(s) you originally agreed to, unless we are required to do so by law. This will not affect the lawfulness of any processing of Personal Data based on your consent before its withdrawal.
+
+
+
+Where your Personal Data is transferred outside of the EEA, it will only be transferred to countries that have been identified as providing adequate protection for Personal Data, or to a third party where we have approved transfer mechanisms in place to protect your Personal Data – i.e., by entering into the European Commission’s Standard Contractual Clauses, or by ensuring the entity is Privacy Shield certified (for transfers to US-based third parties).
+
+For further information or to exercise any of your rights as a EEA data subject under the GDPR, please contact [privacyofficer@rea-group.com](mailto:privacyofficer@rea-group.com).
+
  **LANGUAGE**  
 If there is a non-English version of this Privacy Policy, the English version shall prevail if there is any inconsistency between the English version and any local language version.
 
-Back to top
-
 © **REA Group Ltd**  
- **Last updated in December 2017**
+ **Last updated in January 2019**
