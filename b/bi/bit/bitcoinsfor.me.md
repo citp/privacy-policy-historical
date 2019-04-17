@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitcoinsfor.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181923id_/https%3A//bitcoinsfor.me/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinsfor.me privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417124415id_/https%3A//bitcoinsfor.me/privacy) for the most accurate reproduction.*
 
-# Bitcoinsfor.me - All about Bitcoin. Learn and Earn!
+# Bitcoinsfor.me - Privacy Policy
 
 This policy describes what personal information we collect and how we use it.
 
