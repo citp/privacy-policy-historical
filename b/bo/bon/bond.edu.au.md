@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903183426id_/https%3A//bond.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417091608id_/https%3A//bond.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Bond University
 
-##  General
+ 
+
+## General
 
 Bond University (‘BU’) is committed to protecting your personal information.
 
@@ -18,7 +20,9 @@ This policy sets out how BU manages your personal information.
 
 BU encourages you to check BU’s website regularly for any updates to BU’s privacy policy.
 
-##  Collection
+ 
+
+## Collection
 
 BU may collect and hold personal information about you, including your name, date of birth, gender, address, phone number, facsimile number, email address, next of kin details, bank account details, academic history, employment record, FEE-HELP status, nationality, visa details, passport details, travel details, preferred course of study, photograph, accommodation preferences, dietary requirements, physical attributes, medical history, health cover details, religious beliefs and/or other information relevant to providing you with the services you are, or someone else you know is, seeking.
 
@@ -63,7 +67,9 @@ University staff may require access to Personal Information held by the Universi
 
 BU stores your personal information in different ways, including in paper and in electronic form. The security of your personal information is important to BU. BU takes all reasonable measures to ensure that your personal information is stored safely to protect it from misuse, loss, unauthorised access, modification or disclosure, including electronic and physical security measures.
 
-##  Use of cookies and other information collection technologies
+ 
+
+## Use of cookies and other information collection technologies
 
 We monitor this website so we can make it useful. This website does collect some information about users of the website, and we may also ask you for information in order to provide a service to you. Details of what we collect and how it is used are contained in this statement.
 
@@ -88,7 +94,9 @@ When you visit BU's website, we make a record of your visit using "single pixel 
 
 
 
-##  Access
+ 
+
+## Access
 
 You may access personal information BU holds about you, upon making a written request. BU will endeavour to acknowledge your request within 14 days of its receipt and to provide you with access to the information requested within 30 days. BU may charge you a reasonable fee for processing your request.
 
@@ -108,15 +116,21 @@ BU may decline a request for access to personal information where, among other t
 
 If, upon receiving access to your personal information or at any other time, you believe the personal information BU holds about you is inaccurate, incomplete or out of date, please notify BU immediately. BU will take reasonable steps to correct the information so that it is accurate, complete and up to date. If BU disagrees with you about whether your personal information is inaccurate, incomplete or out of date, and you ask BU to associate with your personal information a statement claiming that your personal information is inaccurate, incomplete or out of date, BU will take reasonable steps to do so.
 
-##  Links to other websites
+ 
+
+## Links to other websites
 
 BU’s website may contain links to other websites. BU is not responsible for the privacy practices of linked websites and so linked websites are not subject to BU’s privacy policies and procedures.
 
-##  Updates
+ 
+
+## Updates
 
 This privacy policy may be updated by BU from time to time.
 
-##  Feedback
+ 
+
+## Feedback
 
 If you have any queries or concerns about BU’s privacy policy or the way in which BU handles your personal information, please contact BU’s privacy officer at:
 
