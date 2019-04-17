@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iu.edu privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818095805id_/https%3A//www.iu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iu.edu privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417120258id_/https%3A//www.iu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Notice: Indiana University
 
@@ -6,7 +6,7 @@ Effective: 2016-06-09
 
 ## Applicability
 
-This privacy notice applies only to the Indiana University gateway ([https://www.iu.edu](https://web.archive.org/web/20170818095805id_/https://www.iu.edu/index.html)) and explains our practices concerning the collection, use, and disclosure of visitor information. Visitor information collected by Indiana University will be used only as outlined in this privacy notice.
+This privacy notice applies only to the Indiana University gateway ([https://www.iu.edu](https://web.archive.org/web/20190417120258id_/https://www.iu.edu/index.html)) and explains our practices concerning the collection, use, and disclosure of visitor information. Visitor information collected by Indiana University will be used only as outlined in this privacy notice.
 
 Other units at the university may collect and use visitor information in different ways. Therefore, visitors to other university websites should review the privacy notices for the particular sites they visit. Indiana University is not responsible for the content of other websites or for the privacy practices of websites outside the scope of this notice.
 
@@ -20,7 +20,7 @@ Because Internet technologies continue to evolve rapidly, Indiana University may
 
 When you view pages on our site, the web server automatically collects certain technical information from your computer and about your connection.
 
-This website is hosted on [Webserve](http://webmaster.iu.edu/account_info/webserve.shtml), a shared web-hosting environment provided by IU’s University Information Technology Services. For more information about privacy practices related to Webserve, read the [Webserve Privacy Notice Supplement](http://webmaster.iu.edu/privacy).
+This website is hosted on [Webserve](http://webmaster.iu.edu/account_info/webserve.shtml), a shared web-hosting environment provided by IU’s University Information Technology Services. For more information about privacy practices related to Webserve, read the [Webserve Privacy Notice Supplement](https://kb.iu.edu/d/bfrm).
 
 In addition to any information collected by Webserve, our server and/or site collects the following:
 
