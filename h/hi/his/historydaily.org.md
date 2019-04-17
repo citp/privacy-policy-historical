@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historydaily.org privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208202932id_/http%3A//historydaily.org/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historydaily.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417182615id_/https%3A//historydaily.org/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy | History Daily
 
@@ -20,7 +20,7 @@ We collect this Usage Information by using cookies and pixel tags (also called w
 
 We do not collect personally identifying information in this way, but if you’ve provided us with personally identifying information we may associate that information with the information that is collected automatically. Automatic data collection may be performed on our behalf by our services providers. We may also allow third-party companies that are presenting advertisements on the Site to set and access their own cookies. Such third-party cookies are not governed by this Privacy Policy, but by the privacy policies of such third party.
 
-Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at https://www.nielsen.com/digitalprivacy.
 
 How we use your information
 
@@ -52,7 +52,7 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 How to opt out
 
-<http://optout.networkadvertising.org/#!/>
+<https://optout.networkadvertising.org/#!/>
 
 How to contact us
 
