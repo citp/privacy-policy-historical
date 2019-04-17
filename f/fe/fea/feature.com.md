@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feature.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225807id_/https%3A//www.featuresneakerboutique.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feature.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417093956id_/https%3A//feature.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Feature Sneaker Boutique
+# Privacy Policy
 
 ## **SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**
 
