@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrpproxy.net privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109204444id_/https%3A//www.rrpproxy.net/Legal/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrpproxy.net privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417230838id_/https%3A//www.rrpproxy.net/Legal/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - RRPproxy The Metaregistry
 
