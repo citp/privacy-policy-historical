@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yashrajfilms.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401010110id_/http%3A//www.yashrajfilms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yashrajfilms.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417200218id_/https%3A//www.yashrajfilms.com/privacy-policy) for the most accurate reproduction.*
 
-# Yash Raj Films - Privacy Policy
+# Privacy Policy - Yash Raj Films
 
 This Privacy Policy sets out the manner in which http://www.yashrajfilms.com/ (hereinafter referred to as "Website") owned and operated by ‘Yash Raj Films Private Limited’ (hereinafter referred to as “YRF”, “We” or “Us” or “Our”) collects, uses, maintains and discloses information collected from user(s) (“You “and “Yours”) on the Website and other related services. By accessing, availing and using the Website and/or any of the services, and in particular by subscribing to YRF Newsletter and/or creating an account on the Website (collectively referred to as ‘Services’), You are consenting to the use, transfer, storage, disclosure and other uses of Your information (including but not limited to personal and non-personally identifiable information) in accordance with this Privacy Policy.
 
