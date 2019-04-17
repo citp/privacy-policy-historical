@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibtimes.com.au privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128032314id_/http%3A//www.ibtimes.com.au/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.com.au privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417145917id_/https%3A//www.ibtimes.com.au/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
