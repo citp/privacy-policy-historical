@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the instahyre.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429183734id_/https%3A//www.instahyre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instahyre.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417125818id_/https%3A//www.instahyre.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Instahyre
-
-Instahyre is a platform where companies compete to hire talented candidates in weekly auctions. Our mission is to help you find your perfect job easily.
 
 We view protection of your privacy as a very important principle. We understand clearly that you and your personal information is one of our most important asset. We encourage you to read the privacy policies carefully.
 
