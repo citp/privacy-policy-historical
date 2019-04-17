@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautifulhalo.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229001350id_/https%3A//www.beautifulhalo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifulhalo.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417160409id_/https%3A//www.beautifulhalo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - Beautifulhalo.com
 
