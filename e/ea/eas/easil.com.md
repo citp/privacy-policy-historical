@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easil.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227224503id_/https%3A//about.easil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easil.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417152809id_/https%3A//about.easil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Easil
 
@@ -11,6 +11,10 @@ This policy applies only to information that Easil collects via this Website.
 This Privacy Policy forms part of the Terms of Use document, which may be accessed via the footer of our Website.
 
 Please note that this Website Privacy Policy forms part of the Terms of Use document, which is displayed at the footer of each page of the Website and our Registration Terms.
+
+ **RESIDENTS OF THE EUROPEAN ECONOMIC AREA**
+
+This is an Australian website that is subject to laws of Australia. However, if you’re a resident of any country that the General Data Protection Regulation (GDPR) applies to our activities, then please [click here](https://web.archive.org/privacy-policy-gdpr) to learn about how we collect, share and use your personal information, and how you may exercise your privacy rights.
 
  **Information we collect and hold**
 
