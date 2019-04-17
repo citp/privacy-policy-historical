@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728223020id_/https%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417062544id_/https%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - US Audio Mart
 
@@ -12,7 +12,7 @@ This document was last updated May 28th 2018.
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect on our site and when you sign up or use our services. 
 
-Note: This policy only applies to any information disclosed while dealing directly with US Audio Mart (http://www.usaudiomart.com/). Once you leave our web site to go to another web site, or provide information to other users of the site, we cannot assume responsibility of any information that may be collected, disclosed, and/or manipulated by those other services or users. 
+Note: This policy only applies to any information disclosed while dealing directly with US Audio Mart (https://www.usaudiomart.com/). Once you leave our web site to go to another web site, or provide information to other users of the site, we cannot assume responsibility of any information that may be collected, disclosed, and/or manipulated by those other services or users. 
 
 _**About the Information We Collect:**_
 
@@ -80,7 +80,7 @@ You can also learn more about other third party advertiser personalisation of ad
 
 _**Your Consent:**_
 
-By using our web site (http://www.usaudiomart.com/), it constitutes acceptance of the details outlined in this Privacy Policy. US Audio Mart reserves the right to modify this Privacy Policy at any time. 
+By using our web site (https://www.usaudiomart.com/), it constitutes acceptance of the details outlined in this Privacy Policy. US Audio Mart reserves the right to modify this Privacy Policy at any time. 
 
 If you are a user in the EU, you must consent to the usage of your information when you register on our site. 
 
