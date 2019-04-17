@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the foundr.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817154558id_/https%3A//foundr.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundr.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417234715id_/https%3A//foundr.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Foundr
 
-  * Skip to primary navigation
-  * Skip to content
-
-
-
-[Foundr](https://foundr.com/)
-
-A magazine for young entrepreneurs
-
-This Privacy Policy sets out our commitment to protecting the privacy of personal information provided to us, or otherwise collected by us, offline or online, including through this website ( **Site** ). In this Privacy Policy **we** , **us** or **our** means Foundr Media Pty Ltd ABN 84 165 600 582. When we collect, store and use your personal information, we do so in accordance with the rules set down in the Australian Privacy Act 1988 (Cth) and by the European Union General Data Protection Regulation (EU) 2016/679 (the **GDPR** ).
+This Privacy Policy sets out our commitment to protecting the privacy of personal information provided to us, or otherwise collected by us, offline or online, including through this website ( **Site** ). In this Privacy Policy **we** , **us** or **our** means Foundr Media Pty Ltd ABN 84 165 600 582. When we collect, store and use your personal information, we do so in accordance with the rules set down in the Australian Privacy Act 1988 (Cth) and by the European Union General Data Protection Regulation (EU) 2016/679 (the **GDPR** ).[1\. Personal information  
+](https://web.archive.org/our-privacy-policy/#1)[2\. Collection and use of personal information  
+](https://web.archive.org/our-privacy-policy/#2)[3\. Legal bases for processing (for European Economic Area users)  
+](https://web.archive.org/our-privacy-policy/#3)[4\. Disclosure of personal information to third parties  
+](https://web.archive.org/our-privacy-policy/#4)[5\. How we treat personal information that is also sensitive information  
+](https://web.archive.org/our-privacy-policy/#5)[6\. Our responsibilities as a ‘controller’ under the GDPR  
+](https://web.archive.org/our-privacy-policy/#6)[7\. Your rights and controlling your personal information  
+](https://web.archive.org/our-privacy-policy/#7)[8\. Storage and security  
+](https://web.archive.org/our-privacy-policy/#8)[9\. Cookies and web beacons  
+](https://web.archive.org/our-privacy-policy/#9)[10\. Links to other websites  
+](https://web.archive.org/our-privacy-policy/#10)[11\. Amendments  
+](https://web.archive.org/our-privacy-policy/#11)
 
 ###### 1\. Personal information
 
@@ -31,7 +33,8 @@ Personal information: The types of personal information or personal data we may 
 
 
 
-We may collect these types of personal information directly from you or from third parties.
+We may collect these types of personal information directly from you or from third parties.  
+
 
 ###### 2\. Collection and use of personal information
 
@@ -95,7 +98,8 @@ Where the disclosure of your personal information is subject to GDPR, you acknow
 
 Sensitive information is a sub-set of personal information that is given a higher level of protection under the Australian Privacy Principles. Sensitive information means information relating to your racial or ethnic origin, political opinions, religion, trade union or other professional associations or memberships, philosophical beliefs, sexual orientation, sexual practices or sex life, criminal records, health information or biometric information.  
 Provided you consent, your sensitive information may only be used and disclosed for purposes relating to the primary purpose for which the sensitive information was collected.  
-Sensitive information may also be used or disclosed if required or authorised by law.
+Sensitive information may also be used or disclosed if required or authorised by law.  
+
 
 ###### 6\. Our responsibilities as a ‘controller’ under the GDPR
 
@@ -114,16 +118,16 @@ As a controller, we have certain obligations under the GDPR when collecting, sto
 We also apply these principles to the way we collect, store and use the personal information of our Australian customers or clients.  
 Specifically, we have the following measures in place, in accordance with the GDPR:
 
-  * **Data protection policies:** We have internal policies in place which set out where and how we collect personal information, how it is stored and where it goes after we get it, in order to protect your personal information.
-  * **Right to ask us to erase your personal information:** You may ask us to erase personal information we hold about you.
-  * **Right to ask us to restrict data processing:** You may ask us to limit the processing of your personal information where you believe that the personal information we hold about you is wrong (to give us enough time to verify if the information needs to be changed), or where processing data is unlawful and you request us to restrict the processing of personal information rather than it being erased.
-  * **Notification of data breaches:** We will comply with the GDPR in respect of any data breach.
+  *  **Data protection policies:** We have internal policies in place which set out where and how we collect personal information, how it is stored and where it goes after we get it, in order to protect your personal information.
+  *  **Right to ask us to erase your personal information:** You may ask us to erase personal information we hold about you.
+  *  **Right to ask us to restrict data processing:** You may ask us to limit the processing of your personal information where you believe that the personal information we hold about you is wrong (to give us enough time to verify if the information needs to be changed), or where processing data is unlawful and you request us to restrict the processing of personal information rather than it being erased.
+  *  **Notification of data breaches:** We will comply with the GDPR in respect of any data breach.
 
 
 
 ###### 7\. Your rights and controlling your personal information
 
-**Choice and consent:** Please read this Privacy Policy carefully. By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this Privacy Policy. If you are under 16 years of age, you must have; and warrant to the extent permitted by law to us that you have, your parent or legal guardian’s permission to access and use the Site and they (your parents or guardian) have consented to you providing us with your personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this Site or the products and/or services offered on or through it.  
+ **Choice and consent:** Please read this Privacy Policy carefully. By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this Privacy Policy. If you are under 16 years of age, you must have; and warrant to the extent permitted by law to us that you have, your parent or legal guardian’s permission to access and use the Site and they (your parents or guardian) have consented to you providing us with your personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this Site or the products and/or services offered on or through it.  
 **Information from third parties:** If we receive personal information about you from a third party, we will protect it as set out in this Privacy Policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.  
 **Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below. If you ask us to restrict how we process your personal information, we will let you know how the restriction affects your use of our Site or products and services.  
 **Access and data portability:** You may request details of the personal information that we hold about you. You may request a copy of the personal information we hold about you. Where possible, we will provide this information in CSV format or other easily readable machine format. You may request that we erase the personal information we hold about you at any time. You may also request that we transfer this personal information to another third party (data portability).  
@@ -134,7 +138,8 @@ Specifically, we have the following measures in place, in accordance with the GD
 ###### 8\. Storage and security
 
 We are committed to ensuring that the personal information we collect is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures such as the pseudonymisation and encryption of personal information, to safeguard and secure personal information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.  
-We cannot guarantee the security of any information that is transmitted to or by us over the Internet. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that the personal information we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.
+We cannot guarantee the security of any information that is transmitted to or by us over the Internet. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that the personal information we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.  
+
 
 ###### 9\. Cookies and web beacons
 
@@ -150,7 +155,7 @@ Our Site may contain links to other websites. We do not have any control over th
 
 We may, at any time and at our discretion, vary this Privacy Policy. We will notify you if we amend this Privacy Policy, by contacting you through the contact details you have provided to us. Any amended Privacy Policy is effective once we notify you of the change.
 
-**For any questions or notices, please contact our Privacy Officer at:**  
+ **For any questions or notices, please contact our Privacy Officer at:**  
 Foundr Media Pty Ltd ABN 84 165 600 582  
 Email: [support@Foundr.com](mailto:support@Foundr.com)  
 **Last update:** 21 May 2018  
