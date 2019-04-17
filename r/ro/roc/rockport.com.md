@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rockport.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809231037id_/https%3A//www.rockport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockport.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417044905id_/http%3A//www.rockport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Rockport
 
 ## INTRODUCTION
 
-The Rockport Company, LLC ("Rockport” or “we, us or our”) has developed this Online Privacy Policy ("Privacy Policy") in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by Rockport when you visit our websites or use certain services on www.Rockport.com and help.rockport.com (collectively, the "Websites"). By accessing or using this website or other Rockport services, you consent to our Privacy Policy. Rockport may modify this Privacy Policy at any time effective upon its posting. Your continued use of our website or services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](http://www.rockport.com/terms.html).
+The Rockport Company, LLC ("Rockport” or “we, us or our”) has developed this Online Privacy Policy ("Privacy Policy") in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by Rockport when you visit our websites or use certain services on www.Rockport.com and help.rockport.com (collectively, the "Websites"). By accessing or using this website or other Rockport services, you consent to our Privacy Policy. Rockport may modify this Privacy Policy at any time effective upon its posting. Your continued use of our website or services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](https://www.rockport.com/terms.html).
 
 Rockport is not responsible for the privacy practices of any company to which our Websites might link. For access to the privacy policies of those sites, please refer to the policies provided by those sites at their home pages.
 
