@@ -1,29 +1,65 @@
-> *The following text is extracted and transformed from the islandcricket.lk privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119181242id_/http%3A//island-cricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcricket.lk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417063637id_/https%3A//www.islandcricket.lk/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy - Island Cricket
 
-We can be reached via e-mail at the following email address:
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit www.islandcricket.lk (the “Site”).
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+**PERSONAL INFORMATION WE COLLECT**
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin boards, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations and the email address and information provided in your profile or at time of registration..
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-The information we collect is used to improve the content of our Web page, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+We collect Device Information using the following technologies:
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends.
+– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address.
+– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-With respect to Ad Servers: To bring you offers that are of interest to you, bring you this service at no cost to you and to maintain this website, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: [www.adsense.com](http://www.adsense.com/ "www.adsense.com")
+– “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and other information collected if you have registered on the Site and have an account.
 
-Upon request we provide site visitors with access to a description of information that we maintain about them.
+**HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
-Consumers can access this information by e-mailing the Administrator us at the above address.
+We use the Device Information that we collect to help us screen for potential risk and security threats (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our users browse and interact with the Site, and to assess the success of our marketing and advertising campaigns). We also require Device Information to deliver relevant advertising to our users.
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
+**SHARING YOUR PERSONAL INFORMATION**
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our users use the Site — you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-If you feel that this site is not following its stated information policy, you may contact or us by email to discuss matters in depth and find a resolution.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+You can opt out of targeted advertising by doing so on these external service providers:
+
+FACEBOOK – https://www.facebook.com/settings/?tab=ads  
+GOOGLE – https://www.google.com/settings/ads/anonymous  
+BING – https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
+
+**DO NOT TRACK**
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+**YOUR RIGHTS**
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to provide you with a service you chose and also to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+**DATA RETENTION**
+
+When you register and create an account or leave a comment on the Site, we will maintain your information for our records unless and until you ask us to delete this information.
+
+**MINORS**
+
+The Site is not intended for individuals under the age of 13.
+
+**CHANGES**
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+**CONTACT US**
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please [contact us](https://web.archive.org/contact).
