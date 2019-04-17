@@ -1,109 +1,69 @@
-> *The following text is extracted and transformed from the trannytube.net privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116075254id_/http%3A//www.trannytube.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannytube.net privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417114336id_/https%3A//www.trannytube.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy for trannytube.net
 
-rn
+##### Introduction
 
-rnShemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Limited recognizes that its customers, visitors, users, and others who use Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.rn
+We collect and process your personal information in accordance with this privacy policy. This policy provides you with information regarding our obligations and your rights in compliance with the General Data Protection Regulation (GDPR).
 
-rn
+##### Information That We Collect From You
 
-rnPlease note that any video, image, or other content posted at the direction of users onto the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site becomes published content and is not considered personally identifiable information subject to this privacy notice.rn
+Information that you provide to us directly might include personal information such as your name, email address and other personal details.
 
-rn
+We may also collect non personal information that may identify you such as location, IP address, browser type, operating system and other details about the device you are using.
 
-The Information Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Limited Collects
+##### How we use your personal data
 
-rn
+We use your personal data to process your request when you contact us by email or through our content removal form. We respect your privacy at all times. Your information will never be disclosed or shared with others without your consent, unless required to do so by law.
 
-rn **User-provided information:** You provide certain personally identifiable information (such as your name and email address) to Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video when choosing to participate in various activities on the sites such as uploading videos or posting messages.rn
+##### Sharing or Disclosing Your Personal Data
 
-rn **Cookies Information:** When you visit the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site may not function properly if the ability to accept cookies is disabled.rn
+Whilst we will never disclose or share your data with others without your consent, we use third party processors to provide IT services; these companies will process or store your information on our behalf.
 
-rn
+We ensure all processors acting on our behalf act in accordance with this privacy notice.
 
-rn **Log File Information:** When you use the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browserrn
+##### Your Rights
 
-rn
+Under GDPR you have the right to access personal information that we processes about you.
 
-rn
+You can request from us information about - 
 
-The Way Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video Retains Information
+  1. The personal data we hold about you
+  2. The categories of personal data concerned
+  3. The purposes of the processing
+  4. Details to whom your personal data has/will be disclosed
+  5. How long we retain your personal data
+  6. If we did not collect the data directly from you, information about the source
 
-rn
 
-rn
 
-rnTo preserve the integrity of website databases, Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video, you are consenting to store that information indefinitely.rn
+You may also request from us the following-
 
-rn
+  1. That we update any incomplete or inaccurate data about you
+  2. Request that we delete your personal data in accordance with GDPR
 
-rn
 
-The Way Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Limited Uses Information 
 
-rn
+You may request we action your rights by contacting us by email at cjtubetrader (AT) gmail.com
 
-rn
+To ensure your data is protected, if we receive a request from you to exercise your rights, we will ask you to verify your identity before acting on the request.
 
-rnIf you submit personally identifiable information to us through the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.rn
+##### International Transfers
 
-rn
+Your personal data may be processed in countries outside your country of residence.
 
-rnAny personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site, and other users can contact you through messages and comments. Any videos that you submit to the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site may be redistributed through the Internet and other media channels, and may be viewed by the general public.rn
+Where these transfers take place, we will ensure the same high standard of protection for your personal data at all times.
 
-rn
+##### How Long We Retain Your Data
 
-rnWe do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.rn
+We only retain personal information for as long as is necessary. For further details on our data retention periods please contact us.
 
-rn
+Where you have consented to us to use your details for direct marketing, we will keep this data until you notify us or otherwise withdraw your consent.
 
-rn
+##### Cookies
 
-When Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video Discloses Information 
+A ‘cookie’ is a small text file sent from a website and stored on the user’s computer by the user’s web browser. Upon visiting a site that uses cookies, a cookie is downloaded onto your computer or mobile device. The next time you visit that site, your device will remember useful information such as preferences, visited pages or other options
 
-rn
+Cookies are widely used to add functionality to websites, or to ensure they work more efficiently. Our site relies on cookies to optimise the user experience and ensure the sites services function properly.
 
-rn
-
-rnWe provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.rn
-
-rn
-
-rnWe do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.rn
-
-rn
-
-rnWe may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.rn
-
-rn
-
-rnShemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Megarotic Limited, our users or others.rn
-
-rn
-
-rn
-
-Our Commitment to Legal-Age Usage 
-
-rn
-
-rnProtecting children from adult content is especially important. For that reason, Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Limited does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site at any time or in any manner. If Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Limited learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.rn
-
-rn
-
-In the Event of Merger, Sale, or Bankruptcy
-
-rn
-
-rnIn the event that Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.rn
-
-rn
-
-Changes and updates to this Privacy Notice
-
-rn
-
-rnThis privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos Video site constitutes your agreement to this privacy notice and any future revisions.rn
-
-rn 
+Most web browsers allow some control to restrict or block cookies through the browser settings, however if you disable cookies you may find this affects your ability to use certain parts of our website or services. For more information about cookies please visit [https://www.aboutcookies.org](https://www.aboutcookies.org/).
