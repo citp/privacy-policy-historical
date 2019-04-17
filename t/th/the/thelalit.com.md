@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the thelalit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023116id_/http%3A//www.thelalit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelalit.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417092739id_/https%3A//www.thelalit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  Privacy Policy
 
- **The Lalit Suri Hospitality Group**
-
-At The Lalit Hotels our effort is to provide our guests Limitless Hospitality at our hotels and resorts in India and outside. We value our guests’ patronage and faith in us as we try and live up to their expectations and strive to remain amongst the top Indian hotels for business and leisure travel.
+ **The Lalit Data Protection Summary**
 
 We request our guests to read this policy document carefully before sharing their personal information with us. By visiting our web sites, the guests accept the practices described in this policy document.
+
+This user data protection summary describes the collection and usage of personal information and data, in accordance with GDPR (General Data Protection Regulation).
+
+If you have any query regarding this Privacy Notice, please contact us at [corporate@thelalit.com](mailto:corporate@thelalit.com).
 
 The Lalit Suri Hospitality Group reserves the right to change the privacy policy from time to time and guests are requested to visit our website frequently to learn about the recent changes.
 
@@ -32,6 +34,8 @@ We use guests’ personal information to provide them with the services requeste
 
 Information collected regarding their preferences when guests stay or dine at The Lalit will be disseminated across. The Lalit Group of Hotels to ensure that guests enjoy similar level of service and satisfaction across all the hotels at the chain.
 
+The guests have a right to modify or restrict (stop any active) processing of their personal information for any marketing related activities. The guests may opt out of our database by using the “ **Unsubscribe** ” option at the footer of our online e-mailers, or by sending an email to [ecampaign@thelalit.com](mailto:ecampaign@thelalit.com).
+
  **How does The Lalit share the personal information collected from its guests, including with third parties**
 
 To ensure that you enjoy the same level of service across all Lalit Hotels and Resorts, owned or franchised around the world, we may share your personal information with hotels within The Lalit Group. While doing so, The Lalit will ensure that guests’ personal information is handled as per this policy.
@@ -50,7 +54,7 @@ o From time to time The Lalit may partner with other companies to provide co-spo
 
  **Non-personal or anonymous information collected by The Lalit**
 
-Information that does not personally identify a guest is referred to as non-personal or anonymous information. When guest visit and interact with the sites [www.thelalit.com](http://www.thelalit.com/) or third parties with whom The Lalit has contracted to provide services, non-personal information, like, list of website pages visited by guest, could be collected. Technology like cookies could be used to help deliver content as per guest preference, to help guest process their reservations or other requests. While this cannot be used to disclose their identity, this information will identify the browser used by guest to our servers when they visit our site. To remove the cookies at any point from a computer, guests can delete them using their browser.
+Information that does not personally identify a guest is referred to as non-personal or anonymous information. When guest visit and interact with the sites [www.thelalit.com](https://www.thelalit.com/) or third parties with whom The Lalit has contracted to provide services, non-personal information, like, list of website pages visited by guest, could be collected. Technology like cookies could be used to help deliver content as per guest preference, to help guest process their reservations or other requests. While this cannot be used to disclose their identity, this information will identify the browser used by guest to our servers when they visit our site. To remove the cookies at any point from a computer, guests can delete them using their browser.
 
 We also may collect data by using web beacons, clear GIFS, pixel tags or similar means, which will tell us when guests visit our site. Non-personal information like the domain name, the areas of the site guest visit, their operating system, browser version, and the URL they visited from, can be identified, which can be used to enhance their online experience by understanding their web usage patters.
 
@@ -62,7 +66,7 @@ We may use or disclose non-personal information for any purpose from time to tim
 
 If our websites contain links to third parties’ websites, please do note that we will not be responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. For information provided by guests on third party sites, the privacy policy and terms of service on those sites will be applicable and it is advisable to read the privacy policies of websites that the guests visit before submitting personal information.
 
- **The Lalit has a strict  policy regarding the protection of its guests’ personal information**
+ **Data Security**
 
 The Lalit will take the necessary measures to:
 
@@ -70,6 +74,7 @@ The Lalit will take the necessary measures to:
   * Keep the guests’ personal information up-to-date, consistent with applicable law.
   * When guests transact online, we seek to protect their personal information that they provide. However, do note that no security system or system of transmitting data over the Internet can be guaranteed to be entirely secure.
   * Ensure that our affiliates and service providers take reasonable measures to maintain the confidentiality of personal information about guest.
+  * We have a system in place to check for data security breach and notify the relevant authorities, of any such activities.
 
 
 
