@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isu.edu privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809002628id_/https%3A//www.isu.edu/ogc/general-data-protection-regulation-gdpr/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isu.edu privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417035500id_/https%3A//www.isu.edu/ogc/general-data-protection-regulation-gdpr/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Idaho State University
 
