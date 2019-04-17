@@ -1,0 +1,559 @@
+<!--The following is the downloaded HTML source of the allaboutlearningpress.com privacy policy that was archived on 2019-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190417235549id_/https%3A//www.allaboutlearningpress.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+     <title>Privacy</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <link rel="canonical" href="https://www.allaboutlearningpress.com/privacy">  <link rel="shortcut icon" href="https://cdn2.bigcommerce.com/server5900/e3bf3/product_images/favicon.ico?t=1488413499">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="text/css" rel="stylesheet" href="https://cdn1.bigcommerce.com/server5900/e3bf3/templates/__custom/Styles/light.css?t=1535038095">
+    <link href="https://cdn1.bigcommerce.com/server5900/e3bf3/templates/__custom/Styles/styles.css?t=1535038095" media="all" type="text/css" rel="stylesheet">
+    <link href="https://cdn1.bigcommerce.com/server5900/e3bf3/templates/__custom/Styles/responsive.css?t=1535038095" media="all" type="text/css" rel="stylesheet">
+    <link href="https://cdn1.bigcommerce.com/server5900/e3bf3/templates/__custom/Styles/product.attributes.css?t=1535038095" type="text/css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.3/css/lightslider.min.css">
+    <link type="text/css" rel="stylesheet" href="https://cdn1.bigcommerce.com/server5900/e3bf3/templates/__custom/Styles/css-stars.css?t=1535038095">
+    <link type="text/css" rel="stylesheet" href="https://cdn1.bigcommerce.com/server5900/e3bf3/templates/__custom/Styles/font-awesome.css?t=1535038095">
+    <script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580452500000/434478.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" defer="" src="https://cdn9.bigcommerce.com/shared/js/beacon_api-d53f0a39a11dacaa85063ca4f4aba159a609185d.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+            <script src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/js/jquery.barrating.js?t=1535038095"></script>
+        <script type="text/javascript">
+           $(function() {
+              $('#star-review-system').barrating({
+                theme: 'css-stars'
+              });
+           });
+        </script>
+    <script src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/js/common.js?t=1535038095"></script> 
+    <script>config.ShopPath = 'https://www.allaboutlearningpress.com';config.AppPath = '';config.FastCart = 0;config.ShowCookieWarning = !!0;var ThumbImageWidth = 200;var ThumbImageHeight = 300;</script>
+    <!--[if lt IE 9]>
+    <script src="https://cdn10.bigcommerce.com/r-22a8cadb262f254ef3770eb02b52b54ec4636050/themes/ClassicNext/js/html5shiv.js"></script>
+    <![endif]-->
+    <script src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/js/tooltipster.bundle.min.js?t=1535038095"></script>
+    <script type="text/javascript" src="//nxtcfm.s3.amazonaws.com/a37c1d11d28c75630a148bb6b4a57db9-ns.js"></script>
+    <script type="text/javascript" src="//nxtcfm.s3.amazonaws.com/a37c1d11d28c75630a148bb6b4a57db9-ac.js"></script>
+</head>
+    <body>
+        <div id="DrawerMenu" class="shadow1">
+    <div class="inner">
+        <div class="AdditionalInformationList Moveable Panel slist" id="SideAdditionalInformation">
+    <p class="h3">Additional Information</p>
+    <div class="BlockContent">
+        <ul class="treeview">
+            <li><a href="/">Home</a></li>
+        </ul>
+        <ul class="pages-menu sf-menu sf-horizontal sf-js-enabled">
+		<li class=" ">
+		<a href="https://resources.allaboutlearningpress.com/"><span>Free Resources</span></a>
+		
+	</li>	<li class=" ">
+		<a href="https://blog.allaboutlearningpress.com/"><span>Blog</span></a>
+		
+	</li>	<li class=" ">
+		<a href="https://www.allaboutlearningpress.com/about"><span>About</span></a>
+		
+	</li>
+</ul>
+    </div>
+</div>
+
+        <div class="AccountNavigationList Moveable Panel slist" id="SideAccountNavigation">
+    <p class="h3">Site Information</p>
+    <div class="BlockContent js-side-account-menu">
+        <!-- Fill with content from TopMenu -->
+    </div>
+</div>
+<script>
+(function ($, window) {
+    'use strict';
+    var bcTheme = window.bcTheme || {};
+    bcTheme.mobile = bcTheme.mobile || {};
+    var MobileAccountMenu = function MobileAccountMenu(){};
+    MobileAccountMenu.prototype.init = function init ( selector ) {
+        this.$element = $(selector);
+        this.cloneTopMenu();
+        this.setCurrencyConvertor();
+        this.bindEvents();
+    };
+    MobileAccountMenu.prototype.cloneTopMenu = function cloneTopMenu () {
+        // Cloning from top menu as Globals don't work down here.
+        var $topMenuClone = $('.TopMenu ul').clone(),
+            $phoneNumber = $('<a />', {
+                'text': $('.js-drawermenu-store-phone-container').find('.phoneIcon').text(),
+                'href': 'tel:' + $('.js-drawermenu-store-phone-container').find('.js-drawermenu-store-phone').text()
+            });
+        //Modify the cloned menu to make phone clickable and hide stuff we don't need
+        $topMenuClone.find('.phoneIcon').replaceWith( $phoneNumber );
+        $topMenuClone.find('.js-drawermenu-cart').remove();
+        //append new menu to drawer
+        this.$element.append( $topMenuClone );
+    };
+    MobileAccountMenu.prototype.setCurrencyConvertor = function setCurrencyConvertor () {
+        this.$mobileCurrencyConverter = this.$element.find('.js-drawermenu-currency-converter');
+        this.$mobileSelectedCurrency = this.$mobileCurrencyConverter.find('.selected-currency');
+        this.$mobileCurrencyList = this.$mobileCurrencyConverter.find('.CurrencyList');
+    };
+    MobileAccountMenu.prototype.bindEvents = function bindEvents () {
+        var that = this;
+        this.$mobileSelectedCurrency.on('click', function(e) {
+            e.preventDefault();
+            that.$mobileSelectedCurrency.toggleClass('open');
+            that.$mobileCurrencyList.toggleClass('open');
+        });
+    };
+    bcTheme.mobile.accountMenu = new MobileAccountMenu();
+    window.bcTheme = window.bcTheme || bcTheme;
+}(jQuery, window));
+$(function () {
+    bcTheme.mobile.accountMenu.init('.js-side-account-menu');
+});
+</script>
+    </div>
+</div>
+<script>
+//<![CDATA[
+    $(function(){
+        if ( $(window).innerWidth() < 769 ) {
+            $('#ToggleMenu').on('click', function(){
+                $('#SideCategoryList').prependTo('#DrawerMenu .inner');
+            });
+        }
+
+        //Drawer Subnavigation Accordion
+        $('#DrawerMenu li ul').addClass('drawer-subcat');
+        $('#DrawerMenu .drawer-subcat').prev('a').after('<span class="subcat-expand"></span>');
+        $('#DrawerMenu .subcat-expand').click(function(){
+            $(this).next('.drawer-subcat').toggleClass('expanded');
+            $(this).toggleClass('subcat-expanded');
+            $(this).next().find("#search_query").focus();
+        });
+
+    });
+//]]>
+</script>
+
+        <div class="page">
+            <div class="header shadow1">
+    <!--[if lt IE 11]>
+    <p class="browserupgrade" style="background-color:#ef4343;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
+	<div class="inner">
+		<div id="AjaxLoading">
+			<div class="ajax-loader">
+				<img src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/images/loader.png?t=1535038095" alt="">&nbsp;Loading... Please wait...
+			</div>
+		</div>
+		
+		
+<div class="TopMenu">
+    <div class="inner">
+        <ul style="display:">
+            <li style="display:" class="First">
+                <a href="https://www.allaboutlearningpress.com/account.php">Account</a>
+            </li>
+            <li>
+                <a href="https://www.allaboutlearningpress.com/faq/">FAQs</a>
+            </li>
+            <li>
+                <a href="https://www.allaboutlearningpress.com/contact-us/">Contact</a>
+            </li>
+            <li class="CartLink js-drawermenu-cart" style="display:">
+                <a href="https://www.allaboutlearningpress.com/cart.php" title="View Cart">Cart<div class="menu-icons"></div><span class="total"></span></a>
+                
+            </li>
+            <li class="last search">
+                <a class="topMenu-span">Search<span class="menu-icons"></span></a>
+                <ul class="dropdown">
+                    <li><div id="SearchForm" class="cf">
+    <form action="https://www.allaboutlearningpress.com/searchresults.html" method="get" onsubmit="return check_small_search_form()">
+        <label for="search_query">Search</label>
+        <input type="text" name="search_query" id="search_query" class="Textbox autobox" value="Search" placeholder="Enter search terms here...">
+        <input type="submit" class="Button" value="" name="Search" title="Search">
+    </form>
+</div>
+
+<script type="text/javascript">
+    var QuickSearchAlignment = 'right';
+    var QuickSearchWidth = '390px';
+    lang.EmptySmallSearch = "You forgot to enter some search keywords.";
+    // uniform() is deprecated in Blueprint theme; remove binding below when removing uniform
+    $(document).ajaxComplete(function() {
+        $('input[type=checkbox], select').not('.UniApplied').uniform();
+    });
+</script></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+
+		<div id="Header">
+			<div class="inner">
+				<div id="ToggleMenu" class="fa fa-bars normal"></div>
+				<div class="header-logo">
+					<a href="https://www.allaboutlearningpress.com"><img src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/images/AALP_Logo.png?t=1535038095" onerror="this.onerror=null; this.src='https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/images/AALP_Logo.png?t=1535038095'" alt="All About Learning Press Logo"></a>
+				</div>
+				<div id="cart-amount">
+					<a href="https://www.allaboutlearningpress.com/cart.php" class="Cart"><span class="bag-handle"></span><span class="total">&nbsp;</span></a>
+				</div>
+				<div class="PageMenu">
+					<div class="table-cell">
+						<div class="CategoryList">
+    <p class="h3">Categories</p>
+    <div class="BlockContent">
+        <div class="SideCategoryListClassic" id="SideCategoryList">
+           <nav>
+            <ul class="category-list">	<li class=""><a href="https://www.allaboutlearningpress.com/all-about-reading/">All About Reading</a>
+	
+	</li>	<li class=""><a href="https://www.allaboutlearningpress.com/all-about-spelling/">All About Spelling</a>
+	
+	</li></ul>
+           </nav>
+        </div>
+    </div>
+</div>
+
+						<ul class="pages-menu sf-menu sf-horizontal sf-js-enabled">
+		<li class=" ">
+		<a href="https://resources.allaboutlearningpress.com/"><span>Free Resources</span></a>
+		
+	</li>	<li class=" ">
+		<a href="https://blog.allaboutlearningpress.com/"><span>Blog</span></a>
+		
+	</li>	<li class=" ">
+		<a href="https://www.allaboutlearningpress.com/about"><span>About</span></a>
+		
+	</li>
+</ul>
+					</div>
+				</div>
+				<div id="SubMenu">
+					<!--Category Menu will display here -->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+            <div class="main">
+                <div class="inner">
+                    
+                    <div class="Content Widest" id="LayoutColumn1">
+                        <div class="Block Breadcrumb Moveable Panel" id="PageBreadcrumb">
+	<ul>
+		<li><a href="https://www.allaboutlearningpress.com/">Home</a></li><li>Privacy</li>
+	</ul>
+</div>
+                        <div class="Block Moveable Panel" id="PageContent">
+	
+	<h1 class="TitleHeading">Privacy</h1>
+	
+	<div class="BlockContent full-width">
+	
+		<p>This page provides information about the privacy policy of this website and its related apps (mobile and otherwise). </p>
+<p>Our policy is simple: we do not collect personal information about you unless you choose to provide that information.</p>
+<ul>
+<li>You can rest assured that your private information will be respected and protected.</li>
+<li>Your e-mail address will only be used to communicate with you about your order, reply to your questions, or, if you signed up for our e-newsletter, to send you information about blog posts, new products, and special deals.</li>
+<li> We do not give, share, sell, or transfer any personal information to a third party.</li>
+<li>We do not market to children under 13. If a child emails us via a “Contact Us“ link and we can identify the sender as a child, any personally identifiable information submitted will only be used to respond on a one-time basis to such child. In addition, if we have actual knowledge that a child is sending or posting personally identifiable information on any area of our website, we will use commercially reasonable efforts to delete such personally identifiable information as soon as practicable.</li>
+</ul>
+
+<p>If you have any questions about how we handle and protect your information, feel free to <a href="https://www.allaboutlearningpress.com/contact-us/">contact us</a>.</p>
+	
+	</div>
+</div>
+
+                        <div class="Block Moveable Panel" id="PageComments" style="display:none;"></div>
+                        
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div class="footer">
+    <div class="inner">
+        <div class="footer-main">
+            <!--<div class="inner">
+                <div id="socnet" class="Block SocialConnect Moveable Panel">
+	<ul>
+		<li><a href="https://www.facebook.com/allaboutlearningpress" class="icon-social icon-social-theme icon-facebook" title="Facebook" target="_blank">Facebook</a></li><li><a href="https://www.pinterest.com/learningpress/" class="icon-social icon-social-theme icon-pinterest" title="Pinterest" target="_blank">Pinterest</a></li><li><a href="https://www.instagram.com/allaboutlearning/" class="icon-social icon-social-theme icon-instagram" title="Instagram" target="_blank">Instagram</a></li>
+	</ul>
+</div>
+            </div>-->
+            <div id="footerSocial">
+        <a href="https://www.facebook.com/allaboutlearningpress" target="_blank">
+        <div id="footerSocialFacebook">
+            <img class="svg" src="//aalplibs.com/AALP/images/2018.07.20/footer/facebook_circle.svg" alt="All About Learning Press on Facebook">
+        </div>
+        </a>
+        <a href="https://www.pinterest.com/learningpress/" target="_blank">
+        <div id="footerSocialPinterest">
+            <img class="svg" src="//aalplibs.com/AALP/images/2018.07.20/footer/pinterest_circle.svg" alt="All About Learning Press on Pinterest">
+        </div>
+        </a>
+        <a href="https://www.instagram.com/allaboutlearning/" target="_blank">
+        <div id="footerSocialInstagram">
+            <img class="svg" src="//aalplibs.com/AALP/images/2018.07.20/footer/instagram_circle.svg" alt="All About Learning Press on Instagram">
+        </div>
+        </a>
+    </div>
+        </div>
+        <div class="footer-links">
+            <div class="inner">
+                <div class="">
+                    <nav class="footer-links-main">
+                        <a href="https://www.allaboutlearningpress.com/all-about-reading/">All About Reading</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.allaboutlearningpress.com/all-about-spelling/">All About Spelling</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.allaboutlearningpress.com/guarantee">Guarantee</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.allaboutlearningpress.com/shipping">Shipping</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.allaboutlearningpress.com/privacy">Privacy</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.allaboutlearningpress.net/go.php?id=103&amp;url=3402">Affiliates</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.allaboutlearningpress.com/faq">FAQ</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.allaboutlearningpress.com/contact-us/">Contact</a>
+                    </nav>
+                    <p class="address">
+                        <span itemscope="" itemtype="//schema.org/LocalBusiness">
+                            <meta itemprop="telephone" content="715-477-1976">
+                            <span itemprop="address" itemscope="" itemtype="//schema.org/PostalAddress">
+                                <span itemprop="streetAddress">615 Commerce Loop,</span> <span itemprop="addressLocality">Eagle River</span>, <span itemprop="addressRegion">WI</span>
+                                <span itemprop="postalCode">54521</span> | 715-477-1976
+                            </span>
+                        </span>
+                    </p>
+                    <p class="copyright">© 2019 All About<sup>®</sup> Learning Press, Inc.</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://cdn10.bigcommerce.com/r-667e6d6307f1678981852519994c363a78894a3e/javascript/menudrop.js?"></script>
+<script src="https://cdn10.bigcommerce.com/r-667e6d6307f1678981852519994c363a78894a3e/javascript/viewport.js?"></script>
+<script src="https://cdn10.bigcommerce.com/r-22a8cadb262f254ef3770eb02b52b54ec4636050/themes/ClassicNext/js/matchMedia.js"></script>
+<script src="https://cdn10.bigcommerce.com/r-22a8cadb262f254ef3770eb02b52b54ec4636050/themes/ClassicNext/js/jquery.autobox.js"></script>
+<script src="https://cdn10.bigcommerce.com/r-22a8cadb262f254ef3770eb02b52b54ec4636050/themes/ClassicNext/js/init.js"></script>
+<script src="https://cdn10.bigcommerce.com/r-22a8cadb262f254ef3770eb02b52b54ec4636050/themes/ClassicNext/js/jquery.uniform.min.js"></script>
+<script src="https://cdn10.bigcommerce.com/r-22a8cadb262f254ef3770eb02b52b54ec4636050/themes/ClassicNext/js/main.js?"></script>
+
+<script type="text/javascript">
+function beacon_deferred(beacon_api) { beacon_api.pageview({"isNew":1,"initiator":{"id":"","session_id":"90150278abfafb8e8c72c3bd3761386eecf8c59e","type":"ANONYMOUS","visit_id":"47df66b4-f05a-42ab-9572-009b9a973281","visitor_id":"d7040585-77f6-483d-94da-66042f78f5d3"},"referer":{"url":"https:\/\/blog.allaboutlearningpress.com\/giveaways\/"},"request":{"url":"https:\/\/www.allaboutlearningpress.com\/privacy"}}, []);}
+</script>
+<script type="text/javascript">
+(function(){var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];g.type='text/javascript';g.defer=true;g.src='https://cdn9.bigcommerce.com/shared/js/beacon_api-d53f0a39a11dacaa85063ca4f4aba159a609185d.js';s.parentNode.insertBefore(g,s);})();
+</script>
+<script type="text/javascript" src="https://cdn9.bigcommerce.com/r-667e6d6307f1678981852519994c363a78894a3e/javascript/jquery/plugins/imodal/imodal.js"></script>
+<script type="text/javascript" src="https://cdn9.bigcommerce.com/r-667e6d6307f1678981852519994c363a78894a3e/javascript/jquery/plugins/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://cdn9.bigcommerce.com/r-667e6d6307f1678981852519994c363a78894a3e/javascript/quickview.js"></script><script type="text/javascript">
+var BCData = {"csrf_token":"d7ad3a26466fc3c2ecb0d5cc9a80faf56c25382b40ee5000a8852706691c08d7"};
+</script>
+
+<!-- Start Tracking Code for analytics_googleanalytics -->
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-23317151-1', 'auto');
+    ga('require', 'linkid', 'linkid.js');
+    ga('require', 'displayfeatures'); 
+    ga('send', 'pageview');
+    ga('require', 'ecommerce', 'ecommerce.js');
+
+    function trackEcommerce() {
+    this._addTrans = addTrans;
+    this._addItem = addItems;
+    this._trackTrans = trackTrans;
+    }
+    function addTrans(orderID,store,total,tax,shipping,city,state,country) {
+    ga('ecommerce:addTransaction', {
+        'id': orderID,
+        'affiliation': store,
+        'revenue': total,
+        'tax': tax,
+        'shipping': shipping,
+        'city': city,
+        'state': state,
+        'country': country
+    });
+    }
+    function addItems(orderID,sku,product,variation,price,qty) {
+    ga('ecommerce:addItem', {
+        'id': orderID,
+        'sku': sku,
+        'name': product,
+        'category': variation,
+        'price': price,
+        'quantity': qty
+    });
+    }
+    function trackTrans() {
+        ga('ecommerce:send');
+    }
+    var pageTracker = new trackEcommerce();
+</script>
+
+<!-- Start of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+(function(d,s,i,r) {
+if (d.getElementById(i)){return;}
+var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/434478.js';
+e.parentNode.insertBefore(n, e);
+})(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+
+<!-- End Tracking Code for analytics_googleanalytics -->
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn9.bigcommerce.com/r-667e6d6307f1678981852519994c363a78894a3e/javascript/visitor.js"></script>
+
+
+<script src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/js/quicksearch_helpful.js?t=1535038095"></script>
+<script src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/js/floatlabels.min.js?t=1535038095"></script>
+<script src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/js/formplate.js?t=1535038095"></script>
+<script src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/js/lightslider.js?t=1535038095"></script>
+<script>
+    // Find all video iframes
+    var $videoiframes = $('iframe').filter(function() {
+        // Regex includes YouTube and Wistia
+        return this.src.match(/\s*(https?:\/\/www.youtube(?:-nocookie).com\/(?:v|embed)\/([a-zA-Z0-9-]+)|https?:\/\/([a-z0-9]+[.])*wistia.net.*)/);
+    });
+     
+    // Find and save the aspect ratio for all video iframes
+    $videoiframes.each(function () {
+      $( this ).data( "ratio", this.height / this.width )
+        // Remove the hardcoded width and height attributes
+        .removeAttr( "width" )
+        .removeAttr( "height" );
+    });
+     
+    // Resize the iframes when the window is resized
+    function setvideoiframe(){
+        $videoiframes.each( function() {
+        // Get the parent container width
+        var width = $( this ).parent().width();
+        $( this ).width( width )
+          .height( width * $( this ).data( "ratio" ) );
+        });
+    }
+    // Resize the iframes when the window is resized
+    $( window ).resize( function () {
+      setvideoiframe();
+    // Resize to fix all video iframes on page load.
+    }).resize();
+
+    $('input.floatlabel').floatlabel({
+            slideInput: false,
+            transitionEasing: 'ease',
+            transitionDuration: .5,
+    });
+    $("li.search").on("click mouseover", function(){
+        $(this).find("#search_query").focus();
+    })
+    $(".CartLink .ProductList li").each(function(){
+        var productLink = $(this).find(".productLink").text();
+        $(this).find("a").attr('href', productLink);
+    });
+    $(".hbspt-form").addClass("formplate");
+    
+
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<!--<script src="https://cdn2.bigcommerce.com/server5900/e3bf3/templates/__custom/js/paper-collapse.min.js?t=1535038095"></script>-->
+<script>
+    /*!
+      Paper Collapse v0.4.0
+    
+      Collapsible paper cards.
+    
+      Made with love by bbo - ©2015 Alexander Rühle
+      MIT License http://opensource.org/licenses/MIT
+     */
+    (function() {
+      (function($) {
+        'use strict';
+        $.fn.paperCollapse = function(options) {
+          var settings;
+          settings = $.extend({}, $.fn.paperCollapse.defaults, options);
+          $(this).find('.collapse-card__heading').add(settings.closeHandler).click(function() {
+            if ($(this).closest('.collapse-card').hasClass('active')) {
+              settings.onHide.call(this);
+              $(this).closest('.collapse-card').removeClass('active');
+              $(this).closest('.collapse-card').find('.collapse-card__body').stop().slideUp(settings.animationDuration, settings.onHideComplete);
+            } else {
+              settings.onShow.call(this);
+              $(this).closest('.collapse-card').addClass('active');
+              $(this).closest('.collapse-card').find('.collapse-card__body').stop().slideDown(settings.animationDuration, settings.onShowComplete);
+              setvideoiframe();
+            }
+          });
+          return this;
+        };
+        $.fn.paperCollapse.defaults = {
+          animationDuration: 400,
+          easing: 'swing',
+          closeHandler: '.collapse-card__close_handler',
+          onShow: function() {},
+          onHide: function() {},
+          onShowComplete: function() {},
+          onHideComplete: function() {}
+        };
+      })(jQuery);
+    
+    }).call(this);
+    
+    var $j2 = jQuery.noConflict(); 
+    
+    // Replace all SVG images with inline SVG
+    var SVGtoInline = (function () {
+        $('img.svg').each(function(){
+            var $img = $(this);
+            var imgID = $img.attr('id');
+            var imgClass = $img.attr('class');
+            var imgURL = $img.attr('src');
+        
+            $.get(imgURL, function(data) {
+                // Get the SVG tag, ignore the rest
+                var $svg = $(data).find('svg');
+                // Add replaced image's ID to the new SVG
+                if (typeof imgID !== 'undefined') {
+                    $svg = $svg.attr('id', imgID);
+                }
+                // Add replaced image's classes to the new SVG
+                if (typeof imgClass !== 'undefined') {
+                    $svg = $svg.attr('class', imgClass+' replaced-svg');
+                }
+                // Remove any invalid XML tags as per http://validator.w3.org
+                $svg = $svg.removeAttr('xmlns:a');
+                // Replace image with new SVG
+                $img.replaceWith($svg);
+            });
+        });
+    });
+    
+    $(function () {
+        SVGtoInline();
+        $j2(".collapse-card").paperCollapse();
+    });
+    
+    
+</script>
+
+
+        </div>
+    
+</body></html>
