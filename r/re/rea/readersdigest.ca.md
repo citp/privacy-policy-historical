@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the readersdigest.ca privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830111808id_/https%3A//www.readersdigest.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.ca privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417170308id_/https%3A//www.readersdigest.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
-Unless otherwise indicated, the policies below are applicable to [www.readersdigest.ca](http://www.readersdigest.ca/), [www.ourcanada.ca](http://www.ourcanada.ca/) and [www.besthealthmag.ca](http://www.besthealthmag.ca/), all of which are operated by The Reader's Digest Association (Canada) ULC.
+## Unless otherwise indicated, the policies below are applicable to www.readersdigest.ca, www.ourcanada.ca and www.besthealthmag.ca, all of which are operated by The Reader's Digest Association (Canada) ULC. Online Policy for Individuals Under 18 Years Old No personal information should be submitted or posted on our web sites by individuals under 18 years of age. We do not […]
+
+Unless otherwise indicated, the policies below are applicable to [www.readersdigest.ca](https://www.readersdigest.ca/), [www.ourcanada.ca](http://www.ourcanada.ca/) and [www.besthealthmag.ca](https://www.besthealthmag.ca/), all of which are operated by The Reader's Digest Association (Canada) ULC.
 
 **Online Policy for Individuals Under 18 Years Old**
 
@@ -30,7 +32,7 @@ By submitting a form on our web sites you will be entitled to receive e-mail cor
 
 **Your Privacy Choices**
 
-Receiving e-mail messages from us is optional. If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](https://web.archive.org/newsletter/).
+Receiving e-mail messages from us is optional. If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](https://web.archive.org/unsubscribe/).
 
 If, at any time, you prefer not to receive offers and/or other correspondence by mail or telephone originated by Reader's Digest and its third party affiliates, you may choose to opt-out by calling 1-866-659-2887 or writing to us at the address below.
 
@@ -41,7 +43,7 @@ Montreal (Quebec) H4P 1S4
 
 To view and edit your existing personal information, or for more information on how to view and edit your personal information, [click here](https://web.archive.org/newsletter).
 
-For general customer-service questions not related to privacy issues, please [click here](http://www.readersdigest.ca/customer-care) to visit our online Customer Care Centre. For customer-service purposes, we maintain a record of e-mail messages and addresses sent to us, as well as any replies we may have sent in return.
+For general customer-service questions not related to privacy issues, please [click here](https://www.readersdigest.ca/customer-care) to visit our online Customer Care Centre. For customer-service purposes, we maintain a record of e-mail messages and addresses sent to us, as well as any replies we may have sent in return.
 
 **Hyperlinks to Other Web Sites**
 
