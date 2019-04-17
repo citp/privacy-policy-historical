@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atos.net privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812103457id_/https%3A//atos.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atos.net privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417111413id_/https%3A//atos.net/en/privacy) for the most accurate reproduction.*
 
 # Privacy - Atos
 
@@ -47,8 +47,8 @@ Cookies are small files which are downloaded on to a device when the user access
 ## Atos Cookies
 
 We intend to ensure that you enjoy your experience on our website. For this reason, when visiting our Atos website, cookies are installed on the computer.  
-When surfing on Atos website(s), data logs of your surfing activity may be collected with the purpose of understanding aggregate usage of features and pages. For this very purpose we use Google Analytics and Eloqua.  
-Atos also uses 3rd party persistent cookies from Eloqua to collect surfing activity seamlessly without affecting the visitors’ experience.
+When surfing on Atos website(s), data logs of your surfing activity may be collected with the purpose of understanding aggregate usage of features and pages. For this very purpose we use Google Analytics and Pardot.  
+Atos also uses 3rd party persistent cookies from Pardot to collect surfing activity seamlessly without affecting the visitors’ experience.
 
 ## Purpose of the cookies
 
@@ -91,6 +91,7 @@ Most internet browsers are initially set up to automatically accept cookies. You
   * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
   * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
   * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-  * [Cookie settings in Safari](https://support.apple.com/kb/ph21411?locale=en_US)
+  * [Cookie settings in Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+  * [Cookie settings in Safari (iPhone, iPad, iPod touch)](http://support.apple.com/kb/HT1677)
 
 
