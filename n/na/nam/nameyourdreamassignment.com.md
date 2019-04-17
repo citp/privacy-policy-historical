@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nameyourdreamassignment.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504115038id_/http%3A//www.nameyourdreamassignment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nameyourdreamassignment.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418002504id_/http%3A//nameyourdreamassignment.com/privacy) for the most accurate reproduction.*
 
 # Name Your Dream Assignment
 
