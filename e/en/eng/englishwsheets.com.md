@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the englishwsheets.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125030849id_/https%3A//englishwsheets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishwsheets.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417110613id_/http%3A//englishwsheets.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Englishwsheets.com
 
-  
 At www.englishwsheets.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.englishwsheets.com and how it is used.
 
 Log Files  
