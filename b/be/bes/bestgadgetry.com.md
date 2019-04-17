@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgadgetry.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903080930id_/https%3A//bestgadgetry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgadgetry.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417084755id_/https%3A//bestgadgetry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Gadgetry
 
@@ -19,3 +19,7 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 **Contact Information**  
 Concerns or questions about this privacy policy can be directed to admin@bestgadgetry.com for further clarification.
+
+Read more about out privacy policy at the link below.
+
+[Privacy Policy](https://www.iubenda.com/privacy-policy/86047301 "Privacy Policy")
