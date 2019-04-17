@@ -1,66 +1,112 @@
-> *The following text is extracted and transformed from the shippit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606220016id_/https%3A//www.shippit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shippit.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417085636id_/https%3A//www.shippit.com/privacy) for the most accurate reproduction.*
 
-# Shippit
+# Privacy Statement | Shippit
 
-### Shippits' Privacy Policy
+##  Privacy Statement 
 
-It is Shippit's intention to make every effort possible to safeguard the integrity of your personal details and correspondence. Shippit have implemented a comprehensive "Privacy Policy" in order to facilitate its ability to protect the integrity of the information that it possesses. However, certain circumstances may arise where Shippit cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), Shippit may be legally forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully and without its knowledge intercept or access transmissions or private communications. Shippit can (and you authorise it to) disclose any information about you to law enforcement or other governmental officials as Shippit, in its sole discretion, believe necessary or appropriate, in connection any legal requirement to do with an investigation of fraud, intellectual property infringements, piracy or any other activity that is illegal or may expose Shippit and/or its offices to legal liability.
+Shippit Pty Ltd, ACN 169 407 747  
+ACN 169 407 747
 
-Therefore, although Shippit shall endeavour to take every reasonable step possible in accordance with the Privacy Act and industry standards to protect your privacy, Shippit do not promise, and you should not expect, that your personally identifiable information or private communications will remain private.
+#### Your rights in relation to this policy
 
-  
+Shippit Pty Ltd ACN 169 407 747 (Shippit) understands the importance of protecting the privacy of an individual’s personal information. This statement sets out how Shippit aims to protect the privacy of your personal information, your rights in relation to your personal information managed by Shippit and the way Shippit collects, uses and discloses your personal information.
 
+In handling your personal information, Shippit will comply with the Privacy Act 1988 (Cth) (Privacy Act) and with the ten Australian Privacy Principles in the Privacy Act. Throughout the Privacy Policy we use the term ‘merchants’ to refer to organisations that acquire and use our platform and services and have agreed to be bound by Shippit’s Terms and Conditions. We use the term ‘consumers’ to refer to individuals who purchase services from our merchants.
 
-#### Procedures
+We regularly review our practices and procedures in relation to the handling of personal information. As a result, this Privacy Policy may be updated from time to time.
 
-As part of Shippit's normal operation to provide you with a courier service, Shippit needs to collect some information about you. Specifically, your name & address (Both billing and pick-up address) and other criteria specific to your special conditions required of Shippit to provide you with a service that meets your expectations. This information is used only to enable Shippit to service your courier needs and subsequent financial transactions (eg. invoicing). Shippit does not sell, rent or distribute your information to any third party or contractor, or use this information for any other reason than as a means for Shippit to identify you for the purposes of providing an efficient courier service and invoicing.
+#### What kind of information does Shippit collect?
 
-You should be aware that Shippit shall give your Pick-up address details and other pertinent information to its sub-contracted couriers. However, Shippit only furnishes its sub-contracted couriers with sufficient information to do the job and all historical or other information that it has collected about you is for Shippit's use only and is not given to its sub-contracted couriers.
+Personal information is information that identifies an individual. During the provision of our services, Shippit may collect your personal information.
 
-Shippit may use your email address, your mailing address, and phone number(s) to contact you regarding administrative notices, new product offerings, and communications relevant to your use of Shippit Courier's products and services. If you do not wish to receive these communications, you have the ability to request, either by fax, email or letter, that Shippit cease communicating with your organisation on all matters unrelated to accounting matters. (Refer below for address details and procedures for Access)
+Generally, we collect the following kinds of personal information:
 
-In addition to your address details, Shippit maintains a history of your courier job details and relevant commentary from yourself, Shippit's couriers or its operation's staff pertaining to any aspect, both good or bad, that have a bearing on a particular courier job or Shippit's service in general. Shippit use this information and other information it obtains from your current and past activities at Shippit, to resolve disputes, trouble-shoot problems and enforce Shippit's commitment to provide a consistent courier service to you and your organisation.
-
-  
-
-
-#### Internet & Cookies
-
-If you choose to use Shippit's Internet booking facility, you should be aware that Shippit uses cookies. These cookies are innocuous in that they are only transient or session cookies. In other words they are automatically deleted when you terminate the booking session with Shippit or close your browser. The only thing that is stored in this cookie is your Login ID and password. The reason why Shippit uses cookies is that cookies allow you to only have to enter your Login ID & password once during a session. This is unfortunately necessary to guarantee your privacy throughout the Internet booking procedure. However, if you do not wish to use cookies, then it is suggested that you use the telephone booking facility on 136331 instead, as there is no provision to provide a viable Internet Booking facility that does not incorporate cookies. Furthermore, Shippit does not use your cookie to track your activity or record any information about you.
-
-  
+  1. your name, address, telephone number and email address; and
+  2. the date you purchased Shippit’s services either directly or through a merchant; and
+  3. the nature of the goods to be delivered by Shippit’s services.
 
 
-#### Data Security
 
-To further protect you while utilising Shippit's Internet Booking facility, it, has implemented an encryption mechanism (SSL - Secure Socket Layer) so that all information on its Web site and Internet Bookings facility is automatically encrypted, providing a level of security to its clients. 
+In some circumstances Shippit may also hold other personal information provided by you, however, Shippit does not collect any credit related information.
 
-We use eWay or PayPal to process your credit card infomation. This data is not seen or stored by our systems.
+#### How does Shippit collect personal information?
 
-Your Information is stored on Shippit's server located at its premise at Mosman. Shippit uses industry standards in its efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet. Additionally, Shippit removes copies of your information "off site" as part of its "Tape Backup Procedure". These tapes are held in a secure location overnight, in the custody of senior management and are returned to Shippit during the day.
+Shippit may collect personal information directly from you, when you purchase our services through our website.
 
-If you send Shippit personal correspondence, such as emails or letters, or if other users or third parties send it correspondence about your activities, Shippit may collect such information into a file specific to you.
+Shippit may also collect personal information indirectly through merchants. Shippit requires all merchants to be bound by Shippit’s Terms and Conditions. These Terms and Conditions require each merchant to comply with their obligations under all applicable privacy law (including, but not limited to the Privacy Act) in relation to the collection and transmission of a consumer’s personal information.
 
-  
+There may be other occasions when Shippit collects your personal information from other sources such as from an information services provider or a publicly maintained record.
+
+#### Why does Shippit need your personal information?
+
+Shippit collects your personal information for the purpose of providing, managing and administering the services it provides. We may also use your personal information to:
+
+  1. verify your identity;
+  2. distribute administrative notices;
+  3. respond to any enquires you have in relation to the services;
+  4. marketing and new product offerings;
+  5. communications relevant to the use of Shippit’s services;
+  6. conduct fraud checks; and
+  7. any other legal requirements.
 
 
-#### Access
 
-To ensure that all requests relating to the Privacy Act, are handled expeditiously and with the upmost confidentiality, Shippit will only accept requests in writing. Therefore, should you wish to examine your information and or make corrections to it or register a complaint relating to the Privacy Policy, then you must present this request in writing to Shippit. You should address it to:
+#### Who does Shippit disclose your personal information to?
 
- **The Privacy Manager**  
-Shippit Pty Ltd  
-Suite 44, Jones Bay Wharf, 26-32 Pirrama Rd, Pyrmont, NSW 2009  
--
+Shippit discloses your personal information for the purpose that Shippit collects it for. That is, generally, Shippit will only disclose your personal information for a purpose related to the provision of conducting delivery, logistics and transportation services. Accordingly, we will disclose your personal information to:
 
-or alternatively via email at: [info@shippit.com](mailto:info@shippit.com)
+  1. sub-contracted couriers engaged by us to perform to the services; and
+  2. our consultants and related bodies corporate.
 
-In accordance with the Privacy Act, upon written request, Shippit will provide you with access to your relevant information, via a computer terminal on the premises of Shippit's office at Mosman. You will be provided with adequate privacy and convenience of access, to enable you to peruse your information. You will not be charged for this facility.
 
-However, if you require a different means to access this information or that it be presented in a different format to the way that it is stored or displayed, then Shippit will charge you for any materials or time that is necessary to compile your information in the format that you have requested.
 
-If you believe that the information that Shippit has about you is incorrect, then you may submit a written request that it be rectified. If Shippit agree with your request, then this information will be updated accordingly. However, if Shippit dispute your claim that the information it has relating to you is incorrect, then at your request, Shippit will take reasonable steps to associate with the information of your claim to this effect. (ie Shippit will put a mark or a note on the information to indicate that the statement exists and where it can be found.) Furthermore, Shippit will tell you in writing the reasons for refusing to correct your personal information.
+Shippit may also disclose your personal information with your consent or if disclosure is required by law.
 
-Under certain circumstances, Shippit may refuse your request to access your information for such reason as but not limited to; access to personal information about them if giving access would be unlawful, if required or authorised by law, if it would prejudice an investigation, if it would prejudice activities of enforcement bodies or cause damage to security of Australia In this situation Shippit will tell you in writing any reasons it has for denying access to information.
+#### Transfer of personal information outside the country in which it was collected
 
-These reasons will be presented to you in writing, explaining the reasons for denying access or refusing to attach a correction statement. Included in this letter will be the details covering any process Shippit had for reviewing the decision and the process you may follow if you wish to make a complaint about the decision, either to the federal Privacy Commissioner or the relevant code adjudicator.
+Shippit may store the personal information on computer servers, outside the country in which the personal information was collected. Pursuant to any applicable privacy / data protection laws (including, without limitation, the European Data Protection Directive 1995), your personal information may be disclosed, processed and transferred by Shippit on a worldwide basis for the purposes of providing our services. Personal information may be disclosed or transferred to agents or third parties authorised to act on our behalf for the purposes of providing the services.
+
+Some countries may not provide the same level of protection for your personal information as the country in which your personal information was collected. Please note, however, that Shippit maintains appropriate administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use and where required.
+
+#### Security and data protection
+
+Shippit takes all reasonable steps to ensure that the personal information it holds is protected against misuse, loss, unauthorised access, modification or disclosure. Shippit uses technical and organisational security measures to protect your personal information from being lost or misused. For instance, your data is saved in a secure operating environment which is only accessible by authorised staff. In most cases, personal information sent over the website or our internet booking facility is encrypted by Secure Socket Layer technology (SSL) during transmission. This means that an approved encryption procedure is used for communication between your computer and the Shippit server.
+
+Shippit may also hold personal information in hard copy secure files specific to you in secure premises, accessible only by authorised staff.
+
+Personal information is de-identified when no longer needed to provide our services or when we are no longer required by law to retain it (whichever is the later). Shippit reserves the right to transfer or sell de-identified personal information and data to third parties. You consent to Shippit transferring or selling de-identified personal information and data to third parties.
+
+Any credit related information provided by you is collected and stored with Braintree Payments or PayPal. Shippit does not have access to any credit related information provided by you.
+
+#### Can you access the personal information that Shippit holds about you?
+
+Under the Privacy Act, you have a right to access your personal information that is collected and held by Shippit. If at any time you would like to access the personal information that Shippit holds about you, or you would like more information on Shippit’s approach to privacy, please contact Shippit.
+
+To obtain access to your personal information:
+
+  1. you will have to provide proof of identity (to ensure that personal information is provided only to the correct individuals and that the privacy of others is protected);
+  2. we request that you be reasonably specific about the information you require; and
+  3. we may charge you a reasonable administration fee, which reflects and will not exceed the cost to us for providing access in accordance with your request.
+
+
+
+If you make a request to access or correct your personal information, we will endeavour to respond to you within 30 days from your request. If we refuse your request, we will provide you with written reasons for the refusal and details of complaint mechanisms. We will also take steps reasonable in the circumstance to provide you with access in a manner that meets your needs as well as ours.
+
+If you are dissatisfied with our refusal to grant access to your personal information, you may make a complaint to the Office of the Australian Information Commissioner.
+
+#### How to contact us
+
+For further information or enquiries regarding your personal information, please contact Shippit’s Privacy Compliance Officer at info@shippit.com.
+
+#### Privacy complaints
+
+Please direct all privacy complaints to Shippit’s Privacy Compliance Officer. At all times, privacy complaints:
+
+  1. will be treated seriously;
+  2. will be dealt with promptly;
+  3. will be dealt with in a confidential manner; and
+  4. will not affect your existing obligations or affect the commercial arrangements between you and Shippit.
+
+
+
+Shippit’s Privacy Compliance Officer will commence an investigation into your complaint. You will be informed of the outcome of your complaint following completion of the investigation. In the event that you are dissatisfied with the outcome of your complaint, you may refer the complaint to the Federal Office of the Australian Information Commissioner.
