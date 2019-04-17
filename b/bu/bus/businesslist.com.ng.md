@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesslist.com.ng privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724030557id_/https%3A//www.businesslist.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslist.com.ng privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417184825id_/https%3A//www.businesslist.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -32,7 +32,7 @@ BusinessList.com.ng Website will not rent, sell, or share information about you 
 
 ## 3\. Cookies
 
-  * When you enter this website ([www.businesslist.com.ng](http://www.businesslist.com.ng/)), we will use cookies. Cookies are tiny text files that identify your computer to our server. These cookies in no way allow us access to your computer and do not store any details relating to you or your credit cards. They are used to record the areas of the site that you have visited and for how long, which provides us with useful usage information that helps us make our site more accessible to our users in line with their needs. The use of cookies helps us to improve the quality of service that we provide. Please also refer to our **[Cookies Policy](https://web.archive.org/cookies-policy)**.
+  * When you enter this website ([https://www.businesslist.com.ng](https://www.businesslist.com.ng/)), we will use cookies. Cookies are tiny text files that identify your computer to our server. These cookies in no way allow us access to your computer and do not store any details relating to you or your credit cards. They are used to record the areas of the site that you have visited and for how long, which provides us with useful usage information that helps us make our site more accessible to our users in line with their needs. The use of cookies helps us to improve the quality of service that we provide. Please also refer to our **[Cookies Policy](https://web.archive.org/cookies-policy)**.
 
   
 
