@@ -1,14 +1,35 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011215id_/https%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417153243id_/https%3A//www.jiskha.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Jiskha Homework Help - Legal: Privacy Policy
+# Privacy Policy
 
-This is the website of **Jiskha Homework Help** located online at <https://www.jiskha.com/>. Jiskha Homework Help is abbreviated as "we" and "us" in the following privacy policy.
+Jiskha Homework Help takes privacy very seriously. We collect non-sensitive information from anonymous visitors. With permission, we collect additional information about registered users of our website. The following privacy policy has been written in order to clearly and specifically identify what information we collect. If you have any questions or concerns regarding our privacy policy, please [contact us](https://web.archive.org/contact).
 
-## Data Collection
+Jiskha Homework Help is abbreviated as "we" and "us" in the following privacy policy.
 
-We collect the first name and IP address of visitors who post messages to our bulletin board, the email addresses of those who communicate with us via email, aggregate information on what pages visitors access or visit, and no information on consumers who browse our web page.
+## Collection of Data from All Visitors
 
-Information we collect is used to improve the user experience for individual visitors, improve our entire website for all visitors, and respond more efficiently to customer service requests. Information we collect is never sold to external companies nor used for marketing purposes.
+We collect IP addresses of all visitors, the first name of visitors who post messages to our bulletin board, email addresses of those who communicate with us via email, and aggregate information on what pages visitors access or visit.
+
+## Collection of Data from Registered Users
+
+Registered users MUST be of age 13 or older to create and maintain an account on Jiskha.com. We collect and make public the following fields from all registered users:
+
+  * username
+  * display name (usually a formatted verion of the username)
+  * gender
+  * account creation date
+
+
+
+We also collect but keep private the following fields from all registered users:
+
+  * birthday
+
+
+
+## How We Use Collected Data
+
+Information we collect is used to improve the user experience for individual visitors, improve our entire website for all visitors, and respond more efficiently to customer service requests. Information we collect is never shared with external entities, and information we collect is never sold to external companies.
 
 We use internet cookies to store user preferences for future visits.
 
@@ -24,7 +45,7 @@ Third-party advertisers, such as Google AdSense, have separate and independent p
 
 ## Stored Information
 
-Upon request we provide site visitors with access to all information that we maintain about them. Visitors may also request to have any inaccuracies corrected in the information we stored about them.
+Upon request, we provide site visitors with access to all information that we maintain about them. Visitors may also request to have any inaccuracies corrected in the information we stored about them.
 
 ## Security
 
