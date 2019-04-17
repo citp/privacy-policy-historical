@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the pharmacychecker.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021042419id_/https%3A//www.pharmacychecker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacychecker.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417170350id_/https%3A//www.pharmacychecker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PharmacyChecker.com
 
 PharmacyChecker.com respects your privacy.
 
-This policy pertains to use of our website, [www.pharmacychecker.com](https://www.pharmacychecker.com/) (the “Site”), by the public at large.
+This policy pertains to use of our website, [www.pharmacychecker.com](https://www.pharmacychecker.com/) (the “Site”), by the public at large.
 
 We are based in the United States, but the Site’s visitors come from just about every country. We have created our privacy policy to comply with the European Union’s General Data Protection Regulation, which is the world’s strictest regulation protecting privacy at this time. We are proud to be following best practices in this area.
 
-First thing's first: **We do not sell, rent, or trade, any information that you provide to us, and PharmacyChecker.com collects little to no personal information about you.**
+First thing's first:  **We do  not sell, rent, or trade, any information that you provide to us, and PharmacyChecker.com collects little to no personal information about you.**
 
-Like most websites, we use what are called “cookies” to track your session and improve your online experience. We do not use that information to personally identify you. See the below section, _What Cookies Collect_ , for details.
+Like most websites, we use what are called “cookies” to track your session and improve your online experience. We do not use that information to personally identify you. See the below section,  _What Cookies Collect_ , for details.
 
-You have the option to sign up for our free services, but you are not required to do so. If you do use our services, the personal information that you provide is very limited. This information is detailed below in the section, Services.
+You have the option to sign up for our free services, but you are not required to do so. If you do use our services, the personal information that you provide is very limited. This information is detailed below in the section, Services.
 
 ## Services
 
@@ -81,7 +81,7 @@ During the Site’s Services registration process and use, including when you ch
 
 PharmacyChecker.com may conduct surveys to better understand our users. All survey information is voluntarily disclosed and will not be associated with the individual users. Cookies are used to track what surveys already have been presented, to avoid users from being presented with or submitting duplicate surveys.
 
-We use Google Analytics to evaluate Site usage by analyzing user information in the aggregate, but we do not use that information to identify any individual user. In our use of Google Analytics and including Google Analytics Interests and Demographics, we measure visits to the Site, such as number of visits, pages visited, location of visitors (i.e. New York State, Mexico, Europe), entrance and exit pages. Google places a cookie on your device that expires 24 months after your last visit to PharmacyChecker.com, which is used to collect anonymous browsing data, including demographics data. This is used to develop content for our users. You can opt out of this through your browser settings or by visiting this webpage: <https://tools.google.com/dlpage/gaoptout/>.
+We use Google Analytics to evaluate Site usage by analyzing user information in the aggregate, but we do not use that information to identify any individual user. In our use of Google Analytics and including Google Analytics Interests and Demographics, we measure visits to the Site, such as number of visits, pages visited, location of visitors (i.e. New York State, Mexico, Europe), entrance and exit pages. Google places a cookie on your device that expires 24 months after your last visit to PharmacyChecker.com, which is used to collect anonymous browsing data, including demographics data. This is used to develop content for our users. You can opt out of this through your browser settings or by visiting this webpage: <https://tools.google.com/dlpage/gaoptout/>.
 
 ## Information that you share with us other than through the Site
 
@@ -105,7 +105,7 @@ You can get PharmacyChecker.com to remove your personal and any other informatio
 
 ## How to request your personal information
 
-You can request your personal information from PharmacyChecker.com by emailing us at [privacy@pharmacychecker.com](mailto:privacy@pharmacychecker.com); including in the Subject line “My personal information request” and including in the body of the email the username associated with your account.
+You can request your personal information from PharmacyChecker.com by emailing us at [privacy@pharmacychecker.com](mailto:privacy@pharmacychecker.com); including in the Subject line “My personal information request” and including in the body of the email the username associated with your account.
 
 We will then provide you with the personal data that is stored in the PharmacyChecker.com database in a comma-separated values (CSV) text file that can be imported into commonly used spreadsheet programs. That information will include name, username, and email address. We will not send a password, however, to prevent misuse and identify theft, but we will delete your password from our system within 30 days of your request to do so.
 
@@ -128,6 +128,6 @@ When you look at the Site, you can tell that all pages have a “secure connecti
 
 The encrypted data is directed to a secure site, where your information is stored on a private computer that is not directly accessible via the Internet.
 
-If you have questions about this policy, please email us at [privacy@pharmacychecker.com](mailto:privacy@pharmacychecker.com). Thank you for using PharmacyChecker.com! 
+If you have questions about this policy, please email us at [privacy@pharmacychecker.com](mailto:privacy@pharmacychecker.com). Thank you for using PharmacyChecker.com!
 
-Updated October 4, 2018 
+Updated October 4, 2018
