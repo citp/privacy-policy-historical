@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrobankonline.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227185628id_/https%3A//www.metrobankonline.co.uk/about-us/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrobankonline.co.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417171722id_/https%3A//www.metrobankonline.co.uk/about-us/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Legal | About us | Metro Bank
 
@@ -45,13 +45,13 @@ Our credit checks will be recorded by the Credit Reference Agency, and where we 
 
 We will only share your information where:
 
-  * the law or UK financial & data regulatory bodies require us to provide it;
+  * The law or UK financial & data regulatory bodies require us to provide it;
   * HM Revenue & Customs require it;
-  * we are required to detect and prevent crime;
-  * there are other parties connected to your account i.e. joint accounts;
-  * with specific subcontractors who help to provide you with the services you have requested; or
-  * to comply with mandatory Governmental data requirements; or
-  * you have provided your consent;
+  * We are required to detect and prevent crime;
+  * There are other parties connected to your account i.e. joint accounts;
+  * With specific subcontractors who help to provide you with the services you have requested; or
+  * To comply with mandatory Governmental data requirements; or
+  * You have provided your consent;
 
 
 
@@ -63,13 +63,13 @@ Where you have provided information regarding the other applicant, you must ensu
 
 ## Processing personal data outside of the EU (EEA)
 
-We may occasionally send your data to countries (or international organisations) outside of the European Economic Area (EEA) that are deemed to have adequate data protection by the European Commission. In addition, we may transfer personal information to India & the USA. If we do so, we will ensure that the transfer is made pursuant to the model contract clauses published by the European Commission. A copy of the model contract clauses are available here: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en. In relation to transfers to the US, we may transfer personal information pursuant to the EU-US Privacy Shield.
+We may occasionally send your data to countries (or international organisations) outside of the European Economic Area (EEA) that are deemed to have adequate data protection by the European Commission. In addition, we may transfer personal information to India & the USA. If we do so, we will ensure that the transfer is made pursuant to the model contract clauses published by the European Commission. A copy of the model contract clauses are available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en). In relation to transfers to the US, we may transfer personal information pursuant to the EU-US Privacy Shield.
 
 Instances where we will transfer your data outside of the EU include:
 
-  * processing international payments;
-  * performing identity checks; or
-  * disclosures to foreign authorities to reduce financial crime and terrorism.
+  * Processing international payments;
+  * Performing identity checks; or
+  * Disclosures to foreign authorities to reduce financial crime and terrorism
 
 
 
@@ -87,24 +87,24 @@ If you apply for one of our accounts or credit with us, we will search your reco
 
 We may share your personal information with credit-reference agencies:
 
-  * to check your identity and verify the accuracy of the data you provide to us;
-  * to assess your creditworthiness and decide if you are eligible for an account, service or facility;
-  * to trace and recover debts;
-  * to manage your account(s) or
-  * to prevent criminal activity, fraud and money laundering
+  * To check your identity and verify the accuracy of the data you provide to us;
+  * To assess your creditworthiness and decide if you are eligible for an account, service or facility;
+  * To trace and recover debts;
+  * To manage your account(s) or
+  * To prevent criminal activity, fraud and money laundering
 
 
 
-Credit-reference agencies use information from a number of different public sources (for example, the electoral roll, county court judgments and bankruptcies), as well as information from other banks or lenders on how you manage your other banking or credit arrangements.
+Credit-reference agencies use information from a number of different public sources (for example, the electoral roll, county court judgements and bankruptcies), as well as information from other banks or lenders on how you manage your other banking or credit arrangements.
 
 If you apply for one of our current accounts or credit facilities (not cash account), we may use details of your credit history to assess your ability to meet your financial commitments. Credit-reference agencies will record details of your application and our search will form part of your credit history. They will do this whether or not you go ahead with your application. These details will be seen by other organisations that examine your record. Records relating to one or more of your partners may already be linked to your record and we may consider these ‘associated’ records when considering your application.
 
 If you hold a current account with us, we will regularly update the credit-reference agencies with details of the status of your account including:
 
-  * the balance of any overdraft;
-  * details of any defaults;
-  * changes to your personal information; or
-  * any special circumstances that apply to your account.
+  * The balance of any overdraft;
+  * Details of any defaults;
+  * Changes to your personal information; or
+  * Any special circumstances that apply to your account
 
 
 
@@ -134,21 +134,21 @@ We regularly record and monitor our telephone calls to help improve the products
 
 The reasons we record and monitor calls are:
 
-  * to help improve customer service;
-  * to help us meet our legal and regulatory requirements;
-  * to help detect and prevent fraud and/or other crimes; and
-  * to help us answer your queries and issues. 
+  * To help improve customer service;
+  * To help us meet our legal and regulatory requirements;
+  * To help detect and prevent fraud and/or other crimes; and
+  * To help us answer your queries and issues 
 
 
 
 ## Social networking sites
 
-We maintain an online presence on popular social media websites including (but not limited to) Twitter, LinkedIn and YouTube. We use these websites to share our news, upcoming events and to celebrate our culture. By engaging with us on these sites, you are accepting that the webpages are available to the general public and agree to the following:
+We maintain an online presence on popular social media websites including (but not limited to) Instagram, LinkedIn, Twitter and YouTube. We use these websites to share our news, upcoming events and to celebrate our culture. By engaging with us on these sites, you are accepting that the webpages are available to the general public and agree to the following:
 
-  * social media web pages are not private, please do not share your personal account information on any of the websites, including through the use of private messages;
-  * although we do always try to read every message sent to us on social media, we cannot guarantee a response to every message;
-  * any pictures you provide on our social media web pages may be used within our internal newsletters; and
-  * any information that you provide us with on social media webpages may be retained by the webpage for longer than your relationship with us.
+  * Social media web pages are not private, please do not share your personal account information on any of the websites, including through the use of private messages;
+  * Although we do always try to read every message sent to us on social media, we cannot guarantee a response to every message;
+  * Any pictures you provide on our social media web pages may be used within our internal newsletters; and
+  * Any information that you provide us with on social media web pages may be retained by the web page for longer than your relationship with us.
 
 
 
