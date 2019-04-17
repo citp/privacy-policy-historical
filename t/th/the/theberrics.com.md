@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the theberrics.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111054230id_/http%3A//theberrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theberrics.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417103619id_/https%3A//theberrics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Berrics
 
 ## PRIVACY POLICY
 
-The Berrics, LLC. ("Berrics", "us", "we", or "our") operates [www.theberrics.com](https://web.archive.org/) (the "Site"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the Site. 
+The Berrics, LLC. ("Berrics", "us", "we", or "our") operates www.theberrics.com (the "Site"). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of the Site. 
 
-By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible at [www.theberrics.com/terms-use](https://web.archive.org/terms-use).
+By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible at www.theberrics.com/terms-use.
 
 ## INFORMATION COLLECTION AND USE
 
