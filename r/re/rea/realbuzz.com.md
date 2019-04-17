@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209082415id_/https%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417151740id_/https%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | realbuzz.com
 
@@ -342,7 +342,7 @@ Right to data portability
 
 Right to object
 
-For more information about your personal data rights please visit the Information Commissioner Office website at: [https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the- gdpr/individuals-rights/](https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-)
+For more information about your personal data rights please visit the Information Commissioner Office website at: <https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
 
 **Making a complaint about how your personal data is being held or processed**
 
