@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developersummit.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901033337id_/http%3A//www.saltmarch.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developersummit.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417075435id_/http%3A//www.saltmarch.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Saltmarch Media
 
