@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the english-grammar-revolution.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042612id_/http%3A//www.english-grammar-revolution.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-grammar-revolution.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417025608id_/https%3A//www.english-grammar-revolution.com/privacy-policy.html) for the most accurate reproduction.*
 
 # English Grammar Revolution: Privacy Policy and Disclaimer
 
-Our Free Guide Gives You A Fun Way To Teach & Learn the Basics of Grammar   
-[](http://www.english-grammar-revolution.com/diagram-it.html)
-
-### **Privacy Policy**
+## Privacy Policy
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use English Grammar Revolution, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
-English Grammar Revolution strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website. 
+English Grammar Revolution strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers', and online visitors' privacy on our website. 
 
 **Personal Information**
 
@@ -21,11 +18,11 @@ Once information is reviewed, it is discarded or stored in our files. If we make
 
 **Use of Cookies and Web Beacons**
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables English Grammar Revolution to recall your specific information on subsequent visits. 
+We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the site's pages, or register with any of our site's services, a cookie enables English Grammar Revolution to recall your specific information on subsequent visits. 
 
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site. 
+A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a website. 
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
 
@@ -47,7 +44,7 @@ If English Grammar Revolution is sold, the information we have obtained from you
 
 **How You Can Correct or Remove Information**
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on [this link](http://www.english-grammar-revolution.com/contact.html). 
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on [this link](https://www.english-grammar-revolution.com/contact.html). 
 
 **Updates and Effective Date**
 
@@ -59,7 +56,8 @@ If you do not agree to English Grammar Revolution's Privacy Policy as posted her
 
 Your use of this site indicates acceptance of this privacy policy. 
 
-### **Disclaimer**
+## Disclaimer  
+
 
 English Grammar Revolution provides this website as a service. 
 
@@ -77,4 +75,4 @@ Reproduction, distribution, republication, and/or retransmission of material con
 
 We grant immediate permission to share pages on social media as the placement of the "share" buttons at the bottom of each page imply. 
 
-[Back to Home Page](http://www.english-grammar-revolution.com/)
+[Back to Home Page](https://www.english-grammar-revolution.com/)
