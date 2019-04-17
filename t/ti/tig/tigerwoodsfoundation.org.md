@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815135926id_/http%3A//tgrfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417115654id_/http%3A//tgrfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TGR Foundation, A Tiger Woods Charity
 
