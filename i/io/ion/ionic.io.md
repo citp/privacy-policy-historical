@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ionic.io privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914052212id_/https%3A//ionicframework.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ionic.io privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417212026id_/https%3A//ionicframework.com/privacy) for the most accurate reproduction.*
 
 # Ionic Framework - Privacy
 
@@ -8,7 +8,7 @@ Welcome to the Ionic Privacy Policy (“ **Privacy Policy** ”). We take the se
 
 This Privacy Policy is intended to better help you understand our practices regarding information collected through (i) our websites including but not limited to ionicframework.com, ionic.io, ngcordova.com, and our other affiliated websites (collectively, “Websites”), (ii) our products and services, and (iii) any other digital properties that we own or control (collectively, the “ **Ionic** **Services** ” or “ **Services** ”) whether you are a customer that uses Ionic Services, an end user of our customers’ services that utilize our technology solutions, or whether you are simply visiting our Websites. This Privacy Policy describes how Ionic collects, processes, shares and retains the personal information (or in the EU/Switzerland: “personal data”) you provide to us.
 
-**When you interact with the Ionic Services, you consent to such collection, processing, sharing and retaining of information (including personal information/personal data) as described in this Privacy Policy and our Terms of Service. If you do not consent to the terms of this Privacy Policy and our Terms of Service, do not continue to interact with or use the Ionic Services.**
+* _When you interact with the Ionic Services, you consent to such collection, processing, sharing and retaining of information (including personal information/personal data) as described in this Privacy Policy and our Terms of Service. If you do not consent to the terms of this Privacy Policy and our Terms of Service, do not continue to interact with or use the Ionic Services. *_
 
 **European Residents** : If you are in the European Union, the European Economic Area or Switzerland, please also see our European Privacy Policy for further information on your rights under applicable European privacy law.
 
@@ -270,7 +270,7 @@ Under California’s “Shine the Light” law, California residents who provide
 
 **14\. QUESTIONS, COMPLAINTS AND DISPUTES**
 
-If you have any questions about this Privacy Policy, or our collection, use, sharing or storage of information about you, you can contact us by email at [**privacy@ionic.io](mailto:**privacy@ionic.io)**, or write to the following address:
+If you have any questions about this Privacy Policy, or our collection, use, sharing or storage of information about you, you can contact us by email at **[privacy@ionic.io](mailto:privacy@ionic.io)** , or write to the following address:
 
 Attn: Privacy Team  
 Drifty Co. (d/b/a Ionic)  
