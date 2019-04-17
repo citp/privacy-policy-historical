@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topmba.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625044123id_/https%3A//www.topmba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topmba.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417142005id_/https%3A//www.topmba.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TopMBA.com
 
@@ -97,7 +97,9 @@ Third party advertisers may use cookies to track the number of anonymous users r
 
 You have the ability to accept or decline cookies by modifying your browser preferences. You can accept all cookies, be notified when a cookie is set, or reject all cookies.
 
-Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com) . If you would like to opt out of Exponential’s advertising, please use this link: <http://exponential.com/privacy/opt-out/>
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com) . If you would like to opt out of Exponential’s advertising, please use this link: <http://exponential.com/privacy/opt-out/>.
+
+Admedo, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details, access requests or complaints, please review their privacy policy (<https://www.admedo.com/privacy-policy>) or contact their data protection officer via [privacy-request@admedo.com](mailto:privacy-request@admedo.com). If you would like to opt out of Admedo advertising, please use this link: <https://www.admedo.com/advertising-preferences>.
 
 We may also show you advertising on our site based on your behaviour on other sites. Behavioural retargeting allows us and some of our advertising partners to show you ads based on your browsing patterns and interactions with a site away from our site. Our behavioural retargeting partner is Criteo. To read their privacy policy and to opt out of their services, please click here: [www.criteo.com/en/privacy-policy](http://www.criteo.com/en/privacy-policy)    
 
