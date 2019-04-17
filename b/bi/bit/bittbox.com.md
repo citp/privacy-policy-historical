@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bittbox.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109085321id_/https%3A//www.bittbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittbox.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417095002id_/https%3A//www.bittbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bittbox
 
