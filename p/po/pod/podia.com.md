@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the podia.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625190120id_/https%3A//www.podia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podia.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417155232id_/https%3A//www.podia.com/privacy) for the most accurate reproduction.*
 
-# Podia Privacy Policy 2018
+# Podia Privacy Policy 2019
 
 This Privacy Policy describes the policies and procedures of Podia Labs, Inc. (“Podia”, “we”, “our” or “us”) on the collection, use and disclosure of your information on www.podia.com (the “Site”) and the services, features, content or applications we offer (together with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from various third party websites and other services.  All defined terms not defined herein shall have the meaning ascribed to them in the Terms of Service, available at <https://www.podia.com/terms>.
 
