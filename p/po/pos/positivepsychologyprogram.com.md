@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivepsychologyprogram.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826003849id_/https%3A//positivepsychologyprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivepsychologyprogram.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417090221id_/https%3A//positivepsychologyprogram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -122,4 +122,4 @@ Positive Psychology Program B.V.
 Gandhiplein 16  
 Maastricht, Limburg 6229HN  
 The Netherlands  
-info@positivepsychologyprogram.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
