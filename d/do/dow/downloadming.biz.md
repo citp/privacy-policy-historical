@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the downloadming.biz privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904064317id_/http%3A//www.downloadming.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadming.biz privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417082955id_/http%3A//www.downloadmings.biz/privacy.html) for the most accurate reproduction.*
 
 # Downloadming - Privacy Policy | www.downloadming.biz
 
-  * [Home](http://www.downloadming.biz/)
-  * [Privacy Policy](http://www.downloadming.biz/privacy.html)
+  * [Home](https://web.archive.org/)
+  * [Privacy Policy](https://web.archive.org/privacy.html)
 
 
 
 ### Privacy Policy – www.downloadming.biz
 
-www.downloadming.biz doesn’t record personal information.
+www.downloadmings.biz doesn’t record personal information.
 
 1.
 
 | 
 
-At www.downloadming.biz, the privacy of our visitors is of extreme importance to us. We do  
+At www.downloadmings.biz, the privacy of our visitors is of extreme importance to us. We do  
   
 ---|---  
 | 
@@ -30,13 +30,13 @@ privacy is 100% guaranteed!
 
 | 
 
-www.downloadming.biz does not generate any cookies.  
+www.downloadmings.biz does not generate any cookies.  
   
 3.
 
 | 
 
-www.downloadming.biz does not use cookies to store information about visitors preferences,   
+www.downloadmings.biz does not use cookies to store information about visitors preferences,   
   
 | 
 
@@ -60,7 +60,7 @@ and services that may be of interest to you.
 
 | 
 
-www.downloadming.biz has no access to or control over these cookies  
+www.downloadmings.biz has no access to or control over these cookies  
   
 | 
 
