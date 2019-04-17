@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicloversgroup.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926193234id_/https%3A//muzikum.eu/en/22/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicloversgroup.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417153912id_/https%3A//muzikum.eu/en/22/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -16,12 +16,12 @@ Al personal data you fill in (in your profile or in forms), will be saved in our
 
 Links
 
-On this site you`ll find links to external websites. These are chosen with great care and should not include illegal (music)files nor promote illegal activities. Muzikum is not liable for the content or consequences when any of these sites do not obey local legislation. In case you find a link on our site to such content you can notify us through the [contactform](https://web.archive.org/web/20180926193234id_/https%3A//muzikum.eu/en/22/5/contact.html) so we can remove the url from our site.
+On this site you`ll find links to external websites. These are chosen with great care and should not include illegal (music)files nor promote illegal activities. Muzikum is not liable for the content or consequences when any of these sites do not obey local legislation. In case you find a link on our site to such content you can notify us through the [contactform](https://web.archive.org/web/20190417153912id_/https%3A//muzikum.eu/en/22/5/contact.html) so we can remove the url from our site.
 
 To make your surfing experience as pleasant as possible and in order to protect your privacy as best as we can we`ve decided to place as little advertisement as possible. We`ll also never give our sell your contact information to other parties unless we`re legally obliged to do so
 
 You may always ask to have your personal information removed or corrected.
 
-For other questions or remarks feel free to [contact](https://web.archive.org/web/20180926193234id_/https%3A//muzikum.eu/en/22/5/contact.html) us.
+For other questions or remarks feel free to [contact](https://web.archive.org/web/20190417153912id_/https%3A//muzikum.eu/en/22/5/contact.html) us.
 
-Check out our [disclaimer](https://web.archive.org/web/20180926193234id_/https%3A//muzikum.eu/en/22/21/disclaimer.html) for all information about copyrights.
+Check out our [disclaimer](https://web.archive.org/web/20190417153912id_/https%3A//muzikum.eu/en/22/21/disclaimer.html) for all information about copyrights.
