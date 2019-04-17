@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkwave.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205151612id_/http%3A//thinkwave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkwave.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417204851id_/https%3A//www.thinkwave.com/privacy.html) for the most accurate reproduction.*
 
-# ThinkWave | Cloud based school management system
+# ThinkWave | Cloud Based School Management Software | Free Gradebook
 
 ThinkWave, Inc. has created this statement in order to demonstrate our firm commitment to privacy. ThinkWave, Inc. uses your Internet Protocol (IP) address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. ThinkWave, Inc. uses cookies to store and sometimes track information about you. Cookies are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. Cookies do not personally identify users, but they do identify a user's computer. ThinkWave, Inc. generally uses cookies to:
 
