@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsogosun.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812135103id_/https%3A//www.tsogosun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsogosun.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417235409id_/https%3A//www.tsogosun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tsogo Sun Protects Your Privacy
 
@@ -13,7 +13,7 @@ By using Tsogo Sun Websites, you consent to the data practices described in this
 
 Tsogo Sun collects, with your consent, personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Tsogo Sun also collects anonymous demographic information, which is not unique to you, such as your postal or ZIP code, age, gender, preferences and interests.
 
-Your privacy is very important to Tsogo Sun. To help protect your privacy, we adhere to the following guidelines. Tsogo Sun web sites will explicitly ask when they need information that personally identifies you or allows them to contact you ("Personal Information"). Generally this information is requested when making reservations, joining the Rewards Progarmme, registering for newsletters or other promotional material, when requesting a particular service, when sending feedback or when entering a competition. Where possible, we will provide you with the means to make sure that your Personal Information is correct and current, alternatively you may request for your Personal Information to be updated. You also have the right to request that your personal information not be used for any other use except for the intended purpose of its collection.
+Your privacy is very important to Tsogo Sun. To help protect your privacy, we adhere to the following guidelines. Tsogo Sun web sites will explicitly ask when they need information that personally identifies you or allows them to contact you ("Personal Information"). Generally this information is requested when making reservations, joining the Rewards Programme, registering for newsletters or other promotional material, when requesting a particular service, when sending feedback or when entering a competition. Where possible, we will provide you with the means to make sure that your Personal Information is correct and current, alternatively you may request for your Personal Information to be updated. You also have the right to request that your personal information not be used for any other use except for the intended purpose of its collection.
 
 Tsogo Sun will use your Personal Information to operate the sites, provide services, and to inform you of new features, services, and products. If we intend to use Personal Information for a Secondary Use, Tsogo Sun will provide you with the ability to decline this service.
 
@@ -42,13 +42,13 @@ Tsogo Sun does not use or disclose sensitive personal information, such as race,
 Tsogo Sun keeps track of the Web sites and pages our customers visit within Tsogo Sun Web sites, in order to determine what Tsogo Sun services are the most popular. This data is used to deliver customised content and advertising within Tsogo Sun to customers whose behaviour indicates that they are interested in a particular subject area.
 
 Non-personal information that we collect may include information regarding your activities on any of the sites, which may be aggregated and used to help us provide more useful information to our customers and to understand which parts of the sites are of most interest.  
-We may use 3rd parties to provide services (e.g. maintenance, analysis, audit and marketing).  They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
+We may use 3rd parties to provide services (e.g. maintenance, analysis, audit and marketing). They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
 
 ### Online WebChat
 
-Tsogo Sun make us of a live online chat facility that will be available on select pages of tsogosun.com and the hotel booking engine.  This chat is permission based and is initiated by visitors to the website.  All chats are monitored for quality assurance purposes.
+Tsogo Sun makes use of a live online chat facility that will be available on select pages of tsogosun.com and the hotel booking engine. This chat is permission based and is initiated by visitors to the website. All chats are monitored for quality assurance purposes.
 
-### Use of Cookies
+###  Use of Cookies
 
 Tsogo Sun Web site uses "cookies" and other technologies such as pixels and tags, to help you personalise your online experience. We log usage data when you visit or otherwise use our Services, such as when you view or click on content, perform a search, view a web page, operating system, browser and device. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Cookies are used to recognise you, remember your preferences and personalise your experience that is in line with your settings;
 
