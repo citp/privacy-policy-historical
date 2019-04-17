@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inceptivemind.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821155140id_/http%3A//www.inceptivemind.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inceptivemind.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417083852id_/https%3A//www.inceptivemind.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Inceptive Mind
 
 ### What information do we collect?
 
@@ -12,13 +12,13 @@ Google, as a third-party vendor, uses cookies to serve ads on your site. Google
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience:  
+  *  **To personalize your experience:**  
 Your information helps us to better respond to your individual needs.
-  * To improve our website:  
+  *  **To improve our website:**  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * To improve customer service:  
+  *  **To improve customer service:**  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * To send periodic emails:   
+  *  **To send periodic emails:  **  
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 
@@ -47,7 +47,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://inceptivemind.com](http://inceptivemind.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.inceptivemind.com/>.
 
 ### Your Consent
 
@@ -57,8 +57,8 @@ By using our site, you consent to our online privacy policy [here](http://www.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on 15/08/2016.
-
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us [here](http://inceptivemind.com/contact).
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact).
+
+ _This policy was last modified on 04/09/2017._
