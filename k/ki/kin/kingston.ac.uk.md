@@ -1,6 +1,29 @@
-> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110174205id_/https%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417120550id_/https%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Kingston University London
+
+## **Data protection at Kingston University**
+
+Kingston University recognises the value of the personal data that we process and the need to collect, use and dispose of it appropriately and securely. The University endeavours to comply with the principles set out in the General Data Protection Regulation (GDPR) and the Data Protection Act 2018 and aims to inform, as transparently as possible, enquirers, applicants, students, staff, alumni and members of the public about the purposes for which their personal data may be processed.  
+
+Our website privacy notice and cookie statement is below, but you can find out about how we manage personal data through our other subject-specific data protection policies and privacy notices, which are available online:
+
+  * [Data Protection Policy](https://web.archive.org/documents/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/data-protection-policy-v3.pdf)
+
+  * [Data Protection Privacy Notice for Staff](https://web.archive.org/documents/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/privacy-notice-staff-v3.pdf)[ ](https://www.kingston.ac.uk/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/privacy-notice-staff.pdf)
+
+  * [Data Protection Privacy Notice for Alumni and Friends](https://web.archive.org/alumni/stay-in-touch/privacy-policy/)
+
+  * [Data Protection Privacy Notice for Enquirers, Applicants, Students and Alumni](https://web.archive.org/documents/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/privacy-notice-students-v3.pdf)
+
+  * [Retention policy](https://web.archive.org/documents/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/retention-policy.pdf)
+
+  * [Retention schedule](https://web.archive.org/documents/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/retention-schedule-v3.pdf)
+
+  * [Subject Access Request form](https://web.archive.org/documents/aboutkingstonuniversity/howtheuniversityworks/policiesandregulations/documents/sar-form.pdf) 
+
+
+
 
 ## **What is this privacy notice about?**
 
