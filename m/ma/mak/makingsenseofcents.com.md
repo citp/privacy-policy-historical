@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the makingsenseofcents.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231004034id_/https%3A//www.makingsenseofcents.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingsenseofcents.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417162615id_/https%3A//www.makingsenseofcents.com/disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy - Making Sense Of Cents
 
 **Privacy Notice**
 
-Effective Date: May 24, 2018,  Notice Version: 2.0             
+Effective Date: May 24, 2018,  Notice Version: 2.0  
 
  **Data Controller Contact Information**
 
