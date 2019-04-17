@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017101238id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417084936id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MPP
+# Privacy Policy
 
 _Last updated: May 25, 2018_
 
 Protecting your privacy is important to the Marijuana Policy Project (MPP). We are committed to keeping your personal information confidential.
 
-  1. Why We Collect Personal Information
-  2. Type of Data Collected
-  3. When We Disclose Contact Information
-  4. How We Protect Your Personal Information
-  5. Access to Your Personal Information
-  6. Our Organizational Commitment 
-  7. Cookie / Tracking Technology
-    * Necessary Cookies
-    * Performance Cookies
-  8. Collection of Information
-  9. Third-Party Advertising Opt-out
-  10. Credit Card Information
-  11. Commitment to Data Security
-  12. Third-party Service Providers
+  1. [Why We Collect Personal Information](https://www.mpp.org/#why)
+  2. [Type of Data Collected](https://www.mpp.org/#type)
+  3. [When We Disclose Contact Information](https://www.mpp.org/#disclosure)
+  4. [How We Protect Your Personal Information](https://www.mpp.org/#protection)
+  5. [Access to Your Personal Information](https://www.mpp.org/#access)
+  6. [Our Organizational Commitment ](https://www.mpp.org/#commitment)
+  7. [Cookie / Tracking Technology](https://www.mpp.org/#cookies)
+    * [Necessary Cookies](https://www.mpp.org/#necessary-cookies)
+    * [Performance Cookies](https://www.mpp.org/#performance-cookies)
+  8. [Collection of Information](https://www.mpp.org/#collection)
+  9. [Third-Party Advertising Opt-out](https://www.mpp.org/#advertising)
+  10. [Credit Card Information](https://www.mpp.org/#creditcard)
+  11. [Commitment to Data Security](https://www.mpp.org/#data-security)
+  12. [Third-party Service Providers](https://www.mpp.org/#service-providers)
 
 
 
@@ -83,13 +83,13 @@ This site uses cookie and tracking technology. The cookies are useful for gather
 Category | Cookie | Description | Expiration  
 ---|---|---|---  
 [CloudFlare](https://www.cloudflare.com/)  
-Cloudflare, Inc. is a U.S. company that provides content delivery network services, DDoS mitigation, Internet security and distributed domain name server services, sitting between the visitor and the Cloudflare user’s hosting provider, acting as a reverse proxy for websites. | __cfduid | This cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis. | 1 yr  
+Cloudflare, Inc. is a U.S. company that provides content delivery network services, DDoS mitigation, Internet security and distributed domain name server services, sitting between the visitor and the Cloudflare user's hosting provider, acting as a reverse proxy for websites. | __cfduid | This cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis. | 1 yr  
   
 #### **Performance Cookies**
 
 Category | Cookie | Description | Expiration  
 ---|---|---|---  
-Google Analytics  
+[Google Analytics](https://www.mpp.org/#)  
 Google Analytics lets us measure site performance by tracking visits and page views. | __ga | Used to distinguish users. | 2 yrs  
 __gid | Used to distinguish users. | 24 hrs  
 __utma | Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics. | 2 yrs  
