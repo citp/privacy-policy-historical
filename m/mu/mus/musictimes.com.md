@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412192106id_/http%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417113348id_/https%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
 
 # | Music Times
 
