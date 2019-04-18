@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rudraksha-ratna.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523053352id_/http%3A//www.rudraksha-ratna.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudraksha-ratna.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418123321id_/https%3A//www.rudraksha-ratna.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rudraksha Ratna | Rudraksha Ratna
 
