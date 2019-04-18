@@ -1,74 +1,82 @@
-> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101142156id_/https%3A//www.acwholesalers.com/Security-and-Privacy/300016.acp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418115033id_/https%3A//www.acwholesalers.com/how-to-library/1511-ACWholesalers-Privacy-Policy.html) for the most accurate reproduction.*
 
-# ACWholesalers Security & Privacy Policy
+# Privacy Policy - ACWholesalers Privacy Policy
 
-**Privacy Policy**
+[](https://www.bbb.org/south-east-florida/business-reviews/air-conditioning-parts/wholesale-group-in-doral-fl-23009787) **Privacy Policy - Wholesale Group Operations, Inc.**
 
-**What information do we collect?**
+**1) General**   
+Wholesale Group Operations, Inc. respects the privacy of every individual who visits our websites or responds to our guestbooks, contests, or interactive advertisements. This Privacy statement outlines the information Wholesale Group Operations will collect and how we will use that information.
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+This Statement will inform you what to do if you do not want your personal information to be shared or divulged when you visit a Wholesale Group Operations website or respond to our advertising. Wholesale Group Operations reserves the right to change this policy at any time by posting a new privacy policy at this location, and your continued use of our website indicates your acceptance of such changed terms. 
 
+**2) Personally- Identifiable Information**   
+Wholesale Group Operations will not collect any personally-identifiable information about you (that is your name, address, telephone number, or email address) unless you provide it voluntarily and knowingly. 
 
+If you do not want your personally - identifiable information collected do not submit it to us. If you do submit personally identifiable information, we will use it in the following ways, unless stated otherwise:
 
-**How do we use your information?**
-
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
-
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-  * To allow us to better service you in responding to your customer service requests. 
-  * To quickly process your transactions. 
-  * To administer a contest, promotion, survey or other site feature. 
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
-
+  * We use the information that you provide for such purposes as responding to your requests, customizing future shopping suggestions, improving our store, and fulfilling your order.
+  * We will and you authorize us to share your personal information with third parties to facilitate servicing your order. This includes, but is not limited to, sharing with our technology vendors (like our CRM provider), payment processors, fulfillment vendors (our suppliers), and shipping carriers.
+  * We may share your personal information with the manufacturer of the product you purchase in order to register your product for warranty. If you request one or more installer to contact you during checkout, we will share your personal information with installers for that purpose.
+  * We may store and process that information to better understand your needs and how we can improve our product offerings and services.
+  * We will not give or sell your individual information to non-related companies for use in marketing or solicitations.
+  * We may provide your information to related companies in common ownership with Ferguson Enterprises, Inc.
+  * Will maintain the confidentiality of your personal information, and it will only be used to support your relationship with Wholesale Group Operations, its Web sites and to further develop your relationship with Wholesale Group Operations and its related companies.
 
 
-**How do we protect visitor information?**
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+Unfortunately, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Statement. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. 
 
-**Do we use "cookies"?**
+We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Therefore, although we will protect your privacy as described in this Privacy Policy, we do not promise, and you should not expect, that all your personally identifiable information or private communications will remain private. 
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+**3) Children (under thirteen)**   
+Wholesale Group Operations, Inc. has no intention of collecting any personally identifiable information (that is your name, address, telephone number, or email address) from individuals under thirteen years of age through this website. The Power Equipment Direct websites that do collect information from Children do so in accordance with the privacy policies located at such websites. 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+Please review such privacy policies when entering those sites. If a child has provided us with personally identifiable information a parent or guardian should contact us at the e-mail address listed at the bottom of this statement if they want this information to be deleted from the records. We will use all reasonable efforts to delete the child's information from our existing files. 
 
-**Do we disclose the information we collect to outside parties?**
+**4) Non- Personally - Identifiable Information Collected Automatically**   
+In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the Internet browser you a using, the type of operating system, and the domain name of the website which linked you to our site.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include ACWholesalers.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+When you view one of our websites, we may store information from time to time on your computer. These "Cookies" allow us to tailor a website or advertisement to better match your interests and preferences. With most Internet Browsers you can block, receive a warning or erase all "Cookies" from your hard drive.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Please refer to your browser instructions or help screen to learn more about these functions. We also collect an IP address from all visitors to our website. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our website, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized and personalized content. IP addresses are also not linked to personally identifiable information.
 
-**How can you opt-out, remove or modify information you have provided to us?**
+We use third-party services to improve customers' on-site and off-site experiences. This means aggregating and analyzing data that we obtain while you interact with our company. As examples, we use third-party services to capture information about browsing behavior so that we can discover ways to improve our websites. We also use third party services to personalize product recommendations. 
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+**5) Opting Out of Receiving Communications from Us**   
+Wholesale Group Operations, Inc. may send you communications regarding its services, its websites or otherwise. Wholesale Group Operations provides you the opportunity to opt-out of receiving such communications by indicating your desire to opt-out. If you would like to opt out of receiving communications from us please email us at [customerservice@hvacstores.com](mailto:customerservice@hvacstores.com). 
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+**6) Correcting or Updating Information**   
+At any time, you can view, update and/or remove your account information. Upon your request, we will also remove any other personally identifying information we may retain from our databases. To make any such changes or requests, please email us at [customerservice@hvacstores.com](mailto:customerservice@hvacstores.com). Additional residual information may remain in our archives and records, but this information will not be used for any commercial purpose. We reserve the right to maintain information on users who have violated our Terms of Use or who have had their access to our website blocked. 
 
-**Third party links**
+**7) Security:**   
+All information provided to Wholesale Group Operations is transmitted using GeoTrust certified encryption. GeoTrust is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect your information by placing it on a secure portion of our website that is only accessible by certain qualified employees of Wholesale Group Operations, Inc. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+**8) Other Web Sites:**   
+Wholesale Group Operations, Inc. websites contain links to other websites. Please note that when you click on one of these links, you are entering another website for which Wholesale Group Operations has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours. Also, you may have entered this website from an unrelated third party website. Likewise, Wholesale Group Operations has no responsibility for such third party websites and you should review their privacy statements.
 
-**Changes to our policy**
+**9) Interest-Based Advertising:**   
+Data about your activities online is being collected on our Site for use in providing advertising tailored to your individual interests. You may choose whether or not to have your information collected for that purpose. This section of the Privacy Policy provides details and explains how to exercise that choice.
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.
+We sometimes work with online advertising vendors to provide you with relevant and useful ads.  This may include ads served on other companies’ websites. These ads may also be based on your activities on our websites or on third party websites.
 
-**Questions and feedback**
+To opt out of having your online behavior collected for advertising purposes, [click here](http://www.aboutads.info/choices/).
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+**10) Your California Privacy Rights:**   
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information.  You can make a request one time each year.
 
-**Online Policy Only**
+To exercise your rights, you can email us or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**11) Changes to this Privacy and Security Statement:**
 
-**Terms and Conditions**
+**Effective Date:**  January 1, 2003  
+**Last Revision Date:**  April 6, 2018  
+From time to time we may change our privacy policies. We will notify you of any material changes to our Privacy Statement by posting an updated copy on our website. Please check our website periodically for updates.
 
-Please also visit our [Terms and Conditions](https://web.archive.org/company/content.jsp?cp=300020) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+**12) Contacting Wholesale Group Operations, Inc:**   
+If you have any questions about this Privacy statement, the practices of this website, or your dealings with this website, you can contact: 
 
-**Your consent**
-
-By using our site, you consent to our privacy policy.
+HVAC Stores  
+8303 NW 27th St, Ste 21  
+Doral FL 33122
