@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryforever.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826165240id_/https%3A//www.hungryforever.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryforever.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418112538id_/https%3A//www.hungryforever.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | HungryForever Food Blog
 
