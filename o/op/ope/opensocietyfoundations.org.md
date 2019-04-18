@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the opensocietyfoundations.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221140727id_/https%3A//www.opensocietyfoundations.org/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensocietyfoundations.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418023621id_/https%3A//www.opensocietyfoundations.org/about/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 _Last updated: May 25, 2018_
 
-Your privacy is important to the Open Society Foundations ( **OSF** ). This privacy policy provides information about the different types of personal information that we collect and the ways in which we use it. This privacy policy applies to all those who interact with us online (particularly through the website [www.opensocietyfoundations.org](http://www.opensocietyfoundations.org/) and any other website we own or operate) or whose personal information we otherwise collect (although please note that if you are an employee or worker at OSF, there is a separate privacy policy).
+Your privacy is important to the Open Society Foundations ( **OSF** ). This privacy policy provides information about the different types of personal information that we collect and the ways in which we use it. This privacy policy applies to all those who interact with us online (particularly through the website [www.opensocietyfoundations.org](http://www.opensocietyfoundations.org) and any other website we own or operate) or whose personal information we otherwise collect (although please note that if you are an employee or worker at OSF, there is a separate privacy policy).
 
 If you have any questions, please feel free to contact us using the contact details included at section 17.
 
   * #### 1\. Who we are
 
-This privacy policy describes how OSF will collect and use your personal information when you interact with us online or when we otherwise collect and use your personal information. The Open Society Foundations have offices located through the world. You can learn more about where we are located on our [Offices and Foundations page](https://web.archive.org/about/offices-foundations). While our website is operated by OSF in the United States, the personal information we collect (through the website or otherwise) may be used by any of our family of offices and foundations in line with the purposes set out in this privacy policy. When we refer to OSF in this privacy policy, we include all OSF offices and foundations.
+This privacy policy describes how OSF will collect and use your personal information when you interact with us online or when we otherwise collect and use your personal information. The Open Society Foundations have offices located through the world. You can learn more about where we are located on our [Offices and Foundations page](/about/offices-foundations). While our website is operated by OSF in the United States, the personal information we collect (through the website or otherwise) may be used by any of our family of offices and foundations in line with the purposes set out in this privacy policy. When we refer to OSF in this privacy policy, we include all OSF offices and foundations.
 
 Please note that there are certain aspects of this privacy policy that only apply when we are required to comply with specific laws (e.g., the European data protection law, the General Data Protection Regulation). In some instances, EU data protection law may apply. Please see section 10 for information about the transfer of your personal information.
 
@@ -23,7 +23,7 @@ We may obtain your personal information from a number of sources including:
     1. When you give it to us **directly**. For example, if you provide us with your email address to sign up to receive our news updates.
     2. When we obtain it **indirectly**. Your personal information may be shared with us by third parties such as recruitment agencies when we are recruiting staff and vetting agencies when we gather information on grant applicants. To the extent that we have not done so already and that we are required to, we will notify you when we receive personal information about you from them, and tell you how and why we intend to use that personal information.
     3. When it is **publicly available**. Your personal information may be available to us from external publicly available sources. This includes information available on government websites (e.g., U.S. federal and European institutions) or non-OSF company or institutional websites.
-    4. When you visit our **website**. Our website uses cookies and other tracking technologies to improve your experience of our website—this can involve collecting personal information. Please refer to our [Cookie Policy](https://web.archive.org/about/policies/cookie-policy) for details of the way the use of cookies may affect your personal information.
+    4. When you visit our **website**. Our website uses cookies and other tracking technologies to improve your experience of our website—this can involve collecting personal information. Please refer to our [Cookie Policy](/about/policies/cookie-policy) for details of the way the use of cookies may affect your personal information.
   * #### 3\. What personal information do we use?
 
 We may collect, store, and otherwise process the following kinds of personal information:
@@ -44,7 +44,7 @@ We will also collect certain information automatically every time you interact w
 
 For instance, we identify and log the Internet Protocol (IP) address of the device you use to access our website automatically in our server log files whenever you visit our website, along with the time of your visit and pages you visit. While the intention of such a practice is to calculate website usage levels and to help us diagnose problems with the website’s servers, we recognize that an IP address is also an online identifier which can be used to create profiles of individuals behind devices. Thus, if we combine non-personal information with personal information, we will treat the combined information as personal information as long as it is combined.
 
-Please see our [Cookie Policy](https://web.archive.org/about/policies/cookie-policy) for further information about how we collect and use cookies and pixels and our use of analytics.
+Please see our [Cookie Policy](/about/policies/cookie-policy) for further information about how we collect and use cookies and pixels and our use of analytics.
 
   * #### 5\. What about personal information that is considered more sensitive?
 
@@ -82,7 +82,7 @@ Under certain laws, we are required to rely on one or more lawful grounds to col
     4.  **Consent**. We may obtain your consent to use your personal information in certain circumstances (e.g., to send you email marketing). We will ensure that when we obtain your consent, you are free both to give it and to decline to give it. Additionally, you may always withdraw your consent at any time without any further detriment to you.
   * #### 8\. Use of our online services (e.g., forums, blogs)
 
-We may make available certain interactive services through our website such as message boards, blogs, and wikis ( **Forums** ). You will be able to post information and materials to Forums. Please see our [Community Guidelines](https://web.archive.org/about/policies/community-guidelines).
+We may make available certain interactive services through our website such as message boards, blogs, and wikis ( **Forums** ). You will be able to post information and materials to Forums. Please see our [Community Guidelines](/about/policies/community-guidelines).
 
 Any information (including personal information) that you post in a Forum becomes public information and may be available to other visitors to our website and to the general public. In addition, your name may be available in association with any posting you make. Additionally, information regarding your Forum activities is also available for other users to view.
 
