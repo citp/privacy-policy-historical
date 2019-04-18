@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418154646id_/https%3A//www.mindmyhouse.com/about/privacy_policy) for the most accurate reproduction.*
 
 # MindMyHouse - Privacy policy
 
@@ -12,24 +12,24 @@ This Privacy Policy should be read in partnership with the Terms and Conditions 
 
 ## Contents
 
-Q. [What information does MindMyHouse require from members?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q1)  
-Q. [How does MindMyHouse use members’ information?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q2)  
-Q. [Who sees home owner members’ personal information?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3a)  
-Q. [Who sees house sitters members’ personal information?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3b)  
-Q. [Will MindMyHouse be sending members any unsolicited material?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q4)  
-Q. [What are cookies? Are they required?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q5)  
-Q. [How secure are members’ account areas?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q6)  
-Q. [How can members help safeguard the assurances provided in this Privacy Policy?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q7)  
-Q. [How secure is members’ financial information when they are paying for their MindMyHouse membership by credit or debit card? ](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q8)  
-Q. [How can members access, update or delete their information?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q9)  
-Q. [Can someone else link to members’ personal information on MindMyHouse from another website?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q10)  
-Q. [What is the policy regarding links to third party sites?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q11)  
-Q. [When does this Privacy Policy not apply?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q12)  
-Q. [What happens to members’ information after their membership expires?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q13)  
-Q. [What happens to the information members provide when communicating with MindMyHouse?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q14)  
-Q. [What happens to the material members provide when using MindMyHouse's internal contact form system?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q17)  
-Q. [How is members information protected?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q26)  
-Q. [What are the contact details for MindMyHouse?](https://web.archive.org/web/20181109050255id_/https%3A//www.mindmyhouse.com/advice/privacy_policy.php#q16)
+Q. What information does MindMyHouse require from members?  
+Q. How does MindMyHouse use members’ information?  
+Q. Who sees home owner members’ personal information?  
+Q. Who sees house sitters members’ personal information?  
+Q. Will MindMyHouse be sending members any unsolicited material?  
+Q. What are cookies? Are they required?  
+Q. How secure are members’ account areas?  
+Q. How can members help safeguard the assurances provided in this Privacy Policy?  
+Q. How secure is members’ financial information when they are paying for their MindMyHouse membership by credit or debit card?   
+Q. How can members access, update or delete their information?  
+Q. Can someone else link to members’ personal information on MindMyHouse from another website?  
+Q. What is the policy regarding links to third party sites?  
+Q. When does this Privacy Policy not apply?  
+Q. What happens to members’ information after their membership expires?  
+Q. What happens to the information members provide when communicating with MindMyHouse?  
+Q. What happens to the material members provide when using MindMyHouse's internal contact form system?  
+Q. How is members information protected?  
+Q. What are the contact details for MindMyHouse?
 
 **Q. What information does MindMyHouse require from members?**
 
@@ -97,7 +97,7 @@ Members need to ensure that they observe the following general protocol:
 
 **Q. How secure is members’ financial information when they are paying for their MindMyHouse membership by credit or debit card?**
 
-MindMyHouse uses the industry leader, PayPal for all online transactions. PayPal transactions are secure – be assured that all financial information members supply when paying for annual house sitter memberships is encrypted while in transit and is safe from theft. Please note that when conducting a payment with PayPal, their privacy policy will also apply in addition to the MindMyHouse privacy policy.
+MindMyHouse uses the industry leader, Stripe for all online transactions. Stripe transactions are secure – be assured that all financial information members supply when paying for annual house sitter memberships is encrypted while in transit and is safe from theft. Please note that when conducting a payment with Stripe, their privacy policy will also apply in addition to the MindMyHouse privacy policy.
 
 **Q. How can members access, update or delete their information?**
 
@@ -156,9 +156,9 @@ Please address your correspondence to:
 
 **Susan Holtham  
 MindMyHouse **  
-87B Stokes Valley Rd  
-Lower Hutt  
-5019  
+85 Trig Hill Rd  
+Waiheke Island, Auckland  
+1081  
 New Zealand  
 email: [help@mindmyhouse.com](mailto:help@mindmyhouse.com)
 
