@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adland.tv privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104161108id_/http%3A//adland.tv/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adland.tv privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419003241id_/https%3A//adland.tv/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | adland.tv
+# Privacy Policy | Adland
 
 This privacy policy sets out how **Adland** uses and protects any information that you give **Adland** when you use this website.
 
