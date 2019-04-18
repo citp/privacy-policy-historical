@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ieltsliz.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213075504id_/http%3A//ieltsliz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieltsliz.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418192350id_/http%3A//ieltsliz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Your privacy is very important to us. At ieltsliz.com, we have a few fundamental principles that we follow:
 
-  * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
   * We don’t store personal information on our servers unless required for the on-going operation of our site.
+  * We do use Google Analytics which includes tracking IP addresses for analysis purposes.
 
 
 
@@ -22,10 +22,10 @@ Certain visitors to ieltsliz’s websites choose to interact with ieltsliz in wa
 
 **Making comments  **
 
-We ask visitors who comment on our blog to provide a username and email address. This information is stored by the website automatically to process your comment. Your email address is not available to the public, nor is your IP address.
+We ask visitors who comment on our blog to provide a username and email address. This information is stored by the website automatically to process your comment. Your IP address is also automatically stored when you leave a comment. Your email address is not available to the public, nor is your IP address. The name you use will be visible to the public.
 
   1. Your username can be any name or nickname. It does not need to be your full name or even your real name. Your username is the name you want the public to see.
-  2. Your email address and ip address are NOT shown publicly.
+  2. Your email address and IP address are NOT shown publicly.
   3. See this page to learn what is shown publicly and what is not shown to the public when you make a comment: [Recent IELTS Questions ](http://ieltsliz.com/recent-ielts-questions-and-topics/)
 
 
@@ -49,6 +49,8 @@ If you wish to unsubscribe in order to no longer receive these emails and to rem
 **Overall Gathering of Information**
 
 ieltsliz collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with ieltsliz. ieltsliz.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+ieltsliz.com uses Google Analytics which does collect personal information such as your IP address. This is automatically collected by Google Analytics.
 
 **Aggregated Statistics**
 
