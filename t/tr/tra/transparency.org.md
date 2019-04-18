@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211205342id_/https%3A//www.transparency.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418074845id_/http%3A//www.transparency.org/privacy) for the most accurate reproduction.*
 
 # Transparency International - The Global Anti-Corruption Coalition
 
@@ -12,7 +12,7 @@ Alt-Moabit 96, 10559 Berlin, Germany
 
 Tel. +49 30 343820 0
 
-[info@transparency.org](mailto:info@transparency.org)
+[ti@transparency.org](mailto:ti@transparency.org)
 
 This Privacy Policy governs all pages on the TI Website, [http://www.transparency.org](http://www.transparency.org/). It does not apply to pages hosted by other organizations, including the websites of TI National Chapters or related organizations or third party sites. The TI Website may be linked to the websites of such other parties but those other sites may have their own privacy policy which applies to them.
 
