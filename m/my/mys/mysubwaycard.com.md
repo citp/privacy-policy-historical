@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130141007id_/https%3A//www.subway.com/en-US/Legal/PrivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418220734id_/https%3A//www.subway.com/en-US/Legal/PrivacyNotice) for the most accurate reproduction.*
 
 # Privacy Notice | SUBWAY.com - United States (English)
 
-**LAST REVISED: July 19, 2018**
+LAST REVISED: February 04, 2019
 
-### Subway® Group Privacy Notice  
-Milford, Connecticut  
+Milford, Connecticut   
 USA
 
-At Subway, we want to provide you with information about how we collect and use your personal information. This privacy notice gives an overview of the different ways your personal information is collected and used depending on our relationship with you along with how you can contact us if you have any questions. It also contains links to our full privacy statement and notices in case you want to learn more.
-
-**Privacy FAQs**
+At Subway, we want to provide you with information about how we collect and use your personal information. This privacy notice gives a high level overview of our privacy practices, along with how you can contact us if you have any questions.
 
 It’s important that you read our full statement or notice to understand what information we hold, how we may use it, and what your rights are, but if you don’t have time to read it all now, here is a quick summary:
 
@@ -18,30 +15,22 @@ It’s important that you read our full statement or notice to understand what i
   * We only collect the information we need or that would be useful to us to provide you with the best possible service and experience.
   * We do our very best to keep personal information secure.
   * We never sell your personal information.
-  * Our websites use cookies to help them work well and to track information about how people use them.
+  * Our websites use cookies to help them work well and to track information about how people use them
 
 
 
-**For Consumers-The Subway Group Privacy Statement:**
+To learn more about how we collect, protect, use and share your personal information gathered about you when you interact with the Subway brand online and offline, please select the Privacy Statement(s) relevant to you from those listed above.
 
-To learn more about how we collect, protect, use and share your personal information gathered about you when you interact with the Subway brand online and offline please [click here](http://www.subway.com/en-us/legal/privacystatement-fwh).
+Please note: some Subway branded websites and applications may be operated by third parties and do not fall within the scope of this privacy statement, such as franchisee operated websites. For more information, visit the relevant privacy statement(s) at the above link(s).
 
-Specifically, this statement applies when your information is collected through our websites, WiFi services or similar technology provided in Subway restaurants, branded pages on third party platforms (i.e. social networking services), mobile applications, and through our direct marketing campaigns or other communications, as well as, when you purchase our products, subscribe to our news and offers, enter into one of our promotions or contact customer support (collectively, “Subway Services”).
+We use cookies and similar technologies for a wide range of purposes in our websites, applications and email communications to deliver our services and improve your experience. To learn more about the categories of cookies we use (and used by our service providers), what they are used for, and how you can change your preferences, please click the Cookie Policy above.
 
-Please note: some Subway branded websites and applications may be operated by third parties and do not fall within the scope of this privacy statement, such as franchisee operated websites. For more information, visit the full privacy statement at the link above.
+If you have questions about our privacy practices, you can contact us by emailing [ privacy@subway.com ](mailto:privacy@subway.com) , or by contacting us at:
 
-**Cookies and Other Technologies:**
-
-We use cookies and similar technologies for a wide range of purposes in our websites, applications and email communications to deliver our services and improve your experience. To learn more about the categories of cookies we use (and used by our service providers), what they are used for, and how you can change your preferences, please click [click here](https://www.subway.com/en-us/legal/cookiepolicy).
-
-**How to Contact Us**
-
-If you have questions about our privacy practices, you can contact us by emailing [privacy@subway.com](mailto:privacy@subway.com), or by contacting us at:
-
-The Subway® Group’s Privacy Team  
-C/o Franchise World Headquarters, LLC  
-325 Sub Way  
-Milford, CT 06461  
-USA  
-Telephone Number: (203) 877-4281 or Toll Free: 1-800-888-4848  
-Facsimile: (203) 783-7479
+The Subway® Group’s Privacy Team   
+C/o Franchise World Headquarters, LLC   
+325 Sub Way   
+Milford, CT 06461   
+USA   
+Telephone Number: [ (203) 877-4281 ](tel:2038774281) or Toll Free: [ 1-800-888-4848 ](tel:18008884848)   
+Facsimile: [ (203) 783-7479 ](tel:2037837479)
