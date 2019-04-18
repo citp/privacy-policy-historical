@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617010438id_/http%3A//www.iata.org/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418232311id_/https%3A//www.iata.org/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # IATA - Privacy Policy
 
@@ -90,7 +90,9 @@ IATA e-Marketing services, MACS
 PO Box 113  
 Montreal - H4Z 1M1  
 Quebec - Canada  
-Fax: +1 514 874 9632   
+Fax: +1 514 874 9632
+
+   
 E-mail: [privacy@iata.org](mailto:privacy@iata.org)
 
 ### 10\. Your information and third-party companies
