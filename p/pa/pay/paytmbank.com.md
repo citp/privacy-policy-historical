@@ -1,134 +1,106 @@
-> *The following text is extracted and transformed from the paytmbank.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326174516id_/http%3A//www.paytmbank.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytmbank.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418130208id_/http%3A//www.paytmbank.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Paytm Payments Bank
 
-Introduction and Objectives
+We collect and generate various data points about you.
 
-This policy provides the details about the manner in which your data is collected, used and disclosed by the Bank. The Bank reserves the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure. Additionally, the Bank will share your personal information in accordance with the provisions of this Privacy Policy.
+Data by which you are identified is termed as “Personal Data”. Personal Data does not include any information that is freely available or accessible in public domain.
 
-The Bank values your trust & respects your privacy. The Bank will not use your email address/mobile number for unsolicited emails and/or SMS. Any emails and/or SMS sent by the Bank will only be in connection with the provision of agreed services & products and this Privacy Policy. Periodically, the Bank may reveal general statistical information about itself & its users, such as number of customers, number and type of services purchased, etc.
+Your Privacy is of utmost importance to us and protection of your Personal Data is a key commitment for us.
 
-Information we collect
+We are also governed by the Banking Codes and Standards Board of India and Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 to maintain the privacy of your Personal Data.
 
-Information you provide (Personal Information)
+I. Personal Data
 
-Personal Information means and includes all information that can be linked to a specific individual or to identify any individual, such as name, address, mailing address, telephone number, email ID and any details that may have been voluntarily provided by you in connection with availing any of the services provided by the Bank
+Personal Data we may collect from you are as under:
 
-Information we get from your use of our services (Non-Personal Information)
+  * 1\. Personal details (e.g. name, contact details, residential address, date of birth, documents such as identity card / passport details / Aadhaar details / PAN / Voter ID / driving license, and/or education details) needed to open bank account with us and/or avail other services from us. 
+  * 2\. Your bank account details including transaction history, balances, payment details, for effecting transfer of monies through various payment channels provided by us. 
+  * 3\. financial details (e.g. income, expenses, and/or credit history) needed as part of application request for some of our services;
+  * 4\. images of documents/ photos required to open and maintain bank account with us and/or avail our services from us. 
+  * 5\. voice recordings of our conversations with our customer care agent with you to address your queries/grievances;
+  * 6\. employment details (e.g. occupation, positions held, employment history, salary and/or benefits) as part of our record retention for Central KYC Records Registry (CKYCR) purposes under Prevention of Money Laundering (Maintenance of Records) Rules, 2005
+  * 7\. specimen signature(s) for processing of your instructions received by us through our various payment channels;
+  * 8\. opinions provided by you to us by way of feedback or responses to surveys;
+  * 9\. information obtained from your mobile device by way of using our app like device location, communication information including contacts and call logs, device information (including storage, model, mobile network), transactional and promotional SMS/app notifications. 
 
-Device-specific information
+  
 
-  * We may collect information on the browser you are using, the type of operating system you have, mobile network information and the device identifier details
-  * This device information helps us to provide you with an online experience that matches your device and to manage our online advertising
 
+II. Storage of Personal Data
 
+We store and process your Personal Data only in India, in accordance with RBI circular in respect of the Storage of Payment System Data dated 6th April 2018.
 
-Internet protocol address
+Our data center and systems also maintain backup and disaster recovery systems in India. 
 
-  * We may collect the IP address of the device you use to connect to Internet
+III. Sharing of your Personal Data 
 
+Any Personal Data that we have access to shall never be shared without your consent.
 
+In various processes / submission of applications / availment of product offerings, we even seek your explicit consent to use / share your Personal Data. 
 
-Location Information
+In our business and operational processes, we only share the data on a partial and “need-to-know” basis to designated personnel or partners or service providers. 
 
-  * When you use our services, we may collect and process information about your actual location using technologies for location determination such as IP address, GPS etc.
+We will share your data with competent/ legal/statutory/regulatory agencies / authorities or partners/service providers acting on our behalf (as the case may be) in following cases:
 
+  * 1\. only for enabling the provision of the banking services availed by you, strictly on a “need to know” basis and subject to applicable laws.
+  * 2\. it is directed or required by legal/regulatory / statutory / governmental authorities under applicable laws/regulations though a legally obligated request.
+  * 3\. it is required by banks/financial institutions to verify, mitigate or prevent fraud or to manage risk or recover funds in accordance with applicable laws/regulations.
 
+  
 
-Cookies
 
-  * A "cookie" is a small piece of information stored by a web server on a web browser so it can be later read back from that browser
-  * The Bank may use cookie and tracking technology depending on the features offered
-  * No personal information will be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information
-  * Aggregate cookie and tracking information may be shared with third parties
+IV. Usage of Your Personal Data
 
+We use your Personal Data in our business/banking activities for providing our or our partners’ products/services and to perform, among other actions, the following:
 
+  * 1\. to facilitate the banking transactions or report on these transactions;
+  * 2\. to undertake research and analytics for offering or improving our banking services and their security and service quality;
+  * 3\. to check and process your applications submitted to us for banking services and/or instructions or requests received from you in respect of these services;
+  * 4\. to share with you, updates on changes to the banking services and their terms and conditions;
+  * 5\. to take up or investigate any complaints/claims/disputes;
+  * 6\. to respond to your queries or feedback submitted by you;
+  * 7\. to verify your identity for us to provide banking services to you;
+  * 8\. to carry credit checks, screenings or due diligence checks as lawfully required by us;
+  * 9\. to monitor and review banking services from time to time;
+  * 10\. to undertake financial/regulatory/management reporting, and create and maintain various risk management models; 
+  * 11\. for conducting audits and for record keeping purposes;
+  * 12\. for selective offers and promotions.
 
-How we use information we collect
 
-Provide, maintain, improve and develop new
 
-The Bank will use the personal/non-personal information collected from you to provide you with services & products that you have explicitly requested for, to resolve disputes, troubleshoot concerns, collect money, measure consumer interest in our services and develop new services that are better suited to your needs
+We also use your Personal Data to fulfill the requirements of applicable laws/regulations and/or court orders/regulatory directives received by us.
 
-Protect you and ourselves
+  
 
-The Bank will also use the information collected from you to help promote safe services, detect & protect you against error, fraud and other criminal activity, enforce the Bank’s terms and conditions, etc.
 
-Offer you tailored /more relevant content
+V. Purging of your Personal Data
 
-  * The Bank may also use your contact information to inform you about offers, products, services and updates based on your previous transactions and interests
-  * The Bank may occasionally ask you to complete optional online surveys
-  * These surveys may ask for your contact information and demographic information (like zip code, age etc.)
-  * The Bank will use this data to customize your experience at the Bank’s digital platforms, providing you with content that might be of interest to you and to display content as per your preferences
+VI. Cookie Policy
 
+  * 1\. Please note that a "cookie" is a small piece of information stored by a web server on a web browser so it can be later read back from that browser.
+  * 2\. We may use cookie and tracking technology depending on the features offered.
+  * 3\. No Personal Data will be collected via cookies and other tracking technology; however, if you previously provided Personal Data, cookies may be tied to such information.
 
+  
 
-Information we share
 
-For legal reasons
+VII. Links to other websites
 
-**To ensure adherence to your right of protection from all kinds of communications, electronic or otherwise, which infringe upon your privacy, the Bank will:**
+Our website may contain links to other websites which are not maintained by us. This privacy policy only applies to us. You are requested to read the other websites’ privacy policies when visiting these websites.
 
-• Treat your personal information as private and confidential (even when you are no longer banking with us), and, as a general rule, not disclose such information to any other individual/institutions including its subsidiaries/associates, tie-up institutions etc. for any purpose unless:
+VIII. Reasonable Security Practices and Procedures
 
-    • You have authorized such disclosure explicitly, digitally or otherwise
+We take various steps and measures to protect the security of your Personal Data from misuse, loss, unauthorised access, modification or disclosure. We use latest secure server layers encryption and access control on our systems. Our safety and security processes are audited by a third party cyber security audit agency from time to time.
 
-    • Disclosure is compelled by law/regulation
+We have provided multiple levels of security to safeguard your app by Login/Logout option and AppLock feature that can be enabled by you. We also ensure the device binding so that the same login can not be used on different device without any additional authentication/OTP. Please do not share your Paytm login, password and OTP details with anybody.
 
-    • Bank has a duty to the public to disclose i.e. in public interest
+IX. Contact us
 
-    • Bank has to protect its interests through disclosure
+You may contact us on any aspect of this policy or for any discrepancies/grievances with respect to your Personal Data, by writing to our Nodal Officer at [nodalofficer@paytmbank.com](mailto:nodalofficer@paytmbank.com).
 
-    • It is for a regulatorily mandated business purpose
+X. Policy Review & Updates
 
-• Ensure such likely mandated disclosures are communicated immediately to you in writing
+This policy will be reviewed by us as and when required and the same may change at any time. The latest & most updated policy can always be found at <https://www.paytmbank.com/PrivacyPolicy.html>.
 
-With your consent 
-
-The Bank will not use/share your personal information for marketing purpose, unless you have specifically authorized it
-
-For external processing 
-
-• On your consent/authorization, we may provide your personal information to our affiliates or other trusted businesses or persons or service providers engaged by us or financial institutions that we partner with to assist us with providing you with our services or to process it for us or partner financial institutions whose products/services shall be offered to you to better serve your needs and interests, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
-
-• We may share your personal information with companies which we plan to merge with or are acquired by, which will follow the terms and conditions of this Privacy Policy with respect to use of your personal data.
-
-• You shall not disclose to any other person, in any manner whatsoever, any information relating to the Bank or its Affiliates of a confidential nature obtained in the course of availing the services through the Bank’s desktop website/mobile WAP site/mobile applications. Failure to comply with this obligation shall be deemed a serious breach of the terms herein and shall entitle the Bank or its Affiliates to terminate the services, without prejudice to any damages, to which you may be entitled otherwise
-
-Disclaimer
-
-Links to Other Sites
-
-Our site links to other websites that may collect personally identifiable information about you. The Bank is not responsible for the privacy practices or the content of those linked websites
-
-Consent 
-
-• By using the Bank’s digital platforms and/or by providing your information, it is assumed that you have provided your consent to the collection and use of the information you disclose on these platforms in accordance with this Privacy Policy, including but not limited to your consent for sharing this information as per this Privacy Policy
-
-• We recommend that you do not use/access Paytm Payments Bank website, WAP site or mobile applications, if you do not agree to the terms of this Privacy Policy
-
-Security
-
-• The Bank has stringent security measures in place to protect the loss, misuse, and alteration of the information under its control
-
-• Whenever a customer changes or accesses his/her account information, the Bank offers the use of a secure server
-
-• Once your information is in the possession of the Bank, it adheres to strict security guidelines, protecting it against unauthorized access
-
-Policy Review & Updates
-
-• This policy may change at any time without prior notification and will be reviewed as and when required
-
-• To make sure that you are aware of any changes, we recommend that you review this policy periodically 
-
-• This Privacy Policy shall apply uniformly to Paytm Payments Bank’s desktop website, mobile WAP site & mobile applications
-
-Regulatory References
-
-• Master Circular on Customer Service in Banks dated July 1, 2015
-
-• RBI Charter of Customer Rights
-
-• IBA Model Customer Rights Policy
-
-• BCSBI Code of Bank's Commitment to Customers 
+In this policy, the words “we”, “ours” and/or “us” refer to Paytm Payments Bank Limited and “you” and/or “your” refer to our customers.
