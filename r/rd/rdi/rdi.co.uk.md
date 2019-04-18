@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdi.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226202913id_/https%3A//arden.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdi.co.uk privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418145719id_/https%3A//arden.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arden University
 
