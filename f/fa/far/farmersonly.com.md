@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105192118id_/https%3A//www.farmersonly.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418113851id_/https%3A//www.farmersonly.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This document represents a legal document that serves as our Privacy Policy. It governs the privacy terms of our Service. Our Privacy Policy is part of our Legal Terms. Capitalized terms, unless otherwise defined below, have the meaning specified within the Definitions section our Terms of Service.
 
-The last update to our Privacy Policy was posted on February 8, 2014. FarmersOnly follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. 
+The last update to our Privacy Policy was posted on July 10, 2018. FarmersOnly follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. 
 
 We break up the types of information you share into Non Personal Information and Personally Identifiable Information. “Non Personal Information” is information that is not personally identifiable to you and that we automatically collect when you access our Service with a web browser. “Personally Identifiable Information” is non-public information that is personally identifiable to you and obtained in order for us to provide you within access to certain features of our Service. Personally Identifiable Information may include information such as your email address, physical location, and other related information that you provide to us or that we obtain about you. It may also include any pictures that upload when using our Service.
 
@@ -56,7 +56,7 @@ FarmersOnly uses the information we receive from you as follows:
 
 **Links to Other Websites:** Our Service may contain links to other websites. You agree that FarmersOnly has no control over such websites and that such websites are NOT subject to this Privacy Policy. These websites may have their own privacy policies and other legal documents. It is your sole responsibility to verify the privacy policies and other legal documents of such websites to see how they treat your personal information. You acknowledge that your use and access of these websites is solely at your own risk. 
 
-**Our Email Policy:** FarmersOnly and our affiliates fully comply with international laws regarding SPAM. You can always opt out of receipt of further email correspondence from FarmersOnly and/or our affiliates. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party without your permission. 
+**Our Email Policy:** FarmersOnly and our affiliates fully comply with international laws regarding SPAM. You can always opt out of receipt of further email correspondence from FarmersOnly and/or our affiliates. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party without your permission. If you no longer wish to receive our emails there is an Unsubscribe link located in the footer of all emails that we send.
 
 **Our Security Policy:** FarmersOnly has constructed our Service using industry standard encryption and authentication tools to protect your Personally Identifiable Information. When we collect your Personally Identifiable Information through our Service, we encrypt this information and attempt to prevent unauthorized access to it by using industry standard technologies, such as encryption software, routers and firewalls. Unfortunately, due to the nature of the Internet, we cannot completely guarantee that your Personally Identifiable Information is completely protected. We strongly urge you to protect any password you may have for our Service and to not share it with anyone. You should always log out of our Service when not in use, especially if you are sharing a computer or mobile device with someone else or are using a public computer.
 
@@ -64,4 +64,4 @@ FarmersOnly uses the information we receive from you as follows:
 
 **Changing Your Information:** You may change your email address or other Personally Identifiable Information at any time using the account management features found on our Service. 
 
-**Questions About Our Privacy Practices or This Privacy Policy:** If you have any questions about our Privacy Practices or this Policy, please contact us by email at privacy@farmersonly.com.
+**Questions About Our Privacy Practices or This Privacy Policy:** If you have any questions about our Privacy Practices or this Policy, please contact us by email at support@farmersonly.com. You may also write to us at 5645 Coral Ridge Drive, #293 Coral Springs, FL 33076.
