@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mansion.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623152701id_/https%3A//www.mansion.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansion.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418031129id_/https%3A//www.mansion.com/security-and-privacy) for the most accurate reproduction.*
 
 # SECURITY & PRIVACY | Mansion
 
