@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the caliroots.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627170253id_/https%3A//caliroots.com/content/view/Cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caliroots.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418045920id_/https%3A//caliroots.com/content/view/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Caliroots
+
+##  Customer Service 
+
+  * [ Privacy Policy ](https://web.archive.org/content/view/privacy-policy "Privacy Policy")
+  * [ How to order ](https://web.archive.org/content/view/how-to-order "How to order")
+  * [ Terms ](https://web.archive.org/content/view/terms "Terms")
+  * [ FAQ ](https://web.archive.org/content/view/faq "FAQ")
+  * [ Returns ](https://web.archive.org/content/view/returns "Returns")
+  * [ How to measure ](https://web.archive.org/content/view/how-to-measure "How to measure")
+  * [ Contact ](https://web.archive.org/content/view/contact "Contact")
+  * [ Work at Caliroots ](https://web.archive.org/content/view/work-at-caliroots "Work at Caliroots")
+  * [ Press & partners ](https://web.archive.org/content/view/press "Press & partners")
+
+
 
 At Caliroots, we protect your personal privacy and continuously work to ensure that your personal data is protected when using our services.
 
@@ -132,7 +146,7 @@ In some cases, Caliroots may have a legal obligation to process your personal da
 
 For subscribers to the Caliroots newsletter, we may process your personal data through profiling. This means that, based on how you use our website, the products and offers in which you have shown interest, with which of our newsletters you have interacted, as well as information about purchasing, we can provide a relevant shopping experience for you as a user and we can provide offers we think are suitable for you.
 
-You may object to this kind of processing of your personal data at any time. You do this by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80f0f2e9f6e1e3f9c0e3e1ece9f2efeff4f3aee3efed). Once we receive your notification, the processing of your personal data through profiling will stop.  
+You may object to this kind of processing of your personal data at any time. You do this by contacting [privacy@caliroots.com](mailto:privacy@caliroots.com). Once we receive your notification, the processing of your personal data through profiling will stop.  
  
 
 ## 8\. How long do we store your data?
@@ -211,6 +225,6 @@ Hornsbruksgatan 28
 117 34 Stockholm  
 Sweden
 
-_Email:_[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6c6c4dfc0d7d5cff6d5d7dadfc4d9d9c2c598d5d9db)  
+_Email:_[privacy@caliroots.com](mailto:privacy@caliroots.com)  
 _Telephone:_ +46 8-720 07 97   
 _Company registration number:_ 5566567086
