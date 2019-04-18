@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the hafen-hamburg.de privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406164453id_/https%3A//www.hafen-hamburg.de/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hafen-hamburg.de privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418075344id_/https%3A//www.hafen-hamburg.de/en/privacy-policy) for the most accurate reproduction.*
 
 # Port of Hamburg | Privacy Policy
+
+### Responsible organization:
+
+Hafen Hamburg Marketing e.V., Pickhuben 6, 20457 Hamburg  
+Phone: +49 40 37709 0  
+Authorised representatives  
+Axel Mattern und Ingo Egloff  
+E-Mail: info@hafen-hamburg.de
+
+### Chief privacy officer:
+
+Andreas Kortmann netCo.privacy GmbH Reimerstwiete 11
+
+20457 Hamburg  
+Telefon: 040 540 90 90-0
+
+E-Mail: [datenschutz@hafen-hamburg.de](mailto:datenschutz@hafen-hamburg.de)
 
 Data protection is an important issue for Port of Hamburg Marketing (HHM). HHM respects and maintains the right of users and third parties to informational self-determination. The right for information self-determination is an essential component of the company philosophy of Port of Hamburg Marketing. We provide details below of the purpose, type and extent of collection and the use of personal data. Personal details are particulars on personal and factual circumstances of a particular or identified person.
 
