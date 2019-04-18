@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the plugable.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129122120id_/https%3A//plugable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugable.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418212906id_/https%3A//plugable.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Plugable
 
 Your privacy and the confidentiality of your personal and business data is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of your information. The following outlines our policy.
 
+  * We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
   * We collect personally non-identifiable data via Google Analytics Advertising features, Bing Analytics, as well as website visitor information for Facebook Advertising. These use cookies to collect aggregated data from all users of the site. We do this to help us gain greater insights about our website traffic and thereby provide a better user experience. (“Aggregated data” can include but is not limited to data such as search queries, keyword data, geographic data etc. for the purpose of demographic and other analysis).
   * If you would like to disable cookies there are programs and settings that can enable you to visit our site anonymously. You can also opt out of Google’s Advertising data collection by clicking [here](https://tools.google.com/dlpage/gaoptout/). Please follow Microsoft’s steps to opt out of targeted advertising from Bing [here](https://choice.microsoft.com/en-US/opt-out). If you would like to opt out of Facebook Ads targeting, please refer to this [link](https://www.facebook.com/help/568137493302217).
   * Unless otherwise specified, it is assumed that this data is confidential to you, will not be visible to potential competitors or other users of the site.
