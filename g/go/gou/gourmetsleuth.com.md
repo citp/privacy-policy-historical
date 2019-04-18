@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmetsleuth.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205123245id_/http%3A//www.gourmetsleuth.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmetsleuth.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418100139id_/https%3A//www.gourmetsleuth.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gourmetsleuth
 
@@ -34,6 +34,14 @@ You will only be contacted by us for order confirmations or order related commun
 
 We do not collect or preserve any information about you other than that information you provide to us when you fill in our membership form. That information is not shared with any other source or company.   
 
+
+  * ###  Affiliate Links 
+
+Some of our pages throughout our site contain links to affiliates.  When a user clicks on one of those links and makes a purchase we may make receive a small fee from that affiliate. 
+
+  * ###  Reviews 
+
+Gourmetsleuth occasionally receives products for review at no charge and we also purchase products for review.  When products are provided to us we provide a non-biased, honest review.  The review will state if we received the product at no charge. 
 
 
 
