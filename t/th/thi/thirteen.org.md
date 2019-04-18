@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115093116id_/https%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418141236id_/https%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | THIRTEEN - New York Public Media
 
@@ -144,8 +144,6 @@ If WNET changes its Privacy Policy, changes to this privacy statement will be po
 
 This Privacy Policy shall be governed by and construed in accordance with the laws of the state of New York. If you are located outside of the United States when you use the Sites, any information you submit thereto will be transferred to the United States. Accordingly, by using the Sites and submitting Personally Identifiable Information there, you authorize the transfer of your Personally Identifiable Information to the United States. If any part of this Privacy Policy is determined to be invalid or unenforceable pursuant to applicable law, then the invalid or unenforceable provision or part will be deemed suspended and a valid, enforceable provision that most closely matches the intent of the original provision or part and the remainder of this Privacy Policy shall continue in full force and effect.
 
-## Note to Parents on Our Privacy Policy
-
 ## Contacting Us
 
 WNET reserves the right to change this policy at any time. Since any changes will be posted on this page, we encourage you to check this page regularly. Your continued use of the Sites will constitute your acceptance of such changes. If you have any further questions regarding this privacy policy or the use of your Personal Information under this Privacy Policy, you can contact us by filling out this [Contact Us form](https://www.wnet.org/about/contact/), by email at [membership@wnet.org](mailto:membership@wnet.org), via phone at 212-580-2888 or by postal mail at:
@@ -162,4 +160,4 @@ This Privacy Policy is personal between you and us, and no one else shall be dee
 
 This Privacy Policy was last updated on September 12, 2018.
 
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND THIS PRIVACY POLICY. 
+USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND THIS PRIVACY POLICY.
