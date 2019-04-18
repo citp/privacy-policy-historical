@@ -1,192 +1,127 @@
-> *The following text is extracted and transformed from the codota.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606110953id_/http%3A//assets.codota.com/terms/codota_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codota.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418214620id_/http%3A//www.codota.com/privacy) for the most accurate reproduction.*
 
-# 
+# Codota
 
-                                         Codota – Privacy Policy
-Codota Dot Com Ltd. ("Codota", "we" or "us") is committed to protecting the privacy of its users
-("users" or "you"). This Privacy Policy ("Privacy Policy") has been created to inform you about how
-we manage, collect, store and use the information you provide in connection with our services, website
-and/or application (collectively, the "Services"). Please note that the scope of this Privacy Policy is
-limited only to information collected by us through your use of the Services.
-By using the Services, you agree to the collection and use of your personal information as outlined in
-this Privacy Policy. We may amend the Privacy Policy from time to time, and we encourage you to
-consult the Privacy Policy regularly for changes.
-Information Collected
-Our primary objective in collecting user information is to provide and enhance the Services and to
-enable users to enjoy the Services.
-We do not rent, sell, share, or trade your personal information with third parties other than as disclosed
-within this Privacy Policy.
-In order to register to our Services, you may be asked, if and as applicable, to sign­in using your
-relevant authentication provider service or social network's login (such as your Facebook login). By
-doing this, you authorize us, as applicable, to access certain social network account information,
-including information about your social network contacts (such as your Facebook friends). By allowing
-us to access your social network's account, you understand that we will obtain and may share, without
-limitation, your name and profile picture, as well as the name and profile picture of your contacts.
-When you register to, or use, the Services or any portion thereof, we may collect and record the
-information you provide to us, whether through the Services or through social networks or other third
-party services (the "Account Information"). We may also collect and store personal information about
-other people that is available to us through your social network login.
-Personal Information
-"Personal information" means information about you that can be used to contact or identify you. The
-personal information types collected in accordance with the Services may vary depending on the
-activity and may, without limitation, include:
-    (1)   Your name;
-    (2)   Your social network or third party service user identification details;
-    (3)   Your e­mail address;
-    (4)   Location (city and country);
-    (5)   List of the members you are connected with through the applicable social network (such as a
-          friend list);
-    (6)   Your profile pictures; and
-    (7)   Any other relevant information included in your application, social network or other online
-          profile.
-Non­Personal Information
+_Last update: July 1, 2018_
+
+Codota is committed to protecting the privacy of its users. This Privacy Policy (“ **Privacy Policy** “) has been created to inform you about how we manage, collect, store and use information you provide in connection with our website (the “ **Website** “).
+
+Our Privacy Policy explains:
+
+  * What information we collect and why we collect it.
+  * How we use that information.
+  * Your rights with regard to the collection of information.
 
 
-"Non­personal information" is information that, when taken alone, cannot be used to identify or contact
-you. During your use of the Services we may collect non­personal information about your use of the
-Services. We may also invite you to share non­personal information about yourself which may, without
-limitation, include:
-     (1) Your age or date of birth;
-     (2) Your gender; and
-     (3) Any other information included in your application, social network or other online profile.
-If non­personal information is collected for an activity that also requires personal information, we may
-combine your non­personal information with your personal information in an attempt to provide you
-with a better user experience, to improve the value and quality of the Services and to analyze how the
-Services are used.
-In addition to information collected as described above, you may choose to share additional
-information about yourself through the Services. Any additional image or information you provide may
-be publicly displayed.
-Please note that whenever you voluntarily disclose personal information on publicly­viewable screens
-or pages, that information will be publicly available and can be collected and used by others. For
-example, if you post your e­mail address, you may receive unsolicited messages. We cannot control
-who reads your posting or what other users may do with the information you voluntarily post, so we
-encourage you to exercise discretion and caution with respect to your personal information.
-Other information we may collect includes your occupation, language, zip code, area code, location,
-and the time zone where a Service is used, as well as information about your computer, software,
-platform, incident data, Internet Protocol (IP) address, network Media Access Control (MAC) address
-and connection, browser type, browser language, referring pages, exit pages and URLs, number of
-clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time
-spent on particular pages, and the date and time of this activity so that we can better understand
-customer behavior and improve our products, services, and advertising. We may also receive either
-non­personal or public information from third parties in connection with market and demographic
-studies and/or data that we may use to supplement personal information provided directly by you.
-Use of Your Information
-The personal information you provide will allow us to send you messages regarding, among other
-things, new products, features, enhancements, special offers, upgrade opportunities, contests and events
-of interest. You may at any time opt­out of any of these communications.
-We may also use personal and non­personal information, both individually and combined together, to
-better understand the behavior and preferences of our customers, to troubleshoot technical problems, to
-serve static and dynamic advertising, to enforce our Terms of Use, to ensure proper functioning of our
-products and services as well as to help improve Services and their content. In addition, we may
-combine non­personal information with personal information, such as an e­mail address, to administer
-loyalty programs, and to tailor our offerings and/or web pages.
-If you choose to use a referral service to "tell a friend" about a Service, we may ask you for your
-friend's name and e­mail address. We will send your friend an email on your behalf inviting him or her
-to visit the relevant website or check out the Service. We store your friend's name and e­mail for the
-sole purpose of sending this e­mail and for redundancy checking, to be sure that your friend does not
-receive multiple copies of the same e­mail message. We do not keep or use this information for any
-other purpose, unless such friend registered to the Service.
-In all cases of data access and collection, the personal information you provide will not be disclosed,
-rented, loaned, leased, sold, or otherwise voluntarily distributed to unaffiliated third parties and will be
-used solely for the purpose of providing you with and improving the Services and for any other purpose
+
+If you do not agree with this Privacy Policy, do not use our services or provide Codota with your Personal Information (as defined below).
+
+Codota, based at the heart of Tel-Aviv, works to help developers to build software smarter and faster. In order to do that, Codota learns models that reflect how software is built, based on analysis codes. Codota runs deep code learning algorithms on your code and reputable open source code to discover practices that are the de-facto coding standards. It then formulates unwritten rules that serve developers as the ultimate source of coding insight.
+
+### Information Collected
+
+Please note that the scope of this Privacy Policy is limited only to information collected by Codota through your use of its services. Some of this information may be automatically collected, and some is collected when you interact with the website. The type of information that may be automatically collected is collected through a third party analytics service, which provides tools to automatically collect information about your use of the service. This information includes your session durations, the content you accessed on the service, your interactions and user-interface clicks with respect to such content, referring URLs, the frequency and scope of your use of the service.
+
+Information from which you can be personally identified may also be collected, including but not limited to your email address and the location of the computer through which you used the Website (hereinafter: “ **Personal Information** ”). Personal Information shall be collected only if received voluntarily by you, including, without limitation, through registration to the Website as well as submitting inquiries regarding or provided service.
+
+ **Registration** : You may register using your full name and email address. We will explicitly indicate the mandatory fields for completion.
+
+ **Registration through your Facebook, Google or GitHub Accounts** : You may also register using your Facebook, Google or GitHub Accounts. If you choose to register with these accounts, you give us access to retrieve your information from these services. The particular categories of information we retrieve from the accounts are within the scope of information that such networks makes available to us by default, according to your privacy settings at each network. The information we collect in this manner typically includes your full name, email address and public information from your profile on these services.
+
+ **Inquiries** : If you contact us for various reasons such as requesting a specific service, asking questions or raising a complaint, we will collect the information related to your inquiry. This may include your user ID in the service, email address and other contact information, depending on the nature of your inquiry.
+
+### Use of Information:
+
+We use the personal information we collect from you for a range of different business purposes according to different legal bases of processing. We may use or process your personal information for the following purposes. One or more purposes may apply simultaneously.
+
+  1.  **Providing the requested services:**
+    * User interaction with Codota’s suggestions is used as a feedback mechanism that improves our machine learning by promoting suggestions you decide to accept.
+
+We process this information where it is necessary for the adequate performance of the contract with you (e.g., according to the service you requested)
+
+  2.  **Improvement and Development of the Services:**
+    * We conduct surveys and research, test features in development, and analyze the information we have, to evaluate and improve our services, develop new features, and conduct audits and troubleshooting activities;
+    * Your e-mail and your account will be used to send you service updates and notifications about your account, to respond to you regarding comments or inquiry you have submitted or in order to contact you when Codota believes it to be necessary.
+
+We process this information in light of our legitimate interest in improving the services to allow our users to have the best experience, and where it is necessary for the adequate performance of the contract with you.
+
+  3.  **Personalize Content, Advertising and Marketing**
+    * If you have used Codota's services in the past, we have a legitimate business interest for matching the data we collect with other data we had already collected. This, enables us to personalize the content we send you and make it more suitable and relevant to your needs, as well as to improve your experience on the platform by providing personalized content, recommendations, and features.
+
+We process this information in light of our legitimate interest to personalize your experience and customize our content.
 
 
-stated herein. We will retain your information for as long as your Codota account is active or as needed
-to provide you the Services. If you wish to cancel your Codota account or request that we no longer use
-your information contact us at the e­mail address provided in the "Contact Us" section below. Note that
-there may be instances where we are legally required to retain your information.
-Access through Social Network Services
-By accessing the Services through a social network, mobile device or other third party platform or
-service or by connecting to such a third party network, platform or service via the Service, you are
-authorizing us to collect, store, and use in accordance with this Privacy Policy any and all information
-that you agreed the social network, mobile device or other third party platform could provide to us
-through the social network / mobile device / third party platform Application Programming Interface
-(API) based on your settings on the third party social network, mobile device or platform. Your
-agreement takes place when you connect with the third party network, platform or service via the
-Services, and/or when you connect with a Service, or "accept" or "allow" (or similar terms) a Service to
-access your information through a social network, mobile device or other third party platform or
-service.
-We may also collect or receive information about you from other users of the Services users choose to
-upload their e­mail contacts. This information will be stored by us and used primarily to help you and
-your friends connect.
-Third Party Service Providers
-We may employ third party companies and individuals to facilitate the Services or any portion thereof,
-to provide the Services or any portion thereof on its behalf, to perform tasks (e.g., without limitation,
-maintenance services, database management, web analytics and improvement of the Services) or to
-assist us in analyzing how the Services are used.
-From time to time, we employ third party contractors to collect personal information on our behalf to
-provide e­mail delivery, product, prize or promotional fulfillment, contest administration or other
-services through the Services. When requesting these services, you may be asked to supply your name,
-mailing address, telephone number and e­mail address to its contractors. We may ask some third party
-contractors, such as, data analytics or market research firms, to supplement personal information that
-you provide to us for our own marketing and demographic studies, so that we can consistently improve
-our sites and related advertising to better meet our visitors' needs and preferences. To enrich our
-understanding of individual customers, we may tie this information to the information you provide us.
-Browser Use
-Note that in the ordinary course of Internet activity, certain information may be sent from your browser
-to third parties such as advertising networks and analytics companies. We have no control over the
-information sent from your browser to those networks or other third parties and recommend that you
-ensure that your browser settings prevent the disclosure of information you would not like to share.
-Disclosure of Your Personal Information
-You understand and agree that we may be required to disclose personal information if required to do so
-by law or in the belief that such disclosure is reasonably necessary to avoid liability, to comply with
-legal process, including, but not limited to a subpoena, statute, search warrant, or court order, or to
-protect our, or a third party's, property and rights, to protect the safety of the public or any person, or to
-prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally
-actionable.
-We may also disclose information about you if we determine that such disclosure is reasonably
-necessary to enforce the terms and conditions of the Services or to protect our operations or users.
-Additionally, we may sell, transfer or otherwise share some or all of our assets, including your Personal
-Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of
-bankruptcy.
 
 
-Cookies
-Like many websites, we may use "cookies" to collect information. A cookie is a small data file that is
-transferred to your computer's hard disk or your mobile device for record­keeping purposes. Cookies
-may be sent to a user’s computer or a mobile device when such user accesses or views a Service.
-Information contained in a cookie may be linked to personal information for purposes such as
-improving the quality of our Services, tailoring recommendations to interests, and making the Services
-easier to use. Third party advertisers on the Services may also place or read cookies on your computer
-or mobile device. Cookies can be disabled at any time by changing your web browser's options to stop
-accepting cookies or to prompt you before accepting a cookie from the websites you visit. Note
-however, that if you do not accept cookies, however, you may not be able to use all portions or
-functionalities of the Services.
-Links
-The Services may contain links to other websites or applications. The fact that the Services link to a
-website or application or presents a banner ad or other type of advertisement does not mean that we
-endorse or authorize that third party, nor is it a representation of any affiliation with that third party. If
-you click on a link to a third party website or application, including on an advertisement, you will leave
-our website which you are visiting or application you are running and will go to the website or
-application linked to. These third party websites and applications may place their own cookies or other
-files on your computer or mobile device, and may collect data or solicit personal information from you.
-Other sites and applications follow different rules regarding the use or disclosure of the personal
-information you submit to them. Because we cannot control the activities of third parties, we cannot
-accept responsibility for any use of your personal information by such third parties, and we cannot
-guarantee that they will adhere to the same privacy and security practices as us. You are therefore
-encouraged to read the privacy policies or statements of other websites and applications you visit
-before providing any personal information.
-Changing or Deleting Your Information
-If you would like us to delete your records in our system, please contact us at support@codota.com and
-we will accommodate your request (except to the extent legally obligated to retain certain records).
-If you have granted us access to your Account Information through a Service, you may request that we
-delete your Account Information by contacting us at support@codota.com . You can request deletion of
-your Account Information by dissociating or removing the Codota application from your social
-network or third party service account in accordance with the instructions provided by the social
-network or third party service.
-Security
-We have made reasonable technical and organizational measures designed to secure your personal
-information from accidental loss and from unauthorized access, use, alteration or disclosure. However,
-we cannot guarantee that unauthorized third parties will never be able to overcome those measures or
-use your personal information for improper purposes.
-Information from users outside the United States
-Users located outside of the United States, please note that your information will be sent to and stored
-in the United States, where our servers are located. By using Codota, you agree to the information
-collection, use, and sharing practices described in this Privacy Policy.
-Contact Us
-For any questions about this Privacy Policy or any other issue regarding Codota or the Services please
-contact us at: support@codota.com
+### Disclosure of Information and Transfer of Data
+
+Except as otherwise provided in this policy, we reasonably attempt to ensure that we never intentionally disclose any of your Personal Information, to any third party without having received your permission, except as provided for herein or otherwise as permitted or required under law.
+
+We may use third party companies and individuals to facilitate services or any portion thereof, such as marketing, data management, or maintenance services. We use Intercom for user communication and support which enables us to provide you with efficient technical support service.
+
+Codota uses a Remarketing Pixel Service which allows Codota to understand and deliver ads and make them more relevant to you. The collected data remains anonymous and Codota cannot see the Personal Information of any individual user. However, the collected data is saved and processed by LinkedIn, Twitter, Google and Facebook (" **Remarketing Pixel Services** "). These Remarketing Pixel Services may be able to connect the data with your account on each service, and use the data for their own advertising purposes. The Remarketing Pixel Services have ultimate control of the information gathered through the Pixel service. You can opt-out of their use of cookies and Pixel services through the settings on the relevant Account.
+
+We also share your information for analytics purposes with third parties who provide us with analytics services such as Google Analytics, Mixpanel and Fullstory. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your computer, through which they can collect information about your usage of Codota's services across applications, websites or other products. This helps us compile aggregated statistics about the effectiveness of our services.
+
+These third parties may be located in countries other than your own, and we may send them information we receive. They may have access to your Personal Information only for purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy. In such cases, they must abide by our data privacy and security requirements, and are not allowed to use personal data they receive from us for any other purpose. When we transfer Personal Information, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data. We will transfer Personal Information within assuring appropriate and suitable safeguards.
+
+We may transfer your information, including Personal Information, in connection with a corporate merger, consolidation, the sale of related assets or corporate division or other fundamental corporate change. We may provide access to your Personal Information to our contractors who are performing services for us in connection with our website or the services that you have requested and/or to our personnel in order to provide customer services.
+
+Furthermore, information about you or your account may also be released in order to comply with any valid legal inquiry or process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if you use the Website to perform an unlawful act or omission or take any act or omission that may damage Codota, its property and goodwill, or if there is an attempted breach of the security of the website or a physical or property threat to you or others. The authority supervising such activities is the Israeli Privacy Protection Authority, and you have the right to file a complaint to it or any other relevant supervisory authority.
+
+### Your rights
+
+If you are located within the European Union (the " **EU** ") or within the European Economic Area (the " **EEA** "), you are afforded specific rights regarding your personal information. Subject to eligibility, users in the EU or in the EEA have the following rights to;
+
+  1. Request a rectification of your Personal Information where the information we hold about you is incorrect or incomplete,
+  2. Object to the processing of your personal data for direct marketing purposes.
+  3. Object to the processing of your Personal Data where our legal basis for that processing is that such processing is necessary for our legitimate interests.
+  4. Object to an automated decision making (including profiling) in certain circumstances.
+  5. Request the erasure of your Personal Data in certain circumstances, such as where processing is no longer necessary for the purpose it was originally collected for, and there is no compelling reason for us to continue to process or store it;
+  6. Receive your Personal Information, or ask us to transfer it to another organization that you have provided to us which we process by automated means, where our processing is either based on your consent or is necessary for the performance of a contract with you.
 
 
-Last update: July 28, 2015.
-All rights reserved, Codota Dot Com Ltd.
+
+If you wish to file a request regarding any of the above you may contact us at [support@codota.com](mailto:support@codota.com).
+
+### Cookies
+
+We may use “cookies” and/or other technologies or files (collectively, “ **cookies** ”) to identify how visitors make use of this website. This aggregated tracking information may be used to help us improve and enhance the website experience for all of our visitors. In addition, Cookies are used for adjusting the Website to your personal preferences. Cookies contain varied information such as the pages you visited, the length of time you stayed on the Website, the location from which you arrived at the Website and more. The information stored in Cookies is confidential and Codota’s site administrators take precautions to ensure such confidentiality. If you would prefer not to have cookies stored on your computer, you may modify your browser settings to reject most cookies, or manually remove cookies that have been placed on your computer. However, by so rejecting the cookies, you may be unable to fully access the offerings on this website.
+
+### Opt In or Opt Out
+
+You are always in control of your data, and if you choose to receive information from us or others, you can change your mind later. If, at any time, you would like to stop receiving such information or opt out of a feature, you may notify us by writing to support@codota.com You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers, although we will always make reasonable efforts to do so upon your request. Keep in mind that we are unable to have your information removed from the records of any third party, who has been provided with your information in accordance with this policy.
+
+### Links to Other Websites
+
+This website may provide links to other websites. Please be aware that these other websites are not covered under our Privacy Policy. This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other websites, companies or individuals, which are not owned or controlled by Codota. We suggest that when linking to another website, you always read that website’s privacy policy before volunteering any personally identifiable information.
+
+### Data Retention
+
+Generally, Codota does not retain information longer than necessary to provide its services and for its reasonable business and lawful needs. If you withdraw your consent to us processing your data, we will erase your personal data from our systems (unless the data is required for Codota to establish, exercise or defend against legal claims or it is necessary for the performance of the requested services), and inform other relevant parties to which we have disclosed your personal data of the erasure request.
+
+### Access to Information and Correction
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of you personal information you may contact us with a request and we may charge a small fee for such service. We want to make sure that your personal information is accurate and up to date. You may request to correct or remove information you think is inaccurate.
+
+### Questions Regarding Our Privacy Policy
+
+If you have any questions regarding this Privacy Policy or the practices described above, you may contact us through the contact information provided on this Website.
+
+### Revisions and Modifications to our Privacy Policy
+
+We reserve the right to revise, amend, or modify this Privacy Policy at any time. When changing the policy, we will update this posting accordingly. Please review this Privacy Policy often so that you will remain updated regarding our current policies.
+
+### Governing Law and Jurisdiction
+
+This Privacy Policy will be governed and interpreted pursuant to the laws of the State of Israel without giving effect to its choice of law rules. You expressly agree that the exclusive jurisdiction for any claim or action arising out of or relating to this Privacy Policy shall be to the competent courts in Tel Aviv, Israel, to the exclusion of any other jurisdiction.
+
+### Children's Privacy
+
+The service is not intended for children under the age of 16. We do not knowingly or intentionally collect information about children who are under 16 years of age.
+
+ **IF YOU ARE UNDER THE AGE OF 16 YOU MAY NOT USE THE SERVICE, UNLESS PARENTAL CONSENT IS PROVIDED ACCORDINGLY**
+
+### Contact Us
+
+For any questions about this Privacy Policy or any other issue regarding Codota or the Services please contact us at: [support@codota.com](mailto:support@codota.com)
