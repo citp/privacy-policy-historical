@@ -1,45 +1,110 @@
-> *The following text is extracted and transformed from the bechtel.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411211356id_/http%3A//www.bechtel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bechtel.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418023748id_/https%3A//www.bechtel.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Bechtel
 
-Bechtel Corporation - including its affiliates, divisions, business units and subsidiaries - ("Bechtel") recognizes and respects the privacy of users of this website.
+This website is operated by and on behalf of Bechtel Corporation - including its affiliates, divisions, business units and subsidiaries - ("Bechtel").
 
-## Collection and use
+This privacy policy applies to personal information Bechtel may collect through this website, and to other information we may collect in the course of our business. It does not apply to personal information relating to Bechtel's own employees, and we have a separate [Applicant Privacy Statement](https://jobs.bechtel.com/content/Applicant-Privacy-Statement/?locale=en_US) in relation to personal information regarding candidates for employment with Bechtel.
 
-Bechtel collects no personally identifiable information about individuals except when specifically, and knowingly provided by such individuals for purposes disclosed to such individuals when they provide their information (such as voluntary submission of an email address for our news email update list). Except as otherwise allowed by this policy, Bechtel will not trade, sell, or rent personal information but may collect, or provide aggregate statistics about its site and users to other parties who do not provide services directly to Bechtel.
+Bechtel recognizes and respects the privacy of the individuals whose personal information it collects, uses and otherwise processes in the course of its business.
 
-## Disclosures
+**Collection of Your Personal Information**
 
-Bechtel may disclose personally identifiable information about you or your use of this site if Bechtel has a good faith belief it is necessary to: (a) protect and defend the rights, property or safety of Bechtel, employees, other users of this site, or the public; (b) enforce the terms and conditions that apply to use of this site; (c) as required by a legally valid request from a competent governmental authority, including to meet national security or law enforcement requirements; or (d) respond to claims that any content violates the rights of third-parties. We may also disclose personally identifiable information as we deem necessary to satisfy any applicable law, regulation, legal process or governmental request. For these purposes, we may, for example, disclose information about you to courts and litigation counterparties, insurers, the police and other competent governmental authorities.
+**_Personal information you provide_**
 
-As we continue to develop our business, we might sell or buy assets. In such transactions, user information, including personally identifiable information, generally is one of the transferred business assets. Also, if either Bechtel itself or substantially all of Bechtel’s assets were acquired, personally identifiable information may be one of the transferred assets. Therefore, we may disclose and/or transfer personally identifiable information to a third party purchaser in these circumstances.
+Bechtel collects personal information about individuals when specifically, and knowingly provided by such individuals for purposes disclosed or otherwise known to them when they provide their information or for the wider purposes set out below. This includes, for example, voluntary submission of an email address for our news email update list, providing a business card in a meeting, sending us an email which includes personal information about you, providing basic details for building security purposes when you enter Bechtel premises, or allowing us to photograph, film or otherwise record you when you attend an event that we host or sponsor.
 
-## Technology
+Unless we explain otherwise at the time, providing personal information that we request is optional and disclosures are made voluntarily.
 
-This website logs IP addresses, the type of operating system that the visitor’s computer uses, the type of browser software used by the visitor, and the pages accessed by the visitor.
+**_Automatic collection of your personal information_**
 
-Bechtel uses the aggregate data to perform statistical analyses of the collective characteristics and behavior of our visitors and to measure overall user demographics and interests regarding specific areas of the site.
+We collect certain information by automated means when you visit our premises or websites. In particular:
 
-This site does use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity, and providing other services relating to website activity and internet usage for us and our affiliates. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out herein.
+  * Our websites log IP addresses, the type of operating system that the visitor’s computer uses, the type of browser software used by the visitor, and the pages accessed by the visitor.
 
-### Access/Removal of Your Personal Information
 
-You have a right to access the information that Bechtel collects about you.  If you want us to remove your account data from our database, or would like to access the information that was collected from you, please contact us at [Privacy@bechtel.com](mailto:Privacy@bechtel.com).
 
-### Opt Out
+Bechtel uses this data, in aggregated form, to perform statistical analyses of the collective characteristics and behaviour of our visitors and to measure overall user demographics and interests regarding specific areas of the site.
 
-If you no longer wish to receive our communications, you may opt out of receiving them by following the instructions included in each newsletter.
+  * Our websites also use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for evaluating your use of the website, compiling reports on website activity, and providing other services relating to website activity and internet usage for us and our affiliates. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
 
-### EU-US Privacy Shield
 
-Bechtel complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Bechtel has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles.  Bechtel may be liable for onward transfers to third parties in violation of the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit www.privacyshield.gov.
 
-In compliance with the EU-US Privacy Shield Principles, Bechtel commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Bechtel at: [Privacy@bechtel.com](mailto:Privacy@bechtel.com).
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out herein.
 
-Bechtel commits to cooperate with the panel established by the EU data protection authorities ('DPAs') to address any complaints and comply with the advice given by the panel with regard to HR-related Data transferred from the EEA.  Bechtel's referral of complaints to the DPAs is provided at no cost to you.
+**_Collection of your personal information from third party sources_**
 
-The U.S. Federal Trade Commission has jurisdiction over Bechtel's compliance with the Privacy Shield Principles. Under certain conditions, individuals also have the possibility of invoking binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other available mechanisms – this is explained in Annex 1 to the Privacy Shield Principles (see _https://www.privacyshield.gov/article?id=ANNEX-I-introduction_ ).
+If you are involved in a business relationship with us, we may also obtain some limited information about you indirectly, for example when your colleagues give us your contact details and information about your role, or from publicly available sources such as the Internet and/or subscription-based services.
 
-### Contact Us
+**Use of Your Personal Information**
 
-If you have any questions or comments regarding this Privacy Policy or our information collection practices, please contact us by sending an email to Bechtel’s Chief Privacy Officer at: [Privacy@bechtel.com](mailto:Privacy@bechtel.com). 
+We may use the information we collect about you for purposes which are made clear to you (or which you already know) when you provide your information or for the following purposes:
+
+**_Business-related purposes_**
+
+  * protecting the security and integrity of our premises, websites and other information technology systems;
+  * responding to and communicating with you about your requests, questions and comments;
+  * managing and developing our relationship with you and the organization that you represent; and
+  * operating, evaluating and improving our business.
+
+
+
+**_Legal and compliance purposes_**
+
+  * protecting ourselves and our employees and business counterparties against fraud and other criminal activity, and co-operating with law enforcement and other regulatory agencies;
+  * exercising and defending our legal rights and legal claims made against us; and
+  * complying with our legal and regulatory obligations.
+
+
+
+Except as otherwise allowed by this policy, Bechtel will not trade, sell, or rent personal information but may collect, or provide aggregate statistics about its websites and their users to other parties who do not provide services directly to Bechtel.
+
+Except in rare circumstances where Bechtel is required by law to disclose or otherwise process your personal information, Bechtel will only process your personal information as necessary for the purposes explained to you when the information is collected or otherwise set out in this policy. Bechtel will not collect your personal information unless it has concluded that it has a legitimate interest in pursuing the relevant purpose. We may occasionally ask for your consent to allow us to process your personal information – for example, if we wish to use images of you in published materials relating to an event that you attended.
+
+**Disclosures**
+
+Bechtel entities may share personal information about you between themselves, and they may disclose your personal information to technology and other service providers, including professional advisors, who hold and process the information on their behalf.
+
+Bechtel may also disclose your personal information if it has a good faith belief that this is necessary for the legal and compliance purposes set out above. For these purposes, we may, for example, disclose information about you to courts and litigation counterparties, insurers, the police and other competent governmental authorities.
+
+As we continue to develop our business, we might sell or buy assets. In such transactions, personal information is generally one of the transferred business assets. Also, if either Bechtel itself or substantially all of Bechtel’s assets were acquired, personal information may be one of the transferred assets. Therefore, we may disclose and/or transfer personal information to a third party purchaser in these circumstances.
+
+If your personal information is collected or processed by a Bechtel entity within the European Economic Area (the "EEA") or the United Kingdom (the “UK”), you should be aware that the disclosures described above may include transfers of your personal information to recipients outside the EEA or the UK, including recipients in countries (such as the United States) which do not have data privacy laws as strict as those in the EEA and the UK. Personal information transferred to Bechtel entities in the United States is protected by the commitments made by Bechtel through its participation in the EU-US Privacy Shield discussed below. Where your personal information is transferred to other Bechtel entities, or to third party service providers, in countries without strict data privacy laws, the information will be protected by data transfer agreements in the appropriate form approved for this purpose by the European Commission – if you would like further information about these agreements, or to see a copy of any of them, please contact us as described below.
+
+**Your data protection rights**
+
+You have a right to access the information that Bechtel collects about you, and related rights to require your information to be corrected if it is inaccurate, to object to our processing of your information and, in some circumstances, to require us to delete your information or restrict its processing. If you want to exercise any of these rights, or withdraw a consent that you have given to our processing of your personal information, please contact us at [Privacy@bechtel.com](mailto:Privacy@bechtel.com?subject=Bechtel%20Website%20Privacy%20Policy). If your information is held by a Bechtel entity in the EEA or the UK you also have the right to lodge a complaint with the relevant data protection authority, either in the EEA member state or the UK where the Bechtel entity is located or in your own EEA member state or the UK (see also the discussion of complaints in the EU-US Privacy Shield section of this policy, below).
+
+**Opt Out**
+
+If you no longer wish to receive our marketing communications, you may opt out of receiving them by following the instructions included in each newsletter.
+
+**Retention of Your Personal Information**
+
+Bechtel will retain your personal information as follows (or longer if required by law), and will then promptly delete the information:
+
+  * We retain personal information in accordance with Bechtel's records management policies (unless we delete the information earlier at your request). You may contact Bechtel at [Privacy@bechtel.com](mailto:Privacy@bechtel.com?subject=Bechtel%20Website%20Privacy%20Policy) for more information on record retention periods. 
+
+
+
+**EU-US Privacy Shield**
+
+Bechtel complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the UK to the United States in reliance on Privacy Shield. Bechtel has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information.1 Bechtel may be liable for onward transfers to third parties in violation of the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [www.privacyshield.gov](https://www.privacyshield.gov/welcome).
+
+In compliance with the EU-US Privacy Shield Principles, Bechtel commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and UK individuals with inquiries or complaints regarding this privacy policy should first contact Bechtel at: [Privacy@bechtel.com](mailto:Privacy@bechtel.com?subject=Bechtel%20Website%20Privacy%20Policy).
+
+Bechtel commits to cooperate with the panel established by the EU data protection authorities ('DPAs') to address any complaints and comply with the advice given by the panel with regard to personal information transferred to the United States from the EEA and the UK. Bechtel's referral of complaints to the DPAs is provided at no cost to you.
+
+The U.S. Federal Trade Commission has jurisdiction over Bechtel's compliance with the Privacy Shield Principles. Under certain conditions, individuals also have the possibility of invoking binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other available mechanisms – this is explained in Annex 1 to the Privacy Shield Principles (see <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>).
+
+**Contact Us**
+
+If you have any questions or comments regarding this Privacy Policy or our information collection practices, please contact us by sending an email to Bechtel’s Chief Privacy Officer at: [Privacy@bechtel.com](mailto:Privacy@bechtel.com?subject=Bechtel%20Website%20Privacy%20Policy), or by writing to:
+
+Bechtel Global Corporation
+
+12011 Sunset Hills Road  
+Suite 110  
+Reston, VA 20190
+
+[1] In addition to Bechtel Corporation, the following other Bechtel companies adhere to the Privacy Shield Principles: American Bechtel, Inc.; Bechtel Enterprises, Inc.; Bechtel Equipment Operations, Inc.; Bechtel Global Corporation; Bechtel Global Services, Inc.; Bechtel Group, Inc.; Bechtel Hydrocarbon Technology Solutions, Inc.; Bechtel Infrastructure and Power Corporation; Bechtel Infrastructure Corporation; Bechtel International Systems, Inc.; Bechtel International, Inc.; Bechtel Mining & Metals, Inc.; Bechtel National, Inc.; Bechtel Oil, Gas and Chemicals, Inc.; Bechtel Power Corporation; Bechtel Supplier Quality and Expediting Inc.; and BNT International Corporation.
