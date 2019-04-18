@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209045035id_/https%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418105551id_/https%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Checkatrade: Checkatrade privacy notice
 
@@ -28,11 +28,11 @@ It is important to note that in order to become a Checkatrade member that you wi
 
 None of the information you provide will ever be used for any other purpose without your permission. If any of the data is missing from the application form or is incorrect, we may not be able to process your application. 
 
-### If you are visiting our website
+### Using Checktrade
 
 If you are visiting our website then we will collect information about your computer which includes your I.P. address. We collect this information as it allows us to monitor how effective our website is and how easily it is for you to get around. We also use Cookies, which are little bits of code that attach to your web browser and again help us to see how the site is working. You can read more about cookies and how to manage them [here](https://www.checkatrade.com/About/Cookies.aspx). 
 
-### If you provide us with member feedback
+We monitor calls made to Traders via Checkatrade.com so that we can better understand the service provided by our members. If you call a Trader using a telephone number listed on our website we will store a record of your telephone number and we may contact you for market research purposes and to find out more about your experience with our members. 
 
 When you use a Checkatrade member they will provide you with a feedback form to fill in and return to us. We use the feedback forms to collect information about our members so that we can make sure they are providing the best service. In order to validate feedback we ask you for the following personal information: 
 
@@ -66,6 +66,8 @@ Some of the data that we collect may be transferred to and stored at a destinati
 
 We respect your privacy and that’s why we don’t share or sell your data to any third parties. However, on occasion and in addition to the above, we will pass your information to a limited number of third parties for the following reasons: 
 
+    * To enable carefully selected partners to provide you with member benefits such as discounted rates on materials, vehicles or tools and Public Liability Insurance
+    * To allow us to carry out certain background checks including sharing data with local Trading Standards offices
     * To deliver the services you’ve asked for including passing details to payment providers
     * For legal or regulatory purposes including fraud prevention
     * If we buy or sell any business or company assets
@@ -86,6 +88,7 @@ If you’d like to see the personal information that we hold about you, you can 
 
 To action any of the above, send an email to: [contact@checkatrade.com](mailto:contact@checkatrade.com) or alternatively you can write to us at: 
 
+Data Protection Officer  
 Checkatrade Head Office  
 5 - 6 Sherrington Mews, Ellis Square,  
 Selsey,  
@@ -127,9 +130,9 @@ If, at any time, you feel that we haven’t processed your data fairly or you’
 
 This notice will be updated from time to time and we recommend that you check back regularly but we will notify you of any changes through our website. The version number and date released will always be listed below:
 
-Version number: 1.0
+Version number: 1.2
 
-Date released: July 2018
+Date released: January 2019
 
 
 
