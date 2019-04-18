@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legends-decks.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215194033id_/https%3A//www.legends-decks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legends-decks.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419011448id_/https%3A//www.legends-decks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legends Decks - The Elder Scrolls: Legends
 
@@ -24,7 +24,7 @@ We may use the information we collect from you when you register, make a purchas
 ### How do we protect visitor information?
 
   * We do not use vulnerability scanning and/or scanning to PCI standards.
-  * We do not use an SSL certificate.
+  * We use an SSL certificate.
   * We only provide articles and information, and we never ask for personal or private information.
 
 
