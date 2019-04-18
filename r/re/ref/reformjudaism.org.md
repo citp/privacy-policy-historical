@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reformjudaism.org privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221142230id_/http%3A//urj.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reformjudaism.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418205132id_/http%3A//urj.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | URJ
 
