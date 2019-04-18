@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalparkstraveler.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418170058id_/http%3A//www.nationalparkstraveler.com/item/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalparkstraveler.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418030135id_/https%3A//www.nationalparkstraveler.org/item/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Parks Traveler
 
@@ -6,7 +6,7 @@ NATIONAL PARKS TRAVELER AND NATIONAL PARKS TRAVELER WEBSITE
 
 Last updated – Ma 14, 2017
 
-This Privacy Policy applies to information collected at [www.nationalparkstraveler.org](http://www.nationalparkstraveler.org/), and online services owned or operated by National Parks Traveler (Site).
+This Privacy Policy applies to information collected at [www.nationalparkstraveler.org](https://www.nationalparkstraveler.org/), and online services owned or operated by National Parks Traveler (Site).
 
 By accessing and continuing to use the Site you acknowledge that you have read and that you agree to the practices described in this Privacy Policy and the Site may use the information provided in accordance with this Privacy Policy.
 
