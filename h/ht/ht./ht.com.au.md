@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504144557id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418054145id_/https%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
 
 # Security &amp; Privacy Policy | Purchasing Information | ht.com.au
 
-Read about our commitment to ensuring the privacy of your information. If you can't find the information you need, please use the [Make an Enquiry](http://www.ht.com.au/form/enquiry/forms.hts) page or phone **1300 13 9999** and get help from a Customer Service representative. 
+Read about our commitment to ensuring the privacy of your information. If you can't find the information you need, please use the [Make an Enquiry](https://www.ht.com.au/form/enquiry/forms.hts) page or phone **1300 13 9999** and get help from a Customer Service representative. 
 
 #### How We Handle Customer Information
 
