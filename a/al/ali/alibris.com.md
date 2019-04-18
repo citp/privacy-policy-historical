@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917122438id_/http%3A//www.alibris.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418083644id_/https%3A//www.alibris.com/policies/privacy) for the most accurate reproduction.*
 
 # Help Center Home - Help & Customer Service - Alibris
 
