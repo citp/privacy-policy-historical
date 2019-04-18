@@ -1,27 +1,16 @@
-> *The following text is extracted and transformed from the mamapedia.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102000656id_/http%3A//www.mamapedia.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamapedia.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418134739id_/https%3A//www.mamapedia.com/static/privacy) for the most accurate reproduction.*
 
 # Mamapedia™
 
-Effective Date: 10/05/2010
-
-  1. A Note About Children
-  2. When Does The Company Collect My Information, Including Personally Identifiable Information?
-  3. How Is My Personally Identifiable Information Used By The Company?
-  4. Who Does the Company Share My Information With?
-  5. Use Of Other Members’ Information
-  6. Security Measures
-  7. Compromise of Personal Information
-  8. Notification Procedures
-  9. Contacting Us
-  10. Acceptance of Privacy Policy
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/mamapedia.com).  
 
 
-
-## A Note About Children
+Effective Date: 8/1/2013
 
 Children (i.e. those persons under the age of 18), are not eligible to use any of the Company Sites without supervision. We thus ask that children do not submit any information to us. If you are under the age of 18 and want to use any of the Company Sites, you may only do so under the supervision of your legal parents or guardians.
 
-## When Does The Company Collect My Information, Including Personally Identifiable Information?
+### When Does The Company Collect My Information, Including Personally Identifiable Information?
 
 Registration. When you register, the Company asks for your e-mail address, a user selected user name, and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information (e.g. professional and academic background information, contact information etc).
 
@@ -31,17 +20,19 @@ IP Address. An Internet Protocol (IP) address is unique string of numbers that i
 
 Cookies. A cookie is a small data file that can be placed on your hard drive when you visit certain websites. We use cookies to collect, store and sometimes track information for statistical purposes to improve the services we provide. If you are a registered user, we will use a cookie to save your settings (such as, but not limited to, username and/or password) and to provide customizable and personalized services. These cookies do not enable third parties to access any of your personally identifiable information. Additionally, be aware that if you visit other websites you may be required to accept cookies. Advertisers and partners may also use their own cookies. Additionally, we use Google as a third party vendor of Advertising on our site. Google’s use of the DART cookie enables it to serve ads to you based on your visit to us and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html) We do not control use of DART cookies or any other Advertiser or partner cookies and expressly disclaim responsibility for information collected through them.
 
+Third-Party Advertisers. We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [ Network Advertising Initiative - Consumer Opt Out Page](http://www.networkadvertising.org/managing/opt_out.asp)
+
 Links to Other Sites. The Company Sites contain links to other Web sites. The Company is not responsible for the privacy practices or the content of such Web sites. The Company Sites may also link to web sites that feature Company trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded Web site, as the co-branded Web site may not be under Company’s control.
 
 Information from Other Sources. For reasons such as improving member experience and providing customized communications to our users, the Company may receive information about you from other sources and add it to the information that we have received from you.
 
-## How Is My Personally Identifiable Information Used By The Company?
+### How Is My Personally Identifiable Information Used By The Company?
 
 Customized experience. The Company gathers user information to provide you with a customized experience on our sites. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you visit certain areas of the Company Sites, download free software, enter a contest, order products, or subscribe to a newsletter. If you choose not to register you may not have access to areas that require personal identification.
 
 E-mail. If you register with our site, from time to time, we may e-mail you with informative messages about our services or third party products and services we believe may be of interest to you, such as new features and services, special promotions and updated information. The newsletters may contain code that enables our database to track your usage of the newsletters, including whether the email was opened and/or what links (if any) were clicked. We will combine that information to other information we have about you and may use that information to improve your site experience and/or provide customized e-mail communications to you.
 
-## Who Does the Company Share My Information With?
+### Who Does the Company Share My Information With?
 
 Your privacy is of utmost importance to us. We therefore do not sell, rent or give access to your personal information to third parties for their marketing purposes without your prior consent, except as provided below.
 
@@ -55,36 +46,30 @@ We may gather demographic information from you (for example, your age, education
 
 As we develop our business, we may buy or sell assets, and, depending upon the transaction, your personal information may be one of the transferred assets. In the event that Company is acquired by another company, your personal information may be part of the assets transferred to the acquiring party.
 
-## Use Of Other Members’ Information
+### Use Of Other Members’ Information
 
-As a user of the Company Sites you will have access to other users. personal information. You agree to use this information solely for sharing and requesting referrals and recommendations. The Company and its users shall not tolerate spam of any kind. Accounts suspected of causing spam will be deleted immediately and such users shall not be allowed to register again. You are thus not permitted to contact any user of the Company Sites via email, marketing messages or other kinds of spam without receiving their prior consent. Please feel free to report any users you suspect of using the Site as a platform for spamming by contacting our [webmaster](mailto:webmaster@mamapedia.com).
-
-## Security Measures
+As a user of the Company Sites you will have access to other users’ personal information. You agree to use this information solely for sharing and requesting referrals and recommendations. The Company and its users shall not tolerate spam of any kind. Accounts suspected of causing spam will be deleted immediately and such users shall not be allowed to register again. You are thus not permitted to contact any user of the Company Sites via email, marketing messages or other kinds of spam without receiving their prior consent. Please feel free to report any users you suspect of using the Site as a platform for spamming by contacting our [webmaster](https://www.mamapedia.com/cdn-cgi/l/email-protection#285f4d4a45495b5c4d5a6845494549584d4c4149064b4745).
 
 The Company has security measures in place to protect the loss, misuse and alteration of the information under our control. These security measures include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a secure database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption.
 
-## Compromise of Personal Information
+### Compromise of Personal Information
 
 In the event that your personally identifiable information is compromised as a result of a known or suspected breach of security, the Company will promptly notify you in accordance with the notification procedures set forth in this privacy policy or as otherwise required by applicable law.
 
-## Notification Procedures
+You can manage your email and notice preferences by logging into your account through the Mamapedia website by clicking on your name in the top right of the Mamapedia homepage. Then click on the Edit My Profile link, located to the right of your profile name. On the right hand side of this page you will see the Update My Email Preferences link. Click on this link and you will be shown your current Email preferences, adjust your settings to select the types of emails that you’d like to receive and then click Save Changes. It’s that simple! To adjust your email preferences now, go [here](http://www.mamapedia.com/edit_email_notification_prefs). You can also manage your subscriptions by following subscription management instructions contained in the commercial e-mails that we send you. Please note that even if you unsubscribe from promotional email messages, we may still need to contact you with important transactional information related to your account.
 
 It is the Company’s policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to the Company’s website users via e-mail notice, written or hard copy notice, or through conspicuous posting of such notice on the Company’s website page, as determined by the Company in its sole discretion.
 
-## Contacting Us
-
 We would like to receive your comments and questions about this Privacy Policy. Please address comments or questions regarding the Company’s Privacy Policy to us via e-mail or postal mail at:
 
-[support@mamapedia.com](mailto:support@mamapedia.com)
+[[email protected]](https://www.mamapedia.com/cdn-cgi/l/email-protection#82f1f7f2f2edf0f6c2efe3efe3f2e7e6ebe3ace1edef)   
+or   
+Mamapedia   
+128 N Pitt St, Suite 2   
+Alexandria, VA 22314   
+or   
+(888) 608-8465 
 
-or
+### Acceptance of Privacy Policy
 
-Mamapedia
-
-1032 Irving St. #983
-
-San Francisco, CA 94122-2200
-
-## Acceptance of Privacy Policy
-
-Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company’s Terms and Conditions of Use ([Terms and Conditions](http://www.mamapedia.com/static/terms_and_conditions)). By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company’s Terms and Conditions of Use ([Terms and Conditions](https://www.mamapedia.com/static/terms_and_conditions)). By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes.
