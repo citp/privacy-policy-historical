@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbuzzonline.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229120904id_/https%3A//www.techbuzzonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbuzzonline.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418055744id_/https%3A//www.techbuzzonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Buzz Online
 
@@ -51,5 +51,3 @@ Google, as a third party vendor, uses cookies to serve ads to users on techbuzzo
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense These third-party ad servers or ad networks use technology to the advertisements and links that appear on techbuzzonline.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. techbuzzonline.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-By using TechBuzzOnline.com you accept our cookies and agree to our privacy policy. Accept [Learn More](https://www.techbuzzonline.com/privacy-policy/)
