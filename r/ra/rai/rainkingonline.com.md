@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230160656id_/https%3A//discoverorg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418181518id_/https%3A//discoverorg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,7 @@ The Federal Trade Commission has enforcement authority regarding DiscoverOrg’s
 
 **The General Data Protection Regulation (“GDPR”) 2016/679**
 
-DiscoverOrg endeavors to comply with the provisions of the GDPR as to any information in its possession regarding European Union-based persons (“data subjects”). As such, DiscoverOrg only processes personal information on data subjects where it has a lawful basis to do so, which may include the consent of the person (especially in the case of website visitors who provide their information), performance of a contract, compliance with a legal obligation, or the legitimate interest of the controller or a third party. DiscoverOrg provides notice to all data subjects as required by GDPR Article 13 or 14, as appropriate, and honors the [rights of data subjects](https://pages.discoverorg.com/GDPR-Info-Requested_GDPR-Info-Request-Page.html) provided in Articles 12-23, including the [right to be forgotten](https://pages.discoverorg.com/right-to-be-forgotten-request.html).
+DiscoverOrg endeavors to comply with the provisions of the GDPR as to any information in its possession regarding European Union-based persons (“data subjects”). As such, DiscoverOrg only processes personal information on data subjects where it has a lawful basis to do so, which may include the consent of the person (especially in the case of website visitors who provide their information), performance of a contract, compliance with a legal obligation, or the legitimate interest of the controller or a third party. DiscoverOrg provides notice to all data subjects as required by GDPR Article 13 or 14, as appropriate, and honors the rights of data subjects provided in Articles 12-23, including the right to be forgotten. For any opt-out requests or other inquiries related to privacy, please email [privacy@discoverorg.com](mailto:privacy@discoverorg.com).
 
 ### Security
 
