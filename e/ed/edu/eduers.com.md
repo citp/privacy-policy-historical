@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduers.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522033607id_/http%3A//www.eduers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduers.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418183822id_/https%3A//www.eduers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
