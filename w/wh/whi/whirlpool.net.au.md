@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whirlpool.net.au privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120071646id_/https%3A//whirlpool.net.au/wiki/wp_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whirlpool.net.au privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419003921id_/https%3A//whirlpool.net.au/wiki/wp_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
