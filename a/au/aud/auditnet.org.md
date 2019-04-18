@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auditnet.org privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805200801id_/https%3A//www.auditnet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auditnet.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418181914id_/https%3A//www.auditnet.org/privacy-policy) for the most accurate reproduction.*
 
 # Contact - Privacy Policy - AuditNet
 
