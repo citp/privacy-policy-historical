@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the embopress.org privacy policy that was archived on 2018-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181107204308id_/http%3A//www.embopress.org/content/embo-press-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the embopress.org privacy policy that was archived on 2019-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190418160959id_/http%3A//www.embopress.org/content/embo-press-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML"><head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book#">
     <!--[if IE]><![endif]-->
@@ -10,7 +10,7 @@
     <link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
 <link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/default/files/css/css_7EHc521FTGO6g1_GsmDIw8WWaA0D1XYvrnFz_rKhGhQ.css" media="all">
 <link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/default/files/css/css_Pos5T-01x-ZRtDsxLUlsslsXpeMm4D3R3hyihQz09ak.css" media="all">
-<link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/all/modules/highwire/highwire/highwire.style.highwire.css?ph4icx" media="all">
+<link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/all/modules/highwire/highwire/highwire.style.highwire.css?ppt5kb" media="all">
 <link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/default/files/css/css_WB52OYbEBue_tXaOvvKbuAToApotLHQf9LNJzZ8FasA.css" media="all">
 <style type="text/css" media="all">
 /* <![CDATA[ */
@@ -36,7 +36,7 @@
 <![endif]-->
 <link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/default/files/css/css_LMF03yfMEuJF3Dz-V1AuRm9L2mZ7ct1mxulqENY-eAU.css" media="all">
 <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:600,regular&amp;subset=latin" media="all">
-<link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/default/files/css/css_IEjvlUyyLIiVhQTllS_qfjMGl_YpKDueo645KPo6aFs.css" media="all">
+<link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/default/files/css/css_5t7Oe3jjzSX5lYPVCwQ_gycv_YIkMgjevsg34msHQEs.css" media="all">
 <link type="text/css" rel="stylesheet" href="//www.embopress.org/sites/default/files/css/css_LdF_SYvm0FycHY0P363UyWp6s2vXizxl8GefnDtBwAE.css" media="all">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 <!--//--><![CDATA[//><!--
@@ -48,7 +48,7 @@
 
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/libraries/modernizr/modernizr.min.js?ph4icx"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/libraries/modernizr/modernizr.min.js?ppt5kb"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 yepnope({
@@ -67,34 +67,43 @@ googletag.slots = googletag.slots || {};
 //--><!]]>
 </script>
 <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
-<script type="text/javascript" src="http://www.embopress.org/misc/drupal.js?ph4icx"></script>
+<script type="text/javascript" src="http://www.embopress.org/misc/drupal.js?ppt5kb"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 googletag.slots["leaderboard_ad"] = googletag.defineSlot("/2215/EMBO_Highwire/PressHomePage_LDB", [728, 90], "dfp-ad-leaderboard_ad")
   .addService(googletag.pubads());
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/js/highwire.equal-heights.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/js/highwire.panels-ajax-tab.js?ph4icx"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/js/highwire.equal-heights.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/js/highwire.panels-ajax-tab.js?ppt5kb"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 googletag.cmd.push(function() {
   googletag.pubads().enableAsyncRendering();
   googletag.pubads().enableSingleRequest();
   googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().addEventListener("slotRenderEnded", function (event) {
+    if (event.isEmpty) {
+      var id = event.slot.getSlotElementId();
+      var x = document.getElementById(id);
+      if (x.parentElement.classList.contains("dfp-tag-wrapper")) {
+        x.parentElement.style.display = "none";
+      }
+    }
+  });
 });
 
 googletag.enableServices();
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/contrib/colorbox/js/colorbox.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/highwire_log/highwire_log.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/highwire_nps_survey/js/nps_survey.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/highwire_user/js/highwire_user_meta.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/contrib/panels/js/panels.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?ph4icx"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/contrib/colorbox/js/colorbox.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/highwire_log/highwire_log.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/highwire_nps_survey/js/nps_survey.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/highwire_user/js/highwire_user_meta.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/contrib/panels/js/panels.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?ppt5kb"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-45281774-1", {"cookieDomain":"auto"});ga("set", "page", location.pathname + location.search + location.hash);ga("send", "pageview");ga('create', 'UA-189672-55', 'auto', {'name': 'hwTracker'});
@@ -102,15 +111,15 @@ ga('set', 'anonymizeIp', true);
 ga('hwTracker.send', 'pageview');
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/highwire/jcore_1/js/theme-scripts.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/shared/jcore_embo_umbrella/js/global-embo.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/contrib/omega/omega/js/jquery.formalize.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/contrib/omega/omega/js/omega-mediaqueries.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/contrib/omega/omega/js/omega-equalheights.js?ph4icx"></script>
-<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/highwire_responsive/js/highwire-mediaqueries.js?ph4icx"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/highwire/jcore_1/js/theme-scripts.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/shared/jcore_embo_umbrella/js/global-embo.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/contrib/omega/omega/js/jquery.formalize.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/contrib/omega/omega/js/omega-mediaqueries.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/themes/contrib/omega/omega/js/omega-equalheights.js?ppt5kb"></script>
+<script type="text/javascript" src="http://www.embopress.org/sites/all/modules/highwire/highwire/highwire_responsive/js/highwire-mediaqueries.js?ppt5kb"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"jcore_embo_umbrella","theme_token":"Y5tupSMfth-AZaB9W4ZfA1c4L824F8w6T22pFJw-v4g","js":{"0":1,"sites\/all\/libraries\/modernizr\/modernizr.min.js":1,"1":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.equal-heights.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.panels-ajax-tab.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_log\/highwire_log.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_nps_survey\/js\/nps_survey.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/js\/highwire_user_meta.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/themes\/highwire\/jcore_1\/js\/theme-scripts.js":1,"sites\/all\/themes\/shared\/jcore_embo_umbrella\/js\/global-embo.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/js\/highwire-mediaqueries.js":1,"sites\/all\/libraries\/enquire.js\/enquire.min.js":1,"3":1,"4":1,"5":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"6":1,"7":1,"8":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/omega-equalheights.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/default\/modules\/custom\/embopress_misc\/embopress_misc.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_draw\/css\/highwire-draw.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_folders\/highwire_folders.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/css\/highwire-responsive.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_saved_searches\/highwire_saved_searches.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/highwire_user.css":1,"sites\/all\/modules\/shared\/jnl_embo_styles\/embo-shared-styles.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/google_admanager\/google_admanager.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire.style.highwire.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/nlm-elements.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"0":1,"1":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"2":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"3":1,"sites\/all\/themes\/highwire\/jcore_1\/eu_cookie_compliance.css":1,"sites\/all\/themes\/shared\/jcore_embo_umbrella\/css\/global-embo.css":1,"sites\/all\/themes\/shared\/jcore_embo_umbrella\/css\/global-embo-fonts.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/font-awesome-ie7.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/highwire-forms.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:600,regular\u0026subset=latin":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/font-awesome.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/forms.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/global.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/jquery-ui-elements.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/text.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"sites\/all\/themes\/shared\/jcore_embo_umbrella\/css\/colors.css":1,"normal::sites\/all\/themes\/highwire\/jcore_1\/css\/jcore-1-jcore-default.css":1,"normal::sites\/all\/themes\/highwire\/jcore_1\/css\/jcore-1-jcore-default-normal.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/grid\/jcore_default\/normal\/jcore-default-normal-30.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"urlIsAjaxTrusted":{"\/content\/embo-press-privacy-policy":true},"highwireResponsive":{"enquire_enabled":1,"breakpoints_configured":1,"breakpoints":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackUrlFragments":1},"color":{"logo":"http:\/\/www.embopress.org\/sites\/all\/themes\/highwire\/jcore_1\/logo.png"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"jcore_embo_umbrella","theme_token":"xetqriM7dF9HK4hWhZNu4DTPwA_fx-sueBPdjsC9Gos","js":{"0":1,"sites\/all\/libraries\/modernizr\/modernizr.min.js":1,"1":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.equal-heights.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.panels-ajax-tab.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_log\/highwire_log.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_nps_survey\/js\/nps_survey.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/js\/highwire_user_meta.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/themes\/highwire\/jcore_1\/js\/theme-scripts.js":1,"sites\/all\/themes\/shared\/jcore_embo_umbrella\/js\/global-embo.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/js\/highwire-mediaqueries.js":1,"sites\/all\/libraries\/enquire.js\/enquire.min.js":1,"3":1,"4":1,"5":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"6":1,"7":1,"8":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/omega-equalheights.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/default\/modules\/custom\/embopress_misc\/embopress_misc.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_draw\/css\/highwire-draw.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_folders\/highwire_folders.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/css\/highwire-responsive.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_saved_searches\/highwire_saved_searches.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/highwire_user.css":1,"sites\/all\/modules\/shared\/jnl_embo_styles\/embo-shared-styles.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/google_admanager\/google_admanager.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire.style.highwire.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/nlm-elements.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"0":1,"1":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"2":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"3":1,"sites\/all\/themes\/highwire\/jcore_1\/eu_cookie_compliance.css":1,"sites\/all\/themes\/shared\/jcore_embo_umbrella\/css\/global-embo.css":1,"sites\/all\/themes\/shared\/jcore_embo_umbrella\/css\/global-embo-fonts.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/font-awesome-ie7.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/highwire-forms.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:600,regular\u0026subset=latin":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/font-awesome.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/forms.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/global.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/jquery-ui-elements.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/text.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"sites\/all\/themes\/shared\/jcore_embo_umbrella\/css\/colors.css":1,"normal::sites\/all\/themes\/highwire\/jcore_1\/css\/jcore-1-jcore-default.css":1,"normal::sites\/all\/themes\/highwire\/jcore_1\/css\/jcore-1-jcore-default-normal.css":1,"sites\/all\/themes\/highwire\/jcore_1\/css\/grid\/jcore_default\/normal\/jcore-default-normal-30.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"urlIsAjaxTrusted":{"\/content\/embo-press-privacy-policy":true},"highwireResponsive":{"enquire_enabled":1,"breakpoints_configured":1,"breakpoints":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackUrlFragments":1},"color":{"logo":"http:\/\/www.embopress.org\/sites\/all\/themes\/highwire\/jcore_1\/logo.png"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
 //--><!]]>
 </script>
     <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -133,8 +142,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 
     <div class="content clearfix">
       <div id="dfp-ad-leaderboard_ad-wrapper" class="dfp-tag-wrapper">
+<div class="slug">Advertisement</div>
 <div id="dfp-ad-leaderboard_ad" class="dfp-tag-wrapper">
-  <div class="slug">Advertisement</div>  <script type="text/javascript">
+  <script type="text/javascript">
     googletag.cmd.push(function() {
       googletag.display("dfp-ad-leaderboard_ad");
     });
@@ -207,7 +217,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div class="region-inner region-branding-inner">
         <div class="branding-data clearfix">
             <div class="logo-img">
-        <a href="/" rel="home" class="" data-icon-position="" data-hide-link-title="0"><img alt="" src="http://www.embopress.org/sites/default/files/color/jcore_embo_umbrella-a9eafaa0/logo.png"></a>      </div>
+        <a href="/" rel="home" class="" data-icon-position="" data-hide-link-title="0"><img alt="" src="http://www.embopress.org/sites/default/files/color/jcore_embo_umbrella-a2e20307/logo.png"></a>      </div>
                         <hgroup class="site-name-slogan">        
                                 <h2 class="site-name"><a href="/" title="Home" class="" data-icon-position="" data-hide-link-title="0">EMBO Press</a></h2>
                               </hgroup>
@@ -241,7 +251,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label class="element-invisible" for="edit-keywords">Search for this keyword </label>
  <input placeholder="search" type="text" id="edit-keywords" name="keywords" value="" size="60" maxlength="128" class="form-text">
 </div>
-<div class="button-wrapper button-mini"><i class="icon-search"></i><input data-icon-only="1" data-font-icon="icon-search" data-icon-position="after" type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-kWsFETYtQxhgUDSKbuVSSfsWrF0nM4AtHbcRRxcbKqc">
+<div class="button-wrapper button-mini"><i class="icon-search"></i><input data-icon-only="1" data-font-icon="icon-search" data-icon-position="after" type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-89P-o5BGO40weoCxjXVFAL4il9znN0xVw5CWQ2L70qE">
 <input type="hidden" name="form_id" value="highwire_search_quicksearch_form_0">
 </div></form>  </div>
 
@@ -283,7 +293,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label class="element-invisible" for="edit-keywords--2">Search for this keyword </label>
  <input placeholder="Search..." type="text" id="edit-keywords--2" name="keywords" value="" size="60" maxlength="128" class="form-text">
 </div>
-<div class="button-wrapper button-mini"><i class="icon-search"></i><input data-icon-only="1" data-font-icon="icon-search" data-icon-position="after" type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-FHzsfDaSq_OFHhgb9FvFqjKHSmNAn7erzTQv0OD-v_s">
+<div class="button-wrapper button-mini"><i class="icon-search"></i><input data-icon-only="1" data-font-icon="icon-search" data-icon-position="after" type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-FTxEM9Vqfeh0NPMBPzx_Ckp3aHUQaJfafr7BfarP_yQ">
 <input type="hidden" name="form_id" value="highwire_search_quicksearch_form_1">
 </div></form>  </div>
 
@@ -565,7 +575,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <script type="text/javascript">
   var ord = window.ord || Math.floor(Math.random() * 1e16);
   document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N2215/adj/EMBO_Highwire/PressHomePage;sz=300x250;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N2215/adj/EMBO_Highwire/PressHomePage;sz=300x250;ord=355577159866773?"></script><noscript>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N2215/adj/EMBO_Highwire/PressHomePage;sz=300x250;ord=5732083173068905?"></script><noscript>
 <a href="http://ad.doubleclick.net/N2215/jump/EMBO_Highwire/PressHomePage;sz=300x250;ord=[timestamp]?">
 <img src="http://ad.doubleclick.net/N2215/ad/EMBO_Highwire/PressHomePage;sz=300x250;ord=[timestamp]?" width="300" height="250" />
 </a>
@@ -704,7 +714,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
       
   <div class="snippet-content">
-    <p class="rteright">Copyright© 2018 EMBO<img alt="" class="footer-embopress" src="/sites/default/files/embo_press_logo_footer.png" style="width: 130px; height: 30px;"><img alt="" class="footer-embo" src="/sites/default/files/embo_logo_footer.png" style="width: 50px; height: 30px;"><img alt="" class="footer-wiley" src="/sites/default/files/footer_wiley_logo_umbrella.png" style="width: 96px; height: 20px;"><img alt="" class="footer-highwire" src="/sites/default/files/footer_highwireLogo_umbrella.png" style="width: 130px; height: 43px;"></p>  </div>
+    <p class="rteright">Copyright© 2019 EMBO<img alt="" class="footer-embopress" src="/sites/default/files/embo_press_logo_footer.png" style="width: 130px; height: 30px;"><img alt="" class="footer-embo" src="/sites/default/files/embo_logo_footer.png" style="width: 50px; height: 30px;"><img alt="" class="footer-wiley" src="/sites/default/files/footer_wiley_logo_umbrella.png" style="width: 96px; height: 20px;"><img alt="" class="footer-highwire" src="/sites/default/files/footer_highwireLogo_umbrella.png" style="width: 130px; height: 43px;"></p>  </div>
 
 </div>
   </div>
@@ -722,7 +732,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </footer>  </div>    <div class="region region-page-bottom" id="region-page-bottom">
   <div class="region-inner region-page-bottom-inner">
       </div>
-</div><script type="text/javascript" src="http://www.embopress.org/sites/all/libraries/enquire.js/enquire.min.js?ph4icx"></script>
+</div><script type="text/javascript" src="http://www.embopress.org/sites/all/libraries/enquire.js/enquire.min.js?ppt5kb"></script>
   
 
 </body></html>
