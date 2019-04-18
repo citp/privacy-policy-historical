@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetnation.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908124038id_/https%3A//forums.jetnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetnation.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418202235id_/https%3A//forums.jetnation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JetNation.com
 
