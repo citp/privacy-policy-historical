@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stdibs.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229015120id_/https%3A//www.1stdibs.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stdibs.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418053323id_/https%3A//www.1stdibs.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for 1stdibs.com
 
@@ -14,7 +14,7 @@ For the purposes of the EU General Data Protection Regulation 2016/679 (the "GDP
 
 1\. Effective date and updates to our Privacy Policy.
 
-This Privacy Policy is effective as of May 25, 2018. As our services evolve and we perceive the need or desirability of collecting or using information collected in other ways, we may from time to time amend this Privacy Policy and will provide a new effective date on the revised Privacy Policy. We encourage you to check our Site frequently to see the current Privacy Policy and User Agreement in effect and any changes that may have been made to them.
+This Privacy Policy is effective as of January 29th, 2019. As our services evolve and we perceive the need or desirability of collecting or using information collected in other ways, we may from time to time amend this Privacy Policy and will provide a new effective date on the revised Privacy Policy. We encourage you to check our Site frequently to see the current Privacy Policy and User Agreement in effect and any changes that may have been made to them.
 
 2\. Information 1stdibs.com collects from you.
 
@@ -31,6 +31,10 @@ a) Information you give us
  _Creating an account_
 
 . To take advantage of some of our services you are required to register and create an account via the Sign Up page on our Site. When you open an individual account at 1stdibs.com, we ask you to provide Personal Information (such as your name, address, phone number, email address, business affiliation and contact information). All 1stdibs.com account holders are required to create a user password that, combined with your login email address, allows access to your account. This Personal Information is used to identify you as a 1stdibs.com registered user.
+
+ _Saving an item_
+
+. Users may save items to their favorites by clicking the heart or folder icon for an item. If you have created an account, your saved items are stored in the favorites folders associated with your account. Items are saved until you remove them.
 
  _Facebook log-in_
 
@@ -116,6 +120,8 @@ We reveal your Personal Information to unaffiliated third parties when you reque
 
 Where you use our Site to enter into a transaction or correspond with another individual or business registered as a seller on our Site, we provide your Personal Information to that other party in order to facilitate the transaction or the correspondence you have requested. Once your offer is submitted, your Personal Information will be delivered by 1stdibs.com to that seller, and your order will be placed.
 
+When a US user contacts a seller, 1stdibs may share your search terms, or items you have viewed, saved, or purchased with that seller. You can disable sharing this information with sellers by updating the profile preferences in your account.
+
 Third parties who will have access to your Personal Information include (without limitation) sellers selling items on the Site that you have contacted or made a purchase from, shipping companies selected by you or the dealer, and payment processors completing a transaction at your request.
 
 Sellers from whom you purchase items may use your Personal Information for their own purposes including marketing purposes. Sellers will have their own privacy practices regarding the information they receive. We encourage you to read such applicable privacy policies. We are not responsible for the processing of your Personal Information by such third parties.
@@ -141,6 +147,8 @@ In addition, sellers registered on the Site are located around the world. Due to
 8\. How you can access and amend your Personal Information.
 
 You are required to provide us with accurate and up to date Personal Information. 1stdibs.com gives you the ability to amend your Personal Information at any time by accessing your account on our Site (by clicking on the "account details" link on the website homepage or the Account icon on the mobile application), modifying the Personal Information on your account page, acknowledging our User Agreement by clicking on the box at the bottom of the page and then clicking on submit.
+
+If you do not want to share search terms, or items you have viewed, saved, or purchased history with sellers you contact, you can update your profile preferences on your account page at any time.
 
 Subject to any legislation which might, from time to time, oblige us to store the Personal Information for a certain period of time, we will respect your wishes to correct inaccurate Personal Information. Otherwise, we will hold your Personal Information for as long as we believe it will help us to achieve our aims as detailed in this Privacy Policy.
 
