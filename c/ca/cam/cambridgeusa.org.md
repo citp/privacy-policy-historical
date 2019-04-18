@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgeusa.org privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718102746id_/https%3A//www.cambridgeusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgeusa.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418023308id_/https%3A//www.cambridgeusa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cambridge Office of Tourism
 
