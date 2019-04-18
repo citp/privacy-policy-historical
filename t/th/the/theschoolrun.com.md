@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825223038id_/https%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418172525id_/https%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
 
 # TheSchoolRun's privacy policy | TheSchoolRun
 
-This policy (together with our [terms and conditions](https://www.theschoolrun.com/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms and conditions](https://www.theschoolrun.com/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
+
+**Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998, the EC Communications Directive 2003, PECR 2003 and PECR II.
 
-If you signed up to our service prior to 25th May 2018, you provided consent for us to contact you via email communication via a soft-opt in option, having shown a legitimate interest. You can at any time go back to the My newsletter preference area of your account and change your email settings.
+If you signed up to our service prior to 25 May 2018, you provided consent for us to contact you via email communication via a soft-opt in option, having shown a legitimate interest. You can at any time go back to the My newsletter preference area of your account and change your email settings.
 
 We collect information about you for three reasons: firstly, to process your order, secondly, to submit your competition/prize draw entries (when applicable) and thirdly, to provide you with the best possible service.
 
@@ -62,9 +64,9 @@ We may disclose your personal information to third parties:
 
 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting our [Customer Services](mailto:enquiries@theschoolrun.com) team.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting our [Customer Services](mailto:enquiries@theschoolrun.com) team.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
