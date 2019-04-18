@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509000129id_/http%3A//cactusmedia.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418094544id_/https%3A//cactusmedia.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Cactus Media - The Leader In Performance Based Marketing!
 
 Privacy Policy
 
-Last Updated September 24, 2007
+Last Updated May 23, 2018
 
 This Privacy Policy governs your use of this web site and any content, products or services made available from or through this website including any sub domains thereof ("Web Site"). The Website is made available by Cactus Media, a registered d/b/a of Search Cactus, LLC, hereafter referred to as "Company". 
 
 By visiting this Web Site and requesting information, products or services offered on or through this Web Site, you agree to the terms of this Privacy Policy, as they may be amended from time to time. As Company updates or expands its Web Site, services or products, this Privacy Policy may change and the changes are effective upon posting. Please check back frequently for updates as it is your sole responsibility to be aware of changes. Company does not provide notice of changes in any manner other than by posting the changes at this Web Site. This Privacy Policy is incorporated into, and part of, the Web Site Terms and Conditions of use ("Terms of Use"), which governs your use of this Web Site in general. 
 
 This Web Site is intended for users who are located in the United States of America. The Privacy Policy shall be interpreted under the laws of the United States. 
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online 
 
 **Purpose of the Privacy Policy**
 
@@ -24,13 +28,17 @@ By providing us with your personal information on our website or in the course o
 
 This policy applies to Company's collection, use, storage and disclosure of information by Company on its, (a) websites, including all its parent companies, divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various third party websites, and (c) to Company's other information collection, including the transfer of opt-in customer lists from third parties, or the use of customer opt-in lists from third parties. Company is not responsible for the information collection or privacy practices of third party websites or applications. 
 
+**Information Collection, Use, and Dissemination practices**
+
+This policy applies to Company's collection, use, storage and disclosure of information by Company on its, (a) websites, including all its parent companies, divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various third party websites, and (c) to Company's other information collection, including the transfer of opt-in customer lists from third parties, or the use of customer opt-in lists from third parties. Company is not responsible for the information collection or privacy practices of third party websites or applications. 
+
 **Collection of Information**
 
 **1.1   User Direct Information :  
 ** Each time you provide transmit information via the Website, Company may obtain and collect personally identifiable information provided by you, including, but not limited to, your name, email address, mailing address, social security number, credit card information, and telephone or cell phone number. You may also provide us with information that, when combined with personally identifiable information, provides us with a better idea of who you are, including but not limited to your gender, birthday, marital status, and education level (collectively referred to as "personal information"). If you choose to access our website, use our services or purchase our products, we may require you to provide personal information as indicated on the forms throughout the site. 
 
 **1.2   Survey Information :  
-** Company may collect information from you when you voluntarily complete a Company survey, order form, or a registration page either online by using the internet, offline by providing this information through the mail, in person or using a telephone. This information may be collected by surveys, order forms, or registration pages operated by third parties. This method of collection is collectively known as a "Survey." In such Surveys, Company or a third party may ask you to provide personal identifiable information including your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time. Company may also collect such information concerning you from another source and uses that information in combination with information provided from the Websites. Completing the Surveys is completely voluntary, and you are under no obligation to provide Survey Information to Company or a third party. 
+** Company may collect information from you when you voluntarily complete a Company survey, order form, or a registration page either online by using the internet, offline by providing this information through the mail, in person or using a telephone. This information may be collected by surveys, order forms, or registration pages operated by third parties. This method of collection is collectively known as a "Survey." In such Surveys, Company or a third party may ask you to provide personal identifiable information including your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time. Company may also collect such information concerning you from another source and uses that information in combination with information provided from the Websites. Completing the Surveys is completely voluntary, and you are under o obligation to provide Survey Information to Company or a third party. 
 
 **1.3   Third Party Information :  
 ** Company may collect information from you when you provide information to a third party and Company subsequently acquires or uses the information provided by the third party. Such information may include, but is not limited to, your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the you may have provided to the third party. When acquiring this information, Company seeks assurances from the third party that you agreed to provide and have such information acquired by Company. If you did not give express permission, or you would like to remove your permission, you may suppress all of your information by sending notification to us at [support@cactusmedia.com](mailto:support@cactusmedia.com). 
@@ -56,14 +64,20 @@ Company may also collect and accumulate other anonymous data which will help us 
 **(e)   Data Analysis :**  
 Data Analysis technology may be employed from time to time if used by a Client of Company. 
 
-**(f)   New Technology :**  
+**(f)   Updates :**  
 The use of technology on the Internet, including cookies and web beacons, is rapidly developing. As a result, Company strongly encourages individuals to revisit this policy for any updates regarding its use of new technology. 
+
+**(g)   Other :**  
+Overall, cookies help provide you with a better website by enabling us to monitor cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. You can also delete cookies that have already been sent. You may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wised variety of desktop browsers. 
 
 **1.6   No Information Collected from Children :  
 ** Company will never knowingly collect any personal information about children under the age of 13. If Company obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not collect such information, Company has no such information to use or to disclose to third parties. Company has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA"). 
 
 **1.7   Credit Card Information :  
 ** Company may, in certain instances, collect credit card numbers and related information when an individual places an order from Company. When the credit card information is submitted to Company, such information is encrypted and is protected with SSL encryption software. Company will use the credit card information for purposes of processing and completing the purchase transaction, and the credit card information will be disclosed to third parties only as necessary to complete the purchase transaction. 
+
+**1.8   Retention Period :  
+** Any data we collect will be retained by us for 10 years according to the Cactus Media Retention Schedule, unless you request that we destroy the data sooner. 
 
 **Use of Individual Information**
 
@@ -97,7 +111,7 @@ You should also note that unsubscribing from Company's electronic mailings will 
 
 You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints. 
 
-Company may use personal information to provide the services you've requested, including services that display customized content and advertising. Company may also use personal information for auditing, research and analysis to operate and improve our technologies and services. Company may share aggregated and non personal information with third parties business associates. When Company uses business associates to assist Company in processing your personal information, Company requires that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. Company may also share information with third parties, including but not limited to, when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+Company may use personal information to provide the services you've requested, including services that display customized content and advertising. Company may also use personal information for auditing, research and analysis to operate and improve our technologies and services. Company may share aggregated and non-personal information with third parties business associates. When Company uses business associates to assist Company in processing your personal information, Company requires that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. Company may also share information with third parties, including but not limited to, when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
 
 You may remove your information from Company's database. If you remove your information from Company's database it will no longer be used by Company for secondary purposes, disclosed to third parties, or used by Company or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to [support@cactusmedia.com](mailto:support@cactusmedia.com) or by sending "STOP", "END", "QUIT" to the SMS text message you have received. 
 
@@ -108,7 +122,7 @@ You may remove your information from Company's database. If you remove your info
 ** Company uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases. 
 
 **2.11   Storage of Individual Information :  
-** Company stores the Individual Information in a database on its' computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Company's control. Not withstanding such measures, Company cannot guarantee that its security measures will prevent its computers from being illegally accessed, and the Individual Information on them stolen or altered. 
+** Company stores the Individual Information in a database on its' computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Company's control. Notwithstanding such measures, Company cannot guarantee that its security measures will prevent its computers from being illegally accessed, and the Individual Information on them stolen or altered. 
 
 **Use of Personal Information.**
 
@@ -153,9 +167,23 @@ You may remove your information from Company's database. If you remove your info
 **4.3   Affiliations/Merger/Sale :  
 ** Company further reserves the right to disclose, transfer or sell your personal information to companies who are affiliated with Company in Company's sole discretion. If Company changes ownership through an acquisition, merger, sale or other change of business status, it reserves the right to transfer or assign the right to use your Personal Information collected from the Website. 
 
+**Controlling Your Personal Information**
+
+**5.1   Limitation of Use :  
+** Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes. 
+
+**5.2   Requests to Withdraw Consent :  
+** If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@cactusmedia.com](mailto:support@cactusmedia.com) . 
+
+**5.3   Use of Your Information :  
+** We will not sell, distribute or lease your personal information to third parties except as indicated in this Privacy Policy or Â are required by law to do so.Â  We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+**5.4   Details of Personal Information :  
+** You may request details of personal information which we hold about you by writing to Cactus Media at [support@cactusmedia.com](mailto:support@cactusmedia.com) . 
+
 **Foreign use of the Website**
 
-To the extent that you are accessing the Website while domiciled outside of the United States, you acknowledge that the Personal Information you are providing Company is collected and stored in the United States and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States. 
+To the extent that you are accessing the Website while domiciled outside of the United States, you acknowledge that the Personal Information you are providing Company is collected and stored in the United States and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States. Cactus Media does not generally collect personal data except for IP addresses. Cactus Media has taken efforts to ensure compliance with European Union's General Data Protection Regulation ("GDPR"). Cactus Media may change this policy from time to time by updating this page. You should check this page from time to time for important updates. This policy was last updated May 23, 2018.
 
 **California User Consumer Rights**
 
