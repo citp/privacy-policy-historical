@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embopress.org privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107204308id_/http%3A//www.embopress.org/content/embo-press-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embopress.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418160959id_/http%3A//www.embopress.org/content/embo-press-privacy-policy) for the most accurate reproduction.*
 
 # EMBO Press Privacy Policy | EMBO Press
 
