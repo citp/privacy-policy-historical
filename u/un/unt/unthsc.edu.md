@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unthsc.edu privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920222740id_/https%3A//www.unthsc.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unthsc.edu privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418200700id_/https%3A//www.unthsc.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UNT Health Science Center
 
