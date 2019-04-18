@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soros.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221140727id_/https%3A//www.opensocietyfoundations.org/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soros.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418023621id_/https%3A//www.opensocietyfoundations.org/about/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -122,7 +122,7 @@ If you have any questions about the transfer of your personal information, pleas
 
 OSF takes reasonable technical and organizational precautions to prevent the loss, misuse, or alteration of your personal information. We restrict access to those who have a need to know and we train staff in handling the information securely. Unfortunately, there is no such thing as perfect security in the online environment. As a result, we cannot and do not guarantee the security of any information you transmit to us through or in connection with the website.
 
-If you believe that your interaction with us is no longer secure (e.g., you consider that the security of any account you might have with us has been compromised) please immediately notify us by contacting us at [[email protected]](/cdn-cgi/l/email-protection#513530253021233e25343225383e3f113e21343f223e3238342528373e243f353025383e3f227f3e2336).
+If you believe that your interaction with us is no longer secure (e.g., you consider that the security of any account you might have with us has been compromised) please immediately notify us by contacting us at [[email protected]](/cdn-cgi/l/email-protection#157174617465677a617076617c7a7b557a65707b667a767c70616c737a607b7174617c7a7b663b7a6772).
 
   * #### 12\. How long do we keep your personal information?
 
@@ -158,7 +158,7 @@ You have the right to:
 
 We give you choices regarding our use and disclosure of your personal information for marketing purposes. You may opt-out from:
 
-    *  **Receiving electronic communications from us** : If you no longer want to receive marketing-related emails or text messages from us on a going-forward basis, you may opt-out by sending an email to [[email protected]](/cdn-cgi/l/email-protection#fc989d889d8c8e9388999f88959392bc938c99928f939f959988859a938992989d889593928fd2938e9b) or by regular mail using the address provided at section 17. You may also opt out of our email updates by using the unsubscribe link at the bottom of these emails.
+    *  **Receiving electronic communications from us** : If you no longer want to receive marketing-related emails or text messages from us on a going-forward basis, you may opt-out by sending an email to [[email protected]](/cdn-cgi/l/email-protection#2b4f4a5f4a5b59445f4e485f4244456b445b4e45584448424e5f524d445e454f4a5f424445580544594c) or by regular mail using the address provided at section 17. You may also opt out of our email updates by using the unsubscribe link at the bottom of these emails.
 
 We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out of receiving marketing-related emails, text messages, or paper communications from us, we may still send you important administrative messages, from which you cannot opt-out.
 
@@ -174,7 +174,7 @@ OSF may update this privacy policy by posting a new version on our website. If w
 
 OSF’s Data Governance Group is responsible for monitoring compliance with relevant legislation in relation to personal information. You can contact the Data Governance Group if you have any questions about this privacy notice or our treatment of your personal information:
 
- **Email:** [[email protected]](/cdn-cgi/l/email-protection#214540554051534e55444255484e4f614e51444f524e4248445558474e544f454055484e4f520f4e5346)
+ **Email:** [[email protected]](/cdn-cgi/l/email-protection#88ece9fce9f8fae7fcedebfce1e7e6c8e7f8ede6fbe7ebe1edfcf1eee7fde6ece9fce1e7e6fba6e7faef)
 
  **Post:** Data Governance Group, Open Society Foundations, 224 West 57th St, New York, NY 10019
 
