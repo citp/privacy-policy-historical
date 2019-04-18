@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medifee.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120200051id_/http%3A//www.medifee.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medifee.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418095629id_/https%3A//www.medifee.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of MediFee.com
 
@@ -18,4 +18,4 @@ While filling the form for any medical offer or service, user understands that t
 
 **How to opt out?**
 
-If you want to us to delete all of your information we have collected through any forms on the website, please [contact us](http://www.medifee.com/contact.php). 
+If you want to us to delete all of your information we have collected through any forms on the website, please [contact us](https://web.archive.org/contact.php). 
