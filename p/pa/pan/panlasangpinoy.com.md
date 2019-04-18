@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panlasangpinoy.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927141321id_/https%3A//panlasangpinoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panlasangpinoy.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418060235id_/https%3A//panlasangpinoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Panlasang Pinoy
 
@@ -13,6 +13,12 @@ We collect personally identifiable information, like names, postal addresses, em
  **Cookie/Tracking Technology**
 
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+
+To opt-out of being tracked by third-party advertisers, click the links below:
+
+NAI: [optout.networkadvertising.org](http://optout.networkadvertising.org/)
+
+DAA: [optout.aboutads.info](http://optout.aboutads.info/)
 
  **Google Advertising Cookie**
 
