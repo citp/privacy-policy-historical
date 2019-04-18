@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the setupmyhotel.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721185859id_/https%3A//setupmyhotel.com/homepage/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setupmyhotel.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418214825id_/https%3A//setupmyhotel.com/homepage/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/setupmyhotel.com).  
+
 
 At www.setupmyhotel.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.setupmyhotel.com](http://setupmyhotel.com/) and how it is used.
 
