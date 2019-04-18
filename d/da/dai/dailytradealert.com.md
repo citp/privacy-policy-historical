@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929052955id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418114610id_/https%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Trade Alert
 
@@ -37,7 +37,7 @@ While using our Service, we may ask you to provide us with certain personally id
 
 
 
-We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us at this page on our website: http://dailytradealert.com/contact-us/
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us at this page on our website: https://dailytradealert.com/contact-us/
 
 #### Usage Data
 
@@ -140,7 +140,7 @@ You can enable or disable Do Not Track by visiting the Preferences or Settings p
 
 If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Daily Trade Alert, Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us at this page: http://dailytradealert.com/contact-us/
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us at this page: https://dailytradealert.com/contact-us/
 
 In certain circumstances, you have the following data protection rights:
 
@@ -222,4 +222,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us by visiting this page on our website: <http://dailytradealert.com/contact-us/>
+If you have any questions about this Privacy Policy, please contact us by visiting this page on our website: <https://dailytradealert.com/contact-us/>
