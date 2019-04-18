@@ -1,49 +1,117 @@
-> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118102955id_/https%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418052708id_/https%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Magic Toolbox
 
-Magic Toolbox takes your privacy seriously. This Privacy Policy explains what we do with the information collected through your use of this website.
+At Magic Toolbox Limited, we’re committed to protecting and respecting your privacy.
 
-## Website Visitors
+This Policy explains when and why we collect personal information about people who visit our website, how we use it, the conditions under which we may disclose it to others and how we keep it secure.
 
-Like most websites, we collect non-personally-identifying information on the usage of our website such as the number of people that visit the website, what browsers are most common and what pages are most popular. From time to time, we may aggregate this data in a non personally-identifiable way to produce reports on the use of our website.
+We may change this Policy from time to time so please check this page occasionally to ensure that you’re happy with any changes. By using our website, you’re agreeing to be bound by this Policy.
 
-## Personally-Identifying Information
+Any questions regarding this Policy and our privacy practices should be sent by email to [support@magictoolbox.com](mailto:supp%6Fr%74%40%6Da%67ictoolbox.co%6D).
 
-Some visitors to the website provide personally-identifying information. For example, users of our support forum are asked to provide name and email address in order to post messages.
+## Who are we?
 
-Customers purchasing a product are asked to provide their name and email address during the checkout procedure. The billing details, including credit card details, are taken by our payment provider - Google - and are not held by us. Google Checkout has it's own [privacy policy](https://checkout.google.com/files/privacy.html "Opens in new window") that explains how your information is processed and protected.
+We’re Magic Toolbox Limited, the worlds’ leading software company dedicated to designing product image viewers for ecommerce sites. Magic Toolbox Limited is UK limited company (no. 06041171). The registered address is 9 Cowley Road, Oxford, Oxfordshire, OX4 1HP, United Kingdom.
 
-Magic Toolbox does not disclose personally-identifying information to anyone other than its employees, contractors and affiliated organisations that need to know that information in order to process it on our behalf.
+## How do we collect information from you?
 
-If you make a contribution to a forum or blog on our website, such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information.
+We obtain information about you when you use our website, for example, when you contact us about our products, to place an order, leave a review or to register to receive our newsletter.
 
-If you provide feedback about our products or service, your comments, name and website address may be included on our [testimonials page](https://web.archive.org/testimonials/). If you do not want this information published, please [contact us](https://web.archive.org/contact/) and we will remove it.
+## What type of information is collected from you?
 
-Magic Toolbox takes all measures reasonably necessary to protect against the unauthorised access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+The personal information we collect might include your name, address, email address, IP address and information regarding what pages are accessed and when. If you make a purchase from our website, your card information is not held by us, it is collected by our third party payment processors, who specialise in the secure online capture and processing of credit/debit card transactions, as explained below.
 
-Our webservers are located in the United States. Any personally-identifiable information you enter into the website will be transferred out of your country and into the United States. You consent to such transfer through your use of the website. You also warrant that you have the right to transfer such information outside your country and into the United States.
+## How is your information used?
 
-## Security
+We may use your information to:
 
-All information collected on this website is stored on restricted database servers.
+  * Process an order that you have submitted;
+  * carry out our obligations arising from any contracts entered into by you and us;
+  * seek your views or comments on the services we provide;
+  * notify you of changes to our services;
+  * send you communications which you have requested, such as information about discounts and new products that might be of interest to you;
+  * display personalized adverts for Magic Toolbox products via remarketing;
+  * process a grant or job application.
 
-## Email Opt-out
 
-We send email newsletters to our customers and other people that have subscribed via the website. You may opt-out of this at any time on the [newsletter](https://web.archive.org/newsletter/) section of the website.
 
-## Cookies
+We review our retention periods for personal information on a regular basis. We are legally required to hold some types of information to fulfil our statutory obligations (such as UK tax and accounting records). We will hold your personal information on our systems for as long as is necessary for the relevant activity, or as long as is set out in any relevant contract you hold with us.
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Magic Toolbox uses cookies to help us identify and track visitors and their usage of the website. Users who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the Magic Toolbox website.
+## Who has access to your information?
 
-## Privacy Policy Updates
+We will not sell or rent your information to third parties.
 
-This privacy policy may be updated from time to time and changes will be posted on this page.
+We will not share your information with third parties for marketing purposes.
 
-## Review and Access
+When you are paying for a product in our checkout, your payment will be processed by a third party payment processor, who specialises in the secure online capture and processing of credit/debit card transactions.
 
-Upon your request, we will provide you with a summary of the information we collect about you. You may correct, update, modify or delete this information by [contacting us](https://web.archive.org/contact/).
+We use Google Analytics to help us understand how our customers use our website. You can read more about [how Google uses your personal information](https://www.google.com/intl/en/policies/privacy/). You can [opt-out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout).
 
-## Contact Us
+We may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, or if we’re under a duty to disclose or share your personal data in order to comply with any legal obligation or to enforce or apply our terms of use or to protect the rights, property or safety of our supporters and customers. However, we will take steps with the aim of ensuring that your privacy rights continue to be protected.
 
-If you have any questions about this policy or our site in general, please [contact us](https://web.archive.org/contact/).
+## Your choices
+
+You have a choice about whether or not you wish to receive information from us. If you do not want to receive email marketing communications from us about the license you have purchased from us or other product news that we share from time to time, then you can click the unsubscribe link in any email we send you.
+
+We will not email you for marketing purposes unless you have given your prior consent.
+
+## How you can access and update your information
+
+The accuracy of your information is important to us. You can login to your [Magic Toolbox account](https://www.magictoolbox.com/my-account/) to review and update the information that we hold about you.
+
+You have the right to ask for a copy of the information Magic Toolbox Limited holds about you.
+
+## How we protect your information
+
+When you give us personal information, we take steps to ensure that it’s treated securely. All pages on magictoolbox.com are protected by 256 Bit encryption on SSL. You can identify a secure page by the green lock icon by the URL in your web browser.
+
+Once we receive your information, we make our best effort to ensure its security on our systems. Where we have given (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+## Behavioural advertising
+
+We may use your personal information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the [Network Advertising Initiative’s (“NAI") educational page](http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work).
+
+You can opt-out of targeted advertising by changing your preferences at the websites which provide us with their advertising service:
+
+  * [Facebook account advertising settings](https://www.facebook.com/settings/?tab=ads)
+  * [Google advertising settings](https://www.google.com/settings/ads/anonymous)
+  * [Bing advertising settings](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads)
+
+
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s [opt-out portal](http://optout.aboutads.info/).
+
+## Use of cookies
+
+Like many other websites, the Magic Toolbox website uses cookies. 'Cookies' are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that website to recognise you when you visit. They collect statistical data about your browsing actions and patterns and do not identify you as an individual. For example, we use cookies to store your country preference. This helps us to improve our website and deliver a better more personalised service.
+
+It is possible to switch off cookies by setting your browser preferences. For more information on how to switch off cookies on your computer, visit our full cookies policy. Turning cookies of may result in a loss of functionality when using our website.
+
+## Links to other websites
+
+Our website may contain links to other websites run by other organisations. This privacy policy applies only to our website‚ so we encourage you to read the privacy statements on the other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our website.
+
+In addition, if you linked to our website from a third party site, we cannot be responsible for the privacy policies and practices of the owners and operators of that third party site and recommend that you check the policy of that third party site.
+
+## 16 or under
+
+We are concerned to protect the privacy of children aged 16 or under. If you are aged 16 or under‚ please get your parent/guardian's permission beforehand whenever you provide us with personal information.
+
+## Transferring your information outside Europe
+
+As part of the services offered to you through this website, the information which you provide to us may be transferred to countries outside the European Union (“EU"). By way of example, this may happen if any of our servers are from time to time located in a country outside of the EU. These countries may not have similar data protection laws to the UK. By submitting your personal data, you’re agreeing to this transfer, storing or processing. If we transfer your information outside the EU in this way, we will take steps to ensure that appropriate security measures are taken with the aim of ensuring that your privacy rights continue to be protected as outlined in this Policy.
+
+If you use our services while you are outside the EU, your information may be transferred outside the EU in order to provide you with those services.
+
+## Website recording
+
+Our web site may also use a session recording service to record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include payment details or any sensitive personal data. Data collected by such session recording is for Magic Toolbox Limited’s internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting.
+
+## Review of this Policy
+
+We keep this Policy under regular review. This Policy was last updated on 17 May 2018.
+
+## Contact us
+
+For more information about our privacy practices, if you have questions or complaints, please contact us by email at [support@magictoolbox.com](mailto:supp%6Fr%74%40%6Da%67ictoolbox.co%6D).
