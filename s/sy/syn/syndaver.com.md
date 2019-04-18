@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syndaver.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217031306id_/http%3A//syndaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syndaver.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418030911id_/http%3A//syndaver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SynDaver
 
