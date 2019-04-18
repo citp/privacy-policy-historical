@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesol.org privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018165942id_/http%3A//www.tesol.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesol.org privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419014314id_/https%3A//www.tesol.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ Only authorized TESOL staff and contractors have access to personally identifiab
 
 ## Does TESOL Share My Information with Third Parties?
 
-TESOL may occasionally provide, sell, or rent limited data to third parties, including companies that offer products and services for sale to TESOL’s members and customers. This information includes names, job titles, companies or organizations, and business addresses, but does not include business phone numbers, business fax numbers, educational background, or email addresses. However, TESOL or its agents may occasionally send email messages on behalf of third parties. For information on how to opt out of this service, see “How Can I Control and Update My Information?” below.
+TESOL may occasionally provide, sell, or rent limited data to third parties, including companies that offer products and services for sale to TESOL’s members and customers. This information includes names, job titles, companies or organizations, and main or preferred addresses, but does not include phone numbers, business fax numbers, educational background, or email addresses. However, TESOL or its agents may occasionally send email messages on behalf of third parties. For information on how to opt out of this service, see “How Can I Control and Update My Information?” below.
 
 If you join TESOL, your contact information is available to other members through a password-protected member directory. Only TESOL members, TESOL staff, and TESOL contractors have access to this director. The member directory enables members to establish professional networks, but if you prefer, you can opt out of this service.
 
@@ -50,11 +50,11 @@ TESOL may also share statistical or demographic information in aggregate form wi
 
 ## How Can I Control and Update My Information?
 
-We encourage you to keep your information up to date. To check or update your contact or demographic information, you can log in to the [TESOL website](https://web.archive.org/home) and click on “My Account” in the upper right corner of the page, or you may send an email message to [TESOL Marketing and Membership](mailto:members@tesol.org), and we will gladly update your information for you.
+We encourage you to keep your information up to date. To check or update your contact or demographic information, you can log in to the [TESOL website](https://web.archive.org/home) and click on “My Account” in the upper right corner of the page, or you may send an email message to [TESOL Membership customer service](mailto:members@tesol.org), and we will gladly update your information for you.
 
-If you would prefer not to receive notices, updates, or correspondence from TESOL International Association, please contact [Marketing and Membership](mailto:members@tesol.org), and we will remove you from our mailing lists.
+If you would prefer not to receive notices, updates, or correspondence from TESOL International Association, please contact [membership customer service](mailto:members@tesol.org), and we will remove you from our mailing lists.
 
-If you would prefer that TESOL did not disclose your information to third parties, you can log in to the TESOL website, click on “My Account,” and update your preferences at the bottom of the page, or you may contact [Marketing and Membership](mailto:members@tesol.org).
+If you would prefer that TESOL did not disclose your information to third parties, you can log in to the TESOL website, click on “My Account,” and update your preferences at the bottom of the page, or you may contact [m](mailto:members@tesol.org)[embership customer service](mailto:members@tesol.org). Changes made online may take up to 30 days to go into effect.
 
 ## Links to Other Websites
 
@@ -64,4 +64,4 @@ We encourage our users to check the privacy policy of other websites before givi
 
 ## Revisions to This Policy
 
-TESOL may revise or update this policy at any time. Any revisions or updates will be posted on this page. This policy was last revised July 2018. 
+TESOL may revise or update this policy at any time. Any revisions or updates will be posted on this page. This policy was last revised October 2018. 
