@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sidify.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629014842id_/http%3A//www.sidify.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidify.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418093636id_/https%3A//www.sidify.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Sidify Privacy Policy
 
-Sidify is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to Sidify's commitment to protecting your privacy. Sidify will not sell your personal information in any manner whatsoever. 
+Sidify is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to Sidify's commitment to protecting your privacy. Sidify will not sell your personal information in any manner whatsoever.
 
 **What information do we collect? What do we use it for?**
 
-When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you. 
+When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you.
 
 **How do the 3rd party credit card processors protect customer's information?**
 
