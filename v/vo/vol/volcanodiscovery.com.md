@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volcanodiscovery.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821155519id_/https%3A//www.volcanodiscovery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcanodiscovery.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418185428id_/https%3A//www.volcanodiscovery.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy / VolcanoDiscovery
 
@@ -6,11 +6,16 @@ Get our newsletter!
 
 [](https://www.volcanoadventures.com/)
 
-[](https://play.google.com/store/apps/details?id=com.volcanodiscovery.volcanodiscovery)
+[](https://play.google.com/store/apps/details?id=com.volcanodiscovery.volcanodiscovery)[](https://itunes.apple.com/us/app/volcanoes-earthquakes/id1449389566)  
+
+
+[](https://www.volcanodiscovery.com/volcano-calendar2019.html)
+
+ **[Volcano Calendar 2019](https://www.volcanodiscovery.com/volcano-calendar2019.html)** : We're proud to present our 2019 volcano calendar: 13 different and attractive images of volcanoes, volcanic landscapes and phenomena taken during volcano tours over the past few years. 
 
 [](https://www.amazon.com/Volcano-Discoveries-Photographic-Journey-Around/dp/1921517352/ref=as_sl_pc_qf_sp_asin_til?tag=volcanod-20&linkCode=w00&linkId=EHPA2AOEYDFVF6CL&creativeASIN=1921517352)
 
- **[Volcano Discoveries](https://www.amazon.com/Volcano-Discoveries-Photographic-Journey-Around/dp/1921517352/ref=as_sl_pc_qf_sp_asin_til?tag=volcanod-20&linkCode=w00&linkId=EHPA2AOEYDFVF6CL&creativeASIN=1921517352)** : "One of the most eye-catching guides to the world’s volcanoes ever published.
+**[Volcano Discoveries](https://www.amazon.com/Volcano-Discoveries-Photographic-Journey-Around/dp/1921517352/ref=as_sl_pc_qf_sp_asin_til?tag=volcanod-20&linkCode=w00&linkId=EHPA2AOEYDFVF6CL&creativeASIN=1921517352)** : "One of the most eye-catching guides to the world’s volcanoes ever published.
 
 [](https://www.volcano-adventures.com/)
 
@@ -18,7 +23,7 @@ Get our newsletter!
 
 [](http://amzn.to/2vv2XjT)
 
-**[The Volcano Adventure Guide](http://amzn.to/2vv2XjT)** : Excellent information and background for anyone wishing to visit active volcanoes safely and enjoyably. The book presents guidelines to visiting 42 different volcanoes around the world.
+ **[The Volcano Adventure Guide](http://amzn.to/2vv2XjT)** : Excellent information and background for anyone wishing to visit active volcanoes safely and enjoyably. The book presents guidelines to visiting 42 different volcanoes around the world.
 
 [
 
@@ -28,11 +33,13 @@ Guaranteed tours:
 
 ](https://www.volcanodiscovery.com/tours/guaranteed-departures.html)
 
+**25 May - 1 Jun 2019:[Etna Discovery](https://www.volcanodiscovery.com/etna/hiking/8days/tour.html)** \- Etna volcano (Italy)
+
 _: spaces available_ / _: guaranteed_ / _: few spaces left_ / _: booked out_
 
 Random pictures
 
-| | 
+|  | 
 
 Jump to: [Contact forms](https://www.volcanodiscovery.com/privacy.html#contact) | [Newsletter](https://www.volcanodiscovery.com/privacy.html#newsletter) | [Shop](https://www.volcanodiscovery.com/privacy.html#shop) | [Cookies](https://www.volcanodiscovery.com/privacy.html#cookies) | [Third party cookies (facebook etc)](https://www.volcanodiscovery.com/privacy.html#thirdpartycookies)
 
@@ -144,7 +151,7 @@ We will, therefore, process any data you enter onto the contact form only with y
 The data provided when registering for the newsletter will be used to distribute the newsletter until you cancel your subscription when said data will be deleted. Data we have stored for other purposes (e.g. email addresses for the members area) remain unaffected.
 
  **Buying things or services, e.g. tours:**   
-When you buy something from our [online shop](https://www.volcanodiscovery.com/shop.html) or [book a tour with us](https://www.volcanodiscovery.com/), we will need more or less detailed personal data as needed to complete a transaction: typically, this includes your full invoice address, a telephone number to reach you, an email, your birthday, nationality and similar standard information.   
+When you buy something from our [online shop](https://www.volcanodiscovery.com/shop.html) or [book a tour with us](https://www.volcanodiscovery.com/adventure-travel.html), we will need more or less detailed personal data as needed to complete a transaction: typically, this includes your full invoice address, a telephone number to reach you, an email, your birthday, nationality and similar standard information.   
 For legal and bookkeeping reasons, we are required to keep some or all of these data, or documents where they appear (e.g. invoices) for a minimum of the legal retention period. In [Germany](https://de.wikipedia.org/wiki/Aufbewahrungsfrist#Gesetzliche_Aufbewahrungsfristen_in_Deutschland), this varies from 2-10 years, depending on the nature of the data. Invoices will need to be kept for 10 years.   
 After the retention period has passed, we delete all documents permanently.
 
@@ -172,7 +179,8 @@ Cookies do not harm your computer and do not contain any viruses. A cookie is a 
 Examples include site-wide preferences (language, font size etc) or to remain logged in over a period of time. 
 
 **Example:**   
-This is the cookie we use for the domain www.volcanodiscovery.com: " _cookieconsent_granted_general:yes_ ". It is saved on your browser when you agree to allow cookies on websites of volcanodiscovery.com. When you load the website a second time, the code of the website instructs your browser to check whether this cookie is present or not: if not, the browser will only load those parts of the page that require no consent (i.e. don't potentially collect personal information such as 3rd party resources) and you will see the notice that probably brought you here, asking for permission; if you have granted the permission in the recent past and the cookie is present, you won't see the cookie notice and the browser will load the page with all third party components enabled. 
+This is the cookie we use for the domain www.volcanodiscovery.com: " _cookieconsent_granted_general:yes_ ". It is saved on your browser when you agree to allow cookies on websites of volcanodiscovery.com. When you load the website a second time, the code of the website instructs your browser to check whether this cookie is present or not: if not, the browser will not be able to use any services that need cookies to function (e.g. perform a login), and continue to show the overlay window asking for permission.   
+The other cookies our website stores on your browser are indicators whether a certain 3rd party service (see [below list](https://www.volcanodiscovery.com/privacy.html#thirdpartycookies)) should be enabled or disabled. 
 
 **How to control cookies**   
 _You are in full control over which cookies are stored on your device_ if you use a reputable browser (e.g. Firefox, Chrome, Safari, Internet Exporer etc). The implementation varies from browser to browser, but you can normally adjust the settings looking into the browser's settings under "privacy".   
@@ -203,91 +211,89 @@ _Unfortunately, we have no way of controlling what 3rd parties exactly do with y
 **3rd party services that may be used on this website:**   
 _Please note that a given page may or may not use any of the mentioned services._
 
-* Google maps | Allow Disallow
+###  Website statistics
 
-(interactive maps from google)  
-This site uses the Google Maps map service via an API. It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.   
-To use Google Maps, it is necessary to save your IP address. This information is generally transmitted to a Google server in the USA and stored there. The provider of this site has no influence on this data transfer.   
-The use of Google Maps is in the interest of making our website appealing and to facilitate the location of places specified by us on the website. This constitutes a justified interest pursuant to Art. 6 (1) (f) DSGVO.   
-Further information about handling user data, can be found in the data protection declaration of Google at <https://www.google.de/intl/de/policies/privacy/>.
+* Google analytics | _click to show info_
 
-* Facebook | Allow Disallow
+Allow Disallow   
+(website statistic tool from google)
 
-(like / share buttons, comments, page plugin)  
-We use facebook plugins to connect our audience with the facebook community, allow people to share information on the platform easily. 
-
-Our website includes plugins for the social network Facebook, Facebook Inc., 1 Hacker Way, Menlo Park, California 94025, USA. The Facebook plugins can be recognized by the Facebook logo or the Like button on our site. For an overview of Facebook plugins, see <https://developers.facebook.com/docs/plugins/>. 
-
-When you visit our site, a direct connection between your browser and the Facebook server is established via the plugin. This enables Facebook to receive information that you have visited our site from your IP address. If you click on the Facebook "Like button" while you are logged into your Facebook account, you can link the content of our site to your Facebook profile. This allows Facebook to associate visits to our site with your user account. Please note that, as the operator of this site, we have no knowledge of the content of the data transmitted to Facebook or of how Facebook uses these data. For more information, please see Facebook's privacy policy at <https://de-de.facebook.com/policy.php>.
-
-* AddThis with Twitter button | Allow Disallow
-
-(social media sharing)  
-On many pages, we use the sharing service AddThis, to allow you to quickly share our content through a large number of social sites. These are shown when you click on the AddThis button and activated only when you click on them.   
-The AddThis Services are provided by Oracle America, Inc. ("Oracle") located at 500 Oracle Parkway, Redwood Shores, CA 94065. More information: [AddThis Privacy policy](http://www.addthis.com/privacy/privacy-policy)
-
-As default, a **Twitter button** is activated and shown next to the AddThis button already:   
-Twitter is offered by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. When you use Twitter and the “Retweet” function, the websites you visit are connected to your Twitter account and made known to other users. In doing so, data will also be transferred to Twitter. We would like to point out that, as the provider of these pages, we have no knowledge of the content of the data transmitted or how it will be used by Twitter. For more information on Twitter's privacy policy, please go to <https://twitter.com/privacy>.   
-Your privacy preferences with Twitter can be modified in your account settings at <https://twitter.com/account/settings>.
-
-* Embedded posts from Twitter | Allow Disallow
-
-(social media platform)  
-Occasionally, we embed Twitter feeds or articles. Functions of the Twitter service are offered by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. When you use Twitter and the “Retweet” function, the websites you visit are connected to your Twitter account and made known to other users. In doing so, data will also be transferred to Twitter. We would like to point out that, as the provider of these pages, we have no knowledge of the content of the data transmitted or how it will be used by Twitter. For more information on Twitter's privacy policy, please go to: [Twitter Privacy Policy](https://twitter.com/en/privacy)   
-Your privacy preferences with Twitter can be modified in your account settings at <https://twitter.com/account/settings>. 
-
-* YouTube | Allow Disallow
-
-(embedded videos)  
-Some pages show you videos embedded from YouTube. You should therefore also agree to [YouTube's privacy policy](https://www.youtube.com/static?template=privacy_guidelines).   
-These plugins from YouTube are operated by Google. The operator of the pages is YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. 
-
-If you visit one of our pages featuring a YouTube plugin, a connection to the YouTube servers is established. Here the YouTube server is informed about which of our pages you have visited.   
-If you're logged in to your YouTube account, YouTube allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your YouTube account.   
-YouTube is used to help make our website appealing. This constitutes a justified interest pursuant to Art. 6 (1) (f) DSGVO.   
-Further information about handling user data, can be found in the data protection declaration of YouTube under <https://www.google.de/intl/de/policies/privacy>.
-
-* Amazon
-
-(shopping)   
-The site operators participating in the Amazon partner program. Our pages contain advertisements and links to the sites run by amazon.de through which we can earn referral fees. Amazon uses cookies to trace the origin of the orders. As a result, Amazon can detect that you clicked the affiliate link on our website.   
-The storage of Amazon cookies is based on Art. 6 (f) DSGVO. The website operator has a legitimate interest in this service since it only receives credit for referral fees if these cookies are set.   
-To obtain more information about how Amazon uses your data, see the [Amazon Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)  
+  
 
 
-* Google Adsense | Allow Disallow
+### Social media
 
-(advertising)  
-This website uses Google AdSense, a service for including advertisements from Google Inc. ("Google"). It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. 
+* Facebook social media plugin | _click to show info_
 
-Google AdSense uses so-called "cookies", which are text files stored in your computer that enable an analysis of the way you use the website. Google AdSense also uses so-called web beacons (invisible graphics). Through these web beacons, information such as the visitor traffic on these pages can be evaluated. 
+Allow Disallow   
+(like / share buttons, comments, page plugin)
 
-The information generated by cookies and web beacons relating to your use of this website (including your IP address), and delivery of advertising formats, is transmitted to a Google server in the US and stored there. This information can be passed on from Google to contracting parties of Google. However, Google will not merge your IP address with other data you have stored. 
+  
 
-AdSense cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising. 
+* AddThis with Twitter button | _click to show more info_
 
-You can prevent the installation of cookies by setting your browser software accordingly. Please be aware that in this case, you may not be able to make full use of all the features of this website. By using this website, you agree to the processing of data relating to you and collected by Google as described and for the purposes set out above.
+Allow Disallow  
+(social media sharing)
 
-* Content.Ad | Allow Disallow
+  
 
-(advertising)   
-On some pages, we show advertising from the network Content.Ad, which works in a similar way as google's Adsense described above.   
-Content.Ad is offered by Content.Ad, 400 Exchange, STE 250 Irvine, CA 92602 (USA).   
-Information: [Content.Ad Privacy Policy](https://www.content.ad/privacy-policy/)
+
+### Interactive content
+
+* Embedded posts from Twitter | _click to show info_
+
+Allow Disallow  
+(social media platform)
+
+* YouTube | _click to show info_
+
+Allow Disallow  
+(embedded videos)
+
+  
+
+* Vimeo | _click to show info_
+
+Allow Disallow  
+(embedded videos)
+
+  
+
+* Embedded posts from Facebook | _click to show info_
+
+Allow Disallow  
+(videos, photos, posts from Facebook)
+
+  
+
+
+### Advertising
+
+* Amazon | _click to show info_
+
+Allow Disallow  
+(shopping) 
+
+  
+
+* Google Adsense | _click to show info_
+
+Allow Disallow  
+(advertising)
+
+  
+
 
 ### More on VolcanoDiscovery:
 
-[](https://www.volcanodiscovery.com/largest-recent/earthquakes.html)
+[](https://www.volcanodiscovery.com/photos/raung/august2015/impressions.html)
 
- **[Largest 20 earthquakes past 24 hrs](https://www.volcanodiscovery.com/largest-recent/earthquakes.html)** : Our continuously updated worldwide map and list of the most recent largest earthquakes in the world during the past 24 hours.   
-You can also find top 20 lists for given past days / months / years from the archive.
+ **[Raung volcano photos](https://www.volcanodiscovery.com/photos/raung/august2015/impressions.html)** : One of the largest and most active volcanoes in East Java, rarely-visited and relatively unknown Raung became (in)famous during its recent eruption in 2015 when its frequent ash plumes forced the repeated closure of Bali's airport.
 
-[](https://www.volcanodiscovery.com/etna/photos/2013/nov/smoke-rings.html)
+[](https://www.volcanodiscovery.com/earthquakes/today.html)
 
- **[Etna's steam rings](https://www.volcanodiscovery.com/etna/photos/2013/nov/smoke-rings.html)** : A collection of fantastic vortex rings ("smoke rings") we observed recently on Etna.
+List and interactive map of recent earthquakes world-wide.
 
-[](https://www.volcanodiscovery.com/photos/bromo.html)
+[](https://www.volcanodiscovery.com/tours/eruption-special.html)
 
- **[Bromo volcano photos](https://www.volcanodiscovery.com/photos/bromo.html)** : Bromo is one of Indonesia's most visited volcanoes. It is the most active vent inside the huge Tengger caldera and erupts every few years.  
-  
----|---|---
+ **[Volcano& eruption special tours](https://www.volcanodiscovery.com/tours/eruption-special.html)**: Tours dedicated to usually a single volcano currently in eruption. These trip, sometimes offered only last-minute through our newsletter, are among the most adventurous and most popular in our program.
