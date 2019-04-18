@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gold-eagle.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221060520id_/https%3A//www.gold-eagle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gold-eagle.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418192354id_/https%3A//www.gold-eagle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gold Eagle
 
