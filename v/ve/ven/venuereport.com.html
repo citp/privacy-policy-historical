@@ -1,47 +1,30 @@
-<!--The following is the downloaded HTML source of the venuereport.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226203059id_/https%3A//www.venuereport.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the venuereport.com privacy policy that was archived on 2019-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190418233735id_/https%3A//www.venuereport.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js async-hide" lang="en-US" itemscope="" itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html class="no-js" lang="en-US" itemscope="" itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <style>.async-hide { opacity: 0 !important}</style>
-  <script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K4VW26"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-// google optimize code
-
-(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
-h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
-(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-})(window,document.documentElement,'async-hide','dataLayer',4000,
-{'GTM-TNFHP8F':true});
-
-// google analytics
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-44924353-1');
-
-// google optimize code
-ga('require', 'GTM-TNFHP8F');
-
-// send pageview
-ga('send', 'pageview');
-  </script>
   <!-- Google Tag Manager -->
+  <script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K4VW26"></script><script>var dataLayer = [];</script>
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K4VW26');</script>
 <!-- End Google Tag Manager -->
-    <script async="async" src="//tags-cdn.deployads.com/a/www.venuereport.com.js"></script>
-    <script>var googletag = window.googletag || {cmd: []};</script>
+<script>
+    var googletag = window.googletag || {cmd: []};
+    var adUnits = [];
+</script>
     <script async="" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script async="" src="//www.venuereport.com/bundles/venuereportfrontend/js/prebid1.38.0.js?v1.15.4.6"></script>
+<script src="//www.venuereport.com/bundles/venuereportfrontend/js/prebid_wrapper.js?v1.15.4.6"></script>
+      <script>
+          var googleapisKey = "AIzaSyASAq0e2UCEpstgoYHV4NOX_u_yaVpLE04";
+          var button_view_pricing = "Tap to Message + View Pricing";
+      </script>
     <script>
-	window.deployads = window.deployads || [];
-
 	//Initial configuration
 	googletag.cmd.push(function() {
-		deployads.push( function(){ deployads.gpt.pubadsDisableInitialLoad(); });
-
 		//Revenue catching
 		var params={}; 
 		window.location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(str,key,value) {params[key.toLowerCase()] = value; });
@@ -53,30 +36,111 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		}
 
 		googletag.pubads().enableSingleRequest();
-		googletag.pubads().collapseEmptyDivs( true, true );
+        googletag.pubads().disableInitialLoad();
+		googletag.pubads().collapseEmptyDivs();
+        googletag.pubads().setCentering(true);
 		googletag.pubads().setTargeting( 'Page', '/privacy-policy/' );
+		googletag.pubads().setTargeting( 'env', 'www.venuereport.com' );
 	});
 
 	//Use to store all of our ad units
 	var __tvr_ad_unit_slots = [];
+
+    function addFavVenueAfterLogin() {
+        $.post(Routing.generate("add_favorites"), {venue_id: $('body').attr('data-likedvenueid')}, function(){});
+    }
     </script>
         <script>
-	//Initial configuration
 	googletag.cmd.push( function(){
-		googletag.pubads().enableLazyLoad({
-		  fetchMarginPercent: 500,  // Fetch slots within x/100 viewports
-		  renderMarginPercent: 300,  // Render slots within y/100 viewports.
-		  mobileScaling: 2.0  // Double the above values on mobile.
+        googletag.enableServices();
+
+        $(function () {
+            $(window).scroll(function() {
+                $('.ad-unit-lazy').each(function() {
+                    var $slot = $(this);
+                    if($slot.isElementVisibleOnViewport()) {
+                        $slot.applyAdload();
+                        $slot.removeClass("ad-unit-lazy");
+                    }
 		});
 
-		deployads.push(function() { deployads.gpt.enableServices(); });
+                $('.ad-unit-refresh').each(function() {
+                    var $slot = $(this);
+                    if($slot.isElementVisibleOnViewport()) {
+                        setInterval(function() {
+                            var id = $slot.attr('id');
+                            if($slot.isElementVisibleOnViewport() && !document.hidden) {
+                                console.log('Refresh ad slot '+ id);
+                                $slot.applyAdload();
+                            } else {
+                                console.log('Ad slot '+ id + ' is not in the viewport. Refresh skip');
+                            }
+                        }, 30000);    
+                        $slot.removeClass("ad-unit-refresh");
+                    }
+                });
+            });
+
+            $.fn.isElementVisibleOnViewport = function () {
+                var elementTop = $(this).offset().top,
+                    elementBottom = $(this).offset().top + $(this).outerHeight(),
+                    screenTop = $(window).scrollTop(),
+                    screenBottom = $(window).scrollTop() + window.innerHeight;
+                return ((screenBottom > elementTop) && (screenTop < elementBottom)) ? true : false;
+            };
+
+            $.fn.applyAdload = function() {
+                if (window.googletag && googletag.apiReady){
+                    var adunitID = $(this).attr('id');
+                    var gptSlots = googletag.pubads().getSlots();
+                    var slot = gptSlots.filter(function(item){return item.getSlotElementId() === adunitID;})[0];
+                    if (slot !== undefined) {
+                        refreshBid(slot);
+                    }
+                }   
+            };
+
+            $.fn.stickyAdSlot = function (section, offset) {
+                var $block = $(this);
+                var $section = $block.closest(section);
+                var stickyTimeout;
+
+                if ($block.hasClass('ad-unit-sticky')) {
+                    clearTimeout(stickyTimeout);
+                    if ($(window).scrollTop() > $section.offset().top) {
+                        $block.addClass('sticky').css('top', offset);
+                        if (stickyTimeout == undefined) {
+                            var stickyTimeout = setTimeout(function() {
+                                $block.removeClass('sticky').removeClass('ad-unit-sticky');
+                            }, 3000);
+                        }
+                    } else {
+                        $block.removeClass('sticky');
+                    }
+                } else {
+                    if ($(window).scrollTop() < $section.offset().top) {
+                        $block.addClass('ad-unit-sticky');
+                        clearTimeout(stickyTimeout);
+                    }
+                }
+            };
 	});
+    });
+
+    var nextSlotId = 1;
+    function generateNewSlotId(divId) {
+        var id = nextSlotId++;
+        return divId + id;    
+    }
     </script>
     <meta charset="utf-8">
     <title>The Venue Report || Privacy + Cookie Policy</title>
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAAAUlFRGwUDU1NSBgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 
+      <script>
+          window.dataLayer = window.dataLayer || [];
+      </script>
             <meta name="description" content="Find unique venues to celebrate, getaway and gather. A guide to gathering locations and events in communities in over 200 cities across the globe.">
         <meta name="keywords" content="Wedding Venues, Celebrate, Getaway, Gather, Group Getaway">
          <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, initial-scale=1">
@@ -85,26 +149,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link href="//ajax.googleapis.com" rel="dns-prefetch">
 
   <!-- NEW STUFF //-->
-	<link rel="apple-touch-icon" sizes="57x57" href="//www.venuereport.com/apple-touch-icon-57x57.png?v1.12.6.3">
-	<link rel="apple-touch-icon" sizes="60x60" href="//www.venuereport.com/apple-touch-icon-60x60.png?v1.12.6.3">
-	<link rel="apple-touch-icon" sizes="72x72" href="//www.venuereport.com/apple-touch-icon-72x72.png?v1.12.6.3">
-	<link rel="apple-touch-icon" sizes="76x76" href="//www.venuereport.com/apple-touch-icon-76x76.png?v1.12.6.3">
-	<link rel="apple-touch-icon" sizes="114x114" href="//www.venuereport.com/apple-touch-icon-114x114.png?v1.12.6.3">
-	<link rel="apple-touch-icon" sizes="120x120" href="//www.venuereport.com/apple-touch-icon-120x120.png?v1.12.6.3">
-	<link rel="apple-touch-icon" sizes="144x144" href="//www.venuereport.com/apple-touch-icon-144x144.png?v1.12.6.3">
-	<link rel="apple-touch-icon" sizes="152x152" href="//www.venuereport.com/apple-touch-icon-152x152.png?v1.12.6.3">
-	<link rel="apple-touch-icon" sizes="180x180" href="//www.venuereport.com/apple-touch-icon-180x180.png?v1.12.6.3">
-	<link rel="icon" type="image/png" href="//www.venuereport.com/favicon-32x32.png?v1.12.6.3" sizes="32x32">
-	<link rel="icon" type="image/png" href="//www.venuereport.com/favicon-194x194.png?v1.12.6.3" sizes="194x194">
-	<link rel="icon" type="image/png" href="//www.venuereport.com/favicon-96x96.png?v1.12.6.3" sizes="96x96">
-	<link rel="icon" type="image/png" href="//www.venuereport.com/android-chrome-192x192.png?v1.12.6.3" sizes="192x192">
-	<link rel="icon" type="image/png" href="//www.venuereport.com/favicon-16x16.png?v1.12.6.3" sizes="16x16">
-	<link rel="manifest" href="//www.venuereport.com/manifest.json?v1.12.6.3">
-	<link rel="mask-icon" href="//www.venuereport.com/safari-pinned-tab.svg?v1.12.6.3" color="#5bbad5">
+	<link rel="apple-touch-icon" sizes="57x57" href="//www.venuereport.com/apple-touch-icon-57x57.png?v1.15.4.6">
+	<link rel="apple-touch-icon" sizes="60x60" href="//www.venuereport.com/apple-touch-icon-60x60.png?v1.15.4.6">
+	<link rel="apple-touch-icon" sizes="72x72" href="//www.venuereport.com/apple-touch-icon-72x72.png?v1.15.4.6">
+	<link rel="apple-touch-icon" sizes="76x76" href="//www.venuereport.com/apple-touch-icon-76x76.png?v1.15.4.6">
+	<link rel="apple-touch-icon" sizes="114x114" href="//www.venuereport.com/apple-touch-icon-114x114.png?v1.15.4.6">
+	<link rel="apple-touch-icon" sizes="120x120" href="//www.venuereport.com/apple-touch-icon-120x120.png?v1.15.4.6">
+	<link rel="apple-touch-icon" sizes="144x144" href="//www.venuereport.com/apple-touch-icon-144x144.png?v1.15.4.6">
+	<link rel="apple-touch-icon" sizes="152x152" href="//www.venuereport.com/apple-touch-icon-152x152.png?v1.15.4.6">
+	<link rel="apple-touch-icon" sizes="180x180" href="//www.venuereport.com/apple-touch-icon-180x180.png?v1.15.4.6">
+	<link rel="icon" type="image/png" href="//www.venuereport.com/favicon-32x32.png?v1.15.4.6" sizes="32x32">
+	<link rel="icon" type="image/png" href="//www.venuereport.com/favicon-194x194.png?v1.15.4.6" sizes="194x194">
+	<link rel="icon" type="image/png" href="//www.venuereport.com/favicon-96x96.png?v1.15.4.6" sizes="96x96">
+	<link rel="icon" type="image/png" href="//www.venuereport.com/android-chrome-192x192.png?v1.15.4.6" sizes="192x192">
+	<link rel="icon" type="image/png" href="//www.venuereport.com/favicon-16x16.png?v1.15.4.6" sizes="16x16">
+	<link rel="manifest" href="//www.venuereport.com/manifest.json?v1.15.4.6">
+	<link rel="mask-icon" href="//www.venuereport.com/safari-pinned-tab.svg?v1.15.4.6" color="#5bbad5">
 	<meta name="apple-mobile-web-app-title" content="Venue Report">
 	<meta name="application-name" content="Venue Report">
 	<meta name="msapplication-TileColor" content="#00aba9">
-	<meta name="msapplication-TileImage" content="//www.venuereport.com/mstile-144x144.png?v1.12.6.3">
+	<meta name="msapplication-TileImage" content="//www.venuereport.com/mstile-144x144.png?v1.15.4.6">
 	<meta name="theme-color" content="#ffffff">
     <link rel="author" href="https://plus.google.com/108297949847850932606/">
     <link rel="publisher" href="https://plus.google.com/108297949847850932606/">
@@ -112,53 +176,60 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="msvalidate.01" content="1A950E45EADAC90DF97FF16110A8F198">
     <link rel="canonical" href="https://www.venuereport.com/privacy-policy/">    <base href="//www.venuereport.com">
 
-                    <meta property="og:title" content="The Venue Reporter Daily | The Venue Report">
+                    <meta property="og:title" content="The Venue Report">
         <meta property="og:url" content="https://www.venuereport.com/">
                 <meta property="og:type" content="website">
-        <meta property="og:image" content="https://www.venuereport.com/bundles/venuereportfrontend/imagesnew/logo-big.png?v1.12.6.3">
+        <meta property="og:image" content="https://www.venuereport.com/bundles/venuereportfrontend/imagesnew/logo-big.png?v1.15.4.6">
         <meta property="og:site_name" content="The Venue Report">
-        <meta itemprop="image" content="https://www.venuereport.com/bundles/venuereportfrontend/imagesnew/logo.png?v1.12.6.3">
+        <meta itemprop="image" content="https://www.venuereport.com/bundles/venuereportfrontend/imagesnew/logo.png?v1.15.4.6">
         <meta property="og:description" content="Find unique venues to celebrate, getaway and gather. A guide to gathering locations and events in communities in over 200 cities across the globe.">
         <meta property="fb:app_id" content="1023482374352248">
     <meta property="fb:pages" content="359756670733004">
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+      <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/vr/vr.googleAuthentication.js?v1.15.4.6"></script>
+      <script>
+          function onLoad() {
+              gapi.load('auth2', function () {
+                  gapi.auth2.init();
+              });
+          }
 
-            <link href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/js/chosen/chosen.css?v1.12.6.3" type="text/css" media="all">
-        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/css/simplrform.css?v1.12.6.3" type="text/css" media="all">
-        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/css/magnific-popup.css?v1.12.6.3" type="text/css" media="all">
-        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/js/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.min.css?v1.12.6.3" type="text/css" media="all">
-		<link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/css/daterangepicker.css?v1.12.6.3" type="text/css">
+          function signOut() {
+              var auth2 = gapi.auth2.getAuthInstance();
+              auth2.signOut().then(function () {
+              });
+          }
+      </script>
+
+      <script src="https://apis.google.com/js/platform.js?onload=onLoad" async="" defer=""></script>
+      <meta name="google-signin-client_id" content="71125358218-qov3tp9dsf6j1anuvjmrstcid8e0ghqb.apps.googleusercontent.com">
+
+
+              <link href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/js/chosen/chosen.css?v1.15.4.6" type="text/css" media="all">
+        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/css/simplrform.css?v1.15.4.6" type="text/css" media="all">
+        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/css/magnific-popup.css?v1.15.4.6" type="text/css" media="all">
+        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/js/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.min.css?v1.15.4.6" type="text/css" media="all">
+		<link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/css/daterangepicker.css?v1.15.4.6" type="text/css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
         
 
         <!--[if IE 9]>
-                    <link rel="stylesheet" href="//www.venuereport.com/css/7c7e37a.css?v1.12.6.3">
+                    <link rel="stylesheet" href="//www.venuereport.com/css/7c7e37a.css?v1.15.4.6">
                 <![endif]-->
 
-                    <link rel="stylesheet" href="//www.venuereport.com/css/3fb7703.css?v1.12.6.3">
-                            <link rel="stylesheet" href="//www.venuereport.com/css/a1cfa9e.css?v1.12.6.3">
-                	    <link rel="stylesheet" href="//www.venuereport.com/css/6cd81bf.css?v1.12.6.3">
+                    <link rel="stylesheet" href="//www.venuereport.com/css/3fb7703.css?v1.15.4.6">
+                            <link rel="stylesheet" href="//www.venuereport.com/css/a1cfa9e.css?v1.15.4.6">
+                	    <link rel="stylesheet" href="//www.venuereport.com/css/6cd81bf.css?v1.15.4.6">
 	 
-					   <link rel="stylesheet" href="//www.venuereport.com/css/3dcabe2.css?v1.12.6.3">
+					   <link rel="stylesheet" href="//www.venuereport.com/css/3dcabe2.css?v1.15.4.6">
 			    
    
-        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/css/mobile-styles.css?v1.12.6.3" type="text/css" media="all">
+        <link rel="stylesheet" href="//www.venuereport.com/bundles/venuereportfrontend/css/mobile-styles.css?v1.15.4.6" type="text/css" media="all">
                          <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Facebook Pixel Code -->
-	<script>
-	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-	document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-	fbq('init', '1621647368076294');
-	fbq('track', "PageView");
-	
-	</script>
 	<script type="application/ld+json">
 		{
 			"@context": "http://schema.org",
@@ -176,22 +247,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   <!-- END NEW STUFF //-->
 
-    <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/libs/modernizr-2.5.3.min.js?v1.12.6.3"></script>
-	  </head>
-        <body class="infopage  ">
+    <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/libs/modernizr-2.5.3.min.js?v1.15.4.6"></script>
+<script src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.sticky.js?v1.15.4.6"></script>
+			  </head>
+  <body class="infopage  ">
 
 
   <!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K4VW26"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager -->
 
-<!-- Facebook Pixel Code -->
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621647368076294&ev=PageView&noscript=1"/></noscript>
-<!-- End Facebook Pixel Code -->
 <script type="text/javascript">
     function loginFBToServer()
     {
         $.get(Routing.generate('login_and_register_submit', {subaction: "facebook"}), {popup: 1}, function(data) {
-            if (data.status == 'OK'){
+
+            if($("body").attr("data-callbackafterlogin") && data.status == 'OK') {
+                var callbackFunction = $('body').data('callbackafterlogin');
+                eval( callbackFunction )();
+            }
+
+            if (data.status == 'OK' && $(".venue_message_popup_overlay").length === 0){
             	$('body').addClass('vrauth');
             	var callback = vr.login.afterLogin();
             	if(data.new_user){
@@ -200,8 +275,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             	else{
             		vr.tracking.fireEvent({event_category:'Signup',event_action:'Login Completed',event_label:'Facebook Login Completed'},callback);
             	}
-            }
-            else{
+            } else if (data.status == 'OK' && $(".venue_message_popup_overlay").length > 0) {
+                $('body').addClass('vrauth');
+                vr.login.sendMessageAfterLogin();
+            } else {
                 alert('Sorry, but Facebook is connected correctly.');
             }
         }, 'json');
@@ -261,15 +338,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<a href="/destinations/bermuda">
+<a href="/v/">
 <div class="top-cta" style="padding: 8.5px 0;">
-    We found your new favorite spot. Check it out <i class="icon-long-arrow-right" style="background-size: 12px 6px; height: 6px; margin-bottom: 1px;"></i> <img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.12.6.3" style="height:15px; width: auto; margin: 1px 2px; vertical-align: text-bottom;" class="top-cta-icon">
+    Find Your Perfect Venue <i class="icon-long-arrow-right" style="background-size: 12px 6px; height: 6px; margin-bottom: 1px;"></i> <img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.15.4.6" style="height:15px; width: auto; margin: 1px 2px; vertical-align: text-bottom;" class="top-cta-icon">
 </div>
 </a>
 <script> 
   
 // Add body classes to this array to hide the cta from the page
-  var hideTopCtaWithBodyClassArray = ["holiday-party", "destinations"];
+  var hideTopCtaWithBodyClassArray = ["holiday-party", "destinations", "collections", "search-filters"];
   
 //Always add pushdown, add static-pushdown if you dont want it to scroll
   var pushdownClasses = "pushdown static-pushdown";
@@ -380,10 +457,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="https://www.venuereport.com/collections/2018-new-openings/" target="_blank" id="top_luggage_link">
 <!--
 	<div class='top_cta_luggage'>
-            <img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/new_venues_landing/icon-a-ok.png?v1.12.6.3" style="height:20px; width: auto" class="top-cta-icon">
-            <img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/new_venues_landing/2018-hottest-openings.png?v1.12.6.3" class="cta-text" style="height:16px; width: auto">
+            <img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/new_venues_landing/icon-a-ok.png?v1.15.4.6" style="height:20px; width: auto" class="top-cta-icon">
+            <img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/new_venues_landing/2018-hottest-openings.png?v1.15.4.6" class="cta-text" style="height:16px; width: auto">
              <span class="check-it-out">check it out</span> <i class="icon-long-arrow-right" style="background-size: 12px 6px; height: 6px"></i>
-            <img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icons/red-right-arrow.png?v1.12.6.3" class="icon-red-right-arrow" style="height:8px; width: auto">
+            <img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icons/red-right-arrow.png?v1.15.4.6" class="icon-red-right-arrow" style="height:8px; width: auto">
 
         	</div>
 //-->
@@ -391,7 +468,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div id="new-site" class="live-site">
 
         <div class="wrapper-content">
-            	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true&amp;libraries=places&amp;language=en&amp;key=AIzaSyChPEVSkHYue8Zs1Dw2xiBfMr_Zecj1PDg"></script>
+            	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true&amp;libraries=places&amp;language=en&amp;key=AIzaSyASAq0e2UCEpstgoYHV4NOX_u_yaVpLE04"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
 
 <script id="entry-template" type="text/x-handlebars-template" data-domainsource="https://www.venuereport.com/">
@@ -410,15 +487,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div id="header_top">
 			<div class="icon_buttons">
-				<div id="hamburger" class="up"><img class="ham" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hamburgaso.png?v1.12.6.3"><img class="icon-arrow" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-close_2x.png?v1.12.6.3"></div>
+				<div id="hamburger" class="up"><img class="ham" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hamburgaso.png?v1.15.4.6"><img class="icon-arrow" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-close_2x.png?v1.15.4.6"></div>
 				<div class="logo-icon">
-				<a href="/"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/group.png?v1.12.6.3" alt="The Venue Report"></a></div>
-				<img id="magnifying_glass" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/magnifyingglass.jpg?v1.12.6.3">
-				<img id="exit_mobile_search" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-close.png?v1.12.6.3"> 
+				<a href="/"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/group.png?v1.15.4.6" alt="The Venue Report"></a></div>
+				<img id="magnifying_glass" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/magnifyingglass.jpg?v1.15.4.6">
+				<img id="exit_mobile_search" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-close.png?v1.15.4.6"> 
 							</div>
 
 			<div class="logo-desktop">
-				<a href="/"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-logo-desktop_2x.png?v1.12.6.3" alt="The Venue Report" width="256" height="76"></a>
+				<a href="/"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-logo-desktop_2x.png?v1.15.4.6" alt="The Venue Report" width="256" height="76"></a>
 			</div>
 		
 			<div id="header_buttons">
@@ -435,7 +512,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<div class="header_top_nav_links">
 				<a href="/v/">Venues</a>
-				<a href="/v/?mst=room&amp;main_search_checkin=01%2F26%2F2019&amp;main_search_checkout=01%2F27%2F2019">Hotels</a>
+				<a href="/v/?mst=room&amp;main_search_checkin=05%2F18%2F2019&amp;main_search_checkout=05%2F19%2F2019">Hotels</a>
 				<a href="/magazine/">The Magazine</a>
 				<a href="/landing/locations">Destinations</a>
 				<a href="/offers-experiences/">Offers + Experiences</a>
@@ -444,7 +521,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div id="header_bottom">
 			<form class="main_search" action="/v/">
-				<input type="text" value="" id="search_text" name="location-address" autocomplete="off" placeholder="Explore places to celebrate, getaway and gather" style="background-image: url('//www.venuereport.com/bundles/venuereportfrontend/imagesnew/magnifyingglass.png?v1.12.6.3');background-position: 18px 16px; background-repeat: no-repeat; background-size:17px;">
+				<input type="text" value="" id="search_text" name="location-address" autocomplete="off" placeholder="Explore places to celebrate, getaway and gather">
 				<button type="submit" id="submit_search">search <i class="icon-long-arrow-right"></i></button>
 				<input type="hidden" name="venue_name" id="top_filter_venue_name">   
 										<input type="hidden" name="lat_coord">
@@ -461,7 +538,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<input id="topfilter-bookable-venues" name="bookable-venues" type="hidden" value="new" disabled="disabled">
 					<input id="location_display_name" name="location_display_name" type="hidden">
 				<div id="real_result_holder"></div>
-				<div id="real_result_loader"><img style="width:75px;" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/disco-loader-white.gif?v1.12.6.3"></div>
+				<div id="real_result_loader"><img style="width:75px;" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/disco-loader-white.gif?v1.15.4.6"></div>
 			</form>
 		</div>
 
@@ -482,40 +559,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<ul id="" class="nav_content_images_slider nav_content_images_slider_count_6" "="">
 		
 	<li>
-			<a href="/blog/this-cookbook-launch-party-took-place-at-an-organic-farm/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_150/0_BLOG/2018/12-December/NashvilleBookLaunch/8-TheVenueReport-NashvilleBookLaunch.jpg">
-			<div class="nav_content_images_slider_text">This Cookbook Launch Party Took Place at an Organic Farm</div>
+			<a href="/blog/how-to-turn-an-intimate-indoor-space-into-a-secret-garden/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_150/0_BLOG/2019/4-April/SecretGardenBirthday/14-TheVenueReport-SecretGardenBirthday-MarniPictures.jpg">
+			<div class="nav_content_images_slider_text">How to Turn an Intimate Indoor Space into a Secret Garden</div>
 		</a>
 			</li>
 		
 	<li>
-				<a href="/roundups/what-our-team-is-packing-for-their-holiday-travels/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_150/%200Regular_Roundup/2018/93-December/HolidayPackingGuide/COVER-TheVenueReport-AdamSzafranski.jpg">
-			<div class="nav_content_images_slider_text">What Our Team Is Packing for Their Holiday Travels</div>
+				<a href="/roundups/5-ways-to-plan-your-next-event-with-guests-in-mind-according-to-this-event-designer/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_150/%200Regular_Roundup/2019/3-March/SecretGardenTips/TheVenueReport-SecretGardenBirthday-MarniPictures-01.jpg">
+			<div class="nav_content_images_slider_text">5 Ways to Plan Your Next Event With Guests in Mind, Accordin...</div>
 		</a>
 		</li>
 		
 	<li>
-				<a href="/roundups/11-new-years-eve-party-trends-that-will-excite-you/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_150/%200Regular_Roundup/2018/93-December/NYE2018/Cover-JacobYackley-01jpg.jpg">
-			<div class="nav_content_images_slider_text">11 New Year’s Eve Party Trends That Will Excite You</div>
+				<a href="/roundups/10-reasons-why-you-must-book-cirque-du-soleil-for-your-next-event/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_150/%200Regular_Roundup/2019/3-March/Cirque-01/CirqueDuSoleil-AboubacarTraore-01.jpg">
+			<div class="nav_content_images_slider_text">10 Reasons Why You Must Book Cirque du Soleil for Your Next...</div>
 		</a>
 		</li>
 		
 	<li>
-			<a href="/blog/how-to-throw-a-decadent-gold-dusted-holiday-party/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_150/0_BLOG/2018/12-December/TinselHolidayParty/6-TheVenueReport-Tinsel.jpg">
-			<div class="nav_content_images_slider_text">How to Throw a Decadent, Gold Dusted Holiday Party</div>
+			<a href="/blog/this-portuguese-train-ride-is-a-nine-hour-michelin-starred-feast/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_150/0_BLOG/2019/4-April/PresidentialTrain/5-TheVenueReport-ThePresidentialTrain.jpg">
+			<div class="nav_content_images_slider_text">This Portuguese Train Ride is a Nine Hour, Michelin-Starred...</div>
 		</a>
 			</li>
 		
 	<li>
-			<a href="/blog/our-team-holiday-party-was-wild-this-year/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_150/0_BLOG/2018/12-December/TVRHolidayParty2018/10-TheVenueReport_HolidayParty-2018_Editorial.jpg">
-			<div class="nav_content_images_slider_text">Our Team Holiday Party Was Wild This Year</div>
+			<a href="/blog/a-new-all-pink-cafe-in-one-of-las-hottest-neighborhoods/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_150/0_BLOG/2019/3-March/Shreebs/12-TheVenueReport-Shreebs-NatashaLee.jpg">
+			<div class="nav_content_images_slider_text">A New All-Pink Café in One of LA's Hottest Neighborhoods</div>
 		</a>
 			</li>
 		
 	<li>
-			<a href="/blog/a-new-pop-up-dining-experience-just-landed-in-brooklyn/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_150/0_BLOG/2018/12-December/TheHoxtonDomes/1-TheVenueReport-TheHoxton.jpg">
-			<div class="nav_content_images_slider_text">A New Pop-Up Dining Experience Just Landed in Brooklyn</div>
+				<a href="/roundups/if-chile-isnt-on-your-bucket-list-it-will-be-now/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_150/ 0Regular_Roundup/2019/3-March/ChileGuide/AwasiPatagonia-01.jpg">
+			<div class="nav_content_images_slider_text">If Chile Isn't on Your Bucket List, It Will Be Now</div>
 		</a>
-			</li>
+		</li>
 							
 </ul>
 
@@ -534,19 +611,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="drop_down_subcategories_mobile" id="find_a_venue_nav_subcategories_mobile">
 							<ul>
 								<li class="show_mobile_nav_link"><a href="/venues/">View All Venues</a></li>
-								<li><a href="/v/wedding/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-weddings.jpg?v1.12.6.3)">
+								<li><a href="/collections/wedding" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-weddings.jpg?v1.15.4.6)">
 <div>Wedding Venues</div>
 </a>
 </li>
-<li><a href="/v/birthday-party/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-getaway.jpg?v1.12.6.3)">													
+<li><a href="/v/birthday-party/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-getaway.jpg?v1.15.4.6)">													
 <div>Birthday Venues</div>
 </a>
 </li>
-<li><a href="/v/corporate-event/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-corporate-retreats.jpg?v1.12.6.3)">												
+<li><a href="/v/corporate-event/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-corporate-retreats.jpg?v1.15.4.6)">												
 <div>Corporate Venues</div>
 </a>
 </li>
-<li><a href="/v/baby-shower/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/home/vr-home-caribbean.jpg?v1.12.6.3)">												
+<li><a href="/v/baby-shower/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/home/vr-home-caribbean.jpg?v1.15.4.6)">												
 <div>Baby Shower Venues</div>
 </a>
 </li>
@@ -572,7 +649,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						
 
 					<li>
-						<a href="/v/?mst=room&amp;main_search_checkin=01%2F26%2F2019&amp;main_search_checkout=01%2F27%2F2019" hrefold="/v/places-to-stay"><div data-nav-category-tab-id="hotels" class="category">Hotels <i class="icon-chevron-up"></i></div></a>
+						<a href="/v/?mst=room&amp;main_search_checkin=05%2F18%2F2019&amp;main_search_checkout=05%2F19%2F2019" hrefold="/v/places-to-stay"><div data-nav-category-tab-id="hotels" class="category">Hotels <i class="icon-chevron-up"></i></div></a>
 						<div class="drop_down_subcategories_mobile" id="hotels_nav_subcategories_mobile">
 							<ul>
 								<!--hotel subcatergories -->
@@ -588,22 +665,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-								<li><a href="/v/group-getaway/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_GroupTravel.png?v1.12.6.3)">
+								<li><a href="/v/group-getaway/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_GroupTravel.png?v1.15.4.6)">
 <div>Group Travel</div>
 </a>
 </li>
 
-<li><a href="/v/retreats-corporate-spa-wellness-etc/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_UniqueEcapes.png?v1.12.6.3)">											
+<li><a href="/v/retreats-corporate-spa-wellness-etc/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_UniqueEcapes.png?v1.15.4.6)">											
 <div>Retreats</div>
 </a>
 </li>
 
-<li><a href="/magazine/travel/bucket-list" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_BucketListIdeas.png?v1.12.6.3)">			
+<li><a href="/magazine/travel/bucket-list" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_BucketListIdeas.png?v1.15.4.6)">			
 <div>Bucket List Ideas</div>
 </a>
 </li>
 
-<li><a href="https://www.venuereport.com/v/bachelor-bachelorette-party" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_RoomBlocks.png?v1.12.6.3)">												
+<li><a href="https://www.venuereport.com/v/bachelor-bachelorette-party" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_RoomBlocks.png?v1.15.4.6)">												
 <div>Bachelorette Party</div>
 </a>
 </li>
@@ -644,34 +721,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<li class="show_mobile_nav_link"><a href="/events/">View All Events</a></li>
 								<ul class="sub_nav_list">
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/event/superfoods-and-adaptogens-workshop-saturday-january-12th/">
+									<a href="https://www.venuereport.com/event/ikebana-inspired-floral-arranging-workshop-with-ferox-studio-at-cook-space-may-4th/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads/cache/header_magazine_200/%200Regular_Roundup/Replacement-Photos/Superpowders.jpeg">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/feroxladies.jpg">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Superfoods and Adaptogens Workshop, Satu...		</h2>
+								<h2>	Ikebana-Inspired Floral Arranging Worksh...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/event/boogie-night-nye-at-building-177-december-31st/">
+									<a href="https://www.venuereport.com/event/pasta-making-filled-pasta-march-31st-at-6pm-115/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/NYEbldg177.JPG">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/pastalinguini.jpg">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Boogie Night NYE at Building 177, Decemb...		</h2>
+								<h2>	Pasta Making, Filled Pasta, March 31st a...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/event/taste-of-the-south-at-blackberry-farm-january-10th-13th/">
+									<a href="https://www.venuereport.com/event/cheese-geek-at-blackberry-farm-may-5th-8th/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/Screen Shot 2018-12-03 at 3.49.13 PM.png">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/Screen Shot 2019-03-26 at 3.53.28 PM.png">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Taste of the South at Blackberry Farm, J...		</h2>
+								<h2>	Cheese Geek at Blackberry Farm, May 5th-...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
@@ -682,34 +759,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 								<ul class="sub_nav_list">
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/offer-experience/new-years-eve-package-at-fairmont-miramar-hotel-bungalows/">
+									<a href="https://www.venuereport.com/offer-experience/4th-night-free-plus-hotel-credit-at-fairmont-miramar-hotel-bungalows/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/photo-1514828980084-9462f7d03afc.jpeg">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/fairmont-miramar-hotel-bungalows-12.jpg">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	New Year's Eve Package at Fairmont Miram...		</h2>
+								<h2>	4th Night Free Plus Hotel Credit at Fair...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/offer-experience/luxury-new-years-eve-in-tuscany-at-argentario-golf-resort-spa/">
+									<a href="https://www.venuereport.com/offer-experience/opening-offer-at-the-lodge-at-blue-sky/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/TheVenueReport-01-xQ7lD1.jpg">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/TheLodgeAtBlueSky-02.jpg">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Luxury New Year’s Eve in Tuscany at Arge...		</h2>
+								<h2>	Opening Offer at The Lodge at Blue Sky		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/offer-experience/book-early-save-at-lora-hotel/">
+									<a href="https://www.venuereport.com/offer-experience/luxury-ranch-summer-vacation-discount-at-headwaters-ranch/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/LoraHotel.jpeg">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/headwatersranch.png">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Book Early &amp; Save at Lora Hotel		</h2>
+								<h2>	Luxury Ranch Summer Vacation Discount at...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
@@ -859,7 +936,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 					</li>	
 					<li class="category_nav">
-						<a href="/collections/2018-new-openings/">
+						<a href="/collections/2019-new-openings/">
 							<i class="magazine-icon hottest"></i>
 							<div data-nav-category-tab-id="hottest" class="category">
 							<span>Hottest</span><i class="icon-chevron-up"></i>
@@ -867,11 +944,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</a>
 						<div class="drop_down_subcategories_mobile" id="hottest_nav_subcategories_mobile">
 							<ul>
-								<li> <a href="/collections/2018-new-openings/">View All Hottest</a></li>
-<li> <a href="/roundups/2018s-hottest-new-venue-openings-across-the-globe/">Hottest Venues</a></li>
-<li> <a href="/roundups/2018s-hottest-new-hotel-openings-across-the-globe/">Hottest Hotels</a></li>
-<li> <a href="/roundups/2018s-hottest-new-restaurant-openings-across-the-globe/">Hottest Restaurants</a></li>
-<li> <a href="/roundups/2018s-hottest-new-cafe-openings-across-the-globe/">Hottest Cafés</a></li>
+								<li> <a href="/collections/2019-new-openings/">New Openings 2019</a></li>
+<li> <a href="/roundups/2019s-hottest-new-venue-openings-across-the-globe/">New Venue Openings 2019</a></li>
+<li> <a href="/roundups/2019s-hottest-new-hotel-openings-across-the-globe/">New Hotel Openings 2019</a></li>
+<li> <a href="/roundups/2019s-hottest-new-restaurant-openings-across-the-globe/">New Restaurants Openings 2019</a></li>
+<li> <a href="/roundups/2019s-hottest-new-cafe-openings-across-the-globe/">New Cafés Openings 2019</a></li>
+<li> <a href="/collections/2019-new-openings/">View All New Openings</a></li>
 							</ul>
 						</div>
 					</li>	
@@ -914,19 +992,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="drop_down_content_images">
 					<ul class="content_images_2x2">
-						<li><a href="/v/wedding/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-weddings.jpg?v1.12.6.3)">
+						<li><a href="/collections/wedding" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-weddings.jpg?v1.15.4.6)">
 <div>Wedding Venues</div>
 </a>
 </li>
-<li><a href="/v/birthday-party/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-getaway.jpg?v1.12.6.3)">													
+<li><a href="/v/birthday-party/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-getaway.jpg?v1.15.4.6)">													
 <div>Birthday Venues</div>
 </a>
 </li>
-<li><a href="/v/corporate-event/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-corporate-retreats.jpg?v1.12.6.3)">												
+<li><a href="/v/corporate-event/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/vr-corporate-retreats.jpg?v1.15.4.6)">												
 <div>Corporate Venues</div>
 </a>
 </li>
-<li><a href="/v/baby-shower/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/home/vr-home-caribbean.jpg?v1.12.6.3)">												
+<li><a href="/v/baby-shower/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/home/vr-home-caribbean.jpg?v1.15.4.6)">												
 <div>Baby Shower Venues</div>
 </a>
 </li>
@@ -956,22 +1034,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="drop_down_content_images">
 					<ul class="content_images_2x2">
-						<li><a href="/v/group-getaway/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_GroupTravel.png?v1.12.6.3)">
+						<li><a href="/v/group-getaway/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_GroupTravel.png?v1.15.4.6)">
 <div>Group Travel</div>
 </a>
 </li>
 
-<li><a href="/v/retreats-corporate-spa-wellness-etc/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_UniqueEcapes.png?v1.12.6.3)">											
+<li><a href="/v/retreats-corporate-spa-wellness-etc/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_UniqueEcapes.png?v1.15.4.6)">											
 <div>Retreats</div>
 </a>
 </li>
 
-<li><a href="/magazine/travel/bucket-list" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_BucketListIdeas.png?v1.12.6.3)">			
+<li><a href="/magazine/travel/bucket-list" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_BucketListIdeas.png?v1.15.4.6)">			
 <div>Bucket List Ideas</div>
 </a>
 </li>
 
-<li><a href="https://www.venuereport.com/v/bachelor-bachelorette-party" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_RoomBlocks.png?v1.12.6.3)">												
+<li><a href="https://www.venuereport.com/v/bachelor-bachelorette-party" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hotel_nav_images/SiteNavigation_Hotels_RoomBlocks.png?v1.15.4.6)">												
 <div>Bachelorette Party</div>
 </a>
 </li>
@@ -1008,62 +1086,62 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="drop_down_content_images">
 					<ul class="sub_nav_list content_images_2x3">
 		<li class="sub_image_text_block">
-		<a href="https://www.venuereport.com/roundups/7-epic-places-to-eat-in-toronto-right-now/">
+		<a href="https://www.venuereport.com/roundups/the-top-wedding-venues-in-and-around-sydney-right-now/">
 			<div class="sub_image_text_image">
-									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/92-November/TorontoDining/VirtuousPieToronto-02.jpg">
+									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/4-April/SydneyVenues/SomerleyHouse-guijorgephotography-01.jpg">
 							</div>
 			<div class="sub_image_text_info">
-				7 Epic Places to Eat in Toronto Right No...		
+				The Top Wedding Venues In &amp; Around Sydne...		
 			</div>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-		<a href="https://www.venuereport.com/roundups/10-essential-places-to-visit-in-helsinki-from-a-local-designer/">
+		<a href="https://www.venuereport.com/roundups/explore-the-world-at-these-12-dining-and-drinking-destinations-in-philadelphia/">
 			<div class="sub_image_text_image">
-									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/92-November/HelsinkiGuide/AllasPool-01.jpg">
+									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/4-April/PhillyDrinkingGuide/Zahav-JennPan-01.jpg">
 							</div>
 			<div class="sub_image_text_info">
-				10 Essential Places to Visit in Helsinki...		
+				Explore the World at these 12 Dining &amp; D...		
 			</div>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-		<a href="https://www.venuereport.com/roundups/san-franciscos-best-restaurants-for-group-dining/">
+		<a href="https://www.venuereport.com/roundups/top-wedding-venues-in-brooklyn/">
 			<div class="sub_image_text_image">
-									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/92-November/SFPrivateDining/LazyBear-CandidaWohlgemuth-02.jpg">
+									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/3-March/BrooklynVenues/BrooklynArtLibrary-BasjfulCaptures-01.jpg">
 							</div>
 			<div class="sub_image_text_info">
-				San Francisco's Best Restaurants for Gro...		
+				19 Crazy Cool Wedding Venues in Brooklyn		
 			</div>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-		<a href="https://www.venuereport.com/roundups/everything-you-have-ever-wanted-to-know-about-visiting-big-sur/">
+		<a href="https://www.venuereport.com/roundups/all-you-need-to-know-about-californias-hottest-micro-destination-los-alamos/">
 			<div class="sub_image_text_image">
-									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/92-November/BigSurGuide/Ventana-AmySeder-02.jpg">
+									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/2-February/LosAlamosGuide/Bodega-OMalleyPhotographers-01.jpg">
 							</div>
 			<div class="sub_image_text_info">
-				Everything You Have Ever Wanted to Know ...		
+				All You Need to Know About California’s ...		
 			</div>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-		<a href="https://www.venuereport.com/roundups/4-reasons-you-should-visit-this-hidden-oaxacan-beach-town/">
+		<a href="https://www.venuereport.com/roundups/a-complete-getaway-guide-to-carmel-and-monterey/">
 			<div class="sub_image_text_image">
-									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/92-November/PuertoEscondido/Stay-PuertoEscondido-MariannaJamadi-01.jpg">
+									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/1-January/CarmelMonterey/COVER-AdamSzafranski-02.jpg">
 							</div>
 			<div class="sub_image_text_info">
-				4 Reasons You Should Visit This Hidden O...		
+				A Complete Getaway Guide to Carmel and M...		
 			</div>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-		<a href="https://www.venuereport.com/roundups/13-ideas-for-your-next-girls-getaway-to-nashville/">
+		<a href="https://www.venuereport.com/roundups/8-reasons-you-should-visit-san-juan-puerto-rico-this-year/">
 			<div class="sub_image_text_image">
-									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/91-October/NashvilleGuide/NatashaLee-Nashville-Fairlane-4406.jpg">
+									<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/1-January/PuertoRico/8_CondadoVanderbilt_TheVenueReport.jpg">
 							</div>
 			<div class="sub_image_text_info">
-				13 Ideas for Your Next Girls Getaway to ...		
+				8 Reasons You Should Visit San Juan, Pue...		
 			</div>
 		</a>
 	</li>
@@ -1084,34 +1162,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="content_images_2x3_no_subcategories">
 						<ul class="sub_nav_list">
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/event/superfoods-and-adaptogens-workshop-saturday-january-12th/">
+									<a href="https://www.venuereport.com/event/ikebana-inspired-floral-arranging-workshop-with-ferox-studio-at-cook-space-may-4th/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads/cache/header_magazine_200/%200Regular_Roundup/Replacement-Photos/Superpowders.jpeg">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/feroxladies.jpg">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Superfoods and Adaptogens Workshop, Satu...		</h2>
+								<h2>	Ikebana-Inspired Floral Arranging Worksh...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/event/boogie-night-nye-at-building-177-december-31st/">
+									<a href="https://www.venuereport.com/event/pasta-making-filled-pasta-march-31st-at-6pm-115/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/NYEbldg177.JPG">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/pastalinguini.jpg">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Boogie Night NYE at Building 177, Decemb...		</h2>
+								<h2>	Pasta Making, Filled Pasta, March 31st a...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/event/taste-of-the-south-at-blackberry-farm-january-10th-13th/">
+									<a href="https://www.venuereport.com/event/cheese-geek-at-blackberry-farm-may-5th-8th/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/Screen Shot 2018-12-03 at 3.49.13 PM.png">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/Screen Shot 2019-03-26 at 3.53.28 PM.png">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Taste of the South at Blackberry Farm, J...		</h2>
+								<h2>	Cheese Geek at Blackberry Farm, May 5th-...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
@@ -1121,34 +1199,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
 						<ul class="sub_nav_list">
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/offer-experience/new-years-eve-package-at-fairmont-miramar-hotel-bungalows/">
+									<a href="https://www.venuereport.com/offer-experience/4th-night-free-plus-hotel-credit-at-fairmont-miramar-hotel-bungalows/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/photo-1514828980084-9462f7d03afc.jpeg">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/fairmont-miramar-hotel-bungalows-12.jpg">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	New Year's Eve Package at Fairmont Miram...		</h2>
+								<h2>	4th Night Free Plus Hotel Credit at Fair...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/offer-experience/luxury-new-years-eve-in-tuscany-at-argentario-golf-resort-spa/">
+									<a href="https://www.venuereport.com/offer-experience/opening-offer-at-the-lodge-at-blue-sky/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/TheVenueReport-01-xQ7lD1.jpg">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/TheLodgeAtBlueSky-02.jpg">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Luxury New Year’s Eve in Tuscany at Arge...		</h2>
+								<h2>	Opening Offer at The Lodge at Blue Sky		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
 	</li>
 		<li class="sub_image_text_block">
-									<a href="https://www.venuereport.com/offer-experience/book-early-save-at-lora-hotel/">
+									<a href="https://www.venuereport.com/offer-experience/luxury-ranch-summer-vacation-discount-at-headwaters-ranch/">
 			<div class="sub_image_text_image">
-				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/LoraHotel.jpeg">
+				<img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/Replacement-Photos/headwatersranch.png">
 			</div>
 			<div class="sub_image_text_info">
-								<h2>	Book Early &amp; Save at Lora Hotel		</h2>
+								<h2>	Luxury Ranch Summer Vacation Discount at...		</h2>
 			</div>
 			<span class="read_more">Read More</span>
 		</a>
@@ -1163,31 +1241,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div id="hottest_top_header_drop_content">
 				<div class="drop_down_content_subcategories">
 					<ul>
-						<li> <a href="/collections/2018-new-openings/">View All Hottest</a></li>
-<li> <a href="/roundups/2018s-hottest-new-venue-openings-across-the-globe/">Hottest Venues</a></li>
-<li> <a href="/roundups/2018s-hottest-new-hotel-openings-across-the-globe/">Hottest Hotels</a></li>
-<li> <a href="/roundups/2018s-hottest-new-restaurant-openings-across-the-globe/">Hottest Restaurants</a></li>
-<li> <a href="/roundups/2018s-hottest-new-cafe-openings-across-the-globe/">Hottest Cafés</a></li>
+						<li> <a href="/collections/2019-new-openings/">New Openings 2019</a></li>
+<li> <a href="/roundups/2019s-hottest-new-venue-openings-across-the-globe/">New Venue Openings 2019</a></li>
+<li> <a href="/roundups/2019s-hottest-new-hotel-openings-across-the-globe/">New Hotel Openings 2019</a></li>
+<li> <a href="/roundups/2019s-hottest-new-restaurant-openings-across-the-globe/">New Restaurants Openings 2019</a></li>
+<li> <a href="/roundups/2019s-hottest-new-cafe-openings-across-the-globe/">New Cafés Openings 2019</a></li>
+<li> <a href="/collections/2019-new-openings/">View All New Openings</a></li>
 					</ul>
 				</div>
 				<div class="drop_down_content_images">
 					<ul class="content_images_2x2">
-						<li><a href="/roundups/2018s-hottest-new-venue-openings-across-the-globe/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hottest_venues.png?v1.12.6.3)">
+						<li><a href="/roundups/2019s-hottest-new-venue-openings-across-the-globe/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/collections/hottest2019/Venues.png?v1.15.4.6)">
 <div>Venues</div>
 </a>
 </li>
 
-<li><a href="/roundups/2018s-hottest-new-hotel-openings-across-the-globe/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hottest_hotels.png?v1.12.6.3)">											
+<li><a href="/roundups/2019s-hottest-new-hotel-openings-across-the-globe/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/collections/hottest2019/hotels.png?v1.15.4.6)">
 <div>Hotels</div>
 </a>
 </li>
 
-<li><a href="/roundups/2018s-hottest-new-restaurant-openings-across-the-globe/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hottest_restaurants.png?v1.12.6.3)">			
+<li><a href="/roundups/2019s-hottest-new-restaurant-openings-across-the-globe/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/collections/hottest2019/Restaurants.png?v1.15.4.6)">
 <div>Restaurants</div>
 </a>
 </li>
 
-<li><a href="/roundups/2018s-hottest-new-cafe-openings-across-the-globe/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/hottest_cafes.png?v1.12.6.3)">												
+<li><a href="/roundups/2019s-hottest-new-cafe-openings-across-the-globe/" style="background-image:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/collections/hottest2019/Cafes.png?v1.15.4.6)">	
 <div>Cafés</div>
 </a>
 </li>
@@ -1216,38 +1295,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<ul id="nav_weddings_content_images" class="content_images_2x3">
 		
 	<li>
-			<a href="/blog/this-bridal-event-is-showcasing-2019s-top-wedding-trends-first/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/ModernLoveNashville/1-TheVenueReport-ModernLoveEvent-Nashville.jpg">
-			<div>This Bridal Event Is Showcasing 2019's T...</div>
+				<a href="/roundups/the-most-gorgeous-wedding-venues-in-the-texas-hill-country/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_200/%200Regular_Roundup/2019/4-April/TexasHillCountry/TheCarrington-MintPhotography-01.jpg">
+			<div>The Most Gorgeous Wedding Venues in the...</div>
+		</a>
+		</li>
+		
+	<li>
+				<a href="/roundups/the-best-boating-and-floating-wedding-venues-across-the-world/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/4-April/BoatVenues/LakeGenevaCruise-KristinaLorraine-01.jpg">
+			<div>The Best Boating and Floating Wedding Ve...</div>
+		</a>
+		</li>
+		
+	<li>
+				<a href="/roundups/this-vogue-editor-is-sharing-her-7-favorite-wedding-venues-of-all-time/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/4-April/VogueEditorVenues/ChateauDeLaBourdaisiere-HelenAbraham-02.jpg">
+			<div>This Vogue Editor Is Sharing Her 7 Favor...</div>
+		</a>
+		</li>
+		
+	<li>
+			<a href="/blog/how-this-editor-brought-weddings-to-vogue-before-co-launching-a-new-bridal-site/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/OverTheMoon/AlexandraMacon-OverTheMoon-01.jpg">
+			<div>How This Editor Brought Weddings to Vogu...</div>
 		</a>
 			</li>
 		
 	<li>
-				<a href="/roundups/9-tips-to-styling-the-ultimate-holiday-party/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/BIPR-Holidays/COVER-TheVenueReport-BIPR.jpg">
-			<div>9 Steps to Styling the Ultimate Holiday...</div>
+				<a href="/roundups/how-to-plan-a-styled-shoot-in-6-steps-according-to-this-san-diego-event-pro/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/3-March/VillaFrancesca/TheVenueReport-VillaFrancesca-07.jpg">
+			<div>How to Plan a Styled Shoot in 6 Steps, A...</div>
 		</a>
 		</li>
 		
 	<li>
-				<a href="/roundups/if-you-own-a-venue-here-are-9-ways-to-make-your-venue-tours-awesome/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/VenueTour/COVER-JoseVilla-01.jpg">
-			<div>If You Own a Venue, Here Are 9 Ways to M...</div>
-		</a>
-		</li>
-		
-	<li>
-				<a href="/roundups/24-totally-convincing-reasons-to-get-married-in-maryland/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/92-November/Maryland2018/SpringfieldManorWinery-BekahKay-03.jpg">
-			<div>24 Totally Convincing Reasons to Get Mar...</div>
-		</a>
-		</li>
-		
-	<li>
-				<a href="/roundups/are-you-a-maid-of-honor-here-are-10-tips-to-help-you-get-started/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/92-November/MaidOfHonor/Bachelorette-AliceMahran-01.jpg">
-			<div>Are You a Maid of Honor? Here Are 10 Tip...</div>
-		</a>
-		</li>
-		
-	<li>
-			<a href="/blog/looks-like-we-found-the-best-place-to-have-a-relaxed-carefree-destination-wedding/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/10-October/Bermuda-04/14-TheVenueReport-Bermuda-JoseVilla.jpg">
-			<div>Looks Like We Found the Best Place to Ha...</div>
+			<a href="/blog/you-can-get-married-at-this-ferragamo-family-castle-in-the-tuscan-countryside/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/IlBoro/2-TheVenueReport-IlBoro.jpg">
+			<div>You Can Get Married at This Ferragamo Fa...</div>
 		</a>
 			</li>
 							
@@ -1274,40 +1353,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<ul id="nav_gatherings_content_images" class="content_images_2x3">
 		
 	<li>
-			<a href="/blog/a-warehouse-pop-up-dinner-with-a-warming-sumac-flecked-bourbon-cocktail-recipe/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_200/0_BLOG/2018/12-December/SurplusDinner/1-TheVenueReport-SurplusDinner.jpg">
-			<div>A Warehouse Pop-Up Dinner With a Warming...</div>
+			<a href="/blog/this-rescue-donkey-named-burrito-had-the-most-special-1st-birthday-party/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/Burrito/2-TheVenueReport-AcreBaja-BurritosBirthday.jpg">
+			<div>This Rescue Donkey Named Burrito Had the...</div>
 		</a>
 			</li>
 		
 	<li>
-			<a href="/blog/this-cookbook-launch-party-took-place-at-an-organic-farm/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/NashvilleBookLaunch/8-TheVenueReport-NashvilleBookLaunch.jpg">
-			<div>This Cookbook Launch Party Took Place at...</div>
+			<a href="/blog/50-shades-of-blue-see-how-this-dinner-party-embraced-2019s-tonal-trend/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/PDCBlue/23-TheVenueReport-PDCBlue.jpg">
+			<div>50 Shades of Blue: See How This Dinner P...</div>
 		</a>
 			</li>
 		
 	<li>
-				<a href="/roundups/what-our-team-is-packing-for-their-holiday-travels/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/HolidayPackingGuide/COVER-TheVenueReport-AdamSzafranski.jpg">
-			<div>What Our Team Is Packing for Their Holid...</div>
+				<a href="/roundups/the-best-spots-for-a-corporate-retreat-in-the-bay-area-beyond/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/4-April/BayAreaCorporate/VentanaBigSur-AwayLands-01.jpg">
+			<div>The Best Spots for a Corporate Retreat i...</div>
 		</a>
 		</li>
 		
 	<li>
-				<a href="/roundups/11-new-years-eve-party-trends-that-will-excite-you/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/NYE2018/Cover-JacobYackley-01jpg.jpg">
-			<div>11 New Year’s Eve Party Trends That Will...</div>
+			<a href="/blog/you-can-dine-among-50-acres-of-flowers-during-carlsbads-petal-to-plate/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/FlowerFields/1-TheVenueReport-FlowerFields.jpg">
+			<div>You Can Dine Among 50 Acres of Flowers D...</div>
+		</a>
+			</li>
+		
+	<li>
+			<a href="/blog/how-to-turn-an-intimate-indoor-space-into-a-secret-garden/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/SecretGardenBirthday/14-TheVenueReport-SecretGardenBirthday-MarniPictures.jpg">
+			<div>How to Turn an Intimate Indoor Space int...</div>
+		</a>
+			</li>
+		
+	<li>
+				<a href="/roundups/5-ways-to-plan-your-next-event-with-guests-in-mind-according-to-this-event-designer/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/3-March/SecretGardenTips/TheVenueReport-SecretGardenBirthday-MarniPictures-01.jpg">
+			<div>5 Ways to Plan Your Next Event With Gues...</div>
 		</a>
 		</li>
-		
-	<li>
-			<a href="/blog/our-team-holiday-party-was-wild-this-year/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/TVRHolidayParty2018/10-TheVenueReport_HolidayParty-2018_Editorial.jpg">
-			<div>Our Team Holiday Party Was Wild This Yea...</div>
-		</a>
-			</li>
-		
-	<li>
-			<a href="/blog/a-new-pop-up-dining-experience-just-landed-in-brooklyn/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/TheHoxtonDomes/1-TheVenueReport-TheHoxton.jpg">
-			<div>A New Pop-Up Dining Experience Just Land...</div>
-		</a>
-			</li>
 							
 </ul>
 					
@@ -1328,38 +1407,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<ul id="nav_exclusives_content_images" class="content_images_2x3">
 		
 	<li>
-			<a href="/blog/this-bridal-event-is-showcasing-2019s-top-wedding-trends-first/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/ModernLoveNashville/1-TheVenueReport-ModernLoveEvent-Nashville.jpg">
-			<div>This Bridal Event Is Showcasing 2019's T...</div>
+			<a href="/blog/50-shades-of-blue-see-how-this-dinner-party-embraced-2019s-tonal-trend/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_200/0_BLOG/2019/4-April/PDCBlue/23-TheVenueReport-PDCBlue.jpg">
+			<div>50 Shades of Blue: See How This Dinner P...</div>
 		</a>
 			</li>
 		
 	<li>
-				<a href="/roundups/what-our-team-is-packing-for-their-holiday-travels/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/HolidayPackingGuide/COVER-TheVenueReport-AdamSzafranski.jpg">
-			<div>What Our Team Is Packing for Their Holid...</div>
-		</a>
-		</li>
-		
-	<li>
-			<a href="/blog/how-to-throw-a-decadent-gold-dusted-holiday-party/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/TinselHolidayParty/6-TheVenueReport-Tinsel.jpg">
-			<div>How to Throw a Decadent, Gold Dusted Hol...</div>
+			<a href="/blog/i-booked-an-international-trip-for-one-lunch-reservation-you-should-too/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/Pujol/1-TheVenueReport-Pujol-AdamSzafranski.jpg">
+			<div>I Booked an International Trip For One L...</div>
 		</a>
 			</li>
 		
 	<li>
-			<a href="/blog/our-team-holiday-party-was-wild-this-year/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/TVRHolidayParty2018/10-TheVenueReport_HolidayParty-2018_Editorial.jpg">
-			<div>Our Team Holiday Party Was Wild This Yea...</div>
+			<a href="/blog/san-franciscos-most-anticipated-new-restaurant-is-here-get-an-exclusive-look-inside/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/NooshSF/3-TheVenueReport-Noosh-AudreyMa.jpg">
+			<div>San Francisco's Most Anticipated New Res...</div>
 		</a>
 			</li>
 		
 	<li>
-				<a href="/roundups/its-here-6-super-chic-gift-guides-from-female-founded-brands/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/TheHelm/TheHelm-TheGourmond-01.jpg">
-			<div>It's Here: 6 Super Chic Gift Guides from...</div>
+			<a href="/blog/this-new-york-wedding-venue-recently-opened-a-new-social-club-onsite/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/3-March/TakkHouse/14-TheVenueReport-TakkHouse1.jpg">
+			<div>This New York Wedding Venue Recently Ope...</div>
 		</a>
-		</li>
+			</li>
 		
 	<li>
-			<a href="/blog/this-cliffside-prohibition-era-brewery-is-now-a-chic-hotel/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/HotelLora/1-TheVenueReport-HotelLora.jpg">
-			<div>This Cliffside Prohibition-Era Brewery I...</div>
+			<a href="/blog/this-grocery-store-turns-into-an-avant-garde-dinner-party-at-night/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/3-March/MerchantRoots/1-TheVenueReport-MerchantRoots-KassieBorresom.jpg">
+			<div>This Grocery Store Turns into an Avant-G...</div>
+		</a>
+			</li>
+		
+	<li>
+			<a href="/blog/this-dinner-party-turned-into-a-sleepover-at-a-cozy-boutique-hotel/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/3-March/Troutbeck/11-TheVenueReport-Troutbeck-AGNPCollective.jpg">
+			<div>This Dinner Party Turned into a Sleepove...</div>
 		</a>
 			</li>
 							
@@ -1392,40 +1471,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<ul id="nav_travel_content_images" class="content_images_2x3">
 		
 	<li>
-				<a href="/roundups/everything-youve-always-wanted-to-know-about-the-museum-of-ice-cream/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_200/0_BLOG/2018/12-December/MOIC/4-TheVenueReport-MOIC.jpg">
-			<div>Everything You've Always Wanted to Know...</div>
-		</a>
-		</li>
-		
-	<li>
-				<a href="/roundups/get-the-look-a-relaxed-beach-bungalow-in-tulum/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/Chairish-NestTulum/NestTulum-NicoleHibner-01.jpg">
-			<div>Get the Look: A Relaxed Beach Bungalow i...</div>
-		</a>
-		</li>
-		
-	<li>
-				<a href="/roundups/11-new-years-eve-party-trends-that-will-excite-you/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/NYE2018/Cover-JacobYackley-01jpg.jpg">
-			<div>11 New Year’s Eve Party Trends That Will...</div>
-		</a>
-		</li>
-		
-	<li>
-			<a href="/blog/a-tour-of-seattles-pike-place-market-with-a-michelin-starred-chef/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/Seattle-PikePlaceMarket-TheVenueReport-AdamSzafranski-011.jpg">
-			<div>A Tour of Seattle's Pike Place Market Wi...</div>
+			<a href="/blog/sleep-in-a-barn-dine-in-a-greenhouse-at-this-chic-getaway-outside-of-paris/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_200/0_BLOG/2019/4-April/LeBarnHotel/9-TheVenueReport-LeBarnHotel.jpg">
+			<div>Sleep in a Barn &amp; Dine in a Greenhouse a...</div>
 		</a>
 			</li>
 		
 	<li>
-			<a href="/blog/this-cliffside-prohibition-era-brewery-is-now-a-chic-hotel/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/HotelLora/1-TheVenueReport-HotelLora.jpg">
-			<div>This Cliffside Prohibition-Era Brewery I...</div>
+			<a href="/blog/i-booked-an-international-trip-for-one-lunch-reservation-you-should-too/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/Pujol/1-TheVenueReport-Pujol-AdamSzafranski.jpg">
+			<div>I Booked an International Trip For One L...</div>
 		</a>
 			</li>
 		
 	<li>
-				<a href="/roundups/our-favorite-scandi-design-spots-around-the-world/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/ScandiDesign/DiningRoomAtSix-AndrewMeredith-02.jpg">
-			<div>Our Favorite Scandi Design Spots Around...</div>
+				<a href="/roundups/the-top-wedding-venues-in-and-around-sydney-right-now/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/4-April/SydneyVenues/SomerleyHouse-guijorgephotography-01.jpg">
+			<div>The Top Wedding Venues In &amp; Around Sydne...</div>
 		</a>
 		</li>
+		
+	<li>
+				<a href="/roundups/thinking-of-producing-an-editorial-shoot-read-this-first/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/4-April/GatherGreene/TheVenueReport-GatherGreene-GirlsGetaway-04.jpg">
+			<div>Thinking of Producing an Editorial Shoot...</div>
+		</a>
+		</li>
+		
+	<li>
+			<a href="/blog/an-ethereal-farewell-to-winter-celebration-in-upstate-new-york/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/GatherGreene/25-TheVenueReport-GatherGreene-GirlsGetaway.jpg">
+			<div>An Ethereal Farewell-to-Winter Celebrati...</div>
+		</a>
+			</li>
+		
+	<li>
+			<a href="/blog/this-gorgeous-gathering-brought-together-san-diegos-leading-female-founders/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/BumbleBizz/6-TheVenueReport-BumbleBizz.jpg">
+			<div>This Gorgeous Gathering Brought Together...</div>
+		</a>
+			</li>
 							
 </ul>
 						
@@ -1451,38 +1530,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<ul id="nav_food_and_drink_content_images" class="content_images_2x3">
 		
 	<li>
-			<a href="/blog/this-cookbook-launch-party-took-place-at-an-organic-farm/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/NashvilleBookLaunch/8-TheVenueReport-NashvilleBookLaunch.jpg">
-			<div>This Cookbook Launch Party Took Place at...</div>
+			<a href="/blog/3-nutritionist-approved-dinner-party-recipes-for-healthy-hosting/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_200/0_BLOG/2019/4-April/CaraClark/UCGC_TVR_0174.jpg">
+			<div>3 Nutritionist Approved Dinner Party Rec...</div>
 		</a>
 			</li>
 		
 	<li>
-				<a href="/roundups/11-new-years-eve-party-trends-that-will-excite-you/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/NYE2018/Cover-JacobYackley-01jpg.jpg">
-			<div>11 New Year’s Eve Party Trends That Will...</div>
+			<a href="/blog/i-booked-an-international-trip-for-one-lunch-reservation-you-should-too/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/Pujol/1-TheVenueReport-Pujol-AdamSzafranski.jpg">
+			<div>I Booked an International Trip For One L...</div>
+		</a>
+			</li>
+		
+	<li>
+			<a href="/blog/san-franciscos-most-anticipated-new-restaurant-is-here-get-an-exclusive-look-inside/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/NooshSF/3-TheVenueReport-Noosh-AudreyMa.jpg">
+			<div>San Francisco's Most Anticipated New Res...</div>
+		</a>
+			</li>
+		
+	<li>
+			<a href="/blog/this-gorgeous-gathering-brought-together-san-diegos-leading-female-founders/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/BumbleBizz/6-TheVenueReport-BumbleBizz.jpg">
+			<div>This Gorgeous Gathering Brought Together...</div>
+		</a>
+			</li>
+		
+	<li>
+				<a href="/roundups/explore-the-world-at-these-12-dining-and-drinking-destinations-in-philadelphia/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/4-April/PhillyDrinkingGuide/Zahav-JennPan-01.jpg">
+			<div>Explore the World at these 12 Dining &amp; D...</div>
 		</a>
 		</li>
 		
 	<li>
-			<a href="/blog/a-new-pop-up-dining-experience-just-landed-in-brooklyn/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/TheHoxtonDomes/1-TheVenueReport-TheHoxton.jpg">
-			<div>A New Pop-Up Dining Experience Just Land...</div>
-		</a>
-			</li>
-		
-	<li>
-			<a href="/blog/a-tour-of-seattles-pike-place-market-with-a-michelin-starred-chef/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/Seattle-PikePlaceMarket-TheVenueReport-AdamSzafranski-011.jpg">
-			<div>A Tour of Seattle's Pike Place Market Wi...</div>
-		</a>
-			</li>
-		
-	<li>
-			<a href="/blog/a-holiday-brunch-with-friends-recipe-savory-buckwheat-crepes-with-whipped-feta/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/12-December/ChristmasBrunch/1-TheVenueReport-ChristmasBrunch.jpg">
-			<div>A Holiday Brunch With Friends Recipe: Sa...</div>
-		</a>
-			</li>
-		
-	<li>
-				<a href="/roundups/our-favorite-scandi-design-spots-around-the-world/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/ScandiDesign/DiningRoomAtSix-AndrewMeredith-02.jpg">
-			<div>Our Favorite Scandi Design Spots Around...</div>
+				<a href="/roundups/2019s-hottest-new-cafe-openings-across-the-globe/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/3-March/HottestCafes2019/COVER-HottestCafeOpenings-TheVenueReport-01.jpg">
+			<div>2019’s Hottest New Café Openings Across...</div>
 		</a>
 		</li>
 							
@@ -1506,40 +1585,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<ul id="nav_lifestyle_content_images" class="content_images_2x3">
 		
 	<li>
-				<a href="/roundups/how-to-stay-healthy-while-traveling-during-the-holidays/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_200/%200Regular_Roundup/2018/93-December/HealthyTravelTips/Snacks-SunkissedKitchen-01.jpg">
-			<div>How to Stay Healthy While Traveling Duri...</div>
-		</a>
-		</li>
-		
-	<li>
-				<a href="/roundups/its-here-6-super-chic-gift-guides-from-female-founded-brands/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/93-December/TheHelm/TheHelm-TheGourmond-01.jpg">
-			<div>It's Here: 6 Super Chic Gift Guides from...</div>
-		</a>
-		</li>
-		
-	<li>
-				<a href="/roundups/struggling-to-find-your-groom-a-wedding-band-here-are-our-12-favorites/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/91-October/MensWeddingRings/COVER-EdenStrader-01.jpg">
-			<div>Struggling to Find Your Groom a Wedding...</div>
-		</a>
-		</li>
-		
-	<li>
-			<a href="/blog/this-engineer-quit-her-job-to-build-an-online-community-for-women/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2018/10-October/GNI/GNI-SloaneDakotaTucker-01.jpg">
-			<div>This Engineer Quit Her Job to Build an O...</div>
+			<a href="/blog/3-nutritionist-approved-dinner-party-recipes-for-healthy-hosting/"><img src="https://www.venuereport.com/uploads/cache/header_magazine_200/0_BLOG/2019/4-April/CaraClark/UCGC_TVR_0174.jpg">
+			<div>3 Nutritionist Approved Dinner Party Rec...</div>
 		</a>
 			</li>
 		
 	<li>
-				<a href="/roundups/an-interior-design-lovers-guide-to-shopping-in-sydney/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/91-October/SydneyShops/Jardan-amateurarchphotographer-01.jpg">
-			<div>An Interior Design Lover’s Guide to Shop...</div>
+			<a href="/blog/how-this-editor-brought-weddings-to-vogue-before-co-launching-a-new-bridal-site/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/4-April/OverTheMoon/AlexandraMacon-OverTheMoon-01.jpg">
+			<div>How This Editor Brought Weddings to Vogu...</div>
+		</a>
+			</li>
+		
+	<li>
+				<a href="/roundups/everything-you-need-to-know-to-build-your-dream-wedding-registry/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/1-January/Zola/COVER-JoseVilla-02.jpg">
+			<div>Everything You Need to Know to Build You...</div>
 		</a>
 		</li>
 		
 	<li>
-				<a href="/roundups/5-ways-to-introduce-wellness-programs-into-the-workplace/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2018/9-September/WorkplaceWellness/Retreat-AdamDecker-01.jpg">
-			<div>5 Ways to Introduce Wellness Programs In...</div>
+				<a href="/roundups/the-best-wedding-dress-boutiques-and-salons-in-nyc/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/2-February/NYCDressShops/Spina-02.jpg">
+			<div>The Best Wedding Dress Boutiques &amp; Salon...</div>
 		</a>
 		</li>
+		
+	<li>
+				<a href="/roundups/the-best-wedding-dress-boutiques-and-salons-in-los-angeles/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/ 0Regular_Roundup/2019/1-January/LADressShops/ClairePettibone-02.jpg">
+			<div>The Best Wedding Dress Boutiques &amp; Salon...</div>
+		</a>
+		</li>
+		
+	<li>
+			<a href="/blog/this-scottsdale-spa-lets-you-create-your-own-aromatherapy-experience/"><img src="https://www.venuereport.com/uploads_cache/header_magazine_200/0_BLOG/2019/1-January/TroonSpa/5-TheVenueReport-FSTroonSpa-DylanEssertier-02.jpg">
+			<div>This Scottsdale Spa Let's You Create You...</div>
+		</a>
+			</li>
 							
 </ul>
 
@@ -1563,7 +1642,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
             <div id="content" role="main" class="cf">
                 				<section class="main">
-				    <div class="infopage-header-img" style="height:700px;background:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/infopages/Header-AboutUs-Private-Terms-Careers-asset-min.png?v1.12.6.3);background-size:cover">
+				    <div class="infopage-header-img" style="height:700px;background:url(//www.venuereport.com/bundles/venuereportfrontend/imagesnew/infopages/Header-AboutUs-Private-Terms-Careers-asset-min.png?v1.15.4.6);background-size:cover">
         <div class="infopage-header-text" style="padding-top:320px;">
             PRIVACY + COOKIE POLICY           
         </div>
@@ -1709,7 +1788,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    
 				</section>
 			</div>
-            	<div id="discover-blocks" class="vr-grid">
+            				
+	<div id="discover-blocks" class="vr-grid">
 		<div class="row vr-grid-nopad">
 			<a href="/magazine/" class="col-xs-12 col-sm-12 col-md-6 get-inspired"><span class="heading">Get Inspired <i class="icon-right-arrow"></i></span><span class="subheading">Explore places to celebrate, getaway + gather in The Magazine</span></a>
 			<a href="/v/" class="col-xs-12 col-sm-12 col-md-3 find-venues"><span class="heading">Find Venues <i class="icon-right-arrow"></i></span><span class="subheading">Message + book hotels, venues, restaurants, homes</span></a>
@@ -1935,9 +2015,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="form login">
                 <div class="login" id="theme-my-login1">
                 	<div style="text-align:center">
-                		<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/email/icon-tipi.png?v1.12.6.3">
+                		<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/email/icon-tipi.png?v1.15.4.6">
                 	</div>
                     <p class="form-tagline">this is gonna be fun</p>
+
+                    <div class="form-google-btn-holder">
+                        <div class="g-signin2" data-onsuccess="onSignIn" data-longtitle="true" data-width="254" height="40"></div>
+                    </div>
+
                     <div class="form-fb-btn-holder">
                                                 <div class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="true" scope="public_profile,email"></div>
                     </div>
@@ -1947,17 +2032,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>                    
                     <form name="loginform" class="loginform" action="/login/check" method="post">
                     	<div class="errors-c errors-c-register"></div>
-                        <input placeholder="Email / Username" type="text" name="_username" id="user_login1" class="input" value="" size="20"> 
-                        <input placeholder="Password" type="password" name="_password" id="user_pass1" class="input" value="" size="20">
+                        <input placeholder="Email / Username" type="text" name="_username" class="input" value="" size="20">
+                        <input placeholder="Password" type="password" name="_password" class="input" value="" size="20">
                         <div class="rememberme">
-                            <div class="rememberme-holder"><input name="_remember_me" type="checkbox" id="rememberme1">
+                            <div class="rememberme-holder"><input name="_remember_me" type="checkbox">
                                 <label for="rememberme1">Remember Me</label>
                                 <a href="javascript:void(0)" class="password-reset-popup-caller">Forgot Password?</a>
                             </div>
                         </div>                      
 						<div>
-							<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.12.6.3"></div>
-							<button type="submit" name="wp-submit" id="wp-submit1" value="Log In" class="form-submit-btn"> Sign in <i class="icon-long-arrow-right"></i></button>
+							<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.15.4.6"></div>
+							<button type="submit" name="wp-submit" value="Log In" class="form-submit-btn"> Sign in <i class="icon-long-arrow-right"></i></button>
                        </div>
                        <div class="form-register">
 							don't have an account? <a class="form-register-trigger" href="javascript:void(0);">sign up</a><i class="icon-long-arrow-right"></i>
@@ -1981,7 +2066,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		   		<p class="register-type-describe">
 		   			i am a celebrator
 		   		</p>
-		   		<img class="register-type-img" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/email/icon-winkie.png?v1.12.6.3">
+		   		<img class="register-type-img" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/email/icon-winkie.png?v1.15.4.6">
 		   		<p class="register-type-describe">
 		   			traveler, explorer, vacationist, gathering lover, swashbuckler
 		   		</p>
@@ -1993,7 +2078,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		   		<p class="register-type-describe">
 		   			i am a venue
 		   		</p>
-		   		<img class="register-type-img" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/email/icon-tipi.png?v1.12.6.3">
+		   		<img class="register-type-img" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/email/icon-tipi.png?v1.15.4.6">
 		   		<p class="register-type-describe">
 		   			hotel, restaurant, tipi, home, barn, estate, villa, sandcastle, etc.
 		   		</p>
@@ -2018,11 +2103,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="form register">
 				<div id="vr-register-top-header">
 					<div style="text-align:center">
-		            	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.12.6.3">
+		            	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.15.4.6">
 		        	</div>
 		            <p class="form-tagline">this is going to be so epic</p>
 				</div>
                <div class="form-fb-btn-holder">
+                   <div class="form-google-btn-holder">
+                       <div class="g-signin2" data-onsuccess="onSignIn"></div>
+                   </div>
                                         <div class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="true"></div>
                 </div>
                 <div class="or-strike"></div>
@@ -2030,7 +2118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 OR
                 </div>
                 <div>
-                    <form method="post" action="/login/register" id="simplr-reg">
+                    <form method="post" action="/login/register" class="simplr-reg">
                     	<div class="errors-c errors-c-register"></div>
                     	<input type="hidden" name="register[vo]" value="0">
 						<div>
@@ -2042,14 +2130,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 						</div>
                         <div>
-                            <input id="email-f" type="text" name="register[email]" value="" placeholder="Email Address" class="vr-register-required">
+                            <input type="text" name="register[email]" value="" placeholder="Email Address" class="vr-register-required">
                         </div>              
                         <div class="vr-register-password">
-                            <input type="password" id="password" name="register[password]" value="" placeholder="Password" class="vr-register-required">
+                            <input type="password" name="register[password]" value="" placeholder="Password" class="vr-register-required">
                         </div>
                         <div>
-                        	<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.12.6.3"></div>
-                            <button type="submit" id="wp-submit1" value="Register" class="form-submit-btn">sign up <i class="icon-long-arrow-right"></i></button>
+                        	<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.15.4.6"></div>
+                            <button type="submit" value="Register" class="form-submit-btn">sign up <i class="icon-long-arrow-right"></i></button>
                         </div>
                         <div class="form-signup-actions">
                         	<a class="login-popup-caller login-btn" style="float:left;" href="javascript:void(0)"> login <i class="icon-long-arrow-right"></i></a>
@@ -2067,7 +2155,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="popup-overlay register-venue-overlay">
     <div id="vr-register-venue-modal" class="login-register-modal">   
    		<div class="form-go-back">
-			<a href="javascript:void(0)" class="form-back-btn login-btn reg login-popup-caller"><img style="width:10px;" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icons/icon-chevron-left.png?v1.12.6.3"></a>
+			<a href="javascript:void(0)" class="form-back-btn login-btn reg login-popup-caller"><img style="width:10px;" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icons/icon-chevron-left.png?v1.15.4.6"></a>
 		</div>  
     	<div class="form-close-login">
 			<a href="javascript:void(0)" class="form-close-btn"></a>
@@ -2077,12 +2165,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="form register">
 			
 				<div style="text-align:center">
-                	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.12.6.3">
+                	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.15.4.6">
             	</div>
                 <p class="form-tagline">apply to join the venue report now</p>
          		<p class="form-tagline-desc">our reporters are in constant search of extraordinary venues. simply fill in the information and our curation team will review your venue. we look forward to learning more about your space!</p>
                 <div>
-                    <form method="post" action="/login/register" id="simplr-reg">
+                    <form method="post" action="/login/register" class="simplr-reg">
                     	<div class="errors-c errors-c-register"></div>
                     	<input type="hidden" name="register[vo]" value="1">
 						<div>
@@ -2102,15 +2190,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 						</div>
                         <div>
-                            <input id="email-f" type="text" name="register[email]" class="right vr-register-required" value="" placeholder="Email Address" required="required">
+                            <input type="text" name="register[email]" class="right vr-register-required" value="" placeholder="Email Address" required="required">
                         </div>              
                        
                         <div class="vr-register-password">
-                            <input type="password" id="password" name="register[password]" class="right vr-register-required" value="" placeholder="Password" required="required">
+                            <input type="password" name="register[password]" class="right vr-register-required" value="" placeholder="Password" required="required">
                         </div>
                         <div>
-                        	<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.12.6.3"></div>
-                            <button type="submit" id="wp-submit1" value="Register" class="form-submit-btn btn-transparent">next <i class="icon-long-arrow-right"></i></button>
+                        	<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.15.4.6"></div>
+                            <button type="submit" value="Register" class="form-submit-btn btn-transparent">next <i class="icon-long-arrow-right"></i></button>
                         </div>
                         <div style="clear:both;"></div>
                     </form>
@@ -2130,7 +2218,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			 <form name="lostpasswordform" class="lostpasswordform" action="/login/?action=lostpassword" method="post">
 				<div class="form-content-password-reset">
 					<div style="text-align:center">
-				    	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/email/icon-mail.png?v1.12.6.3" style="width:auto">
+				    	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/email/icon-mail.png?v1.15.4.6" style="width:auto">
 					</div>
 				    <p class="form-tagline">What is your email address?</p>
 					<div>			
@@ -2139,7 +2227,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<input type="text" name="reset[login]" id="user_login" class="input" value="" placeholder="Username or Email" size="20">
 						</div>
 						<div>
-							<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.12.6.3"></div>							
+							<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.15.4.6"></div>							
 						</div>
 						<div>
 							<button type="submit" name="wp-submit" id="wp-submit" value="Submit" class="form-submit-btn">submit <i class="fa fa-long-arrow-right"></i></button>
@@ -2149,7 +2237,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>			
 				<div class="form-content-success" style="display:none;"> 
 					<div style="text-align:center">
-				    	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-message-sent_2x.png?v1.12.6.3" style="width:auto">
+				    	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-message-sent_2x.png?v1.15.4.6" style="width:auto">
 					</div>
 				    <p class="form-tagline">it’s coming for ya</p>
 					<p class="form-tagline-desc">It’s hard to keep track of all the passwords in the world. Here’s your chance to refresh your memory</p>
@@ -2172,7 +2260,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>  
 			<div class="form register">				
 				<div style="text-align:center">
-                	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.12.6.3">
+                	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.15.4.6">
             	</div>
                 <p class="form-tagline">you're so close...</p>         		
                 <div>
@@ -2202,8 +2290,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		                    </div>
 		                </div>
                         <div>
-                        	<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.12.6.3"></div>
-                            <button type="submit" id="wp-submit1" value="Register" class="form-submit-btn">Submit <i class="icon-long-arrow-right"></i></button>
+                        	<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.15.4.6"></div>
+                            <button type="submit" value="Register" class="form-submit-btn">Submit <i class="icon-long-arrow-right"></i></button>
                         </div>
                         <div style="clear:both;"></div>
                     </form>
@@ -2223,7 +2311,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="form register">
 				
 				<div style="text-align:center">
-                	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.12.6.3">
+                	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.15.4.6">
             	</div>
                 <p class="form-tagline">last step</p>
          		
@@ -2261,8 +2349,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		                 
                         </div>
                         <div>
-                        	<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.12.6.3"></div>
-                            <button type="submit" id="wp-submit1" value="Register" class="form-submit-btn">Submit <i class="icon-long-arrow-right"></i></button>
+                        	<div class="form-submit-processing"><img src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/Alpha-Disco-gif.gif?v1.15.4.6"></div>
+                            <button type="submit" value="Register" class="form-submit-btn">Submit <i class="icon-long-arrow-right"></i></button>
                         </div>
                         <div style="clear:both;"></div>
                     </form>
@@ -2281,7 +2369,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</div>
 			<div>
 				<div style="text-align:center">
-                	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.12.6.3">
+                	<img class="form-tagline-image" src="//www.venuereport.com/bundles/venuereportfrontend/imagesnew/icon-sparkles.png?v1.15.4.6">
             	</div>
                 <p class="form-tagline">sparks fly</p>
                 <p class="check-email check-email-venue" style="display:none">Thank you so much for your interest in The Venue Report. We are reviewing your property thoroughly in order to properly give it the attention it deserves. If you do not hear back from us within four weeks we kindly invite you to submit again at a later date. <br><br>Looking for more ways to make your venue stand out? Our friends at Minted have a special program for gorgeous venues like yours! <a href="https://www.minted.com/lp/wedding-venue?utm_medium=referral&amp;utm_source=venuereport&amp;utm_sub=wedvn&amp;utm_campaign=wed_05.2018&amp;utm_content=learn_more&amp;utm_cs=715877" style="text-decoration: underline" target="_blank">Learn more here</a>.</p>
@@ -2353,56 +2441,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	        });
 	    </script>
 	    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-		<script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.history.js?v1.12.6.3"></script>
-		<script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/trash.js?v1.12.6.3"></script>
-              <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.magnific-popup.min.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/pinterest.js?v1.12.6.3"></script>
+		<script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.history.js?v1.15.4.6"></script>
+		<script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/trash.js?v1.15.4.6"></script>
+              <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.magnific-popup.min.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/pinterest.js?v1.15.4.6"></script>
 
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/uniform/jquery.uniform.min.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/chosen/chosen.jquery.min.js?v1.12.6.3"></script>
-                <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/moment.min.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/hoverIntent.js?v1.12.6.3"></script>
-        <script src="//www.venuereport.com/bundles/fosjsrouting/js/router.js?v1.12.6.3"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/uniform/jquery.uniform.min.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/chosen/chosen.jquery.min.js?v1.15.4.6"></script>
+                <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/moment.min.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/hoverIntent.js?v1.15.4.6"></script>
+        <script src="//www.venuereport.com/bundles/fosjsrouting/js/router.js?v1.15.4.6"></script>
         <script src="/js/routing?callback=fos.Router.setData"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/flexslider.min.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/cookie.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/scripts.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.inview.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/custom.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/mobile.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/global-ajax.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.imageloader.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.validate.min.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/bootstrap-datepicker/js/bootstrap-datepicker.min.js?v1.12.6.3"></script>
-        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/daterangepicker.js?v1.12.6.3"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/flexslider.min.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/cookie.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/scripts.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.inview.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/custom.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/mobile.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/global-ajax.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.imageloader.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.validate.min.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/bootstrap-datepicker/js/bootstrap-datepicker.min.js?v1.15.4.6"></script>
+        <script type="text/javascript" src="//www.venuereport.com/bundles/venuereportfrontend/js/daterangepicker.js?v1.15.4.6"></script>
         <script>
         var datepicker = $.fn.datepicker.noConflict(); // return $.fn.datepicker to previously assigned value
         $.fn.bootstrapDP = datepicker;                 // give $().bootstrapDP the bootstrap-datepicker functionality
         </script>
         
-        <script src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.touch.js?v1.12.6.3"></script>
-        <script src="//www.venuereport.com/bundles/venuereportfrontend/js/range-multiple.min.js?v1.12.6.3"></script>
+        <script src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.touch.js?v1.15.4.6"></script>
+        <script src="//www.venuereport.com/bundles/venuereportfrontend/js/range-multiple.min.js?v1.15.4.6"></script>
         
-	<!-- script type='text/javascript' src='//www.venuereport.com/bundles/venuereportfrontend/js/vr/vr.js?v1.12.6.3'></script -->
-	<!-- script type='text/javascript' src='//www.venuereport.com/bundles/venuereportfrontend/js/vr/vr.cta.js?v1.12.6.3'></script -->
+	<!-- script type='text/javascript' src='//www.venuereport.com/bundles/venuereportfrontend/js/vr/vr.js?v1.15.4.6'></script -->
+	<!-- script type='text/javascript' src='//www.venuereport.com/bundles/venuereportfrontend/js/vr/vr.cta.js?v1.15.4.6'></script -->
 	
 	
-	
-	<script src="//www.venuereport.com/js/c1c01e0.js?v1.12.6.3"></script>	
+	<script src="//www.venuereport.com/js/c1c01e0.js?v1.15.4.6"></script>	
 	 	 	
-		<script src="//www.venuereport.com/bundles/venuereportfrontend/components/slick-carousel/slick/slick.min.js?v1.12.6.3"></script>
-	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/select2/dist/js/select2.min.js?v1.12.6.3"></script>
-	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/fancybox/lib/jquery.mousewheel-3.0.6.pack.js?v1.12.6.3"></script>
-	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/fancybox/source/jquery.fancybox.pack.js?v1.12.6.3"></script>
-	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/iCheck/icheck.min.js?v1.12.6.3"></script>
-	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js?v1.12.6.3"></script>
+		<script src="//www.venuereport.com/bundles/venuereportfrontend/components/slick-carousel/slick/slick.min.js?v1.15.4.6"></script>
+	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/select2/dist/js/select2.min.js?v1.15.4.6"></script>
+	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/fancybox/lib/jquery.mousewheel-3.0.6.pack.js?v1.15.4.6"></script>
+	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/fancybox/source/jquery.fancybox.pack.js?v1.15.4.6"></script>
+	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/iCheck/icheck.min.js?v1.15.4.6"></script>
+	    <script src="//www.venuereport.com/bundles/venuereportfrontend/js/libs/jquery.mask.min.js?v1.15.4.6"></script>
+	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js?v1.15.4.6"></script>
 	    <script>
         	var datepicker = $.fn.datepicker.noConflict(); // return $.fn.datepicker to previously assigned value
 			$.fn.bootstrapDP = datepicker;                 // give $().bootstrapDP the bootstrap-datepicker functionality
 	    </script>
-	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/tooltipster/dist/js/tooltipster.bundle.min.js?v1.12.6.3"></script>
-	    <script src="//www.venuereport.com/bundles/venuereportfrontend/js/vr-scripts.js?v1.12.6.3"></script>
-      <script src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.sticky.js?v1.12.6.3"></script>
+	    <script src="//www.venuereport.com/bundles/venuereportfrontend/components/tooltipster/dist/js/tooltipster.bundle.min.js?v1.15.4.6"></script>
+	    <script src="//www.venuereport.com/bundles/venuereportfrontend/js/vr-scripts.js?v1.15.4.6"></script>
+      <script src="//www.venuereport.com/bundles/venuereportfrontend/js/jquery.sticky.js?v1.15.4.6"></script>
 
 
 		 	<!-- Google Code for Remarketing Tag -->
@@ -2424,6 +2512,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</noscript>
 	<!-- Google Code for Remarketing Tag -->
 		<div id="dropdown-overlay"></div>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"03298de25f","applicationID":"6372015","transactionName":"YVEHYUBZWEJZVBdeWFgbJFZGUVlfF2EGWUJTZgBFXUpCd0pYDUNSWFAnQFxcWlQCfwZWU1NGMlxWX1NFSw0EUkN7VQJUSFFYVHtYDUNSWEAnTHFZQlRfWBFO","queueTime":0,"applicationTime":55,"atts":"TRYEFwhDS0w=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"904ccec9a1","applicationID":"145205611","transactionName":"MgAAbEtSCkRZBRdYCQtKI1tNWgtZFzAGXxMANwdIVkEQcUoJDUUDCwEgTVdXCFICLgZQAgAXNVFdVAFDS1wEVBIoBAVZQ1oKUnsJDUUDCxEgQXpSEFJfCRFI","queueTime":0,"applicationTime":41,"atts":"HkcDGgNIGUo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
