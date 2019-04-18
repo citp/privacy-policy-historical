@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nileguide.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510143724id_/https%3A//www.nileguide.com/pages/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nileguide.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418031329id_/https%3A//www.nileguide.com/pages/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
