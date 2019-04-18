@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223175234id_/https%3A//www.consolidated.com/Support/Terms-Policies/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418022951id_/https%3A//www.consolidated.com/Support/Terms-Policies/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
