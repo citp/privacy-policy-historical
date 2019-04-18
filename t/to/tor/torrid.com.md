@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212050551id_/https%3A//www.torrid.com/torrid/customer-service/about-torrid/td-customerservice-abouttorrid-privacyresponsibility.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418135408id_/https%3A//www.torrid.com/torrid/customer-service/about-torrid/td-customerservice-abouttorrid-privacyresponsibility.html) for the most accurate reproduction.*
 
 # Privacy & Responsibility | Torrid
 
@@ -8,7 +8,7 @@ Effective Date: January 23, 2003; Last Updated: May 24, 2018
 
 * * *
 
-**This Privacy Policy Applies to the Sites and Apps Where It Appears.**
+This Privacy Policy Applies to the Sites and Apps Where It Appears.
 
 * * *
 
@@ -16,57 +16,57 @@ This policy describes how Torrid treats personal information. It applies to info
 
 * * *
 
-**We Collect Personal Information From and About You.**
+We Collect Personal Information From and About You.
 
 * * *
 
-**We collect contact information**. We collect your name and email address. We also collect your address and phone number. 
+We collect contact information. We collect your name and email address. We also collect your address and phone number. 
 
-**We collect demographic information**. We may collect your date of birth. We may also collect your age, gender and zip code.
+We collect demographic information. We may collect your date of birth. We may also collect your age, gender and zip code.
 
-**We collect information you provide us**. We collect photos you upload to our site. We collect other information you may post on our sites and apps. 
+We collect information you provide us. We collect photos you upload to our site. We collect other information you may post on our sites and apps. 
 
-**We collect payment information**. If you make purchases with us we collect your payment card number and billing address.
+We collect payment information. If you make purchases with us we collect your payment card number and billing address.
 
-**We collect usage and location information**. We may collect information about the browser you are using. We may also collect technical information about how and when you connected to us, what areas of our sites or apps you visit, and what site you visit when you leave our sites. This might include your operating system. We may also collect information about your general location. We may collect ISP information and IP addresses. 
+We collect usage and location information. We may collect information about the browser you are using. We may also collect technical information about how and when you connected to us, what areas of our sites or apps you visit, and what site you visit when you leave our sites. This might include your operating system. We may also collect information about your general location. We may collect ISP information and IP addresses. 
 
-**We collect device and mobile information**. We collect device identifiers. We may also collect information about your location.
-
-* * *
-
-**We Collect Information In a Variety of Ways.**
+We collect device and mobile information. We collect device identifiers. We may also collect information about your location.
 
 * * *
 
-**We collect information directly from you**. We collect information when you place an order or register for an account. We also collect information when you become a member of our loyalty program. We collect information if you maintain a “wish list” or enter contest. We also collect information if you sign up to receive our newsletter. We collect information if you contact us through our sites or apps.
-
-**We collect information about you passively** . We use tracking tools like browser cookies, web beacons and pixels. We do this on our website and in emails we send to you. We collect information about users over time when they use our websites. This includes usage and browser information. We may have third parties collect information this way.
-
-**We get information about you from third parties**. Third parties who give us information include social media sites and third party apps. We may also collect information from users of third party sites who give us access to their profiles. We also get information from business partners. You may also give us information about third parties. This would include as part of our “tell a friend” type features. 
+We Collect Information In a Variety of Ways.
 
 * * *
 
-**We Use Information As Disclosed and Described Here.**
+We collect information directly from you. We collect information when you place an order or register for an account. We also collect information when you become a member of our loyalty program. We collect information if you maintain a “wish list” or enter contest. We also collect information if you sign up to receive our newsletter. We collect information if you contact us through our sites or apps.
+
+We collect information about you passively . We use tracking tools like browser cookies, web beacons and pixels. We do this on our website and in emails we send to you. We collect information about users over time when they use our websites. This includes usage and browser information. We may have third parties collect information this way.
+
+We get information about you from third parties. Third parties who give us information include social media sites and third party apps. We may also collect information from users of third party sites who give us access to their profiles. We also get information from business partners. You may also give us information about third parties. This would include as part of our “tell a friend” type features. 
 
 * * *
 
-**We use information to respond to your requests or questions**. We use your information to respond to your questions. This includes questions about our products or your relationship with us. We also use your information to process your registration with sites and apps and to let you participate in site or app features. We also use information to process orders.
-
-**We use information to improve our products and services**. We use your information to improve our sites and apps. We use your information to customize your experience with us. We also use your information to serve you specific content that is most relevant to you. 
-
-**We use information for marketing purposes**. We may provide you with information about products or services. We may also use your information to tell you about special offers or promotions. These might be our own offers or products, or third-party offers or products we think you might find interesting.  We also use your information to provide aggregate information to our advertisers. We do this when legally permitted. We also use information to manage promotions.
-
-**We use information to communicate with you for transactional purposes** . We might also contact you about this Policy or our Terms. We may also contact you if you have won a prize or promotion.
-
-**We use information for security purposes** . We use your information to protect our company and our customers. We also use your information to protect our sites and apps. We use your information to prevent, discover and investigate violations of our Policy or Terms.
-
-**We use information as otherwise permitted by law or as we may notify you** **.**
-
-**If you are in Europe we process your information for different purposes** . Our basis for processing your information is typically to perform a contract. Performance of a contract includes responding to your requests. We also process information based on consent or for our legitimate interests.
+We Use Information As Disclosed and Described Here.
 
 * * *
 
-**We Combine Information.**
+We use information to respond to your requests or questions. We use your information to respond to your questions. This includes questions about our products or your relationship with us. We also use your information to process your registration with sites and apps and to let you participate in site or app features. We also use information to process orders.
+
+We use information to improve our products and services. We use your information to improve our sites and apps. We use your information to customize your experience with us. We also use your information to serve you specific content that is most relevant to you. 
+
+We use information for marketing purposes. We may provide you with information about products or services. We may also use your information to tell you about special offers or promotions. These might be our own offers or products, or third-party offers or products we think you might find interesting.  We also use your information to provide aggregate information to our advertisers. We do this when legally permitted. We also use information to manage promotions.
+
+We use information to communicate with you for transactional purposes . We might also contact you about this Policy or our Terms. We may also contact you if you have won a prize or promotion.
+
+We use information for security purposes . We use your information to protect our company and our customers. We also use your information to protect our sites and apps. We use your information to prevent, discover and investigate violations of our Policy or Terms.
+
+We use information as otherwise permitted by law or as we may notify you .
+
+If you are in Europe we process your information for different purposes . Our basis for processing your information is typically to perform a contract. Performance of a contract includes responding to your requests. We also process information based on consent or for our legitimate interests.
+
+* * *
+
+We Combine Information.
 
 * * *
 
@@ -74,33 +74,33 @@ We combine information that we have collected offline with information we collec
 
 * * *
 
-**We May Share Information With Third Parties.**
+We May Share Information With Third Parties.
 
 * * *
 
-**We will share information with Sycamore Partners and their subsidiaries and affiliates.** This list can be viewed [here](http://www.sycamorepartners.com/Investment).
+We will share information with Sycamore Partners and their subsidiaries and affiliates. This list can be viewed [here](http://www.sycamorepartners.com/Investment).
 
-**We share information with third parties who perform services on our behalf** . We may share your personal information with trusted third parties. These include companies who serve as our vendors and help us deliver products or services to you.
+We share information with third parties who perform services on our behalf . We may share your personal information with trusted third parties. These include companies who serve as our vendors and help us deliver products or services to you.
 
-**We may share your information with our business partners** . We may share information with third parties when you enter your information into our apps and sites.  These third parties may use this information to send you marketing information or track your purchases. We may also jointly collect information with third parties. This might include promotion and co-branding partners.
+We may share your information with our business partners . We may share information with third parties when you enter your information into our apps and sites.  These third parties may use this information to send you marketing information or track your purchases. We may also jointly collect information with third parties. This might include promotion and co-branding partners.
 
-**We will share information if we think we have to in order to comply with the law or to protect you or ourselves**. We will share information to respond to a court order or subpoena. We will also share information if a government agency or investigatory body requests it. This includes U.S. and non-U.S. law enforcement or regulatory authorities. 
+We will share information if we think we have to in order to comply with the law or to protect you or ourselves. We will share information to respond to a court order or subpoena. We will also share information if a government agency or investigatory body requests it. This includes U.S. and non-U.S. law enforcement or regulatory authorities. 
 
-**We may share information if we are investigating potential fraud**. 
+We may share information if we are investigating potential fraud. 
 
-**We may share information if you participate in a contest**. We may share information with third parties and the public if you participate in a contest or promotion. This might include sharing winners lists.
+We may share information if you participate in a contest. We may share information with third parties and the public if you participate in a contest or promotion. This might include sharing winners lists.
 
-**We may share information with a successor to all or part of our business, as permitted by law**. If part of our business is sold, we may include customer information as part of that transaction. Where legally required, we will give you prior notice and if you have the legal right to do so, allow you to object.
+We may share information with a successor to all or part of our business, as permitted by law. If part of our business is sold, we may include customer information as part of that transaction. Where legally required, we will give you prior notice and if you have the legal right to do so, allow you to object.
 
-**We may share information for other reasons we may describe to you.**
-
-* * *
-
-**You Have Certain Choices About How We Use Your Information.**
+We may share information for other reasons we may describe to you. 
 
 * * *
 
-**You can opt out of certain marketing**. To stop receiving our marketing communications please email us at internetadministrator@torrid.com or follow the instructions in any message you get from us. You can also opt out of receiving catalogs [here](http://optout.torrid.com/) . If we contact you by telephone for promotional purposes, you may opt out at that time. You may also opt out by contacting us at:
+You Have Certain Choices About How We Use Your Information.
+
+* * *
+
+You can opt out of certain marketing. To stop receiving our marketing communications please email us at internetadministrator@torrid.com or follow the instructions in any message you get from us. You can also opt out of receiving catalogs [here](http://optout.torrid.com/) . If we contact you by telephone for promotional purposes, you may opt out at that time. You may also opt out by contacting us at:
 
 Internet Administrator  
 Internet Department  
@@ -111,17 +111,17 @@ City of Industry, CA 91748
 
 If you opt out of marketing emails you will continue to receive messages from us about your relationship with us where permitted by law. 
 
-**You can restrict how we share information with third parties**. If you do not want us to share information with third parties for their direct marketing purposes, you can contact us at the email or address listed at the end of this Policy.  Please mark your inquiries "Third-Party Marketing Opt-Out." You can also use our [online opt-out form](http://optout.torrid.com/). 
+You can restrict how we share information with third parties. If you do not want us to share information with third parties for their direct marketing purposes, you can contact us at the email or address listed at the end of this Policy.  Please mark your inquiries "Third-Party Marketing Opt-Out." You can also use our [online opt-out form](http://optout.torrid.com/). 
 
-**You can correct or update your information** . You can correct or update your information by logging in to your account and editing it.  You can also contact us at internetadministrator@torrid.com. If you are in Europe and would like access to your information, please contact us at privacy@torrid.com.  
+You can correct or update your information . You can correct or update your information by logging in to your account and editing it.  You can also contact us at internetadministrator@torrid.com. If you are in Europe and would like access to your information, please contact us at privacy@torrid.com.  
 
-**You may request that we delete your information** .  In certain circumstances, you may request that we delete your information. Please contact us at internetadministrator@torrid.com to request deletion of your information. 
+You may request that we delete your information .  In certain circumstances, you may request that we delete your information. Please contact us at internetadministrator@torrid.com to request deletion of your information. 
 
 If you are in Europe, you may have the right to restrict how we process your information. You may also have the right to object to how we process your information . Requests may be submitted to privacy@torrid.com. 
 
 * * *
 
-**Our Sites and Apps Are Not Intended for Children.**
+Our Sites and Apps Are Not Intended for Children.
 
 * * *
 
@@ -131,7 +131,7 @@ Parents can learn more about how to protect children's privacy on-line [here](ht
 
 * * *
 
-**We Use Standard Security Measures.**
+We Use Standard Security Measures.
 
 * * *
 
@@ -141,7 +141,7 @@ We keep personal information as long as it is necessary or relevant for the prac
 
 * * *
 
-**We May Link to Other Sites or Have Third Party Services We Don’t Control.**
+We May Link to Other Sites or Have Third Party Services We Don’t Control. 
 
 * * *
 
@@ -149,7 +149,7 @@ We may link to third-party sites. Our sites and apps may also include third part
 
 * * *
 
-**We May Store and Use Information Inside the United States.**
+We May Store and Use Information Inside the United States.
 
 * * *
 
@@ -157,7 +157,7 @@ Information we collect may be stored and processed in the United States. If you
 
 * * *
 
-**Your California Privacy Rights.**
+Your California Privacy Rights. 
 
 * * *
 
@@ -165,7 +165,7 @@ If you reside in California, you have the right to ask us one time each year if 
 
 * * *
 
-**You Can Contact Us About This Policy and Your Information.**
+You Can Contact Us About This Policy and Your Information.
 
 * * *
 
@@ -179,7 +179,7 @@ If you are in Europe, complaints about our privacy practices may be directed to 
 
 * * *
 
-**We May Update This Policy.**
+We May Update This Policy.
 
 * * *
 
