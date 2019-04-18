@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elgoog.im privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421055831id_/http%3A//elgoog.im/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elgoog.im privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418174647id_/https%3A//elgoog.im/privacy) for the most accurate reproduction.*
 
 # Terms of Service and Privacy Policy
 
@@ -32,7 +32,6 @@ All cooking and tracking information is kept secure. Only authorized employees, 
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-**By e-mail:** admin[AT]elgoog.im  
-**Via Twitter:** @elgooG 
+**By e-mail:** admin[AT]elgoog.im 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
