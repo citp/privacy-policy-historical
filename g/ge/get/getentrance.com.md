@@ -1,61 +1,102 @@
-> *The following text is extracted and transformed from the getentrance.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109003335id_/https%3A//www.getentrance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getentrance.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418121513id_/https%3A//www.getentrance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Getentrance.com
+# Privacy Policy
 
-This Privacy Policy governs the manner in which Getentrance.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.getentrance.com](http://www.getentrance.com/) website (“Site”).
+**Brief Introduction**
 
-### Personal identification information
+We, at getentrance.com, are highly concerned about ensuring the users with 100% protection of the information shared by them with us. The below information provided by us consists of all the criteria for same. Once you visit our website, you agree with the terms laid down in this section.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**Information Gathering**
 
-### Non-personal identification information
+The information of the users, who log on our website, like IP address of the visitor, type of browser, location, profile details, etc. will be collected by us.  
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+While registering on our website, users will have to share some information such as Name, Age, Gender, Contact Detail, Email Address, etc.
 
-### Web browser cookies
+The notification shall be sent via e-mailers and text SMS on the registered email addresses and phone numbers of the users regarding the amendments in the privacy policies, new information related to users or the answers for the queries raised by the site visitors.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+However, at any point of time, the users can unsubscribe the notifications received by SMS or email by changing the notification settings through their account.
 
-### How we use collected information
+We ensure the users with a promise of not misusing their data collected by us through different means. Their information can be used for:
 
-[Getentrance.com](http://www.getentrance.com/) may collect and use Users personal information for the following purposes:
+We assure you that we will not misuse or sell this data. We use this information to:
 
-  * _To run and operate our Site_ We may need your information display content on the Site correctly.
-  * _To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To improve our Site_ We may use feedback you provide to improve our products and services.
-  * _To send periodic emails_ We may use the email address to respond to their inquiries, questions, and/or other requests.
-
+  * Enrich our website to give our visitors secure & safe knowledge bank.
+  * Administer our website to a global extent.
+  * Tracking of the users’ activities for security purposes.
+  * Dissemination of information via mail or SMS.
 
 
-### How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+**Use of Cookies**
 
-### Sharing your personal information
+We, at GetEntrance, implement tracking technologies and cookies to monitor and manage the sessions on our webpages and identify the account information of the users and visitors.  
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+“Cookies” are the small text files stored in the computer systems of the users. Accepting cookies means the users are allowing us to save their personal information like name, user ID, feedback, and data submitted on our website along with their IP addresses.
 
-### Electronic newsletters
+Our intent is to hold your activity details temporarily on our website for management of the sessions. Neither we use cookies to save password nor convey your information to third-party sites.
 
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc.
+The cookies are not activated on the advertisements clicked by our website by the users. These advertisements are not hosted by us and hence, we disclaim taking the responsibility of any cookie declaration or tracking technology implemented by the hosts of such advertisements.
 
-### Changes to this privacy policy
+You can opt to reject or accept these cookies by personalizing the browser settings. Irrespective of accepting or rejecting the cookies, you can access our website in both the conditions.
 
-Getentrance.com has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Use of Information by Getentrance.com**
 
-### Your acceptance of these terms
+We lay emphasis on rendering the services with reliability and satisfaction for all our readers. With intent to improve your experience on our website, we may use the gathered information like account details, IP addresses, queries, email Id, and other login activities.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+The information of users is also used for sending them the newsletters, text SMS and other information they have subscribed to. We allow the users to decline the subscription at any point of time without any restriction on accessing our website.    
 
-### Contacting us
+**Information Updating Policy**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+The users have full authority and mechanism to modify or update their profile information at any point of time from anywhere using the internet, such as account, password, personal information. 
 
-This document was last updated on April 13, 2015
+No one can change or modify their information without logging in with their valid credentials.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Getentrance.com  
-www.getentrance.com  
-Mumbai, India  
-Email us at: admin@getentrance.com
+In case if you delete your account permanently, then we have the right to retain your information and remove it from the public view.  
+
+**Third-Party Links**
+
+Our website may contain the links of other websites and the advertisements of various other products or services. We are not responsible for the terms & conditions and privacy policies of other advertisement(s) and website(s).
+
+All the readers who navigate to other links from our website are advised to read their terms of use carefully before availing any product or service. The privacy policies mentioned here are applicable to our website only. No third party website comes under the privacy terms laid down here.
+
+**Disseminating the Newsletters**
+
+We publish the newsletter frequently containing the important information about anything in the interest of our readers. These newsletters are disseminated to the registered users through their email IDs. The users are also notified about amendments in our policies through newsletters. 
+
+Your personal information such as e-mail ID, IP address, browser type and submitted information is collected by us for releasing the newspapers as well. 
+
+Users have the right to subscribe/ unsubscribe the newsletters by changing the settings in their account accordingly.
+
+**Advertising   **
+
+The advertising activities on our website might be administered by our advertising partners. The cookies employed may be made effective by the advertising partners to identify your account while sending you the advertisement.
+
+Irrespective of the cookies set by owners or partners, the server will recognize the browser and personal information provided by the users.  
+
+We disclaim taking the responsibilities of cookies set by the advertising partners or third-parties.
+
+**Security Policy**
+
+We leave no stone unturned in ensuring the foolproof security of the data collected by us from the users. There is no possibility of unauthorized or unlawful access to your data. We prohibit the technical staff and other job functions to peep into the details available in registered users’ accounts. Our database is protected with the advanced mechanism to secure the data of registered users against any security breach.  
+
+However, no mechanism guarantees the 100% protection of data within a digital environment i.e. electronic storage. We make sure to secure your data by adopting all the safety measures but can’t make sure you regarding the incidents like tress usage/ misuse of your details.
+
+The website runs on a hardware & software technology and there is no guarantee that the data shared by the users will remain personal. Hence, GetEntrance will mot be responsible for the misuse of your data.
+
+**Amendments in Privacy Policy**
+
+GetEntrance reserves all the rights to modify, amend, change, or update any of our privacy policies without seeking any permission or giving any prior notice. We have the full authority to make changes in the privacy policy at any point of time. This page will display all the updates in privacy policies on a real-time basis.
+
+All the user(s) and visitor(s) are advised to visit this page more frequently to bestow themselves with the changes in the privacy policy.  
+
+We strive hard to make the experience of the users on our website phenomenal in all aspects and take new initiatives for this always. The users are mostly notified by us every time when we update our privacy policies. 
+
+**Disclaimer**
+
+GetEntrance shall not be responsible or liable for any loss(s) or damage(s) to member’s account/information or other personal related details/data by any reason.   
+
+In case of using the transaction details such as Credit Card, Debit Card, or Net Banking Details, we don’t store the same data for any further use. The monetary transaction data will be moved to off-line so that the precious payment details cannot be used for fraudulent activities.
+
+We assure the maximum security but not the 100%.
+
+We appreciate your valuable time invested in suggesting us to make your experience better or any of your queries regarding our website.
