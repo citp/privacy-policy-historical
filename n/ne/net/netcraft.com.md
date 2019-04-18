@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205043234id_/https%3A//www.netcraft.com/about-netcraft/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418193321id_/https%3A//www.netcraft.com/about-netcraft/privacy-statement) for the most accurate reproduction.*
 
 # Netcraft | Privacy Statement
 
@@ -8,7 +8,7 @@ Netcraft has created this privacy statement covering its web sites in order to d
 
 ### Information Automatically Logged
 
-  * We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address may also used to display regional  
+  * We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address may also be used to display regional  
 advertising banners.
 
 
