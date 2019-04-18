@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shakiragallery.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215222916id_/http%3A//www.shakiragallery.com/files/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakiragallery.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418141821id_/http%3A//shakiragallery.com/files/privacy.html) for the most accurate reproduction.*
 
 # 
 
