@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytum.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232503id_/http%3A//daytum.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytum.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418145808id_/https%3A//daytum.com/about/privacy_policy) for the most accurate reproduction.*
 
 # DAYTUM
 
