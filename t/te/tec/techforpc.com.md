@@ -1,42 +1,173 @@
-> *The following text is extracted and transformed from the techforpc.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201195600id_/https%3A//www.techforpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforpc.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418172040id_/https%3A//www.techforpc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techforpc.com
 
-The privacy of our visitors to Techforpc.com is important to us.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-At [https://www.Techforpc.com](https://www.techforpc.com/), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Techforpc.com, and how we safeguard your information. We never sell your personal information to third parties.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-## **Log Files**
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+**When do we collect information?**
 
-## **Cookies and Web Beacons**
+We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+**How do we use your information?**
 
-We also use third party advertisements on Techforpc.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-## **DoubleClick DART cookies**
+To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
+To allow us to better service you in responding to your customer service requests.  
+**How do we protect visitor information?**
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”).
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non-personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
+**We use regular Malware Scanning.**
 
-You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+We do not use an SSL certificate because we provide articles and information and all contact information is provided voluntarily.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+**Do we use ‘cookies’?**  
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services.
 
-## Google Adsense
+We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+**We use cookies to:**
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+  * Understand and save user’s preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Read more about Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising  at [http://www.aboutads.info](http://www.aboutads.info/)
 
-If you have any questions contact us at [this form](https://www.techforpc.com/contact).
+**List of Cookies we use:**
+
+_gid
+
+_gat
+
+_ga
+
+IDE (DoubleClick), Adsense Cookie
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since the browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+
+**Removing/Disabling Cookies**
+
+Managing your cookies and cookie preferences must be done from within your browser’s options/preferences. Here is a list of guides on how to do this for popular browser software:
+
+  * [Internet Explorer](http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies)
+  * [Firefox](http://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer)
+  * [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Safari](http://support.apple.com/kb/PH17191)
+  * [Opera](http://www.opera.com/help/tutorials/security/privacy/)
+
+
+
+**If users disable cookies in their browser:**
+
+If you turn cookies off it will turn off some of the features of the site.
+
+**Third Party Disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+**We use Google AdSense Advertising on our website.**
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+**We have implemented the following:**
+
+Google Display Network Impression Reporting  
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+**Opting out:**
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+**According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+
+**Users will be notified of any privacy policy changes:**
+
+On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+  * By emailing us
+  * By logging in to their account
+
+
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+Does our site allow third party behavioral tracking?
+
+It’s also important to note that we do not allow third party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify the users via email within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+Send information, respond to inquiries, and/or other requests or questions.  
+Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+NOT use false, or misleading subjects or email addresses  
+Identify the message as an advertisement in some reasonable way  
+Include the physical address of our business or site headquarters  
+Monitor third party email marketing services for compliance, if one is used.  
+Honor opt-out/unsubscribe requests quickly  
+Allow users to unsubscribe by using the link at the bottom of each email  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at
+
+Follow the instructions at the bottom of each email.  
+and we will promptly remove you from ALL correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below or on our [contact page](https://web.archive.org/contact).
+
+email: techforpcdotcom@gmail.com
 
 ### [Ivcho Georgiev](https://www.techforpc.com/author/ivailobiz/ "Ivcho Georgiev")
 
