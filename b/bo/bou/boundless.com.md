@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201134111id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418130705id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
 
 # Boundless Immigration's Privacy Policy
 
