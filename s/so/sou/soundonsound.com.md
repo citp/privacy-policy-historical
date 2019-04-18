@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118003550id_/https%3A//www.soundonsound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418124719id_/https%3A//www.soundonsound.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -19,7 +19,7 @@ These sites/device apps are owned and run by the SOS Publications group of compa
 
 ## 1\. Our Values.
 
-[](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/g/gdpr-logo70-pxctnKbEdCow.9PW9sgyYpUAMHV948C6.jpg)This website complies with all UK national laws and requirements for user privacy outlined in the EU GDPR law and the UK Data Protection Act.
+[](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/g/gdpr-logo70-I6SCdfVZocNxc.AXszqtNybWbGVBdFIa.jpg)This website complies with all UK national laws and requirements for user privacy outlined in the EU GDPR law and the UK Data Protection Act.
 
 We’re updating our Privacy Policy to reflect changes we’ve made to strengthen your privacy rights in line with the General Data Protection Regulation (GDPR) guidelines effective from 25th May 2018. This is part of our on‑going commitment to be transparent about how we use your data and keep it safe.
 
