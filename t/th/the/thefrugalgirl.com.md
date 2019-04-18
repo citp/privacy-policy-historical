@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefrugalgirl.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709205749id_/https%3A//www.thefrugalgirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalgirl.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418144835id_/https%3A//www.thefrugalgirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Frugal Girl
 
@@ -16,30 +16,30 @@ Though I appreciate making some money in exchange for the time I spend working h
 
 If I don’t love a product or a company, I won’t try to convince you to love it, and I will not advertise for that product/company. You are more important than money, and my integrity is too.
 
-**_Sponsored Posts_**
+ ** _Sponsored Posts_**
 
 Companies sometimes pay me to blog about/review their products or services. Sponsored posts are always clearly labeled and I am very choosy about which sponsored post opportunities I accept. I want this site’s content, including the sponsored posts, to serve you.
 
-**_Press_**  
+ ** _Press_**  
 Whenever my blog and I appear in the press, whether it be in the newspaper, on TV, or on a website, please keep in mind that my appearance does not function as an endorsement of said newspaper, TV, or website (for instance, if I were on Oprah, it wouldn’t mean that I was in agreement with Oprah on all things. Not that Oprah would ever ask me…I’m just using that as an example).
 
-**_Disclaimer_**  
+ ** _Disclaimer_**  
 All information provided on this site is for informational purposes only. TheFrugalGirl.com makes no representations as to the accuracy, completeness, suitability or validity of any information on this site and will not be liable for any errors or omissions in this information or any damages arising from its display or use.
 
-**_Privacy Policy  
+ ** _Privacy Policy  
 _**
 
-The FrugalGirl found at http://www.thefrugalgirl.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
+The FrugalGirl found at https://www.thefrugalgirl.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
 WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
+ **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
 
-**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+ **Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
+ **Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
 HOW YOUR INFORMATION MAY BE USED
 
@@ -63,9 +63,9 @@ Additionally, the Website may use third-party service providers to service vario
 
 The Website currently uses the following third-party service providers:
 
-**Google Analytics** – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+ **Google Analytics** – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-**Mad Mimi** – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Mad Mimi’s privacy policy for further information.
+ **Mad Mimi** – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Mad Mimi’s privacy policy for further information.
 
 At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
@@ -83,21 +83,21 @@ Users may, at any time, prevent the setting of cookies, by the Website, by using
 
 ADVERTISING
 
-**Display Ads**
+ **Display Ads**
 
 We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
 
-**Retargeting  Ads**
+ **Retargeting  Ads**
 
 From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
-**Affiliate Program Participation**
+ **Affiliate Program Participation**
 
 The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
 The Frugal Girl is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-**Newsletters**
+ **Newsletters**
 
 On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
@@ -125,15 +125,15 @@ CONTACT INFORMATION
 
 At any time, please contact us at thefrugalgirl@gmail.com for questions related to this Privacy Policy.
 
-**Credit Card Advertiser Disclosure**
+ **Credit Card Advertiser Disclosure**
 
-**General Disclaimer**
+ **General Disclaimer**
 
 †See the online credit card application for details about terms and conditions. Reasonable efforts are made to maintain accurate information. However all credit card information is presented without warranty. When you click on the “Apply Now” button, you can review the credit card terms and conditions on the issuer’s website.
 
 * **Advertiser Disclosure** : The credit card offers that appear on this site are from credit card companies from which The Frugal Girl receives compensation. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). The Frugal Girl does not include all credit card companies or all available credit card offers.
 
-**Editorial Disclosure** : The editorial content on this page is not provided by any bank, credit card issuer, airlines or hotel chain, and has not been reviewed, approved or otherwise endorsed by any of these entities. Opinions expressed here are author’s alone, not those of the bank, credit card issuer, airlines or hotel chain, and have not been reviewed, approved or otherwise endorsed by any of these entities
+ **Editorial Disclosure** : The editorial content on this page is not provided by any bank, credit card issuer, airlines or hotel chain, and has not been reviewed, approved or otherwise endorsed by any of these entities. Opinions expressed here are author’s alone, not those of the bank, credit card issuer, airlines or hotel chain, and have not been reviewed, approved or otherwise endorsed by any of these entities
 
 Privacy Policy Provided by The Frugal Girl
 
