@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byond.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011064602id_/http%3A//www.byond.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byond.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418140945id_/http%3A//www.byond.com/Privacy) for the most accurate reproduction.*
 
 # BYOND - Make & Play Online Multiplayer Games - Community
 
@@ -92,4 +92,4 @@ Regarding payment processing, all information used in transactions is collected 
 
 We may update this policy from time to time as we introduce new features or modify existing ones. We encourage you to review this document periodically. 
 
-Copyright © 2018 BYOND Software. All rights reserved. 
+Copyright © 2019 BYOND Software. All rights reserved. 
