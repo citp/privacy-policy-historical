@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medilexicon.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117200111id_/https%3A//www.medilexicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medilexicon.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419004737id_/https%3A//www.medilexicon.com/privacy-policy) for the most accurate reproduction.*
 
 # MediLexicon - Privacy Policy
 
@@ -24,7 +24,7 @@ Table of Contents
     * U.S. Website Users
       * Opt-Out of Marketing Communications
       * Your California Privacy Rights
-      * [CA Eraser law](https://web.archive.org/web/20181117200111id_/https%3A//www.medilexicon.com/ca-eraser-law)
+      * [CA Eraser law](https://web.archive.org/web/20190419004737id_/https%3A//www.medilexicon.com/ca-eraser-law)
     * Non-U.S. Website Users
       * Rights Requests
     * Your Choice
