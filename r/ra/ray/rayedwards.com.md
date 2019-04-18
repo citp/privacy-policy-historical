@@ -1,95 +1,132 @@
-> *The following text is extracted and transformed from the rayedwards.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311155929id_/http%3A//rayedwards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayedwards.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418030156id_/https%3A//rayedwards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ray Edwards
 
-PRIVACY POLICY
+Ray Edwards International, Inc. (“ **Company** ,” “ **we** ,” or “ **us** ”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
-Last Revised: March 8, 2017
+This Privacy Policy governs your access to and use of www.rayedwards.com, including any content, functionality and services offered on or through www.rayedwards.com (the “ **Website** “), whether as a guest or a registered user.
 
-Thank you for visiting an Ray Edwards International, Inc. web site, including rayedwards.com, writecopythatsells.com, or rayedwardspodcast.com, or any of our other web properties. You arrived at this Privacy Policy from one of the above sites, referred to herein as “this web site”.
+When accessing the Website, the Company will learn certain information about you, both automatically and through voluntary actions you may take, during your visit. This policy applies to information we collect on the Website and in email, text, or other electronic messages between you and the Website.
 
-This Privacy Policy is subject to change by Ray Edwards International, Inc. (hereinafter “Company”) at any time and at our discretion without notice by updating this posting.
+Please read the Privacy Policy carefully before you start to use the Website. **By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by the Privacy Policy.** If you do not want to agree to the Privacy Policy, you must not access or use the Website.
 
-We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at our web sites.
+**Children Under The Age Of 13**
 
-Please read this Privacy Policy before using this web site or submitting any personal information. California residents, please also see the “Note To California Residents” Section for additional rights that apply to you.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-By using this web site, you accept the privacy practices contained in this Privacy Policy. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@rayedwards.com.
 
-We take Children’s Privacy very seriously. Our Terms & Conditions only allow this web site to be accessed by persons eighteen (18) years or older. Due to the age restrictions of this web site, none of the information obtained by this web site falls within the Child Online Privacy Act (COPA). However, if your minor child has provided us with personally identifiable information, you may contact us at the phone number or mailing address listed in Section 8 herein if you want this information deleted from our records. We will then make reasonable efforts to remove your child’s information from the database that stores the information.
+**Information We Collect About You**
 
-Information We Collect
+When you access the Website, the Company will learn certain information about you during your visit.
 
-A. Personally Identifiable Information  
-In order to serve our customers, we collect personally identifiable information, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors. We will only use your personal information for the following purposes: (1) to deliver the products and/or services to you that you have requested; (2) to validate your compliance with the terms and conditions; (3) for content improvement and feedback purposes; (4) to reach you, when necessary, regarding your use of the web site or product(s), and (5) for the few situations described below to better serve you.
+_Information You Provide To Us_. The Website provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms, responding to surveys, search queries on our search feature, providing comments or other feedback, and providing information when ordering a product or service via the Website.
 
-We will NEVER share your personally identifiable information with third parties unless you have given us explicit permission to do so, such as in order to fulfill a third party offer that you have accepted from us. By permitting us to collect this information, you will be able to receive information on other products and services that may be of interest to you, including related third party offers that we may send to you. You also enable us to personalize your experience with us so that we can provide you with the highest quality of service. We may also use this information to contact you about joint venture opportunities if it appears that you would be a suitable joint venture partner.
+We use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.
 
-By submitting your email address on this web site, you agree to receive email from us. You can cancel your participation in any of these email lists at any time by clicking the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails.
+_Information We Collect Through Automatic Data Collection Technology_. As you navigate through our Website, we may use automatic data collection technologies including Google Analytics to collect certain information about your equipment, browsing actions, and patterns. This will generally include information about your location, your traffic pattern through our website, and any communications between your computer and our Website.  Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type.
 
-By submitting your email address, you also agree to allow us to use your email address for custom audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us.
+The information we collect automatically is used for statistical data and will not include personal information. We use this data to improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.
 
-In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
+**Use of Cookies And Pixels**
 
-B. Non-Personally Identifiable Information  
-We also may collect various types of non-personally identifiable information to help us make your experience more enjoyable, measure site activity to identify future improvements that should be made, and compile aggregate data to help serve site visitors better. For example, we may use such data to tailor our advertisements, develop proper survey questions, improve our business, etc.
+Similar to other commercial websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
 
-As another example, we may use session and persistent “cookies,” session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site. Third party retargeting networks may also use cookies to display our advertisements to you on other sites. You can opt-out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.
+The Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.
 
-Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the reader’s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.
+**Third Party Use Of Cookies**
 
-If you visit this site with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this site with an open ID, the number of items “liked” on this site, or items on this site that you choose to share with a third-party social media site.
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-Other parties such as advertising partners and analytics companies may also be collecting information about your online activity across various websites over time. The information collected by those third parties may include identifiers that allow those third parties to tailor the ads that they serve to your computer or other device.
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-Because there is not yet a common understanding of how to interpret web browser-based “Do Not Track” signals other than cookies, we do not currently respond to “Do Not Track” signals that are undefined.
+**Email Information**
 
-Please note that you do have the option to configure most web browsers to NOT accept cookies. However, be aware that disabling cookies may keep you from having access to some functions or services on our web site or the web-hosted software that runs on our web site.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail, and telephone. This also applies when you register for our website, sign up through any of our forms using your email address or make a purchase on this site. For further information see the email policies below.
 
-Third Party Actions
+**Email Policies**
 
-We do not control and are not liable for the actions of any third parties who we may promote and/or link to from this site. We pride ourselves in recommending quality companies, but have no control over the actions of those third parties, the content they provide, or their privacy practices. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
+We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and will not disclose your email address to any third parties except as allowed in the section titled Disclosure of Your Information.
 
-Children’s Privacy
+We will maintain the information you send via e-mail in accordance with applicable federal law.
 
-We take Children’s Privacy very seriously. Due to the age restrictions of this web site, none of the information obtained by this web site falls within the Child Online Privacy Act (COPA) and we do not knowingly intend to collect personally identifiable information from children under 18 years of age. If your minor child has provided us with personally identifiable information, you may contact us at the phone number or mailing address listed in the section entitled “Contacting Us” if you want this information deleted from our records. We will then make reasonable efforts to remove your child’s information from the database that stores the information.
+In compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.
 
-IP Addresses
+Our emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime.
 
-We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
 
-Commitment to Data Security
+? **How And Why We Collect Information**
 
-All information collected from you is stored in a technically and physically secure environment. Furthermore, employees, contractors, and vendors who have access to your personally identifiable information in connection with providing services for us are required to keep the information confidential.
+The Company collects your information in order to record and support your participation in the activities you select. If you register to download a book or resources, sign up for our newsletter, and/or purchase a product from us, we collect your information. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or register for services that you are required to provide information.
 
-We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to support@rayedwards.com requesting to unsubscribe from future emails.
 
-Contacting Us
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to support@rayedwards.com requesting to unsubscribe from future emails.
 
-If you need to contact us, you can email us at support@rayedwards.com, call us at 509-624-2220, or send us a letter at: Ray Edwards International, Inc., 2910 E 57th Ave., Ste 5 PMB #330 Spokane, WA 99223
+**How Do We Use the Information That You Provide to Us?**
 
-We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
+We use personal information for purposes of presenting our Website and its contents to you, providing you with information, providing you with offers for products and services, providing you with information about your subscriptions and products, carrying out any contract between you and the Company, administering our business activities, providing customer service, and making available other items and services to our customers and prospective customers.
 
-Note To California Residents
+From time-to-time, we may use the information you provide to us to make you offers to purchase products and services provided by third parties in exchange for a commission to be paid to us by such third parties. Should you opt to take part in such promotions, the third parties will receive your information.
 
-If you live in the State of California, under the California Civil Code, you have the right to request that companies who conduct business in California provide you with a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes.
+From time-to-time, we may use the information you provide to us to display advertisements to you that are tailored to your personal characteristics, interests, and activities.
 
-Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (often referred to as “unsubscribe”) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, that the company may instead provide you with information on how to exercise your disclosure choice options.
+**Disclosure Of Your Information**
 
-This Site qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
+As a general rule, we do not sell, rent, lease or otherwise transfer any information collected whether automatically or through your voluntary action.
 
-If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Please send an email to the Privacy Administrator at support@rayedwards.com, or you may contact us via regular mail at:
+We may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.
 
-Ray Edwards International, Inc.  
-Attention Ray Edwards  
-2910 E 57th Ave.  
+We may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of service or any other agreement between you and the Company.
+
+We may provide your information to any successor in interest in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s assets and/or business.
+
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights or when compelled by a court or other governmental entity to do so.
+
+**How Do We Protect Your Information and Secure Information Transmissions?**
+
+We employ commercially reasonable methods to ensure the security of the information you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information and other sensitive information is never transmitted via email.
+
+The Company may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, the Company uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+**Policy Changes**
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+**Visitors’ GDPR Rights**
+
+If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
+
+We will retain the any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
+
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
+
+You have the right to seek restrictions on the processing of your data.
+
+You have the right to object to the processing of your data and the right to the portability of your data.
+
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
+
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
+
+**Contact Us** ** **
+
+The Company welcomes your questions or comments regarding the Privacy Policy:
+
+Ray Edwards International, Inc  
+2910 E 57th Ave  
 Ste 5 PMB #330  
 Spokane, WA 99223
 
-All requests sent via regular mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. Please include your zip code for our own recordkeeping.
+Email Address: support@rayedwards.com
 
-We do not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
-
-© Ray Edwards International, Inc. 2006-2017
+Effective as of May 26, 2018
