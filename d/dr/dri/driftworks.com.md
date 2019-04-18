@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driftworks.com privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208063229id_/http%3A//www.driftworks.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driftworks.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418041432id_/https%3A//www.driftworks.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
@@ -62,7 +62,7 @@ To make full use of the online shopping and personalised features your computer,
 
 If you'd prefer to restrict, block or delete cookies from Driftworks, or any other website, you can use your browser to do this.
 
-For more info on cookies (including advice on removing them) see [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+For more info on cookies (including advice on removing them) see [www.allaboutcookies.org](https://www.allaboutcookies.org/)
 
 By using the Driftworks website you are consenting to the use of cookies as outlined in this privacy policy.
 
@@ -78,7 +78,7 @@ We use a number of suppliers who may also set cookies on their websites' on its 
 
 we've listed each of them below with more details about why we use them and how long they will last.
 
-If you require a full list of our first party cookies please [contact us](http://www.driftworks.com/contact-driftworks/ "Contact Us").
+If you require a full list of our first party cookies please [contact us](https://www.driftworks.com/contact-driftworks/ "Contact Us").
 
 **Changes to this privacy policy**
 
@@ -86,4 +86,4 @@ If this privacy policy changes in any way, we will place an updated version on t
 
 **Complaints**
 
-If you feel that Driftworks is not abiding by its posted Privacy/Cookie policy, please [contact us](http://www.driftworks.com/contact-driftworks/ "Contact Us") to discuss.
+If you feel that Driftworks is not abiding by its posted Privacy/Cookie policy, please [contact us](https://www.driftworks.com/contact-driftworks/ "Contact Us") to discuss.
