@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanstory.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414133050id_/http%3A//www.fanstory.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanstory.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419110935id_/https%3A//www.fanstory.com/privacy.jsp) for the most accurate reproduction.*
 
 # 
 
@@ -56,6 +56,18 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
+### Phishing or False emails
+
+If you receive an unsolicited email that appears to be from us or one of our Members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link. Please contact us if you get an email like this. 
+
+### How do I correct or update my information?
+
+You can see personal information processed by us. The best way of seeing this is to login to your account. You can see your basic details and correct or update them from your profile. 
+
+### Children’s Issues
+
+We will not knowingly collect any information from individuals under the age of 13. If you are under the minimum age required for use of the Services, do not use or provide any information on the Services or on or through any of its features, register on the Services, make any purchases through the Services, use any of the interactive or public comment features of the Services or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. Should we determine that you do not meet the age requirements for using our Services, your registration will be terminated immediately. If we learn we have collected or received personal information from a user under the required minimum age, we will delete that information. 
+
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20180414133050id_/http%3A//www.fanstory.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20190419110935id_/https%3A//www.fanstory.com/formcontactfanstory.jsp). 
