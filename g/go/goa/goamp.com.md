@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goamp.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210132601id_/https%3A//www.goamp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goamp.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419150451id_/http%3A//www.goamp.com/privacy) for the most accurate reproduction.*
 
 # Privacy - AMP
 
