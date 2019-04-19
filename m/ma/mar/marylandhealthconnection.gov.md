@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marylandhealthconnection.gov privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215074405id_/https%3A//www.marylandhealthconnection.gov/policies-accessibility) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marylandhealthconnection.gov privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419143032id_/https%3A//www.marylandhealthconnection.gov/policies-accessibility) for the most accurate reproduction.*
 
 # Privacy Notice, Policies and Accessibility - Maryland Health Connection
 
