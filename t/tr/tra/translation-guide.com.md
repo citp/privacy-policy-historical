@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translation-guide.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928144331id_/http%3A//www.translation-guide.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translation-guide.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419170357id_/http%3A//www.translation-guide.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Translation-Guide.com
 
