@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diaroapp.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208002914id_/http%3A//www.diaroapp.com/en/help-support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaroapp.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419104134id_/https%3A//www.diaroapp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Diaro - Diary, Journal, Notes
 
 _Date of last revision: December 7 2012_
 
@@ -10,16 +10,16 @@ Note:  This policy does not apply to the third-party websites, which you reach 
 
 ## 1\. WHAT ARE THE PERMISSIONS REQUIRED FOR THE ANDROID MOBILE APPLICATION?
 
-Permissions required by Android app are described here <http://www.diaroapp.com/en/help-support/required-permissions>.
+Permissions required by Android app are described here <https://diaroapp.com/faq/what-permissions-does-the-android-diaro-app-require>
 
 ## 2\. WHAT TYPES OF INFORMATION WE COLLECT?
 
-  * Information we collect automatically, which you provide or sent to us by your computer, when you use our Service. The information sent to us includes data on the pages you access, your computer IP address, e-mail, device identifiers, the type of operating system you’re using, your location, mobile network information, standard web log data,  the referring URL, browser type, information about your usage of the Website and whether links to external websites are followed, and whether advertisements provided to you are clicked ("Personal Information").
-  * Daily notes, tags, categories and attached photos is considered as Private User Submitted Content ("Private Content"). Private Content in our mobile applications are stored on a device memory in database and collection of files. All your Private Content accessible on our Website is stored on your Dropbox account in collection of files.
-  * When you send an email or other communications to Pixel Crater support, we may retain those communications, including your name, email address, your device characteristics and any information contained therein to process your inquiries, respond to requests and improve our Service.
+  * Information we collect automatically, which you provide or sent to us by your computer, when you use our Service. The information sent to us includes data on the pages you access, your computer IP address, e-mail, device identifiers, the type of operating system you're using, your location, mobile network information, standard web log data,  the referring URL, browser type, information about your usage of the Website and whether links to external websites are followed, and whether advertisements provided to you are clicked ("Personal Information"). 
+  * Daily notes, tags, categories and attached photos is considered as Private User Submitted Content ("Private Content"). Private Content in our mobile applications are stored on a device memory in database and collection of files. All your Private Content accessible on our Website is stored on your Dropbox account in collection of files. 
+  * When you send an email or other communications to Pixel Crater support, we may retain those communications, including your name, email address, your device characteristics and any information contained therein to process your inquiries, respond to requests and improve our Service. 
 
 
-  * We use cookies in Website, which are small data files that we send to your browser for storage on your computer's hard drive, to identify you as a user, store your preferences, track activity at our Website and better serve your needs and interests. Cookies can be deleted or blocked by changing the settings on your Web browser.
+  * We use cookies in Website, which are small data files that we send to your browser for storage on your computer's hard drive, to identify you as a user, store your preferences, track activity at our Website and better serve your needs and interests. Cookies can be deleted or blocked by changing the settings on your Web browser. 
 
 
 
