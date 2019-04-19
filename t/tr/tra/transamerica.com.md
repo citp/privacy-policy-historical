@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815184343id_/https%3A//www.transamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419220246id_/https%3A//www.transamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### 
 
-**Effective Date:**  September 20, 2016
+**Effective Date:**  September 20, 2016 
 
 This Online Privacy Statement (Statement) applies to this website or mobile application and the websites or mobile applications of Transamerica Corporation, and any of its U.S. subsidiaries and affiliates (collectively “we”, “us” or “our”) that link to this Statement (each a Site and collectively, the Sites). This Statement describes how Sites may collect, use and share information about you.
 
@@ -24,7 +24,7 @@ Your Choices| How to Contact Us
 
  **Information We Collect Online**
 
- **Information You Provide.** We collect information that you provide to us at the Sites, through applications, online forms and calculators, surveys and other communications. For example, we collect your information at the Sites when you:
+ **Information You Provide.** We collect information that you provide to us at the Sites, through applications, online forms and calculators, surveys and other communications. For example, we collect your information at the Sites when you: 
 
   * make information available to us via social networking logins, such as Facebook or Twitter;
   * participate in chats, web forums or other interactive sessions;
@@ -42,7 +42,7 @@ Your Choices| How to Contact Us
 
 This information may include name, address, telephone number, email address, date of birth, policy, contract or account numbers and, where reasonably required to complete the request or transaction, banking information, credit card number, Social Security number, driver’s license numbers and other information.
 
- **Usage Metrics.** Information regarding your use of this Site may be collected and/or aggregated through the use of automated means. This information may include:
+ **Usage Metrics.** Information regarding your use of this Site may be collected and/or aggregated through the use of automated means. This information may include: 
 
   * your IP address, and the type of browser and operating system used;
   * date and time you access the Site and the pages you visit, and, if you linked from or to another website, the address of that website;
@@ -52,22 +52,22 @@ This information may include name, address, telephone number, email address, dat
 
 
 
- **Data Technologies.** Various technologies may be used to automatically collect information on the Site, such as cookies, web beacons and local shared objects. “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, connects web pages to web servers and their cookies. “Local shared objects,” sometimes known as Flash cookies, may be used to personalize your visit by storing your preferences or displaying content based upon what you have viewed on various websites. Anonymous advertising identifiers may be used on mobile devices and otherwise in a manner similar to cookies. We refer to these types of technologies generally as “Data Technologies,” which include today’s technologies and similar types of technologies as they evolve over time.
+ **Data Technologies.** Various technologies may be used to automatically collect information on the Site, such as cookies, web beacons and local shared objects. “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, connects web pages to web servers and their cookies. “Local shared objects,” sometimes known as Flash cookies, may be used to personalize your visit by storing your preferences or displaying content based upon what you have viewed on various websites. Anonymous advertising identifiers may be used on mobile devices and otherwise in a manner similar to cookies. We refer to these types of technologies generally as “Data Technologies,” which include today’s technologies and similar types of technologies as they evolve over time. 
 
 One or more Data Technologies may be used by us on this Site and other websites and mobile applications (including websites that may not be operated by Transamerica). Third parties, who may have their own privacy policies, may also use Data Technologies to collect information on this or other websites.
 
 When you download or use apps or mobile-optimized websites to access our site or online services (“Mobile Sites”), we may receive information about your location and your mobile device, including a unique identifier for your device, device settings, analytical information about how you use your mobile device, and other information that may be stored on or accessed through your mobile device, including from apps not operated by Transamerica or from other devices connected to your mobile device. This information helps us provide you with location-based services, advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services by accessing the device’s settings menu.
 
- **Publicly Posted Information.** Information that you make available to us and others via social media networks, forums, blogs, listserves, chat rooms or similar functionality is information that we or others may share or use in accordance with the law.
+ **Publicly Posted Information.** Information that you make available to us and others via social media networks, forums, blogs, listserves, chat rooms or similar functionality is information that we or others may share or use in accordance with the law. 
 
- **Information from Other Sources.** We may also collect information about you from third party sources, including from commercially available third-party sources, such as credit reporting agencies or other companies that collect or analyze information about consumers or users. Examples of information we receive from other sources includes credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
+**Information from Other Sources.** We may also collect information about you from third party sources, including from commercially available third-party sources, such as credit reporting agencies or other companies that collect or analyze information about consumers or users. Examples of information we receive from other sources includes credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
 
- **Combined Information.** We may combine the information you provide us with the other information that we collect about you.
+**Combined Information.** We may combine the information you provide us with the other information that we collect about you. 
 
   
 
 
- **How We May Use the Information We Collect**
+**How We May Use the Information We Collect**
 
  **We may use information we collect for a variety of purposes, including the following:**
 
@@ -91,3 +91,5 @@ When you download or use apps or mobile-optimized websites to access our site or
 We may also use data that we collect on an aggregate or anonymous basis (such that it does not identify any individual visitor) for various business purposes, where permissible under applicable laws and regulations.
 
 #### 
+
+Privacy Policy PDF
